@@ -1,58 +1,96 @@
 import os, re, json
 import pandas as pd
 import streamlit as st
+# Font + base styles
+st.markdown(
+    '<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">',
+    unsafe_allow_html=True,
+)
 
-# Custom CSS for design
 st.markdown("""
-    <style>
-        /* Font */
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
-        html, body, [class*="css"] {
-            font-family: 'Poppins', sans-serif;
-        }
+<style>
+:root{
+  --primary:#5C7FA3;   /* muted denim */
+  --secondary:#92B7A5; /* soft sage */
+  --accent:#F5D38C;    /* warm sand */
+  --bg:#FAF8F6;        /* paper */
+  --bg2:#F3EFEA;       /* card */
+  --ink:#3A3A3A;       /* text */
+}
 
-        /* Search bar styling */
-        input[type="text"] {
-            border-radius: 8px;
-            padding: 8px 12px;
-            border: 1px solid #ccc;
-        }
+/* page */
+html, body, .stApp{ background:var(--bg); color:var(--ink); font-family:"Poppins", system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+.block-container{ max-width:1100px; padding-top:2.2rem; }
 
-        /* Primary button */
-        .stButton>button {
-            background-color: #5C7FA3;
-            color: white;
-            border-radius: 8px;
-            padding: 8px 16px;
-            border: none;
-            font-weight: 600;
-        }
-        .stButton>button:hover {
-            background-color: #4e6d8c;
-        }
+/* header card */
+.k-hero{
+  background:var(--bg2);
+  border:1px solid rgba(0,0,0,.06);
+  border-radius:18px;
+  padding:1.25rem 1.25rem 1rem;
+  margin-bottom:1rem;
+}
+.k-hero h1{ margin:0 0 .25rem 0; letter-spacing:.3px; }
+.k-hero p{ margin:.25rem 0 0 0; color:#5a5a5a; }
 
-        /* Secondary button */
-        .secondary-button {
-            background-color: transparent;
-            color: #5C7FA3;
-            border: 2px solid #5C7FA3;
-            border-radius: 8px;
-            padding: 8px 16px;
-            font-weight: 600;
-        }
+/* search bar */
+.stTextInput>div>div{
+  background:var(--bg2) !important;
+  border:1px solid rgba(0,0,0,.08) !important;
+  border-radius:16px !important;
+  padding:.1rem .6rem !important;
+}
+.stTextInput input{ font-size:1rem; }
 
-        /* Tag style */
-        .tag {
-            background-color: #FFEBB2;
-            color: #3A3A3A;
-            padding: 4px 10px;
-            border-radius: 16px;
-            display: inline-block;
-            margin: 4px;
-            font-size: 14px;
-        }
-    </style>
+/* primary button */
+.stButton>button{
+  background:var(--primary);
+  color:#fff;
+  border:0;
+  border-radius:14px;
+  padding:.7rem 1.15rem;
+  font-weight:600;
+  box-shadow:0 1px 0 rgba(0,0,0,.06);
+}
+.stButton>button:hover{ filter:brightness(.93); }
+
+/* secondary button helper class */
+button.k-btn-secondary{
+  background:transparent; color:var(--primary); border:1.5px solid var(--secondary);
+  border-radius:14px; padding:.6rem 1.1rem; font-weight:600;
+}
+button.k-btn-secondary:hover{ background:rgba(146,183,165,.12); }
+
+/* multiselect chips */
+.stMultiSelect [data-baseweb="tag"]{
+  background: var(--accent) !important;
+  color:#434343 !important;
+  border-radius:999px !important;
+  border:0 !important;
+  box-shadow:none !important;
+}
+.stMultiSelect [data-baseweb="tag"] svg{ opacity:.65; }
+
+/* section titles */
+.k-section-title{
+  font-weight:600; font-size:1.05rem; margin:.75rem 0 .35rem 2px;
+}
+
+/* info and success banners softened */
+.stAlert{ border-radius:14px; }
+
+/* table */
+[data-testid="stDataFrame"]{ border-radius:14px; overflow:hidden; }
+</style>
 """, unsafe_allow_html=True)
+
+# Optional: tidy header layout
+st.markdown('<div class="k-hero"><h1>Phrase Finder 🔍</h1><p>Find words and phrases in real video subtitles. Click the link to jump right to them.</p></div>', unsafe_allow_html=True)
+st.markdown('<div class="k-section-title">Choose transcript folders</div>', unsafe_allow_html=True)
+# your multiselect follows here
+
+st.markdown('<div class="k-section-title">Search a word or phrase</div>', unsafe_allow_html=True)
+# your text_input follows here
 
 # ---------------------------
 # Config
