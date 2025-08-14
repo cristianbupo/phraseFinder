@@ -1,0 +1,417 @@
+[
+  {
+    "text": "How does your smartphone\nknow exactly where you are?",
+    "start": 6.76,
+    "duration": 3.693
+  },
+  {
+    "text": "The answer lies 12,000 miles \nover your head",
+    "start": 10.453,
+    "duration": 3.303
+  },
+  {
+    "text": "in an orbiting satellite that keeps time\nto the beat of an atomic clock",
+    "start": 13.756,
+    "duration": 4.473
+  },
+  {
+    "text": "powered by quantum mechanics.",
+    "start": 18.229,
+    "duration": 3.177
+  },
+  {
+    "text": "Phew.",
+    "start": 21.406,
+    "duration": 1.03
+  },
+  {
+    "text": "Let's break that down.",
+    "start": 22.436,
+    "duration": 1.989
+  },
+  {
+    "text": "First of all, why is it so important \nto know what time it is on a satellite",
+    "start": 24.425,
+    "duration": 4.696
+  },
+  {
+    "text": "when location is what\nwe're concerned about?",
+    "start": 29.121,
+    "duration": 3.028
+  },
+  {
+    "text": "The first thing \nyour phone needs to determine",
+    "start": 32.149,
+    "duration": 2.21
+  },
+  {
+    "text": "is how far it is from a satellite.",
+    "start": 34.359,
+    "duration": 3.337
+  },
+  {
+    "text": "Each satellite constantly \nbroadcasts radio signals",
+    "start": 37.696,
+    "duration": 3.187
+  },
+  {
+    "text": "that travel from space to your phone\nat the speed of light.",
+    "start": 40.883,
+    "duration": 4.879
+  },
+  {
+    "text": "Your phone records \nthe signal arrival time",
+    "start": 45.762,
+    "duration": 2.8
+  },
+  {
+    "text": "and uses it to calculate \nthe distance to the satellite",
+    "start": 48.562,
+    "duration": 3.191
+  },
+  {
+    "text": "using the simple formula,\ndistance = c x time,",
+    "start": 51.753,
+    "duration": 5.964
+  },
+  {
+    "text": "where c is the speed of light\nand time is how long the signal traveled.",
+    "start": 57.717,
+    "duration": 5.368
+  },
+  {
+    "text": "But there's a problem.",
+    "start": 63.085,
+    "duration": 1.251
+  },
+  {
+    "text": "Light is incredibly fast.",
+    "start": 64.336,
+    "duration": 1.902
+  },
+  {
+    "text": "If we were only able to calculate \ntime to the nearest second,",
+    "start": 66.238,
+    "duration": 3.402
+  },
+  {
+    "text": "every location on Earth, and far beyond,",
+    "start": 69.64,
+    "duration": 3.31
+  },
+  {
+    "text": "would seem to be the same \ndistance from the satellite.",
+    "start": 72.95,
+    "duration": 3.152
+  },
+  {
+    "text": "So in order to calculate that distance\nto within a few dozen feet,",
+    "start": 76.102,
+    "duration": 4.273
+  },
+  {
+    "text": "we need the best clock ever invented.",
+    "start": 80.375,
+    "duration": 3.793
+  },
+  {
+    "text": "Enter atomic clocks,\nsome of which are so precise",
+    "start": 84.168,
+    "duration": 3.529
+  },
+  {
+    "text": "that they would not gain or lose a second",
+    "start": 87.697,
+    "duration": 2.866
+  },
+  {
+    "text": "even if they ran \nfor the next 300 million years.",
+    "start": 90.563,
+    "duration": 5.04
+  },
+  {
+    "text": "Atomic clocks work \nbecause of quantum physics.",
+    "start": 95.603,
+    "duration": 3.244
+  },
+  {
+    "text": "All clocks must have a constant frequency.",
+    "start": 98.847,
+    "duration": 2.961
+  },
+  {
+    "text": "In other words, a clock must carry out\nsome repetitive action",
+    "start": 101.808,
+    "duration": 3.563
+  },
+  {
+    "text": "to mark off equivalent increments of time.",
+    "start": 105.371,
+    "duration": 4.014
+  },
+  {
+    "text": "Just as a grandfather clock \nrelies on the constant swinging",
+    "start": 109.385,
+    "duration": 3.346
+  },
+  {
+    "text": "back and forth of a pendulum \nunder gravity,",
+    "start": 112.731,
+    "duration": 3.116
+  },
+  {
+    "text": "the tick tock of an atomic clock",
+    "start": 115.847,
+    "duration": 2.092
+  },
+  {
+    "text": "is maintained by the transition \nbetween two energy levels of an atom.",
+    "start": 117.939,
+    "duration": 5.102
+  },
+  {
+    "text": "This is where quantum physics \ncomes into play.",
+    "start": 123.041,
+    "duration": 3.028
+  },
+  {
+    "text": "Quantum mechanics \nsays that atoms carry energy,",
+    "start": 126.069,
+    "duration": 3.242
+  },
+  {
+    "text": "but they can't take on \njust any arbitrary amount.",
+    "start": 129.311,
+    "duration": 3.857
+  },
+  {
+    "text": "Instead, atomic energy \nis constrained to a precise set of levels.",
+    "start": 133.168,
+    "duration": 5.047
+  },
+  {
+    "text": "We call these quanta.",
+    "start": 138.215,
+    "duration": 2.085
+  },
+  {
+    "text": "As a simple analogy, \nthink about driving a car onto a freeway.",
+    "start": 140.3,
+    "duration": 4.102
+  },
+  {
+    "text": "As you increase your speed,",
+    "start": 144.402,
+    "duration": 1.328
+  },
+  {
+    "text": "you would normally continuously go \nfrom, say, 20 miles/hour up to 70 miles/hour.",
+    "start": 145.73,
+    "duration": 6.492
+  },
+  {
+    "text": "Now, if you had a quantum atomic car,",
+    "start": 152.222,
+    "duration": 2.57
+  },
+  {
+    "text": "you wouldn't accelerate \nin a linear fashion.",
+    "start": 154.792,
+    "duration": 2.986
+  },
+  {
+    "text": "Instead, you would instantaneously jump,\nor transition, from one speed to the next.",
+    "start": 157.778,
+    "duration": 6.717
+  },
+  {
+    "text": "For an atom, when a transition \noccurs from one energy level to another,",
+    "start": 164.495,
+    "duration": 4.273
+  },
+  {
+    "text": "quantum mechanics says",
+    "start": 168.768,
+    "duration": 1.415
+  },
+  {
+    "text": "that the energy difference \nis equal to a characteristic frequency,",
+    "start": 170.183,
+    "duration": 4.439
+  },
+  {
+    "text": "multiplied by a constant,",
+    "start": 174.622,
+    "duration": 2.577
+  },
+  {
+    "text": "where the change in energy is equal to \na number, called Planck's constant,",
+    "start": 177.199,
+    "duration": 5.616
+  },
+  {
+    "text": "times the frequency.",
+    "start": 182.815,
+    "duration": 2.277
+  },
+  {
+    "text": "That characteristic frequency \nis what we need to make our clock.",
+    "start": 185.092,
+    "duration": 5.205
+  },
+  {
+    "text": "GPS satellites rely on cesium and rubidium\natoms as frequency standards.",
+    "start": 190.297,
+    "duration": 6.014
+  },
+  {
+    "text": "In the case of cesium 133,",
+    "start": 196.311,
+    "duration": 2.34
+  },
+  {
+    "text": "the characteristic clock frequency\nis 9,192,631,770 Hz.",
+    "start": 198.651,
+    "duration": 10.195
+  },
+  {
+    "text": "That's 9 billion cycles per second.",
+    "start": 208.846,
+    "duration": 2.79
+  },
+  {
+    "text": "That's a really fast clock.",
+    "start": 211.636,
+    "duration": 1.989
+  },
+  {
+    "text": "No matter how skilled a clockmaker may be,",
+    "start": 213.625,
+    "duration": 2.38
+  },
+  {
+    "text": "every pendulum, wind-up mechanism",
+    "start": 216.005,
+    "duration": 2.155
+  },
+  {
+    "text": "and quartz crystal resonates \nat a slightly different frequency.",
+    "start": 218.16,
+    "duration": 4.6
+  },
+  {
+    "text": "However, every cesium 133 atom \nin the universe",
+    "start": 222.76,
+    "duration": 4.209
+  },
+  {
+    "text": "oscillates at the same exact frequency.",
+    "start": 226.969,
+    "duration": 3.849
+  },
+  {
+    "text": "So thanks to the atomic clock,",
+    "start": 230.818,
+    "duration": 2.443
+  },
+  {
+    "text": "we get a time reading accurate\nto within 1 billionth of a second,",
+    "start": 233.261,
+    "duration": 4.018
+  },
+  {
+    "text": "and a very precise measurement\nof the distance from that satellite.",
+    "start": 237.279,
+    "duration": 5.015
+  },
+  {
+    "text": "Let's ignore the fact that you're almost\ndefinitely on Earth.",
+    "start": 242.294,
+    "duration": 4.527
+  },
+  {
+    "text": "We now know that you're at a fixed \ndistance from the satellite.",
+    "start": 246.821,
+    "duration": 3.506
+  },
+  {
+    "text": "In other words, you're somewhere \non the surface of a sphere",
+    "start": 250.327,
+    "duration": 2.86
+  },
+  {
+    "text": "centered around the satellite.",
+    "start": 253.187,
+    "duration": 2.763
+  },
+  {
+    "text": "Measure your distance \nfrom a second satellite",
+    "start": 255.95,
+    "duration": 2.187
+  },
+  {
+    "text": "and you get another overlapping sphere.",
+    "start": 258.137,
+    "duration": 3.081
+  },
+  {
+    "text": "Keep doing that,",
+    "start": 261.218,
+    "duration": 0.968
+  },
+  {
+    "text": "and with just four measurements,",
+    "start": 262.186,
+    "duration": 1.607
+  },
+  {
+    "text": "and a little correction \nusing Einstein's theory of relativity,",
+    "start": 263.793,
+    "duration": 3.476
+  },
+  {
+    "text": "you can pinpoint your location to exactly\none point in space.",
+    "start": 267.269,
+    "duration": 6.268
+  },
+  {
+    "text": "So that's all it takes:",
+    "start": 273.537,
+    "duration": 1.433
+  },
+  {
+    "text": "a multibillion-dollar \nnetwork of satellites,",
+    "start": 274.97,
+    "duration": 2.8
+  },
+  {
+    "text": "oscillating cesium atoms,",
+    "start": 277.77,
+    "duration": 2.047
+  },
+  {
+    "text": "quantum mechanics,",
+    "start": 279.817,
+    "duration": 1.415
+  },
+  {
+    "text": "relativity,",
+    "start": 281.232,
+    "duration": 1.095
+  },
+  {
+    "text": "a smartphone,",
+    "start": 282.327,
+    "duration": 1.157
+  },
+  {
+    "text": "and you.",
+    "start": 283.484,
+    "duration": 2.243
+  },
+  {
+    "text": "No problem.",
+    "start": 285.727,
+    "duration": 1.382
+  }
+]

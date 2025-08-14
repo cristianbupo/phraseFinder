@@ -1,0 +1,342 @@
+[
+  {
+    "text": "After many adventures in Wonderland,",
+    "start": 7.765,
+    "duration": 2.25
+  },
+  {
+    "text": "Alice has once again found \nherself in the court",
+    "start": 10.015,
+    "duration": 2.7
+  },
+  {
+    "text": "of the temperamental\nQueen of Hearts.",
+    "start": 12.715,
+    "duration": 2.476
+  },
+  {
+    "text": "She’s about to pass through the garden\nundetected,",
+    "start": 15.191,
+    "duration": 3.05
+  },
+  {
+    "text": "when she overhears the king\nand queen arguing.",
+    "start": 18.241,
+    "duration": 3.47
+  },
+  {
+    "text": "“It’s quite simple,” says the queen.\n“64 is the same as 65, and that’s that.”",
+    "start": 21.711,
+    "duration": 5.84
+  },
+  {
+    "text": "Without thinking, Alice interjects. \n“Nonsense,” she says.",
+    "start": 27.551,
+    "duration": 4.301
+  },
+  {
+    "text": "“If 64 were the same as 65, \nthen it would be 65 and not 64 at all.”",
+    "start": 31.852,
+    "duration": 6.787
+  },
+  {
+    "text": "“What? How dare you!” the queen huffs.",
+    "start": 38.639,
+    "duration": 2.82
+  },
+  {
+    "text": "“I’ll prove it right now, \nand then it’s off with your head!”",
+    "start": 41.459,
+    "duration": 2.99
+  },
+  {
+    "text": "Before she can protest,",
+    "start": 44.449,
+    "duration": 1.57
+  },
+  {
+    "text": "Alice is dragged toward a field \nwith two chessboard patterns—",
+    "start": 46.019,
+    "duration": 4.877
+  },
+  {
+    "text": "an 8 by 8 square and a 5 by 13 rectangle.",
+    "start": 50.896,
+    "duration": 4.329
+  },
+  {
+    "text": "As the queen claps her hands, \nfour odd-looking soldiers approach",
+    "start": 55.225,
+    "duration": 4.779
+  },
+  {
+    "text": "and lie down next to each other,\ncovering the first chessboard.",
+    "start": 60.004,
+    "duration": 3.93
+  },
+  {
+    "text": "Alice sees that two of them are trapezoids\nwith non-diagonal sides measuring 5x5x3,",
+    "start": 63.934,
+    "duration": 7.854
+  },
+  {
+    "text": "while the other two are long triangles\nwith non-diagonal sides measuring 8x3.",
+    "start": 71.788,
+    "duration": 6.836
+  },
+  {
+    "text": "“See, this is 64.”",
+    "start": 78.624,
+    "duration": 2.0
+  },
+  {
+    "text": "The queen claps her hands again.",
+    "start": 80.624,
+    "duration": 2.32
+  },
+  {
+    "text": "The card soldiers get up, \nrearrange themselves,",
+    "start": 82.944,
+    "duration": 2.96
+  },
+  {
+    "text": "and lie down atop the second chessboard.",
+    "start": 85.904,
+    "duration": 3.2
+  },
+  {
+    "text": "“And that is 65.\"",
+    "start": 89.104,
+    "duration": 2.62
+  },
+  {
+    "text": "Alice gasps. She’s certain the soldiers\ndidn’t change size or shape",
+    "start": 91.724,
+    "duration": 4.47
+  },
+  {
+    "text": "moving from one board to the other.",
+    "start": 96.194,
+    "duration": 2.22
+  },
+  {
+    "text": "But it’s a mathematical certainty \nthat the queen must be cheating somehow.",
+    "start": 98.414,
+    "duration": 4.53
+  },
+  {
+    "text": "Can Alice wrap her head around what’s\nwrong— before she loses it?",
+    "start": 102.944,
+    "duration": 4.05
+  },
+  {
+    "text": "Pause the video to figure it out yourself.\nAnswer in 3.",
+    "start": 106.994,
+    "duration": 2.57
+  },
+  {
+    "text": "Answer in 2",
+    "start": 109.564,
+    "duration": 2.27
+  },
+  {
+    "text": "Answer in 1",
+    "start": 111.834,
+    "duration": 2.456
+  },
+  {
+    "text": "Just as things aren’t looking too good \nfor Alice, she remembers her geometry,",
+    "start": 114.29,
+    "duration": 5.139
+  },
+  {
+    "text": "and looks again at the trapezoid \nand triangle soldier",
+    "start": 119.429,
+    "duration": 3.581
+  },
+  {
+    "text": "lying next to each other.",
+    "start": 123.01,
+    "duration": 1.74
+  },
+  {
+    "text": "They look like they cover exactly half\nof the rectangle,",
+    "start": 124.75,
+    "duration": 3.6
+  },
+  {
+    "text": "their edges forming one long line \nrunning from corner to corner.",
+    "start": 128.35,
+    "duration": 4.378
+  },
+  {
+    "text": "If that’s true, then the slopes \nof their diagonal sides",
+    "start": 132.728,
+    "duration": 3.444
+  },
+  {
+    "text": "should be the same.",
+    "start": 136.172,
+    "duration": 1.3
+  },
+  {
+    "text": "But when she calculates these slopes",
+    "start": 137.472,
+    "duration": 2.24
+  },
+  {
+    "text": "using the tried and true formula\n\"rise over run,\"",
+    "start": 139.712,
+    "duration": 3.46
+  },
+  {
+    "text": "a most curious thing happens.",
+    "start": 143.172,
+    "duration": 2.86
+  },
+  {
+    "text": "The trapezoid soldier’s diagonal side\ngoes up 2 and over 5,",
+    "start": 146.032,
+    "duration": 4.611
+  },
+  {
+    "text": "giving it a slope of two fifths, or 0.4.",
+    "start": 150.643,
+    "duration": 4.216
+  },
+  {
+    "text": "The triangle soldier’s diagonal, however,\ngoes up 3 and over 8,",
+    "start": 154.859,
+    "duration": 5.248
+  },
+  {
+    "text": "making its slope three eights, or 0.375.",
+    "start": 160.107,
+    "duration": 5.14
+  },
+  {
+    "text": "They’re not the same at all!",
+    "start": 165.247,
+    "duration": 2.14
+  },
+  {
+    "text": "Before the queen’s guards can stop her,",
+    "start": 167.387,
+    "duration": 2.22
+  },
+  {
+    "text": "Alice drinks a bit of her shrinking potion\nto go in for a closer look.",
+    "start": 169.607,
+    "duration": 4.558
+  },
+  {
+    "text": "Sure enough, there’s a miniscule gap\nbetween the triangles and trapezoids,",
+    "start": 174.165,
+    "duration": 4.673
+  },
+  {
+    "text": "forming a parallelogram that stretches\nthe entire length of the board",
+    "start": 178.838,
+    "duration": 4.65
+  },
+  {
+    "text": "and accounts for the missing square.",
+    "start": 183.488,
+    "duration": 2.85
+  },
+  {
+    "text": "There’s something even more curious\nabout these numbers:",
+    "start": 186.338,
+    "duration": 3.72
+  },
+  {
+    "text": "they’re all part of the Fibonacci series,",
+    "start": 190.058,
+    "duration": 2.94
+  },
+  {
+    "text": "where each number is the sum \nof the two preceding ones.",
+    "start": 192.998,
+    "duration": 4.42
+  },
+  {
+    "text": "Fibonacci numbers have two properties\nthat factor in here:",
+    "start": 197.418,
+    "duration": 3.75
+  },
+  {
+    "text": "first, squaring a Fibonacci number \ngives you a value",
+    "start": 201.168,
+    "duration": 3.89
+  },
+  {
+    "text": "that’s one more or one less",
+    "start": 205.058,
+    "duration": 2.36
+  },
+  {
+    "text": "than the product of the Fibonacci numbers\non either side of it.",
+    "start": 207.418,
+    "duration": 3.97
+  },
+  {
+    "text": "In other words, 8 squared is one less \nthan 5 times 13,",
+    "start": 211.388,
+    "duration": 4.475
+  },
+  {
+    "text": "while 5 squared is one more \nthan 3 times 8.",
+    "start": 215.863,
+    "duration": 4.348
+  },
+  {
+    "text": "And second, the ratio between successive\nFibonacci numbers is quite similar.",
+    "start": 220.211,
+    "duration": 6.167
+  },
+  {
+    "text": "So similar, in fact, that it eventually\nconverges on the golden ratio.",
+    "start": 226.378,
+    "duration": 5.366
+  },
+  {
+    "text": "That’s what allows devious royals\nto construct slopes",
+    "start": 231.744,
+    "duration": 3.9
+  },
+  {
+    "text": "that look deceptively similar.",
+    "start": 235.644,
+    "duration": 2.07
+  },
+  {
+    "text": "In fact, the Queen of Hearts could cobble\ntogether an analogous conundrum",
+    "start": 237.714,
+    "duration": 5.133
+  },
+  {
+    "text": "out of any four consecutive\nFibonacci numbers.",
+    "start": 242.847,
+    "duration": 3.5
+  },
+  {
+    "text": "The higher they go, the more it seems \nlike the impossible is true.",
+    "start": 246.347,
+    "duration": 4.423
+  },
+  {
+    "text": "But in the words of Lewis Carroll—\nauthor of Alice in Wonderland",
+    "start": 250.77,
+    "duration": 4.185
+  },
+  {
+    "text": "and an accomplished mathematician\nwho studied this very puzzle—",
+    "start": 254.955,
+    "duration": 4.363
+  },
+  {
+    "text": "one can’t believe impossible things.",
+    "start": 259.318,
+    "duration": 2.77
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "text": "- We all know that digital computers",
+    "start": 0.33,
+    "duration": 2.34
+  },
+  {
+    "text": "changed virtually every\naspect of our life.",
+    "start": 2.67,
+    "duration": 3.363
+  },
+  {
+    "text": "Well, the arrival of quantum computers",
+    "start": 7.2,
+    "duration": 2.16
+  },
+  {
+    "text": "could be even more historic than that.",
+    "start": 9.36,
+    "duration": 3.21
+  },
+  {
+    "text": "We're now in the initial\nstages of the next revolution.",
+    "start": 12.57,
+    "duration": 4.56
+  },
+  {
+    "text": "We're talking about a new\ngeneration of computers:",
+    "start": 17.13,
+    "duration": 3.21
+  },
+  {
+    "text": "the ultimate computer, a\ncomputer that computes on atoms,",
+    "start": 20.34,
+    "duration": 4.32
+  },
+  {
+    "text": "the ultimate constituents\nof matter itself.",
+    "start": 24.66,
+    "duration": 2.943
+  },
+  {
+    "text": "The question is: Who's\ninvolved in this race",
+    "start": 28.59,
+    "duration": 2.82
+  },
+  {
+    "text": "to perfect quantum computers?",
+    "start": 31.41,
+    "duration": 1.737
+  },
+  {
+    "text": "And the answer is: everyone.",
+    "start": 33.147,
+    "duration": 3.633
+  },
+  {
+    "text": "All the big players are part of this race",
+    "start": 36.78,
+    "duration": 3.0
+  },
+  {
+    "text": "because if they're not,",
+    "start": 39.78,
+    "duration": 1.08
+  },
+  {
+    "text": "Silicon Valley could\nbecome the next Rust Belt.",
+    "start": 40.86,
+    "duration": 4.353
+  },
+  {
+    "text": "Also, anyone who's interested in security",
+    "start": 46.5,
+    "duration": 4.02
+  },
+  {
+    "text": "is interested in quantum computers.",
+    "start": 50.52,
+    "duration": 2.46
+  },
+  {
+    "text": "They can crack almost any code",
+    "start": 52.98,
+    "duration": 3.36
+  },
+  {
+    "text": "that is based on digital technology.",
+    "start": 56.34,
+    "duration": 3.0
+  },
+  {
+    "text": "That's why the FBI, the CIA\nand all national governments",
+    "start": 59.34,
+    "duration": 5.0
+  },
+  {
+    "text": "are following this very closely.",
+    "start": 64.92,
+    "duration": 2.793
+  },
+  {
+    "text": "Quantum computers will change everything,",
+    "start": 69.21,
+    "duration": 3.78
+  },
+  {
+    "text": "the economy, how we solve problems,",
+    "start": 72.99,
+    "duration": 2.67
+  },
+  {
+    "text": "the way we interact with the Universe.",
+    "start": 75.66,
+    "duration": 1.95
+  },
+  {
+    "text": "You name it, quantum\ncomputers will be there.",
+    "start": 77.61,
+    "duration": 2.883
+  },
+  {
+    "text": "I'm Dr. Michio Kaku, professor\nof theoretical physics",
+    "start": 81.93,
+    "duration": 3.57
+  },
+  {
+    "text": "at the City University of New York,",
+    "start": 85.5,
+    "duration": 2.16
+  },
+  {
+    "text": "and author of \"Quantum Supremacy,\"",
+    "start": 87.66,
+    "duration": 2.76
+  },
+  {
+    "text": "about the rise of quantum computers.",
+    "start": 90.42,
+    "duration": 3.0
+  },
+  {
+    "text": "You see, computers have gone\nthrough three basic stages:",
+    "start": 98.34,
+    "duration": 4.23
+  },
+  {
+    "text": "Stage one was the analog computer.",
+    "start": 102.57,
+    "duration": 2.88
+  },
+  {
+    "text": "So, 2,000 years ago there was a shipwreck,",
+    "start": 105.45,
+    "duration": 3.54
+  },
+  {
+    "text": "and in the boat that sank was a device,",
+    "start": 108.99,
+    "duration": 3.87
+  },
+  {
+    "text": "and when you brushed\naway the dirt and debris,",
+    "start": 112.86,
+    "duration": 2.79
+  },
+  {
+    "text": "you began to realize\nthat it was a machine,",
+    "start": 115.65,
+    "duration": 3.66
+  },
+  {
+    "text": "a machine of incredible complexity.",
+    "start": 119.31,
+    "duration": 2.64
+  },
+  {
+    "text": "It was, in fact, the world's\nfirst analog computer,",
+    "start": 121.95,
+    "duration": 4.41
+  },
+  {
+    "text": "and it was designed to map the\nmotion of the Moon, the Sun",
+    "start": 126.36,
+    "duration": 5.0
+  },
+  {
+    "text": "and the planets to simulate the Universe.",
+    "start": 131.61,
+    "duration": 4.05
+  },
+  {
+    "text": "But as we primitive peoples\nbecame more prosperous,",
+    "start": 135.66,
+    "duration": 4.2
+  },
+  {
+    "text": "we had to count things-",
+    "start": 139.86,
+    "duration": 1.68
+  },
+  {
+    "text": "count how many cows you had,\ncount how much profit you made.",
+    "start": 141.54,
+    "duration": 3.933
+  },
+  {
+    "text": "Analog computers could be\nbased on sticks, bones,",
+    "start": 146.52,
+    "duration": 4.53
+  },
+  {
+    "text": "whatever it took to count.",
+    "start": 151.05,
+    "duration": 2.34
+  },
+  {
+    "text": "So, this went on for thousands of years",
+    "start": 153.39,
+    "duration": 2.88
+  },
+  {
+    "text": "until finally we reached\nthe work of Charles Babbage.",
+    "start": 156.27,
+    "duration": 3.45
+  },
+  {
+    "text": "He creates the ultimate analog computer",
+    "start": 159.72,
+    "duration": 3.81
+  },
+  {
+    "text": "with hundreds of gears\nand levers and pulleys.",
+    "start": 163.53,
+    "duration": 4.05
+  },
+  {
+    "text": "And by turning the crank,",
+    "start": 167.58,
+    "duration": 1.98
+  },
+  {
+    "text": "you could then calculate\nlongitude, latitude,",
+    "start": 169.56,
+    "duration": 2.7
+  },
+  {
+    "text": "you could calculate interest rates.",
+    "start": 172.26,
+    "duration": 2.1
+  },
+  {
+    "text": "It was very valuable to\nhave an instrument like that",
+    "start": 174.36,
+    "duration": 2.97
+  },
+  {
+    "text": "for the banking industry, for commerce.",
+    "start": 177.33,
+    "duration": 2.823
+  },
+  {
+    "text": "Then, World War II comes along.",
+    "start": 181.56,
+    "duration": 2.37
+  },
+  {
+    "text": "Babbage's machine is simply too primitive",
+    "start": 183.93,
+    "duration": 2.58
+  },
+  {
+    "text": "to break the German code,",
+    "start": 186.51,
+    "duration": 1.59
+  },
+  {
+    "text": "so the job was given to\nmathematicians like Alan Turing.",
+    "start": 188.1,
+    "duration": 4.203
+  },
+  {
+    "text": "Alan Turing was the one who codified",
+    "start": 193.5,
+    "duration": 2.7
+  },
+  {
+    "text": "a lot of the laws of computation",
+    "start": 196.2,
+    "duration": 2.55
+  },
+  {
+    "text": "into what is called",
+    "start": 198.75,
+    "duration": 1.717
+  },
+  {
+    "text": "and, of course, it's digital.",
+    "start": 201.45,
+    "duration": 2.46
+  },
+  {
+    "text": "Now, the digital revolution\nis based on transistors.",
+    "start": 203.91,
+    "duration": 3.9
+  },
+  {
+    "text": "It operates on zeros\nand ones, zeros and ones",
+    "start": 207.81,
+    "duration": 3.54
+  },
+  {
+    "text": "at the speed of electricity.",
+    "start": 211.35,
+    "duration": 2.61
+  },
+  {
+    "text": "Every digital computer\nis a Turing machine.",
+    "start": 213.96,
+    "duration": 3.183
+  },
+  {
+    "text": "The next step beyond digital\ncomputers is the quantum era.",
+    "start": 217.98,
+    "duration": 5.0
+  },
+  {
+    "text": "Richard Feynman was one of the founders",
+    "start": 223.38,
+    "duration": 1.762
+  },
+  {
+    "text": "of quantum electrodynamics,\nbut also a visionary.",
+    "start": 225.142,
+    "duration": 4.928
+  },
+  {
+    "text": "And he asked himself a simple question:",
+    "start": 230.07,
+    "duration": 2.16
+  },
+  {
+    "text": "How small can you make a transistor?",
+    "start": 232.23,
+    "duration": 3.42
+  },
+  {
+    "text": "And he realized that the\nultimate transistor is an atom,",
+    "start": 235.65,
+    "duration": 4.68
+  },
+  {
+    "text": "one atom that could control\nthe flow of electricity,",
+    "start": 240.33,
+    "duration": 4.2
+  },
+  {
+    "text": "not just on or off, but\neverything in-between.",
+    "start": 244.53,
+    "duration": 4.98
+  },
+  {
+    "text": "We have to go to quantum computers,",
+    "start": 249.51,
+    "duration": 3.06
+  },
+  {
+    "text": "computers that compute on atoms\nrather than on transistors.",
+    "start": 252.57,
+    "duration": 4.143
+  },
+  {
+    "text": "Transistors are based on\nzeros and one, zeros and one.",
+    "start": 259.5,
+    "duration": 4.14
+  },
+  {
+    "text": "Reality is not.",
+    "start": 263.64,
+    "duration": 2.49
+  },
+  {
+    "text": "Reality is based on\nelectrons and particles,",
+    "start": 266.13,
+    "duration": 3.78
+  },
+  {
+    "text": "and these particles in\nturn act like waves.",
+    "start": 269.91,
+    "duration": 3.0
+  },
+  {
+    "text": "So, you have to have a\nnew set of mathematics",
+    "start": 272.91,
+    "duration": 3.57
+  },
+  {
+    "text": "to discuss the waves\nthat make up a molecule,",
+    "start": 276.48,
+    "duration": 5.0
+  },
+  {
+    "text": "and that's where quantum\ncomputers come in.",
+    "start": 281.52,
+    "duration": 2.733
+  },
+  {
+    "text": "They're based on electrons,\nand these electrons,",
+    "start": 285.15,
+    "duration": 3.18
+  },
+  {
+    "text": "how come they have so\nmuch computational power?",
+    "start": 288.33,
+    "duration": 2.85
+  },
+  {
+    "text": "Because they could be in\ntwo places at the same time-",
+    "start": 291.18,
+    "duration": 3.42
+  },
+  {
+    "text": "that's what gives quantum\ncomputers their power.",
+    "start": 294.6,
+    "duration": 4.47
+  },
+  {
+    "text": "They compute on not just one universe",
+    "start": 299.07,
+    "duration": 3.39
+  },
+  {
+    "text": "but an infinite number\nof parallel universes.",
+    "start": 302.46,
+    "duration": 3.75
+  },
+  {
+    "text": "At the fundamental\nlevel, quantum mechanics",
+    "start": 310.667,
+    "duration": 3.013
+  },
+  {
+    "text": "can be reduced down to a\ncat, Schrodinger's cat.",
+    "start": 313.68,
+    "duration": 4.083
+  },
+  {
+    "text": "Let's take a box.",
+    "start": 319.11,
+    "duration": 1.86
+  },
+  {
+    "text": "In the box, you put a\ncat, and the question is:",
+    "start": 320.97,
+    "duration": 3.63
+  },
+  {
+    "text": "Is the cat dead or alive?",
+    "start": 324.6,
+    "duration": 2.79
+  },
+  {
+    "text": "Well, until you open\nthe box, you don't know.",
+    "start": 327.39,
+    "duration": 4.2
+  },
+  {
+    "text": "It is alive and dead simultaneously.",
+    "start": 331.59,
+    "duration": 4.23
+  },
+  {
+    "text": "It's in a superposition of two states.",
+    "start": 335.82,
+    "duration": 3.06
+  },
+  {
+    "text": "In other words, the\nuniverse has split in half.",
+    "start": 338.88,
+    "duration": 4.11
+  },
+  {
+    "text": "In one half, the cat is alive.",
+    "start": 342.99,
+    "duration": 2.01
+  },
+  {
+    "text": "In the other universe, the cat is dead.",
+    "start": 345.0,
+    "duration": 2.34
+  },
+  {
+    "text": "That's the basis of the quantum theory",
+    "start": 347.34,
+    "duration": 2.76
+  },
+  {
+    "text": "that until you make a measurement,",
+    "start": 350.1,
+    "duration": 2.64
+  },
+  {
+    "text": "the cat can exist in both\nstates simultaneously,",
+    "start": 352.74,
+    "duration": 3.54
+  },
+  {
+    "text": "in fact, in any number\nof states simultaneously.",
+    "start": 356.28,
+    "duration": 3.93
+  },
+  {
+    "text": "The cat could be dead, alive, playing,",
+    "start": 360.21,
+    "duration": 3.24
+  },
+  {
+    "text": "jumping, sideways, sick,\nany number of states.",
+    "start": 363.45,
+    "duration": 4.35
+  },
+  {
+    "text": "Now, why am I mentioning this?",
+    "start": 367.8,
+    "duration": 2.16
+  },
+  {
+    "text": "'Cause this summarizes the\npower of quantum computers.",
+    "start": 369.96,
+    "duration": 4.47
+  },
+  {
+    "text": "Quantum computers compute\non parallel universes.",
+    "start": 374.43,
+    "duration": 5.0
+  },
+  {
+    "text": "That's why they are so powerful.",
+    "start": 379.5,
+    "duration": 2.133
+  },
+  {
+    "text": "So, how much faster is a quantum computer",
+    "start": 386.4,
+    "duration": 2.82
+  },
+  {
+    "text": "over a digital computer?",
+    "start": 389.22,
+    "duration": 1.95
+  },
+  {
+    "text": "In principle,",
+    "start": 391.17,
+    "duration": 1.493
+  },
+  {
+    "text": "When we talk about digital computers,",
+    "start": 395.28,
+    "duration": 2.73
+  },
+  {
+    "text": "we can measure their\npower in terms of bits.",
+    "start": 398.01,
+    "duration": 3.42
+  },
+  {
+    "text": "For example, spin up,\nspin down, zeros and one",
+    "start": 401.43,
+    "duration": 4.38
+  },
+  {
+    "text": "would constitute one bit.",
+    "start": 405.81,
+    "duration": 2.37
+  },
+  {
+    "text": "For a large digital computer,",
+    "start": 408.18,
+    "duration": 2.52
+  },
+  {
+    "text": "we're now talking about billions of bits",
+    "start": 410.7,
+    "duration": 2.94
+  },
+  {
+    "text": "that are modeled by transistors,",
+    "start": 413.64,
+    "duration": 2.88
+  },
+  {
+    "text": "except now, quantum computers\ntalk not just about spin up",
+    "start": 416.52,
+    "duration": 3.93
+  },
+  {
+    "text": "or spin down, but everything in between-",
+    "start": 420.45,
+    "duration": 3.66
+  },
+  {
+    "text": "that's called a qubit.",
+    "start": 424.11,
+    "duration": 1.737
+  },
+  {
+    "text": "One qubit represents all the possibilities",
+    "start": 425.847,
+    "duration": 4.353
+  },
+  {
+    "text": "of an object spinning between up and down.",
+    "start": 430.2,
+    "duration": 4.2
+  },
+  {
+    "text": "Thousands of qubits can now be modeled",
+    "start": 434.4,
+    "duration": 3.36
+  },
+  {
+    "text": "with the latest generation\nof quantum computers.",
+    "start": 437.76,
+    "duration": 3.78
+  },
+  {
+    "text": "Eventually, we hope to hit a million.",
+    "start": 441.54,
+    "duration": 3.6
+  },
+  {
+    "text": "And so, we're talking\nabout exceeding the power",
+    "start": 445.14,
+    "duration": 3.24
+  },
+  {
+    "text": "of ordinary digital computers.",
+    "start": 448.38,
+    "duration": 2.5
+  },
+  {
+    "text": "It is the point at\nwhich a quantum computer",
+    "start": 453.21,
+    "duration": 3.54
+  },
+  {
+    "text": "can outrace and outperform\na digital computer",
+    "start": 456.75,
+    "duration": 4.02
+  },
+  {
+    "text": "on a certain task.",
+    "start": 460.77,
+    "duration": 2.22
+  },
+  {
+    "text": "We passed that several years ago,",
+    "start": 462.99,
+    "duration": 2.88
+  },
+  {
+    "text": "but we want a machine that\ncould exceed the power",
+    "start": 465.87,
+    "duration": 2.49
+  },
+  {
+    "text": "of any digital computer.",
+    "start": 468.36,
+    "duration": 2.19
+  },
+  {
+    "text": "We're not there yet, but\nwe're very close to it.",
+    "start": 470.55,
+    "duration": 2.613
+  },
+  {
+    "text": "The number one problem\nfacing quantum computers",
+    "start": 476.43,
+    "duration": 3.72
+  },
+  {
+    "text": "is the question of 'decoherence.'",
+    "start": 480.15,
+    "duration": 3.12
+  },
+  {
+    "text": "Everything is based on\nparticles like electrons,",
+    "start": 483.27,
+    "duration": 3.24
+  },
+  {
+    "text": "and electrons have waves\nassociated with them.",
+    "start": 486.51,
+    "duration": 3.81
+  },
+  {
+    "text": "When these waves are vibrating in unison,",
+    "start": 490.32,
+    "duration": 2.73
+  },
+  {
+    "text": "it's called 'coherence,'",
+    "start": 493.05,
+    "duration": 1.557
+  },
+  {
+    "text": "and then you can do calculations",
+    "start": 494.607,
+    "duration": 2.433
+  },
+  {
+    "text": "of a quantum mechanical nature.",
+    "start": 497.04,
+    "duration": 2.13
+  },
+  {
+    "text": "But if you fall out of coherence,",
+    "start": 499.17,
+    "duration": 2.52
+  },
+  {
+    "text": "then everything vibrates\nat a different frequency.",
+    "start": 501.69,
+    "duration": 2.67
+  },
+  {
+    "text": "And what is that called?",
+    "start": 504.36,
+    "duration": 1.733
+  },
+  {
+    "text": "Noise.",
+    "start": 506.093,
+    "duration": 1.657
+  },
+  {
+    "text": "You have to reduce the temperature",
+    "start": 507.75,
+    "duration": 2.49
+  },
+  {
+    "text": "down to near absolute zero",
+    "start": 510.24,
+    "duration": 3.09
+  },
+  {
+    "text": "so everything is pretty much\nvibrating slowly in unison-",
+    "start": 513.33,
+    "duration": 5.0
+  },
+  {
+    "text": "that's difficult.",
+    "start": 519.09,
+    "duration": 1.143
+  },
+  {
+    "text": "Now, nature solves this problem:",
+    "start": 521.13,
+    "duration": 2.58
+  },
+  {
+    "text": "It is the basis of all life on the earth.",
+    "start": 523.71,
+    "duration": 3.9
+  },
+  {
+    "text": "Photosynthesis, for example,",
+    "start": 527.61,
+    "duration": 2.46
+  },
+  {
+    "text": "is a quantum mechanical process.",
+    "start": 530.07,
+    "duration": 2.88
+  },
+  {
+    "text": "Mother Nature can create\ncoherence at room temperature.",
+    "start": 532.95,
+    "duration": 4.65
+  },
+  {
+    "text": "Amazing.",
+    "start": 537.6,
+    "duration": 1.26
+  },
+  {
+    "text": "Mother Nature is still smarter than us",
+    "start": 545.28,
+    "duration": 2.94
+  },
+  {
+    "text": "when it comes to the quantum theory.",
+    "start": 548.22,
+    "duration": 3.0
+  },
+  {
+    "text": "So, let's face it.",
+    "start": 554.22,
+    "duration": 1.32
+  },
+  {
+    "text": "There are hurdles affecting the\ngrowth of quantum computers,",
+    "start": 555.54,
+    "duration": 4.14
+  },
+  {
+    "text": "but they pale in comparison",
+    "start": 559.68,
+    "duration": 2.94
+  },
+  {
+    "text": "to the benefits that may be\nunleashed by quantum computers.",
+    "start": 562.62,
+    "duration": 4.86
+  },
+  {
+    "text": "We're talking about\nopening the floodgates.",
+    "start": 567.48,
+    "duration": 3.0
+  },
+  {
+    "text": "Take a look, for example, of food supply.",
+    "start": 570.48,
+    "duration": 2.79
+  },
+  {
+    "text": "The 'green revolution'\nthat allows us to feed",
+    "start": 573.27,
+    "duration": 3.24
+  },
+  {
+    "text": "the population of the world\nis slowly coming to an end.",
+    "start": 576.51,
+    "duration": 3.63
+  },
+  {
+    "text": "We're trying to use quantum\ncomputers to unlock the secret",
+    "start": 580.14,
+    "duration": 3.78
+  },
+  {
+    "text": "of how to make fertilizer from nitrogen.",
+    "start": 583.92,
+    "duration": 2.73
+  },
+  {
+    "text": "Take a look at energy.",
+    "start": 586.65,
+    "duration": 2.46
+  },
+  {
+    "text": "Quantum computers may be\nable to create fusion power",
+    "start": 589.11,
+    "duration": 3.66
+  },
+  {
+    "text": "by stabilizing the super hot hydrogen",
+    "start": 592.77,
+    "duration": 3.27
+  },
+  {
+    "text": "inside a fusion reactor.",
+    "start": 596.04,
+    "duration": 2.55
+  },
+  {
+    "text": "And take a look at medicine.",
+    "start": 598.59,
+    "duration": 3.03
+  },
+  {
+    "text": "You realize that life\nis based on molecules,",
+    "start": 601.62,
+    "duration": 3.0
+  },
+  {
+    "text": "molecules that can create\nAlzheimer's disease,",
+    "start": 604.62,
+    "duration": 2.82
+  },
+  {
+    "text": "Parkinson's disease, cancer.",
+    "start": 607.44,
+    "duration": 2.91
+  },
+  {
+    "text": "These diseases are beyond the\nreach of digital computers.",
+    "start": 610.35,
+    "duration": 4.38
+  },
+  {
+    "text": "But hey, this is what\nquantum computers do.",
+    "start": 614.73,
+    "duration": 3.0
+  },
+  {
+    "text": "We'll be able to model diseases\nat the molecular level,",
+    "start": 617.73,
+    "duration": 4.38
+  },
+  {
+    "text": "and that's why we hope\nto cure the incurable",
+    "start": 622.11,
+    "duration": 3.54
+  },
+  {
+    "text": "using quantum computers.",
+    "start": 625.65,
+    "duration": 2.19
+  },
+  {
+    "text": "We're talking about turning\nmedicine upside down.",
+    "start": 627.84,
+    "duration": 3.753
+  },
+  {
+    "text": "My personal hope for quantum computers",
+    "start": 633.81,
+    "duration": 3.36
+  },
+  {
+    "text": "is that we'll be able to create a theory",
+    "start": 637.17,
+    "duration": 2.1
+  },
+  {
+    "text": "of the entire Universe, the\ntheory that eluded Einstein,",
+    "start": 639.27,
+    "duration": 4.47
+  },
+  {
+    "text": "the theory that would explain\nblack holes and supernovas",
+    "start": 643.74,
+    "duration": 3.42
+  },
+  {
+    "text": "and galactic evolution.",
+    "start": 647.16,
+    "duration": 1.95
+  },
+  {
+    "text": "But the equations are\nso complex that no one,",
+    "start": 649.11,
+    "duration": 3.948
+  },
+  {
+    "text": "no one has been able to solve them.",
+    "start": 653.058,
+    "duration": 2.862
+  },
+  {
+    "text": "Perhaps, they'll be solved",
+    "start": 655.92,
+    "duration": 1.77
+  },
+  {
+    "text": "in the memory of a quantum computer.",
+    "start": 657.69,
+    "duration": 3.0
+  }
+]

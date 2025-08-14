@@ -1,0 +1,867 @@
+[
+  {
+    "text": "Let's imagine together\nwe've gone on an eight-month journey",
+    "start": 4.501,
+    "duration": 5.297
+  },
+  {
+    "text": "and arrived to the planet Mars.",
+    "start": 9.839,
+    "duration": 2.628
+  },
+  {
+    "text": "Yes, Mars.",
+    "start": 12.509,
+    "duration": 2.085
+  },
+  {
+    "text": "Somehow we'll have to figure out",
+    "start": 15.095,
+    "duration": 2.335
+  },
+  {
+    "text": "how to build protective\nand durable structures",
+    "start": 17.472,
+    "duration": 3.17
+  },
+  {
+    "text": "to shield us against solar radiation,",
+    "start": 20.684,
+    "duration": 3.044
+  },
+  {
+    "text": "galactic cosmic rays\nand extreme temperatures swings.",
+    "start": 23.77,
+    "duration": 4.755
+  },
+  {
+    "text": "On a Mars mission, there's only so much\nthat we can bring with us from Earth.",
+    "start": 29.484,
+    "duration": 3.67
+  },
+  {
+    "text": "And it's prohibitively expensive",
+    "start": 33.154,
+    "duration": 2.336
+  },
+  {
+    "text": "to launch tons and tons\nof construction materials into space.",
+    "start": 35.49,
+    "duration": 5.506
+  },
+  {
+    "text": "So to realize a pioneering habitat",
+    "start": 41.788,
+    "duration": 5.047
+  },
+  {
+    "text": "that progressively grows,",
+    "start": 46.876,
+    "duration": 2.586
+  },
+  {
+    "text": "adapts and expands\ninto a permanent outpost,",
+    "start": 49.504,
+    "duration": 5.13
+  },
+  {
+    "text": "we have to think differently\nabout how we build.",
+    "start": 54.676,
+    "duration": 3.712
+  },
+  {
+    "text": "These habitats\nand the robots that build them",
+    "start": 59.222,
+    "duration": 3.629
+  },
+  {
+    "text": "will enable humanity to thrive off-world.",
+    "start": 62.892,
+    "duration": 4.088
+  },
+  {
+    "text": "I am a space architect.",
+    "start": 68.523,
+    "duration": 2.836
+  },
+  {
+    "text": "I design and conceive habitats supporting\nhuman exploration in deep space,",
+    "start": 71.359,
+    "duration": 5.965
+  },
+  {
+    "text": "like on the surface of Mars.",
+    "start": 77.324,
+    "duration": 2.544
+  },
+  {
+    "text": "Not only do I design spaces\nfor optimal crew health and performance,",
+    "start": 79.868,
+    "duration": 5.547
+  },
+  {
+    "text": "but I also investigate\nwhat these habitats are",
+    "start": 85.457,
+    "duration": 3.42
+  },
+  {
+    "text": "and how they're going to be built.",
+    "start": 88.918,
+    "duration": 2.169
+  },
+  {
+    "text": "Now, Mars is so far from us",
+    "start": 91.838,
+    "duration": 3.42
+  },
+  {
+    "text": "that communications delays\ncan take up to 22 minutes",
+    "start": 95.3,
+    "duration": 4.838
+  },
+  {
+    "text": "one way to or from Earth.",
+    "start": 100.18,
+    "duration": 3.128
+  },
+  {
+    "text": "And what that means is that\nwe can't rely on real-time telerobotics",
+    "start": 103.35,
+    "duration": 4.421
+  },
+  {
+    "text": "controlled by people on Earth",
+    "start": 107.812,
+    "duration": 2.545
+  },
+  {
+    "text": "to supervise what happens\nin construction on Mars",
+    "start": 110.357,
+    "duration": 3.628
+  },
+  {
+    "text": "or for that matter,\nto supervise anything that happens",
+    "start": 113.985,
+    "duration": 3.045
+  },
+  {
+    "text": "when we're exploring the planet.",
+    "start": 117.03,
+    "duration": 1.793
+  },
+  {
+    "text": "But if we leverage autonomous robotics,",
+    "start": 119.908,
+    "duration": 4.212
+  },
+  {
+    "text": "we'll send 3D printers\nand other construction robots",
+    "start": 124.12,
+    "duration": 3.837
+  },
+  {
+    "text": "to build protective habitats and shelters",
+    "start": 127.999,
+    "duration": 4.088
+  },
+  {
+    "text": "before the crew even arrives.",
+    "start": 132.128,
+    "duration": 3.128
+  },
+  {
+    "text": "So how exactly would 3D printers\nbuild a habitat on Mars?",
+    "start": 136.299,
+    "duration": 5.589
+  },
+  {
+    "text": "Well, first we have to figure out\nwhat these structures are made out of.",
+    "start": 142.722,
+    "duration": 4.421
+  },
+  {
+    "text": "Just like early civilizations,\nwill use in situ regolith,",
+    "start": 147.185,
+    "duration": 5.005
+  },
+  {
+    "text": "commonly known as dirt,",
+    "start": 152.19,
+    "duration": 2.586
+  },
+  {
+    "text": "and other resources that are local\nand indigenous to the planet,",
+    "start": 154.776,
+    "duration": 3.712
+  },
+  {
+    "text": "including water,",
+    "start": 158.488,
+    "duration": 1.335
+  },
+  {
+    "text": "and possibly combine them\nwith additives and binders",
+    "start": 159.823,
+    "duration": 3.67
+  },
+  {
+    "text": "that we bring from Earth",
+    "start": 163.493,
+    "duration": 2.044
+  },
+  {
+    "text": "to engineer high-performance\nconstruction materials.",
+    "start": 165.537,
+    "duration": 4.004
+  },
+  {
+    "text": "Our goal when we're designing\nthese habitats",
+    "start": 170.5,
+    "duration": 2.252
+  },
+  {
+    "text": "is to introduce an airtight structure",
+    "start": 172.794,
+    "duration": 2.336
+  },
+  {
+    "text": "that can withstand\ninternal pressurization,",
+    "start": 175.171,
+    "duration": 3.379
+  },
+  {
+    "text": "which is what will allow people to live",
+    "start": 178.591,
+    "duration": 1.919
+  },
+  {
+    "text": "in a breathable and temperate\nenvironment on the inside.",
+    "start": 180.552,
+    "duration": 4.087
+  },
+  {
+    "text": "The robots that we deploy on Mars",
+    "start": 186.057,
+    "duration": 1.919
+  },
+  {
+    "text": "will need to perceive and interpret\nthe complexity of a construction site",
+    "start": 188.017,
+    "duration": 5.214
+  },
+  {
+    "text": "in order to sequence and choreograph\ndifferent types of tasks.",
+    "start": 193.231,
+    "duration": 4.213
+  },
+  {
+    "text": "These tasks will include prospecting Mars\nand surveying for a site to build,",
+    "start": 197.444,
+    "duration": 4.587
+  },
+  {
+    "text": "collecting raw materials,",
+    "start": 202.031,
+    "duration": 1.877
+  },
+  {
+    "text": "processing those materials\nand maneuvering them around.",
+    "start": 203.908,
+    "duration": 4.171
+  },
+  {
+    "text": "Some of these bots\nmight resemble the character Wall-E,",
+    "start": 208.079,
+    "duration": 3.295
+  },
+  {
+    "text": "except, you know, not so cute.",
+    "start": 211.416,
+    "duration": 2.21
+  },
+  {
+    "text": "Once the site has been excavated\nand foundations are printed,",
+    "start": 214.878,
+    "duration": 3.545
+  },
+  {
+    "text": "these structures are manufactured\nlayer by layer by layer.",
+    "start": 218.465,
+    "duration": 4.421
+  },
+  {
+    "text": "And as construction progresses,",
+    "start": 222.927,
+    "duration": 2.169
+  },
+  {
+    "text": "prebuilt and preintegrated hardware",
+    "start": 225.138,
+    "duration": 2.586
+  },
+  {
+    "text": "like airlocks or life support equipment\nbrought from Earth",
+    "start": 227.766,
+    "duration": 4.129
+  },
+  {
+    "text": "are inserted into the print",
+    "start": 231.936,
+    "duration": 2.628
+  },
+  {
+    "text": "until finally they're sealed\nat various connection points.",
+    "start": 234.564,
+    "duration": 4.755
+  },
+  {
+    "text": "To do more than just survive in space,",
+    "start": 240.278,
+    "duration": 3.545
+  },
+  {
+    "text": "we need to create environments\nthat positively contribute to well-being",
+    "start": 243.823,
+    "duration": 4.838
+  },
+  {
+    "text": "for months and years into the future.",
+    "start": 248.661,
+    "duration": 3.254
+  },
+  {
+    "text": "And as more civilian astronauts\ntravel to space,",
+    "start": 251.956,
+    "duration": 4.088
+  },
+  {
+    "text": "it's important that our environments",
+    "start": 256.085,
+    "duration": 1.794
+  },
+  {
+    "text": "are more than the tightly packed\nmechanical interiors",
+    "start": 257.921,
+    "duration": 3.545
+  },
+  {
+    "text": "of the International Space Station,",
+    "start": 261.508,
+    "duration": 2.252
+  },
+  {
+    "text": "which today represents\nthe state of the art",
+    "start": 263.802,
+    "duration": 2.836
+  },
+  {
+    "text": "for long-duration human life in space.",
+    "start": 266.679,
+    "duration": 3.42
+  },
+  {
+    "text": "We also want to incorporate\npractical architectural elements",
+    "start": 270.141,
+    "duration": 3.379
+  },
+  {
+    "text": "such as access to natural light\nthrough windows and greenery.",
+    "start": 273.561,
+    "duration": 4.38
+  },
+  {
+    "text": "These were features that were missing\naboard the space station",
+    "start": 277.941,
+    "duration": 2.961
+  },
+  {
+    "text": "when it was first commissioned,",
+    "start": 280.902,
+    "duration": 1.543
+  },
+  {
+    "text": "but which we know are critical\nto positive psychological functioning",
+    "start": 282.445,
+    "duration": 4.463
+  },
+  {
+    "text": "and well-being.",
+    "start": 286.908,
+    "duration": 1.877
+  },
+  {
+    "text": "For long duration missions in deep space,",
+    "start": 288.785,
+    "duration": 2.961
+  },
+  {
+    "text": "it's important that crew members\nfeel less like they're living in a machine",
+    "start": 291.746,
+    "duration": 4.88
+  },
+  {
+    "text": "and more like they're living in a home.",
+    "start": 296.668,
+    "duration": 2.961
+  },
+  {
+    "text": "There are other ways of approaching\nhabitat construction on Mars.",
+    "start": 301.214,
+    "duration": 4.338
+  },
+  {
+    "text": "Hard-shell or inflatable structures",
+    "start": 305.593,
+    "duration": 2.503
+  },
+  {
+    "text": "may not provide\nthe radiation protection that we need,",
+    "start": 308.137,
+    "duration": 3.254
+  },
+  {
+    "text": "and living underground in lava tubes",
+    "start": 311.432,
+    "duration": 2.336
+  },
+  {
+    "text": "doesn't quite support\ndirect surface exploration on the planet.",
+    "start": 313.81,
+    "duration": 4.629
+  },
+  {
+    "text": "And also, why would you travel\nfor eight months to live underground?",
+    "start": 318.439,
+    "duration": 3.712
+  },
+  {
+    "text": "Designing structures in space\nis all about mitigating risks",
+    "start": 323.361,
+    "duration": 3.837
+  },
+  {
+    "text": "and the habitats that we create\nwill need to be the most durable",
+    "start": 327.198,
+    "duration": 4.004
+  },
+  {
+    "text": "and the most resilient\nstructures ever conceived.",
+    "start": 331.202,
+    "duration": 4.338
+  },
+  {
+    "text": "Future off-world surface habitats",
+    "start": 335.582,
+    "duration": 2.21
+  },
+  {
+    "text": "will be self-regulating\nand self-maintained structures",
+    "start": 337.834,
+    "duration": 3.879
+  },
+  {
+    "text": "to support the crew members\nwhile they're there,",
+    "start": 341.754,
+    "duration": 3.295
+  },
+  {
+    "text": "but also to operate autonomously\nwhen they are not.",
+    "start": 345.091,
+    "duration": 3.837
+  },
+  {
+    "text": "Before we send anyone to Mars,",
+    "start": 350.013,
+    "duration": 2.335
+  },
+  {
+    "text": "we need data to answer\nsome very key questions",
+    "start": 352.39,
+    "duration": 3.003
+  },
+  {
+    "text": "about human health, safety,",
+    "start": 355.435,
+    "duration": 2.461
+  },
+  {
+    "text": "and to validate each\nof these construction activities.",
+    "start": 357.937,
+    "duration": 3.42
+  },
+  {
+    "text": "Fortunately for us,\nwe have a testbed and a proving ground",
+    "start": 361.357,
+    "duration": 3.504
+  },
+  {
+    "text": "much, much closer to Earth.",
+    "start": 364.861,
+    "duration": 2.252
+  },
+  {
+    "text": "That's our own Moon.",
+    "start": 367.113,
+    "duration": 2.252
+  },
+  {
+    "text": "Today we're working with NASA",
+    "start": 369.365,
+    "duration": 1.794
+  },
+  {
+    "text": "to demonstrate\nhow we'll 3D-print infrastructure",
+    "start": 371.159,
+    "duration": 2.836
+  },
+  {
+    "text": "like landing pads, roadways\nand eventually habitats",
+    "start": 373.995,
+    "duration": 4.922
+  },
+  {
+    "text": "directly on the lunar surface.",
+    "start": 378.958,
+    "duration": 2.711
+  },
+  {
+    "text": "The Moon is a critical pit stop\nto refuel, resupply",
+    "start": 381.711,
+    "duration": 4.63
+  },
+  {
+    "text": "and serve as a general platform\nfor vehicles traveling to deep space,",
+    "start": 386.382,
+    "duration": 4.463
+  },
+  {
+    "text": "and we'll use the technologies\nestablishing a permanent human presence",
+    "start": 390.887,
+    "duration": 4.087
+  },
+  {
+    "text": "on the Moon to travel to, from\nand operate on the surface of Mars.",
+    "start": 395.016,
+    "duration": 6.798
+  },
+  {
+    "text": "What else are we doing\nto advance the viability of 3D printing",
+    "start": 402.899,
+    "duration": 4.254
+  },
+  {
+    "text": "for building in space?",
+    "start": 407.153,
+    "duration": 1.794
+  },
+  {
+    "text": "Well, for one thing,",
+    "start": 409.489,
+    "duration": 1.376
+  },
+  {
+    "text": "we can demonstrate\nthat 3D-printed structures",
+    "start": 410.865,
+    "duration": 2.419
+  },
+  {
+    "text": "can support people\nin a mission-like environment",
+    "start": 413.284,
+    "duration": 3.17
+  },
+  {
+    "text": "right here on Earth,",
+    "start": 416.454,
+    "duration": 1.543
+  },
+  {
+    "text": "and use data from those experiments\nto set standards and requirements",
+    "start": 418.039,
+    "duration": 4.421
+  },
+  {
+    "text": "for future Mars missions.",
+    "start": 422.502,
+    "duration": 2.169
+  },
+  {
+    "text": "This is what we did in designing\nand building Mars Dune Alpha,",
+    "start": 424.712,
+    "duration": 4.296
+  },
+  {
+    "text": "a 3D-printed analog habitat\nat the Johnson Space Center in Houston,",
+    "start": 429.05,
+    "duration": 5.714
+  },
+  {
+    "text": "referred to as the Crew Health\nand Performance Exploration Analog --",
+    "start": 434.806,
+    "duration": 4.254
+  },
+  {
+    "text": "that's a really long name, I know --",
+    "start": 439.102,
+    "duration": 1.793
+  },
+  {
+    "text": "this structure will house\nfour volunteer crew members",
+    "start": 440.937,
+    "duration": 3.378
+  },
+  {
+    "text": "simulating a one-year mission to Mars,",
+    "start": 444.315,
+    "duration": 2.461
+  },
+  {
+    "text": "including a 20-minute\ncommunications delay.",
+    "start": 446.776,
+    "duration": 3.212
+  },
+  {
+    "text": "The first mission\nis kicking off later this year,",
+    "start": 449.988,
+    "duration": 2.877
+  },
+  {
+    "text": "but you could actually apply\nto be a crew member in this habitat",
+    "start": 452.865,
+    "duration": 3.754
+  },
+  {
+    "text": "sometime in the future.",
+    "start": 456.619,
+    "duration": 1.794
+  },
+  {
+    "text": "Or if you're not so inclined,",
+    "start": 458.413,
+    "duration": 1.418
+  },
+  {
+    "text": "you can suggest it to someone else\nin the name of research.",
+    "start": 459.872,
+    "duration": 3.003
+  },
+  {
+    "text": "(Laughter)",
+    "start": 462.917,
+    "duration": 1.418
+  },
+  {
+    "text": "If you're one of the chosen few,",
+    "start": 464.377,
+    "duration": 1.793
+  },
+  {
+    "text": "you'll be sharing 1700 square feet\nof living and working areas",
+    "start": 466.212,
+    "duration": 4.588
+  },
+  {
+    "text": "with three others, and that includes\nan aeroponic garden for plant growth,",
+    "start": 470.842,
+    "duration": 4.254
+  },
+  {
+    "text": "a communications area, an exercise room,",
+    "start": 475.138,
+    "duration": 3.211
+  },
+  {
+    "text": "as well as individual crew cabins\nthat are very cozy,",
+    "start": 478.391,
+    "duration": 3.503
+  },
+  {
+    "text": "just six by 12 feet.",
+    "start": 481.936,
+    "duration": 1.668
+  },
+  {
+    "text": "Some of you may be thinking,",
+    "start": 484.772,
+    "duration": 2.67
+  },
+  {
+    "text": "\"Well, building in space,",
+    "start": 487.442,
+    "duration": 1.918
+  },
+  {
+    "text": "this is a topic pretty far removed\nfrom our day-to-day lives.",
+    "start": 489.36,
+    "duration": 5.047
+  },
+  {
+    "text": "How might it impact\nwhat we do on Earth today?",
+    "start": 494.407,
+    "duration": 3.42
+  },
+  {
+    "text": "In my experience, designing\nfor an extreme environment",
+    "start": 498.828,
+    "duration": 3.253
+  },
+  {
+    "text": "that is the most restrictive\nand that presents the most constraints,",
+    "start": 502.123,
+    "duration": 6.882
+  },
+  {
+    "text": "and which literally\nno human has ever gone before,",
+    "start": 509.047,
+    "duration": 4.921
+  },
+  {
+    "text": "is what gives us the best chances\nof creatively engineering solutions",
+    "start": 514.01,
+    "duration": 4.713
+  },
+  {
+    "text": "to problems here on Earth",
+    "start": 518.765,
+    "duration": 2.043
+  },
+  {
+    "text": "that seem completely\nbeyond our grasp today.",
+    "start": 520.85,
+    "duration": 2.878
+  },
+  {
+    "text": "Problems like housing solutions\nfor the chronically homeless",
+    "start": 523.77,
+    "duration": 4.421
+  },
+  {
+    "text": "or hurricane and disaster relief housing.",
+    "start": 528.191,
+    "duration": 3.42
+  },
+  {
+    "text": "Or rethinking sustainable practices\nwithin construction overall,",
+    "start": 531.611,
+    "duration": 5.38
+  },
+  {
+    "text": "which, according to the UN,",
+    "start": 536.991,
+    "duration": 1.585
+  },
+  {
+    "text": "is responsible for up to 30 percent\nof carbon emissions worldwide.",
+    "start": 538.576,
+    "duration": 6.381
+  },
+  {
+    "text": "The autonomous technologies\nthat we develop for building in space",
+    "start": 544.999,
+    "duration": 4.338
+  },
+  {
+    "text": "redound to us on Earth.",
+    "start": 549.378,
+    "duration": 2.211
+  },
+  {
+    "text": "They feed back and pay dividends\nto how we reimagine",
+    "start": 551.631,
+    "duration": 5.255
+  },
+  {
+    "text": "and reconceive construction\nhappening today.",
+    "start": 556.928,
+    "duration": 3.628
+  },
+  {
+    "text": "The fact of the matter is\nthat the most habitable planet",
+    "start": 561.724,
+    "duration": 4.588
+  },
+  {
+    "text": "is the one we live on right now.",
+    "start": 566.312,
+    "duration": 2.628
+  },
+  {
+    "text": "I don't like treating space\nlike it's a lifeboat for humanity",
+    "start": 570.233,
+    "duration": 3.879
+  },
+  {
+    "text": "from an ailing planet Earth.",
+    "start": 574.112,
+    "duration": 2.877
+  },
+  {
+    "text": "We can either solve for how to build\nsmarter and more sustainably today,",
+    "start": 578.074,
+    "duration": 5.297
+  },
+  {
+    "text": "or we'll have to think about designing\nfor survival on an Earth more extreme",
+    "start": 583.371,
+    "duration": 4.796
+  },
+  {
+    "text": "and more foreign\nthan any of us have ever known.",
+    "start": 588.209,
+    "duration": 3.503
+  },
+  {
+    "text": "And this to me cannot be\nthe primary reason or driver",
+    "start": 591.754,
+    "duration": 4.713
+  },
+  {
+    "text": "why we explore and venture\ninto deep space.",
+    "start": 596.509,
+    "duration": 3.587
+  },
+  {
+    "text": "It's been over 50 years",
+    "start": 602.557,
+    "duration": 3.42
+  },
+  {
+    "text": "since any human has traveled\noutside of Earth's orbit.",
+    "start": 606.018,
+    "duration": 4.713
+  },
+  {
+    "text": "Things are about to change.",
+    "start": 611.524,
+    "duration": 2.753
+  },
+  {
+    "text": "We will develop a permanent Moon base,\nand we will build autonomously on Mars.",
+    "start": 614.277,
+    "duration": 6.298
+  },
+  {
+    "text": "We are on the cusp\nof seeing radical transformation",
+    "start": 620.575,
+    "duration": 4.129
+  },
+  {
+    "text": "and how we build on Earth\nand how we push past limits",
+    "start": 624.704,
+    "duration": 5.38
+  },
+  {
+    "text": "to a new frontier\nof human exploration in space.",
+    "start": 630.126,
+    "duration": 4.838
+  },
+  {
+    "text": "Thank you so much.",
+    "start": 635.006,
+    "duration": 1.251
+  },
+  {
+    "text": "(Applause)",
+    "start": 636.299,
+    "duration": 1.751
+  }
+]

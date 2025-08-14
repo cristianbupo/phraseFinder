@@ -1,0 +1,337 @@
+[
+  {
+    "text": "When the Wright brothers\nhad to decide",
+    "start": 6.698,
+    "duration": 2.0
+  },
+  {
+    "text": "who would be the first to \nfly their new airplane",
+    "start": 8.698,
+    "duration": 3.142
+  },
+  {
+    "text": "off a sand dune, \nthey flipped a coin.",
+    "start": 11.84,
+    "duration": 2.8
+  },
+  {
+    "text": "That was fair:",
+    "start": 14.64,
+    "duration": 0.819
+  },
+  {
+    "text": "we all know there’s an equal chance \nof getting heads and tails.",
+    "start": 15.459,
+    "duration": 3.729
+  },
+  {
+    "text": "But what if they had \na more complicated contest?",
+    "start": 19.188,
+    "duration": 2.892
+  },
+  {
+    "text": "What if they flipped coins repeatedly,",
+    "start": 22.08,
+    "duration": 2.42
+  },
+  {
+    "text": "so that Orville would win as soon as \ntwo heads showed up in a row on his coin,",
+    "start": 24.5,
+    "duration": 4.881
+  },
+  {
+    "text": "and Wilbur would win as soon as heads \nwas immediately followed by tails on his?",
+    "start": 29.381,
+    "duration": 5.879
+  },
+  {
+    "text": "Would each brother still have had an equal\nchance to be the first in flight?",
+    "start": 35.26,
+    "duration": 5.425
+  },
+  {
+    "text": "At first, it may seem they’d still have \nthe same chance of winning.",
+    "start": 40.685,
+    "duration": 3.895
+  },
+  {
+    "text": "There are four combinations\nfor two consecutive flips.",
+    "start": 44.58,
+    "duration": 3.562
+  },
+  {
+    "text": "And if you do flip a coin just twice,",
+    "start": 48.142,
+    "duration": 2.139
+  },
+  {
+    "text": "there’s an equal chance \nof each one -- 25%.",
+    "start": 50.281,
+    "duration": 4.07
+  },
+  {
+    "text": "So your intuition might tell you \nthat in any string of coin flips,",
+    "start": 54.351,
+    "duration": 4.11
+  },
+  {
+    "text": "each combination would have \nthe same shot at appearing first.",
+    "start": 58.461,
+    "duration": 3.913
+  },
+  {
+    "text": "Unfortunately, you’d be wrong.",
+    "start": 62.374,
+    "duration": 2.589
+  },
+  {
+    "text": "Wilbur actually has\na big advantage in this contest.",
+    "start": 64.963,
+    "duration": 4.03
+  },
+  {
+    "text": "Imagine our sequence of coin flips \nas a sort of board game,",
+    "start": 68.993,
+    "duration": 3.439
+  },
+  {
+    "text": "where every flip determines which\npath we take.",
+    "start": 72.432,
+    "duration": 3.252
+  },
+  {
+    "text": "The goal is to get from start to finish.",
+    "start": 75.684,
+    "duration": 2.98
+  },
+  {
+    "text": "The heads/tails board looks like this.",
+    "start": 78.664,
+    "duration": 3.041
+  },
+  {
+    "text": "And this is the head/head board.",
+    "start": 81.705,
+    "duration": 2.7
+  },
+  {
+    "text": "There’s one critical difference.",
+    "start": 84.405,
+    "duration": 1.988
+  },
+  {
+    "text": "Heads/heads has a move that sends you \nall the way back to the start",
+    "start": 86.393,
+    "duration": 4.313
+  },
+  {
+    "text": "that heads/tails doesn’t have.",
+    "start": 90.706,
+    "duration": 2.797
+  },
+  {
+    "text": "That’s why heads/heads\ntakes longer on average.",
+    "start": 93.503,
+    "duration": 3.401
+  },
+  {
+    "text": "So we can demonstrate that this is true\nusing probability and algebra",
+    "start": 96.904,
+    "duration": 4.581
+  },
+  {
+    "text": "to calculate the average number of flips\nit would take to get each combination.",
+    "start": 101.485,
+    "duration": 5.35
+  },
+  {
+    "text": "Let’s start with the heads/tails board,",
+    "start": 106.835,
+    "duration": 2.239
+  },
+  {
+    "text": "and define x to be the average \nnumber of flips to advance one step.",
+    "start": 109.074,
+    "duration": 4.33
+  },
+  {
+    "text": "Focus only on the arrows.",
+    "start": 113.404,
+    "duration": 2.74
+  },
+  {
+    "text": "It has two identical steps,",
+    "start": 116.144,
+    "duration": 2.172
+  },
+  {
+    "text": "each with a 50/50 chance of staying \nin place or moving forward.",
+    "start": 118.316,
+    "duration": 4.377
+  },
+  {
+    "text": "Option 1: If we stay in place by getting \ntails, we waste one flip.",
+    "start": 122.693,
+    "duration": 6.421
+  },
+  {
+    "text": "Since we’re back in the same place,",
+    "start": 129.114,
+    "duration": 1.732
+  },
+  {
+    "text": "on average we must flip x more times \nto advance one step.",
+    "start": 130.846,
+    "duration": 4.528
+  },
+  {
+    "text": "Together with that first flip,",
+    "start": 135.374,
+    "duration": 1.912
+  },
+  {
+    "text": "this gives an average of x + 1 \ntotal flips to advance.",
+    "start": 137.286,
+    "duration": 5.02
+  },
+  {
+    "text": "Option 2: If we get heads \nand move forward,",
+    "start": 142.306,
+    "duration": 3.948
+  },
+  {
+    "text": "then we have taken exactly one total flip \nto advance one step.",
+    "start": 146.254,
+    "duration": 4.472
+  },
+  {
+    "text": "We can now combine option 1 \nand option 2 with their probabilities",
+    "start": 150.726,
+    "duration": 4.399
+  },
+  {
+    "text": "to get this expression.",
+    "start": 155.125,
+    "duration": 2.04
+  },
+  {
+    "text": "Solving that for x gives us an average \nof two moves to advance one step.",
+    "start": 157.165,
+    "duration": 5.203
+  },
+  {
+    "text": "Since each step is identical,",
+    "start": 162.368,
+    "duration": 2.299
+  },
+  {
+    "text": "we can multiply by two and arrive\nat four flips to advance two steps.",
+    "start": 164.667,
+    "duration": 5.681
+  },
+  {
+    "text": "For heads/heads, \nthe picture isn’t as simple.",
+    "start": 170.348,
+    "duration": 3.318
+  },
+  {
+    "text": "This time, let y be the average number \nof flips to move from start to finish.",
+    "start": 173.666,
+    "duration": 5.53
+  },
+  {
+    "text": "There are two options for the first move, \neach with 50/50 odds.",
+    "start": 179.196,
+    "duration": 4.122
+  },
+  {
+    "text": "Option 1 is the same as before,",
+    "start": 183.318,
+    "duration": 2.401
+  },
+  {
+    "text": "getting tails sends us back to the start,",
+    "start": 185.719,
+    "duration": 2.348
+  },
+  {
+    "text": "giving an average \nof y+1 total flips to finish.",
+    "start": 188.067,
+    "duration": 4.432
+  },
+  {
+    "text": "In Option 2, there are two equally \nlikely cases for the next flip.",
+    "start": 192.499,
+    "duration": 4.759
+  },
+  {
+    "text": "With heads we’d be done after two flips.",
+    "start": 197.258,
+    "duration": 3.292
+  },
+  {
+    "text": "But tails would return us to the start.",
+    "start": 200.55,
+    "duration": 3.059
+  },
+  {
+    "text": "Since we’d return after two flips,",
+    "start": 203.609,
+    "duration": 2.381
+  },
+  {
+    "text": "we’d then need an average\nof y+2 flips in total to finish.",
+    "start": 205.99,
+    "duration": 5.21
+  },
+  {
+    "text": "So our full expression will be this.",
+    "start": 211.2,
+    "duration": 3.811
+  },
+  {
+    "text": "And solving this equation \ngives us six flips.",
+    "start": 215.011,
+    "duration": 3.01
+  },
+  {
+    "text": "So the math calculates that it takes an\naverage of six flips to get heads/heads,",
+    "start": 218.021,
+    "duration": 5.34
+  },
+  {
+    "text": "and an average of four \nto get heads/tails.",
+    "start": 223.361,
+    "duration": 3.599
+  },
+  {
+    "text": "And, in fact, that’s what you’d see if you\ntested it for yourself enough times.",
+    "start": 226.96,
+    "duration": 5.601
+  },
+  {
+    "text": "Of course, the Wright brothers didn’t \nneed to work all this out;",
+    "start": 232.561,
+    "duration": 3.21
+  },
+  {
+    "text": "they only flipped the coin once,\nand Wilbur won.",
+    "start": 235.771,
+    "duration": 3.691
+  },
+  {
+    "text": "But it didn’t matter: \nWilbur’s flight failed,",
+    "start": 239.462,
+    "duration": 3.37
+  },
+  {
+    "text": "and Orville made \naviation history, instead.",
+    "start": 242.832,
+    "duration": 3.129
+  },
+  {
+    "text": "Tough luck, Wilbur.",
+    "start": 245.961,
+    "duration": 1.471
+  }
+]

@@ -1,0 +1,4162 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.0,
+    "duration": 3.374
+  },
+  {
+    "text": "ADI IGNATIUS: Welcome to Harvard\nBusiness Review's, The New",
+    "start": 13.032,
+    "duration": 2.458
+  },
+  {
+    "text": "World of Work.",
+    "start": 15.49,
+    "duration": 0.612
+  },
+  {
+    "text": "I'm Adi Ignatius, editor in\nchief of Harvard Business",
+    "start": 16.102,
+    "duration": 2.208
+  },
+  {
+    "text": "Review.",
+    "start": 18.31,
+    "duration": 0.66
+  },
+  {
+    "text": "And each week on this show,\nI interview a CEO, a thought",
+    "start": 18.97,
+    "duration": 2.85
+  },
+  {
+    "text": "leader, or somebody else who\ncan inspire and educate us",
+    "start": 21.82,
+    "duration": 3.54
+  },
+  {
+    "text": "on the changing dynamics\nof the workplace.",
+    "start": 25.36,
+    "duration": 2.55
+  },
+  {
+    "text": "Our viewers are from\nall over the world.",
+    "start": 27.91,
+    "duration": 1.95
+  },
+  {
+    "text": "And they work at everything\nfrom Fortune 500 corporations",
+    "start": 29.86,
+    "duration": 2.64
+  },
+  {
+    "text": "to fledgling startups,\nfrom family businesses,",
+    "start": 32.5,
+    "duration": 2.61
+  },
+  {
+    "text": "to nonprofits.",
+    "start": 35.11,
+    "duration": 1.23
+  },
+  {
+    "text": "The aim of this show is to\nprovide insights for everyone",
+    "start": 36.34,
+    "duration": 2.76
+  },
+  {
+    "text": "as they navigate this\ntransitional moment in how",
+    "start": 39.1,
+    "duration": 2.73
+  },
+  {
+    "text": "we organize ourselves\nin the business world.",
+    "start": 41.83,
+    "duration": 2.855
+  },
+  {
+    "text": "So in today's episode, we\nhave another great guest,",
+    "start": 44.685,
+    "duration": 2.125
+  },
+  {
+    "text": "Andrew Liveris, the\nformer CEO of DOW Chemical",
+    "start": 46.81,
+    "duration": 2.58
+  },
+  {
+    "text": "and the author of the new book\nLeading Through Disruption.",
+    "start": 49.39,
+    "duration": 3.085
+  },
+  {
+    "text": "I'm going to come back with\na proper introduction for him",
+    "start": 52.475,
+    "duration": 2.375
+  },
+  {
+    "text": "in just a moment.",
+    "start": 54.85,
+    "duration": 0.85
+  },
+  {
+    "text": "But first, let's\nhear from our friends",
+    "start": 55.7,
+    "duration": 1.73
+  },
+  {
+    "text": "at KPMG, who are our sponsors\nfor this season of The New",
+    "start": 57.43,
+    "duration": 3.78
+  },
+  {
+    "text": "World at work.",
+    "start": 61.21,
+    "duration": 1.41
+  },
+  {
+    "text": "At KPMG, it's our\npeople who make",
+    "start": 62.62,
+    "duration": 2.61
+  },
+  {
+    "text": "the difference for our clients\ntalented teams leveraging",
+    "start": 65.23,
+    "duration": 3.39
+  },
+  {
+    "text": "the right technology\nto uncover insights",
+    "start": 68.62,
+    "duration": 2.43
+  },
+  {
+    "text": "that illuminate opportunity.",
+    "start": 71.05,
+    "duration": 1.83
+  },
+  {
+    "text": "Ready to make the\ndifference together?",
+    "start": 72.88,
+    "duration": 1.81
+  },
+  {
+    "text": "OK, If you're already an HBR\nsubscriber and you're watching",
+    "start": 80.303,
+    "duration": 3.037
+  },
+  {
+    "text": "this, you can head to\nHBR.org/newsletters to sign up",
+    "start": 83.34,
+    "duration": 4.71
+  },
+  {
+    "text": "for The New World\nof Work newsletter.",
+    "start": 88.05,
+    "duration": 2.1
+  },
+  {
+    "text": "I try to offer an inside look\neach week at these interviews",
+    "start": 90.15,
+    "duration": 2.88
+  },
+  {
+    "text": "and talk about some of the\nmost interesting takeaways.",
+    "start": 93.03,
+    "duration": 2.4
+  },
+  {
+    "text": "Also, if you're not a subscriber\nand you like content like this,",
+    "start": 95.43,
+    "duration": 3.52
+  },
+  {
+    "text": "please consider subscribing\nto our magazine and website.",
+    "start": 98.95,
+    "duration": 2.94
+  },
+  {
+    "text": "The address is\nhbr.org/subscriptions.",
+    "start": 101.89,
+    "duration": 3.643
+  },
+  {
+    "text": "And if you like hearing\nsmart people talk about some",
+    "start": 105.533,
+    "duration": 2.167
+  },
+  {
+    "text": "of the same issues we\ndiscuss in this show,",
+    "start": 107.7,
+    "duration": 2.23
+  },
+  {
+    "text": "be sure to check out\nour flagship podcast",
+    "start": 109.93,
+    "duration": 2.09
+  },
+  {
+    "text": "IdeaCast, available wherever\nyou get your podcasts.",
+    "start": 112.02,
+    "duration": 3.213
+  },
+  {
+    "text": "And, remember, you can\nwatch previous episodes",
+    "start": 115.233,
+    "duration": 1.917
+  },
+  {
+    "text": "of this show on YouTube or right\nhere on LinkedIn and Facebook.",
+    "start": 117.15,
+    "duration": 4.4
+  },
+  {
+    "text": "All right, so my guest\ntoday is Andrew Liveris,",
+    "start": 121.55,
+    "duration": 2.55
+  },
+  {
+    "text": "a guy who wears a lot of hats.",
+    "start": 124.1,
+    "duration": 2.16
+  },
+  {
+    "text": "He is the inaugural president\nof the Brisbane 2032 Olympic",
+    "start": 126.26,
+    "duration": 4.499
+  },
+  {
+    "text": "Organizing Committee.",
+    "start": 130.759,
+    "duration": 1.231
+  },
+  {
+    "text": "He's the former CEO and\nchairman of DOW Chemical.",
+    "start": 131.99,
+    "duration": 3.3
+  },
+  {
+    "text": "He was CEO there\nfrom 2004 to 2018.",
+    "start": 135.29,
+    "duration": 3.09
+  },
+  {
+    "text": "And in that role, he\nwon credit for pushing",
+    "start": 138.38,
+    "duration": 3.43
+  },
+  {
+    "text": "an ambitious sustainability\nagenda at one of the world's",
+    "start": 141.81,
+    "duration": 3.32
+  },
+  {
+    "text": "biggest chemical producers.",
+    "start": 145.13,
+    "duration": 1.5
+  },
+  {
+    "text": "He's also the author\nof the new book Leading",
+    "start": 146.63,
+    "duration": 2.52
+  },
+  {
+    "text": "Through Disruption,\nA Changemaker's Guide",
+    "start": 149.15,
+    "duration": 2.34
+  },
+  {
+    "text": "to 21st Century Leadership.",
+    "start": 151.49,
+    "duration": 1.92
+  },
+  {
+    "text": "So, Andrew, welcome.",
+    "start": 153.41,
+    "duration": 1.347
+  },
+  {
+    "text": "ANDREW LIVERIS: Thank you.",
+    "start": 154.757,
+    "duration": 1.083
+  },
+  {
+    "text": "Nice to see you, Adi.",
+    "start": 155.84,
+    "duration": 1.26
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah, so\nit's good to have you here.",
+    "start": 157.1,
+    "duration": 2.083
+  },
+  {
+    "text": "So I hope you don't mind.",
+    "start": 159.183,
+    "duration": 1.737
+  },
+  {
+    "text": "But I would love for you to\ngive our viewers a quick sense",
+    "start": 160.92,
+    "duration": 3.89
+  },
+  {
+    "text": "of your own life journey\nfrom the Australian Outback",
+    "start": 164.81,
+    "duration": 3.15
+  },
+  {
+    "text": "to leading a\nFortune 100 company.",
+    "start": 167.96,
+    "duration": 2.71
+  },
+  {
+    "text": "It's not the typical CEO arc.",
+    "start": 170.67,
+    "duration": 2.57
+  },
+  {
+    "text": "ANDREW LIVERIS: No, and given\nthe differences in continents,",
+    "start": 173.24,
+    "duration": 3.75
+  },
+  {
+    "text": "Australia and the US were\noften considered the new US",
+    "start": 176.99,
+    "duration": 4.3
+  },
+  {
+    "text": "in Australia.",
+    "start": 181.29,
+    "duration": 0.63
+  },
+  {
+    "text": "And the Outback was\nalways considered",
+    "start": 181.92,
+    "duration": 1.98
+  },
+  {
+    "text": "the part of Australia\nthat Americans almost",
+    "start": 183.9,
+    "duration": 2.76
+  },
+  {
+    "text": "had a sort a dream about, the\noriginal America, the Wild",
+    "start": 186.66,
+    "duration": 3.55
+  },
+  {
+    "text": "West.",
+    "start": 190.21,
+    "duration": 0.5
+  },
+  {
+    "text": "And Australia is definitely\nan American lookalike but not",
+    "start": 190.71,
+    "duration": 3.75
+  },
+  {
+    "text": "the same.",
+    "start": 194.46,
+    "duration": 0.84
+  },
+  {
+    "text": "I grew up in an\nimmigrant family,",
+    "start": 195.3,
+    "duration": 2.67
+  },
+  {
+    "text": "like an American\nimmigrant family.",
+    "start": 197.97,
+    "duration": 2.31
+  },
+  {
+    "text": "First to go to University.",
+    "start": 200.28,
+    "duration": 1.86
+  },
+  {
+    "text": "Did chemical engineering, which\nmy poor Greek-speaking mother",
+    "start": 202.14,
+    "duration": 3.877
+  },
+  {
+    "text": "I don't think\nunderstood until the day",
+    "start": 206.017,
+    "duration": 1.583
+  },
+  {
+    "text": "she died what a\nchemical engineer did.",
+    "start": 207.6,
+    "duration": 2.91
+  },
+  {
+    "text": "I was just the prodigal son.",
+    "start": 210.51,
+    "duration": 1.74
+  },
+  {
+    "text": "First in the family\nto go to school.",
+    "start": 212.25,
+    "duration": 2.1
+  },
+  {
+    "text": "And then DAO hired me\nsaying if you join us,",
+    "start": 214.35,
+    "duration": 3.788
+  },
+  {
+    "text": "we'll show you the world.",
+    "start": 218.138,
+    "duration": 1.042
+  },
+  {
+    "text": "And they did.",
+    "start": 219.18,
+    "duration": 0.87
+  },
+  {
+    "text": "And 43 years later, I retired\nfrom this great American",
+    "start": 220.05,
+    "duration": 3.42
+  },
+  {
+    "text": "institution.",
+    "start": 223.47,
+    "duration": 1.2
+  },
+  {
+    "text": "I tried to bring my Australian\nattributes to my job",
+    "start": 224.67,
+    "duration": 4.05
+  },
+  {
+    "text": "at all times, which was we're a\nfun-loving, passionate society.",
+    "start": 228.72,
+    "duration": 4.86
+  },
+  {
+    "text": "We love our sports.",
+    "start": 233.58,
+    "duration": 0.99
+  },
+  {
+    "text": "We could probably\nget back to that",
+    "start": 234.57,
+    "duration": 0.96
+  },
+  {
+    "text": "when I talk about Olympics.",
+    "start": 235.53,
+    "duration": 1.29
+  },
+  {
+    "text": "But we also like\nadventurism and take risks",
+    "start": 236.82,
+    "duration": 2.94
+  },
+  {
+    "text": "and are very\nforthright and candid.",
+    "start": 239.76,
+    "duration": 2.573
+  },
+  {
+    "text": "And, of course,\nmarrying that with",
+    "start": 242.333,
+    "duration": 1.417
+  },
+  {
+    "text": "the American entrepreneurial\nspirit and this great country's",
+    "start": 243.75,
+    "duration": 4.02
+  },
+  {
+    "text": "value system was a\ngreat combination.",
+    "start": 247.77,
+    "duration": 2.58
+  },
+  {
+    "text": "And I did most of that in Asia,\nwhere I also learnt the power",
+    "start": 250.35,
+    "duration": 3.21
+  },
+  {
+    "text": "of relationships.",
+    "start": 253.56,
+    "duration": 1.21
+  },
+  {
+    "text": "And so along the way, I\nnever thought I'd be CEO.",
+    "start": 254.77,
+    "duration": 3.265
+  },
+  {
+    "text": "I guess that's\none of the tricks.",
+    "start": 258.035,
+    "duration": 1.375
+  },
+  {
+    "text": "Don't work to the next job,\nwork really well in the job",
+    "start": 259.41,
+    "duration": 2.94
+  },
+  {
+    "text": "you're in.",
+    "start": 262.35,
+    "duration": 1.14
+  },
+  {
+    "text": "People noticed me in the ability\nI had to create change and then",
+    "start": 263.49,
+    "duration": 3.87
+  },
+  {
+    "text": "deal with change.",
+    "start": 267.36,
+    "duration": 1.17
+  },
+  {
+    "text": "And this book is\nwritten because my time",
+    "start": 268.53,
+    "duration": 2.7
+  },
+  {
+    "text": "as CEO was just constant change.",
+    "start": 271.23,
+    "duration": 2.655
+  },
+  {
+    "text": "So that's a thumbnail sketch.",
+    "start": 273.885,
+    "duration": 2.025
+  },
+  {
+    "text": "I could add more.",
+    "start": 275.91,
+    "duration": 0.902
+  },
+  {
+    "text": "But there's a few chapters in\nthe book that deal with that.",
+    "start": 276.812,
+    "duration": 2.458
+  },
+  {
+    "text": "ADI IGNATIUS: No, that's great.",
+    "start": 279.27,
+    "duration": 1.292
+  },
+  {
+    "text": "I think that's good context\nsetting for the conversation",
+    "start": 280.562,
+    "duration": 2.548
+  },
+  {
+    "text": "we're going to have.",
+    "start": 283.11,
+    "duration": 0.833
+  },
+  {
+    "text": "Now, if you're\nwatching this, if you",
+    "start": 283.943,
+    "duration": 1.507
+  },
+  {
+    "text": "have questions along the way\nfor Andrew about disruption,",
+    "start": 285.45,
+    "duration": 4.235
+  },
+  {
+    "text": "about leading\nthrough disruption,",
+    "start": 289.685,
+    "duration": 1.375
+  },
+  {
+    "text": "put them in the chat.",
+    "start": 291.06,
+    "duration": 0.875
+  },
+  {
+    "text": "And we'll try to get\nto some of those later.",
+    "start": 291.935,
+    "duration": 1.985
+  },
+  {
+    "text": "So let's talk about-- so\nthe very title of the book",
+    "start": 293.92,
+    "duration": 2.75
+  },
+  {
+    "text": "suggests that we're\nin a moment of where",
+    "start": 296.67,
+    "duration": 2.43
+  },
+  {
+    "text": "disruption has become the norm.",
+    "start": 299.1,
+    "duration": 1.56
+  },
+  {
+    "text": "And I want to pressure\ntest that a little bit.",
+    "start": 300.66,
+    "duration": 2.34
+  },
+  {
+    "text": "I mean, are we truly in\na more volatile world?",
+    "start": 303.0,
+    "duration": 4.05
+  },
+  {
+    "text": "Or is it possible that\nour media consumption",
+    "start": 307.05,
+    "duration": 3.36
+  },
+  {
+    "text": "is giving us a distorted\nimpression that change",
+    "start": 310.41,
+    "duration": 2.7
+  },
+  {
+    "text": "is more volatile, is happening\nmore quickly than before?",
+    "start": 313.11,
+    "duration": 3.57
+  },
+  {
+    "text": "ANDREW LIVERIS: Yeah, I\nthink your question frames",
+    "start": 316.68,
+    "duration": 2.1
+  },
+  {
+    "text": "the difference.",
+    "start": 318.78,
+    "duration": 0.63
+  },
+  {
+    "text": "I mean, 100 years ago\nthere was volatility.",
+    "start": 319.41,
+    "duration": 2.73
+  },
+  {
+    "text": "And 100 years ago there\nwere World War and wars.",
+    "start": 322.14,
+    "duration": 3.0
+  },
+  {
+    "text": "And humanity is constantly\nbeing disrupted.",
+    "start": 325.14,
+    "duration": 3.9
+  },
+  {
+    "text": "But the cycle of\ndisruption has just",
+    "start": 329.04,
+    "duration": 2.19
+  },
+  {
+    "text": "picked up because the\namplification of connectivity.",
+    "start": 331.23,
+    "duration": 3.33
+  },
+  {
+    "text": "The digital age, the big\ntechnology revolution",
+    "start": 334.56,
+    "duration": 2.43
+  },
+  {
+    "text": "that we're all experiencing\nis amplifying everything.",
+    "start": 336.99,
+    "duration": 2.91
+  },
+  {
+    "text": "It's the old Chinese adage.",
+    "start": 339.9,
+    "duration": 1.17
+  },
+  {
+    "text": "A butterfly flapping its\nwings in one part of China",
+    "start": 341.07,
+    "duration": 3.63
+  },
+  {
+    "text": "leads to a typhoon in\nanother part of China.",
+    "start": 344.7,
+    "duration": 2.22
+  },
+  {
+    "text": "It's really amplification\nby connectivity.",
+    "start": 346.92,
+    "duration": 2.94
+  },
+  {
+    "text": "The digital disruption, which\nis well and truly upon us,",
+    "start": 349.86,
+    "duration": 2.79
+  },
+  {
+    "text": "is creating just a\nsense of ongoing crisis.",
+    "start": 352.65,
+    "duration": 3.33
+  },
+  {
+    "text": "And I call it the new abnormal.",
+    "start": 355.98,
+    "duration": 2.19
+  },
+  {
+    "text": "It's constant uncertainty.",
+    "start": 358.17,
+    "duration": 2.25
+  },
+  {
+    "text": "And the new paradigm, which\nis in the 21st century--",
+    "start": 360.42,
+    "duration": 4.02
+  },
+  {
+    "text": "our 20th century\ninstitutions were not",
+    "start": 364.44,
+    "duration": 2.67
+  },
+  {
+    "text": "built for that constant state\nof flux and uncertainty.",
+    "start": 367.11,
+    "duration": 3.81
+  },
+  {
+    "text": "And really fundamentally\nthe new, I call it,",
+    "start": 370.92,
+    "duration": 3.27
+  },
+  {
+    "text": "disease of short-termism--\neveryone wants an answer now.",
+    "start": 374.19,
+    "duration": 3.93
+  },
+  {
+    "text": "Everything has to\nbe satiated now.",
+    "start": 378.12,
+    "duration": 3.3
+  },
+  {
+    "text": "Social media is making\ngratification instant.",
+    "start": 381.42,
+    "duration": 3.12
+  },
+  {
+    "text": "Everyone's expecting\nthe new reality shows",
+    "start": 384.54,
+    "duration": 2.91
+  },
+  {
+    "text": "to show how to get to the end\npoint without the hard work",
+    "start": 387.45,
+    "duration": 3.45
+  },
+  {
+    "text": "that we all had to learn\nin the 20th century.",
+    "start": 390.9,
+    "duration": 2.35
+  },
+  {
+    "text": "This is a very different model\nthat we have to adjust to.",
+    "start": 393.25,
+    "duration": 3.41
+  },
+  {
+    "text": "And it's a new reality as\nthe book will address and has",
+    "start": 396.66,
+    "duration": 3.78
+  },
+  {
+    "text": "addressed is how do you actually\nwork away from divergence,",
+    "start": 400.44,
+    "duration": 4.5
+  },
+  {
+    "text": "where constant uncertainty\nis the new paradigm",
+    "start": 404.94,
+    "duration": 2.82
+  },
+  {
+    "text": "to convergence, which\nis solution space.",
+    "start": 407.76,
+    "duration": 3.51
+  },
+  {
+    "text": "How do you begin overcoming\nthese leadership vacuums that",
+    "start": 411.27,
+    "duration": 3.84
+  },
+  {
+    "text": "are appearing everywhere?",
+    "start": 415.11,
+    "duration": 1.91
+  },
+  {
+    "text": "ADI IGNATIUS: So let's assume--",
+    "start": 417.02,
+    "duration": 1.373
+  },
+  {
+    "text": "we can't put the toothpaste\nback in the tube--",
+    "start": 418.393,
+    "duration": 1.917
+  },
+  {
+    "text": "that this is the new reality.",
+    "start": 420.31,
+    "duration": 1.41
+  },
+  {
+    "text": "And we can't wish it away.",
+    "start": 421.72,
+    "duration": 3.33
+  },
+  {
+    "text": "What's some advice, let's say,\nfor managers, for executives",
+    "start": 425.05,
+    "duration": 3.96
+  },
+  {
+    "text": "to try to succeed, stay\nahead of the waves of change",
+    "start": 429.01,
+    "duration": 8.28
+  },
+  {
+    "text": "to try to manage effectively\nin this volatile world.",
+    "start": 437.29,
+    "duration": 4.26
+  },
+  {
+    "text": "ANDREW LIVERIS:\nDefinitely, the book",
+    "start": 441.55,
+    "duration": 1.5
+  },
+  {
+    "text": "is written with this\nquestion in mind, which is--",
+    "start": 443.05,
+    "duration": 3.75
+  },
+  {
+    "text": "and really what I would\nlove for the book to be",
+    "start": 446.8,
+    "duration": 2.25
+  },
+  {
+    "text": "is the foundation for the\nbeginnings of some new solution",
+    "start": 449.05,
+    "duration": 4.53
+  },
+  {
+    "text": "sets, including new\nleadership models,",
+    "start": 453.58,
+    "duration": 2.37
+  },
+  {
+    "text": "a new contextual\nleadership model.",
+    "start": 455.95,
+    "duration": 2.31
+  },
+  {
+    "text": "And I begin to address\nit by saying, look,",
+    "start": 458.26,
+    "duration": 3.37
+  },
+  {
+    "text": "you can't, therefore, be the\nsame leader all the time.",
+    "start": 461.63,
+    "duration": 4.1
+  },
+  {
+    "text": "You have to have\na wide bandwidth.",
+    "start": 465.73,
+    "duration": 2.7
+  },
+  {
+    "text": "You have to be able to\ngo wide as well as deep.",
+    "start": 468.43,
+    "duration": 2.4
+  },
+  {
+    "text": "Just knowing your subject\nis not good enough,",
+    "start": 470.83,
+    "duration": 2.68
+  },
+  {
+    "text": "you have to be able to pivot\nand move around and hit",
+    "start": 473.51,
+    "duration": 3.09
+  },
+  {
+    "text": "the bandwidth of the\nconversations that",
+    "start": 476.6,
+    "duration": 2.34
+  },
+  {
+    "text": "are occurring in many\ncases chaotically",
+    "start": 478.94,
+    "duration": 2.7
+  },
+  {
+    "text": "but certainly adjacently.",
+    "start": 481.64,
+    "duration": 1.53
+  },
+  {
+    "text": "And I really bring\nforward then this notion",
+    "start": 483.17,
+    "duration": 3.03
+  },
+  {
+    "text": "that business, government,\nand civil society",
+    "start": 486.2,
+    "duration": 3.69
+  },
+  {
+    "text": "are locked together\nin a triangle,",
+    "start": 489.89,
+    "duration": 2.07
+  },
+  {
+    "text": "an equilateral triangle and\nthat as a result of that,",
+    "start": 491.96,
+    "duration": 2.73
+  },
+  {
+    "text": "you've got to move up and\ndown those axes constantly",
+    "start": 494.69,
+    "duration": 3.24
+  },
+  {
+    "text": "and reinvent\nyourself as a leader.",
+    "start": 497.93,
+    "duration": 2.31
+  },
+  {
+    "text": "And to do that, you\nhave to actually find",
+    "start": 500.24,
+    "duration": 2.61
+  },
+  {
+    "text": "sources of factual information\nversus just opinion.",
+    "start": 502.85,
+    "duration": 4.5
+  },
+  {
+    "text": "I mean, opinion is valuable.",
+    "start": 507.35,
+    "duration": 1.53
+  },
+  {
+    "text": "And you need to hear what\nother stakeholders have to say.",
+    "start": 508.88,
+    "duration": 3.179
+  },
+  {
+    "text": "But center it on fact and\nget the facts from the source",
+    "start": 512.059,
+    "duration": 3.99
+  },
+  {
+    "text": "and go to the sources.",
+    "start": 516.049,
+    "duration": 1.681
+  },
+  {
+    "text": "And in my CEO world, that\nmeant constant travel",
+    "start": 517.73,
+    "duration": 3.51
+  },
+  {
+    "text": "to the regions, constant\ntravel to the sales offices",
+    "start": 521.24,
+    "duration": 3.0
+  },
+  {
+    "text": "and the factories, listening\nto people on the shop floor,",
+    "start": 524.24,
+    "duration": 3.03
+  },
+  {
+    "text": "listening to people\ntalking to customers,",
+    "start": 527.27,
+    "duration": 2.55
+  },
+  {
+    "text": "working with governments as\npartners, not as adversaries.",
+    "start": 529.82,
+    "duration": 3.18
+  },
+  {
+    "text": "A complete reinvention\nof the model of intake",
+    "start": 533.0,
+    "duration": 3.58
+  },
+  {
+    "text": "so you can get a better output.",
+    "start": 536.58,
+    "duration": 1.52
+  },
+  {
+    "text": "And then flux it fast.",
+    "start": 538.1,
+    "duration": 1.92
+  },
+  {
+    "text": "Embrace the reality of\nwhat you're hearing.",
+    "start": 540.02,
+    "duration": 2.19
+  },
+  {
+    "text": "Make a choice.",
+    "start": 542.21,
+    "duration": 1.38
+  },
+  {
+    "text": "Make several scenarios\naround those choices in case",
+    "start": 543.59,
+    "duration": 3.15
+  },
+  {
+    "text": "your main choice doesn't work.",
+    "start": 546.74,
+    "duration": 1.56
+  },
+  {
+    "text": "Absolutely lead the change\nyourself from the front line.",
+    "start": 548.3,
+    "duration": 3.67
+  },
+  {
+    "text": "And then build a team around you\nthat can deal with that change.",
+    "start": 551.97,
+    "duration": 3.35
+  },
+  {
+    "text": "And then repeat and\nrepeat and repeat.",
+    "start": 555.32,
+    "duration": 3.36
+  },
+  {
+    "text": "That model of\nleadership is not what's",
+    "start": 558.68,
+    "duration": 1.768
+  },
+  {
+    "text": "taught in the business schools.",
+    "start": 560.448,
+    "duration": 1.292
+  },
+  {
+    "text": "It's not what's\ntaught-- actually,",
+    "start": 561.74,
+    "duration": 1.71
+  },
+  {
+    "text": "it's only taught in real life.",
+    "start": 563.45,
+    "duration": 1.56
+  },
+  {
+    "text": "And, frankly we've now got\nto impart those messages",
+    "start": 565.01,
+    "duration": 3.24
+  },
+  {
+    "text": "to people who aspire to\nbe this type of leader.",
+    "start": 568.25,
+    "duration": 3.0
+  },
+  {
+    "text": "And it is definitely\na lot of energy,",
+    "start": 571.25,
+    "duration": 2.47
+  },
+  {
+    "text": "a lot of passion but a lot\nof judgment calls based",
+    "start": 573.72,
+    "duration": 2.72
+  },
+  {
+    "text": "on fact-based inputs.",
+    "start": 576.44,
+    "duration": 2.38
+  },
+  {
+    "text": "ADI IGNATIUS: So you\nmentioned earlier--",
+    "start": 578.82,
+    "duration": 1.94
+  },
+  {
+    "text": "you talked about the\nproblem with short-termism.",
+    "start": 580.76,
+    "duration": 2.49
+  },
+  {
+    "text": "And that's one symptom, I\nguess, of the volatile world",
+    "start": 583.25,
+    "duration": 4.62
+  },
+  {
+    "text": "we're living in now.",
+    "start": 587.87,
+    "duration": 1.11
+  },
+  {
+    "text": "Talk a little bit--",
+    "start": 588.98,
+    "duration": 0.9
+  },
+  {
+    "text": "I mean, you've always been a\nvoice for broad stakeholder,",
+    "start": 589.88,
+    "duration": 6.525
+  },
+  {
+    "text": "the CEOs, the companies\nneed to pay attention",
+    "start": 596.405,
+    "duration": 2.895
+  },
+  {
+    "text": "to their broad stakeholder base.",
+    "start": 599.3,
+    "duration": 1.86
+  },
+  {
+    "text": "But on the other hand,\nyou're running DOW Chemical,",
+    "start": 601.16,
+    "duration": 2.46
+  },
+  {
+    "text": "a company where there's pressure\nto deliver quarterly results.",
+    "start": 603.62,
+    "duration": 2.97
+  },
+  {
+    "text": "And I've heard CEOs say,\nyeah, you can do both.",
+    "start": 606.59,
+    "duration": 4.21
+  },
+  {
+    "text": "And I think our audience\nmight be skeptical",
+    "start": 610.8,
+    "duration": 2.42
+  },
+  {
+    "text": "that you can do both.",
+    "start": 613.22,
+    "duration": 1.12
+  },
+  {
+    "text": "So can you talk a\nlittle bit about how",
+    "start": 614.34,
+    "duration": 2.54
+  },
+  {
+    "text": "to manage that balance?",
+    "start": 616.88,
+    "duration": 1.32
+  },
+  {
+    "text": "It cannot be easy.",
+    "start": 618.2,
+    "duration": 1.68
+  },
+  {
+    "text": "ANDREW LIVERIS:\nDefinitely not easy.",
+    "start": 619.88,
+    "duration": 1.5
+  },
+  {
+    "text": "And it's definitely not\nnecessarily a new paradigm.",
+    "start": 621.38,
+    "duration": 3.36
+  },
+  {
+    "text": "I do think CEOs of a\nbygone era probably",
+    "start": 624.74,
+    "duration": 4.5
+  },
+  {
+    "text": "had the same version of it.",
+    "start": 629.24,
+    "duration": 1.32
+  },
+  {
+    "text": "But your very first question\nspoke to what's changed.",
+    "start": 630.56,
+    "duration": 3.09
+  },
+  {
+    "text": "And what's changed is the speed\nof that and the impatience",
+    "start": 633.65,
+    "duration": 4.08
+  },
+  {
+    "text": "factor in particular\nof the financial owner",
+    "start": 637.73,
+    "duration": 2.64
+  },
+  {
+    "text": "that increasingly wants the\nshort term reward dividend",
+    "start": 640.37,
+    "duration": 3.66
+  },
+  {
+    "text": "share buybacks so\nthat in turn they",
+    "start": 644.03,
+    "duration": 2.19
+  },
+  {
+    "text": "can deploy the funds in other\nareas and other opportunities.",
+    "start": 646.22,
+    "duration": 3.39
+  },
+  {
+    "text": "Or said another\nway, you the leader",
+    "start": 649.61,
+    "duration": 2.4
+  },
+  {
+    "text": "of that enterprise publicly\nowned, you the board,",
+    "start": 652.01,
+    "duration": 3.78
+  },
+  {
+    "text": "aren't the best allocator of\ncapital if all you're doing",
+    "start": 655.79,
+    "duration": 3.51
+  },
+  {
+    "text": "is looking at your sector.",
+    "start": 659.3,
+    "duration": 1.92
+  },
+  {
+    "text": "So that brings into\nmind in the roles",
+    "start": 661.22,
+    "duration": 2.91
+  },
+  {
+    "text": "that we all have to play in\nhow capital gets allocated",
+    "start": 664.13,
+    "duration": 3.33
+  },
+  {
+    "text": "and what's the metrics against\nthat capital allocation.",
+    "start": 667.46,
+    "duration": 2.88
+  },
+  {
+    "text": "It's fine to get\nshort-term rewards where",
+    "start": 670.34,
+    "duration": 2.64
+  },
+  {
+    "text": "you can allocate the\ncapital to a sector",
+    "start": 672.98,
+    "duration": 1.92
+  },
+  {
+    "text": "that your enterprise is not in.",
+    "start": 674.9,
+    "duration": 2.01
+  },
+  {
+    "text": "That absolutely is the\nbreakdown and the breaking up",
+    "start": 676.91,
+    "duration": 2.46
+  },
+  {
+    "text": "of the conglomerate model\nthat works so effectively",
+    "start": 679.37,
+    "duration": 2.44
+  },
+  {
+    "text": "last century.",
+    "start": 681.81,
+    "duration": 1.07
+  },
+  {
+    "text": "Totally understand that.",
+    "start": 682.88,
+    "duration": 1.29
+  },
+  {
+    "text": "In fact, I exercise that with\nthe putting together of DOW",
+    "start": 684.17,
+    "duration": 3.03
+  },
+  {
+    "text": "DuPont, to create three viable\nmore vertically oriented",
+    "start": 687.2,
+    "duration": 3.4
+  },
+  {
+    "text": "companies.",
+    "start": 690.6,
+    "duration": 0.5
+  },
+  {
+    "text": "No problem with that.",
+    "start": 691.1,
+    "duration": 1.11
+  },
+  {
+    "text": "You absolutely totally\nhave to do that.",
+    "start": 692.21,
+    "duration": 1.99
+  },
+  {
+    "text": "However, what has happened is\nwhen you take money, or capital",
+    "start": 694.2,
+    "duration": 4.04
+  },
+  {
+    "text": "allocation away from the\nreturn five years hence",
+    "start": 698.24,
+    "duration": 3.48
+  },
+  {
+    "text": "and 10 years hence\nin your sector,",
+    "start": 701.72,
+    "duration": 2.85
+  },
+  {
+    "text": "you're abdicating\nleadership in your sector.",
+    "start": 704.57,
+    "duration": 2.4
+  },
+  {
+    "text": "And over time you will\ndie in that sector.",
+    "start": 706.97,
+    "duration": 2.92
+  },
+  {
+    "text": "So in other words, if you\ndon't put money against R&D",
+    "start": 709.89,
+    "duration": 2.81
+  },
+  {
+    "text": "and don't put money against\ncapital that in essence won't",
+    "start": 712.7,
+    "duration": 3.0
+  },
+  {
+    "text": "ever return for some time\nlater, your portfolio allocation",
+    "start": 715.7,
+    "duration": 3.72
+  },
+  {
+    "text": "being so short term\nwill only last as long",
+    "start": 719.42,
+    "duration": 3.39
+  },
+  {
+    "text": "as the decisions made by your\nforbearers give you a return.",
+    "start": 722.81,
+    "duration": 4.02
+  },
+  {
+    "text": "I inherited a DOW like that.",
+    "start": 726.83,
+    "duration": 1.83
+  },
+  {
+    "text": "I inherited a DOW that--",
+    "start": 728.66,
+    "duration": 1.53
+  },
+  {
+    "text": "I inherited a DOW\nthat was making money",
+    "start": 730.19,
+    "duration": 1.92
+  },
+  {
+    "text": "off yesterday's inventions.",
+    "start": 732.11,
+    "duration": 1.41
+  },
+  {
+    "text": "But it had nothing new coming.",
+    "start": 733.52,
+    "duration": 1.62
+  },
+  {
+    "text": "And the markets were saying.",
+    "start": 735.14,
+    "duration": 1.56
+  },
+  {
+    "text": "You know what?",
+    "start": 736.7,
+    "duration": 0.78
+  },
+  {
+    "text": "We'll rent their stock\nbecause they will eventually",
+    "start": 737.48,
+    "duration": 2.64
+  },
+  {
+    "text": "go private, be broken\nup, et cetera, et cetera.",
+    "start": 740.12,
+    "duration": 2.86
+  },
+  {
+    "text": "So what one has to\ndo to do both is you",
+    "start": 742.98,
+    "duration": 3.35
+  },
+  {
+    "text": "have to have a\nlong-term strategy that",
+    "start": 746.33,
+    "duration": 1.98
+  },
+  {
+    "text": "shows long-term value creation\nviability to your owners",
+    "start": 748.31,
+    "duration": 3.42
+  },
+  {
+    "text": "and to your stakeholders.",
+    "start": 751.73,
+    "duration": 1.26
+  },
+  {
+    "text": "Put those programs in place.",
+    "start": 752.99,
+    "duration": 1.86
+  },
+  {
+    "text": "Put metrics in place that are\none two, three, five years,",
+    "start": 754.85,
+    "duration": 4.02
+  },
+  {
+    "text": "not unlike what private equity\ndoes right now, by the way,",
+    "start": 758.87,
+    "duration": 2.58
+  },
+  {
+    "text": "while delivering\nthe 90-day result.",
+    "start": 761.45,
+    "duration": 2.07
+  },
+  {
+    "text": "Is that hard to do?",
+    "start": 763.52,
+    "duration": 1.32
+  },
+  {
+    "text": "Absolutely.",
+    "start": 764.84,
+    "duration": 0.81
+  },
+  {
+    "text": "What it means is you have to\nportfolio manage from within.",
+    "start": 765.65,
+    "duration": 3.03
+  },
+  {
+    "text": "You have to fund the\nbusinesses that can actually",
+    "start": 768.68,
+    "duration": 2.49
+  },
+  {
+    "text": "grow and develop the long-term\nreturns while letting",
+    "start": 771.17,
+    "duration": 3.18
+  },
+  {
+    "text": "the short-term businesses\nthat run for the short-term",
+    "start": 774.35,
+    "duration": 3.06
+  },
+  {
+    "text": "bring the cash to fund\nfor the long-term while",
+    "start": 777.41,
+    "duration": 2.85
+  },
+  {
+    "text": "at the same time appeasing\nthe owners need for return",
+    "start": 780.26,
+    "duration": 3.42
+  },
+  {
+    "text": "in the short-term.",
+    "start": 783.68,
+    "duration": 1.11
+  },
+  {
+    "text": "Now, if that sounds like\na lot all at once, it is.",
+    "start": 784.79,
+    "duration": 3.69
+  },
+  {
+    "text": "Therefore, at the\nend of the day,",
+    "start": 788.48,
+    "duration": 2.23
+  },
+  {
+    "text": "this ability to actually\nallocate capital",
+    "start": 790.71,
+    "duration": 2.06
+  },
+  {
+    "text": "across the two dimensions is\nnot-- every board can do that.",
+    "start": 792.77,
+    "duration": 3.63
+  },
+  {
+    "text": "And I then have a\nwhole chapter dedicated",
+    "start": 796.4,
+    "duration": 2.19
+  },
+  {
+    "text": "to the development of\nboards that can actually",
+    "start": 798.59,
+    "duration": 2.58
+  },
+  {
+    "text": "do what I just said,\nincluding, by the way",
+    "start": 801.17,
+    "duration": 2.19
+  },
+  {
+    "text": "your embedded question, which\nI know you're going to get to,",
+    "start": 803.36,
+    "duration": 2.5
+  },
+  {
+    "text": "which is how to\nmake sustainability",
+    "start": 805.86,
+    "duration": 1.46
+  },
+  {
+    "text": "a core part of the\nagenda going forward.",
+    "start": 807.32,
+    "duration": 3.45
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah, well, maybe\nwe should talk about ESG--",
+    "start": 810.77,
+    "duration": 2.49
+  },
+  {
+    "text": "so that's environmental,\nsocial governance--",
+    "start": 813.26,
+    "duration": 4.2
+  },
+  {
+    "text": "as a way to get to that topic.",
+    "start": 817.46,
+    "duration": 2.31
+  },
+  {
+    "text": "ESG is such a tricky concept\nand such a tricky metric.",
+    "start": 819.77,
+    "duration": 5.34
+  },
+  {
+    "text": "And there are people in\nthe sustainability camp",
+    "start": 825.11,
+    "duration": 4.02
+  },
+  {
+    "text": "who think it all is just\na bunch of greenwashing,",
+    "start": 829.13,
+    "duration": 2.62
+  },
+  {
+    "text": "doesn't actually measure\nanything significant.",
+    "start": 831.75,
+    "duration": 2.24
+  },
+  {
+    "text": "At least in the United\nStates, the right",
+    "start": 833.99,
+    "duration": 2.46
+  },
+  {
+    "text": "is sort of attacking ESG\nmetrics as overly woke",
+    "start": 836.45,
+    "duration": 2.88
+  },
+  {
+    "text": "and that they're\nsomehow antithetical",
+    "start": 839.33,
+    "duration": 1.71
+  },
+  {
+    "text": "to successful business.",
+    "start": 841.04,
+    "duration": 2.7
+  },
+  {
+    "text": "How do we make ESG\nwork in the long term",
+    "start": 843.74,
+    "duration": 3.93
+  },
+  {
+    "text": "to really measure\nwhat matters and to be",
+    "start": 847.67,
+    "duration": 3.06
+  },
+  {
+    "text": "an integral part of business\nand not a kind of SciShow to it?",
+    "start": 850.73,
+    "duration": 4.2
+  },
+  {
+    "text": "ANDREW LIVERIS: Yeah, I\nthink the conversation--",
+    "start": 854.93,
+    "duration": 3.93
+  },
+  {
+    "text": "excuse me-- of late has\ngotten into the people yelling",
+    "start": 858.86,
+    "duration": 4.26
+  },
+  {
+    "text": "at each other conversation,\nwhich is wokeism or anti",
+    "start": 863.12,
+    "duration": 3.12
+  },
+  {
+    "text": "wokeism.",
+    "start": 866.24,
+    "duration": 1.35
+  },
+  {
+    "text": "Businesses and\ncompanies like DOW",
+    "start": 867.59,
+    "duration": 2.19
+  },
+  {
+    "text": "that have been pushing\nan answer to the question",
+    "start": 869.78,
+    "duration": 2.61
+  },
+  {
+    "text": "you just asked for the\nlast couple of decades",
+    "start": 872.39,
+    "duration": 2.58
+  },
+  {
+    "text": "even before my time really were\nat the end of the day looking",
+    "start": 874.97,
+    "duration": 3.42
+  },
+  {
+    "text": "at it from the\npoint of view that I",
+    "start": 878.39,
+    "duration": 1.74
+  },
+  {
+    "text": "get a license to operate.",
+    "start": 880.13,
+    "duration": 1.62
+  },
+  {
+    "text": "That license is given\nto me by society.",
+    "start": 881.75,
+    "duration": 2.55
+  },
+  {
+    "text": "And the rules of that license\nare set by governments.",
+    "start": 884.3,
+    "duration": 4.35
+  },
+  {
+    "text": "So society likes governments.",
+    "start": 888.65,
+    "duration": 1.62
+  },
+  {
+    "text": "Governments puts in\nplace regulations.",
+    "start": 890.27,
+    "duration": 2.28
+  },
+  {
+    "text": "I the enterprise\nfollow the rules",
+    "start": 892.55,
+    "duration": 2.4
+  },
+  {
+    "text": "that are set by government\nfor the benefit of society.",
+    "start": 894.95,
+    "duration": 3.3
+  },
+  {
+    "text": "That role in environmental\nmanagement, of course,",
+    "start": 898.25,
+    "duration": 3.45
+  },
+  {
+    "text": "really brought to the\ntable back in the Nixon era",
+    "start": 901.7,
+    "duration": 2.34
+  },
+  {
+    "text": "with the Clean Air\nAct and the '70s",
+    "start": 904.04,
+    "duration": 2.64
+  },
+  {
+    "text": "and the establishment\nof the EPA.",
+    "start": 906.68,
+    "duration": 1.86
+  },
+  {
+    "text": "DOW really put\ntogether an activity",
+    "start": 908.54,
+    "duration": 2.88
+  },
+  {
+    "text": "that said, OK, I need\nto fulfill compliance,",
+    "start": 911.42,
+    "duration": 3.21
+  },
+  {
+    "text": "obey the regulation.",
+    "start": 914.63,
+    "duration": 1.17
+  },
+  {
+    "text": "But now let me be anticipatory.",
+    "start": 915.8,
+    "duration": 2.13
+  },
+  {
+    "text": "I know the science\nbehind my business.",
+    "start": 917.93,
+    "duration": 2.77
+  },
+  {
+    "text": "How can I help the EPA and\nthe government agencies that",
+    "start": 920.7,
+    "duration": 3.08
+  },
+  {
+    "text": "regulate me put in place\nthe better regulation,",
+    "start": 923.78,
+    "duration": 2.58
+  },
+  {
+    "text": "the smarter regulation?",
+    "start": 926.36,
+    "duration": 1.59
+  },
+  {
+    "text": "That in essence became the\nClinton era and the development",
+    "start": 927.95,
+    "duration": 3.18
+  },
+  {
+    "text": "of the sustainability\nagenda for the government",
+    "start": 931.13,
+    "duration": 3.36
+  },
+  {
+    "text": "and for companies.",
+    "start": 934.49,
+    "duration": 0.99
+  },
+  {
+    "text": "Sustainability,\nreally what it meant",
+    "start": 935.48,
+    "duration": 2.1
+  },
+  {
+    "text": "was the license to\noperate sustainably",
+    "start": 937.58,
+    "duration": 3.12
+  },
+  {
+    "text": "by putting in place\nthe rules that had",
+    "start": 940.7,
+    "duration": 2.67
+  },
+  {
+    "text": "the triple bottom line in mind.",
+    "start": 943.37,
+    "duration": 1.74
+  },
+  {
+    "text": "And DOW was one of the authors\nof the triple bottom line",
+    "start": 945.11,
+    "duration": 2.55
+  },
+  {
+    "text": "piece of work, which was you got\nto actually develop a profit.",
+    "start": 947.66,
+    "duration": 3.81
+  },
+  {
+    "text": "But you've got to have metrics\nalongside the environment",
+    "start": 951.47,
+    "duration": 2.4
+  },
+  {
+    "text": "pillar and the social pillar.",
+    "start": 953.87,
+    "duration": 1.8
+  },
+  {
+    "text": "What's happened in the OOs\nand now this current decade",
+    "start": 955.67,
+    "duration": 2.94
+  },
+  {
+    "text": "and going forward is\nESG has hit of course,",
+    "start": 958.61,
+    "duration": 4.895
+  },
+  {
+    "text": "the domain of the public.",
+    "start": 963.505,
+    "duration": 1.675
+  },
+  {
+    "text": "And everyone is looking at\nESG and should look at them",
+    "start": 965.18,
+    "duration": 3.42
+  },
+  {
+    "text": "as separate items but lumps them\ntogether and then simplifies,",
+    "start": 968.6,
+    "duration": 2.918
+  },
+  {
+    "text": "which is the first\nthing I say in the book.",
+    "start": 971.518,
+    "duration": 1.792
+  },
+  {
+    "text": "It's the first\nchapter in the book.",
+    "start": 973.31,
+    "duration": 1.458
+  },
+  {
+    "text": "I basically say stop\nthe simplification",
+    "start": 974.768,
+    "duration": 2.082
+  },
+  {
+    "text": "by putting it together.",
+    "start": 976.85,
+    "duration": 1.09
+  },
+  {
+    "text": "It's not one acronym.",
+    "start": 977.94,
+    "duration": 1.04
+  },
+  {
+    "text": "It's three very different\nverticals that need regulations",
+    "start": 978.98,
+    "duration": 3.57
+  },
+  {
+    "text": "across each of\nthe verticals that",
+    "start": 982.55,
+    "duration": 1.74
+  },
+  {
+    "text": "speak to the values\nof the 21st century.",
+    "start": 984.29,
+    "duration": 2.28
+  },
+  {
+    "text": "And the societal license to\noperate set by governments",
+    "start": 986.57,
+    "duration": 3.24
+  },
+  {
+    "text": "means governments\nneed to get educated",
+    "start": 989.81,
+    "duration": 2.58
+  },
+  {
+    "text": "on the new environmental\nregulations that are required",
+    "start": 992.39,
+    "duration": 2.67
+  },
+  {
+    "text": "whether they be\nin climate change,",
+    "start": 995.06,
+    "duration": 1.63
+  },
+  {
+    "text": "whether they be in\nemissions, whether they be",
+    "start": 996.69,
+    "duration": 1.94
+  },
+  {
+    "text": "on the treatment of land\nand water and all the things",
+    "start": 998.63,
+    "duration": 2.94
+  },
+  {
+    "text": "that we care about\nwith the planet.",
+    "start": 1001.57,
+    "duration": 1.53
+  },
+  {
+    "text": "The S part, which\nis inclusiveness,",
+    "start": 1003.1,
+    "duration": 2.22
+  },
+  {
+    "text": "societal justice,\nand treating people",
+    "start": 1005.32,
+    "duration": 2.19
+  },
+  {
+    "text": "equally and inclusiveness\nand the value of regulations",
+    "start": 1007.51,
+    "duration": 2.97
+  },
+  {
+    "text": "and inclusiveness.",
+    "start": 1010.48,
+    "duration": 0.9
+  },
+  {
+    "text": "And then governance, both\nbig G and small G governance,",
+    "start": 1011.38,
+    "duration": 3.12
+  },
+  {
+    "text": "from the point of view\nof government regulations",
+    "start": 1014.5,
+    "duration": 2.02
+  },
+  {
+    "text": "and obeying the\nlaws of the land.",
+    "start": 1016.52,
+    "duration": 1.65
+  },
+  {
+    "text": "And small G, which\nis how boards operate",
+    "start": 1018.17,
+    "duration": 2.7
+  },
+  {
+    "text": "with respect to shareholder\nand stakeholder duties.",
+    "start": 1020.87,
+    "duration": 3.479
+  },
+  {
+    "text": "And all of those\nare complexities",
+    "start": 1024.349,
+    "duration": 2.49
+  },
+  {
+    "text": "that need to be then put in\nplace by corporations working",
+    "start": 1026.839,
+    "duration": 3.061
+  },
+  {
+    "text": "with governments to help\ngovernments establish",
+    "start": 1029.9,
+    "duration": 2.73
+  },
+  {
+    "text": "the right regulations\nand a partnership model.",
+    "start": 1032.63,
+    "duration": 2.4
+  },
+  {
+    "text": "I see examples around the\nworld where that works.",
+    "start": 1035.03,
+    "duration": 2.43
+  },
+  {
+    "text": "They tend to be in more\nauthoritarian regimes,",
+    "start": 1037.46,
+    "duration": 2.46
+  },
+  {
+    "text": "top down, such as, say,\nSingapore or Korea or Germany.",
+    "start": 1039.92,
+    "duration": 4.53
+  },
+  {
+    "text": "They don't tend to work as\nwell in market-based capitalist",
+    "start": 1044.45,
+    "duration": 3.18
+  },
+  {
+    "text": "economies like the United States\nbecause of the trust model.",
+    "start": 1047.63,
+    "duration": 2.97
+  },
+  {
+    "text": "The trust model is broken\nbecause people see it",
+    "start": 1050.6,
+    "duration": 2.61
+  },
+  {
+    "text": "as interest politics,\nlobbying groups paying",
+    "start": 1053.21,
+    "duration": 3.33
+  },
+  {
+    "text": "for the right\nregulations by lobbying",
+    "start": 1056.54,
+    "duration": 2.31
+  },
+  {
+    "text": "your sector and your book.",
+    "start": 1058.85,
+    "duration": 1.77
+  },
+  {
+    "text": "Basically, in my\nbook, I say we need",
+    "start": 1060.62,
+    "duration": 3.19
+  },
+  {
+    "text": "to now toss that out and put in\nplace partnership models that",
+    "start": 1063.81,
+    "duration": 3.98
+  },
+  {
+    "text": "collaborate so we get the\nright regs for the 21st century",
+    "start": 1067.79,
+    "duration": 3.33
+  },
+  {
+    "text": "on digital, on E,\non S, and on G.",
+    "start": 1071.12,
+    "duration": 3.63
+  },
+  {
+    "text": "And that builds a sustainability\nagenda that in turn",
+    "start": 1074.75,
+    "duration": 3.7
+  },
+  {
+    "text": "for every corporation\nthat complies with it,",
+    "start": 1078.45,
+    "duration": 2.73
+  },
+  {
+    "text": "there are new profit\npools that come from it.",
+    "start": 1081.18,
+    "duration": 2.29
+  },
+  {
+    "text": "And, therefore, it becomes\ncentral to your strategy.",
+    "start": 1083.47,
+    "duration": 2.99
+  },
+  {
+    "text": "We need the new rules for\nthis century more than ever.",
+    "start": 1086.46,
+    "duration": 3.84
+  },
+  {
+    "text": "And it's the lack of\nthose rules that's",
+    "start": 1090.3,
+    "duration": 1.71
+  },
+  {
+    "text": "creating the disharmony and\nalmost anarchy from society",
+    "start": 1092.01,
+    "duration": 4.08
+  },
+  {
+    "text": "saying I just don't\nbelieve government anymore.",
+    "start": 1096.09,
+    "duration": 2.65
+  },
+  {
+    "text": "And I don't believe\nbusiness leadership anymore.",
+    "start": 1098.74,
+    "duration": 2.45
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah,\nthat's really well said.",
+    "start": 1101.19,
+    "duration": 2.32
+  },
+  {
+    "text": "I think we could maybe\nget an article from that.",
+    "start": 1103.51,
+    "duration": 3.12
+  },
+  {
+    "text": "So we'll talk later about that.",
+    "start": 1106.63,
+    "duration": 1.73
+  },
+  {
+    "text": "I want to shift to\ntalking about leadership.",
+    "start": 1108.36,
+    "duration": 2.4
+  },
+  {
+    "text": "More directly, you\nwrite in the book",
+    "start": 1110.76,
+    "duration": 2.61
+  },
+  {
+    "text": "that in the early\ndays at DOW Chemical,",
+    "start": 1113.37,
+    "duration": 3.78
+  },
+  {
+    "text": "you look back and say you were\ntoo polite, too accommodating,",
+    "start": 1117.15,
+    "duration": 2.76
+  },
+  {
+    "text": "too reverent toward the company\nand its long, long legacy",
+    "start": 1119.91,
+    "duration": 3.99
+  },
+  {
+    "text": "and to your predecessor.",
+    "start": 1123.9,
+    "duration": 1.08
+  },
+  {
+    "text": "And that probably\nis familiar to a lot",
+    "start": 1124.98,
+    "duration": 4.768
+  },
+  {
+    "text": "of people who are listening,\nwho come into-- it's",
+    "start": 1129.748,
+    "duration": 2.042
+  },
+  {
+    "text": "challenge many executives face.",
+    "start": 1131.79,
+    "duration": 1.74
+  },
+  {
+    "text": "So how do you balance\na desire to be a change",
+    "start": 1133.53,
+    "duration": 3.72
+  },
+  {
+    "text": "agent against a respect\nfor the traditions",
+    "start": 1137.25,
+    "duration": 2.61
+  },
+  {
+    "text": "that have created the legacy\nthat maybe brought you",
+    "start": 1139.86,
+    "duration": 2.34
+  },
+  {
+    "text": "to the company in\nthe first place?",
+    "start": 1142.2,
+    "duration": 1.8
+  },
+  {
+    "text": "ANDREW LIVERIS: All\nthe training one",
+    "start": 1144.0,
+    "duration": 1.5
+  },
+  {
+    "text": "gets going through the corporate\nmodel is not to be a disruptor.",
+    "start": 1145.5,
+    "duration": 4.62
+  },
+  {
+    "text": "Corporations have become\nlarge and were at one point",
+    "start": 1150.12,
+    "duration": 4.65
+  },
+  {
+    "text": "in time small and innovative,\ndeveloped the bureaucracies",
+    "start": 1154.77,
+    "duration": 4.02
+  },
+  {
+    "text": "that large companies bring\nthat ultimately enter",
+    "start": 1158.79,
+    "duration": 2.88
+  },
+  {
+    "text": "their demise because small\ncompanies in their space end",
+    "start": 1161.67,
+    "duration": 3.03
+  },
+  {
+    "text": "up literally proverbially\neating their lunch.",
+    "start": 1164.7,
+    "duration": 2.13
+  },
+  {
+    "text": "And the chemical industry was a\nmassive innovator last century",
+    "start": 1166.83,
+    "duration": 4.08
+  },
+  {
+    "text": "certainly in the first 50 years.",
+    "start": 1170.91,
+    "duration": 1.65
+  },
+  {
+    "text": "And then the last half\nof the last century,",
+    "start": 1172.56,
+    "duration": 3.07
+  },
+  {
+    "text": "we stopped innovating\nas a sector",
+    "start": 1175.63,
+    "duration": 1.55
+  },
+  {
+    "text": "because we made a lot of\nmoney out of the things",
+    "start": 1177.18,
+    "duration": 2.37
+  },
+  {
+    "text": "that we had innovated and\ninvented for modern America,",
+    "start": 1179.55,
+    "duration": 3.3
+  },
+  {
+    "text": "for the modern world.",
+    "start": 1182.85,
+    "duration": 1.62
+  },
+  {
+    "text": "And pick your favorite\narea from plastics",
+    "start": 1184.47,
+    "duration": 2.64
+  },
+  {
+    "text": "to paints to the things that\nlead to building materials",
+    "start": 1187.11,
+    "duration": 3.24
+  },
+  {
+    "text": "to pharmaceutical\ningredients, all the things",
+    "start": 1190.35,
+    "duration": 2.07
+  },
+  {
+    "text": "that modern life enjoys.",
+    "start": 1192.42,
+    "duration": 1.98
+  },
+  {
+    "text": "We were making a lot of money.",
+    "start": 1194.4,
+    "duration": 1.3
+  },
+  {
+    "text": "And so the people\nin DOW and companies",
+    "start": 1195.7,
+    "duration": 2.06
+  },
+  {
+    "text": "like DOW in the sector I\nwon't say got complacent",
+    "start": 1197.76,
+    "duration": 2.82
+  },
+  {
+    "text": "but knew what success\nlooked like to be promoted.",
+    "start": 1200.58,
+    "duration": 2.79
+  },
+  {
+    "text": "To be promoted, just\npress repeat, do repeat.",
+    "start": 1203.37,
+    "duration": 6.33
+  },
+  {
+    "text": "And, therefore, what we ended\nup doing was cloning ourselves.",
+    "start": 1209.7,
+    "duration": 3.3
+  },
+  {
+    "text": "We talked inside boardrooms\nand inside meeting rooms",
+    "start": 1213.0,
+    "duration": 3.57
+  },
+  {
+    "text": "to ourselves.",
+    "start": 1216.57,
+    "duration": 2.55
+  },
+  {
+    "text": "What created the\nspace to allowed",
+    "start": 1219.12,
+    "duration": 2.01
+  },
+  {
+    "text": "me to become a candidate\nand ultimately the CEO was I",
+    "start": 1221.13,
+    "duration": 3.722
+  },
+  {
+    "text": "actually grew up\noutside of headquarters.",
+    "start": 1224.852,
+    "duration": 1.708
+  },
+  {
+    "text": "I grew up in the Far East.",
+    "start": 1226.56,
+    "duration": 1.53
+  },
+  {
+    "text": "I ended up becoming\nan entrepreneur",
+    "start": 1228.09,
+    "duration": 1.77
+  },
+  {
+    "text": "within the big\ncorporate bureaucracy.",
+    "start": 1229.86,
+    "duration": 2.34
+  },
+  {
+    "text": "And when the candidacy\nfor the CEO job came,",
+    "start": 1232.2,
+    "duration": 3.18
+  },
+  {
+    "text": "we ended up fundamentally--",
+    "start": 1235.38,
+    "duration": 2.345
+  },
+  {
+    "text": "it was a horse\nrace, if you like.",
+    "start": 1237.725,
+    "duration": 1.375
+  },
+  {
+    "text": "And I got chosen because I\nwas more of an entrepreneur",
+    "start": 1239.1,
+    "duration": 3.45
+  },
+  {
+    "text": "than my erstwhile peers.",
+    "start": 1242.55,
+    "duration": 3.34
+  },
+  {
+    "text": "Now, what got me the\njob, the need for DOW",
+    "start": 1245.89,
+    "duration": 2.9
+  },
+  {
+    "text": "to change its model.",
+    "start": 1248.79,
+    "duration": 2.55
+  },
+  {
+    "text": "Unfortunately for me,\nwhen I got the model,",
+    "start": 1251.34,
+    "duration": 2.49
+  },
+  {
+    "text": "I said, OK, I'm just going to\nrepeat what my predecessor did",
+    "start": 1253.83,
+    "duration": 2.91
+  },
+  {
+    "text": "and put in place the team that\nwas around him and now me.",
+    "start": 1256.74,
+    "duration": 4.26
+  },
+  {
+    "text": "And I ended up putting\npeople in place",
+    "start": 1261.0,
+    "duration": 2.49
+  },
+  {
+    "text": "that had not bought into the\nchange that actually won me",
+    "start": 1263.49,
+    "duration": 3.72
+  },
+  {
+    "text": "the job.",
+    "start": 1267.21,
+    "duration": 0.82
+  },
+  {
+    "text": "I quickly corrected that\nmistake as I showed in the book.",
+    "start": 1268.03,
+    "duration": 3.09
+  },
+  {
+    "text": "But it was really that\nlesson that maybe it",
+    "start": 1271.12,
+    "duration": 5.19
+  },
+  {
+    "text": "should have been obvious.",
+    "start": 1276.31,
+    "duration": 1.14
+  },
+  {
+    "text": "But it was a very\ninstructive lesson for me",
+    "start": 1277.45,
+    "duration": 1.83
+  },
+  {
+    "text": "because it enabled me\nlater when big crises came,",
+    "start": 1279.28,
+    "duration": 3.42
+  },
+  {
+    "text": "like the global\nfinancial crisis,",
+    "start": 1282.7,
+    "duration": 1.71
+  },
+  {
+    "text": "like the Kuwaitis withdrawing\non us in the middle of our Rome",
+    "start": 1284.41,
+    "duration": 3.06
+  },
+  {
+    "text": "and Haas deal like the\nactivist attack-- it enabled",
+    "start": 1287.47,
+    "duration": 3.39
+  },
+  {
+    "text": "me to do something, which maybe\nI wasn't trained to do before I",
+    "start": 1290.86,
+    "duration": 3.69
+  },
+  {
+    "text": "became CEO, which is to\nmove myself out of the job",
+    "start": 1294.55,
+    "duration": 3.99
+  },
+  {
+    "text": "intellectually, emotionally,\nsee what was needed in the job",
+    "start": 1298.54,
+    "duration": 4.53
+  },
+  {
+    "text": "and then change me in the job.",
+    "start": 1303.07,
+    "duration": 2.34
+  },
+  {
+    "text": "And changing\nyourself in the job,",
+    "start": 1305.41,
+    "duration": 2.77
+  },
+  {
+    "text": "especially if you're doing well,\nis one of the hardest things",
+    "start": 1308.18,
+    "duration": 3.02
+  },
+  {
+    "text": "to do.",
+    "start": 1311.2,
+    "duration": 0.52
+  },
+  {
+    "text": "And I certainly benchmarked\nthe very best people",
+    "start": 1311.72,
+    "duration": 2.51
+  },
+  {
+    "text": "like Lou Gerstner and others\nthat I talk about in the book.",
+    "start": 1314.23,
+    "duration": 2.89
+  },
+  {
+    "text": "But that skill is\nsomething that I really",
+    "start": 1317.12,
+    "duration": 3.23
+  },
+  {
+    "text": "drill down on in the book.",
+    "start": 1320.35,
+    "duration": 1.32
+  },
+  {
+    "text": "And frankly when I mentor\nyounger CEOs, I really",
+    "start": 1321.67,
+    "duration": 4.32
+  },
+  {
+    "text": "counsel them, step out of\nyour role, look at your role,",
+    "start": 1325.99,
+    "duration": 4.2
+  },
+  {
+    "text": "and say what's needed\nto win your role,",
+    "start": 1330.19,
+    "duration": 3.0
+  },
+  {
+    "text": "not just get\ncomfortable in the role",
+    "start": 1333.19,
+    "duration": 2.49
+  },
+  {
+    "text": "ADI IGNATIUS:\nYeah, that's great.",
+    "start": 1335.68,
+    "duration": 1.89
+  },
+  {
+    "text": "I'm going to go to a couple\nviewer questions now.",
+    "start": 1337.57,
+    "duration": 2.58
+  },
+  {
+    "text": "And this is from Brian in\nPennsylvania in the US.",
+    "start": 1340.15,
+    "duration": 3.03
+  },
+  {
+    "text": "And it's really getting\nback to our conversation",
+    "start": 1343.18,
+    "duration": 2.52
+  },
+  {
+    "text": "about short-termism.",
+    "start": 1345.7,
+    "duration": 1.14
+  },
+  {
+    "text": "And the question is what in\nyour opinion cannot be rushed",
+    "start": 1346.84,
+    "duration": 4.53
+  },
+  {
+    "text": "in business?",
+    "start": 1351.37,
+    "duration": 0.76
+  },
+  {
+    "text": "In other words,\nhow do we push back",
+    "start": 1352.13,
+    "duration": 1.73
+  },
+  {
+    "text": "on-- we got to\nhave an answer now,",
+    "start": 1353.86,
+    "duration": 1.548
+  },
+  {
+    "text": "especially in\nunderstanding customers",
+    "start": 1355.408,
+    "duration": 1.542
+  },
+  {
+    "text": "better so that we can\nbuild services and products",
+    "start": 1356.95,
+    "duration": 2.7
+  },
+  {
+    "text": "to reflect a sound\nstrategy rather",
+    "start": 1359.65,
+    "duration": 1.92
+  },
+  {
+    "text": "than the whim of the moment.",
+    "start": 1361.57,
+    "duration": 2.43
+  },
+  {
+    "text": "ANDREW LIVERIS: We have\nso many examples around us",
+    "start": 1364.0,
+    "duration": 2.1
+  },
+  {
+    "text": "that are so topical.",
+    "start": 1366.1,
+    "duration": 1.132
+  },
+  {
+    "text": "It's a great question, Brian.",
+    "start": 1367.232,
+    "duration": 1.208
+  },
+  {
+    "text": "One is the energy transition.",
+    "start": 1368.44,
+    "duration": 3.78
+  },
+  {
+    "text": "We have had fits and\nstarts to the transition",
+    "start": 1372.22,
+    "duration": 2.94
+  },
+  {
+    "text": "over three or four\nadministrations.",
+    "start": 1375.16,
+    "duration": 2.73
+  },
+  {
+    "text": "I would like to think that\nwe with this administration",
+    "start": 1377.89,
+    "duration": 4.02
+  },
+  {
+    "text": "have put in place a framework\nthat won't be tossed out",
+    "start": 1381.91,
+    "duration": 3.0
+  },
+  {
+    "text": "with the next administration.",
+    "start": 1384.91,
+    "duration": 1.47
+  },
+  {
+    "text": "But it's that very lack of\ncertainty from government",
+    "start": 1386.38,
+    "duration": 2.64
+  },
+  {
+    "text": "policy that is stopping\nbusiness from taking",
+    "start": 1389.02,
+    "duration": 2.93
+  },
+  {
+    "text": "the risks it needs to take\nat the frontier of taking",
+    "start": 1391.95,
+    "duration": 5.16
+  },
+  {
+    "text": "a risk on a new technology.",
+    "start": 1397.11,
+    "duration": 1.68
+  },
+  {
+    "text": "To put in place new\ntechnologies, the patience",
+    "start": 1398.79,
+    "duration": 2.94
+  },
+  {
+    "text": "model, you just have to look at\nthe Chinese and their dominance",
+    "start": 1401.73,
+    "duration": 3.12
+  },
+  {
+    "text": "of the renewables space in\nterms of technology development",
+    "start": 1404.85,
+    "duration": 2.91
+  },
+  {
+    "text": "and how did we miss\nbatteries and how",
+    "start": 1407.76,
+    "duration": 2.16
+  },
+  {
+    "text": "did we miss solar cells.",
+    "start": 1409.92,
+    "duration": 1.53
+  },
+  {
+    "text": "We missed it all because no\none was willing to partner",
+    "start": 1411.45,
+    "duration": 2.88
+  },
+  {
+    "text": "with government to come up\nwith the right framework",
+    "start": 1414.33,
+    "duration": 2.49
+  },
+  {
+    "text": "for a long term\ninvestment in the R&D.",
+    "start": 1416.82,
+    "duration": 2.73
+  },
+  {
+    "text": "And actually, if you study\ninnovation in America,",
+    "start": 1419.55,
+    "duration": 2.91
+  },
+  {
+    "text": "our most innovative era as a\nnation World War I, World War",
+    "start": 1422.46,
+    "duration": 4.05
+  },
+  {
+    "text": "II, and NASA, came\nbecause of government top",
+    "start": 1426.51,
+    "duration": 3.09
+  },
+  {
+    "text": "downing the rules of\nthe road, in two cases",
+    "start": 1429.6,
+    "duration": 3.48
+  },
+  {
+    "text": "to defend the nation and,\nobviously, protect freedom,",
+    "start": 1433.08,
+    "duration": 2.97
+  },
+  {
+    "text": "in the third to put\nman on the moon.",
+    "start": 1436.05,
+    "duration": 2.37
+  },
+  {
+    "text": "We need an era of constancy\nof purpose as a nation.",
+    "start": 1438.42,
+    "duration": 4.89
+  },
+  {
+    "text": "And the energy transition\nis a great example of that.",
+    "start": 1443.31,
+    "duration": 2.83
+  },
+  {
+    "text": "How do we have\naffordable transitions",
+    "start": 1446.14,
+    "duration": 2.63
+  },
+  {
+    "text": "so we minimize the\nimpact of fossil fuels",
+    "start": 1448.77,
+    "duration": 2.68
+  },
+  {
+    "text": "while not crushing the economy?",
+    "start": 1451.45,
+    "duration": 2.43
+  },
+  {
+    "text": "I think this is a great example\nof where long-term thinking",
+    "start": 1453.88,
+    "duration": 4.11
+  },
+  {
+    "text": "and short-term\nresults can be very",
+    "start": 1457.99,
+    "duration": 2.34
+  },
+  {
+    "text": "toxic against\nlong-term thinking.",
+    "start": 1460.33,
+    "duration": 1.89
+  },
+  {
+    "text": "There are many\nother examples, one",
+    "start": 1462.22,
+    "duration": 1.92
+  },
+  {
+    "text": "that may or may not come\nup as a question, which",
+    "start": 1464.14,
+    "duration": 2.55
+  },
+  {
+    "text": "is the new China.",
+    "start": 1466.69,
+    "duration": 1.74
+  },
+  {
+    "text": "We are one more time\nmaking the mistake",
+    "start": 1468.43,
+    "duration": 3.12
+  },
+  {
+    "text": "of looking at China\nas something that we",
+    "start": 1471.55,
+    "duration": 2.16
+  },
+  {
+    "text": "can deal with by\nsitting in Washington",
+    "start": 1473.71,
+    "duration": 2.73
+  },
+  {
+    "text": "and dealing it from there.",
+    "start": 1476.44,
+    "duration": 2.565
+  },
+  {
+    "text": "A relationship-centric\nculture like China",
+    "start": 1479.005,
+    "duration": 3.015
+  },
+  {
+    "text": "really is based on turning\nup, showing up, and then being",
+    "start": 1482.02,
+    "duration": 3.78
+  },
+  {
+    "text": "consistent with purpose,\nand allowing the win-win",
+    "start": 1485.8,
+    "duration": 2.91
+  },
+  {
+    "text": "versus the win loss.",
+    "start": 1488.71,
+    "duration": 1.41
+  },
+  {
+    "text": "We're giving too many\nexamples to China",
+    "start": 1490.12,
+    "duration": 2.13
+  },
+  {
+    "text": "that we want a\nrelationship based",
+    "start": 1492.25,
+    "duration": 1.44
+  },
+  {
+    "text": "on win-lose versus win-win.",
+    "start": 1493.69,
+    "duration": 2.4
+  },
+  {
+    "text": "And to put in place a win-win\nrelationship with China",
+    "start": 1496.09,
+    "duration": 2.82
+  },
+  {
+    "text": "in the new China means\na whole new paradigm",
+    "start": 1498.91,
+    "duration": 2.85
+  },
+  {
+    "text": "of thinking about what\nconstitutes a win for China",
+    "start": 1501.76,
+    "duration": 3.15
+  },
+  {
+    "text": "and not a loss for\nthe United States.",
+    "start": 1504.91,
+    "duration": 2.16
+  },
+  {
+    "text": "In the book, I talk\nabout that from the point",
+    "start": 1507.07,
+    "duration": 1.93
+  },
+  {
+    "text": "of view of corporations.",
+    "start": 1509.0,
+    "duration": 1.77
+  },
+  {
+    "text": "Are we indeed\nglobal corporations",
+    "start": 1510.77,
+    "duration": 2.13
+  },
+  {
+    "text": "with headquarters in America?",
+    "start": 1512.9,
+    "duration": 1.77
+  },
+  {
+    "text": "Or are we American corporations\noperating globally?",
+    "start": 1514.67,
+    "duration": 2.97
+  },
+  {
+    "text": "We better make\nthat decision soon",
+    "start": 1517.64,
+    "duration": 1.59
+  },
+  {
+    "text": "as it relates to\nChina because China is",
+    "start": 1519.23,
+    "duration": 2.16
+  },
+  {
+    "text": "establishing its own playbook.",
+    "start": 1521.39,
+    "duration": 1.53
+  },
+  {
+    "text": "And we haven't yet as\na nation embraced it,",
+    "start": 1522.92,
+    "duration": 2.55
+  },
+  {
+    "text": "as another good example of\nanswering your question.",
+    "start": 1525.47,
+    "duration": 2.642
+  },
+  {
+    "text": "And I've got a few\nmore I can talk about,",
+    "start": 1528.112,
+    "duration": 1.708
+  },
+  {
+    "text": "but I'll save some\ntime for others",
+    "start": 1529.82,
+    "duration": 2.152
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah, we\ncan talk about the China",
+    "start": 1531.972,
+    "duration": 1.958
+  },
+  {
+    "text": "thing for a whole episode\nbecause I'm fascinated in that",
+    "start": 1533.93,
+    "duration": 3.3
+  },
+  {
+    "text": "and in the US-China\nrelationship as well.",
+    "start": 1537.23,
+    "duration": 2.7
+  },
+  {
+    "text": "A few viewers have asked\nfor the name of the book.",
+    "start": 1539.93,
+    "duration": 3.06
+  },
+  {
+    "text": "This is Andrew Liveris.",
+    "start": 1542.99,
+    "duration": 1.08
+  },
+  {
+    "text": "And, the book is leading\nthrough disruption, available",
+    "start": 1544.07,
+    "duration": 3.24
+  },
+  {
+    "text": "wherever you get your books.",
+    "start": 1547.31,
+    "duration": 2.465
+  },
+  {
+    "text": "All right, so next\nquestion, this",
+    "start": 1549.775,
+    "duration": 1.375
+  },
+  {
+    "text": "is from Rahul from Kune, India.",
+    "start": 1551.15,
+    "duration": 2.34
+  },
+  {
+    "text": "And the question is-- as you're\ntrying to lead and manage",
+    "start": 1553.49,
+    "duration": 3.968
+  },
+  {
+    "text": "this disruption, the\nquestion is how do you",
+    "start": 1557.458,
+    "duration": 1.792
+  },
+  {
+    "text": "go about personal and\norganizational goal setting",
+    "start": 1559.25,
+    "duration": 3.96
+  },
+  {
+    "text": "in this as you're trying to keep\npace with disruptive forces?",
+    "start": 1563.21,
+    "duration": 6.85
+  },
+  {
+    "text": "ANDREW LIVERIS: I have really\nthought about that a lot,",
+    "start": 1570.06,
+    "duration": 3.22
+  },
+  {
+    "text": "especially as I mentor young--",
+    "start": 1573.28,
+    "duration": 2.51
+  },
+  {
+    "text": "I've always been a\nmentor, coach because I",
+    "start": 1575.79,
+    "duration": 2.49
+  },
+  {
+    "text": "was mentored and coached.",
+    "start": 1578.28,
+    "duration": 1.05
+  },
+  {
+    "text": "So I saw the value of that.",
+    "start": 1579.33,
+    "duration": 2.04
+  },
+  {
+    "text": "And this ability to run--\nand I call it an integrated",
+    "start": 1581.37,
+    "duration": 3.96
+  },
+  {
+    "text": "life versus a balanced life.",
+    "start": 1585.33,
+    "duration": 2.16
+  },
+  {
+    "text": "I think the word balance\nis a bad word because it",
+    "start": 1587.49,
+    "duration": 2.49
+  },
+  {
+    "text": "implies a seesaw, an either/or.",
+    "start": 1589.98,
+    "duration": 2.94
+  },
+  {
+    "text": "And to find that middle\nground is hard, integrated.",
+    "start": 1592.92,
+    "duration": 2.19
+  },
+  {
+    "text": "Means you're making\nconscious choice,",
+    "start": 1595.11,
+    "duration": 1.56
+  },
+  {
+    "text": "to answer your\nquestion, which is--",
+    "start": 1596.67,
+    "duration": 1.83
+  },
+  {
+    "text": "think of life as four\nbuckets, four pails.",
+    "start": 1598.5,
+    "duration": 2.94
+  },
+  {
+    "text": "And on the pails\nyou've got enough water",
+    "start": 1601.44,
+    "duration": 2.94
+  },
+  {
+    "text": "to fill two buckets to the brim.",
+    "start": 1604.38,
+    "duration": 1.77
+  },
+  {
+    "text": "And those pails are called\nself, family, friends,",
+    "start": 1606.15,
+    "duration": 4.69
+  },
+  {
+    "text": "and work or professional.",
+    "start": 1610.84,
+    "duration": 2.15
+  },
+  {
+    "text": "And now you're at\nyour stages of life",
+    "start": 1612.99,
+    "duration": 2.29
+  },
+  {
+    "text": "where you're filling the\nwater in those buckets.",
+    "start": 1615.28,
+    "duration": 2.0
+  },
+  {
+    "text": "And you're making\na conscious choice",
+    "start": 1617.28,
+    "duration": 1.86
+  },
+  {
+    "text": "where to put most of the water.",
+    "start": 1619.14,
+    "duration": 1.86
+  },
+  {
+    "text": "Do you divide it equally\nacross all four at all times?",
+    "start": 1621.0,
+    "duration": 3.21
+  },
+  {
+    "text": "Or do you, as I did really\nprioritize along the way based",
+    "start": 1624.21,
+    "duration": 4.23
+  },
+  {
+    "text": "on the stage of life you're at?",
+    "start": 1628.44,
+    "duration": 1.56
+  },
+  {
+    "text": "And depending on where you are\nin your career and your stage",
+    "start": 1630.0,
+    "duration": 2.58
+  },
+  {
+    "text": "of life, your partner and\nwhether your partner is",
+    "start": 1632.58,
+    "duration": 2.94
+  },
+  {
+    "text": "full-time employed\noutside of the home,",
+    "start": 1635.52,
+    "duration": 1.83
+  },
+  {
+    "text": "these are choices one has to\nmake and make them consciously,",
+    "start": 1637.35,
+    "duration": 3.66
+  },
+  {
+    "text": "knowing that you're making\ntradeoffs at all time.",
+    "start": 1641.01,
+    "duration": 2.52
+  },
+  {
+    "text": "Of course, in the Zoom\nworld, in the digital world,",
+    "start": 1643.53,
+    "duration": 3.27
+  },
+  {
+    "text": "we can now do work in a\nvery different environment,",
+    "start": 1646.8,
+    "duration": 3.39
+  },
+  {
+    "text": "of course, that embraces\nhome life a lot more.",
+    "start": 1650.19,
+    "duration": 2.91
+  },
+  {
+    "text": "But, of course, that brings\nits own challenges as well.",
+    "start": 1653.1,
+    "duration": 2.49
+  },
+  {
+    "text": "I think I at all\ntime thought about it",
+    "start": 1655.59,
+    "duration": 2.55
+  },
+  {
+    "text": "as the most important\nthings to me are.",
+    "start": 1658.14,
+    "duration": 2.64
+  },
+  {
+    "text": "And I listed those.",
+    "start": 1660.78,
+    "duration": 1.29
+  },
+  {
+    "text": "And I kept that list in my\nleft-hand drawer so to speak.",
+    "start": 1662.07,
+    "duration": 3.3
+  },
+  {
+    "text": "And in times when I had to\ntilt the water in one direction",
+    "start": 1665.37,
+    "duration": 3.72
+  },
+  {
+    "text": "way more than the other,\nI knew it was temporary.",
+    "start": 1669.09,
+    "duration": 3.21
+  },
+  {
+    "text": "I said, OK, for a while\nlike these crises at DOW,",
+    "start": 1672.3,
+    "duration": 3.51
+  },
+  {
+    "text": "I'm going to be\nfull time at work.",
+    "start": 1675.81,
+    "duration": 1.62
+  },
+  {
+    "text": "And my family's not\ngoing to see me.",
+    "start": 1677.43,
+    "duration": 1.5
+  },
+  {
+    "text": "And forget time for myself,\net cetera, and friends.",
+    "start": 1678.93,
+    "duration": 3.24
+  },
+  {
+    "text": "So it's OK to make those\ntemporary adjustments,",
+    "start": 1682.17,
+    "duration": 2.91
+  },
+  {
+    "text": "as long as you've got your long\nterm priority goals in mind",
+    "start": 1685.08,
+    "duration": 3.45
+  },
+  {
+    "text": "at all times.",
+    "start": 1688.53,
+    "duration": 1.47
+  },
+  {
+    "text": "Some people call\nthat your North Star.",
+    "start": 1690.0,
+    "duration": 1.83
+  },
+  {
+    "text": "Your values and your priorities\nall have to come together.",
+    "start": 1691.83,
+    "duration": 3.925
+  },
+  {
+    "text": "ADI IGNATIUS: So\nI do want to ask",
+    "start": 1695.755,
+    "duration": 1.375
+  },
+  {
+    "text": "you a little bit about\nthe Brisbane Olympics.",
+    "start": 1697.13,
+    "duration": 2.88
+  },
+  {
+    "text": "It's a long ways away.",
+    "start": 1700.01,
+    "duration": 1.26
+  },
+  {
+    "text": "But you're already heading\nthe organizing committee.",
+    "start": 1701.27,
+    "duration": 3.418
+  },
+  {
+    "text": "How do you start to\nthink about that?",
+    "start": 1704.688,
+    "duration": 1.542
+  },
+  {
+    "text": "I mean, do you already\nhave a sense of what",
+    "start": 1706.23,
+    "duration": 3.68
+  },
+  {
+    "text": "you want the games to be,\nwhat you want the cities--",
+    "start": 1709.91,
+    "duration": 3.75
+  },
+  {
+    "text": "how you want people to perceive\nthe city and its own identity?",
+    "start": 1713.66,
+    "duration": 5.07
+  },
+  {
+    "text": "Are there some early thoughts\nyou could share with us?",
+    "start": 1718.73,
+    "duration": 2.64
+  },
+  {
+    "text": "ANDREW LIVERIS: It's\na great privilege",
+    "start": 1721.37,
+    "duration": 1.583
+  },
+  {
+    "text": "to be asked to lead your\ncountry's third Olympics.",
+    "start": 1722.953,
+    "duration": 2.647
+  },
+  {
+    "text": "For a country the\nsize of Australia",
+    "start": 1725.6,
+    "duration": 1.65
+  },
+  {
+    "text": "to say it's now going to\nbe host to three Olympics",
+    "start": 1727.25,
+    "duration": 2.97
+  },
+  {
+    "text": "since the modern Olympics\nwere born is quite something.",
+    "start": 1730.22,
+    "duration": 2.92
+  },
+  {
+    "text": "The country's passionate\nand loves sport,",
+    "start": 1733.14,
+    "duration": 2.09
+  },
+  {
+    "text": "as I'm sure you're all noticing\nwith the World Cup, Women's",
+    "start": 1735.23,
+    "duration": 3.0
+  },
+  {
+    "text": "World Cup down there, FIFA's\nWorld Cup, which is amazingly",
+    "start": 1738.23,
+    "duration": 3.09
+  },
+  {
+    "text": "successful and bringing out a\nlot of people, new spectators.",
+    "start": 1741.32,
+    "duration": 5.19
+  },
+  {
+    "text": "Passion around sports is\nan Australian statement.",
+    "start": 1746.51,
+    "duration": 3.78
+  },
+  {
+    "text": "My passion for my home\ncountry, because it gave me",
+    "start": 1750.29,
+    "duration": 2.43
+  },
+  {
+    "text": "the start that led to my\ncareer, has never waned.",
+    "start": 1752.72,
+    "duration": 3.31
+  },
+  {
+    "text": "I've always been an Australian,\nas well as an American,",
+    "start": 1756.03,
+    "duration": 2.88
+  },
+  {
+    "text": "as well as actually a\nGreek from my roots.",
+    "start": 1758.91,
+    "duration": 2.58
+  },
+  {
+    "text": "And I've tried to be\nvery true to that.",
+    "start": 1761.49,
+    "duration": 1.89
+  },
+  {
+    "text": "When I was asked to\nlead the Olympics,",
+    "start": 1763.38,
+    "duration": 2.13
+  },
+  {
+    "text": "I actually asked exactly\nthe question that's",
+    "start": 1765.51,
+    "duration": 2.31
+  },
+  {
+    "text": "being asked to me, which\nis what is actually--",
+    "start": 1767.82,
+    "duration": 2.91
+  },
+  {
+    "text": "what are we creating\nhere is a 2 x 2 week",
+    "start": 1770.73,
+    "duration": 3.18
+  },
+  {
+    "text": "sporting event, Olympics\nand Paralympics.",
+    "start": 1773.91,
+    "duration": 2.31
+  },
+  {
+    "text": "Or is it a legacy?",
+    "start": 1776.22,
+    "duration": 1.38
+  },
+  {
+    "text": "And then when you\ntalk to the IOC",
+    "start": 1777.6,
+    "duration": 1.68
+  },
+  {
+    "text": "about what they\ncall the new norms,",
+    "start": 1779.28,
+    "duration": 1.89
+  },
+  {
+    "text": "the new norms is\nall about economic",
+    "start": 1781.17,
+    "duration": 2.4
+  },
+  {
+    "text": "and legacy of the\ncommunity kind.",
+    "start": 1783.57,
+    "duration": 4.38
+  },
+  {
+    "text": "In the case of Australia, that\nspeaks to the S part of ESG,",
+    "start": 1787.95,
+    "duration": 4.29
+  },
+  {
+    "text": "as much as the E\npart, so not only",
+    "start": 1792.24,
+    "duration": 2.7
+  },
+  {
+    "text": "clean and green games, climate\npositive but also inclusive,",
+    "start": 1794.94,
+    "duration": 4.17
+  },
+  {
+    "text": "inclusive of all our First\nNations people, our Indigenous",
+    "start": 1799.11,
+    "duration": 3.93
+  },
+  {
+    "text": "Australians, a culture of\n60,000 years and legacies",
+    "start": 1803.04,
+    "duration": 3.18
+  },
+  {
+    "text": "economically.",
+    "start": 1806.22,
+    "duration": 0.96
+  },
+  {
+    "text": "What can we do to stimulate\nthe economy of South East",
+    "start": 1807.18,
+    "duration": 2.64
+  },
+  {
+    "text": "Queensland before\nand after the games?",
+    "start": 1809.82,
+    "duration": 2.52
+  },
+  {
+    "text": "We call it the 10 plus 10 model.",
+    "start": 1812.34,
+    "duration": 2.11
+  },
+  {
+    "text": "So it's a business proposition.",
+    "start": 1814.45,
+    "duration": 1.7
+  },
+  {
+    "text": "It's the long-term answer.",
+    "start": 1816.15,
+    "duration": 2.078
+  },
+  {
+    "text": "It's the question I\ngot asked on short-term",
+    "start": 1818.228,
+    "duration": 1.792
+  },
+  {
+    "text": "versus long-term examples.",
+    "start": 1820.02,
+    "duration": 1.62
+  },
+  {
+    "text": "The Olympics is a great example.",
+    "start": 1821.64,
+    "duration": 1.5
+  },
+  {
+    "text": "We've been given 10\nyears to plan that.",
+    "start": 1823.14,
+    "duration": 2.79
+  },
+  {
+    "text": "The first three years is\nexactly that, planning it.",
+    "start": 1825.93,
+    "duration": 2.7
+  },
+  {
+    "text": "We'll get around to\nthings that people",
+    "start": 1828.63,
+    "duration": 1.95
+  },
+  {
+    "text": "will see as the obvious\nicons of the Olympics,",
+    "start": 1830.58,
+    "duration": 2.07
+  },
+  {
+    "text": "mascot, and opening ceremonies\nand volunteers and merchandise.",
+    "start": 1832.65,
+    "duration": 4.35
+  },
+  {
+    "text": "We'll get around to\nthat in year four or so.",
+    "start": 1837.0,
+    "duration": 2.46
+  },
+  {
+    "text": "We're benchmarking in\nLos Angeles and Paris",
+    "start": 1839.46,
+    "duration": 2.61
+  },
+  {
+    "text": "to see what they're\ndoing along these pillars",
+    "start": 1842.07,
+    "duration": 2.13
+  },
+  {
+    "text": "and really putting together\nthis whole holistic plan.",
+    "start": 1844.2,
+    "duration": 3.15
+  },
+  {
+    "text": "And what do we want to happen\nout of as a result of this",
+    "start": 1847.35,
+    "duration": 2.73
+  },
+  {
+    "text": "is the well-being of\nthe people of Australia",
+    "start": 1850.08,
+    "duration": 2.52
+  },
+  {
+    "text": "and the people of South\nEast Queensland and Brisbane",
+    "start": 1852.6,
+    "duration": 2.64
+  },
+  {
+    "text": "is elevated.",
+    "start": 1855.24,
+    "duration": 1.08
+  },
+  {
+    "text": "For Brisbane, it's\na second-tier city.",
+    "start": 1856.32,
+    "duration": 2.52
+  },
+  {
+    "text": "Not many second-tier\ncities get the games.",
+    "start": 1858.84,
+    "duration": 2.28
+  },
+  {
+    "text": "We're going to elevate\nBrisbane and the brand",
+    "start": 1861.12,
+    "duration": 2.22
+  },
+  {
+    "text": "to the world stage.",
+    "start": 1863.34,
+    "duration": 1.41
+  },
+  {
+    "text": "And we're not going to\nlose that advantage.",
+    "start": 1864.75,
+    "duration": 1.86
+  },
+  {
+    "text": "Some early thinking about that.",
+    "start": 1866.61,
+    "duration": 1.508
+  },
+  {
+    "text": "And those of you who\nhave been to Australia",
+    "start": 1868.118,
+    "duration": 1.792
+  },
+  {
+    "text": "know what I'm about to say.",
+    "start": 1869.91,
+    "duration": 1.29
+  },
+  {
+    "text": "Those of you who haven't\nbeen, please come.",
+    "start": 1871.2,
+    "duration": 2.1
+  },
+  {
+    "text": "We're a lifestyle superpower.",
+    "start": 1873.3,
+    "duration": 2.37
+  },
+  {
+    "text": "The country just has got the\nbalance between work and life",
+    "start": 1875.67,
+    "duration": 4.32
+  },
+  {
+    "text": "right.",
+    "start": 1879.99,
+    "duration": 0.75
+  },
+  {
+    "text": "It's a very wealthy country.",
+    "start": 1880.74,
+    "duration": 1.74
+  },
+  {
+    "text": "So it can afford that.",
+    "start": 1882.48,
+    "duration": 1.32
+  },
+  {
+    "text": "And as citizens in\nthe main all benefit",
+    "start": 1883.8,
+    "duration": 2.7
+  },
+  {
+    "text": "from it with some exceptions\nthat I mentioned first Nations.",
+    "start": 1886.5,
+    "duration": 3.39
+  },
+  {
+    "text": "So we are a lifestyle\nsuperpower, beautiful country,",
+    "start": 1889.89,
+    "duration": 4.26
+  },
+  {
+    "text": "beautiful locations, across\nthe regions from the Gold Coast",
+    "start": 1894.15,
+    "duration": 4.44
+  },
+  {
+    "text": "to Brisbane to the Sunshine\nCoast, some of the best beaches",
+    "start": 1898.59,
+    "duration": 2.97
+  },
+  {
+    "text": "and aesthetics in the world,\nrainforests, et cetera.",
+    "start": 1901.56,
+    "duration": 4.39
+  },
+  {
+    "text": "So we're going to put on a\nshow that really shows Brisbane",
+    "start": 1905.95,
+    "duration": 3.77
+  },
+  {
+    "text": "and the region as a place\nto live and come and visit",
+    "start": 1909.72,
+    "duration": 3.09
+  },
+  {
+    "text": "at a minimum.",
+    "start": 1912.81,
+    "duration": 1.67
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah, well-put.",
+    "start": 1914.48,
+    "duration": 2.015
+  },
+  {
+    "text": "I know we're\nrunning out of time.",
+    "start": 1916.495,
+    "duration": 1.375
+  },
+  {
+    "text": "But I do want to get\nto this question.",
+    "start": 1917.87,
+    "duration": 2.11
+  },
+  {
+    "text": "And this is also an\naudience question",
+    "start": 1919.98,
+    "duration": 1.85
+  },
+  {
+    "text": "from Donna in Alabama in the US.",
+    "start": 1921.83,
+    "duration": 3.24
+  },
+  {
+    "text": "You had mentioned\nwin-win specifically",
+    "start": 1925.07,
+    "duration": 2.13
+  },
+  {
+    "text": "in the context of China.",
+    "start": 1927.2,
+    "duration": 1.56
+  },
+  {
+    "text": "But I that's a value\nfor you more broadly",
+    "start": 1928.76,
+    "duration": 4.08
+  },
+  {
+    "text": "in terms of business\nand collaboration.",
+    "start": 1932.84,
+    "duration": 1.69
+  },
+  {
+    "text": "So the question is, how do\nwe all make the mental pivot",
+    "start": 1934.53,
+    "duration": 4.52
+  },
+  {
+    "text": "to a win-win mindset when we're\neducated in business school",
+    "start": 1939.05,
+    "duration": 4.92
+  },
+  {
+    "text": "and elsewhere very differently?",
+    "start": 1943.97,
+    "duration": 2.37
+  },
+  {
+    "text": "ANDREW LIVERIS: Yeah, so\nit's a great question, Donna.",
+    "start": 1946.34,
+    "duration": 2.25
+  },
+  {
+    "text": "And I'm so happy it's come\nat the back end and almost",
+    "start": 1948.59,
+    "duration": 2.73
+  },
+  {
+    "text": "to close of the show\nbecause I start and finish",
+    "start": 1951.32,
+    "duration": 4.5
+  },
+  {
+    "text": "the book with optimism.",
+    "start": 1955.82,
+    "duration": 1.62
+  },
+  {
+    "text": "And then I really\nsay why this book--",
+    "start": 1957.44,
+    "duration": 2.73
+  },
+  {
+    "text": "I mean, I could have\nwritten an autobiography.",
+    "start": 1960.17,
+    "duration": 1.932
+  },
+  {
+    "text": "I'm not sure anyone\nwould have bought it.",
+    "start": 1962.102,
+    "duration": 1.708
+  },
+  {
+    "text": "But anyway, it would have\npleased me to write my story.",
+    "start": 1963.81,
+    "duration": 2.63
+  },
+  {
+    "text": "And I really wrote the\nbook with your question",
+    "start": 1966.44,
+    "duration": 3.06
+  },
+  {
+    "text": "in mind, which is I see\nso much divergence, as I",
+    "start": 1969.5,
+    "duration": 4.14
+  },
+  {
+    "text": "said at the beginning.",
+    "start": 1973.64,
+    "duration": 1.31
+  },
+  {
+    "text": "The convergence has to begin\nand end with this notion",
+    "start": 1974.95,
+    "duration": 4.25
+  },
+  {
+    "text": "that change has to\nhappen through, firstly,",
+    "start": 1979.2,
+    "duration": 2.64
+  },
+  {
+    "text": "conversations, secondly,\ndebates, thirdly, decisions,",
+    "start": 1981.84,
+    "duration": 4.05
+  },
+  {
+    "text": "and, fourthly, come out of, if\nyou like, a bottom up mindset",
+    "start": 1985.89,
+    "duration": 3.66
+  },
+  {
+    "text": "that we haven't\nseen for a while.",
+    "start": 1989.55,
+    "duration": 1.87
+  },
+  {
+    "text": "And in the book I call\nit community centered",
+    "start": 1991.42,
+    "duration": 3.32
+  },
+  {
+    "text": "and regionally centered.",
+    "start": 1994.74,
+    "duration": 1.68
+  },
+  {
+    "text": "I think the global world\norder is being challenged now",
+    "start": 1996.42,
+    "duration": 2.79
+  },
+  {
+    "text": "to a point, where we\nall have mistrusted it.",
+    "start": 1999.21,
+    "duration": 3.15
+  },
+  {
+    "text": "You mentioned China in\nyour question and distrust",
+    "start": 2002.36,
+    "duration": 2.67
+  },
+  {
+    "text": "governments.",
+    "start": 2005.03,
+    "duration": 0.69
+  },
+  {
+    "text": "So we need a new type\nof business leader,",
+    "start": 2005.72,
+    "duration": 2.22
+  },
+  {
+    "text": "a new type of political leader.",
+    "start": 2007.94,
+    "duration": 1.5
+  },
+  {
+    "text": "And we need it from\nthe demographic",
+    "start": 2009.44,
+    "duration": 1.8
+  },
+  {
+    "text": "and the next generation\nto embrace that and say",
+    "start": 2011.24,
+    "duration": 2.82
+  },
+  {
+    "text": "I'm going to go and serve to\ncreate this sense of optimism",
+    "start": 2014.06,
+    "duration": 4.56
+  },
+  {
+    "text": "and solution mindset,\nthis new convergence,",
+    "start": 2018.62,
+    "duration": 3.48
+  },
+  {
+    "text": "this new collaboration model.",
+    "start": 2022.1,
+    "duration": 2.28
+  },
+  {
+    "text": "Let's lay down our\narms if you like.",
+    "start": 2024.38,
+    "duration": 2.94
+  },
+  {
+    "text": "And our arms can be\nwords on social media.",
+    "start": 2027.32,
+    "duration": 2.4
+  },
+  {
+    "text": "And let's get into the\nroom around the table",
+    "start": 2029.72,
+    "duration": 2.34
+  },
+  {
+    "text": "and find the\nsolution mindset that",
+    "start": 2032.06,
+    "duration": 2.49
+  },
+  {
+    "text": "leads to better answers\nfor everybody in society,",
+    "start": 2034.55,
+    "duration": 3.85
+  },
+  {
+    "text": "not just for parts of society.",
+    "start": 2038.4,
+    "duration": 1.85
+  },
+  {
+    "text": "In the book, I put a call to\nbusiness to take that lead.",
+    "start": 2040.25,
+    "duration": 4.08
+  },
+  {
+    "text": "I see that, by the way.",
+    "start": 2044.33,
+    "duration": 1.42
+  },
+  {
+    "text": "There are a lot of\nCEOs out there now",
+    "start": 2045.75,
+    "duration": 1.79
+  },
+  {
+    "text": "who are taking that lead.",
+    "start": 2047.54,
+    "duration": 1.08
+  },
+  {
+    "text": "They're getting hacked and\nchopped up in this wokeism",
+    "start": 2048.62,
+    "duration": 2.91
+  },
+  {
+    "text": "debate, which is nonsense.",
+    "start": 2051.53,
+    "duration": 1.53
+  },
+  {
+    "text": "And some of our\npolitical candidates",
+    "start": 2053.06,
+    "duration": 2.429
+  },
+  {
+    "text": "make fodder out of it.",
+    "start": 2055.489,
+    "duration": 1.471
+  },
+  {
+    "text": "I think we should have the\ncourage to stand tall and say,",
+    "start": 2056.96,
+    "duration": 3.764
+  },
+  {
+    "text": "we have to be optimistic on\na solution that is inclusive",
+    "start": 2060.724,
+    "duration": 3.676
+  },
+  {
+    "text": "and that has new ways of\ngetting to answers on how",
+    "start": 2064.4,
+    "duration": 3.63
+  },
+  {
+    "text": "to get economic\nprosperity for all",
+    "start": 2068.03,
+    "duration": 2.16
+  },
+  {
+    "text": "and how to do it in the context\nof a Milton Friedman model",
+    "start": 2070.19,
+    "duration": 3.63
+  },
+  {
+    "text": "but where democracy and\ncapitalism are together",
+    "start": 2073.82,
+    "duration": 3.27
+  },
+  {
+    "text": "not going through a divorce.",
+    "start": 2077.09,
+    "duration": 1.56
+  },
+  {
+    "text": "And for that, I\nneed people like you",
+    "start": 2078.65,
+    "duration": 2.52
+  },
+  {
+    "text": "to step up and be at the table.",
+    "start": 2081.17,
+    "duration": 1.77
+  },
+  {
+    "text": "Define the 21st\ncentury playbook.",
+    "start": 2082.94,
+    "duration": 2.43
+  },
+  {
+    "text": "I hope this book serves\nas a foundation for it.",
+    "start": 2085.37,
+    "duration": 3.07
+  },
+  {
+    "text": "And I certainly won't in my\nact 2 stop talking about it.",
+    "start": 2088.44,
+    "duration": 4.29
+  },
+  {
+    "text": "But I need amplification\nfrom people like yourself.",
+    "start": 2092.73,
+    "duration": 3.365
+  },
+  {
+    "text": "ADI IGNATIUS: That's\nfantastic, Andrew.",
+    "start": 2096.095,
+    "duration": 1.625
+  },
+  {
+    "text": "Thank you for joining us.",
+    "start": 2097.72,
+    "duration": 1.15
+  },
+  {
+    "text": "I wish you could run for\npresident of the United States.",
+    "start": 2098.87,
+    "duration": 2.333
+  },
+  {
+    "text": "But you're probably\nnot eligible.",
+    "start": 2101.203,
+    "duration": 2.037
+  },
+  {
+    "text": "Anyway, thank you.",
+    "start": 2103.24,
+    "duration": 1.26
+  },
+  {
+    "text": "A lot of really inspiring\nideas and really good sense",
+    "start": 2104.5,
+    "duration": 4.36
+  },
+  {
+    "text": "of balance.",
+    "start": 2108.86,
+    "duration": 0.5
+  },
+  {
+    "text": "So thanks for being the\nguest on our show today.",
+    "start": 2109.36,
+    "duration": 2.247
+  },
+  {
+    "text": "ANDREW LIVERIS: Thank you.",
+    "start": 2111.607,
+    "duration": 1.083
+  },
+  {
+    "text": "Thank you very much, Adi.",
+    "start": 2112.69,
+    "duration": 1.343
+  },
+  {
+    "text": "ADI IGNATIUS: All right,\nso that was Andrew Liveris,",
+    "start": 2114.033,
+    "duration": 2.167
+  },
+  {
+    "text": "former chairman and CEO\nof DOW Chemical and author",
+    "start": 2116.2,
+    "duration": 3.42
+  },
+  {
+    "text": "of the book Leading\nThrough Disruption.",
+    "start": 2119.62,
+    "duration": 2.72
+  },
+  {
+    "text": "I want to thank all of\nyou for joining us today.",
+    "start": 2122.34,
+    "duration": 2.0
+  },
+  {
+    "text": "Just a reminder, you can\nwatch previous episodes",
+    "start": 2124.34,
+    "duration": 2.09
+  },
+  {
+    "text": "of this show on YouTube or right\nhere on LinkedIn and Facebook.",
+    "start": 2126.43,
+    "duration": 3.85
+  },
+  {
+    "text": "Be sure to join us next\nweek Wednesday, August",
+    "start": 2130.28,
+    "duration": 2.73
+  },
+  {
+    "text": "16th at 12:00 noon\nEastern time, when",
+    "start": 2133.01,
+    "duration": 2.84
+  },
+  {
+    "text": "my guest will be Jim Fielding.",
+    "start": 2135.85,
+    "duration": 1.8
+  },
+  {
+    "text": "He's done a lot of\nthings, including--",
+    "start": 2137.65,
+    "duration": 2.13
+  },
+  {
+    "text": "he served as the president\nof Disney stores worldwide.",
+    "start": 2139.78,
+    "duration": 2.94
+  },
+  {
+    "text": "And he's the author also\nof a new book called",
+    "start": 2142.72,
+    "duration": 2.43
+  },
+  {
+    "text": "All Pride, No Ego, a\nQueer Executive's Journey",
+    "start": 2145.15,
+    "duration": 2.97
+  },
+  {
+    "text": "to Living and Leading\nAuthentically.",
+    "start": 2148.12,
+    "duration": 2.46
+  },
+  {
+    "text": "We'll talk about his\ntriumphs and challenges",
+    "start": 2150.58,
+    "duration": 1.89
+  },
+  {
+    "text": "as a gay executive.",
+    "start": 2152.47,
+    "duration": 1.41
+  },
+  {
+    "text": "So if you're an HBR\nsubscriber watching this,",
+    "start": 2153.88,
+    "duration": 2.26
+  },
+  {
+    "text": "you can head to\nhbr.org/newsletters to sign up",
+    "start": 2156.14,
+    "duration": 3.228
+  },
+  {
+    "text": "for The New World\nof Work newsletter,",
+    "start": 2159.368,
+    "duration": 1.542
+  },
+  {
+    "text": "where I offer an inside look\neach week at these interviews",
+    "start": 2160.91,
+    "duration": 2.85
+  },
+  {
+    "text": "and talk about some of the\nbiggest ideas that come out",
+    "start": 2163.76,
+    "duration": 2.25
+  },
+  {
+    "text": "of them.",
+    "start": 2166.01,
+    "duration": 0.61
+  },
+  {
+    "text": "And if you like\ncontent like this,",
+    "start": 2166.62,
+    "duration": 1.46
+  },
+  {
+    "text": "why not subscribe to our\nmagazine and website.",
+    "start": 2168.08,
+    "duration": 2.68
+  },
+  {
+    "text": "The address is\nhbr.org/subscriptions.",
+    "start": 2170.76,
+    "duration": 3.68
+  },
+  {
+    "text": "And finally, we want to\nthanks our friends, again,",
+    "start": 2174.44,
+    "duration": 2.48
+  },
+  {
+    "text": "at KPMG, who are our sponsors\nfor this season of The New",
+    "start": 2176.92,
+    "duration": 4.15
+  },
+  {
+    "text": "World of Work.",
+    "start": 2181.07,
+    "duration": 1.9
+  },
+  {
+    "text": "And thank you all\nfor tuning in today.",
+    "start": 2182.97,
+    "duration": 1.79
+  },
+  {
+    "text": "I'm Adi Ignatius.",
+    "start": 2184.76,
+    "duration": 0.96
+  },
+  {
+    "text": "And this is The\nNew World of Work.",
+    "start": 2185.72,
+    "duration": 1.98
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 2187.7,
+    "duration": 3.35
+  }
+]

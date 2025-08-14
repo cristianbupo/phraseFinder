@@ -1,0 +1,382 @@
+[
+  {
+    "text": "You and your partner Alex have been in a\nstrong, loving relationship for years,",
+    "start": 7.378,
+    "duration": 4.713
+  },
+  {
+    "text": "and lately you're considering\ngetting engaged.",
+    "start": 12.091,
+    "duration": 2.461
+  },
+  {
+    "text": "Alex is enthusiastic about the idea,\nbut you can’t get over the statistics.",
+    "start": 14.677,
+    "duration": 4.838
+  },
+  {
+    "text": "You know a lot of marriages end\nin divorce, often not amicably.",
+    "start": 19.557,
+    "duration": 3.67
+  },
+  {
+    "text": "And over 10% of couples\nin their first marriage get divorced",
+    "start": 23.269,
+    "duration": 3.754
+  },
+  {
+    "text": "within the first five years.",
+    "start": 27.023,
+    "duration": 1.877
+  },
+  {
+    "text": "If your marriage wouldn’t\neven last five years,",
+    "start": 29.692,
+    "duration": 2.711
+  },
+  {
+    "text": "you feel like tying the knot\nwould be a mistake.",
+    "start": 32.403,
+    "duration": 2.378
+  },
+  {
+    "text": "But you live in the near future,",
+    "start": 34.989,
+    "duration": 2.086
+  },
+  {
+    "text": "where a brand-new company just\nreleased an AI-based model",
+    "start": 37.075,
+    "duration": 3.545
+  },
+  {
+    "text": "that can predict your likelihood\nof divorce.",
+    "start": 40.62,
+    "duration": 3.211
+  },
+  {
+    "text": "The model is trained on data sets",
+    "start": 43.915,
+    "duration": 2.127
+  },
+  {
+    "text": "containing individuals’\nsocial media activity,",
+    "start": 46.042,
+    "duration": 2.627
+  },
+  {
+    "text": "online search histories, spending habits,\nand history of marriage and divorce.",
+    "start": 48.669,
+    "duration": 4.88
+  },
+  {
+    "text": "And using this information,",
+    "start": 53.591,
+    "duration": 1.585
+  },
+  {
+    "text": "the AI can predict if a couple\nwill divorce",
+    "start": 55.176,
+    "duration": 2.669
+  },
+  {
+    "text": "within the first five years of marriage\nwith 95% accuracy.",
+    "start": 57.845,
+    "duration": 4.38
+  },
+  {
+    "text": "The only catch is the model doesn’t offer\nany reasons for its results—",
+    "start": 62.767,
+    "duration": 4.212
+  },
+  {
+    "text": "it simply predicts that you will or won’t\ndivorce without saying why.",
+    "start": 66.979,
+    "duration": 4.713
+  },
+  {
+    "text": "So, should you decide whether or not\nto get married",
+    "start": 72.443,
+    "duration": 3.087
+  },
+  {
+    "text": "based on this AI’s prediction?",
+    "start": 75.53,
+    "duration": 2.043
+  },
+  {
+    "text": "Suppose the model predicts you and Alex",
+    "start": 78.825,
+    "duration": 2.627
+  },
+  {
+    "text": "would divorce within five years\nof getting married.",
+    "start": 81.452,
+    "duration": 2.92
+  },
+  {
+    "text": "At this point, you'd have three options.",
+    "start": 84.997,
+    "duration": 2.253
+  },
+  {
+    "text": "You could get married anyway\nand hope the prediction is wrong.",
+    "start": 87.25,
+    "duration": 3.003
+  },
+  {
+    "text": "You could break up now,",
+    "start": 90.294,
+    "duration": 1.252
+  },
+  {
+    "text": "though there’s no way to know if ending\nyour currently happy relationship",
+    "start": 91.546,
+    "duration": 3.753
+  },
+  {
+    "text": "would cause more harm than letting\nthe prediction run its course.",
+    "start": 95.299,
+    "duration": 3.128
+  },
+  {
+    "text": "Or, you could stay together\nand remain unmarried,",
+    "start": 98.511,
+    "duration": 3.378
+  },
+  {
+    "text": "on the off-chance marriage itself\nwould be the problem.",
+    "start": 101.889,
+    "duration": 3.212
+  },
+  {
+    "text": "Though without understanding the reasons\nfor your predicted divorce,",
+    "start": 105.56,
+    "duration": 3.753
+  },
+  {
+    "text": "you’d never know if those mystery issues\nwould still emerge",
+    "start": 109.313,
+    "duration": 3.671
+  },
+  {
+    "text": "to ruin your relationship.",
+    "start": 112.984,
+    "duration": 1.585
+  },
+  {
+    "text": "The uncertainty undermining\nall these options",
+    "start": 115.194,
+    "duration": 3.212
+  },
+  {
+    "text": "stems from a well known issue with AI\naround explainability and transparency.",
+    "start": 118.406,
+    "duration": 5.589
+  },
+  {
+    "text": "This problem plagues tons of potentially\nuseful predictive models,",
+    "start": 124.287,
+    "duration": 4.087
+  },
+  {
+    "text": "such as those that could be used\nto predict which bank customers",
+    "start": 128.374,
+    "duration": 3.42
+  },
+  {
+    "text": "are most likely to repay a loan,",
+    "start": 131.794,
+    "duration": 1.96
+  },
+  {
+    "text": "or which prisoners are most likely\nto reoffend if granted parole.",
+    "start": 133.754,
+    "duration": 4.171
+  },
+  {
+    "text": "Without knowing why AI systems\nreach their decisions,",
+    "start": 138.176,
+    "duration": 3.503
+  },
+  {
+    "text": "many worry we can’t think critically\nabout how to follow their advice.",
+    "start": 141.679,
+    "duration": 4.296
+  },
+  {
+    "text": "But the transparency problem\ndoesn’t just prevent us",
+    "start": 146.1,
+    "duration": 2.711
+  },
+  {
+    "text": "from understanding these models,",
+    "start": 148.811,
+    "duration": 1.794
+  },
+  {
+    "text": "it also impacts the user’s accountability.",
+    "start": 150.605,
+    "duration": 3.086
+  },
+  {
+    "text": "For example, if the AI's prediction\nled you to break up with Alex,",
+    "start": 154.15,
+    "duration": 4.046
+  },
+  {
+    "text": "what explanation could you\nreasonably offer them?",
+    "start": 158.196,
+    "duration": 2.752
+  },
+  {
+    "text": "That you want to end\nyour happy relationship",
+    "start": 161.115,
+    "duration": 2.127
+  },
+  {
+    "text": "because some mysterious machine\npredicted its demise?",
+    "start": 163.242,
+    "duration": 3.253
+  },
+  {
+    "text": "That hardly seems fair to Alex.",
+    "start": 166.579,
+    "duration": 2.127
+  },
+  {
+    "text": "We don’t always owe people\nan explanation for our actions,",
+    "start": 168.831,
+    "duration": 3.337
+  },
+  {
+    "text": "but when we do,",
+    "start": 172.168,
+    "duration": 1.168
+  },
+  {
+    "text": "AI’s lack of transparency can create\nethically challenging situations.",
+    "start": 173.336,
+    "duration": 4.754
+  },
+  {
+    "text": "And accountability is just one\nof the tradeoffs we make",
+    "start": 178.299,
+    "duration": 2.961
+  },
+  {
+    "text": "by outsourcing important decisions to AI.",
+    "start": 181.26,
+    "duration": 2.962
+  },
+  {
+    "text": "If you’re comfortable deferring\nyour agency to an AI model",
+    "start": 184.889,
+    "duration": 3.545
+  },
+  {
+    "text": "it’s likely because you’re focused\non the accuracy of the prediction.",
+    "start": 188.434,
+    "duration": 3.837
+  },
+  {
+    "text": "In this mindset, it doesn’t really matter\nwhy you and Alex might break up—",
+    "start": 192.271,
+    "duration": 4.38
+  },
+  {
+    "text": "simply that you likely will.",
+    "start": 196.651,
+    "duration": 1.918
+  },
+  {
+    "text": "But if you prioritize authenticity\nover accuracy,",
+    "start": 198.736,
+    "duration": 3.754
+  },
+  {
+    "text": "then you'll need to understand\nand appreciate the reasons",
+    "start": 202.49,
+    "duration": 3.086
+  },
+  {
+    "text": "for your future divorce\nbefore ending things today.",
+    "start": 205.576,
+    "duration": 3.17
+  },
+  {
+    "text": "Authentic decision making like this is\nessential for maintaining accountability,",
+    "start": 208.955,
+    "duration": 4.879
+  },
+  {
+    "text": "and it might be your best chance\nto prove the prediction wrong.",
+    "start": 213.876,
+    "duration": 3.921
+  },
+  {
+    "text": "On the other hand,\nit’s also possible the model",
+    "start": 217.88,
+    "duration": 2.92
+  },
+  {
+    "text": "already accounted for your attempts\nto defy it,",
+    "start": 220.8,
+    "duration": 2.836
+  },
+  {
+    "text": "and you’re just setting yourself\nup for failure.",
+    "start": 223.636,
+    "duration": 2.502
+  },
+  {
+    "text": "95% accuracy is high, \nbut it’s not perfect—",
+    "start": 226.931,
+    "duration": 3.587
+  },
+  {
+    "text": "that figure means 1 in 20 couples\nwill receive a false prediction.",
+    "start": 230.601,
+    "duration": 4.672
+  },
+  {
+    "text": "And as more people use this service,",
+    "start": 235.356,
+    "duration": 2.21
+  },
+  {
+    "text": "the likelihood increases that someone\nwho was predicted to divorce",
+    "start": 237.566,
+    "duration": 3.879
+  },
+  {
+    "text": "will do so just because the AI\npredicted they would.",
+    "start": 241.445,
+    "duration": 3.42
+  },
+  {
+    "text": "If that happens to enough newlyweds,",
+    "start": 245.366,
+    "duration": 2.294
+  },
+  {
+    "text": "the AI's success rate could\nbe artificially maintained",
+    "start": 247.66,
+    "duration": 3.712
+  },
+  {
+    "text": "or even increased by these\nself-fulfilling predictions.",
+    "start": 251.372,
+    "duration": 3.67
+  },
+  {
+    "text": "Of course, no matter what\nthe AI might tell you,",
+    "start": 255.167,
+    "duration": 2.878
+  },
+  {
+    "text": "whether you even ask for its prediction\nis still up to you.",
+    "start": 258.045,
+    "duration": 3.796
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "text": "In the time it takes to snap your fingers,",
+    "start": 6.878,
+    "duration": 2.002
+  },
+  {
+    "text": "the Sun releases enough energy to power\nour entire civilization for 4,500 years.",
+    "start": 8.88,
+    "duration": 6.423
+  },
+  {
+    "text": "So naturally, scientists and engineers\nhave been working to build",
+    "start": 15.72,
+    "duration": 3.503
+  },
+  {
+    "text": "a miniature star here on Earth...\nto plug into our power grid.",
+    "start": 19.223,
+    "duration": 3.963
+  },
+  {
+    "text": "And the thing is, we already kind of have.",
+    "start": 23.352,
+    "duration": 3.212
+  },
+  {
+    "text": "It just doesn’t look like a tiny star\nfloating in a lab.",
+    "start": 26.689,
+    "duration": 3.087
+  },
+  {
+    "text": "The stars are made of an almost\nincomprehensible number of particles,",
+    "start": 30.026,
+    "duration": 4.171
+  },
+  {
+    "text": "which gravity compresses\ninto a super dense core.",
+    "start": 34.197,
+    "duration": 3.253
+  },
+  {
+    "text": "This core is hot and dense enough\nto force atomic nuclei together,",
+    "start": 37.867,
+    "duration": 4.296
+  },
+  {
+    "text": "forming larger, heavier nuclei\nin a process known as fusion.",
+    "start": 42.163,
+    "duration": 4.129
+  },
+  {
+    "text": "The reverse process, where one atom\nsplits into two, is called fission.",
+    "start": 46.584,
+    "duration": 4.254
+  },
+  {
+    "text": "In both processes, the mass of the end\nproducts is slightly less",
+    "start": 51.214,
+    "duration": 3.795
+  },
+  {
+    "text": "than the mass of the initial atoms.",
+    "start": 55.009,
+    "duration": 1.794
+  },
+  {
+    "text": "But that lost mass doesn’t disappear—",
+    "start": 56.928,
+    "duration": 2.586
+  },
+  {
+    "text": "it’s converted to energy according\nto Einstein’s famous equation.",
+    "start": 59.555,
+    "duration": 3.712
+  },
+  {
+    "text": "And since c² is such\na massive number,",
+    "start": 63.434,
+    "duration": 2.252
+  },
+  {
+    "text": "both fission and fusion\ngenerate a lot of energy.",
+    "start": 65.728,
+    "duration": 3.712
+  },
+  {
+    "text": "Fusion in our Sun mostly\nproduces helium nuclei.",
+    "start": 70.191,
+    "duration": 3.629
+  },
+  {
+    "text": "In the most common pathway, two protons\nfuse to form a deuterium nucleus,",
+    "start": 73.82,
+    "duration": 4.462
+  },
+  {
+    "text": "which then fuses with another proton\nto form a helium-3 nucleus,",
+    "start": 78.282,
+    "duration": 4.421
+  },
+  {
+    "text": "which then fuses with another helium-3\nnucleus to form a helium-4 nucleus.",
+    "start": 82.787,
+    "duration": 5.505
+  },
+  {
+    "text": "But there’s a catch—\nthat first step is incredibly rare.",
+    "start": 88.417,
+    "duration": 3.796
+  },
+  {
+    "text": "Only 1 in 100 septillion collisions\nbetween protons",
+    "start": 92.255,
+    "duration": 4.045
+  },
+  {
+    "text": "results in a deuterium nucleus.",
+    "start": 96.3,
+    "duration": 1.961
+  },
+  {
+    "text": "In the Sun this isn’t a problem\nbecause there are so many protons",
+    "start": 98.678,
+    "duration": 3.17
+  },
+  {
+    "text": "that even a reaction this rare\nhappens all the time.",
+    "start": 101.848,
+    "duration": 3.253
+  },
+  {
+    "text": "But on Earth, researchers rely\non a more easily reproducible reaction,",
+    "start": 105.476,
+    "duration": 4.338
+  },
+  {
+    "text": "where a deuterium nucleus fuses\nwith a tritium nucleus",
+    "start": 109.814,
+    "duration": 3.17
+  },
+  {
+    "text": "to form a helium-4 nucleus and a neutron.",
+    "start": 112.984,
+    "duration": 3.128
+  },
+  {
+    "text": "We’ve actually been doing reactions\nlike this one inside particle accelerators",
+    "start": 116.737,
+    "duration": 4.213
+  },
+  {
+    "text": "since the 1930s.",
+    "start": 120.95,
+    "duration": 1.793
+  },
+  {
+    "text": "But these accelerators are not designed to\nharness the energy this reaction releases.",
+    "start": 122.91,
+    "duration": 4.129
+  },
+  {
+    "text": "Rather, they’re used to generate neutrons",
+    "start": 127.165,
+    "duration": 2.043
+  },
+  {
+    "text": "for a variety of scientific\nand military purposes.",
+    "start": 129.208,
+    "duration": 3.045
+  },
+  {
+    "text": "Whereas if we want to use fusion\nto produce limitless energy,",
+    "start": 132.378,
+    "duration": 3.712
+  },
+  {
+    "text": "we’d need a device that can\nharness the energy released,",
+    "start": 136.09,
+    "duration": 2.878
+  },
+  {
+    "text": "channel enough of that energy back into\nthe device to keep the reaction going,",
+    "start": 138.968,
+    "duration": 4.671
+  },
+  {
+    "text": "and then send the rest\nout to our power grid.",
+    "start": 143.639,
+    "duration": 2.503
+  },
+  {
+    "text": "And for that job,\nwe need a nuclear fusion reactor.",
+    "start": 146.35,
+    "duration": 3.546
+  },
+  {
+    "text": "Like a particle accelerator, a reactor\nwould generate helium nuclei and neutrons.",
+    "start": 150.396,
+    "duration": 4.755
+  },
+  {
+    "text": "But that reaction would happen\nin a superhot core",
+    "start": 155.276,
+    "duration": 3.003
+  },
+  {
+    "text": "and the resulting neutrons\nwould shoot outward",
+    "start": 158.279,
+    "duration": 2.169
+  },
+  {
+    "text": "to heat up a layer of lithium metal.",
+    "start": 160.448,
+    "duration": 2.21
+  },
+  {
+    "text": "That heat would then boil water,",
+    "start": 162.909,
+    "duration": 1.543
+  },
+  {
+    "text": "generating steam to run turbines\nand produce electricity.",
+    "start": 164.452,
+    "duration": 3.253
+  },
+  {
+    "text": "Meanwhile, the helium nuclei\nwould stay in the core",
+    "start": 167.914,
+    "duration": 3.461
+  },
+  {
+    "text": "and slam into other nuclei\nto keep the reaction going—",
+    "start": 171.375,
+    "duration": 3.379
+  },
+  {
+    "text": "and the electricity flowing.",
+    "start": 174.754,
+    "duration": 1.376
+  },
+  {
+    "text": "This tech has many practical challenges,",
+    "start": 176.631,
+    "duration": 1.96
+  },
+  {
+    "text": "including how to confine a swirling\nmass of million-degree matter.",
+    "start": 178.591,
+    "duration": 4.046
+  },
+  {
+    "text": "But the biggest hurdle is achieving\nwhat's called ignition.",
+    "start": 182.887,
+    "duration": 3.003
+  },
+  {
+    "text": "An energy technology is only\ncommercially viable",
+    "start": 186.224,
+    "duration": 2.669
+  },
+  {
+    "text": "if it puts out more energy than it uses.",
+    "start": 188.893,
+    "duration": 2.419
+  },
+  {
+    "text": "And a fusion reactor needs a lot of energy\nto get the core hot enough",
+    "start": 191.354,
+    "duration": 3.837
+  },
+  {
+    "text": "for fusion to occur.",
+    "start": 195.191,
+    "duration": 1.71
+  },
+  {
+    "text": "So there’s a tipping point:",
+    "start": 196.984,
+    "duration": 1.335
+  },
+  {
+    "text": "a moment when the fuel is hot\nenough to start the reaction",
+    "start": 198.319,
+    "duration": 3.17
+  },
+  {
+    "text": "and release more energy than is needed\nto reach and maintain that temperature.",
+    "start": 201.489,
+    "duration": 4.588
+  },
+  {
+    "text": "This is ignition.",
+    "start": 206.244,
+    "duration": 1.251
+  },
+  {
+    "text": "Stars reach ignition under the force\nof huge amounts of gravity,",
+    "start": 207.87,
+    "duration": 3.504
+  },
+  {
+    "text": "but this approach is impossible on Earth",
+    "start": 211.374,
+    "duration": 1.96
+  },
+  {
+    "text": "since you’d need thousands of times\nthe mass of, well, the entire Earth.",
+    "start": 213.334,
+    "duration": 4.296
+  },
+  {
+    "text": "So researchers typically rely\non vast arrays of lasers,",
+    "start": 218.047,
+    "duration": 3.587
+  },
+  {
+    "text": "or methods that combine magnets\nwith high energy particles",
+    "start": 221.634,
+    "duration": 3.462
+  },
+  {
+    "text": "or electromagnetic waves similar\nto those in your microwave oven.",
+    "start": 225.096,
+    "duration": 3.753
+  },
+  {
+    "text": "In 2022, scientists at the\nUS National Ignition Facility",
+    "start": 229.392,
+    "duration": 3.587
+  },
+  {
+    "text": "demonstrated ignition\nfor the first time ever,",
+    "start": 232.979,
+    "duration": 3.003
+  },
+  {
+    "text": "using 192 lasers to heat deuterium\nand tritium to 100 million degrees.",
+    "start": 235.982,
+    "duration": 6.506
+  },
+  {
+    "text": "While this was a huge step forward,",
+    "start": 242.822,
+    "duration": 2.002
+  },
+  {
+    "text": "we’re still a ways off from a\nself-sustaining, long-running reactor",
+    "start": 244.824,
+    "duration": 3.628
+  },
+  {
+    "text": "that produces more energy than it uses.",
+    "start": 248.452,
+    "duration": 2.503
+  },
+  {
+    "text": "But once operational, these relatively\nsmall reactors could power a city",
+    "start": 251.038,
+    "duration": 3.671
+  },
+  {
+    "text": "of a million people for a year\nwith just two pickup trucks of fuel.",
+    "start": 254.709,
+    "duration": 4.337
+  },
+  {
+    "text": "Today, you’d have to burn\nroughly 3 million tons of coal",
+    "start": 259.547,
+    "duration": 3.879
+  },
+  {
+    "text": "to produce that much energy.",
+    "start": 263.426,
+    "duration": 1.585
+  },
+  {
+    "text": "That is the promise of fusion:",
+    "start": 265.678,
+    "duration": 2.169
+  },
+  {
+    "text": "limitless, on-demand energy\nwith almost no emissions.",
+    "start": 267.847,
+    "duration": 3.795
+  },
+  {
+    "text": "True star power, right here on Earth.",
+    "start": 271.976,
+    "duration": 2.753
+  }
+]

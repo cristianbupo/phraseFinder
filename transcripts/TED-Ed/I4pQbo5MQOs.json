@@ -1,0 +1,412 @@
+[
+  {
+    "text": "Consider the following sentence:\n“This statement is false.”",
+    "start": 6.913,
+    "duration": 3.958
+  },
+  {
+    "text": "Is that true?",
+    "start": 10.871,
+    "duration": 1.292
+  },
+  {
+    "text": "If so, that would make\nthis statement false.",
+    "start": 12.163,
+    "duration": 2.375
+  },
+  {
+    "text": "But if it’s false, then the statement \nis true.",
+    "start": 14.538,
+    "duration": 2.291
+  },
+  {
+    "text": "By referring to itself directly, this \nstatement creates an unresolvable paradox.",
+    "start": 16.829,
+    "duration": 5.292
+  },
+  {
+    "text": "So if it’s not true and it’s not false—\nwhat is it?",
+    "start": 22.121,
+    "duration": 3.667
+  },
+  {
+    "text": "This question might seem \nlike a silly thought experiment.",
+    "start": 26.288,
+    "duration": 2.875
+  },
+  {
+    "text": "But in the early 20th century,\nit led Austrian logician Kurt Gödel",
+    "start": 29.163,
+    "duration": 4.666
+  },
+  {
+    "text": "to a discovery that would change\nmathematics forever.",
+    "start": 33.829,
+    "duration": 3.417
+  },
+  {
+    "text": "Gödel’s discovery had to do with \nthe limitations of mathematical proofs.",
+    "start": 37.746,
+    "duration": 4.541
+  },
+  {
+    "text": "A proof is a logical argument\nthat demonstrates",
+    "start": 42.496,
+    "duration": 3.166
+  },
+  {
+    "text": "why a statement about numbers is true.",
+    "start": 45.662,
+    "duration": 2.5
+  },
+  {
+    "text": "The building blocks of these arguments\nare called axioms—",
+    "start": 48.579,
+    "duration": 3.333
+  },
+  {
+    "text": "undeniable statements \nabout the numbers involved.",
+    "start": 51.912,
+    "duration": 2.709
+  },
+  {
+    "text": "Every system built on mathematics,",
+    "start": 54.996,
+    "duration": 2.291
+  },
+  {
+    "text": "from the most complex proof \nto basic arithmetic,",
+    "start": 57.287,
+    "duration": 3.042
+  },
+  {
+    "text": "is constructed from axioms.",
+    "start": 60.329,
+    "duration": 2.125
+  },
+  {
+    "text": "And if a statement about numbers is true,",
+    "start": 62.954,
+    "duration": 2.75
+  },
+  {
+    "text": "mathematicians should be able to confirm\nit with an axiomatic proof.",
+    "start": 65.704,
+    "duration": 4.584
+  },
+  {
+    "text": "Since ancient Greece, \nmathematicians used this system",
+    "start": 70.788,
+    "duration": 3.208
+  },
+  {
+    "text": "to prove or disprove mathematical claims\nwith total certainty.",
+    "start": 73.996,
+    "duration": 4.208
+  },
+  {
+    "text": "But when Gödel entered the field,",
+    "start": 78.496,
+    "duration": 1.917
+  },
+  {
+    "text": "some newly uncovered logical paradoxes\nwere threatening that certainty.",
+    "start": 80.413,
+    "duration": 4.75
+  },
+  {
+    "text": "Prominent mathematicians were eager\nto prove",
+    "start": 86.121,
+    "duration": 2.625
+  },
+  {
+    "text": "that mathematics had no contradictions.",
+    "start": 88.746,
+    "duration": 2.542
+  },
+  {
+    "text": "Gödel himself wasn’t so sure.",
+    "start": 91.496,
+    "duration": 2.375
+  },
+  {
+    "text": "And he was even less confident\nthat mathematics was the right tool",
+    "start": 93.871,
+    "duration": 4.25
+  },
+  {
+    "text": "to investigate this problem.",
+    "start": 98.121,
+    "duration": 1.917
+  },
+  {
+    "text": "While it’s relatively easy to create \na self-referential paradox with words,",
+    "start": 100.413,
+    "duration": 4.833
+  },
+  {
+    "text": "numbers don't typically\ntalk about themselves.",
+    "start": 105.246,
+    "duration": 3.25
+  },
+  {
+    "text": "A mathematical statement is simply \ntrue or false.",
+    "start": 108.829,
+    "duration": 3.209
+  },
+  {
+    "text": "But Gödel had an idea.",
+    "start": 112.038,
+    "duration": 1.541
+  },
+  {
+    "text": "First, he translated mathematical \nstatements and equations into code numbers",
+    "start": 114.038,
+    "duration": 4.833
+  },
+  {
+    "text": "so that a complex mathematical idea could\nbe expressed in a single number.",
+    "start": 118.871,
+    "duration": 4.292
+  },
+  {
+    "text": "This meant that mathematical statements\nwritten with those numbers",
+    "start": 123.621,
+    "duration": 3.583
+  },
+  {
+    "text": "were also expressing something about \nthe encoded statements of mathematics.",
+    "start": 127.204,
+    "duration": 4.459
+  },
+  {
+    "text": "In this way, the coding allowed\nmathematics to talk about itself.",
+    "start": 132.288,
+    "duration": 4.125
+  },
+  {
+    "text": "Through this method, he was able to write:",
+    "start": 136.746,
+    "duration": 2.542
+  },
+  {
+    "text": "“This statement cannot be proved” \nas an equation,",
+    "start": 139.288,
+    "duration": 3.458
+  },
+  {
+    "text": "creating the first self-referential\nmathematical statement.",
+    "start": 142.746,
+    "duration": 3.75
+  },
+  {
+    "text": "However, unlike the ambiguous\nsentence that inspired him,",
+    "start": 147.413,
+    "duration": 3.5
+  },
+  {
+    "text": "mathematical statements must be \ntrue or false.",
+    "start": 150.913,
+    "duration": 3.458
+  },
+  {
+    "text": "So which is it?",
+    "start": 154.579,
+    "duration": 1.5
+  },
+  {
+    "text": "If it’s false, that means the statement\ndoes have a proof.",
+    "start": 156.371,
+    "duration": 3.542
+  },
+  {
+    "text": "But if a mathematical statement has\na proof, then it must be true.",
+    "start": 159.913,
+    "duration": 3.958
+  },
+  {
+    "text": "This contradiction means that Gödel’s\nstatement can’t be false,",
+    "start": 164.413,
+    "duration": 4.166
+  },
+  {
+    "text": "and therefore it must be true that\n“this statement cannot be proved.”",
+    "start": 168.579,
+    "duration": 4.875
+  },
+  {
+    "text": "Yet this result is even more surprising,",
+    "start": 174.329,
+    "duration": 2.584
+  },
+  {
+    "text": "because it means we now have \na true equation of mathematics",
+    "start": 176.913,
+    "duration": 4.083
+  },
+  {
+    "text": "that asserts it cannot be proved.",
+    "start": 180.996,
+    "duration": 2.667
+  },
+  {
+    "text": "This revelation is at the heart \nof Gödel’s Incompleteness Theorem,",
+    "start": 184.121,
+    "duration": 4.75
+  },
+  {
+    "text": "which introduces an entirely new class \nof mathematical statement.",
+    "start": 188.871,
+    "duration": 4.25
+  },
+  {
+    "text": "In Gödel’s paradigm, statements still \nare either true or false,",
+    "start": 193.121,
+    "duration": 4.375
+  },
+  {
+    "text": "but true statements can either be\nprovable or unprovable",
+    "start": 197.621,
+    "duration": 4.542
+  },
+  {
+    "text": "within a given set of axioms.",
+    "start": 202.163,
+    "duration": 2.375
+  },
+  {
+    "text": "Furthermore, Gödel argues these \nunprovable true statements",
+    "start": 204.746,
+    "duration": 4.708
+  },
+  {
+    "text": "exist in every axiomatic system.",
+    "start": 209.454,
+    "duration": 2.917
+  },
+  {
+    "text": "This makes it impossible to create",
+    "start": 212.788,
+    "duration": 2.208
+  },
+  {
+    "text": "a perfectly complete system \nusing mathematics,",
+    "start": 214.996,
+    "duration": 3.333
+  },
+  {
+    "text": "because there will always be true\nstatements we cannot prove.",
+    "start": 218.329,
+    "duration": 4.042
+  },
+  {
+    "text": "Even if you account for these\nunprovable statements",
+    "start": 222.704,
+    "duration": 2.667
+  },
+  {
+    "text": "by adding them as new axioms \nto an enlarged mathematical system,",
+    "start": 225.371,
+    "duration": 4.042
+  },
+  {
+    "text": "that very process introduces new\nunprovably true statements.",
+    "start": 229.704,
+    "duration": 5.0
+  },
+  {
+    "text": "No matter how many axioms you add,",
+    "start": 235.121,
+    "duration": 2.292
+  },
+  {
+    "text": "there will always be unprovably true \nstatements in your system.",
+    "start": 237.413,
+    "duration": 4.041
+  },
+  {
+    "text": "It’s Gödels all the way down!",
+    "start": 241.454,
+    "duration": 2.167
+  },
+  {
+    "text": "This revelation rocked the foundations \nof the field,",
+    "start": 244.163,
+    "duration": 3.041
+  },
+  {
+    "text": "crushing those who dreamed that every\nmathematical claim would one day",
+    "start": 247.204,
+    "duration": 4.125
+  },
+  {
+    "text": "be proven or disproven.",
+    "start": 251.329,
+    "duration": 2.0
+  },
+  {
+    "text": "While most mathematicians accepted this \nnew reality, some fervently debated it.",
+    "start": 253.788,
+    "duration": 4.916
+  },
+  {
+    "text": "Others still tried to ignore \nthe newly uncovered a hole",
+    "start": 258.954,
+    "duration": 3.542
+  },
+  {
+    "text": "in the heart of their field.",
+    "start": 262.496,
+    "duration": 1.875
+  },
+  {
+    "text": "But as more classical problems were proven\nto be unprovably true,",
+    "start": 264.371,
+    "duration": 4.417
+  },
+  {
+    "text": "some began to worry their life's work\nwould be impossible to complete.",
+    "start": 268.788,
+    "duration": 4.625
+  },
+  {
+    "text": "Still, Gödel’s theorem opened \nas many doors as a closed.",
+    "start": 273.413,
+    "duration": 3.833
+  },
+  {
+    "text": "Knowledge of unprovably true statements",
+    "start": 277.246,
+    "duration": 2.625
+  },
+  {
+    "text": "inspired key innovations \nin early computers.",
+    "start": 279.871,
+    "duration": 3.208
+  },
+  {
+    "text": "And today, some mathematicians dedicate\ntheir careers",
+    "start": 283.329,
+    "duration": 3.084
+  },
+  {
+    "text": "to identifying provably \nunprovable statements.",
+    "start": 286.413,
+    "duration": 3.166
+  },
+  {
+    "text": "So while mathematicians may have \nlost some certainty,",
+    "start": 289.871,
+    "duration": 3.083
+  },
+  {
+    "text": "thanks to Gödel they can embrace \nthe unknown",
+    "start": 292.954,
+    "duration": 2.792
+  },
+  {
+    "text": "at the heart of any quest for truth.",
+    "start": 295.746,
+    "duration": 2.417
+  }
+]

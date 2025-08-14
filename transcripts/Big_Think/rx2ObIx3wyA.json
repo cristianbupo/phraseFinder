@@ -1,0 +1,517 @@
+[
+  {
+    "text": "So Rails have actually been interested",
+    "start": 3.28,
+    "duration": 3.44
+  },
+  {
+    "text": "in the client side for a long time. When",
+    "start": 4.96,
+    "duration": 3.28
+  },
+  {
+    "text": "Ajax",
+    "start": 6.72,
+    "duration": 4.24
+  },
+  {
+    "text": "um sort of first got its initial push,",
+    "start": 8.24,
+    "duration": 5.84
+  },
+  {
+    "text": "when it's got its acronym back in think",
+    "start": 10.96,
+    "duration": 5.12
+  },
+  {
+    "text": "2006, Rails was one of the first",
+    "start": 14.08,
+    "duration": 4.72
+  },
+  {
+    "text": "serverside frameworks that said this is",
+    "start": 16.08,
+    "duration": 5.279
+  },
+  {
+    "text": "going to be huge. Uh and we're going to",
+    "start": 18.8,
+    "duration": 5.52
+  },
+  {
+    "text": "do something about that. So, we put a",
+    "start": 21.359,
+    "duration": 5.121
+  },
+  {
+    "text": "JavaScript library straight in the Rails",
+    "start": 24.32,
+    "duration": 4.799
+  },
+  {
+    "text": "distribution prototype and we built a",
+    "start": 26.48,
+    "duration": 5.119
+  },
+  {
+    "text": "bunch of helpers around that to make it",
+    "start": 29.119,
+    "duration": 5.921
+  },
+  {
+    "text": "easier to um to create Ajax applications",
+    "start": 31.599,
+    "duration": 6.64
+  },
+  {
+    "text": "with Rails. And today, it's almost",
+    "start": 35.04,
+    "duration": 5.28
+  },
+  {
+    "text": "inconceivable that you'll build a new",
+    "start": 38.239,
+    "duration": 4.081
+  },
+  {
+    "text": "modern web application that doesn't have",
+    "start": 40.32,
+    "duration": 6.32
+  },
+  {
+    "text": "some aspect of Ajax in it. Now, some",
+    "start": 42.32,
+    "duration": 6.16
+  },
+  {
+    "text": "people go a lot further than just having",
+    "start": 46.64,
+    "duration": 4.48
+  },
+  {
+    "text": "some aspects of Ajax in it. Some people",
+    "start": 48.48,
+    "duration": 4.399
+  },
+  {
+    "text": "have their entire application in",
+    "start": 51.12,
+    "duration": 4.959
+  },
+  {
+    "text": "JavaScript and just use the backend as a",
+    "start": 52.879,
+    "duration": 6.401
+  },
+  {
+    "text": "as a data store for that. Um I don't",
+    "start": 56.079,
+    "duration": 6.12
+  },
+  {
+    "text": "find that development experience that",
+    "start": 59.28,
+    "duration": 6.72
+  },
+  {
+    "text": "pleasurable. I have come to tolerate",
+    "start": 62.199,
+    "duration": 6.6
+  },
+  {
+    "text": "JavaScript now that there are great",
+    "start": 66.0,
+    "duration": 5.6
+  },
+  {
+    "text": "libraries and frameworks like prototype",
+    "start": 68.799,
+    "duration": 6.0
+  },
+  {
+    "text": "uh around it to sort of make it um a",
+    "start": 71.6,
+    "duration": 5.04
+  },
+  {
+    "text": "little bit more pleasurable. But it it's",
+    "start": 74.799,
+    "duration": 4.561
+  },
+  {
+    "text": "still no Ruby. I Ruby is still my first",
+    "start": 76.64,
+    "duration": 5.0
+  },
+  {
+    "text": "love in terms of programming languages",
+    "start": 79.36,
+    "duration": 6.56
+  },
+  {
+    "text": "and however much you you you paint up",
+    "start": 81.64,
+    "duration": 5.88
+  },
+  {
+    "text": "JavaScript it's not going to be that",
+    "start": 85.92,
+    "duration": 5.239
+  },
+  {
+    "text": "which is which is fine. Um so from the",
+    "start": 87.52,
+    "duration": 6.4
+  },
+  {
+    "text": "development side of things I don't enjoy",
+    "start": 91.159,
+    "duration": 5.481
+  },
+  {
+    "text": "JavaScript programming nearly as much or",
+    "start": 93.92,
+    "duration": 4.879
+  },
+  {
+    "text": "in the same league as I enjoy Ruby",
+    "start": 96.64,
+    "duration": 4.96
+  },
+  {
+    "text": "programming. Okay, fine. On the client",
+    "start": 98.799,
+    "duration": 4.401
+  },
+  {
+    "text": "side of things like is this better for",
+    "start": 101.6,
+    "duration": 4.72
+  },
+  {
+    "text": "the user? I think there's something",
+    "start": 103.2,
+    "duration": 5.52
+  },
+  {
+    "text": "special and appealing to me about the",
+    "start": 106.32,
+    "duration": 6.0
+  },
+  {
+    "text": "mix, the mix of how the web is discrete",
+    "start": 108.72,
+    "duration": 5.92
+  },
+  {
+    "text": "pages and you use hyperlinks to jump",
+    "start": 112.32,
+    "duration": 5.839
+  },
+  {
+    "text": "from place to place. Uh, and Ajax is",
+    "start": 114.64,
+    "duration": 6.64
+  },
+  {
+    "text": "sort of sprinkled across to to make",
+    "start": 118.159,
+    "duration": 5.081
+  },
+  {
+    "text": "certain common operations a little",
+    "start": 121.28,
+    "duration": 7.36
+  },
+  {
+    "text": "faster. I tend not to like very heavy",
+    "start": 123.24,
+    "duration": 7.639
+  },
+  {
+    "text": "single screenbased web applications.",
+    "start": 128.64,
+    "duration": 4.88
+  },
+  {
+    "text": "They can be fine for some things, but I",
+    "start": 130.879,
+    "duration": 4.641
+  },
+  {
+    "text": "think the web has this unique category",
+    "start": 133.52,
+    "duration": 5.2
+  },
+  {
+    "text": "of applications that fit into that sort",
+    "start": 135.52,
+    "duration": 6.719
+  },
+  {
+    "text": "of middle ground between one screen or",
+    "start": 138.72,
+    "duration": 6.64
+  },
+  {
+    "text": "many screen applications and static web",
+    "start": 142.239,
+    "duration": 6.64
+  },
+  {
+    "text": "pages. And that's a awesome sweet spot",
+    "start": 145.36,
+    "duration": 6.239
+  },
+  {
+    "text": "and I think it works incredibly well for",
+    "start": 148.879,
+    "duration": 6.0
+  },
+  {
+    "text": "a wide array of of applications and I",
+    "start": 151.599,
+    "duration": 5.36
+  },
+  {
+    "text": "wouldn't want them to be any different.",
+    "start": 154.879,
+    "duration": 3.201
+  },
+  {
+    "text": "There are certainly some people",
+    "start": 156.959,
+    "duration": 3.121
+  },
+  {
+    "text": "developing for the web who who long for",
+    "start": 158.08,
+    "duration": 4.08
+  },
+  {
+    "text": "the days of the desktop application and",
+    "start": 160.08,
+    "duration": 4.159
+  },
+  {
+    "text": "finally see that now Ajax is bringing",
+    "start": 162.16,
+    "duration": 4.32
+  },
+  {
+    "text": "that back. Well, we've heard that story",
+    "start": 164.239,
+    "duration": 4.321
+  },
+  {
+    "text": "a lot of times. Well, first it was Java",
+    "start": 166.48,
+    "duration": 4.24
+  },
+  {
+    "text": "that was going to do this. Applets were",
+    "start": 168.56,
+    "duration": 3.92
+  },
+  {
+    "text": "going to bring back the desktop",
+    "start": 170.72,
+    "duration": 3.76
+  },
+  {
+    "text": "experience and we could get rid of this",
+    "start": 172.48,
+    "duration": 4.399
+  },
+  {
+    "text": "nasty HTML. Then it was Flash that would",
+    "start": 174.48,
+    "duration": 5.36
+  },
+  {
+    "text": "bring this forward. Um and now Ajax or",
+    "start": 176.879,
+    "duration": 4.64
+  },
+  {
+    "text": "or anything else like that. There's been",
+    "start": 179.84,
+    "duration": 4.399
+  },
+  {
+    "text": "so many attempts to bring the desktop to",
+    "start": 181.519,
+    "duration": 5.921
+  },
+  {
+    "text": "the web and none of them have succeeded",
+    "start": 184.239,
+    "duration": 5.521
+  },
+  {
+    "text": "in becoming the dominant approach to",
+    "start": 187.44,
+    "duration": 3.68
+  },
+  {
+    "text": "building web applications and I think",
+    "start": 189.76,
+    "duration": 3.28
+  },
+  {
+    "text": "there's a good reason for that because",
+    "start": 191.12,
+    "duration": 4.16
+  },
+  {
+    "text": "that's not what users want. Like that",
+    "start": 193.04,
+    "duration": 4.32
+  },
+  {
+    "text": "sweet spot in the middle is is great and",
+    "start": 195.28,
+    "duration": 3.76
+  },
+  {
+    "text": "it's actually desirable on its own",
+    "start": 197.36,
+    "duration": 4.68
+  },
+  {
+    "text": "terms.",
+    "start": 199.04,
+    "duration": 3.0
+  },
+  {
+    "text": "Google is certainly trying to bring",
+    "start": 203.68,
+    "duration": 4.72
+  },
+  {
+    "text": "about the day where you can just have a",
+    "start": 205.68,
+    "duration": 4.4
+  },
+  {
+    "text": "dumb computer and everything happens in",
+    "start": 208.4,
+    "duration": 5.36
+  },
+  {
+    "text": "the cloud. I don't know if that's even",
+    "start": 210.08,
+    "duration": 5.6
+  },
+  {
+    "text": "desirable yet. I don't know why it has",
+    "start": 213.76,
+    "duration": 4.88
+  },
+  {
+    "text": "to be either or. There are certain types",
+    "start": 215.68,
+    "duration": 5.44
+  },
+  {
+    "text": "of applications especially information",
+    "start": 218.64,
+    "duration": 4.879
+  },
+  {
+    "text": "based or network-based uh applications",
+    "start": 221.12,
+    "duration": 4.72
+  },
+  {
+    "text": "that are just great on the web like",
+    "start": 223.519,
+    "duration": 7.521
+  },
+  {
+    "text": "editing your say movies or pictures. Why",
+    "start": 225.84,
+    "duration": 7.039
+  },
+  {
+    "text": "does that have to be online? Why does",
+    "start": 231.04,
+    "duration": 4.559
+  },
+  {
+    "text": "the act of doing that itself have to be",
+    "start": 232.879,
+    "duration": 4.72
+  },
+  {
+    "text": "online? If there's not a big benefit to",
+    "start": 235.599,
+    "duration": 4.56
+  },
+  {
+    "text": "that, then I don't see any particular",
+    "start": 237.599,
+    "duration": 4.961
+  },
+  {
+    "text": "reasoning into forcing it to be there.",
+    "start": 240.159,
+    "duration": 4.561
+  },
+  {
+    "text": "It's fine to have local applications,",
+    "start": 242.56,
+    "duration": 6.48
+  },
+  {
+    "text": "too. And we don't need the eitherors. We",
+    "start": 244.72,
+    "duration": 6.159
+  },
+  {
+    "text": "can take the best of the web and the",
+    "start": 249.04,
+    "duration": 4.8
+  },
+  {
+    "text": "best of the collaboration that that",
+    "start": 250.879,
+    "duration": 4.961
+  },
+  {
+    "text": "enables and enjoy that for all those",
+    "start": 253.84,
+    "duration": 3.76
+  },
+  {
+    "text": "applications where that's a good fit.",
+    "start": 255.84,
+    "duration": 4.72
+  },
+  {
+    "text": "And then we can use the awesome local",
+    "start": 257.6,
+    "duration": 5.92
+  },
+  {
+    "text": "graphical power and computing power of a",
+    "start": 260.56,
+    "duration": 5.68
+  },
+  {
+    "text": "modern computer to do to do those other",
+    "start": 263.52,
+    "duration": 6.0
+  },
+  {
+    "text": "heavy things. Um, I think that that",
+    "start": 266.24,
+    "duration": 8.12
+  },
+  {
+    "text": "split that duality is just fine.",
+    "start": 269.52,
+    "duration": 4.84
+  }
+]

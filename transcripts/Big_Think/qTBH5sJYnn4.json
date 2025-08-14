@@ -1,0 +1,357 @@
+[
+  {
+    "text": "In some sense, all of finance is about",
+    "start": 0.24,
+    "duration": 4.16
+  },
+  {
+    "text": "imagination because finance is about",
+    "start": 2.0,
+    "duration": 4.56
+  },
+  {
+    "text": "saying what should something be worth",
+    "start": 4.4,
+    "duration": 4.48
+  },
+  {
+    "text": "today based on what I think is going to",
+    "start": 6.56,
+    "duration": 3.6
+  },
+  {
+    "text": "happen in the future. Nobody knows",
+    "start": 8.88,
+    "duration": 3.04
+  },
+  {
+    "text": "what's going to happen in the future.",
+    "start": 10.16,
+    "duration": 4.72
+  },
+  {
+    "text": "And so all financial models are",
+    "start": 11.92,
+    "duration": 4.8
+  },
+  {
+    "text": "specifying in some way an imagined",
+    "start": 14.88,
+    "duration": 4.64
+  },
+  {
+    "text": "future and then saying if that future is",
+    "start": 16.72,
+    "duration": 4.68
+  },
+  {
+    "text": "true, what should I pay for something",
+    "start": 19.52,
+    "duration": 5.599
+  },
+  {
+    "text": "today? And so for example, um if you're",
+    "start": 21.4,
+    "duration": 5.08
+  },
+  {
+    "text": "if you're building an option model,",
+    "start": 25.119,
+    "duration": 3.281
+  },
+  {
+    "text": "you're saying what will volatility be in",
+    "start": 26.48,
+    "duration": 3.92
+  },
+  {
+    "text": "the future? And given my estimate of",
+    "start": 28.4,
+    "duration": 4.08
+  },
+  {
+    "text": "volatility in the future, I can value an",
+    "start": 30.4,
+    "duration": 4.24
+  },
+  {
+    "text": "option today. If you're looking at",
+    "start": 32.48,
+    "duration": 4.239
+  },
+  {
+    "text": "CDOS's, which sort of came acropper in",
+    "start": 34.64,
+    "duration": 4.8
+  },
+  {
+    "text": "the big um financial crisis, essentially",
+    "start": 36.719,
+    "duration": 4.081
+  },
+  {
+    "text": "human beings are saying what will",
+    "start": 39.44,
+    "duration": 3.119
+  },
+  {
+    "text": "housing prices do in the future? What",
+    "start": 40.8,
+    "duration": 3.599
+  },
+  {
+    "text": "will defaults on loans be and defaults",
+    "start": 42.559,
+    "duration": 4.16
+  },
+  {
+    "text": "on mortgages be? And given my imagined",
+    "start": 44.399,
+    "duration": 4.401
+  },
+  {
+    "text": "scenario for the future, what should I",
+    "start": 46.719,
+    "duration": 3.761
+  },
+  {
+    "text": "pay for something today that's sensitive",
+    "start": 48.8,
+    "duration": 3.52
+  },
+  {
+    "text": "to that future behavior? The big",
+    "start": 50.48,
+    "duration": 3.68
+  },
+  {
+    "text": "failures, I think, are failures of",
+    "start": 52.32,
+    "duration": 4.16
+  },
+  {
+    "text": "imagination, not of mathematics. The big",
+    "start": 54.16,
+    "duration": 4.559
+  },
+  {
+    "text": "mistakes are when you don't think of",
+    "start": 56.48,
+    "duration": 3.759
+  },
+  {
+    "text": "something that does come to fruition",
+    "start": 58.719,
+    "duration": 3.201
+  },
+  {
+    "text": "eventually. When I was in graduate",
+    "start": 60.239,
+    "duration": 3.201
+  },
+  {
+    "text": "school, I went to see a movie the night",
+    "start": 61.92,
+    "duration": 3.0
+  },
+  {
+    "text": "before my qualifying exams called",
+    "start": 63.44,
+    "duration": 3.76
+  },
+  {
+    "text": "Bedazzled with Peter Cook and Dudley",
+    "start": 64.92,
+    "duration": 4.12
+  },
+  {
+    "text": "Mur. It's about 40 years old, but I",
+    "start": 67.2,
+    "duration": 3.52
+  },
+  {
+    "text": "think it was remade a few years ago.",
+    "start": 69.04,
+    "duration": 3.04
+  },
+  {
+    "text": "Dudley Mur, I think they're both dead",
+    "start": 70.72,
+    "duration": 3.12
+  },
+  {
+    "text": "now. Dudley Mur and Peter Cook. He was a",
+    "start": 72.08,
+    "duration": 4.0
+  },
+  {
+    "text": "short order cook in a wimpies in London,",
+    "start": 73.84,
+    "duration": 4.08
+  },
+  {
+    "text": "and he's in love with the waitress that",
+    "start": 76.08,
+    "duration": 3.76
+  },
+  {
+    "text": "serves him. Peter Cook plays the devil",
+    "start": 77.92,
+    "duration": 4.559
+  },
+  {
+    "text": "and offers him um seven chances to",
+    "start": 79.84,
+    "duration": 4.56
+  },
+  {
+    "text": "seduce the waitress in exchange for his",
+    "start": 82.479,
+    "duration": 5.521
+  },
+  {
+    "text": "soul. And so he agrees and then he tries",
+    "start": 84.4,
+    "duration": 6.399
+  },
+  {
+    "text": "to specify the circumstances under which",
+    "start": 88.0,
+    "duration": 6.079
+  },
+  {
+    "text": "um he will be um with the waitress. And",
+    "start": 90.799,
+    "duration": 5.28
+  },
+  {
+    "text": "so the first time he says something like",
+    "start": 94.079,
+    "duration": 4.72
+  },
+  {
+    "text": "uh he'd like to be in a fancy castle in",
+    "start": 96.079,
+    "duration": 5.121
+  },
+  {
+    "text": "Oxford shear and with her and both of",
+    "start": 98.799,
+    "duration": 3.841
+  },
+  {
+    "text": "them in love with each other and both of",
+    "start": 101.2,
+    "duration": 3.12
+  },
+  {
+    "text": "them wealthy and the devil snaps his",
+    "start": 102.64,
+    "duration": 3.439
+  },
+  {
+    "text": "fingers and there they are in this",
+    "start": 104.32,
+    "duration": 3.119
+  },
+  {
+    "text": "castle and they're around a billyard",
+    "start": 106.079,
+    "duration": 2.481
+  },
+  {
+    "text": "table and they're in love with each",
+    "start": 107.439,
+    "duration": 2.64
+  },
+  {
+    "text": "other but she's married to the owner of",
+    "start": 108.56,
+    "duration": 3.919
+  },
+  {
+    "text": "the castle and he's just a guest and she",
+    "start": 110.079,
+    "duration": 4.0
+  },
+  {
+    "text": "has scruples so she's not willing to get",
+    "start": 112.479,
+    "duration": 4.241
+  },
+  {
+    "text": "involved with him. And um every scenario",
+    "start": 114.079,
+    "duration": 4.72
+  },
+  {
+    "text": "he tries of these seven scenarios um he",
+    "start": 116.72,
+    "duration": 4.079
+  },
+  {
+    "text": "gets wrong. In the last one, he asks if",
+    "start": 118.799,
+    "duration": 3.68
+  },
+  {
+    "text": "they can both just be somewhere quiet",
+    "start": 120.799,
+    "duration": 3.041
+  },
+  {
+    "text": "with nobody to interfere with them and",
+    "start": 122.479,
+    "duration": 2.96
+  },
+  {
+    "text": "nobody talking and they make them both",
+    "start": 123.84,
+    "duration": 3.479
+  },
+  {
+    "text": "them nuns in a sort of Trappist",
+    "start": 125.439,
+    "duration": 4.96
+  },
+  {
+    "text": "monastery. And so his imagination can",
+    "start": 127.319,
+    "duration": 6.201
+  },
+  {
+    "text": "never specify precisely enough the",
+    "start": 130.399,
+    "duration": 4.721
+  },
+  {
+    "text": "future that that um that that he'd like",
+    "start": 133.52,
+    "duration": 2.96
+  },
+  {
+    "text": "to have. And I think that's sort of what",
+    "start": 135.12,
+    "duration": 2.56
+  },
+  {
+    "text": "goes wrong with a lot of financial",
+    "start": 136.48,
+    "duration": 3.36
+  },
+  {
+    "text": "models. You can't really write down one",
+    "start": 137.68,
+    "duration": 3.68
+  },
+  {
+    "text": "short description of all the things that",
+    "start": 139.84,
+    "duration": 5.56
+  },
+  {
+    "text": "markets may do in the future.",
+    "start": 141.36,
+    "duration": 4.04
+  }
+]

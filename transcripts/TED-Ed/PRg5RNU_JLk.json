@@ -1,0 +1,407 @@
+[
+  {
+    "text": "It’s late, pitch dark, and a self-driving \ncar winds down a narrow country road.",
+    "start": 8.145,
+    "duration": 6.987
+  },
+  {
+    "text": "Suddenly, three hazards appear \nat the same time.",
+    "start": 15.132,
+    "duration": 3.592
+  },
+  {
+    "text": "What happens next?",
+    "start": 18.724,
+    "duration": 2.122
+  },
+  {
+    "text": "Before it can navigate this \nonslaught of obstacles,",
+    "start": 20.846,
+    "duration": 3.197
+  },
+  {
+    "text": "the car has to detect them—",
+    "start": 24.043,
+    "duration": 2.04
+  },
+  {
+    "text": "gleaning enough information about \ntheir size, shape, and position,",
+    "start": 26.083,
+    "duration": 3.763
+  },
+  {
+    "text": "so that its control algorithms \ncan plot the safest course.",
+    "start": 29.846,
+    "duration": 4.362
+  },
+  {
+    "text": "With no human at the wheel,",
+    "start": 34.208,
+    "duration": 1.554
+  },
+  {
+    "text": "the car needs smart eyes, sensors \nthat’ll resolve these details—",
+    "start": 35.762,
+    "duration": 4.785
+  },
+  {
+    "text": "no matter the environment, \nweather, or how dark it is—",
+    "start": 40.547,
+    "duration": 3.351
+  },
+  {
+    "text": "all in a split-second.",
+    "start": 43.898,
+    "duration": 2.022
+  },
+  {
+    "text": "That’s a tall order, but there’s a \nsolution that partners two things:",
+    "start": 45.92,
+    "duration": 4.239
+  },
+  {
+    "text": "a special kind of laser-based probe \ncalled LIDAR,",
+    "start": 50.159,
+    "duration": 3.69
+  },
+  {
+    "text": "and a miniature version of \nthe communications technology",
+    "start": 53.849,
+    "duration": 2.729
+  },
+  {
+    "text": "that keeps the internet humming,\ncalled integrated photonics.",
+    "start": 56.578,
+    "duration": 4.358
+  },
+  {
+    "text": "To understand LIDAR, it helps to start \nwith a related technology— radar.",
+    "start": 60.936,
+    "duration": 5.07
+  },
+  {
+    "text": "In aviation,",
+    "start": 66.006,
+    "duration": 1.159
+  },
+  {
+    "text": "radar antennas launch pulses \nof radio or microwaves at planes",
+    "start": 67.165,
+    "duration": 4.701
+  },
+  {
+    "text": "to learn their locations by timing \nhow long the beams take to bounce back.",
+    "start": 71.866,
+    "duration": 4.754
+  },
+  {
+    "text": "That’s a limited way of seeing, though,",
+    "start": 76.62,
+    "duration": 1.973
+  },
+  {
+    "text": "because the large beam-size \ncan’t visualize fine details.",
+    "start": 78.593,
+    "duration": 4.086
+  },
+  {
+    "text": "In contrast, a self-driving car’s \nLIDAR system,",
+    "start": 82.679,
+    "duration": 3.448
+  },
+  {
+    "text": "which stands for Light Detection \nand Ranging,",
+    "start": 86.127,
+    "duration": 2.507
+  },
+  {
+    "text": "uses a narrow invisible infrared laser.",
+    "start": 88.634,
+    "duration": 3.556
+  },
+  {
+    "text": "It can image features as small as the \nbutton on a pedestrian’s shirt",
+    "start": 92.19,
+    "duration": 4.47
+  },
+  {
+    "text": "across the street.",
+    "start": 96.66,
+    "duration": 1.463
+  },
+  {
+    "text": "But how do we determine the shape, \nor depth, of these features?",
+    "start": 98.123,
+    "duration": 4.36
+  },
+  {
+    "text": "LIDAR fires a train of super-short laser \npulses to give depth resolution.",
+    "start": 102.483,
+    "duration": 5.784
+  },
+  {
+    "text": "Take the moose on the country road.",
+    "start": 108.267,
+    "duration": 2.479
+  },
+  {
+    "text": "As the car drives by, one LIDAR pulse \nscatters off the base of its antlers,",
+    "start": 110.746,
+    "duration": 5.107
+  },
+  {
+    "text": "while the next may travel to the tip \nof one antler before bouncing back.",
+    "start": 115.853,
+    "duration": 4.868
+  },
+  {
+    "text": "Measuring how much longer \nthe second pulse takes to return",
+    "start": 120.721,
+    "duration": 3.557
+  },
+  {
+    "text": "provides data about the antler’s shape.",
+    "start": 124.278,
+    "duration": 2.604
+  },
+  {
+    "text": "With a lot of short pulses, a LIDAR system\nquickly renders a detailed profile.",
+    "start": 126.882,
+    "duration": 6.31
+  },
+  {
+    "text": "The most obvious way to create a pulse \nof light is to switch a laser on and off.",
+    "start": 133.192,
+    "duration": 5.365
+  },
+  {
+    "text": "But this makes a laser unstable and \naffects the precise timing of its pulses,",
+    "start": 138.557,
+    "duration": 4.871
+  },
+  {
+    "text": "which limits depth resolution.",
+    "start": 143.428,
+    "duration": 2.241
+  },
+  {
+    "text": "Better to leave it on,",
+    "start": 145.669,
+    "duration": 1.375
+  },
+  {
+    "text": "and use something else to periodically \nblock the light reliably and rapidly.",
+    "start": 147.044,
+    "duration": 5.987
+  },
+  {
+    "text": "That’s where integrated photonics come in.",
+    "start": 153.031,
+    "duration": 2.956
+  },
+  {
+    "text": "The digital data of the internet",
+    "start": 155.987,
+    "duration": 1.842
+  },
+  {
+    "text": "is carried by precision-timed \npulses of light,",
+    "start": 157.829,
+    "duration": 3.222
+  },
+  {
+    "text": "some as short as a hundred picoseconds.",
+    "start": 161.051,
+    "duration": 3.422
+  },
+  {
+    "text": "One way to create these pulses is \nwith a Mach-Zehnder modulator.",
+    "start": 164.473,
+    "duration": 4.631
+  },
+  {
+    "text": "This device takes advantage of a \nparticular wave property,",
+    "start": 169.104,
+    "duration": 3.761
+  },
+  {
+    "text": "called interference.",
+    "start": 172.865,
+    "duration": 1.793
+  },
+  {
+    "text": "Imagine dropping pebbles into a pond:",
+    "start": 174.658,
+    "duration": 2.955
+  },
+  {
+    "text": "as the ripples spread and overlap, \na pattern forms.",
+    "start": 177.613,
+    "duration": 3.937
+  },
+  {
+    "text": "In some places, wave peaks add \nup to become very large;",
+    "start": 181.55,
+    "duration": 3.914
+  },
+  {
+    "text": "in other places, they completely \ncancel out.",
+    "start": 185.464,
+    "duration": 2.986
+  },
+  {
+    "text": "The Mach-Zehnder modulator \ndoes something similar.",
+    "start": 188.45,
+    "duration": 3.067
+  },
+  {
+    "text": "It splits waves of light along two \nparallel arms and eventually rejoins them.",
+    "start": 191.517,
+    "duration": 5.775
+  },
+  {
+    "text": "If the light is slowed down and \ndelayed in one arm,",
+    "start": 197.292,
+    "duration": 3.492
+  },
+  {
+    "text": "the waves recombine out of sync and \ncancel, blocking the light.",
+    "start": 200.784,
+    "duration": 4.919
+  },
+  {
+    "text": "By toggling this delay in one arm,",
+    "start": 205.703,
+    "duration": 2.632
+  },
+  {
+    "text": "the modulator acts like an on/off switch, \nemitting pulses of light.",
+    "start": 208.335,
+    "duration": 5.271
+  },
+  {
+    "text": "A light pulse lasting a hundred \npicoseconds",
+    "start": 213.606,
+    "duration": 2.774
+  },
+  {
+    "text": "leads to a depth resolution of a \nfew centimeters,",
+    "start": 216.38,
+    "duration": 3.41
+  },
+  {
+    "text": "but tomorrow’s cars will need \nto see better than that.",
+    "start": 219.79,
+    "duration": 3.513
+  },
+  {
+    "text": "By pairing the modulator with a super-\nsensitive, fast-acting light detector,",
+    "start": 223.303,
+    "duration": 4.292
+  },
+  {
+    "text": "the resolution can be refined \nto a millimeter.",
+    "start": 227.595,
+    "duration": 3.283
+  },
+  {
+    "text": "That’s more than a hundred times better ",
+    "start": 230.878,
+    "duration": 1.903
+  },
+  {
+    "text": "than what we can make out with \n20/20 vision, from across a street.",
+    "start": 232.781,
+    "duration": 4.556
+  },
+  {
+    "text": "The first generation of automobile LIDAR \nhas relied on complex spinning assemblies",
+    "start": 237.337,
+    "duration": 5.588
+  },
+  {
+    "text": "that scan from rooftops or hoods.",
+    "start": 242.925,
+    "duration": 2.852
+  },
+  {
+    "text": "With integrated photonics,",
+    "start": 245.777,
+    "duration": 1.717
+  },
+  {
+    "text": "modulators and detectors are being shrunk \nto less than a tenth of a millimeter,",
+    "start": 247.494,
+    "duration": 5.014
+  },
+  {
+    "text": "and packed into tiny chips that’ll one \nday fit inside a car’s lights.",
+    "start": 252.508,
+    "duration": 5.329
+  },
+  {
+    "text": "These chips will also include a clever \nvariation on the modulator",
+    "start": 257.837,
+    "duration": 3.969
+  },
+  {
+    "text": "to help do away with moving parts \nand scan at rapid speeds.",
+    "start": 261.806,
+    "duration": 5.469
+  },
+  {
+    "text": "By slowing the light in a modulator \narm only a tiny bit,",
+    "start": 267.275,
+    "duration": 3.822
+  },
+  {
+    "text": "this additional device will act more \nlike a dimmer than an on/off switch.",
+    "start": 271.097,
+    "duration": 5.111
+  },
+  {
+    "text": "If an array of many such arms, each with \na tiny controlled delay,",
+    "start": 276.208,
+    "duration": 4.5
+  },
+  {
+    "text": "is stacked in parallel, something novel \ncan be designed:",
+    "start": 280.708,
+    "duration": 4.078
+  },
+  {
+    "text": "a steerable laser beam.",
+    "start": 284.786,
+    "duration": 2.706
+  },
+  {
+    "text": "From their new vantage,",
+    "start": 287.492,
+    "duration": 1.356
+  },
+  {
+    "text": "these smart eyes will probe and \nsee more thoroughly",
+    "start": 288.848,
+    "duration": 3.4
+  },
+  {
+    "text": "than anything nature could’ve imagined—",
+    "start": 292.248,
+    "duration": 2.433
+  },
+  {
+    "text": "and help navigate any number \nof obstacles.",
+    "start": 294.681,
+    "duration": 2.863
+  },
+  {
+    "text": "All without anyone breaking a sweat—",
+    "start": 297.544,
+    "duration": 2.554
+  },
+  {
+    "text": "except for maybe one disoriented moose.",
+    "start": 300.098,
+    "duration": 3.89
+  }
+]

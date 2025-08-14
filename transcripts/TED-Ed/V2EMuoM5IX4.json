@@ -1,0 +1,397 @@
+[
+  {
+    "text": "Let's say you're on a game show.",
+    "start": 6.681,
+    "duration": 2.192
+  },
+  {
+    "text": "You've already earned $1000 \nin the first round",
+    "start": 8.873,
+    "duration": 3.502
+  },
+  {
+    "text": "when you land on the bonus space.",
+    "start": 12.375,
+    "duration": 2.476
+  },
+  {
+    "text": "Now, you have a choice.",
+    "start": 14.851,
+    "duration": 1.806
+  },
+  {
+    "text": "You can either take \na $500 bonus guaranteed",
+    "start": 16.657,
+    "duration": 3.474
+  },
+  {
+    "text": "or you can flip a coin.",
+    "start": 20.131,
+    "duration": 2.406
+  },
+  {
+    "text": "If it's heads, you win $1000 bonus.",
+    "start": 22.537,
+    "duration": 3.32
+  },
+  {
+    "text": "If it's tails, you get no bonus at all.",
+    "start": 25.857,
+    "duration": 3.389
+  },
+  {
+    "text": "In the second round, you've earned $2000\nwhen you land on the penalty space.",
+    "start": 29.246,
+    "duration": 5.023
+  },
+  {
+    "text": "Now you have another choice.",
+    "start": 34.269,
+    "duration": 2.115
+  },
+  {
+    "text": "You can either take a $500 loss,",
+    "start": 36.384,
+    "duration": 2.836
+  },
+  {
+    "text": "or try your luck at the coin flip.",
+    "start": 39.22,
+    "duration": 2.951
+  },
+  {
+    "text": "If it's heads, you lose nothing,",
+    "start": 42.171,
+    "duration": 2.201
+  },
+  {
+    "text": "but if it's tails, you lose $1000 instead.",
+    "start": 44.372,
+    "duration": 4.697
+  },
+  {
+    "text": "If you're like most people,",
+    "start": 49.069,
+    "duration": 1.424
+  },
+  {
+    "text": "you probably chose to take\nthe guaranteed bonus in the first round",
+    "start": 50.493,
+    "duration": 3.791
+  },
+  {
+    "text": "and flip the coin in the second round.",
+    "start": 54.284,
+    "duration": 2.97
+  },
+  {
+    "text": "But if you think about it,\nthis makes no sense.",
+    "start": 57.254,
+    "duration": 2.859
+  },
+  {
+    "text": "The odds and outcomes in both rounds\nare exactly the same.",
+    "start": 60.113,
+    "duration": 4.092
+  },
+  {
+    "text": "So why does the second round\nseem much scarier?",
+    "start": 64.205,
+    "duration": 4.499
+  },
+  {
+    "text": "The answer lies in a phenomenon\nknown as loss aversion.",
+    "start": 68.704,
+    "duration": 4.51
+  },
+  {
+    "text": "Under rational economic theory,",
+    "start": 73.214,
+    "duration": 1.892
+  },
+  {
+    "text": "our decisions should follow a simple\nmathematical equation",
+    "start": 75.106,
+    "duration": 3.74
+  },
+  {
+    "text": "that weighs the level of risk\nagainst the amount at stake.",
+    "start": 78.846,
+    "duration": 4.209
+  },
+  {
+    "text": "But studies have found \nthat for many people,",
+    "start": 83.055,
+    "duration": 2.262
+  },
+  {
+    "text": "the negative psychological impact\nwe feel from losing something",
+    "start": 85.317,
+    "duration": 3.803
+  },
+  {
+    "text": "is about twice as strong as the positive\nimpact of gaining the same thing.",
+    "start": 89.12,
+    "duration": 5.852
+  },
+  {
+    "text": "Loss aversion is one cognitive bias\nthat arises from heuristics,",
+    "start": 94.972,
+    "duration": 4.793
+  },
+  {
+    "text": "problem-solving approaches based on\nprevious experience and intuition",
+    "start": 99.765,
+    "duration": 4.119
+  },
+  {
+    "text": "rather than careful analysis.",
+    "start": 103.884,
+    "duration": 2.645
+  },
+  {
+    "text": "And these mental shortcuts can lead\nto irrational decisions,",
+    "start": 106.529,
+    "duration": 3.636
+  },
+  {
+    "text": "not like falling in love",
+    "start": 110.165,
+    "duration": 1.294
+  },
+  {
+    "text": "or bungee jumping off a cliff,",
+    "start": 111.459,
+    "duration": 1.955
+  },
+  {
+    "text": "but logical fallacies that can easily\nbe proven wrong.",
+    "start": 113.414,
+    "duration": 4.42
+  },
+  {
+    "text": "Situations involving probability are\nnotoriously bad for applying heuristics.",
+    "start": 117.834,
+    "duration": 5.757
+  },
+  {
+    "text": "For instance, say you were to roll a die\nwith four green faces and two red faces",
+    "start": 123.591,
+    "duration": 5.462
+  },
+  {
+    "text": "twenty times.",
+    "start": 129.053,
+    "duration": 1.683
+  },
+  {
+    "text": "You can choose one of \nthe following sequences of rolls,",
+    "start": 130.736,
+    "duration": 2.958
+  },
+  {
+    "text": "and if it shows up, \nyou'll win $25.",
+    "start": 133.694,
+    "duration": 3.324
+  },
+  {
+    "text": "Which would you pick?",
+    "start": 137.018,
+    "duration": 1.891
+  },
+  {
+    "text": "In one study, 65% of the participants\nwho were all college students",
+    "start": 138.909,
+    "duration": 4.929
+  },
+  {
+    "text": "chose sequence B",
+    "start": 143.838,
+    "duration": 2.452
+  },
+  {
+    "text": "even though A is shorter\nand contained within B,",
+    "start": 146.29,
+    "duration": 3.595
+  },
+  {
+    "text": "in other words, more likely.",
+    "start": 149.885,
+    "duration": 1.999
+  },
+  {
+    "text": "This is what's called \na conjunction fallacy.",
+    "start": 151.884,
+    "duration": 3.248
+  },
+  {
+    "text": "Here, we expect to see more green rolls,",
+    "start": 155.132,
+    "duration": 2.293
+  },
+  {
+    "text": "so our brains can trick us into picking\nthe less likely option.",
+    "start": 157.425,
+    "duration": 4.182
+  },
+  {
+    "text": "Heuristics are also terrible \nat dealing with numbers in general.",
+    "start": 161.607,
+    "duration": 4.215
+  },
+  {
+    "text": "In one example, students were split\ninto two groups.",
+    "start": 165.822,
+    "duration": 3.571
+  },
+  {
+    "text": "The first group was asked whether\nMahatma Gandhi died before or after age 9,",
+    "start": 169.393,
+    "duration": 5.349
+  },
+  {
+    "text": "while the second was asked whether\nhe died before or after age 140.",
+    "start": 174.742,
+    "duration": 5.537
+  },
+  {
+    "text": "Both numbers were obviously way off,",
+    "start": 180.279,
+    "duration": 2.44
+  },
+  {
+    "text": "but when the students were then asked\nto guess the actual age at which he died,",
+    "start": 182.719,
+    "duration": 4.538
+  },
+  {
+    "text": "the first group's answers averaged to 50",
+    "start": 187.257,
+    "duration": 2.739
+  },
+  {
+    "text": "while the second group's averaged to 67.",
+    "start": 189.996,
+    "duration": 3.54
+  },
+  {
+    "text": "Even though the clearly wrong information\nin the initial questions",
+    "start": 193.536,
+    "duration": 3.281
+  },
+  {
+    "text": "should have been irrelevant,",
+    "start": 196.817,
+    "duration": 2.031
+  },
+  {
+    "text": "it still affected the students' estimates.",
+    "start": 198.848,
+    "duration": 2.898
+  },
+  {
+    "text": "This is an example \nof the anchoring effect,",
+    "start": 201.746,
+    "duration": 2.869
+  },
+  {
+    "text": "and it's often used in marketing\nand negotiations",
+    "start": 204.615,
+    "duration": 2.924
+  },
+  {
+    "text": "to raise the prices \nthat people are willing to pay.",
+    "start": 207.539,
+    "duration": 3.572
+  },
+  {
+    "text": "So, if heuristics lead to \nall these wrong decisions,",
+    "start": 211.111,
+    "duration": 3.448
+  },
+  {
+    "text": "why do we even have them?",
+    "start": 214.559,
+    "duration": 2.439
+  },
+  {
+    "text": "Well, because they can be quite effective.",
+    "start": 216.998,
+    "duration": 2.774
+  },
+  {
+    "text": "For most of human history,",
+    "start": 219.772,
+    "duration": 1.672
+  },
+  {
+    "text": "survival depended on making quick\ndecisions with limited information.",
+    "start": 221.444,
+    "duration": 4.28
+  },
+  {
+    "text": "When there's no time to logically\nanalyze all the possibilities,",
+    "start": 225.724,
+    "duration": 4.027
+  },
+  {
+    "text": "heuristics can sometimes save our lives.",
+    "start": 229.751,
+    "duration": 3.024
+  },
+  {
+    "text": "But today's environment requires\nfar more complex decision-making,",
+    "start": 232.775,
+    "duration": 3.83
+  },
+  {
+    "text": "and these decisions are more biased\nby unconscious factors than we think,",
+    "start": 236.605,
+    "duration": 4.575
+  },
+  {
+    "text": "affecting everything from health \nand education",
+    "start": 241.18,
+    "duration": 2.378
+  },
+  {
+    "text": "to finance and criminal justice.",
+    "start": 243.558,
+    "duration": 2.614
+  },
+  {
+    "text": "We can't just shut off \nour brain's heuristics,",
+    "start": 246.172,
+    "duration": 2.31
+  },
+  {
+    "text": "but we can learn to be aware of them.",
+    "start": 248.482,
+    "duration": 2.705
+  },
+  {
+    "text": "When you come to \na situation involving numbers,",
+    "start": 251.187,
+    "duration": 2.442
+  },
+  {
+    "text": "probability,",
+    "start": 253.629,
+    "duration": 1.23
+  },
+  {
+    "text": "or multiple details,",
+    "start": 254.859,
+    "duration": 1.864
+  },
+  {
+    "text": "pause for a second",
+    "start": 256.723,
+    "duration": 1.317
+  },
+  {
+    "text": "and consider that the intuitive answer\nmight not be the right one after all.",
+    "start": 258.04,
+    "duration": 5.308
+  }
+]

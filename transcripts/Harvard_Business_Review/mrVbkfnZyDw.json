@@ -1,0 +1,3192 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.0,
+    "duration": 2.898
+  },
+  {
+    "text": "ALISON BEARD: Welcome\nto the HBR IdeaCast",
+    "start": 10.552,
+    "duration": 1.708
+  },
+  {
+    "text": "from Harvard Business Review.",
+    "start": 12.26,
+    "duration": 1.29
+  },
+  {
+    "text": "I'm Alison Beard.",
+    "start": 13.55,
+    "duration": 0.945
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 14.495,
+    "duration": 2.665
+  },
+  {
+    "text": "Across OECD countries\nfrom Australia",
+    "start": 21.93,
+    "duration": 2.37
+  },
+  {
+    "text": "to Germany, Israel to\nMexico, union membership",
+    "start": 24.3,
+    "duration": 2.76
+  },
+  {
+    "text": "has long been on the decline.",
+    "start": 27.06,
+    "duration": 1.89
+  },
+  {
+    "text": "And a lot of businesses probably\nwelcomed that as good news.",
+    "start": 28.95,
+    "duration": 2.88
+  },
+  {
+    "text": "Employees who once\nmight have negotiated",
+    "start": 31.83,
+    "duration": 1.86
+  },
+  {
+    "text": "as a powerful collective could\nnow be managed as individuals.",
+    "start": 33.69,
+    "duration": 3.69
+  },
+  {
+    "text": "Some workers benefited,\nothers didn't.",
+    "start": 37.38,
+    "duration": 2.7
+  },
+  {
+    "text": "In recent years,\nthough, we've seen",
+    "start": 40.08,
+    "duration": 1.56
+  },
+  {
+    "text": "something of a resurgence\nin the labor movement.",
+    "start": 41.64,
+    "duration": 2.61
+  },
+  {
+    "text": "As of 2020, the OECD reports\nthat union membership",
+    "start": 44.25,
+    "duration": 3.39
+  },
+  {
+    "text": "has increased in countries\nlike Ireland, Costa",
+    "start": 47.64,
+    "duration": 2.31
+  },
+  {
+    "text": "Rica, and the United States.",
+    "start": 49.95,
+    "duration": 2.28
+  },
+  {
+    "text": "And here in the US, stories\nof scrappy employees who are",
+    "start": 52.23,
+    "duration": 3.15
+  },
+  {
+    "text": "fighting to unionize their\nAmazon distribution centers",
+    "start": 55.38,
+    "duration": 3.3
+  },
+  {
+    "text": "or Starbucks cafés, and\nactually winning despite lots",
+    "start": 58.68,
+    "duration": 3.57
+  },
+  {
+    "text": "of opposition from their\ncorporate employers,",
+    "start": 62.25,
+    "duration": 2.31
+  },
+  {
+    "text": "are all over the news.",
+    "start": 64.56,
+    "duration": 1.65
+  },
+  {
+    "text": "So what's going on?",
+    "start": 66.21,
+    "duration": 1.44
+  },
+  {
+    "text": "Why do unions seem to\nbe on the rise again?",
+    "start": 67.65,
+    "duration": 2.82
+  },
+  {
+    "text": "Thomas Kochan is a\nprofessor at the MIT Sloan",
+    "start": 70.47,
+    "duration": 2.97
+  },
+  {
+    "text": "School of Management\nwho has long studied",
+    "start": 73.44,
+    "duration": 1.92
+  },
+  {
+    "text": "work and employment policies.",
+    "start": 75.36,
+    "duration": 1.71
+  },
+  {
+    "text": "And he's here to answer\nsome of these questions.",
+    "start": 77.07,
+    "duration": 2.35
+  },
+  {
+    "text": "Hi, Tom.",
+    "start": 79.42,
+    "duration": 0.767
+  },
+  {
+    "text": "THOMAS KOCHAN: Hi, Alison.",
+    "start": 80.187,
+    "duration": 1.083
+  },
+  {
+    "text": "Good to be with you.",
+    "start": 81.27,
+    "duration": 1.05
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 82.32,
+    "duration": 2.94
+  },
+  {
+    "text": "ALISON BEARD: So\nanyone who follows",
+    "start": 90.762,
+    "duration": 1.458
+  },
+  {
+    "text": "business news has heard about\nthese recent union victories",
+    "start": 92.22,
+    "duration": 3.18
+  },
+  {
+    "text": "at Amazon and Starbucks.",
+    "start": 95.4,
+    "duration": 1.69
+  },
+  {
+    "text": "But how widespread is the trend?",
+    "start": 97.09,
+    "duration": 2.57
+  },
+  {
+    "text": "Does it extend to both blue\ncollar and white collar",
+    "start": 99.66,
+    "duration": 2.37
+  },
+  {
+    "text": "workplaces?",
+    "start": 102.03,
+    "duration": 0.99
+  },
+  {
+    "text": "Is it mostly the US or\nmany other countries?",
+    "start": 103.02,
+    "duration": 2.37
+  },
+  {
+    "text": "THOMAS KOCHAN: Well,\nAlison, there's",
+    "start": 105.39,
+    "duration": 1.5
+  },
+  {
+    "text": "no question there's an\nupsurge in organizing.",
+    "start": 106.89,
+    "duration": 2.82
+  },
+  {
+    "text": "And in the United\nStates, it's broadly",
+    "start": 109.71,
+    "duration": 3.9
+  },
+  {
+    "text": "distributed across a wide\nrange of service industries,",
+    "start": 113.61,
+    "duration": 3.18
+  },
+  {
+    "text": "in particular, in retail,\nin the media, obviously,",
+    "start": 116.79,
+    "duration": 4.62
+  },
+  {
+    "text": "in hospitality with\nStarbucks and other food",
+    "start": 121.41,
+    "duration": 3.27
+  },
+  {
+    "text": "service organizations, and\neven then in the services",
+    "start": 124.68,
+    "duration": 3.48
+  },
+  {
+    "text": "like warehousing with Amazon.",
+    "start": 128.16,
+    "duration": 2.009
+  },
+  {
+    "text": "But it's not just\na US phenomenon.",
+    "start": 130.169,
+    "duration": 2.371
+  },
+  {
+    "text": "Other countries,\nin some respects,",
+    "start": 132.54,
+    "duration": 1.92
+  },
+  {
+    "text": "are growing in union membership\nfaster than the United States.",
+    "start": 134.46,
+    "duration": 4.02
+  },
+  {
+    "text": "And we're currently\nexperiencing a big upsurge",
+    "start": 138.48,
+    "duration": 3.63
+  },
+  {
+    "text": "in unrest in\nEurope, particularly",
+    "start": 142.11,
+    "duration": 2.7
+  },
+  {
+    "text": "in the transportation sectors.",
+    "start": 144.81,
+    "duration": 1.328
+  },
+  {
+    "text": "ALISON BEARD: So\nobviously around the world",
+    "start": 146.138,
+    "duration": 1.792
+  },
+  {
+    "text": "there are big disparities\nin what the OECD calls",
+    "start": 147.93,
+    "duration": 3.15
+  },
+  {
+    "text": "trade-centered density.",
+    "start": 151.08,
+    "duration": 1.38
+  },
+  {
+    "text": "I learned, prepping for this\npodcast, that it's anything",
+    "start": 152.46,
+    "duration": 2.55
+  },
+  {
+    "text": "from 6% in Estonia to\nmore than 90% in Iceland.",
+    "start": 155.01,
+    "duration": 4.38
+  },
+  {
+    "text": "But what factors determine\nhow union-friendly a country",
+    "start": 159.39,
+    "duration": 3.57
+  },
+  {
+    "text": "has been historically\nand might be today?",
+    "start": 162.96,
+    "duration": 4.428
+  },
+  {
+    "text": "THOMAS KOCHAN: Well,\nin that respect,",
+    "start": 167.388,
+    "duration": 1.542
+  },
+  {
+    "text": "actually, the United States\nis pretty much of an outlier.",
+    "start": 168.93,
+    "duration": 2.88
+  },
+  {
+    "text": "If you talk with\nexecutives in Europe,",
+    "start": 171.81,
+    "duration": 3.0
+  },
+  {
+    "text": "as I do very\nfrequently, you often",
+    "start": 174.81,
+    "duration": 2.55
+  },
+  {
+    "text": "hear them talk about\nunions as social partners",
+    "start": 177.36,
+    "duration": 3.69
+  },
+  {
+    "text": "that they accept as a part\nof their Democratic fabric",
+    "start": 181.05,
+    "duration": 3.72
+  },
+  {
+    "text": "in their culture, that workers\nhave a right to organize,",
+    "start": 184.77,
+    "duration": 4.95
+  },
+  {
+    "text": "and they need to\nrespect that right.",
+    "start": 189.72,
+    "duration": 2.16
+  },
+  {
+    "text": "They need to work with unions.",
+    "start": 191.88,
+    "duration": 1.86
+  },
+  {
+    "text": "It doesn't mean that\nconflict goes away.",
+    "start": 193.74,
+    "duration": 1.98
+  },
+  {
+    "text": "It doesn't mean that they\nembrace all of the demands",
+    "start": 195.72,
+    "duration": 3.93
+  },
+  {
+    "text": "that unions might\nput on the table.",
+    "start": 199.65,
+    "duration": 2.94
+  },
+  {
+    "text": "But they respect the right\nof workers to be represented.",
+    "start": 202.59,
+    "duration": 4.05
+  },
+  {
+    "text": "The United States has a long\nhistory of managerial ideology",
+    "start": 206.64,
+    "duration": 4.38
+  },
+  {
+    "text": "that management can manage\nthe workforce as individuals",
+    "start": 211.02,
+    "duration": 5.16
+  },
+  {
+    "text": "and doesn't need what they\nmight call a third party.",
+    "start": 216.18,
+    "duration": 3.51
+  },
+  {
+    "text": "That has accelerated\nin the last 40 years",
+    "start": 219.69,
+    "duration": 4.68
+  },
+  {
+    "text": "because, as unions decline,\nfewer and fewer companies,",
+    "start": 224.37,
+    "duration": 3.93
+  },
+  {
+    "text": "and fewer and fewer executives,\nand fewer HR executives",
+    "start": 228.3,
+    "duration": 3.75
+  },
+  {
+    "text": "have any experience in\nworking with unions.",
+    "start": 232.05,
+    "duration": 2.88
+  },
+  {
+    "text": "And so their knee jerk reaction\nis to resist at all costs,",
+    "start": 234.93,
+    "duration": 4.02
+  },
+  {
+    "text": "with all resources\navailable anytime workers",
+    "start": 238.95,
+    "duration": 3.45
+  },
+  {
+    "text": "express an interest\nin unionizing.",
+    "start": 242.4,
+    "duration": 2.13
+  },
+  {
+    "text": "ALISON BEARD: But\nin the past, there",
+    "start": 244.53,
+    "duration": 1.71
+  },
+  {
+    "text": "were very strong unions\nin the United States.",
+    "start": 246.24,
+    "duration": 2.94
+  },
+  {
+    "text": "Why has union membership\ndeclined so much?",
+    "start": 249.18,
+    "duration": 3.58
+  },
+  {
+    "text": "Is it because of that\nresistance by employers?",
+    "start": 252.76,
+    "duration": 3.53
+  },
+  {
+    "text": "THOMAS KOCHAN: Employer\nresistance is a big part of it,",
+    "start": 256.29,
+    "duration": 2.37
+  },
+  {
+    "text": "and we saw that accelerate\nin the 1980s and beyond.",
+    "start": 258.66,
+    "duration": 4.41
+  },
+  {
+    "text": "There were strong pressures on\nthe business community, given",
+    "start": 263.07,
+    "duration": 4.53
+  },
+  {
+    "text": "the high rate of inflation\nand the sluggish growth",
+    "start": 267.6,
+    "duration": 2.94
+  },
+  {
+    "text": "and increase in\ninternational competition,",
+    "start": 270.54,
+    "duration": 2.43
+  },
+  {
+    "text": "to become more\naggressive in limiting",
+    "start": 272.97,
+    "duration": 3.57
+  },
+  {
+    "text": "what they saw as some of the\nrestrictive policies of unions.",
+    "start": 276.54,
+    "duration": 3.12
+  },
+  {
+    "text": "But there are other\nthings as well.",
+    "start": 279.66,
+    "duration": 1.9
+  },
+  {
+    "text": "Clearly, unions have been\nslow to adapt to the changing",
+    "start": 281.56,
+    "duration": 2.78
+  },
+  {
+    "text": "workforce, and now we're\nseeing that come home",
+    "start": 284.34,
+    "duration": 4.05
+  },
+  {
+    "text": "to roost because workers\nare taking action",
+    "start": 288.39,
+    "duration": 2.88
+  },
+  {
+    "text": "and asking unions\nto be supportive",
+    "start": 291.27,
+    "duration": 2.22
+  },
+  {
+    "text": "but not necessarily being\ndriven by union strategies.",
+    "start": 293.49,
+    "duration": 5.675
+  },
+  {
+    "text": "ALISON BEARD: So\nit's more ground",
+    "start": 299.165,
+    "duration": 1.375
+  },
+  {
+    "text": "up organizing now rather than\ncoming from the top down.",
+    "start": 300.54,
+    "duration": 3.66
+  },
+  {
+    "text": "THOMAS KOCHAN: Absolutely,\nmore ground up organizing.",
+    "start": 304.2,
+    "duration": 2.35
+  },
+  {
+    "text": "And I think it's\nsurprised many people,",
+    "start": 306.55,
+    "duration": 2.48
+  },
+  {
+    "text": "but we have to also\nunderstand that the pressures",
+    "start": 309.03,
+    "duration": 3.27
+  },
+  {
+    "text": "for organizing have\nbeen building up",
+    "start": 312.3,
+    "duration": 2.61
+  },
+  {
+    "text": "over a long period of time.",
+    "start": 314.91,
+    "duration": 1.84
+  },
+  {
+    "text": "We've done national\nsurveys of the workforce",
+    "start": 316.75,
+    "duration": 2.6
+  },
+  {
+    "text": "prior to the pandemic.",
+    "start": 319.35,
+    "duration": 1.47
+  },
+  {
+    "text": "2017, we found there's a voice\ngap of considerable magnitude",
+    "start": 320.82,
+    "duration": 6.03
+  },
+  {
+    "text": "where a majority of the\nAmerican workforce today",
+    "start": 326.85,
+    "duration": 2.79
+  },
+  {
+    "text": "says they don't have as much\nsay as they believe they ought",
+    "start": 329.64,
+    "duration": 3.54
+  },
+  {
+    "text": "to have on issues of, certainly,\ncompensation and job security,",
+    "start": 333.18,
+    "duration": 4.65
+  },
+  {
+    "text": "but also, what does\nthis company stand for?",
+    "start": 337.83,
+    "duration": 2.58
+  },
+  {
+    "text": "What are the values, and are\nthey living their values?",
+    "start": 340.41,
+    "duration": 2.82
+  },
+  {
+    "text": "Are we getting respect\nat the workplace?",
+    "start": 343.23,
+    "duration": 2.79
+  },
+  {
+    "text": "Do we have a means for resolving\ndisputes and conflicts that",
+    "start": 346.02,
+    "duration": 5.04
+  },
+  {
+    "text": "are fair?",
+    "start": 351.06,
+    "duration": 0.85
+  },
+  {
+    "text": "What about new technology?",
+    "start": 351.91,
+    "duration": 1.67
+  },
+  {
+    "text": "Those are the issues that are\non the minds of workers today,",
+    "start": 353.58,
+    "duration": 3.45
+  },
+  {
+    "text": "and they're saying we don't\nhave enough of a voice.",
+    "start": 357.03,
+    "duration": 2.67
+  },
+  {
+    "text": "And then to top it\noff, we asked, well--",
+    "start": 359.7,
+    "duration": 2.82
+  },
+  {
+    "text": "and this may be a surprise\ngiven the decline of unions--",
+    "start": 362.52,
+    "duration": 3.0
+  },
+  {
+    "text": "well, if a union election\nwere held on your job",
+    "start": 365.52,
+    "duration": 2.7
+  },
+  {
+    "text": "and you had the opportunity\nto vote yes or no,",
+    "start": 368.22,
+    "duration": 2.46
+  },
+  {
+    "text": "what would be your answer?",
+    "start": 370.68,
+    "duration": 1.21
+  },
+  {
+    "text": "And we saw numbers that\nwere larger than anything",
+    "start": 371.89,
+    "duration": 2.72
+  },
+  {
+    "text": "we've seen in prior decades.",
+    "start": 374.61,
+    "duration": 2.34
+  },
+  {
+    "text": "Now, about half of the\nnon-union workforce",
+    "start": 376.95,
+    "duration": 2.67
+  },
+  {
+    "text": "say they would join a union if\ngiven the opportunity to do so.",
+    "start": 379.62,
+    "duration": 3.55
+  },
+  {
+    "text": "And some recent numbers\nthat aren't published yet",
+    "start": 383.17,
+    "duration": 2.66
+  },
+  {
+    "text": "say that percentage has gone way\nover the majority number now.",
+    "start": 385.83,
+    "duration": 3.76
+  },
+  {
+    "text": "ALISON BEARD: Hmm.",
+    "start": 389.59,
+    "duration": 0.75
+  },
+  {
+    "text": "THOMAS KOCHAN: So we're\nseeing the workforce itself",
+    "start": 390.34,
+    "duration": 2.93
+  },
+  {
+    "text": "seeing all the wage stagnation\nthat we've experienced,",
+    "start": 393.27,
+    "duration": 3.81
+  },
+  {
+    "text": "the increase in inequality.",
+    "start": 397.08,
+    "duration": 1.74
+  },
+  {
+    "text": "And then the\npandemic comes along,",
+    "start": 398.82,
+    "duration": 2.34
+  },
+  {
+    "text": "and it just accelerates\nall of this frustration.",
+    "start": 401.16,
+    "duration": 3.54
+  },
+  {
+    "text": "And we see that workers feel\nthey've got more power now",
+    "start": 404.7,
+    "duration": 4.32
+  },
+  {
+    "text": "as the labor market\nwas tightened,",
+    "start": 409.02,
+    "duration": 1.95
+  },
+  {
+    "text": "and we had all this experience\nwith people leaving their jobs",
+    "start": 410.97,
+    "duration": 3.66
+  },
+  {
+    "text": "and shortage of workers.",
+    "start": 414.63,
+    "duration": 1.48
+  },
+  {
+    "text": "So workers are saying\nnow's the moment.",
+    "start": 416.11,
+    "duration": 2.36
+  },
+  {
+    "text": "We've been concerned\nabout these issues.",
+    "start": 418.47,
+    "duration": 2.61
+  },
+  {
+    "text": "We've been frustrated\nabout them.",
+    "start": 421.08,
+    "duration": 1.65
+  },
+  {
+    "text": "Now, we're going to\ntake some action.",
+    "start": 422.73,
+    "duration": 2.225
+  },
+  {
+    "text": "ALISON BEARD: And\nwhat variations",
+    "start": 424.955,
+    "duration": 1.375
+  },
+  {
+    "text": "have you seen across\noccupations and industry,",
+    "start": 426.33,
+    "duration": 3.93
+  },
+  {
+    "text": "both in terms of workplaces\nwhere unions manage to continue",
+    "start": 430.26,
+    "duration": 6.39
+  },
+  {
+    "text": "and stay relatively\nstrong and then workplaces",
+    "start": 436.65,
+    "duration": 3.63
+  },
+  {
+    "text": "where there are these\nnew very strong movements",
+    "start": 440.28,
+    "duration": 5.1
+  },
+  {
+    "text": "to unionize when those\nemployers really didn't",
+    "start": 445.38,
+    "duration": 4.2
+  },
+  {
+    "text": "have to deal with that before?",
+    "start": 449.58,
+    "duration": 2.003
+  },
+  {
+    "text": "THOMAS KOCHAN: Let me start\nin the unionized sector.",
+    "start": 451.583,
+    "duration": 2.167
+  },
+  {
+    "text": "I spend a lot of time\ntalking with executives",
+    "start": 453.75,
+    "duration": 3.06
+  },
+  {
+    "text": "that have collective\nbargaining relationships,",
+    "start": 456.81,
+    "duration": 2.34
+  },
+  {
+    "text": "and they are extremely concerned\nwith the upsurge in worker",
+    "start": 459.15,
+    "duration": 6.36
+  },
+  {
+    "text": "unrest at the local level\nthat's putting pressure,",
+    "start": 465.51,
+    "duration": 3.33
+  },
+  {
+    "text": "not only on them, but on\nnational union leaders.",
+    "start": 468.84,
+    "duration": 2.61
+  },
+  {
+    "text": "So you saw this\nin the long strike",
+    "start": 471.45,
+    "duration": 3.03
+  },
+  {
+    "text": "that John Deere had\nabout a year ago,",
+    "start": 474.48,
+    "duration": 2.85
+  },
+  {
+    "text": "and two different contracts\nwere rejected by the rank",
+    "start": 477.33,
+    "duration": 4.32
+  },
+  {
+    "text": "and file that the company\nand the union leaders",
+    "start": 481.65,
+    "duration": 2.64
+  },
+  {
+    "text": "had worked out.",
+    "start": 484.29,
+    "duration": 1.17
+  },
+  {
+    "text": "That was a wake up call\nfor many companies.",
+    "start": 485.46,
+    "duration": 2.64
+  },
+  {
+    "text": "And since that, more and\nmore HR labor relations",
+    "start": 488.1,
+    "duration": 3.6
+  },
+  {
+    "text": "executives say we're\nhaving those same pressures",
+    "start": 491.7,
+    "duration": 2.67
+  },
+  {
+    "text": "from our workforce.",
+    "start": 494.37,
+    "duration": 1.89
+  },
+  {
+    "text": "So there's something going\non with the workforce,",
+    "start": 496.26,
+    "duration": 2.5
+  },
+  {
+    "text": "whether it's unionized\nor not unionized,",
+    "start": 498.76,
+    "duration": 2.78
+  },
+  {
+    "text": "that is saying, both to\ncompanies and to their unions,",
+    "start": 501.54,
+    "duration": 3.66
+  },
+  {
+    "text": "we want a stronger\nvoice, and by god, we",
+    "start": 505.2,
+    "duration": 3.27
+  },
+  {
+    "text": "have put up with the\nlack of wage growth,",
+    "start": 508.47,
+    "duration": 2.4
+  },
+  {
+    "text": "the lack of respect long enough.",
+    "start": 510.87,
+    "duration": 3.0
+  },
+  {
+    "text": "And you will all better help\nus address those issues.",
+    "start": 513.87,
+    "duration": 4.35
+  },
+  {
+    "text": "But then when you turn to\nthe forms of organizing",
+    "start": 518.22,
+    "duration": 3.27
+  },
+  {
+    "text": "we're seeing out there,\nas you indicated,",
+    "start": 521.49,
+    "duration": 2.62
+  },
+  {
+    "text": "it's a wide array of\ndifferent kind of organizing,",
+    "start": 524.11,
+    "duration": 3.32
+  },
+  {
+    "text": "yes, some through traditional\nunions and the National Labor",
+    "start": 527.43,
+    "duration": 3.69
+  },
+  {
+    "text": "Relations Act processes\nfor an election.",
+    "start": 531.12,
+    "duration": 2.58
+  },
+  {
+    "text": "But we're also seeing\nworker centers grow.",
+    "start": 533.7,
+    "duration": 2.34
+  },
+  {
+    "text": "Worker centers are city-based\nor regional-based organizations",
+    "start": 536.04,
+    "duration": 4.5
+  },
+  {
+    "text": "of workers, largely immigrant\nworkers, minority workers",
+    "start": 540.54,
+    "duration": 4.5
+  },
+  {
+    "text": "looking for help in addressing\ntheir individual problems,",
+    "start": 545.04,
+    "duration": 4.03
+  },
+  {
+    "text": "whether it's wage theft,\nthat is, they're not",
+    "start": 549.07,
+    "duration": 2.57
+  },
+  {
+    "text": "getting paid the\nminimum wage or whatever",
+    "start": 551.64,
+    "duration": 2.37
+  },
+  {
+    "text": "wage they contracted for.",
+    "start": 554.01,
+    "duration": 1.92
+  },
+  {
+    "text": "Or there's some other forms\nof discrimination or fear",
+    "start": 555.93,
+    "duration": 4.02
+  },
+  {
+    "text": "of being retaliated\nfor taking action.",
+    "start": 559.95,
+    "duration": 3.55
+  },
+  {
+    "text": "So these worker centers are\naddressing those problems",
+    "start": 563.5,
+    "duration": 2.99
+  },
+  {
+    "text": "and providing legal services.",
+    "start": 566.49,
+    "duration": 2.01
+  },
+  {
+    "text": "We've seen a growth in that.",
+    "start": 568.5,
+    "duration": 1.32
+  },
+  {
+    "text": "We now have about 246 of\nthose around the country.",
+    "start": 569.82,
+    "duration": 3.39
+  },
+  {
+    "text": "We're also seeing more\nand more organizations",
+    "start": 573.21,
+    "duration": 3.15
+  },
+  {
+    "text": "coming along that\nprovide services",
+    "start": 576.36,
+    "duration": 1.98
+  },
+  {
+    "text": "to workers to file petitions\nwith their employer",
+    "start": 578.34,
+    "duration": 3.3
+  },
+  {
+    "text": "to say we want to see\nchanges in different issues.",
+    "start": 581.64,
+    "duration": 4.17
+  },
+  {
+    "text": "Or organizations like at what\nwas Google now is, I guess,",
+    "start": 585.81,
+    "duration": 3.72
+  },
+  {
+    "text": "Alphabet.",
+    "start": 589.53,
+    "duration": 0.6
+  },
+  {
+    "text": "But the Google workers going\nout on a one-day walkout",
+    "start": 590.13,
+    "duration": 3.75
+  },
+  {
+    "text": "protesting the company's\ntreatment of executives who",
+    "start": 593.88,
+    "duration": 4.23
+  },
+  {
+    "text": "have been accused of\nsexual harassment.",
+    "start": 598.11,
+    "duration": 3.18
+  },
+  {
+    "text": "We're seeing new\nforms of mobilization.",
+    "start": 601.29,
+    "duration": 3.3
+  },
+  {
+    "text": "We're seeing more people\norganize around gender",
+    "start": 604.59,
+    "duration": 2.85
+  },
+  {
+    "text": "and racial justice out there,\nnot necessarily getting",
+    "start": 607.44,
+    "duration": 4.23
+  },
+  {
+    "text": "a union, but saying\nall right, employer,",
+    "start": 611.67,
+    "duration": 3.75
+  },
+  {
+    "text": "we want to deal\nwith you as a group.",
+    "start": 615.42,
+    "duration": 2.85
+  },
+  {
+    "text": "And we expect you to\nrespect our rights",
+    "start": 618.27,
+    "duration": 3.6
+  },
+  {
+    "text": "to have a conversation with\nyou to change practices",
+    "start": 621.87,
+    "duration": 3.78
+  },
+  {
+    "text": "that we find inappropriate or\ninconsistent with our values.",
+    "start": 625.65,
+    "duration": 4.62
+  },
+  {
+    "text": "And one final\ninteresting note here.",
+    "start": 630.27,
+    "duration": 2.34
+  },
+  {
+    "text": "Most of these that\nwe see, these are not",
+    "start": 632.61,
+    "duration": 3.06
+  },
+  {
+    "text": "people who hate their company\nor even dislike their CEO.",
+    "start": 635.67,
+    "duration": 4.83
+  },
+  {
+    "text": "There's a distrust that\nleaving it to top management",
+    "start": 640.5,
+    "duration": 3.78
+  },
+  {
+    "text": "will get the job done.",
+    "start": 644.28,
+    "duration": 2.28
+  },
+  {
+    "text": "And they're saying,\ngive us an opportunity",
+    "start": 646.56,
+    "duration": 3.18
+  },
+  {
+    "text": "to play a role in\ncorporate governance",
+    "start": 649.74,
+    "duration": 2.31
+  },
+  {
+    "text": "in some productive way.",
+    "start": 652.05,
+    "duration": 2.11
+  },
+  {
+    "text": "And so I think that's all\na healthy development.",
+    "start": 654.16,
+    "duration": 2.66
+  },
+  {
+    "text": "The challenge for\nexecutives is that they",
+    "start": 656.82,
+    "duration": 4.62
+  },
+  {
+    "text": "have to recognize that\nthe old playbook of just",
+    "start": 661.44,
+    "duration": 4.38
+  },
+  {
+    "text": "knee-jerk resistance to\nall forms of organizing",
+    "start": 665.82,
+    "duration": 3.66
+  },
+  {
+    "text": "doesn't play in\ntoday's workforce.",
+    "start": 669.48,
+    "duration": 2.98
+  },
+  {
+    "text": "And so we've got to develop\na whole new set of leadership",
+    "start": 672.46,
+    "duration": 3.95
+  },
+  {
+    "text": "skills that have been\nmaybe dormant for a while,",
+    "start": 676.41,
+    "duration": 3.84
+  },
+  {
+    "text": "at least in the\nUnited States, that",
+    "start": 680.25,
+    "duration": 2.67
+  },
+  {
+    "text": "show that you can work\nwith collective groups,",
+    "start": 682.92,
+    "duration": 3.48
+  },
+  {
+    "text": "and you can strengthen\nthe organization.",
+    "start": 686.4,
+    "duration": 1.98
+  },
+  {
+    "text": "You can build positive\nlabor and employee relations",
+    "start": 688.38,
+    "duration": 3.41
+  },
+  {
+    "text": "in that way that produce\nhigher levels of productivity",
+    "start": 691.79,
+    "duration": 3.43
+  },
+  {
+    "text": "and better customer\nservice and engage",
+    "start": 695.22,
+    "duration": 2.39
+  },
+  {
+    "text": "the ideas of the workforce.",
+    "start": 697.61,
+    "duration": 2.08
+  },
+  {
+    "text": "We have to give\nworkers the opportunity",
+    "start": 699.69,
+    "duration": 2.48
+  },
+  {
+    "text": "to express their voice\nin a powerful way",
+    "start": 702.17,
+    "duration": 3.06
+  },
+  {
+    "text": "and to channel that energy but\nrespect their independence.",
+    "start": 705.23,
+    "duration": 4.68
+  },
+  {
+    "text": "ALISON BEARD: And\nwhat would you say",
+    "start": 709.91,
+    "duration": 1.5
+  },
+  {
+    "text": "to employers that say, oh,\nbut we can do all of that",
+    "start": 711.41,
+    "duration": 4.35
+  },
+  {
+    "text": "without unions?",
+    "start": 715.76,
+    "duration": 1.547
+  },
+  {
+    "text": "THOMAS KOCHAN: It hasn't worked.",
+    "start": 717.307,
+    "duration": 1.333
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 718.64,
+    "duration": 1.11
+  },
+  {
+    "text": "Just go out there and talk\nwith your own employees",
+    "start": 719.75,
+    "duration": 4.26
+  },
+  {
+    "text": "about the forms of voice\nthat they want today.",
+    "start": 724.01,
+    "duration": 3.33
+  },
+  {
+    "text": "And they will tell you, don't\ntry and lead from the top down.",
+    "start": 727.34,
+    "duration": 3.6
+  },
+  {
+    "text": "In law firms and other\nprofessional companies",
+    "start": 730.94,
+    "duration": 4.53
+  },
+  {
+    "text": "where there are\npartnerships, these partners",
+    "start": 735.47,
+    "duration": 3.24
+  },
+  {
+    "text": "operate as independent\nand often equal voices.",
+    "start": 738.71,
+    "duration": 4.77
+  },
+  {
+    "text": "They don't necessarily\nalways agree,",
+    "start": 743.48,
+    "duration": 2.61
+  },
+  {
+    "text": "but they know that they are\npart of an overall entity.",
+    "start": 746.09,
+    "duration": 4.47
+  },
+  {
+    "text": "And by bringing their\ncollective voices together,",
+    "start": 750.56,
+    "duration": 2.76
+  },
+  {
+    "text": "they are stronger, and\nthey're more productive.",
+    "start": 753.32,
+    "duration": 2.85
+  },
+  {
+    "text": "And they learn to\nrespect the differences",
+    "start": 756.17,
+    "duration": 2.73
+  },
+  {
+    "text": "and to work them\nthrough in new ways.",
+    "start": 758.9,
+    "duration": 2.88
+  },
+  {
+    "text": "And that's where we need to\ngo as a management community.",
+    "start": 761.78,
+    "duration": 4.11
+  },
+  {
+    "text": "That's where we need\nto go as a society.",
+    "start": 765.89,
+    "duration": 2.04
+  },
+  {
+    "text": "And why do we need to go that?",
+    "start": 767.93,
+    "duration": 1.29
+  },
+  {
+    "text": "Because that's what our\nworkforce expects today,",
+    "start": 769.22,
+    "duration": 3.43
+  },
+  {
+    "text": "particularly the\nyounger workers who",
+    "start": 772.65,
+    "duration": 2.72
+  },
+  {
+    "text": "don't know about the laws of\nlabor management relations",
+    "start": 775.37,
+    "duration": 3.69
+  },
+  {
+    "text": "and could care less about what\nissues they have a legal right",
+    "start": 779.06,
+    "duration": 3.63
+  },
+  {
+    "text": "to discuss and negotiate\nand what issues",
+    "start": 782.69,
+    "duration": 3.18
+  },
+  {
+    "text": "are of greatest concern to them.",
+    "start": 785.87,
+    "duration": 3.28
+  },
+  {
+    "text": "ALISON BEARD: So I'd love\nto dig into your research",
+    "start": 789.15,
+    "duration": 2.18
+  },
+  {
+    "text": "on the impact of\nunionizing, both for workers",
+    "start": 791.33,
+    "duration": 3.24
+  },
+  {
+    "text": "and organizations.",
+    "start": 794.57,
+    "duration": 1.47
+  },
+  {
+    "text": "First, how does it\naffect employees,",
+    "start": 796.04,
+    "duration": 3.36
+  },
+  {
+    "text": "the pros and the cons?",
+    "start": 799.4,
+    "duration": 1.68
+  },
+  {
+    "text": "THOMAS KOCHAN: Well,\nthere's no question",
+    "start": 801.08,
+    "duration": 1.68
+  },
+  {
+    "text": "that, historically, the\neffects of unions on workers",
+    "start": 802.76,
+    "duration": 3.39
+  },
+  {
+    "text": "is to increase their wages\nand provide better benefits",
+    "start": 806.15,
+    "duration": 3.48
+  },
+  {
+    "text": "and provide a security\nif they are discriminated",
+    "start": 809.63,
+    "duration": 6.03
+  },
+  {
+    "text": "against or fired illegally.",
+    "start": 815.66,
+    "duration": 2.55
+  },
+  {
+    "text": "On average, unions\nincrease wages",
+    "start": 818.21,
+    "duration": 2.67
+  },
+  {
+    "text": "for workers between 5% and 15%.",
+    "start": 820.88,
+    "duration": 3.87
+  },
+  {
+    "text": "For low wage workers,\nfor women, for minorities",
+    "start": 824.75,
+    "duration": 3.55
+  },
+  {
+    "text": "those percentages are greater.",
+    "start": 828.3,
+    "duration": 1.43
+  },
+  {
+    "text": "So there's no\nquestion, historically,",
+    "start": 829.73,
+    "duration": 2.14
+  },
+  {
+    "text": "that's been the case.",
+    "start": 831.87,
+    "duration": 0.96
+  },
+  {
+    "text": "Now, that varies by the\nbusiness cycle, and so on.",
+    "start": 832.83,
+    "duration": 2.6
+  },
+  {
+    "text": "But that's a large\npart of what unions do.",
+    "start": 835.43,
+    "duration": 2.97
+  },
+  {
+    "text": "But today, you also\nsee another effect,",
+    "start": 838.4,
+    "duration": 3.4
+  },
+  {
+    "text": "and I've been a\nmediator in cases",
+    "start": 841.8,
+    "duration": 3.62
+  },
+  {
+    "text": "over the last several\nyears where, increasingly,",
+    "start": 845.42,
+    "duration": 2.79
+  },
+  {
+    "text": "the issues that\nare being discussed",
+    "start": 848.21,
+    "duration": 1.62
+  },
+  {
+    "text": "are diversity,\ninclusion, and equity,",
+    "start": 849.83,
+    "duration": 2.58
+  },
+  {
+    "text": "and how do we\nprovide opportunities",
+    "start": 852.41,
+    "duration": 2.88
+  },
+  {
+    "text": "for people who have\nsometimes been marginalized.",
+    "start": 855.29,
+    "duration": 4.14
+  },
+  {
+    "text": "And so we're seeing the issues\nin collective bargaining",
+    "start": 859.43,
+    "duration": 3.9
+  },
+  {
+    "text": "expand as the workforce becomes\nmore diverse and changes.",
+    "start": 863.33,
+    "duration": 5.62
+  },
+  {
+    "text": "But there's also the\nissue of does this create",
+    "start": 868.95,
+    "duration": 5.18
+  },
+  {
+    "text": "more of an adversarial process?",
+    "start": 874.13,
+    "duration": 2.91
+  },
+  {
+    "text": "Are we destined to have\narms length labor management",
+    "start": 877.04,
+    "duration": 3.21
+  },
+  {
+    "text": "relations?",
+    "start": 880.25,
+    "duration": 0.69
+  },
+  {
+    "text": "Workers don't want\nthat today any more",
+    "start": 880.94,
+    "duration": 1.95
+  },
+  {
+    "text": "than business executives do.",
+    "start": 882.89,
+    "duration": 2.64
+  },
+  {
+    "text": "They want a positive,\nhigh-quality labor management",
+    "start": 885.53,
+    "duration": 4.95
+  },
+  {
+    "text": "relations that's built on\nmutual respect and trust.",
+    "start": 890.48,
+    "duration": 3.27
+  },
+  {
+    "text": "And the best of labor\nmanagement relations",
+    "start": 893.75,
+    "duration": 3.33
+  },
+  {
+    "text": "move in that direction.",
+    "start": 897.08,
+    "duration": 1.71
+  },
+  {
+    "text": "But if it turns into\nan adversarial battle,",
+    "start": 898.79,
+    "duration": 3.3
+  },
+  {
+    "text": "either because the\nemployer doesn't accept",
+    "start": 902.09,
+    "duration": 2.97
+  },
+  {
+    "text": "the fact that they are\nunionized and wants",
+    "start": 905.06,
+    "duration": 3.57
+  },
+  {
+    "text": "to hold on to the old legal\nprotections and doctrines",
+    "start": 908.63,
+    "duration": 5.25
+  },
+  {
+    "text": "and limits, or the union\nbrings in its traditional forms",
+    "start": 913.88,
+    "duration": 5.34
+  },
+  {
+    "text": "of negotiating, then I think\nworkers will get frustrated",
+    "start": 919.22,
+    "duration": 4.71
+  },
+  {
+    "text": "and say this isn't\nwhat we signed up for.",
+    "start": 923.93,
+    "duration": 3.19
+  },
+  {
+    "text": "We want a better\nrelationship, not",
+    "start": 927.12,
+    "duration": 2.84
+  },
+  {
+    "text": "more tension at the workplace.",
+    "start": 929.96,
+    "duration": 2.398
+  },
+  {
+    "text": "ALISON BEARD: What\nabout the argument",
+    "start": 932.358,
+    "duration": 1.542
+  },
+  {
+    "text": "that unions are good for\nmediocre or poorly-performing",
+    "start": 933.9,
+    "duration": 4.89
+  },
+  {
+    "text": "workers because they\nhelp lift everyone up,",
+    "start": 938.79,
+    "duration": 3.24
+  },
+  {
+    "text": "but for the standout stars\nthey're actually bringing you",
+    "start": 942.03,
+    "duration": 3.33
+  },
+  {
+    "text": "down, not allowing you\nto excel beyond the pack?",
+    "start": 945.36,
+    "duration": 5.04
+  },
+  {
+    "text": "THOMAS KOCHAN: Well, there's\nsome truth to the fact",
+    "start": 950.4,
+    "duration": 2.37
+  },
+  {
+    "text": "that too often unions provide\nmore of their resources going",
+    "start": 952.77,
+    "duration": 3.57
+  },
+  {
+    "text": "to help those who are\ncausing more difficulties",
+    "start": 956.34,
+    "duration": 3.54
+  },
+  {
+    "text": "and are lower performing.",
+    "start": 959.88,
+    "duration": 2.64
+  },
+  {
+    "text": "And that, by the\nway, is a concern",
+    "start": 962.52,
+    "duration": 1.95
+  },
+  {
+    "text": "that many professionals raise\nwhen the issue of unionizing",
+    "start": 964.47,
+    "duration": 3.84
+  },
+  {
+    "text": "comes along.",
+    "start": 968.31,
+    "duration": 1.23
+  },
+  {
+    "text": "They don't want\nto be constrained.",
+    "start": 969.54,
+    "duration": 1.84
+  },
+  {
+    "text": "They want to do a good job.",
+    "start": 971.38,
+    "duration": 1.29
+  },
+  {
+    "text": "They want to have the\nautonomy to suggest ideas",
+    "start": 972.67,
+    "duration": 3.62
+  },
+  {
+    "text": "for how to improve operations.",
+    "start": 976.29,
+    "duration": 1.65
+  },
+  {
+    "text": "They want to build\ntheir own careers,",
+    "start": 977.94,
+    "duration": 1.71
+  },
+  {
+    "text": "and they don't want\nto be encumbered",
+    "start": 979.65,
+    "duration": 2.31
+  },
+  {
+    "text": "by a bunch of\nstandardized rules.",
+    "start": 981.96,
+    "duration": 3.49
+  },
+  {
+    "text": "And so the challenge\nin organizing today",
+    "start": 985.45,
+    "duration": 4.37
+  },
+  {
+    "text": "is to provide protections where\nappropriate and for everyone",
+    "start": 989.82,
+    "duration": 4.8
+  },
+  {
+    "text": "to make sure that they are\nnot discriminated against",
+    "start": 994.62,
+    "duration": 3.12
+  },
+  {
+    "text": "and that they have a channel\nof appeal when they are treated",
+    "start": 997.74,
+    "duration": 4.86
+  },
+  {
+    "text": "unfairly, at the same\ntime, really making sure",
+    "start": 1002.6,
+    "duration": 3.75
+  },
+  {
+    "text": "that we maintain enough\nautonomy and enough opportunity",
+    "start": 1006.35,
+    "duration": 5.1
+  },
+  {
+    "text": "for the high performers\nto do their job",
+    "start": 1011.45,
+    "duration": 4.32
+  },
+  {
+    "text": "and to have promotional\nopportunities.",
+    "start": 1015.77,
+    "duration": 2.79
+  },
+  {
+    "text": "And this is an\narea where I think",
+    "start": 1018.56,
+    "duration": 1.44
+  },
+  {
+    "text": "we have to see some change.",
+    "start": 1020.0,
+    "duration": 2.04
+  },
+  {
+    "text": "Seniority has been a strong\nprinciple of labor management",
+    "start": 1022.04,
+    "duration": 3.12
+  },
+  {
+    "text": "relations for years,\nand that came about",
+    "start": 1025.16,
+    "duration": 2.85
+  },
+  {
+    "text": "because there were abuses\nof hiring one's family",
+    "start": 1028.01,
+    "duration": 4.349
+  },
+  {
+    "text": "members and friends and people\nof the same ethnic background",
+    "start": 1032.359,
+    "duration": 5.97
+  },
+  {
+    "text": "or race, and so on.",
+    "start": 1038.329,
+    "duration": 1.74
+  },
+  {
+    "text": "But we can't have a\nsituation, for example,",
+    "start": 1040.069,
+    "duration": 3.121
+  },
+  {
+    "text": "now where people\nare saying, gee, we",
+    "start": 1043.19,
+    "duration": 3.06
+  },
+  {
+    "text": "want the flexibility to work\nfrom home where possible",
+    "start": 1046.25,
+    "duration": 4.77
+  },
+  {
+    "text": "and recognize we've got to\nwork out ways to be on site",
+    "start": 1051.02,
+    "duration": 5.88
+  },
+  {
+    "text": "when necessary.",
+    "start": 1056.9,
+    "duration": 1.08
+  },
+  {
+    "text": "And that can only apply to maybe\nsome people but not others.",
+    "start": 1057.98,
+    "duration": 3.96
+  },
+  {
+    "text": "We've got to find, in\nunion management relations,",
+    "start": 1061.94,
+    "duration": 2.94
+  },
+  {
+    "text": "the capacity to\nmanage that variation",
+    "start": 1064.88,
+    "duration": 4.47
+  },
+  {
+    "text": "in practice and\nvariation in ways people",
+    "start": 1069.35,
+    "duration": 3.63
+  },
+  {
+    "text": "work without creating another\nfirst class, second class",
+    "start": 1072.98,
+    "duration": 3.96
+  },
+  {
+    "text": "citizenship.",
+    "start": 1076.94,
+    "duration": 0.93
+  },
+  {
+    "text": "Unions will need to be a\nbit more agile in working",
+    "start": 1077.87,
+    "duration": 4.68
+  },
+  {
+    "text": "through those issues.",
+    "start": 1082.55,
+    "duration": 1.62
+  },
+  {
+    "text": "And we're seeing that\nhappen in some cases.",
+    "start": 1084.17,
+    "duration": 2.68
+  },
+  {
+    "text": "I think we have to continue\nto move in that direction.",
+    "start": 1086.85,
+    "duration": 4.112
+  },
+  {
+    "text": "ALISON BEARD: And\nin your work what",
+    "start": 1090.962,
+    "duration": 1.458
+  },
+  {
+    "text": "have you found about how\nworkplaces unionizing affects",
+    "start": 1092.42,
+    "duration": 5.31
+  },
+  {
+    "text": "organizational performance?",
+    "start": 1097.73,
+    "duration": 1.44
+  },
+  {
+    "text": "I know the fear is that maybe\nyou're creating a better work",
+    "start": 1099.17,
+    "duration": 3.81
+  },
+  {
+    "text": "environment, but you're\nhurting the bottom line",
+    "start": 1102.98,
+    "duration": 3.03
+  },
+  {
+    "text": "at the same time.",
+    "start": 1106.01,
+    "duration": 1.302
+  },
+  {
+    "text": "THOMAS KOCHAN: The\nevidence is very",
+    "start": 1107.312,
+    "duration": 1.458
+  },
+  {
+    "text": "clear on this, that\nthere is no average union",
+    "start": 1108.77,
+    "duration": 4.02
+  },
+  {
+    "text": "effect on firm performance.",
+    "start": 1112.79,
+    "duration": 2.1
+  },
+  {
+    "text": "But you can increase\nproductivity with unions",
+    "start": 1114.89,
+    "duration": 4.83
+  },
+  {
+    "text": "and certainly reduce\nturnover, which",
+    "start": 1119.72,
+    "duration": 2.1
+  },
+  {
+    "text": "helps to improve productivity\nand financial performance",
+    "start": 1121.82,
+    "duration": 5.01
+  },
+  {
+    "text": "if management really\nengages the union,",
+    "start": 1126.83,
+    "duration": 3.15
+  },
+  {
+    "text": "holds it accountable\nfor not having too many",
+    "start": 1129.98,
+    "duration": 4.86
+  },
+  {
+    "text": "rigid work rules.",
+    "start": 1134.84,
+    "duration": 1.2
+  },
+  {
+    "text": "But works together\nto solve problems",
+    "start": 1136.04,
+    "duration": 2.76
+  },
+  {
+    "text": "at the workplace,\nengaging workers,",
+    "start": 1138.8,
+    "duration": 3.09
+  },
+  {
+    "text": "in problem solving teams and\noperational improvements,",
+    "start": 1141.89,
+    "duration": 4.77
+  },
+  {
+    "text": "continuous\nimprovement processes,",
+    "start": 1146.66,
+    "duration": 2.01
+  },
+  {
+    "text": "investing in the\nworkforce so that they",
+    "start": 1148.67,
+    "duration": 3.06
+  },
+  {
+    "text": "have the skills needed to\ncontinue to be competitive,",
+    "start": 1151.73,
+    "duration": 3.78
+  },
+  {
+    "text": "especially as\ntechnologies change,",
+    "start": 1155.51,
+    "duration": 2.58
+  },
+  {
+    "text": "but making the appropriate\ninvestments in education",
+    "start": 1158.09,
+    "duration": 4.95
+  },
+  {
+    "text": "and training on a\ncontinuous basis.",
+    "start": 1163.04,
+    "duration": 2.13
+  },
+  {
+    "text": "And then engaging in modern\nforms of negotiation,",
+    "start": 1165.17,
+    "duration": 5.73
+  },
+  {
+    "text": "not just the old horse trading\nnotion that I come in and say,",
+    "start": 1170.9,
+    "duration": 4.69
+  },
+  {
+    "text": "I need 20%, and then you\nas the employer says,",
+    "start": 1175.59,
+    "duration": 4.02
+  },
+  {
+    "text": "well, we'll only give you 2%.",
+    "start": 1179.61,
+    "duration": 1.67
+  },
+  {
+    "text": "And then after months and\nmonths of horse trading,",
+    "start": 1181.28,
+    "duration": 3.48
+  },
+  {
+    "text": "we end up, I don't know, 8% or\nwherever the number takes us.",
+    "start": 1184.76,
+    "duration": 4.86
+  },
+  {
+    "text": "That model is outdated but using\nthe tools of what we often call",
+    "start": 1189.62,
+    "duration": 6.48
+  },
+  {
+    "text": "interest-based negotiations.",
+    "start": 1196.1,
+    "duration": 2.79
+  },
+  {
+    "text": "Every modern business\nschool teaches",
+    "start": 1198.89,
+    "duration": 2.31
+  },
+  {
+    "text": "modern tools of negotiations\nto nearly all of our students.",
+    "start": 1201.2,
+    "duration": 4.05
+  },
+  {
+    "text": "And they're coming\ninto the workplace",
+    "start": 1205.25,
+    "duration": 2.19
+  },
+  {
+    "text": "as the next generation\nof executive leaders,",
+    "start": 1207.44,
+    "duration": 3.99
+  },
+  {
+    "text": "steeped in how to\nnegotiate effectively",
+    "start": 1211.43,
+    "duration": 2.94
+  },
+  {
+    "text": "and to work on these issues.",
+    "start": 1214.37,
+    "duration": 2.35
+  },
+  {
+    "text": "So that has to be\npart of how we do it.",
+    "start": 1216.72,
+    "duration": 2.33
+  },
+  {
+    "text": "If we do those\nthings, the evidence",
+    "start": 1219.05,
+    "duration": 2.4
+  },
+  {
+    "text": "is with high-quality\nlabor management relations",
+    "start": 1221.45,
+    "duration": 2.52
+  },
+  {
+    "text": "we get equal or higher\nlevels of productivity,",
+    "start": 1223.97,
+    "duration": 3.01
+  },
+  {
+    "text": "higher levels of quality.",
+    "start": 1226.98,
+    "duration": 1.4
+  },
+  {
+    "text": "We certainly get higher\nlevels of customer service",
+    "start": 1228.38,
+    "duration": 2.64
+  },
+  {
+    "text": "because we have a more satisfied\nworkforce in the service",
+    "start": 1231.02,
+    "duration": 2.65
+  },
+  {
+    "text": "sector where there's\ndirect interactions.",
+    "start": 1233.67,
+    "duration": 2.58
+  },
+  {
+    "text": "And we get lower turnover.",
+    "start": 1236.25,
+    "duration": 2.04
+  },
+  {
+    "text": "But if you have traditional\nadversarial, arm's length",
+    "start": 1238.29,
+    "duration": 3.51
+  },
+  {
+    "text": "relationship, it goes\nin the other direction.",
+    "start": 1241.8,
+    "duration": 2.68
+  },
+  {
+    "text": "And so management can shape the\nlabor management relationship",
+    "start": 1244.48,
+    "duration": 4.55
+  },
+  {
+    "text": "in positive ways if we use the\nmodern tools of leadership,",
+    "start": 1249.03,
+    "duration": 4.59
+  },
+  {
+    "text": "the modern tools of\nnegotiation, and we",
+    "start": 1253.62,
+    "duration": 3.03
+  },
+  {
+    "text": "respect the right of workers\nto have an independent voice",
+    "start": 1256.65,
+    "duration": 5.52
+  },
+  {
+    "text": "in their enterprise.",
+    "start": 1262.17,
+    "duration": 1.98
+  },
+  {
+    "text": "ALISON BEARD: So when you talk\nto leaders or managers who",
+    "start": 1264.15,
+    "duration": 3.33
+  },
+  {
+    "text": "are maybe seeing\nstirrings of unionization",
+    "start": 1267.48,
+    "duration": 2.82
+  },
+  {
+    "text": "pushes at their\norganizations, what advice",
+    "start": 1270.3,
+    "duration": 2.73
+  },
+  {
+    "text": "that you give them\nabout how to respond?",
+    "start": 1273.03,
+    "duration": 2.94
+  },
+  {
+    "text": "THOMAS KOCHAN: First advice\nis don't take it personally.",
+    "start": 1275.97,
+    "duration": 2.61
+  },
+  {
+    "text": "It's not the fact that\nthey're just upset with you",
+    "start": 1278.58,
+    "duration": 5.16
+  },
+  {
+    "text": "and that it's a personal\nfailure if workers organize.",
+    "start": 1283.74,
+    "duration": 3.66
+  },
+  {
+    "text": "That's, I think, a natural\npsychological reaction,",
+    "start": 1287.4,
+    "duration": 3.9
+  },
+  {
+    "text": "but it's the wrong one.",
+    "start": 1291.3,
+    "duration": 1.29
+  },
+  {
+    "text": "We're seeing this too\nwidespread to view it as just",
+    "start": 1292.59,
+    "duration": 6.36
+  },
+  {
+    "text": "going after failed managers.",
+    "start": 1298.95,
+    "duration": 2.1
+  },
+  {
+    "text": "It's what workers expect today\nand what good management needs",
+    "start": 1301.05,
+    "duration": 6.15
+  },
+  {
+    "text": "to provide.",
+    "start": 1307.2,
+    "duration": 1.63
+  },
+  {
+    "text": "Second thing is get over\nthis silly notion, well,",
+    "start": 1308.83,
+    "duration": 3.92
+  },
+  {
+    "text": "it's just some\noutside third party",
+    "start": 1312.75,
+    "duration": 2.04
+  },
+  {
+    "text": "that's coming in here\nas a union that's",
+    "start": 1314.79,
+    "duration": 2.19
+  },
+  {
+    "text": "going to get in the\nway of my interactions",
+    "start": 1316.98,
+    "duration": 2.37
+  },
+  {
+    "text": "with individual employees.",
+    "start": 1319.35,
+    "duration": 1.95
+  },
+  {
+    "text": "That's managerial,\nanti-union rhetoric",
+    "start": 1321.3,
+    "duration": 3.66
+  },
+  {
+    "text": "that the consultants\nand the lawyers",
+    "start": 1324.96,
+    "duration": 1.98
+  },
+  {
+    "text": "are spewing to try to\nsuppress unionization.",
+    "start": 1326.94,
+    "duration": 5.31
+  },
+  {
+    "text": "But it doesn't work anymore.",
+    "start": 1332.25,
+    "duration": 1.6
+  },
+  {
+    "text": "The workers are looking for\ntheir own voice, as we've said.",
+    "start": 1333.85,
+    "duration": 3.26
+  },
+  {
+    "text": "The third piece of\nadvice then is learn how",
+    "start": 1337.11,
+    "duration": 3.81
+  },
+  {
+    "text": "to manage collective groups.",
+    "start": 1340.92,
+    "duration": 1.53
+  },
+  {
+    "text": "Shift from union\navoidance to how",
+    "start": 1342.45,
+    "duration": 3.09
+  },
+  {
+    "text": "do we build successful\nemployment relationships",
+    "start": 1345.54,
+    "duration": 4.05
+  },
+  {
+    "text": "with a union or with some\nother collective group",
+    "start": 1349.59,
+    "duration": 3.42
+  },
+  {
+    "text": "or whatever is out there.",
+    "start": 1353.01,
+    "duration": 1.68
+  },
+  {
+    "text": "But be more agile in the\nmanagerial approaches",
+    "start": 1354.69,
+    "duration": 4.41
+  },
+  {
+    "text": "that we take.",
+    "start": 1359.1,
+    "duration": 1.05
+  },
+  {
+    "text": "And if we do that,\nthen we can help",
+    "start": 1360.15,
+    "duration": 1.8
+  },
+  {
+    "text": "shape a new era of employee\nand labor management relations",
+    "start": 1361.95,
+    "duration": 4.62
+  },
+  {
+    "text": "that works for all\nstakeholders in our society",
+    "start": 1366.57,
+    "duration": 3.15
+  },
+  {
+    "text": "and that we so badly need\nto model how we can overcome",
+    "start": 1369.72,
+    "duration": 4.8
+  },
+  {
+    "text": "these deep, deep divisions we\nsee in society in our politics,",
+    "start": 1374.52,
+    "duration": 4.96
+  },
+  {
+    "text": "in our civic interactions\nin the community,",
+    "start": 1379.48,
+    "duration": 3.02
+  },
+  {
+    "text": "in our race relations,\nand in our workplaces.",
+    "start": 1382.5,
+    "duration": 3.87
+  },
+  {
+    "text": "And so that's the job of\nthe modern executives,",
+    "start": 1386.37,
+    "duration": 4.38
+  },
+  {
+    "text": "the modern managers\nis to learn how",
+    "start": 1390.75,
+    "duration": 2.28
+  },
+  {
+    "text": "to manage these\nkinds of tensions,",
+    "start": 1393.03,
+    "duration": 2.46
+  },
+  {
+    "text": "these kinds of\nconflicts with respect",
+    "start": 1395.49,
+    "duration": 2.55
+  },
+  {
+    "text": "and to use them as\na healing mechanism",
+    "start": 1398.04,
+    "duration": 4.11
+  },
+  {
+    "text": "in their organizations\nand in society",
+    "start": 1402.15,
+    "duration": 2.95
+  },
+  {
+    "text": "but also as a way\nto build a more",
+    "start": 1405.1,
+    "duration": 2.3
+  },
+  {
+    "text": "productive, resilient, and\ninclusive and equitable",
+    "start": 1407.4,
+    "duration": 4.05
+  },
+  {
+    "text": "economy.",
+    "start": 1411.45,
+    "duration": 1.3
+  },
+  {
+    "text": "ALISON BEARD: And if\nI'm an employee who",
+    "start": 1412.75,
+    "duration": 1.79
+  },
+  {
+    "text": "thinks that my workplace\ncould benefit from a union,",
+    "start": 1414.54,
+    "duration": 3.24
+  },
+  {
+    "text": "what are some\nfactors to consider",
+    "start": 1417.78,
+    "duration": 2.71
+  },
+  {
+    "text": "and first steps to take?",
+    "start": 1420.49,
+    "duration": 2.21
+  },
+  {
+    "text": "THOMAS KOCHAN: First step\nis talk to your coworkers.",
+    "start": 1422.7,
+    "duration": 2.22
+  },
+  {
+    "text": "See if they share your view.",
+    "start": 1424.92,
+    "duration": 3.63
+  },
+  {
+    "text": "Often, this is not something\nthat people talk about",
+    "start": 1428.55,
+    "duration": 2.85
+  },
+  {
+    "text": "but that they harbor\ninside themselves.",
+    "start": 1431.4,
+    "duration": 2.44
+  },
+  {
+    "text": "And then when they\nstart to discuss it",
+    "start": 1433.84,
+    "duration": 1.79
+  },
+  {
+    "text": "with their colleagues,\nthey find that other people",
+    "start": 1435.63,
+    "duration": 2.46
+  },
+  {
+    "text": "have similar kinds of views.",
+    "start": 1438.09,
+    "duration": 1.83
+  },
+  {
+    "text": "And so you have to build some\nsupport from your coworkers.",
+    "start": 1439.92,
+    "duration": 4.63
+  },
+  {
+    "text": "And if there are others\nwho share that view,",
+    "start": 1444.55,
+    "duration": 3.53
+  },
+  {
+    "text": "then you begin to turn to\nthe tools that are out there.",
+    "start": 1448.08,
+    "duration": 5.22
+  },
+  {
+    "text": "Maybe it's first\nyou file a petition.",
+    "start": 1453.3,
+    "duration": 2.34
+  },
+  {
+    "text": "There's organizations\nlike coworker.org,",
+    "start": 1455.64,
+    "duration": 2.55
+  },
+  {
+    "text": "which will help you file a\npetition with your employer",
+    "start": 1458.19,
+    "duration": 3.69
+  },
+  {
+    "text": "on the issues of concern.",
+    "start": 1461.88,
+    "duration": 1.86
+  },
+  {
+    "text": "Secondly, there are\nunions out there",
+    "start": 1463.74,
+    "duration": 2.19
+  },
+  {
+    "text": "that will provide support.",
+    "start": 1465.93,
+    "duration": 2.97
+  },
+  {
+    "text": "Or you build that\nmore generically",
+    "start": 1468.9,
+    "duration": 2.76
+  },
+  {
+    "text": "among your colleagues,\nand you use social media,",
+    "start": 1471.66,
+    "duration": 3.9
+  },
+  {
+    "text": "and you use all the tools\ntoday to communicate concerns,",
+    "start": 1475.56,
+    "duration": 4.71
+  },
+  {
+    "text": "indicate what issues are of\nhighest priority to people,",
+    "start": 1480.27,
+    "duration": 4.08
+  },
+  {
+    "text": "collect data from each other,\nand build an organization, not",
+    "start": 1484.35,
+    "duration": 5.07
+  },
+  {
+    "text": "necessarily a formal\norganization, but a network.",
+    "start": 1489.42,
+    "duration": 3.09
+  },
+  {
+    "text": "And communicate\nthese to the employer",
+    "start": 1492.51,
+    "duration": 3.06
+  },
+  {
+    "text": "as soon as you can so that the\nemployer is on notice that this",
+    "start": 1495.57,
+    "duration": 3.66
+  },
+  {
+    "text": "isn't some alien third\nparty that is at work here.",
+    "start": 1499.23,
+    "duration": 4.68
+  },
+  {
+    "text": "It's your talent.",
+    "start": 1503.91,
+    "duration": 2.73
+  },
+  {
+    "text": "It's the talent that you need to\nhold on to today more than ever",
+    "start": 1506.64,
+    "duration": 3.96
+  },
+  {
+    "text": "and the talent that\nyou need to attract.",
+    "start": 1510.6,
+    "duration": 3.13
+  },
+  {
+    "text": "And so the reputational risks\nof just suppressing or avoiding",
+    "start": 1513.73,
+    "duration": 6.95
+  },
+  {
+    "text": "dealing with workers and unions,\nI think, are pretty profound.",
+    "start": 1520.68,
+    "duration": 5.52
+  },
+  {
+    "text": "That word gets around, and not\nonly do your best people leave,",
+    "start": 1526.2,
+    "duration": 5.28
+  },
+  {
+    "text": "but you'll have a harder\ntime attracting the workforce",
+    "start": 1531.48,
+    "duration": 3.55
+  },
+  {
+    "text": "that you need to grow the\nbusiness and make it prosper.",
+    "start": 1535.03,
+    "duration": 5.955
+  },
+  {
+    "text": "ALISON BEARD: Yeah,\nso the Amazon story",
+    "start": 1540.985,
+    "duration": 1.625
+  },
+  {
+    "text": "has been really interesting\nto follow because there were",
+    "start": 1542.61,
+    "duration": 2.37
+  },
+  {
+    "text": "two very high profile union\nfights, one in Alabama,",
+    "start": 1544.98,
+    "duration": 3.63
+  },
+  {
+    "text": "one in Staten Island, New York.",
+    "start": 1548.61,
+    "duration": 2.29
+  },
+  {
+    "text": "The first was a failure.",
+    "start": 1550.9,
+    "duration": 2.15
+  },
+  {
+    "text": "The organizers lost.",
+    "start": 1553.05,
+    "duration": 1.86
+  },
+  {
+    "text": "The second was a success.",
+    "start": 1554.91,
+    "duration": 1.95
+  },
+  {
+    "text": "They won.",
+    "start": 1556.86,
+    "duration": 0.72
+  },
+  {
+    "text": "So what can we learn from\nthose disparate outcomes",
+    "start": 1557.58,
+    "duration": 3.12
+  },
+  {
+    "text": "about what makes for\na successful movement?",
+    "start": 1560.7,
+    "duration": 3.08
+  },
+  {
+    "text": "THOMAS KOCHAN: There, I\nthink, are maybe three lessons",
+    "start": 1563.78,
+    "duration": 2.83
+  },
+  {
+    "text": "that I would offer.",
+    "start": 1566.61,
+    "duration": 1.8
+  },
+  {
+    "text": "One is organizing under our\nNational Labor Relations Act",
+    "start": 1568.41,
+    "duration": 4.29
+  },
+  {
+    "text": "procedures is very, very\ndifficult for workers.",
+    "start": 1572.7,
+    "duration": 3.06
+  },
+  {
+    "text": "There are so many hoops that\nyou have to go through and then",
+    "start": 1575.76,
+    "duration": 3.63
+  },
+  {
+    "text": "a long legal process of\ndeciding who's eligible to vote,",
+    "start": 1579.39,
+    "duration": 4.08
+  },
+  {
+    "text": "who's in it, who's not.",
+    "start": 1583.47,
+    "duration": 1.62
+  },
+  {
+    "text": "And employers have enormous\nresources to resist,",
+    "start": 1585.09,
+    "duration": 3.87
+  },
+  {
+    "text": "as Amazon is demonstrating.",
+    "start": 1588.96,
+    "duration": 2.94
+  },
+  {
+    "text": "And so it's a very,\nvery difficult process.",
+    "start": 1591.9,
+    "duration": 3.13
+  },
+  {
+    "text": "And I think that's\nthe number one",
+    "start": 1595.03,
+    "duration": 2.48
+  },
+  {
+    "text": "lesson to take away,\nthat we all as citizens",
+    "start": 1597.51,
+    "duration": 2.76
+  },
+  {
+    "text": "should take away from it because\nour labor law has failed.",
+    "start": 1600.27,
+    "duration": 3.39
+  },
+  {
+    "text": "The second thing is that today's\nworkforce wants and needs",
+    "start": 1603.66,
+    "duration": 5.97
+  },
+  {
+    "text": "to have cohesion\nacross racial groups,",
+    "start": 1609.63,
+    "duration": 5.13
+  },
+  {
+    "text": "within racial groups, for\nsure, using social networks,",
+    "start": 1614.76,
+    "duration": 4.92
+  },
+  {
+    "text": "using demographic similarity to\nbuild a cohesive organization",
+    "start": 1619.68,
+    "duration": 5.73
+  },
+  {
+    "text": "but then working across those\ngroups within the organization.",
+    "start": 1625.41,
+    "duration": 4.42
+  },
+  {
+    "text": "And so building a network, a\ndense network of supporters",
+    "start": 1629.83,
+    "duration": 4.52
+  },
+  {
+    "text": "and having them go out and\nadd, through their own social",
+    "start": 1634.35,
+    "duration": 6.18
+  },
+  {
+    "text": "contacts, until you\nhave a critical mass",
+    "start": 1640.53,
+    "duration": 3.24
+  },
+  {
+    "text": "is really important.",
+    "start": 1643.77,
+    "duration": 2.2
+  },
+  {
+    "text": "And then I think\nthe third lesson",
+    "start": 1645.97,
+    "duration": 3.05
+  },
+  {
+    "text": "is that the community, the\ncustomers, the investors",
+    "start": 1649.02,
+    "duration": 6.12
+  },
+  {
+    "text": "all have an important\nrole to play.",
+    "start": 1655.14,
+    "duration": 2.49
+  },
+  {
+    "text": "And you're seeing\nthat happen now.",
+    "start": 1657.63,
+    "duration": 2.55
+  },
+  {
+    "text": "Some investor groups,\nparticularly those",
+    "start": 1660.18,
+    "duration": 2.55
+  },
+  {
+    "text": "that invest in\nenvironmental social justice",
+    "start": 1662.73,
+    "duration": 5.4
+  },
+  {
+    "text": "issues, so-called\nESG groups, are",
+    "start": 1668.13,
+    "duration": 2.97
+  },
+  {
+    "text": "becoming much more vocal\nin saying to the business",
+    "start": 1671.1,
+    "duration": 3.39
+  },
+  {
+    "text": "community it's time for you\nto step up and recognize what",
+    "start": 1674.49,
+    "duration": 4.71
+  },
+  {
+    "text": "is going on and not just put all\nyour resources into resisting",
+    "start": 1679.2,
+    "duration": 5.67
+  },
+  {
+    "text": "these organizing efforts,\nbut maybe pay attention",
+    "start": 1684.87,
+    "duration": 5.31
+  },
+  {
+    "text": "to how you build effective\nlabor management relations.",
+    "start": 1690.18,
+    "duration": 2.97
+  },
+  {
+    "text": "Workers need allies.",
+    "start": 1693.15,
+    "duration": 2.16
+  },
+  {
+    "text": "They need those groups.",
+    "start": 1695.31,
+    "duration": 1.56
+  },
+  {
+    "text": "They particularly need the\ncustomers in the service sector",
+    "start": 1696.87,
+    "duration": 3.75
+  },
+  {
+    "text": "to speak out and\nto ally with them.",
+    "start": 1700.62,
+    "duration": 3.51
+  },
+  {
+    "text": "And to the extent that they can\nget the investors with them,",
+    "start": 1704.13,
+    "duration": 4.29
+  },
+  {
+    "text": "that's another source of power.",
+    "start": 1708.42,
+    "duration": 2.62
+  },
+  {
+    "text": "ALISON BEARD: So when a\nwin like that happens,",
+    "start": 1711.04,
+    "duration": 2.22
+  },
+  {
+    "text": "how does it change\nthe relationships",
+    "start": 1713.26,
+    "duration": 2.93
+  },
+  {
+    "text": "on the ground in practice\nbetween employees and managers?",
+    "start": 1716.19,
+    "duration": 4.053
+  },
+  {
+    "text": "THOMAS KOCHAN:\nWell, first of all,",
+    "start": 1720.243,
+    "duration": 1.417
+  },
+  {
+    "text": "it builds an enormous set of\nexpectations among the workers.",
+    "start": 1721.66,
+    "duration": 5.04
+  },
+  {
+    "text": "There's a euphoria that we won.",
+    "start": 1726.7,
+    "duration": 3.23
+  },
+  {
+    "text": "We got an election.",
+    "start": 1729.93,
+    "duration": 1.95
+  },
+  {
+    "text": "We now have representation.",
+    "start": 1731.88,
+    "duration": 2.29
+  },
+  {
+    "text": "And so there's a\ntremendous excitement.",
+    "start": 1734.17,
+    "duration": 2.69
+  },
+  {
+    "text": "But then there's\nalso the challenge",
+    "start": 1736.86,
+    "duration": 2.19
+  },
+  {
+    "text": "of getting a first contract.",
+    "start": 1739.05,
+    "duration": 1.71
+  },
+  {
+    "text": "And that is not a\nforegone conclusion.",
+    "start": 1740.76,
+    "duration": 4.44
+  },
+  {
+    "text": "About half of new\nunion organizing",
+    "start": 1745.2,
+    "duration": 3.99
+  },
+  {
+    "text": "doesn't get a first contract\nbecause management just",
+    "start": 1749.19,
+    "duration": 2.88
+  },
+  {
+    "text": "shifts its resistance\nfrom the election phase",
+    "start": 1752.07,
+    "duration": 3.3
+  },
+  {
+    "text": "into the negotiating phase.",
+    "start": 1755.37,
+    "duration": 1.86
+  },
+  {
+    "text": "And so then the challenge\nis how do you build momentum",
+    "start": 1757.23,
+    "duration": 4.53
+  },
+  {
+    "text": "and how do you build\nan effective bargaining",
+    "start": 1761.76,
+    "duration": 3.03
+  },
+  {
+    "text": "organization to get\nthat first contract?",
+    "start": 1764.79,
+    "duration": 2.79
+  },
+  {
+    "text": "And here's where I think we\nneed a lot of innovation.",
+    "start": 1767.58,
+    "duration": 4.48
+  },
+  {
+    "text": "A number of us do training of\nbusiness and labor and worker",
+    "start": 1772.06,
+    "duration": 5.39
+  },
+  {
+    "text": "representatives on how to use\nstate-of-the-art negotiation",
+    "start": 1777.45,
+    "duration": 4.5
+  },
+  {
+    "text": "techniques to solve problems\nand to reach agreements among",
+    "start": 1781.95,
+    "duration": 3.54
+  },
+  {
+    "text": "people who have\ndifferent points of view.",
+    "start": 1785.49,
+    "duration": 2.04
+  },
+  {
+    "text": "And I think we\nneed to accelerate",
+    "start": 1787.53,
+    "duration": 2.34
+  },
+  {
+    "text": "that kind of training and\nlearning, not just from us.",
+    "start": 1789.87,
+    "duration": 2.53
+  },
+  {
+    "text": "There are multiple groups\naround the country,",
+    "start": 1792.4,
+    "duration": 2.09
+  },
+  {
+    "text": "and the federal government has\na federal mediation service that",
+    "start": 1794.49,
+    "duration": 3.06
+  },
+  {
+    "text": "provides this kind of training.",
+    "start": 1797.55,
+    "duration": 1.56
+  },
+  {
+    "text": "But we've got to train a whole\nnew generation of managers",
+    "start": 1799.11,
+    "duration": 5.7
+  },
+  {
+    "text": "because unions have not\nbeen part of their mindset",
+    "start": 1804.81,
+    "duration": 4.92
+  },
+  {
+    "text": "for so long that they have\nno experience in how to do",
+    "start": 1809.73,
+    "duration": 3.93
+  },
+  {
+    "text": "this and do this effectively.",
+    "start": 1813.66,
+    "duration": 2.98
+  },
+  {
+    "text": "And so I think we need to do\nmore of what we are doing here",
+    "start": 1816.64,
+    "duration": 3.92
+  },
+  {
+    "text": "in this podcast in\ngetting the word out",
+    "start": 1820.56,
+    "duration": 2.4
+  },
+  {
+    "text": "that it's time for\nmanagement to develop",
+    "start": 1822.96,
+    "duration": 2.85
+  },
+  {
+    "text": "a whole new set\nof skills and make",
+    "start": 1825.81,
+    "duration": 3.39
+  },
+  {
+    "text": "that part of their\nleadership portfolio.",
+    "start": 1829.2,
+    "duration": 3.45
+  },
+  {
+    "text": "And we have to do that\nin systematic ways",
+    "start": 1832.65,
+    "duration": 3.48
+  },
+  {
+    "text": "so that we can respond\nto the changing workforce",
+    "start": 1836.13,
+    "duration": 4.45
+  },
+  {
+    "text": "and their expectations.",
+    "start": 1840.58,
+    "duration": 1.863
+  },
+  {
+    "text": "ALISON BEARD: So it\nsounds like you definitely",
+    "start": 1842.443,
+    "duration": 1.917
+  },
+  {
+    "text": "think this unionization trend\nis going to continue in the US",
+    "start": 1844.36,
+    "duration": 4.14
+  },
+  {
+    "text": "and around the world.",
+    "start": 1848.5,
+    "duration": 1.0
+  },
+  {
+    "text": "Do you think it's\ngoing to accelerate?",
+    "start": 1849.5,
+    "duration": 1.583
+  },
+  {
+    "text": "THOMAS KOCHAN:\nWell, I think it's",
+    "start": 1851.083,
+    "duration": 1.375
+  },
+  {
+    "text": "going to expand and accelerate.",
+    "start": 1852.458,
+    "duration": 1.442
+  },
+  {
+    "text": "Whether it is\nsustained long enough",
+    "start": 1853.9,
+    "duration": 3.48
+  },
+  {
+    "text": "and reaches a scale that\nreally fundamentally leads",
+    "start": 1857.38,
+    "duration": 4.71
+  },
+  {
+    "text": "to a new era of Union growth\nand labor management relations",
+    "start": 1862.09,
+    "duration": 4.08
+  },
+  {
+    "text": "is yet to be determined.",
+    "start": 1866.17,
+    "duration": 1.445
+  },
+  {
+    "text": "But I think the kinds of\nthings that we have talked",
+    "start": 1867.615,
+    "duration": 2.125
+  },
+  {
+    "text": "about here about how business\nresponds to this upsurge",
+    "start": 1869.74,
+    "duration": 6.6
+  },
+  {
+    "text": "will be a particularly\nimportant factor.",
+    "start": 1876.34,
+    "duration": 3.42
+  },
+  {
+    "text": "I spend a lot of time talking\nwith business executives.",
+    "start": 1879.76,
+    "duration": 3.63
+  },
+  {
+    "text": "I spend a lot of time\ntalking with union leaders.",
+    "start": 1883.39,
+    "duration": 3.15
+  },
+  {
+    "text": "I want to bring them\ntogether for this dialogue.",
+    "start": 1886.54,
+    "duration": 3.16
+  },
+  {
+    "text": "So that we're getting the\nmultiple stakeholders who",
+    "start": 1889.7,
+    "duration": 4.07
+  },
+  {
+    "text": "need to understand how the\nworld of work is changing,",
+    "start": 1893.77,
+    "duration": 3.51
+  },
+  {
+    "text": "how workforce expectations\nare accelerating,",
+    "start": 1897.28,
+    "duration": 3.81
+  },
+  {
+    "text": "and how we can respond\ncreatively to the world of work",
+    "start": 1901.09,
+    "duration": 5.73
+  },
+  {
+    "text": "we have today and will\nhave in the future.",
+    "start": 1906.82,
+    "duration": 2.79
+  },
+  {
+    "text": "So I think we have a lot\nof work to do in bringing",
+    "start": 1909.61,
+    "duration": 3.87
+  },
+  {
+    "text": "these parties together.",
+    "start": 1913.48,
+    "duration": 1.41
+  },
+  {
+    "text": "There isn't a history of\nthat in the recent past,",
+    "start": 1914.89,
+    "duration": 3.13
+  },
+  {
+    "text": "but we've had\nperiods of time where",
+    "start": 1918.02,
+    "duration": 2.27
+  },
+  {
+    "text": "we've been able to\nbring business and labor",
+    "start": 1920.29,
+    "duration": 2.19
+  },
+  {
+    "text": "leaders together, not just\nat the national level,",
+    "start": 1922.48,
+    "duration": 2.88
+  },
+  {
+    "text": "but within sectors\nand within companies.",
+    "start": 1925.36,
+    "duration": 3.12
+  },
+  {
+    "text": "And I think we've got to enter\nthat phase of the challenge",
+    "start": 1928.48,
+    "duration": 5.49
+  },
+  {
+    "text": "with skill right now.",
+    "start": 1933.97,
+    "duration": 1.53
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1935.5,
+    "duration": 0.65
+  },
+  {
+    "text": "ALISON BEARD: Wonderful.",
+    "start": 1936.15,
+    "duration": 1.0
+  },
+  {
+    "text": "Well, Tom, thank you so much.",
+    "start": 1937.15,
+    "duration": 1.23
+  },
+  {
+    "text": "THOMAS KOCHAN: Well,\nthank you, Alison.",
+    "start": 1938.38,
+    "duration": 1.625
+  },
+  {
+    "text": "It's been a real\npleasure to work with you",
+    "start": 1940.005,
+    "duration": 1.855
+  },
+  {
+    "text": "and talk with you\nabout these issues.",
+    "start": 1941.86,
+    "duration": 1.6
+  },
+  {
+    "text": "And I hope we can make\nsome progress together.",
+    "start": 1943.46,
+    "duration": 1.917
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1945.377,
+    "duration": 2.173
+  },
+  {
+    "text": "ALISON BEARD: That's\nThomas Kochan.",
+    "start": 1948.46,
+    "duration": 1.5
+  },
+  {
+    "text": "He's a professor at the MIT\nSloan School of Management.",
+    "start": 1949.96,
+    "duration": 5.15
+  },
+  {
+    "text": "If you liked today's episode,\nwe have more podcasts",
+    "start": 1955.11,
+    "duration": 2.21
+  },
+  {
+    "text": "to help you manage\nyourself, your team,",
+    "start": 1957.32,
+    "duration": 1.63
+  },
+  {
+    "text": "and your organization.",
+    "start": 1958.95,
+    "duration": 1.35
+  },
+  {
+    "text": "Find them at hbr.org/podcasts\nor search HBR on Apple Podcasts,",
+    "start": 1960.3,
+    "duration": 4.11
+  },
+  {
+    "text": "Spotify, or wherever you listen.",
+    "start": 1964.41,
+    "duration": 2.67
+  },
+  {
+    "text": "This episode was\nproduced by Mary Dooe.",
+    "start": 1967.08,
+    "duration": 2.01
+  },
+  {
+    "text": "We get technical help\nfrom Rob Eckhart.",
+    "start": 1969.09,
+    "duration": 1.86
+  },
+  {
+    "text": "Hannah Bates is our audio\nproduction assistant,",
+    "start": 1970.95,
+    "duration": 2.37
+  },
+  {
+    "text": "and Ian Fox is our\naudio product manager.",
+    "start": 1973.32,
+    "duration": 4.38
+  },
+  {
+    "text": "Thanks for listening\nto the HBR IdeaCast.",
+    "start": 1977.7,
+    "duration": 2.43
+  },
+  {
+    "text": "We'll be back with a\nnew episode on Tuesday.",
+    "start": 1980.13,
+    "duration": 2.25
+  },
+  {
+    "text": "I'm Alison Beard.",
+    "start": 1982.38,
+    "duration": 1.05
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1983.43,
+    "duration": 3.05
+  }
+]

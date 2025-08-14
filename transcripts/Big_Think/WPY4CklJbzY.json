@@ -1,0 +1,312 @@
+[
+  {
+    "text": "Most people know or remember from school that\nunderneath it all reality is not based on",
+    "start": 0.269,
+    "duration": 5.151
+  },
+  {
+    "text": "billiard balls and things that match our experience\nin the physical world, but on a system called",
+    "start": 5.42,
+    "duration": 4.76
+  },
+  {
+    "text": "quantum mechanics.",
+    "start": 10.18,
+    "duration": 1.42
+  },
+  {
+    "text": "And the rules of quantum mechanics are rather\nstrange and not very intuitive to us and so",
+    "start": 11.6,
+    "duration": 4.25
+  },
+  {
+    "text": "they don't act like the higher level rules\nthat we've built computers on so far.",
+    "start": 15.85,
+    "duration": 5.04
+  },
+  {
+    "text": "So there's a bunch of research to study whether\nor not you can do things in quantum mechanics",
+    "start": 20.89,
+    "duration": 4.77
+  },
+  {
+    "text": "that perform computation in ways that we can't\ndo at the level of mechanical systems or electronic",
+    "start": 25.66,
+    "duration": 6.3
+  },
+  {
+    "text": "systems that we use.",
+    "start": 31.96,
+    "duration": 1.74
+  },
+  {
+    "text": "In particular it seems possible in theory\nto do very, very huge amounts of computing",
+    "start": 33.7,
+    "duration": 8.08
+  },
+  {
+    "text": "in quantum mechanics, sort of as some people\nwould imagine it as though you were tapping",
+    "start": 41.78,
+    "duration": 5.78
+  },
+  {
+    "text": "into millions and trillions and billions of\nparallel universes and having computations",
+    "start": 47.56,
+    "duration": 4.909
+  },
+  {
+    "text": "take place in all those parallel universes\nuntil an answer is found in one and is revealed",
+    "start": 52.469,
+    "duration": 4.161
+  },
+  {
+    "text": "to you in your universe.",
+    "start": 56.63,
+    "duration": 2.56
+  },
+  {
+    "text": "Well, that's a little bit mystical.",
+    "start": 59.19,
+    "duration": 1.73
+  },
+  {
+    "text": "I don't know if anyone can give you the true\nanswer on that, but there are people who believe",
+    "start": 60.92,
+    "duration": 3.959
+  },
+  {
+    "text": "that they can make a computer that uses these\nproperties of quantum computing to solve some",
+    "start": 64.879,
+    "duration": 4.441
+  },
+  {
+    "text": "very, very specific problems much, much faster\nthan the way we solve them today with computers.",
+    "start": 69.32,
+    "duration": 6.859
+  },
+  {
+    "text": "And when I say much, much faster, so much\nfaster that if you were to turn the entire",
+    "start": 76.179,
+    "duration": 4.54
+  },
+  {
+    "text": "universe into an ordinary computer like the\none on your desk, it still could not outcompete",
+    "start": 80.719,
+    "duration": 7.08
+  },
+  {
+    "text": "the quantum computer at solving these problems.",
+    "start": 87.799,
+    "duration": 2.801
+  },
+  {
+    "text": "Now, one of the problems that can be solved\nthis way, in theory, yet no one has built",
+    "start": 90.6,
+    "duration": 5.17
+  },
+  {
+    "text": "this computer that we know of, but one of\nthe problems that can be solved is a math",
+    "start": 95.77,
+    "duration": 4.0
+  },
+  {
+    "text": "problem that we believe to be hard, which\nis to say factoring really large numbers.",
+    "start": 99.77,
+    "duration": 5.45
+  },
+  {
+    "text": "And because we believe that problem to be\nreally hard, we have used that as the lock",
+    "start": 105.22,
+    "duration": 5.399
+  },
+  {
+    "text": "in all of the computer security that we use\nin the world today, almost all of it.",
+    "start": 110.619,
+    "duration": 4.89
+  },
+  {
+    "text": "And if that lock can be broken, because the\nquantum computer makes easy what everyone",
+    "start": 115.509,
+    "duration": 5.39
+  },
+  {
+    "text": "else believe to be incredibly hard, the person\nwith the quantum computer could break most",
+    "start": 120.899,
+    "duration": 6.34
+  },
+  {
+    "text": "of the cryptography, all the traffic you see\ngoing across the web, a lot of the financial",
+    "start": 127.239,
+    "duration": 4.321
+  },
+  {
+    "text": "transaction traffic, a lot of the authentication,\nall of that stuff becomes vulnerable to a",
+    "start": 131.56,
+    "duration": 5.47
+  },
+  {
+    "text": "computer that's done that.",
+    "start": 137.03,
+    "duration": 1.16
+  },
+  {
+    "text": "Now, Edward Snowden has told us that the NSA\ndoes indeed have a research project to build",
+    "start": 138.19,
+    "duration": 4.54
+  },
+  {
+    "text": "this, and I actually feel good about that\nbecause Snowden didn't tell us they already",
+    "start": 142.73,
+    "duration": 3.72
+  },
+  {
+    "text": "had one.",
+    "start": 146.45,
+    "duration": 1.0
+  },
+  {
+    "text": "Now, the way you will know that someone has\na quantum computer like this if it's made",
+    "start": 147.45,
+    "duration": 4.56
+  },
+  {
+    "text": "public, is you look out your window on Wall\nStreet and if you see bankers and stock people",
+    "start": 152.01,
+    "duration": 6.04
+  },
+  {
+    "text": "running screaming in terror waving their arms\nyou know that someone has developed a quantum",
+    "start": 158.05,
+    "duration": 4.4
+  },
+  {
+    "text": "computer.",
+    "start": 162.45,
+    "duration": 1.0
+  },
+  {
+    "text": "There are a few other things that could cause\nthat.",
+    "start": 163.45,
+    "duration": 1.65
+  },
+  {
+    "text": "By the way many people are skeptical that\nit ever will happen.",
+    "start": 165.1,
+    "duration": 2.4
+  },
+  {
+    "text": "There's some people who think something will\nalways stand in the way of this being true.",
+    "start": 167.5,
+    "duration": 4.26
+  },
+  {
+    "text": "But other people are very serious about it.",
+    "start": 171.76,
+    "duration": 3.19
+  },
+  {
+    "text": "Now, there's a second type of device, which\nis also being called a quantum computer made",
+    "start": 174.95,
+    "duration": 4.37
+  },
+  {
+    "text": "by a company up in Vancouver called D-Wave.",
+    "start": 179.32,
+    "duration": 2.86
+  },
+  {
+    "text": "The D-Wave Computer solves other specialty\nproblems and not the one that affects cryptography.",
+    "start": 182.18,
+    "duration": 5.35
+  },
+  {
+    "text": "It's, for example, good at solving a fairly\nhard problem.",
+    "start": 187.53,
+    "duration": 5.82
+  },
+  {
+    "text": "Imagine you're out in a mountain range and\nyou're in a valley somewhere in a mountain",
+    "start": 193.35,
+    "duration": 3.751
+  },
+  {
+    "text": "range and you're asked what's the lowest of\nvalley in this mountain range?",
+    "start": 197.101,
+    "duration": 3.269
+  },
+  {
+    "text": "Now, if you had to solve that yourself you'd\nhave to like climb to the top of all the mountains",
+    "start": 200.37,
+    "duration": 4.07
+  },
+  {
+    "text": "and look down because in your valley it's\neasy to find the bottom of your valley, but",
+    "start": 204.44,
+    "duration": 2.9
+  },
+  {
+    "text": "you don't know if there's another valley over\nnext to you that's lower or not.",
+    "start": 207.34,
+    "duration": 4.04
+  },
+  {
+    "text": "And their quantum computer they claim is able\nto do things like solve that instantly, find",
+    "start": 211.38,
+    "duration": 4.92
+  },
+  {
+    "text": "that bottom of the valley.",
+    "start": 216.3,
+    "duration": 1.0
+  },
+  {
+    "text": "Why is that useful?",
+    "start": 217.3,
+    "duration": 1.11
+  },
+  {
+    "text": "Because that's a problem that we call optimization,\nhaving a really complex system and trying",
+    "start": 218.41,
+    "duration": 4.83
+  },
+  {
+    "text": "to find the most efficient, the lowest energy,\nthe lowest cost way to deal with it.",
+    "start": 223.24,
+    "duration": 5.85
+  },
+  {
+    "text": "And so that type of quantum computer could\nhelp us a lot at solving big business problems,",
+    "start": 229.09,
+    "duration": 5.46
+  },
+  {
+    "text": "big data problems.",
+    "start": 234.55,
+    "duration": 2.05
+  },
+  {
+    "text": "That's actually very interesting too and they've\nactually sold a couple of these computers",
+    "start": 236.6,
+    "duration": 3.94
+  },
+  {
+    "text": "to have people who want to experiment on making\nthat happen.",
+    "start": 240.54,
+    "duration": 3.47
+  },
+  {
+    "text": "So two different things people call quantum\ncomputers.",
+    "start": 244.01,
+    "duration": 3.04
+  },
+  {
+    "text": "Both capable of solving some very specific\nproblems, which could have big consequences",
+    "start": 247.05,
+    "duration": 4.71
+  },
+  {
+    "text": "for our society, but not for example something\nthat makes your spreadsheet go a lot faster.",
+    "start": 251.76,
+    "duration": 3.869
+  }
+]

@@ -1,0 +1,1042 @@
+[
+  {
+    "text": "So I've been an AI researcher\nfor over a decade.",
+    "start": 4.292,
+    "duration": 3.504
+  },
+  {
+    "text": "And a couple of months ago,\nI got the weirdest email of my career.",
+    "start": 7.796,
+    "duration": 3.503
+  },
+  {
+    "text": "A random stranger wrote to me",
+    "start": 11.925,
+    "duration": 1.668
+  },
+  {
+    "text": "saying that my work in AI\nis going to end humanity.",
+    "start": 13.635,
+    "duration": 3.42
+  },
+  {
+    "text": "Now I get it,  AI, it's so hot right now.",
+    "start": 18.598,
+    "duration": 3.754
+  },
+  {
+    "text": "(Laughter)",
+    "start": 22.352,
+    "duration": 1.627
+  },
+  {
+    "text": "It's in the headlines\npretty much every day,",
+    "start": 24.02,
+    "duration": 2.086
+  },
+  {
+    "text": "sometimes because of really cool things",
+    "start": 26.106,
+    "duration": 1.918
+  },
+  {
+    "text": "like discovering new\nmolecules for medicine",
+    "start": 28.066,
+    "duration": 2.169
+  },
+  {
+    "text": "or that dope Pope\nin the white puffer coat.",
+    "start": 30.235,
+    "duration": 2.252
+  },
+  {
+    "text": "But other times the headlines\nhave been really dark,",
+    "start": 33.446,
+    "duration": 2.461
+  },
+  {
+    "text": "like that chatbot telling that guy\nthat he should divorce his wife",
+    "start": 35.907,
+    "duration": 3.671
+  },
+  {
+    "text": "or that AI meal planner app\nproposing a crowd pleasing recipe",
+    "start": 39.619,
+    "duration": 4.088
+  },
+  {
+    "text": "featuring chlorine gas.",
+    "start": 43.707,
+    "duration": 2.002
+  },
+  {
+    "text": "And in the background,",
+    "start": 46.376,
+    "duration": 1.418
+  },
+  {
+    "text": "we've heard a lot of talk\nabout doomsday scenarios,",
+    "start": 47.836,
+    "duration": 2.419
+  },
+  {
+    "text": "existential risk and the singularity,",
+    "start": 50.255,
+    "duration": 1.918
+  },
+  {
+    "text": "with letters being written\nand events being organized",
+    "start": 52.215,
+    "duration": 2.503
+  },
+  {
+    "text": "to make sure that doesn't happen.",
+    "start": 54.718,
+    "duration": 2.002
+  },
+  {
+    "text": "Now I'm a researcher who studies\nAI's impacts on society,",
+    "start": 57.637,
+    "duration": 4.63
+  },
+  {
+    "text": "and I don't know what's going\nto happen in 10 or 20 years,",
+    "start": 62.267,
+    "duration": 2.836
+  },
+  {
+    "text": "and nobody really does.",
+    "start": 65.145,
+    "duration": 2.461
+  },
+  {
+    "text": "But what I do know is that there's some\npretty nasty things going on right now,",
+    "start": 67.981,
+    "duration": 4.546
+  },
+  {
+    "text": "because AI doesn't exist in a vacuum.",
+    "start": 72.527,
+    "duration": 2.878
+  },
+  {
+    "text": "It is part of society, and it has impacts\non people and the planet.",
+    "start": 75.447,
+    "duration": 3.92
+  },
+  {
+    "text": "AI models can contribute\nto climate change.",
+    "start": 80.16,
+    "duration": 2.502
+  },
+  {
+    "text": "Their training data uses art\nand books created by artists",
+    "start": 82.704,
+    "duration": 3.462
+  },
+  {
+    "text": "and authors without their consent.",
+    "start": 86.207,
+    "duration": 1.71
+  },
+  {
+    "text": "And its deployment can discriminate\nagainst entire communities.",
+    "start": 87.959,
+    "duration": 3.837
+  },
+  {
+    "text": "But we need to start tracking its impacts.",
+    "start": 92.797,
+    "duration": 2.127
+  },
+  {
+    "text": "We need to start being transparent\nand disclosing them and creating tools",
+    "start": 94.966,
+    "duration": 3.587
+  },
+  {
+    "text": "so that people understand AI better,",
+    "start": 98.595,
+    "duration": 2.419
+  },
+  {
+    "text": "so that hopefully future\ngenerations of AI models",
+    "start": 101.056,
+    "duration": 2.335
+  },
+  {
+    "text": "are going to be more\ntrustworthy, sustainable,",
+    "start": 103.433,
+    "duration": 2.836
+  },
+  {
+    "text": "maybe less likely to kill us,\nif that's what you're into.",
+    "start": 106.269,
+    "duration": 2.836
+  },
+  {
+    "text": "But let's start with sustainability,",
+    "start": 110.148,
+    "duration": 1.752
+  },
+  {
+    "text": "because that cloud that AI models live on\nis actually made out of metal, plastic,",
+    "start": 111.9,
+    "duration": 5.756
+  },
+  {
+    "text": "and powered by vast amounts of energy.",
+    "start": 117.656,
+    "duration": 2.46
+  },
+  {
+    "text": "And each time you query an AI model,\nit comes with a cost to the planet.",
+    "start": 120.116,
+    "duration": 4.463
+  },
+  {
+    "text": "Last year, I was part\nof the BigScience initiative,",
+    "start": 125.789,
+    "duration": 3.044
+  },
+  {
+    "text": "which brought together\na thousand researchers",
+    "start": 128.833,
+    "duration": 2.127
+  },
+  {
+    "text": "from all over the world to create Bloom,",
+    "start": 130.96,
+    "duration": 2.503
+  },
+  {
+    "text": "the first open large language\nmodel, like ChatGPT,",
+    "start": 133.505,
+    "duration": 4.337
+  },
+  {
+    "text": "but with an emphasis on ethics,\ntransparency and consent.",
+    "start": 137.842,
+    "duration": 3.546
+  },
+  {
+    "text": "And the study I led that looked\nat Bloom's environmental impacts",
+    "start": 141.721,
+    "duration": 3.253
+  },
+  {
+    "text": "found that just training it\nused as much energy",
+    "start": 145.016,
+    "duration": 3.253
+  },
+  {
+    "text": "as 30 homes in a whole year",
+    "start": 148.311,
+    "duration": 2.211
+  },
+  {
+    "text": "and emitted 25 tons of carbon dioxide,",
+    "start": 150.563,
+    "duration": 2.419
+  },
+  {
+    "text": "which is like driving your car\nfive times around the planet",
+    "start": 153.024,
+    "duration": 3.253
+  },
+  {
+    "text": "just so somebody can use this model\nto tell a knock-knock joke.",
+    "start": 156.319,
+    "duration": 3.17
+  },
+  {
+    "text": "And this might not seem like a lot,",
+    "start": 159.489,
+    "duration": 2.169
+  },
+  {
+    "text": "but other similar large language models,",
+    "start": 161.7,
+    "duration": 2.46
+  },
+  {
+    "text": "like GPT-3,",
+    "start": 164.202,
+    "duration": 1.126
+  },
+  {
+    "text": "emit 20 times more carbon.",
+    "start": 165.37,
+    "duration": 2.544
+  },
+  {
+    "text": "But the thing is, tech companies\naren't measuring this stuff.",
+    "start": 167.956,
+    "duration": 2.878
+  },
+  {
+    "text": "They're not disclosing it.",
+    "start": 170.875,
+    "duration": 1.252
+  },
+  {
+    "text": "And so this is probably\nonly the tip of the iceberg,",
+    "start": 172.168,
+    "duration": 2.461
+  },
+  {
+    "text": "even if it is a melting one.",
+    "start": 174.629,
+    "duration": 1.418
+  },
+  {
+    "text": "And in recent years we've seen\nAI models balloon in size",
+    "start": 176.798,
+    "duration": 3.629
+  },
+  {
+    "text": "because the current trend in AI\nis \"bigger is better.\"",
+    "start": 180.468,
+    "duration": 3.462
+  },
+  {
+    "text": "But please don't get me started\non why that's the case.",
+    "start": 184.305,
+    "duration": 2.795
+  },
+  {
+    "text": "In any case, we've seen large\nlanguage models in particular",
+    "start": 187.1,
+    "duration": 3.003
+  },
+  {
+    "text": "grow 2,000 times in size\nover the last five years.",
+    "start": 190.103,
+    "duration": 3.211
+  },
+  {
+    "text": "And of course, their environmental\ncosts are rising as well.",
+    "start": 193.314,
+    "duration": 3.045
+  },
+  {
+    "text": "The most recent work I led,\nfound that switching out a smaller,",
+    "start": 196.401,
+    "duration": 3.795
+  },
+  {
+    "text": "more efficient model\nfor a larger language model",
+    "start": 200.238,
+    "duration": 3.337
+  },
+  {
+    "text": "emits 14 times more carbon\nfor the same task.",
+    "start": 203.616,
+    "duration": 3.754
+  },
+  {
+    "text": "Like telling that knock-knock joke.",
+    "start": 207.412,
+    "duration": 1.877
+  },
+  {
+    "text": "And as we're putting in these models\ninto cell phones and search engines",
+    "start": 209.289,
+    "duration": 3.462
+  },
+  {
+    "text": "and smart fridges and speakers,",
+    "start": 212.792,
+    "duration": 2.836
+  },
+  {
+    "text": "the environmental costs\nare really piling up quickly.",
+    "start": 215.628,
+    "duration": 2.628
+  },
+  {
+    "text": "So instead of focusing on some\nfuture existential risks,",
+    "start": 218.84,
+    "duration": 3.754
+  },
+  {
+    "text": "let's talk about current tangible impacts",
+    "start": 222.635,
+    "duration": 2.753
+  },
+  {
+    "text": "and tools we can create to measure\nand mitigate these impacts.",
+    "start": 225.388,
+    "duration": 3.629
+  },
+  {
+    "text": "I helped create CodeCarbon,",
+    "start": 229.893,
+    "duration": 1.668
+  },
+  {
+    "text": "a tool that runs in parallel\nto AI training code",
+    "start": 231.603,
+    "duration": 2.961
+  },
+  {
+    "text": "that estimates the amount\nof energy it consumes",
+    "start": 234.564,
+    "duration": 2.211
+  },
+  {
+    "text": "and the amount of carbon it emits.",
+    "start": 236.775,
+    "duration": 1.668
+  },
+  {
+    "text": "And using a tool like this can help us\nmake informed choices,",
+    "start": 238.485,
+    "duration": 2.877
+  },
+  {
+    "text": "like choosing one model over the other\nbecause it's more sustainable,",
+    "start": 241.404,
+    "duration": 3.253
+  },
+  {
+    "text": "or deploying AI models\non renewable energy,",
+    "start": 244.657,
+    "duration": 2.92
+  },
+  {
+    "text": "which can drastically reduce\ntheir emissions.",
+    "start": 247.619,
+    "duration": 2.544
+  },
+  {
+    "text": "But let's talk about other things",
+    "start": 250.163,
+    "duration": 2.085
+  },
+  {
+    "text": "because there's other impacts of AI\napart from sustainability.",
+    "start": 252.29,
+    "duration": 2.961
+  },
+  {
+    "text": "For example, it's been really\nhard for artists and authors",
+    "start": 255.627,
+    "duration": 3.128
+  },
+  {
+    "text": "to prove that their life's work\nhas been used for training AI models",
+    "start": 258.797,
+    "duration": 4.212
+  },
+  {
+    "text": "without their consent.",
+    "start": 263.051,
+    "duration": 1.209
+  },
+  {
+    "text": "And if you want to sue someone,\nyou tend to need proof, right?",
+    "start": 264.302,
+    "duration": 3.17
+  },
+  {
+    "text": "So Spawning.ai, an organization\nthat was founded by artists,",
+    "start": 267.806,
+    "duration": 3.92
+  },
+  {
+    "text": "created this really cool tool\ncalled “Have I Been Trained?”",
+    "start": 271.726,
+    "duration": 3.337
+  },
+  {
+    "text": "And it lets you search\nthese massive data sets",
+    "start": 275.104,
+    "duration": 2.461
+  },
+  {
+    "text": "to see what they have on you.",
+    "start": 277.607,
+    "duration": 2.085
+  },
+  {
+    "text": "Now, I admit it, I was curious.",
+    "start": 279.734,
+    "duration": 1.668
+  },
+  {
+    "text": "I searched LAION-5B,",
+    "start": 281.444,
+    "duration": 1.627
+  },
+  {
+    "text": "which is this huge data set\nof images and text,",
+    "start": 283.112,
+    "duration": 2.461
+  },
+  {
+    "text": "to see if any images of me were in there.",
+    "start": 285.615,
+    "duration": 2.711
+  },
+  {
+    "text": "Now those two first images,",
+    "start": 289.285,
+    "duration": 1.585
+  },
+  {
+    "text": "that's me from events I've spoken at.",
+    "start": 290.87,
+    "duration": 2.169
+  },
+  {
+    "text": "But the rest of the images,\nnone of those are me.",
+    "start": 293.081,
+    "duration": 2.753
+  },
+  {
+    "text": "They're probably of other\nwomen named Sasha",
+    "start": 295.875,
+    "duration": 2.002
+  },
+  {
+    "text": "who put photographs of\nthemselves up on the internet.",
+    "start": 297.919,
+    "duration": 2.628
+  },
+  {
+    "text": "And this can probably explain why,",
+    "start": 301.047,
+    "duration": 1.627
+  },
+  {
+    "text": "when I query an image generation model",
+    "start": 302.715,
+    "duration": 1.836
+  },
+  {
+    "text": "to generate a photograph\nof a woman named Sasha,",
+    "start": 304.551,
+    "duration": 2.294
+  },
+  {
+    "text": "more often than not\nI get images of bikini models.",
+    "start": 306.886,
+    "duration": 2.753
+  },
+  {
+    "text": "Sometimes they have two arms,",
+    "start": 309.681,
+    "duration": 1.626
+  },
+  {
+    "text": "sometimes they have three arms,",
+    "start": 311.349,
+    "duration": 2.294
+  },
+  {
+    "text": "but they rarely have any clothes on.",
+    "start": 313.685,
+    "duration": 2.043
+  },
+  {
+    "text": "And while it can be interesting\nfor people like you and me",
+    "start": 316.563,
+    "duration": 2.794
+  },
+  {
+    "text": "to search these data sets,",
+    "start": 319.357,
+    "duration": 2.127
+  },
+  {
+    "text": "for artists like Karla Ortiz,",
+    "start": 321.526,
+    "duration": 2.044
+  },
+  {
+    "text": "this provides crucial evidence\nthat her life's work, her artwork,",
+    "start": 323.57,
+    "duration": 3.753
+  },
+  {
+    "text": "was used for training AI models\nwithout her consent,",
+    "start": 327.365,
+    "duration": 2.961
+  },
+  {
+    "text": "and she and two artists\nused this as evidence",
+    "start": 330.326,
+    "duration": 2.336
+  },
+  {
+    "text": "to file a class action lawsuit\nagainst AI companies",
+    "start": 332.704,
+    "duration": 2.794
+  },
+  {
+    "text": "for copyright infringement.",
+    "start": 335.54,
+    "duration": 1.96
+  },
+  {
+    "text": "And most recently --",
+    "start": 337.542,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 338.71,
+    "duration": 3.378
+  },
+  {
+    "text": "And most recently Spawning.ai\npartnered up with Hugging Face,",
+    "start": 342.13,
+    "duration": 3.044
+  },
+  {
+    "text": "the company where I work at,",
+    "start": 345.216,
+    "duration": 1.585
+  },
+  {
+    "text": "to create opt-in and opt-out mechanisms\nfor creating these data sets.",
+    "start": 346.801,
+    "duration": 4.922
+  },
+  {
+    "text": "Because artwork created by humans\nshouldn’t be an all-you-can-eat buffet",
+    "start": 352.098,
+    "duration": 3.587
+  },
+  {
+    "text": "for training AI language models.",
+    "start": 355.727,
+    "duration": 1.793
+  },
+  {
+    "text": "(Applause)",
+    "start": 358.313,
+    "duration": 4.254
+  },
+  {
+    "text": "The very last thing I want\nto talk about is bias.",
+    "start": 362.567,
+    "duration": 2.336
+  },
+  {
+    "text": "You probably hear about this a lot.",
+    "start": 364.944,
+    "duration": 1.919
+  },
+  {
+    "text": "Formally speaking, it's when AI models\nencode patterns and beliefs",
+    "start": 367.196,
+    "duration": 3.713
+  },
+  {
+    "text": "that can represent stereotypes\nor racism and sexism.",
+    "start": 370.95,
+    "duration": 3.128
+  },
+  {
+    "text": "One of my heroes, Dr. Joy Buolamwini,\nexperienced this firsthand",
+    "start": 374.412,
+    "duration": 3.212
+  },
+  {
+    "text": "when she realized that AI systems\nwouldn't even detect her face",
+    "start": 377.665,
+    "duration": 3.045
+  },
+  {
+    "text": "unless she was wearing\na white-colored mask.",
+    "start": 380.752,
+    "duration": 2.169
+  },
+  {
+    "text": "Digging deeper, she found\nthat common facial recognition systems",
+    "start": 382.962,
+    "duration": 3.754
+  },
+  {
+    "text": "were vastly worse for women of color\ncompared to white men.",
+    "start": 386.758,
+    "duration": 3.253
+  },
+  {
+    "text": "And when biased models like this\nare deployed in law enforcement settings,",
+    "start": 390.428,
+    "duration": 5.297
+  },
+  {
+    "text": "this can result in false accusations,\neven wrongful imprisonment,",
+    "start": 395.767,
+    "duration": 4.296
+  },
+  {
+    "text": "which we've seen happen\nto multiple people in recent months.",
+    "start": 400.063,
+    "duration": 3.92
+  },
+  {
+    "text": "For example, Porcha Woodruff\nwas wrongfully accused of carjacking",
+    "start": 404.025,
+    "duration": 3.086
+  },
+  {
+    "text": "at eight months pregnant",
+    "start": 407.111,
+    "duration": 1.252
+  },
+  {
+    "text": "because an AI system\nwrongfully identified her.",
+    "start": 408.363,
+    "duration": 2.961
+  },
+  {
+    "text": "But sadly, these systems are black boxes,",
+    "start": 412.325,
+    "duration": 2.002
+  },
+  {
+    "text": "and even their creators can't say exactly\nwhy they work the way they do.",
+    "start": 414.369,
+    "duration": 5.964
+  },
+  {
+    "text": "And for example, for image\ngeneration systems,",
+    "start": 420.917,
+    "duration": 3.462
+  },
+  {
+    "text": "if they're used in contexts\nlike generating a forensic sketch",
+    "start": 424.379,
+    "duration": 4.129
+  },
+  {
+    "text": "based on a description of a perpetrator,",
+    "start": 428.549,
+    "duration": 2.711
+  },
+  {
+    "text": "they take all those biases\nand they spit them back out",
+    "start": 431.26,
+    "duration": 3.587
+  },
+  {
+    "text": "for terms like dangerous criminal,\nterrorists or gang member,",
+    "start": 434.889,
+    "duration": 3.462
+  },
+  {
+    "text": "which of course is super dangerous",
+    "start": 438.393,
+    "duration": 2.168
+  },
+  {
+    "text": "when these tools are deployed in society.",
+    "start": 440.603,
+    "duration": 4.421
+  },
+  {
+    "text": "And so in order to understand\nthese tools better,",
+    "start": 445.566,
+    "duration": 2.294
+  },
+  {
+    "text": "I created this tool called\nthe Stable Bias Explorer,",
+    "start": 447.902,
+    "duration": 3.212
+  },
+  {
+    "text": "which lets you explore the bias\nof image generation models",
+    "start": 451.155,
+    "duration": 3.379
+  },
+  {
+    "text": "through the lens of professions.",
+    "start": 454.575,
+    "duration": 1.669
+  },
+  {
+    "text": "So try to picture\na scientist in your mind.",
+    "start": 457.37,
+    "duration": 3.045
+  },
+  {
+    "text": "Don't look at me.",
+    "start": 460.456,
+    "duration": 1.168
+  },
+  {
+    "text": "What do you see?",
+    "start": 461.666,
+    "duration": 1.335
+  },
+  {
+    "text": "A lot of the same thing, right?",
+    "start": 463.835,
+    "duration": 1.501
+  },
+  {
+    "text": "Men in glasses and lab coats.",
+    "start": 465.378,
+    "duration": 2.377
+  },
+  {
+    "text": "And none of them look like me.",
+    "start": 467.797,
+    "duration": 1.71
+  },
+  {
+    "text": "And the thing is,",
+    "start": 470.174,
+    "duration": 1.46
+  },
+  {
+    "text": "is that we looked at all these\ndifferent image generation models",
+    "start": 471.676,
+    "duration": 3.253
+  },
+  {
+    "text": "and found a lot of the same thing:",
+    "start": 474.929,
+    "duration": 1.627
+  },
+  {
+    "text": "significant representation\nof whiteness and masculinity",
+    "start": 476.597,
+    "duration": 2.586
+  },
+  {
+    "text": "across all 150 professions\nthat we looked at,",
+    "start": 479.225,
+    "duration": 2.127
+  },
+  {
+    "text": "even if compared to the real world,",
+    "start": 481.352,
+    "duration": 1.794
+  },
+  {
+    "text": "the US Labor Bureau of Statistics.",
+    "start": 483.187,
+    "duration": 1.836
+  },
+  {
+    "text": "These models show lawyers as men,",
+    "start": 485.023,
+    "duration": 3.044
+  },
+  {
+    "text": "and CEOs as men,\nalmost 100 percent of the time,",
+    "start": 488.109,
+    "duration": 3.462
+  },
+  {
+    "text": "even though we all know\nnot all of them are white and male.",
+    "start": 491.571,
+    "duration": 3.17
+  },
+  {
+    "text": "And sadly, my tool hasn't been used\nto write legislation yet.",
+    "start": 494.782,
+    "duration": 4.38
+  },
+  {
+    "text": "But I recently presented it\nat a UN event about gender bias",
+    "start": 499.203,
+    "duration": 3.963
+  },
+  {
+    "text": "as an example of how we can make tools\nfor people from all walks of life,",
+    "start": 503.166,
+    "duration": 3.879
+  },
+  {
+    "text": "even those who don't know how to code,",
+    "start": 507.086,
+    "duration": 2.252
+  },
+  {
+    "text": "to engage with and better understand AI\nbecause we use professions,",
+    "start": 509.38,
+    "duration": 3.253
+  },
+  {
+    "text": "but you can use any terms\nthat are of interest to you.",
+    "start": 512.633,
+    "duration": 3.087
+  },
+  {
+    "text": "And as these models are being deployed,",
+    "start": 516.596,
+    "duration": 2.752
+  },
+  {
+    "text": "are being woven into the very\nfabric of our societies,",
+    "start": 519.39,
+    "duration": 3.128
+  },
+  {
+    "text": "our cell phones, our social media feeds,",
+    "start": 522.518,
+    "duration": 2.044
+  },
+  {
+    "text": "even our justice systems\nand our economies have AI in them.",
+    "start": 524.604,
+    "duration": 3.211
+  },
+  {
+    "text": "And it's really important\nthat AI stays accessible",
+    "start": 527.815,
+    "duration": 3.879
+  },
+  {
+    "text": "so that we know both how it works\nand when it doesn't work.",
+    "start": 531.736,
+    "duration": 4.713
+  },
+  {
+    "text": "And there's no single solution\nfor really complex things like bias",
+    "start": 536.908,
+    "duration": 4.296
+  },
+  {
+    "text": "or copyright or climate change.",
+    "start": 541.245,
+    "duration": 2.419
+  },
+  {
+    "text": "But by creating tools\nto measure AI's impact,",
+    "start": 543.664,
+    "duration": 2.711
+  },
+  {
+    "text": "we can start getting an idea\nof how bad they are",
+    "start": 546.375,
+    "duration": 3.337
+  },
+  {
+    "text": "and start addressing them as we go.",
+    "start": 549.754,
+    "duration": 2.502
+  },
+  {
+    "text": "Start creating guardrails\nto protect society and the planet.",
+    "start": 552.256,
+    "duration": 3.337
+  },
+  {
+    "text": "And once we have this information,",
+    "start": 556.177,
+    "duration": 2.336
+  },
+  {
+    "text": "companies can use it in order to say,",
+    "start": 558.513,
+    "duration": 1.835
+  },
+  {
+    "text": "OK, we're going to choose this model\nbecause it's more sustainable,",
+    "start": 560.389,
+    "duration": 3.17
+  },
+  {
+    "text": "this model because it respects copyright.",
+    "start": 563.601,
+    "duration": 2.044
+  },
+  {
+    "text": "Legislators who really need\ninformation to write laws,",
+    "start": 565.686,
+    "duration": 3.087
+  },
+  {
+    "text": "can use these tools to develop\nnew regulation mechanisms",
+    "start": 568.773,
+    "duration": 3.462
+  },
+  {
+    "text": "or governance for AI\nas it gets deployed into society.",
+    "start": 572.276,
+    "duration": 3.796
+  },
+  {
+    "text": "And users like you and me\ncan use this information",
+    "start": 576.114,
+    "duration": 2.377
+  },
+  {
+    "text": "to choose AI models that we can trust,",
+    "start": 578.491,
+    "duration": 3.337
+  },
+  {
+    "text": "not to misrepresent us\nand not to misuse our data.",
+    "start": 581.869,
+    "duration": 2.92
+  },
+  {
+    "text": "But what did I reply to that email",
+    "start": 585.79,
+    "duration": 1.918
+  },
+  {
+    "text": "that said that my work\nis going to destroy humanity?",
+    "start": 587.75,
+    "duration": 2.961
+  },
+  {
+    "text": "I said that focusing\non AI's future existential risks",
+    "start": 590.711,
+    "duration": 4.046
+  },
+  {
+    "text": "is a distraction from its current,",
+    "start": 594.799,
+    "duration": 2.044
+  },
+  {
+    "text": "very tangible impacts",
+    "start": 596.843,
+    "duration": 1.835
+  },
+  {
+    "text": "and the work we should be doing\nright now, or even yesterday,",
+    "start": 598.719,
+    "duration": 4.004
+  },
+  {
+    "text": "for reducing these impacts.",
+    "start": 602.723,
+    "duration": 1.919
+  },
+  {
+    "text": "Because yes, AI is moving quickly,\nbut it's not a done deal.",
+    "start": 604.684,
+    "duration": 4.045
+  },
+  {
+    "text": "We're building the road as we walk it,",
+    "start": 608.771,
+    "duration": 2.503
+  },
+  {
+    "text": "and we can collectively decide\nwhat direction we want to go in together.",
+    "start": 611.274,
+    "duration": 3.795
+  },
+  {
+    "text": "Thank you.",
+    "start": 615.069,
+    "duration": 1.21
+  },
+  {
+    "text": "(Applause)",
+    "start": 616.279,
+    "duration": 2.002
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "text": "- In AD 79, Mount Vesuvius erupted in Italy, and \nthat eruption destroyed multiple ancient Roman  ",
+    "start": 1.413,
+    "duration": 8.907
+  },
+  {
+    "text": "towns, of which the most famous is Pompeii, \nand a close second is probably Herculaneum.  ",
+    "start": 10.32,
+    "duration": 6.28
+  },
+  {
+    "text": "Herculean was a beach side resort town. The villa \nnext to Herculean was owned by Calpurnius Piso,  ",
+    "start": 16.6,
+    "duration": 6.16
+  },
+  {
+    "text": "who was the father-in-law of Julius Caesar. It was \nfull of this ancient library. We know the ancient  ",
+    "start": 22.76,
+    "duration": 5.28
+  },
+  {
+    "text": "Romans wrote a lot. They didn't have the printing \npress, but they had industrialized scribes systems  ",
+    "start": 28.04,
+    "duration": 4.76
+  },
+  {
+    "text": "set up. They produced lots and lots of books, and \nless than 1% of those books have survived to the  ",
+    "start": 32.8,
+    "duration": 4.0
+  },
+  {
+    "text": "present day. Herculaneum is the only ancient \nlibrary from antiquity that has survived to  ",
+    "start": 36.8,
+    "duration": 4.64
+  },
+  {
+    "text": "the present day, but when we say survived, it is \nnot in good shape. These scrolls were buried by  ",
+    "start": 41.44,
+    "duration": 6.28
+  },
+  {
+    "text": "superheated mud that crushed them and carbonized \nthem and buried them, and then 1,700 years later,  ",
+    "start": 47.72,
+    "duration": 6.32
+  },
+  {
+    "text": "they were dug up and mistreated, and in many \ncases we've just got these little fragments left,  ",
+    "start": 54.04,
+    "duration": 4.12
+  },
+  {
+    "text": "but some hundreds of them are still in the \nunrolled state. They've been left that way for  ",
+    "start": 58.16,
+    "duration": 4.2
+  },
+  {
+    "text": "posterity because philologists knew in the future, \nhumanity would develop technology that might make  ",
+    "start": 62.36,
+    "duration": 4.36
+  },
+  {
+    "text": "it possible, and we have. Maybe the AIs can help \nus. What it really comes down to is how much time  ",
+    "start": 66.72,
+    "duration": 17.32
+  },
+  {
+    "text": "do you spend thinking about the Roman Empire? When \nI was in grad school, I knew about people working  ",
+    "start": 84.04,
+    "duration": 4.28
+  },
+  {
+    "text": "on this problem. I studied Latin for seven years, \nso I spent quite a lot of time thinking about  ",
+    "start": 88.32,
+    "duration": 3.92
+  },
+  {
+    "text": "the Roman Empire. There's a team led by Brent \nSeales, at the University of Kentucky, which  ",
+    "start": 92.24,
+    "duration": 4.92
+  },
+  {
+    "text": "has been working on this problem for 20 years. Nat \nFriedman, who's a friend of mine, became aware of  ",
+    "start": 97.16,
+    "duration": 5.16
+  },
+  {
+    "text": "this problem during COVID. They basically decided \nthat they were gonna run a competition to try and  ",
+    "start": 102.32,
+    "duration": 3.8
+  },
+  {
+    "text": "inspire people to come out and solve this problem \nusing software. The scrolls were flown by private  ",
+    "start": 106.12,
+    "duration": 5.08
+  },
+  {
+    "text": "jet from Naples, in Italy, to the UK, scanned at \neight micron resolution. So we have these terabyte  ",
+    "start": 111.2,
+    "duration": 6.68
+  },
+  {
+    "text": "sized files of data, basically like a CT scan, \nlike a medical scan of these scrolls, and you  ",
+    "start": 117.88,
+    "duration": 5.44
+  },
+  {
+    "text": "can look at them and you're like, \"Okay, that's a \nreal mess, I can't see any text.\" The competition  ",
+    "start": 123.32,
+    "duration": 3.76
+  },
+  {
+    "text": "kind of split in two directions. One half was, can \nwe use software to virtually unroll these scrolls,  ",
+    "start": 127.08,
+    "duration": 6.16
+  },
+  {
+    "text": "so that instead of just being this crunched up \nmess, like a roll of toilet paper that's been set  ",
+    "start": 133.24,
+    "duration": 3.12
+  },
+  {
+    "text": "on fire, it can be unrolled and we can actually \nsee the surface? And then the second half was to  ",
+    "start": 136.36,
+    "duration": 5.28
+  },
+  {
+    "text": "try and detect ink on that surface. I said, \"Look, \nI'll just take a crack at it Casey style.\" I like  ",
+    "start": 141.64,
+    "duration": 7.08
+  },
+  {
+    "text": "to think that I have a fairly unique approach to \nsolving problems, and sometimes it's just doing  ",
+    "start": 148.72,
+    "duration": 3.52
+  },
+  {
+    "text": "the really obvious thing, and the really obvious \nthing that no one had done apparently with this  ",
+    "start": 152.24,
+    "duration": 3.76
+  },
+  {
+    "text": "dataset was just stare at it until they understood \nwhat they were looking at. It's the same thing  ",
+    "start": 156.0,
+    "duration": 3.96
+  },
+  {
+    "text": "if you're learning to read a medical X-ray, you \nstare at, you're like, \"The white stuff is bones,  ",
+    "start": 159.96,
+    "duration": 3.6
+  },
+  {
+    "text": "I guess, but what else am I looking at?\" If \nyou're a trained technician, you can learn  ",
+    "start": 163.56,
+    "duration": 3.24
+  },
+  {
+    "text": "to recognize cancers and growths, and foreign \nbodies and all kinds of stuff that the amateur  ",
+    "start": 166.8,
+    "duration": 4.12
+  },
+  {
+    "text": "could not see. I stared at this most evenings for \nabout a week, probably in total 20 or 30 hours,  ",
+    "start": 170.92,
+    "duration": 5.44
+  },
+  {
+    "text": "getting a feeling for what sort of textures I was \nseeing. You can see the texture of the papyrus,  ",
+    "start": 176.36,
+    "duration": 5.28
+  },
+  {
+    "text": "which is kind of this crosshatch texture, and it \nhas bright spots in it because the papyrus plant  ",
+    "start": 181.64,
+    "duration": 3.88
+  },
+  {
+    "text": "actually has little mineral concretions that it \nprecipitates. And then there were all kinds of  ",
+    "start": 185.52,
+    "duration": 4.56
+  },
+  {
+    "text": "artifacts caused by the scanning process and the \nunrolling process that had kind of red herrings,  ",
+    "start": 190.08,
+    "duration": 3.6
+  },
+  {
+    "text": "cracks, crumples, all kinds of mess. But there was \none particular texture that I kept seeing that I  ",
+    "start": 193.68,
+    "duration": 6.12
+  },
+  {
+    "text": "couldn't explain away, and it looked like cracked \nmud. And I was like, \"That's interesting. Why  ",
+    "start": 199.8,
+    "duration": 5.2
+  },
+  {
+    "text": "don't I kind of scroll around in this segment,\" \nwhich on my computer was about, you know,  ",
+    "start": 205.0,
+    "duration": 4.96
+  },
+  {
+    "text": "about a few feet across, but in reality is about \nthe size of postage stamp. Eventually I found an  ",
+    "start": 209.96,
+    "duration": 5.2
+  },
+  {
+    "text": "area of this scroll, it had a shape to it that \ndid not appear to be possible by random chance. I  ",
+    "start": 215.16,
+    "duration": 6.56
+  },
+  {
+    "text": "rotated the image and then I very quickly began to \nrecognize ancient Greek letters, which of course  ",
+    "start": 221.72,
+    "duration": 4.68
+  },
+  {
+    "text": "I know from mathematics and physics practice. \nI saw a pi, a lunate sigma, an iota, a couple  ",
+    "start": 226.4,
+    "duration": 7.48
+  },
+  {
+    "text": "of lambdas, a delta. I probably saw 15 letters or \n13 letters of which I identified 7 or 8 correctly.  ",
+    "start": 233.88,
+    "duration": 5.84
+  },
+  {
+    "text": "I kind of let the Slack group know, \"Oh, I've \nseen something here.\" We call it crackle, it's  ",
+    "start": 240.76,
+    "duration": 5.16
+  },
+  {
+    "text": "like pentagons and hexagons and squares, lighter \nshade material with dark spaces in between. And  ",
+    "start": 245.92,
+    "duration": 4.8
+  },
+  {
+    "text": "in some places it seemed to be kind of curling up \nat the edges, like cracked mud does in a lake bed.  ",
+    "start": 250.72,
+    "duration": 4.92
+  },
+  {
+    "text": "They were justifiably skeptical because plenty of \nlunatics get involved in this challenge and send  ",
+    "start": 255.64,
+    "duration": 3.28
+  },
+  {
+    "text": "in all kinds of stuff, and I was just one lunatic \namongst many. I showed that it was solvable,  ",
+    "start": 258.92,
+    "duration": 5.08
+  },
+  {
+    "text": "and then other people went and did a lot more \nwork and actually solved it. Fortunately,  ",
+    "start": 264.0,
+    "duration": 3.16
+  },
+  {
+    "text": "Luke Farritor took me seriously, because he \nwas working at SpaceX and I've done a little  ",
+    "start": 267.16,
+    "duration": 3.16
+  },
+  {
+    "text": "bit of writing about SpaceX on my blog, and so he \nkind of saw me as at least moderately credible.  ",
+    "start": 270.32,
+    "duration": 4.56
+  },
+  {
+    "text": "He took a look at it and we collaborated for a \nbit and he very quickly trained himself to see  ",
+    "start": 274.88,
+    "duration": 3.16
+  },
+  {
+    "text": "the same thing and then made some fabulous \nmasks, and then he was able to train his  ",
+    "start": 278.04,
+    "duration": 3.16
+  },
+  {
+    "text": "AI to see this. And then in the meantime, another \ncontestant, Youssef Nader, who's based in Germany,  ",
+    "start": 281.2,
+    "duration": 4.6
+  },
+  {
+    "text": "pursuing a different technique, but basically \nautomating the computer to do what I'd done  ",
+    "start": 285.8,
+    "duration": 3.2
+  },
+  {
+    "text": "by hand, which was just stare at it until you \nrecognize like four or five or six different  ",
+    "start": 289.0,
+    "duration": 3.2
+  },
+  {
+    "text": "kinds of texture. His computer system started \nto be able to recognize the crackle texture as a  ",
+    "start": 292.2,
+    "duration": 4.08
+  },
+  {
+    "text": "unique feature as well. Then Luke and Youssef got \ntogether with Julian, who was doing the unrolling  ",
+    "start": 296.28,
+    "duration": 4.72
+  },
+  {
+    "text": "process. In about a month and a half or so, \nwe're able to really push this a long, long way.",
+    "start": 301.0,
+    "duration": 4.48
+  },
+  {
+    "text": "- Three students, including a 21-year-old American \nfound the best solution and this is the result.",
+    "start": 305.48,
+    "duration": 6.16
+  },
+  {
+    "text": "- They're able to make clearly visible \nand easily readable about 2,000 letters  ",
+    "start": 311.64,
+    "duration": 4.24
+  },
+  {
+    "text": "of ancient text. ChatGPT can read them \nin some cases, which is pretty crazy.  ",
+    "start": 315.88,
+    "duration": 3.56
+  },
+  {
+    "text": "The papyrologists and the people who can actually \nread ancient Greek got involved and they read it,  ",
+    "start": 319.44,
+    "duration": 3.8
+  },
+  {
+    "text": "produced translations, and then we had the \nannouncement and it was all pretty exciting.",
+    "start": 323.24,
+    "duration": 2.88
+  },
+  {
+    "text": "- 15 columns of text in ancient Greek seen \nfor the first time in almost 2,000 years.",
+    "start": 326.12,
+    "duration": 7.86
+  },
+  {
+    "text": "- The competition is still going, and \nElon Musk put the money in this year,  ",
+    "start": 333.98,
+    "duration": 4.94
+  },
+  {
+    "text": "so if you think that Elon could do with $2 \nmillion less, you should get involved. Once  ",
+    "start": 338.92,
+    "duration": 4.6
+  },
+  {
+    "text": "we can read a scroll for like $10,000 instead \nof a million dollars, which is currently kind  ",
+    "start": 343.52,
+    "duration": 3.28
+  },
+  {
+    "text": "of the going rate in terms of labor time required, \nthen I think it makes sense to scan all the extent  ",
+    "start": 346.8,
+    "duration": 4.64
+  },
+  {
+    "text": "scrolls and then restart excavations, extract, \nconserve, scan, and read all the other scrolls,  ",
+    "start": 351.44,
+    "duration": 5.96
+  },
+  {
+    "text": "and then go on a hunt for other libraries \nthat were destroyed and preserved by the  ",
+    "start": 357.4,
+    "duration": 4.2
+  },
+  {
+    "text": "eruption of Mount Vesuvius, of which we know at \nleast two others. We don't know where they are,  ",
+    "start": 361.6,
+    "duration": 3.84
+  },
+  {
+    "text": "but we know they're somewhere under the mountain, \nso we should go and get those too. And the crazy  ",
+    "start": 365.44,
+    "duration": 3.32
+  },
+  {
+    "text": "thing is, all the surviving ancient text \nfrom ancient Rome, including translation,  ",
+    "start": 368.76,
+    "duration": 3.44
+  },
+  {
+    "text": "you can fit on a modest sized bookcase. In \nthe 1700s, 1800s, there were philologists who,  ",
+    "start": 372.2,
+    "duration": 4.8
+  },
+  {
+    "text": "like me, like you, were desperate, just \ndesperate, for even a word, even a sentence,  ",
+    "start": 377.0,
+    "duration": 3.92
+  },
+  {
+    "text": "even a book of new work from the ancient world. \nIf we are able to decode and read all the scrolls  ",
+    "start": 380.92,
+    "duration": 5.8
+  },
+  {
+    "text": "that we've already excavated, it will double the \nsize of the ancient corpus. That's insane. 40  ",
+    "start": 386.72,
+    "duration": 6.32
+  },
+  {
+    "text": "generations of ancient historians have waited \nfor this, and our generation gets to do this.",
+    "start": 393.04,
+    "duration": 21.6
+  }
+]

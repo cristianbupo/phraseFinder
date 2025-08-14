@@ -1,0 +1,1562 @@
+[
+  {
+    "text": "This is Pleurobot.",
+    "start": 12.76,
+    "duration": 1.84
+  },
+  {
+    "text": "Pleurobot is a robot that we designed\nto closely mimic a salamander species",
+    "start": 15.4,
+    "duration": 3.616
+  },
+  {
+    "text": "called Pleurodeles waltl.",
+    "start": 19.04,
+    "duration": 1.4
+  },
+  {
+    "text": "Pleurobot can walk, as you can see here,",
+    "start": 21.24,
+    "duration": 2.256
+  },
+  {
+    "text": "and as you'll see later, it can also swim.",
+    "start": 23.52,
+    "duration": 2.04
+  },
+  {
+    "text": "So you might ask,\nwhy did we design this robot?",
+    "start": 26.28,
+    "duration": 2.191
+  },
+  {
+    "text": "And in fact, this robot has been designed\nas a scientific tool for neuroscience.",
+    "start": 28.96,
+    "duration": 3.762
+  },
+  {
+    "text": "Indeed, we designed it\ntogether with neurobiologists",
+    "start": 33.4,
+    "duration": 2.496
+  },
+  {
+    "text": "to understand how animals move,",
+    "start": 35.92,
+    "duration": 1.896
+  },
+  {
+    "text": "and especially how the spinal cord\ncontrols locomotion.",
+    "start": 37.84,
+    "duration": 2.76
+  },
+  {
+    "text": "But the more I work in biorobotics,",
+    "start": 41.56,
+    "duration": 1.696
+  },
+  {
+    "text": "the more I'm really impressed\nby animal locomotion.",
+    "start": 43.28,
+    "duration": 2.381
+  },
+  {
+    "text": "If you think of a dolphin swimming\nor a cat running or jumping around,",
+    "start": 45.92,
+    "duration": 4.296
+  },
+  {
+    "text": "or even us as humans,",
+    "start": 50.24,
+    "duration": 1.576
+  },
+  {
+    "text": "when you go jogging or play tennis,",
+    "start": 51.84,
+    "duration": 1.816
+  },
+  {
+    "text": "we do amazing things.",
+    "start": 53.68,
+    "duration": 1.24
+  },
+  {
+    "text": "And in fact, our nervous system solves\na very, very complex control problem.",
+    "start": 55.88,
+    "duration": 4.136
+  },
+  {
+    "text": "It has to coordinate\nmore or less 200 muscles perfectly,",
+    "start": 60.04,
+    "duration": 3.096
+  },
+  {
+    "text": "because if the coordination is bad,\nwe fall over or we do bad locomotion.",
+    "start": 63.16,
+    "duration": 3.68
+  },
+  {
+    "text": "And my goal is to understand\nhow this works.",
+    "start": 67.56,
+    "duration": 2.72
+  },
+  {
+    "text": "There are four main components\nbehind animal locomotion.",
+    "start": 71.16,
+    "duration": 2.84
+  },
+  {
+    "text": "The first component is just the body,",
+    "start": 74.8,
+    "duration": 1.936
+  },
+  {
+    "text": "and in fact we should never underestimate",
+    "start": 76.76,
+    "duration": 1.976
+  },
+  {
+    "text": "to what extent the biomechanics\nalready simplify locomotion in animals.",
+    "start": 78.76,
+    "duration": 3.48
+  },
+  {
+    "text": "Then you have the spinal cord,",
+    "start": 82.92,
+    "duration": 1.456
+  },
+  {
+    "text": "and in the spinal cord you find reflexes,",
+    "start": 84.4,
+    "duration": 1.976
+  },
+  {
+    "text": "multiple reflexes that create\na sensorimotor coordination loop",
+    "start": 86.4,
+    "duration": 3.456
+  },
+  {
+    "text": "between neural activity in the spinal cord\nand mechanical activity.",
+    "start": 89.88,
+    "duration": 3.48
+  },
+  {
+    "text": "A third component\nare central pattern generators.",
+    "start": 94.0,
+    "duration": 2.976
+  },
+  {
+    "text": "These are very interesting circuits\nin the spinal cord of vertebrate animals",
+    "start": 97.0,
+    "duration": 3.896
+  },
+  {
+    "text": "that can generate, by themselves,",
+    "start": 100.92,
+    "duration": 1.616
+  },
+  {
+    "text": "very coordinated\nrhythmic patterns of activity",
+    "start": 102.56,
+    "duration": 2.736
+  },
+  {
+    "text": "while receiving\nonly very simple input signals.",
+    "start": 105.32,
+    "duration": 2.376
+  },
+  {
+    "text": "And these input signals",
+    "start": 107.72,
+    "duration": 1.216
+  },
+  {
+    "text": "coming from descending modulation\nfrom higher parts of the brain,",
+    "start": 108.96,
+    "duration": 3.056
+  },
+  {
+    "text": "like the motor cortex,\nthe cerebellum, the basal ganglia,",
+    "start": 112.04,
+    "duration": 2.696
+  },
+  {
+    "text": "will all modulate activity\nof the spinal cord",
+    "start": 114.76,
+    "duration": 2.136
+  },
+  {
+    "text": "while we do locomotion.",
+    "start": 116.92,
+    "duration": 1.456
+  },
+  {
+    "text": "But what's interesting is to what extent\njust a low-level component,",
+    "start": 118.4,
+    "duration": 3.216
+  },
+  {
+    "text": "the spinal cord, together with the body,",
+    "start": 121.64,
+    "duration": 1.936
+  },
+  {
+    "text": "already solve a big part\nof the locomotion problem.",
+    "start": 123.6,
+    "duration": 2.456
+  },
+  {
+    "text": "You probably know it by the fact\nthat you can cut the head off a chicken,",
+    "start": 126.08,
+    "duration": 3.422
+  },
+  {
+    "text": "it can still run for a while,",
+    "start": 129.532,
+    "duration": 1.381
+  },
+  {
+    "text": "showing that just the lower part,\nspinal cord and body,",
+    "start": 130.937,
+    "duration": 2.539
+  },
+  {
+    "text": "already solve a big part of locomotion.",
+    "start": 133.5,
+    "duration": 1.873
+  },
+  {
+    "text": "Now, understanding how this works\nis very complex,",
+    "start": 135.397,
+    "duration": 2.459
+  },
+  {
+    "text": "because first of all,",
+    "start": 137.88,
+    "duration": 1.296
+  },
+  {
+    "text": "recording activity in the spinal cord\nis very difficult.",
+    "start": 139.2,
+    "duration": 2.62
+  },
+  {
+    "text": "It's much easier to implant electrodes\nin the motor cortex",
+    "start": 141.844,
+    "duration": 2.772
+  },
+  {
+    "text": "than in the spinal cord,\nbecause it's protected by the vertebrae.",
+    "start": 144.64,
+    "duration": 3.056
+  },
+  {
+    "text": "Especially in humans, very hard to do.",
+    "start": 147.72,
+    "duration": 1.816
+  },
+  {
+    "text": "A second difficulty is that locomotion\nis really due to a very complex",
+    "start": 149.56,
+    "duration": 3.776
+  },
+  {
+    "text": "and very dynamic interaction\nbetween these four components.",
+    "start": 153.36,
+    "duration": 3.056
+  },
+  {
+    "text": "So it's very hard to find out\nwhat's the role of each over time.",
+    "start": 156.44,
+    "duration": 3.24
+  },
+  {
+    "text": "This is where biorobots like Pleurobot\nand mathematical models",
+    "start": 160.88,
+    "duration": 3.736
+  },
+  {
+    "text": "can really help.",
+    "start": 164.64,
+    "duration": 1.2
+  },
+  {
+    "text": "So what's biorobotics?",
+    "start": 167.48,
+    "duration": 1.256
+  },
+  {
+    "text": "Biorobotics is a very active field\nof research in robotics",
+    "start": 168.76,
+    "duration": 2.736
+  },
+  {
+    "text": "where people want to\ntake inspiration from animals",
+    "start": 171.52,
+    "duration": 2.456
+  },
+  {
+    "text": "to make robots to go outdoors,",
+    "start": 174.0,
+    "duration": 2.456
+  },
+  {
+    "text": "like service robots\nor search and rescue robots",
+    "start": 176.48,
+    "duration": 2.656
+  },
+  {
+    "text": "or field robots.",
+    "start": 179.16,
+    "duration": 1.2
+  },
+  {
+    "text": "And the big goal here\nis to take inspiration from animals",
+    "start": 180.88,
+    "duration": 2.696
+  },
+  {
+    "text": "to make robots that can handle\ncomplex terrain --",
+    "start": 183.6,
+    "duration": 2.336
+  },
+  {
+    "text": "stairs, mountains, forests,",
+    "start": 185.96,
+    "duration": 1.616
+  },
+  {
+    "text": "places where robots\nstill have difficulties",
+    "start": 187.6,
+    "duration": 2.016
+  },
+  {
+    "text": "and where animals\ncan do a much better job.",
+    "start": 189.64,
+    "duration": 2.056
+  },
+  {
+    "text": "The robot can be a wonderful\nscientific tool as well.",
+    "start": 191.72,
+    "duration": 2.496
+  },
+  {
+    "text": "There are some very nice projects\nwhere robots are used,",
+    "start": 194.24,
+    "duration": 2.62
+  },
+  {
+    "text": "like a scientific tool for neuroscience,\nfor biomechanics or for hydrodynamics.",
+    "start": 196.884,
+    "duration": 3.972
+  },
+  {
+    "text": "And this is exactly\nthe purpose of Pleurobot.",
+    "start": 200.88,
+    "duration": 2.12
+  },
+  {
+    "text": "So what we do in my lab\nis to collaborate with neurobiologists",
+    "start": 203.6,
+    "duration": 2.936
+  },
+  {
+    "text": "like Jean-Marie Cabelguen,\na neurobiologist in Bordeaux in France,",
+    "start": 206.56,
+    "duration": 3.216
+  },
+  {
+    "text": "and we want to make spinal cord models\nand validate them on robots.",
+    "start": 209.8,
+    "duration": 4.04
+  },
+  {
+    "text": "And here we want to start simple.",
+    "start": 214.48,
+    "duration": 1.616
+  },
+  {
+    "text": "So it's good to start with simple animals",
+    "start": 216.12,
+    "duration": 1.976
+  },
+  {
+    "text": "like lampreys, which are\nvery primitive fish,",
+    "start": 218.12,
+    "duration": 2.256
+  },
+  {
+    "text": "and then gradually\ngo toward more complex locomotion,",
+    "start": 220.4,
+    "duration": 2.496
+  },
+  {
+    "text": "like in salamanders,",
+    "start": 222.92,
+    "duration": 1.256
+  },
+  {
+    "text": "but also in cats and in humans,",
+    "start": 224.2,
+    "duration": 1.496
+  },
+  {
+    "text": "in mammals.",
+    "start": 225.72,
+    "duration": 1.2
+  },
+  {
+    "text": "And here, a robot becomes\nan interesting tool",
+    "start": 227.88,
+    "duration": 2.376
+  },
+  {
+    "text": "to validate our models.",
+    "start": 230.28,
+    "duration": 1.936
+  },
+  {
+    "text": "And in fact, for me, Pleurobot\nis a kind of dream becoming true.",
+    "start": 232.24,
+    "duration": 3.016
+  },
+  {
+    "text": "Like, more or less 20 years ago\nI was already working on a computer",
+    "start": 235.28,
+    "duration": 3.256
+  },
+  {
+    "text": "making simulations of lamprey\nand salamander locomotion",
+    "start": 238.56,
+    "duration": 2.656
+  },
+  {
+    "text": "during my PhD.",
+    "start": 241.24,
+    "duration": 1.536
+  },
+  {
+    "text": "But I always knew that my simulations\nwere just approximations.",
+    "start": 242.8,
+    "duration": 3.376
+  },
+  {
+    "text": "Like, simulating the physics in water\nor with mud or with complex ground,",
+    "start": 246.2,
+    "duration": 3.976
+  },
+  {
+    "text": "it's very hard to simulate that\nproperly on a computer.",
+    "start": 250.2,
+    "duration": 2.656
+  },
+  {
+    "text": "Why not have a real robot\nand real physics?",
+    "start": 252.88,
+    "duration": 2.04
+  },
+  {
+    "text": "So among all these animals,\none of my favorites is the salamander.",
+    "start": 255.6,
+    "duration": 3.136
+  },
+  {
+    "text": "You might ask why,\nand it's because as an amphibian,",
+    "start": 258.76,
+    "duration": 3.456
+  },
+  {
+    "text": "it's a really key animal\nfrom an evolutionary point of view.",
+    "start": 262.24,
+    "duration": 2.856
+  },
+  {
+    "text": "It makes a wonderful link\nbetween swimming,",
+    "start": 265.12,
+    "duration": 2.056
+  },
+  {
+    "text": "as you find it in eels or fish,",
+    "start": 267.2,
+    "duration": 1.896
+  },
+  {
+    "text": "and quadruped locomotion,\nas you see in mammals, in cats and humans.",
+    "start": 269.12,
+    "duration": 4.12
+  },
+  {
+    "text": "And in fact, the modern salamander",
+    "start": 274.16,
+    "duration": 1.656
+  },
+  {
+    "text": "is very close to the first\nterrestrial vertebrate,",
+    "start": 275.84,
+    "duration": 2.376
+  },
+  {
+    "text": "so it's almost a living fossil,",
+    "start": 278.24,
+    "duration": 1.536
+  },
+  {
+    "text": "which gives us access to our ancestor,",
+    "start": 279.8,
+    "duration": 1.936
+  },
+  {
+    "text": "the ancestor to all terrestrial tetrapods.",
+    "start": 281.76,
+    "duration": 2.92
+  },
+  {
+    "text": "So the salamander swims",
+    "start": 285.24,
+    "duration": 1.376
+  },
+  {
+    "text": "by doing what's called\nan anguilliform swimming gait,",
+    "start": 286.64,
+    "duration": 2.496
+  },
+  {
+    "text": "so they propagate a nice traveling wave\nof muscle activity from head to tail.",
+    "start": 289.16,
+    "duration": 3.64
+  },
+  {
+    "text": "And if you place\nthe salamander on the ground,",
+    "start": 293.44,
+    "duration": 2.176
+  },
+  {
+    "text": "it switches to what's called\na walking trot gait.",
+    "start": 295.64,
+    "duration": 2.336
+  },
+  {
+    "text": "In this case, you have nice\nperiodic activation of the limbs",
+    "start": 298.0,
+    "duration": 2.863
+  },
+  {
+    "text": "which are very nicely coordinated",
+    "start": 300.887,
+    "duration": 1.609
+  },
+  {
+    "text": "with this standing wave\nundulation of the body,",
+    "start": 302.52,
+    "duration": 2.656
+  },
+  {
+    "text": "and that's exactly the gait\nthat you are seeing here on Pleurobot.",
+    "start": 305.2,
+    "duration": 3.656
+  },
+  {
+    "text": "Now, one thing which is very surprising\nand fascinating in fact",
+    "start": 308.88,
+    "duration": 2.976
+  },
+  {
+    "text": "is the fact that all this can be generated\njust by the spinal cord and the body.",
+    "start": 311.88,
+    "duration": 4.136
+  },
+  {
+    "text": "So if you take\na decerebrated salamander --",
+    "start": 316.04,
+    "duration": 2.0
+  },
+  {
+    "text": "it's not so nice\nbut you remove the head --",
+    "start": 318.064,
+    "duration": 2.016
+  },
+  {
+    "text": "and if you electrically\nstimulate the spinal cord,",
+    "start": 320.104,
+    "duration": 2.672
+  },
+  {
+    "text": "at low level of stimulation\nthis will induce a walking-like gait.",
+    "start": 322.8,
+    "duration": 3.256
+  },
+  {
+    "text": "If you stimulate a bit more,\nthe gait accelerates.",
+    "start": 326.08,
+    "duration": 2.456
+  },
+  {
+    "text": "And at some point, there's a threshold,",
+    "start": 328.56,
+    "duration": 1.896
+  },
+  {
+    "text": "and automatically,\nthe animal switches to swimming.",
+    "start": 330.48,
+    "duration": 2.536
+  },
+  {
+    "text": "This is amazing.",
+    "start": 333.04,
+    "duration": 1.376
+  },
+  {
+    "text": "Just changing the global drive,",
+    "start": 334.44,
+    "duration": 1.496
+  },
+  {
+    "text": "as if you are pressing the gas pedal",
+    "start": 335.96,
+    "duration": 1.736
+  },
+  {
+    "text": "of descending modulation\nto your spinal cord,",
+    "start": 337.72,
+    "duration": 2.136
+  },
+  {
+    "text": "makes a complete switch\nbetween two very different gaits.",
+    "start": 339.88,
+    "duration": 3.0
+  },
+  {
+    "text": "And in fact, the same\nhas been observed in cats.",
+    "start": 344.44,
+    "duration": 2.576
+  },
+  {
+    "text": "If you stimulate the spinal cord of a cat,",
+    "start": 347.04,
+    "duration": 2.016
+  },
+  {
+    "text": "you can switch between\nwalk, trot and gallop.",
+    "start": 349.08,
+    "duration": 2.216
+  },
+  {
+    "text": "Or in birds, you can make a bird\nswitch between walking,",
+    "start": 351.32,
+    "duration": 2.736
+  },
+  {
+    "text": "at a low level of stimulation,",
+    "start": 354.08,
+    "duration": 1.456
+  },
+  {
+    "text": "and flapping its wings\nat high-level stimulation.",
+    "start": 355.56,
+    "duration": 2.816
+  },
+  {
+    "text": "And this really shows that the spinal cord",
+    "start": 358.4,
+    "duration": 2.016
+  },
+  {
+    "text": "is a very sophisticated\nlocomotion controller.",
+    "start": 360.44,
+    "duration": 2.416
+  },
+  {
+    "text": "So we studied salamander locomotion\nin more detail,",
+    "start": 362.88,
+    "duration": 2.456
+  },
+  {
+    "text": "and we had in fact access\nto a very nice X-ray video machine",
+    "start": 365.36,
+    "duration": 3.096
+  },
+  {
+    "text": "from Professor Martin Fischer\nin Jena University in Germany.",
+    "start": 368.48,
+    "duration": 3.576
+  },
+  {
+    "text": "And thanks to that,\nyou really have an amazing machine",
+    "start": 372.08,
+    "duration": 2.576
+  },
+  {
+    "text": "to record all the bone motion\nin great detail.",
+    "start": 374.68,
+    "duration": 2.456
+  },
+  {
+    "text": "That's what we did.",
+    "start": 377.16,
+    "duration": 1.256
+  },
+  {
+    "text": "So we basically figured out\nwhich bones are important for us",
+    "start": 378.44,
+    "duration": 3.176
+  },
+  {
+    "text": "and collected their motion in 3D.",
+    "start": 381.64,
+    "duration": 3.016
+  },
+  {
+    "text": "And what we did is collect\na whole database of motions,",
+    "start": 384.68,
+    "duration": 2.696
+  },
+  {
+    "text": "both on ground and in water,",
+    "start": 387.4,
+    "duration": 1.656
+  },
+  {
+    "text": "to really collect a whole database\nof motor behaviors",
+    "start": 389.08,
+    "duration": 2.484
+  },
+  {
+    "text": "that a real animal can do.",
+    "start": 391.589,
+    "duration": 1.244
+  },
+  {
+    "text": "And then our job as roboticists\nwas to replicate that in our robot.",
+    "start": 392.858,
+    "duration": 3.15
+  },
+  {
+    "text": "So we did a whole optimization process\nto find out the right structure,",
+    "start": 396.033,
+    "duration": 3.383
+  },
+  {
+    "text": "where to place the motors,\nhow to connect them together,",
+    "start": 399.44,
+    "duration": 2.656
+  },
+  {
+    "text": "to be able to replay\nthese motions as well as possible.",
+    "start": 402.12,
+    "duration": 2.88
+  },
+  {
+    "text": "And this is how Pleurobot came to life.",
+    "start": 405.68,
+    "duration": 2.36
+  },
+  {
+    "text": "So let's look at how close\nit is to the real animal.",
+    "start": 409.2,
+    "duration": 2.416
+  },
+  {
+    "text": "So what you see here\nis almost a direct comparison",
+    "start": 412.96,
+    "duration": 2.496
+  },
+  {
+    "text": "between the walking\nof the real animal and the Pleurobot.",
+    "start": 415.48,
+    "duration": 2.696
+  },
+  {
+    "text": "You can see that we have\nalmost a one-to-one exact replay",
+    "start": 418.2,
+    "duration": 2.736
+  },
+  {
+    "text": "of the walking gait.",
+    "start": 420.96,
+    "duration": 1.256
+  },
+  {
+    "text": "If you go backwards and slowly,\nyou see it even better.",
+    "start": 422.24,
+    "duration": 2.6
+  },
+  {
+    "text": "But even better, we can do swimming.",
+    "start": 427.52,
+    "duration": 2.376
+  },
+  {
+    "text": "So for that we have a dry suit\nthat we put all over the robot --",
+    "start": 429.92,
+    "duration": 3.016
+  },
+  {
+    "text": "(Laughter)",
+    "start": 432.96,
+    "duration": 1.096
+  },
+  {
+    "text": "and then we can go in water\nand start replaying the swimming gaits.",
+    "start": 434.08,
+    "duration": 3.176
+  },
+  {
+    "text": "And here, we were very happy,\nbecause this is difficult to do.",
+    "start": 437.28,
+    "duration": 3.336
+  },
+  {
+    "text": "The physics of interaction are complex.",
+    "start": 440.64,
+    "duration": 2.216
+  },
+  {
+    "text": "Our robot is much bigger\nthan a small animal,",
+    "start": 442.88,
+    "duration": 2.416
+  },
+  {
+    "text": "so we had to do what's called\ndynamic scaling of the frequencies",
+    "start": 445.32,
+    "duration": 3.056
+  },
+  {
+    "text": "to make sure we had\nthe same interaction physics.",
+    "start": 448.4,
+    "duration": 2.336
+  },
+  {
+    "text": "But you see at the end,\nwe have a very close match,",
+    "start": 450.76,
+    "duration": 2.416
+  },
+  {
+    "text": "and we were very, very happy with this.",
+    "start": 453.2,
+    "duration": 1.88
+  },
+  {
+    "text": "So let's go to the spinal cord.",
+    "start": 455.48,
+    "duration": 2.216
+  },
+  {
+    "text": "So here what we did\nwith Jean-Marie Cabelguen",
+    "start": 457.72,
+    "duration": 2.296
+  },
+  {
+    "text": "is model the spinal cord circuits.",
+    "start": 460.04,
+    "duration": 2.24
+  },
+  {
+    "text": "And what's interesting\nis that the salamander",
+    "start": 463.04,
+    "duration": 2.136
+  },
+  {
+    "text": "has kept a very primitive circuit,",
+    "start": 465.2,
+    "duration": 1.62
+  },
+  {
+    "text": "which is very similar\nto the one we find in the lamprey,",
+    "start": 466.844,
+    "duration": 2.652
+  },
+  {
+    "text": "this primitive eel-like fish,",
+    "start": 469.52,
+    "duration": 1.976
+  },
+  {
+    "text": "and it looks like during evolution,",
+    "start": 471.52,
+    "duration": 1.736
+  },
+  {
+    "text": "new neural oscillators\nhave been added to control the limbs,",
+    "start": 473.28,
+    "duration": 2.936
+  },
+  {
+    "text": "to do the leg locomotion.",
+    "start": 476.24,
+    "duration": 1.416
+  },
+  {
+    "text": "And we know where\nthese neural oscillators are",
+    "start": 477.68,
+    "duration": 2.176
+  },
+  {
+    "text": "but what we did was to make\na mathematical model",
+    "start": 479.88,
+    "duration": 2.256
+  },
+  {
+    "text": "to see how they should be coupled",
+    "start": 482.16,
+    "duration": 1.616
+  },
+  {
+    "text": "to allow this transition\nbetween the two very different gaits.",
+    "start": 483.8,
+    "duration": 2.936
+  },
+  {
+    "text": "And we tested that on board of a robot.",
+    "start": 486.76,
+    "duration": 2.56
+  },
+  {
+    "text": "And this is how it looks.",
+    "start": 489.68,
+    "duration": 1.2
+  },
+  {
+    "text": "So what you see here\nis a previous version of Pleurobot",
+    "start": 498.92,
+    "duration": 3.016
+  },
+  {
+    "text": "that's completely controlled\nby our spinal cord model",
+    "start": 501.96,
+    "duration": 3.096
+  },
+  {
+    "text": "programmed on board of the robot.",
+    "start": 505.08,
+    "duration": 1.6
+  },
+  {
+    "text": "And the only thing we do",
+    "start": 507.28,
+    "duration": 1.216
+  },
+  {
+    "text": "is send to the robot\nthrough a remote control",
+    "start": 508.52,
+    "duration": 2.176
+  },
+  {
+    "text": "the two descending signals\nit normally should receive",
+    "start": 510.72,
+    "duration": 2.496
+  },
+  {
+    "text": "from the upper part of the brain.",
+    "start": 513.24,
+    "duration": 1.6
+  },
+  {
+    "text": "And what's interesting is,\nby playing with these signals,",
+    "start": 515.48,
+    "duration": 2.696
+  },
+  {
+    "text": "we can completely control\nspeed, heading and type of gait.",
+    "start": 518.2,
+    "duration": 2.8
+  },
+  {
+    "text": "For instance,",
+    "start": 521.6,
+    "duration": 1.216
+  },
+  {
+    "text": "when we stimulate at a low level,\nwe have the walking gait,",
+    "start": 522.84,
+    "duration": 3.576
+  },
+  {
+    "text": "and at some point, if we stimulate a lot,",
+    "start": 526.44,
+    "duration": 1.976
+  },
+  {
+    "text": "very rapidly it switches\nto the swimming gait.",
+    "start": 528.44,
+    "duration": 2.16
+  },
+  {
+    "text": "And finally, we can also\ndo turning very nicely",
+    "start": 531.48,
+    "duration": 2.216
+  },
+  {
+    "text": "by just stimulating more one side\nof the spinal cord than the other.",
+    "start": 533.72,
+    "duration": 3.52
+  },
+  {
+    "text": "And I think it's really beautiful",
+    "start": 538.2,
+    "duration": 1.616
+  },
+  {
+    "text": "how nature has distributed control",
+    "start": 539.84,
+    "duration": 2.256
+  },
+  {
+    "text": "to really give a lot of responsibility\nto the spinal cord",
+    "start": 542.12,
+    "duration": 2.856
+  },
+  {
+    "text": "so that the upper part of the brain\ndoesn't need to worry about every muscle.",
+    "start": 545.0,
+    "duration": 3.656
+  },
+  {
+    "text": "It just has to worry\nabout this high-level modulation,",
+    "start": 548.68,
+    "duration": 2.536
+  },
+  {
+    "text": "and it's really the job of the spinal cord\nto coordinate all the muscles.",
+    "start": 551.24,
+    "duration": 3.576
+  },
+  {
+    "text": "So now let's go to cat locomotion\nand the importance of biomechanics.",
+    "start": 554.84,
+    "duration": 3.52
+  },
+  {
+    "text": "So this is another project",
+    "start": 559.08,
+    "duration": 1.256
+  },
+  {
+    "text": "where we studied cat biomechanics,",
+    "start": 560.36,
+    "duration": 2.416
+  },
+  {
+    "text": "and we wanted to see how much\nthe morphology helps locomotion.",
+    "start": 562.8,
+    "duration": 3.896
+  },
+  {
+    "text": "And we found three important\ncriteria in the properties,",
+    "start": 566.72,
+    "duration": 3.616
+  },
+  {
+    "text": "basically, of the limbs.",
+    "start": 570.36,
+    "duration": 1.32
+  },
+  {
+    "text": "The first one is that a cat limb",
+    "start": 572.32,
+    "duration": 1.976
+  },
+  {
+    "text": "more or less looks\nlike a pantograph-like structure.",
+    "start": 574.32,
+    "duration": 2.696
+  },
+  {
+    "text": "So a pantograph is a mechanical structure",
+    "start": 577.04,
+    "duration": 2.216
+  },
+  {
+    "text": "which keeps the upper segment\nand the lower segments always parallel.",
+    "start": 579.28,
+    "duration": 3.4
+  },
+  {
+    "text": "So a simple geometrical system\nthat kind of coordinates a bit",
+    "start": 583.6,
+    "duration": 3.096
+  },
+  {
+    "text": "the internal movement of the segments.",
+    "start": 586.72,
+    "duration": 1.816
+  },
+  {
+    "text": "A second property of cat limbs\nis that they are very lightweight.",
+    "start": 588.56,
+    "duration": 3.056
+  },
+  {
+    "text": "Most of the muscles are in the trunk,",
+    "start": 591.64,
+    "duration": 1.856
+  },
+  {
+    "text": "which is a good idea,\nbecause then the limbs have low inertia",
+    "start": 593.52,
+    "duration": 2.896
+  },
+  {
+    "text": "and can be moved very rapidly.",
+    "start": 596.44,
+    "duration": 1.776
+  },
+  {
+    "text": "The last final important property is this\nvery elastic behavior of the cat limb,",
+    "start": 598.24,
+    "duration": 3.816
+  },
+  {
+    "text": "so to handle impacts and forces.",
+    "start": 602.08,
+    "duration": 2.656
+  },
+  {
+    "text": "And this is how we designed Cheetah-Cub.",
+    "start": 604.76,
+    "duration": 2.336
+  },
+  {
+    "text": "So let's invite Cheetah-Cub onstage.",
+    "start": 607.12,
+    "duration": 2.2
+  },
+  {
+    "text": "So this is Peter Eckert,\nwho does his PhD on this robot,",
+    "start": 614.16,
+    "duration": 3.656
+  },
+  {
+    "text": "and as you see, it's a cute little robot.",
+    "start": 617.84,
+    "duration": 2.056
+  },
+  {
+    "text": "It looks a bit like a toy,",
+    "start": 619.92,
+    "duration": 1.256
+  },
+  {
+    "text": "but it was really used\nas a scientific tool",
+    "start": 621.2,
+    "duration": 2.056
+  },
+  {
+    "text": "to investigate these properties\nof the legs of the cat.",
+    "start": 623.28,
+    "duration": 3.296
+  },
+  {
+    "text": "So you see, it's very compliant,\nvery lightweight,",
+    "start": 626.6,
+    "duration": 2.616
+  },
+  {
+    "text": "and also very elastic,",
+    "start": 629.24,
+    "duration": 1.256
+  },
+  {
+    "text": "so you can easily press it down\nand it will not break.",
+    "start": 630.52,
+    "duration": 2.776
+  },
+  {
+    "text": "It will just jump, in fact.",
+    "start": 633.32,
+    "duration": 1.456
+  },
+  {
+    "text": "And this very elastic property\nis also very important.",
+    "start": 634.8,
+    "duration": 2.88
+  },
+  {
+    "text": "And you also see a bit these properties",
+    "start": 639.16,
+    "duration": 1.896
+  },
+  {
+    "text": "of these three segments\nof the leg as pantograph.",
+    "start": 641.08,
+    "duration": 2.4
+  },
+  {
+    "text": "Now, what's interesting\nis that this quite dynamic gait",
+    "start": 644.28,
+    "duration": 2.776
+  },
+  {
+    "text": "is obtained purely in open loop,",
+    "start": 647.08,
+    "duration": 1.896
+  },
+  {
+    "text": "meaning no sensors,\nno complex feedback loops.",
+    "start": 649.0,
+    "duration": 3.136
+  },
+  {
+    "text": "And that's interesting, because it means",
+    "start": 652.16,
+    "duration": 2.416
+  },
+  {
+    "text": "that just the mechanics\nalready stabilized this quite rapid gait,",
+    "start": 654.6,
+    "duration": 4.016
+  },
+  {
+    "text": "and that really good mechanics\nalready basically simplify locomotion.",
+    "start": 658.64,
+    "duration": 4.176
+  },
+  {
+    "text": "To the extent that we can even\ndisturb a bit locomotion,",
+    "start": 662.84,
+    "duration": 3.296
+  },
+  {
+    "text": "as you will see in the next video,",
+    "start": 666.16,
+    "duration": 1.656
+  },
+  {
+    "text": "where we can for instance do some exercise\nwhere we have the robot go down a step,",
+    "start": 667.84,
+    "duration": 3.896
+  },
+  {
+    "text": "and the robot will not fall over,",
+    "start": 671.76,
+    "duration": 1.616
+  },
+  {
+    "text": "which was a surprise for us.",
+    "start": 673.4,
+    "duration": 1.576
+  },
+  {
+    "text": "This is a small perturbation.",
+    "start": 675.0,
+    "duration": 1.416
+  },
+  {
+    "text": "I was expecting the robot\nto immediately fall over,",
+    "start": 676.44,
+    "duration": 2.416
+  },
+  {
+    "text": "because there are no sensors,\nno fast feedback loop.",
+    "start": 678.88,
+    "duration": 2.436
+  },
+  {
+    "text": "But no, just the mechanics\nstabilized the gait,",
+    "start": 681.34,
+    "duration": 2.196
+  },
+  {
+    "text": "and the robot doesn't fall over.",
+    "start": 683.56,
+    "duration": 1.576
+  },
+  {
+    "text": "Obviously, if you make the step bigger,\nand if you have obstacles,",
+    "start": 685.16,
+    "duration": 3.136
+  },
+  {
+    "text": "you need the full control loops\nand reflexes and everything.",
+    "start": 688.32,
+    "duration": 3.656
+  },
+  {
+    "text": "But what's important here\nis that just for small perturbation,",
+    "start": 692.0,
+    "duration": 2.936
+  },
+  {
+    "text": "the mechanics are right.",
+    "start": 694.96,
+    "duration": 1.496
+  },
+  {
+    "text": "And I think this is\na very important message",
+    "start": 696.48,
+    "duration": 2.096
+  },
+  {
+    "text": "from biomechanics and robotics\nto neuroscience,",
+    "start": 698.6,
+    "duration": 2.191
+  },
+  {
+    "text": "saying don't underestimate to what extent\nthe body already helps locomotion.",
+    "start": 700.815,
+    "duration": 4.68
+  },
+  {
+    "text": "Now, how does this relate\nto human locomotion?",
+    "start": 707.44,
+    "duration": 2.16
+  },
+  {
+    "text": "Clearly, human locomotion is more complex\nthan cat and salamander locomotion,",
+    "start": 709.96,
+    "duration": 3.64
+  },
+  {
+    "text": "but at the same time, the nervous system\nof humans is very similar",
+    "start": 714.36,
+    "duration": 3.136
+  },
+  {
+    "text": "to that of other vertebrates.",
+    "start": 717.52,
+    "duration": 1.576
+  },
+  {
+    "text": "And especially the spinal cord",
+    "start": 719.12,
+    "duration": 1.456
+  },
+  {
+    "text": "is also the key controller\nfor locomotion in humans.",
+    "start": 720.6,
+    "duration": 2.64
+  },
+  {
+    "text": "That's why, if there's a lesion\nof the spinal cord,",
+    "start": 723.76,
+    "duration": 2.416
+  },
+  {
+    "text": "this has dramatic effects.",
+    "start": 726.2,
+    "duration": 1.496
+  },
+  {
+    "text": "The person can become\nparaplegic or tetraplegic.",
+    "start": 727.72,
+    "duration": 2.776
+  },
+  {
+    "text": "This is because the brain\nloses this communication",
+    "start": 730.52,
+    "duration": 2.376
+  },
+  {
+    "text": "with the spinal cord.",
+    "start": 732.92,
+    "duration": 1.256
+  },
+  {
+    "text": "Especially, it loses\nthis descending modulation",
+    "start": 734.2,
+    "duration": 2.216
+  },
+  {
+    "text": "to initiate and modulate locomotion.",
+    "start": 736.44,
+    "duration": 1.92
+  },
+  {
+    "text": "So a big goal of neuroprosthetics",
+    "start": 739.64,
+    "duration": 1.696
+  },
+  {
+    "text": "is to be able to reactivate\nthat communication",
+    "start": 741.36,
+    "duration": 2.376
+  },
+  {
+    "text": "using electrical or chemical stimulations.",
+    "start": 743.76,
+    "duration": 2.44
+  },
+  {
+    "text": "And there are several teams\nin the world that do exactly that,",
+    "start": 746.84,
+    "duration": 2.936
+  },
+  {
+    "text": "especially at EPFL.",
+    "start": 749.8,
+    "duration": 1.216
+  },
+  {
+    "text": "My colleagues Grégoire Courtine\nand Silvestro Micera,",
+    "start": 751.04,
+    "duration": 2.496
+  },
+  {
+    "text": "with whom I collaborate.",
+    "start": 753.56,
+    "duration": 1.24
+  },
+  {
+    "text": "But to do this properly,\nit's very important to understand",
+    "start": 755.96,
+    "duration": 3.096
+  },
+  {
+    "text": "how the spinal cord works,",
+    "start": 759.08,
+    "duration": 1.736
+  },
+  {
+    "text": "how it interacts with the body,",
+    "start": 760.84,
+    "duration": 1.696
+  },
+  {
+    "text": "and how the brain\ncommunicates with the spinal cord.",
+    "start": 762.56,
+    "duration": 2.48
+  },
+  {
+    "text": "This is where the robots\nand models that I've presented today",
+    "start": 765.8,
+    "duration": 2.896
+  },
+  {
+    "text": "will hopefully play a key role",
+    "start": 768.72,
+    "duration": 1.896
+  },
+  {
+    "text": "towards these very important goals.",
+    "start": 770.64,
+    "duration": 2.656
+  },
+  {
+    "text": "Thank you.",
+    "start": 773.32,
+    "duration": 1.216
+  },
+  {
+    "text": "(Applause)",
+    "start": 774.56,
+    "duration": 4.56
+  },
+  {
+    "text": "Bruno Giussani: Auke, I've seen\nin your lab other robots",
+    "start": 784.1,
+    "duration": 2.636
+  },
+  {
+    "text": "that do things like swim in pollution",
+    "start": 786.76,
+    "duration": 2.456
+  },
+  {
+    "text": "and measure the pollution while they swim.",
+    "start": 789.24,
+    "duration": 2.456
+  },
+  {
+    "text": "But for this one,",
+    "start": 791.72,
+    "duration": 1.216
+  },
+  {
+    "text": "you mentioned in your talk,\nlike a side project,",
+    "start": 792.96,
+    "duration": 3.48
+  },
+  {
+    "text": "search and rescue,",
+    "start": 797.64,
+    "duration": 1.216
+  },
+  {
+    "text": "and it does have a camera on its nose.",
+    "start": 798.88,
+    "duration": 2.176
+  },
+  {
+    "text": "Auke Ijspeert: Absolutely. So the robot --",
+    "start": 801.08,
+    "duration": 2.496
+  },
+  {
+    "text": "We have some spin-off projects",
+    "start": 803.6,
+    "duration": 1.429
+  },
+  {
+    "text": "where we would like to use the robots\nto do search and rescue inspection,",
+    "start": 805.053,
+    "duration": 3.443
+  },
+  {
+    "text": "so this robot is now seeing you.",
+    "start": 808.52,
+    "duration": 1.576
+  },
+  {
+    "text": "And the big dream is to,\nif you have a difficult situation",
+    "start": 810.12,
+    "duration": 3.176
+  },
+  {
+    "text": "like a collapsed building\nor a building that is flooded,",
+    "start": 813.32,
+    "duration": 3.616
+  },
+  {
+    "text": "and this is very dangerous\nfor a rescue team or even rescue dogs,",
+    "start": 816.96,
+    "duration": 3.336
+  },
+  {
+    "text": "why not send in a robot\nthat can crawl around, swim, walk,",
+    "start": 820.32,
+    "duration": 2.896
+  },
+  {
+    "text": "with a camera onboard\nto do inspection and identify survivors",
+    "start": 823.24,
+    "duration": 3.176
+  },
+  {
+    "text": "and possibly create\na communication link with the survivor.",
+    "start": 826.44,
+    "duration": 2.776
+  },
+  {
+    "text": "BG: Of course, assuming the survivors\ndon't get scared by the shape of this.",
+    "start": 829.24,
+    "duration": 3.576
+  },
+  {
+    "text": "AI: Yeah, we should probably\nchange the appearance quite a bit,",
+    "start": 832.84,
+    "duration": 3.296
+  },
+  {
+    "text": "because here I guess a survivor\nmight die of a heart attack",
+    "start": 836.16,
+    "duration": 2.816
+  },
+  {
+    "text": "just of being worried\nthat this would feed on you.",
+    "start": 839.0,
+    "duration": 2.536
+  },
+  {
+    "text": "But by changing the appearance\nand it making it more robust,",
+    "start": 841.56,
+    "duration": 2.856
+  },
+  {
+    "text": "I'm sure we can make\na good tool out of it.",
+    "start": 844.44,
+    "duration": 2.056
+  },
+  {
+    "text": "BG: Thank you very much.\nThank you and your team.",
+    "start": 846.52,
+    "duration": 2.286
+  }
+]

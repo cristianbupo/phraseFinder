@@ -1,0 +1,4202 @@
+[
+  {
+    "text": "ADI IGNATIUS: Welcome to Harvard\nBusiness Review's The New",
+    "start": 12.933,
+    "duration": 2.417
+  },
+  {
+    "text": "World of Work.",
+    "start": 15.35,
+    "duration": 0.583
+  },
+  {
+    "text": "I'm Adi Ignatius,\nEditor in Chief of HBR.",
+    "start": 15.933,
+    "duration": 2.657
+  },
+  {
+    "text": "Each week on the show, I\ninterview a CEO, a thought",
+    "start": 18.59,
+    "duration": 2.55
+  },
+  {
+    "text": "leader, or somebody\nto inspire us,",
+    "start": 21.14,
+    "duration": 1.98
+  },
+  {
+    "text": "to educate us on the changing\ndynamics of the workplace.",
+    "start": 23.12,
+    "duration": 3.12
+  },
+  {
+    "text": "Our viewers come from\nall over the world.",
+    "start": 26.24,
+    "duration": 1.74
+  },
+  {
+    "text": "And they work at everything\nfrom Fortune 500 corporations",
+    "start": 27.98,
+    "duration": 2.67
+  },
+  {
+    "text": "to fledgling startups,\nfrom family businesses",
+    "start": 30.65,
+    "duration": 2.73
+  },
+  {
+    "text": "to nonprofits.",
+    "start": 33.38,
+    "duration": 1.24
+  },
+  {
+    "text": "The aim of this show is to\ngive insights for everyone",
+    "start": 34.62,
+    "duration": 2.54
+  },
+  {
+    "text": "as they navigate this\ntransitional moment in how",
+    "start": 37.16,
+    "duration": 2.85
+  },
+  {
+    "text": "we organize ourselves\nin the business world.",
+    "start": 40.01,
+    "duration": 2.62
+  },
+  {
+    "text": "So on tonight's episode, we\nhave another great guest,",
+    "start": 42.63,
+    "duration": 2.66
+  },
+  {
+    "text": "Andrew McAfee, a Principal\nResearch Scientist at the MIT",
+    "start": 45.29,
+    "duration": 3.69
+  },
+  {
+    "text": "Sloan School of Management.",
+    "start": 48.98,
+    "duration": 1.62
+  },
+  {
+    "text": "I'll come back with a\nproper introduction for him",
+    "start": 50.6,
+    "duration": 2.43
+  },
+  {
+    "text": "in a moment.",
+    "start": 53.03,
+    "duration": 0.61
+  },
+  {
+    "text": "But first, let's\nhear from our friends",
+    "start": 53.64,
+    "duration": 1.64
+  },
+  {
+    "text": "at KPMG, this season's sponsor\nfor The New World of Work.",
+    "start": 55.28,
+    "duration": 4.32
+  },
+  {
+    "text": "ANNOUNCER: At KPMG,\nit's our people",
+    "start": 59.6,
+    "duration": 2.28
+  },
+  {
+    "text": "who make the difference for\nour clients, talented teams",
+    "start": 61.88,
+    "duration": 3.18
+  },
+  {
+    "text": "leveraging the right\ntechnology to uncover insights",
+    "start": 65.06,
+    "duration": 2.97
+  },
+  {
+    "text": "that illuminate\nopportunity ready",
+    "start": 68.03,
+    "duration": 2.207
+  },
+  {
+    "text": "to make the difference together.",
+    "start": 70.237,
+    "duration": 1.333
+  },
+  {
+    "text": "ADI IGNATIUS: Before\nwe get started,",
+    "start": 76.68,
+    "duration": 1.5
+  },
+  {
+    "text": "if you're an HBR\nsubscriber watching this,",
+    "start": 78.18,
+    "duration": 2.26
+  },
+  {
+    "text": "you can head to\nHBR.org/newsletters to sign up",
+    "start": 80.44,
+    "duration": 3.8
+  },
+  {
+    "text": "for New World of\nWork newsletter,",
+    "start": 84.24,
+    "duration": 1.65
+  },
+  {
+    "text": "where I offer an inside look\neach week at these interviews",
+    "start": 85.89,
+    "duration": 2.73
+  },
+  {
+    "text": "and talk about some of the\nmost interesting takeaways.",
+    "start": 88.62,
+    "duration": 2.43
+  },
+  {
+    "text": "Also, if you like\nthis content, please",
+    "start": 91.05,
+    "duration": 1.92
+  },
+  {
+    "text": "consider subscribing to\nour magazine and website.",
+    "start": 92.97,
+    "duration": 2.83
+  },
+  {
+    "text": "The address is\nhbr.org/subscriptions.",
+    "start": 95.8,
+    "duration": 3.733
+  },
+  {
+    "text": "And if you like hearing\nsmart people talk about some",
+    "start": 99.533,
+    "duration": 2.167
+  },
+  {
+    "text": "of the same issues we\ndiscuss on this show,",
+    "start": 101.7,
+    "duration": 2.23
+  },
+  {
+    "text": "be sure to check out our\nflagship podcast, IdeaCast,",
+    "start": 103.93,
+    "duration": 3.29
+  },
+  {
+    "text": "available wherever\nyou get your podcasts.",
+    "start": 107.22,
+    "duration": 2.25
+  },
+  {
+    "text": "And remember, you can\nwatch previous episodes",
+    "start": 109.47,
+    "duration": 2.46
+  },
+  {
+    "text": "of this show on YouTube or right\nhere on LinkedIn and Facebook.",
+    "start": 111.93,
+    "duration": 4.12
+  },
+  {
+    "text": "So on with the show.",
+    "start": 116.05,
+    "duration": 1.58
+  },
+  {
+    "text": "My guest today is Andrew McAfee,\na Principal Research Scientist",
+    "start": 117.63,
+    "duration": 3.3
+  },
+  {
+    "text": "at the MIT Sloan\nSchool of Management.",
+    "start": 120.93,
+    "duration": 2.46
+  },
+  {
+    "text": "His research focuses on how\ninformation technology changes",
+    "start": 123.39,
+    "duration": 3.63
+  },
+  {
+    "text": "how companies perform, how\nthey organize themselves,",
+    "start": 127.02,
+    "duration": 2.82
+  },
+  {
+    "text": "and how they compete.",
+    "start": 129.84,
+    "duration": 1.35
+  },
+  {
+    "text": "He's a frequent\ncontributor to HBR",
+    "start": 131.19,
+    "duration": 2.1
+  },
+  {
+    "text": "and is the author of the\nforthcoming book, The Geek",
+    "start": 133.29,
+    "duration": 2.985
+  },
+  {
+    "text": "Way, the Radical Mindset that\nDrives Extraordinary Results.",
+    "start": 136.275,
+    "duration": 3.745
+  },
+  {
+    "text": "The book is out in mid November.",
+    "start": 140.02,
+    "duration": 1.44
+  },
+  {
+    "text": "But you can pre-order\nit now wherever",
+    "start": 141.46,
+    "duration": 2.04
+  },
+  {
+    "text": "you pre-order your books.",
+    "start": 143.5,
+    "duration": 1.8
+  },
+  {
+    "text": "So Andy, welcome.",
+    "start": 145.3,
+    "duration": 1.02
+  },
+  {
+    "text": "ANDREW MCAFEE: Adi,\nit's great to be here.",
+    "start": 146.32,
+    "duration": 1.75
+  },
+  {
+    "text": "Thank you.",
+    "start": 148.07,
+    "duration": 0.59
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah,\nit's great to have you.",
+    "start": 148.66,
+    "duration": 1.14
+  },
+  {
+    "text": "It's exciting about the book.",
+    "start": 149.8,
+    "duration": 1.208
+  },
+  {
+    "text": "So I've read the book.",
+    "start": 151.008,
+    "duration": 1.192
+  },
+  {
+    "text": "It is a great read.",
+    "start": 152.2,
+    "duration": 2.04
+  },
+  {
+    "text": "It lavishes fulsome praise\non geeks and business,",
+    "start": 154.24,
+    "duration": 4.32
+  },
+  {
+    "text": "not just for their\ntechnological innovation,",
+    "start": 158.56,
+    "duration": 2.61
+  },
+  {
+    "text": "but also for developing\nan approach to business",
+    "start": 161.17,
+    "duration": 3.3
+  },
+  {
+    "text": "itself that you've\ncome to respect.",
+    "start": 164.47,
+    "duration": 1.98
+  },
+  {
+    "text": "So there's a lot to talk about.",
+    "start": 166.45,
+    "duration": 2.042
+  },
+  {
+    "text": "Let's start with definitions.",
+    "start": 168.492,
+    "duration": 1.208
+  },
+  {
+    "text": "So how do you define a geek?",
+    "start": 169.7,
+    "duration": 2.403
+  },
+  {
+    "text": "ANDREW MCAFEE: Yeah,\nso I'm walking away",
+    "start": 172.103,
+    "duration": 1.667
+  },
+  {
+    "text": "from the computer-based\ndefinition of a geek, which",
+    "start": 173.77,
+    "duration": 2.46
+  },
+  {
+    "text": "was kind of where it started.",
+    "start": 176.23,
+    "duration": 1.83
+  },
+  {
+    "text": "And my definition is two-part.",
+    "start": 178.06,
+    "duration": 1.74
+  },
+  {
+    "text": "For me, a geek is\nsomebody who gets obsessed",
+    "start": 179.8,
+    "duration": 3.54
+  },
+  {
+    "text": "with a hard problem and\nis willing to embrace",
+    "start": 183.34,
+    "duration": 3.99
+  },
+  {
+    "text": "unconventional solutions.",
+    "start": 187.33,
+    "duration": 1.59
+  },
+  {
+    "text": "And for me, the\npatron saint of geeks",
+    "start": 188.92,
+    "duration": 1.86
+  },
+  {
+    "text": "is probably Maria Montessori,\nwho about 100 years ago, got",
+    "start": 190.78,
+    "duration": 3.84
+  },
+  {
+    "text": "obsessed with the problem\nof how do you educate",
+    "start": 194.62,
+    "duration": 2.67
+  },
+  {
+    "text": "young children best and\ncame up with the Montessori",
+    "start": 197.29,
+    "duration": 2.73
+  },
+  {
+    "text": "educational method, which\nis this radical departure",
+    "start": 200.02,
+    "duration": 3.06
+  },
+  {
+    "text": "from industrial-scale\nmodel of schools",
+    "start": 203.08,
+    "duration": 3.54
+  },
+  {
+    "text": "that was dominant then and,\nsadly, still dominant now.",
+    "start": 206.62,
+    "duration": 3.04
+  },
+  {
+    "text": "So think about Maria Montessori\nwhen you think about a geek.",
+    "start": 209.66,
+    "duration": 3.897
+  },
+  {
+    "text": "ADI IGNATIUS: So\nthere's a definition.",
+    "start": 213.557,
+    "duration": 1.583
+  },
+  {
+    "text": "Then, how do you\ndefine the Geek Way",
+    "start": 215.14,
+    "duration": 1.86
+  },
+  {
+    "text": "that you're talking\nabout in the book?",
+    "start": 217.0,
+    "duration": 1.6
+  },
+  {
+    "text": "What is the Geek Way?",
+    "start": 218.6,
+    "duration": 0.875
+  },
+  {
+    "text": "ANDREW MCAFEE: So\nthe particular geeks",
+    "start": 219.475,
+    "duration": 1.583
+  },
+  {
+    "text": "that I got excited\nabout that led",
+    "start": 221.058,
+    "duration": 1.415
+  },
+  {
+    "text": "me to write the book were not\neducational geeks like Maria",
+    "start": 222.473,
+    "duration": 2.417
+  },
+  {
+    "text": "Montessori.",
+    "start": 224.89,
+    "duration": 0.54
+  },
+  {
+    "text": "They were business geeks.",
+    "start": 225.43,
+    "duration": 1.042
+  },
+  {
+    "text": "They were a group of people,\nconcentrated but not exclusive",
+    "start": 226.472,
+    "duration": 4.088
+  },
+  {
+    "text": "to the West Coast\nof the US, who got",
+    "start": 230.56,
+    "duration": 2.1
+  },
+  {
+    "text": "obsessed with this\nproblem of, how do we",
+    "start": 232.66,
+    "duration": 2.04
+  },
+  {
+    "text": "run a company in\nan age of really",
+    "start": 234.7,
+    "duration": 2.73
+  },
+  {
+    "text": "fast technological change\nand lots of uncertainty?",
+    "start": 237.43,
+    "duration": 2.34
+  },
+  {
+    "text": "And in particular,\nhow do we avoid",
+    "start": 239.77,
+    "duration": 1.62
+  },
+  {
+    "text": "some of the classic dysfunctions\nof the internet era?",
+    "start": 241.39,
+    "duration": 3.39
+  },
+  {
+    "text": "And the Geek Way is what\nthey've come up with.",
+    "start": 244.78,
+    "duration": 2.97
+  },
+  {
+    "text": "It's the business model or the\nculture or the set of norms",
+    "start": 247.75,
+    "duration": 4.14
+  },
+  {
+    "text": "that they've settled\non to try to accomplish",
+    "start": 251.89,
+    "duration": 2.46
+  },
+  {
+    "text": "that really hard goal.",
+    "start": 254.35,
+    "duration": 2.062
+  },
+  {
+    "text": "ADI IGNATIUS: So if\nyou're watching this",
+    "start": 256.412,
+    "duration": 1.667
+  },
+  {
+    "text": "if you have questions\nyourself for Andy McAfee,",
+    "start": 258.079,
+    "duration": 2.016
+  },
+  {
+    "text": "put them in the chat.",
+    "start": 260.095,
+    "duration": 0.875
+  },
+  {
+    "text": "We'll get to as many audience\nquestions later as possible.",
+    "start": 260.97,
+    "duration": 4.31
+  },
+  {
+    "text": "So really, the way\nyou're defining geeks,",
+    "start": 265.28,
+    "duration": 3.013
+  },
+  {
+    "text": "the way you're defining Geek\nWay, I mean, it seems to be--",
+    "start": 268.293,
+    "duration": 2.417
+  },
+  {
+    "text": "I'm trying to think\nof other terms",
+    "start": 270.71,
+    "duration": 1.86
+  },
+  {
+    "text": "that we might have\nused, other coinages.",
+    "start": 272.57,
+    "duration": 4.71
+  },
+  {
+    "text": "Lifelong learner, but\nthat's not quite it.",
+    "start": 277.28,
+    "duration": 4.23
+  },
+  {
+    "text": "It's people who nerd out on, in\nthis case, management, right?",
+    "start": 281.51,
+    "duration": 6.065
+  },
+  {
+    "text": "ANDREW MCAFEE:\nObsessive maverick",
+    "start": 287.575,
+    "duration": 1.375
+  },
+  {
+    "text": "is my preferred\nphrase for a geek.",
+    "start": 288.95,
+    "duration": 2.19
+  },
+  {
+    "text": "And the obsessive mavericks\nthat I got really interested in",
+    "start": 291.14,
+    "duration": 3.09
+  },
+  {
+    "text": "were the ones who dove.",
+    "start": 294.23,
+    "duration": 1.14
+  },
+  {
+    "text": "In again on this problem\nof how do we run a company,",
+    "start": 295.37,
+    "duration": 4.59
+  },
+  {
+    "text": "and keep doing well\nin our markets,",
+    "start": 299.96,
+    "duration": 2.79
+  },
+  {
+    "text": "and avoid the\ndysfunctions that seem",
+    "start": 302.75,
+    "duration": 2.61
+  },
+  {
+    "text": "to plague so many\nsuccessful companies as they",
+    "start": 305.36,
+    "duration": 3.0
+  },
+  {
+    "text": "get older and bigger?",
+    "start": 308.36,
+    "duration": 1.26
+  },
+  {
+    "text": "How do we avoid\nthose dysfunctions?",
+    "start": 309.62,
+    "duration": 1.68
+  },
+  {
+    "text": "How do we do something\nthat's higher performing,",
+    "start": 311.3,
+    "duration": 2.37
+  },
+  {
+    "text": "more sustainable, and\na better place to work?",
+    "start": 313.67,
+    "duration": 3.62
+  },
+  {
+    "text": "ADI IGNATIUS: So as I read\nthe book, some of those",
+    "start": 317.29,
+    "duration": 2.36
+  },
+  {
+    "text": "attributes you talked about,\nthey had to do with speed.",
+    "start": 319.65,
+    "duration": 3.61
+  },
+  {
+    "text": "They had to do with\nexperimentation.",
+    "start": 323.26,
+    "duration": 2.03
+  },
+  {
+    "text": "Is this just another\nterm for being digital",
+    "start": 325.29,
+    "duration": 4.14
+  },
+  {
+    "text": "or for applying design\nthinking in the business?",
+    "start": 329.43,
+    "duration": 2.715
+  },
+  {
+    "text": "Is that-- are we talking\nthe same thing here?",
+    "start": 332.145,
+    "duration": 1.875
+  },
+  {
+    "text": "ANDREW MCAFEE:\nNo, I don't think.",
+    "start": 334.02,
+    "duration": 1.68
+  },
+  {
+    "text": "You remember Quibi, right?",
+    "start": 335.7,
+    "duration": 1.26
+  },
+  {
+    "text": "The Jeffrey-Katzenberg-led\nvideo startup--",
+    "start": 336.96,
+    "duration": 2.97
+  },
+  {
+    "text": "it was going to do\nshort form videos",
+    "start": 339.93,
+    "duration": 1.5
+  },
+  {
+    "text": "and was going to change the\nway we consume entertainment.",
+    "start": 341.43,
+    "duration": 2.375
+  },
+  {
+    "text": "It was going to be\nentirely digital.",
+    "start": 343.805,
+    "duration": 1.645
+  },
+  {
+    "text": "It was a completely\ndigital enterprise.",
+    "start": 345.45,
+    "duration": 1.625
+  },
+  {
+    "text": "It was a miserable failure.",
+    "start": 347.075,
+    "duration": 1.885
+  },
+  {
+    "text": "They raised $1.75 billion.",
+    "start": 348.96,
+    "duration": 2.49
+  },
+  {
+    "text": "They shut down within\n200 days of their launch.",
+    "start": 351.45,
+    "duration": 2.76
+  },
+  {
+    "text": "It was just a catastrophe.",
+    "start": 354.21,
+    "duration": 1.47
+  },
+  {
+    "text": "It was a completely\ndigital enterprise.",
+    "start": 355.68,
+    "duration": 1.95
+  },
+  {
+    "text": "Netflix is a geek company.",
+    "start": 357.63,
+    "duration": 2.19
+  },
+  {
+    "text": "They follow all four of my\ngreat geek norms of science,",
+    "start": 359.82,
+    "duration": 4.83
+  },
+  {
+    "text": "ownership, speed, and openness.",
+    "start": 364.65,
+    "duration": 3.33
+  },
+  {
+    "text": "And I think the results\nspeak for themselves.",
+    "start": 367.98,
+    "duration": 2.59
+  },
+  {
+    "text": "So geek for me is entirely\nseparate from digital.",
+    "start": 370.57,
+    "duration": 3.44
+  },
+  {
+    "text": "You can be a non-m digital geek.",
+    "start": 374.01,
+    "duration": 1.41
+  },
+  {
+    "text": "And you can certainly be very\ndigital and not geeky at all.",
+    "start": 375.42,
+    "duration": 4.112
+  },
+  {
+    "text": "ADI IGNATIUS: When\nI meant digital,",
+    "start": 379.532,
+    "duration": 1.458
+  },
+  {
+    "text": "I meant more of a\nmindset than a product.",
+    "start": 380.99,
+    "duration": 2.66
+  },
+  {
+    "text": "So it sounds like--",
+    "start": 383.65,
+    "duration": 1.545
+  },
+  {
+    "text": "so the Quibi thing is\nan interesting example.",
+    "start": 385.195,
+    "duration": 1.875
+  },
+  {
+    "text": "I guess what was missing in\nterms of from your framework",
+    "start": 389.8,
+    "duration": 3.24
+  },
+  {
+    "text": "was the openness, right?",
+    "start": 393.04,
+    "duration": 3.39
+  },
+  {
+    "text": "I mean that you had a powerful\nguy who had been successful,",
+    "start": 396.43,
+    "duration": 4.23
+  },
+  {
+    "text": "Katzenstein, who\nwasn't listening to--",
+    "start": 400.66,
+    "duration": 4.56
+  },
+  {
+    "text": "ANDREW MCAFEE: Evidence, to\nhis peers, to his colleagues,",
+    "start": 405.22,
+    "duration": 2.97
+  },
+  {
+    "text": "to his advisors--\nhe didn't appear",
+    "start": 408.19,
+    "duration": 1.71
+  },
+  {
+    "text": "to be a great listener,\nwhich is this kind",
+    "start": 409.9,
+    "duration": 2.04
+  },
+  {
+    "text": "of archetypal,\nstereotypical trap",
+    "start": 411.94,
+    "duration": 2.67
+  },
+  {
+    "text": "that a lot of industrial-era\ncompanies fall into.",
+    "start": 414.61,
+    "duration": 2.37
+  },
+  {
+    "text": "And tech leaders also fall\ninto this trap quite often.",
+    "start": 416.98,
+    "duration": 3.27
+  },
+  {
+    "text": "You become enamored\nof your own success",
+    "start": 420.25,
+    "duration": 2.49
+  },
+  {
+    "text": "and you really stop listening.",
+    "start": 422.74,
+    "duration": 1.53
+  },
+  {
+    "text": "It's incredibly common.",
+    "start": 424.27,
+    "duration": 1.51
+  },
+  {
+    "text": "And one of the things that\nI really think is powerful",
+    "start": 425.78,
+    "duration": 2.72
+  },
+  {
+    "text": "and respect about people\nlike Reed Hastings at Netflix",
+    "start": 428.5,
+    "duration": 2.85
+  },
+  {
+    "text": "is he was able to\nbuild a business that",
+    "start": 431.35,
+    "duration": 2.97
+  },
+  {
+    "text": "got important decisions\nright when he, himself",
+    "start": 434.32,
+    "duration": 3.15
+  },
+  {
+    "text": "was wrong about them.",
+    "start": 437.47,
+    "duration": 1.18
+  },
+  {
+    "text": "And in the book, I talk\nabout a couple of them.",
+    "start": 438.65,
+    "duration": 2.24
+  },
+  {
+    "text": "He was dead flat wrong about\nthe utility of downloading",
+    "start": 440.89,
+    "duration": 3.12
+  },
+  {
+    "text": "to the Netflix app.",
+    "start": 444.01,
+    "duration": 0.81
+  },
+  {
+    "text": "He thought it wouldn't\nbe very useful at all.",
+    "start": 444.82,
+    "duration": 2.37
+  },
+  {
+    "text": "It's incredibly useful.",
+    "start": 447.19,
+    "duration": 1.36
+  },
+  {
+    "text": "He was wrong about the\nimportance of kids programming",
+    "start": 448.55,
+    "duration": 2.84
+  },
+  {
+    "text": "for Netflix.",
+    "start": 451.39,
+    "duration": 0.6
+  },
+  {
+    "text": "And he admits this in\nthe book No Rules Rules",
+    "start": 451.99,
+    "duration": 2.49
+  },
+  {
+    "text": "that he wrote with Erin Meyer.",
+    "start": 454.48,
+    "duration": 1.68
+  },
+  {
+    "text": "But he successfully\nworked hard on building",
+    "start": 456.16,
+    "duration": 3.69
+  },
+  {
+    "text": "a company that\nwould correct him,",
+    "start": 459.85,
+    "duration": 2.28
+  },
+  {
+    "text": "the boss, the high-status,\nprestigious person",
+    "start": 462.13,
+    "duration": 2.85
+  },
+  {
+    "text": "at the top of the organization.",
+    "start": 464.98,
+    "duration": 1.59
+  },
+  {
+    "text": "It's part of this great\ngeek norm of openness",
+    "start": 466.57,
+    "duration": 2.7
+  },
+  {
+    "text": "that I talk about, how do\nyou build a company that",
+    "start": 469.27,
+    "duration": 2.19
+  },
+  {
+    "text": "will get it right when the\nperson at the top of the org",
+    "start": 471.46,
+    "duration": 2.73
+  },
+  {
+    "text": "chart is wrong?",
+    "start": 474.19,
+    "duration": 1.02
+  },
+  {
+    "text": "Man, that's a hard problem.",
+    "start": 475.21,
+    "duration": 1.643
+  },
+  {
+    "text": "ADI IGNATIUS: It's\na hard problem.",
+    "start": 476.853,
+    "duration": 1.417
+  },
+  {
+    "text": "And I'm sure some people\nare going to read your book",
+    "start": 478.27,
+    "duration": 2.167
+  },
+  {
+    "text": "and think, hang on, a\nlot of these companies",
+    "start": 480.437,
+    "duration": 2.783
+  },
+  {
+    "text": "we're talking about are--",
+    "start": 483.22,
+    "duration": 1.59
+  },
+  {
+    "text": "not exclusively-- but\nare Silicon Valley",
+    "start": 484.81,
+    "duration": 2.04
+  },
+  {
+    "text": "startups or somewhere\nin that realm.",
+    "start": 486.85,
+    "duration": 4.35
+  },
+  {
+    "text": "The popular perception,\nI would say,",
+    "start": 491.2,
+    "duration": 3.36
+  },
+  {
+    "text": "is these are not cultures\nthat you necessarily want",
+    "start": 494.56,
+    "duration": 3.93
+  },
+  {
+    "text": "to emulate, that they're often\nmale-dominated bro cultures",
+    "start": 498.49,
+    "duration": 4.35
+  },
+  {
+    "text": "that you may have the boss--",
+    "start": 502.84,
+    "duration": 3.51
+  },
+  {
+    "text": "frequently, in these cases, is\na kind of overly-demanding bully",
+    "start": 506.35,
+    "duration": 4.14
+  },
+  {
+    "text": "individual.",
+    "start": 510.49,
+    "duration": 0.91
+  },
+  {
+    "text": "So how do you how do\nyou square all this?",
+    "start": 511.4,
+    "duration": 1.801
+  },
+  {
+    "text": "ANDREW MCAFEE: And\nthere clearly is",
+    "start": 513.201,
+    "duration": 1.458
+  },
+  {
+    "text": "some of that going on\nin the Valley, right?",
+    "start": 514.659,
+    "duration": 1.792
+  },
+  {
+    "text": "There are toxic cultures.",
+    "start": 516.451,
+    "duration": 1.088
+  },
+  {
+    "text": "You mentioned the bro culture.",
+    "start": 517.539,
+    "duration": 2.341
+  },
+  {
+    "text": "I would say that Theranos is\none of the most toxic cultures",
+    "start": 519.88,
+    "duration": 2.669
+  },
+  {
+    "text": "I've ever heard about,\nwas headquartered",
+    "start": 522.549,
+    "duration": 1.831
+  },
+  {
+    "text": "in Silicon Valley.",
+    "start": 524.38,
+    "duration": 1.32
+  },
+  {
+    "text": "So I don't think those\nare geek companies at all.",
+    "start": 525.7,
+    "duration": 3.12
+  },
+  {
+    "text": "They might be in the\nright geographic location.",
+    "start": 528.82,
+    "duration": 2.25
+  },
+  {
+    "text": "But they're not\nfollowing the Geek Way,",
+    "start": 531.07,
+    "duration": 2.67
+  },
+  {
+    "text": "which is, again,\nabout these norms",
+    "start": 533.74,
+    "duration": 1.89
+  },
+  {
+    "text": "and about creating\na culture that",
+    "start": 535.63,
+    "duration": 2.1
+  },
+  {
+    "text": "is fast-moving, free-flowing,\nargumentative, autonomous,",
+    "start": 537.73,
+    "duration": 5.61
+  },
+  {
+    "text": "evidence-driven and\npretty egalitarian.",
+    "start": 543.34,
+    "duration": 2.49
+  },
+  {
+    "text": "That's the goal of the Geek Way.",
+    "start": 545.83,
+    "duration": 1.8
+  },
+  {
+    "text": "Now, you point out\nsome of these companies",
+    "start": 547.63,
+    "duration": 1.95
+  },
+  {
+    "text": "that I do think follow the Geek\nWay are still too pale, stale,",
+    "start": 549.58,
+    "duration": 3.86
+  },
+  {
+    "text": "and male.",
+    "start": 553.44,
+    "duration": 0.5
+  },
+  {
+    "text": "And I think that's\nabsolutely true.",
+    "start": 553.94,
+    "duration": 1.5
+  },
+  {
+    "text": "The evidence is\npretty clear on this.",
+    "start": 555.44,
+    "duration": 1.68
+  },
+  {
+    "text": "I hope that gets\nbetter over time.",
+    "start": 557.12,
+    "duration": 1.88
+  },
+  {
+    "text": "But you said something\nthat I disagree",
+    "start": 559.0,
+    "duration": 2.01
+  },
+  {
+    "text": "with is that a lot of these\ncultures, that they're not good",
+    "start": 561.01,
+    "duration": 3.06
+  },
+  {
+    "text": "places to work.",
+    "start": 564.07,
+    "duration": 1.17
+  },
+  {
+    "text": "That's true in some cases.",
+    "start": 565.24,
+    "duration": 1.68
+  },
+  {
+    "text": "You remember when LinkedIn\ndid its top attractors",
+    "start": 566.92,
+    "duration": 2.79
+  },
+  {
+    "text": "survey, I believe, in 2016.",
+    "start": 569.71,
+    "duration": 2.375
+  },
+  {
+    "text": "They said, look,\nwe're just going",
+    "start": 572.085,
+    "duration": 1.375
+  },
+  {
+    "text": "to look at objective criteria.",
+    "start": 573.46,
+    "duration": 1.5
+  },
+  {
+    "text": "We're going to look at\nwhich company pages get",
+    "start": 574.96,
+    "duration": 2.73
+  },
+  {
+    "text": "viewed the most often by\nLinkedIn members, which",
+    "start": 577.69,
+    "duration": 2.58
+  },
+  {
+    "text": "companies get the most interest\nfrom LinkedIn members, the most",
+    "start": 580.27,
+    "duration": 2.73
+  },
+  {
+    "text": "applications, and where\ndo people stick around",
+    "start": 583.0,
+    "duration": 2.74
+  },
+  {
+    "text": "when they take their first job?",
+    "start": 585.74,
+    "duration": 2.24
+  },
+  {
+    "text": "The top 11 attractors\nin the LinkedIn list",
+    "start": 587.98,
+    "duration": 4.59
+  },
+  {
+    "text": "were all companies\nheadquartered on the West",
+    "start": 592.57,
+    "duration": 2.82
+  },
+  {
+    "text": "Coast in the industry\nthat we loosely call tech.",
+    "start": 595.39,
+    "duration": 3.42
+  },
+  {
+    "text": "The geek culture is an extremely\nattractive culture to work in.",
+    "start": 598.81,
+    "duration": 4.78
+  },
+  {
+    "text": "ADI IGNATIUS: So again,\nif you have questions--",
+    "start": 603.59,
+    "duration": 2.21
+  },
+  {
+    "text": "if viewers have\nquestions for Andy,",
+    "start": 605.8,
+    "duration": 1.63
+  },
+  {
+    "text": "please put them into the chat.",
+    "start": 607.43,
+    "duration": 1.25
+  },
+  {
+    "text": "I'll get to them later.",
+    "start": 608.68,
+    "duration": 3.48
+  },
+  {
+    "text": "So one thing I've\nalways wondered",
+    "start": 612.16,
+    "duration": 2.19
+  },
+  {
+    "text": "is some of these,\nlet's say, founders,",
+    "start": 614.35,
+    "duration": 4.82
+  },
+  {
+    "text": "entrepreneurs who\ngot into whatever",
+    "start": 619.17,
+    "duration": 3.172
+  },
+  {
+    "text": "they got into because\nthey wanted to make",
+    "start": 622.342,
+    "duration": 1.708
+  },
+  {
+    "text": "the world a better place.",
+    "start": 624.05,
+    "duration": 1.05
+  },
+  {
+    "text": "And Sergey and Larry\nin their garage",
+    "start": 625.1,
+    "duration": 4.02
+  },
+  {
+    "text": "trying to systematize our\naccess to all the world's",
+    "start": 629.12,
+    "duration": 4.02
+  },
+  {
+    "text": "information, these\nsort of great ideals--",
+    "start": 633.14,
+    "duration": 1.71
+  },
+  {
+    "text": "when they are actually\nrunning companies,",
+    "start": 634.85,
+    "duration": 2.58
+  },
+  {
+    "text": "they not only are trying\nto run a company great.",
+    "start": 637.43,
+    "duration": 3.36
+  },
+  {
+    "text": "They become killers, wanting\nto wipe out the competition,",
+    "start": 640.79,
+    "duration": 5.07
+  },
+  {
+    "text": "to foster monopolistic\npractices,",
+    "start": 645.86,
+    "duration": 3.12
+  },
+  {
+    "text": "to just grab up as much\nmarket share as possible.",
+    "start": 648.98,
+    "duration": 2.49
+  },
+  {
+    "text": "ANDREW MCAFEE: Is\nany of this new?",
+    "start": 651.47,
+    "duration": 2.213
+  },
+  {
+    "text": "No, I'm serious.",
+    "start": 653.683,
+    "duration": 0.667
+  },
+  {
+    "text": "Were the businesses of\nprevious eras cuddly?",
+    "start": 654.35,
+    "duration": 2.49
+  },
+  {
+    "text": "Did they want their\ncompetitors to succeed?",
+    "start": 656.84,
+    "duration": 2.25
+  },
+  {
+    "text": "Were they trying\nto rise all boats?",
+    "start": 659.09,
+    "duration": 2.38
+  },
+  {
+    "text": "I don't need to tell you that\ncapitalism is an inherently",
+    "start": 661.47,
+    "duration": 3.14
+  },
+  {
+    "text": "competitive process.",
+    "start": 664.61,
+    "duration": 1.44
+  },
+  {
+    "text": "These companies are very,\nvery good performers.",
+    "start": 666.05,
+    "duration": 2.58
+  },
+  {
+    "text": "If you want to use the\nadjective \"killer\" for them,",
+    "start": 668.63,
+    "duration": 2.64
+  },
+  {
+    "text": "yeah, I think that's by design.",
+    "start": 671.27,
+    "duration": 2.35
+  },
+  {
+    "text": "You're not in business\nnot to succeed.",
+    "start": 673.62,
+    "duration": 3.22
+  },
+  {
+    "text": "You want to grow\nyour market share.",
+    "start": 676.84,
+    "duration": 1.64
+  },
+  {
+    "text": "You want to grow your profits.",
+    "start": 678.48,
+    "duration": 1.41
+  },
+  {
+    "text": "You want you want to grow.",
+    "start": 679.89,
+    "duration": 1.23
+  },
+  {
+    "text": "That is often at the\nexpense of somebody else.",
+    "start": 681.12,
+    "duration": 2.73
+  },
+  {
+    "text": "I think it's for the courts\nto decide whether they meet",
+    "start": 683.85,
+    "duration": 2.61
+  },
+  {
+    "text": "the definition of monopolist.",
+    "start": 686.46,
+    "duration": 1.95
+  },
+  {
+    "text": "It's a word we\ntoss around a lot.",
+    "start": 688.41,
+    "duration": 3.16
+  },
+  {
+    "text": "I think the courts so\nfar have tossed out",
+    "start": 691.57,
+    "duration": 1.97
+  },
+  {
+    "text": "a lot of the recent\nlawsuits against some",
+    "start": 693.54,
+    "duration": 2.4
+  },
+  {
+    "text": "of these giant tech companies.",
+    "start": 695.94,
+    "duration": 1.44
+  },
+  {
+    "text": "I don't think they meet the\ndefinition of \"monopolist.\"",
+    "start": 697.38,
+    "duration": 2.357
+  },
+  {
+    "text": "I think, in general, for\na lot of these companies,",
+    "start": 699.737,
+    "duration": 2.083
+  },
+  {
+    "text": "the competition\nis one click away.",
+    "start": 701.82,
+    "duration": 2.1
+  },
+  {
+    "text": "And is Tesla a monopolist\nin the auto industry?",
+    "start": 703.92,
+    "duration": 2.67
+  },
+  {
+    "text": "You simply can't make that case.",
+    "start": 706.59,
+    "duration": 1.83
+  },
+  {
+    "text": "SpaceX has become pretty\nclose to a monopolist",
+    "start": 708.42,
+    "duration": 2.43
+  },
+  {
+    "text": "in the rockets and\nsatellites industry.",
+    "start": 710.85,
+    "duration": 3.27
+  },
+  {
+    "text": "But they didn't start that way.",
+    "start": 714.12,
+    "duration": 1.47
+  },
+  {
+    "text": "And they've become so large\nand influential because they",
+    "start": 715.59,
+    "duration": 4.62
+  },
+  {
+    "text": "do the job better.",
+    "start": 720.21,
+    "duration": 2.03
+  },
+  {
+    "text": "ADI IGNATIUS: All right.",
+    "start": 722.24,
+    "duration": 1.0
+  },
+  {
+    "text": "So let's talk about companies\nthat are doing it right.",
+    "start": 723.24,
+    "duration": 2.37
+  },
+  {
+    "text": "As you say, this is not\nthis is not universally.",
+    "start": 725.61,
+    "duration": 2.16
+  },
+  {
+    "text": "For digital companies,\nsome follow the Geek Way,",
+    "start": 727.77,
+    "duration": 2.983
+  },
+  {
+    "text": "as you've laid it out.",
+    "start": 730.753,
+    "duration": 0.917
+  },
+  {
+    "text": "Some don't.",
+    "start": 731.67,
+    "duration": 0.78
+  },
+  {
+    "text": "You mentioned a couple.",
+    "start": 732.45,
+    "duration": 1.53
+  },
+  {
+    "text": "Or maybe a different question\nis, how many companies-- large,",
+    "start": 733.98,
+    "duration": 4.11
+  },
+  {
+    "text": "small, digital, otherwise--",
+    "start": 738.09,
+    "duration": 2.01
+  },
+  {
+    "text": "live into these\nprinciples, do you think?",
+    "start": 740.1,
+    "duration": 1.98
+  },
+  {
+    "text": "ANDREW MCAFEE: I think that's\na really interesting question.",
+    "start": 742.08,
+    "duration": 2.5
+  },
+  {
+    "text": "And I don't have a great\nway to answer it yet",
+    "start": 744.58,
+    "duration": 1.88
+  },
+  {
+    "text": "because the only way that\nI can think to answer it",
+    "start": 746.46,
+    "duration": 2.083
+  },
+  {
+    "text": "is to administer a\nsurvey to everybody",
+    "start": 748.543,
+    "duration": 1.99
+  },
+  {
+    "text": "and get them to fill it out.",
+    "start": 750.533,
+    "duration": 1.167
+  },
+  {
+    "text": "But that's just\nnot going to work.",
+    "start": 751.7,
+    "duration": 1.58
+  },
+  {
+    "text": "They're not going to\nfill out that survey.",
+    "start": 753.28,
+    "duration": 1.325
+  },
+  {
+    "text": "ADI IGNATIUS: Well, roughly.",
+    "start": 754.605,
+    "duration": 0.495
+  },
+  {
+    "text": "ANDREW MCAFEE: But\nyou can look at what",
+    "start": 755.1,
+    "duration": 2.19
+  },
+  {
+    "text": "we know about the cultures\nat these companies.",
+    "start": 757.29,
+    "duration": 2.65
+  },
+  {
+    "text": "You can also look at the\nfantastic culture 500 research",
+    "start": 759.94,
+    "duration": 4.16
+  },
+  {
+    "text": "that Don and Charlie Sull\ndid published in a competitor",
+    "start": 764.1,
+    "duration": 3.12
+  },
+  {
+    "text": "magazine of yours, Sloan\nManagement Review, where they",
+    "start": 767.22,
+    "duration": 3.45
+  },
+  {
+    "text": "grabbed all of the\nLinkedIn reviews",
+    "start": 770.67,
+    "duration": 2.22
+  },
+  {
+    "text": "and they put them through\na machine learning analysis",
+    "start": 772.89,
+    "duration": 2.85
+  },
+  {
+    "text": "to see what companies' own\nemployees said about them.",
+    "start": 775.74,
+    "duration": 5.2
+  },
+  {
+    "text": "And the three areas that\nI was most interested in",
+    "start": 780.94,
+    "duration": 2.1
+  },
+  {
+    "text": "were execution,\nagility, and innovation.",
+    "start": 783.04,
+    "duration": 2.94
+  },
+  {
+    "text": "And wow, the scores for\ncompanies clustered on the West",
+    "start": 785.98,
+    "duration": 4.68
+  },
+  {
+    "text": "Coast, clustered in Silicon\nValley, clustered in industries",
+    "start": 790.66,
+    "duration": 3.3
+  },
+  {
+    "text": "that we call \"high tech,\" those\nscores are off the charts.",
+    "start": 793.96,
+    "duration": 3.52
+  },
+  {
+    "text": "There's not any real\ncompetition for them.",
+    "start": 797.48,
+    "duration": 2.52
+  },
+  {
+    "text": "So there's something\nbrewing on the West Coast",
+    "start": 800.0,
+    "duration": 3.29
+  },
+  {
+    "text": "in industries that we label\n\"high tech\" for reasons that I",
+    "start": 803.29,
+    "duration": 2.61
+  },
+  {
+    "text": "don't very much.",
+    "start": 805.9,
+    "duration": 1.2
+  },
+  {
+    "text": "There's something\nbrewing that's new,",
+    "start": 807.1,
+    "duration": 2.64
+  },
+  {
+    "text": "that is different\nthan what's going",
+    "start": 809.74,
+    "duration": 1.68
+  },
+  {
+    "text": "on elsewhere in the\neconomy, and that's",
+    "start": 811.42,
+    "duration": 1.98
+  },
+  {
+    "text": "pretty demonstrably powerful.",
+    "start": 813.4,
+    "duration": 1.38
+  },
+  {
+    "text": "The label that I hang\non that is the Geek Way.",
+    "start": 814.78,
+    "duration": 3.48
+  },
+  {
+    "text": "ADI IGNATIUS: So was\nSteve Jobs a geek?",
+    "start": 818.26,
+    "duration": 2.28
+  },
+  {
+    "text": "And did his Apple\nfollow the Geek Way?",
+    "start": 820.54,
+    "duration": 2.37
+  },
+  {
+    "text": "Or was that a different model?",
+    "start": 822.91,
+    "duration": 2.07
+  },
+  {
+    "text": "ANDREW MCAFEE: And\nJobs has some really",
+    "start": 824.98,
+    "duration": 2.25
+  },
+  {
+    "text": "classic non-geek\ncharacteristics.",
+    "start": 827.23,
+    "duration": 2.1
+  },
+  {
+    "text": "He believed that\nhe knew best right.",
+    "start": 829.33,
+    "duration": 1.89
+  },
+  {
+    "text": "He had a very, very large ego.",
+    "start": 831.22,
+    "duration": 1.56
+  },
+  {
+    "text": "He also screamed\nat his subordinates",
+    "start": 832.78,
+    "duration": 1.53
+  },
+  {
+    "text": "all the time, which I think\nis absolutely not what",
+    "start": 834.31,
+    "duration": 2.59
+  },
+  {
+    "text": "an open leader does.",
+    "start": 836.9,
+    "duration": 2.61
+  },
+  {
+    "text": "However, I interviewed\nEric Schmidt for the book.",
+    "start": 839.51,
+    "duration": 2.262
+  },
+  {
+    "text": "And I brought this up to him.",
+    "start": 841.772,
+    "duration": 1.208
+  },
+  {
+    "text": "And he said, look, I was on\nApple's board for a while,",
+    "start": 842.98,
+    "duration": 2.58
+  },
+  {
+    "text": "I knew Steve pretty well.",
+    "start": 845.56,
+    "duration": 1.32
+  },
+  {
+    "text": "He said Steve was a tough\nperson in all those ways.",
+    "start": 846.88,
+    "duration": 2.38
+  },
+  {
+    "text": "But he learned that if\nyou want to stay on top,",
+    "start": 849.26,
+    "duration": 3.23
+  },
+  {
+    "text": "you have to listen to\nthe people around you.",
+    "start": 852.49,
+    "duration": 2.76
+  },
+  {
+    "text": "You have to stop thinking\nthat you have all the answers.",
+    "start": 855.25,
+    "duration": 2.53
+  },
+  {
+    "text": "We see a really clear example\nof that with the App Store.",
+    "start": 857.78,
+    "duration": 2.72
+  },
+  {
+    "text": "And Adi, like you\nprobably remember,",
+    "start": 860.5,
+    "duration": 1.68
+  },
+  {
+    "text": "Jobs did not want to open up\nhis beautiful, perfect, walled",
+    "start": 862.18,
+    "duration": 4.11
+  },
+  {
+    "text": "garden iPhone to\noutside developers.",
+    "start": 866.29,
+    "duration": 2.52
+  },
+  {
+    "text": "He had to be talked into it.",
+    "start": 868.81,
+    "duration": 1.17
+  },
+  {
+    "text": "He eventually realized that\nhe was wrong about that.",
+    "start": 869.98,
+    "duration": 3.13
+  },
+  {
+    "text": "So there is a little bit\nof that openness going on.",
+    "start": 873.11,
+    "duration": 2.67
+  },
+  {
+    "text": "One thing that Apple is\npretty fanatic about,",
+    "start": 875.78,
+    "duration": 2.3
+  },
+  {
+    "text": "as I understand it, is they make\ndecisions based on evidence.",
+    "start": 878.08,
+    "duration": 4.02
+  },
+  {
+    "text": "And whether or not that's a\nA/B testing infrastructure",
+    "start": 882.1,
+    "duration": 2.76
+  },
+  {
+    "text": "is one thing.",
+    "start": 884.86,
+    "duration": 0.93
+  },
+  {
+    "text": "Apple loves to demo\nfeatures and gets everybody",
+    "start": 885.79,
+    "duration": 3.39
+  },
+  {
+    "text": "in the room to look at\nthis and say, for example,",
+    "start": 889.18,
+    "duration": 2.22
+  },
+  {
+    "text": "is it better to\nhave blurry portrait",
+    "start": 891.4,
+    "duration": 2.7
+  },
+  {
+    "text": "photos where you can\nadjust the blur before you",
+    "start": 894.1,
+    "duration": 2.4
+  },
+  {
+    "text": "take the picture?",
+    "start": 896.5,
+    "duration": 0.93
+  },
+  {
+    "text": "The instant they\ndid a demo, they",
+    "start": 897.43,
+    "duration": 2.22
+  },
+  {
+    "text": "had the answer to that question.",
+    "start": 899.65,
+    "duration": 1.47
+  },
+  {
+    "text": "They did not sit\naround and argue",
+    "start": 901.12,
+    "duration": 1.95
+  },
+  {
+    "text": "from their different\npoints of view.",
+    "start": 903.07,
+    "duration": 1.56
+  },
+  {
+    "text": "They said, OK, let's\nrun an experiment.",
+    "start": 904.63,
+    "duration": 1.625
+  },
+  {
+    "text": "Let's do a demo here.",
+    "start": 906.255,
+    "duration": 1.115
+  },
+  {
+    "text": "That's an extremely\ngeeky approach.",
+    "start": 907.37,
+    "duration": 1.925
+  },
+  {
+    "text": "ADI IGNATIUS: I mean, one of the\ninteresting things about Jobs,",
+    "start": 909.295,
+    "duration": 2.625
+  },
+  {
+    "text": "and certainly something\nhe would say about--",
+    "start": 911.92,
+    "duration": 1.47
+  },
+  {
+    "text": "he would have said\nabout himself,",
+    "start": 913.39,
+    "duration": 1.375
+  },
+  {
+    "text": "he did say about himself--",
+    "start": 914.765,
+    "duration": 1.175
+  },
+  {
+    "text": "was that he didn't and that\none shouldn't slavishly",
+    "start": 915.94,
+    "duration": 3.93
+  },
+  {
+    "text": "follow the focus\ngroups, that people",
+    "start": 919.87,
+    "duration": 4.087
+  },
+  {
+    "text": "don't know what they want.",
+    "start": 923.957,
+    "duration": 1.083
+  },
+  {
+    "text": "So in a sense, yeah, the\ndata, but not necessarily",
+    "start": 925.04,
+    "duration": 3.38
+  },
+  {
+    "text": "and a combination\nof, let's get input.",
+    "start": 928.42,
+    "duration": 4.11
+  },
+  {
+    "text": "But there is a lot of\npersonal touch, personal feel.",
+    "start": 932.53,
+    "duration": 2.568
+  },
+  {
+    "text": "It's like it's sort\nof like Moneyball",
+    "start": 935.098,
+    "duration": 1.542
+  },
+  {
+    "text": "versus the old school.",
+    "start": 936.64,
+    "duration": 1.41
+  },
+  {
+    "text": "And maybe the answer is\na combination of skills.",
+    "start": 938.05,
+    "duration": 3.057
+  },
+  {
+    "text": "ANDREW MCAFEE: Absolutely.",
+    "start": 941.107,
+    "duration": 1.083
+  },
+  {
+    "text": "And Ted Sarandos, who's\nthe co-CEO of Netflix",
+    "start": 942.19,
+    "duration": 3.0
+  },
+  {
+    "text": "says, our decision making\nis pretty algorithmic.",
+    "start": 945.19,
+    "duration": 2.61
+  },
+  {
+    "text": "It's 70%/30% algorithmic\nversus human judgment.",
+    "start": 947.8,
+    "duration": 3.28
+  },
+  {
+    "text": "But he said, if anything\nthe human judgment",
+    "start": 951.08,
+    "duration": 1.85
+  },
+  {
+    "text": "is on top, if that\nmakes any sense.",
+    "start": 952.93,
+    "duration": 2.2
+  },
+  {
+    "text": "And I think that\nmakes a ton of sense",
+    "start": 955.13,
+    "duration": 1.58
+  },
+  {
+    "text": "because this norm of science\nthat I talk about in the book,",
+    "start": 956.71,
+    "duration": 3.51
+  },
+  {
+    "text": "and that the geeks are pretty\npassionate about, it's not",
+    "start": 960.22,
+    "duration": 2.7
+  },
+  {
+    "text": "just dry analysis and do\nwhatever the data says.",
+    "start": 962.92,
+    "duration": 3.36
+  },
+  {
+    "text": "That's an inaccurate caricature.",
+    "start": 966.28,
+    "duration": 2.13
+  },
+  {
+    "text": "Science is about settling\narguments with evidence.",
+    "start": 968.41,
+    "duration": 4.62
+  },
+  {
+    "text": "It's a ground rune\nfor how you're",
+    "start": 973.03,
+    "duration": 1.44
+  },
+  {
+    "text": "going to come to a decision.",
+    "start": 974.47,
+    "duration": 1.26
+  },
+  {
+    "text": "You're going to do a test.",
+    "start": 975.73,
+    "duration": 0.84
+  },
+  {
+    "text": "You're going to\ndo an experiment.",
+    "start": 976.57,
+    "duration": 1.17
+  },
+  {
+    "text": "You're going to sit around in\na group and argue about it.",
+    "start": 977.74,
+    "duration": 2.375
+  },
+  {
+    "text": "And if you can't\nagree, what evidence",
+    "start": 980.115,
+    "duration": 1.795
+  },
+  {
+    "text": "is going to settle this issue?",
+    "start": 981.91,
+    "duration": 1.62
+  },
+  {
+    "text": "Science is this\ninherently deeply social,",
+    "start": 983.53,
+    "duration": 3.27
+  },
+  {
+    "text": "deeply argumentative\nprocess with a ground rule.",
+    "start": 986.8,
+    "duration": 3.6
+  },
+  {
+    "text": "Evidence is the queen here.",
+    "start": 990.4,
+    "duration": 1.21
+  },
+  {
+    "text": "And that's what we're\ngoing to follow.",
+    "start": 991.61,
+    "duration": 1.583
+  },
+  {
+    "text": "And a lot of the geek\ncompanies that I respect",
+    "start": 993.193,
+    "duration": 2.457
+  },
+  {
+    "text": "do that as naturally\nas breathing.",
+    "start": 995.65,
+    "duration": 3.06
+  },
+  {
+    "text": "ADI IGNATIUS: So\none of the examples",
+    "start": 998.71,
+    "duration": 1.56
+  },
+  {
+    "text": "in your book of geek culture\ntriumphing is Microsoft,",
+    "start": 1000.27,
+    "duration": 4.29
+  },
+  {
+    "text": "and specifically when\nSatya Nadella came in",
+    "start": 1004.56,
+    "duration": 4.02
+  },
+  {
+    "text": "to and kind of rekindle\nthat early success and more.",
+    "start": 1008.58,
+    "duration": 3.93
+  },
+  {
+    "text": "Talk a little bit about what\nhe got right, particularly",
+    "start": 1012.51,
+    "duration": 3.36
+  },
+  {
+    "text": "in the framework that--",
+    "start": 1015.87,
+    "duration": 1.145
+  },
+  {
+    "text": "ANDREW MCAFEE:\nAdi, can you think",
+    "start": 1017.015,
+    "duration": 1.375
+  },
+  {
+    "text": "of a more impressive\ncorporate turnaround",
+    "start": 1018.39,
+    "duration": 1.92
+  },
+  {
+    "text": "story in living memory?",
+    "start": 1020.31,
+    "duration": 1.422
+  },
+  {
+    "text": "ADI IGNATIUS: No.",
+    "start": 1021.732,
+    "duration": 0.708
+  },
+  {
+    "text": "Microsoft went from\nthe tech company",
+    "start": 1022.44,
+    "duration": 1.61
+  },
+  {
+    "text": "we liked least to maybe\nthe one we like best.",
+    "start": 1024.05,
+    "duration": 2.958
+  },
+  {
+    "text": "ANDREW MCAFEE: And if\nyou were an investor,",
+    "start": 1027.008,
+    "duration": 1.792
+  },
+  {
+    "text": "you really didn't like\nit for about a decade.",
+    "start": 1028.8,
+    "duration": 1.875
+  },
+  {
+    "text": "The stock price was\nflat as a corpse's EKG.",
+    "start": 1030.675,
+    "duration": 4.235
+  },
+  {
+    "text": "And then, Nadella took over.",
+    "start": 1034.91,
+    "duration": 1.637
+  },
+  {
+    "text": "And it's become one of the\nmost valuable companies",
+    "start": 1036.547,
+    "duration": 2.083
+  },
+  {
+    "text": "in the world.",
+    "start": 1038.63,
+    "duration": 0.61
+  },
+  {
+    "text": "It's an astonishing\ncomeback story.",
+    "start": 1039.24,
+    "duration": 2.18
+  },
+  {
+    "text": "So I got to interview\nNadella for the book.",
+    "start": 1041.42,
+    "duration": 2.1
+  },
+  {
+    "text": "And he made brilliant strategic\nmoves, a bunch of them--",
+    "start": 1043.52,
+    "duration": 3.18
+  },
+  {
+    "text": "Microsoft embracing\nopen source, wow.",
+    "start": 1046.7,
+    "duration": 3.12
+  },
+  {
+    "text": "But I was interested in the\ncultural changes that he made.",
+    "start": 1049.82,
+    "duration": 2.928
+  },
+  {
+    "text": "And he did a couple of things\nthat I think are straight",
+    "start": 1052.748,
+    "duration": 2.292
+  },
+  {
+    "text": "out of the geek playbook.",
+    "start": 1055.04,
+    "duration": 1.358
+  },
+  {
+    "text": "Some of them are obvious.",
+    "start": 1056.398,
+    "duration": 1.042
+  },
+  {
+    "text": "He embraced agile\ndevelopment methods",
+    "start": 1057.44,
+    "duration": 1.95
+  },
+  {
+    "text": "as widely and quickly as\npossible inside Microsoft.",
+    "start": 1059.39,
+    "duration": 3.66
+  },
+  {
+    "text": "He did a couple things to reduce\nthe sclerotic bureaucracy that",
+    "start": 1063.05,
+    "duration": 3.66
+  },
+  {
+    "text": "was in place at Microsoft,\nwhich was just hamstringing",
+    "start": 1066.71,
+    "duration": 2.76
+  },
+  {
+    "text": "their ability to do\nanything important out",
+    "start": 1069.47,
+    "duration": 1.92
+  },
+  {
+    "text": "there in the world.",
+    "start": 1071.39,
+    "duration": 0.94
+  },
+  {
+    "text": "One of the brilliant things\nhe did was say, look,",
+    "start": 1072.33,
+    "duration": 2.48
+  },
+  {
+    "text": "you cannot own a digital\nresource inside Microsoft.",
+    "start": 1074.81,
+    "duration": 4.65
+  },
+  {
+    "text": "You cannot own the data.",
+    "start": 1079.46,
+    "duration": 1.68
+  },
+  {
+    "text": "You cannot own the code.",
+    "start": 1081.14,
+    "duration": 1.42
+  },
+  {
+    "text": "And what he meant by that was,\nyou can't be the gatekeeper.",
+    "start": 1082.56,
+    "duration": 2.46
+  },
+  {
+    "text": "You can't say yes or\nno to other groups",
+    "start": 1085.02,
+    "duration": 1.8
+  },
+  {
+    "text": "who might want to use it.",
+    "start": 1086.82,
+    "duration": 1.27
+  },
+  {
+    "text": "So with that one simple move,\nhe said to the company, look,",
+    "start": 1088.09,
+    "duration": 3.23
+  },
+  {
+    "text": "if the group wants to go\ngrab all of the GitHub code",
+    "start": 1091.32,
+    "duration": 3.93
+  },
+  {
+    "text": "to train up a model to\nhelp to provide assistance",
+    "start": 1095.25,
+    "duration": 3.42
+  },
+  {
+    "text": "to programmers, you don't\nhave to ask permission.",
+    "start": 1098.67,
+    "duration": 2.1
+  },
+  {
+    "text": "Just go do that,\nsubject to all the right",
+    "start": 1100.77,
+    "duration": 3.21
+  },
+  {
+    "text": "constraints and safeties on it.",
+    "start": 1103.98,
+    "duration": 2.01
+  },
+  {
+    "text": "Man, that is an\nastonishingly good",
+    "start": 1105.99,
+    "duration": 1.92
+  },
+  {
+    "text": "bureaucracy-reduction mechanism.",
+    "start": 1107.91,
+    "duration": 2.04
+  },
+  {
+    "text": "I think maybe the deepest\nthing that Nadella did,",
+    "start": 1109.95,
+    "duration": 3.15
+  },
+  {
+    "text": "though, was he pulled off\nthis amazing feat of helping",
+    "start": 1113.1,
+    "duration": 4.05
+  },
+  {
+    "text": "Microsoft become a less\ndefensive organization.",
+    "start": 1117.15,
+    "duration": 3.39
+  },
+  {
+    "text": "And what I mean by that\nwas he says in the book",
+    "start": 1120.54,
+    "duration": 2.088
+  },
+  {
+    "text": "and he said in his\ninterview with me,",
+    "start": 1122.628,
+    "duration": 1.542
+  },
+  {
+    "text": "we had a culture\nwhere it was not",
+    "start": 1124.17,
+    "duration": 1.89
+  },
+  {
+    "text": "OK to be wrong to show\nany weakness, to not hit",
+    "start": 1126.06,
+    "duration": 5.04
+  },
+  {
+    "text": "your numbers, to not be the\nsmartest person in the room.",
+    "start": 1131.1,
+    "duration": 2.98
+  },
+  {
+    "text": "He said, we just\nhad that culture.",
+    "start": 1134.08,
+    "duration": 1.61
+  },
+  {
+    "text": "And it had to change.",
+    "start": 1135.69,
+    "duration": 1.48
+  },
+  {
+    "text": "And so he did a number of\nreally brilliant things",
+    "start": 1137.17,
+    "duration": 3.5
+  },
+  {
+    "text": "to move from a culture\nof defensiveness",
+    "start": 1140.67,
+    "duration": 2.46
+  },
+  {
+    "text": "to a culture of openness.",
+    "start": 1143.13,
+    "duration": 1.8
+  },
+  {
+    "text": "And when I used to hear\nthis word vulnerability",
+    "start": 1144.93,
+    "duration": 3.78
+  },
+  {
+    "text": "in connection with\nleadership or business,",
+    "start": 1148.71,
+    "duration": 2.91
+  },
+  {
+    "text": "I thought it was just the\nmost kind of buzz phrase,",
+    "start": 1151.62,
+    "duration": 3.12
+  },
+  {
+    "text": "hand-wavy nonsense business.",
+    "start": 1154.74,
+    "duration": 1.812
+  },
+  {
+    "text": "The company is not\na therapy group.",
+    "start": 1156.552,
+    "duration": 1.458
+  },
+  {
+    "text": "It's not there so you can\nsit around feeling vulnerable",
+    "start": 1158.01,
+    "duration": 2.64
+  },
+  {
+    "text": "all the time.",
+    "start": 1160.65,
+    "duration": 0.88
+  },
+  {
+    "text": "I was just wrong.",
+    "start": 1161.53,
+    "duration": 1.25
+  },
+  {
+    "text": "Now, the company is\nnot your therapy group.",
+    "start": 1162.78,
+    "duration": 1.93
+  },
+  {
+    "text": "However, a company is a place--\na successful company needs",
+    "start": 1164.71,
+    "duration": 3.38
+  },
+  {
+    "text": "to be a place where it's\nOK to be wrong, to fail,",
+    "start": 1168.09,
+    "duration": 3.45
+  },
+  {
+    "text": "to not have the answer, to\nshow that you're uncertain.",
+    "start": 1171.54,
+    "duration": 3.0
+  },
+  {
+    "text": "And Nadella helped get\nMicrosoft down that path.",
+    "start": 1174.54,
+    "duration": 4.21
+  },
+  {
+    "text": "And it was an absolutely\nfundamental thing to do.",
+    "start": 1178.75,
+    "duration": 3.06
+  },
+  {
+    "text": "I also interviewed\nYamini Rangan,",
+    "start": 1181.81,
+    "duration": 1.55
+  },
+  {
+    "text": "who's the CEO of HubSpot\nhere in Cambridge,",
+    "start": 1183.36,
+    "duration": 2.85
+  },
+  {
+    "text": "who took over a culture\nthat had an amazing culture",
+    "start": 1186.21,
+    "duration": 2.827
+  },
+  {
+    "text": "and has strengthened it through\na really difficult time,",
+    "start": 1189.037,
+    "duration": 2.333
+  },
+  {
+    "text": "through the pandemic.",
+    "start": 1191.37,
+    "duration": 1.05
+  },
+  {
+    "text": "And she said one of the\nthings that she learned",
+    "start": 1192.42,
+    "duration": 2.49
+  },
+  {
+    "text": "and that she was good at was\nsaying in this unbelievably",
+    "start": 1194.91,
+    "duration": 3.0
+  },
+  {
+    "text": "uncertain time of the pandemic,\nwhere tech companies were",
+    "start": 1197.91,
+    "duration": 2.428
+  },
+  {
+    "text": "growing like crazy, and\nthen they were shrinking,",
+    "start": 1200.338,
+    "duration": 2.042
+  },
+  {
+    "text": "and it was all weird, she said\nto a lot of her constituencies,",
+    "start": 1202.38,
+    "duration": 3.33
+  },
+  {
+    "text": "look, I don't know.",
+    "start": 1205.71,
+    "duration": 1.17
+  },
+  {
+    "text": "I don't know what the\nfuture holds here.",
+    "start": 1206.88,
+    "duration": 1.77
+  },
+  {
+    "text": "I'm going to be honest with you.",
+    "start": 1208.65,
+    "duration": 2.5
+  },
+  {
+    "text": "She also shared her\nboard performance review",
+    "start": 1211.15,
+    "duration": 4.04
+  },
+  {
+    "text": "with her direct reports--\nnot just the good parts,",
+    "start": 1215.19,
+    "duration": 2.46
+  },
+  {
+    "text": "but the stuff that she\nneeds to work on too.",
+    "start": 1217.65,
+    "duration": 2.1
+  },
+  {
+    "text": "These are all just\ngreat moves to start",
+    "start": 1219.75,
+    "duration": 2.7
+  },
+  {
+    "text": "to show the rest of\nthe organization,",
+    "start": 1222.45,
+    "duration": 1.78
+  },
+  {
+    "text": "it is OK not to be perfect, not\nto put on the brave front, not",
+    "start": 1224.23,
+    "duration": 3.98
+  },
+  {
+    "text": "to be winning all of the time.",
+    "start": 1228.21,
+    "duration": 2.744
+  },
+  {
+    "text": "Adi, Jack Welch's autobiography\nwas called Winning.",
+    "start": 1230.954,
+    "duration": 3.136
+  },
+  {
+    "text": "And it was just\nkind of epitomized",
+    "start": 1234.09,
+    "duration": 1.62
+  },
+  {
+    "text": "this industrial-era\nview of what you",
+    "start": 1235.71,
+    "duration": 2.16
+  },
+  {
+    "text": "have to do all day, every day.",
+    "start": 1237.87,
+    "duration": 2.02
+  },
+  {
+    "text": "I love the geek view,\nwhich is, hey, man, we're",
+    "start": 1239.89,
+    "duration": 2.232
+  },
+  {
+    "text": "going to launch some rockets.",
+    "start": 1242.122,
+    "duration": 1.208
+  },
+  {
+    "text": "And they are going to blow up.",
+    "start": 1243.33,
+    "duration": 1.308
+  },
+  {
+    "text": "Now, we're not going\nto kill anybody.",
+    "start": 1244.638,
+    "duration": 1.542
+  },
+  {
+    "text": "But we're absolutely\ngoing to launch",
+    "start": 1246.18,
+    "duration": 1.41
+  },
+  {
+    "text": "some rockets that are going\nto blow up on the launch pad.",
+    "start": 1247.59,
+    "duration": 2.375
+  },
+  {
+    "text": "Bezos said a few years back\nin a shareholders letter,",
+    "start": 1249.965,
+    "duration": 3.025
+  },
+  {
+    "text": "we are incubating multibillion\ndollar failures inside Amazon",
+    "start": 1252.99,
+    "duration": 4.39
+  },
+  {
+    "text": "right now.",
+    "start": 1257.38,
+    "duration": 0.5
+  },
+  {
+    "text": "That's appropriate for\na company of our scale.",
+    "start": 1257.88,
+    "duration": 2.37
+  },
+  {
+    "text": "And you look at\nAlexa, and I think",
+    "start": 1260.25,
+    "duration": 1.71
+  },
+  {
+    "text": "maybe he was right about that.",
+    "start": 1261.96,
+    "duration": 1.57
+  },
+  {
+    "text": "But the point is, this obsession\nwith winning, and being on top,",
+    "start": 1263.53,
+    "duration": 5.01
+  },
+  {
+    "text": "and being right, and being\ndominant-- that has to go away",
+    "start": 1268.54,
+    "duration": 3.475
+  },
+  {
+    "text": "ADI IGNATIUS: Those\nare great examples.",
+    "start": 1272.015,
+    "duration": 1.625
+  },
+  {
+    "text": "I do want to get to\naudience questions.",
+    "start": 1273.64,
+    "duration": 1.83
+  },
+  {
+    "text": "And there's actually a couple.",
+    "start": 1275.47,
+    "duration": 1.56
+  },
+  {
+    "text": "One came from Shabana\nin Pakistan, the other",
+    "start": 1277.03,
+    "duration": 2.4
+  },
+  {
+    "text": "from [INAUDIBLE] in India.",
+    "start": 1279.43,
+    "duration": 1.89
+  },
+  {
+    "text": "Similar questions,\nand it's really",
+    "start": 1281.32,
+    "duration": 1.92
+  },
+  {
+    "text": "getting at what kinds of\norganizational design,",
+    "start": 1283.24,
+    "duration": 3.54
+  },
+  {
+    "text": "organizational\nstructures do you need",
+    "start": 1286.78,
+    "duration": 2.67
+  },
+  {
+    "text": "to foster this geek culture?",
+    "start": 1289.45,
+    "duration": 3.06
+  },
+  {
+    "text": "ANDREW MCAFEE: I don't think\norg structure is the key",
+    "start": 1292.51,
+    "duration": 2.88
+  },
+  {
+    "text": "because the companies\nthat I surveyed",
+    "start": 1295.39,
+    "duration": 2.07
+  },
+  {
+    "text": "have very, very\ndifferent org charts.",
+    "start": 1297.46,
+    "duration": 2.49
+  },
+  {
+    "text": "They also have very\ndifferent formal practices.",
+    "start": 1299.95,
+    "duration": 3.3
+  },
+  {
+    "text": "Netflix is fairly\nfamous for having",
+    "start": 1303.25,
+    "duration": 2.04
+  },
+  {
+    "text": "the no-vacation-days policy.",
+    "start": 1305.29,
+    "duration": 2.28
+  },
+  {
+    "text": "Amazon has extremely\nstrict vacation policies",
+    "start": 1307.57,
+    "duration": 3.33
+  },
+  {
+    "text": "for different\nlevels of employee.",
+    "start": 1310.9,
+    "duration": 2.11
+  },
+  {
+    "text": "So I think it's not a matter\nof the org chart or the org",
+    "start": 1313.01,
+    "duration": 3.2
+  },
+  {
+    "text": "structure that you have.",
+    "start": 1316.21,
+    "duration": 1.23
+  },
+  {
+    "text": "It's not so much a matter of how\nformal a lot of your policies",
+    "start": 1317.44,
+    "duration": 3.7
+  },
+  {
+    "text": "are.",
+    "start": 1321.14,
+    "duration": 0.5
+  },
+  {
+    "text": "It's a matter of your norms.",
+    "start": 1321.64,
+    "duration": 1.87
+  },
+  {
+    "text": "And I love that book.",
+    "start": 1323.51,
+    "duration": 0.89
+  },
+  {
+    "text": "And Adi, like you\nknow, I use it--",
+    "start": 1324.4,
+    "duration": 1.652
+  },
+  {
+    "text": "I love that word.",
+    "start": 1326.052,
+    "duration": 0.708
+  },
+  {
+    "text": "And I use it in the\nbook all the time.",
+    "start": 1326.76,
+    "duration": 1.9
+  },
+  {
+    "text": "A norm is a behavior that\nthe people around you expect.",
+    "start": 1328.66,
+    "duration": 4.118
+  },
+  {
+    "text": "Maybe it's written down\nin the employees' manual.",
+    "start": 1332.778,
+    "duration": 2.042
+  },
+  {
+    "text": "Very often, it's not.",
+    "start": 1334.82,
+    "duration": 1.35
+  },
+  {
+    "text": "It's community policing.",
+    "start": 1336.17,
+    "duration": 1.5
+  },
+  {
+    "text": "It's what the people\naround you expect.",
+    "start": 1337.67,
+    "duration": 2.47
+  },
+  {
+    "text": "And if you go out\nof line and you",
+    "start": 1340.14,
+    "duration": 2.36
+  },
+  {
+    "text": "violate a norm in\na community, you",
+    "start": 1342.5,
+    "duration": 2.07
+  },
+  {
+    "text": "will know that fairly quickly.",
+    "start": 1344.57,
+    "duration": 1.62
+  },
+  {
+    "text": "And you will either\ncome back into line.",
+    "start": 1346.19,
+    "duration": 1.89
+  },
+  {
+    "text": "Or you're just not going\nto stick around very long.",
+    "start": 1348.08,
+    "duration": 2.38
+  },
+  {
+    "text": "So for me, if you can work\non these norms of science,",
+    "start": 1350.46,
+    "duration": 4.13
+  },
+  {
+    "text": "argue about evidence, of\nownership, push authority",
+    "start": 1354.59,
+    "duration": 3.45
+  },
+  {
+    "text": "and decision making down\nto an uncomfortable degree.",
+    "start": 1358.04,
+    "duration": 4.02
+  },
+  {
+    "text": "Speed, iterate, don't plan,\ndon't analyze, build stuff, get",
+    "start": 1362.06,
+    "duration": 4.14
+  },
+  {
+    "text": "feedback, learn from reality.",
+    "start": 1366.2,
+    "duration": 1.68
+  },
+  {
+    "text": "And then, openness,\ndon't be defensive.",
+    "start": 1367.88,
+    "duration": 2.55
+  },
+  {
+    "text": "Be willing to pivot.",
+    "start": 1370.43,
+    "duration": 0.9
+  },
+  {
+    "text": "Be willing to admit\nthat you're wrong.",
+    "start": 1371.33,
+    "duration": 1.59
+  },
+  {
+    "text": "They show a little\nvulnerability.",
+    "start": 1372.92,
+    "duration": 1.65
+  },
+  {
+    "text": "Those are the norms that are\ncritical for the Geek Way.",
+    "start": 1374.57,
+    "duration": 3.84
+  },
+  {
+    "text": "ADI IGNATIUS: So I think our\naudience is impressed with you",
+    "start": 1378.41,
+    "duration": 2.52
+  },
+  {
+    "text": "and with your argument.",
+    "start": 1380.93,
+    "duration": 2.05
+  },
+  {
+    "text": "Maybe it's the glasses.",
+    "start": 1382.98,
+    "duration": 1.07
+  },
+  {
+    "text": "But we have a question.",
+    "start": 1384.05,
+    "duration": 1.11
+  },
+  {
+    "text": "ANDREW MCAFEE: It's\nprobably the glasses.",
+    "start": 1385.16,
+    "duration": 0.9
+  },
+  {
+    "text": "ADI IGNATIUS: It's\nprobably the glasses.",
+    "start": 1386.06,
+    "duration": 0.96
+  },
+  {
+    "text": "It's always the glasses.",
+    "start": 1387.02,
+    "duration": 1.0
+  },
+  {
+    "text": "Bob, if you had an English\naccent, it would blow it away.",
+    "start": 1388.02,
+    "duration": 2.577
+  },
+  {
+    "text": "ANDREW MCAFEE: Damn.",
+    "start": 1390.597,
+    "duration": 0.833
+  },
+  {
+    "text": "I need a posh British\naccent, don't I?",
+    "start": 1391.43,
+    "duration": 2.1
+  },
+  {
+    "text": "ADI IGNATIUS: So Bob\nJernaki is asking,",
+    "start": 1393.53,
+    "duration": 1.68
+  },
+  {
+    "text": "is the stack of\nbooks on your right",
+    "start": 1395.21,
+    "duration": 1.83
+  },
+  {
+    "text": "your reading list for the week?",
+    "start": 1397.04,
+    "duration": 3.07
+  },
+  {
+    "text": "ANDREW MCAFEE: So these are\nfrom all over the place.",
+    "start": 1400.11,
+    "duration": 3.35
+  },
+  {
+    "text": "But there was a\nstack of books that I",
+    "start": 1403.46,
+    "duration": 2.04
+  },
+  {
+    "text": "kept referring to when I\nwas writing The Geek Way.",
+    "start": 1405.5,
+    "duration": 2.94
+  },
+  {
+    "text": "And they were not\nbusiness books.",
+    "start": 1408.44,
+    "duration": 3.376
+  },
+  {
+    "text": "I'm sorry to admit this\nas a business book writer.",
+    "start": 1411.816,
+    "duration": 2.984
+  },
+  {
+    "text": "They were books from\nthis relatively new field",
+    "start": 1414.8,
+    "duration": 3.18
+  },
+  {
+    "text": "called \"cultural\nevolution,\" which",
+    "start": 1417.98,
+    "duration": 2.19
+  },
+  {
+    "text": "gets at this fundamental\nquestion, why are we",
+    "start": 1420.17,
+    "duration": 3.42
+  },
+  {
+    "text": "the only species on the\nplanet that builds spaceships?",
+    "start": 1423.59,
+    "duration": 3.045
+  },
+  {
+    "text": "Nothing else is even close.",
+    "start": 1426.635,
+    "duration": 1.125
+  },
+  {
+    "text": "We're really the\nonly ones out there.",
+    "start": 1427.76,
+    "duration": 2.28
+  },
+  {
+    "text": "The octopuses are\nnot going to do it.",
+    "start": 1430.04,
+    "duration": 1.65
+  },
+  {
+    "text": "The ants, the bees,\nthe chimpanzees",
+    "start": 1431.69,
+    "duration": 2.04
+  },
+  {
+    "text": "are not going to do it.",
+    "start": 1433.73,
+    "duration": 1.26
+  },
+  {
+    "text": "Why are we humans, the only\nspaceship-building species",
+    "start": 1434.99,
+    "duration": 3.6
+  },
+  {
+    "text": "on the planet?",
+    "start": 1438.59,
+    "duration": 1.12
+  },
+  {
+    "text": "And this field of\ncultural evolution, to me,",
+    "start": 1439.71,
+    "duration": 2.54
+  },
+  {
+    "text": "has come up with the best\nanswer to that question.",
+    "start": 1442.25,
+    "duration": 2.11
+  },
+  {
+    "text": "Which is, we are\nthe only species",
+    "start": 1444.36,
+    "duration": 2.27
+  },
+  {
+    "text": "that cooperates intensely\nwith large numbers of people",
+    "start": 1446.63,
+    "duration": 3.54
+  },
+  {
+    "text": "that we're not related to.",
+    "start": 1450.17,
+    "duration": 1.26
+  },
+  {
+    "text": "And we are the species that\nlearns the quickest, that",
+    "start": 1451.43,
+    "duration": 2.73
+  },
+  {
+    "text": "improves its tool kit, its\ntechnologies, its cultures most",
+    "start": 1454.16,
+    "duration": 3.66
+  },
+  {
+    "text": "rapidly over time.",
+    "start": 1457.82,
+    "duration": 1.57
+  },
+  {
+    "text": "Now, you can take that.",
+    "start": 1459.39,
+    "duration": 1.25
+  },
+  {
+    "text": "And man, you can put that\nto work in a company.",
+    "start": 1460.64,
+    "duration": 2.19
+  },
+  {
+    "text": "A company is a large group\nof mostly unrelated people.",
+    "start": 1462.83,
+    "duration": 4.41
+  },
+  {
+    "text": "And the goal of a\ncompany is to improve",
+    "start": 1467.24,
+    "duration": 2.88
+  },
+  {
+    "text": "its culture, its artifacts,\nits technologies,",
+    "start": 1470.12,
+    "duration": 3.27
+  },
+  {
+    "text": "its practices over time.",
+    "start": 1473.39,
+    "duration": 1.69
+  },
+  {
+    "text": "So the goal of a\ncompany is to practice",
+    "start": 1475.08,
+    "duration": 2.21
+  },
+  {
+    "text": "very rapid cultural evolution.",
+    "start": 1477.29,
+    "duration": 2.07
+  },
+  {
+    "text": "Now that we a bit about how\ncultural evolution happens,",
+    "start": 1479.36,
+    "duration": 2.88
+  },
+  {
+    "text": "we can put those\ninsights to work.",
+    "start": 1482.24,
+    "duration": 2.38
+  },
+  {
+    "text": "And I think there's this\nmassive unexplored opportunity",
+    "start": 1484.62,
+    "duration": 3.56
+  },
+  {
+    "text": "to take the insights\nfrom this field",
+    "start": 1488.18,
+    "duration": 2.19
+  },
+  {
+    "text": "and put them to work\ninside the company.",
+    "start": 1490.37,
+    "duration": 2.19
+  },
+  {
+    "text": "I think it's so massive because\nI haven't heard anybody talk",
+    "start": 1492.56,
+    "duration": 3.63
+  },
+  {
+    "text": "using cultural evolution's\nterms inside even very",
+    "start": 1496.19,
+    "duration": 3.96
+  },
+  {
+    "text": "geeky companies.",
+    "start": 1500.15,
+    "duration": 0.84
+  },
+  {
+    "text": "This is very, very new stuff.",
+    "start": 1500.99,
+    "duration": 1.92
+  },
+  {
+    "text": "And I think The\nGeek Way, I think",
+    "start": 1502.91,
+    "duration": 2.43
+  },
+  {
+    "text": "my book is the first\napplied business",
+    "start": 1505.34,
+    "duration": 3.09
+  },
+  {
+    "text": "book of cultural evolution.",
+    "start": 1508.43,
+    "duration": 1.985
+  },
+  {
+    "text": "ADI IGNATIUS: I think I\njust figured something out.",
+    "start": 1510.415,
+    "duration": 2.125
+  },
+  {
+    "text": "You're a total geek.",
+    "start": 1512.54,
+    "duration": 1.393
+  },
+  {
+    "text": "ANDREW MCAFEE: Adi, we've been\nworking together for years.",
+    "start": 1513.933,
+    "duration": 2.417
+  },
+  {
+    "text": "It took you this\nlong to realize this?",
+    "start": 1516.35,
+    "duration": 1.583
+  },
+  {
+    "text": "But the thing that I got\nobsessed with was in my career,",
+    "start": 1517.933,
+    "duration": 3.127
+  },
+  {
+    "text": "I've spent a lot\nof time in the--",
+    "start": 1521.06,
+    "duration": 2.91
+  },
+  {
+    "text": "I hate these labels-- the old\neconomy and the new economy,",
+    "start": 1523.97,
+    "duration": 2.91
+  },
+  {
+    "text": "lots of industrial-era\nincumbents and then a lot",
+    "start": 1526.88,
+    "duration": 2.28
+  },
+  {
+    "text": "of companies clustered in\nthe tech space, clustered",
+    "start": 1529.16,
+    "duration": 3.03
+  },
+  {
+    "text": "on the West Coast.",
+    "start": 1532.19,
+    "duration": 0.9
+  },
+  {
+    "text": "And for my whole\ncareer, I have just",
+    "start": 1533.09,
+    "duration": 1.98
+  },
+  {
+    "text": "been trying to pattern\nmatch and figure out",
+    "start": 1535.07,
+    "duration": 2.52
+  },
+  {
+    "text": "what the real what the\ndeep differences are",
+    "start": 1537.59,
+    "duration": 1.86
+  },
+  {
+    "text": "between the two.",
+    "start": 1539.45,
+    "duration": 0.9
+  },
+  {
+    "text": "Is it the foosball tables?",
+    "start": 1540.35,
+    "duration": 1.38
+  },
+  {
+    "text": "Is it the hoodies?",
+    "start": 1541.73,
+    "duration": 0.84
+  },
+  {
+    "text": "Is it bring your dog to work?",
+    "start": 1542.57,
+    "duration": 1.47
+  },
+  {
+    "text": "No, obviously not.",
+    "start": 1544.04,
+    "duration": 1.32
+  },
+  {
+    "text": "Where the action is\nin the economy, where",
+    "start": 1545.36,
+    "duration": 3.03
+  },
+  {
+    "text": "the excitement is\nin the economy,",
+    "start": 1548.39,
+    "duration": 1.78
+  },
+  {
+    "text": "what are they doing differently?",
+    "start": 1550.17,
+    "duration": 1.52
+  },
+  {
+    "text": "And The Geek Way\ncontains my answers",
+    "start": 1551.69,
+    "duration": 2.34
+  },
+  {
+    "text": "to that kind of career-long,\ngeeky, head-scratching",
+    "start": 1554.03,
+    "duration": 3.21
+  },
+  {
+    "text": "question.",
+    "start": 1557.24,
+    "duration": 1.337
+  },
+  {
+    "text": "ADI IGNATIUS: So let's get\npractical now for our viewers",
+    "start": 1558.577,
+    "duration": 2.333
+  },
+  {
+    "text": "and HBR, I hope, stands for\npractical, useful, suggestions",
+    "start": 1560.91,
+    "duration": 5.39
+  },
+  {
+    "text": "and inspiration.",
+    "start": 1566.3,
+    "duration": 0.87
+  },
+  {
+    "text": "So for our viewers who\naren't in classically",
+    "start": 1567.17,
+    "duration": 2.97
+  },
+  {
+    "text": "geeky, say, startup\nculture or something,",
+    "start": 1570.14,
+    "duration": 2.35
+  },
+  {
+    "text": "how can they apply\nthe approaches",
+    "start": 1572.49,
+    "duration": 2.52
+  },
+  {
+    "text": "that you're championing\nat their own companies?",
+    "start": 1575.01,
+    "duration": 2.04
+  },
+  {
+    "text": "ANDREW MCAFEE: Here\nare a few things",
+    "start": 1577.05,
+    "duration": 1.5
+  },
+  {
+    "text": "you can start\ndoing tomorrow that",
+    "start": 1578.55,
+    "duration": 1.92
+  },
+  {
+    "text": "are extremely geeky practices.",
+    "start": 1580.47,
+    "duration": 1.93
+  },
+  {
+    "text": "And I think they will\nget some traction.",
+    "start": 1582.4,
+    "duration": 3.41
+  },
+  {
+    "text": "When you're in charge of your\ngroup or you're a team member",
+    "start": 1585.81,
+    "duration": 2.94
+  },
+  {
+    "text": "or you're leading a team,\nif you say things like,",
+    "start": 1588.75,
+    "duration": 2.73
+  },
+  {
+    "text": "that's a good point.",
+    "start": 1591.48,
+    "duration": 1.78
+  },
+  {
+    "text": "I hadn't thought\nof that, let's go",
+    "start": 1593.26,
+    "duration": 2.36
+  },
+  {
+    "text": "that way or I was wrong\nabout, that that's",
+    "start": 1595.62,
+    "duration": 2.7
+  },
+  {
+    "text": "really good to know.",
+    "start": 1598.32,
+    "duration": 1.23
+  },
+  {
+    "text": "You have just demonstrated\nopenness and vulnerability",
+    "start": 1599.55,
+    "duration": 3.42
+  },
+  {
+    "text": "instead of classic\ndefensiveness.",
+    "start": 1602.97,
+    "duration": 2.16
+  },
+  {
+    "text": "Now, that's hard to do.",
+    "start": 1605.13,
+    "duration": 1.12
+  },
+  {
+    "text": "We human beings are\ninherently defensive people.",
+    "start": 1606.25,
+    "duration": 2.3
+  },
+  {
+    "text": "We don't like being shown\nto be wrong in public.",
+    "start": 1608.55,
+    "duration": 2.64
+  },
+  {
+    "text": "It's deeply uncomfortable.",
+    "start": 1611.19,
+    "duration": 1.89
+  },
+  {
+    "text": "But if you model that behavior,\nit will start to spread.",
+    "start": 1613.08,
+    "duration": 3.99
+  },
+  {
+    "text": "And I've seen geek leaders\ndo that over and over.",
+    "start": 1617.07,
+    "duration": 2.91
+  },
+  {
+    "text": "You can start to push decisions\nand responsibility down",
+    "start": 1619.98,
+    "duration": 3.9
+  },
+  {
+    "text": "to a place that makes\nyou uncomfortable",
+    "start": 1623.88,
+    "duration": 1.83
+  },
+  {
+    "text": "and to get out of the, let\nme just run that by me first",
+    "start": 1625.71,
+    "duration": 3.57
+  },
+  {
+    "text": "or, make sure I'm\nincluded on that--",
+    "start": 1629.28,
+    "duration": 2.22
+  },
+  {
+    "text": "to try to get rid of the hard\nand soft bureaucracy that",
+    "start": 1631.5,
+    "duration": 3.96
+  },
+  {
+    "text": "gets in the way.",
+    "start": 1635.46,
+    "duration": 1.11
+  },
+  {
+    "text": "I was talking to Sebastian\nThrun, who's an alpha",
+    "start": 1636.57,
+    "duration": 2.13
+  },
+  {
+    "text": "geek and all kinds of things.",
+    "start": 1638.7,
+    "duration": 1.45
+  },
+  {
+    "text": "And he said, one of the things\nI try to get my teams to do",
+    "start": 1640.15,
+    "duration": 3.56
+  },
+  {
+    "text": "is to stop so much\ncommunicating.",
+    "start": 1643.71,
+    "duration": 2.64
+  },
+  {
+    "text": "And he had this great image.",
+    "start": 1646.35,
+    "duration": 1.44
+  },
+  {
+    "text": "He said, a team\nworks on something.",
+    "start": 1647.79,
+    "duration": 1.8
+  },
+  {
+    "text": "And then, they kind of\nrun it up the flagpole.",
+    "start": 1649.59,
+    "duration": 2.01
+  },
+  {
+    "text": "And he said, the\nreally natural tendency",
+    "start": 1651.6,
+    "duration": 2.49
+  },
+  {
+    "text": "is for the people at every\nlayer of the org chart",
+    "start": 1654.09,
+    "duration": 2.91
+  },
+  {
+    "text": "to add something to\nthat because they want",
+    "start": 1657.0,
+    "duration": 2.34
+  },
+  {
+    "text": "to be part of the solution.",
+    "start": 1659.34,
+    "duration": 1.37
+  },
+  {
+    "text": "They want to be part\nof this winning idea.",
+    "start": 1660.71,
+    "duration": 1.75
+  },
+  {
+    "text": "And he said, by\nthe time that idea",
+    "start": 1662.46,
+    "duration": 1.68
+  },
+  {
+    "text": "gets back down to\nthe originating team,",
+    "start": 1664.14,
+    "duration": 1.77
+  },
+  {
+    "text": "it's kind of unrecognizable.",
+    "start": 1665.91,
+    "duration": 2.58
+  },
+  {
+    "text": "Get out of that business.",
+    "start": 1668.49,
+    "duration": 1.56
+  },
+  {
+    "text": "Again, this is\nuncomfortable stuff to do.",
+    "start": 1670.05,
+    "duration": 3.51
+  },
+  {
+    "text": "But it's a big step\ntoward the Geek Way.",
+    "start": 1673.56,
+    "duration": 2.64
+  },
+  {
+    "text": "And then, finally, you can\nstart to say, well how are we",
+    "start": 1676.2,
+    "duration": 3.36
+  },
+  {
+    "text": "going to make this decision?",
+    "start": 1679.56,
+    "duration": 1.56
+  },
+  {
+    "text": "Can we agree on what evidence\nwe're going to look at",
+    "start": 1681.12,
+    "duration": 2.52
+  },
+  {
+    "text": "to make this decision?",
+    "start": 1683.64,
+    "duration": 1.5
+  },
+  {
+    "text": "As opposed to saying, well,\nI'm the boss, I got it,",
+    "start": 1685.14,
+    "duration": 3.27
+  },
+  {
+    "text": "or I got it right\nlast time, so you",
+    "start": 1688.41,
+    "duration": 1.89
+  },
+  {
+    "text": "should listen to me this time.",
+    "start": 1690.3,
+    "duration": 1.26
+  },
+  {
+    "text": "All these other ways, we have\nto make decisions-- credentials,",
+    "start": 1691.56,
+    "duration": 3.78
+  },
+  {
+    "text": "hierarchy, charisma, excellent\nPowerPoint, all these things.",
+    "start": 1695.34,
+    "duration": 3.84
+  },
+  {
+    "text": "Get out of that business and\nstart asking for the consensus",
+    "start": 1699.18,
+    "duration": 3.78
+  },
+  {
+    "text": "on how are we going to settle\nthis argument, what evidence",
+    "start": 1702.96,
+    "duration": 3.11
+  },
+  {
+    "text": "are we going to look at?",
+    "start": 1706.07,
+    "duration": 1.0
+  },
+  {
+    "text": "These are all super\ngeeky practices",
+    "start": 1707.07,
+    "duration": 2.14
+  },
+  {
+    "text": "you can start doing tomorrow.",
+    "start": 1709.21,
+    "duration": 1.325
+  },
+  {
+    "text": "ADI IGNATIUS:\nYeah, that's great.",
+    "start": 1710.535,
+    "duration": 1.375
+  },
+  {
+    "text": "I should have\nmentioned before, when",
+    "start": 1711.91,
+    "duration": 1.5
+  },
+  {
+    "text": "you were in praise\nof Satya Nadella",
+    "start": 1713.41,
+    "duration": 1.7
+  },
+  {
+    "text": "so he was our\nguest on this show.",
+    "start": 1715.11,
+    "duration": 2.082
+  },
+  {
+    "text": "And if you want to see a\nreally good interview that I",
+    "start": 1717.192,
+    "duration": 2.208
+  },
+  {
+    "text": "did with Satya Nadella, go to\nYouTube, The New World of Work,",
+    "start": 1719.4,
+    "duration": 3.855
+  },
+  {
+    "text": "HBR interview with\nSatya Nadella.",
+    "start": 1723.255,
+    "duration": 2.115
+  },
+  {
+    "text": "ANDREW MCAFEE: Just go listen\nto Nadella whenever you can.",
+    "start": 1725.37,
+    "duration": 2.91
+  },
+  {
+    "text": "He's got this wonderful,\ncheerful demeanor.",
+    "start": 1728.28,
+    "duration": 1.92
+  },
+  {
+    "text": "He's always got a\nsmile on his face.",
+    "start": 1730.2,
+    "duration": 1.59
+  },
+  {
+    "text": "And the amount of knowledge that\nhe laid on me in one interview",
+    "start": 1731.79,
+    "duration": 3.75
+  },
+  {
+    "text": "was fantastic.",
+    "start": 1735.54,
+    "duration": 1.38
+  },
+  {
+    "text": "You see from the book, Adi,\nI had this amazing experience",
+    "start": 1736.92,
+    "duration": 2.73
+  },
+  {
+    "text": "of getting to interview a lot\nof my favorite alpha geeks.",
+    "start": 1739.65,
+    "duration": 2.82
+  },
+  {
+    "text": "And I learned a ton from them.",
+    "start": 1742.47,
+    "duration": 1.8
+  },
+  {
+    "text": "It's the kind of thing that\nmakes this geek very happy.",
+    "start": 1744.27,
+    "duration": 2.912
+  },
+  {
+    "text": "So they're in the book.",
+    "start": 1747.182,
+    "duration": 0.958
+  },
+  {
+    "text": "And I thank them.",
+    "start": 1748.14,
+    "duration": 0.807
+  },
+  {
+    "text": "ADI IGNATIUS: So here's\nanother audience question.",
+    "start": 1748.947,
+    "duration": 2.083
+  },
+  {
+    "text": "This is Laurie from\nNorth Carolina.",
+    "start": 1751.03,
+    "duration": 1.68
+  },
+  {
+    "text": "And this is another very\npractical kind of question.",
+    "start": 1752.71,
+    "duration": 3.05
+  },
+  {
+    "text": "How can organizations get\nleaders to unlearn the idea--",
+    "start": 1755.76,
+    "duration": 5.04
+  },
+  {
+    "text": "who think that failure is bad?",
+    "start": 1760.8,
+    "duration": 2.88
+  },
+  {
+    "text": "How do you--",
+    "start": 1763.68,
+    "duration": 1.32
+  },
+  {
+    "text": "ANDREW MCAFEE: I see we're\njust about out of time.",
+    "start": 1765.0,
+    "duration": 2.11
+  },
+  {
+    "text": "ADI IGNATIUS: Nice try.",
+    "start": 1767.11,
+    "duration": 1.01
+  },
+  {
+    "text": "ANDREW MCAFEE: This is\na super hard question.",
+    "start": 1768.12,
+    "duration": 1.875
+  },
+  {
+    "text": "This is a super hard question.",
+    "start": 1769.995,
+    "duration": 1.435
+  },
+  {
+    "text": "And I fall back on\nsomething that I",
+    "start": 1771.43,
+    "duration": 2.0
+  },
+  {
+    "text": "learned from Clay Christensen--",
+    "start": 1773.43,
+    "duration": 1.41
+  },
+  {
+    "text": "Adi, you know, the\nlate, great scholar",
+    "start": 1774.84,
+    "duration": 2.04
+  },
+  {
+    "text": "of management and organizations.",
+    "start": 1776.88,
+    "duration": 2.34
+  },
+  {
+    "text": "One of the things Clay taught\nme is that managers are",
+    "start": 1779.22,
+    "duration": 3.24
+  },
+  {
+    "text": "voracious consumers of theory.",
+    "start": 1782.46,
+    "duration": 2.83
+  },
+  {
+    "text": "And he said, don't be\nafraid to tell them",
+    "start": 1785.29,
+    "duration": 1.79
+  },
+  {
+    "text": "why this needs to change,\nwhat the principle, what",
+    "start": 1787.08,
+    "duration": 2.37
+  },
+  {
+    "text": "the framework is.",
+    "start": 1789.45,
+    "duration": 0.99
+  },
+  {
+    "text": "And he said, if you want\nto get people to change,",
+    "start": 1790.44,
+    "duration": 2.91
+  },
+  {
+    "text": "there's a kind of a tripod.",
+    "start": 1793.35,
+    "duration": 1.26
+  },
+  {
+    "text": "There are three things you\nhave to do over and over again",
+    "start": 1794.61,
+    "duration": 3.96
+  },
+  {
+    "text": "until you're\nabsolutely exhausted.",
+    "start": 1798.57,
+    "duration": 2.4
+  },
+  {
+    "text": "He said, first of all,\ntell them a vivid story.",
+    "start": 1800.97,
+    "duration": 2.13
+  },
+  {
+    "text": "We humans respond to narratives.",
+    "start": 1803.1,
+    "duration": 1.71
+  },
+  {
+    "text": "Second of all, give\nthem some evidence.",
+    "start": 1804.81,
+    "duration": 2.49
+  },
+  {
+    "text": "Give them some numbers\nto show that it works.",
+    "start": 1807.3,
+    "duration": 1.93
+  },
+  {
+    "text": "And then, third, give\nthem a theory explain.",
+    "start": 1809.23,
+    "duration": 2.12
+  },
+  {
+    "text": "Why it works.",
+    "start": 1811.35,
+    "duration": 0.578
+  },
+  {
+    "text": "And you've just got to\ngo through all three",
+    "start": 1811.928,
+    "duration": 1.792
+  },
+  {
+    "text": "of those legs.",
+    "start": 1813.72,
+    "duration": 1.14
+  },
+  {
+    "text": "Why can't we make\ndecisions this way?",
+    "start": 1814.86,
+    "duration": 1.83
+  },
+  {
+    "text": "I'm a pretty smart person.",
+    "start": 1816.69,
+    "duration": 1.44
+  },
+  {
+    "text": "I reached this place on\nthe org chart because",
+    "start": 1818.13,
+    "duration": 2.1
+  },
+  {
+    "text": "of my excellent judgment.",
+    "start": 1820.23,
+    "duration": 1.2
+  },
+  {
+    "text": "What do you mean, we should\nbe relying a lot less",
+    "start": 1821.43,
+    "duration": 2.55
+  },
+  {
+    "text": "on my judgment?",
+    "start": 1823.98,
+    "duration": 1.11
+  },
+  {
+    "text": "Again, three-part answer to that\nquestion, keep iterating on it.",
+    "start": 1825.09,
+    "duration": 3.33
+  },
+  {
+    "text": "It is not an easy process.",
+    "start": 1828.42,
+    "duration": 1.75
+  },
+  {
+    "text": "I think a lot of companies\nwho get interested in what",
+    "start": 1830.17,
+    "duration": 3.927
+  },
+  {
+    "text": "Silicon Valley does differently\nor might want to embrace",
+    "start": 1834.097,
+    "duration": 2.333
+  },
+  {
+    "text": "the Geek Way are\ngoing to find it hard",
+    "start": 1836.43,
+    "duration": 1.71
+  },
+  {
+    "text": "going because a lot of it is\nunnatural and uncomfortable.",
+    "start": 1838.14,
+    "duration": 2.82
+  },
+  {
+    "text": "Challenging your boss in a\nmeeting in most circumstances",
+    "start": 1840.96,
+    "duration": 3.48
+  },
+  {
+    "text": "is uncomfortable until\nit becomes a norm,",
+    "start": 1844.44,
+    "duration": 3.3
+  },
+  {
+    "text": "until it becomes what\npeople around you expect.",
+    "start": 1847.74,
+    "duration": 2.923
+  },
+  {
+    "text": "ADI IGNATIUS: So\nAndy, I can't let",
+    "start": 1850.663,
+    "duration": 1.417
+  },
+  {
+    "text": "you go without talking a\nlittle bit about generative AI.",
+    "start": 1852.08,
+    "duration": 3.46
+  },
+  {
+    "text": "You have an article in\nthe next issue of HBR",
+    "start": 1855.54,
+    "duration": 4.01
+  },
+  {
+    "text": "on how businesses can most\neffectively capitalize",
+    "start": 1859.55,
+    "duration": 2.43
+  },
+  {
+    "text": "on the technology.",
+    "start": 1861.98,
+    "duration": 1.44
+  },
+  {
+    "text": "So this has to be the elevator\npitch type length thing.",
+    "start": 1863.42,
+    "duration": 4.11
+  },
+  {
+    "text": "But what is your\nthinking, quick overview",
+    "start": 1867.53,
+    "duration": 2.91
+  },
+  {
+    "text": "on the utility of gen AI and\nits likely impact on, let's say,",
+    "start": 1870.44,
+    "duration": 3.78
+  },
+  {
+    "text": "the white collar workforce.",
+    "start": 1874.22,
+    "duration": 1.517
+  },
+  {
+    "text": "ANDREW MCAFEE: The more I\nthink about gen AI, Adi,",
+    "start": 1875.737,
+    "duration": 2.083
+  },
+  {
+    "text": "the more I think we're\nunderestimating its impact.",
+    "start": 1877.82,
+    "duration": 2.083
+  },
+  {
+    "text": "It is so general.",
+    "start": 1879.903,
+    "duration": 0.947
+  },
+  {
+    "text": "It is so powerful.",
+    "start": 1880.85,
+    "duration": 1.09
+  },
+  {
+    "text": "It is improving so quickly.",
+    "start": 1881.94,
+    "duration": 1.38
+  },
+  {
+    "text": "It's leading to so many\ncomplementary innovations.",
+    "start": 1883.32,
+    "duration": 2.39
+  },
+  {
+    "text": "I have never seen the computer\nscience geeks, the economics",
+    "start": 1885.71,
+    "duration": 4.83
+  },
+  {
+    "text": "geeks, and the\nbusiness geeks all",
+    "start": 1890.54,
+    "duration": 1.65
+  },
+  {
+    "text": "get so excited about\nanything in my career, which",
+    "start": 1892.19,
+    "duration": 2.52
+  },
+  {
+    "text": "is actually kind of a quarter\ncentury long by this point.",
+    "start": 1894.71,
+    "duration": 2.7
+  },
+  {
+    "text": "Generative AI is going to\nchange the business world.",
+    "start": 1897.41,
+    "duration": 2.562
+  },
+  {
+    "text": "It's probably going to do\nit quicker than a lot of us",
+    "start": 1899.972,
+    "duration": 2.208
+  },
+  {
+    "text": "are thinking.",
+    "start": 1902.18,
+    "duration": 0.78
+  },
+  {
+    "text": "And waiting around\non the sidelines",
+    "start": 1902.96,
+    "duration": 2.535
+  },
+  {
+    "text": "and not being part of that\ntransformation, I think,",
+    "start": 1905.495,
+    "duration": 2.125
+  },
+  {
+    "text": "is a deeply lousy strategy.",
+    "start": 1907.62,
+    "duration": 2.18
+  },
+  {
+    "text": "Get a plan together.",
+    "start": 1909.8,
+    "duration": 1.24
+  },
+  {
+    "text": "And then, just go do stuff.",
+    "start": 1911.04,
+    "duration": 1.9
+  },
+  {
+    "text": "ADI IGNATIUS: All right, Andy.",
+    "start": 1912.94,
+    "duration": 1.25
+  },
+  {
+    "text": "We've run a little\nbit long, so we're",
+    "start": 1914.19,
+    "duration": 2.427
+  },
+  {
+    "text": "going to cut you off here.",
+    "start": 1916.617,
+    "duration": 1.083
+  },
+  {
+    "text": "I could talk all day with\nyou about all these topics.",
+    "start": 1917.7,
+    "duration": 2.22
+  },
+  {
+    "text": "And our audience is clearly\ninto it and engaged.",
+    "start": 1919.92,
+    "duration": 4.09
+  },
+  {
+    "text": "So thank you very much\nfor being on the show.",
+    "start": 1924.01,
+    "duration": 2.07
+  },
+  {
+    "text": "ANDREW MCAFEE: Adi,\nalways a pleasure.",
+    "start": 1926.08,
+    "duration": 1.14
+  },
+  {
+    "text": "Thank you for having me.",
+    "start": 1927.22,
+    "duration": 1.05
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah.",
+    "start": 1928.27,
+    "duration": 1.13
+  },
+  {
+    "text": "All right, so that was\nAndy McAfee of MIT.",
+    "start": 1929.4,
+    "duration": 4.56
+  },
+  {
+    "text": "And what a great conversation.",
+    "start": 1933.96,
+    "duration": 1.705
+  },
+  {
+    "text": "So I want to thank all of\nyou for joining us today.",
+    "start": 1935.665,
+    "duration": 2.125
+  },
+  {
+    "text": "And a reminder, you can watch\nprevious episodes of this show,",
+    "start": 1937.79,
+    "duration": 2.9
+  },
+  {
+    "text": "including the interview\nwith Satya Nadella that we",
+    "start": 1940.69,
+    "duration": 2.24
+  },
+  {
+    "text": "referenced, on YouTube or right\nhere on LinkedIn and Facebook.",
+    "start": 1942.93,
+    "duration": 3.72
+  },
+  {
+    "text": "My guest next week that's\nWednesday, September",
+    "start": 1946.65,
+    "duration": 2.89
+  },
+  {
+    "text": "20 at 12:00 noon\nEastern time will",
+    "start": 1949.54,
+    "duration": 2.33
+  },
+  {
+    "text": "be Dov Seidman, the Founder\nand Chairman of the HOW",
+    "start": 1951.87,
+    "duration": 2.97
+  },
+  {
+    "text": "Institute for Society.",
+    "start": 1954.84,
+    "duration": 1.89
+  },
+  {
+    "text": "That's a US-based nonprofit\nthat aims to elevate humanity",
+    "start": 1956.73,
+    "duration": 3.21
+  },
+  {
+    "text": "by nurturing a culture\nof moral leadership,",
+    "start": 1959.94,
+    "duration": 2.61
+  },
+  {
+    "text": "values-based behavior and\nprincipled decision making.",
+    "start": 1962.55,
+    "duration": 3.15
+  },
+  {
+    "text": "He's the author\nof the book How--",
+    "start": 1965.7,
+    "duration": 2.31
+  },
+  {
+    "text": "Why How We Do Anything\nMeans Everything.",
+    "start": 1968.01,
+    "duration": 2.64
+  },
+  {
+    "text": "So join me here next week.",
+    "start": 1970.65,
+    "duration": 1.5
+  },
+  {
+    "text": "Now, if you're an HBR\nsubscriber watching this,",
+    "start": 1972.15,
+    "duration": 2.47
+  },
+  {
+    "text": "you can head to\nHBR.org/newsletters to sign up",
+    "start": 1974.62,
+    "duration": 3.53
+  },
+  {
+    "text": "for the New World\nof Work newsletter,",
+    "start": 1978.15,
+    "duration": 1.62
+  },
+  {
+    "text": "where I offer an inside look\neach week at these interviews",
+    "start": 1979.77,
+    "duration": 3.0
+  },
+  {
+    "text": "and talk about some of the\nbiggest ideas that come out",
+    "start": 1982.77,
+    "duration": 2.25
+  },
+  {
+    "text": "of them.",
+    "start": 1985.02,
+    "duration": 0.52
+  },
+  {
+    "text": "And if you like\ncontent like this,",
+    "start": 1985.54,
+    "duration": 1.79
+  },
+  {
+    "text": "why not subscribe to our\nmagazine and website?",
+    "start": 1987.33,
+    "duration": 2.35
+  },
+  {
+    "text": "The address is\nhbr.org/subscriptions.",
+    "start": 1989.68,
+    "duration": 3.982
+  },
+  {
+    "text": "And finally, we want\nto thank our friends",
+    "start": 1993.662,
+    "duration": 1.708
+  },
+  {
+    "text": "at KPMG, our sponsors for\nthis season of The New",
+    "start": 1995.37,
+    "duration": 3.54
+  },
+  {
+    "text": "World of Work.",
+    "start": 1998.91,
+    "duration": 2.33
+  },
+  {
+    "text": "So thank you all for tuning\nin today it was a great show.",
+    "start": 2001.24,
+    "duration": 3.47
+  },
+  {
+    "text": "I'm Adi Ignatius.",
+    "start": 2004.71,
+    "duration": 1.06
+  },
+  {
+    "text": "This is The New World of Work.",
+    "start": 2005.77,
+    "duration": 1.4
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 2007.17,
+    "duration": 3.65
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "text": "Someone has tripped the magical alarms \nin the Element Temple.",
+    "start": 6.902,
+    "duration": 3.92
+  },
+  {
+    "text": "By the time you and the other monks \narrive on the scene,",
+    "start": 10.822,
+    "duration": 3.478
+  },
+  {
+    "text": "you know you have a disaster \non your hands.",
+    "start": 14.3,
+    "duration": 3.06
+  },
+  {
+    "text": "Overnight, four young apprentices \nbroke into the temple’s inner chamber",
+    "start": 17.36,
+    "duration": 4.711
+  },
+  {
+    "text": "to steal the sacred element crystals.",
+    "start": 22.071,
+    "duration": 2.96
+  },
+  {
+    "text": "But when the alarm went off \nthey panicked,",
+    "start": 25.031,
+    "duration": 2.789
+  },
+  {
+    "text": "and each of them swallowed the crystal \nthey held right before they were caught.",
+    "start": 27.82,
+    "duration": 4.778
+  },
+  {
+    "text": "With no idea how to control \nthe crystals’ vast powers,",
+    "start": 32.598,
+    "duration": 3.76
+  },
+  {
+    "text": "they’ll soon transform \ninto uncontrollable elemental spirits.",
+    "start": 36.358,
+    "duration": 5.297
+  },
+  {
+    "text": "Improbably enough,",
+    "start": 41.655,
+    "duration": 1.35
+  },
+  {
+    "text": "the old monk next to you \nhas seen something similar happen before.",
+    "start": 43.005,
+    "duration": 4.634
+  },
+  {
+    "text": "He explains: \n“You must determine who ate which crystal",
+    "start": 47.639,
+    "duration": 3.79
+  },
+  {
+    "text": "and get each into the proper containment \nfield before they transform.",
+    "start": 51.429,
+    "duration": 4.873
+  },
+  {
+    "text": "The elements compel their masters:",
+    "start": 56.302,
+    "duration": 2.76
+  },
+  {
+    "text": "those who ate the Earth and Water Crystals\nmust speak the truth,",
+    "start": 59.062,
+    "duration": 4.338
+  },
+  {
+    "text": "while those who consumed Fire and Air \nmust lie.\"",
+    "start": 63.4,
+    "duration": 4.641
+  },
+  {
+    "text": "The youths are too scared to confess \ntheir own transgressions.",
+    "start": 68.041,
+    "duration": 3.964
+  },
+  {
+    "text": "Instead, they fall to accusing each other.",
+    "start": 72.005,
+    "duration": 3.235
+  },
+  {
+    "text": "“Rikku took the Water crystal!” \nSumi blurts out.",
+    "start": 75.24,
+    "duration": 3.0
+  },
+  {
+    "text": "Rikku interrupts angrily.",
+    "start": 78.24,
+    "duration": 1.59
+  },
+  {
+    "text": "“It was Bella, \nshe stole the Fire crystal!”",
+    "start": 79.83,
+    "duration": 2.805
+  },
+  {
+    "text": "So Bella yells: \n“Jonah ate the Air crystal, I saw him!”",
+    "start": 82.635,
+    "duration": 4.025
+  },
+  {
+    "text": "Jonah looks up timidly \nand shakes his head.",
+    "start": 86.66,
+    "duration": 2.985
+  },
+  {
+    "text": "“I… I don’t know what happened, \nbut Sumi doesn’t have the Earth crystal.”",
+    "start": 89.645,
+    "duration": 4.666
+  },
+  {
+    "text": "So who ate which crystal?",
+    "start": 94.311,
+    "duration": 2.23
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 96.541,
+    "duration": 6.176
+  },
+  {
+    "text": "There’s no getting around it— \nthis will take some trial and error.",
+    "start": 102.717,
+    "duration": 3.82
+  },
+  {
+    "text": "But that’s not a bad thing.",
+    "start": 106.537,
+    "duration": 1.687
+  },
+  {
+    "text": "If we make a wrong guess,",
+    "start": 108.224,
+    "duration": 1.729
+  },
+  {
+    "text": "we’ll eventually reach a point where \nour conclusions contradict each other.",
+    "start": 109.953,
+    "duration": 4.01
+  },
+  {
+    "text": "That would allow us to confirm \nthat our initial guess was wrong",
+    "start": 113.963,
+    "duration": 3.2
+  },
+  {
+    "text": "and work from there.",
+    "start": 117.163,
+    "duration": 1.42
+  },
+  {
+    "text": "This is a technique \nknown as proof by contradiction.",
+    "start": 118.583,
+    "duration": 3.69
+  },
+  {
+    "text": "The trick is in being strategic \nabout where we begin our guessing.",
+    "start": 122.273,
+    "duration": 4.981
+  },
+  {
+    "text": "Some assumptions \nmight not lead to contradictions",
+    "start": 127.254,
+    "duration": 2.69
+  },
+  {
+    "text": "without making further assumptions.",
+    "start": 129.944,
+    "duration": 2.352
+  },
+  {
+    "text": "We want to pick one that creates \nthe most constraints on its own,",
+    "start": 132.296,
+    "duration": 4.0
+  },
+  {
+    "text": "and thus gives us the most information \nwhen it turns out to be right or wrong.",
+    "start": 136.296,
+    "duration": 5.011
+  },
+  {
+    "text": "Take, for example, Sumi’s statement.",
+    "start": 141.307,
+    "duration": 2.54
+  },
+  {
+    "text": "If we assume she’s telling the truth,",
+    "start": 143.847,
+    "duration": 2.209
+  },
+  {
+    "text": "we’d know the identity \nof both truth tellers.",
+    "start": 146.056,
+    "duration": 3.03
+  },
+  {
+    "text": "Rikku would have the Water crystal, \nand since she’s not lying about him,",
+    "start": 149.086,
+    "duration": 4.22
+  },
+  {
+    "text": "Sumi would have Earth.",
+    "start": 153.306,
+    "duration": 1.94
+  },
+  {
+    "text": "So Bella would have the Fire crystal, \nas Rikku says.",
+    "start": 155.246,
+    "duration": 3.37
+  },
+  {
+    "text": "But then Bella would have to be lying \nabout Jonah having the Air crystal.",
+    "start": 158.616,
+    "duration": 4.94
+  },
+  {
+    "text": "And yet that’s the only remaining option.",
+    "start": 163.556,
+    "duration": 2.84
+  },
+  {
+    "text": "This is a contradiction, and it tells us \nour initial assumption was wrong.",
+    "start": 166.396,
+    "duration": 4.659
+  },
+  {
+    "text": "So now we can go back to the start,",
+    "start": 171.055,
+    "duration": 2.07
+  },
+  {
+    "text": "but with the added knowledge \nthat Sumi is lying.",
+    "start": 173.125,
+    "duration": 4.197
+  },
+  {
+    "text": "As a liar, Sumi \nmust either have the Fire or Air crystal.",
+    "start": 177.322,
+    "duration": 4.316
+  },
+  {
+    "text": "That means Jonah \nwas telling the truth about her,",
+    "start": 181.638,
+    "duration": 2.925
+  },
+  {
+    "text": "so he can’t have taken either of those.",
+    "start": 184.563,
+    "duration": 2.801
+  },
+  {
+    "text": "And that means Bella was lying about him,",
+    "start": 187.364,
+    "duration": 3.003
+  },
+  {
+    "text": "so she must also have either Fire or Air.",
+    "start": 190.367,
+    "duration": 3.32
+  },
+  {
+    "text": "Since Sumi was lying, \nRikku can’t have taken the Water crystal—",
+    "start": 193.687,
+    "duration": 3.985
+  },
+  {
+    "text": "the only one left \nwho could have it is Jonah.",
+    "start": 197.672,
+    "duration": 2.947
+  },
+  {
+    "text": "And because we’ve already identified \nthe two liars,",
+    "start": 200.619,
+    "duration": 3.173
+  },
+  {
+    "text": "Rikku must have the Earth crystal.",
+    "start": 203.792,
+    "duration": 2.65
+  },
+  {
+    "text": "That means Bella has the Fire crystal \nand Sumi has Air.",
+    "start": 206.442,
+    "duration": 4.32
+  },
+  {
+    "text": "You manage to get them all \nin the proper containment fields",
+    "start": 210.762,
+    "duration": 3.003
+  },
+  {
+    "text": "just as the crystals’ magic \nbegins to manifest.",
+    "start": 213.765,
+    "duration": 3.31
+  },
+  {
+    "text": "Compared with the difficult task \nof training these kids",
+    "start": 217.075,
+    "duration": 2.9
+  },
+  {
+    "text": "to control their new powers,",
+    "start": 219.975,
+    "duration": 1.95
+  },
+  {
+    "text": "figuring out who had which crystal\nwas elementary.",
+    "start": 221.925,
+    "duration": 3.68
+  }
+]

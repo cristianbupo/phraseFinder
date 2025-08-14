@@ -1,0 +1,357 @@
+[
+  {
+    "text": "Ragnarok. The fabled end of the world,",
+    "start": 6.886,
+    "duration": 3.03
+  },
+  {
+    "text": "when giants, monsters, and Norse gods \nbattle for the future.",
+    "start": 9.916,
+    "duration": 4.644
+  },
+  {
+    "text": "The gods were winning handily until \nthe great serpent Jörmungandr emerged.",
+    "start": 14.56,
+    "duration": 5.324
+  },
+  {
+    "text": "It swallowed Valhalla, \ncontorted itself across the land,",
+    "start": 19.884,
+    "duration": 3.97
+  },
+  {
+    "text": "and then merged into one continuous body \nwith no head and no tail.",
+    "start": 23.854,
+    "duration": 5.99
+  },
+  {
+    "text": "As it begins to digest Valhalla,",
+    "start": 29.844,
+    "duration": 2.52
+  },
+  {
+    "text": "an exhausted Odin explains that he has \njust enough power to strike the creature",
+    "start": 32.364,
+    "duration": 5.338
+  },
+  {
+    "text": "with one final bolt of lightning.",
+    "start": 37.702,
+    "duration": 2.77
+  },
+  {
+    "text": "If you magnify his blast \nwith your fabled hammer, Mjölnir,",
+    "start": 40.472,
+    "duration": 3.768
+  },
+  {
+    "text": "it should pierce the massive serpent.",
+    "start": 44.24,
+    "duration": 3.22
+  },
+  {
+    "text": "You’ll run with super-speed \nalong the serpent’s body.",
+    "start": 47.46,
+    "duration": 3.4
+  },
+  {
+    "text": "When you hold your hammer high, \nOdin will strike it with lightning",
+    "start": 50.86,
+    "duration": 3.39
+  },
+  {
+    "text": "and split Jörmungandr open at that point.",
+    "start": 54.25,
+    "duration": 3.362
+  },
+  {
+    "text": "Then, you’ll need to continue \nrunning along its body",
+    "start": 57.612,
+    "duration": 2.96
+  },
+  {
+    "text": "until every part of it is destroyed.",
+    "start": 60.572,
+    "duration": 2.62
+  },
+  {
+    "text": "You can’t run over the same section twice",
+    "start": 63.192,
+    "duration": 2.83
+  },
+  {
+    "text": "or you’ll fall into the already blasted \npart of the snake.",
+    "start": 66.022,
+    "duration": 3.86
+  },
+  {
+    "text": "But you can make multiple passes \nthrough points where the creature",
+    "start": 69.882,
+    "duration": 3.61
+  },
+  {
+    "text": "intersects its own body.",
+    "start": 73.492,
+    "duration": 2.08
+  },
+  {
+    "text": "If you leave any portion un-zapped, \nJörmungandr will magically regenerate,",
+    "start": 75.572,
+    "duration": 5.004
+  },
+  {
+    "text": "Odin’s last power will be spent, \nand Valhalla will fall forever.",
+    "start": 80.576,
+    "duration": 5.097
+  },
+  {
+    "text": "What path can you take to destroy \nthe serpent?",
+    "start": 85.673,
+    "duration": 3.71
+  },
+  {
+    "text": "Pause now to figure it out yourself!",
+    "start": 89.383,
+    "duration": 1.739
+  },
+  {
+    "text": "Answer in 3",
+    "start": 91.122,
+    "duration": 0.967
+  },
+  {
+    "text": "2",
+    "start": 92.089,
+    "duration": 0.964
+  },
+  {
+    "text": "1",
+    "start": 94.083,
+    "duration": 0.77
+  },
+  {
+    "text": "One powerful way to solve problems \nis to simplify.",
+    "start": 96.683,
+    "duration": 3.82
+  },
+  {
+    "text": "And in this case, we can focus \nour attention on the two things",
+    "start": 100.503,
+    "duration": 3.7
+  },
+  {
+    "text": "that are important for our path:",
+    "start": 104.203,
+    "duration": 2.27
+  },
+  {
+    "text": "intersections and the stretches \nof snake between them.",
+    "start": 106.473,
+    "duration": 3.67
+  },
+  {
+    "text": "Or, as they’re referred \nto in graph theory, nodes and edges.",
+    "start": 110.143,
+    "duration": 5.448
+  },
+  {
+    "text": "The edges are important \nbecause they’re what we need to travel.",
+    "start": 115.591,
+    "duration": 4.02
+  },
+  {
+    "text": "And the nodes matter \nbecause they connect the edges,",
+    "start": 119.611,
+    "duration": 3.348
+  },
+  {
+    "text": "and are where we may need to make choices \nas we run from edge to edge.",
+    "start": 122.959,
+    "duration": 4.596
+  },
+  {
+    "text": "This simplification into nodes \nand edges leaves us",
+    "start": 127.555,
+    "duration": 3.5
+  },
+  {
+    "text": "with a ubiquitous and important \nmathematical object known as a graph,",
+    "start": 131.055,
+    "duration": 5.301
+  },
+  {
+    "text": "or network.",
+    "start": 136.356,
+    "duration": 1.45
+  },
+  {
+    "text": "We just need to figure out how to travel \nwhat mathematicians call an Eulerian path,",
+    "start": 137.806,
+    "duration": 5.874
+  },
+  {
+    "text": "which traces every edge exactly once.",
+    "start": 143.68,
+    "duration": 4.08
+  },
+  {
+    "text": "Instead of looking at the path as a whole,\nlet’s zoom in on a single node.",
+    "start": 147.76,
+    "duration": 5.003
+  },
+  {
+    "text": "During some moment in your run, \nyou’ll enter that node, and then exit it.",
+    "start": 152.763,
+    "duration": 4.817
+  },
+  {
+    "text": "That takes care of two edges.",
+    "start": 157.58,
+    "duration": 2.34
+  },
+  {
+    "text": "If you enter again, \nyou’ll need to exit again too,",
+    "start": 159.92,
+    "duration": 3.182
+  },
+  {
+    "text": "which requires another pair of edges.",
+    "start": 163.102,
+    "duration": 3.12
+  },
+  {
+    "text": "So every point along your path \nwill have edges that come in pairs.",
+    "start": 166.222,
+    "duration": 5.043
+  },
+  {
+    "text": "One edge in each pair will function \nas entrance; the other as exit.",
+    "start": 171.265,
+    "duration": 4.802
+  },
+  {
+    "text": "And that means that the number of edges \ncoming out of every node must be even.",
+    "start": 176.067,
+    "duration": 6.457
+  },
+  {
+    "text": "There are just two exceptions: \nthe start and end points,",
+    "start": 182.524,
+    "duration": 3.93
+  },
+  {
+    "text": "where you can exit \nwithout entering, or vice versa.",
+    "start": 186.454,
+    "duration": 3.91
+  },
+  {
+    "text": "If we look at the network \nformed by the serpent again,",
+    "start": 190.364,
+    "duration": 3.13
+  },
+  {
+    "text": "and number how many edges \nemerge from each node,",
+    "start": 193.494,
+    "duration": 3.299
+  },
+  {
+    "text": "a pattern jumps out that fits \nwhat we just saw.",
+    "start": 196.793,
+    "duration": 3.431
+  },
+  {
+    "text": "Every node has an even number \nof edges emerging from it, except two.",
+    "start": 200.224,
+    "duration": 5.167
+  },
+  {
+    "text": "So one of these must be the start \nof your route, and the other the end.",
+    "start": 205.391,
+    "duration": 5.206
+  },
+  {
+    "text": "Interestingly enough, any connected \nnetwork that has exactly 2 nodes",
+    "start": 210.597,
+    "duration": 4.639
+  },
+  {
+    "text": "with an odd number of edges \nwill also contain an Eulerian path.",
+    "start": 215.236,
+    "duration": 5.052
+  },
+  {
+    "text": "The same is true if there are no nodes \nwith an odd number of edges—",
+    "start": 220.288,
+    "duration": 4.437
+  },
+  {
+    "text": "in that case the path starts \nand ends in the same spot.",
+    "start": 224.725,
+    "duration": 4.728
+  },
+  {
+    "text": "So knowing that, \nlet’s return to our full graph.",
+    "start": 229.453,
+    "duration": 3.38
+  },
+  {
+    "text": "We can begin by taking care \nof this edge here.",
+    "start": 232.833,
+    "duration": 2.985
+  },
+  {
+    "text": "Now we can zig-zag back and forth \nacross the whole snake",
+    "start": 235.818,
+    "duration": 4.09
+  },
+  {
+    "text": "until we reach the end.",
+    "start": 239.908,
+    "duration": 1.94
+  },
+  {
+    "text": "And that's just one solution— \nit helps to be systematic,",
+    "start": 241.848,
+    "duration": 3.55
+  },
+  {
+    "text": "but you’re likely to happen \nupon many others",
+    "start": 245.398,
+    "duration": 2.506
+  },
+  {
+    "text": "once you know where to begin \nand end your run.",
+    "start": 247.904,
+    "duration": 3.88
+  },
+  {
+    "text": "You hold your hammer high \nat the opportune moment,",
+    "start": 251.784,
+    "duration": 2.69
+  },
+  {
+    "text": "and Odin sends the world-saving surge \nof lightning at you.",
+    "start": 254.474,
+    "duration": 4.01
+  },
+  {
+    "text": "Then you run \nlike you’ve never run before.",
+    "start": 258.484,
+    "duration": 2.747
+  },
+  {
+    "text": "If you can pull this off, surely nothing \ncould stop the might of the Norse Gods.",
+    "start": 261.231,
+    "duration": 5.117
+  },
+  {
+    "text": "And if something like that were out there,\nslouching its way towards you…",
+    "start": 266.348,
+    "duration": 4.17
+  },
+  {
+    "text": "well, that would be a story \nfor another day.",
+    "start": 270.518,
+    "duration": 2.649
+  }
+]

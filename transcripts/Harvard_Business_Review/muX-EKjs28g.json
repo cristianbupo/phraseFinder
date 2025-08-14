@@ -1,0 +1,2722 @@
+[
+  {
+    "text": "ANNOUNCER: HBR Presents",
+    "start": 1.72,
+    "duration": 7.36
+  },
+  {
+    "text": "BRIAN KENNY: Revolutions\noften have humble origins,",
+    "start": 9.08,
+    "duration": 2.73
+  },
+  {
+    "text": "a small group with big ideas\ngathering to plant seeds",
+    "start": 11.81,
+    "duration": 3.15
+  },
+  {
+    "text": "of disruption.",
+    "start": 14.96,
+    "duration": 1.18
+  },
+  {
+    "text": "So it was in the\ndog days of summer",
+    "start": 16.14,
+    "duration": 1.79
+  },
+  {
+    "text": "in 1956, when 10\nacademics gathered",
+    "start": 17.93,
+    "duration": 3.09
+  },
+  {
+    "text": "on the campus of\nDartmouth College",
+    "start": 21.02,
+    "duration": 1.83
+  },
+  {
+    "text": "to discuss how to make\nmachines use language and form",
+    "start": 22.85,
+    "duration": 2.85
+  },
+  {
+    "text": "abstractions and concepts to\nsolve the kinds of problems",
+    "start": 25.7,
+    "duration": 3.16
+  },
+  {
+    "text": "now reserved for humans.",
+    "start": 28.86,
+    "duration": 1.61
+  },
+  {
+    "text": "The conference led\nto the founding",
+    "start": 30.47,
+    "duration": 1.44
+  },
+  {
+    "text": "of a new field of study,\nartificial intelligence.",
+    "start": 31.91,
+    "duration": 3.06
+  },
+  {
+    "text": "Six decades hence, we are in\nthe midst of an AI revolution",
+    "start": 34.97,
+    "duration": 3.36
+  },
+  {
+    "text": "that is already dramatically\nchanging entire sectors,",
+    "start": 38.33,
+    "duration": 3.27
+  },
+  {
+    "text": "like healthcare, transportation,\neducation, banking, and retail.",
+    "start": 41.6,
+    "duration": 4.17
+  },
+  {
+    "text": "But AI is not\nwithout its critics.",
+    "start": 45.77,
+    "duration": 2.22
+  },
+  {
+    "text": "Elon Musk famously said that\nwith artificial intelligence,",
+    "start": 47.99,
+    "duration": 3.67
+  },
+  {
+    "text": "we're summoning the demon.",
+    "start": 51.66,
+    "duration": 1.61
+  },
+  {
+    "text": "While Stephen Hawking\nbelieved the development",
+    "start": 53.27,
+    "duration": 2.22
+  },
+  {
+    "text": "of full artificial\nintelligence could spell",
+    "start": 55.49,
+    "duration": 2.25
+  },
+  {
+    "text": "the end of the human race.",
+    "start": 57.74,
+    "duration": 1.83
+  },
+  {
+    "text": "So whose job is it to make\nsure that such a vision never",
+    "start": 59.57,
+    "duration": 3.3
+  },
+  {
+    "text": "comes to pass?",
+    "start": 62.87,
+    "duration": 1.35
+  },
+  {
+    "text": "Today on Cold Call we've\ninvited Professor Tsedal Neeley",
+    "start": 64.22,
+    "duration": 3.12
+  },
+  {
+    "text": "to discuss her case\nentitled Timnit Gebru,",
+    "start": 67.34,
+    "duration": 2.97
+  },
+  {
+    "text": "Silenced No More on AI Bias\nand the Harms of Large Language",
+    "start": 70.31,
+    "duration": 4.2
+  },
+  {
+    "text": "Models.",
+    "start": 74.51,
+    "duration": 1.05
+  },
+  {
+    "text": "I'm your host Brian Kenny.",
+    "start": 75.56,
+    "duration": 1.35
+  },
+  {
+    "text": "And you're listening to Cold\nCall on the HBR Presents",
+    "start": 76.91,
+    "duration": 3.33
+  },
+  {
+    "text": "Network.",
+    "start": 80.24,
+    "duration": 1.61
+  },
+  {
+    "text": "Tsedal Neeley's\nwork focuses on how",
+    "start": 81.85,
+    "duration": 1.85
+  },
+  {
+    "text": "leaders can scale\ntheir organizations",
+    "start": 83.7,
+    "duration": 1.8
+  },
+  {
+    "text": "by developing and implementing\nglobal and digital strategies.",
+    "start": 85.5,
+    "duration": 3.42
+  },
+  {
+    "text": "She's also the co-author of\nthe book, The Digital Mindset,",
+    "start": 88.92,
+    "duration": 3.24
+  },
+  {
+    "text": "What It Really Takes to Thrive\nin the Age of Data, Algorithms,",
+    "start": 92.16,
+    "duration": 3.18
+  },
+  {
+    "text": "and AI.",
+    "start": 95.34,
+    "duration": 1.05
+  },
+  {
+    "text": "Thank you for joining\nme today, Tsedal.",
+    "start": 96.39,
+    "duration": 1.77
+  },
+  {
+    "text": "TSEDAL NEELEY: I'm\nso happy to be back.",
+    "start": 98.16,
+    "duration": 2.05
+  },
+  {
+    "text": "BRIAN KENNY: It's great\nto have you on again.",
+    "start": 100.21,
+    "duration": 1.34
+  },
+  {
+    "text": "We've had on the show\nI think two or three",
+    "start": 101.55,
+    "duration": 1.5
+  },
+  {
+    "text": "times at this point.",
+    "start": 103.05,
+    "duration": 0.833
+  },
+  {
+    "text": "So you must be doing something\nright if you keep coming back.",
+    "start": 103.883,
+    "duration": 2.617
+  },
+  {
+    "text": "TSEDAL NEELEY: I'm just always\nwaiting for the opportunity",
+    "start": 106.5,
+    "duration": 2.7
+  },
+  {
+    "text": "to come back.",
+    "start": 109.2,
+    "duration": 0.69
+  },
+  {
+    "text": "And this case that\nwe're going to discuss",
+    "start": 109.89,
+    "duration": 2.46
+  },
+  {
+    "text": "is one of my\nfavorites this year.",
+    "start": 112.35,
+    "duration": 1.91
+  },
+  {
+    "text": "BRIAN KENNY: Yeah, yeah.",
+    "start": 114.26,
+    "duration": 1.0
+  },
+  {
+    "text": "So you have not discussed\nthis with a class yet.",
+    "start": 115.26,
+    "duration": 2.52
+  },
+  {
+    "text": "Is that right?",
+    "start": 117.78,
+    "duration": 0.652
+  },
+  {
+    "text": "TSEDAL NEELEY: No, I haven't.",
+    "start": 118.432,
+    "duration": 1.208
+  },
+  {
+    "text": "BRIAN KENNY: All\nright, well, this",
+    "start": 119.64,
+    "duration": 0.57
+  },
+  {
+    "text": "will be good because we're going\nto ask some questions that we",
+    "start": 120.21,
+    "duration": 2.31
+  },
+  {
+    "text": "think may surface\nin the classroom.",
+    "start": 122.52,
+    "duration": 1.26
+  },
+  {
+    "text": "But I also want to\ntake our listeners kind",
+    "start": 123.78,
+    "duration": 1.8
+  },
+  {
+    "text": "of between the lines\nof the case and get",
+    "start": 125.58,
+    "duration": 1.59
+  },
+  {
+    "text": "a better understanding of why\nyou wrote it in the first place",
+    "start": 127.17,
+    "duration": 1.89
+  },
+  {
+    "text": "and how it matches to\nthe kind of research",
+    "start": 129.06,
+    "duration": 1.878
+  },
+  {
+    "text": "that you like to\ndo, and particularly",
+    "start": 130.938,
+    "duration": 1.542
+  },
+  {
+    "text": "the ideas in your new book.",
+    "start": 132.48,
+    "duration": 1.23
+  },
+  {
+    "text": "Let's just dig in.",
+    "start": 133.71,
+    "duration": 1.2
+  },
+  {
+    "text": "Can you set the stage for us?",
+    "start": 134.91,
+    "duration": 1.68
+  },
+  {
+    "text": "What's the central\ncase in the issue?",
+    "start": 136.59,
+    "duration": 1.955
+  },
+  {
+    "text": "And when you do discuss it\nin the classroom, what's",
+    "start": 138.545,
+    "duration": 2.125
+  },
+  {
+    "text": "your cold call going to be?",
+    "start": 140.67,
+    "duration": 1.29
+  },
+  {
+    "text": "TSEDAL NEELEY: So the central\ncase in the Timnit Gebru story",
+    "start": 141.96,
+    "duration": 5.04
+  },
+  {
+    "text": "is that here you have an AI\nexpert, a computer scientist,",
+    "start": 147.0,
+    "duration": 5.22
+  },
+  {
+    "text": "who looks at the harms\nand the risks that come",
+    "start": 152.22,
+    "duration": 3.42
+  },
+  {
+    "text": "from artificial intelligence.",
+    "start": 155.64,
+    "duration": 1.98
+  },
+  {
+    "text": "And she's working at\nGoogle at this time",
+    "start": 157.62,
+    "duration": 3.99
+  },
+  {
+    "text": "and raised some\nconcerns to the company",
+    "start": 161.61,
+    "duration": 3.96
+  },
+  {
+    "text": "about their large\nlanguage models.",
+    "start": 165.57,
+    "duration": 2.73
+  },
+  {
+    "text": "The company didn't like it.",
+    "start": 168.3,
+    "duration": 1.92
+  },
+  {
+    "text": "And ultimately, she\nclaims to have been fired.",
+    "start": 170.22,
+    "duration": 5.67
+  },
+  {
+    "text": "Google claims that\nshe had resigned.",
+    "start": 175.89,
+    "duration": 3.27
+  },
+  {
+    "text": "But the bottom line\nis they parted ways.",
+    "start": 179.16,
+    "duration": 3.79
+  },
+  {
+    "text": "The cold call for this\ncase is, was this situation",
+    "start": 182.95,
+    "duration": 5.69
+  },
+  {
+    "text": "doomed from the start?",
+    "start": 188.64,
+    "duration": 2.14
+  },
+  {
+    "text": "Can you have an AI\nethics and AI bias expert",
+    "start": 190.78,
+    "duration": 4.97
+  },
+  {
+    "text": "assessing the technology\ninside of a company?",
+    "start": 195.75,
+    "duration": 3.48
+  },
+  {
+    "text": "Or do you need an outsider\nto ensure that biases are not",
+    "start": 199.23,
+    "duration": 4.98
+  },
+  {
+    "text": "embedded in your system and\nyour training mechanisms?",
+    "start": 204.21,
+    "duration": 3.21
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 207.42,
+    "duration": 0.89
+  },
+  {
+    "text": "This raises issues.",
+    "start": 208.31,
+    "duration": 1.158
+  },
+  {
+    "text": "We've heard a lot about Google.",
+    "start": 209.468,
+    "duration": 1.292
+  },
+  {
+    "text": "I think Google is one\nof those companies",
+    "start": 210.76,
+    "duration": 1.667
+  },
+  {
+    "text": "that everybody knows what it is.",
+    "start": 212.427,
+    "duration": 1.563
+  },
+  {
+    "text": "But it's such a\nbehemoth organization",
+    "start": 213.99,
+    "duration": 2.43
+  },
+  {
+    "text": "that you're not necessarily\naware of all the things",
+    "start": 216.42,
+    "duration": 2.13
+  },
+  {
+    "text": "that they're up to.",
+    "start": 218.55,
+    "duration": 0.792
+  },
+  {
+    "text": "So for me, this brought in\na whole different dimension",
+    "start": 219.342,
+    "duration": 2.328
+  },
+  {
+    "text": "of what Google is doing.",
+    "start": 221.67,
+    "duration": 1.3
+  },
+  {
+    "text": "And we've heard about\ncultural issues at Google too.",
+    "start": 222.97,
+    "duration": 2.31
+  },
+  {
+    "text": "So I think this case brings some\nof that to the surface as well.",
+    "start": 225.28,
+    "duration": 3.03
+  },
+  {
+    "text": "So lots of interesting\nthings that come out of this.",
+    "start": 228.31,
+    "duration": 2.37
+  },
+  {
+    "text": "How did you hear\nabout this story?",
+    "start": 230.68,
+    "duration": 1.7
+  },
+  {
+    "text": "And what made you decide\nto write a case about it?",
+    "start": 232.38,
+    "duration": 2.56
+  },
+  {
+    "text": "TSEDAL NEELEY: So I've\nknown Timnit Gebru",
+    "start": 234.94,
+    "duration": 2.09
+  },
+  {
+    "text": "since she was an undergraduate\nat Stanford University.",
+    "start": 237.03,
+    "duration": 2.97
+  },
+  {
+    "text": "So I met her when\nshe was a freshman.",
+    "start": 240.0,
+    "duration": 2.4
+  },
+  {
+    "text": "And I was a first\nyear doctoral student.",
+    "start": 242.4,
+    "duration": 2.4
+  },
+  {
+    "text": "And you knew that this woman\nwas going to be special.",
+    "start": 244.8,
+    "duration": 5.64
+  },
+  {
+    "text": "And at that time,\nit wasn't clear",
+    "start": 250.44,
+    "duration": 2.97
+  },
+  {
+    "text": "that she would be one\nof the pioneering voices",
+    "start": 253.41,
+    "duration": 2.97
+  },
+  {
+    "text": "when it comes to visualization\nand AI, and ultimately",
+    "start": 256.38,
+    "duration": 4.05
+  },
+  {
+    "text": "AI ethics and bias.",
+    "start": 260.43,
+    "duration": 1.77
+  },
+  {
+    "text": "She took the tech\nworld by storm.",
+    "start": 262.2,
+    "duration": 4.29
+  },
+  {
+    "text": "In 2018 working\nwith Joy Buolamwini,",
+    "start": 266.49,
+    "duration": 4.62
+  },
+  {
+    "text": "Timnit analyzed facial\nrecognition software",
+    "start": 271.11,
+    "duration": 3.12
+  },
+  {
+    "text": "made by three\ncompanies, one of which",
+    "start": 274.23,
+    "duration": 2.19
+  },
+  {
+    "text": "she was working at the time.",
+    "start": 276.42,
+    "duration": 1.62
+  },
+  {
+    "text": "And their work became\na landmark study.",
+    "start": 278.04,
+    "duration": 2.93
+  },
+  {
+    "text": "It was called Gender Shades.",
+    "start": 280.97,
+    "duration": 1.24
+  },
+  {
+    "text": "And it showed that the darker\nthe skin tone that people had,",
+    "start": 282.21,
+    "duration": 3.93
+  },
+  {
+    "text": "the more unlikely\nit was that faces",
+    "start": 286.14,
+    "duration": 2.61
+  },
+  {
+    "text": "would be accurately\nrecognized by AI.",
+    "start": 288.75,
+    "duration": 3.9
+  },
+  {
+    "text": "And they were the first to\nbring this to the forefront",
+    "start": 292.65,
+    "duration": 3.33
+  },
+  {
+    "text": "and show the extent to\nwhich there are so many",
+    "start": 295.98,
+    "duration": 2.61
+  },
+  {
+    "text": "inaccuracies that ultimately\nhurt populations of color",
+    "start": 298.59,
+    "duration": 4.14
+  },
+  {
+    "text": "through the AI systems\nthat were at play.",
+    "start": 302.73,
+    "duration": 3.99
+  },
+  {
+    "text": "Timnit is one of those people\nwho sees things clearly.",
+    "start": 306.72,
+    "duration": 4.68
+  },
+  {
+    "text": "Everyone is talking\nabout AI today,",
+    "start": 311.4,
+    "duration": 2.4
+  },
+  {
+    "text": "and AI ethics, and AI bias.",
+    "start": 313.8,
+    "duration": 2.1
+  },
+  {
+    "text": "She was thinking about\nthis over a decade ago.",
+    "start": 315.9,
+    "duration": 2.513
+  },
+  {
+    "text": "BRIAN KENNY: The\ncase title refers",
+    "start": 318.413,
+    "duration": 1.417
+  },
+  {
+    "text": "to large language models.",
+    "start": 319.83,
+    "duration": 2.02
+  },
+  {
+    "text": "And it could be\nhelpful for people just",
+    "start": 321.85,
+    "duration": 2.06
+  },
+  {
+    "text": "to understand what that\nmeans in the context of AI",
+    "start": 323.91,
+    "duration": 2.49
+  },
+  {
+    "text": "before we go further\ninto the case details.",
+    "start": 326.4,
+    "duration": 2.43
+  },
+  {
+    "text": "TSEDAL NEELEY: Large\nlanguage models today,",
+    "start": 328.83,
+    "duration": 3.03
+  },
+  {
+    "text": "many might recognize it as a\nterm because it's a type of AI.",
+    "start": 331.86,
+    "duration": 5.08
+  },
+  {
+    "text": "And in 2018, Google unveiled\ntheir large language model",
+    "start": 336.94,
+    "duration": 5.66
+  },
+  {
+    "text": "named Bert.",
+    "start": 342.6,
+    "duration": 1.38
+  },
+  {
+    "text": "And what Bert does is\nthat it takes data.",
+    "start": 343.98,
+    "duration": 5.22
+  },
+  {
+    "text": "I mean, when I say\ndata, we're talking",
+    "start": 349.2,
+    "duration": 2.58
+  },
+  {
+    "text": "about millions, billions,\nhalf a trillion words.",
+    "start": 351.78,
+    "duration": 5.19
+  },
+  {
+    "text": "And those models\neventually are used",
+    "start": 356.97,
+    "duration": 4.5
+  },
+  {
+    "text": "to make predictions and\ncontribute to Google's",
+    "start": 361.47,
+    "duration": 4.29
+  },
+  {
+    "text": "probabilities work, right?",
+    "start": 365.76,
+    "duration": 1.083
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 366.843,
+    "duration": 0.75
+  },
+  {
+    "text": "TSEDAL NEELEY: And so\nthese large language",
+    "start": 367.593,
+    "duration": 2.157
+  },
+  {
+    "text": "models, they take words.",
+    "start": 369.75,
+    "duration": 2.19
+  },
+  {
+    "text": "And ultimately they become\nintelligent through training",
+    "start": 371.94,
+    "duration": 4.26
+  },
+  {
+    "text": "and are used to\nfocus, to personalize,",
+    "start": 376.2,
+    "duration": 4.17
+  },
+  {
+    "text": "to customize, et cetera.",
+    "start": 380.37,
+    "duration": 1.9
+  },
+  {
+    "text": "The problem with these\nlarge language models",
+    "start": 382.27,
+    "duration": 2.46
+  },
+  {
+    "text": "that Timnit was\nvery worried about",
+    "start": 384.73,
+    "duration": 2.79
+  },
+  {
+    "text": "is that the larger the\nmodels, the less those",
+    "start": 387.52,
+    "duration": 4.44
+  },
+  {
+    "text": "who are using these models\nare able to identify",
+    "start": 391.96,
+    "duration": 2.91
+  },
+  {
+    "text": "biases that may be\nembedded in them",
+    "start": 394.87,
+    "duration": 2.22
+  },
+  {
+    "text": "and impossible to sanitize them.",
+    "start": 397.09,
+    "duration": 2.59
+  },
+  {
+    "text": "So along with the\nco-authors, she",
+    "start": 399.68,
+    "duration": 3.32
+  },
+  {
+    "text": "was trying to slow\ndown the production",
+    "start": 403.0,
+    "duration": 2.85
+  },
+  {
+    "text": "of these large language models\nin order to say, wait a minute,",
+    "start": 405.85,
+    "duration": 3.87
+  },
+  {
+    "text": "do we need them to be this big?",
+    "start": 409.72,
+    "duration": 1.8
+  },
+  {
+    "text": "And if so, how do we\nmake sure that there",
+    "start": 411.52,
+    "duration": 2.61
+  },
+  {
+    "text": "aren't harms that\nare perpetuated",
+    "start": 414.13,
+    "duration": 1.98
+  },
+  {
+    "text": "through these models?",
+    "start": 416.11,
+    "duration": 1.092
+  },
+  {
+    "text": "BRIAN KENNY: What kind of\nharm are you talking about?",
+    "start": 417.202,
+    "duration": 2.208
+  },
+  {
+    "text": "What would be some\nof the ways that this",
+    "start": 419.41,
+    "duration": 1.32
+  },
+  {
+    "text": "would manifest itself?",
+    "start": 420.73,
+    "duration": 1.14
+  },
+  {
+    "text": "TSEDAL NEELEY: One\nof the ways that it",
+    "start": 421.87,
+    "duration": 1.583
+  },
+  {
+    "text": "would manifest\nitself is that biases",
+    "start": 423.453,
+    "duration": 3.307
+  },
+  {
+    "text": "get replicated, duplicated,\nand scaled exponentially",
+    "start": 426.76,
+    "duration": 4.08
+  },
+  {
+    "text": "when it comes to communities\nthat are being policed,",
+    "start": 430.84,
+    "duration": 2.79
+  },
+  {
+    "text": "when it comes to Black\nand Brown people,",
+    "start": 433.63,
+    "duration": 2.82
+  },
+  {
+    "text": "when it comes to refugees.",
+    "start": 436.45,
+    "duration": 2.7
+  },
+  {
+    "text": "So these models are not capable\nof extracting the biases",
+    "start": 439.15,
+    "duration": 5.67
+  },
+  {
+    "text": "that they are built on\nbecause by definition, humans",
+    "start": 444.82,
+    "duration": 6.0
+  },
+  {
+    "text": "are biased.",
+    "start": 450.82,
+    "duration": 0.87
+  },
+  {
+    "text": "And the text that humans\nwill generate and produce",
+    "start": 451.69,
+    "duration": 3.66
+  },
+  {
+    "text": "will have biases in them.",
+    "start": 455.35,
+    "duration": 1.51
+  },
+  {
+    "text": "So people like Timnit are\nsaying these large language",
+    "start": 456.86,
+    "duration": 3.95
+  },
+  {
+    "text": "models can harm\npeople who are not",
+    "start": 460.81,
+    "duration": 3.42
+  },
+  {
+    "text": "involved in their design, who\nare powerless because biases",
+    "start": 464.23,
+    "duration": 5.64
+  },
+  {
+    "text": "will be embedded in them.",
+    "start": 469.87,
+    "duration": 1.78
+  },
+  {
+    "text": "So let's slow down.",
+    "start": 471.65,
+    "duration": 0.89
+  },
+  {
+    "text": "Let's understand them.",
+    "start": 472.54,
+    "duration": 0.917
+  },
+  {
+    "text": "BRIAN KENNY: So if you have\na homogeneous group that's",
+    "start": 473.457,
+    "duration": 2.25
+  },
+  {
+    "text": "sort of designing\nthe model and feeding",
+    "start": 475.707,
+    "duration": 1.633
+  },
+  {
+    "text": "the information\ninto the model, all",
+    "start": 477.34,
+    "duration": 1.568
+  },
+  {
+    "text": "of the bias that goes\nalong with that group",
+    "start": 478.908,
+    "duration": 1.792
+  },
+  {
+    "text": "is going to be there, because\nthere wasn't any input",
+    "start": 480.7,
+    "duration": 2.25
+  },
+  {
+    "text": "from underrepresented groups.",
+    "start": 482.95,
+    "duration": 1.98
+  },
+  {
+    "text": "TSEDAL NEELEY:\nThat's exactly right.",
+    "start": 484.93,
+    "duration": 1.5
+  },
+  {
+    "text": "And the thing about AI,\nAI scales exponentially.",
+    "start": 486.43,
+    "duration": 3.018
+  },
+  {
+    "text": "BRIAN KENNY: Right.",
+    "start": 489.448,
+    "duration": 0.792
+  },
+  {
+    "text": "TSEDAL NEELEY: That's exactly\nwhat they were worried about.",
+    "start": 490.24,
+    "duration": 3.162
+  },
+  {
+    "text": "BRIAN KENNY: So\nlet's talk a little",
+    "start": 493.402,
+    "duration": 1.458
+  },
+  {
+    "text": "about Timnit's background.",
+    "start": 494.86,
+    "duration": 1.54
+  },
+  {
+    "text": "She's a local person, grew\nup not far from Harvard",
+    "start": 496.4,
+    "duration": 2.09
+  },
+  {
+    "text": "Business School.",
+    "start": 498.49,
+    "duration": 0.51
+  },
+  {
+    "text": "Is that right?",
+    "start": 499.0,
+    "duration": 0.69
+  },
+  {
+    "text": "TSEDAL NEELEY: She\nwent to high school",
+    "start": 499.69,
+    "duration": 1.59
+  },
+  {
+    "text": "in Somerville, Massachusetts.",
+    "start": 501.28,
+    "duration": 1.71
+  },
+  {
+    "text": "But she landed\nthere because she's",
+    "start": 502.99,
+    "duration": 2.73
+  },
+  {
+    "text": "the product of East Africa.",
+    "start": 505.72,
+    "duration": 2.43
+  },
+  {
+    "text": "She was born in\nEthiopia, Addis Ababa.",
+    "start": 508.15,
+    "duration": 2.43
+  },
+  {
+    "text": "Her family both come from\nEthiopia and Eritrea.",
+    "start": 510.58,
+    "duration": 3.99
+  },
+  {
+    "text": "And there was a border dispute\nin the '90s between Eritrea",
+    "start": 514.57,
+    "duration": 4.26
+  },
+  {
+    "text": "and Ethiopia, which\nmade her and her family",
+    "start": 518.83,
+    "duration": 3.27
+  },
+  {
+    "text": "vulnerable to conscription\nto fight in the war.",
+    "start": 522.1,
+    "duration": 3.55
+  },
+  {
+    "text": "And to avoid it,\nher family left.",
+    "start": 525.65,
+    "duration": 2.66
+  },
+  {
+    "text": "And when I say her family, it's\nher mother and her two sisters.",
+    "start": 528.31,
+    "duration": 3.12
+  },
+  {
+    "text": "She has her sisters in Ireland.",
+    "start": 531.43,
+    "duration": 2.31
+  },
+  {
+    "text": "Her mother eventually with\nher landed in Massachusetts.",
+    "start": 533.74,
+    "duration": 4.35
+  },
+  {
+    "text": "But Timnit comes from a highly\ntechnology-driven family.",
+    "start": 538.09,
+    "duration": 5.76
+  },
+  {
+    "text": "Her mother is an economist.",
+    "start": 543.85,
+    "duration": 1.71
+  },
+  {
+    "text": "But her father is an\nelectrical engineer, a PhD.",
+    "start": 545.56,
+    "duration": 3.78
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 549.34,
+    "duration": 0.75
+  },
+  {
+    "text": "TSEDAL NEELEY: Both sisters\nare electrical engineers.",
+    "start": 550.09,
+    "duration": 2.208
+  },
+  {
+    "text": "And she says she grew up loving\nmath, and science, and physics,",
+    "start": 552.298,
+    "duration": 5.922
+  },
+  {
+    "text": "and never imagined a life\nthat didn't involve technology",
+    "start": 558.22,
+    "duration": 4.08
+  },
+  {
+    "text": "and engineering.",
+    "start": 562.3,
+    "duration": 0.93
+  },
+  {
+    "text": "So it was a natural\nplace for her",
+    "start": 563.23,
+    "duration": 2.1
+  },
+  {
+    "text": "to land as a gifted\nmath and science person.",
+    "start": 565.33,
+    "duration": 3.62
+  },
+  {
+    "text": "BRIAN KENNY: How did\nshe get involved then",
+    "start": 568.95,
+    "duration": 1.75
+  },
+  {
+    "text": "in being an AI ethicist?",
+    "start": 570.7,
+    "duration": 1.342
+  },
+  {
+    "text": "And what exactly does\nthat job description look",
+    "start": 572.042,
+    "duration": 1.958
+  },
+  {
+    "text": "like if you're an AI ethicist?",
+    "start": 574.0,
+    "duration": 1.678
+  },
+  {
+    "text": "TSEDAL NEELEY: It's\ninteresting because she would",
+    "start": 575.678,
+    "duration": 2.042
+  },
+  {
+    "text": "call herself an AI researcher.",
+    "start": 577.72,
+    "duration": 4.41
+  },
+  {
+    "text": "And as part of being an AI\nresearcher, a component of it",
+    "start": 582.13,
+    "duration": 6.42
+  },
+  {
+    "text": "is ensuring that ethics\nand biases are not",
+    "start": 588.55,
+    "duration": 5.25
+  },
+  {
+    "text": "creeping into models.",
+    "start": 593.8,
+    "duration": 1.41
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 595.21,
+    "duration": 0.75
+  },
+  {
+    "text": "TSEDAL NEELEY: How\ndo you become one?",
+    "start": 595.96,
+    "duration": 1.542
+  },
+  {
+    "text": "Timnit got her PhD from Stanford\nUniversity in computer science.",
+    "start": 597.502,
+    "duration": 4.098
+  },
+  {
+    "text": "And she was trained in a lab,\none of the early labs that was",
+    "start": 601.6,
+    "duration": 4.98
+  },
+  {
+    "text": "trying to use images\nfrom the internet--",
+    "start": 606.58,
+    "duration": 3.96
+  },
+  {
+    "text": "can we use images as\ninput into AI systems--",
+    "start": 610.54,
+    "duration": 4.29
+  },
+  {
+    "text": "and discovered this whole\narea and ultimately recognized",
+    "start": 614.83,
+    "duration": 7.14
+  },
+  {
+    "text": "the problem of AI bias.",
+    "start": 621.97,
+    "duration": 2.1
+  },
+  {
+    "text": "The thing that's\ninteresting about her",
+    "start": 624.07,
+    "duration": 2.19
+  },
+  {
+    "text": "is that she saw so\nsharply these issues.",
+    "start": 626.26,
+    "duration": 5.04
+  },
+  {
+    "text": "And she talks about this\nbecause of who she is,",
+    "start": 631.3,
+    "duration": 2.46
+  },
+  {
+    "text": "because of her\nbackground, because",
+    "start": 633.76,
+    "duration": 1.53
+  },
+  {
+    "text": "of seeing how people\nget negatively",
+    "start": 635.29,
+    "duration": 3.24
+  },
+  {
+    "text": "affected when they're not\npart of a system, a process.",
+    "start": 638.53,
+    "duration": 2.67
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 641.2,
+    "duration": 0.75
+  },
+  {
+    "text": "TSEDAL NEELEY: The\nclarity by which",
+    "start": 641.95,
+    "duration": 1.62
+  },
+  {
+    "text": "she saw AI bias\nissues early on to me,",
+    "start": 643.57,
+    "duration": 4.83
+  },
+  {
+    "text": "it just blows my mind because\neveryone talks about it today.",
+    "start": 648.4,
+    "duration": 3.6
+  },
+  {
+    "text": "Timnit was one of the first\nto see it and document it.",
+    "start": 652.0,
+    "duration": 3.6
+  },
+  {
+    "text": "BRIAN KENNY: And she\nhas sort of a philosophy",
+    "start": 655.6,
+    "duration": 2.58
+  },
+  {
+    "text": "of the way that she thinks about\nDEI and advocacy on this front.",
+    "start": 658.18,
+    "duration": 3.268
+  },
+  {
+    "text": "Can you talk a little\nbit about that?",
+    "start": 661.448,
+    "duration": 1.542
+  },
+  {
+    "text": "TSEDAL NEELEY: Absolutely.",
+    "start": 662.99,
+    "duration": 1.083
+  },
+  {
+    "text": "What I learned, Brian, with\nthis case and talking to her,",
+    "start": 664.073,
+    "duration": 4.637
+  },
+  {
+    "text": "and reading work, or even\nthings that she has published",
+    "start": 668.71,
+    "duration": 4.2
+  },
+  {
+    "text": "is that AI bias or AI in\ngeneral is inextricably",
+    "start": 672.91,
+    "duration": 7.62
+  },
+  {
+    "text": "simply tied to DEI.",
+    "start": 680.53,
+    "duration": 2.84
+  },
+  {
+    "text": "You cannot separate them.",
+    "start": 683.37,
+    "duration": 1.81
+  },
+  {
+    "text": "And this is one of\nthe lessons that I",
+    "start": 685.18,
+    "duration": 1.79
+  },
+  {
+    "text": "learned because what she\nsays is the recipient of,",
+    "start": 686.97,
+    "duration": 4.32
+  },
+  {
+    "text": "or the subject of,\nor those who will",
+    "start": 691.29,
+    "duration": 3.39
+  },
+  {
+    "text": "suffer the consequences\nof AI will be",
+    "start": 694.68,
+    "duration": 3.45
+  },
+  {
+    "text": "communities with limited power.",
+    "start": 698.13,
+    "duration": 2.82
+  },
+  {
+    "text": "And they're the ones who are\nleast present to help influence",
+    "start": 700.95,
+    "duration": 4.83
+  },
+  {
+    "text": "the technology, the models\nthat are getting built.",
+    "start": 705.78,
+    "duration": 2.7
+  },
+  {
+    "text": "One of the things that\nTimnit did early on",
+    "start": 708.48,
+    "duration": 3.09
+  },
+  {
+    "text": "was co-found a group\ncalled Blacken AI.",
+    "start": 711.57,
+    "duration": 4.2
+  },
+  {
+    "text": "She would go to\nthese conferences",
+    "start": 715.77,
+    "duration": 1.71
+  },
+  {
+    "text": "with 5,000, 6,000, 7,000\npeople, AI conferences.",
+    "start": 717.48,
+    "duration": 4.92
+  },
+  {
+    "text": "And she would say that\nthere would literally",
+    "start": 722.4,
+    "duration": 2.46
+  },
+  {
+    "text": "be four or five Black people--",
+    "start": 724.86,
+    "duration": 2.28
+  },
+  {
+    "text": "BRIAN KENNY: Wow.",
+    "start": 727.14,
+    "duration": 0.72
+  },
+  {
+    "text": "TSEDAL NEELEY: --out\nof that huge number.",
+    "start": 727.86,
+    "duration": 2.14
+  },
+  {
+    "text": "And so she, as a problem\nsolver, she sees the issue",
+    "start": 730.0,
+    "duration": 4.82
+  },
+  {
+    "text": "and early on founded this global\ngroup to bring the numbers up,",
+    "start": 734.82,
+    "duration": 6.24
+  },
+  {
+    "text": "to create a platform for\npeople to collaborate, to work",
+    "start": 741.06,
+    "duration": 3.81
+  },
+  {
+    "text": "together, and to also build the\ncapabilities that could support",
+    "start": 744.87,
+    "duration": 4.38
+  },
+  {
+    "text": "future technology development.",
+    "start": 749.25,
+    "duration": 2.287
+  },
+  {
+    "text": "BRIAN KENNY: I found\nthat whole notion",
+    "start": 751.537,
+    "duration": 1.583
+  },
+  {
+    "text": "of connecting DEI and\nAI really revelatory",
+    "start": 753.12,
+    "duration": 2.97
+  },
+  {
+    "text": "because we talk a lot\nabout systemic issues,",
+    "start": 756.09,
+    "duration": 2.43
+  },
+  {
+    "text": "systemic justice\nissues, systemic issues",
+    "start": 758.52,
+    "duration": 1.98
+  },
+  {
+    "text": "in banking and retail.",
+    "start": 760.5,
+    "duration": 1.44
+  },
+  {
+    "text": "And it sounded like\nwe were building",
+    "start": 761.94,
+    "duration": 2.61
+  },
+  {
+    "text": "that sort of systematic bias\ninto the AI world, which",
+    "start": 764.55,
+    "duration": 4.05
+  },
+  {
+    "text": "would then perpetuate\nall this stuff, right?",
+    "start": 768.6,
+    "duration": 2.04
+  },
+  {
+    "text": "TSEDAL NEELEY: At scale.",
+    "start": 770.64,
+    "duration": 1.2
+  },
+  {
+    "text": "BRIAN KENNY: At scale.",
+    "start": 771.84,
+    "duration": 0.39
+  },
+  {
+    "text": "TSEDAL NEELEY:\nThat's exactly right.",
+    "start": 772.23,
+    "duration": 1.62
+  },
+  {
+    "text": "That's the biggest lesson\nthat I learned honestly",
+    "start": 773.85,
+    "duration": 2.64
+  },
+  {
+    "text": "with this work and this case.",
+    "start": 776.49,
+    "duration": 2.1
+  },
+  {
+    "text": "Any company, any organization,\nany group interested in digital",
+    "start": 778.59,
+    "duration": 3.75
+  },
+  {
+    "text": "transformation and bringing AI\ninto their work and using data",
+    "start": 782.34,
+    "duration": 4.98
+  },
+  {
+    "text": "to create algorithms and\nmodels cannot ignore the DEI",
+    "start": 787.32,
+    "duration": 6.45
+  },
+  {
+    "text": "component.",
+    "start": 793.77,
+    "duration": 0.81
+  },
+  {
+    "text": "And in fact, they\nneed to make sure",
+    "start": 794.58,
+    "duration": 2.22
+  },
+  {
+    "text": "that they have the right\npeople looking at the work,",
+    "start": 796.8,
+    "duration": 3.39
+  },
+  {
+    "text": "helping design the work,\ndeveloping the work",
+    "start": 800.19,
+    "duration": 2.58
+  },
+  {
+    "text": "because otherwise, flawed humans\nwill create flawed systems.",
+    "start": 802.77,
+    "duration": 4.65
+  },
+  {
+    "text": "BRIAN KENNY: Yeah, this is\nexactly what Timnit was doing.",
+    "start": 807.42,
+    "duration": 2.675
+  },
+  {
+    "text": "So here she is.",
+    "start": 810.095,
+    "duration": 0.625
+  },
+  {
+    "text": "She's at Google.",
+    "start": 810.72,
+    "duration": 0.93
+  },
+  {
+    "text": "She feels like it's important\nto shine a light on what she",
+    "start": 811.65,
+    "duration": 3.36
+  },
+  {
+    "text": "sees as issues in this area.",
+    "start": 815.01,
+    "duration": 1.68
+  },
+  {
+    "text": "How was she received by\nher colleagues at Google?",
+    "start": 816.69,
+    "duration": 3.21
+  },
+  {
+    "text": "TSEDAL NEELEY: It's interesting\nbecause what she would say",
+    "start": 819.9,
+    "duration": 3.45
+  },
+  {
+    "text": "is that there are people\nwho really appreciated her",
+    "start": 823.35,
+    "duration": 4.62
+  },
+  {
+    "text": "because she was vocal.",
+    "start": 827.97,
+    "duration": 1.29
+  },
+  {
+    "text": "She would make sure that\nshe supports colleagues.",
+    "start": 829.26,
+    "duration": 3.48
+  },
+  {
+    "text": "If she sees someone getting\ninterrupted systematically,",
+    "start": 832.74,
+    "duration": 4.13
+  },
+  {
+    "text": "a minority person,\nshe would speak up.",
+    "start": 836.87,
+    "duration": 3.43
+  },
+  {
+    "text": "She would try to\nimprove the culture",
+    "start": 840.3,
+    "duration": 3.24
+  },
+  {
+    "text": "for women and for people\nof color at Google.",
+    "start": 843.54,
+    "duration": 3.18
+  },
+  {
+    "text": "She is fearless.",
+    "start": 846.72,
+    "duration": 1.68
+  },
+  {
+    "text": "That's one of the\nquestions I asked her.",
+    "start": 848.4,
+    "duration": 2.41
+  },
+  {
+    "text": "Where does it come\nfrom, this fearlessness?",
+    "start": 850.81,
+    "duration": 2.54
+  },
+  {
+    "text": "You speak out.",
+    "start": 853.35,
+    "duration": 1.23
+  },
+  {
+    "text": "You just are unafraid in ways\nthat is unfamiliar to me.",
+    "start": 854.58,
+    "duration": 4.26
+  },
+  {
+    "text": "She just has this fire within.",
+    "start": 858.84,
+    "duration": 2.74
+  },
+  {
+    "text": "And if she sees truth,\nif she sees something,",
+    "start": 861.58,
+    "duration": 3.2
+  },
+  {
+    "text": "she's unafraid to speak up.",
+    "start": 864.78,
+    "duration": 2.28
+  },
+  {
+    "text": "Now, to your\nquestion, how is she",
+    "start": 867.06,
+    "duration": 2.76
+  },
+  {
+    "text": "perceived, to have someone who's\nalways speaking up fearlessly",
+    "start": 869.82,
+    "duration": 4.5
+  },
+  {
+    "text": "doesn't give you peace, right?",
+    "start": 874.32,
+    "duration": 1.368
+  },
+  {
+    "text": "BRIAN KENNY: Right.",
+    "start": 875.688,
+    "duration": 0.792
+  },
+  {
+    "text": "TSEDAL NEELEY: Challenges you.",
+    "start": 876.48,
+    "duration": 1.05
+  },
+  {
+    "text": "Challenges your culture.",
+    "start": 877.53,
+    "duration": 1.17
+  },
+  {
+    "text": "Challenges status quo.",
+    "start": 878.7,
+    "duration": 1.78
+  },
+  {
+    "text": "So you can imagine\nhow that could",
+    "start": 880.48,
+    "duration": 2.39
+  },
+  {
+    "text": "be difficult for some portion\nof an organization, particularly",
+    "start": 882.87,
+    "duration": 5.25
+  },
+  {
+    "text": "leaders.",
+    "start": 888.12,
+    "duration": 0.51
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 888.63,
+    "duration": 0.27
+  },
+  {
+    "text": "TSEDAL NEELEY: We don't\nlike people who agitate.",
+    "start": 888.9,
+    "duration": 2.212
+  },
+  {
+    "text": "BRIAN KENNY: It seemed\nlike Google was actively",
+    "start": 891.112,
+    "duration": 1.958
+  },
+  {
+    "text": "involved in sort of\ncoaching the people who",
+    "start": 893.07,
+    "duration": 2.49
+  },
+  {
+    "text": "were looking at the AI\nethics within the company,",
+    "start": 895.56,
+    "duration": 2.573
+  },
+  {
+    "text": "and to the extent where\nthey almost were giving them",
+    "start": 898.133,
+    "duration": 2.167
+  },
+  {
+    "text": "some guidelines about\nwell, here's how you",
+    "start": 900.3,
+    "duration": 1.75
+  },
+  {
+    "text": "should communicate about this.",
+    "start": 902.05,
+    "duration": 1.28
+  },
+  {
+    "text": "And Timnit didn't follow\nsuit on some of that.",
+    "start": 903.33,
+    "duration": 2.278
+  },
+  {
+    "text": "Can you talk a little\nbit about that?",
+    "start": 905.608,
+    "duration": 1.542
+  },
+  {
+    "text": "TSEDAL NEELEY: Well,\nthe biggest problem",
+    "start": 907.15,
+    "duration": 1.667
+  },
+  {
+    "text": "that this case documents is\nher firing or resignation,",
+    "start": 908.817,
+    "duration": 5.703
+  },
+  {
+    "text": "depending on which\nside you're on,",
+    "start": 914.52,
+    "duration": 1.89
+  },
+  {
+    "text": "was because Google\nasked her to retract",
+    "start": 916.41,
+    "duration": 4.2
+  },
+  {
+    "text": "her paper, the large\nlanguage models paper,",
+    "start": 920.61,
+    "duration": 3.96
+  },
+  {
+    "text": "or remove the names of any\nGoogle affiliates and the idea",
+    "start": 924.57,
+    "duration": 5.88
+  },
+  {
+    "text": "that they don't want insiders\ncriticizing or critiquing any",
+    "start": 930.45,
+    "duration": 6.72
+  },
+  {
+    "text": "of their technology systems.",
+    "start": 937.17,
+    "duration": 1.74
+  },
+  {
+    "text": "And Timnit's response--\nand this was very public.",
+    "start": 938.91,
+    "duration": 3.0
+  },
+  {
+    "text": "If you're on Twitter,\nyou can see this.",
+    "start": 941.91,
+    "duration": 2.01
+  },
+  {
+    "text": "This was very public--",
+    "start": 943.92,
+    "duration": 1.56
+  },
+  {
+    "text": "says no, I can't retract this\npaper because I have co-authors",
+    "start": 945.48,
+    "duration": 4.65
+  },
+  {
+    "text": "and collaborators.",
+    "start": 950.13,
+    "duration": 1.17
+  },
+  {
+    "text": "So they're counting\non this publication.",
+    "start": 951.3,
+    "duration": 2.22
+  },
+  {
+    "text": "But tell me what\nthe issues, tell me",
+    "start": 953.52,
+    "duration": 1.74
+  },
+  {
+    "text": "how to revise this work.",
+    "start": 955.26,
+    "duration": 2.25
+  },
+  {
+    "text": "And she didn't get\na lot of details",
+    "start": 957.51,
+    "duration": 2.4
+  },
+  {
+    "text": "on how to revise the paper.",
+    "start": 959.91,
+    "duration": 2.52
+  },
+  {
+    "text": "But on some procedural issues,\nthey eventually ousted her.",
+    "start": 962.43,
+    "duration": 7.267
+  },
+  {
+    "text": "BRIAN KENNY: And she\nmade that public.",
+    "start": 969.697,
+    "duration": 1.583
+  },
+  {
+    "text": "She let everybody know about\nthat through this platform",
+    "start": 971.28,
+    "duration": 2.07
+  },
+  {
+    "text": "that she has.",
+    "start": 973.35,
+    "duration": 0.542
+  },
+  {
+    "text": "So she wasn't\ngoing away quietly.",
+    "start": 973.892,
+    "duration": 1.558
+  },
+  {
+    "text": "TSEDAL NEELEY: No.",
+    "start": 975.45,
+    "duration": 0.75
+  },
+  {
+    "text": "BRIAN KENNY: No.",
+    "start": 976.2,
+    "duration": 0.33
+  },
+  {
+    "text": "TSEDAL NEELEY: She wasn't\ngoing away quietly.",
+    "start": 976.53,
+    "duration": 2.04
+  },
+  {
+    "text": "And in fact, she\ntook to Twitter,",
+    "start": 978.57,
+    "duration": 3.71
+  },
+  {
+    "text": "as she always does to discuss AI\nethics issues or AI bias issues",
+    "start": 982.28,
+    "duration": 6.82
+  },
+  {
+    "text": "and recounted her firing in\ndetail, blow by blow, which",
+    "start": 989.1,
+    "duration": 6.29
+  },
+  {
+    "text": "is how I first saw it and said,\nwhoa, Timnit, is everything",
+    "start": 995.39,
+    "duration": 4.08
+  },
+  {
+    "text": "OK there?",
+    "start": 999.47,
+    "duration": 0.81
+  },
+  {
+    "text": "But she wanted to make sure\nthat she wouldn't quietly",
+    "start": 1000.28,
+    "duration": 5.16
+  },
+  {
+    "text": "be fired and tucked away.",
+    "start": 1005.44,
+    "duration": 2.46
+  },
+  {
+    "text": "She says, no, I want\nthe world to know.",
+    "start": 1007.9,
+    "duration": 3.21
+  },
+  {
+    "text": "And this is one of\nthe things that she",
+    "start": 1011.11,
+    "duration": 2.25
+  },
+  {
+    "text": "says in the case that\nreally made me think.",
+    "start": 1013.36,
+    "duration": 4.23
+  },
+  {
+    "text": "If everyone takes a little\nbit of a risk in speaking out,",
+    "start": 1017.59,
+    "duration": 6.03
+  },
+  {
+    "text": "in even naming names,\nthen over time,",
+    "start": 1023.62,
+    "duration": 4.499
+  },
+  {
+    "text": "the aggregate will be able to\nprotect people in the future.",
+    "start": 1028.119,
+    "duration": 4.141
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1032.26,
+    "duration": 0.75
+  },
+  {
+    "text": "TSEDAL NEELEY: In\nother words, if I",
+    "start": 1033.01,
+    "duration": 1.829
+  },
+  {
+    "text": "take a little bit of\na risk and speak out,",
+    "start": 1034.839,
+    "duration": 2.551
+  },
+  {
+    "text": "it'll help everyone in the\nfuture because many of us",
+    "start": 1037.39,
+    "duration": 3.689
+  },
+  {
+    "text": "would be sharing the risk.",
+    "start": 1041.079,
+    "duration": 1.29
+  },
+  {
+    "text": "But the reality, Brian,\nI know few people",
+    "start": 1042.369,
+    "duration": 2.881
+  },
+  {
+    "text": "who are as bold and\nas courageous as her.",
+    "start": 1045.25,
+    "duration": 2.833
+  },
+  {
+    "text": "BRIAN KENNY: Yeah, because the\nstakes are super high here.",
+    "start": 1048.083,
+    "duration": 2.417
+  },
+  {
+    "text": "And this wasn't even a\nwhistleblower situation",
+    "start": 1050.5,
+    "duration": 2.4
+  },
+  {
+    "text": "in the sense that she wasn't\ntrying to report the company",
+    "start": 1052.9,
+    "duration": 2.85
+  },
+  {
+    "text": "or call them out.",
+    "start": 1055.75,
+    "duration": 0.84
+  },
+  {
+    "text": "She was just trying to\nshine a light on what",
+    "start": 1056.59,
+    "duration": 2.01
+  },
+  {
+    "text": "she saw as problems with the\nAI research they were doing",
+    "start": 1058.6,
+    "duration": 3.27
+  },
+  {
+    "text": "and do it in a responsible\nway, as a researcher would.",
+    "start": 1061.87,
+    "duration": 2.7
+  },
+  {
+    "text": "I found this to\nbe a difficult one",
+    "start": 1064.57,
+    "duration": 1.71
+  },
+  {
+    "text": "to parse because\nit doesn't really",
+    "start": 1066.28,
+    "duration": 2.13
+  },
+  {
+    "text": "map to the whistleblower thing.",
+    "start": 1068.41,
+    "duration": 1.89
+  },
+  {
+    "text": "Now, Google did an after\naction review on this.",
+    "start": 1070.3,
+    "duration": 3.3
+  },
+  {
+    "text": "What did they find?",
+    "start": 1073.6,
+    "duration": 0.99
+  },
+  {
+    "text": "And what did they\ndo as a result of--",
+    "start": 1074.59,
+    "duration": 2.87
+  },
+  {
+    "text": "TSEDAL NEELEY: Not much.",
+    "start": 1077.46,
+    "duration": 1.0
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1078.46,
+    "duration": 0.75
+  },
+  {
+    "text": "TSEDAL NEELEY: The\nCEO, Sundar Pichai,",
+    "start": 1079.21,
+    "duration": 3.39
+  },
+  {
+    "text": "apologized, acknowledged\nvery publicly what happened,",
+    "start": 1082.6,
+    "duration": 4.08
+  },
+  {
+    "text": "and talked about his regrets\nof losing one of the top AI",
+    "start": 1086.68,
+    "duration": 6.63
+  },
+  {
+    "text": "experts in the world who\nhappens to be a Black woman.",
+    "start": 1093.31,
+    "duration": 4.44
+  },
+  {
+    "text": "At the same time, nine\nUS Congress people",
+    "start": 1097.75,
+    "duration": 4.44
+  },
+  {
+    "text": "wrote to him saying that\nwhat happened to Timnit",
+    "start": 1102.19,
+    "duration": 4.26
+  },
+  {
+    "text": "is unprecedented censorship and\nasking if he's really committed",
+    "start": 1106.45,
+    "duration": 5.79
+  },
+  {
+    "text": "to AI ethics.",
+    "start": 1112.24,
+    "duration": 1.68
+  },
+  {
+    "text": "Thousands of people at\nGoogle and outside of Google",
+    "start": 1113.92,
+    "duration": 4.32
+  },
+  {
+    "text": "signed a petition.",
+    "start": 1118.24,
+    "duration": 1.59
+  },
+  {
+    "text": "I'll tell you this.",
+    "start": 1119.83,
+    "duration": 1.35
+  },
+  {
+    "text": "The attention that\nthis has garnered--",
+    "start": 1121.18,
+    "duration": 2.04
+  },
+  {
+    "text": "and of course, the\nmedia loves this story",
+    "start": 1123.22,
+    "duration": 2.61
+  },
+  {
+    "text": "because it's an\nunusual story as well.",
+    "start": 1125.83,
+    "duration": 2.53
+  },
+  {
+    "text": "So it was featured\npractically everywhere.",
+    "start": 1128.36,
+    "duration": 2.75
+  },
+  {
+    "text": "And for Timnit who is\nactually a soft spoken,",
+    "start": 1131.11,
+    "duration": 4.95
+  },
+  {
+    "text": "self-described\nlight-hearted woman,",
+    "start": 1136.06,
+    "duration": 3.78
+  },
+  {
+    "text": "she felt that she had to control\nand manage the narrative about",
+    "start": 1139.84,
+    "duration": 5.94
+  },
+  {
+    "text": "her and the situation--",
+    "start": 1145.78,
+    "duration": 1.172
+  },
+  {
+    "text": "BRIAN KENNY: Of course.",
+    "start": 1146.952,
+    "duration": 0.958
+  },
+  {
+    "text": "TSEDAL NEELEY: --otherwise,\nthe 800 pounds gorilla would.",
+    "start": 1147.91,
+    "duration": 3.27
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1151.18,
+    "duration": 0.87
+  },
+  {
+    "text": "So this raises\nserious issues about",
+    "start": 1152.05,
+    "duration": 2.61
+  },
+  {
+    "text": "whether or not Google can\nself-police on this front.",
+    "start": 1154.66,
+    "duration": 3.58
+  },
+  {
+    "text": "And then if you elevate\nthat beyond Google, it's",
+    "start": 1158.24,
+    "duration": 2.0
+  },
+  {
+    "text": "can the industry self-police?",
+    "start": 1160.24,
+    "duration": 2.04
+  },
+  {
+    "text": "And nobody wants\ngovernment oversight",
+    "start": 1162.28,
+    "duration": 1.938
+  },
+  {
+    "text": "of these kinds of things.",
+    "start": 1164.218,
+    "duration": 1.042
+  },
+  {
+    "text": "But is it possible for firms\nto be circumspect in the way",
+    "start": 1165.26,
+    "duration": 4.07
+  },
+  {
+    "text": "that they need to to\nprevent the kind of a future",
+    "start": 1169.33,
+    "duration": 2.387
+  },
+  {
+    "text": "that Stephen Hawking's\ndescribed, that I mentioned",
+    "start": 1171.717,
+    "duration": 2.083
+  },
+  {
+    "text": "in the opening.",
+    "start": 1173.8,
+    "duration": 0.57
+  },
+  {
+    "text": "This is sort of the dynamic\nthat we're thinking about.",
+    "start": 1174.37,
+    "duration": 2.25
+  },
+  {
+    "text": "TSEDAL NEELEY: This is\nthe exact discussion",
+    "start": 1176.62,
+    "duration": 2.55
+  },
+  {
+    "text": "that we would have\nin a classroom.",
+    "start": 1179.17,
+    "duration": 2.52
+  },
+  {
+    "text": "This idea of self-policing,\ncan an organization",
+    "start": 1181.69,
+    "duration": 4.71
+  },
+  {
+    "text": "have members internally\nto self-police",
+    "start": 1186.4,
+    "duration": 3.54
+  },
+  {
+    "text": "without losing favor?",
+    "start": 1189.94,
+    "duration": 1.98
+  },
+  {
+    "text": "Or do you need an outsider\nof sorts, an outside group,",
+    "start": 1191.92,
+    "duration": 4.38
+  },
+  {
+    "text": "to police your work?",
+    "start": 1196.3,
+    "duration": 2.73
+  },
+  {
+    "text": "Because the damage because of\nthe scale that comes through",
+    "start": 1199.03,
+    "duration": 4.23
+  },
+  {
+    "text": "these models is huge.",
+    "start": 1203.26,
+    "duration": 4.11
+  },
+  {
+    "text": "The damage can be huge.",
+    "start": 1207.37,
+    "duration": 1.78
+  },
+  {
+    "text": "So was this doomed from the\nstart, having an AI ethics team",
+    "start": 1209.15,
+    "duration": 5.42
+  },
+  {
+    "text": "or research team to\nassess, appraise,",
+    "start": 1214.57,
+    "duration": 3.87
+  },
+  {
+    "text": "critique the technology\nbuilt internally?",
+    "start": 1218.44,
+    "duration": 4.23
+  },
+  {
+    "text": "Was this ever going to work?",
+    "start": 1222.67,
+    "duration": 1.41
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1224.08,
+    "duration": 0.75
+  },
+  {
+    "text": "TSEDAL NEELEY: And\nmoving forward,",
+    "start": 1224.83,
+    "duration": 2.79
+  },
+  {
+    "text": "every company is\nthinking about AI",
+    "start": 1227.62,
+    "duration": 2.61
+  },
+  {
+    "text": "and needing to\nsafeguard against bias.",
+    "start": 1230.23,
+    "duration": 4.09
+  },
+  {
+    "text": "What is the best way to\nensure that doesn't happen?",
+    "start": 1234.32,
+    "duration": 3.66
+  },
+  {
+    "text": "We know that the diversity\npiece is a big deal, DEI.",
+    "start": 1237.98,
+    "duration": 4.07
+  },
+  {
+    "text": "The second question is, how\nare you going to self-police?",
+    "start": 1242.05,
+    "duration": 3.45
+  },
+  {
+    "text": "Those are the\nfundamental questions",
+    "start": 1245.5,
+    "duration": 2.58
+  },
+  {
+    "text": "that I think this case\nwill prompt us to discuss.",
+    "start": 1248.08,
+    "duration": 4.06
+  },
+  {
+    "text": "BRIAN KENNY: So what's\nTimnit next move?",
+    "start": 1252.14,
+    "duration": 1.85
+  },
+  {
+    "text": "She is not standing still.",
+    "start": 1253.99,
+    "duration": 1.53
+  },
+  {
+    "text": "She's not licking her wounds.",
+    "start": 1255.52,
+    "duration": 1.29
+  },
+  {
+    "text": "She's got big plans.",
+    "start": 1256.81,
+    "duration": 2.07
+  },
+  {
+    "text": "TSEDAL NEELEY: A year after\nthe firing or resignation,",
+    "start": 1258.88,
+    "duration": 5.31
+  },
+  {
+    "text": "depending on which side-- but\nTimnit says she got fired--",
+    "start": 1264.19,
+    "duration": 5.34
+  },
+  {
+    "text": "she actually launched her own\ninstitute called DAIR, D-A-I-R.",
+    "start": 1269.53,
+    "duration": 8.98
+  },
+  {
+    "text": "DAIR stands for Distributed\nAI Research Institute.",
+    "start": 1278.51,
+    "duration": 5.09
+  },
+  {
+    "text": "And it's a space for\nindependent community-rooted AI",
+    "start": 1283.6,
+    "duration": 4.59
+  },
+  {
+    "text": "research without big\ntech's pervasive influence.",
+    "start": 1288.19,
+    "duration": 4.95
+  },
+  {
+    "text": "And she believes\nclearly that she",
+    "start": 1293.14,
+    "duration": 3.84
+  },
+  {
+    "text": "has to do her work\noutside of a company,",
+    "start": 1296.98,
+    "duration": 3.27
+  },
+  {
+    "text": "so that it can be independent\nand develop research, develop",
+    "start": 1300.25,
+    "duration": 4.47
+  },
+  {
+    "text": "insights, even help\nother companies",
+    "start": 1304.72,
+    "duration": 2.46
+  },
+  {
+    "text": "with their own reviews without\nthe influence of a given",
+    "start": 1307.18,
+    "duration": 4.38
+  },
+  {
+    "text": "company.",
+    "start": 1311.56,
+    "duration": 0.67
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1312.23,
+    "duration": 0.75
+  },
+  {
+    "text": "TSEDAL NEELEY: The\ndistributed part of dare",
+    "start": 1312.98,
+    "duration": 2.09
+  },
+  {
+    "text": "is that she has team members\nthat are physically distributed",
+    "start": 1315.07,
+    "duration": 5.64
+  },
+  {
+    "text": "as part of her institute.",
+    "start": 1320.71,
+    "duration": 1.98
+  },
+  {
+    "text": "She was funded by\nterrific companies,",
+    "start": 1322.69,
+    "duration": 3.51
+  },
+  {
+    "text": "like the MacArthur\nFoundation, to get started.",
+    "start": 1326.2,
+    "duration": 3.33
+  },
+  {
+    "text": "She's still figuring out a\nlong-term sustainable revenue",
+    "start": 1329.53,
+    "duration": 4.14
+  },
+  {
+    "text": "model.",
+    "start": 1333.67,
+    "duration": 0.69
+  },
+  {
+    "text": "But some of her\nGoogle colleagues",
+    "start": 1334.36,
+    "duration": 2.58
+  },
+  {
+    "text": "have joined her at DAIR.",
+    "start": 1336.94,
+    "duration": 1.228
+  },
+  {
+    "text": "BRIAN KENNY: Now, that's\ninteresting because when",
+    "start": 1338.168,
+    "duration": 2.042
+  },
+  {
+    "text": "I saw that in the\ncase, I thought, well,",
+    "start": 1340.21,
+    "duration": 1.89
+  },
+  {
+    "text": "will Google ever accept the\nfindings of an organization",
+    "start": 1342.1,
+    "duration": 3.87
+  },
+  {
+    "text": "outside of their own?",
+    "start": 1345.97,
+    "duration": 0.99
+  },
+  {
+    "text": "Will Microsoft?",
+    "start": 1346.96,
+    "duration": 1.02
+  },
+  {
+    "text": "Pick your organization\nthat's steeped in AI.",
+    "start": 1347.98,
+    "duration": 2.61
+  },
+  {
+    "text": "Will they find this to be an\nacceptable source of criticism",
+    "start": 1350.59,
+    "duration": 4.32
+  },
+  {
+    "text": "for what they're doing?",
+    "start": 1354.91,
+    "duration": 1.69
+  },
+  {
+    "text": "TSEDAL NEELEY: I\ndon't think they'll",
+    "start": 1356.6,
+    "duration": 1.88
+  },
+  {
+    "text": "be able to truly know\nwhether their own technology,",
+    "start": 1358.48,
+    "duration": 5.07
+  },
+  {
+    "text": "their own models,\ntheir own algorithms",
+    "start": 1363.55,
+    "duration": 2.31
+  },
+  {
+    "text": "can be critiqued in this way.",
+    "start": 1365.86,
+    "duration": 1.92
+  },
+  {
+    "text": "But what Timnit can do,\nmuch like universities",
+    "start": 1367.78,
+    "duration": 3.09
+  },
+  {
+    "text": "or an institution\nlike ours, is develop",
+    "start": 1370.87,
+    "duration": 3.63
+  },
+  {
+    "text": "insights that can be\ngeneralized or extrapolated",
+    "start": 1374.5,
+    "duration": 4.62
+  },
+  {
+    "text": "to better understand some\nof these technologies that",
+    "start": 1379.12,
+    "duration": 2.19
+  },
+  {
+    "text": "are emerging.",
+    "start": 1381.31,
+    "duration": 0.9
+  },
+  {
+    "text": "And I think that's part\nof what Timnit can do.",
+    "start": 1382.21,
+    "duration": 2.77
+  },
+  {
+    "text": "But I also think that\nTimnit and her team",
+    "start": 1384.98,
+    "duration": 3.68
+  },
+  {
+    "text": "will be very helpful for\nmany organizations in terms",
+    "start": 1388.66,
+    "duration": 3.57
+  },
+  {
+    "text": "of ensuring that AI bias and AI\nethics aren't getting violated.",
+    "start": 1392.23,
+    "duration": 4.81
+  },
+  {
+    "text": "So they can help\nso many companies.",
+    "start": 1397.04,
+    "duration": 2.72
+  },
+  {
+    "text": "I mean, I don't know if\nTimnit would completely",
+    "start": 1399.76,
+    "duration": 2.34
+  },
+  {
+    "text": "agree with this view.",
+    "start": 1402.1,
+    "duration": 1.62
+  },
+  {
+    "text": "But I think about\nher often when I",
+    "start": 1403.72,
+    "duration": 2.88
+  },
+  {
+    "text": "talk to companies who\nare trying to build",
+    "start": 1406.6,
+    "duration": 2.34
+  },
+  {
+    "text": "their digital capabilities,\nwho are bringing AI",
+    "start": 1408.94,
+    "duration": 3.3
+  },
+  {
+    "text": "into their systems, and who\nare building algorithms.",
+    "start": 1412.24,
+    "duration": 4.2
+  },
+  {
+    "text": "I think of Timnit.",
+    "start": 1416.44,
+    "duration": 0.96
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1417.4,
+    "duration": 0.75
+  },
+  {
+    "text": "Well, it sounds like\nsomething like DAIR",
+    "start": 1418.15,
+    "duration": 1.667
+  },
+  {
+    "text": "is overdue and badly needed.",
+    "start": 1419.817,
+    "duration": 2.033
+  },
+  {
+    "text": "This has been a\ngreat conversation.",
+    "start": 1421.85,
+    "duration": 1.47
+  },
+  {
+    "text": "I have to ask one more\nquestion before I let you go.",
+    "start": 1423.32,
+    "duration": 2.27
+  },
+  {
+    "text": "And that is, if you\nwant our listeners",
+    "start": 1425.59,
+    "duration": 1.92
+  },
+  {
+    "text": "to remember one thing about\nTimnit and about this case,",
+    "start": 1427.51,
+    "duration": 3.12
+  },
+  {
+    "text": "what would it be?",
+    "start": 1430.63,
+    "duration": 0.792
+  },
+  {
+    "text": "TSEDAL NEELEY: If\nyou're interested",
+    "start": 1431.422,
+    "duration": 1.458
+  },
+  {
+    "text": "in artificial intelligence,\nyou must figure out",
+    "start": 1432.88,
+    "duration": 5.34
+  },
+  {
+    "text": "how you will drive AI\nbias or ethical issues out",
+    "start": 1438.22,
+    "duration": 5.43
+  },
+  {
+    "text": "of your AI systems\nbecause it's not",
+    "start": 1443.65,
+    "duration": 3.66
+  },
+  {
+    "text": "a matter of if, it's a matter of\nwhen biases can become harmful.",
+    "start": 1447.31,
+    "duration": 6.76
+  },
+  {
+    "text": "So you have to think\nabout bias and ethics",
+    "start": 1454.07,
+    "duration": 3.26
+  },
+  {
+    "text": "when you're thinking\nabout bringing AI",
+    "start": 1457.33,
+    "duration": 2.43
+  },
+  {
+    "text": "into your organization.",
+    "start": 1459.76,
+    "duration": 1.952
+  },
+  {
+    "text": "BRIAN KENNY: Tsedal, thank you\nfor joining me on Cold Call.",
+    "start": 1461.712,
+    "duration": 2.458
+  },
+  {
+    "text": "Until next time, it's been great\nto talk to you about this case.",
+    "start": 1464.17,
+    "duration": 2.76
+  },
+  {
+    "text": "Thanks.",
+    "start": 1466.93,
+    "duration": 0.585
+  },
+  {
+    "text": "TSEDAL NEELEY:\nThank you so much.",
+    "start": 1467.515,
+    "duration": 1.375
+  },
+  {
+    "text": "I can't wait.",
+    "start": 1468.89,
+    "duration": 0.77
+  },
+  {
+    "text": "BRIAN KENNY: If you\nenjoy Cold Call,",
+    "start": 1469.66,
+    "duration": 1.5
+  },
+  {
+    "text": "you might also like\nour other podcasts,",
+    "start": 1471.16,
+    "duration": 2.22
+  },
+  {
+    "text": "After Hours, Climate\nRising, Skydeck,",
+    "start": 1473.38,
+    "duration": 2.4
+  },
+  {
+    "text": "and Managing the Future of Work.",
+    "start": 1475.78,
+    "duration": 1.62
+  },
+  {
+    "text": "Find them on Apple Podcasts\nor wherever you listen.",
+    "start": 1477.4,
+    "duration": 3.3
+  },
+  {
+    "text": "Be sure to rate and review\nus on any podcast platform",
+    "start": 1480.7,
+    "duration": 2.73
+  },
+  {
+    "text": "while you listen to Cold Call.",
+    "start": 1483.43,
+    "duration": 1.32
+  },
+  {
+    "text": "If you have any suggestions or\nif you just want to say hello,",
+    "start": 1484.75,
+    "duration": 2.94
+  },
+  {
+    "text": "we want to hear from you.",
+    "start": 1487.69,
+    "duration": 1.33
+  },
+  {
+    "text": "Email us at coldcall@hbs.edu.",
+    "start": 1489.02,
+    "duration": 3.62
+  },
+  {
+    "text": "That's coldcall@hbs.edu.",
+    "start": 1492.64,
+    "duration": 3.33
+  },
+  {
+    "text": "Thanks for joining us.",
+    "start": 1495.97,
+    "duration": 1.17
+  },
+  {
+    "text": "I'm your host, Brian Kenny.",
+    "start": 1497.14,
+    "duration": 1.23
+  },
+  {
+    "text": "And you've been listening to\nCold Call, an official podcast",
+    "start": 1498.37,
+    "duration": 3.18
+  },
+  {
+    "text": "of Harvard Business School\nbrought to you by the HBR",
+    "start": 1501.55,
+    "duration": 2.79
+  },
+  {
+    "text": "Presents Network.",
+    "start": 1504.34,
+    "duration": 1.97
+  }
+]

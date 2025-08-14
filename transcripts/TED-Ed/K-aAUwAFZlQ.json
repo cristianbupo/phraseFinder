@@ -1,0 +1,332 @@
+[
+  {
+    "text": "\"Some are born great,",
+    "start": 6.833,
+    "duration": 1.892
+  },
+  {
+    "text": "some achieve greatness,",
+    "start": 8.725,
+    "duration": 1.895
+  },
+  {
+    "text": "and others have greatness thrust\nupon them\", quoth William Shakespeare.",
+    "start": 10.62,
+    "duration": 5.091
+  },
+  {
+    "text": "Or did he?",
+    "start": 15.711,
+    "duration": 1.59
+  },
+  {
+    "text": "Some people question whether Shakespeare\nreally wrote the works that bear his name,",
+    "start": 17.301,
+    "duration": 4.668
+  },
+  {
+    "text": "or whether he even existed at all.",
+    "start": 21.969,
+    "duration": 2.92
+  },
+  {
+    "text": "They speculate that Shakespeare\nwas a pseudonym for another writer,",
+    "start": 24.889,
+    "duration": 3.92
+  },
+  {
+    "text": "or a group of writers.",
+    "start": 28.809,
+    "duration": 1.427
+  },
+  {
+    "text": "Proposed candidates \nfor the real Shakespeare",
+    "start": 30.236,
+    "duration": 2.112
+  },
+  {
+    "text": "include other famous playwrights, \npoliticians and even some prominent women.",
+    "start": 32.348,
+    "duration": 5.597
+  },
+  {
+    "text": "Could it be true that the greatest writer\nin the English language",
+    "start": 37.945,
+    "duration": 3.491
+  },
+  {
+    "text": "was as fictional as his plays?",
+    "start": 41.436,
+    "duration": 3.505
+  },
+  {
+    "text": "Most Shakespeare scholars \ndismiss these theories",
+    "start": 44.941,
+    "duration": 2.926
+  },
+  {
+    "text": "based on historical \nand biographical evidence.",
+    "start": 47.867,
+    "duration": 3.572
+  },
+  {
+    "text": "But there is another way to test\nwhether Shakespeare's famous lines",
+    "start": 51.439,
+    "duration": 4.075
+  },
+  {
+    "text": "were actually written by someone else.",
+    "start": 55.514,
+    "duration": 2.986
+  },
+  {
+    "text": "Linguistics, the study of language,",
+    "start": 58.5,
+    "duration": 2.189
+  },
+  {
+    "text": "can tell us a great deal about the way\nwe speak and write",
+    "start": 60.689,
+    "duration": 3.401
+  },
+  {
+    "text": "by examining syntax, grammar, \nsemantics and vocabulary.",
+    "start": 64.09,
+    "duration": 5.495
+  },
+  {
+    "text": "And in the late 1800s,",
+    "start": 69.585,
+    "duration": 1.831
+  },
+  {
+    "text": "a Polish philosopher \nnamed Wincenty Lutosławski",
+    "start": 71.416,
+    "duration": 4.031
+  },
+  {
+    "text": "formalized a method known as stylometry,",
+    "start": 75.447,
+    "duration": 2.779
+  },
+  {
+    "text": "applying this knowledge to investigate \nquestions of literary authorship.",
+    "start": 78.226,
+    "duration": 5.202
+  },
+  {
+    "text": "So how does stylometry work?",
+    "start": 83.428,
+    "duration": 1.967
+  },
+  {
+    "text": "The idea is that each writer's style\nhas certain characteristics",
+    "start": 85.395,
+    "duration": 3.884
+  },
+  {
+    "text": "that remain fairly uniform \namong individual works.",
+    "start": 89.279,
+    "duration": 4.334
+  },
+  {
+    "text": "Examples of characteristics include\naverage sentence length,",
+    "start": 93.613,
+    "duration": 3.481
+  },
+  {
+    "text": "the arrangement of words,",
+    "start": 97.094,
+    "duration": 1.859
+  },
+  {
+    "text": "and even the number of occurrences\nof a particular word.",
+    "start": 98.953,
+    "duration": 3.534
+  },
+  {
+    "text": "Let's look at use of the word thee\nand visualize it as a dimension, or axis.",
+    "start": 102.487,
+    "duration": 5.079
+  },
+  {
+    "text": "Each of Shakespeare's works\ncan be placed on that axis,",
+    "start": 107.566,
+    "duration": 2.988
+  },
+  {
+    "text": "like a data point, based on the number\nof occurrences of that word.",
+    "start": 110.554,
+    "duration": 4.114
+  },
+  {
+    "text": "In statistics, the tightness \nof these points",
+    "start": 114.668,
+    "duration": 2.567
+  },
+  {
+    "text": "gives us what is known as the variance,\nan expected range for our data.",
+    "start": 117.235,
+    "duration": 5.263
+  },
+  {
+    "text": "But, this is only a single characteristic\nin a very high-dimensional space.",
+    "start": 122.498,
+    "duration": 5.497
+  },
+  {
+    "text": "With a clustering tool\ncalled Principal Component Analysis,",
+    "start": 127.995,
+    "duration": 3.345
+  },
+  {
+    "text": "we can reduce the multidimensional space\ninto simple principal components",
+    "start": 131.34,
+    "duration": 4.791
+  },
+  {
+    "text": "that collectively measure the variance\nin Shakespeare's works.",
+    "start": 136.131,
+    "duration": 3.774
+  },
+  {
+    "text": "We can then test the works\nof our candidates",
+    "start": 139.905,
+    "duration": 2.491
+  },
+  {
+    "text": "against those principal components.",
+    "start": 142.396,
+    "duration": 2.471
+  },
+  {
+    "text": "For example,",
+    "start": 144.867,
+    "duration": 1.188
+  },
+  {
+    "text": "if enough works of Francis Bacon\nfall within the Shakespearean variance,",
+    "start": 146.055,
+    "duration": 4.339
+  },
+  {
+    "text": "that would be pretty strong evidence",
+    "start": 150.394,
+    "duration": 1.869
+  },
+  {
+    "text": "that Francis Bacon and Shakespeare\nare actually the same person.",
+    "start": 152.263,
+    "duration": 4.782
+  },
+  {
+    "text": "What did the results show?",
+    "start": 157.045,
+    "duration": 2.116
+  },
+  {
+    "text": "Well, the stylometrists who carried \nthis out have concluded",
+    "start": 159.161,
+    "duration": 3.316
+  },
+  {
+    "text": "that Shakespeare is none other \nthan Shakespeare.",
+    "start": 162.477,
+    "duration": 4.08
+  },
+  {
+    "text": "The Bard is the Bard.",
+    "start": 166.557,
+    "duration": 2.634
+  },
+  {
+    "text": "The pretender's works just don't match up\nwith Shakespeare's signature style.",
+    "start": 169.191,
+    "duration": 5.179
+  },
+  {
+    "text": "However, our intrepid \nstatisticians did find",
+    "start": 174.37,
+    "duration": 3.272
+  },
+  {
+    "text": "some compelling evidence \nof collaborations.",
+    "start": 177.642,
+    "duration": 3.242
+  },
+  {
+    "text": "For instance, one recent study concluded",
+    "start": 180.884,
+    "duration": 2.254
+  },
+  {
+    "text": "that Shakespeare worked with playwright\nChristopher Marlowe on \"Henry VI,\"",
+    "start": 183.138,
+    "duration": 5.078
+  },
+  {
+    "text": "parts one and two.",
+    "start": 188.216,
+    "duration": 2.408
+  },
+  {
+    "text": "Shakespeare's identity is only one of \nthe many problems stylometry can resolve.",
+    "start": 190.624,
+    "duration": 5.018
+  },
+  {
+    "text": "It can help us determine\nwhen a work was written,",
+    "start": 195.642,
+    "duration": 2.666
+  },
+  {
+    "text": "whether an ancient text is a forgery,",
+    "start": 198.308,
+    "duration": 2.732
+  },
+  {
+    "text": "whether a student has committed plagiarism,",
+    "start": 201.04,
+    "duration": 2.645
+  },
+  {
+    "text": "or if that email you just received \nis of a high priority or spam.",
+    "start": 203.685,
+    "duration": 5.335
+  },
+  {
+    "text": "And does the timeless poetry \nof Shakespeare's lines",
+    "start": 209.02,
+    "duration": 2.531
+  },
+  {
+    "text": "just boil down to numbers and statistics?",
+    "start": 211.551,
+    "duration": 2.924
+  },
+  {
+    "text": "Not quite.",
+    "start": 214.475,
+    "duration": 1.41
+  },
+  {
+    "text": "Stylometric analysis may reveal what makes\nShakespeare's works structurally distinct,",
+    "start": 215.885,
+    "duration": 5.015
+  },
+  {
+    "text": "but it cannot capture the beauty of\nthe sentiments and emotions they express,",
+    "start": 220.9,
+    "duration": 4.625
+  },
+  {
+    "text": "or why they affect us the way they do.",
+    "start": 225.525,
+    "duration": 2.984
+  },
+  {
+    "text": "At least, not yet.",
+    "start": 228.509,
+    "duration": 2.317
+  }
+]

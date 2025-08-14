@@ -1,0 +1,1242 @@
+[
+  {
+    "text": "I have a feeling most people in this room\nwould like to have a robot at home.",
+    "start": 4.268,
+    "duration": 5.739
+  },
+  {
+    "text": "It'd be nice to be able to do\nthe chores and take care of things.",
+    "start": 10.041,
+    "duration": 3.603
+  },
+  {
+    "text": "Where are these robots?",
+    "start": 13.677,
+    "duration": 1.168
+  },
+  {
+    "text": "What's taking so long?",
+    "start": 14.879,
+    "duration": 1.601
+  },
+  {
+    "text": "I mean, we have our tricorders,",
+    "start": 16.514,
+    "duration": 2.636
+  },
+  {
+    "text": "and we have satellites.",
+    "start": 19.183,
+    "duration": 2.603
+  },
+  {
+    "text": "We have laser beams.",
+    "start": 22.253,
+    "duration": 2.169
+  },
+  {
+    "text": "But where are the robots?",
+    "start": 24.755,
+    "duration": 1.935
+  },
+  {
+    "text": "(Laughter)",
+    "start": 26.69,
+    "duration": 1.502
+  },
+  {
+    "text": "I mean, OK, wait, we do have\nsome robots in our home,",
+    "start": 28.225,
+    "duration": 3.17
+  },
+  {
+    "text": "but, not really doing\nanything that exciting, OK?",
+    "start": 31.395,
+    "duration": 4.238
+  },
+  {
+    "text": "(Laughter)",
+    "start": 35.666,
+    "duration": 1.268
+  },
+  {
+    "text": "Now I've been doing research\nat UC Berkeley for 30 years",
+    "start": 36.967,
+    "duration": 4.205
+  },
+  {
+    "text": "with my students on robots,",
+    "start": 41.205,
+    "duration": 2.703
+  },
+  {
+    "text": "and in the next 10 minutes,",
+    "start": 43.941,
+    "duration": 1.435
+  },
+  {
+    "text": "I'm going to try to explain the gap\nbetween fiction and reality.",
+    "start": 45.409,
+    "duration": 4.805
+  },
+  {
+    "text": "Now we’ve seen images like this, right?",
+    "start": 50.514,
+    "duration": 2.803
+  },
+  {
+    "text": "These are real robots.",
+    "start": 53.35,
+    "duration": 1.235
+  },
+  {
+    "text": "They're pretty amazing.",
+    "start": 54.585,
+    "duration": 1.201
+  },
+  {
+    "text": "But those of us who work in the field,",
+    "start": 55.82,
+    "duration": 1.868
+  },
+  {
+    "text": "well, the reality is more like this.",
+    "start": 57.721,
+    "duration": 2.036
+  },
+  {
+    "text": "(Laughter)",
+    "start": 59.757,
+    "duration": 2.502
+  },
+  {
+    "text": "That's 99 out of 100 times,\nthat's what happens.",
+    "start": 62.293,
+    "duration": 3.203
+  },
+  {
+    "text": "And in the field, there's something\nthat explains this",
+    "start": 65.529,
+    "duration": 2.836
+  },
+  {
+    "text": "that we call Moravec's paradox.",
+    "start": 68.399,
+    "duration": 2.302
+  },
+  {
+    "text": "And that is, what's easy for robots,",
+    "start": 70.734,
+    "duration": 2.069
+  },
+  {
+    "text": "like being able to pick up a large object,",
+    "start": 72.837,
+    "duration": 3.57
+  },
+  {
+    "text": "large, heavy object,",
+    "start": 76.44,
+    "duration": 1.268
+  },
+  {
+    "text": "is hard for humans.",
+    "start": 77.708,
+    "duration": 2.202
+  },
+  {
+    "text": "But what's easy for humans,",
+    "start": 80.377,
+    "duration": 2.369
+  },
+  {
+    "text": "like being able to pick up\nsome blocks and stack them,",
+    "start": 82.78,
+    "duration": 3.804
+  },
+  {
+    "text": "well, it turns out\nthat is very hard for robots.",
+    "start": 86.584,
+    "duration": 3.97
+  },
+  {
+    "text": "And this is a persistent problem.",
+    "start": 91.388,
+    "duration": 2.236
+  },
+  {
+    "text": "So the ability to grasp arbitrary objects\nis a grand challenge for my field.",
+    "start": 93.657,
+    "duration": 6.307
+  },
+  {
+    "text": "Now by the way, I was a very klutzy kid.",
+    "start": 100.531,
+    "duration": 4.204
+  },
+  {
+    "text": "(Laughter)",
+    "start": 104.735,
+    "duration": 1.301
+  },
+  {
+    "text": "I would drop things.",
+    "start": 106.07,
+    "duration": 1.168
+  },
+  {
+    "text": "Any time someone would throw\nme a ball, I would drop it.",
+    "start": 107.271,
+    "duration": 2.636
+  },
+  {
+    "text": "I was the last kid to get picked\non a basketball team.",
+    "start": 109.94,
+    "duration": 2.703
+  },
+  {
+    "text": "I'm still pretty klutzy, actually,",
+    "start": 112.676,
+    "duration": 1.635
+  },
+  {
+    "text": "but I have spent my entire career studying\nhow to make robots less clumsy.",
+    "start": 114.345,
+    "duration": 5.472
+  },
+  {
+    "text": "Now let's start with the hardware.",
+    "start": 120.484,
+    "duration": 1.935
+  },
+  {
+    "text": "So the hands.",
+    "start": 122.453,
+    "duration": 2.069
+  },
+  {
+    "text": "Now this is a robot hand,\na particular type of hand.",
+    "start": 124.555,
+    "duration": 3.337
+  },
+  {
+    "text": "It's a lot like our hand.",
+    "start": 127.925,
+    "duration": 1.235
+  },
+  {
+    "text": "And it has a lot of motors,\na lot of tendons",
+    "start": 129.193,
+    "duration": 3.47
+  },
+  {
+    "text": "and cables as you can see.",
+    "start": 132.696,
+    "duration": 1.535
+  },
+  {
+    "text": "So it's unfortunately not very reliable.",
+    "start": 134.265,
+    "duration": 2.602
+  },
+  {
+    "text": "It's also very heavy and very expensive.",
+    "start": 136.901,
+    "duration": 2.435
+  },
+  {
+    "text": "So I'm in favor of very\nsimple hands, like this.",
+    "start": 139.637,
+    "duration": 3.803
+  },
+  {
+    "text": "So this has just two fingers.",
+    "start": 143.44,
+    "duration": 2.403
+  },
+  {
+    "text": "It's known as a parallel jaw gripper.",
+    "start": 145.876,
+    "duration": 1.769
+  },
+  {
+    "text": "So it's very simple.",
+    "start": 148.012,
+    "duration": 1.535
+  },
+  {
+    "text": "It's lightweight and reliable\nand it's very inexpensive.",
+    "start": 149.58,
+    "duration": 4.438
+  },
+  {
+    "text": "And if you're doubting that simple\nhands can be effective,",
+    "start": 154.652,
+    "duration": 3.97
+  },
+  {
+    "text": "look at this video where you can see\nthat two very simple grippers,",
+    "start": 158.622,
+    "duration": 4.371
+  },
+  {
+    "text": "these are being operated, by the way,",
+    "start": 163.027,
+    "duration": 1.935
+  },
+  {
+    "text": "by humans who are controlling\nthe grippers like a puppet.",
+    "start": 164.995,
+    "duration": 2.903
+  },
+  {
+    "text": "But very simple grippers are capable\nof doing very complex things.",
+    "start": 167.898,
+    "duration": 3.504
+  },
+  {
+    "text": "Now actually in industry,",
+    "start": 171.435,
+    "duration": 1.468
+  },
+  {
+    "text": "there’s even a simpler robot gripper,\nand that’s the suction cup.",
+    "start": 172.937,
+    "duration": 3.703
+  },
+  {
+    "text": "And that only makes a single\npoint of contact.",
+    "start": 176.674,
+    "duration": 2.469
+  },
+  {
+    "text": "So again, simplicity is very\nhelpful in our field.",
+    "start": 179.176,
+    "duration": 3.037
+  },
+  {
+    "text": "Now let's talk about the software.",
+    "start": 182.646,
+    "duration": 2.169
+  },
+  {
+    "text": "This is where it gets\nreally, really difficult",
+    "start": 184.815,
+    "duration": 3.203
+  },
+  {
+    "text": "because of a fundamental issue,\nwhich is uncertainty.",
+    "start": 188.018,
+    "duration": 4.004
+  },
+  {
+    "text": "There's uncertainty in the control.",
+    "start": 192.356,
+    "duration": 2.202
+  },
+  {
+    "text": "There’s uncertainty in the perception.",
+    "start": 194.592,
+    "duration": 2.135
+  },
+  {
+    "text": "And there’s uncertainty in the physics.",
+    "start": 196.76,
+    "duration": 2.169
+  },
+  {
+    "text": "Now what do I mean by the control?",
+    "start": 199.463,
+    "duration": 1.668
+  },
+  {
+    "text": "Well if you look at a robot’s gripper\ntrying to do something,",
+    "start": 201.165,
+    "duration": 3.67
+  },
+  {
+    "text": "there's a lot of uncertainty\nin the cables and the mechanisms",
+    "start": 204.868,
+    "duration": 3.904
+  },
+  {
+    "text": "that cause very small errors.",
+    "start": 208.806,
+    "duration": 2.102
+  },
+  {
+    "text": "And these can accumulate and make it\nvery difficult to manipulate things.",
+    "start": 210.908,
+    "duration": 4.104
+  },
+  {
+    "text": "Now in terms of the sensors, yes,",
+    "start": 216.046,
+    "duration": 2.002
+  },
+  {
+    "text": "robots have very high-resolution\ncameras just like we do,",
+    "start": 218.082,
+    "duration": 3.803
+  },
+  {
+    "text": "and that allows them\nto take images of scenes in traffic",
+    "start": 221.919,
+    "duration": 3.904
+  },
+  {
+    "text": "or in a retirement center,",
+    "start": 225.856,
+    "duration": 1.668
+  },
+  {
+    "text": "or in a warehouse or in an operating room.",
+    "start": 227.558,
+    "duration": 3.136
+  },
+  {
+    "text": "But these don't give you\nthe three-dimensional structure",
+    "start": 230.694,
+    "duration": 2.67
+  },
+  {
+    "text": "of what's going on.",
+    "start": 233.364,
+    "duration": 1.334
+  },
+  {
+    "text": "So recently, there was a new\ndevelopment called LIDAR,",
+    "start": 234.999,
+    "duration": 3.503
+  },
+  {
+    "text": "and this is a new class of cameras\nthat use light beams to build up",
+    "start": 238.535,
+    "duration": 4.505
+  },
+  {
+    "text": "a three-dimensional model\nof the environment.",
+    "start": 243.073,
+    "duration": 2.436
+  },
+  {
+    "text": "And these are fairly effective.",
+    "start": 246.277,
+    "duration": 1.768
+  },
+  {
+    "text": "They really were a breakthrough\nin our field, but they're not perfect.",
+    "start": 248.078,
+    "duration": 4.171
+  },
+  {
+    "text": "So if the objects have anything\nthat's shiny or transparent,",
+    "start": 252.283,
+    "duration": 5.005
+  },
+  {
+    "text": "well, then the light acts\nin unpredictable ways,",
+    "start": 257.288,
+    "duration": 2.435
+  },
+  {
+    "text": "and it ends up with noise\nand holes in the images.",
+    "start": 259.757,
+    "duration": 2.335
+  },
+  {
+    "text": "So these aren't really the silver bullet.",
+    "start": 262.126,
+    "duration": 2.002
+  },
+  {
+    "text": "And there’s one other form of sensor\nout there now called a “tactile sensor.”",
+    "start": 264.595,
+    "duration": 4.171
+  },
+  {
+    "text": "And these are very interesting.",
+    "start": 268.766,
+    "duration": 1.501
+  },
+  {
+    "text": "They use cameras to actually\nimage the surfaces",
+    "start": 270.301,
+    "duration": 3.203
+  },
+  {
+    "text": "as a robot would make contact,",
+    "start": 273.504,
+    "duration": 2.135
+  },
+  {
+    "text": "but these are still in their infancy.",
+    "start": 275.673,
+    "duration": 1.935
+  },
+  {
+    "text": "Now the last issue is the physics.",
+    "start": 278.242,
+    "duration": 2.702
+  },
+  {
+    "text": "And let me illustrate for you\nby showing you,",
+    "start": 280.978,
+    "duration": 3.203
+  },
+  {
+    "text": "we take a bottle on a table",
+    "start": 284.214,
+    "duration": 1.769
+  },
+  {
+    "text": "and we just push it,",
+    "start": 285.983,
+    "duration": 1.168
+  },
+  {
+    "text": "and the robot's pushing it in exactly\nthe same way each time.",
+    "start": 287.184,
+    "duration": 3.403
+  },
+  {
+    "text": "But you can see that the bottle ends up\nin a very different place each time.",
+    "start": 290.621,
+    "duration": 4.471
+  },
+  {
+    "text": "And why is that?",
+    "start": 295.125,
+    "duration": 1.168
+  },
+  {
+    "text": "Well it’s because it depends\non the microscopic surface topography",
+    "start": 296.327,
+    "duration": 4.871
+  },
+  {
+    "text": "underneath the bottle as it slid.",
+    "start": 301.198,
+    "duration": 2.603
+  },
+  {
+    "text": "For example, if you put\na grain of sand under there,",
+    "start": 303.834,
+    "duration": 2.469
+  },
+  {
+    "text": "it would react very differently\nthan if there weren't a grain of sand.",
+    "start": 306.337,
+    "duration": 3.536
+  },
+  {
+    "text": "And we can't see if there's a grain\nof sand because it's under the bottle.",
+    "start": 309.873,
+    "duration": 3.804
+  },
+  {
+    "text": "It turns out that we can predict\nthe motion of an asteroid",
+    "start": 314.311,
+    "duration": 3.937
+  },
+  {
+    "text": "a million miles away,",
+    "start": 318.248,
+    "duration": 2.636
+  },
+  {
+    "text": "far better than we can predict\nthe motion of an object",
+    "start": 320.918,
+    "duration": 3.17
+  },
+  {
+    "text": "as it's being grasped by a robot.",
+    "start": 324.121,
+    "duration": 2.002
+  },
+  {
+    "text": "Now let me give you an example.",
+    "start": 327.391,
+    "duration": 2.169
+  },
+  {
+    "text": "Put yourself here into the position\nof being a robot.",
+    "start": 329.593,
+    "duration": 3.537
+  },
+  {
+    "text": "You're trying to clear the table",
+    "start": 333.731,
+    "duration": 1.534
+  },
+  {
+    "text": "and your sensors are noisy and imprecise.",
+    "start": 335.265,
+    "duration": 2.57
+  },
+  {
+    "text": "Your actuators, your cables\nand motors are uncertain,",
+    "start": 337.835,
+    "duration": 3.436
+  },
+  {
+    "text": "so you can't fully control\nyour own gripper.",
+    "start": 341.305,
+    "duration": 2.369
+  },
+  {
+    "text": "And there's uncertainty in the physics,",
+    "start": 343.707,
+    "duration": 2.102
+  },
+  {
+    "text": "so you really don't know\nwhat's going to happen.",
+    "start": 345.809,
+    "duration": 2.303
+  },
+  {
+    "text": "So it's not surprising that robots\nare still very clumsy.",
+    "start": 348.145,
+    "duration": 3.604
+  },
+  {
+    "text": "Now there's one sweet spot for robots,\nand that has to do with e-commerce.",
+    "start": 352.883,
+    "duration": 4.805
+  },
+  {
+    "text": "And this has been growing,\nit's a huge trend.",
+    "start": 357.721,
+    "duration": 2.102
+  },
+  {
+    "text": "And during the pandemic,\nit really jumped up.",
+    "start": 359.857,
+    "duration": 3.036
+  },
+  {
+    "text": "I think most of us can relate to that.",
+    "start": 362.926,
+    "duration": 2.336
+  },
+  {
+    "text": "We started ordering things\nlike never before,",
+    "start": 365.829,
+    "duration": 2.57
+  },
+  {
+    "text": "and this trend is continuing.",
+    "start": 368.432,
+    "duration": 1.735
+  },
+  {
+    "text": "And the challenge is to meet the demand,",
+    "start": 370.2,
+    "duration": 2.77
+  },
+  {
+    "text": "we have to be able to get all these\npackages delivered in a timely manner.",
+    "start": 373.003,
+    "duration": 4.972
+  },
+  {
+    "text": "And the challenge is\nthat every package is different,",
+    "start": 378.575,
+    "duration": 2.503
+  },
+  {
+    "text": "every order is different.",
+    "start": 381.078,
+    "duration": 1.234
+  },
+  {
+    "text": "So you might order some some nail polish\nand an electric screwdriver.",
+    "start": 382.346,
+    "duration": 5.939
+  },
+  {
+    "text": "And those two objects are going to be",
+    "start": 388.652,
+    "duration": 2.77
+  },
+  {
+    "text": "somewhere inside\none of these giant warehouses.",
+    "start": 391.455,
+    "duration": 3.036
+  },
+  {
+    "text": "And what needs to be done\nis someone has to go in,",
+    "start": 394.925,
+    "duration": 2.336
+  },
+  {
+    "text": "find the nail polish and then go\nand find the screwdriver,",
+    "start": 397.294,
+    "duration": 2.769
+  },
+  {
+    "text": "bring them together, put them into a box\nand deliver them to you.",
+    "start": 400.063,
+    "duration": 3.204
+  },
+  {
+    "text": "So this is extremely difficult,\nand it requires grasping.",
+    "start": 403.3,
+    "duration": 3.137
+  },
+  {
+    "text": "So today, this is almost entirely\ndone with humans.",
+    "start": 406.437,
+    "duration": 3.136
+  },
+  {
+    "text": "And the humans don't like doing this work,",
+    "start": 409.606,
+    "duration": 2.002
+  },
+  {
+    "text": "there's a huge amount of turnover.",
+    "start": 411.642,
+    "duration": 1.768
+  },
+  {
+    "text": "So it's a challenge.",
+    "start": 413.41,
+    "duration": 1.201
+  },
+  {
+    "text": "And people have tried to put robots",
+    "start": 414.611,
+    "duration": 2.937
+  },
+  {
+    "text": "into warehouses to do this work.",
+    "start": 417.581,
+    "duration": 3.07
+  },
+  {
+    "text": "(Laughter)",
+    "start": 421.018,
+    "duration": 6.339
+  },
+  {
+    "text": "It hasn't turned out all that well.",
+    "start": 428.192,
+    "duration": 3.937
+  },
+  {
+    "text": "But my students and I,\nabout five years ago,",
+    "start": 432.563,
+    "duration": 3.57
+  },
+  {
+    "text": "we came up with a method,\nusing advances in AI and deep learning,",
+    "start": 436.133,
+    "duration": 4.071
+  },
+  {
+    "text": "to have a robot essentially train itself\nto be able to grasp objects.",
+    "start": 440.204,
+    "duration": 3.903
+  },
+  {
+    "text": "And the idea was that the robot\nwould do this in simulation.",
+    "start": 444.441,
+    "duration": 2.836
+  },
+  {
+    "text": "It was almost as if the robot\nwere dreaming about how to grasp things",
+    "start": 447.277,
+    "duration": 3.27
+  },
+  {
+    "text": "and learning how to grasp them reliably.",
+    "start": 450.581,
+    "duration": 1.935
+  },
+  {
+    "text": "And here's the result.",
+    "start": 452.816,
+    "duration": 1.168
+  },
+  {
+    "text": "This is a system called Dex-net",
+    "start": 454.017,
+    "duration": 1.869
+  },
+  {
+    "text": "that is able to reliably pick up objects",
+    "start": 455.919,
+    "duration": 3.27
+  },
+  {
+    "text": "that we put into these bins\nin front of the robot.",
+    "start": 459.223,
+    "duration": 2.502
+  },
+  {
+    "text": "These are objects\nit's never been trained on,",
+    "start": 461.758,
+    "duration": 2.67
+  },
+  {
+    "text": "and it's able to pick these objects up",
+    "start": 464.461,
+    "duration": 1.835
+  },
+  {
+    "text": "and reliably clear these bins\nover and over again.",
+    "start": 466.33,
+    "duration": 2.869
+  },
+  {
+    "text": "So we were very excited about this result.",
+    "start": 469.666,
+    "duration": 2.57
+  },
+  {
+    "text": "And the students and I went\nout to form a company,",
+    "start": 472.269,
+    "duration": 3.003
+  },
+  {
+    "text": "and we now have a company\ncalled Ambi Robotics.",
+    "start": 475.305,
+    "duration": 3.103
+  },
+  {
+    "text": "And what we do is make machines\nthat use the algorithms,",
+    "start": 478.742,
+    "duration": 4.104
+  },
+  {
+    "text": "the software we developed at Berkeley,",
+    "start": 482.88,
+    "duration": 2.268
+  },
+  {
+    "text": "to pick up packages.",
+    "start": 485.148,
+    "duration": 1.936
+  },
+  {
+    "text": "And this is for e-commerce.",
+    "start": 487.117,
+    "duration": 1.902
+  },
+  {
+    "text": "The packages arrive in large bins,\nall different shapes and sizes,",
+    "start": 489.052,
+    "duration": 3.504
+  },
+  {
+    "text": "and they have to be picked up,",
+    "start": 492.589,
+    "duration": 1.468
+  },
+  {
+    "text": "scanned and then put into smaller bins\ndepending on their zip code.",
+    "start": 494.057,
+    "duration": 3.337
+  },
+  {
+    "text": "We now have 80 of these machines\noperating across the United States,",
+    "start": 498.061,
+    "duration": 4.205
+  },
+  {
+    "text": "sorting over a million packages a week.",
+    "start": 502.299,
+    "duration": 2.836
+  },
+  {
+    "text": "Now that’s some progress,",
+    "start": 506.169,
+    "duration": 3.204
+  },
+  {
+    "text": "but it's not exactly the home robot\nthat we've all been waiting for.",
+    "start": 509.406,
+    "duration": 3.837
+  },
+  {
+    "text": "So I want to give you\na little bit of an idea",
+    "start": 513.677,
+    "duration": 2.536
+  },
+  {
+    "text": "of some the new research that we're doing",
+    "start": 516.246,
+    "duration": 2.102
+  },
+  {
+    "text": "to try to be able to have robots\nmore capable in homes.",
+    "start": 518.348,
+    "duration": 3.07
+  },
+  {
+    "text": "And one particular challenge is being able\nto manipulate deformable objects,",
+    "start": 521.752,
+    "duration": 4.171
+  },
+  {
+    "text": "like strings in one dimension,",
+    "start": 525.956,
+    "duration": 2.102
+  },
+  {
+    "text": "two-dimensional sheets\nand three dimensions,",
+    "start": 528.058,
+    "duration": 3.47
+  },
+  {
+    "text": "like fruits and vegetables.",
+    "start": 531.562,
+    "duration": 2.202
+  },
+  {
+    "text": "So we've been working\non a project to untangle knots.",
+    "start": 533.764,
+    "duration": 3.804
+  },
+  {
+    "text": "And what we do is we take a cable\nand we put that in front of the robot.",
+    "start": 537.901,
+    "duration": 4.104
+  },
+  {
+    "text": "It has to use a camera to look down,\nanalyze the cable,",
+    "start": 542.039,
+    "duration": 2.936
+  },
+  {
+    "text": "figure out where to grasp it",
+    "start": 544.975,
+    "duration": 1.368
+  },
+  {
+    "text": "and how to pull it apart\nto be able to untangle it.",
+    "start": 546.343,
+    "duration": 2.836
+  },
+  {
+    "text": "And this is a very hard problem,",
+    "start": 549.58,
+    "duration": 1.668
+  },
+  {
+    "text": "because the cable is much longer\nthan the reach of the robot.",
+    "start": 551.248,
+    "duration": 2.903
+  },
+  {
+    "text": "So it has to go through and manipulate,\nmanage the slack as it's working.",
+    "start": 554.184,
+    "duration": 4.438
+  },
+  {
+    "text": "And I would say this is doing pretty well.",
+    "start": 558.655,
+    "duration": 2.436
+  },
+  {
+    "text": "It's gotten up to about 80 percent success",
+    "start": 561.124,
+    "duration": 2.269
+  },
+  {
+    "text": "when we give it a tangled cable\nat being able to untangle it.",
+    "start": 563.427,
+    "duration": 3.203
+  },
+  {
+    "text": "The other one is something I think\nwe also all are waiting for:",
+    "start": 567.731,
+    "duration": 3.07
+  },
+  {
+    "text": "robot to fold the laundry.",
+    "start": 570.834,
+    "duration": 2.269
+  },
+  {
+    "text": "Now roboticists have actually\nbeen looking at this for a long time,",
+    "start": 573.136,
+    "duration": 4.071
+  },
+  {
+    "text": "and there was some research\nthat was done on this.",
+    "start": 577.24,
+    "duration": 3.037
+  },
+  {
+    "text": "But the problem is\nthat it's very, very slow.",
+    "start": 580.277,
+    "duration": 2.869
+  },
+  {
+    "text": "So this was about three to six\nfolds per hour.",
+    "start": 583.18,
+    "duration": 5.572
+  },
+  {
+    "text": "(Laughter)",
+    "start": 588.785,
+    "duration": 1.902
+  },
+  {
+    "text": "So we decided to to revisit this problem",
+    "start": 590.721,
+    "duration": 3.403
+  },
+  {
+    "text": "and try to have a robot work very fast.",
+    "start": 594.124,
+    "duration": 1.902
+  },
+  {
+    "text": "So one of the things we did\nwas try to think",
+    "start": 596.059,
+    "duration": 2.069
+  },
+  {
+    "text": "about a two-armed robot\nthat could fling the fabric",
+    "start": 598.128,
+    "duration": 2.402
+  },
+  {
+    "text": "the way we do when we're folding,",
+    "start": 600.53,
+    "duration": 1.602
+  },
+  {
+    "text": "and then we also used friction\nin this case to drag the fabric",
+    "start": 602.132,
+    "duration": 2.903
+  },
+  {
+    "text": "to smooth out some wrinkles.",
+    "start": 605.035,
+    "duration": 1.602
+  },
+  {
+    "text": "And then we borrowed a trick\nwhich is known as the two-second fold.",
+    "start": 606.67,
+    "duration": 4.838
+  },
+  {
+    "text": "You might have heard of this.",
+    "start": 611.541,
+    "duration": 1.402
+  },
+  {
+    "text": "It's amazing because the robot\nis doing exactly the same thing",
+    "start": 612.976,
+    "duration": 3.27
+  },
+  {
+    "text": "and it's a little bit longer,\nbut that's real time,",
+    "start": 616.279,
+    "duration": 2.536
+  },
+  {
+    "text": "it's not sped up.",
+    "start": 618.849,
+    "duration": 1.168
+  },
+  {
+    "text": "So we're making some progress there.",
+    "start": 620.017,
+    "duration": 1.968
+  },
+  {
+    "text": "And the last example is bagging.",
+    "start": 623.12,
+    "duration": 1.601
+  },
+  {
+    "text": "So you all encounter this all the time.",
+    "start": 624.755,
+    "duration": 2.168
+  },
+  {
+    "text": "You go to a corner store,\nand you have to put something in a bag.",
+    "start": 626.957,
+    "duration": 3.07
+  },
+  {
+    "text": "Now it's easy, again, for humans,",
+    "start": 630.027,
+    "duration": 1.601
+  },
+  {
+    "text": "but it's actually very,\nvery tricky for robots",
+    "start": 631.628,
+    "duration": 3.37
+  },
+  {
+    "text": "because for humans,\nyou know how to take the bag",
+    "start": 635.032,
+    "duration": 2.268
+  },
+  {
+    "text": "and how to manipulate it.",
+    "start": 637.3,
+    "duration": 1.235
+  },
+  {
+    "text": "But robots, the bag can arrive\nin many different configurations.",
+    "start": 638.568,
+    "duration": 3.104
+  },
+  {
+    "text": "It’s very hard to tell what’s going on",
+    "start": 641.705,
+    "duration": 2.836
+  },
+  {
+    "text": "and for the robot to figure out\nhow to open up that bag.",
+    "start": 644.541,
+    "duration": 2.769
+  },
+  {
+    "text": "So what we did was we had\nthe robot train itself.",
+    "start": 647.31,
+    "duration": 4.705
+  },
+  {
+    "text": "We painted one of these bags\nwith fluorescent paint,",
+    "start": 652.015,
+    "duration": 2.469
+  },
+  {
+    "text": "and we had fluorescent lights\nthat would turn on and off,",
+    "start": 654.518,
+    "duration": 2.702
+  },
+  {
+    "text": "and the robot would essentially teach\nitself how to manipulate these bags.",
+    "start": 657.22,
+    "duration": 4.438
+  },
+  {
+    "text": "And so we’ve gotten it now up to the point",
+    "start": 661.692,
+    "duration": 2.035
+  },
+  {
+    "text": "where we're able to solve this problem\nabout half the time.",
+    "start": 663.727,
+    "duration": 3.77
+  },
+  {
+    "text": "So it works,",
+    "start": 667.497,
+    "duration": 1.268
+  },
+  {
+    "text": "but I'm saying, we're still\nnot quite there yet.",
+    "start": 668.765,
+    "duration": 3.737
+  },
+  {
+    "text": "So I want to come back\nto Moravec's paradox.",
+    "start": 672.502,
+    "duration": 2.303
+  },
+  {
+    "text": "What's easy for robots is hard for humans.",
+    "start": 674.838,
+    "duration": 2.236
+  },
+  {
+    "text": "And what's easy for us\nis still hard for robots.",
+    "start": 677.107,
+    "duration": 4.871
+  },
+  {
+    "text": "We have incredible capabilities.",
+    "start": 682.412,
+    "duration": 2.369
+  },
+  {
+    "text": "We're very good at manipulation.",
+    "start": 684.781,
+    "duration": 1.669
+  },
+  {
+    "text": "(Laughter)",
+    "start": 686.483,
+    "duration": 1.935
+  },
+  {
+    "text": "But robots still are not.",
+    "start": 688.418,
+    "duration": 1.769
+  },
+  {
+    "text": "I want to say, I understand.",
+    "start": 691.421,
+    "duration": 2.236
+  },
+  {
+    "text": "It’s been 60 years,",
+    "start": 693.99,
+    "duration": 2.002
+  },
+  {
+    "text": "and we're still waiting for the robots\nthat the Jetsons had.",
+    "start": 695.992,
+    "duration": 3.838
+  },
+  {
+    "text": "Why is this difficult?",
+    "start": 700.497,
+    "duration": 1.368
+  },
+  {
+    "text": "We need robots because we want them\nto be able to do tasks that we can't do",
+    "start": 701.898,
+    "duration": 6.473
+  },
+  {
+    "text": "or we don't really want to do.",
+    "start": 708.405,
+    "duration": 1.835
+  },
+  {
+    "text": "But I want you to keep in mind\nthat these robots, they're coming.",
+    "start": 710.841,
+    "duration": 3.837
+  },
+  {
+    "text": "Just be patient.",
+    "start": 714.711,
+    "duration": 1.368
+  },
+  {
+    "text": "Because we want the robots,",
+    "start": 716.379,
+    "duration": 2.103
+  },
+  {
+    "text": "but robots also need us",
+    "start": 718.515,
+    "duration": 2.169
+  },
+  {
+    "text": "to do the many things\nthat robots still can't do.",
+    "start": 720.717,
+    "duration": 4.405
+  },
+  {
+    "text": "Thank you.",
+    "start": 726.156,
+    "duration": 1.234
+  },
+  {
+    "text": "(Applause)",
+    "start": 727.39,
+    "duration": 2.436
+  }
+]

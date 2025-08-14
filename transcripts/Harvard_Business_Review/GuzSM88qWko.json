@@ -1,0 +1,3342 @@
+[
+  {
+    "text": "BRIAN KENNY: The results are\nin, and they are worrisome.",
+    "start": 1.401,
+    "duration": 4.369
+  },
+  {
+    "text": "The 2022 Edelman\nTrust Barometer,",
+    "start": 5.77,
+    "duration": 2.67
+  },
+  {
+    "text": "which rates societal trust\nin business, government,",
+    "start": 8.44,
+    "duration": 2.95
+  },
+  {
+    "text": "the media, and NGOs,\nfinds that distrust is now",
+    "start": 11.39,
+    "duration": 3.59
+  },
+  {
+    "text": "society's default emotion.",
+    "start": 14.98,
+    "duration": 2.1
+  },
+  {
+    "text": "49% of the 36,000\nrespondents around the world",
+    "start": 17.08,
+    "duration": 3.57
+  },
+  {
+    "text": "believe that government and\nmedia fuel a cycle of distrust.",
+    "start": 20.65,
+    "duration": 4.14
+  },
+  {
+    "text": "Business, by comparison,\nfares well, with 61% saying it",
+    "start": 24.79,
+    "duration": 4.5
+  },
+  {
+    "text": "is the most trusted institution.",
+    "start": 29.29,
+    "duration": 2.08
+  },
+  {
+    "text": "But with that trust\ncome expectations.",
+    "start": 31.37,
+    "duration": 2.75
+  },
+  {
+    "text": "Respondents believe that\nbusiness is not doing enough",
+    "start": 34.12,
+    "duration": 2.64
+  },
+  {
+    "text": "to address societal\nissues like climate",
+    "start": 36.76,
+    "duration": 2.19
+  },
+  {
+    "text": "change and economic inequality.",
+    "start": 38.95,
+    "duration": 2.1
+  },
+  {
+    "text": "They think that societal\nleadership should",
+    "start": 41.05,
+    "duration": 1.92
+  },
+  {
+    "text": "be a core business\nfunction of any CEO,",
+    "start": 42.97,
+    "duration": 2.91
+  },
+  {
+    "text": "and they want business leaders\nto be visible on those issues.",
+    "start": 45.88,
+    "duration": 3.42
+  },
+  {
+    "text": "It seems like the CEO's\njob description just got",
+    "start": 49.3,
+    "duration": 2.76
+  },
+  {
+    "text": "a little bit more complicated.",
+    "start": 52.06,
+    "duration": 1.74
+  },
+  {
+    "text": "Are they up for the challenge?",
+    "start": 53.8,
+    "duration": 1.44
+  },
+  {
+    "text": "Today on Cold\nCall, we'll discuss",
+    "start": 55.24,
+    "duration": 1.98
+  },
+  {
+    "text": "the case entitled \"Etsy--",
+    "start": 57.22,
+    "duration": 1.77
+  },
+  {
+    "text": "Crafting A Turnaround To Save\nthe Business and Its Soul,\"",
+    "start": 58.99,
+    "duration": 3.22
+  },
+  {
+    "text": "with Professor Ranjay Gulati.",
+    "start": 62.21,
+    "duration": 1.98
+  },
+  {
+    "text": "I'm your host, Brian\nKenny, and you're",
+    "start": 64.19,
+    "duration": 1.74
+  },
+  {
+    "text": "listening to Cold Call on\nthe HBR Presents network.",
+    "start": 65.93,
+    "duration": 4.67
+  },
+  {
+    "text": "Ranjay Gulati is an expert\non leadership, strategy,",
+    "start": 70.6,
+    "duration": 2.88
+  },
+  {
+    "text": "and organizational\nissues in firms.",
+    "start": 73.48,
+    "duration": 2.19
+  },
+  {
+    "text": "His new book is\ncalled Deep Purpose--",
+    "start": 75.67,
+    "duration": 2.4
+  },
+  {
+    "text": "The Heart and Soul of High\nPerformance Companies.",
+    "start": 78.07,
+    "duration": 2.4
+  },
+  {
+    "text": "And I know the case we're\ngoing to talk about today",
+    "start": 80.47,
+    "duration": 2.22
+  },
+  {
+    "text": "relates directly to\nthe ideas in your book.",
+    "start": 82.69,
+    "duration": 1.86
+  },
+  {
+    "text": "Ranjay, thanks for joining me.",
+    "start": 84.55,
+    "duration": 1.41
+  },
+  {
+    "text": "RANJAY GULATI: Brian,\nthank you for having me.",
+    "start": 85.96,
+    "duration": 1.39
+  },
+  {
+    "text": "I'm delighted to be\nhere with you today.",
+    "start": 87.35,
+    "duration": 1.667
+  },
+  {
+    "text": "BRIAN KENNY: I love Etsy.",
+    "start": 89.017,
+    "duration": 1.143
+  },
+  {
+    "text": "I use them frequently.",
+    "start": 90.16,
+    "duration": 1.47
+  },
+  {
+    "text": "I won't let that\nin any way make me",
+    "start": 91.63,
+    "duration": 1.762
+  },
+  {
+    "text": "lean in one direction\nor the other.",
+    "start": 93.392,
+    "duration": 1.458
+  },
+  {
+    "text": "But I really\nenjoyed reading the.",
+    "start": 94.85,
+    "duration": 1.375
+  },
+  {
+    "text": "Case I'm sure a lot\nof our listeners",
+    "start": 96.225,
+    "duration": 1.705
+  },
+  {
+    "text": "have used Etsy as well.",
+    "start": 97.93,
+    "duration": 1.75
+  },
+  {
+    "text": "And there's some\ninsights that come across",
+    "start": 99.68,
+    "duration": 1.88
+  },
+  {
+    "text": "here that I think will be\nreally interesting for them.",
+    "start": 101.56,
+    "duration": 2.79
+  },
+  {
+    "text": "And, of course, we want to\ntalk about how this relates",
+    "start": 104.35,
+    "duration": 2.25
+  },
+  {
+    "text": "to the ideas in your new book.",
+    "start": 106.6,
+    "duration": 1.71
+  },
+  {
+    "text": "Congratulations, by the way,\non the recent launch of that.",
+    "start": 108.31,
+    "duration": 2.58
+  },
+  {
+    "text": "RANJAY GULATI: Thank you.",
+    "start": 110.89,
+    "duration": 0.78
+  },
+  {
+    "text": "BRIAN KENNY: Why\ndon't we just dive in?",
+    "start": 111.67,
+    "duration": 1.2
+  },
+  {
+    "text": "Are you ready?",
+    "start": 112.87,
+    "duration": 0.583
+  },
+  {
+    "text": "RANJAY GULATI: Yes, absolutely.",
+    "start": 113.453,
+    "duration": 1.292
+  },
+  {
+    "text": "Let's dig into the case,\nroll up our sleeves.",
+    "start": 114.745,
+    "duration": 1.915
+  },
+  {
+    "text": "I'm ready to be\ncold called myself",
+    "start": 116.66,
+    "duration": 2.45
+  },
+  {
+    "text": "and be on the other end of this.",
+    "start": 119.11,
+    "duration": 1.47
+  },
+  {
+    "text": "Normally, I'm the one\ncold calling my students.",
+    "start": 120.58,
+    "duration": 2.35
+  },
+  {
+    "text": "BRIAN KENNY: I love it.",
+    "start": 122.93,
+    "duration": 0.35
+  },
+  {
+    "text": "Great.",
+    "start": 123.28,
+    "duration": 0.51
+  },
+  {
+    "text": "Well, let's start right there.",
+    "start": 123.79,
+    "duration": 1.74
+  },
+  {
+    "text": "Tell me what the central\ntheme of the case is",
+    "start": 125.53,
+    "duration": 2.31
+  },
+  {
+    "text": "and what your cold call would\nbe to start the discussion when",
+    "start": 127.84,
+    "duration": 2.919
+  },
+  {
+    "text": "you step into the classroom?",
+    "start": 130.759,
+    "duration": 1.471
+  },
+  {
+    "text": "RANJAY GULATI: Well, when I\nstart the case discussion,",
+    "start": 132.23,
+    "duration": 2.49
+  },
+  {
+    "text": "I start by right away taking\nthe students into the shoes",
+    "start": 134.72,
+    "duration": 3.27
+  },
+  {
+    "text": "of the protagonist.",
+    "start": 137.99,
+    "duration": 1.2
+  },
+  {
+    "text": "And I say if you were\nSilverman, Josh Silverman,",
+    "start": 139.19,
+    "duration": 3.48
+  },
+  {
+    "text": "who has been a board member,\nhas been offered the job",
+    "start": 142.67,
+    "duration": 3.18
+  },
+  {
+    "text": "to be CEO of this\ncompany, and they're",
+    "start": 145.85,
+    "duration": 2.58
+  },
+  {
+    "text": "going to fire Chad Dickerson,\nthe CEO-- and the question I",
+    "start": 148.43,
+    "duration": 3.06
+  },
+  {
+    "text": "ask is, would you take this job?",
+    "start": 151.49,
+    "duration": 2.61
+  },
+  {
+    "text": "And of course, the\nclass gets split.",
+    "start": 154.1,
+    "duration": 2.49
+  },
+  {
+    "text": "I'd say 60% or so take the\njob and about 40% say, \"no,\"",
+    "start": 156.59,
+    "duration": 4.505
+  },
+  {
+    "text": "I won't take the job.",
+    "start": 161.095,
+    "duration": 0.875
+  },
+  {
+    "text": "And of course, for me that's\ngreat fodder, because now I",
+    "start": 161.97,
+    "duration": 2.69
+  },
+  {
+    "text": "go to the ones who say, \"no,\"\nI will not take this job.",
+    "start": 164.66,
+    "duration": 3.148
+  },
+  {
+    "text": "BRIAN KENNY: I'm always\ninterested in how and why",
+    "start": 167.808,
+    "duration": 2.042
+  },
+  {
+    "text": "faculty decide to\nwrite certain cases.",
+    "start": 169.85,
+    "duration": 2.67
+  },
+  {
+    "text": "Etsy is a pretty well\nknown organization.",
+    "start": 172.52,
+    "duration": 2.5
+  },
+  {
+    "text": "How did this idea come to you?",
+    "start": 175.02,
+    "duration": 2.03
+  },
+  {
+    "text": "And how does it relate to\nyour research and the ideas",
+    "start": 177.05,
+    "duration": 3.15
+  },
+  {
+    "text": "in your book?",
+    "start": 180.2,
+    "duration": 0.69
+  },
+  {
+    "text": "RANJAY GULATI: I did not\nknow what Etsy was doing.",
+    "start": 180.89,
+    "duration": 2.85
+  },
+  {
+    "text": "Actually, I thought of\nEtsy as a negative story,",
+    "start": 183.74,
+    "duration": 2.67
+  },
+  {
+    "text": "because the media\nreporting of it was,",
+    "start": 186.41,
+    "duration": 2.22
+  },
+  {
+    "text": "here's a company\nthat lost its soul.",
+    "start": 188.63,
+    "duration": 2.67
+  },
+  {
+    "text": "It had this socially\nminded idea.",
+    "start": 191.3,
+    "duration": 3.15
+  },
+  {
+    "text": "They were going to do\nall these great things.",
+    "start": 194.45,
+    "duration": 2.43
+  },
+  {
+    "text": "And then, the dark\nside of capitalism",
+    "start": 196.88,
+    "duration": 3.21
+  },
+  {
+    "text": "took over, destroyed all their\nmission and social orientation,",
+    "start": 200.09,
+    "duration": 4.47
+  },
+  {
+    "text": "fired all these people.",
+    "start": 204.56,
+    "duration": 1.38
+  },
+  {
+    "text": "And these people were\nvocal in the media.",
+    "start": 205.94,
+    "duration": 2.34
+  },
+  {
+    "text": "The media went after them.",
+    "start": 208.28,
+    "duration": 1.53
+  },
+  {
+    "text": "To me, I thought, this is\ngoing to be a great story",
+    "start": 209.81,
+    "duration": 2.49
+  },
+  {
+    "text": "on the dark side of capitalism.",
+    "start": 212.3,
+    "duration": 2.01
+  },
+  {
+    "text": "I was looking for negative\nstories, you know?",
+    "start": 214.31,
+    "duration": 2.41
+  },
+  {
+    "text": "And the more I dug\ninto it, the more",
+    "start": 216.72,
+    "duration": 2.54
+  },
+  {
+    "text": "I found there was a\nstory behind the story.",
+    "start": 219.26,
+    "duration": 2.82
+  },
+  {
+    "text": "The subtitle of my book\nis \"the heart and soul",
+    "start": 222.08,
+    "duration": 2.13
+  },
+  {
+    "text": "of high performance\norganizations.\"",
+    "start": 224.21,
+    "duration": 1.47
+  },
+  {
+    "text": "That's what I\nwanted to know was,",
+    "start": 225.68,
+    "duration": 1.375
+  },
+  {
+    "text": "what do companies that\ndo really well today do?",
+    "start": 227.055,
+    "duration": 3.095
+  },
+  {
+    "text": "And performance is defined,\nboth financial performance,",
+    "start": 230.15,
+    "duration": 3.45
+  },
+  {
+    "text": "I'm not taking that away\nat all, but are also",
+    "start": 233.6,
+    "duration": 2.82
+  },
+  {
+    "text": "able to, let's put it\nthis way, accomplish",
+    "start": 236.42,
+    "duration": 2.67
+  },
+  {
+    "text": "what you might loosely call\nsocial performance as well.",
+    "start": 239.09,
+    "duration": 2.61
+  },
+  {
+    "text": "But I was not looking for\ntrading off one for the other.",
+    "start": 241.7,
+    "duration": 3.19
+  },
+  {
+    "text": "And here was a company that\nhad done financially very",
+    "start": 244.89,
+    "duration": 3.5
+  },
+  {
+    "text": "well under Josh.",
+    "start": 248.39,
+    "duration": 1.89
+  },
+  {
+    "text": "And as I found\nout, they had also",
+    "start": 250.28,
+    "duration": 2.85
+  },
+  {
+    "text": "sharply focused\ntheir social impact",
+    "start": 253.13,
+    "duration": 2.13
+  },
+  {
+    "text": "and done extremely\nwell with that as well.",
+    "start": 255.26,
+    "duration": 2.639
+  },
+  {
+    "text": "If anything, the old\nEtsy, as I discovered,",
+    "start": 257.899,
+    "duration": 3.421
+  },
+  {
+    "text": "had a lot of challenges on\nboth dimensions with it.",
+    "start": 261.32,
+    "duration": 3.34
+  },
+  {
+    "text": "And to me, that was\nthe interesting insight",
+    "start": 264.66,
+    "duration": 2.78
+  },
+  {
+    "text": "to see, how did this company\nwork what I call the razor's",
+    "start": 267.44,
+    "duration": 4.62
+  },
+  {
+    "text": "edge and make tradeoffs?",
+    "start": 272.06,
+    "duration": 2.49
+  },
+  {
+    "text": "They transformed\nthemselves, and they",
+    "start": 274.55,
+    "duration": 2.13
+  },
+  {
+    "text": "used having a purpose as kind\nof the pivot point to do so.",
+    "start": 276.68,
+    "duration": 3.572
+  },
+  {
+    "text": "BRIAN KENNY: I think people\nare skeptical about this notion",
+    "start": 280.252,
+    "duration": 2.458
+  },
+  {
+    "text": "of purpose when it\ncomes to business.",
+    "start": 282.71,
+    "duration": 2.37
+  },
+  {
+    "text": "What do you think stakeholders--\nemployees, customers,",
+    "start": 285.08,
+    "duration": 3.553
+  },
+  {
+    "text": "shareholders-- what\ndo you think they're",
+    "start": 288.633,
+    "duration": 1.667
+  },
+  {
+    "text": "looking for from business\nand business leaders today?",
+    "start": 290.3,
+    "duration": 3.343
+  },
+  {
+    "text": "RANJAY GULATI: Everyone expects\nmore from business leaders",
+    "start": 293.643,
+    "duration": 2.417
+  },
+  {
+    "text": "today--",
+    "start": 296.06,
+    "duration": 0.63
+  },
+  {
+    "text": "more in terms of not\njust economic return,",
+    "start": 296.69,
+    "duration": 2.7
+  },
+  {
+    "text": "but also, as you\nsaid, other impact.",
+    "start": 299.39,
+    "duration": 2.4
+  },
+  {
+    "text": "What is your positive\nimpact on the community,",
+    "start": 301.79,
+    "duration": 2.1
+  },
+  {
+    "text": "and the environment,\nand on society at large?",
+    "start": 303.89,
+    "duration": 2.31
+  },
+  {
+    "text": "Now, in that context, I want\nto clarify to you purpose",
+    "start": 306.2,
+    "duration": 3.36
+  },
+  {
+    "text": "is not a purpose statement.",
+    "start": 309.56,
+    "duration": 1.95
+  },
+  {
+    "text": "I think that's what plays into\nthe cynics, where companies",
+    "start": 311.51,
+    "duration": 2.7
+  },
+  {
+    "text": "start to parade some kind of\nnoble minded purpose statement.",
+    "start": 314.21,
+    "duration": 3.3
+  },
+  {
+    "text": "They've hired some\ncommunication consulting firm",
+    "start": 317.51,
+    "duration": 2.31
+  },
+  {
+    "text": "to craft it for them.",
+    "start": 319.82,
+    "duration": 1.557
+  },
+  {
+    "text": "And they put it out there.",
+    "start": 321.377,
+    "duration": 1.083
+  },
+  {
+    "text": "If you told me five\nyears ago I was",
+    "start": 322.46,
+    "duration": 1.53
+  },
+  {
+    "text": "going to write a\nbook on purpose,",
+    "start": 323.99,
+    "duration": 1.02
+  },
+  {
+    "text": "I would have told\nyou you're crazy,",
+    "start": 325.01,
+    "duration": 1.458
+  },
+  {
+    "text": "because, to me, that's\nhow I thought of purpose.",
+    "start": 326.468,
+    "duration": 2.172
+  },
+  {
+    "text": "And as I was writing this book,\nI wanted a one word title.",
+    "start": 328.64,
+    "duration": 2.85
+  },
+  {
+    "text": "I thought one word titles sell.",
+    "start": 331.49,
+    "duration": 2.01
+  },
+  {
+    "text": "So I wanted to call it Purpose.",
+    "start": 333.5,
+    "duration": 1.47
+  },
+  {
+    "text": "And then as I wrote\nthe book, I realized",
+    "start": 334.97,
+    "duration": 1.68
+  },
+  {
+    "text": "I had to call it Deep\nPurpose, because so",
+    "start": 336.65,
+    "duration": 2.49
+  },
+  {
+    "text": "many companies practice what\nI call a shallow purpose.",
+    "start": 339.14,
+    "duration": 2.88
+  },
+  {
+    "text": "Now, if purpose is not\na statement, what is it?",
+    "start": 342.02,
+    "duration": 2.67
+  },
+  {
+    "text": "Purpose is an intention.",
+    "start": 344.69,
+    "duration": 2.01
+  },
+  {
+    "text": "It's an orienting frame\nof reference for who I am",
+    "start": 346.7,
+    "duration": 3.87
+  },
+  {
+    "text": "and why am I here.",
+    "start": 350.57,
+    "duration": 1.32
+  },
+  {
+    "text": "I had to, first,\nunderstand, what is purpose?",
+    "start": 351.89,
+    "duration": 3.63
+  },
+  {
+    "text": "On which there's a\nlot of confusion.",
+    "start": 355.52,
+    "duration": 1.56
+  },
+  {
+    "text": "Purpose has been hijacked\nby a lot of people.",
+    "start": 357.08,
+    "duration": 2.19
+  },
+  {
+    "text": "Why is it important,\nfinancially, even,",
+    "start": 359.27,
+    "duration": 2.94
+  },
+  {
+    "text": "for companies?",
+    "start": 362.21,
+    "duration": 1.06
+  },
+  {
+    "text": "So let me make the economic\nargument for purpose.",
+    "start": 363.27,
+    "duration": 3.02
+  },
+  {
+    "text": "And then the third one,\nwhich is the hardest element,",
+    "start": 366.29,
+    "duration": 2.52
+  },
+  {
+    "text": "was the \"how do you do it?\"",
+    "start": 368.81,
+    "duration": 1.65
+  },
+  {
+    "text": "And Etsy gave me all three.",
+    "start": 370.46,
+    "duration": 2.43
+  },
+  {
+    "text": "Etsy allowed me to clarify that\npurpose involves navigating",
+    "start": 372.89,
+    "duration": 3.75
+  },
+  {
+    "text": "economic and social benefit.",
+    "start": 376.64,
+    "duration": 1.74
+  },
+  {
+    "text": "It allowed me to think\nabout how it benefited Etsy.",
+    "start": 378.38,
+    "duration": 3.81
+  },
+  {
+    "text": "It also allowed me to see how a\ncompany actually embeds purpose",
+    "start": 382.19,
+    "duration": 3.72
+  },
+  {
+    "text": "into the organization.",
+    "start": 385.91,
+    "duration": 1.35
+  },
+  {
+    "text": "BRIAN KENNY: Before we dive into\nEtsy and the specifics of what",
+    "start": 387.26,
+    "duration": 3.54
+  },
+  {
+    "text": "they did, just so our\nlisteners are thinking about it",
+    "start": 390.8,
+    "duration": 2.25
+  },
+  {
+    "text": "in context, how do you\ndefine a deep purpose leader?",
+    "start": 393.05,
+    "duration": 3.15
+  },
+  {
+    "text": "Is there an easy\ndefinition for that?",
+    "start": 396.2,
+    "duration": 1.95
+  },
+  {
+    "text": "RANJAY GULATI: I\nthink a deep purpose",
+    "start": 398.15,
+    "duration": 1.542
+  },
+  {
+    "text": "leader who is centered around a\nclear sense of why are we here,",
+    "start": 399.692,
+    "duration": 4.918
+  },
+  {
+    "text": "what is our objective--\nand they reference",
+    "start": 404.61,
+    "duration": 2.78
+  },
+  {
+    "text": "that in everything they do.",
+    "start": 407.39,
+    "duration": 2.64
+  },
+  {
+    "text": "They're centered around that.",
+    "start": 410.03,
+    "duration": 1.56
+  },
+  {
+    "text": "That's the first piece of it.",
+    "start": 411.59,
+    "duration": 1.42
+  },
+  {
+    "text": "The second piece\nof it I talk about",
+    "start": 413.01,
+    "duration": 1.61
+  },
+  {
+    "text": "is these are leaders who are not\nonly bought into it themselves,",
+    "start": 414.62,
+    "duration": 3.81
+  },
+  {
+    "text": "but they recognize\nthat they have",
+    "start": 418.43,
+    "duration": 1.56
+  },
+  {
+    "text": "to communicate this ideal in\na compelling way, in what we",
+    "start": 419.99,
+    "duration": 4.89
+  },
+  {
+    "text": "call a big story way.",
+    "start": 424.88,
+    "duration": 1.96
+  },
+  {
+    "text": "They have to personify\nit themselves",
+    "start": 426.84,
+    "duration": 2.34
+  },
+  {
+    "text": "and embody and live it.",
+    "start": 429.18,
+    "duration": 2.05
+  },
+  {
+    "text": "They have to look\nfor ways to then",
+    "start": 431.23,
+    "duration": 2.78
+  },
+  {
+    "text": "make sure it is resonant\nin the organization.",
+    "start": 434.01,
+    "duration": 2.86
+  },
+  {
+    "text": "So they are the carriers\nof this purpose.",
+    "start": 436.87,
+    "duration": 2.82
+  },
+  {
+    "text": "They need to understand that.",
+    "start": 439.69,
+    "duration": 1.25
+  },
+  {
+    "text": "That's one big chunk of it--",
+    "start": 440.94,
+    "duration": 1.59
+  },
+  {
+    "text": "that you are chief\npurpose officer.",
+    "start": 442.53,
+    "duration": 2.34
+  },
+  {
+    "text": "The other part of\nit that I think",
+    "start": 444.87,
+    "duration": 2.22
+  },
+  {
+    "text": "is very, very\nimportant to understand",
+    "start": 447.09,
+    "duration": 1.8
+  },
+  {
+    "text": "is that purpose involves\nmaking trade and choices--",
+    "start": 448.89,
+    "duration": 2.64
+  },
+  {
+    "text": "hard choices.",
+    "start": 451.53,
+    "duration": 1.68
+  },
+  {
+    "text": "Josh had to lay off\nalmost 200 people.",
+    "start": 453.21,
+    "duration": 3.39
+  },
+  {
+    "text": "And he had to shut\ndown the values team.",
+    "start": 456.6,
+    "duration": 2.46
+  },
+  {
+    "text": "The day before he did\nthat, he went for a walk",
+    "start": 459.06,
+    "duration": 1.95
+  },
+  {
+    "text": "with his daughter.",
+    "start": 461.01,
+    "duration": 0.75
+  },
+  {
+    "text": "He said, I'm about to\ndo some things that",
+    "start": 461.76,
+    "duration": 2.07
+  },
+  {
+    "text": "are going to make me look\nreally bad in the news.",
+    "start": 463.83,
+    "duration": 3.06
+  },
+  {
+    "text": "And you may hear about\nit from your friends.",
+    "start": 466.89,
+    "duration": 2.34
+  },
+  {
+    "text": "And you're going to hear all\nkinds of things about me.",
+    "start": 469.23,
+    "duration": 2.25
+  },
+  {
+    "text": "I just want you to know\nthat what I'm doing",
+    "start": 471.48,
+    "duration": 3.12
+  },
+  {
+    "text": "is all on the right path.",
+    "start": 474.6,
+    "duration": 2.13
+  },
+  {
+    "text": "I'm doing it for the\nbenefit of this enterprise,",
+    "start": 476.73,
+    "duration": 2.98
+  },
+  {
+    "text": "and for its customers,\nand for the community.",
+    "start": 479.71,
+    "duration": 2.18
+  },
+  {
+    "text": "But it's not going to\ncome across that way.",
+    "start": 481.89,
+    "duration": 1.83
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 483.72,
+    "duration": 0.75
+  },
+  {
+    "text": "RANJAY GULATI: These\nare hard places to be.",
+    "start": 484.47,
+    "duration": 2.085
+  },
+  {
+    "text": "You asked earlier,\nwhy are business not",
+    "start": 486.555,
+    "duration": 2.685
+  },
+  {
+    "text": "stepping up and saying more?",
+    "start": 489.24,
+    "duration": 2.1
+  },
+  {
+    "text": "Business leaders today\nneed to understand",
+    "start": 491.34,
+    "duration": 2.16
+  },
+  {
+    "text": "that sitting on the sidelines\non any charged issue",
+    "start": 493.5,
+    "duration": 4.26
+  },
+  {
+    "text": "and saying \"I'm neutral\"\nis not an option.",
+    "start": 497.76,
+    "duration": 3.96
+  },
+  {
+    "text": "You can't say, that's not me.",
+    "start": 501.72,
+    "duration": 2.19
+  },
+  {
+    "text": "I can't take a stand\non Black Lives Matter.",
+    "start": 503.91,
+    "duration": 2.46
+  },
+  {
+    "text": "I can't take a stand\non voting rights.",
+    "start": 506.37,
+    "duration": 2.25
+  },
+  {
+    "text": "I can't even take a\nstand on gun rights.",
+    "start": 508.62,
+    "duration": 1.92
+  },
+  {
+    "text": "And these are politically\ncharged issues",
+    "start": 510.54,
+    "duration": 1.8
+  },
+  {
+    "text": "that are very divisive\nin our society today.",
+    "start": 512.34,
+    "duration": 2.949
+  },
+  {
+    "text": "Fortunately or unfortunately,\nsociety, customers,",
+    "start": 515.289,
+    "duration": 3.89
+  },
+  {
+    "text": "and employees\ndemand their leaders",
+    "start": 519.179,
+    "duration": 4.051
+  },
+  {
+    "text": "to take a stance on\nsome of these issues.",
+    "start": 523.23,
+    "duration": 1.883
+  },
+  {
+    "text": "BRIAN KENNY: All right,\nwell, let's talk about Etsy,",
+    "start": 525.113,
+    "duration": 2.167
+  },
+  {
+    "text": "because there was some rebellion\nthat was happening there.",
+    "start": 527.28,
+    "duration": 2.88
+  },
+  {
+    "text": "For the few listeners\nout there who",
+    "start": 530.16,
+    "duration": 2.22
+  },
+  {
+    "text": "haven't used Etsy and\nunfamiliar with it,",
+    "start": 532.38,
+    "duration": 2.19
+  },
+  {
+    "text": "can you just describe\nwhat business they're in?",
+    "start": 534.57,
+    "duration": 1.98
+  },
+  {
+    "text": "What do they do?",
+    "start": 536.55,
+    "duration": 0.94
+  },
+  {
+    "text": "RANJAY GULATI: Etsy's\norigins were really",
+    "start": 537.49,
+    "duration": 1.97
+  },
+  {
+    "text": "to be a marketplace for crafts.",
+    "start": 539.46,
+    "duration": 2.52
+  },
+  {
+    "text": "And Bob Kalin, the founder,\nwas himself a craftsman.",
+    "start": 541.98,
+    "duration": 3.45
+  },
+  {
+    "text": "And he had this idea of\nhandmade, craftmade things",
+    "start": 545.43,
+    "duration": 6.12
+  },
+  {
+    "text": "as opposed to machine made\nindustrial production.",
+    "start": 551.55,
+    "duration": 2.68
+  },
+  {
+    "text": "So he had this idea that I\nwant to help craftspeople sell",
+    "start": 554.23,
+    "duration": 4.07
+  },
+  {
+    "text": "their wares in a\nvery economical way",
+    "start": 558.3,
+    "duration": 3.12
+  },
+  {
+    "text": "and not have to pay large\nmargins to some middle person.",
+    "start": 561.42,
+    "duration": 3.54
+  },
+  {
+    "text": "So he was going to make a low\nmargin but easy for sellers--",
+    "start": 564.96,
+    "duration": 5.08
+  },
+  {
+    "text": "a beautiful idea.",
+    "start": 570.04,
+    "duration": 1.33
+  },
+  {
+    "text": "And the thing took off.",
+    "start": 571.37,
+    "duration": 1.94
+  },
+  {
+    "text": "It was really remarkable\nstory based on an ideal.",
+    "start": 573.31,
+    "duration": 4.17
+  },
+  {
+    "text": "But that ideal later came back\nto be a challenge for them.",
+    "start": 577.48,
+    "duration": 4.11
+  },
+  {
+    "text": "Because in any\nmarketplace, there",
+    "start": 581.59,
+    "duration": 2.61
+  },
+  {
+    "text": "are Sellers who this\ncompany deeply cared about,",
+    "start": 584.2,
+    "duration": 2.61
+  },
+  {
+    "text": "but there are buyers too.",
+    "start": 586.81,
+    "duration": 1.48
+  },
+  {
+    "text": "So they had a blind spot.",
+    "start": 588.29,
+    "duration": 1.28
+  },
+  {
+    "text": "They never thought much\nabout the buyer experience.",
+    "start": 589.57,
+    "duration": 2.38
+  },
+  {
+    "text": "Of course, you have to think\nthat for sellers to sell,",
+    "start": 591.95,
+    "duration": 3.41
+  },
+  {
+    "text": "you need buyers.",
+    "start": 595.36,
+    "duration": 1.02
+  },
+  {
+    "text": "So how are you going to\nmake search easy for them,",
+    "start": 596.38,
+    "duration": 2.7
+  },
+  {
+    "text": "the transaction easy\nfor them the way Amazon",
+    "start": 599.08,
+    "duration": 2.04
+  },
+  {
+    "text": "has done for everybody else?",
+    "start": 601.12,
+    "duration": 1.8
+  },
+  {
+    "text": "But in the beginning,\nthere was no competition.",
+    "start": 602.92,
+    "duration": 2.49
+  },
+  {
+    "text": "And so this thing just took off.",
+    "start": 605.41,
+    "duration": 2.73
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 608.14,
+    "duration": 0.75
+  },
+  {
+    "text": "Talk a little bit about\nRob Kalin's background.",
+    "start": 608.89,
+    "duration": 2.28
+  },
+  {
+    "text": "He wasn't a business\nperson, but he",
+    "start": 611.17,
+    "duration": 2.97
+  },
+  {
+    "text": "was a person with a good idea.",
+    "start": 614.14,
+    "duration": 1.44
+  },
+  {
+    "text": "But how did the culture sort\nof evolve under his leadership?",
+    "start": 615.58,
+    "duration": 2.86
+  },
+  {
+    "text": "RANJAY GULATI: I think it's\nimportant to distinguish",
+    "start": 618.44,
+    "duration": 2.167
+  },
+  {
+    "text": "the word \"idea\" from \"ideal.\"",
+    "start": 620.607,
+    "duration": 2.263
+  },
+  {
+    "text": "He had both.",
+    "start": 622.87,
+    "duration": 1.26
+  },
+  {
+    "text": "There was an idea that there\nis a marketplace for crafts.",
+    "start": 624.13,
+    "duration": 3.39
+  },
+  {
+    "text": "That's the idea.",
+    "start": 627.52,
+    "duration": 1.59
+  },
+  {
+    "text": "But the idea was, how\ncan I help craftspeople",
+    "start": 629.11,
+    "duration": 4.78
+  },
+  {
+    "text": "bring their wares to market\nand make a livelihood out",
+    "start": 633.89,
+    "duration": 3.78
+  },
+  {
+    "text": "of pursuing a craft?",
+    "start": 637.67,
+    "duration": 1.53
+  },
+  {
+    "text": "And the culture of the\nplace, if you can imagine,",
+    "start": 639.2,
+    "duration": 2.23
+  },
+  {
+    "text": "was an extension of the founder.",
+    "start": 641.43,
+    "duration": 1.37
+  },
+  {
+    "text": "A lot of founder-led enterprises\nare basically the founder",
+    "start": 642.8,
+    "duration": 3.51
+  },
+  {
+    "text": "is larger than life.",
+    "start": 646.31,
+    "duration": 1.56
+  },
+  {
+    "text": "Their persona permeates\nthe whole organization--",
+    "start": 647.87,
+    "duration": 3.67
+  },
+  {
+    "text": "the culture, the beliefs.",
+    "start": 651.54,
+    "duration": 1.55
+  },
+  {
+    "text": "I can imagine it being a\nvery idealistic place focused",
+    "start": 653.09,
+    "duration": 4.29
+  },
+  {
+    "text": "on these sellers, and supporting\nthem in any way they could.",
+    "start": 657.38,
+    "duration": 3.648
+  },
+  {
+    "text": "BRIAN KENNY: In some ways,\nit was almost like a mission",
+    "start": 661.028,
+    "duration": 2.292
+  },
+  {
+    "text": "driven organization.",
+    "start": 663.32,
+    "duration": 1.12
+  },
+  {
+    "text": "We always think that\nnonprofits are mission driven",
+    "start": 664.44,
+    "duration": 2.69
+  },
+  {
+    "text": "and business is profit driven.",
+    "start": 667.13,
+    "duration": 1.95
+  },
+  {
+    "text": "But this sounds like\nit was leaning more",
+    "start": 669.08,
+    "duration": 1.86
+  },
+  {
+    "text": "towards the mission driven\nideal, as you're describing it.",
+    "start": 670.94,
+    "duration": 3.477
+  },
+  {
+    "text": "RANJAY GULATI: Absolutely.",
+    "start": 674.417,
+    "duration": 1.083
+  },
+  {
+    "text": "I think it was very much\nof a mission driven.",
+    "start": 675.5,
+    "duration": 2.05
+  },
+  {
+    "text": "And by the way, making money\nwas not part of that mission.",
+    "start": 677.55,
+    "duration": 2.6
+  },
+  {
+    "text": "Think about it, that you're\nrunning this business,",
+    "start": 680.15,
+    "duration": 2.4
+  },
+  {
+    "text": "you want to make it sustaining,\nyou want to scale it,",
+    "start": 682.55,
+    "duration": 2.79
+  },
+  {
+    "text": "you want to grow it, so\nthey wanted to do that.",
+    "start": 685.34,
+    "duration": 2.46
+  },
+  {
+    "text": "They were really on the\nfrontier of this idea",
+    "start": 687.8,
+    "duration": 2.73
+  },
+  {
+    "text": "that business can\nhave a social mission.",
+    "start": 690.53,
+    "duration": 3.03
+  },
+  {
+    "text": "What that also\nmeant was business",
+    "start": 693.56,
+    "duration": 2.13
+  },
+  {
+    "text": "doesn't have to have\nan economic mission.",
+    "start": 695.69,
+    "duration": 3.147
+  },
+  {
+    "text": "BRIAN KENNY: We know\nthat's not sustainable.",
+    "start": 698.837,
+    "duration": 1.833
+  },
+  {
+    "text": "And I think of this case\nas the tale of three CEOs",
+    "start": 700.67,
+    "duration": 2.42
+  },
+  {
+    "text": "as I read it.",
+    "start": 703.09,
+    "duration": 0.99
+  },
+  {
+    "text": "Rob presides over the\nfounding of the company",
+    "start": 704.08,
+    "duration": 3.51
+  },
+  {
+    "text": "and the creation of\nthis focus on purpose",
+    "start": 707.59,
+    "duration": 3.48
+  },
+  {
+    "text": "and attracts people to\nthe firm that really",
+    "start": 711.07,
+    "duration": 2.88
+  },
+  {
+    "text": "buy into that passionately.",
+    "start": 713.95,
+    "duration": 1.74
+  },
+  {
+    "text": "But, at some point, the\nbusiness comes calling.",
+    "start": 715.69,
+    "duration": 3.3
+  },
+  {
+    "text": "And there's a transition there\nfrom Rob to Chad Dickerson.",
+    "start": 718.99,
+    "duration": 3.69
+  },
+  {
+    "text": "Tell us a little bit about Chad\nDickerson and the situation",
+    "start": 722.68,
+    "duration": 2.52
+  },
+  {
+    "text": "that he stepped into.",
+    "start": 725.2,
+    "duration": 1.14
+  },
+  {
+    "text": "RANJAY GULATI: Chad\nhad big shoes to fill.",
+    "start": 726.34,
+    "duration": 1.89
+  },
+  {
+    "text": "Anybody coming after a founder\ncan tell you that, right?",
+    "start": 728.23,
+    "duration": 4.05
+  },
+  {
+    "text": "Especially a larger\nthan life founder,",
+    "start": 732.28,
+    "duration": 1.95
+  },
+  {
+    "text": "and Chad had big shoes to fill.",
+    "start": 734.23,
+    "duration": 1.65
+  },
+  {
+    "text": "And he did them very well.",
+    "start": 735.88,
+    "duration": 1.71
+  },
+  {
+    "text": "He understood technology,\nbecause at this point now,",
+    "start": 737.59,
+    "duration": 3.12
+  },
+  {
+    "text": "you're a technology company.",
+    "start": 740.71,
+    "duration": 1.44
+  },
+  {
+    "text": "You're building your technology\ninfrastructure and platform.",
+    "start": 742.15,
+    "duration": 3.42
+  },
+  {
+    "text": "And you're scaling the venture.",
+    "start": 745.57,
+    "duration": 2.25
+  },
+  {
+    "text": "He's the one who's\ngoing to take it public.",
+    "start": 747.82,
+    "duration": 2.56
+  },
+  {
+    "text": "He was very clear\nthat he was not",
+    "start": 750.38,
+    "duration": 2.27
+  },
+  {
+    "text": "trying to change the culture\nor what made Etsy special.",
+    "start": 752.65,
+    "duration": 3.48
+  },
+  {
+    "text": "He puts in place a\nvalues and impact team.",
+    "start": 756.13,
+    "duration": 3.16
+  },
+  {
+    "text": "He puts in place generous\nemployee benefits",
+    "start": 759.29,
+    "duration": 3.02
+  },
+  {
+    "text": "that employees can have\naccess to all kinds",
+    "start": 762.31,
+    "duration": 3.09
+  },
+  {
+    "text": "of recreational opportunities\nand other things.",
+    "start": 765.4,
+    "duration": 2.67
+  },
+  {
+    "text": "He is very employee centric.",
+    "start": 768.07,
+    "duration": 2.07
+  },
+  {
+    "text": "He's very focused on\nthe Sellers still.",
+    "start": 770.14,
+    "duration": 2.28
+  },
+  {
+    "text": "And he communicates clearly\nto the investor world that we",
+    "start": 772.42,
+    "duration": 3.57
+  },
+  {
+    "text": "may not make money for a while.",
+    "start": 775.99,
+    "duration": 1.65
+  },
+  {
+    "text": "BRIAN KENNY: How does that go\nover with the investor world?",
+    "start": 777.64,
+    "duration": 3.0
+  },
+  {
+    "text": "RANJAY GULATI: It's interesting.",
+    "start": 780.64,
+    "duration": 0.69
+  },
+  {
+    "text": "They managed to\ngo public, right?",
+    "start": 781.33,
+    "duration": 1.375
+  },
+  {
+    "text": "So they are able to go\npublic with this idea",
+    "start": 782.705,
+    "duration": 1.925
+  },
+  {
+    "text": "that we'll make money\nin the long term,",
+    "start": 784.63,
+    "duration": 1.625
+  },
+  {
+    "text": "because they've grown fast.",
+    "start": 786.255,
+    "duration": 1.805
+  },
+  {
+    "text": "The idea is a powerful one, and\nthey've really got traction.",
+    "start": 788.06,
+    "duration": 4.52
+  },
+  {
+    "text": "So the top line has grown.",
+    "start": 792.58,
+    "duration": 1.38
+  },
+  {
+    "text": "But if you look under the\nhood, all these troubles",
+    "start": 793.96,
+    "duration": 3.6
+  },
+  {
+    "text": "come back to bite them\nabout nine months after IPO.",
+    "start": 797.56,
+    "duration": 2.88
+  },
+  {
+    "text": "I think what you\nhave to realize--",
+    "start": 800.44,
+    "duration": 1.59
+  },
+  {
+    "text": "you're a privately held\ncompany, it's a different story.",
+    "start": 802.03,
+    "duration": 2.49
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 804.52,
+    "duration": 0.75
+  },
+  {
+    "text": "RANJAY GULATI: You\ncan communicate",
+    "start": 805.27,
+    "duration": 1.11
+  },
+  {
+    "text": "to your limited investor\npool and tell them",
+    "start": 806.38,
+    "duration": 1.86
+  },
+  {
+    "text": "what you're doing.",
+    "start": 808.24,
+    "duration": 0.75
+  },
+  {
+    "text": "And this is who I\nam, what I'm doing.",
+    "start": 808.99,
+    "duration": 2.31
+  },
+  {
+    "text": "You're now going to the public\nmarkets, the expectations that",
+    "start": 811.3,
+    "duration": 5.27
+  },
+  {
+    "text": "changes.",
+    "start": 816.57,
+    "duration": 1.39
+  },
+  {
+    "text": "And I think they\nunderestimated the complexity",
+    "start": 817.96,
+    "duration": 2.96
+  },
+  {
+    "text": "of their notion of social\nimpact in a public entity.",
+    "start": 820.92,
+    "duration": 3.75
+  },
+  {
+    "text": "Now, at one level,\nagain, you might say, OK,",
+    "start": 824.67,
+    "duration": 2.4
+  },
+  {
+    "text": "this was about social impact.",
+    "start": 827.07,
+    "duration": 1.32
+  },
+  {
+    "text": "They were having a\nlot of social impact.",
+    "start": 828.39,
+    "duration": 2.1
+  },
+  {
+    "text": "If you look under the hood,\nit's not even entirely clear",
+    "start": 830.49,
+    "duration": 3.42
+  },
+  {
+    "text": "how much social impact\nthey were having",
+    "start": 833.91,
+    "duration": 2.46
+  },
+  {
+    "text": "because they were not\nreally measuring themselves",
+    "start": 836.37,
+    "duration": 2.25
+  },
+  {
+    "text": "on social impact.",
+    "start": 838.62,
+    "duration": 1.23
+  },
+  {
+    "text": "They were saying they're\ndoing social stuff,",
+    "start": 839.85,
+    "duration": 2.35
+  },
+  {
+    "text": "but if you look at the pure\nnumbers, what do you see?",
+    "start": 842.2,
+    "duration": 2.9
+  },
+  {
+    "text": "Their topline growth\nhas stagnated.",
+    "start": 845.1,
+    "duration": 2.34
+  },
+  {
+    "text": "And what has also\nstarted to happen",
+    "start": 847.44,
+    "duration": 1.59
+  },
+  {
+    "text": "is they're ballooning\ntheir SG&A,",
+    "start": 849.03,
+    "duration": 1.865
+  },
+  {
+    "text": "their spending-- their\nmarketing spend has doubled,",
+    "start": 850.895,
+    "duration": 2.125
+  },
+  {
+    "text": "but revenues are not growing.",
+    "start": 853.02,
+    "duration": 1.918
+  },
+  {
+    "text": "I teach a course on turnaround.",
+    "start": 854.938,
+    "duration": 1.292
+  },
+  {
+    "text": "So when we look at\nthat, what do you say?",
+    "start": 856.23,
+    "duration": 1.708
+  },
+  {
+    "text": "You say \"indisciplined\nspending.\"",
+    "start": 857.938,
+    "duration": 2.552
+  },
+  {
+    "text": "Unfocused.",
+    "start": 860.49,
+    "duration": 1.11
+  },
+  {
+    "text": "As you start probing\nthe organization,",
+    "start": 861.6,
+    "duration": 2.31
+  },
+  {
+    "text": "you discover that was\nwhat was happening.",
+    "start": 863.91,
+    "duration": 1.77
+  },
+  {
+    "text": "You can say \"I'm\nsocial,\" but it doesn't",
+    "start": 865.68,
+    "duration": 1.47
+  },
+  {
+    "text": "mean you can't be disciplined.",
+    "start": 867.15,
+    "duration": 1.29
+  },
+  {
+    "text": "And this gives social a bad\nname also, because, look,",
+    "start": 868.44,
+    "duration": 2.67
+  },
+  {
+    "text": "all these social\ncompanies, they use",
+    "start": 871.11,
+    "duration": 1.68
+  },
+  {
+    "text": "it to hide behind\npoor performance.",
+    "start": 872.79,
+    "duration": 2.4
+  },
+  {
+    "text": "It's a cloak-- a virtue cloak.",
+    "start": 875.19,
+    "duration": 3.57
+  },
+  {
+    "text": "And public markets\ndon't accept that.",
+    "start": 878.76,
+    "duration": 2.287
+  },
+  {
+    "text": "BRIAN KENNY: And\nhere comes the drama,",
+    "start": 881.047,
+    "duration": 1.583
+  },
+  {
+    "text": "because now you've got a board\nmember in Josh Silverman who",
+    "start": 882.63,
+    "duration": 4.05
+  },
+  {
+    "text": "is watching this and\nrecognizing some of the things",
+    "start": 886.68,
+    "duration": 2.76
+  },
+  {
+    "text": "that you just described.",
+    "start": 889.44,
+    "duration": 1.11
+  },
+  {
+    "text": "They're not succeeding\non the business side.",
+    "start": 890.55,
+    "duration": 1.89
+  },
+  {
+    "text": "They may not be\nhaving the impact",
+    "start": 892.44,
+    "duration": 1.38
+  },
+  {
+    "text": "that they think they're\nhaving on the social side.",
+    "start": 893.82,
+    "duration": 2.14
+  },
+  {
+    "text": "So he steps in.",
+    "start": 895.96,
+    "duration": 1.04
+  },
+  {
+    "text": "Just talk a little bit about\nthat dynamic of the pressure",
+    "start": 897.0,
+    "duration": 3.06
+  },
+  {
+    "text": "that he was putting on\nChad and the team there.",
+    "start": 900.06,
+    "duration": 3.82
+  },
+  {
+    "text": "RANJAY GULATI: I think he said\nthat even as a board member,",
+    "start": 903.88,
+    "duration": 2.51
+  },
+  {
+    "text": "you look at the\nfinancials, and you",
+    "start": 906.39,
+    "duration": 1.83
+  },
+  {
+    "text": "see that they are spending\nmoney in ways that are not",
+    "start": 908.22,
+    "duration": 2.97
+  },
+  {
+    "text": "delivering any kind of growth.",
+    "start": 911.19,
+    "duration": 1.89
+  },
+  {
+    "text": "The classic thing--\nyou have resources,",
+    "start": 913.08,
+    "duration": 2.28
+  },
+  {
+    "text": "now you start to pursue\nadjacencies as we call them.",
+    "start": 915.36,
+    "duration": 2.88
+  },
+  {
+    "text": "Yesterday, I taught\nthe LEGO case",
+    "start": 918.24,
+    "duration": 1.62
+  },
+  {
+    "text": "about how LEGO almost went\nbankrupt chasing adjacencies.",
+    "start": 919.86,
+    "duration": 2.79
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 922.65,
+    "duration": 0.93
+  },
+  {
+    "text": "RANJAY GULATI: You build a theme\npark, you build video games--",
+    "start": 923.58,
+    "duration": 2.76
+  },
+  {
+    "text": "so, similarly,\nwhat's happening here",
+    "start": 926.34,
+    "duration": 2.73
+  },
+  {
+    "text": "is they've stopped investing\nin the core business.",
+    "start": 929.07,
+    "duration": 3.18
+  },
+  {
+    "text": "They're growing\nheadcount, spending money.",
+    "start": 932.25,
+    "duration": 3.12
+  },
+  {
+    "text": "And realization was that\nwhile the sellers are",
+    "start": 935.37,
+    "duration": 4.75
+  },
+  {
+    "text": "really happy with Etsy,\nthe buyers were not.",
+    "start": 940.12,
+    "duration": 3.45
+  },
+  {
+    "text": "They were not happy,\nbecause they were not",
+    "start": 943.57,
+    "duration": 1.86
+  },
+  {
+    "text": "getting what they needed-- an\neasy interface and frictionless",
+    "start": 945.43,
+    "duration": 3.07
+  },
+  {
+    "text": "commerce.",
+    "start": 948.5,
+    "duration": 0.5
+  },
+  {
+    "text": "They were not.",
+    "start": 949.0,
+    "duration": 0.75
+  },
+  {
+    "text": "But Etsy wasn't focused on them.",
+    "start": 949.75,
+    "duration": 2.05
+  },
+  {
+    "text": "And furthermore, even the\nIT spend that had ballooned,",
+    "start": 951.8,
+    "duration": 3.41
+  },
+  {
+    "text": "they were building\ninfrastructure from scratch",
+    "start": 955.21,
+    "duration": 2.91
+  },
+  {
+    "text": "internally.",
+    "start": 958.12,
+    "duration": 0.93
+  },
+  {
+    "text": "So it was back end stuff rather\nthan customer facing stuff.",
+    "start": 959.05,
+    "duration": 3.42
+  },
+  {
+    "text": "But he gave it 10%\nchance of success.",
+    "start": 962.47,
+    "duration": 2.46
+  },
+  {
+    "text": "When I asked him in\nclass, I said, so,",
+    "start": 964.93,
+    "duration": 1.89
+  },
+  {
+    "text": "when you walked\ninto this job, what",
+    "start": 966.82,
+    "duration": 2.01
+  },
+  {
+    "text": "were the odds you were\ngiving yourself of success?",
+    "start": 968.83,
+    "duration": 3.22
+  },
+  {
+    "text": "And he said \"10%.\"",
+    "start": 972.05,
+    "duration": 1.28
+  },
+  {
+    "text": "BRIAN KENNY: Wow, that's\na very stark reality",
+    "start": 973.33,
+    "duration": 3.15
+  },
+  {
+    "text": "that he's stepping into.",
+    "start": 976.48,
+    "duration": 1.09
+  },
+  {
+    "text": "So let's talk a\nlittle bit about how",
+    "start": 977.57,
+    "duration": 2.03
+  },
+  {
+    "text": "he took on this challenge, the\ndecisions and the tradeoffs",
+    "start": 979.6,
+    "duration": 3.12
+  },
+  {
+    "text": "that he had to make\nin the process.",
+    "start": 982.72,
+    "duration": 2.08
+  },
+  {
+    "text": "Can you describe that?",
+    "start": 984.8,
+    "duration": 1.53
+  },
+  {
+    "text": "RANJAY GULATI: So as\nhis CTO explained to me,",
+    "start": 986.33,
+    "duration": 4.1
+  },
+  {
+    "text": "and he said for\nthe first 90 days,",
+    "start": 990.43,
+    "duration": 1.98
+  },
+  {
+    "text": "we were in ambulance mode.",
+    "start": 992.41,
+    "duration": 1.89
+  },
+  {
+    "text": "There was a reason\nprivate equity was trying",
+    "start": 994.3,
+    "duration": 1.92
+  },
+  {
+    "text": "to buy and take it private.",
+    "start": 996.22,
+    "duration": 1.56
+  },
+  {
+    "text": "There were people hovering\naround to, essentially,",
+    "start": 997.78,
+    "duration": 3.57
+  },
+  {
+    "text": "replace everything out.",
+    "start": 1001.35,
+    "duration": 1.47
+  },
+  {
+    "text": "And so they were\nin ambulance mode.",
+    "start": 1002.82,
+    "duration": 1.517
+  },
+  {
+    "text": "And I think one of the\nfirst things that happened,",
+    "start": 1004.337,
+    "duration": 2.083
+  },
+  {
+    "text": "actually-- it was a very\nemotional moment, actually.",
+    "start": 1006.42,
+    "duration": 2.167
+  },
+  {
+    "text": "The case talks about on\nthe day Josh takes over",
+    "start": 1008.587,
+    "duration": 3.623
+  },
+  {
+    "text": "and Chad gives his\nfarewell speech.",
+    "start": 1012.21,
+    "duration": 2.19
+  },
+  {
+    "text": "Chad is crying.",
+    "start": 1014.4,
+    "duration": 1.8
+  },
+  {
+    "text": "People in the\naudience are crying.",
+    "start": 1016.2,
+    "duration": 2.4
+  },
+  {
+    "text": "Along with Chad being let go,\n80 people have been let go.",
+    "start": 1018.6,
+    "duration": 3.58
+  },
+  {
+    "text": "This is the first time\nEtsy is having layoffs.",
+    "start": 1022.18,
+    "duration": 2.81
+  },
+  {
+    "text": "The values group is\ngoing to be shut down.",
+    "start": 1024.99,
+    "duration": 3.28
+  },
+  {
+    "text": "And you can see\nemployees in the company,",
+    "start": 1028.27,
+    "duration": 2.78
+  },
+  {
+    "text": "suddenly people start to quit.",
+    "start": 1031.05,
+    "duration": 1.92
+  },
+  {
+    "text": "So there's attrition going up.",
+    "start": 1032.97,
+    "duration": 2.16
+  },
+  {
+    "text": "Everyone's talking\nto the media saying",
+    "start": 1035.13,
+    "duration": 2.31
+  },
+  {
+    "text": "killing the soul of Etsy.",
+    "start": 1037.44,
+    "duration": 1.29
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1038.73,
+    "duration": 0.75
+  },
+  {
+    "text": "RANJAY GULATI: Something else\nthat Josh said to me-- he said,",
+    "start": 1039.48,
+    "duration": 2.542
+  },
+  {
+    "text": "one reason I wanted to\nreally turn around Etsy",
+    "start": 1042.022,
+    "duration": 2.797
+  },
+  {
+    "text": "was Etsy had always\ntalked about being",
+    "start": 1044.819,
+    "duration": 2.101
+  },
+  {
+    "text": "a socially minded business.",
+    "start": 1046.92,
+    "duration": 1.62
+  },
+  {
+    "text": "I wanted to show the world\nthat you can be socially minded",
+    "start": 1048.54,
+    "duration": 3.93
+  },
+  {
+    "text": "and be profitable.",
+    "start": 1052.47,
+    "duration": 1.71
+  },
+  {
+    "text": "If Etsy fails, the\npresumption of everybody",
+    "start": 1054.18,
+    "duration": 3.6
+  },
+  {
+    "text": "is going to be that, see,\nsocially minded businesses",
+    "start": 1057.78,
+    "duration": 2.46
+  },
+  {
+    "text": "can't be profitable.",
+    "start": 1060.24,
+    "duration": 1.47
+  },
+  {
+    "text": "And he said here was\na unique opportunity",
+    "start": 1061.71,
+    "duration": 2.79
+  },
+  {
+    "text": "to show the world that you\ncan be profitable and living",
+    "start": 1064.5,
+    "duration": 4.53
+  },
+  {
+    "text": "a purpose.",
+    "start": 1069.03,
+    "duration": 0.87
+  },
+  {
+    "text": "The first few months were really\naround fixing Etsy's strategy.",
+    "start": 1069.9,
+    "duration": 4.45
+  },
+  {
+    "text": "They shut down a whole\nbunch of technology projects",
+    "start": 1074.35,
+    "duration": 2.33
+  },
+  {
+    "text": "that had nothing to do with the\ncore business that were chasing",
+    "start": 1076.68,
+    "duration": 2.85
+  },
+  {
+    "text": "ideas here and there.",
+    "start": 1079.53,
+    "duration": 1.89
+  },
+  {
+    "text": "They said we got to focus\non the buyers and not",
+    "start": 1081.42,
+    "duration": 2.7
+  },
+  {
+    "text": "just the sellers.",
+    "start": 1084.12,
+    "duration": 1.022
+  },
+  {
+    "text": "You would understand this\nbetter than anybody--",
+    "start": 1085.142,
+    "duration": 1.958
+  },
+  {
+    "text": "they had to change their\nmarketing spend, saying",
+    "start": 1087.1,
+    "duration": 2.81
+  },
+  {
+    "text": "let's really be disciplined\nabout our marketing spend.",
+    "start": 1089.91,
+    "duration": 3.6
+  },
+  {
+    "text": "In this process, they had to\nrightsize the organization--",
+    "start": 1093.51,
+    "duration": 4.95
+  },
+  {
+    "text": "euphemism for\nlayoffs, I'm sorry.",
+    "start": 1098.46,
+    "duration": 2.28
+  },
+  {
+    "text": "That was painful.",
+    "start": 1100.74,
+    "duration": 1.3
+  },
+  {
+    "text": "So imagine being\nJosh at this moment.",
+    "start": 1102.04,
+    "duration": 3.26
+  },
+  {
+    "text": "You're getting a lot\nof heat at this time.",
+    "start": 1105.3,
+    "duration": 2.248
+  },
+  {
+    "text": "BRIAN KENNY: And he's\nlosing the hearts and minds",
+    "start": 1107.548,
+    "duration": 2.042
+  },
+  {
+    "text": "of the employees, which\nhe's going to have",
+    "start": 1109.59,
+    "duration": 2.76
+  },
+  {
+    "text": "to contend with at some point.",
+    "start": 1112.35,
+    "duration": 1.802
+  },
+  {
+    "text": "RANJAY GULATI: Exactly.",
+    "start": 1114.152,
+    "duration": 0.958
+  },
+  {
+    "text": "People like to paint this\nidyllic world of social impact",
+    "start": 1115.11,
+    "duration": 2.85
+  },
+  {
+    "text": "as win-win--",
+    "start": 1117.96,
+    "duration": 0.93
+  },
+  {
+    "text": "no tradeoffs.",
+    "start": 1118.89,
+    "duration": 1.35
+  },
+  {
+    "text": "You can do good and make\nmoney at the same time.",
+    "start": 1120.24,
+    "duration": 2.77
+  },
+  {
+    "text": "And he was very quick\nin pointing out to me",
+    "start": 1123.01,
+    "duration": 2.06
+  },
+  {
+    "text": "that that's an ideal.",
+    "start": 1125.07,
+    "duration": 2.01
+  },
+  {
+    "text": "Most of life is\ntradeoffs, hard choices.",
+    "start": 1127.08,
+    "duration": 3.66
+  },
+  {
+    "text": "So he's got to get\nthe operations done.",
+    "start": 1130.74,
+    "duration": 2.19
+  },
+  {
+    "text": "He's got to get the\nfinancials stabilized.",
+    "start": 1132.93,
+    "duration": 2.13
+  },
+  {
+    "text": "He's got to get kind of the\nright size in the organization",
+    "start": 1135.06,
+    "duration": 3.39
+  },
+  {
+    "text": "spending.",
+    "start": 1138.45,
+    "duration": 1.32
+  },
+  {
+    "text": "Those are the immediate fixes.",
+    "start": 1139.77,
+    "duration": 2.16
+  },
+  {
+    "text": "Once he gets those\nin place, he is now",
+    "start": 1141.93,
+    "duration": 4.77
+  },
+  {
+    "text": "trying to map out what his\nplan for the future is.",
+    "start": 1146.7,
+    "duration": 2.73
+  },
+  {
+    "text": "Now, you shut down the\nvalues and impact team,",
+    "start": 1149.43,
+    "duration": 3.24
+  },
+  {
+    "text": "you laid off people\nfor the first time,",
+    "start": 1152.67,
+    "duration": 2.37
+  },
+  {
+    "text": "you're allowing our B Corp\ncertification to lapse,",
+    "start": 1155.04,
+    "duration": 3.9
+  },
+  {
+    "text": "you really don't care\nabout the company.",
+    "start": 1158.94,
+    "duration": 2.213
+  },
+  {
+    "text": "BRIAN KENNY: So\nhe's playing right",
+    "start": 1161.153,
+    "duration": 1.417
+  },
+  {
+    "text": "into that stereotype\nof the uncaring CEO who",
+    "start": 1162.57,
+    "duration": 3.72
+  },
+  {
+    "text": "comes in and is just trying\nto strip everything down",
+    "start": 1166.29,
+    "duration": 2.25
+  },
+  {
+    "text": "to make money.",
+    "start": 1168.54,
+    "duration": 0.782
+  },
+  {
+    "text": "RANJAY GULATI: Exactly.",
+    "start": 1169.322,
+    "duration": 0.958
+  },
+  {
+    "text": "And that's why I\nwanted to study them.",
+    "start": 1170.28,
+    "duration": 1.68
+  },
+  {
+    "text": "I was like, great, I found\nthe dark side of capitalism.",
+    "start": 1171.96,
+    "duration": 4.14
+  },
+  {
+    "text": "I needed to find\none, and here we are.",
+    "start": 1176.1,
+    "duration": 2.85
+  },
+  {
+    "text": "Josh, you are sacrificing,\nas one of them said,",
+    "start": 1178.95,
+    "duration": 3.46
+  },
+  {
+    "text": "you're sacrificing Etsy's\nsole at the altar of profit.",
+    "start": 1182.41,
+    "duration": 4.61
+  },
+  {
+    "text": "BRIAN KENNY: Wow.",
+    "start": 1187.02,
+    "duration": 1.02
+  },
+  {
+    "text": "That's heavy.",
+    "start": 1188.04,
+    "duration": 1.21
+  },
+  {
+    "text": "All right, well, fast forward.",
+    "start": 1189.25,
+    "duration": 1.25
+  },
+  {
+    "text": "Tell us what happens here.",
+    "start": 1190.5,
+    "duration": 1.457
+  },
+  {
+    "text": "RANJAY GULATI: It's interesting.",
+    "start": 1191.957,
+    "duration": 1.333
+  },
+  {
+    "text": "Once they kind of stabilize\nthe company and the financials,",
+    "start": 1193.29,
+    "duration": 2.79
+  },
+  {
+    "text": "what next comes on is\nthat he has to now say,",
+    "start": 1196.08,
+    "duration": 3.54
+  },
+  {
+    "text": "I want to not lose\nsight of our soul.",
+    "start": 1199.62,
+    "duration": 2.307
+  },
+  {
+    "text": "So he says, we're going\nto do social impact,",
+    "start": 1201.927,
+    "duration": 1.833
+  },
+  {
+    "text": "but we're going to do\nmeasurable social impact.",
+    "start": 1203.76,
+    "duration": 2.29
+  },
+  {
+    "text": "And what are the three\nthings we're going to do?",
+    "start": 1206.05,
+    "duration": 2.0
+  },
+  {
+    "text": "So he maps out three things--",
+    "start": 1208.05,
+    "duration": 1.3
+  },
+  {
+    "text": "diversity.",
+    "start": 1209.35,
+    "duration": 0.723
+  },
+  {
+    "text": "And he says we're going\nto measure ourselves--",
+    "start": 1210.073,
+    "duration": 1.917
+  },
+  {
+    "text": "we're going to say 50%\nminorities in key positions",
+    "start": 1211.99,
+    "duration": 2.94
+  },
+  {
+    "text": "by 2023, commitment.",
+    "start": 1214.93,
+    "duration": 2.37
+  },
+  {
+    "text": "Environmental impact.",
+    "start": 1217.3,
+    "duration": 1.26
+  },
+  {
+    "text": "We're going to work on that.",
+    "start": 1218.56,
+    "duration": 1.5
+  },
+  {
+    "text": "And we're going to work\non seller economic impact.",
+    "start": 1220.06,
+    "duration": 3.39
+  },
+  {
+    "text": "He says we're going to publish\naudited reports of our progress",
+    "start": 1223.45,
+    "duration": 3.915
+  },
+  {
+    "text": "on these three.",
+    "start": 1227.365,
+    "duration": 0.625
+  },
+  {
+    "text": "So he wanted to convince\nthe employees in the company",
+    "start": 1227.99,
+    "duration": 2.72
+  },
+  {
+    "text": "that he wasn't forgetting\nthe soul of the company.",
+    "start": 1230.71,
+    "duration": 2.408
+  },
+  {
+    "text": "And the point he tries\nto convince them of,",
+    "start": 1233.118,
+    "duration": 1.792
+  },
+  {
+    "text": "which he does successfully,\nis we were not delivering even",
+    "start": 1234.91,
+    "duration": 3.48
+  },
+  {
+    "text": "on social impact, folks.",
+    "start": 1238.39,
+    "duration": 1.62
+  },
+  {
+    "text": "We were saying\nwe're doing social,",
+    "start": 1240.01,
+    "duration": 1.5
+  },
+  {
+    "text": "but we had no measurable\nway to do that.",
+    "start": 1241.51,
+    "duration": 2.86
+  },
+  {
+    "text": "And we're going to combine\nthat with economic impact.",
+    "start": 1244.37,
+    "duration": 2.6
+  },
+  {
+    "text": "Now, in this process of\ntransforming the business",
+    "start": 1246.97,
+    "duration": 3.0
+  },
+  {
+    "text": "and trying to\nconnect the two, he",
+    "start": 1249.97,
+    "duration": 2.19
+  },
+  {
+    "text": "says our mission, a\ncompany that is trying",
+    "start": 1252.16,
+    "duration": 2.52
+  },
+  {
+    "text": "to deliver on\neconomic and social,",
+    "start": 1254.68,
+    "duration": 1.68
+  },
+  {
+    "text": "needs to be able to connect the\ndots through a powerful purpose",
+    "start": 1256.36,
+    "duration": 4.77
+  },
+  {
+    "text": "statement.",
+    "start": 1261.13,
+    "duration": 0.72
+  },
+  {
+    "text": "And they had a complicated,\nlong mission statement.",
+    "start": 1261.85,
+    "duration": 2.32
+  },
+  {
+    "text": "So he puts a team\nin place that goes",
+    "start": 1264.17,
+    "duration": 1.67
+  },
+  {
+    "text": "and interviews people in\nthe company saying, what",
+    "start": 1265.84,
+    "duration": 2.37
+  },
+  {
+    "text": "is the mission of Etsy?",
+    "start": 1268.21,
+    "duration": 1.38
+  },
+  {
+    "text": "Old timers who are still there.",
+    "start": 1269.59,
+    "duration": 1.96
+  },
+  {
+    "text": "So he's trying to\ncrystallize everyone's",
+    "start": 1271.55,
+    "duration": 2.63
+  },
+  {
+    "text": "collective aspirations\ninto a few words.",
+    "start": 1274.18,
+    "duration": 3.0
+  },
+  {
+    "text": "That becomes his next\npiece of the puzzle.",
+    "start": 1277.18,
+    "duration": 2.37
+  },
+  {
+    "text": "And he's going to\nuse that statement",
+    "start": 1279.55,
+    "duration": 2.4
+  },
+  {
+    "text": "and the process of\ncreating it to then say,",
+    "start": 1281.95,
+    "duration": 2.67
+  },
+  {
+    "text": "now, let's connect the\ndots with our culture.",
+    "start": 1284.62,
+    "duration": 2.94
+  },
+  {
+    "text": "Let's connect it\nwith our metrics.",
+    "start": 1287.56,
+    "duration": 2.22
+  },
+  {
+    "text": "Let's connect it with\nour organization.",
+    "start": 1289.78,
+    "duration": 2.07
+  },
+  {
+    "text": "Let's connect it with our goals.",
+    "start": 1291.85,
+    "duration": 1.36
+  },
+  {
+    "text": "What are we going to get done?",
+    "start": 1293.21,
+    "duration": 1.25
+  },
+  {
+    "text": "And it's that transformation of\na revived Etsy that understands",
+    "start": 1294.46,
+    "duration": 4.86
+  },
+  {
+    "text": "its place in the world,\nmaking commerce human,",
+    "start": 1299.32,
+    "duration": 2.64
+  },
+  {
+    "text": "is using that to prioritize\nin a very disciplined way",
+    "start": 1301.96,
+    "duration": 3.66
+  },
+  {
+    "text": "its resource allocation\nso they can grow",
+    "start": 1305.62,
+    "duration": 2.7
+  },
+  {
+    "text": "the business profitably,\nat the same time delivering",
+    "start": 1308.32,
+    "duration": 3.24
+  },
+  {
+    "text": "measurable social impact.",
+    "start": 1311.56,
+    "duration": 2.045
+  },
+  {
+    "text": "BRIAN KENNY: I\nlove that mission,",
+    "start": 1313.605,
+    "duration": 1.375
+  },
+  {
+    "text": "by the way-- making\ncommerce human.",
+    "start": 1314.98,
+    "duration": 2.19
+  },
+  {
+    "text": "What I love about it is that\nit has immediate meaning,",
+    "start": 1317.17,
+    "duration": 3.09
+  },
+  {
+    "text": "but it's also something\neverybody in the organization",
+    "start": 1320.26,
+    "duration": 2.25
+  },
+  {
+    "text": "can remember, and\nrecite, and connect to.",
+    "start": 1322.51,
+    "duration": 3.75
+  },
+  {
+    "text": "And that is very rare,\nbecause a lot of firms",
+    "start": 1326.26,
+    "duration": 3.0
+  },
+  {
+    "text": "create mission statements\nthat are almost",
+    "start": 1329.26,
+    "duration": 2.4
+  },
+  {
+    "text": "untranslatable to most people.",
+    "start": 1331.66,
+    "duration": 2.04
+  },
+  {
+    "text": "Ranjay, this has been\na great conversation.",
+    "start": 1333.7,
+    "duration": 1.953
+  },
+  {
+    "text": "I've got time just for\na couple more questions",
+    "start": 1335.653,
+    "duration": 1.917
+  },
+  {
+    "text": "before I let you go.",
+    "start": 1337.57,
+    "duration": 1.08
+  },
+  {
+    "text": "The first would be if you sort\nof pull the lens back away",
+    "start": 1338.65,
+    "duration": 3.03
+  },
+  {
+    "text": "from Etsy and you look\nacross the broader landscape,",
+    "start": 1341.68,
+    "duration": 3.25
+  },
+  {
+    "text": "and thinking about\ndeep purpose, do you",
+    "start": 1344.93,
+    "duration": 2.57
+  },
+  {
+    "text": "feel like we are at a\nmoment of inflection",
+    "start": 1347.5,
+    "duration": 2.46
+  },
+  {
+    "text": "where business leaders broadly\nare starting to understand",
+    "start": 1349.96,
+    "duration": 4.41
+  },
+  {
+    "text": "that this is an important\npart of their role,",
+    "start": 1354.37,
+    "duration": 2.43
+  },
+  {
+    "text": "that they have to develop\nthis sense of purpose",
+    "start": 1356.8,
+    "duration": 3.04
+  },
+  {
+    "text": "if they really want to satisfy\nall the stakeholders that they",
+    "start": 1359.84,
+    "duration": 2.84
+  },
+  {
+    "text": "need to think about?",
+    "start": 1362.68,
+    "duration": 1.17
+  },
+  {
+    "text": "RANJAY GULATI: I think the\nproblem that has happened",
+    "start": 1363.85,
+    "duration": 2.167
+  },
+  {
+    "text": "is business leaders understand\neverybody knows that they have",
+    "start": 1366.017,
+    "duration": 2.633
+  },
+  {
+    "text": "to serve multiple stakeholders.",
+    "start": 1368.65,
+    "duration": 1.98
+  },
+  {
+    "text": "And purpose has become this\nkind of proxy for social stuff.",
+    "start": 1370.63,
+    "duration": 3.66
+  },
+  {
+    "text": "In fact, some people even define\npurpose as anything but profit.",
+    "start": 1374.29,
+    "duration": 2.94
+  },
+  {
+    "text": "So purpose becomes kind\nof like a hijacked word.",
+    "start": 1377.23,
+    "duration": 3.03
+  },
+  {
+    "text": "Is it shareholder value or\nis it stakeholder value?",
+    "start": 1380.26,
+    "duration": 2.73
+  },
+  {
+    "text": "And who do I have\nto give how much to?",
+    "start": 1382.99,
+    "duration": 1.68
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1384.67,
+    "duration": 0.75
+  },
+  {
+    "text": "RANJAY GULATI: And I\nthink that's confusing",
+    "start": 1385.42,
+    "duration": 1.792
+  },
+  {
+    "text": "because purpose, actually,\nI want to remind everybody,",
+    "start": 1387.212,
+    "duration": 2.348
+  },
+  {
+    "text": "is a generative force.",
+    "start": 1389.56,
+    "duration": 2.1
+  },
+  {
+    "text": "It's how to make the\nbusiness more productive.",
+    "start": 1391.66,
+    "duration": 3.24
+  },
+  {
+    "text": "What is lost sometimes in\nthis discussion of Etsy",
+    "start": 1394.9,
+    "duration": 3.75
+  },
+  {
+    "text": "is that the purpose\nallows Etsy employees",
+    "start": 1398.65,
+    "duration": 3.75
+  },
+  {
+    "text": "to behave and\noperate differently",
+    "start": 1402.4,
+    "duration": 2.7
+  },
+  {
+    "text": "when they come to work.",
+    "start": 1405.1,
+    "duration": 1.2
+  },
+  {
+    "text": "Pride elicits a greater\nengagement than anything",
+    "start": 1406.3,
+    "duration": 3.69
+  },
+  {
+    "text": "can get you.",
+    "start": 1409.99,
+    "duration": 1.17
+  },
+  {
+    "text": "Purpose has allowed Etsy to\nhave a greater strategy, what",
+    "start": 1411.16,
+    "duration": 3.918
+  },
+  {
+    "text": "I call directional.",
+    "start": 1415.078,
+    "duration": 0.792
+  },
+  {
+    "text": "So the first one\nis motivational--",
+    "start": 1415.87,
+    "duration": 1.86
+  },
+  {
+    "text": "a directional benefit,\nclarity of strategy,",
+    "start": 1417.73,
+    "duration": 2.4
+  },
+  {
+    "text": "being able to make\ninformed tradeoffs.",
+    "start": 1420.13,
+    "duration": 2.85
+  },
+  {
+    "text": "Purpose has actually had\nreputational benefits.",
+    "start": 1422.98,
+    "duration": 3.3
+  },
+  {
+    "text": "Your customers trust you more--\npurpose oriented branding.",
+    "start": 1426.28,
+    "duration": 3.9
+  },
+  {
+    "text": "And the last one is purpose\nis a relational construct.",
+    "start": 1430.18,
+    "duration": 3.63
+  },
+  {
+    "text": "It allows you to connect to\nyour ecosystem of suppliers,",
+    "start": 1433.81,
+    "duration": 3.31
+  },
+  {
+    "text": "partners, and others,\nbecause they also feel",
+    "start": 1437.12,
+    "duration": 2.69
+  },
+  {
+    "text": "you must be a good person--",
+    "start": 1439.81,
+    "duration": 2.22
+  },
+  {
+    "text": "virtuous.",
+    "start": 1442.03,
+    "duration": 1.02
+  },
+  {
+    "text": "Purpose has economic benefits.",
+    "start": 1443.05,
+    "duration": 2.23
+  },
+  {
+    "text": "It's not CSR.",
+    "start": 1445.28,
+    "duration": 1.65
+  },
+  {
+    "text": "It's not on the periphery.",
+    "start": 1446.93,
+    "duration": 1.35
+  },
+  {
+    "text": "And that's why my\nbook, again, is",
+    "start": 1448.28,
+    "duration": 1.643
+  },
+  {
+    "text": "called Deep Purpose,\nbecause I saw",
+    "start": 1449.923,
+    "duration": 1.417
+  },
+  {
+    "text": "many people getting\nconfused and practicing",
+    "start": 1451.34,
+    "duration": 1.83
+  },
+  {
+    "text": "what I call shallow purpose.",
+    "start": 1453.17,
+    "duration": 2.22
+  },
+  {
+    "text": "To me, that's the real\nstory-- that leaders",
+    "start": 1455.39,
+    "duration": 1.985
+  },
+  {
+    "text": "need to understand,\nyes, you need",
+    "start": 1457.375,
+    "duration": 1.375
+  },
+  {
+    "text": "to operate in a\nmulti-stakeholder world, what",
+    "start": 1458.75,
+    "duration": 2.46
+  },
+  {
+    "text": "is an easy way into this world?",
+    "start": 1461.21,
+    "duration": 2.97
+  },
+  {
+    "text": "And purpose gives you\na vehicle, a platform,",
+    "start": 1464.18,
+    "duration": 3.69
+  },
+  {
+    "text": "a tool that you can use to\nenergize your organization",
+    "start": 1467.87,
+    "duration": 3.81
+  },
+  {
+    "text": "while making a very\nkind of deliberate",
+    "start": 1471.68,
+    "duration": 2.76
+  },
+  {
+    "text": "way of tackling these\nvery complicated issues.",
+    "start": 1474.44,
+    "duration": 2.64
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1477.08,
+    "duration": 0.75
+  },
+  {
+    "text": "So my final question,\nyou may have just",
+    "start": 1477.83,
+    "duration": 1.86
+  },
+  {
+    "text": "answered it, because\nthat was a really",
+    "start": 1479.69,
+    "duration": 1.71
+  },
+  {
+    "text": "great, insightful statement.",
+    "start": 1481.4,
+    "duration": 1.36
+  },
+  {
+    "text": "But as our listeners are\ngetting ready to log off here,",
+    "start": 1482.76,
+    "duration": 2.69
+  },
+  {
+    "text": "what's one thing you want them\nto remember about the Etsy",
+    "start": 1485.45,
+    "duration": 2.94
+  },
+  {
+    "text": "case?",
+    "start": 1488.39,
+    "duration": 0.99
+  },
+  {
+    "text": "RANJAY GULATI: I think the one\nthing I want you to remember",
+    "start": 1489.38,
+    "duration": 2.458
+  },
+  {
+    "text": "is that I was really impressed\nwith how people at Etsy",
+    "start": 1491.838,
+    "duration": 3.572
+  },
+  {
+    "text": "talked about their work.",
+    "start": 1495.41,
+    "duration": 2.02
+  },
+  {
+    "text": "I think all of us should\nexpect more from work.",
+    "start": 1497.43,
+    "duration": 3.65
+  },
+  {
+    "text": "The great resignation\nreshuffle are showing us",
+    "start": 1501.08,
+    "duration": 2.49
+  },
+  {
+    "text": "that after COVID, most\nof us have confronted",
+    "start": 1503.57,
+    "duration": 2.86
+  },
+  {
+    "text": "tragedy, sickness, death.",
+    "start": 1506.43,
+    "duration": 3.12
+  },
+  {
+    "text": "And we all expect\nmore from work.",
+    "start": 1509.55,
+    "duration": 3.6
+  },
+  {
+    "text": "And for the longest time,\nwe have allowed work",
+    "start": 1513.15,
+    "duration": 2.25
+  },
+  {
+    "text": "to be a compartmentalized\npart of our existence.",
+    "start": 1515.4,
+    "duration": 2.49
+  },
+  {
+    "text": "My job-- that's what\nI do for a living.",
+    "start": 1517.89,
+    "duration": 3.31
+  },
+  {
+    "text": "I think we all are looking for\nmore coherence in our lives--",
+    "start": 1521.2,
+    "duration": 3.08
+  },
+  {
+    "text": "not just millennials.",
+    "start": 1524.28,
+    "duration": 0.96
+  },
+  {
+    "text": "People say, oh, the\nmillennials are looking for--",
+    "start": 1525.24,
+    "duration": 1.56
+  },
+  {
+    "text": "I think everybody is looking\nfor more coherence in the life.",
+    "start": 1526.8,
+    "duration": 2.76
+  },
+  {
+    "text": "That my work allows me to also\nexpress my own creativity,",
+    "start": 1529.56,
+    "duration": 5.52
+  },
+  {
+    "text": "the impact I want to\nhave on the world, what",
+    "start": 1535.08,
+    "duration": 2.55
+  },
+  {
+    "text": "is my legacy going to be.",
+    "start": 1537.63,
+    "duration": 1.98
+  },
+  {
+    "text": "When we allow people to do\nthat, they show up differently.",
+    "start": 1539.61,
+    "duration": 3.84
+  },
+  {
+    "text": "At Microsoft, the\nCHRO, Kathleen Hogan,",
+    "start": 1543.45,
+    "duration": 1.83
+  },
+  {
+    "text": "says I tell my employees, you\ndon't really work for Microsoft",
+    "start": 1545.28,
+    "duration": 3.48
+  },
+  {
+    "text": "until Microsoft works for you.",
+    "start": 1548.76,
+    "duration": 2.015
+  },
+  {
+    "text": "BRIAN KENNY: Ranjay\nGulati, thank",
+    "start": 1550.775,
+    "duration": 1.375
+  },
+  {
+    "text": "you so much for joining me.",
+    "start": 1552.15,
+    "duration": 1.125
+  },
+  {
+    "text": "RANJAY GULATI: Thank you so\nmuch, Brian, for having me",
+    "start": 1553.275,
+    "duration": 2.25
+  },
+  {
+    "text": "here.",
+    "start": 1555.525,
+    "duration": 0.685
+  },
+  {
+    "text": "BRIAN KENNY: We're excited to\nbe celebrating the 100 year",
+    "start": 1556.21,
+    "duration": 2.45
+  },
+  {
+    "text": "anniversary of the Case Method\nat Harvard Business School.",
+    "start": 1558.66,
+    "duration": 2.88
+  },
+  {
+    "text": "It's a year long\ncelebration alongside",
+    "start": 1561.54,
+    "duration": 2.31
+  },
+  {
+    "text": "our new academic year.",
+    "start": 1563.85,
+    "duration": 1.35
+  },
+  {
+    "text": "If you want more on the\nhistory of the Case Method,",
+    "start": 1565.2,
+    "duration": 2.34
+  },
+  {
+    "text": "visit our website,\nHBS.edu/casemethod100.",
+    "start": 1567.54,
+    "duration": 5.22
+  },
+  {
+    "text": "Cold Call is a great way to\nget a taste of the Case Method.",
+    "start": 1572.76,
+    "duration": 3.0
+  },
+  {
+    "text": "After all, each episode features\na business case and its faculty",
+    "start": 1575.76,
+    "duration": 3.36
+  },
+  {
+    "text": "author.",
+    "start": 1579.12,
+    "duration": 0.6
+  },
+  {
+    "text": "You might also like\nour other podcasts--",
+    "start": 1579.72,
+    "duration": 2.22
+  },
+  {
+    "text": "After Hours, Climate\nRising, Skydeck,",
+    "start": 1581.94,
+    "duration": 2.82
+  },
+  {
+    "text": "and Managing the Future of Work.",
+    "start": 1584.76,
+    "duration": 1.77
+  },
+  {
+    "text": "Find them on Apple Podcasts\nor wherever you listen.",
+    "start": 1586.53,
+    "duration": 3.0
+  },
+  {
+    "text": "If you enjoy Cold Call or\nif you have any suggestions,",
+    "start": 1589.53,
+    "duration": 2.61
+  },
+  {
+    "text": "we want to hear from you.",
+    "start": 1592.14,
+    "duration": 1.05
+  },
+  {
+    "text": "Write a review on Apple\nPodcasts or wherever you listen.",
+    "start": 1593.19,
+    "duration": 3.03
+  },
+  {
+    "text": "Or email us at coldcall@HBS.edu.",
+    "start": 1596.22,
+    "duration": 4.35
+  },
+  {
+    "text": "Thanks again for joining us.",
+    "start": 1600.57,
+    "duration": 1.71
+  },
+  {
+    "text": "I'm your host, Brian Kenny.",
+    "start": 1602.28,
+    "duration": 1.35
+  },
+  {
+    "text": "And you've been listening to\nCold Call, an official podcast",
+    "start": 1603.63,
+    "duration": 3.24
+  },
+  {
+    "text": "of Harvard Business School\nbrought to you by the HBR",
+    "start": 1606.87,
+    "duration": 2.64
+  },
+  {
+    "text": "Presents network.",
+    "start": 1609.51,
+    "duration": 2.03
+  }
+]

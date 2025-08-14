@@ -1,0 +1,547 @@
+[
+  {
+    "text": "As a teenager,",
+    "start": 4.201,
+    "duration": 1.502
+  },
+  {
+    "text": "I was fascinated with the wizarding world.",
+    "start": 5.736,
+    "duration": 2.67
+  },
+  {
+    "text": "I wanted to be like Hermione Granger.",
+    "start": 8.906,
+    "duration": 3.203
+  },
+  {
+    "text": "I wanted to be a powerful\nwitch with a wand.",
+    "start": 12.443,
+    "duration": 4.404
+  },
+  {
+    "text": "Out of all the spells,\nI really liked \"Accio.\"",
+    "start": 18.416,
+    "duration": 3.403
+  },
+  {
+    "text": "I could say \"Accio\" and name anything\nand it would fly into my hands,",
+    "start": 22.186,
+    "duration": 5.105
+  },
+  {
+    "text": "even if it's a restricted book,",
+    "start": 27.324,
+    "duration": 2.536
+  },
+  {
+    "text": "locked and hidden\ninside the headmaster's office.",
+    "start": 29.894,
+    "duration": 4.104
+  },
+  {
+    "text": "But as you might have noticed,\nI did not get into Hogwarts.",
+    "start": 35.733,
+    "duration": 3.47
+  },
+  {
+    "text": "So I came to my backup school, MIT.",
+    "start": 40.604,
+    "duration": 3.838
+  },
+  {
+    "text": "(Laughter)",
+    "start": 44.475,
+    "duration": 1.969
+  },
+  {
+    "text": "And I made my own magic.",
+    "start": 47.778,
+    "duration": 2.403
+  },
+  {
+    "text": "I can now --",
+    "start": 51.382,
+    "duration": 1.668
+  },
+  {
+    "text": "I can have the spells now",
+    "start": 53.084,
+    "duration": 1.701
+  },
+  {
+    "text": "that are even more powerful\nthan Hermione's,",
+    "start": 54.819,
+    "duration": 2.869
+  },
+  {
+    "text": "because I don't need a wand.",
+    "start": 57.721,
+    "duration": 1.736
+  },
+  {
+    "text": "I can see the invisible.",
+    "start": 61.092,
+    "duration": 2.369
+  },
+  {
+    "text": "Let me show you my first spell.",
+    "start": 65.062,
+    "duration": 1.802
+  },
+  {
+    "text": "For example, I want to find\nmy black shirt in my closet that I lost.",
+    "start": 67.731,
+    "duration": 4.972
+  },
+  {
+    "text": "I put on my AR headset and I say \"Accio.\"",
+    "start": 72.736,
+    "duration": 3.604
+  },
+  {
+    "text": "Within a matter of seconds,\nmy shirt will light up.",
+    "start": 80.344,
+    "duration": 3.604
+  },
+  {
+    "text": "Like I said, I can see the invisible.",
+    "start": 87.051,
+    "duration": 2.869
+  },
+  {
+    "text": "(Applause)",
+    "start": 92.423,
+    "duration": 4.538
+  },
+  {
+    "text": "So how does this spell work?",
+    "start": 99.196,
+    "duration": 1.936
+  },
+  {
+    "text": "How did I make an AR headset",
+    "start": 101.132,
+    "duration": 2.068
+  },
+  {
+    "text": "able to see what my own eyes cannot see?",
+    "start": 103.234,
+    "duration": 3.069
+  },
+  {
+    "text": "My trick is to use wireless signals\nlike Bluetooth and Wi-Fi.",
+    "start": 107.838,
+    "duration": 5.239
+  },
+  {
+    "text": "These signals are great.",
+    "start": 114.011,
+    "duration": 1.468
+  },
+  {
+    "text": "This is exactly why you can get\nWi-Fi from another room.",
+    "start": 115.479,
+    "duration": 3.937
+  },
+  {
+    "text": "So these signals are sent by this headset.",
+    "start": 120.518,
+    "duration": 3.069
+  },
+  {
+    "text": "They are scattered in the environment.",
+    "start": 123.587,
+    "duration": 2.002
+  },
+  {
+    "text": "They go through boxes",
+    "start": 125.623,
+    "duration": 1.568
+  },
+  {
+    "text": "and then are reflected back",
+    "start": 127.191,
+    "duration": 3.47
+  },
+  {
+    "text": "from all of these hidden objects,\nincluding my shirt.",
+    "start": 130.661,
+    "duration": 2.736
+  },
+  {
+    "text": "We then design algorithms",
+    "start": 134.932,
+    "duration": 1.668
+  },
+  {
+    "text": "that use these reflected signals\nto find these objects.",
+    "start": 136.634,
+    "duration": 3.67
+  },
+  {
+    "text": "Let me show you how these algorithms work.",
+    "start": 140.838,
+    "duration": 2.202
+  },
+  {
+    "text": "First, the headset tries\nto understand its environment",
+    "start": 144.675,
+    "duration": 3.437
+  },
+  {
+    "text": "by creating a virtual 3D map.",
+    "start": 148.112,
+    "duration": 2.335
+  },
+  {
+    "text": "And then as I walk in the environment,",
+    "start": 151.348,
+    "duration": 1.936
+  },
+  {
+    "text": "it keeps sending these wireless signals,",
+    "start": 153.317,
+    "duration": 2.536
+  },
+  {
+    "text": "tries to collect all of the reflections,",
+    "start": 155.853,
+    "duration": 2.803
+  },
+  {
+    "text": "and then combines them\nto collect this information,",
+    "start": 158.656,
+    "duration": 5.105
+  },
+  {
+    "text": "and then tries to locate the object\nthat I was looking for.",
+    "start": 163.761,
+    "duration": 3.136
+  },
+  {
+    "text": "Then after some time,",
+    "start": 166.931,
+    "duration": 1.234
+  },
+  {
+    "text": "it becomes confident\nabout it and then tells me,",
+    "start": 168.199,
+    "duration": 3.269
+  },
+  {
+    "text": "\"Here it is.\"",
+    "start": 171.468,
+    "duration": 1.168
+  },
+  {
+    "text": "This is the glow,",
+    "start": 172.67,
+    "duration": 1.568
+  },
+  {
+    "text": "which is where the object I want is,",
+    "start": 174.271,
+    "duration": 2.069
+  },
+  {
+    "text": "and I can go and grab it.",
+    "start": 176.373,
+    "duration": 1.502
+  },
+  {
+    "text": "Besides helping me\nhaving these magical powers,",
+    "start": 179.476,
+    "duration": 3.738
+  },
+  {
+    "text": "it has a lot of industrial applications.",
+    "start": 183.247,
+    "duration": 3.971
+  },
+  {
+    "text": "For example, in a warehouse,",
+    "start": 187.251,
+    "duration": 3.07
+  },
+  {
+    "text": "it can help warehouse workers\nto find packages,",
+    "start": 190.321,
+    "duration": 3.77
+  },
+  {
+    "text": "and then it can guide them through\nthe warehouse to find these packages.",
+    "start": 194.091,
+    "duration": 3.737
+  },
+  {
+    "text": "In a retail store,",
+    "start": 199.73,
+    "duration": 1.335
+  },
+  {
+    "text": "it can help the store associates\nto pack customer's orders",
+    "start": 201.065,
+    "duration": 4.271
+  },
+  {
+    "text": "and find misplaced items.",
+    "start": 205.369,
+    "duration": 1.735
+  },
+  {
+    "text": "It also has a lot of other applications\nin logistics and manufacturing.",
+    "start": 208.372,
+    "duration": 4.504
+  },
+  {
+    "text": "So having X-ray vision is very cool.",
+    "start": 215.346,
+    "duration": 2.569
+  },
+  {
+    "text": "It's better than what Hermione had.",
+    "start": 217.948,
+    "duration": 2.336
+  },
+  {
+    "text": "But sometimes I'm just so lazy,",
+    "start": 220.584,
+    "duration": 2.102
+  },
+  {
+    "text": "I don't want to go ahead\nand put my headset on",
+    "start": 222.72,
+    "duration": 3.069
+  },
+  {
+    "text": "and then say \"Accio\" and then go\nand find my key,",
+    "start": 225.789,
+    "duration": 4.405
+  },
+  {
+    "text": "grab it under the pile.",
+    "start": 230.227,
+    "duration": 1.235
+  },
+  {
+    "text": "So I was thinking, what if I had\na robot that knew my spell?",
+    "start": 231.495,
+    "duration": 4.138
+  },
+  {
+    "text": "So I taught my spells to a robot.",
+    "start": 236.533,
+    "duration": 2.803
+  },
+  {
+    "text": "My robot can find my keys\nand bring them to me.",
+    "start": 240.771,
+    "duration": 3.003
+  },
+  {
+    "text": "Let me show it to you.",
+    "start": 244.408,
+    "duration": 1.201
+  },
+  {
+    "text": "For example, here,",
+    "start": 245.643,
+    "duration": 1.534
+  },
+  {
+    "text": "my keychain is hidden\nunder the pile in the basket.",
+    "start": 247.177,
+    "duration": 3.204
+  },
+  {
+    "text": "My robot is able to search\nthe environment",
+    "start": 251.548,
+    "duration": 4.004
+  },
+  {
+    "text": "and locate my keys\nwith centimeter-level accuracy,",
+    "start": 255.552,
+    "duration": 3.337
+  },
+  {
+    "text": "purposefully declutter the environment\nand then grab the keys",
+    "start": 258.889,
+    "duration": 4.238
+  },
+  {
+    "text": "and bring them to me.",
+    "start": 263.16,
+    "duration": 1.401
+  },
+  {
+    "text": "So how do we do this?",
+    "start": 266.063,
+    "duration": 1.568
+  },
+  {
+    "text": "We built a specialized gripper\ninstead of a wand.",
+    "start": 269.5,
+    "duration": 3.67
+  },
+  {
+    "text": "So it has a camera and a wireless sensor,",
+    "start": 274.772,
+    "duration": 4.337
+  },
+  {
+    "text": "which sends similar signals\nlike the headset that I just talked about.",
+    "start": 279.143,
+    "duration": 4.571
+  },
+  {
+    "text": "So this is great, now this gripper\ncan locate the keys.",
+    "start": 284.815,
+    "duration": 4.671
+  },
+  {
+    "text": "But there's one challenge.",
+    "start": 290.254,
+    "duration": 1.835
+  },
+  {
+    "text": "What if I put my robot\nin a completely new environment?",
+    "start": 292.122,
+    "duration": 3.704
+  },
+  {
+    "text": "For example, put it in the living room\nand ask it to find a remote control.",
+    "start": 296.226,
+    "duration": 4.939
+  },
+  {
+    "text": "How does this robot adapt itself\nto a completely new environment",
+    "start": 302.566,
+    "duration": 4.338
+  },
+  {
+    "text": "and a completely new object?",
+    "start": 306.937,
+    "duration": 1.702
+  },
+  {
+    "text": "If the robot does exactly\nthe same steps as before,",
+    "start": 309.239,
+    "duration": 3.537
+  },
+  {
+    "text": "then it can only find a key in a basket.",
+    "start": 312.81,
+    "duration": 3.67
+  },
+  {
+    "text": "We designed an AI algorithm",
+    "start": 319.183,
+    "duration": 2.035
+  },
+  {
+    "text": "specifically to help this robot to adapt\nitself to a completely new environment",
+    "start": 321.218,
+    "duration": 5.139
+  },
+  {
+    "text": "and find objects it has never seen before.",
+    "start": 326.39,
+    "duration": 2.636
+  },
+  {
+    "text": "For example, here it's trying to find\na remote control on a couch",
+    "start": 330.594,
+    "duration": 4.171
+  },
+  {
+    "text": "in a living room it has never seen before.",
+    "start": 334.798,
+    "duration": 2.136
+  },
+  {
+    "text": "It's able to find it\nand then bring it to me,",
+    "start": 336.967,
+    "duration": 3.203
+  },
+  {
+    "text": "and I can go and grab this remote control\nand then watch my favorite show.",
+    "start": 340.204,
+    "duration": 5.605
+  },
+  {
+    "text": "Magical X-ray vision can change the way\nwe think about our environment",
+    "start": 350.381,
+    "duration": 4.904
+  },
+  {
+    "text": "and the way we interact\nwith our environment.",
+    "start": 355.285,
+    "duration": 2.536
+  },
+  {
+    "text": "It opens up new possibilities\nthat we never thought are possible.",
+    "start": 358.222,
+    "duration": 4.271
+  },
+  {
+    "text": "For example, it can help our future\nrobots in our homes to help us.",
+    "start": 363.16,
+    "duration": 5.672
+  },
+  {
+    "text": "It can also help us interact\nwith our future smart homes",
+    "start": 369.233,
+    "duration": 3.036
+  },
+  {
+    "text": "in ways we never imagined before.",
+    "start": 372.302,
+    "duration": 2.57
+  },
+  {
+    "text": "But the application that I'm\npersonally very excited about",
+    "start": 375.873,
+    "duration": 4.504
+  },
+  {
+    "text": "is helping our first responders",
+    "start": 380.411,
+    "duration": 2.168
+  },
+  {
+    "text": "to find and track humans\nin conditions with low visibility.",
+    "start": 382.579,
+    "duration": 4.338
+  },
+  {
+    "text": "Or helping humans under the rubble\nafter disaster hits.",
+    "start": 387.451,
+    "duration": 5.238
+  },
+  {
+    "text": "And as the cherry on top,",
+    "start": 393.924,
+    "duration": 1.735
+  },
+  {
+    "text": "it can help those of us\nwho did not get into Hogwarts",
+    "start": 395.692,
+    "duration": 3.504
+  },
+  {
+    "text": "to get one step closer\nto the wizarding world.",
+    "start": 399.229,
+    "duration": 2.87
+  },
+  {
+    "text": "Thank you.",
+    "start": 402.499,
+    "duration": 1.201
+  },
+  {
+    "text": "(Applause)",
+    "start": 403.7,
+    "duration": 2.803
+  }
+]

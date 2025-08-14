@@ -1,0 +1,402 @@
+[
+  {
+    "text": "Physicists,",
+    "start": 7.261,
+    "duration": 0.87
+  },
+  {
+    "text": "air traffic controllers,",
+    "start": 8.131,
+    "duration": 1.431
+  },
+  {
+    "text": "and video game creators",
+    "start": 9.562,
+    "duration": 1.66
+  },
+  {
+    "text": "all have at least one thing in common:",
+    "start": 11.222,
+    "duration": 3.239
+  },
+  {
+    "text": "vectors.",
+    "start": 14.461,
+    "duration": 1.291
+  },
+  {
+    "text": "What exactly are they,\nand why do they matter?",
+    "start": 15.752,
+    "duration": 3.34
+  },
+  {
+    "text": "To answer,\nwe first need to understand scalars.",
+    "start": 19.092,
+    "duration": 4.181
+  },
+  {
+    "text": "A scalar is a quantity with magnitude.",
+    "start": 23.273,
+    "duration": 2.888
+  },
+  {
+    "text": "It tells us how much \nof something there is.",
+    "start": 26.161,
+    "duration": 3.051
+  },
+  {
+    "text": "The distance between you and a bench,",
+    "start": 29.212,
+    "duration": 2.18
+  },
+  {
+    "text": "and the volume and temperature\nof the beverage in your cup",
+    "start": 31.392,
+    "duration": 3.33
+  },
+  {
+    "text": "are all described by scalars.",
+    "start": 34.722,
+    "duration": 2.92
+  },
+  {
+    "text": "Vector quantities also have a magnitude\nplus an extra piece of information,",
+    "start": 37.642,
+    "duration": 5.341
+  },
+  {
+    "text": "direction.",
+    "start": 42.983,
+    "duration": 1.476
+  },
+  {
+    "text": "To navigate to your bench,",
+    "start": 44.459,
+    "duration": 1.513
+  },
+  {
+    "text": "you need to know how far away it is\nand in what direction,",
+    "start": 45.972,
+    "duration": 3.981
+  },
+  {
+    "text": "not just the distance,\nbut the displacement.",
+    "start": 49.953,
+    "duration": 3.21
+  },
+  {
+    "text": "What makes vectors special\nand useful in all sorts of fields",
+    "start": 53.163,
+    "duration": 3.69
+  },
+  {
+    "text": "is that they don't change \nbased on perspective",
+    "start": 56.853,
+    "duration": 2.999
+  },
+  {
+    "text": "but remain invariant \nto the coordinate system.",
+    "start": 59.852,
+    "duration": 3.49
+  },
+  {
+    "text": "What does that mean?",
+    "start": 63.342,
+    "duration": 1.421
+  },
+  {
+    "text": "Let's say you and a friend \nare moving your tent.",
+    "start": 64.763,
+    "duration": 2.772
+  },
+  {
+    "text": "You stand on opposite sides\nso you're facing in opposite directions.",
+    "start": 67.535,
+    "duration": 4.099
+  },
+  {
+    "text": "Your friend moves two steps to the right\nand three steps forward",
+    "start": 71.634,
+    "duration": 4.211
+  },
+  {
+    "text": "while you move two steps to the left\nand three steps back.",
+    "start": 75.845,
+    "duration": 3.609
+  },
+  {
+    "text": "But even though it seems \nlike you're moving differently,",
+    "start": 79.454,
+    "duration": 2.769
+  },
+  {
+    "text": "you both end up moving \nthe same distance in the same direction",
+    "start": 82.223,
+    "duration": 3.562
+  },
+  {
+    "text": "following the same vector.",
+    "start": 85.785,
+    "duration": 2.629
+  },
+  {
+    "text": "No matter which way you face,",
+    "start": 88.414,
+    "duration": 1.88
+  },
+  {
+    "text": "or what coordinate system you place\nover the camp ground,",
+    "start": 90.294,
+    "duration": 2.99
+  },
+  {
+    "text": "the vector doesn't change.",
+    "start": 93.284,
+    "duration": 2.351
+  },
+  {
+    "text": "Let's use the familiar \nCartesian coordinate system",
+    "start": 95.635,
+    "duration": 2.533
+  },
+  {
+    "text": "with its x and y axes.",
+    "start": 98.168,
+    "duration": 2.606
+  },
+  {
+    "text": "We call these two directions\nour coordinate basis",
+    "start": 100.774,
+    "duration": 3.02
+  },
+  {
+    "text": "because they're used to describe \neverything we graph.",
+    "start": 103.794,
+    "duration": 3.18
+  },
+  {
+    "text": "Let's say the tent starts at the origin\nand ends up over here at point B.",
+    "start": 106.974,
+    "duration": 4.791
+  },
+  {
+    "text": "The straight arrow connecting\nthe two points",
+    "start": 111.765,
+    "duration": 2.24
+  },
+  {
+    "text": "is the vector from the origin to B.",
+    "start": 114.005,
+    "duration": 2.989
+  },
+  {
+    "text": "When your friend thinks about\nwhere he has to move,",
+    "start": 116.994,
+    "duration": 2.512
+  },
+  {
+    "text": "it can be written mathematically\nas 2x + 3y,",
+    "start": 119.506,
+    "duration": 4.341
+  },
+  {
+    "text": "or, like this, which is called an array.",
+    "start": 123.847,
+    "duration": 3.366
+  },
+  {
+    "text": "Since you're facing the other way,",
+    "start": 127.213,
+    "duration": 1.643
+  },
+  {
+    "text": "your coordinate basis\npoints in opposite directions,",
+    "start": 128.856,
+    "duration": 3.62
+  },
+  {
+    "text": "which we can call x prime\nand y prime,",
+    "start": 132.476,
+    "duration": 2.895
+  },
+  {
+    "text": "and your movement \ncan be written like this,",
+    "start": 135.371,
+    "duration": 3.604
+  },
+  {
+    "text": "or with this array.",
+    "start": 138.975,
+    "duration": 2.75
+  },
+  {
+    "text": "If we look at the two arrays,\nthey're clearly not the same,",
+    "start": 141.725,
+    "duration": 3.425
+  },
+  {
+    "text": "but an array alone doesn't completely\ndescribe a vector.",
+    "start": 145.15,
+    "duration": 4.485
+  },
+  {
+    "text": "Each needs a basis to give it context,",
+    "start": 149.635,
+    "duration": 3.011
+  },
+  {
+    "text": "and when we properly assign them,",
+    "start": 152.646,
+    "duration": 1.751
+  },
+  {
+    "text": "we see that they are in fact\ndescribing the same vector.",
+    "start": 154.397,
+    "duration": 4.068
+  },
+  {
+    "text": "You can think of elements in the array\nas individual letters.",
+    "start": 158.465,
+    "duration": 3.191
+  },
+  {
+    "text": "Just as a sequence of letters\nonly becomes a word",
+    "start": 161.656,
+    "duration": 3.059
+  },
+  {
+    "text": "in the context of a particular language,",
+    "start": 164.715,
+    "duration": 2.88
+  },
+  {
+    "text": "an array acquires meaning as a vector\nwhen assigned a coordinate basis.",
+    "start": 167.595,
+    "duration": 5.371
+  },
+  {
+    "text": "And just as different words\nin two languages can convey the same idea,",
+    "start": 172.966,
+    "duration": 4.28
+  },
+  {
+    "text": "different representations from two bases\ncan describe the same vector.",
+    "start": 177.246,
+    "duration": 4.539
+  },
+  {
+    "text": "The vector is the essence \nof what's being communicated,",
+    "start": 181.785,
+    "duration": 3.541
+  },
+  {
+    "text": "regardless of the language \nused to describe it.",
+    "start": 185.326,
+    "duration": 2.85
+  },
+  {
+    "text": "It turns out that scalars also share\nthis coordinate invariance property.",
+    "start": 188.176,
+    "duration": 4.352
+  },
+  {
+    "text": "In fact, all quantities with this property\nare members of a group called tensors.",
+    "start": 192.528,
+    "duration": 5.52
+  },
+  {
+    "text": "Various types of tensors contain different\namounts of information.",
+    "start": 198.048,
+    "duration": 4.589
+  },
+  {
+    "text": "Does that mean there's something that\ncan convey more information than vectors?",
+    "start": 202.637,
+    "duration": 4.022
+  },
+  {
+    "text": "Absolutely.",
+    "start": 206.659,
+    "duration": 1.608
+  },
+  {
+    "text": "Say you're designing a video game,",
+    "start": 208.267,
+    "duration": 1.63
+  },
+  {
+    "text": "and you want to realistically model\nhow water behaves.",
+    "start": 209.897,
+    "duration": 3.751
+  },
+  {
+    "text": "Even if you have forces acting\nin the same direction",
+    "start": 213.648,
+    "duration": 2.91
+  },
+  {
+    "text": "with the same magnitude,",
+    "start": 216.558,
+    "duration": 1.629
+  },
+  {
+    "text": "depending on how they're oriented,\nyou might see waves or whirls.",
+    "start": 218.187,
+    "duration": 4.721
+  },
+  {
+    "text": "When force, a vector, is combined with\nanother vector that provides orientation,",
+    "start": 222.908,
+    "duration": 4.812
+  },
+  {
+    "text": "we have the physical quantity\ncalled stress,",
+    "start": 227.72,
+    "duration": 3.197
+  },
+  {
+    "text": "which is an example \nof a second order tensor.",
+    "start": 230.917,
+    "duration": 3.562
+  },
+  {
+    "text": "These tensors are also used outside of\nvideo games for all sorts of purposes,",
+    "start": 234.479,
+    "duration": 5.25
+  },
+  {
+    "text": "including scientific simulations,",
+    "start": 239.729,
+    "duration": 1.769
+  },
+  {
+    "text": "car designs,",
+    "start": 241.498,
+    "duration": 1.32
+  },
+  {
+    "text": "and brain imaging.",
+    "start": 242.818,
+    "duration": 1.67
+  },
+  {
+    "text": "Scalars, vectors, and the tensor family\npresent us with a relatively simple way",
+    "start": 244.488,
+    "duration": 4.661
+  },
+  {
+    "text": "of making sense of complex ideas\nand interactions,",
+    "start": 249.149,
+    "duration": 3.688
+  },
+  {
+    "text": "and as such, they're a prime example of\nthe elegance, beauty,",
+    "start": 252.837,
+    "duration": 4.031
+  },
+  {
+    "text": "and fundamental usefulness of mathematics.",
+    "start": 256.868,
+    "duration": 3.143
+  }
+]

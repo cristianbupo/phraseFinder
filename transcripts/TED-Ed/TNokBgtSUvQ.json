@@ -1,0 +1,377 @@
+[
+  {
+    "text": "You’re cruising down the highway \nwhen all of a sudden",
+    "start": 6.897,
+    "duration": 2.53
+  },
+  {
+    "text": "endless rows of brake lights appear ahead.",
+    "start": 9.427,
+    "duration": 2.92
+  },
+  {
+    "text": "There’s no accident, no stoplight,",
+    "start": 12.347,
+    "duration": 2.24
+  },
+  {
+    "text": "no change in speed limit \nor narrowing of the road.",
+    "start": 14.587,
+    "duration": 2.936
+  },
+  {
+    "text": "So why the @#$%! is there \nso much traffic?",
+    "start": 17.523,
+    "duration": 3.484
+  },
+  {
+    "text": "When traffic comes to a near standstill \nfor no apparent reason,",
+    "start": 21.007,
+    "duration": 3.58
+  },
+  {
+    "text": "it’s called a phantom traffic jam.",
+    "start": 24.587,
+    "duration": 2.93
+  },
+  {
+    "text": "A phantom traffic jam \nis an emergent phenomenon",
+    "start": 27.517,
+    "duration": 2.9
+  },
+  {
+    "text": "whose behavior takes on a life of its own,\ngreater than the sum of its parts.",
+    "start": 30.417,
+    "duration": 4.6
+  },
+  {
+    "text": "But in spite of this, \nwe can actually model these jams,",
+    "start": 35.017,
+    "duration": 3.63
+  },
+  {
+    "text": "even understand the principles \nthat shape them—",
+    "start": 38.647,
+    "duration": 2.59
+  },
+  {
+    "text": "and we’re closer than you might think",
+    "start": 41.237,
+    "duration": 1.8
+  },
+  {
+    "text": "to preventing this kind of traffic\nin the future.",
+    "start": 43.037,
+    "duration": 3.16
+  },
+  {
+    "text": "For a phantom traffic jam to form, \nthere must be a lot of cars on the road.",
+    "start": 46.197,
+    "duration": 4.893
+  },
+  {
+    "text": "That doesn’t mean \nthere are necessarily too many cars",
+    "start": 51.09,
+    "duration": 3.12
+  },
+  {
+    "text": "to pass through a stretch \nof roadway smoothly,",
+    "start": 54.21,
+    "duration": 2.33
+  },
+  {
+    "text": "at least not if every driver maintains \nthe same consistent speed and spacing",
+    "start": 56.54,
+    "duration": 4.583
+  },
+  {
+    "text": "from other drivers.",
+    "start": 61.123,
+    "duration": 1.44
+  },
+  {
+    "text": "In this dense, but flowing, traffic,",
+    "start": 62.563,
+    "duration": 2.42
+  },
+  {
+    "text": "it only takes a minor disturbance \nto set off the chain of events",
+    "start": 64.983,
+    "duration": 4.428
+  },
+  {
+    "text": "that causes a traffic jam.",
+    "start": 69.411,
+    "duration": 2.23
+  },
+  {
+    "text": "Say one driver brakes slightly.",
+    "start": 71.641,
+    "duration": 2.44
+  },
+  {
+    "text": "Each successive driver then brakes \na little more strongly,",
+    "start": 74.081,
+    "duration": 4.324
+  },
+  {
+    "text": "creating a wave of brake lights \nthat propagates backward",
+    "start": 78.405,
+    "duration": 3.44
+  },
+  {
+    "text": "through the cars on the road.",
+    "start": 81.845,
+    "duration": 1.68
+  },
+  {
+    "text": "These stop-and-go waves \ncan travel along a highway for miles.",
+    "start": 83.525,
+    "duration": 4.989
+  },
+  {
+    "text": "With a low density of cars on the road,",
+    "start": 88.514,
+    "duration": 2.537
+  },
+  {
+    "text": "traffic flows smoothly \nbecause small disturbances,",
+    "start": 91.051,
+    "duration": 3.028
+  },
+  {
+    "text": "like individual cars changing lanes \nor slowing down at a curve,",
+    "start": 94.079,
+    "duration": 4.372
+  },
+  {
+    "text": "are absorbed by other \ndrivers’ adjustments.",
+    "start": 98.451,
+    "duration": 2.82
+  },
+  {
+    "text": "But once the number of cars \non the road exceeds a critical density,",
+    "start": 101.271,
+    "duration": 4.332
+  },
+  {
+    "text": "generally when cars are spaced \nless than 35 meters apart,",
+    "start": 105.603,
+    "duration": 4.425
+  },
+  {
+    "text": "the system’s behavior \nchanges dramatically.",
+    "start": 110.028,
+    "duration": 3.29
+  },
+  {
+    "text": "It begins to display dynamic instability, \nmeaning small disturbances are amplified.",
+    "start": 113.318,
+    "duration": 6.343
+  },
+  {
+    "text": "Dynamic instability isn’t unique \nto phantom traffic jams—",
+    "start": 119.661,
+    "duration": 4.0
+  },
+  {
+    "text": "it’s also responsible for raindrops, \nsand dunes, cloud patterns, and more.",
+    "start": 123.661,
+    "duration": 6.385
+  },
+  {
+    "text": "The instability is \na positive feedback loop.",
+    "start": 130.046,
+    "duration": 3.28
+  },
+  {
+    "text": "Above the critical density,",
+    "start": 133.326,
+    "duration": 1.69
+  },
+  {
+    "text": "any additional vehicle reduces \nthe number of cars per second",
+    "start": 135.016,
+    "duration": 4.363
+  },
+  {
+    "text": "passing through a given point on the road.",
+    "start": 139.379,
+    "duration": 2.78
+  },
+  {
+    "text": "This in turn means it takes longer \nfor a local pileup",
+    "start": 142.159,
+    "duration": 4.052
+  },
+  {
+    "text": "to move out of a section of the road, \nincreasing vehicle density even more,",
+    "start": 146.211,
+    "duration": 4.868
+  },
+  {
+    "text": "which eventually adds up \nto stop-and-go traffic.",
+    "start": 151.079,
+    "duration": 4.108
+  },
+  {
+    "text": "Drivers tend not to realize they need \nto break far in advance of a traffic jam,",
+    "start": 155.187,
+    "duration": 5.059
+  },
+  {
+    "text": "which means they end up having \nto brake harder to avoid a collision.",
+    "start": 160.246,
+    "duration": 4.186
+  },
+  {
+    "text": "This strengthens the wave of braking \nfrom vehicle to vehicle.",
+    "start": 164.432,
+    "duration": 4.263
+  },
+  {
+    "text": "What’s more, drivers tend to accelerate\ntoo rapidly out of a slowdown,",
+    "start": 168.695,
+    "duration": 4.676
+  },
+  {
+    "text": "meaning they try to drive faster",
+    "start": 173.371,
+    "duration": 1.7
+  },
+  {
+    "text": "than the average flow of traffic \ndownstream of them.",
+    "start": 175.071,
+    "duration": 3.12
+  },
+  {
+    "text": "Then, they have to brake again, \neventually producing another feedback loop",
+    "start": 178.191,
+    "duration": 4.522
+  },
+  {
+    "text": "that causes more stop-and-go traffic.",
+    "start": 182.713,
+    "duration": 3.1
+  },
+  {
+    "text": "In both cases, drivers make traffic worse",
+    "start": 185.813,
+    "duration": 3.41
+  },
+  {
+    "text": "simply because they don’t have a good\nsense of the conditions ahead of them.",
+    "start": 189.223,
+    "duration": 4.275
+  },
+  {
+    "text": "Self driving cars equipped with data \non traffic conditions ahead",
+    "start": 193.498,
+    "duration": 4.52
+  },
+  {
+    "text": "from connected vehicles \nor roadway sensors",
+    "start": 198.018,
+    "duration": 3.04
+  },
+  {
+    "text": "might be able to counteract \nphantom traffic in real-time.",
+    "start": 201.058,
+    "duration": 3.52
+  },
+  {
+    "text": "These vehicles would maintain \na uniform speed, safety permitting,",
+    "start": 204.578,
+    "duration": 4.48
+  },
+  {
+    "text": "that matches the average speed \nof the overall flow,",
+    "start": 209.058,
+    "duration": 3.729
+  },
+  {
+    "text": "preventing traffic waves from forming.",
+    "start": 212.787,
+    "duration": 2.62
+  },
+  {
+    "text": "In situations where there’s \nalready a traffic wave,",
+    "start": 215.407,
+    "duration": 2.81
+  },
+  {
+    "text": "the automated vehicle \nwould be able to anticipate it,",
+    "start": 218.217,
+    "duration": 3.5
+  },
+  {
+    "text": "braking sooner and more gradually \nthan a human driver",
+    "start": 221.717,
+    "duration": 3.18
+  },
+  {
+    "text": "and reducing the strength of the wave.",
+    "start": 224.897,
+    "duration": 3.08
+  },
+  {
+    "text": "And it wouldn’t take that many \nself-driving cars—",
+    "start": 227.977,
+    "duration": 3.22
+  },
+  {
+    "text": "In a recent experiment, one autonomous \nvehicle for every 20 human drivers",
+    "start": 231.197,
+    "duration": 5.673
+  },
+  {
+    "text": "was enough to dampen \nand prevent traffic waves.",
+    "start": 236.87,
+    "duration": 3.37
+  },
+  {
+    "text": "Traffic jams are not only \na daily annoyance–",
+    "start": 240.24,
+    "duration": 3.01
+  },
+  {
+    "text": "they’re a major cause of fatalities,",
+    "start": 243.25,
+    "duration": 2.23
+  },
+  {
+    "text": "wasted resources, \nand planet-threatening pollution.",
+    "start": 245.48,
+    "duration": 3.76
+  },
+  {
+    "text": "But new technology may help reduce \nthese patterns,",
+    "start": 249.24,
+    "duration": 3.24
+  },
+  {
+    "text": "rendering our roads safer,",
+    "start": 252.48,
+    "duration": 1.71
+  },
+  {
+    "text": "our daily commutes more efficient, \nand our air cleaner.",
+    "start": 254.19,
+    "duration": 3.82
+  },
+  {
+    "text": "And the next time you’re stuck in traffic,",
+    "start": 258.01,
+    "duration": 2.12
+  },
+  {
+    "text": "it may help to remember that other drivers\naren’t necessarily driving spitefully,",
+    "start": 260.13,
+    "duration": 4.777
+  },
+  {
+    "text": "but are simply unaware of road \nconditions ahead— and drive accordingly.",
+    "start": 264.907,
+    "duration": 5.3
+  }
+]

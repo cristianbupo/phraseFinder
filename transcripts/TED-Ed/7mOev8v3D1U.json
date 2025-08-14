@@ -1,0 +1,562 @@
+[
+  {
+    "text": "Dawn and the train are both breaking \nwhen Ethic and Hedge arrive in the woods.",
+    "start": 22.84,
+    "duration": 5.488
+  },
+  {
+    "text": "The adventurers \nhave recovered the first artifact—",
+    "start": 28.328,
+    "duration": 2.88
+  },
+  {
+    "text": "the Node of Power—",
+    "start": 31.208,
+    "duration": 1.497
+  },
+  {
+    "text": "and have come to the 198forest \nin search of the second.",
+    "start": 32.705,
+    "duration": 4.03
+  },
+  {
+    "text": "Here they’re welcomed \nby the director of the colony, Octavia.",
+    "start": 36.735,
+    "duration": 5.111
+  },
+  {
+    "text": "She established this treehouse sanctuary",
+    "start": 41.846,
+    "duration": 2.6
+  },
+  {
+    "text": "after the robots freed everyone \nfrom having to work.",
+    "start": 44.446,
+    "duration": 2.969
+  },
+  {
+    "text": "It was meant to be a haven \nwhere people could follow their passions,",
+    "start": 47.415,
+    "duration": 3.29
+  },
+  {
+    "text": "take up crafts, and find fulfillment.",
+    "start": 50.705,
+    "duration": 2.37
+  },
+  {
+    "text": "Which they did… at first.",
+    "start": 53.075,
+    "duration": 2.263
+  },
+  {
+    "text": "Some years ago everyone forgot the point.",
+    "start": 55.338,
+    "duration": 2.51
+  },
+  {
+    "text": "They abandoned arts and crafts",
+    "start": 57.848,
+    "duration": 1.63
+  },
+  {
+    "text": "and instead just painted and exhibited \npictures of themselves",
+    "start": 59.478,
+    "duration": 3.2
+  },
+  {
+    "text": "over, and over, and over.",
+    "start": 62.678,
+    "duration": 2.6
+  },
+  {
+    "text": "The location of the second artifact \nis no secret;",
+    "start": 65.278,
+    "duration": 2.61
+  },
+  {
+    "text": "it’s in a tower, \nguarded by a garrison of bots,",
+    "start": 67.888,
+    "duration": 3.46
+  },
+  {
+    "text": "a bottomless ravine, \nand who knows what other traps.",
+    "start": 71.348,
+    "duration": 4.15
+  },
+  {
+    "text": "As soon as the tower \nwent up with the node inside,",
+    "start": 75.498,
+    "duration": 3.158
+  },
+  {
+    "text": "human communication \nacross the land went dark.",
+    "start": 78.656,
+    "duration": 3.922
+  },
+  {
+    "text": "Octavia’s been after it for years,",
+    "start": 82.578,
+    "duration": 2.05
+  },
+  {
+    "text": "but try as she might, \nthe defenses thwart her.",
+    "start": 84.628,
+    "duration": 4.245
+  },
+  {
+    "text": "In order to even get to the tower, \nthe team will need a distraction.",
+    "start": 88.873,
+    "duration": 4.258
+  },
+  {
+    "text": "Octavia has an idea:",
+    "start": 93.131,
+    "duration": 1.849
+  },
+  {
+    "text": "stir up the people \nthrough some well-intentioned vandalism.",
+    "start": 94.98,
+    "duration": 4.131
+  },
+  {
+    "text": "The residents’ paintings are all squares \nthat come in different sizes,",
+    "start": 99.111,
+    "duration": 3.832
+  },
+  {
+    "text": "all an odd number of pixels across.",
+    "start": 102.943,
+    "duration": 3.608
+  },
+  {
+    "text": "Helper-bots \npick up the finished portraits",
+    "start": 106.551,
+    "duration": 2.412
+  },
+  {
+    "text": "and hang them in public places \nfor everyone to admire.",
+    "start": 108.963,
+    "duration": 3.848
+  },
+  {
+    "text": "There’s a slim margin of time \nwhen Hedge can access the paintings.",
+    "start": 112.811,
+    "duration": 4.19
+  },
+  {
+    "text": "If he were to deface each one with an X,",
+    "start": 117.001,
+    "duration": 3.361
+  },
+  {
+    "text": "the people would blame the helper-bots,",
+    "start": 120.362,
+    "duration": 2.439
+  },
+  {
+    "text": "creating just the distraction \nthe team needs.",
+    "start": 122.801,
+    "duration": 3.41
+  },
+  {
+    "text": "If only it were so easy.",
+    "start": 126.211,
+    "duration": 2.3
+  },
+  {
+    "text": "Hedge can’t just paint an X—",
+    "start": 128.511,
+    "duration": 2.23
+  },
+  {
+    "text": "his painting processor \nrequires very specific instructions.",
+    "start": 130.741,
+    "duration": 4.121
+  },
+  {
+    "text": "Treating the paintings as square grids,",
+    "start": 134.862,
+    "duration": 2.63
+  },
+  {
+    "text": "he can fill in one pixel, \nor little square, at a time.",
+    "start": 137.492,
+    "duration": 4.0
+  },
+  {
+    "text": "He can move forwards \nand make 90 degree turns over the canvas,",
+    "start": 141.492,
+    "duration": 3.72
+  },
+  {
+    "text": "but can’t move diagonally.",
+    "start": 145.212,
+    "duration": 2.728
+  },
+  {
+    "text": "How does Ethic program Hedge \nto paint an X over each portrait?",
+    "start": 147.94,
+    "duration": 4.802
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 152.742,
+    "duration": 8.528
+  },
+  {
+    "text": "Here’s a hint.",
+    "start": 161.27,
+    "duration": 1.53
+  },
+  {
+    "text": "Try drawing a square grid like this,",
+    "start": 162.8,
+    "duration": 2.702
+  },
+  {
+    "text": "and simulating Hedge’s path over it.",
+    "start": 165.502,
+    "duration": 2.95
+  },
+  {
+    "text": "What patterns can you find to guide him?",
+    "start": 168.452,
+    "duration": 2.556
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 171.008,
+    "duration": 4.79
+  },
+  {
+    "text": "The challenge here \nis to craft a set of instructions",
+    "start": 175.798,
+    "duration": 2.599
+  },
+  {
+    "text": "that will work for any square grid.",
+    "start": 178.397,
+    "duration": 2.791
+  },
+  {
+    "text": "Fortunately, \none of the strengths of programming",
+    "start": 181.188,
+    "duration": 2.57
+  },
+  {
+    "text": "is the flexibility \nto solve not just one problem,",
+    "start": 183.758,
+    "duration": 2.98
+  },
+  {
+    "text": "but a whole class of them all at once.",
+    "start": 186.738,
+    "duration": 3.11
+  },
+  {
+    "text": "It often helps to start with one case, \nand work towards the general.",
+    "start": 189.848,
+    "duration": 4.801
+  },
+  {
+    "text": "Let’s say we had this square.",
+    "start": 194.649,
+    "duration": 1.97
+  },
+  {
+    "text": "Hedge can measure the length of its sides \nand store that number as a variable.",
+    "start": 196.619,
+    "duration": 4.479
+  },
+  {
+    "text": "Now, what we need is a plan \nfor how Hedge will paint an X,",
+    "start": 201.098,
+    "duration": 4.585
+  },
+  {
+    "text": "pixel by pixel.",
+    "start": 205.683,
+    "duration": 1.54
+  },
+  {
+    "text": "There’s more than one right answer \nfor how to do this;",
+    "start": 207.223,
+    "duration": 2.952
+  },
+  {
+    "text": "let’s look at two.",
+    "start": 210.175,
+    "duration": 1.483
+  },
+  {
+    "text": "First, what if Hedge went row by row, \nlike a typewriter?",
+    "start": 211.658,
+    "duration": 3.638
+  },
+  {
+    "text": "If it’s a 9 pixel by 9 pixel painting,",
+    "start": 215.296,
+    "duration": 3.023
+  },
+  {
+    "text": "in the first row he’d paint, \nskip 7, and then paint again.",
+    "start": 218.319,
+    "duration": 4.309
+  },
+  {
+    "text": "In the second row he’d skip the first, \npaint, skip 5, and paint.",
+    "start": 222.628,
+    "duration": 4.818
+  },
+  {
+    "text": "And so on.",
+    "start": 227.446,
+    "duration": 1.33
+  },
+  {
+    "text": "The pattern here is that for each row \nthe pixels skipped at the beginning",
+    "start": 228.776,
+    "duration": 4.242
+  },
+  {
+    "text": "go up by one,",
+    "start": 233.018,
+    "duration": 1.41
+  },
+  {
+    "text": "and the pixels skipped in the middle \ngo down by 2.",
+    "start": 234.428,
+    "duration": 3.65
+  },
+  {
+    "text": "Things get more complicated \nwhen Hedge reaches the center.",
+    "start": 238.078,
+    "duration": 3.08
+  },
+  {
+    "text": "Here there’s a row \nwith just one pixel painted.",
+    "start": 241.158,
+    "duration": 3.041
+  },
+  {
+    "text": "Then the whole thing reverses—",
+    "start": 244.199,
+    "duration": 1.969
+  },
+  {
+    "text": "the number of pixels skipped \ngoes down by one each time on the left,",
+    "start": 246.168,
+    "duration": 4.123
+  },
+  {
+    "text": "and up by two each time in the middle.",
+    "start": 250.291,
+    "duration": 3.366
+  },
+  {
+    "text": "Instructing Hedge to do this \nwith a series of loops will work",
+    "start": 253.657,
+    "duration": 3.454
+  },
+  {
+    "text": "and is a perfectly fine solution.",
+    "start": 257.111,
+    "duration": 2.439
+  },
+  {
+    "text": "The main drawback is that \nthis requires quite a bit of logic—",
+    "start": 259.55,
+    "duration": 3.601
+  },
+  {
+    "text": "knowing what to do in the middle, \nwhen to reverse the process,",
+    "start": 263.151,
+    "duration": 3.02
+  },
+  {
+    "text": "and exactly how to reverse it.",
+    "start": 266.171,
+    "duration": 2.69
+  },
+  {
+    "text": "So how might we approach this",
+    "start": 268.861,
+    "duration": 1.784
+  },
+  {
+    "text": "so that the logic remains consistent \nfrom start to finish?",
+    "start": 270.645,
+    "duration": 3.916
+  },
+  {
+    "text": "The key insight is to look at a grid \nas a series of concentric squares.",
+    "start": 274.561,
+    "duration": 5.488
+  },
+  {
+    "text": "Each square follows the same pattern—",
+    "start": 280.049,
+    "duration": 2.64
+  },
+  {
+    "text": "painted pixels in the corners, \nand unaltered pixels in between.",
+    "start": 282.689,
+    "duration": 4.222
+  },
+  {
+    "text": "So if we can figure out a way \nto paint one nested square,",
+    "start": 286.911,
+    "duration": 3.418
+  },
+  {
+    "text": "transition to the next, and repeat, \nwe can paint them all.",
+    "start": 290.329,
+    "duration": 4.435
+  },
+  {
+    "text": "Painting the outermost one is easy.",
+    "start": 294.764,
+    "duration": 2.361
+  },
+  {
+    "text": "Start in a corner and paint that pixel.",
+    "start": 297.125,
+    "duration": 2.489
+  },
+  {
+    "text": "If we call the length of the painting n,",
+    "start": 299.614,
+    "duration": 2.44
+  },
+  {
+    "text": "fly forward n minus 1 spaces.",
+    "start": 302.054,
+    "duration": 2.75
+  },
+  {
+    "text": "Paint another pixel, and turn right.",
+    "start": 304.804,
+    "duration": 2.5
+  },
+  {
+    "text": "Now do the whole thing again… and again.",
+    "start": 307.304,
+    "duration": 3.53
+  },
+  {
+    "text": "Now move forward one less space, \nturn right, fly forward once,",
+    "start": 310.834,
+    "duration": 5.195
+  },
+  {
+    "text": "and Hedge will be \nin the next concentric square",
+    "start": 316.029,
+    "duration": 3.17
+  },
+  {
+    "text": "and ready to repeat the whole process.",
+    "start": 319.199,
+    "duration": 2.785
+  },
+  {
+    "text": "Each square is n minus 2 pixels smaller \nthan the last in length and width,",
+    "start": 321.984,
+    "duration": 5.742
+  },
+  {
+    "text": "and we can follow this spiral pattern \nall the way to the center",
+    "start": 327.726,
+    "duration": 3.92
+  },
+  {
+    "text": "with a loop and a variable \nthat tracks how far Hedge should fly.",
+    "start": 331.646,
+    "duration": 5.147
+  },
+  {
+    "text": "Is one of these methods \nbetter than the other?",
+    "start": 336.793,
+    "duration": 2.24
+  },
+  {
+    "text": "It really depends on what you value.",
+    "start": 339.033,
+    "duration": 2.064
+  },
+  {
+    "text": "The strength of the spiral \nis the simplicity of finding a pattern",
+    "start": 341.097,
+    "duration": 3.43
+  },
+  {
+    "text": "and reusing the same logic \nfrom start to finish.",
+    "start": 344.527,
+    "duration": 3.04
+  },
+  {
+    "text": "The advantage of the typewriter approach",
+    "start": 347.567,
+    "duration": 2.1
+  },
+  {
+    "text": "is that it’s a more generalized solution,",
+    "start": 349.667,
+    "duration": 2.29
+  },
+  {
+    "text": "meaning it can be adapted \nmuch more simply to fill in any pattern.",
+    "start": 351.957,
+    "duration": 4.07
+  },
+  {
+    "text": "For Ethic’s sake, \neither will do just fine.",
+    "start": 356.027,
+    "duration": 3.271
+  },
+  {
+    "text": "So here’s what happens.",
+    "start": 359.298,
+    "duration": 1.83
+  },
+  {
+    "text": "Hedge rapidly defaces \nall of the portraits.",
+    "start": 361.128,
+    "duration": 3.109
+  },
+  {
+    "text": "And within moments",
+    "start": 364.237,
+    "duration": 1.11
+  },
+  {
+    "text": "cries of anguish \nbreak out all over the forest.",
+    "start": 365.347,
+    "duration": 3.671
+  },
+  {
+    "text": "The garrison guarding the tower \nabandon their posts",
+    "start": 369.018,
+    "duration": 2.98
+  },
+  {
+    "text": "to calm the agitated people,",
+    "start": 371.998,
+    "duration": 1.97
+  },
+  {
+    "text": "and Ethic, Hedge, \nand Octavia slip through—",
+    "start": 373.968,
+    "duration": 2.99
+  },
+  {
+    "text": "and nearly slip \ninto the depths of the gorge",
+    "start": 376.958,
+    "duration": 3.04
+  },
+  {
+    "text": "standing between them and the tower.",
+    "start": 379.998,
+    "duration": 2.889
+  }
+]

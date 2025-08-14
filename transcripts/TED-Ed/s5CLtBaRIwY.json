@@ -1,0 +1,402 @@
+[
+  {
+    "text": "Bad news: your worst enemies \nare at the gate.",
+    "start": 7.503,
+    "duration": 3.921
+  },
+  {
+    "text": "For your fledgling kingdom guards the \nworld’s only herd of tiny dino creatures.",
+    "start": 11.424,
+    "duration": 6.34
+  },
+  {
+    "text": "To you, they’re sacred.",
+    "start": 17.972,
+    "duration": 1.627
+  },
+  {
+    "text": "To everyone else, they’re food.",
+    "start": 19.599,
+    "duration": 2.21
+  },
+  {
+    "text": "The three closest nation-states \nhave all teamed up",
+    "start": 21.851,
+    "duration": 3.67
+  },
+  {
+    "text": "in what they call \nan alliance of the hungry",
+    "start": 25.521,
+    "duration": 2.878
+  },
+  {
+    "text": "to smash open your walls\nand devour the herd.",
+    "start": 28.399,
+    "duration": 3.212
+  },
+  {
+    "text": "Your fortifications will hold\noff their armies for now.",
+    "start": 32.111,
+    "duration": 3.504
+  },
+  {
+    "text": "But when their siege weapons arrive\ntomorrow,",
+    "start": 35.615,
+    "duration": 2.627
+  },
+  {
+    "text": "you won’t stand a chance.",
+    "start": 38.242,
+    "duration": 1.794
+  },
+  {
+    "text": "Luckily, you have a wall fabricator:",
+    "start": 40.203,
+    "duration": 2.502
+  },
+  {
+    "text": "if you run it all night, you may be able\nto reinforce your border",
+    "start": 42.705,
+    "duration": 4.088
+  },
+  {
+    "text": "before the weapons arrive.",
+    "start": 46.793,
+    "duration": 1.793
+  },
+  {
+    "text": "However, it can only create wall segments\nof a specific, whole number size",
+    "start": 48.711,
+    "duration": 5.714
+  },
+  {
+    "text": "that you must determine ahead of time.",
+    "start": 54.425,
+    "duration": 2.586
+  },
+  {
+    "text": "Your engineers have been in close\nconsultation with your spymaster.",
+    "start": 57.428,
+    "duration": 4.129
+  },
+  {
+    "text": "Each rival kingdom has wall-busters\nthat come in one specific size.",
+    "start": 61.808,
+    "duration": 5.255
+  },
+  {
+    "text": "The clowns’ are all 6 meters,",
+    "start": 67.23,
+    "duration": 2.21
+  },
+  {
+    "text": "the royals’ are 9,\nand the redheads’ are 20.",
+    "start": 69.524,
+    "duration": 3.962
+  },
+  {
+    "text": "Each wall-buster can level a wall segment\nof the matching size.",
+    "start": 73.986,
+    "duration": 4.547
+  },
+  {
+    "text": "And they can be combined as well;",
+    "start": 78.616,
+    "duration": 2.002
+  },
+  {
+    "text": "two 6′s can take out a 12 meter wall",
+    "start": 80.618,
+    "duration": 3.253
+  },
+  {
+    "text": "and a 6 and a 9 could break one \nthat’s 15 meters.",
+    "start": 83.871,
+    "duration": 3.587
+  },
+  {
+    "text": "But a 7 meter wall would hold\nfast against any of them.",
+    "start": 87.625,
+    "duration": 4.087
+  },
+  {
+    "text": "Meanwhile, large walls aren't\nnecessarily protected.",
+    "start": 92.38,
+    "duration": 3.628
+  },
+  {
+    "text": "Here’s how they could take \ndown 70, 71, and 72 meters.",
+    "start": 96.175,
+    "duration": 5.13
+  },
+  {
+    "text": "Your fabricator takes the same amount\nof time to produce a wall segment",
+    "start": 101.639,
+    "duration": 3.921
+  },
+  {
+    "text": "no matter its length,\nand it’s not particularly fast.",
+    "start": 105.56,
+    "duration": 3.461
+  },
+  {
+    "text": "So to finish the wall in time,",
+    "start": 109.188,
+    "duration": 2.002
+  },
+  {
+    "text": "you need the longest segment\nthat can’t be destroyed",
+    "start": 111.19,
+    "duration": 3.128
+  },
+  {
+    "text": "by any combination of the siege weapons,",
+    "start": 114.318,
+    "duration": 2.67
+  },
+  {
+    "text": "which your enemies have hundreds of.",
+    "start": 116.988,
+    "duration": 2.294
+  },
+  {
+    "text": "What wall length will save your kingdom?",
+    "start": 119.824,
+    "duration": 2.711
+  },
+  {
+    "text": "Pause here to figure it out yourself.\nAnswer in 3",
+    "start": 122.869,
+    "duration": 2.711
+  },
+  {
+    "text": "Answer in 2",
+    "start": 125.58,
+    "duration": 2.544
+  },
+  {
+    "text": "Answer in 1",
+    "start": 128.124,
+    "duration": 2.335
+  },
+  {
+    "text": "It's possible to solve this problem\nby trial and error.",
+    "start": 130.71,
+    "duration": 3.503
+  },
+  {
+    "text": "But there’s also a remarkably quick\nand elegant solution",
+    "start": 134.213,
+    "duration": 3.587
+  },
+  {
+    "text": "inspired by an idea that’s thousands \nof years old:",
+    "start": 137.8,
+    "duration": 3.545
+  },
+  {
+    "text": "the sieve of Eratosthenes.",
+    "start": 141.345,
+    "duration": 2.169
+  },
+  {
+    "text": "Eratosthenes of Cyrene was a 3rd century \nBCE mathematician from ancient Greece",
+    "start": 143.806,
+    "duration": 6.256
+  },
+  {
+    "text": "interested in prime numbers,",
+    "start": 150.062,
+    "duration": 2.378
+  },
+  {
+    "text": "that is numbers only divisible \nby 1 and themselves.",
+    "start": 152.44,
+    "duration": 4.254
+  },
+  {
+    "text": "Presumably he grew bored of manually\nchecking whether a given number was prime,",
+    "start": 157.445,
+    "duration": 5.005
+  },
+  {
+    "text": "so he came up with the\nfollowing technique.",
+    "start": 162.45,
+    "duration": 2.836
+  },
+  {
+    "text": "Make a giant list of numbers.",
+    "start": 165.995,
+    "duration": 2.169
+  },
+  {
+    "text": "X out all of the multiples of 2,\nexcept 2 itself.",
+    "start": 168.164,
+    "duration": 3.837
+  },
+  {
+    "text": "Now do the same with multiples of 3.",
+    "start": 172.46,
+    "duration": 2.461
+  },
+  {
+    "text": "The even multiples have already\nbeen eliminated,",
+    "start": 175.129,
+    "duration": 2.753
+  },
+  {
+    "text": "and the odd multiples can all be found \nin this column.",
+    "start": 177.882,
+    "duration": 3.795
+  },
+  {
+    "text": "4 was already accounted for when \nyou did multiples of 2,",
+    "start": 182.053,
+    "duration": 3.545
+  },
+  {
+    "text": "so move on to 5.",
+    "start": 185.598,
+    "duration": 1.752
+  },
+  {
+    "text": "The multiples of 5 and 7 show\nup conveniently in diagonals.",
+    "start": 187.516,
+    "duration": 4.88
+  },
+  {
+    "text": "This method eliminates all possible\ncomposite numbers,",
+    "start": 192.605,
+    "duration": 3.92
+  },
+  {
+    "text": "leaving only primes behind.",
+    "start": 196.525,
+    "duration": 2.294
+  },
+  {
+    "text": "We've already identified every\nprime less than 121,",
+    "start": 199.195,
+    "duration": 4.212
+  },
+  {
+    "text": "and it’s easy to go \nhigher and higher this way.",
+    "start": 203.658,
+    "duration": 2.419
+  },
+  {
+    "text": "We can use a similar technique \nwith our wall problem",
+    "start": 206.619,
+    "duration": 3.42
+  },
+  {
+    "text": "to eliminate entire groups \nof numbers at once.",
+    "start": 210.039,
+    "duration": 3.337
+  },
+  {
+    "text": "A first, critical step is to be deliberate\nabout the number of columns.",
+    "start": 213.834,
+    "duration": 4.88
+  },
+  {
+    "text": "If we use 6 again, the numbers in each \ncolumn will be exactly 6 apart.",
+    "start": 218.839,
+    "duration": 4.88
+  },
+  {
+    "text": "What that means is that if we identify \na number vulnerable to the wall-busters,",
+    "start": 223.97,
+    "duration": 4.504
+  },
+  {
+    "text": "then all the rest of the column\nbelow it would also fall.",
+    "start": 228.474,
+    "duration": 3.629
+  },
+  {
+    "text": "In other words, \nbecause your enemies can make 9,",
+    "start": 232.52,
+    "duration": 3.211
+  },
+  {
+    "text": "they can make 15, 21, 27, and so on",
+    "start": 235.731,
+    "duration": 4.129
+  },
+  {
+    "text": "by adding the clowns’ 6-meter machines.",
+    "start": 239.86,
+    "duration": 3.045
+  },
+  {
+    "text": "So right away this eliminates 6, 9 and 20,\nand everything under them.",
+    "start": 243.03,
+    "duration": 5.506
+  },
+  {
+    "text": "We’ve accounted for the 6′s\nwith the columns,",
+    "start": 249.203,
+    "duration": 2.461
+  },
+  {
+    "text": "so we can focus on combinations \nof 20′s and 9′s to eliminate more options.",
+    "start": 251.664,
+    "duration": 5.505
+  },
+  {
+    "text": "Your rivals can easily make 20 plus 9\nand 20 plus 20 and everything below.",
+    "start": 257.378,
+    "duration": 5.881
+  },
+  {
+    "text": "Using this approach, we could\nhave eliminated the 70, 71, and 72,",
+    "start": 263.634,
+    "duration": 5.381
+  },
+  {
+    "text": "and infinitely many other options \nwithout having to do any calculations.",
+    "start": 269.015,
+    "duration": 4.754
+  },
+  {
+    "text": "In the remaining column there are \nno multiples of 9 or 20,",
+    "start": 274.103,
+    "duration": 4.171
+  },
+  {
+    "text": "but 49 jumps out, \nas 2 times 20 plus 9.",
+    "start": 278.274,
+    "duration": 3.712
+  },
+  {
+    "text": "There's no way to make 43,",
+    "start": 282.236,
+    "duration": 1.96
+  },
+  {
+    "text": "so that must be the largest wall segment\nthat your enemies can’t destroy.",
+    "start": 284.405,
+    "duration": 4.838
+  },
+  {
+    "text": "And there you have it.",
+    "start": 289.493,
+    "duration": 1.377
+  },
+  {
+    "text": "You plug 43 into the wall fabricator, \nand after a tense night,",
+    "start": 290.87,
+    "duration": 4.212
+  },
+  {
+    "text": "the sun rises on your now \nimpregnable fortress",
+    "start": 295.082,
+    "duration": 3.504
+  },
+  {
+    "text": "and a herd that won’t become\nunhappy meals.",
+    "start": 298.586,
+    "duration": 3.211
+  }
+]

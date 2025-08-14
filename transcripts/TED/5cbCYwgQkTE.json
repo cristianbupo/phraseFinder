@@ -1,0 +1,727 @@
+[
+  {
+    "text": "(Overlapping voices sing)",
+    "start": 4.0,
+    "duration": 4.171
+  },
+  {
+    "text": "(Singing ends)",
+    "start": 29.568,
+    "duration": 1.501
+  },
+  {
+    "text": "(Applause)",
+    "start": 31.528,
+    "duration": 3.17
+  },
+  {
+    "text": "Hi, my name is Holly, and I’m an artist.",
+    "start": 34.739,
+    "duration": 2.545
+  },
+  {
+    "text": "That was my voice,",
+    "start": 37.325,
+    "duration": 1.21
+  },
+  {
+    "text": "but I didn’t sing that clip.",
+    "start": 38.577,
+    "duration": 1.376
+  },
+  {
+    "text": "I trained an AI on my own voice,",
+    "start": 40.537,
+    "duration": 2.044
+  },
+  {
+    "text": "and now she can sing anything\nin multiple languages.",
+    "start": 42.581,
+    "duration": 3.044
+  },
+  {
+    "text": "Her name is Holly+,",
+    "start": 46.251,
+    "duration": 2.336
+  },
+  {
+    "text": "and you just heard her perform\n“El Cant de la Sibilla,”",
+    "start": 48.628,
+    "duration": 3.379
+  },
+  {
+    "text": "which is a traditional song\narranged by Maria Arnal in Catalan.",
+    "start": 52.048,
+    "duration": 3.879
+  },
+  {
+    "text": "Not a language that I speak",
+    "start": 56.303,
+    "duration": 1.96
+  },
+  {
+    "text": "and not a vocal tradition\nthat I've trained in.",
+    "start": 58.263,
+    "duration": 2.711
+  },
+  {
+    "text": "Those melismatic runs\nare really difficult to hit.",
+    "start": 61.016,
+    "duration": 3.336
+  },
+  {
+    "text": "To show you Holly+'s full range,\nI'll also play an example in German.",
+    "start": 64.978,
+    "duration": 4.129
+  },
+  {
+    "text": "This is \"Mack the Knife\" by Brecht.",
+    "start": 69.149,
+    "duration": 2.21
+  },
+  {
+    "text": "(Singing in German)",
+    "start": 71.985,
+    "duration": 3.462
+  },
+  {
+    "text": "(Music ends)",
+    "start": 85.332,
+    "duration": 1.543
+  },
+  {
+    "text": "Of course Holly+ can -- thank you.",
+    "start": 88.501,
+    "duration": 2.002
+  },
+  {
+    "text": "(Applause)",
+    "start": 90.545,
+    "duration": 2.586
+  },
+  {
+    "text": "Of course, Holly+ can also\nperform my own music,",
+    "start": 93.173,
+    "duration": 2.711
+  },
+  {
+    "text": "so here's an excerpt\nfrom my own song, \"Frontier.\"",
+    "start": 95.925,
+    "duration": 3.003
+  },
+  {
+    "text": "(Singing \"Frontier\" in overlapping voices)",
+    "start": 99.554,
+    "duration": 3.962
+  },
+  {
+    "text": "(Singing ends)",
+    "start": 108.563,
+    "duration": 1.168
+  },
+  {
+    "text": "Holly+ uses a process\ncalled timbre transfer,",
+    "start": 111.358,
+    "duration": 3.169
+  },
+  {
+    "text": "where the timbre,\nor sound quality of one sound,",
+    "start": 114.569,
+    "duration": 3.003
+  },
+  {
+    "text": "may be mapped onto\nthe performance of another.",
+    "start": 117.572,
+    "duration": 2.795
+  },
+  {
+    "text": "Timbre transfer is done by creating\na machine-learning model of a sound.",
+    "start": 121.534,
+    "duration": 4.255
+  },
+  {
+    "text": "In this case, it's my voice.",
+    "start": 125.83,
+    "duration": 1.919
+  },
+  {
+    "text": "So I recorded a wide variety of phrases\nin my entire vocal range.",
+    "start": 127.749,
+    "duration": 4.463
+  },
+  {
+    "text": "To be clear, this version of Holly+\nis reading notes from a score.",
+    "start": 134.172,
+    "duration": 4.463
+  },
+  {
+    "text": "So I'll also play you an example\nof her singing in Spanish,",
+    "start": 139.052,
+    "duration": 4.212
+  },
+  {
+    "text": "“Bésame Mucho” by Velázquez.",
+    "start": 143.306,
+    "duration": 2.169
+  },
+  {
+    "text": "(Music: \"Bésame Mucho\")",
+    "start": 146.226,
+    "duration": 2.377
+  },
+  {
+    "text": "(Music ends)",
+    "start": 160.74,
+    "duration": 1.502
+  },
+  {
+    "text": "Thank you.",
+    "start": 164.869,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 166.079,
+    "duration": 1.168
+  },
+  {
+    "text": "I can't speak Spanish, by the way, so.",
+    "start": 167.288,
+    "duration": 1.961
+  },
+  {
+    "text": "Teaching an AI the sonic\nproperties of one sound",
+    "start": 171.0,
+    "duration": 3.003
+  },
+  {
+    "text": "in order to generate an entirely new sound",
+    "start": 174.045,
+    "duration": 2.211
+  },
+  {
+    "text": "is what I like to call \"spawning.\"",
+    "start": 176.297,
+    "duration": 2.128
+  },
+  {
+    "text": "Spawning is what allows Holly+\nto create a wide range of vocals",
+    "start": 179.092,
+    "duration": 3.92
+  },
+  {
+    "text": "that I didn't sing",
+    "start": 183.012,
+    "duration": 1.377
+  },
+  {
+    "text": "from a set of recorded phrases\nthat I did sing.",
+    "start": 184.431,
+    "duration": 2.877
+  },
+  {
+    "text": "I like to think of spawning\nas a kind of 21st-century corollary",
+    "start": 187.976,
+    "duration": 4.087
+  },
+  {
+    "text": "to the musical tradition of sampling,",
+    "start": 192.105,
+    "duration": 2.336
+  },
+  {
+    "text": "which had a really big impact on both\nmusic and intellectual property.",
+    "start": 194.482,
+    "duration": 4.046
+  },
+  {
+    "text": "But I think spawning is far more exciting\nand potentially really weird.",
+    "start": 199.195,
+    "duration": 4.296
+  },
+  {
+    "text": "(Laughter)",
+    "start": 203.908,
+    "duration": 1.21
+  },
+  {
+    "text": "So, for example, with sampling,",
+    "start": 205.16,
+    "duration": 2.085
+  },
+  {
+    "text": "usually you copy and remix a recording\nby someone else to create something new.",
+    "start": 207.287,
+    "duration": 5.881
+  },
+  {
+    "text": "But with spawning,\nyou can perform as someone else",
+    "start": 213.835,
+    "duration": 3.128
+  },
+  {
+    "text": "based on trained information about them.",
+    "start": 217.005,
+    "duration": 2.127
+  },
+  {
+    "text": "And as an artist, this is making me\nrethink my own past work",
+    "start": 220.216,
+    "duration": 4.213
+  },
+  {
+    "text": "as not only my archive",
+    "start": 224.471,
+    "duration": 1.418
+  },
+  {
+    "text": "but potentially also I myself\ncould become reanimated with AI.",
+    "start": 225.93,
+    "duration": 4.672
+  },
+  {
+    "text": "This also opens up the question",
+    "start": 230.977,
+    "duration": 1.502
+  },
+  {
+    "text": "of how we deal with\na collective human archive",
+    "start": 232.479,
+    "duration": 3.003
+  },
+  {
+    "text": "if we can reanimate old media.",
+    "start": 235.523,
+    "duration": 2.086
+  },
+  {
+    "text": "It opens up really big ethical",
+    "start": 238.401,
+    "duration": 1.752
+  },
+  {
+    "text": "and intellectual property questions",
+    "start": 240.195,
+    "duration": 2.043
+  },
+  {
+    "text": "that require entirely new\nconceptual and legal frameworks.",
+    "start": 242.238,
+    "duration": 4.213
+  },
+  {
+    "text": "One way that I like to think\nabout intellectual property",
+    "start": 247.827,
+    "duration": 2.711
+  },
+  {
+    "text": "I call identity play.",
+    "start": 250.538,
+    "duration": 1.669
+  },
+  {
+    "text": "So rather than limiting\nthe use of my voice,",
+    "start": 252.999,
+    "duration": 2.836
+  },
+  {
+    "text": "I'm creating instruments\nto allow as many people as possible",
+    "start": 255.877,
+    "duration": 3.629
+  },
+  {
+    "text": "to create music with me, and even as me.",
+    "start": 259.506,
+    "duration": 3.211
+  },
+  {
+    "text": "That's why I've made versions\nof Holly+ freely available",
+    "start": 263.76,
+    "duration": 2.878
+  },
+  {
+    "text": "for anyone to use online.",
+    "start": 266.679,
+    "duration": 1.836
+  },
+  {
+    "text": "If I can allow people to play with my IP,",
+    "start": 269.098,
+    "duration": 2.878
+  },
+  {
+    "text": "my digital identity,\nmy intellectual property,",
+    "start": 272.018,
+    "duration": 2.795
+  },
+  {
+    "text": "what might they come up with?",
+    "start": 274.813,
+    "duration": 1.96
+  },
+  {
+    "text": "Could someone else go on tour as me,\nwith my permission?",
+    "start": 277.398,
+    "duration": 3.921
+  },
+  {
+    "text": "Could I be in a thousand different\nbands in multiple languages?",
+    "start": 282.946,
+    "duration": 3.837
+  },
+  {
+    "text": "And what would that even sound like?",
+    "start": 286.825,
+    "duration": 1.876
+  },
+  {
+    "text": "To be clear, musicians have been taught\nto be really protective over our IP,",
+    "start": 289.661,
+    "duration": 4.504
+  },
+  {
+    "text": "and that's for really good reason.",
+    "start": 294.165,
+    "duration": 1.794
+  },
+  {
+    "text": "But I'm trying to think of ways to make\nthis new capability mutually beneficial.",
+    "start": 296.459,
+    "duration": 5.089
+  },
+  {
+    "text": "So to allow people to use my voice",
+    "start": 301.589,
+    "duration": 2.169
+  },
+  {
+    "text": "but still to maintain the ability\nto approve certain derivative works.",
+    "start": 303.758,
+    "duration": 3.754
+  },
+  {
+    "text": "So I invite you to consider,\nif given the opportunity,",
+    "start": 308.513,
+    "duration": 3.795
+  },
+  {
+    "text": "who would you like to perform through?",
+    "start": 312.35,
+    "duration": 2.252
+  },
+  {
+    "text": "And can you imagine someone\nelse performing you?",
+    "start": 315.52,
+    "duration": 3.211
+  },
+  {
+    "text": "With that in mind,",
+    "start": 319.566,
+    "duration": 1.209
+  },
+  {
+    "text": "I'd like to invite the incredible\nmusician Pher to the stage.",
+    "start": 320.817,
+    "duration": 3.17
+  },
+  {
+    "text": "(Applause)",
+    "start": 324.028,
+    "duration": 5.172
+  },
+  {
+    "text": "So today, Pher will be performing\nhis own song, \"Murky.\"",
+    "start": 329.242,
+    "duration": 2.878
+  },
+  {
+    "text": "And with one microphone you'll hear\nPher's beautiful, natural voice.",
+    "start": 332.787,
+    "duration": 4.213
+  },
+  {
+    "text": "(Pher vocalizing)",
+    "start": 337.375,
+    "duration": 3.253
+  },
+  {
+    "text": "(Audience cheers)",
+    "start": 341.421,
+    "duration": 2.002
+  },
+  {
+    "text": "And with this microphone,",
+    "start": 344.09,
+    "duration": 1.251
+  },
+  {
+    "text": "you'll hear a live version of Holly+\ndeveloped with Voctro Labs.",
+    "start": 345.383,
+    "duration": 3.921
+  },
+  {
+    "text": "(Pher vocalizing in Holly+ voice)",
+    "start": 351.723,
+    "duration": 3.503
+  },
+  {
+    "text": "(Laughter and applause)",
+    "start": 355.935,
+    "duration": 4.546
+  },
+  {
+    "text": "Take it away Pher.",
+    "start": 361.024,
+    "duration": 1.501
+  },
+  {
+    "text": "(Pher singing \"Murky\")",
+    "start": 365.111,
+    "duration": 1.168
+  },
+  {
+    "text": "It gets so murky",
+    "start": 366.321,
+    "duration": 4.004
+  },
+  {
+    "text": "Loving what you know",
+    "start": 371.075,
+    "duration": 3.42
+  },
+  {
+    "text": "But I, I keep on swimming,",
+    "start": 374.954,
+    "duration": 5.214
+  },
+  {
+    "text": "I'm swimming",
+    "start": 380.668,
+    "duration": 2.795
+  },
+  {
+    "text": "Further up the road",
+    "start": 383.463,
+    "duration": 4.463
+  },
+  {
+    "text": "See, the problem is,",
+    "start": 388.384,
+    "duration": 2.378
+  },
+  {
+    "text": "I don't know what to say",
+    "start": 390.803,
+    "duration": 2.711
+  },
+  {
+    "text": "When you come around",
+    "start": 393.514,
+    "duration": 3.129
+  },
+  {
+    "text": "Acting this way",
+    "start": 396.643,
+    "duration": 2.252
+  },
+  {
+    "text": "Oh oh",
+    "start": 399.312,
+    "duration": 2.711
+  },
+  {
+    "text": "And, yes, the truth is",
+    "start": 402.023,
+    "duration": 3.921
+  },
+  {
+    "text": "I show you every day",
+    "start": 405.985,
+    "duration": 4.213
+  },
+  {
+    "text": "Cause you love to stay",
+    "start": 410.615,
+    "duration": 4.296
+  },
+  {
+    "text": "(Applause)",
+    "start": 414.953,
+    "duration": 1.376
+  },
+  {
+    "text": "Living in all the pain",
+    "start": 416.329,
+    "duration": 3.587
+  },
+  {
+    "text": "And it gets so murky",
+    "start": 419.958,
+    "duration": 4.838
+  },
+  {
+    "text": "Loving what you know",
+    "start": 424.796,
+    "duration": 4.546
+  },
+  {
+    "text": "But I'll keep on swimming",
+    "start": 429.384,
+    "duration": 4.713
+  },
+  {
+    "text": "Further up the road",
+    "start": 434.097,
+    "duration": 5.046
+  },
+  {
+    "text": "And I've been calling out",
+    "start": 439.143,
+    "duration": 2.461
+  },
+  {
+    "text": "Calling out your name",
+    "start": 441.604,
+    "duration": 3.253
+  },
+  {
+    "text": "Deep down in my sleep",
+    "start": 444.899,
+    "duration": 3.754
+  },
+  {
+    "text": "And I even memorized your face",
+    "start": 449.07,
+    "duration": 5.422
+  },
+  {
+    "text": "So ain't no leaving' me",
+    "start": 454.492,
+    "duration": 4.588
+  },
+  {
+    "text": "And I just handle my biz",
+    "start": 459.08,
+    "duration": 4.212
+  },
+  {
+    "text": "And keep the train moving on",
+    "start": 463.292,
+    "duration": 4.296
+  },
+  {
+    "text": "And you know what it is",
+    "start": 467.88,
+    "duration": 3.629
+  },
+  {
+    "text": "Is just you that",
+    "start": 471.509,
+    "duration": 3.795
+  },
+  {
+    "text": "I'm choosing",
+    "start": 475.346,
+    "duration": 2.67
+  },
+  {
+    "text": "Cause it gets so murky",
+    "start": 478.057,
+    "duration": 5.506
+  },
+  {
+    "text": "Loving what you know",
+    "start": 483.563,
+    "duration": 5.464
+  },
+  {
+    "text": "And I'll",
+    "start": 489.068,
+    "duration": 2.461
+  },
+  {
+    "text": "I'll keep on swimming",
+    "start": 491.571,
+    "duration": 3.587
+  },
+  {
+    "text": "Further up the road",
+    "start": 495.199,
+    "duration": 5.089
+  },
+  {
+    "text": "And it gets so murky",
+    "start": 500.288,
+    "duration": 5.464
+  },
+  {
+    "text": "Loving what you know",
+    "start": 505.793,
+    "duration": 5.464
+  },
+  {
+    "text": "And I’ll,",
+    "start": 511.299,
+    "duration": 2.252
+  },
+  {
+    "text": "I'll keep on swimming",
+    "start": 513.593,
+    "duration": 4.88
+  },
+  {
+    "text": "Further up the road",
+    "start": 518.473,
+    "duration": 5.589
+  },
+  {
+    "text": "Swimming",
+    "start": 524.062,
+    "duration": 2.711
+  },
+  {
+    "text": "I'm swimming",
+    "start": 526.773,
+    "duration": 3.336
+  },
+  {
+    "text": "Further up the road",
+    "start": 530.109,
+    "duration": 5.089
+  },
+  {
+    "text": "And I'll keep on swimming",
+    "start": 535.823,
+    "duration": 3.295
+  },
+  {
+    "text": "Swimming",
+    "start": 539.577,
+    "duration": 2.961
+  },
+  {
+    "text": "Further up the road",
+    "start": 542.58,
+    "duration": 5.422
+  },
+  {
+    "text": "(Vocalizing)",
+    "start": 548.628,
+    "duration": 4.754
+  },
+  {
+    "text": "(Cheers and applause)",
+    "start": 554.008,
+    "duration": 6.131
+  },
+  {
+    "text": "Holly Herndon: Thank you.",
+    "start": 560.139,
+    "duration": 1.377
+  },
+  {
+    "text": "Thank you.",
+    "start": 561.849,
+    "duration": 1.126
+  }
+]

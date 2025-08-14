@@ -1,0 +1,337 @@
+[
+  {
+    "text": "A few months ago we posed a challenge \nto our community.",
+    "start": 6.646,
+    "duration": 3.656
+  },
+  {
+    "text": "We asked everyone: given a range of \nintegers from 0 to 100,",
+    "start": 10.302,
+    "duration": 4.89
+  },
+  {
+    "text": "guess the whole number closest to 2/3 \nof the average of all numbers guessed.",
+    "start": 15.192,
+    "duration": 6.864
+  },
+  {
+    "text": "So if the average of all guesses is 60, \nthe correct guess will be 40.",
+    "start": 22.056,
+    "duration": 4.72
+  },
+  {
+    "text": "What number do you think was the \ncorrect guess at 2/3 of the average?",
+    "start": 26.776,
+    "duration": 4.638
+  },
+  {
+    "text": "Let’s see if we can try and reason \nour way to the answer.",
+    "start": 32.733,
+    "duration": 3.374
+  },
+  {
+    "text": "This game is played under conditions known\nto game theorists as common knowledge.",
+    "start": 36.107,
+    "duration": 5.299
+  },
+  {
+    "text": "Not only does every player have \nthe same information —",
+    "start": 41.406,
+    "duration": 3.093
+  },
+  {
+    "text": "they also know that everyone else does,",
+    "start": 44.499,
+    "duration": 2.207
+  },
+  {
+    "text": "and that everyone else knows that \neveryone else does, and so on, infinitely.",
+    "start": 46.706,
+    "duration": 5.912
+  },
+  {
+    "text": "Now, the highest possible average would \noccur if every person guessed 100.",
+    "start": 52.618,
+    "duration": 5.92
+  },
+  {
+    "text": "In that case, 2/3 of the average \nwould be 66.66.",
+    "start": 58.538,
+    "duration": 4.73
+  },
+  {
+    "text": "Since everyone can figure this out,",
+    "start": 63.268,
+    "duration": 1.937
+  },
+  {
+    "text": "it wouldn’t make sense to guess \nanything higher than 67.",
+    "start": 65.205,
+    "duration": 4.42
+  },
+  {
+    "text": "If everyone playing comes to \nthis same conclusion,",
+    "start": 69.625,
+    "duration": 3.123
+  },
+  {
+    "text": "no one will guess higher than 67.",
+    "start": 72.748,
+    "duration": 2.769
+  },
+  {
+    "text": "Now 67 is the new highest \npossible average,",
+    "start": 75.517,
+    "duration": 4.142
+  },
+  {
+    "text": "so no reasonable guess should be \nhigher than ⅔ of that, which is 44.",
+    "start": 79.659,
+    "duration": 5.78
+  },
+  {
+    "text": "This logic can be extended further \nand further.",
+    "start": 85.439,
+    "duration": 3.541
+  },
+  {
+    "text": "With each step, the highest possible \nlogical answer keeps getting smaller.",
+    "start": 88.98,
+    "duration": 4.73
+  },
+  {
+    "text": "So it would seem sensible to guess the \nlowest number possible.",
+    "start": 93.71,
+    "duration": 4.565
+  },
+  {
+    "text": "And indeed, if everyone chose zero,",
+    "start": 98.275,
+    "duration": 2.858
+  },
+  {
+    "text": "the game would reach what’s known \nas a Nash Equilibrium.",
+    "start": 101.133,
+    "duration": 3.932
+  },
+  {
+    "text": "This is a state where every player has \nchosen the best possible strategy",
+    "start": 105.065,
+    "duration": 4.354
+  },
+  {
+    "text": "for themselves given \neveryone else playing,",
+    "start": 109.419,
+    "duration": 3.105
+  },
+  {
+    "text": "and no individual player can benefit \nby choosing differently.",
+    "start": 112.524,
+    "duration": 4.81
+  },
+  {
+    "text": "But, that’s not what happens \nin the real world.",
+    "start": 117.334,
+    "duration": 4.18
+  },
+  {
+    "text": "People, as it turns out, either aren’t \nperfectly rational,",
+    "start": 121.514,
+    "duration": 3.965
+  },
+  {
+    "text": "or don’t expect each other \nto be perfectly rational.",
+    "start": 125.479,
+    "duration": 3.559
+  },
+  {
+    "text": "Or, perhaps, it’s some combination \nof the two.",
+    "start": 129.038,
+    "duration": 3.331
+  },
+  {
+    "text": "When this game is played in \nreal-world settings,",
+    "start": 132.369,
+    "duration": 2.85
+  },
+  {
+    "text": "the average tends to be somewhere \nbetween 20 and 35.",
+    "start": 135.219,
+    "duration": 5.0
+  },
+  {
+    "text": "Danish newspaper Politiken ran the game \nwith over 19,000 readers participating,",
+    "start": 140.219,
+    "duration": 5.857
+  },
+  {
+    "text": "resulting in an average of roughly 22, \nmaking the correct answer 14.",
+    "start": 146.076,
+    "duration": 5.98
+  },
+  {
+    "text": "For our audience, the average was 31.3.",
+    "start": 152.056,
+    "duration": 3.702
+  },
+  {
+    "text": "So if you guessed 21 as 2/3 of \nthe average, well done.",
+    "start": 155.758,
+    "duration": 5.26
+  },
+  {
+    "text": "Economic game theorists have a \nway of modeling this interplay",
+    "start": 161.018,
+    "duration": 3.663
+  },
+  {
+    "text": "between rationality and practicality \ncalled k-level reasoning.",
+    "start": 164.681,
+    "duration": 5.121
+  },
+  {
+    "text": "K stands for the number of times a \ncycle of reasoning is repeated.",
+    "start": 169.802,
+    "duration": 4.84
+  },
+  {
+    "text": "A person playing at k-level 0 would \napproach our game naively,",
+    "start": 174.642,
+    "duration": 4.307
+  },
+  {
+    "text": "guessing a number at random without \nthinking about the other players.",
+    "start": 178.949,
+    "duration": 3.727
+  },
+  {
+    "text": "At k-level 1, a player would assume \neveryone else was playing at level 0,",
+    "start": 182.676,
+    "duration": 5.2
+  },
+  {
+    "text": "resulting in an average of 50, \nand thus guess 33.",
+    "start": 187.876,
+    "duration": 4.54
+  },
+  {
+    "text": "At k-level 2, they’d assume that everyone \nelse was playing at level 1,",
+    "start": 192.416,
+    "duration": 4.776
+  },
+  {
+    "text": "leading them to guess 22.",
+    "start": 197.192,
+    "duration": 2.3
+  },
+  {
+    "text": "It would take 12 k-levels to reach 0.",
+    "start": 199.492,
+    "duration": 3.604
+  },
+  {
+    "text": "The evidence suggests that most \npeople stop at 1 or 2 k-levels.",
+    "start": 203.096,
+    "duration": 4.82
+  },
+  {
+    "text": "And that’s useful to know,",
+    "start": 207.916,
+    "duration": 1.479
+  },
+  {
+    "text": "because k-level thinking comes into \nplay in high-stakes situations.",
+    "start": 209.395,
+    "duration": 4.61
+  },
+  {
+    "text": "For example, stock traders evaluate stocks\nnot only based on earnings reports,",
+    "start": 214.005,
+    "duration": 5.374
+  },
+  {
+    "text": "but also on the value that others \nplace on those numbers.",
+    "start": 219.379,
+    "duration": 3.733
+  },
+  {
+    "text": "And during penalty kicks in soccer,",
+    "start": 223.112,
+    "duration": 2.29
+  },
+  {
+    "text": "both the shooter and the goalie decide \nwhether to go right or left",
+    "start": 225.402,
+    "duration": 4.141
+  },
+  {
+    "text": "based on what they think the other \nperson is thinking.",
+    "start": 229.543,
+    "duration": 3.192
+  },
+  {
+    "text": "Goalies often memorize the patterns of \ntheir opponents ahead of time,",
+    "start": 232.735,
+    "duration": 3.956
+  },
+  {
+    "text": "but penalty shooters know that \nand can plan accordingly.",
+    "start": 236.691,
+    "duration": 3.597
+  },
+  {
+    "text": "In each case, participants must weigh \ntheir own understanding",
+    "start": 240.288,
+    "duration": 3.263
+  },
+  {
+    "text": "of the best course of action against how \nwell they think other participants",
+    "start": 243.551,
+    "duration": 4.192
+  },
+  {
+    "text": "understand the situation.",
+    "start": 247.743,
+    "duration": 2.401
+  },
+  {
+    "text": "But 1 or 2 k-levels is by no means \na hard and fast rule—",
+    "start": 250.144,
+    "duration": 4.78
+  },
+  {
+    "text": "simply being conscious of this tendency \ncan make people adjust their expectations.",
+    "start": 254.924,
+    "duration": 5.421
+  },
+  {
+    "text": "For instance, what would happen \nif people played the 2/3 game",
+    "start": 260.345,
+    "duration": 4.012
+  },
+  {
+    "text": "after understanding the difference between\nthe most logical approach",
+    "start": 264.357,
+    "duration": 3.893
+  },
+  {
+    "text": "and the most common?",
+    "start": 268.25,
+    "duration": 1.6
+  },
+  {
+    "text": "Submit your own guess at what 2/3 \nof the new average will be",
+    "start": 269.85,
+    "duration": 4.441
+  },
+  {
+    "text": "by using the form below,",
+    "start": 274.291,
+    "duration": 1.942
+  },
+  {
+    "text": "and we’ll find out.",
+    "start": 276.233,
+    "duration": 1.58
+  }
+]

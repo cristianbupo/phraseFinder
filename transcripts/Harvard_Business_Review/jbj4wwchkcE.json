@@ -1,0 +1,4252 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.0,
+    "duration": 3.402
+  },
+  {
+    "text": "ADI IGNATIUS: Hi.",
+    "start": 13.232,
+    "duration": 0.708
+  },
+  {
+    "text": "Welcome to Harvard Business\nReview's The New World of Work.",
+    "start": 13.94,
+    "duration": 2.55
+  },
+  {
+    "text": "I'm Adi Ignatius, Editor in\nChief of Harvard Business",
+    "start": 16.49,
+    "duration": 2.46
+  },
+  {
+    "text": "Review.",
+    "start": 18.95,
+    "duration": 0.753
+  },
+  {
+    "text": "It's great to have you here.",
+    "start": 19.703,
+    "duration": 1.167
+  },
+  {
+    "text": "Every week on this show, I speak\nto a CEO or another leading",
+    "start": 20.87,
+    "duration": 3.79
+  },
+  {
+    "text": "thinker.",
+    "start": 24.66,
+    "duration": 0.5
+  },
+  {
+    "text": "And we talk about this\nreset moment for all of us",
+    "start": 25.16,
+    "duration": 3.0
+  },
+  {
+    "text": "in how we work, how we\ncollaborate, how we innovate.",
+    "start": 28.16,
+    "duration": 2.58
+  },
+  {
+    "text": "So we have a great guest today.",
+    "start": 30.74,
+    "duration": 1.78
+  },
+  {
+    "text": "But before I introduce him, a\nword from our sponsor, Unisys.",
+    "start": 32.52,
+    "duration": 4.04
+  },
+  {
+    "text": "Where some see barriers,\nUnisys sees breakthroughs.",
+    "start": 36.56,
+    "duration": 3.06
+  },
+  {
+    "text": "Unisys pushes what's possible\nacross digital workplace, app",
+    "start": 39.62,
+    "duration": 3.87
+  },
+  {
+    "text": "modernization,\ncloud, and beyond.",
+    "start": 43.49,
+    "duration": 2.52
+  },
+  {
+    "text": "Unisys-- keep breaking through.",
+    "start": 46.01,
+    "duration": 4.098
+  },
+  {
+    "text": "If you like this\ncontent, I also want",
+    "start": 50.108,
+    "duration": 1.542
+  },
+  {
+    "text": "to make a quick pitch for our\nflagship podcast, IdeaCast.",
+    "start": 51.65,
+    "duration": 6.03
+  },
+  {
+    "text": "Same format as this.",
+    "start": 57.68,
+    "duration": 2.49
+  },
+  {
+    "text": "One of our editor hosts\nspeaks to somebody",
+    "start": 60.17,
+    "duration": 2.4
+  },
+  {
+    "text": "who has big ideas about the\nworkplace, about management,",
+    "start": 62.57,
+    "duration": 4.088
+  },
+  {
+    "text": "about the future of work.",
+    "start": 66.658,
+    "duration": 1.042
+  },
+  {
+    "text": "So check us out wherever\nyou get your podcasts.",
+    "start": 67.7,
+    "duration": 2.68
+  },
+  {
+    "text": "And we also have a newsletter\nassociated with this show,",
+    "start": 70.38,
+    "duration": 3.725
+  },
+  {
+    "text": "with The New World of Work.",
+    "start": 74.105,
+    "duration": 1.125
+  },
+  {
+    "text": "So if you're a subscriber,\ngo hbr.org/newsletters.",
+    "start": 75.23,
+    "duration": 5.07
+  },
+  {
+    "text": "It's something like that.",
+    "start": 80.3,
+    "duration": 1.56
+  },
+  {
+    "text": "And you can subscribe to The\nNew World of Work newsletter.",
+    "start": 81.86,
+    "duration": 2.46
+  },
+  {
+    "text": "So with that, I want to\nintroduce our guest today.",
+    "start": 84.32,
+    "duration": 2.73
+  },
+  {
+    "text": "And he is Tiger Tygarajan, who\nis the CEO of Genpact, which",
+    "start": 87.05,
+    "duration": 5.19
+  },
+  {
+    "text": "is a global firm\nthat advises clients",
+    "start": 92.24,
+    "duration": 2.1
+  },
+  {
+    "text": "on digital transformation.",
+    "start": 94.34,
+    "duration": 2.07
+  },
+  {
+    "text": "Tiger himself helped\ntransform a division",
+    "start": 96.41,
+    "duration": 2.43
+  },
+  {
+    "text": "of General Electric, GE\nCapital International Services,",
+    "start": 98.84,
+    "duration": 3.51
+  },
+  {
+    "text": "into Genpact, which\nis a company that",
+    "start": 102.35,
+    "duration": 2.37
+  },
+  {
+    "text": "now has more than 100,000\nemployees and annual revenue",
+    "start": 104.72,
+    "duration": 3.72
+  },
+  {
+    "text": "of $4 billion.",
+    "start": 108.44,
+    "duration": 1.56
+  },
+  {
+    "text": "He originally served\nas its COO, and since",
+    "start": 110.0,
+    "duration": 3.0
+  },
+  {
+    "text": "2011, has been Genpact's CEO.",
+    "start": 113.0,
+    "duration": 3.15
+  },
+  {
+    "text": "So Tiger, welcome to the show.",
+    "start": 116.15,
+    "duration": 1.673
+  },
+  {
+    "text": "TIGER TYGARAJAN:\nAli, thank you so",
+    "start": 117.823,
+    "duration": 1.417
+  },
+  {
+    "text": "much for having me on the show.",
+    "start": 119.24,
+    "duration": 1.14
+  },
+  {
+    "text": "Thank you.",
+    "start": 120.38,
+    "duration": 0.58
+  },
+  {
+    "text": "ADI IGNATIUS: All right.",
+    "start": 120.96,
+    "duration": 0.29
+  },
+  {
+    "text": "Well, let's jump right into it.",
+    "start": 121.25,
+    "duration": 1.71
+  },
+  {
+    "text": "So as I said, a lot of\nthe work that you do",
+    "start": 122.96,
+    "duration": 1.95
+  },
+  {
+    "text": "is advising companies\nthat are going digital.",
+    "start": 124.91,
+    "duration": 4.525
+  },
+  {
+    "text": "I want to ask you about that\na little bit because I would",
+    "start": 129.435,
+    "duration": 2.375
+  },
+  {
+    "text": "imagine practically\nevery company",
+    "start": 131.81,
+    "duration": 1.65
+  },
+  {
+    "text": "describes itself at\nthis point as digital.",
+    "start": 133.46,
+    "duration": 3.87
+  },
+  {
+    "text": "But you're probably seeing\na more sophisticated--",
+    "start": 137.33,
+    "duration": 2.445
+  },
+  {
+    "text": "you have a more\nsophisticated lens on this.",
+    "start": 139.775,
+    "duration": 2.325
+  },
+  {
+    "text": "So talk about-- what is\nthe biggest blind spot",
+    "start": 142.1,
+    "duration": 2.52
+  },
+  {
+    "text": "for companies that are\non this transformation?",
+    "start": 144.62,
+    "duration": 3.35
+  },
+  {
+    "text": "TIGER TYGARAJAN: So Adi, it's\na great question because we're",
+    "start": 147.97,
+    "duration": 2.5
+  },
+  {
+    "text": "clearly seeing every\ncompany think through,",
+    "start": 150.47,
+    "duration": 3.63
+  },
+  {
+    "text": "what does digital\ntransformation mean?",
+    "start": 154.1,
+    "duration": 1.59
+  },
+  {
+    "text": "And the first thing\nI'll say is we've",
+    "start": 155.69,
+    "duration": 1.86
+  },
+  {
+    "text": "got to distinguish what one\ncould call digitization, which",
+    "start": 157.55,
+    "duration": 3.21
+  },
+  {
+    "text": "is automating processes,\nmaking it straight through,",
+    "start": 160.76,
+    "duration": 2.49
+  },
+  {
+    "text": "touchless, just no\nhuman touch it, as",
+    "start": 163.25,
+    "duration": 3.99
+  },
+  {
+    "text": "compared to digital\ntransformation, which is really",
+    "start": 167.24,
+    "duration": 3.36
+  },
+  {
+    "text": "running the entire\nbusiness differently,",
+    "start": 170.6,
+    "duration": 2.34
+  },
+  {
+    "text": "having people take\ndecisions differently,",
+    "start": 172.94,
+    "duration": 2.55
+  },
+  {
+    "text": "leveraging technology,\nand tools, and the cloud,",
+    "start": 175.49,
+    "duration": 3.81
+  },
+  {
+    "text": "and AI, and machine learning,\ndramatically improving",
+    "start": 179.3,
+    "duration": 4.2
+  },
+  {
+    "text": "user experience,\ncustomer experience,",
+    "start": 183.5,
+    "duration": 1.87
+  },
+  {
+    "text": "all of those things.",
+    "start": 185.37,
+    "duration": 1.16
+  },
+  {
+    "text": "So parsing those two\nwould be important.",
+    "start": 186.53,
+    "duration": 2.35
+  },
+  {
+    "text": "And when it comes to\ndigital transformation,",
+    "start": 188.88,
+    "duration": 3.23
+  },
+  {
+    "text": "one of the big\nlearnings we've had",
+    "start": 192.11,
+    "duration": 1.65
+  },
+  {
+    "text": "is that it's not just\nabout technology.",
+    "start": 193.76,
+    "duration": 2.59
+  },
+  {
+    "text": "It's about processes.",
+    "start": 196.35,
+    "duration": 1.35
+  },
+  {
+    "text": "It's about the data\nunderlying those processes.",
+    "start": 197.7,
+    "duration": 3.39
+  },
+  {
+    "text": "It's about people\nbecause in the end,",
+    "start": 201.09,
+    "duration": 2.09
+  },
+  {
+    "text": "you really want to have people\nchange the way they work.",
+    "start": 203.18,
+    "duration": 4.782
+  },
+  {
+    "text": "And that's where you really\nachieve digital transformation.",
+    "start": 207.962,
+    "duration": 2.458
+  },
+  {
+    "text": "So if you ask me for the\nsingle biggest roadblock,",
+    "start": 210.42,
+    "duration": 2.18
+  },
+  {
+    "text": "it's how do you drive change\nthrough an organization?",
+    "start": 212.6,
+    "duration": 2.813
+  },
+  {
+    "text": "And by the way, the more\nsuccessful an organization,",
+    "start": 215.413,
+    "duration": 2.167
+  },
+  {
+    "text": "the more that challenge\nincreases, as you can imagine.",
+    "start": 217.58,
+    "duration": 3.03
+  },
+  {
+    "text": "ADI IGNATIUS: So\njust to the audience,",
+    "start": 220.61,
+    "duration": 1.72
+  },
+  {
+    "text": "if you have questions for\nTiger, put them into the chat.",
+    "start": 222.33,
+    "duration": 2.333
+  },
+  {
+    "text": "And I'll try to get to\naudience questions later,",
+    "start": 224.663,
+    "duration": 2.067
+  },
+  {
+    "text": "but I want to pick up on what\nyou were just talking about.",
+    "start": 226.73,
+    "duration": 2.873
+  },
+  {
+    "text": "So you were saying\none of the keys",
+    "start": 229.603,
+    "duration": 1.417
+  },
+  {
+    "text": "to digital transformation\nis how we're interacting",
+    "start": 231.02,
+    "duration": 4.2
+  },
+  {
+    "text": "with our colleagues.",
+    "start": 235.22,
+    "duration": 1.313
+  },
+  {
+    "text": "What do you mean\nby that, exactly?",
+    "start": 236.533,
+    "duration": 1.417
+  },
+  {
+    "text": "What's the digital version?",
+    "start": 237.95,
+    "duration": 1.69
+  },
+  {
+    "text": "What's the most effective\nversion of that?",
+    "start": 239.64,
+    "duration": 1.89
+  },
+  {
+    "text": "TIGER TYGARAJAN: So there\nare many versions of that.",
+    "start": 241.53,
+    "duration": 1.32
+  },
+  {
+    "text": "So let's take a\ncouple of examples.",
+    "start": 242.85,
+    "duration": 1.91
+  },
+  {
+    "text": "So think about a bank that lends\nto small businesses, something",
+    "start": 244.76,
+    "duration": 7.86
+  },
+  {
+    "text": "that's very important for\nthe economy, something",
+    "start": 252.62,
+    "duration": 2.31
+  },
+  {
+    "text": "that a lot of banks do.",
+    "start": 254.93,
+    "duration": 1.5
+  },
+  {
+    "text": "And the application comes in.",
+    "start": 256.43,
+    "duration": 2.82
+  },
+  {
+    "text": "Typically, someone in\nan operations function",
+    "start": 259.25,
+    "duration": 3.69
+  },
+  {
+    "text": "puts all the data that is\navailable in the application",
+    "start": 262.94,
+    "duration": 2.25
+  },
+  {
+    "text": "onto the system.",
+    "start": 265.19,
+    "duration": 1.15
+  },
+  {
+    "text": "And then the system\nthen lines up",
+    "start": 266.34,
+    "duration": 3.14
+  },
+  {
+    "text": "and takes the application to\na risk officer, whose job it",
+    "start": 269.48,
+    "duration": 2.795
+  },
+  {
+    "text": "is to evaluate\ntheir application,",
+    "start": 272.275,
+    "duration": 1.375
+  },
+  {
+    "text": "blah, blah, and take a decision.",
+    "start": 273.65,
+    "duration": 1.95
+  },
+  {
+    "text": "Now the reality is that\nyou have a human who",
+    "start": 275.6,
+    "duration": 4.17
+  },
+  {
+    "text": "is prone to making errors,\nwho has biases, et cetera,",
+    "start": 279.77,
+    "duration": 3.18
+  },
+  {
+    "text": "often do that underwriting.",
+    "start": 282.95,
+    "duration": 2.43
+  },
+  {
+    "text": "You change that to a\ncompletely transformed way",
+    "start": 285.38,
+    "duration": 3.45
+  },
+  {
+    "text": "of running that\nlending operation",
+    "start": 288.83,
+    "duration": 2.07
+  },
+  {
+    "text": "and approval of a loan.",
+    "start": 290.9,
+    "duration": 1.41
+  },
+  {
+    "text": "You could think about the\napplication coming in, getting",
+    "start": 292.31,
+    "duration": 2.4
+  },
+  {
+    "text": "read by a machine, getting\nported onto the technology.",
+    "start": 294.71,
+    "duration": 4.35
+  },
+  {
+    "text": "The technology then uses\npast data and patterns",
+    "start": 299.06,
+    "duration": 3.6
+  },
+  {
+    "text": "to say here's the\nkind of prediction",
+    "start": 302.66,
+    "duration": 2.52
+  },
+  {
+    "text": "that I have about\nthis customer--",
+    "start": 305.18,
+    "duration": 2.43
+  },
+  {
+    "text": "payments, what the\ncustomer likes,",
+    "start": 307.61,
+    "duration": 1.89
+  },
+  {
+    "text": "the interest rate that works,\nshould you approve or not,",
+    "start": 309.5,
+    "duration": 2.88
+  },
+  {
+    "text": "et cetera.",
+    "start": 312.38,
+    "duration": 0.63
+  },
+  {
+    "text": "And then finally,\nthe risk officer then",
+    "start": 313.01,
+    "duration": 2.1
+  },
+  {
+    "text": "takes a look at it, and\nthen takes a final decision.",
+    "start": 315.11,
+    "duration": 2.46
+  },
+  {
+    "text": "You can drop cycle time\nfor approving a loan from--",
+    "start": 317.57,
+    "duration": 4.59
+  },
+  {
+    "text": "sometimes, it takes 20 days--",
+    "start": 322.16,
+    "duration": 2.07
+  },
+  {
+    "text": "to minutes and hours.",
+    "start": 324.23,
+    "duration": 2.49
+  },
+  {
+    "text": "And the impact that has on\nthe customer, the delight",
+    "start": 326.72,
+    "duration": 2.84
+  },
+  {
+    "text": "of the customer, the\nfact that it actually",
+    "start": 329.56,
+    "duration": 1.75
+  },
+  {
+    "text": "drives economic value\nfor the customer,",
+    "start": 331.31,
+    "duration": 2.1
+  },
+  {
+    "text": "and therefore for\neveryone, is what",
+    "start": 333.41,
+    "duration": 2.132
+  },
+  {
+    "text": "really digital transformation\nis about in that one example.",
+    "start": 335.542,
+    "duration": 2.458
+  },
+  {
+    "text": "And you can apply\nthe same example",
+    "start": 338.0,
+    "duration": 1.417
+  },
+  {
+    "text": "to supply chain, where\na retailer places",
+    "start": 339.417,
+    "duration": 3.863
+  },
+  {
+    "text": "an order for milk, or\nchocolates, or cheese.",
+    "start": 343.28,
+    "duration": 4.11
+  },
+  {
+    "text": "And that has to be processed.",
+    "start": 347.39,
+    "duration": 1.765
+  },
+  {
+    "text": "Now all of that can be\ndone, again, by the machine,",
+    "start": 349.155,
+    "duration": 2.125
+  },
+  {
+    "text": "including getting the truck,\ngetting the right truck,",
+    "start": 351.28,
+    "duration": 3.05
+  },
+  {
+    "text": "having the best route,\ndriving low carbon",
+    "start": 354.33,
+    "duration": 3.45
+  },
+  {
+    "text": "footprint, not just lower cost.",
+    "start": 357.78,
+    "duration": 1.77
+  },
+  {
+    "text": "Those are the kind of things\nthat people are really",
+    "start": 359.55,
+    "duration": 2.125
+  },
+  {
+    "text": "beginning to do in order to\nchange the way a business runs.",
+    "start": 361.675,
+    "duration": 2.935
+  },
+  {
+    "text": "ADI IGNATIUS: All right.",
+    "start": 364.61,
+    "duration": 1.0
+  },
+  {
+    "text": "So if you're talking\nabout machines,",
+    "start": 365.61,
+    "duration": 1.632
+  },
+  {
+    "text": "machine learning,\nmachine response,",
+    "start": 367.242,
+    "duration": 1.458
+  },
+  {
+    "text": "we've got to talk about OpenAI.",
+    "start": 368.7,
+    "duration": 2.07
+  },
+  {
+    "text": "We've got to talk about ChatGPT.",
+    "start": 370.77,
+    "duration": 1.51
+  },
+  {
+    "text": "So we did the show last week\nfrom Davos, the World Economic",
+    "start": 372.28,
+    "duration": 2.63
+  },
+  {
+    "text": "Forum in Switzerland.",
+    "start": 374.91,
+    "duration": 1.74
+  },
+  {
+    "text": "And I probably had more\nconversations about ChatGPT",
+    "start": 376.65,
+    "duration": 3.48
+  },
+  {
+    "text": "than about any other topic.",
+    "start": 380.13,
+    "duration": 1.35
+  },
+  {
+    "text": "So everybody's playing with it.",
+    "start": 381.48,
+    "duration": 2.308
+  },
+  {
+    "text": "I'm sure you're playing with\nit, experimenting with it.",
+    "start": 383.788,
+    "duration": 2.292
+  },
+  {
+    "text": "I'd love your thoughts on--",
+    "start": 386.08,
+    "duration": 2.3
+  },
+  {
+    "text": "what is that going\nto do to business?",
+    "start": 388.38,
+    "duration": 2.2
+  },
+  {
+    "text": "What is that going\nto do to jobs?",
+    "start": 390.58,
+    "duration": 2.55
+  },
+  {
+    "text": "I'm amazed by the technology.",
+    "start": 393.13,
+    "duration": 1.49
+  },
+  {
+    "text": "I'm also aware of its\nlimitations at this point,",
+    "start": 394.62,
+    "duration": 2.275
+  },
+  {
+    "text": "but I think it's going\nto get better quickly.",
+    "start": 396.895,
+    "duration": 1.875
+  },
+  {
+    "text": "What are some of your early\nthoughts about ChatGPT",
+    "start": 398.77,
+    "duration": 3.08
+  },
+  {
+    "text": "and what it says about\nthe future of AI?",
+    "start": 401.85,
+    "duration": 2.22
+  },
+  {
+    "text": "TIGER TYGARAJAN: Yeah,\nI think it's obviously",
+    "start": 404.07,
+    "duration": 2.07
+  },
+  {
+    "text": "very, very topical.",
+    "start": 406.14,
+    "duration": 1.59
+  },
+  {
+    "text": "I've had a couple of hundred of\nmy team spend a couple of days",
+    "start": 407.73,
+    "duration": 3.96
+  },
+  {
+    "text": "kicking off the year just\nthe last couple of days.",
+    "start": 411.69,
+    "duration": 2.61
+  },
+  {
+    "text": "And ChatGPT has been one\nof the central themes",
+    "start": 414.3,
+    "duration": 2.97
+  },
+  {
+    "text": "that people kept bringing up.",
+    "start": 417.27,
+    "duration": 2.04
+  },
+  {
+    "text": "I'll start by saying ChatGPT is\none more step in the evolution",
+    "start": 419.31,
+    "duration": 4.95
+  },
+  {
+    "text": "and the sophistication of\nAI and AI technologies.",
+    "start": 424.26,
+    "duration": 4.59
+  },
+  {
+    "text": "Not that unexpected.",
+    "start": 428.85,
+    "duration": 2.43
+  },
+  {
+    "text": "This progression\nhas been expected,",
+    "start": 431.28,
+    "duration": 2.25
+  },
+  {
+    "text": "and will continue\nto make progress.",
+    "start": 433.53,
+    "duration": 1.5
+  },
+  {
+    "text": "And the view that we've\nalways had, I've always had,",
+    "start": 435.03,
+    "duration": 2.67
+  },
+  {
+    "text": "is that it will change\nthe way work gets done.",
+    "start": 437.7,
+    "duration": 4.14
+  },
+  {
+    "text": "I've had a clear view that\nit does not replace labor.",
+    "start": 441.84,
+    "duration": 5.76
+  },
+  {
+    "text": "It changes the way that\nlabor will get used.",
+    "start": 447.6,
+    "duration": 1.98
+  },
+  {
+    "text": "It changes the skills that\nare needed, et cetera.",
+    "start": 449.58,
+    "duration": 2.07
+  },
+  {
+    "text": "I almost correlate this to the\ninvention, and the building,",
+    "start": 451.65,
+    "duration": 6.87
+  },
+  {
+    "text": "and the spread of calculators\nor Excel spreadsheets.",
+    "start": 458.52,
+    "duration": 5.123
+  },
+  {
+    "text": "Go back to the time when\nwe didn't have calculators.",
+    "start": 463.643,
+    "duration": 2.167
+  },
+  {
+    "text": "It was important for people\nto know how to add, subtract,",
+    "start": 465.81,
+    "duration": 3.79
+  },
+  {
+    "text": "multiply, divide.",
+    "start": 469.6,
+    "duration": 0.938
+  },
+  {
+    "text": "And those were tests conducted\nbefore you hired someone",
+    "start": 470.538,
+    "duration": 2.292
+  },
+  {
+    "text": "into a particular job.",
+    "start": 472.83,
+    "duration": 1.245
+  },
+  {
+    "text": "You don't do that these\ndays because everyone",
+    "start": 474.075,
+    "duration": 1.875
+  },
+  {
+    "text": "uses a computer.",
+    "start": 475.95,
+    "duration": 1.507
+  },
+  {
+    "text": "Everyone uses Excel.",
+    "start": 477.457,
+    "duration": 0.833
+  },
+  {
+    "text": "Everyone uses a calculator.",
+    "start": 478.29,
+    "duration": 1.17
+  },
+  {
+    "text": "So it becomes a common\nplatform that everyone uses.",
+    "start": 479.46,
+    "duration": 2.79
+  },
+  {
+    "text": "Now the question is\nwhat can you do with it?",
+    "start": 482.25,
+    "duration": 2.41
+  },
+  {
+    "text": "How do you use it?",
+    "start": 484.66,
+    "duration": 0.9
+  },
+  {
+    "text": "How do you create value?",
+    "start": 485.56,
+    "duration": 1.14
+  },
+  {
+    "text": "So our view is that\nChatGPT is going",
+    "start": 486.7,
+    "duration": 2.39
+  },
+  {
+    "text": "to open up a whole set of\navenues for value creation.",
+    "start": 489.09,
+    "duration": 5.065
+  },
+  {
+    "text": "I heard someone talk\nabout an example",
+    "start": 494.155,
+    "duration": 2.135
+  },
+  {
+    "text": "just in the last few\ndays, where a developer",
+    "start": 496.29,
+    "duration": 3.21
+  },
+  {
+    "text": "has been able to\nuse ChatGPT in order",
+    "start": 499.5,
+    "duration": 3.54
+  },
+  {
+    "text": "to pull government documents\nand serve it easily to someone",
+    "start": 503.04,
+    "duration": 4.86
+  },
+  {
+    "text": "deep inside a village\nin India in order",
+    "start": 507.9,
+    "duration": 3.42
+  },
+  {
+    "text": "to have the farmer take a better\ndecision on getting government",
+    "start": 511.32,
+    "duration": 5.4
+  },
+  {
+    "text": "subsidy, or ordering\nseeds, or fertilizers.",
+    "start": 516.72,
+    "duration": 2.55
+  },
+  {
+    "text": "So I think the vision that\nI've always had about AI",
+    "start": 519.27,
+    "duration": 3.0
+  },
+  {
+    "text": "is that it's going to make the\ncost of so many things lower,",
+    "start": 522.27,
+    "duration": 3.84
+  },
+  {
+    "text": "that it's going to increase\nthe spread of education,",
+    "start": 526.11,
+    "duration": 2.62
+  },
+  {
+    "text": "healthcare, all of those\nthings, where sometimes,",
+    "start": 528.73,
+    "duration": 4.58
+  },
+  {
+    "text": "the barrier for a couple of\nbillion people in the world",
+    "start": 533.31,
+    "duration": 2.61
+  },
+  {
+    "text": "is that the cost of those\nthings is very high.",
+    "start": 535.92,
+    "duration": 2.07
+  },
+  {
+    "text": "And the spread is very\ndifficult. So very optimistic",
+    "start": 537.99,
+    "duration": 3.24
+  },
+  {
+    "text": "view on this.",
+    "start": 541.23,
+    "duration": 0.588
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah.",
+    "start": 541.818,
+    "duration": 0.792
+  },
+  {
+    "text": "That's great.",
+    "start": 542.61,
+    "duration": 0.542
+  },
+  {
+    "text": "And then those are very\npositive use cases.",
+    "start": 543.152,
+    "duration": 3.088
+  },
+  {
+    "text": "At the very least, we're talking\nabout a short-term dislocation.",
+    "start": 546.24,
+    "duration": 3.96
+  },
+  {
+    "text": "Seeing the ability of\nChatGPT to write code quickly",
+    "start": 550.2,
+    "duration": 5.79
+  },
+  {
+    "text": "that's effective makes\nyou wonder about--",
+    "start": 555.99,
+    "duration": 2.52
+  },
+  {
+    "text": "code is the same thing.",
+    "start": 558.51,
+    "duration": 0.96
+  },
+  {
+    "text": "The people who used to sit\naround adding and subtracting",
+    "start": 559.47,
+    "duration": 2.55
+  },
+  {
+    "text": "were replaced by machines.",
+    "start": 562.02,
+    "duration": 2.085
+  },
+  {
+    "text": "Are coders going to be\nreplaced by machines?",
+    "start": 564.105,
+    "duration": 1.935
+  },
+  {
+    "text": "By the way, are\neditors are going",
+    "start": 566.04,
+    "duration": 1.375
+  },
+  {
+    "text": "to be replaced by machines?",
+    "start": 567.415,
+    "duration": 1.725
+  },
+  {
+    "text": "I could see the need\nfor an editor or two",
+    "start": 569.14,
+    "duration": 2.48
+  },
+  {
+    "text": "to make sure the machine is\ncoming up with good content.",
+    "start": 571.62,
+    "duration": 3.63
+  },
+  {
+    "text": "But aren't we talking\nabout far fewer individuals",
+    "start": 575.25,
+    "duration": 5.64
+  },
+  {
+    "text": "needed to collaborate\nwith the machines",
+    "start": 580.89,
+    "duration": 3.09
+  },
+  {
+    "text": "as they get better and faster?",
+    "start": 583.98,
+    "duration": 1.62
+  },
+  {
+    "text": "And I just wonder what\nall this white collar",
+    "start": 585.6,
+    "duration": 3.57
+  },
+  {
+    "text": "labor is going to do.",
+    "start": 589.17,
+    "duration": 1.39
+  },
+  {
+    "text": "TIGER TYGARAJAN: So\nthe answer is yes.",
+    "start": 590.56,
+    "duration": 3.44
+  },
+  {
+    "text": "We will probably\nneed far fewer x, y,",
+    "start": 594.0,
+    "duration": 2.31
+  },
+  {
+    "text": "and z, all the kind of\npeople you described.",
+    "start": 596.31,
+    "duration": 2.79
+  },
+  {
+    "text": "But we'll need a whole\nset of new people",
+    "start": 599.1,
+    "duration": 2.49
+  },
+  {
+    "text": "that we didn't need before.",
+    "start": 601.59,
+    "duration": 2.25
+  },
+  {
+    "text": "One of the things that I\nbelieve is going to happen--",
+    "start": 603.84,
+    "duration": 2.502
+  },
+  {
+    "text": "and this is a\njourney that actually",
+    "start": 606.342,
+    "duration": 1.458
+  },
+  {
+    "text": "has been on for some time.",
+    "start": 607.8,
+    "duration": 1.42
+  },
+  {
+    "text": "The importance of soft skills\nin everything in the world",
+    "start": 609.22,
+    "duration": 5.652
+  },
+  {
+    "text": "is just going to keep rising.",
+    "start": 614.872,
+    "duration": 1.208
+  },
+  {
+    "text": "The importance of\nbuilding relationships,",
+    "start": 616.08,
+    "duration": 1.86
+  },
+  {
+    "text": "empathy, delighting\nthe customer,",
+    "start": 617.94,
+    "duration": 4.08
+  },
+  {
+    "text": "really understanding the\nneeds of the customer",
+    "start": 622.02,
+    "duration": 2.07
+  },
+  {
+    "text": "by actually listening.",
+    "start": 624.09,
+    "duration": 2.7
+  },
+  {
+    "text": "Then the curiosity that\na human being brings--",
+    "start": 626.79,
+    "duration": 4.83
+  },
+  {
+    "text": "I don't think yet AI\nhas been programmed",
+    "start": 631.62,
+    "duration": 3.24
+  },
+  {
+    "text": "to actually become curious.",
+    "start": 634.86,
+    "duration": 2.37
+  },
+  {
+    "text": "In fact, AI has been programmed\nfor the reverse, which is, what",
+    "start": 637.23,
+    "duration": 2.7
+  },
+  {
+    "text": "has the pattern told us so far?",
+    "start": 639.93,
+    "duration": 1.42
+  },
+  {
+    "text": "And therefore, what moves\nshould make, whereas curiosity",
+    "start": 641.35,
+    "duration": 2.66
+  },
+  {
+    "text": "actually says that's the\nmove I probably should make,",
+    "start": 644.01,
+    "duration": 2.712
+  },
+  {
+    "text": "but I want to explore something\nthat I haven't done before.",
+    "start": 646.722,
+    "duration": 2.458
+  },
+  {
+    "text": "So I want to go north even\nthough the machine says",
+    "start": 649.18,
+    "duration": 2.42
+  },
+  {
+    "text": "go south.",
+    "start": 651.6,
+    "duration": 0.75
+  },
+  {
+    "text": "Only a human can do that.",
+    "start": 652.35,
+    "duration": 1.21
+  },
+  {
+    "text": "So we are big believers\nin augmented intelligence",
+    "start": 653.56,
+    "duration": 2.63
+  },
+  {
+    "text": "rather than artificial\nintelligence.",
+    "start": 656.19,
+    "duration": 2.07
+  },
+  {
+    "text": "And transition always has pain.",
+    "start": 658.26,
+    "duration": 3.45
+  },
+  {
+    "text": "Every technology\ntransition has had pain.",
+    "start": 661.71,
+    "duration": 1.86
+  },
+  {
+    "text": "Reskilling therefore takes\non a whole new meaning.",
+    "start": 663.57,
+    "duration": 3.585
+  },
+  {
+    "text": "It's been going on for some\nyears now in the world.",
+    "start": 667.155,
+    "duration": 2.125
+  },
+  {
+    "text": "And I think it just takes\non a whole new meaning",
+    "start": 669.28,
+    "duration": 2.0
+  },
+  {
+    "text": "as these technologies become\nmore pervasive, ubiquitous,",
+    "start": 671.28,
+    "duration": 3.06
+  },
+  {
+    "text": "and usable.",
+    "start": 674.34,
+    "duration": 1.283
+  },
+  {
+    "text": "ADI IGNATIUS: So\none thing ChatGPT",
+    "start": 675.623,
+    "duration": 1.417
+  },
+  {
+    "text": "is very bad at is\na sense of humor.",
+    "start": 677.04,
+    "duration": 3.78
+  },
+  {
+    "text": "And I keep trying to get\nit to write decent jokes.",
+    "start": 680.82,
+    "duration": 3.06
+  },
+  {
+    "text": "And they're always terrible.",
+    "start": 683.88,
+    "duration": 1.59
+  },
+  {
+    "text": "They're just basic puns.",
+    "start": 685.47,
+    "duration": 1.44
+  },
+  {
+    "text": "And it is responsive if\nyou say, that's not funny.",
+    "start": 686.91,
+    "duration": 2.81
+  },
+  {
+    "text": "That's just a basic pun.",
+    "start": 689.72,
+    "duration": 1.0
+  },
+  {
+    "text": "It'll say, all right\nand try another attempt,",
+    "start": 690.72,
+    "duration": 1.92
+  },
+  {
+    "text": "and try another attempt.",
+    "start": 692.64,
+    "duration": 1.0
+  },
+  {
+    "text": "But I think the joke\nwriters are safe,",
+    "start": 693.64,
+    "duration": 2.61
+  },
+  {
+    "text": "at least for another few years.",
+    "start": 696.25,
+    "duration": 2.98
+  },
+  {
+    "text": "But on the reskilling\nquestion, all right.",
+    "start": 699.23,
+    "duration": 2.11
+  },
+  {
+    "text": "So this isn't the\nfirst technology",
+    "start": 701.34,
+    "duration": 2.19
+  },
+  {
+    "text": "that has prompted a\nconversation like this.",
+    "start": 703.53,
+    "duration": 3.46
+  },
+  {
+    "text": "I have people tell me sometimes\nwe have good intentions.",
+    "start": 706.99,
+    "duration": 2.81
+  },
+  {
+    "text": "We're not very\ngood at reskilling.",
+    "start": 709.8,
+    "duration": 3.09
+  },
+  {
+    "text": "Whether it's on national\nlevels, or corporate levels,",
+    "start": 712.89,
+    "duration": 3.48
+  },
+  {
+    "text": "or by any other educational\nplatform, we talk a good game,",
+    "start": 716.37,
+    "duration": 5.55
+  },
+  {
+    "text": "but we're not very\ngood at reskilling.",
+    "start": 721.92,
+    "duration": 2.84
+  },
+  {
+    "text": "Give me your thoughts on where\nwe are, and what we need to do.",
+    "start": 724.76,
+    "duration": 4.28
+  },
+  {
+    "text": "Because we're talking about\nlarge numbers of people",
+    "start": 729.04,
+    "duration": 2.36
+  },
+  {
+    "text": "for various reasons\nwho need reskilling",
+    "start": 731.4,
+    "duration": 1.95
+  },
+  {
+    "text": "to succeed going forward.",
+    "start": 733.35,
+    "duration": 1.877
+  },
+  {
+    "text": "TIGER TYGARAJAN: Yes, Adi,\nthat has been a problem",
+    "start": 735.227,
+    "duration": 2.083
+  },
+  {
+    "text": "in the world for some time now.",
+    "start": 737.31,
+    "duration": 1.32
+  },
+  {
+    "text": "You're right.",
+    "start": 738.63,
+    "duration": 0.542
+  },
+  {
+    "text": "And the bad news is I think\nwe still have a long way",
+    "start": 739.172,
+    "duration": 3.868
+  },
+  {
+    "text": "to go, both in\nterms of the impact",
+    "start": 743.04,
+    "duration": 2.01
+  },
+  {
+    "text": "and therefore the response\nin terms of reskilling.",
+    "start": 745.05,
+    "duration": 2.67
+  },
+  {
+    "text": "The good news-- the glass half\nempty, the optimist view--",
+    "start": 747.72,
+    "duration": 3.51
+  },
+  {
+    "text": "and I am an optimist-- is that\nover the last five-odd years,",
+    "start": 751.23,
+    "duration": 5.13
+  },
+  {
+    "text": "corporations, businesses\nsuch as ours--",
+    "start": 756.36,
+    "duration": 2.7
+  },
+  {
+    "text": "but we're not alone in this--\nhave taken significant steps",
+    "start": 759.06,
+    "duration": 3.81
+  },
+  {
+    "text": "to reskill their workforce.",
+    "start": 762.87,
+    "duration": 2.308
+  },
+  {
+    "text": "And the reason to do that\nis actually very simple",
+    "start": 765.178,
+    "duration": 2.042
+  },
+  {
+    "text": "because if you find\na way to do that,",
+    "start": 767.22,
+    "duration": 1.962
+  },
+  {
+    "text": "it becomes a\ncompetitive advantage.",
+    "start": 769.182,
+    "duration": 1.458
+  },
+  {
+    "text": "You actually excite\nyour employees.",
+    "start": 770.64,
+    "duration": 1.77
+  },
+  {
+    "text": "You actually make them\nvaluable for your clients",
+    "start": 772.41,
+    "duration": 2.82
+  },
+  {
+    "text": "and your customers as they\nlearn these technologies",
+    "start": 775.23,
+    "duration": 3.09
+  },
+  {
+    "text": "and use them.",
+    "start": 778.32,
+    "duration": 0.99
+  },
+  {
+    "text": "It requires a whole\nnew set of motivation,",
+    "start": 779.31,
+    "duration": 3.6
+  },
+  {
+    "text": "incentives, time allocation.",
+    "start": 782.91,
+    "duration": 2.94
+  },
+  {
+    "text": "It requires an understanding\nthat I've always had,",
+    "start": 785.85,
+    "duration": 3.79
+  },
+  {
+    "text": "which is I don't\nthink any more life is",
+    "start": 789.64,
+    "duration": 2.63
+  },
+  {
+    "text": "about 20 years of education\nfollowed by 40 years of work",
+    "start": 792.27,
+    "duration": 3.63
+  },
+  {
+    "text": "followed by, let's say, another\n40 years of \"retired life.\"",
+    "start": 795.9,
+    "duration": 3.87
+  },
+  {
+    "text": "It's actually about continuous,\nevery couple of years,",
+    "start": 799.77,
+    "duration": 2.52
+  },
+  {
+    "text": "refresh, reskill.",
+    "start": 802.29,
+    "duration": 2.7
+  },
+  {
+    "text": "Even maybe take time off to\ndo that a couple of months.",
+    "start": 804.99,
+    "duration": 3.24
+  },
+  {
+    "text": "And I think businesses must\nhave programs that do that.",
+    "start": 808.23,
+    "duration": 3.57
+  },
+  {
+    "text": "Platforms that allow\nreskilling to happen",
+    "start": 811.8,
+    "duration": 3.63
+  },
+  {
+    "text": "have become so much easier\nto use, so much better.",
+    "start": 815.43,
+    "duration": 2.91
+  },
+  {
+    "text": "And it's not about big\nclassroom training programs.",
+    "start": 818.34,
+    "duration": 2.97
+  },
+  {
+    "text": "It's bit-sized,\nvideo-based, gamified.",
+    "start": 821.31,
+    "duration": 3.42
+  },
+  {
+    "text": "We've done that\nacross the company.",
+    "start": 824.73,
+    "duration": 1.92
+  },
+  {
+    "text": "In the last 18 months, we've\nhad 70,000 out of 110,000",
+    "start": 826.65,
+    "duration": 5.67
+  },
+  {
+    "text": "of our global workforce\nenroll themselves and learn",
+    "start": 832.32,
+    "duration": 4.86
+  },
+  {
+    "text": "data analytics at the\nbase level using a program",
+    "start": 837.18,
+    "duration": 4.448
+  },
+  {
+    "text": "that we call Data Bridge.",
+    "start": 841.628,
+    "duration": 1.042
+  },
+  {
+    "text": "And it's caught on like\nwildfire because everyone",
+    "start": 842.67,
+    "duration": 3.57
+  },
+  {
+    "text": "needs to learn, wants to learn.",
+    "start": 846.24,
+    "duration": 1.568
+  },
+  {
+    "text": "And of course, we've\nbeen driving it.",
+    "start": 847.808,
+    "duration": 1.542
+  },
+  {
+    "text": "So now governments, educational\ninstitutions-- they all also",
+    "start": 849.35,
+    "duration": 6.31
+  },
+  {
+    "text": "have to approach this.",
+    "start": 855.66,
+    "duration": 0.94
+  },
+  {
+    "text": "But I sometimes think that at\nleast in the Western economies",
+    "start": 856.6,
+    "duration": 4.07
+  },
+  {
+    "text": "and the more democratic\nand capitalist economies,",
+    "start": 860.67,
+    "duration": 2.97
+  },
+  {
+    "text": "corporations such as ours\nhave to take the lead.",
+    "start": 863.64,
+    "duration": 3.54
+  },
+  {
+    "text": "ADI IGNATIUS: So I want\nto bring in a question",
+    "start": 867.18,
+    "duration": 2.31
+  },
+  {
+    "text": "from our audience\nthat's on topic.",
+    "start": 869.49,
+    "duration": 2.31
+  },
+  {
+    "text": "I don't want to just talk about\nhigh level technology and AI.",
+    "start": 871.8,
+    "duration": 3.75
+  },
+  {
+    "text": "But this is a good,\nprovocative question.",
+    "start": 875.55,
+    "duration": 2.8
+  },
+  {
+    "text": "This is from Chander in Zurich.",
+    "start": 878.35,
+    "duration": 2.48
+  },
+  {
+    "text": "And the question is, how could\ngenerative AI like ChatGPT",
+    "start": 880.83,
+    "duration": 4.17
+  },
+  {
+    "text": "potentially disrupt the business\nmodel for a firm like Genpact?",
+    "start": 885.0,
+    "duration": 5.045
+  },
+  {
+    "text": "TIGER TYGARAJAN: Oh, a lot.",
+    "start": 890.045,
+    "duration": 1.125
+  },
+  {
+    "text": "[LAUGHS] A lot.",
+    "start": 891.17,
+    "duration": 0.837
+  },
+  {
+    "text": "ADI IGNATIUS: Don't worry.",
+    "start": 892.007,
+    "duration": 1.083
+  },
+  {
+    "text": "Chatham House Rules here.",
+    "start": 893.09,
+    "duration": 1.09
+  },
+  {
+    "text": "So you can speak freely.",
+    "start": 894.18,
+    "duration": 2.093
+  },
+  {
+    "text": "TIGER TYGARAJAN: It's a lot.",
+    "start": 896.273,
+    "duration": 1.167
+  },
+  {
+    "text": "And when I'm responding to that\nquestion-- which by the way,",
+    "start": 897.44,
+    "duration": 2.95
+  },
+  {
+    "text": "a great question--",
+    "start": 900.39,
+    "duration": 0.9
+  },
+  {
+    "text": "I interpret the word\n\"disrupt\" in a positive",
+    "start": 901.29,
+    "duration": 5.24
+  },
+  {
+    "text": "and a problem sense, a\nthreat and an opportunity.",
+    "start": 906.53,
+    "duration": 3.69
+  },
+  {
+    "text": "So left to its own devices, the\nwork that we do will change.",
+    "start": 910.22,
+    "duration": 3.97
+  },
+  {
+    "text": "And if you don't do anything\nabout it, then of course,",
+    "start": 914.19,
+    "duration": 2.25
+  },
+  {
+    "text": "we are going to get disrupted.",
+    "start": 916.44,
+    "duration": 1.25
+  },
+  {
+    "text": "But the smart people,\nbusinesses like ours,",
+    "start": 917.69,
+    "duration": 4.35
+  },
+  {
+    "text": "and other businesses\nlike ours, will actually",
+    "start": 922.04,
+    "duration": 1.92
+  },
+  {
+    "text": "say, therefore, I'm\ngoing to find a way",
+    "start": 923.96,
+    "duration": 2.01
+  },
+  {
+    "text": "to use that technology.",
+    "start": 925.97,
+    "duration": 1.0
+  },
+  {
+    "text": "So if you think about--\nat the core, often,",
+    "start": 926.97,
+    "duration": 2.96
+  },
+  {
+    "text": "the work we do is take\ninformation from one source,",
+    "start": 929.93,
+    "duration": 4.26
+  },
+  {
+    "text": "take another information\nfrom another source,",
+    "start": 934.19,
+    "duration": 2.22
+  },
+  {
+    "text": "often from within the company--",
+    "start": 936.41,
+    "duration": 2.01
+  },
+  {
+    "text": "our client's company-- and then\ntake information, sometimes,",
+    "start": 938.42,
+    "duration": 2.67
+  },
+  {
+    "text": "from the outside world.",
+    "start": 941.09,
+    "duration": 1.74
+  },
+  {
+    "text": "It could be the weather report.",
+    "start": 942.83,
+    "duration": 1.35
+  },
+  {
+    "text": "It could be what's happening\nwith interest rates.",
+    "start": 944.18,
+    "duration": 3.03
+  },
+  {
+    "text": "And then bring\nall that together,",
+    "start": 947.21,
+    "duration": 2.22
+  },
+  {
+    "text": "apply mathematical and\nalgorithmic models to then take",
+    "start": 949.43,
+    "duration": 4.95
+  },
+  {
+    "text": "a decision that then gets\nput back into the system.",
+    "start": 954.38,
+    "duration": 2.94
+  },
+  {
+    "text": "At its core, a\nlot of the work we",
+    "start": 957.32,
+    "duration": 1.68
+  },
+  {
+    "text": "do, a lot of the work that\nknowledge workers do, is that.",
+    "start": 959.0,
+    "duration": 2.375
+  },
+  {
+    "text": "And then there are people\nwho build those models,",
+    "start": 961.375,
+    "duration": 2.042
+  },
+  {
+    "text": "code those models, et cetera.",
+    "start": 963.417,
+    "duration": 1.373
+  },
+  {
+    "text": "You could have a ChatGPT\ngenerative AI thing",
+    "start": 964.79,
+    "duration": 3.69
+  },
+  {
+    "text": "to actually do some of that.",
+    "start": 968.48,
+    "duration": 3.49
+  },
+  {
+    "text": "Having said that, it could also\nwrite the report that comes out",
+    "start": 971.97,
+    "duration": 2.955
+  },
+  {
+    "text": "of that, too, that says this\nis the decision that I took.",
+    "start": 974.925,
+    "duration": 2.375
+  },
+  {
+    "text": "And here is the rationale\nfor the decision.",
+    "start": 977.3,
+    "duration": 1.89
+  },
+  {
+    "text": "All of that, you could actually\nhave that ChatGPT generative",
+    "start": 979.19,
+    "duration": 5.22
+  },
+  {
+    "text": "AI do it.",
+    "start": 984.41,
+    "duration": 1.02
+  },
+  {
+    "text": "However, I would\nargue that you still",
+    "start": 985.43,
+    "duration": 2.52
+  },
+  {
+    "text": "sometimes need a lot of\ninformation from the customer.",
+    "start": 987.95,
+    "duration": 2.97
+  },
+  {
+    "text": "And it's not being provided.",
+    "start": 990.92,
+    "duration": 1.57
+  },
+  {
+    "text": "So you've got to\ncall the customer up,",
+    "start": 992.49,
+    "duration": 2.39
+  },
+  {
+    "text": "explain to them what\nthey need to provide.",
+    "start": 994.88,
+    "duration": 1.932
+  },
+  {
+    "text": "And they, then,\nneed to provide it.",
+    "start": 996.812,
+    "duration": 1.458
+  },
+  {
+    "text": "Two, you need a human to\nsay this is a gray zone.",
+    "start": 998.27,
+    "duration": 7.022
+  },
+  {
+    "text": "I don't think this is\nthe right decision.",
+    "start": 1005.292,
+    "duration": 1.708
+  },
+  {
+    "text": "I'm actually going to increase\nthe risk in my portfolio.",
+    "start": 1007.0,
+    "duration": 3.15
+  },
+  {
+    "text": "And therefore, I'm going to\nactually take a decision yes,",
+    "start": 1010.15,
+    "duration": 3.0
+  },
+  {
+    "text": "even though the credit score\nhere right now says a no.",
+    "start": 1013.15,
+    "duration": 3.54
+  },
+  {
+    "text": "So every aspect of the work\nthat knowledge workers do",
+    "start": 1016.69,
+    "duration": 5.1
+  },
+  {
+    "text": "will change.",
+    "start": 1021.79,
+    "duration": 0.81
+  },
+  {
+    "text": "I don't think there's\nany denying that.",
+    "start": 1022.6,
+    "duration": 1.92
+  },
+  {
+    "text": "There are going to\nbe firms that are",
+    "start": 1024.52,
+    "duration": 1.5
+  },
+  {
+    "text": "going to grab that disruption\nand be the disruptor.",
+    "start": 1026.02,
+    "duration": 3.407
+  },
+  {
+    "text": "And there are going to be\nothers who will get disrupted.",
+    "start": 1029.427,
+    "duration": 2.333
+  },
+  {
+    "text": "So the question is\nwho's more agile?",
+    "start": 1031.76,
+    "duration": 1.73
+  },
+  {
+    "text": "Who's more nimble?",
+    "start": 1033.49,
+    "duration": 0.75
+  },
+  {
+    "text": "Who has a culture to\nembrace new things?",
+    "start": 1034.24,
+    "duration": 1.98
+  },
+  {
+    "text": "Who has the culture to reskill?",
+    "start": 1036.22,
+    "duration": 1.322
+  },
+  {
+    "text": "That's going to\ndifferentiate the winners",
+    "start": 1037.542,
+    "duration": 1.708
+  },
+  {
+    "text": "from the losers in every\nindustry-- in our industry",
+    "start": 1039.25,
+    "duration": 2.339
+  },
+  {
+    "text": "as well.",
+    "start": 1041.589,
+    "duration": 0.881
+  },
+  {
+    "text": "ADI IGNATIUS: So here's\nanother question.",
+    "start": 1042.47,
+    "duration": 1.708
+  },
+  {
+    "text": "This is from Autumn from the US,\nfrom the city of Indianapolis,",
+    "start": 1044.178,
+    "duration": 3.052
+  },
+  {
+    "text": "who's asking how do you see AI\nimplementation into education,",
+    "start": 1047.23,
+    "duration": 4.95
+  },
+  {
+    "text": "specifically to prepare students\nwith these skills we're talking",
+    "start": 1052.18,
+    "duration": 3.12
+  },
+  {
+    "text": "about needed for the future?",
+    "start": 1055.3,
+    "duration": 4.51
+  },
+  {
+    "text": "In other words, to\nwhat extent will AI",
+    "start": 1059.81,
+    "duration": 2.12
+  },
+  {
+    "text": "be part of this retooling,\nreskilling effort?",
+    "start": 1061.93,
+    "duration": 2.508
+  },
+  {
+    "text": "TIGER TYGARAJAN:\nPhenomenal question.",
+    "start": 1064.438,
+    "duration": 1.542
+  },
+  {
+    "text": "And actually, it goes\nto the core of often,",
+    "start": 1065.98,
+    "duration": 3.63
+  },
+  {
+    "text": "when technologies start\nmaturing and start disrupting,",
+    "start": 1069.61,
+    "duration": 6.6
+  },
+  {
+    "text": "the answer and solution often\nis the technology itself.",
+    "start": 1076.21,
+    "duration": 3.34
+  },
+  {
+    "text": "So if you take the\ncase of AI and you say",
+    "start": 1079.55,
+    "duration": 3.32
+  },
+  {
+    "text": "it's going to disrupt jobs--",
+    "start": 1082.87,
+    "duration": 1.68
+  },
+  {
+    "text": "however, that same technology\nis going to create jobs.",
+    "start": 1084.55,
+    "duration": 3.85
+  },
+  {
+    "text": "Education is a great\nexample of that.",
+    "start": 1088.4,
+    "duration": 1.55
+  },
+  {
+    "text": "As I said, pick a number.",
+    "start": 1089.95,
+    "duration": 2.19
+  },
+  {
+    "text": "A billion and a half\npeople in the world",
+    "start": 1092.14,
+    "duration": 1.89
+  },
+  {
+    "text": "do not have access to\neducation of the kind",
+    "start": 1094.03,
+    "duration": 1.89
+  },
+  {
+    "text": "that, actually, they should\nhave partly driven by time,",
+    "start": 1095.92,
+    "duration": 4.39
+  },
+  {
+    "text": "asynchronous nature of their\neducation being required.",
+    "start": 1100.31,
+    "duration": 4.31
+  },
+  {
+    "text": "The creative back and forth\nthat often only a teacher can do",
+    "start": 1104.62,
+    "duration": 3.81
+  },
+  {
+    "text": "and that's very\ndifficult in places",
+    "start": 1108.43,
+    "duration": 2.34
+  },
+  {
+    "text": "like deep into the interiors of\nAfrica, India, Latin America,",
+    "start": 1110.77,
+    "duration": 3.46
+  },
+  {
+    "text": "and so on--",
+    "start": 1114.23,
+    "duration": 0.75
+  },
+  {
+    "text": "and all of a sudden, on\ndigital platforms with AI",
+    "start": 1114.98,
+    "duration": 3.62
+  },
+  {
+    "text": "sitting behind the\nscenes as an engine",
+    "start": 1118.6,
+    "duration": 2.73
+  },
+  {
+    "text": "and understanding the person\nwho needs to get educated",
+    "start": 1121.33,
+    "duration": 4.17
+  },
+  {
+    "text": "so that the right\nmaterial gets served",
+    "start": 1125.5,
+    "duration": 4.35
+  },
+  {
+    "text": "in 10-minute, 15-minute\nbit-sized, consumable, video,",
+    "start": 1129.85,
+    "duration": 3.39
+  },
+  {
+    "text": "gamified.",
+    "start": 1133.24,
+    "duration": 1.86
+  },
+  {
+    "text": "And dropping that cost\ndown to literally cents",
+    "start": 1135.1,
+    "duration": 3.164
+  },
+  {
+    "text": "versus tens of dollars\nwill change the game.",
+    "start": 1138.264,
+    "duration": 2.929
+  },
+  {
+    "text": "You suddenly bring a\nbillion and a half people",
+    "start": 1141.193,
+    "duration": 1.917
+  },
+  {
+    "text": "into the education workforce.",
+    "start": 1143.11,
+    "duration": 1.26
+  },
+  {
+    "text": "The pie for education\nwill expand.",
+    "start": 1144.37,
+    "duration": 2.37
+  },
+  {
+    "text": "The cost will reduce.",
+    "start": 1146.74,
+    "duration": 1.53
+  },
+  {
+    "text": "And therefore, more course\ncontent will be needed.",
+    "start": 1148.27,
+    "duration": 3.18
+  },
+  {
+    "text": "More people will be needed\nto make it gamified.",
+    "start": 1151.45,
+    "duration": 3.543
+  },
+  {
+    "text": "I can talk about a whole\nset of new industries",
+    "start": 1154.993,
+    "duration": 1.917
+  },
+  {
+    "text": "that will get created\njust on that one question.",
+    "start": 1156.91,
+    "duration": 2.79
+  },
+  {
+    "text": "ADI IGNATIUS: Are you bullish\non the metaverse at this point?",
+    "start": 1159.7,
+    "duration": 4.59
+  },
+  {
+    "text": "TIGER TYGARAJAN: Long term, yes.",
+    "start": 1164.29,
+    "duration": 2.7
+  },
+  {
+    "text": "And I want to\nexplain bullishness.",
+    "start": 1166.99,
+    "duration": 3.39
+  },
+  {
+    "text": "I'm bullish that it\nwill become a thing that",
+    "start": 1170.38,
+    "duration": 3.78
+  },
+  {
+    "text": "will become part of the way\npeople live their lives,",
+    "start": 1174.16,
+    "duration": 3.84
+  },
+  {
+    "text": "work gets done, business\ngets transacted, et cetera,",
+    "start": 1178.0,
+    "duration": 3.51
+  },
+  {
+    "text": "et cetera.",
+    "start": 1181.51,
+    "duration": 1.92
+  },
+  {
+    "text": "I worry a little\nbit about what it",
+    "start": 1183.43,
+    "duration": 1.62
+  },
+  {
+    "text": "does to human and\nsocial interaction.",
+    "start": 1185.05,
+    "duration": 3.51
+  },
+  {
+    "text": "Will it further drag humans\ninto the virtual world",
+    "start": 1188.56,
+    "duration": 5.01
+  },
+  {
+    "text": "at the expense of\ntime being spent",
+    "start": 1193.57,
+    "duration": 2.34
+  },
+  {
+    "text": "in the real world with\nreal people with nature?",
+    "start": 1195.91,
+    "duration": 2.36
+  },
+  {
+    "text": "And we can go on and on.",
+    "start": 1198.27,
+    "duration": 1.75
+  },
+  {
+    "text": "Over a hundred-year period,\nI guess in an accelerated",
+    "start": 1200.02,
+    "duration": 3.57
+  },
+  {
+    "text": "fashion, that's been happening.",
+    "start": 1203.59,
+    "duration": 2.68
+  },
+  {
+    "text": "And I do worry\nabout that because I",
+    "start": 1206.27,
+    "duration": 1.58
+  },
+  {
+    "text": "think there is real value\ncreated in the world when",
+    "start": 1207.85,
+    "duration": 4.17
+  },
+  {
+    "text": "people come together and\ndebate with each other,",
+    "start": 1212.02,
+    "duration": 2.77
+  },
+  {
+    "text": "fight with each other a little\nbit in a constructive way.",
+    "start": 1214.79,
+    "duration": 2.54
+  },
+  {
+    "text": "I worry a little bit that\nall of that joy of that",
+    "start": 1217.33,
+    "duration": 2.94
+  },
+  {
+    "text": "gets taken away.",
+    "start": 1220.27,
+    "duration": 1.208
+  },
+  {
+    "text": "I also worry about what\nit does to mental health,",
+    "start": 1221.478,
+    "duration": 2.042
+  },
+  {
+    "text": "and so on, and so forth.",
+    "start": 1223.52,
+    "duration": 1.0
+  },
+  {
+    "text": "So still a long way to go.",
+    "start": 1224.52,
+    "duration": 1.75
+  },
+  {
+    "text": "Bullish in what it will\ndo and can do, and not",
+    "start": 1226.27,
+    "duration": 4.05
+  },
+  {
+    "text": "so bullish in the\nimpact it actually has.",
+    "start": 1230.32,
+    "duration": 2.085
+  },
+  {
+    "text": "And how do you balance\nthat, like all technologies?",
+    "start": 1232.405,
+    "duration": 2.125
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah, yeah, yeah.",
+    "start": 1234.53,
+    "duration": 0.56
+  },
+  {
+    "text": "Good question.",
+    "start": 1235.09,
+    "duration": 0.54
+  },
+  {
+    "text": "All right, I want to\nshift a little bit.",
+    "start": 1235.63,
+    "duration": 1.667
+  },
+  {
+    "text": "And I know that\nin your consulting",
+    "start": 1237.297,
+    "duration": 2.083
+  },
+  {
+    "text": "work, in your engagement,\nyou think a lot about ESG.",
+    "start": 1239.38,
+    "duration": 3.165
+  },
+  {
+    "text": "You talk a lot about ESG.",
+    "start": 1242.545,
+    "duration": 1.425
+  },
+  {
+    "text": "And ESG is problematic.",
+    "start": 1243.97,
+    "duration": 2.64
+  },
+  {
+    "text": "I think at least in\nthe US, the right",
+    "start": 1246.61,
+    "duration": 4.32
+  },
+  {
+    "text": "thinks ESG considerations\nare too \"woke,\"",
+    "start": 1250.93,
+    "duration": 2.52
+  },
+  {
+    "text": "and that companies should just\nthink about generating profits,",
+    "start": 1253.45,
+    "duration": 3.06
+  },
+  {
+    "text": "and that everything else\nwill take care of itself.",
+    "start": 1256.51,
+    "duration": 2.16
+  },
+  {
+    "text": "On the left, there's\na feeling that",
+    "start": 1258.67,
+    "duration": 2.4
+  },
+  {
+    "text": "ESG as we measure\nit is insufficient.",
+    "start": 1261.07,
+    "duration": 4.92
+  },
+  {
+    "text": "And for anyone who doesn't\nknow the jargon, I apologize.",
+    "start": 1265.99,
+    "duration": 3.36
+  },
+  {
+    "text": "ESG-- it's Environmental,\nSocial, and Governance.",
+    "start": 1269.35,
+    "duration": 2.49
+  },
+  {
+    "text": "And companies are ranked\nby independent observers",
+    "start": 1271.84,
+    "duration": 6.51
+  },
+  {
+    "text": "on their ESG ratings, and\non their ESG potential.",
+    "start": 1278.35,
+    "duration": 4.5
+  },
+  {
+    "text": "And it increasingly drives\ninvestor decisions and things.",
+    "start": 1282.85,
+    "duration": 5.13
+  },
+  {
+    "text": "I almost think we\nneed to throw out",
+    "start": 1287.98,
+    "duration": 2.34
+  },
+  {
+    "text": "ESG, come up with a new\nterm and a new approach.",
+    "start": 1290.32,
+    "duration": 2.17
+  },
+  {
+    "text": "But anyway, we're in\nthe ESG era still.",
+    "start": 1292.49,
+    "duration": 2.63
+  },
+  {
+    "text": "How do you think about--\nwhat is a valuable way",
+    "start": 1295.12,
+    "duration": 4.65
+  },
+  {
+    "text": "of looking at and thinking\nabout ESG at this point?",
+    "start": 1299.77,
+    "duration": 3.497
+  },
+  {
+    "text": "TIGER TYGARAJAN: It's\na great question, Adi.",
+    "start": 1303.267,
+    "duration": 1.833
+  },
+  {
+    "text": "And I'll start by saying maybe\nthe word, and the phrase,",
+    "start": 1305.1,
+    "duration": 3.06
+  },
+  {
+    "text": "and the acronym\nshould be thrown out.",
+    "start": 1308.16,
+    "duration": 3.15
+  },
+  {
+    "text": "It doesn't matter.",
+    "start": 1311.31,
+    "duration": 0.91
+  },
+  {
+    "text": "What really matters\nin our thinking",
+    "start": 1312.22,
+    "duration": 2.12
+  },
+  {
+    "text": "and in my thinking\nis business is",
+    "start": 1314.34,
+    "duration": 2.88
+  },
+  {
+    "text": "about being sustainable\nin the long run,",
+    "start": 1317.22,
+    "duration": 4.29
+  },
+  {
+    "text": "in serving four stakeholders.",
+    "start": 1321.51,
+    "duration": 2.94
+  },
+  {
+    "text": "I think that clarity is\nincredibly clear for us",
+    "start": 1324.45,
+    "duration": 2.67
+  },
+  {
+    "text": "because those four stakeholders,\nare clients, are talent,",
+    "start": 1327.12,
+    "duration": 4.56
+  },
+  {
+    "text": "are investors and\nshareholders, and are",
+    "start": 1331.68,
+    "duration": 2.19
+  },
+  {
+    "text": "the community and society.",
+    "start": 1333.87,
+    "duration": 2.01
+  },
+  {
+    "text": "All four are equal stakeholders.",
+    "start": 1335.88,
+    "duration": 3.615
+  },
+  {
+    "text": "And the reason they are\nequal is because they",
+    "start": 1339.495,
+    "duration": 1.875
+  },
+  {
+    "text": "feed into each other.",
+    "start": 1341.37,
+    "duration": 1.74
+  },
+  {
+    "text": "Obviously, you've got to\nsatisfy your shareholders.",
+    "start": 1343.11,
+    "duration": 2.88
+  },
+  {
+    "text": "You've got to\nsatisfy your clients.",
+    "start": 1345.99,
+    "duration": 1.92
+  },
+  {
+    "text": "That's an obvious\nvirtuous cycle.",
+    "start": 1347.91,
+    "duration": 2.04
+  },
+  {
+    "text": "Talent is at the\nmiddle of all of that.",
+    "start": 1349.95,
+    "duration": 1.68
+  },
+  {
+    "text": "And that talent makes a\ndifference to both investors",
+    "start": 1351.63,
+    "duration": 3.27
+  },
+  {
+    "text": "and to clients.",
+    "start": 1354.9,
+    "duration": 1.09
+  },
+  {
+    "text": "And none of that is possible\nif you can't do two things.",
+    "start": 1355.99,
+    "duration": 3.93
+  },
+  {
+    "text": "You need to attract\ntalent and excite them.",
+    "start": 1359.92,
+    "duration": 3.03
+  },
+  {
+    "text": "And I would argue\nuntil anyone comes",
+    "start": 1362.95,
+    "duration": 2.51
+  },
+  {
+    "text": "here saying our strategy\nis to attract talent.",
+    "start": 1365.46,
+    "duration": 3.57
+  },
+  {
+    "text": "And in order to attract talent,\nwe must be able to explain how",
+    "start": 1369.03,
+    "duration": 4.29
+  },
+  {
+    "text": "we are helping our planet\nsustain itself in the long run",
+    "start": 1373.32,
+    "duration": 3.75
+  },
+  {
+    "text": "because everything\nshows us that it can't.",
+    "start": 1377.07,
+    "duration": 3.19
+  },
+  {
+    "text": "And if we don't\nhave a role there,",
+    "start": 1380.26,
+    "duration": 1.46
+  },
+  {
+    "text": "I may not be able\nto attract talent.",
+    "start": 1381.72,
+    "duration": 1.38
+  },
+  {
+    "text": "I may not be able\nto serve my clients.",
+    "start": 1383.1,
+    "duration": 1.583
+  },
+  {
+    "text": "So it's very clear to us that\nwe can call it by whatever name.",
+    "start": 1384.683,
+    "duration": 4.537
+  },
+  {
+    "text": "Our strategy of long-term,\nsustainable value creation",
+    "start": 1389.22,
+    "duration": 4.77
+  },
+  {
+    "text": "for the four\nstakeholders requires",
+    "start": 1393.99,
+    "duration": 2.25
+  },
+  {
+    "text": "us to focus on things\nlike the environment,",
+    "start": 1396.24,
+    "duration": 1.89
+  },
+  {
+    "text": "the climate, on society,\non diversity, on inclusion",
+    "start": 1398.13,
+    "duration": 4.68
+  },
+  {
+    "text": "so that we can get the best\nminds to attack problems.",
+    "start": 1402.81,
+    "duration": 2.91
+  },
+  {
+    "text": "And of course, good\ngovernance-- so I'm not I'm",
+    "start": 1405.72,
+    "duration": 3.028
+  },
+  {
+    "text": "not conflicted on the word ESG.",
+    "start": 1408.748,
+    "duration": 1.292
+  },
+  {
+    "text": "It doesn't matter because\nit's core to our strategy.",
+    "start": 1410.04,
+    "duration": 3.18
+  },
+  {
+    "text": "The problem is when you keep\nit separate and you say,",
+    "start": 1413.22,
+    "duration": 5.11
+  },
+  {
+    "text": "I have an objective that\nI need to serve these four",
+    "start": 1418.33,
+    "duration": 2.31
+  },
+  {
+    "text": "stakeholders, or\nthree stakeholders.",
+    "start": 1420.64,
+    "duration": 2.1
+  },
+  {
+    "text": "And I have this other\nthing called ESG, which",
+    "start": 1422.74,
+    "duration": 2.4
+  },
+  {
+    "text": "I need to satisfy some people.",
+    "start": 1425.14,
+    "duration": 1.395
+  },
+  {
+    "text": "We don't think\nabout it that way.",
+    "start": 1426.535,
+    "duration": 1.375
+  },
+  {
+    "text": "We think ESG is core and\ncentral to long-term strategy",
+    "start": 1427.91,
+    "duration": 3.26
+  },
+  {
+    "text": "of companies.",
+    "start": 1431.17,
+    "duration": 1.6
+  },
+  {
+    "text": "ADI IGNATIUS: So I think that\nwas the rhetoric, at least,",
+    "start": 1432.77,
+    "duration": 2.99
+  },
+  {
+    "text": "of a lot of CEOs of\nbig public companies",
+    "start": 1435.76,
+    "duration": 2.61
+  },
+  {
+    "text": "for the past several years.",
+    "start": 1438.37,
+    "duration": 1.15
+  },
+  {
+    "text": "We've had a great run for\nthe past several years.",
+    "start": 1439.52,
+    "duration": 2.63
+  },
+  {
+    "text": "We're in tougher\ntimes right now.",
+    "start": 1442.15,
+    "duration": 3.45
+  },
+  {
+    "text": "There may or may not\nbe recessionary threats",
+    "start": 1445.6,
+    "duration": 3.66
+  },
+  {
+    "text": "in certain parts of the world,\nnot in all parts of the world.",
+    "start": 1449.26,
+    "duration": 3.61
+  },
+  {
+    "text": "So I wonder-- and you're having\nconversations with people",
+    "start": 1452.87,
+    "duration": 3.17
+  },
+  {
+    "text": "out there.",
+    "start": 1456.04,
+    "duration": 0.6
+  },
+  {
+    "text": "As times get tough, we're\ncertainly seeing the layoffs,",
+    "start": 1456.64,
+    "duration": 2.88
+  },
+  {
+    "text": "particularly in tech,\nand finance, and media,",
+    "start": 1459.52,
+    "duration": 3.45
+  },
+  {
+    "text": "although not limited\nto those industries.",
+    "start": 1462.97,
+    "duration": 3.75
+  },
+  {
+    "text": "So I wonder to what extent\nthinking about everything",
+    "start": 1466.72,
+    "duration": 3.27
+  },
+  {
+    "text": "you just listed--\nsustainability, diversity",
+    "start": 1469.99,
+    "duration": 2.85
+  },
+  {
+    "text": "and inclusion, all these things.",
+    "start": 1472.84,
+    "duration": 2.22
+  },
+  {
+    "text": "When times get tough\nand tough decisions have",
+    "start": 1475.06,
+    "duration": 2.91
+  },
+  {
+    "text": "to be made about\nwhere the money goes,",
+    "start": 1477.97,
+    "duration": 3.42
+  },
+  {
+    "text": "do you worry that the emphasis\nthat's been put in these areas",
+    "start": 1481.39,
+    "duration": 4.47
+  },
+  {
+    "text": "could fall to the side?",
+    "start": 1485.86,
+    "duration": 1.135
+  },
+  {
+    "text": "TIGER TYGARAJAN: No,\nAdi, you're right.",
+    "start": 1486.995,
+    "duration": 1.625
+  },
+  {
+    "text": "And that's no different\nthan many other strategic",
+    "start": 1488.62,
+    "duration": 3.84
+  },
+  {
+    "text": "imperatives that an enterprise\nand a business undertakes.",
+    "start": 1492.46,
+    "duration": 4.05
+  },
+  {
+    "text": "And when there is short-term\npressure on serving,",
+    "start": 1496.51,
+    "duration": 4.93
+  },
+  {
+    "text": "let's say, investors,\nand shareholders,",
+    "start": 1501.44,
+    "duration": 1.94
+  },
+  {
+    "text": "and so on, you then\nhave to evaluate",
+    "start": 1503.38,
+    "duration": 2.64
+  },
+  {
+    "text": "those long-term\nstrategic imperatives,",
+    "start": 1506.02,
+    "duration": 3.96
+  },
+  {
+    "text": "and the investment, and\nthe time, and effort,",
+    "start": 1509.98,
+    "duration": 2.7
+  },
+  {
+    "text": "and the money that\ngoes against it.",
+    "start": 1512.68,
+    "duration": 1.95
+  },
+  {
+    "text": "I think great\ncompanies find a way",
+    "start": 1514.63,
+    "duration": 2.79
+  },
+  {
+    "text": "to navigate through such tough\ntimes in a way where they try",
+    "start": 1517.42,
+    "duration": 5.16
+  },
+  {
+    "text": "and protect some of those\nstrategic imperatives",
+    "start": 1522.58,
+    "duration": 3.81
+  },
+  {
+    "text": "because they know that just\nas the world could be slowing",
+    "start": 1526.39,
+    "duration": 4.01
+  },
+  {
+    "text": "down, and there's a recession,\nit's going to come out of it.",
+    "start": 1530.4,
+    "duration": 2.5
+  },
+  {
+    "text": "When it comes out\nof it, the winners",
+    "start": 1532.9,
+    "duration": 2.13
+  },
+  {
+    "text": "are going to be\nthose who invested",
+    "start": 1535.03,
+    "duration": 2.13
+  },
+  {
+    "text": "in those strategic imperatives\nthrough a cycle like this.",
+    "start": 1537.16,
+    "duration": 3.75
+  },
+  {
+    "text": "So I think business research\nhas shown so often that in times",
+    "start": 1540.91,
+    "duration": 6.51
+  },
+  {
+    "text": "like these, the\nwinners and losers--",
+    "start": 1547.42,
+    "duration": 2.07
+  },
+  {
+    "text": "there's a shift\nand in the tables.",
+    "start": 1549.49,
+    "duration": 2.43
+  },
+  {
+    "text": "And those who tend to win\ntend to be the people who",
+    "start": 1551.92,
+    "duration": 3.69
+  },
+  {
+    "text": "didn't take their eye\noff the long-term ball,",
+    "start": 1555.61,
+    "duration": 1.95
+  },
+  {
+    "text": "and found a way\nthrough other means,",
+    "start": 1557.56,
+    "duration": 2.91
+  },
+  {
+    "text": "including digitization,\nand digital transformation,",
+    "start": 1560.47,
+    "duration": 2.46
+  },
+  {
+    "text": "and applying\ntechnologies, to preserve",
+    "start": 1562.93,
+    "duration": 1.787
+  },
+  {
+    "text": "some of the longer-term\ninvestment they are doing.",
+    "start": 1564.717,
+    "duration": 2.083
+  },
+  {
+    "text": "Because that allows them to take\noff when the economy takes off.",
+    "start": 1566.8,
+    "duration": 2.91
+  },
+  {
+    "text": "So great question-- will\ncome under pressure.",
+    "start": 1569.71,
+    "duration": 3.57
+  },
+  {
+    "text": "I think finding a\nway to navigate that",
+    "start": 1573.28,
+    "duration": 1.68
+  },
+  {
+    "text": "without killing it is\na very important goal",
+    "start": 1574.96,
+    "duration": 3.3
+  },
+  {
+    "text": "of great companies\nfor the long haul.",
+    "start": 1578.26,
+    "duration": 2.16
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah.",
+    "start": 1580.42,
+    "duration": 1.38
+  },
+  {
+    "text": "Tiger, one of the reasons that\nwe've done this show is we",
+    "start": 1581.8,
+    "duration": 3.51
+  },
+  {
+    "text": "just feel this is a reset\nmoment for business, for how",
+    "start": 1585.31,
+    "duration": 5.37
+  },
+  {
+    "text": "we think about business.",
+    "start": 1590.68,
+    "duration": 1.02
+  },
+  {
+    "text": "And part of that is what\nthe pandemic has done,",
+    "start": 1591.7,
+    "duration": 3.648
+  },
+  {
+    "text": "how it turned\neverything upside down,",
+    "start": 1595.348,
+    "duration": 1.542
+  },
+  {
+    "text": "and what we learned\nfrom that experience.",
+    "start": 1596.89,
+    "duration": 2.04
+  },
+  {
+    "text": "Part of it is new technology.",
+    "start": 1598.93,
+    "duration": 2.16
+  },
+  {
+    "text": "And there are other\nfactors as well.",
+    "start": 1601.09,
+    "duration": 1.89
+  },
+  {
+    "text": "I guess to start this\npart of the conversation,",
+    "start": 1602.98,
+    "duration": 2.82
+  },
+  {
+    "text": "you're a company of, I think,\nroughly 100,000 employees.",
+    "start": 1605.8,
+    "duration": 3.21
+  },
+  {
+    "text": "To what extent are\nyou the same company",
+    "start": 1609.01,
+    "duration": 3.3
+  },
+  {
+    "text": "with the same\nculture now that you",
+    "start": 1612.31,
+    "duration": 2.31
+  },
+  {
+    "text": "were in 2019 before the\npandemic and before some",
+    "start": 1614.62,
+    "duration": 2.94
+  },
+  {
+    "text": "of these shifts?",
+    "start": 1617.56,
+    "duration": 0.75
+  },
+  {
+    "text": "And to what extent\nhave you changed?",
+    "start": 1618.31,
+    "duration": 1.86
+  },
+  {
+    "text": "TIGER TYGARAJAN: It's\na great question, Adi.",
+    "start": 1620.17,
+    "duration": 0.87
+  },
+  {
+    "text": "I'll start out\nwith a meta answer,",
+    "start": 1621.04,
+    "duration": 1.62
+  },
+  {
+    "text": "saying our belief is that there\nare core parts of our culture",
+    "start": 1622.66,
+    "duration": 5.73
+  },
+  {
+    "text": "that we always\ntry and preserve--",
+    "start": 1628.39,
+    "duration": 3.18
+  },
+  {
+    "text": "our maniacal focus\non our client;",
+    "start": 1631.57,
+    "duration": 1.74
+  },
+  {
+    "text": "or the way our teams collaborate\nwith only one objective,",
+    "start": 1633.31,
+    "duration": 3.39
+  },
+  {
+    "text": "to solve the client problem;\nthe way we drive curiosity",
+    "start": 1636.7,
+    "duration": 3.33
+  },
+  {
+    "text": "and learning in the company.",
+    "start": 1640.03,
+    "duration": 1.26
+  },
+  {
+    "text": "At the same time, we've\nalways been a big believer",
+    "start": 1641.29,
+    "duration": 2.76
+  },
+  {
+    "text": "that culture is not static.",
+    "start": 1644.05,
+    "duration": 2.25
+  },
+  {
+    "text": "You've got to find new things\nto incorporate into that culture",
+    "start": 1646.3,
+    "duration": 3.025
+  },
+  {
+    "text": "because that's what\nthe world requires.",
+    "start": 1649.325,
+    "duration": 1.625
+  },
+  {
+    "text": "And if there's one thing that\nthe pandemic has taught us,",
+    "start": 1650.95,
+    "duration": 2.46
+  },
+  {
+    "text": "and all this digital\ntransformation has taught us,",
+    "start": 1653.41,
+    "duration": 2.083
+  },
+  {
+    "text": "it's the exponential\ncurve on change.",
+    "start": 1655.493,
+    "duration": 2.987
+  },
+  {
+    "text": "And I actually believe that\nchange is here to stay.",
+    "start": 1658.48,
+    "duration": 3.31
+  },
+  {
+    "text": "The pace of this change in the\nworld on a variety of topics",
+    "start": 1661.79,
+    "duration": 3.65
+  },
+  {
+    "text": "is here to stay.",
+    "start": 1665.44,
+    "duration": 0.94
+  },
+  {
+    "text": "What that means is\nthat it's therefore",
+    "start": 1666.38,
+    "duration": 2.18
+  },
+  {
+    "text": "important for businesses such\nas ours-- and we've changed,",
+    "start": 1668.56,
+    "duration": 3.93
+  },
+  {
+    "text": "and we continue to change--\nto become much more agile.",
+    "start": 1672.49,
+    "duration": 2.25
+  },
+  {
+    "text": "And you have to do that\nnow in an environment where",
+    "start": 1674.74,
+    "duration": 3.69
+  },
+  {
+    "text": "it's actually different.",
+    "start": 1678.43,
+    "duration": 1.0
+  },
+  {
+    "text": "It's no longer everyone who\ncomes to the office every day",
+    "start": 1679.43,
+    "duration": 3.53
+  },
+  {
+    "text": "in every location in the world.",
+    "start": 1682.96,
+    "duration": 1.71
+  },
+  {
+    "text": "We operate from 35 countries,\n120 sites across the globe.",
+    "start": 1684.67,
+    "duration": 4.87
+  },
+  {
+    "text": "Our business, of\ncourse, has a set",
+    "start": 1689.54,
+    "duration": 1.94
+  },
+  {
+    "text": "of people who are often\nconstantly traveling",
+    "start": 1691.48,
+    "duration": 1.95
+  },
+  {
+    "text": "and consulting with clients,\nbut a set of other people",
+    "start": 1693.43,
+    "duration": 2.34
+  },
+  {
+    "text": "who sit in operating centers.",
+    "start": 1695.77,
+    "duration": 1.74
+  },
+  {
+    "text": "That world has changed.",
+    "start": 1697.51,
+    "duration": 1.3
+  },
+  {
+    "text": "It's no longer 100% in-office.",
+    "start": 1698.81,
+    "duration": 1.97
+  },
+  {
+    "text": "It's a mixture.",
+    "start": 1700.78,
+    "duration": 0.82
+  },
+  {
+    "text": "It's hybrid.",
+    "start": 1701.6,
+    "duration": 0.5
+  },
+  {
+    "text": "It's two days a week, three\ndays a week, five days a week",
+    "start": 1702.1,
+    "duration": 2.375
+  },
+  {
+    "text": "in some cases, five days\na month in some cases,",
+    "start": 1704.475,
+    "duration": 2.605
+  },
+  {
+    "text": "and a week and 1/4\nin other cases.",
+    "start": 1707.08,
+    "duration": 2.62
+  },
+  {
+    "text": "So it's a lot of variation.",
+    "start": 1709.7,
+    "duration": 1.85
+  },
+  {
+    "text": "And in that variation, how\ndo you preserve culture?",
+    "start": 1711.55,
+    "duration": 4.02
+  },
+  {
+    "text": "As new people come\ninto the company,",
+    "start": 1715.57,
+    "duration": 1.62
+  },
+  {
+    "text": "how do you mentor\nthem, sponsor them?",
+    "start": 1717.19,
+    "duration": 3.36
+  },
+  {
+    "text": "How do they learn?",
+    "start": 1720.55,
+    "duration": 1.95
+  },
+  {
+    "text": "What is apprenticeship?",
+    "start": 1722.5,
+    "duration": 1.56
+  },
+  {
+    "text": "All of those are undergoing\nchange as we speak.",
+    "start": 1724.06,
+    "duration": 2.76
+  },
+  {
+    "text": "One example I'll give you--",
+    "start": 1726.82,
+    "duration": 1.86
+  },
+  {
+    "text": "we spend three days here,\na group of 200 of us.",
+    "start": 1728.68,
+    "duration": 3.55
+  },
+  {
+    "text": "And normally, we would\nhave spent one day",
+    "start": 1732.23,
+    "duration": 1.76
+  },
+  {
+    "text": "to kick off the year.",
+    "start": 1733.99,
+    "duration": 1.2
+  },
+  {
+    "text": "We deliberately spent three\ndays physically all together.",
+    "start": 1735.19,
+    "duration": 2.79
+  },
+  {
+    "text": "Why?",
+    "start": 1737.98,
+    "duration": 0.81
+  },
+  {
+    "text": "Because we don't do this\nas often as before--",
+    "start": 1738.79,
+    "duration": 2.67
+  },
+  {
+    "text": "run into each other in an\noffice, et cetera, et cetera.",
+    "start": 1741.46,
+    "duration": 3.12
+  },
+  {
+    "text": "So we decided we're going to\ninvest in three full days.",
+    "start": 1744.58,
+    "duration": 2.52
+  },
+  {
+    "text": "And then people will\ngo off, do their thing",
+    "start": 1747.1,
+    "duration": 2.072
+  },
+  {
+    "text": "for probably another\nfour or five months,",
+    "start": 1749.172,
+    "duration": 1.708
+  },
+  {
+    "text": "and then bring\nthem back together.",
+    "start": 1750.88,
+    "duration": 1.417
+  },
+  {
+    "text": "So rhythms are changing.",
+    "start": 1752.297,
+    "duration": 1.073
+  },
+  {
+    "text": "Communication is\nat an extreme high.",
+    "start": 1753.37,
+    "duration": 3.96
+  },
+  {
+    "text": "The pace of that change requires\nus to communicate continuously.",
+    "start": 1757.33,
+    "duration": 5.28
+  },
+  {
+    "text": "Obviously, things like\nvideoconferencing, and Zoom,",
+    "start": 1762.61,
+    "duration": 3.06
+  },
+  {
+    "text": "and the ease with\nwhich that can be done",
+    "start": 1765.67,
+    "duration": 2.76
+  },
+  {
+    "text": "has raised the game and\nour ability to do that.",
+    "start": 1768.43,
+    "duration": 2.127
+  },
+  {
+    "text": "But now our job is to\nleverage those things.",
+    "start": 1770.557,
+    "duration": 1.833
+  },
+  {
+    "text": "So lots of changes\nas we speak are",
+    "start": 1772.39,
+    "duration": 3.66
+  },
+  {
+    "text": "very important in the way we\ndeal with our clients as well.",
+    "start": 1776.05,
+    "duration": 3.22
+  },
+  {
+    "text": "Clients have become\nvery comfortable",
+    "start": 1779.27,
+    "duration": 2.27
+  },
+  {
+    "text": "doing video conference\ncalls, and Zoom calls.",
+    "start": 1781.54,
+    "duration": 1.89
+  },
+  {
+    "text": "However, I think there's\nstill a requirement where",
+    "start": 1783.43,
+    "duration": 3.99
+  },
+  {
+    "text": "you make that social connect.",
+    "start": 1787.42,
+    "duration": 1.23
+  },
+  {
+    "text": "You break bread.",
+    "start": 1788.65,
+    "duration": 0.9
+  },
+  {
+    "text": "You share experiences.",
+    "start": 1789.55,
+    "duration": 1.44
+  },
+  {
+    "text": "You have a debate on a\nvery contentious topic.",
+    "start": 1790.99,
+    "duration": 3.99
+  },
+  {
+    "text": "And you come out of that\nand say, I trust you.",
+    "start": 1794.98,
+    "duration": 2.13
+  },
+  {
+    "text": "The world that we are in\nand the world in the future",
+    "start": 1797.11,
+    "duration": 2.64
+  },
+  {
+    "text": "requires even more trust.",
+    "start": 1799.75,
+    "duration": 1.98
+  },
+  {
+    "text": "That requires real human\nconnect to continue.",
+    "start": 1801.73,
+    "duration": 2.46
+  },
+  {
+    "text": "And that's part of\nthe culture we've",
+    "start": 1804.19,
+    "duration": 1.5
+  },
+  {
+    "text": "got to find a way to\nkeep maintaining--",
+    "start": 1805.69,
+    "duration": 1.29
+  },
+  {
+    "text": "more difficult than\nbefore, but more tools",
+    "start": 1806.98,
+    "duration": 2.04
+  },
+  {
+    "text": "available than before.",
+    "start": 1809.02,
+    "duration": 1.47
+  },
+  {
+    "text": "ADI IGNATIUS: So you talk\nwith ease about change,",
+    "start": 1810.49,
+    "duration": 3.0
+  },
+  {
+    "text": "about embracing change.",
+    "start": 1813.49,
+    "duration": 1.47
+  },
+  {
+    "text": "Not everyone does.",
+    "start": 1814.96,
+    "duration": 0.87
+  },
+  {
+    "text": "And I'm going to raise\na question that's come",
+    "start": 1815.83,
+    "duration": 2.43
+  },
+  {
+    "text": "in from Veronica in Prague.",
+    "start": 1818.26,
+    "duration": 2.61
+  },
+  {
+    "text": "And the question is why do so\nmany companies resist change?",
+    "start": 1820.87,
+    "duration": 5.46
+  },
+  {
+    "text": "TIGER TYGARAJAN: It's the\nultimate question in business.",
+    "start": 1826.33,
+    "duration": 4.14
+  },
+  {
+    "text": "It's the ultimate question\nin your first question, Adi,",
+    "start": 1830.47,
+    "duration": 2.49
+  },
+  {
+    "text": "that you started off\nthis conversation with,",
+    "start": 1832.96,
+    "duration": 1.833
+  },
+  {
+    "text": "which is at the core of\ndigital transformation,",
+    "start": 1834.793,
+    "duration": 2.817
+  },
+  {
+    "text": "it's actually about\nchange and driving change.",
+    "start": 1837.61,
+    "duration": 2.95
+  },
+  {
+    "text": "Humans are humans.",
+    "start": 1840.56,
+    "duration": 2.87
+  },
+  {
+    "text": "If something has worked, and\nit's worked for a long time,",
+    "start": 1843.43,
+    "duration": 3.49
+  },
+  {
+    "text": "and it's been successful,\nthere is no reason to change.",
+    "start": 1846.92,
+    "duration": 4.64
+  },
+  {
+    "text": "And who are you to\ntell me to change?",
+    "start": 1851.56,
+    "duration": 1.93
+  },
+  {
+    "text": "So first is why do\nI need to change?",
+    "start": 1853.49,
+    "duration": 1.88
+  },
+  {
+    "text": "And who are you to\ntell me to change?",
+    "start": 1855.37,
+    "duration": 1.77
+  },
+  {
+    "text": "And then understanding\neach person's motivations,",
+    "start": 1857.14,
+    "duration": 3.78
+  },
+  {
+    "text": "making the collective\nmotivation the same",
+    "start": 1860.92,
+    "duration": 3.3
+  },
+  {
+    "text": "rather than two motivations\nthat pull against each other--",
+    "start": 1864.22,
+    "duration": 3.51
+  },
+  {
+    "text": "that, I think, will always be\nthe central topic of society",
+    "start": 1867.73,
+    "duration": 7.02
+  },
+  {
+    "text": "irrespective of\ngenerative AI or not.",
+    "start": 1874.75,
+    "duration": 2.55
+  },
+  {
+    "text": "And if anything, it'll probably\nincrease in its importance",
+    "start": 1877.3,
+    "duration": 3.69
+  },
+  {
+    "text": "as more and more of those\ntechnologies can be leveraged,",
+    "start": 1880.99,
+    "duration": 3.82
+  },
+  {
+    "text": "but only if change is embraced.",
+    "start": 1884.81,
+    "duration": 3.26
+  },
+  {
+    "text": "It's scary to embrace change.",
+    "start": 1888.07,
+    "duration": 2.5
+  },
+  {
+    "text": "I don't know if I'm going to\nbe successful in this new way",
+    "start": 1890.57,
+    "duration": 3.68
+  },
+  {
+    "text": "of working, even though\non theory and on paper,",
+    "start": 1894.25,
+    "duration": 3.36
+  },
+  {
+    "text": "it looks like the\nright thing to do.",
+    "start": 1897.61,
+    "duration": 1.805
+  },
+  {
+    "text": "I don't know if\nI'm going to win,",
+    "start": 1899.415,
+    "duration": 1.375
+  },
+  {
+    "text": "or my colleague is going to win.",
+    "start": 1900.79,
+    "duration": 2.07
+  },
+  {
+    "text": "Lots of things like that--",
+    "start": 1902.86,
+    "duration": 1.14
+  },
+  {
+    "text": "I'm biased.",
+    "start": 1904.0,
+    "duration": 0.88
+  },
+  {
+    "text": "I don't like the person\nwho's telling me because I",
+    "start": 1904.88,
+    "duration": 2.36
+  },
+  {
+    "text": "don't trust that person.",
+    "start": 1907.24,
+    "duration": 1.65
+  },
+  {
+    "text": "All of those things come\nin the way of change.",
+    "start": 1908.89,
+    "duration": 2.43
+  },
+  {
+    "text": "Our business actually\nexists to some extent",
+    "start": 1911.32,
+    "duration": 3.09
+  },
+  {
+    "text": "because our job is to help\nour clients drive change.",
+    "start": 1914.41,
+    "duration": 2.863
+  },
+  {
+    "text": "ADI IGNATIUS: All right,\nso here's another question.",
+    "start": 1917.273,
+    "duration": 2.167
+  },
+  {
+    "text": "This is from Manu in Delhi.",
+    "start": 1919.44,
+    "duration": 2.03
+  },
+  {
+    "text": "By the way, I love\nthe global nature",
+    "start": 1921.47,
+    "duration": 1.74
+  },
+  {
+    "text": "of this audience and the\nquestions that are coming in.",
+    "start": 1923.21,
+    "duration": 2.25
+  },
+  {
+    "text": "So thank you all for putting\nquestions in the chat.",
+    "start": 1925.46,
+    "duration": 2.37
+  },
+  {
+    "text": "And this is about\nemotional intelligence.",
+    "start": 1927.83,
+    "duration": 1.74
+  },
+  {
+    "text": "The question is how can an\norganization successfully",
+    "start": 1929.57,
+    "duration": 2.4
+  },
+  {
+    "text": "create awareness on\nemotional intelligence,",
+    "start": 1931.97,
+    "duration": 2.85
+  },
+  {
+    "text": "as it seems necessary for\nhow we collaborate and grow",
+    "start": 1934.82,
+    "duration": 3.51
+  },
+  {
+    "text": "these days?",
+    "start": 1938.33,
+    "duration": 0.972
+  },
+  {
+    "text": "TIGER TYGARAJAN: Again,\na great question.",
+    "start": 1939.302,
+    "duration": 1.708
+  },
+  {
+    "text": "And I'll start\nwith storytelling.",
+    "start": 1941.01,
+    "duration": 2.27
+  },
+  {
+    "text": "I think good old storytelling\nis still the best way.",
+    "start": 1943.28,
+    "duration": 3.72
+  },
+  {
+    "text": "Examples, real-- the storyteller\nshould be the protagonist.",
+    "start": 1947.0,
+    "duration": 5.07
+  },
+  {
+    "text": "So it's about the person.",
+    "start": 1952.07,
+    "duration": 2.11
+  },
+  {
+    "text": "It's me telling my story.",
+    "start": 1954.18,
+    "duration": 2.18
+  },
+  {
+    "text": "It has to be a humble,\nexposing, vulnerable story.",
+    "start": 1956.36,
+    "duration": 5.49
+  },
+  {
+    "text": "Then you have an audience\nthat is listening.",
+    "start": 1961.85,
+    "duration": 2.34
+  },
+  {
+    "text": "The stories must come\nfrom diverse people",
+    "start": 1964.19,
+    "duration": 2.34
+  },
+  {
+    "text": "so that the listener then says\nthis is not a one side story.",
+    "start": 1966.53,
+    "duration": 5.67
+  },
+  {
+    "text": "And then making heroes of\nthose who demonstrate that",
+    "start": 1972.2,
+    "duration": 5.16
+  },
+  {
+    "text": "in a client's situation,\nin a team situation,",
+    "start": 1977.36,
+    "duration": 2.04
+  },
+  {
+    "text": "in a peer group situation, and\nshowing that when they do that,",
+    "start": 1979.4,
+    "duration": 5.58
+  },
+  {
+    "text": "not only do they become heroes,\nbut they actually create value",
+    "start": 1984.98,
+    "duration": 2.79
+  },
+  {
+    "text": "for the stakeholders\nI talked about.",
+    "start": 1987.77,
+    "duration": 1.54
+  },
+  {
+    "text": "So I think this is,\nagain, not something",
+    "start": 1989.31,
+    "duration": 3.11
+  },
+  {
+    "text": "that you take\nlightly, not something",
+    "start": 1992.42,
+    "duration": 1.5
+  },
+  {
+    "text": "that you can teach in a class.",
+    "start": 1993.92,
+    "duration": 1.8
+  },
+  {
+    "text": "You've got to live it every day.",
+    "start": 1995.72,
+    "duration": 1.38
+  },
+  {
+    "text": "It has to become\npart of culture.",
+    "start": 1997.1,
+    "duration": 1.407
+  },
+  {
+    "text": "And one of the best definitions\nI've heard about culture-- not",
+    "start": 1998.507,
+    "duration": 2.583
+  },
+  {
+    "text": "my definition, but I\nlove it-- is culture",
+    "start": 2001.09,
+    "duration": 2.01
+  },
+  {
+    "text": "is something where\nthe way people behave",
+    "start": 2003.1,
+    "duration": 3.96
+  },
+  {
+    "text": "without a standard\noperating procedure,",
+    "start": 2007.06,
+    "duration": 2.4
+  },
+  {
+    "text": "and without anyone\nwatching them.",
+    "start": 2009.46,
+    "duration": 2.13
+  },
+  {
+    "text": "That's culture.",
+    "start": 2011.59,
+    "duration": 0.96
+  },
+  {
+    "text": "And I'm a big believer that\nculture drives everything.",
+    "start": 2012.55,
+    "duration": 2.4
+  },
+  {
+    "text": "ADI IGNATIUS: I love that.",
+    "start": 2014.95,
+    "duration": 1.083
+  },
+  {
+    "text": "So I can't let you go without--",
+    "start": 2016.033,
+    "duration": 1.647
+  },
+  {
+    "text": "I know you're a big cricket fan.",
+    "start": 2017.68,
+    "duration": 1.59
+  },
+  {
+    "text": "So I'm going to ask you--\nthis is the type of question",
+    "start": 2019.27,
+    "duration": 2.73
+  },
+  {
+    "text": "that you ask to ChatGPT,\nwhich is so talk about cricket",
+    "start": 2022.0,
+    "duration": 5.1
+  },
+  {
+    "text": "as a metaphor for how we\nwork and live together.",
+    "start": 2027.1,
+    "duration": 4.973
+  },
+  {
+    "text": "TIGER TYGARAJAN: Oh, my God.",
+    "start": 2032.073,
+    "duration": 1.167
+  },
+  {
+    "text": "You've hit a--\nwhat is it called?",
+    "start": 2033.24,
+    "duration": 1.72
+  },
+  {
+    "text": "What is the opposite\nof a raw nerve?",
+    "start": 2034.96,
+    "duration": 1.5
+  },
+  {
+    "text": "You've hit an amazing--",
+    "start": 2036.46,
+    "duration": 2.325
+  },
+  {
+    "text": "ADI IGNATIUS: I don't know.",
+    "start": 2038.785,
+    "duration": 1.125
+  },
+  {
+    "text": "TIGER TYGARAJAN:\n--passion of mine.",
+    "start": 2039.91,
+    "duration": 1.458
+  },
+  {
+    "text": "ADI IGNATIUS: Your vein\nthat is spewing blood.",
+    "start": 2041.368,
+    "duration": 2.172
+  },
+  {
+    "text": "TIGER TYGARAJAN: Exactly.",
+    "start": 2043.54,
+    "duration": 2.558
+  },
+  {
+    "text": "Our board meetings\nare set up based",
+    "start": 2046.098,
+    "duration": 1.972
+  },
+  {
+    "text": "on a calendar that is based\non, when is the India cricket",
+    "start": 2048.07,
+    "duration": 4.319
+  },
+  {
+    "text": "team playing its big matches?",
+    "start": 2052.389,
+    "duration": 1.411
+  },
+  {
+    "text": "And based on that,\nthe board meeting",
+    "start": 2053.8,
+    "duration": 1.62
+  },
+  {
+    "text": "is set up so it doesn't clash.",
+    "start": 2055.42,
+    "duration": 1.469
+  },
+  {
+    "text": "It's that important.",
+    "start": 2056.889,
+    "duration": 1.231
+  },
+  {
+    "text": "But to your question,\nit's a team sport.",
+    "start": 2058.12,
+    "duration": 2.825
+  },
+  {
+    "text": "So you can learn\na lot from that.",
+    "start": 2060.945,
+    "duration": 1.375
+  },
+  {
+    "text": "It's a sport where there\nare so many variables.",
+    "start": 2062.32,
+    "duration": 2.37
+  },
+  {
+    "text": "I think the best\ndescription I have is",
+    "start": 2064.69,
+    "duration": 1.98
+  },
+  {
+    "text": "compare cricket to baseball.",
+    "start": 2066.67,
+    "duration": 2.549
+  },
+  {
+    "text": "And one of the things that's\ninteresting about baseball",
+    "start": 2069.219,
+    "duration": 3.308
+  },
+  {
+    "text": "is that you have a hitter.",
+    "start": 2072.527,
+    "duration": 1.083
+  },
+  {
+    "text": "You have a ball.",
+    "start": 2073.61,
+    "duration": 0.71
+  },
+  {
+    "text": "You pitch your ball.",
+    "start": 2074.32,
+    "duration": 1.649
+  },
+  {
+    "text": "It's all very similar.",
+    "start": 2075.969,
+    "duration": 0.971
+  },
+  {
+    "text": "However, a lot of variables\nthat are there in cricket",
+    "start": 2076.94,
+    "duration": 2.96
+  },
+  {
+    "text": "are taken out in baseball.",
+    "start": 2079.9,
+    "duration": 1.42
+  },
+  {
+    "text": "The ball, when pitched,\ncannot hit the turf.",
+    "start": 2081.32,
+    "duration": 2.899
+  },
+  {
+    "text": "In cricket, most of the\ntime, it hits the turf.",
+    "start": 2084.219,
+    "duration": 2.73
+  },
+  {
+    "text": "Once it hits the turf, it can\ngo in all kinds of directions.",
+    "start": 2086.949,
+    "duration": 2.821
+  },
+  {
+    "text": "You can make it catch\nthe turf and spin.",
+    "start": 2089.77,
+    "duration": 2.699
+  },
+  {
+    "text": "If it's a wet wicket,\nsomething happens.",
+    "start": 2092.469,
+    "duration": 1.831
+  },
+  {
+    "text": "If there's dew,\nsomething happens.",
+    "start": 2094.3,
+    "duration": 1.417
+  },
+  {
+    "text": "If it's a hot, humid\nday, something happens.",
+    "start": 2095.717,
+    "duration": 4.263
+  },
+  {
+    "text": "So you just have\nso many variables.",
+    "start": 2099.98,
+    "duration": 2.15
+  },
+  {
+    "text": "It's so unpredictable.",
+    "start": 2102.13,
+    "duration": 1.42
+  },
+  {
+    "text": "It's so volatile.",
+    "start": 2103.55,
+    "duration": 1.58
+  },
+  {
+    "text": "I can go on and on.",
+    "start": 2105.13,
+    "duration": 2.31
+  },
+  {
+    "text": "And that teaches you\na lot about grit.",
+    "start": 2107.44,
+    "duration": 3.6
+  },
+  {
+    "text": "If there's a game that teaches\nyou grit, it's cricket.",
+    "start": 2111.04,
+    "duration": 3.03
+  },
+  {
+    "text": "This completely freaks\nout all my US colleagues.",
+    "start": 2114.07,
+    "duration": 3.9
+  },
+  {
+    "text": "You can play a game of\ncricket for five days",
+    "start": 2117.97,
+    "duration": 2.64
+  },
+  {
+    "text": "between two arch rivals--",
+    "start": 2120.61,
+    "duration": 1.74
+  },
+  {
+    "text": "India versus Pakistan.",
+    "start": 2122.35,
+    "duration": 1.407
+  },
+  {
+    "text": "And at the end of the days, the\ntwo captains can come together",
+    "start": 2123.757,
+    "duration": 2.583
+  },
+  {
+    "text": "and say, you didn't win.",
+    "start": 2126.34,
+    "duration": 1.8
+  },
+  {
+    "text": "I didn't win.",
+    "start": 2128.14,
+    "duration": 0.93
+  },
+  {
+    "text": "We'll come back another day.",
+    "start": 2129.07,
+    "duration": 1.44
+  },
+  {
+    "text": "That's a crazy game.",
+    "start": 2130.51,
+    "duration": 1.87
+  },
+  {
+    "text": "[LAUGHS]",
+    "start": 2132.38,
+    "duration": 0.5
+  },
+  {
+    "text": "ADI IGNATIUS: No, we\ndon't understand that.",
+    "start": 2132.88,
+    "duration": 1.792
+  },
+  {
+    "text": "And you'd probably be rocking\na sweater at that point, too.",
+    "start": 2134.672,
+    "duration": 3.246
+  },
+  {
+    "text": "And we don't understand\nthat, either.",
+    "start": 2137.918,
+    "duration": 1.542
+  },
+  {
+    "text": "But anyway, I'm a baseball fan.",
+    "start": 2139.46,
+    "duration": 1.88
+  },
+  {
+    "text": "Well, here's the deal.",
+    "start": 2141.34,
+    "duration": 1.818
+  },
+  {
+    "text": "You will come to a baseball\ngame with me at some point.",
+    "start": 2143.158,
+    "duration": 2.292
+  },
+  {
+    "text": "I will go to a cricket\nmatch with you.",
+    "start": 2145.45,
+    "duration": 1.485
+  },
+  {
+    "text": "TIGER TYGARAJAN: Done.",
+    "start": 2146.935,
+    "duration": 0.315
+  },
+  {
+    "text": "ADI IGNATIUS: And we'll\ncontinue this conversation.",
+    "start": 2147.25,
+    "duration": 1.69
+  },
+  {
+    "text": "TIGER TYGARAJAN:\nThe cricket match",
+    "start": 2148.94,
+    "duration": 0.64
+  },
+  {
+    "text": "has to be in the best cricket\nstadium in the world--",
+    "start": 2149.58,
+    "duration": 2.92
+  },
+  {
+    "text": "Melbourne, Melbourne\nCricket Ground.",
+    "start": 2152.5,
+    "duration": 2.065
+  },
+  {
+    "text": "ADI IGNATIUS: All\nright, that's a deal.",
+    "start": 2154.565,
+    "duration": 1.625
+  },
+  {
+    "text": "Tiger, I want to thank\nyou for joining us today.",
+    "start": 2156.19,
+    "duration": 2.553
+  },
+  {
+    "text": "It was really great to\nhear your perspectives.",
+    "start": 2158.743,
+    "duration": 1.917
+  },
+  {
+    "text": "A lot of audience questions.",
+    "start": 2160.66,
+    "duration": 1.26
+  },
+  {
+    "text": "Thank you for being here.",
+    "start": 2161.92,
+    "duration": 1.397
+  },
+  {
+    "text": "TIGER TYGARAJAN: Thank you, Adi.",
+    "start": 2163.317,
+    "duration": 1.333
+  },
+  {
+    "text": "Really enjoyed it.",
+    "start": 2164.65,
+    "duration": 0.75
+  },
+  {
+    "text": "Thank you.",
+    "start": 2165.4,
+    "duration": 1.15
+  },
+  {
+    "text": "ADI IGNATIUS: All right.",
+    "start": 2166.55,
+    "duration": 1.0
+  },
+  {
+    "text": "So I just want to quickly\nsay my guest next week",
+    "start": 2167.55,
+    "duration": 3.72
+  },
+  {
+    "text": "will be Janice\nBryant Howroyd, who",
+    "start": 2171.27,
+    "duration": 2.73
+  },
+  {
+    "text": "is an entrepreneur, a\nbusinesswoman, an author,",
+    "start": 2174.0,
+    "duration": 2.49
+  },
+  {
+    "text": "and the Founder and CEO\nof the ActOne Group, which",
+    "start": 2176.49,
+    "duration": 3.75
+  },
+  {
+    "text": "is the largest\nprivately held minority",
+    "start": 2180.24,
+    "duration": 2.01
+  },
+  {
+    "text": "woman-owned personnel\ncompany founded in the US.",
+    "start": 2182.25,
+    "duration": 2.7
+  },
+  {
+    "text": "She's the first\nAfrican-American woman",
+    "start": 2184.95,
+    "duration": 1.86
+  },
+  {
+    "text": "to build and own a\nbillion-dollar company.",
+    "start": 2186.81,
+    "duration": 2.68
+  },
+  {
+    "text": "So make sure to tune\nin next week for that.",
+    "start": 2189.49,
+    "duration": 2.79
+  },
+  {
+    "text": "And before we go, another word\nfrom our sponsor, from Unisys.",
+    "start": 2192.28,
+    "duration": 4.01
+  },
+  {
+    "text": "Where some see barriers,\nUnisys sees breakthroughs.",
+    "start": 2196.29,
+    "duration": 3.18
+  },
+  {
+    "text": "Unisys pushes what's possible\nacross digital workplace, app",
+    "start": 2199.47,
+    "duration": 3.78
+  },
+  {
+    "text": "modernization,\ncloud, and beyond.",
+    "start": 2203.25,
+    "duration": 2.49
+  },
+  {
+    "text": "Unisys-- keep breaking through.",
+    "start": 2205.74,
+    "duration": 2.61
+  },
+  {
+    "text": "So thank you for being with us.",
+    "start": 2208.35,
+    "duration": 1.87
+  },
+  {
+    "text": "Thank you many,\nmany, many people all",
+    "start": 2210.22,
+    "duration": 1.73
+  },
+  {
+    "text": "over the world for listening,\nfor putting in your questions.",
+    "start": 2211.95,
+    "duration": 3.03
+  },
+  {
+    "text": "I'm Adi Ignatius, and this\nis The New World of Work.",
+    "start": 2214.98,
+    "duration": 3.24
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 2218.22,
+    "duration": 3.05
+  }
+]

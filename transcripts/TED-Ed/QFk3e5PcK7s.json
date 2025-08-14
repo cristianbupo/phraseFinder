@@ -1,0 +1,407 @@
+[
+  {
+    "text": "With every year, machines surpass humans\nin more and more activities",
+    "start": 7.052,
+    "duration": 4.59
+  },
+  {
+    "text": "we once thought only we were capable of.",
+    "start": 11.642,
+    "duration": 3.206
+  },
+  {
+    "text": "Today's computers can beat us\nin complex board games,",
+    "start": 14.848,
+    "duration": 3.575
+  },
+  {
+    "text": "transcribe speech in dozens of languages,",
+    "start": 18.423,
+    "duration": 2.871
+  },
+  {
+    "text": "and instantly identify almost any object.",
+    "start": 21.294,
+    "duration": 3.452
+  },
+  {
+    "text": "But the robots of tomorrow may go futher",
+    "start": 24.746,
+    "duration": 2.366
+  },
+  {
+    "text": "by learning to figure out \nwhat we're feeling.",
+    "start": 27.112,
+    "duration": 3.131
+  },
+  {
+    "text": "And why does that matter?",
+    "start": 30.243,
+    "duration": 2.138
+  },
+  {
+    "text": "Because if machines \nand the people who run them",
+    "start": 32.381,
+    "duration": 2.292
+  },
+  {
+    "text": "can accurately read our emotional states,",
+    "start": 34.673,
+    "duration": 2.55
+  },
+  {
+    "text": "they may be able to assist us\nor manipulate us",
+    "start": 37.223,
+    "duration": 2.97
+  },
+  {
+    "text": "at unprecedented scales.",
+    "start": 40.193,
+    "duration": 2.909
+  },
+  {
+    "text": "But before we get there,",
+    "start": 43.102,
+    "duration": 1.512
+  },
+  {
+    "text": "how can something so complex as emotion\nbe converted into mere numbers,",
+    "start": 44.614,
+    "duration": 5.039
+  },
+  {
+    "text": "the only language machines understand?",
+    "start": 49.653,
+    "duration": 3.6
+  },
+  {
+    "text": "Essentially the same way our own brains\ninterpret emotions,",
+    "start": 53.253,
+    "duration": 3.59
+  },
+  {
+    "text": "by learning how to spot them.",
+    "start": 56.843,
+    "duration": 2.151
+  },
+  {
+    "text": "American psychologist Paul Ekman\nidentified certain universal emotions",
+    "start": 58.994,
+    "duration": 5.126
+  },
+  {
+    "text": "whose visual cues are understood\nthe same way across cultures.",
+    "start": 64.12,
+    "duration": 5.054
+  },
+  {
+    "text": "For example, an image of a smile\nsignals joy to modern urban dwellers",
+    "start": 69.174,
+    "duration": 5.019
+  },
+  {
+    "text": "and aboriginal tribesmen alike.",
+    "start": 74.193,
+    "duration": 2.772
+  },
+  {
+    "text": "And according to Ekman,",
+    "start": 76.965,
+    "duration": 1.129
+  },
+  {
+    "text": "anger,",
+    "start": 78.094,
+    "duration": 0.729
+  },
+  {
+    "text": "disgust,",
+    "start": 78.823,
+    "duration": 0.71
+  },
+  {
+    "text": "fear,",
+    "start": 79.533,
+    "duration": 0.742
+  },
+  {
+    "text": "joy,",
+    "start": 80.275,
+    "duration": 0.817
+  },
+  {
+    "text": "sadness,",
+    "start": 81.092,
+    "duration": 0.756
+  },
+  {
+    "text": "and surprise are equally recognizable.",
+    "start": 81.848,
+    "duration": 3.585
+  },
+  {
+    "text": "As it turns out, computers are rapidly\ngetting better at image recognition",
+    "start": 85.433,
+    "duration": 4.403
+  },
+  {
+    "text": "thanks to machine learning algorithms,\nsuch as neural networks.",
+    "start": 89.836,
+    "duration": 4.179
+  },
+  {
+    "text": "These consist of artificial nodes that\nmimic our biological neurons",
+    "start": 94.015,
+    "duration": 4.19
+  },
+  {
+    "text": "by forming connections \nand exchanging information.",
+    "start": 98.205,
+    "duration": 3.579
+  },
+  {
+    "text": "To train the network, sample inputs\npre-classified into different categories,",
+    "start": 101.784,
+    "duration": 4.501
+  },
+  {
+    "text": "such as photos marked happy or sad,",
+    "start": 106.285,
+    "duration": 2.89
+  },
+  {
+    "text": "are fed into the system.",
+    "start": 109.175,
+    "duration": 2.11
+  },
+  {
+    "text": "The network then learns to classify\nthose samples",
+    "start": 111.285,
+    "duration": 2.46
+  },
+  {
+    "text": "by adjusting the relative weights\nassigned to particular features.",
+    "start": 113.745,
+    "duration": 4.66
+  },
+  {
+    "text": "The more training data it's given,",
+    "start": 118.405,
+    "duration": 1.62
+  },
+  {
+    "text": "the better the algorithm becomes\nat correctly identifying new images.",
+    "start": 120.025,
+    "duration": 4.77
+  },
+  {
+    "text": "This is similar to our own brains,",
+    "start": 124.795,
+    "duration": 1.732
+  },
+  {
+    "text": "which learn from previous experiences\nto shape how new stimuli are processed.",
+    "start": 126.527,
+    "duration": 5.198
+  },
+  {
+    "text": "Recognition algorithms aren't just\nlimited to facial expressions.",
+    "start": 131.725,
+    "duration": 3.741
+  },
+  {
+    "text": "Our emotions manifest in many ways.",
+    "start": 135.466,
+    "duration": 2.42
+  },
+  {
+    "text": "There's body language and vocal tone,",
+    "start": 137.886,
+    "duration": 2.23
+  },
+  {
+    "text": "changes in heart rate, complexion,\nand skin temperature,",
+    "start": 140.116,
+    "duration": 3.121
+  },
+  {
+    "text": "or even word frequency and sentence\nstructure in our writing.",
+    "start": 143.237,
+    "duration": 4.809
+  },
+  {
+    "text": "You might think that training\nneural networks to recognize these",
+    "start": 148.046,
+    "duration": 3.159
+  },
+  {
+    "text": "would be a long and complicated task",
+    "start": 151.205,
+    "duration": 2.432
+  },
+  {
+    "text": "until you realize just how much \ndata is out there,",
+    "start": 153.637,
+    "duration": 3.329
+  },
+  {
+    "text": "and how quickly modern computers\ncan process it.",
+    "start": 156.966,
+    "duration": 3.409
+  },
+  {
+    "text": "From social media posts,",
+    "start": 160.375,
+    "duration": 1.542
+  },
+  {
+    "text": "uploaded photos and videos,",
+    "start": 161.917,
+    "duration": 1.669
+  },
+  {
+    "text": "and phone recordings,",
+    "start": 163.586,
+    "duration": 1.401
+  },
+  {
+    "text": "to heat-sensitive security cameras",
+    "start": 164.987,
+    "duration": 1.78
+  },
+  {
+    "text": "and wearables that monitor\nphysiological signs,",
+    "start": 166.767,
+    "duration": 3.67
+  },
+  {
+    "text": "the big question is not how to collect\nenough data,",
+    "start": 170.437,
+    "duration": 2.51
+  },
+  {
+    "text": "but what we're going to do with it.",
+    "start": 172.947,
+    "duration": 2.308
+  },
+  {
+    "text": "There are plenty of beneficial uses\nfor computerized emotion recognition.",
+    "start": 175.255,
+    "duration": 4.451
+  },
+  {
+    "text": "Robots using algorithms to identify\nfacial expressions",
+    "start": 179.706,
+    "duration": 2.921
+  },
+  {
+    "text": "can help children learn",
+    "start": 182.627,
+    "duration": 1.619
+  },
+  {
+    "text": "or provide lonely people\nwith a sense of companionship.",
+    "start": 184.246,
+    "duration": 3.39
+  },
+  {
+    "text": "Social media companies are considering\nusing algorithms",
+    "start": 187.636,
+    "duration": 3.001
+  },
+  {
+    "text": "to help prevent suicides by flagging posts\nthat contain specific words or phrases.",
+    "start": 190.637,
+    "duration": 6.41
+  },
+  {
+    "text": "And emotion recognition software can help\ntreat mental disorders",
+    "start": 197.047,
+    "duration": 4.24
+  },
+  {
+    "text": "or even provide people with low-cost\nautomated psychotherapy.",
+    "start": 201.287,
+    "duration": 4.291
+  },
+  {
+    "text": "Despite the potential benefits,",
+    "start": 205.578,
+    "duration": 1.61
+  },
+  {
+    "text": "the prospect of a massive network\nautomatically scanning our photos,",
+    "start": 207.188,
+    "duration": 3.681
+  },
+  {
+    "text": "communications,",
+    "start": 210.869,
+    "duration": 1.089
+  },
+  {
+    "text": "and physiological signs\nis also quite disturbing.",
+    "start": 211.958,
+    "duration": 4.919
+  },
+  {
+    "text": "What are the implications for our privacy\nwhen such impersonal systems",
+    "start": 216.877,
+    "duration": 3.919
+  },
+  {
+    "text": "are used by corporations to exploit\nour emotions through advertising?",
+    "start": 220.796,
+    "duration": 4.412
+  },
+  {
+    "text": "And what becomes of our rights",
+    "start": 225.208,
+    "duration": 1.51
+  },
+  {
+    "text": "if authorities think they can identify\nthe people likely to commit crimes",
+    "start": 226.718,
+    "duration": 4.019
+  },
+  {
+    "text": "before they even make \na conscious decision to act?",
+    "start": 230.737,
+    "duration": 4.19
+  },
+  {
+    "text": "Robots currently have a long way to go",
+    "start": 234.927,
+    "duration": 2.223
+  },
+  {
+    "text": "in distinguishing emotional nuances,\nlike irony,",
+    "start": 237.15,
+    "duration": 3.108
+  },
+  {
+    "text": "and scales of emotions,\njust how happy or sad someone is.",
+    "start": 240.258,
+    "duration": 4.5
+  },
+  {
+    "text": "Nonetheless, they may eventually be able\nto accurately read our emotions",
+    "start": 244.758,
+    "duration": 4.53
+  },
+  {
+    "text": "and respond to them.",
+    "start": 249.288,
+    "duration": 1.85
+  },
+  {
+    "text": "Whether they can empathize with our fear\nof unwanted intrusion, however,",
+    "start": 251.138,
+    "duration": 4.251
+  },
+  {
+    "text": "that's another story.",
+    "start": 255.389,
+    "duration": 1.498
+  }
+]

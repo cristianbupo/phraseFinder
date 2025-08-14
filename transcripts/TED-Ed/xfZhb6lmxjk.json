@@ -1,0 +1,367 @@
+[
+  {
+    "text": "It's often said that despite \nhumanity's many conflicts,",
+    "start": 6.983,
+    "duration": 3.734
+  },
+  {
+    "text": "we all bleed the same blood.",
+    "start": 10.717,
+    "duration": 3.534
+  },
+  {
+    "text": "It's a nice thought\nbut not quite accurate.",
+    "start": 14.251,
+    "duration": 3.28
+  },
+  {
+    "text": "In fact, our blood comes \nin a few different varieties.",
+    "start": 17.531,
+    "duration": 4.011
+  },
+  {
+    "text": "Our red blood cells contain\na protein called hemoglobin",
+    "start": 21.542,
+    "duration": 3.727
+  },
+  {
+    "text": "that binds to oxygen,",
+    "start": 25.269,
+    "duration": 1.845
+  },
+  {
+    "text": "allowing the cells to transport it\nthroughout the body.",
+    "start": 27.114,
+    "duration": 3.216
+  },
+  {
+    "text": "But they also have another kind\nof complex protein",
+    "start": 30.33,
+    "duration": 2.921
+  },
+  {
+    "text": "on the outside of the cell membrane.",
+    "start": 33.251,
+    "duration": 2.696
+  },
+  {
+    "text": "These proteins, known as antigens,\ncommunicate with white blood cells,",
+    "start": 35.947,
+    "duration": 5.112
+  },
+  {
+    "text": "immune cells that protect \nagainst infection.",
+    "start": 41.059,
+    "duration": 3.465
+  },
+  {
+    "text": "Antigens serve as identifying markers,",
+    "start": 44.524,
+    "duration": 2.571
+  },
+  {
+    "text": "allowing the immune system to recognize\nyour body's own cells",
+    "start": 47.095,
+    "duration": 4.022
+  },
+  {
+    "text": "without attacking them as foreign bodies.",
+    "start": 51.117,
+    "duration": 3.396
+  },
+  {
+    "text": "The two main kinds of antigens, A and B,\ndetermine your blood type.",
+    "start": 54.513,
+    "duration": 5.015
+  },
+  {
+    "text": "But how do we get four blood types\nfrom only two antigens?",
+    "start": 59.528,
+    "duration": 4.494
+  },
+  {
+    "text": "Well, the antigens are coded for\nby three different alleles,",
+    "start": 64.022,
+    "duration": 4.817
+  },
+  {
+    "text": "varieties of a particular gene.",
+    "start": 68.839,
+    "duration": 2.695
+  },
+  {
+    "text": "While the A and B alleles code\nfor A and B antigens,",
+    "start": 71.534,
+    "duration": 3.918
+  },
+  {
+    "text": "the O allele codes for neither,",
+    "start": 75.452,
+    "duration": 3.217
+  },
+  {
+    "text": "and because we inherit \none copy of each gene from each parent,",
+    "start": 78.669,
+    "duration": 3.753
+  },
+  {
+    "text": "every individual has two alleles\ndetermining blood type.",
+    "start": 82.422,
+    "duration": 4.659
+  },
+  {
+    "text": "When these happen to be different,",
+    "start": 87.081,
+    "duration": 1.766
+  },
+  {
+    "text": "one overrides the other \ndepending on their relative dominance.",
+    "start": 88.847,
+    "duration": 4.76
+  },
+  {
+    "text": "For blood types, the A and B alleles\nare both dominant, while O is recessive.",
+    "start": 93.607,
+    "duration": 6.225
+  },
+  {
+    "text": "So A and A gives you type A blood,\nwhile B and B gives you type B.",
+    "start": 99.832,
+    "duration": 5.943
+  },
+  {
+    "text": "If you inherit one of each,",
+    "start": 105.775,
+    "duration": 1.898
+  },
+  {
+    "text": "the resulting codominance\nwill produce both A and B antigens,",
+    "start": 107.673,
+    "duration": 4.851
+  },
+  {
+    "text": "which is type AB.",
+    "start": 112.524,
+    "duration": 1.924
+  },
+  {
+    "text": "The O allele is recessive,",
+    "start": 114.448,
+    "duration": 2.383
+  },
+  {
+    "text": "so either of the others will override it\nwhen they're paired,",
+    "start": 116.831,
+    "duration": 3.332
+  },
+  {
+    "text": "resulting in either type A or type B.",
+    "start": 120.163,
+    "duration": 3.152
+  },
+  {
+    "text": "But if you happen to inherit two Os,\ninstructions will be expressed",
+    "start": 123.315,
+    "duration": 4.193
+  },
+  {
+    "text": "that make blood cells \nwithout the A or the B antigen.",
+    "start": 127.508,
+    "duration": 5.341
+  },
+  {
+    "text": "Because of these interactions,",
+    "start": 132.849,
+    "duration": 2.091
+  },
+  {
+    "text": "knowing both parents' blood types",
+    "start": 134.94,
+    "duration": 1.825
+  },
+  {
+    "text": "lets us predict the relative probability \nof their children's blood types.",
+    "start": 136.765,
+    "duration": 4.949
+  },
+  {
+    "text": "Why do blood types matter?",
+    "start": 141.714,
+    "duration": 1.828
+  },
+  {
+    "text": "For blood transfusions,",
+    "start": 143.542,
+    "duration": 1.541
+  },
+  {
+    "text": "finding the correct one is a matter\nof life and death.",
+    "start": 145.083,
+    "duration": 3.857
+  },
+  {
+    "text": "If someone with type A blood\nis given type B blood, or vice versa,",
+    "start": 148.94,
+    "duration": 4.625
+  },
+  {
+    "text": "their antibodies will reject \nthe foreign antigens and attack them,",
+    "start": 153.565,
+    "duration": 4.627
+  },
+  {
+    "text": "potentially causing \nthe transfused blood to clot.",
+    "start": 158.192,
+    "duration": 3.983
+  },
+  {
+    "text": "But because people with type AB blood\nproduce both A and B antigens,",
+    "start": 162.175,
+    "duration": 4.561
+  },
+  {
+    "text": "they don't make antibodies against them,\nso they will recognize either as safe,",
+    "start": 166.736,
+    "duration": 5.132
+  },
+  {
+    "text": "making them universal recipients.",
+    "start": 171.868,
+    "duration": 2.443
+  },
+  {
+    "text": "On the other hand,",
+    "start": 174.311,
+    "duration": 1.223
+  },
+  {
+    "text": "people with blood type O\ndo not produce either antigen,",
+    "start": 175.534,
+    "duration": 3.465
+  },
+  {
+    "text": "which makes them universal donors,",
+    "start": 178.999,
+    "duration": 2.508
+  },
+  {
+    "text": "but will cause their immune system\nto make antibodies",
+    "start": 181.507,
+    "duration": 2.863
+  },
+  {
+    "text": "that reject any other blood type.",
+    "start": 184.37,
+    "duration": 5.086
+  },
+  {
+    "text": "Unfortunately, matching donors \nand recipients is a bit more complicated",
+    "start": 189.456,
+    "duration": 4.221
+  },
+  {
+    "text": "due to additional antigen systems,",
+    "start": 193.677,
+    "duration": 2.634
+  },
+  {
+    "text": "particular the Rh factor,",
+    "start": 196.311,
+    "duration": 1.997
+  },
+  {
+    "text": "named after the Rhesus monkeys\nin which it was first isolated.",
+    "start": 198.308,
+    "duration": 4.272
+  },
+  {
+    "text": "Rh+ or Rh- refers to the presence\nor absence of the D antigen",
+    "start": 202.58,
+    "duration": 6.681
+  },
+  {
+    "text": "of the Rh blood group system.",
+    "start": 209.261,
+    "duration": 2.694
+  },
+  {
+    "text": "And in addition to impeding \nsome blood transfusions,",
+    "start": 211.955,
+    "duration": 2.865
+  },
+  {
+    "text": "it can cause severe complications\nin pregnancy.",
+    "start": 214.82,
+    "duration": 3.535
+  },
+  {
+    "text": "If an Rh- mother is carrying an Rh+ child,",
+    "start": 218.355,
+    "duration": 4.498
+  },
+  {
+    "text": "her body will produce Rh antibodies\nthat may cross the placenta",
+    "start": 222.853,
+    "duration": 4.363
+  },
+  {
+    "text": "and attack the fetus,",
+    "start": 227.216,
+    "duration": 1.926
+  },
+  {
+    "text": "a condition known as \nhemolytic disease of the newborn.",
+    "start": 229.142,
+    "duration": 4.198
+  },
+  {
+    "text": "Some cultures believe blood type\nto be associated with personality,",
+    "start": 233.34,
+    "duration": 3.752
+  },
+  {
+    "text": "though this is not \nsupported by science.",
+    "start": 237.092,
+    "duration": 1.814
+  },
+  {
+    "text": "And though the proportions\nof different blood types",
+    "start": 238.906,
+    "duration": 2.495
+  },
+  {
+    "text": "vary between human populations,",
+    "start": 241.401,
+    "duration": 2.383
+  },
+  {
+    "text": "scientists aren't sure why they evolved;",
+    "start": 243.784,
+    "duration": 2.819
+  },
+  {
+    "text": "perhaps as protection \nagainst blood born diseases,",
+    "start": 246.603,
+    "duration": 2.54
+  },
+  {
+    "text": "or due to random genetic drift.",
+    "start": 249.143,
+    "duration": 2.731
+  },
+  {
+    "text": "Finally, different species \nhave different sets of antigens.",
+    "start": 251.874,
+    "duration": 3.85
+  },
+  {
+    "text": "In fact, the four main blood types\nshared by us apes",
+    "start": 255.724,
+    "duration": 3.952
+  },
+  {
+    "text": "seem paltry in comparison \nto the thirteen types found in dogs.",
+    "start": 259.676,
+    "duration": 6.267
+  }
+]

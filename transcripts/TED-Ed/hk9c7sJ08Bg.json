@@ -1,0 +1,382 @@
+[
+  {
+    "text": "You’re the chief advisor \nto an eccentric king",
+    "start": 7.733,
+    "duration": 2.85
+  },
+  {
+    "text": "who needs to declare his successor.",
+    "start": 10.583,
+    "duration": 2.607
+  },
+  {
+    "text": "He wants his heir to be good \nat arithmetic, lucky,",
+    "start": 13.19,
+    "duration": 3.15
+  },
+  {
+    "text": "and above all else, honest.",
+    "start": 16.34,
+    "duration": 2.52
+  },
+  {
+    "text": "So he’s devised a competition \nto test his children,",
+    "start": 18.86,
+    "duration": 3.8
+  },
+  {
+    "text": "and ordered you to choose the winner.",
+    "start": 22.66,
+    "duration": 3.101
+  },
+  {
+    "text": "Each potential heir will be given \nthe same two six-sided dice.",
+    "start": 25.761,
+    "duration": 4.514
+  },
+  {
+    "text": "The red die has the numbers \n2, 7, 7, 12, 12, and 17.",
+    "start": 30.275,
+    "duration": 6.023
+  },
+  {
+    "text": "The blue one has \n3, 8, 8, 13, 13, and 18.",
+    "start": 36.298,
+    "duration": 5.611
+  },
+  {
+    "text": "The dice are fair, so each side \nis equally likely to come up.",
+    "start": 41.909,
+    "duration": 4.64
+  },
+  {
+    "text": "Each contestant will be sent \ninto a Royal Rolling Room,",
+    "start": 46.549,
+    "duration": 3.81
+  },
+  {
+    "text": "where they’ll roll both dice \n20 times.",
+    "start": 50.359,
+    "duration": 3.561
+  },
+  {
+    "text": "A contestant’s score starts at zero, \nand each turn,",
+    "start": 53.92,
+    "duration": 3.54
+  },
+  {
+    "text": "they should add the total \nof the two numbers rolled to their score.",
+    "start": 57.46,
+    "duration": 4.03
+  },
+  {
+    "text": "After 20 turns, they should report \ntheir final score.",
+    "start": 61.49,
+    "duration": 3.71
+  },
+  {
+    "text": "The rooms are secure, \nand no one observes the rolls.",
+    "start": 65.2,
+    "duration": 4.11
+  },
+  {
+    "text": "That means a contestant could \nadd incorrectly, or worse, be dishonest",
+    "start": 69.31,
+    "duration": 5.357
+  },
+  {
+    "text": "and make up a score they didn’t achieve.",
+    "start": 74.667,
+    "duration": 3.24
+  },
+  {
+    "text": "This is where you come in.",
+    "start": 77.907,
+    "duration": 2.213
+  },
+  {
+    "text": "The king has instructed you that \nif you’re at least 90% sure a contestant",
+    "start": 80.12,
+    "duration": 4.999
+  },
+  {
+    "text": "mis-added or cheated, \nyou should disqualify them.",
+    "start": 85.119,
+    "duration": 3.99
+  },
+  {
+    "text": "The highest-scoring player who remains \nwill be the new heir to the throne.",
+    "start": 89.109,
+    "duration": 5.012
+  },
+  {
+    "text": "After you explain the rules, \nthe children run to their rooms.",
+    "start": 94.121,
+    "duration": 3.9
+  },
+  {
+    "text": "When they return, \nAlexa announces her score is 385.",
+    "start": 98.021,
+    "duration": 5.251
+  },
+  {
+    "text": "Bertram says 840. Cassandra reports 700. \nAnd Draco declares 423.",
+    "start": 103.272,
+    "duration": 8.553
+  },
+  {
+    "text": "The future of the kingdom \nis in your hands.",
+    "start": 111.825,
+    "duration": 2.8
+  },
+  {
+    "text": "Whom do you proclaim \nto be the worthiest successor?",
+    "start": 114.625,
+    "duration": 3.39
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 119.316,
+    "duration": 5.751
+  },
+  {
+    "text": "Upon inspection, \nmost of these scores are concerning.",
+    "start": 125.927,
+    "duration": 3.82
+  },
+  {
+    "text": "Let’s start with the highest.",
+    "start": 129.747,
+    "duration": 1.894
+  },
+  {
+    "text": "Bertram scored 840.",
+    "start": 131.641,
+    "duration": 2.351
+  },
+  {
+    "text": "That’s impressive… \nbut is it even possible?",
+    "start": 133.992,
+    "duration": 2.94
+  },
+  {
+    "text": "The highest numbers on the two dice \nare 17 and 18.",
+    "start": 136.932,
+    "duration": 4.52
+  },
+  {
+    "text": "17 plus 18 is 35, so in 20 rolls,",
+    "start": 141.452,
+    "duration": 4.346
+  },
+  {
+    "text": "the greatest possible total \nis 20 times 35, or 700.",
+    "start": 145.798,
+    "duration": 5.986
+  },
+  {
+    "text": "Even if Bertram rolled \nall the highest numbers,",
+    "start": 151.784,
+    "duration": 3.36
+  },
+  {
+    "text": "he couldn’t have scored 840.",
+    "start": 155.144,
+    "duration": 2.558
+  },
+  {
+    "text": "So he’s disqualified.",
+    "start": 157.702,
+    "duration": 1.9
+  },
+  {
+    "text": "Cassandra, the next-highest roller, \nreported 700.",
+    "start": 159.602,
+    "duration": 3.43
+  },
+  {
+    "text": "That’s theoretically possible… \nbut how hard is it to be that lucky?",
+    "start": 163.032,
+    "duration": 5.416
+  },
+  {
+    "text": "In order to get 700,",
+    "start": 168.448,
+    "duration": 1.59
+  },
+  {
+    "text": "Cassandra would have to roll \nthe highest number out of six",
+    "start": 170.038,
+    "duration": 3.796
+  },
+  {
+    "text": "on 40 separate occasions.",
+    "start": 173.834,
+    "duration": 2.77
+  },
+  {
+    "text": "The probability of this is 1 over 6 \nto the 40th power,",
+    "start": 176.604,
+    "duration": 4.934
+  },
+  {
+    "text": "or 1 in about 13 nonillion— \nthat’s 13 followed by 30 zeros.",
+    "start": 181.538,
+    "duration": 7.483
+  },
+  {
+    "text": "To put that in perspective, there are \nabout 7.5 billion people in the world,",
+    "start": 189.021,
+    "duration": 4.725
+  },
+  {
+    "text": "and 7.5 billion squared \nis a lot less than 13 nonillion.",
+    "start": 193.746,
+    "duration": 5.716
+  },
+  {
+    "text": "Rolling the highest number \nall 40 times is much less likely",
+    "start": 199.462,
+    "duration": 4.897
+  },
+  {
+    "text": "than if you picked a completely random \nperson on Earth,",
+    "start": 204.359,
+    "duration": 4.1
+  },
+  {
+    "text": "and it turned out \nto be actor Paul Rudd…",
+    "start": 208.459,
+    "duration": 3.03
+  },
+  {
+    "text": "and then you randomly picked again, \nand got Paul Rudd again!",
+    "start": 211.489,
+    "duration": 5.078
+  },
+  {
+    "text": "You can’t be 100% sure that Cassandra’s \nscore didn’t happen by chance…",
+    "start": 216.567,
+    "duration": 5.425
+  },
+  {
+    "text": "but you can certainly be 90% sure, \nso she should be disqualified.",
+    "start": 221.992,
+    "duration": 6.374
+  },
+  {
+    "text": "Next up is Draco, with 423.",
+    "start": 228.366,
+    "duration": 3.79
+  },
+  {
+    "text": "This score isn’t high enough \nto be suspicious.",
+    "start": 232.156,
+    "duration": 3.421
+  },
+  {
+    "text": "But it’s impossible \nfor a different reason.",
+    "start": 235.577,
+    "duration": 2.85
+  },
+  {
+    "text": "Pick a number from each die, \nand add them up.",
+    "start": 238.427,
+    "duration": 2.73
+  },
+  {
+    "text": "No matter which combination you choose, \nthe result ends in a 0 or a 5.",
+    "start": 241.157,
+    "duration": 5.795
+  },
+  {
+    "text": "That’s because every red number \nis 2 more than a multiple of 5,",
+    "start": 246.952,
+    "duration": 4.894
+  },
+  {
+    "text": "and every blue number \nis 3 more than a multiple of 5.",
+    "start": 251.846,
+    "duration": 4.23
+  },
+  {
+    "text": "This means that when you add \nthem together,",
+    "start": 256.076,
+    "duration": 2.363
+  },
+  {
+    "text": "you’ll always get an exact multiple of 5.",
+    "start": 258.439,
+    "duration": 3.809
+  },
+  {
+    "text": "And when you add rolls \nthat are multiples of 5,",
+    "start": 262.248,
+    "duration": 2.74
+  },
+  {
+    "text": "the result will also be a multiple of 5.",
+    "start": 264.988,
+    "duration": 3.19
+  },
+  {
+    "text": "These sorts of relationships \nbetween integers are studied",
+    "start": 268.178,
+    "duration": 3.44
+  },
+  {
+    "text": "in a branch of math called number theory.",
+    "start": 271.618,
+    "duration": 2.93
+  },
+  {
+    "text": "Here number theory shows \nus that Draco’s score,",
+    "start": 274.548,
+    "duration": 2.71
+  },
+  {
+    "text": "which is not a multiple of 5,\ncannot be achieved.",
+    "start": 277.258,
+    "duration": 3.67
+  },
+  {
+    "text": "So he should be disqualified as well.",
+    "start": 280.928,
+    "duration": 3.05
+  },
+  {
+    "text": "This leaves Alexa, \nwhose score is a multiple of 5",
+    "start": 283.978,
+    "duration": 3.83
+  },
+  {
+    "text": "and is in the achievable range.",
+    "start": 287.808,
+    "duration": 2.52
+  },
+  {
+    "text": "In fact, the most likely score is 400, \nso she was a little bit unlucky.",
+    "start": 290.328,
+    "duration": 5.982
+  },
+  {
+    "text": "But with everyone else disqualified, \nshe’s the last heir standing.",
+    "start": 296.31,
+    "duration": 4.697
+  },
+  {
+    "text": "All hail Queen Alexa, \nthe worthiest successor!",
+    "start": 301.007,
+    "duration": 3.68
+  },
+  {
+    "text": "At least if you agree that the best way \nto organize your government",
+    "start": 304.687,
+    "duration": 3.231
+  },
+  {
+    "text": "is a roll of the dice...",
+    "start": 307.918,
+    "duration": 1.475
+  }
+]

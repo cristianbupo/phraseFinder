@@ -1,0 +1,2777 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.0,
+    "duration": 1.92
+  },
+  {
+    "text": "ALISON BEARD: Welcome\nto the HBR IdeaCast",
+    "start": 10.56,
+    "duration": 1.8
+  },
+  {
+    "text": "from Harvard Business Review.",
+    "start": 12.36,
+    "duration": 1.29
+  },
+  {
+    "text": "I'm Alison Beard.",
+    "start": 13.65,
+    "duration": 0.93
+  },
+  {
+    "text": "From Apple and JPMorgan Chase\nto Marriott and British Airways,",
+    "start": 22.0,
+    "duration": 3.45
+  },
+  {
+    "text": "some of the most sophisticated\ncompanies in the world",
+    "start": 25.45,
+    "duration": 2.46
+  },
+  {
+    "text": "have fallen victim to cyber\nattacks in recent years.",
+    "start": 27.91,
+    "duration": 3.12
+  },
+  {
+    "text": "Business critical activities\nhave been disrupted.",
+    "start": 31.03,
+    "duration": 2.43
+  },
+  {
+    "text": "Customer data has\nbeen compromised.",
+    "start": 33.46,
+    "duration": 2.04
+  },
+  {
+    "text": "And the threats continue.",
+    "start": 35.5,
+    "duration": 1.98
+  },
+  {
+    "text": "So what can organizations\ndo to prevent themselves",
+    "start": 37.48,
+    "duration": 2.67
+  },
+  {
+    "text": "from becoming the next target?",
+    "start": 40.15,
+    "duration": 2.25
+  },
+  {
+    "text": "By now, most accept\nthat they need",
+    "start": 42.4,
+    "duration": 2.01
+  },
+  {
+    "text": "to invest significant\ncash and resources",
+    "start": 44.41,
+    "duration": 2.28
+  },
+  {
+    "text": "into cybersecurity capabilities.",
+    "start": 46.69,
+    "duration": 2.22
+  },
+  {
+    "text": "But too often,\nthis important job",
+    "start": 48.91,
+    "duration": 2.37
+  },
+  {
+    "text": "is left to IT leaders\nrather than the full C-suite",
+    "start": 51.28,
+    "duration": 3.36
+  },
+  {
+    "text": "and board.",
+    "start": 54.64,
+    "duration": 1.08
+  },
+  {
+    "text": "Today's guests\nsay that companies",
+    "start": 55.72,
+    "duration": 1.83
+  },
+  {
+    "text": "need to take a much different\napproach with leaders",
+    "start": 57.55,
+    "duration": 2.79
+  },
+  {
+    "text": "at the very top thinking\nabout cyber risks",
+    "start": 60.34,
+    "duration": 2.37
+  },
+  {
+    "text": "as not just a technology issue\nbut a significant business",
+    "start": 62.71,
+    "duration": 3.45
+  },
+  {
+    "text": "problem to be solved.",
+    "start": 66.16,
+    "duration": 1.59
+  },
+  {
+    "text": "Thomas Parenty\nand Jack Domet are",
+    "start": 67.75,
+    "duration": 1.83
+  },
+  {
+    "text": "cofounders of the cybersecurity\nfirm Archefact Group",
+    "start": 69.58,
+    "duration": 2.97
+  },
+  {
+    "text": "and coauthors of\nthe HBR article,",
+    "start": 72.55,
+    "duration": 2.16
+  },
+  {
+    "text": "\"Sizing Up Your Cyber Risks\"\nas well as the HBR press",
+    "start": 74.71,
+    "duration": 3.42
+  },
+  {
+    "text": "book, A Leader's Guide\nTo Cybersecurity.",
+    "start": 78.13,
+    "duration": 3.0
+  },
+  {
+    "text": "Thomas and Jack, thanks\nso much for being here.",
+    "start": 81.13,
+    "duration": 2.25
+  },
+  {
+    "text": "THOMAS PARENTY: We're so\nhappy to have the opportunity",
+    "start": 83.38,
+    "duration": 2.25
+  },
+  {
+    "text": "to talk with you today.",
+    "start": 85.63,
+    "duration": 1.27
+  },
+  {
+    "text": "JACK DOMET: Thanks\nfor having us.",
+    "start": 86.9,
+    "duration": 2.062
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 88.962,
+    "duration": 1.984
+  },
+  {
+    "text": "ALISON BEARD: Presumably,\na lot of these companies",
+    "start": 96.557,
+    "duration": 2.083
+  },
+  {
+    "text": "that are hit take some\nprecautions to protect",
+    "start": 98.64,
+    "duration": 3.21
+  },
+  {
+    "text": "themselves.",
+    "start": 101.85,
+    "duration": 1.15
+  },
+  {
+    "text": "So where are they going wrong?",
+    "start": 103.0,
+    "duration": 1.76
+  },
+  {
+    "text": "THOMAS PARENTY: We have\ncome to the realization",
+    "start": 104.76,
+    "duration": 2.34
+  },
+  {
+    "text": "that, essentially, worldwide\nwe're failing at cybersecurity",
+    "start": 107.1,
+    "duration": 3.88
+  },
+  {
+    "text": "and that, in spite of\nall of the investment",
+    "start": 110.98,
+    "duration": 1.91
+  },
+  {
+    "text": "and public attention, the number\nand impact of cyber attacks",
+    "start": 112.89,
+    "duration": 3.72
+  },
+  {
+    "text": "is only rising.",
+    "start": 116.61,
+    "duration": 0.93
+  },
+  {
+    "text": "In some sense, that's the reason\nthat we're talking right now.",
+    "start": 117.54,
+    "duration": 2.76
+  },
+  {
+    "text": "And you can think of our\ncurrent cybersecurity situation",
+    "start": 120.3,
+    "duration": 4.23
+  },
+  {
+    "text": "today as comparable to trench\nwarfare in World War I.",
+    "start": 124.53,
+    "duration": 4.199
+  },
+  {
+    "text": "The progress is negligible,\nand the casualties are high.",
+    "start": 128.729,
+    "duration": 3.401
+  },
+  {
+    "text": "There are several reasons why\nthe focus on cybersecurity",
+    "start": 132.13,
+    "duration": 4.97
+  },
+  {
+    "text": "and cybersecurity technology\nends up undercutting",
+    "start": 137.1,
+    "duration": 3.3
+  },
+  {
+    "text": "its capacity to protect.",
+    "start": 140.4,
+    "duration": 1.65
+  },
+  {
+    "text": "First, no company has\nall of the resources",
+    "start": 142.05,
+    "duration": 2.61
+  },
+  {
+    "text": "to fix every\ncybersecurity issue.",
+    "start": 144.66,
+    "duration": 2.13
+  },
+  {
+    "text": "And not all fixes are\nequally important.",
+    "start": 146.79,
+    "duration": 2.65
+  },
+  {
+    "text": "It's only by starting\nwith a company's most",
+    "start": 149.44,
+    "duration": 2.84
+  },
+  {
+    "text": "critical business activities and\nhow cyber attacks could disrupt",
+    "start": 152.28,
+    "duration": 4.02
+  },
+  {
+    "text": "them that one can start to\nprioritize this whole process",
+    "start": 156.3,
+    "duration": 3.51
+  },
+  {
+    "text": "of risk mitigation.",
+    "start": 159.81,
+    "duration": 1.32
+  },
+  {
+    "text": "Unfortunately, there\nare many companies",
+    "start": 161.13,
+    "duration": 2.19
+  },
+  {
+    "text": "who sort of skip this step\nof first thinking about what",
+    "start": 163.32,
+    "duration": 5.73
+  },
+  {
+    "text": "are the most important\nbusiness activities that could",
+    "start": 169.05,
+    "duration": 2.46
+  },
+  {
+    "text": "be disrupted by a cyber attack.",
+    "start": 171.51,
+    "duration": 2.04
+  },
+  {
+    "text": "And instead, they\nend up focusing",
+    "start": 173.55,
+    "duration": 3.45
+  },
+  {
+    "text": "on individual technologies\nto fix individual problems",
+    "start": 177.0,
+    "duration": 4.89
+  },
+  {
+    "text": "within their computer systems.",
+    "start": 181.89,
+    "duration": 3.7
+  },
+  {
+    "text": "The focus on fixing\nthese computer",
+    "start": 185.59,
+    "duration": 2.12
+  },
+  {
+    "text": "vulnerabilities, it's\nseductively dangerous",
+    "start": 187.71,
+    "duration": 2.91
+  },
+  {
+    "text": "because there is\nsome value here.",
+    "start": 190.62,
+    "duration": 2.13
+  },
+  {
+    "text": "However, a company can\nspend all of its resources,",
+    "start": 192.75,
+    "duration": 3.03
+  },
+  {
+    "text": "significant resources,\nfixing these vulnerabilities",
+    "start": 195.78,
+    "duration": 3.09
+  },
+  {
+    "text": "without ever addressing the\nfundamental issue, which",
+    "start": 198.87,
+    "duration": 3.21
+  },
+  {
+    "text": "is protecting the business\nactivities for which",
+    "start": 202.08,
+    "duration": 2.28
+  },
+  {
+    "text": "the computers were procured.",
+    "start": 204.36,
+    "duration": 1.68
+  },
+  {
+    "text": "ALISON BEARD: So\nyou're basically",
+    "start": 206.04,
+    "duration": 1.5
+  },
+  {
+    "text": "having the IT department\nsay, well, we're compliant",
+    "start": 207.54,
+    "duration": 3.72
+  },
+  {
+    "text": "and best practices for a lot of\nthese systems when they're not",
+    "start": 211.26,
+    "duration": 4.47
+  },
+  {
+    "text": "taking into account the most\nimportant business functions",
+    "start": 215.73,
+    "duration": 4.05
+  },
+  {
+    "text": "that these systems\nare protecting.",
+    "start": 219.78,
+    "duration": 2.64
+  },
+  {
+    "text": "THOMAS PARENTY: There are\nnumerous examples of vendors,",
+    "start": 222.42,
+    "duration": 3.18
+  },
+  {
+    "text": "including Target,\nwho were compliant",
+    "start": 225.6,
+    "duration": 2.82
+  },
+  {
+    "text": "with the relevant\npayment card security",
+    "start": 228.42,
+    "duration": 3.42
+  },
+  {
+    "text": "standards at the\nvery moment that they",
+    "start": 231.84,
+    "duration": 2.94
+  },
+  {
+    "text": "were successfully hacked.",
+    "start": 234.78,
+    "duration": 2.58
+  },
+  {
+    "text": "For certain\ncompanies, especially",
+    "start": 237.36,
+    "duration": 2.16
+  },
+  {
+    "text": "those in highly\nregulated industries",
+    "start": 239.52,
+    "duration": 2.02
+  },
+  {
+    "text": "such as financial\nservices, they are",
+    "start": 241.54,
+    "duration": 2.66
+  },
+  {
+    "text": "subject to so many different\ncompliance requirements",
+    "start": 244.2,
+    "duration": 3.84
+  },
+  {
+    "text": "that what effectively\nhappens is they translate",
+    "start": 248.04,
+    "duration": 3.99
+  },
+  {
+    "text": "in their minds being compliant\nwith requirements as equivalent",
+    "start": 252.03,
+    "duration": 4.559
+  },
+  {
+    "text": "to being adequately\nprotected and ends up",
+    "start": 256.589,
+    "duration": 3.961
+  },
+  {
+    "text": "actually diminishing the\nsecurity of these companies as",
+    "start": 260.55,
+    "duration": 3.0
+  },
+  {
+    "text": "opposed to achieving its goal\nof increasing protection.",
+    "start": 263.55,
+    "duration": 3.36
+  },
+  {
+    "text": "ALISON BEARD: So, Jack,\nyou're the management expert.",
+    "start": 266.91,
+    "duration": 2.97
+  },
+  {
+    "text": "Why do organizations\noperate this way?",
+    "start": 269.88,
+    "duration": 4.17
+  },
+  {
+    "text": "Why aren't they thinking\nmore holistically",
+    "start": 274.05,
+    "duration": 2.19
+  },
+  {
+    "text": "about business risks?",
+    "start": 276.24,
+    "duration": 2.07
+  },
+  {
+    "text": "JACK DOMET: Well, part of\nthat starts from the fact",
+    "start": 278.31,
+    "duration": 3.63
+  },
+  {
+    "text": "that, since its very inception,\ncybersecurity has been--",
+    "start": 281.94,
+    "duration": 3.9
+  },
+  {
+    "text": "it's come out of the\ntechnology department.",
+    "start": 285.84,
+    "duration": 3.15
+  },
+  {
+    "text": "And it's been looked at in\nterms of an attack and defense",
+    "start": 288.99,
+    "duration": 3.69
+  },
+  {
+    "text": "technology paradigm\nversus one that's",
+    "start": 292.68,
+    "duration": 2.52
+  },
+  {
+    "text": "related to any other\ncomplex business risks",
+    "start": 295.2,
+    "duration": 2.61
+  },
+  {
+    "text": "that a company might face.",
+    "start": 297.81,
+    "duration": 2.55
+  },
+  {
+    "text": "Now, there's no\nquestion that, given",
+    "start": 300.36,
+    "duration": 2.52
+  },
+  {
+    "text": "the neglect of\ncybersecurity over time",
+    "start": 302.88,
+    "duration": 2.1
+  },
+  {
+    "text": "by most companies in the past,\nmany companies do, in fact,",
+    "start": 304.98,
+    "duration": 3.39
+  },
+  {
+    "text": "need to invest more.",
+    "start": 308.37,
+    "duration": 1.35
+  },
+  {
+    "text": "But as Thomas\nmentioned, companies",
+    "start": 309.72,
+    "duration": 3.18
+  },
+  {
+    "text": "like the ones in the\nfinancial services",
+    "start": 312.9,
+    "duration": 1.77
+  },
+  {
+    "text": "space with really large\ncybersecurity budgets",
+    "start": 314.67,
+    "duration": 2.58
+  },
+  {
+    "text": "don't nearly get the\ncyber protection benefit",
+    "start": 317.25,
+    "duration": 2.49
+  },
+  {
+    "text": "that they should given the\ndollars that they spend.",
+    "start": 319.74,
+    "duration": 3.42
+  },
+  {
+    "text": "And we have an example of one of\nour financial services clients",
+    "start": 323.16,
+    "duration": 3.27
+  },
+  {
+    "text": "that spent about\n$3 million a year",
+    "start": 326.43,
+    "duration": 2.7
+  },
+  {
+    "text": "on cyber threat intelligence.",
+    "start": 329.13,
+    "duration": 2.19
+  },
+  {
+    "text": "But when we asked\nthem for examples",
+    "start": 331.32,
+    "duration": 2.34
+  },
+  {
+    "text": "as to where they\nactually changed",
+    "start": 333.66,
+    "duration": 1.98
+  },
+  {
+    "text": "their cybersecurity\nprotections or strategies",
+    "start": 335.64,
+    "duration": 2.52
+  },
+  {
+    "text": "on the basis of\nthis intelligence,",
+    "start": 338.16,
+    "duration": 1.77
+  },
+  {
+    "text": "they were silent--",
+    "start": 339.93,
+    "duration": 1.38
+  },
+  {
+    "text": "$3 million year after year\nwithout any actionable result.",
+    "start": 341.31,
+    "duration": 4.608
+  },
+  {
+    "text": "ALISON BEARD: And\nin your experience,",
+    "start": 345.918,
+    "duration": 1.542
+  },
+  {
+    "text": "is it hard to get nontech\nleaders to really understand",
+    "start": 347.46,
+    "duration": 4.89
+  },
+  {
+    "text": "and get involved\nin these issues?",
+    "start": 352.35,
+    "duration": 2.28
+  },
+  {
+    "text": "JACK DOMET: Well, many\ncompanies don't do it.",
+    "start": 354.63,
+    "duration": 2.13
+  },
+  {
+    "text": "It isn't hard to get them\nengaged on the process",
+    "start": 356.76,
+    "duration": 2.73
+  },
+  {
+    "text": "if you change the nature\nof the conversation,",
+    "start": 359.49,
+    "duration": 2.258
+  },
+  {
+    "text": "if you change the\nstarting point from which",
+    "start": 361.748,
+    "duration": 1.792
+  },
+  {
+    "text": "these conversations begin.",
+    "start": 363.54,
+    "duration": 2.4
+  },
+  {
+    "text": "And that really starts\nwith looking at cyber risks",
+    "start": 365.94,
+    "duration": 3.09
+  },
+  {
+    "text": "as a business risk that\ncould come and occur",
+    "start": 369.03,
+    "duration": 3.69
+  },
+  {
+    "text": "as a result of a cyber attack.",
+    "start": 372.72,
+    "duration": 1.647
+  },
+  {
+    "text": "ALISON BEARD: So how do you kick\noff that kind of conversation",
+    "start": 374.367,
+    "duration": 2.583
+  },
+  {
+    "text": "with senior leaders at a company\nand the senior tech people?",
+    "start": 376.95,
+    "duration": 4.44
+  },
+  {
+    "text": "JACK DOMET: Well, it's an\ninterdisciplinary process.",
+    "start": 381.39,
+    "duration": 2.31
+  },
+  {
+    "text": "The approach that we take and\nthat we introduce, actually,",
+    "start": 383.7,
+    "duration": 3.42
+  },
+  {
+    "text": "in the article is called\na cyber threat narrative",
+    "start": 387.12,
+    "duration": 2.64
+  },
+  {
+    "text": "where we bring resources\nfrom across the organization",
+    "start": 389.76,
+    "duration": 3.27
+  },
+  {
+    "text": "starting with a business\nowner, someone who's",
+    "start": 393.03,
+    "duration": 2.29
+  },
+  {
+    "text": "running a business unit, someone\nwho has responsibility for P&L,",
+    "start": 395.32,
+    "duration": 4.35
+  },
+  {
+    "text": "to understand where\nare the business",
+    "start": 399.67,
+    "duration": 2.67
+  },
+  {
+    "text": "risks in their organization.",
+    "start": 402.34,
+    "duration": 1.68
+  },
+  {
+    "text": "What's actually important?",
+    "start": 404.02,
+    "duration": 1.33
+  },
+  {
+    "text": "What assets are critical\nto their operations?",
+    "start": 405.35,
+    "duration": 2.87
+  },
+  {
+    "text": "What activities do they do that\nprovide competitive advantage",
+    "start": 408.22,
+    "duration": 3.54
+  },
+  {
+    "text": "to them and their organization\nand their business unit?",
+    "start": 411.76,
+    "duration": 3.24
+  },
+  {
+    "text": "Once those are identified,\nyou're in a better position",
+    "start": 415.0,
+    "duration": 2.64
+  },
+  {
+    "text": "to engage with other resources\nthroughout the organization",
+    "start": 417.64,
+    "duration": 4.17
+  },
+  {
+    "text": "to help quantify\nwhat those risks are",
+    "start": 421.81,
+    "duration": 2.88
+  },
+  {
+    "text": "and bring in the IT department\nand your cybersecurity",
+    "start": 424.69,
+    "duration": 4.32
+  },
+  {
+    "text": "resources to understand what\nthe threat environment might be",
+    "start": 429.01,
+    "duration": 3.27
+  },
+  {
+    "text": "that might affect\nthose risks in some way",
+    "start": 432.28,
+    "duration": 2.07
+  },
+  {
+    "text": "or make them to come about.",
+    "start": 434.35,
+    "duration": 1.35
+  },
+  {
+    "text": "THOMAS PARENTY:\nOne of the dynamics",
+    "start": 435.7,
+    "duration": 2.55
+  },
+  {
+    "text": "that we are working to\nchange is this perception",
+    "start": 438.25,
+    "duration": 5.34
+  },
+  {
+    "text": "on the part of nontechnical\nbusiness leaders",
+    "start": 443.59,
+    "duration": 2.7
+  },
+  {
+    "text": "that the cybersecurity field\nis so complex, so impenetrable,",
+    "start": 446.29,
+    "duration": 4.62
+  },
+  {
+    "text": "that they would never be\nable to understand it.",
+    "start": 450.91,
+    "duration": 2.47
+  },
+  {
+    "text": "And so it just is\nlogical to delegate that,",
+    "start": 453.38,
+    "duration": 3.32
+  },
+  {
+    "text": "or we actually say,\nabrogate that responsibility",
+    "start": 456.7,
+    "duration": 3.63
+  },
+  {
+    "text": "to either cybersecurity\nor IT staff.",
+    "start": 460.33,
+    "duration": 2.55
+  },
+  {
+    "text": "Just as is true of every\nother business domain, what",
+    "start": 462.88,
+    "duration": 5.43
+  },
+  {
+    "text": "you need to know about\nit depends on your role",
+    "start": 468.31,
+    "duration": 2.34
+  },
+  {
+    "text": "and responsibilities.",
+    "start": 470.65,
+    "duration": 1.26
+  },
+  {
+    "text": "And what boards of directors,\nsenior executives, and managers",
+    "start": 471.91,
+    "duration": 3.69
+  },
+  {
+    "text": "need to know about\ncybersecurity is significantly",
+    "start": 475.6,
+    "duration": 3.66
+  },
+  {
+    "text": "different from that\nrequired by somebody",
+    "start": 479.26,
+    "duration": 3.3
+  },
+  {
+    "text": "who is rolling up their\nsleeves and, if you will,",
+    "start": 482.56,
+    "duration": 3.48
+  },
+  {
+    "text": "operating on the bits\nand bytes of a computer.",
+    "start": 486.04,
+    "duration": 3.33
+  },
+  {
+    "text": "ALISON BEARD: Yeah.",
+    "start": 489.37,
+    "duration": 0.81
+  },
+  {
+    "text": "Where have you\nseen a company that",
+    "start": 490.18,
+    "duration": 1.8
+  },
+  {
+    "text": "hasn't been using that cyber\nthreat narrative process go",
+    "start": 491.98,
+    "duration": 5.04
+  },
+  {
+    "text": "really wrong and miss a\nbig hole in their systems",
+    "start": 497.02,
+    "duration": 5.04
+  },
+  {
+    "text": "and be attacked?",
+    "start": 502.06,
+    "duration": 1.473
+  },
+  {
+    "text": "THOMAS PARENTY: One\nexample that comes to mind",
+    "start": 503.533,
+    "duration": 1.917
+  },
+  {
+    "text": "is an Asian automobile\nmanufacturer",
+    "start": 505.45,
+    "duration": 3.21
+  },
+  {
+    "text": "that we worked with a\nnumber of years ago.",
+    "start": 508.66,
+    "duration": 1.768
+  },
+  {
+    "text": "And they had suffered a breach.",
+    "start": 510.428,
+    "duration": 1.292
+  },
+  {
+    "text": "And in the aftermath\nof the breach,",
+    "start": 511.72,
+    "duration": 3.51
+  },
+  {
+    "text": "the cybersecurity team was\ntasked with making us so secure",
+    "start": 515.23,
+    "duration": 4.079
+  },
+  {
+    "text": "that this never happens again.",
+    "start": 519.309,
+    "duration": 2.081
+  },
+  {
+    "text": "And so the cybersecurity\nteam decided",
+    "start": 521.39,
+    "duration": 2.779
+  },
+  {
+    "text": "to put the network used for the\ndevelopment of new automobiles",
+    "start": 524.169,
+    "duration": 4.681
+  },
+  {
+    "text": "inside their corporate\nnetwork because they thought,",
+    "start": 528.85,
+    "duration": 3.825
+  },
+  {
+    "text": "ah, an attacker would need\nto go through two networks",
+    "start": 532.675,
+    "duration": 2.595
+  },
+  {
+    "text": "in order to be able to\nthen steal information.",
+    "start": 535.27,
+    "duration": 3.39
+  },
+  {
+    "text": "In principle, that sounds\nlike a wonderful idea",
+    "start": 538.66,
+    "duration": 2.52
+  },
+  {
+    "text": "except there were colleagues\nfrom other partner companies",
+    "start": 541.18,
+    "duration": 4.44
+  },
+  {
+    "text": "that work side by side with\nthese automobile manufacturer",
+    "start": 545.62,
+    "duration": 3.39
+  },
+  {
+    "text": "employees.",
+    "start": 549.01,
+    "duration": 0.78
+  },
+  {
+    "text": "And they were now locked out.",
+    "start": 549.79,
+    "duration": 2.73
+  },
+  {
+    "text": "And so the only way that they\ncould get their work done",
+    "start": 552.52,
+    "duration": 3.27
+  },
+  {
+    "text": "was to create fake\nemployee accounts for all",
+    "start": 555.79,
+    "duration": 3.39
+  },
+  {
+    "text": "of these external contractors.",
+    "start": 559.18,
+    "duration": 2.1
+  },
+  {
+    "text": "And they did this knowing that\nthis was perhaps not the best",
+    "start": 561.28,
+    "duration": 4.08
+  },
+  {
+    "text": "thing from a\ncybersecurity perspective,",
+    "start": 565.36,
+    "duration": 2.13
+  },
+  {
+    "text": "but it's what they needed to do\nin order to get their job done.",
+    "start": 567.49,
+    "duration": 3.91
+  },
+  {
+    "text": "And so this illustrates a\ncouple of points, one of which",
+    "start": 571.4,
+    "duration": 2.48
+  },
+  {
+    "text": "is the cybersecurity\npeople had no idea how",
+    "start": 573.88,
+    "duration": 3.3
+  },
+  {
+    "text": "the company that they worked\nfor actually designed cars.",
+    "start": 577.18,
+    "duration": 3.49
+  },
+  {
+    "text": "And so they proposed\nsecurity mechanisms",
+    "start": 580.67,
+    "duration": 2.21
+  },
+  {
+    "text": "that both interfered\nwith work and ended up",
+    "start": 582.88,
+    "duration": 2.97
+  },
+  {
+    "text": "resulting in the company being\nmore vulnerable because all",
+    "start": 585.85,
+    "duration": 3.99
+  },
+  {
+    "text": "of these outsiders now\nhad complete access",
+    "start": 589.84,
+    "duration": 2.73
+  },
+  {
+    "text": "to the corporate\nintranet globally.",
+    "start": 592.57,
+    "duration": 1.717
+  },
+  {
+    "text": "ALISON BEARD: Right.",
+    "start": 594.287,
+    "duration": 0.833
+  },
+  {
+    "text": "THOMAS PARENTY: The\nother thing it points out",
+    "start": 595.12,
+    "duration": 1.875
+  },
+  {
+    "text": "is that, when it\ncomes to employees,",
+    "start": 596.995,
+    "duration": 3.135
+  },
+  {
+    "text": "they are much more motivated by\ngetting the job done for which",
+    "start": 600.13,
+    "duration": 3.78
+  },
+  {
+    "text": "they are hired\nand paid than they",
+    "start": 603.91,
+    "duration": 2.61
+  },
+  {
+    "text": "are about some abstract\nconcept of cybersecurity.",
+    "start": 606.52,
+    "duration": 4.59
+  },
+  {
+    "text": "And most companies would\nagree that employees",
+    "start": 611.11,
+    "duration": 2.55
+  },
+  {
+    "text": "being resourceful to get their\njobs done is a good thing.",
+    "start": 613.66,
+    "duration": 3.67
+  },
+  {
+    "text": "However, in this\nparticular case,",
+    "start": 617.33,
+    "duration": 2.09
+  },
+  {
+    "text": "cybersecurity directly got into\ninterfered with their work.",
+    "start": 619.42,
+    "duration": 4.81
+  },
+  {
+    "text": "And so they saw no\nissue whatsoever",
+    "start": 624.23,
+    "duration": 2.84
+  },
+  {
+    "text": "in going around\nthose protections.",
+    "start": 627.07,
+    "duration": 2.49
+  },
+  {
+    "text": "ALISON BEARD: Were they\nthen attacked again?",
+    "start": 629.56,
+    "duration": 1.95
+  },
+  {
+    "text": "THOMAS PARENTY: One of the\nsort of insidious things",
+    "start": 631.51,
+    "duration": 3.57
+  },
+  {
+    "text": "about this particular\nsituation is,",
+    "start": 635.08,
+    "duration": 2.61
+  },
+  {
+    "text": "because all of these outsiders\nwere now treated as insiders,",
+    "start": 637.69,
+    "duration": 5.43
+  },
+  {
+    "text": "we have no idea what they did.",
+    "start": 643.12,
+    "duration": 3.06
+  },
+  {
+    "text": "ALISON BEARD: I mean, this\nis a really important point",
+    "start": 646.18,
+    "duration": 2.55
+  },
+  {
+    "text": "because we're told not to\nuse open Wi-Fi at cafes",
+    "start": 648.73,
+    "duration": 5.25
+  },
+  {
+    "text": "or ever give our\npassword to anyone.",
+    "start": 653.98,
+    "duration": 2.202
+  },
+  {
+    "text": "But there are times when\nyou just think, no, I really",
+    "start": 656.182,
+    "duration": 2.208
+  },
+  {
+    "text": "have to send that email out.",
+    "start": 658.39,
+    "duration": 1.5
+  },
+  {
+    "text": "The work needs to get done.",
+    "start": 659.89,
+    "duration": 1.63
+  },
+  {
+    "text": "So how should organizations\nwalk that line",
+    "start": 661.52,
+    "duration": 3.11
+  },
+  {
+    "text": "between putting in\nproper precautions,",
+    "start": 664.63,
+    "duration": 2.13
+  },
+  {
+    "text": "but also ensuring that people\nstill can be efficient?",
+    "start": 666.76,
+    "duration": 5.41
+  },
+  {
+    "text": "THOMAS PARENTY: We've found\nthat cybersecurity writ large",
+    "start": 672.17,
+    "duration": 4.32
+  },
+  {
+    "text": "is full of platitudes that\nseem obvious and compelling",
+    "start": 676.49,
+    "duration": 3.57
+  },
+  {
+    "text": "at first read.",
+    "start": 680.06,
+    "duration": 0.81
+  },
+  {
+    "text": "But if you think about\nthem more thoughtfully,",
+    "start": 680.87,
+    "duration": 2.61
+  },
+  {
+    "text": "they're sometimes misinformed.",
+    "start": 683.48,
+    "duration": 2.4
+  },
+  {
+    "text": "One example where this\noften comes into play",
+    "start": 685.88,
+    "duration": 2.58
+  },
+  {
+    "text": "is a class of cyber\nattack called phishing.",
+    "start": 688.46,
+    "duration": 3.45
+  },
+  {
+    "text": "People often open attachments\nbecause you read your email.",
+    "start": 691.91,
+    "duration": 4.74
+  },
+  {
+    "text": "And occasionally, those\nattachments result",
+    "start": 696.65,
+    "duration": 2.79
+  },
+  {
+    "text": "in malware being downloaded\nonto their computers.",
+    "start": 699.44,
+    "duration": 3.45
+  },
+  {
+    "text": "And attackers have\nbecome savvier over time.",
+    "start": 702.89,
+    "duration": 2.62
+  },
+  {
+    "text": "It's not just Nigerian princes\nwho want you to give millions.",
+    "start": 705.51,
+    "duration": 4.34
+  },
+  {
+    "text": "They'll do research\nspecific about you",
+    "start": 709.85,
+    "duration": 3.36
+  },
+  {
+    "text": "to your LinkedIn\naccount, et cetera,",
+    "start": 713.21,
+    "duration": 1.5
+  },
+  {
+    "text": "so they can deliver a\nvery targeted attack.",
+    "start": 714.71,
+    "duration": 2.04
+  },
+  {
+    "text": "Yet the common thing that\ncybersecurity departments",
+    "start": 716.75,
+    "duration": 5.1
+  },
+  {
+    "text": "typically put into\nplace is what's",
+    "start": 721.85,
+    "duration": 1.56
+  },
+  {
+    "text": "called security awareness\ntraining to educate--",
+    "start": 723.41,
+    "duration": 3.075
+  },
+  {
+    "text": "ALISON BEARD: I\njust completed mine.",
+    "start": 726.485,
+    "duration": 1.785
+  },
+  {
+    "text": "THOMAS PARENTY:\nYou just did, see?",
+    "start": 728.27,
+    "duration": 1.98
+  },
+  {
+    "text": "We could then ask,\nwhat is the value",
+    "start": 730.25,
+    "duration": 2.43
+  },
+  {
+    "text": "that you derived from taking\nthis security training?",
+    "start": 732.68,
+    "duration": 4.08
+  },
+  {
+    "text": "Don't answer that.",
+    "start": 736.76,
+    "duration": 2.36
+  },
+  {
+    "text": "ALISON BEARD: I do\nthink I'm more careful,",
+    "start": 739.12,
+    "duration": 1.75
+  },
+  {
+    "text": "but I think the big thing is\nthe problem isn't necessarily",
+    "start": 740.87,
+    "duration": 4.53
+  },
+  {
+    "text": "stemming from a phishing\nand phishing attack.",
+    "start": 745.4,
+    "duration": 3.18
+  },
+  {
+    "text": "THOMAS PARENTY: So one of\nthe things that is important",
+    "start": 748.58,
+    "duration": 2.25
+  },
+  {
+    "text": "to note-- and this is something\nthat is illustrated both",
+    "start": 750.83,
+    "duration": 3.48
+  },
+  {
+    "text": "by your security awareness\ntraining and also",
+    "start": 754.31,
+    "duration": 2.43
+  },
+  {
+    "text": "by the example from the\nautomobile company--",
+    "start": 756.74,
+    "duration": 2.4
+  },
+  {
+    "text": "is that, while it is common\nfor security training",
+    "start": 759.14,
+    "duration": 4.62
+  },
+  {
+    "text": "to talk about\ngeneric good things",
+    "start": 763.76,
+    "duration": 2.4
+  },
+  {
+    "text": "to do-- so if you're\nin a Wi-Fi hotspot,",
+    "start": 766.16,
+    "duration": 2.52
+  },
+  {
+    "text": "use a VPN so that the person\nsipping a latte next to you",
+    "start": 768.68,
+    "duration": 4.14
+  },
+  {
+    "text": "isn't also reading your email.",
+    "start": 772.82,
+    "duration": 2.04
+  },
+  {
+    "text": "But what is missing\nis informing employees",
+    "start": 774.86,
+    "duration": 4.05
+  },
+  {
+    "text": "about the cybersecurity\nimplications of their own work.",
+    "start": 778.91,
+    "duration": 4.537
+  },
+  {
+    "text": "ALISON BEARD: Right.",
+    "start": 783.447,
+    "duration": 0.833
+  },
+  {
+    "text": "THOMAS PARENTY: And\nso this requires",
+    "start": 784.28,
+    "duration": 2.25
+  },
+  {
+    "text": "actually going beyond a\nlist of generic good things",
+    "start": 786.53,
+    "duration": 3.87
+  },
+  {
+    "text": "to do to actually looking\nat how an employee",
+    "start": 790.4,
+    "duration": 5.57
+  },
+  {
+    "text": "functions in their day to day\nwork life and how the actions",
+    "start": 795.97,
+    "duration": 4.05
+  },
+  {
+    "text": "they perform either discourage\na cyber attack from being",
+    "start": 800.02,
+    "duration": 4.47
+  },
+  {
+    "text": "successful or lay the\ngroundwork for a cyber attack",
+    "start": 804.49,
+    "duration": 3.78
+  },
+  {
+    "text": "on the critical\nbusiness activity",
+    "start": 808.27,
+    "duration": 1.8
+  },
+  {
+    "text": "that they are involved\nin from being effective.",
+    "start": 810.07,
+    "duration": 3.28
+  },
+  {
+    "text": "ALISON BEARD: So I mean, every\ncompany is a technology company",
+    "start": 813.35,
+    "duration": 2.84
+  },
+  {
+    "text": "now because we're all digital.",
+    "start": 816.19,
+    "duration": 1.65
+  },
+  {
+    "text": "We might all even be using\nall the same systems,",
+    "start": 817.84,
+    "duration": 2.49
+  },
+  {
+    "text": "but our cyber threat narratives\nwill be very different",
+    "start": 820.33,
+    "duration": 3.33
+  },
+  {
+    "text": "if we're an oil company\nversus a credit card company.",
+    "start": 823.66,
+    "duration": 3.233
+  },
+  {
+    "text": "JACK DOMET: Even\nwithin a company,",
+    "start": 826.893,
+    "duration": 1.417
+  },
+  {
+    "text": "where are your locations?",
+    "start": 828.31,
+    "duration": 1.735
+  },
+  {
+    "text": "What are your different\nbusiness units?",
+    "start": 830.045,
+    "duration": 1.625
+  },
+  {
+    "text": "Each of these have\ndifferent characteristics.",
+    "start": 831.67,
+    "duration": 2.11
+  },
+  {
+    "text": "They vary widely.",
+    "start": 833.78,
+    "duration": 1.07
+  },
+  {
+    "text": "And those might be the products\nand services that that business",
+    "start": 834.85,
+    "duration": 3.48
+  },
+  {
+    "text": "unit does, or its location\nand the regulatory regime",
+    "start": 838.33,
+    "duration": 3.84
+  },
+  {
+    "text": "and geopolitical\nenvironment that",
+    "start": 842.17,
+    "duration": 1.53
+  },
+  {
+    "text": "lives within that\nlocation, or their supply",
+    "start": 843.7,
+    "duration": 2.768
+  },
+  {
+    "text": "chain, or their customers, or\ntheir products and services, et",
+    "start": 846.468,
+    "duration": 2.542
+  },
+  {
+    "text": "cetera.",
+    "start": 849.01,
+    "duration": 0.5
+  },
+  {
+    "text": "All those things add together\nto drive a very different risk",
+    "start": 849.51,
+    "duration": 3.25
+  },
+  {
+    "text": "profile.",
+    "start": 852.76,
+    "duration": 1.233
+  },
+  {
+    "text": "ALISON BEARD: So you\ntalk in the article",
+    "start": 853.993,
+    "duration": 1.667
+  },
+  {
+    "text": "about imagining not\nonly the threats,",
+    "start": 855.66,
+    "duration": 2.68
+  },
+  {
+    "text": "but also who your\nadversaries are.",
+    "start": 858.34,
+    "duration": 2.63
+  },
+  {
+    "text": "How do you do that sort of\nwhen what you're trying to do",
+    "start": 860.97,
+    "duration": 3.99
+  },
+  {
+    "text": "is keep up with criminals\nwho are constantly",
+    "start": 864.96,
+    "duration": 2.04
+  },
+  {
+    "text": "trying to find new tools and\nstrategies to get at you?",
+    "start": 867.0,
+    "duration": 4.29
+  },
+  {
+    "text": "THOMAS PARENTY: So I would\nsay that the strategies",
+    "start": 871.29,
+    "duration": 2.4
+  },
+  {
+    "text": "that criminals or others use\nto attack you is one issue.",
+    "start": 873.69,
+    "duration": 6.73
+  },
+  {
+    "text": "And it is certainly relevant\nfor cybersecurity staff",
+    "start": 880.42,
+    "duration": 3.71
+  },
+  {
+    "text": "to keep abreast of\nthe latest techniques",
+    "start": 884.13,
+    "duration": 2.76
+  },
+  {
+    "text": "that cyber\nadversaries might use.",
+    "start": 886.89,
+    "duration": 2.56
+  },
+  {
+    "text": "However, in terms of identifying\nthose cyber adversaries,",
+    "start": 889.45,
+    "duration": 3.98
+  },
+  {
+    "text": "that is something that\nis, for the most part,",
+    "start": 893.43,
+    "duration": 2.92
+  },
+  {
+    "text": "a very business-oriented\nactivity that doesn't",
+    "start": 896.35,
+    "duration": 3.38
+  },
+  {
+    "text": "require technical knowledge.",
+    "start": 899.73,
+    "duration": 1.56
+  },
+  {
+    "text": "There are a couple of ways\nin which companies can",
+    "start": 901.29,
+    "duration": 2.76
+  },
+  {
+    "text": "start to address that issue.",
+    "start": 904.05,
+    "duration": 1.62
+  },
+  {
+    "text": "One of which is, what\ndo they have that would",
+    "start": 905.67,
+    "duration": 2.76
+  },
+  {
+    "text": "be of value to someone else?",
+    "start": 908.43,
+    "duration": 2.37
+  },
+  {
+    "text": "That could be the\ndesign of a product.",
+    "start": 910.8,
+    "duration": 2.58
+  },
+  {
+    "text": "It could be a\ncollection of customers.",
+    "start": 913.38,
+    "duration": 2.55
+  },
+  {
+    "text": "By identifying what a company\nhas that could be a value,",
+    "start": 915.93,
+    "duration": 3.66
+  },
+  {
+    "text": "that's one way of looking at it.",
+    "start": 919.59,
+    "duration": 1.65
+  },
+  {
+    "text": "Another avenue that\ncompanies can take",
+    "start": 921.24,
+    "duration": 3.6
+  },
+  {
+    "text": "is, is there anything\nabout the business",
+    "start": 924.84,
+    "duration": 3.0
+  },
+  {
+    "text": "that the company is in, the\nway in which it operates,",
+    "start": 927.84,
+    "duration": 3.42
+  },
+  {
+    "text": "that might attract\nsome sort of attacker?",
+    "start": 931.26,
+    "duration": 3.36
+  },
+  {
+    "text": "With increasing discussions\nabout climate change,",
+    "start": 934.62,
+    "duration": 3.27
+  },
+  {
+    "text": "companies that are\nviewed as carbon negative",
+    "start": 937.89,
+    "duration": 5.22
+  },
+  {
+    "text": "could attract this\nkind of attention.",
+    "start": 943.11,
+    "duration": 1.89
+  },
+  {
+    "text": "Or if there was a case in which\na company or an organization",
+    "start": 945.0,
+    "duration": 5.31
+  },
+  {
+    "text": "was not being honest about\ncertain of its business",
+    "start": 950.31,
+    "duration": 3.54
+  },
+  {
+    "text": "practices, that could\ninvite a cyber attacker.",
+    "start": 953.85,
+    "duration": 2.97
+  },
+  {
+    "text": "In point of fact, that\nwould be the situation",
+    "start": 956.82,
+    "duration": 2.64
+  },
+  {
+    "text": "that my former employer,\nNSA, was in with respect",
+    "start": 959.46,
+    "duration": 3.57
+  },
+  {
+    "text": "to Edward Snowden.",
+    "start": 963.03,
+    "duration": 1.71
+  },
+  {
+    "text": "Depending on where\na company operates,",
+    "start": 964.74,
+    "duration": 4.32
+  },
+  {
+    "text": "the adversaries it\nmight face in one area",
+    "start": 969.06,
+    "duration": 3.72
+  },
+  {
+    "text": "could be very, very different\nfrom the adversaries",
+    "start": 972.78,
+    "duration": 3.21
+  },
+  {
+    "text": "they could face in another\npart of their business,",
+    "start": 975.99,
+    "duration": 3.09
+  },
+  {
+    "text": "in another part of the world.",
+    "start": 979.08,
+    "duration": 1.47
+  },
+  {
+    "text": "ALISON BEARD: Right.",
+    "start": 980.55,
+    "duration": 0.9
+  },
+  {
+    "text": "And I don't want to\nmake it seem like you're",
+    "start": 981.45,
+    "duration": 3.39
+  },
+  {
+    "text": "advertising your business.",
+    "start": 984.84,
+    "duration": 1.59
+  },
+  {
+    "text": "But because these issues are\nso complicated and so different",
+    "start": 986.43,
+    "duration": 3.81
+  },
+  {
+    "text": "from function to\nfunction and company",
+    "start": 990.24,
+    "duration": 1.56
+  },
+  {
+    "text": "to company and\ngeography to geography,",
+    "start": 991.8,
+    "duration": 2.25
+  },
+  {
+    "text": "do organizations need to bring\nin outside help and expertise?",
+    "start": 994.05,
+    "duration": 3.69
+  },
+  {
+    "text": "JACK DOMET: One of\nthe things that we",
+    "start": 997.74,
+    "duration": 1.68
+  },
+  {
+    "text": "talk about in the book is\nthe importance of building",
+    "start": 999.42,
+    "duration": 2.73
+  },
+  {
+    "text": "an internal capability\nto recognize",
+    "start": 1002.15,
+    "duration": 2.28
+  },
+  {
+    "text": "what really truly drives your\ncyber risk going forward.",
+    "start": 1004.43,
+    "duration": 3.46
+  },
+  {
+    "text": "And oftentimes,\nthose are changes",
+    "start": 1007.89,
+    "duration": 2.12
+  },
+  {
+    "text": "in the way you do business\nbecause most of those new cyber",
+    "start": 1010.01,
+    "duration": 2.55
+  },
+  {
+    "text": "risks come less from a new\ntype of technical attack.",
+    "start": 1012.56,
+    "duration": 4.53
+  },
+  {
+    "text": "It's actually that merger that\nyou're about to go through,",
+    "start": 1017.09,
+    "duration": 3.27
+  },
+  {
+    "text": "or that new product that\nyou're about to launch,",
+    "start": 1020.36,
+    "duration": 2.61
+  },
+  {
+    "text": "or that change to that internal\napplication that you have.",
+    "start": 1022.97,
+    "duration": 3.96
+  },
+  {
+    "text": "Those are all things\nthat change the way",
+    "start": 1026.93,
+    "duration": 2.939
+  },
+  {
+    "text": "that you're doing business.",
+    "start": 1029.869,
+    "duration": 1.95
+  },
+  {
+    "text": "And those changes\nhave implications",
+    "start": 1031.819,
+    "duration": 3.151
+  },
+  {
+    "text": "as it relates to the\nrisk that you face.",
+    "start": 1034.97,
+    "duration": 2.55
+  },
+  {
+    "text": "ALISON BEARD: So\nwhether an attack is",
+    "start": 1037.52,
+    "duration": 1.86
+  },
+  {
+    "text": "simple or sophisticated,\nare you saying",
+    "start": 1039.38,
+    "duration": 2.13
+  },
+  {
+    "text": "that companies are\nable to prevent them",
+    "start": 1041.51,
+    "duration": 2.94
+  },
+  {
+    "text": "if they take the right steps?",
+    "start": 1044.45,
+    "duration": 2.28
+  },
+  {
+    "text": "THOMAS PARENTY: In\nall areas of risk,",
+    "start": 1046.73,
+    "duration": 2.13
+  },
+  {
+    "text": "whether it be financial risk,\nphysical risk, or cyber risk,",
+    "start": 1048.86,
+    "duration": 4.0
+  },
+  {
+    "text": "there are no guarantees\nthat what you do",
+    "start": 1052.86,
+    "duration": 3.47
+  },
+  {
+    "text": "will be sufficient to\nfend off the attack",
+    "start": 1056.33,
+    "duration": 2.97
+  },
+  {
+    "text": "that you actually face.",
+    "start": 1059.3,
+    "duration": 1.35
+  },
+  {
+    "text": "However, if you\nactually have focus",
+    "start": 1060.65,
+    "duration": 4.11
+  },
+  {
+    "text": "on knowing what is\nimportant to protect,",
+    "start": 1064.76,
+    "duration": 3.96
+  },
+  {
+    "text": "understanding the\nkinds of cyber attacks",
+    "start": 1068.72,
+    "duration": 2.55
+  },
+  {
+    "text": "that could compromise\ncritical activities,",
+    "start": 1071.27,
+    "duration": 4.02
+  },
+  {
+    "text": "you are in a much,\nmuch better place",
+    "start": 1075.29,
+    "duration": 3.03
+  },
+  {
+    "text": "to defend yourself properly than\nif you take more of a shotgun",
+    "start": 1078.32,
+    "duration": 5.4
+  },
+  {
+    "text": "approach of, well, this is\na general vulnerability.",
+    "start": 1083.72,
+    "duration": 3.91
+  },
+  {
+    "text": "And so I'm going to buy a\nbox that takes care of that.",
+    "start": 1087.63,
+    "duration": 3.38
+  },
+  {
+    "text": "ALISON BEARD: How\nfrequently do leaders",
+    "start": 1091.01,
+    "duration": 2.37
+  },
+  {
+    "text": "of a company or a function\nneed to be reviewing and then",
+    "start": 1093.38,
+    "duration": 5.13
+  },
+  {
+    "text": "revising what their plan is?",
+    "start": 1098.51,
+    "duration": 3.143
+  },
+  {
+    "text": "JACK DOMET: I mean, it's\nan ongoing exercise, right?",
+    "start": 1101.653,
+    "duration": 2.167
+  },
+  {
+    "text": "I mean, it's not\na one-off thing.",
+    "start": 1103.82,
+    "duration": 1.81
+  },
+  {
+    "text": "ALISON BEARD: Right.",
+    "start": 1105.63,
+    "duration": 0.31
+  },
+  {
+    "text": "JACK DOMET: This is\nsomething that's dynamic.",
+    "start": 1105.94,
+    "duration": 1.3
+  },
+  {
+    "text": "And so our point before\nin terms of where",
+    "start": 1107.24,
+    "duration": 2.01
+  },
+  {
+    "text": "to look for cyber risk,\nwhere to anticipate them,",
+    "start": 1109.25,
+    "duration": 3.03
+  },
+  {
+    "text": "it generally relates\nto changes that you're",
+    "start": 1112.28,
+    "duration": 1.98
+  },
+  {
+    "text": "making to your business, whether\nit's a new product that you're",
+    "start": 1114.26,
+    "duration": 2.625
+  },
+  {
+    "text": "launching, a new geography\nthat you're getting into,",
+    "start": 1116.885,
+    "duration": 3.165
+  },
+  {
+    "text": "a new supply chain partner\nthat you're working with.",
+    "start": 1120.05,
+    "duration": 2.97
+  },
+  {
+    "text": "All these point to changes in\nthe way that you do business.",
+    "start": 1123.02,
+    "duration": 3.48
+  },
+  {
+    "text": "These introduce changes in\ntechnology because of the way",
+    "start": 1126.5,
+    "duration": 2.64
+  },
+  {
+    "text": "that we work today.",
+    "start": 1129.14,
+    "duration": 0.952
+  },
+  {
+    "text": "And those changes in the\ntechnology and the way",
+    "start": 1130.092,
+    "duration": 1.958
+  },
+  {
+    "text": "you do business invite you to\ndo new things with your business",
+    "start": 1132.05,
+    "duration": 5.58
+  },
+  {
+    "text": "that drives new risks.",
+    "start": 1137.63,
+    "duration": 1.2
+  },
+  {
+    "text": "ALISON BEARD: Right.",
+    "start": 1138.83,
+    "duration": 0.51
+  },
+  {
+    "text": "THOMAS PARENTY: And\nso in some sense,",
+    "start": 1139.34,
+    "duration": 1.542
+  },
+  {
+    "text": "the one answer is\nthat companies need",
+    "start": 1140.882,
+    "duration": 3.678
+  },
+  {
+    "text": "to incorporate into all\nof the processes used",
+    "start": 1144.56,
+    "duration": 4.32
+  },
+  {
+    "text": "for making change some type\nof cybersecurity review.",
+    "start": 1148.88,
+    "duration": 5.49
+  },
+  {
+    "text": "Now, this does not have\nto be and should not",
+    "start": 1154.37,
+    "duration": 3.03
+  },
+  {
+    "text": "be a terribly onerous and\ntime consuming activity.",
+    "start": 1157.4,
+    "duration": 3.9
+  },
+  {
+    "text": "Because, one, that will get\nin the way of doing business.",
+    "start": 1161.3,
+    "duration": 3.9
+  },
+  {
+    "text": "And as we've\ndiscussed previously,",
+    "start": 1165.2,
+    "duration": 2.49
+  },
+  {
+    "text": "people will find\na way around it.",
+    "start": 1167.69,
+    "duration": 2.25
+  },
+  {
+    "text": "But it is important\nto make sure that when",
+    "start": 1169.94,
+    "duration": 2.91
+  },
+  {
+    "text": "companies are undertaking the\nchanges that will introduce",
+    "start": 1172.85,
+    "duration": 2.76
+  },
+  {
+    "text": "new cyber risk that they are at\nleast paying attention to that.",
+    "start": 1175.61,
+    "duration": 2.768
+  },
+  {
+    "text": "ALISON BEARD: Are there\nways that companies",
+    "start": 1178.378,
+    "duration": 1.792
+  },
+  {
+    "text": "should restructure\nthemselves to make sure",
+    "start": 1180.17,
+    "duration": 2.61
+  },
+  {
+    "text": "that people at every\nlevel and in every part",
+    "start": 1182.78,
+    "duration": 3.15
+  },
+  {
+    "text": "of the organization are\nthinking about cybersecurity",
+    "start": 1185.93,
+    "duration": 2.49
+  },
+  {
+    "text": "in a more careful way?",
+    "start": 1188.42,
+    "duration": 1.362
+  },
+  {
+    "text": "JACK DOMET: Yeah.",
+    "start": 1189.782,
+    "duration": 0.708
+  },
+  {
+    "text": "I mean, it's about\nbuilding-- well, there's",
+    "start": 1190.49,
+    "duration": 2.49
+  },
+  {
+    "text": "a few different things.",
+    "start": 1192.98,
+    "duration": 2.38
+  },
+  {
+    "text": "One area that we\nlook at is building",
+    "start": 1195.36,
+    "duration": 3.14
+  },
+  {
+    "text": "an internal\norganizational capability",
+    "start": 1198.5,
+    "duration": 2.16
+  },
+  {
+    "text": "to deal with this change\nmanagement process",
+    "start": 1200.66,
+    "duration": 2.55
+  },
+  {
+    "text": "that companies go through.",
+    "start": 1203.21,
+    "duration": 2.43
+  },
+  {
+    "text": "As Thomas was mentioning, we\ndo need to have cyber security",
+    "start": 1205.64,
+    "duration": 3.043
+  },
+  {
+    "text": "reviews as you change\nyour business just",
+    "start": 1208.683,
+    "duration": 1.667
+  },
+  {
+    "text": "like you look at other risks.",
+    "start": 1210.35,
+    "duration": 2.23
+  },
+  {
+    "text": "Another area where we think\nabout organization and cyber",
+    "start": 1212.58,
+    "duration": 4.52
+  },
+  {
+    "text": "is where do you\nput the capability",
+    "start": 1217.1,
+    "duration": 3.15
+  },
+  {
+    "text": "for managing cybersecurity.",
+    "start": 1220.25,
+    "duration": 2.85
+  },
+  {
+    "text": "Many companies,\nincluding probably 2/3",
+    "start": 1223.1,
+    "duration": 3.03
+  },
+  {
+    "text": "of the Fortune 500, have what's\ncalled a Chief Information",
+    "start": 1226.13,
+    "duration": 3.9
+  },
+  {
+    "text": "Security Officer, commonly\nreferred to as a CISO,",
+    "start": 1230.03,
+    "duration": 4.41
+  },
+  {
+    "text": "to have rolled up responsibility\nfor dealing with cyber risk",
+    "start": 1234.44,
+    "duration": 5.59
+  },
+  {
+    "text": "and deciding what risks\nneed to be managed",
+    "start": 1240.03,
+    "duration": 2.3
+  },
+  {
+    "text": "and what investments\nneed to be made.",
+    "start": 1242.33,
+    "duration": 2.74
+  },
+  {
+    "text": "But there are some\nissues in terms of where",
+    "start": 1245.07,
+    "duration": 1.97
+  },
+  {
+    "text": "that CISO might report.",
+    "start": 1247.04,
+    "duration": 2.58
+  },
+  {
+    "text": "Oftentimes, because this has\ntraditionally been a technology",
+    "start": 1249.62,
+    "duration": 2.88
+  },
+  {
+    "text": "issue, the CISO may report\nto a CIO, a Chief Information",
+    "start": 1252.5,
+    "duration": 5.01
+  },
+  {
+    "text": "Officer, who would be\nresponsible for developing",
+    "start": 1257.51,
+    "duration": 5.88
+  },
+  {
+    "text": "software or deploying\ncomputer capabilities.",
+    "start": 1263.39,
+    "duration": 2.82
+  },
+  {
+    "text": "But the incentives for someone\nwho's in charge of security",
+    "start": 1266.21,
+    "duration": 3.99
+  },
+  {
+    "text": "and the incentives\nfor someone who's",
+    "start": 1270.2,
+    "duration": 1.56
+  },
+  {
+    "text": "in charge of\nbuilding applications",
+    "start": 1271.76,
+    "duration": 3.33
+  },
+  {
+    "text": "are very, very different.",
+    "start": 1275.09,
+    "duration": 1.458
+  },
+  {
+    "text": "ALISON BEARD: Yeah.",
+    "start": 1276.548,
+    "duration": 0.792
+  },
+  {
+    "text": "So that person should maybe be\nreporting to the CEO instead?",
+    "start": 1277.34,
+    "duration": 5.04
+  },
+  {
+    "text": "JACK DOMET: The\nCEO, while it would",
+    "start": 1282.38,
+    "duration": 3.27
+  },
+  {
+    "text": "appear to be the best place\nfor cybersecurity to report to,",
+    "start": 1285.65,
+    "duration": 4.02
+  },
+  {
+    "text": "actually is not.",
+    "start": 1289.67,
+    "duration": 1.41
+  },
+  {
+    "text": "Because one of the longstanding\nproblems with cybersecurity",
+    "start": 1291.08,
+    "duration": 4.53
+  },
+  {
+    "text": "is that it has lived in a\nsilo frequently within the IT",
+    "start": 1295.61,
+    "duration": 4.26
+  },
+  {
+    "text": "department.",
+    "start": 1299.87,
+    "duration": 0.54
+  },
+  {
+    "text": "But it lives someplace\nelse that made",
+    "start": 1300.41,
+    "duration": 2.25
+  },
+  {
+    "text": "it very easy for other\nbusiness leaders to ignore it",
+    "start": 1302.66,
+    "duration": 4.5
+  },
+  {
+    "text": "and say it's somebody\nelse's problem.",
+    "start": 1307.16,
+    "duration": 2.35
+  },
+  {
+    "text": "And so if it\nreported to the CEO,",
+    "start": 1309.51,
+    "duration": 3.77
+  },
+  {
+    "text": "the natural conclusion would\nbe, ah, it's taken care of.",
+    "start": 1313.28,
+    "duration": 3.15
+  },
+  {
+    "text": "After all, it\nreports to the CEO.",
+    "start": 1316.43,
+    "duration": 2.52
+  },
+  {
+    "text": "But a good CEO is successful\nbecause the people who",
+    "start": 1318.95,
+    "duration": 4.02
+  },
+  {
+    "text": "work for him get things done.",
+    "start": 1322.97,
+    "duration": 2.64
+  },
+  {
+    "text": "Based on our experience,\nwhen a company is looking",
+    "start": 1325.61,
+    "duration": 4.02
+  },
+  {
+    "text": "for a home for the\ncybersecurity organization,",
+    "start": 1329.63,
+    "duration": 3.81
+  },
+  {
+    "text": "they should first look at where\ntheir most significant cyber",
+    "start": 1333.44,
+    "duration": 5.91
+  },
+  {
+    "text": "risks reside as well as\nfinding a corporate home where",
+    "start": 1339.35,
+    "duration": 6.03
+  },
+  {
+    "text": "the interests of the\nmanager of cybersecurity",
+    "start": 1345.38,
+    "duration": 4.44
+  },
+  {
+    "text": "are completely aligned with\nthe executive to whom he",
+    "start": 1349.82,
+    "duration": 3.24
+  },
+  {
+    "text": "or she reports.",
+    "start": 1353.06,
+    "duration": 0.972
+  },
+  {
+    "text": "ALISON BEARD: So\nwe've been talking",
+    "start": 1354.032,
+    "duration": 1.458
+  },
+  {
+    "text": "about a lot of big companies.",
+    "start": 1355.49,
+    "duration": 1.95
+  },
+  {
+    "text": "How should smaller organizations\ndeal with these threats?",
+    "start": 1357.44,
+    "duration": 5.31
+  },
+  {
+    "text": "On one hand, they're less\nlikely to be targets.",
+    "start": 1362.75,
+    "duration": 3.48
+  },
+  {
+    "text": "But then on the other\nhand, they have less money",
+    "start": 1366.23,
+    "duration": 2.25
+  },
+  {
+    "text": "to invest and sort of fewer\nresources to throw at it.",
+    "start": 1368.48,
+    "duration": 4.86
+  },
+  {
+    "text": "THOMAS PARENTY: So our advice\nfor companies of any size",
+    "start": 1373.34,
+    "duration": 3.05
+  },
+  {
+    "text": "is the same.",
+    "start": 1376.39,
+    "duration": 0.81
+  },
+  {
+    "text": "Focus on your company's\nmost significant activities",
+    "start": 1377.2,
+    "duration": 2.91
+  },
+  {
+    "text": "and the business\nrisks they face.",
+    "start": 1380.11,
+    "duration": 2.38
+  },
+  {
+    "text": "And then you can think about\nhow a cyber attack could cause",
+    "start": 1382.49,
+    "duration": 3.11
+  },
+  {
+    "text": "these risks to materialize.",
+    "start": 1385.6,
+    "duration": 1.92
+  },
+  {
+    "text": "Several years ago, I was talking\nwith an electrician who was",
+    "start": 1387.52,
+    "duration": 2.643
+  },
+  {
+    "text": "doing some work in my house.",
+    "start": 1390.163,
+    "duration": 1.167
+  },
+  {
+    "text": "And when he learned I worked\nin the cybersecurity field,",
+    "start": 1391.33,
+    "duration": 3.1
+  },
+  {
+    "text": "he told me he needed a firewall.",
+    "start": 1394.43,
+    "duration": 1.67
+  },
+  {
+    "text": "When I asked why, he replied\nthat he thought his business",
+    "start": 1396.1,
+    "duration": 3.3
+  },
+  {
+    "text": "partner was cheating him.",
+    "start": 1399.4,
+    "duration": 1.71
+  },
+  {
+    "text": "I told him a firewall\nwouldn't help reduce his risk",
+    "start": 1401.11,
+    "duration": 3.66
+  },
+  {
+    "text": "because firewalls help protect\nagainst attacks originating",
+    "start": 1404.77,
+    "duration": 3.48
+  },
+  {
+    "text": "from the internet, not\nfrom the office where",
+    "start": 1408.25,
+    "duration": 2.67
+  },
+  {
+    "text": "both he and his partner sat.",
+    "start": 1410.92,
+    "duration": 1.29
+  },
+  {
+    "text": "ALISON BEARD: Right.",
+    "start": 1412.21,
+    "duration": 0.51
+  },
+  {
+    "text": "THOMAS PARENTY:\nThat he immediately",
+    "start": 1412.72,
+    "duration": 1.458
+  },
+  {
+    "text": "jumped from a cyber risk, his\npartner misusing computers",
+    "start": 1414.178,
+    "duration": 3.102
+  },
+  {
+    "text": "to steal from him,\nto a technology fix",
+    "start": 1417.28,
+    "duration": 2.55
+  },
+  {
+    "text": "is common and, therefore,\ncompletely understandable.",
+    "start": 1419.83,
+    "duration": 3.51
+  },
+  {
+    "text": "That a firewall would\ncome to mind also",
+    "start": 1423.34,
+    "duration": 3.06
+  },
+  {
+    "text": "make sense because\nfirewalls are well-known,",
+    "start": 1426.4,
+    "duration": 2.23
+  },
+  {
+    "text": "if not well-understood.",
+    "start": 1428.63,
+    "duration": 1.532
+  },
+  {
+    "text": "ALISON BEARD: OK.",
+    "start": 1430.162,
+    "duration": 0.708
+  },
+  {
+    "text": "So let's say that\nthe worst happens.",
+    "start": 1430.87,
+    "duration": 3.12
+  },
+  {
+    "text": "Either you haven't\nfollowed your advice",
+    "start": 1433.99,
+    "duration": 1.8
+  },
+  {
+    "text": "and you're hit with an attack,\nor you have tried your best.",
+    "start": 1435.79,
+    "duration": 3.54
+  },
+  {
+    "text": "And somehow the criminals\nhave still gotten to you.",
+    "start": 1439.33,
+    "duration": 3.18
+  },
+  {
+    "text": "What are some of\nthe best practices",
+    "start": 1442.51,
+    "duration": 1.59
+  },
+  {
+    "text": "for recovering from that?",
+    "start": 1444.1,
+    "duration": 1.86
+  },
+  {
+    "text": "THOMAS PARENTY: OK,\nso the first element",
+    "start": 1445.96,
+    "duration": 2.43
+  },
+  {
+    "text": "is that, while one should always\nfocus on proactive measures,",
+    "start": 1448.39,
+    "duration": 6.54
+  },
+  {
+    "text": "one does need to\ntake into account",
+    "start": 1454.93,
+    "duration": 2.01
+  },
+  {
+    "text": "that under some\ncircumstances you",
+    "start": 1456.94,
+    "duration": 2.07
+  },
+  {
+    "text": "will have to respond to\nsome sort of cyber breach.",
+    "start": 1459.01,
+    "duration": 4.45
+  },
+  {
+    "text": "And this is, again,\na responsibility",
+    "start": 1463.46,
+    "duration": 3.65
+  },
+  {
+    "text": "that falls not just to\ncybersecurity staff,",
+    "start": 1467.11,
+    "duration": 4.39
+  },
+  {
+    "text": "but also to the\nleadership of a company.",
+    "start": 1471.5,
+    "duration": 2.12
+  },
+  {
+    "text": "A company needs to have\nthe technical capabilities",
+    "start": 1473.62,
+    "duration": 2.94
+  },
+  {
+    "text": "to respond to the most\nlikely forms of cyber attack",
+    "start": 1476.56,
+    "duration": 5.55
+  },
+  {
+    "text": "on their most critical\nbusiness activities.",
+    "start": 1482.11,
+    "duration": 3.45
+  },
+  {
+    "text": "If you understand what those\nactivities are and those",
+    "start": 1485.56,
+    "duration": 2.4
+  },
+  {
+    "text": "cyber threats, that is something\nyou can prepare ahead of time.",
+    "start": 1487.96,
+    "duration": 3.63
+  },
+  {
+    "text": "From an executive\nperspective, they",
+    "start": 1491.59,
+    "duration": 2.43
+  },
+  {
+    "text": "need to be in a position to\nmake decisions and publicly",
+    "start": 1494.02,
+    "duration": 5.58
+  },
+  {
+    "text": "engage in the aftermath\nof said cyber attack,",
+    "start": 1499.6,
+    "duration": 4.38
+  },
+  {
+    "text": "essentially to prethink\nthe consequences",
+    "start": 1503.98,
+    "duration": 4.2
+  },
+  {
+    "text": "and prethink the decisions they\nwill need to make, if you will,",
+    "start": 1508.18,
+    "duration": 4.33
+  },
+  {
+    "text": "in the clear light of day as\nopposed to in the fog of war.",
+    "start": 1512.51,
+    "duration": 4.02
+  },
+  {
+    "text": "ALISON BEARD: So if I'm a\nmanager with no expertise",
+    "start": 1516.53,
+    "duration": 2.93
+  },
+  {
+    "text": "in these issues, where should I\nstart to get more up to speed?",
+    "start": 1519.46,
+    "duration": 5.55
+  },
+  {
+    "text": "THOMAS PARENTY: It's something\nthat what they can do",
+    "start": 1525.01,
+    "duration": 3.09
+  },
+  {
+    "text": "is simply have\ndifferent discussions",
+    "start": 1528.1,
+    "duration": 2.49
+  },
+  {
+    "text": "with the cybersecurity\npeople that they already",
+    "start": 1530.59,
+    "duration": 2.4
+  },
+  {
+    "text": "have in-house.",
+    "start": 1532.99,
+    "duration": 1.86
+  },
+  {
+    "text": "Again, start the\nconversation with,",
+    "start": 1534.85,
+    "duration": 3.27
+  },
+  {
+    "text": "here's a critical\nbusiness activity.",
+    "start": 1538.12,
+    "duration": 2.4
+  },
+  {
+    "text": "These are the concerns I have\nas a nontechnical business",
+    "start": 1540.52,
+    "duration": 3.99
+  },
+  {
+    "text": "manager in terms of\nwhat could go wrong.",
+    "start": 1544.51,
+    "duration": 3.24
+  },
+  {
+    "text": "Now, talk to me,\ncybersecurity and IT people,",
+    "start": 1547.75,
+    "duration": 3.39
+  },
+  {
+    "text": "about, one, what are the systems\nthat support this activity so I",
+    "start": 1551.14,
+    "duration": 4.59
+  },
+  {
+    "text": "know where you\nneed to prioritize",
+    "start": 1555.73,
+    "duration": 3.39
+  },
+  {
+    "text": "the attention that you give.",
+    "start": 1559.12,
+    "duration": 1.86
+  },
+  {
+    "text": "And second, talk to me\nabout how the cyber attacks",
+    "start": 1560.98,
+    "duration": 3.66
+  },
+  {
+    "text": "that you know and\nfollow would be",
+    "start": 1564.64,
+    "duration": 2.31
+  },
+  {
+    "text": "able to compromise the systems\nsupporting my business.",
+    "start": 1566.95,
+    "duration": 3.63
+  },
+  {
+    "text": "And what are the\nsorts of impact?",
+    "start": 1570.58,
+    "duration": 2.58
+  },
+  {
+    "text": "If you have this conversation\nfrom the perspective of talk",
+    "start": 1573.16,
+    "duration": 5.43
+  },
+  {
+    "text": "to me about how my business\ncould be compromised instead",
+    "start": 1578.59,
+    "duration": 3.42
+  },
+  {
+    "text": "of telling me what\nvulnerabilities",
+    "start": 1582.01,
+    "duration": 2.25
+  },
+  {
+    "text": "need to be fixed with\nwhatever priority,",
+    "start": 1584.26,
+    "duration": 3.42
+  },
+  {
+    "text": "then you'll get somewhere.",
+    "start": 1587.68,
+    "duration": 2.04
+  },
+  {
+    "text": "ALISON BEARD: Thank you all so\nmuch for talking with me today.",
+    "start": 1589.72,
+    "duration": 2.742
+  },
+  {
+    "text": "THOMAS PARENTY: It\nhas been our pleasure.",
+    "start": 1592.462,
+    "duration": 1.708
+  },
+  {
+    "text": "JACK DOMET: Thanks\nfor having us.",
+    "start": 1594.17,
+    "duration": 1.444
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1595.614,
+    "duration": 2.511
+  },
+  {
+    "text": "ALISON BEARD: That's Thomas\nParenty and Jack Domet,",
+    "start": 1598.125,
+    "duration": 2.125
+  },
+  {
+    "text": "cofounders of the cybersecurity\nfirm Archefact Group.",
+    "start": 1600.25,
+    "duration": 3.22
+  },
+  {
+    "text": "They're also the coauthors\nof the HBR article",
+    "start": 1603.47,
+    "duration": 2.18
+  },
+  {
+    "text": "\"Sizing Up Your Cyber Risks\" and\nthe HBR press book, A Leader's",
+    "start": 1605.65,
+    "duration": 3.36
+  },
+  {
+    "text": "Guide To Cybersecurity.",
+    "start": 1609.01,
+    "duration": 1.965
+  },
+  {
+    "text": "This episode was\nproduced by Mary Dooe.",
+    "start": 1617.02,
+    "duration": 2.07
+  },
+  {
+    "text": "We get technical help\nfrom Rob Eckhardt.",
+    "start": 1619.09,
+    "duration": 2.04
+  },
+  {
+    "text": "Adam Buchholz is our\naudio product manager.",
+    "start": 1621.13,
+    "duration": 2.07
+  },
+  {
+    "text": "Thanks for listening\nto the HBR IdeaCast.",
+    "start": 1627.84,
+    "duration": 2.47
+  },
+  {
+    "text": "I'm Alison Beard.",
+    "start": 1630.31,
+    "duration": 1.28
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1631.59,
+    "duration": 2.45
+  }
+]

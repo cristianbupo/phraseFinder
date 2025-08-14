@@ -1,0 +1,602 @@
+[
+  {
+    "text": "If there’s one thing I appreciate when playing\nvideo games, it’s great mechanics.",
+    "start": 1.959,
+    "duration": 4.791
+  },
+  {
+    "text": "The web swinging in Spiderman: Miles Morales\nfeels really natural, and in Fortnite, ",
+    "start": 6.75,
+    "duration": 5.641
+  },
+  {
+    "text": "you can destroy essentially everything, and then\nturn it into a wall, with a few intuitive gestures.",
+    "start": 12.391,
+    "duration": 5.339
+  },
+  {
+    "text": "But The Last of Us Part 2 impressed me for\nsomething much more subtle ",
+    "start": 18.026,
+    "duration": 4.036
+  },
+  {
+    "text": "The doors.",
+    "start": 24.457,
+    "duration": 1.294
+  },
+  {
+    "text": "This mundane, everyday task is what took developers\nthe longest to get right,",
+    "start": 25.914,
+    "duration": 5.388
+  },
+  {
+    "text": "As the games’ co-director put it on Twitter:\n“f--k doors”",
+    "start": 31.697,
+    "duration": 5.132
+  },
+  {
+    "text": "The Last of Us Part II is a super realistic\ngame, and the team knew that “If a player",
+    "start": 36.829,
+    "duration": 5.171
+  },
+  {
+    "text": "is going to open a door, it can’t just magically\nfly open.”",
+    "start": 42.0,
+    "duration": 4.329
+  },
+  {
+    "text": "But even for less realistic games like Fortnite,\ndoors are still painstakingly hard to make.",
+    "start": 46.329,
+    "duration": 7.44
+  },
+  {
+    "text": "So, what makes video game doors so difficult?",
+    "start": 53.769,
+    "duration": 4.783
+  },
+  {
+    "text": "Every time I'd walk through a doorway, I just\nkeep, like, bonking myself into the corners",
+    "start": 61.584,
+    "duration": 4.196
+  },
+  {
+    "text": "and into the walls next to the doors.",
+    "start": 65.78,
+    "duration": 1.8
+  },
+  {
+    "text": "It's like, all right, well, this sucks.",
+    "start": 67.893,
+    "duration": 2.811
+  },
+  {
+    "text": "I'm Brian Singh, I’m a game developer and\nI guess I really like doors.",
+    "start": 70.704,
+    "duration": 4.132
+  },
+  {
+    "text": "Bryan’s worked on games, like Journey, Uncharted\n4, and The Last Of Us Parts 1 & 2.",
+    "start": 74.836,
+    "duration": 5.344
+  },
+  {
+    "text": "On Part 2, it was his job to get doors working,\nfrom a technical perspective.",
+    "start": 80.509,
+    "duration": 3.831
+  },
+  {
+    "text": "I think the complexity of all different door\nstates and ways of interacting with doors,",
+    "start": 84.34,
+    "duration": 6.93
+  },
+  {
+    "text": "it seems simple in the real world \nbecause you're used to it.",
+    "start": 91.27,
+    "duration": 4.29
+  },
+  {
+    "text": "But in a video game, that’s not the case:",
+    "start": 95.56,
+    "duration": 2.309
+  },
+  {
+    "text": "You have to consider every other situation,\nevery other system, every other object and",
+    "start": 97.869,
+    "duration": 5.17
+  },
+  {
+    "text": "character that can interact with doors or\nbe around doors when they're interacting",
+    "start": 103.039,
+    "duration": 4.93
+  },
+  {
+    "text": "Start counting the number of doors \nyou actually see in games.",
+    "start": 107.969,
+    "duration": 2.321
+  },
+  {
+    "text": "You'll see a lot of games just don't put doors\nin the doorways.",
+    "start": 110.29,
+    "duration": 2.588
+  },
+  {
+    "text": "This ship in World of Warcraft has just an\nopen doorway.",
+    "start": 113.536,
+    "duration": 4.596
+  },
+  {
+    "text": "So does this room in Assassin's Creed.",
+    "start": 118.132,
+    "duration": 2.231
+  },
+  {
+    "text": "For games that do have doors, they fall into\na few unofficial difficulty categories.",
+    "start": 122.05,
+    "duration": 5.535
+  },
+  {
+    "text": "Games like Halo use tier one doors: they open\nor close based on your proximity to them.",
+    "start": 129.707,
+    "duration": 7.433
+  },
+  {
+    "text": "These doors are the least finicky to implement.",
+    "start": 137.14,
+    "duration": 3.494
+  },
+  {
+    "text": "They don’t interact with anything, because they slide in on themselves,",
+    "start": 141.751,
+    "duration": 3.815
+  },
+  {
+    "text": "and they have no in-between state - \nthey’re only open or closed.",
+    "start": 145.566,
+    "duration": 4.631
+  },
+  {
+    "text": "Tier 2 doors have to look like real-world",
+    "start": 151.447,
+    "duration": 3.401
+  },
+  {
+    "text": "doors...even if they don’t operate in exactly\nthe same way.",
+    "start": 154.848,
+    "duration": 3.572
+  },
+  {
+    "text": "SINGH: It's very uncommon in the real world to have\na door that opens in both directions.",
+    "start": 158.848,
+    "duration": 5.218
+  },
+  {
+    "text": "In video games, it's extremely common.",
+    "start": 164.066,
+    "duration": 3.019
+  },
+  {
+    "text": "The character in the game usually doesn’t ",
+    "start": 167.397,
+    "duration": 2.447
+  },
+  {
+    "text": "physically touch the door in this tier, but\nsometimes, like in Fortnite, developers might",
+    "start": 169.844,
+    "duration": 6.101
+  },
+  {
+    "text": "throw in an arm gesture to suggest \ncharacter interaction.",
+    "start": 175.945,
+    "duration": 3.468
+  },
+  {
+    "text": "SINGH: One of the things that comes up a lot in games\nis, it's kind of assumed that the size of",
+    "start": 180.0,
+    "duration": 4.73
+  },
+  {
+    "text": "doors are going to be exaggerated because\nyou have this problem: What your character",
+    "start": 184.73,
+    "duration": 4.21
+  },
+  {
+    "text": "is doing is not at all what the actual human\nplayer is doing behind the controller.",
+    "start": 188.94,
+    "duration": 4.525
+  },
+  {
+    "text": "Precision movements are challenging, which\nwould make navigating through a small door frustrating.",
+    "start": 193.704,
+    "duration": 6.296
+  },
+  {
+    "text": "SINGH: Usually the default solution is: just make\nthe doors really big, and that way it’s",
+    "start": 200.472,
+    "duration": 4.958
+  },
+  {
+    "text": "way easier to go through the doors, you don’t\nhave to think about it.",
+    "start": 205.43,
+    "duration": 2.59
+  },
+  {
+    "text": "But that’s not the only reason doors are\nhuge - they also allow for cleaner visuals",
+    "start": 208.02,
+    "duration": 5.57
+  },
+  {
+    "text": "SINGH: Once your player goes through the door, like,\nwhat is the camera doing?",
+    "start": 213.59,
+    "duration": 2.9
+  },
+  {
+    "text": "Normally the camera is like, slightly above\ndoor height.",
+    "start": 216.49,
+    "duration": 2.65
+  },
+  {
+    "text": "SINGH: So you have to, like, duck it down to make\nsure the cameraman also squeezes through the",
+    "start": 219.14,
+    "duration": 3.58
+  },
+  {
+    "text": "door and that doesn't look like crazy.",
+    "start": 222.72,
+    "duration": 2.212
+  },
+  {
+    "text": " Doors also have to look like they’re physically ",
+    "start": 225.0,
+    "duration": 2.759
+  },
+  {
+    "text": "interacting with everything else in the scene.",
+    "start": 227.759,
+    "duration": 2.521
+  },
+  {
+    "text": "Animation and doors already f--ing complicated problem.",
+    "start": 230.28,
+    "duration": 3.5
+  },
+  {
+    "text": "In real life, everything is solid - but in the world of 3D modeling, nothing is solid.",
+    "start": 233.944,
+    "duration": 6.14
+  },
+  {
+    "text": "Objects can pass right through each other. ",
+    "start": 240.084,
+    "duration": 3.666
+  },
+  {
+    "text": "Making sure that doesn’t happen in every\npossible scenario, with any possible object",
+    "start": 243.75,
+    "duration": 4.74
+  },
+  {
+    "text": "is a tedious task.",
+    "start": 248.49,
+    "duration": 3.096
+  },
+  {
+    "text": "Tier 3 doors are maximum effort: The character\nhas to actually physically interact",
+    "start": 251.586,
+    "duration": 5.583
+  },
+  {
+    "text": "with the door for it to open.",
+    "start": 257.169,
+    "duration": 2.386
+  },
+  {
+    "text": "Having a character actually connect with the\nhandle of the door, without breaking player",
+    "start": 259.637,
+    "duration": 4.453
+  },
+  {
+    "text": "immersion, is a complicated dance between\nplayer control and pre-set animations",
+    "start": 264.09,
+    "duration": 5.539
+  },
+  {
+    "text": "It's pretty much a golden rule.",
+    "start": 269.892,
+    "duration": 2.388
+  },
+  {
+    "text": "Any time you take control away from the player,\nit feels weird, it feels bad.",
+    "start": 272.28,
+    "duration": 3.812
+  },
+  {
+    "text": "So with doors...",
+    "start": 276.092,
+    "duration": 1.44
+  },
+  {
+    "text": "Worst case scenario, you hit the button and\nyou're effectively playing a cut scene or something.",
+    "start": 277.532,
+    "duration": 3.948
+  },
+  {
+    "text": "Giving players enough control to break away",
+    "start": 281.48,
+    "duration": 1.969
+  },
+  {
+    "text": "from the door in the middle of opening it\nmeans that character animation must be chopped",
+    "start": 283.449,
+    "duration": 4.231
+  },
+  {
+    "text": "up into tiny pieces.",
+    "start": 287.68,
+    "duration": 2.32
+  },
+  {
+    "text": "But even if you get all that right, the work\ndoesn’t end there.",
+    "start": 290.0,
+    "duration": 4.188
+  },
+  {
+    "text": "Any time you add any one thing to the gameplay,\nyou have to make sure it works with every",
+    "start": 294.188,
+    "duration": 6.172
+  },
+  {
+    "text": "other aspect of the game.\nFor instance, characters can have different",
+    "start": 300.36,
+    "duration": 4.12
+  },
+  {
+    "text": "emotional states that require unique animations.",
+    "start": 304.48,
+    "duration": 4.36
+  },
+  {
+    "text": "If you’re calmly investigating a room for\nexample, you’ll open the door more slowly.",
+    "start": 308.84,
+    "duration": 4.391
+  },
+  {
+    "text": "If they're in a like, tense demeanor, like,\noh, crap, there's enemies here, I'm going to go,",
+    "start": 313.231,
+    "duration": 6.231
+  },
+  {
+    "text": "they can run through the door with\ngreat haste.",
+    "start": 319.462,
+    "duration": 3.454
+  },
+  {
+    "text": "Throw in a few NPCs, and the meticulous work\njust gets even more complicated.",
+    "start": 322.916,
+    "duration": 5.507
+  },
+  {
+    "text": "SINGH: A.I. is a whole other complexity where.",
+    "start": 328.423,
+    "duration": 3.146
+  },
+  {
+    "text": "OK, now the companion characters, as well\nas the enemy characters, also have to understand",
+    "start": 331.569,
+    "duration": 5.181
+  },
+  {
+    "text": "how to strategize around that, like, OK, do\nthey test the door to learn that it's locked?",
+    "start": 336.75,
+    "duration": 5.8
+  },
+  {
+    "text": "Do they know that it's locked already and\nknow how to, like, try to find a way around",
+    "start": 342.55,
+    "duration": 4.399
+  },
+  {
+    "text": "the door?",
+    "start": 346.949,
+    "duration": 1.21
+  },
+  {
+    "text": "And this problem isn’t just localized to\ndoors, other objects like ladders are also",
+    "start": 348.159,
+    "duration": 6.521
+  },
+  {
+    "text": "challenging to make, for similar reasons.",
+    "start": 354.68,
+    "duration": 2.904
+  },
+  {
+    "text": "Doors are hard because all of game development\nis hard.",
+    "start": 357.584,
+    "duration": 4.785
+  },
+  {
+    "text": "But when the goal of a game is realism and\nthe fidelity that you can achieve with new",
+    "start": 362.369,
+    "duration": 4.82
+  },
+  {
+    "text": "consoles is incredible...that challenge becomes\nsomething of a necessity. ",
+    "start": 367.189,
+    "duration": 6.181
+  },
+  {
+    "text": "SINGH:  Especially on the last of us, the philosophy\nwas: avoid as many disconnects from reality",
+    "start": 373.37,
+    "duration": 6.22
+  },
+  {
+    "text": "as possible.",
+    "start": 379.59,
+    "duration": 1.0
+  },
+  {
+    "text": "So you can just be more immersed, like everytime\nyou experience a disconnect, that's just like",
+    "start": 380.59,
+    "duration": 4.44
+  },
+  {
+    "text": "one more reminder that, oh, yeah, I'm playing\na video game instead of being invested into",
+    "start": 385.03,
+    "duration": 4.039
+  },
+  {
+    "text": "what's going on. ",
+    "start": 389.069,
+    "duration": 1.687
+  },
+  {
+    "text": "In researching this story, I came across this 2014",
+    "start": 391.965,
+    "duration": 3.814
+  },
+  {
+    "text": "post by video game designer Liz England, called\nThe Door Problem.",
+    "start": 395.779,
+    "duration": 4.561
+  },
+  {
+    "text": "In it, she breaks down just how much of a\npain doors are for designers, with a series",
+    "start": 400.34,
+    "duration": 5.68
+  },
+  {
+    "text": "of questions that need to be answered before\nwork even begins on a game:",
+    "start": 406.02,
+    "duration": 5.01
+  },
+  {
+    "text": "It starts off fairly simple: Are there doors\nin your game?",
+    "start": 411.03,
+    "duration": 3.689
+  },
+  {
+    "text": "Can the player open them?",
+    "start": 414.719,
+    "duration": 1.16
+  },
+  {
+    "text": "But pretty quickly it gets a lot more complicated:\nDo doors lock behind the player?",
+    "start": 415.879,
+    "duration": 5.56
+  },
+  {
+    "text": "Where do enemies come from?",
+    "start": 421.439,
+    "duration": 1.241
+  },
+  {
+    "text": "Do they run in from doors?",
+    "start": 422.68,
+    "duration": 2.03
+  },
+  {
+    "text": "What happens if there are two players?",
+    "start": 424.71,
+    "duration": 2.5
+  },
+  {
+    "text": "Once you get all those questions answered,\nthe door then actually has to get built — and",
+    "start": 427.21,
+    "duration": 5.099
+  },
+  {
+    "text": "every part of the company gets involved in\na different way:",
+    "start": 432.309,
+    "duration": 3.977
+  },
+  {
+    "text": "Concept artists design and create,",
+    "start": 436.286,
+    "duration": 2.033
+  },
+  {
+    "text": "composers write themes,",
+    "start": 438.319,
+    "duration": 1.66
+  },
+  {
+    "text": "combat designers think about enemies,",
+    "start": 439.979,
+    "duration": 2.19
+  },
+  {
+    "text": "writers write voice over,",
+    "start": 442.169,
+    "duration": 1.351
+  },
+  {
+    "text": "sound designers make it sound like the door\nis actually opening and closing, and then",
+    "start": 443.52,
+    "duration": 4.139
+  },
+  {
+    "text": "an audio engineer has to come in and make\nit sound like it's coming from the direction",
+    "start": 447.659,
+    "duration": 4.76
+  },
+  {
+    "text": "that the player is facing, and the list goes\non.",
+    "start": 452.419,
+    "duration": 4.49
+  },
+  {
+    "text": "For anyone who's interestedI’ll put the link to her post in the description below.",
+    "start": 456.909,
+    "duration": 4.463
+  },
+  {
+    "text": "But, the expert that I interviewed for this piece, Bryan Singh,\nhad very similar things to say:",
+    "start": 461.372,
+    "duration": 5.504
+  },
+  {
+    "text": "Doors are like, yeah, you open the door, you're\ndone.",
+    "start": 466.876,
+    "duration": 2.793
+  },
+  {
+    "text": "It's like, yes, but you have to consider every\nother situation, every other system, every",
+    "start": 469.669,
+    "duration": 6.021
+  },
+  {
+    "text": "other object and character that can interact\nwith doors or be around doors when they're",
+    "start": 475.69,
+    "duration": 5.069
+  },
+  {
+    "text": "interacting.",
+    "start": 480.759,
+    "duration": 1.0
+  },
+  {
+    "text": "Like, what if you open the door and there's\nan enemy right behind it?",
+    "start": 481.759,
+    "duration": 3.451
+  },
+  {
+    "text": "Do you have an animation for that?",
+    "start": 485.21,
+    "duration": 2.16
+  },
+  {
+    "text": "Does the enemy get bonked and knocked back,\nor do they like stop it?",
+    "start": 487.37,
+    "duration": 4.93
+  },
+  {
+    "text": "Those are questions that you have to ask yourself.",
+    "start": 492.3,
+    "duration": 2.199
+  },
+  {
+    "text": "Like, how does every situation or every overlapping\nsystem react to push button, door opens.",
+    "start": 494.499,
+    "duration": 7.26
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+    "text": "How can you play a Rubik's Cube?",
+    "start": 6.669,
+    "duration": 2.461
+  },
+  {
+    "text": "Not play with it, \nbut play it like a piano?",
+    "start": 9.213,
+    "duration": 3.546
+  },
+  {
+    "text": "That question doesn't \nmake a lot of sense at first,",
+    "start": 12.967,
+    "duration": 2.669
+  },
+  {
+    "text": "but an abstract mathematical field\ncalled group theory holds the answer,",
+    "start": 15.72,
+    "duration": 4.588
+  },
+  {
+    "text": "if you'll bear with me.",
+    "start": 20.391,
+    "duration": 1.46
+  },
+  {
+    "text": "In math, a group is a particular \ncollection of elements.",
+    "start": 22.393,
+    "duration": 4.171
+  },
+  {
+    "text": "That might be a set of integers,",
+    "start": 26.731,
+    "duration": 1.835
+  },
+  {
+    "text": "the face of a Rubik's Cube,",
+    "start": 28.608,
+    "duration": 1.793
+  },
+  {
+    "text": "or anything,",
+    "start": 30.651,
+    "duration": 1.043
+  },
+  {
+    "text": "so long as they follow \nfour specific rules, or axioms.",
+    "start": 31.736,
+    "duration": 4.212
+  },
+  {
+    "text": "Axiom one:",
+    "start": 36.491,
+    "duration": 1.293
+  },
+  {
+    "text": "all group operations must be closed\nor restricted to only group elements.",
+    "start": 37.784,
+    "duration": 5.588
+  },
+  {
+    "text": "So in our square, \nfor any operation you do,",
+    "start": 43.456,
+    "duration": 3.045
+  },
+  {
+    "text": "like turn it one way or the other,",
+    "start": 46.584,
+    "duration": 2.169
+  },
+  {
+    "text": "you'll still wind up with \nan element of the group.",
+    "start": 48.753,
+    "duration": 2.669
+  },
+  {
+    "text": "Axiom two:",
+    "start": 52.34,
+    "duration": 1.042
+  },
+  {
+    "text": "no matter where we put parentheses\nwhen we're doing a single group operation,",
+    "start": 53.382,
+    "duration": 4.463
+  },
+  {
+    "text": "we still get the same result.",
+    "start": 57.97,
+    "duration": 2.128
+  },
+  {
+    "text": "In other words, if we turn our square\nright two times, then right once,",
+    "start": 60.348,
+    "duration": 4.713
+  },
+  {
+    "text": "that's the same as once, then twice,",
+    "start": 65.186,
+    "duration": 2.377
+  },
+  {
+    "text": "or for numbers, 1 plus 2\nis the same as 2 plus 1.",
+    "start": 67.772,
+    "duration": 4.004
+  },
+  {
+    "text": "Axiom three:",
+    "start": 72.652,
+    "duration": 1.251
+  },
+  {
+    "text": "for every operation, there's an element\nof our group called the identity.",
+    "start": 74.07,
+    "duration": 4.379
+  },
+  {
+    "text": "When we apply it \nto any other element in our group,",
+    "start": 78.658,
+    "duration": 2.544
+  },
+  {
+    "text": "we still get that element.",
+    "start": 81.285,
+    "duration": 1.794
+  },
+  {
+    "text": "So for both turning the square\nand adding integers,",
+    "start": 83.287,
+    "duration": 3.379
+  },
+  {
+    "text": "our identity here is zero,",
+    "start": 86.833,
+    "duration": 2.419
+  },
+  {
+    "text": "not very exciting.",
+    "start": 89.377,
+    "duration": 1.209
+  },
+  {
+    "text": "Axiom four:",
+    "start": 91.546,
+    "duration": 1.251
+  },
+  {
+    "text": "every group element has an element \ncalled its inverse also in the group.",
+    "start": 92.922,
+    "duration": 4.546
+  },
+  {
+    "text": "When the two are brought together\nusing the group's addition operation,",
+    "start": 98.052,
+    "duration": 4.046
+  },
+  {
+    "text": "they result in the identity element, zero,",
+    "start": 102.181,
+    "duration": 2.753
+  },
+  {
+    "text": "so they can be thought of \nas cancelling each other out.",
+    "start": 105.059,
+    "duration": 3.003
+  },
+  {
+    "text": "So that's all well and good,\nbut what's the point of any of it?",
+    "start": 108.729,
+    "duration": 3.379
+  },
+  {
+    "text": "Well, when we get beyond \nthese basic rules,",
+    "start": 112.525,
+    "duration": 2.794
+  },
+  {
+    "text": "some interesting properties emerge.",
+    "start": 115.319,
+    "duration": 2.086
+  },
+  {
+    "text": "For example, let's expand our square\nback into a full-fledged Rubik's Cube.",
+    "start": 117.655,
+    "duration": 4.796
+  },
+  {
+    "text": "This is still a group \nthat satisfies all of our axioms,",
+    "start": 122.785,
+    "duration": 3.962
+  },
+  {
+    "text": "though now with considerably more elements",
+    "start": 126.789,
+    "duration": 2.795
+  },
+  {
+    "text": "and more operations.",
+    "start": 129.584,
+    "duration": 2.085
+  },
+  {
+    "text": "We can turn each row and column\nof each face.",
+    "start": 131.752,
+    "duration": 4.046
+  },
+  {
+    "text": "Each position is called a permutation,",
+    "start": 136.382,
+    "duration": 2.377
+  },
+  {
+    "text": "and the more elements a group has,\nthe more possible permutations there are.",
+    "start": 138.843,
+    "duration": 4.254
+  },
+  {
+    "text": "A Rubik's Cube has more \nthan 43 quintillion permutations,",
+    "start": 143.598,
+    "duration": 4.337
+  },
+  {
+    "text": "so trying to solve it randomly \nisn't going to work so well.",
+    "start": 148.019,
+    "duration": 3.837
+  },
+  {
+    "text": "However, using group theory\nwe can analyze the cube",
+    "start": 152.19,
+    "duration": 3.586
+  },
+  {
+    "text": "and determine a sequence of permutations\nthat will result in a solution.",
+    "start": 155.86,
+    "duration": 4.629
+  },
+  {
+    "text": "And, in fact, that's exactly \nwhat most solvers do,",
+    "start": 160.698,
+    "duration": 3.337
+  },
+  {
+    "text": "even using a group theory notation\nindicating turns.",
+    "start": 164.243,
+    "duration": 4.129
+  },
+  {
+    "text": "And it's not just good for puzzle solving.",
+    "start": 169.332,
+    "duration": 2.002
+  },
+  {
+    "text": "Group theory is deeply embedded \nin music, as well.",
+    "start": 171.834,
+    "duration": 3.879
+  },
+  {
+    "text": "One way to visualize a chord\nis to write out all twelve musical notes",
+    "start": 176.297,
+    "duration": 4.671
+  },
+  {
+    "text": "and draw a square within them.",
+    "start": 180.968,
+    "duration": 2.127
+  },
+  {
+    "text": "We can start on any note,\nbut let's use C since it's at the top.",
+    "start": 183.387,
+    "duration": 4.38
+  },
+  {
+    "text": "The resulting chord is called\na diminished seventh chord.",
+    "start": 188.059,
+    "duration": 3.67
+  },
+  {
+    "text": "Now this chord is a group\nwhose elements are these four notes.",
+    "start": 192.355,
+    "duration": 4.296
+  },
+  {
+    "text": "The operation we can perform on it\nis to shift the bottom note to the top.",
+    "start": 196.943,
+    "duration": 4.462
+  },
+  {
+    "text": "In music that's called an inversion,",
+    "start": 201.614,
+    "duration": 2.336
+  },
+  {
+    "text": "and it's the equivalent \nof addition from earlier.",
+    "start": 204.075,
+    "duration": 2.544
+  },
+  {
+    "text": "Each inversion changes \nthe sound of the chord,",
+    "start": 206.994,
+    "duration": 2.836
+  },
+  {
+    "text": "but it never stops being\na C diminished seventh.",
+    "start": 209.956,
+    "duration": 3.336
+  },
+  {
+    "text": "In other words, it satisfies axiom one.",
+    "start": 213.626,
+    "duration": 3.128
+  },
+  {
+    "text": "Composers use inversions to manipulate\na sequence of chords",
+    "start": 217.38,
+    "duration": 4.254
+  },
+  {
+    "text": "and avoid a blocky, \nawkward sounding progression.",
+    "start": 221.676,
+    "duration": 3.42
+  },
+  {
+    "text": "On a musical staff, \nan inversion looks like this.",
+    "start": 231.102,
+    "duration": 3.461
+  },
+  {
+    "text": "But we can also overlay it onto our square\nand get this.",
+    "start": 234.772,
+    "duration": 4.171
+  },
+  {
+    "text": "So, if you were to cover your entire\nRubik's Cube with notes",
+    "start": 239.777,
+    "duration": 4.671
+  },
+  {
+    "text": "such that every face of the solved cube\nis a harmonious chord,",
+    "start": 244.615,
+    "duration": 4.421
+  },
+  {
+    "text": "you could express the solution\nas a chord progression",
+    "start": 249.412,
+    "duration": 3.42
+  },
+  {
+    "text": "that gradually moves \nfrom discordance to harmony",
+    "start": 252.832,
+    "duration": 3.587
+  },
+  {
+    "text": "and play the Rubik's Cube,\nif that's your thing.",
+    "start": 256.669,
+    "duration": 3.462
+  }
+]

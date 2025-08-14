@@ -1,0 +1,1257 @@
+[
+  {
+    "text": "I've had the real fortune\nof working at Scripps Research",
+    "start": 5.961,
+    "duration": 3.336
+  },
+  {
+    "text": "for the last 17 years.",
+    "start": 9.339,
+    "duration": 1.835
+  },
+  {
+    "text": "It's the largest nonprofit biomedical\ninstitution in the country.",
+    "start": 11.174,
+    "duration": 5.255
+  },
+  {
+    "text": "And I've watched some of my colleagues,",
+    "start": 16.972,
+    "duration": 2.419
+  },
+  {
+    "text": "who have spent two to three years",
+    "start": 19.391,
+    "duration": 2.294
+  },
+  {
+    "text": "to define the crystal\n3-D structure of a protein.",
+    "start": 21.685,
+    "duration": 3.253
+  },
+  {
+    "text": "Well, now that can be done\nin two or three minutes.",
+    "start": 26.231,
+    "duration": 3.42
+  },
+  {
+    "text": "And that's because\nof the work of AlphaFold,",
+    "start": 29.693,
+    "duration": 2.419
+  },
+  {
+    "text": "which is a derivative of DeepMind,\nDemis Hassabis and John Jumper,",
+    "start": 32.112,
+    "duration": 6.882
+  },
+  {
+    "text": "recognized by the American\nNobel Prize in September.",
+    "start": 38.994,
+    "duration": 3.503
+  },
+  {
+    "text": "What's interesting, this work,",
+    "start": 42.998,
+    "duration": 1.918
+  },
+  {
+    "text": "which is taking the amino acid\nsequence in one dimension",
+    "start": 44.958,
+    "duration": 4.588
+  },
+  {
+    "text": "and predicting the three-dimensional\nprotein at atomic level,",
+    "start": 49.588,
+    "duration": 5.296
+  },
+  {
+    "text": "[has] now inspired many other of these\nprotein structure prediction models,",
+    "start": 54.926,
+    "duration": 5.881
+  },
+  {
+    "text": "as well as RNA and antibodies,",
+    "start": 60.849,
+    "duration": 2.711
+  },
+  {
+    "text": "and even being able to pick up\nall the missense mutations in the genome,",
+    "start": 63.602,
+    "duration": 4.838
+  },
+  {
+    "text": "and even being able\nto come up wit proteins",
+    "start": 68.481,
+    "duration": 4.046
+  },
+  {
+    "text": "that have never been invented before,\nthat don't exist in nature.",
+    "start": 72.569,
+    "duration": 3.92
+  },
+  {
+    "text": "Now, the only thing I think about this\nis it was a transformer model,",
+    "start": 76.99,
+    "duration": 3.295
+  },
+  {
+    "text": "we'll talk about that in a moment,",
+    "start": 80.285,
+    "duration": 2.169
+  },
+  {
+    "text": "in this award, since Demis and John",
+    "start": 82.454,
+    "duration": 5.046
+  },
+  {
+    "text": "and their team of 30 scientists",
+    "start": 87.542,
+    "duration": 1.877
+  },
+  {
+    "text": "don't understand how\nthe transformer model works,",
+    "start": 89.419,
+    "duration": 4.004
+  },
+  {
+    "text": "shouldn't the AI get an asterisk\nas part of that award?",
+    "start": 93.465,
+    "duration": 4.963
+  },
+  {
+    "text": "I'm going to switch from life science,",
+    "start": 99.262,
+    "duration": 2.127
+  },
+  {
+    "text": "which has been the singular biggest\ncontribution just reviewed,",
+    "start": 101.431,
+    "duration": 4.129
+  },
+  {
+    "text": "to medicine.",
+    "start": 105.56,
+    "duration": 1.335
+  },
+  {
+    "text": "And in the medical community,",
+    "start": 107.604,
+    "duration": 1.501
+  },
+  {
+    "text": "the thing that we don't talk much about\nare diagnostic medical errors.",
+    "start": 109.105,
+    "duration": 6.215
+  },
+  {
+    "text": "And according to the National\nAcademy of Medicine,",
+    "start": 115.362,
+    "duration": 2.669
+  },
+  {
+    "text": "all of us will experience\nat least one in our lifetime.",
+    "start": 118.031,
+    "duration": 3.462
+  },
+  {
+    "text": "And we know from a recent\nJohns Hopkins study",
+    "start": 121.993,
+    "duration": 2.294
+  },
+  {
+    "text": "that these errors have led\nto 800,000 Americans dead",
+    "start": 124.329,
+    "duration": 5.672
+  },
+  {
+    "text": "or seriously disabled each year.",
+    "start": 130.043,
+    "duration": 3.629
+  },
+  {
+    "text": "So this is a big problem.",
+    "start": 133.713,
+    "duration": 1.502
+  },
+  {
+    "text": "And the question is, can AI help us?",
+    "start": 135.215,
+    "duration": 3.211
+  },
+  {
+    "text": "And you keep hearing\nabout the term “precision medicine.”",
+    "start": 138.843,
+    "duration": 3.295
+  },
+  {
+    "text": "Well, if you keep making the same mistake\nover and over again, that's very precise.",
+    "start": 142.806,
+    "duration": 5.589
+  },
+  {
+    "text": "(Laughter)",
+    "start": 148.436,
+    "duration": 1.168
+  },
+  {
+    "text": "We don't need that,",
+    "start": 150.188,
+    "duration": 1.168
+  },
+  {
+    "text": "we need accuracy and precision medicine.",
+    "start": 151.398,
+    "duration": 2.669
+  },
+  {
+    "text": "So can we get there?",
+    "start": 154.442,
+    "duration": 1.585
+  },
+  {
+    "text": "Well, this is a picture of the retina.",
+    "start": 156.486,
+    "duration": 2.252
+  },
+  {
+    "text": "And this was the first major hint,",
+    "start": 159.072,
+    "duration": 2.961
+  },
+  {
+    "text": "training 100,000 images\nwith supervised learning.",
+    "start": 162.075,
+    "duration": 4.963
+  },
+  {
+    "text": "Could the machine see things\nthat people couldn't see?",
+    "start": 167.08,
+    "duration": 4.88
+  },
+  {
+    "text": "And so the question was,\nto the retinal experts,",
+    "start": 172.919,
+    "duration": 2.961
+  },
+  {
+    "text": "is this from a man or a woman?",
+    "start": 175.88,
+    "duration": 2.002
+  },
+  {
+    "text": "And the chance of getting it\naccurate was 50 percent.",
+    "start": 178.717,
+    "duration": 3.42
+  },
+  {
+    "text": "(Laughter)",
+    "start": 182.137,
+    "duration": 1.167
+  },
+  {
+    "text": "But the AI got it right, 97 percent.",
+    "start": 183.346,
+    "duration": 3.754
+  },
+  {
+    "text": "So that training,",
+    "start": 187.142,
+    "duration": 2.043
+  },
+  {
+    "text": "the features are not even fully defined\nof how that was possible.",
+    "start": 189.227,
+    "duration": 4.171
+  },
+  {
+    "text": "Well that gets then\nto all of medical images.",
+    "start": 194.274,
+    "duration": 3.086
+  },
+  {
+    "text": "This is just representative,\nthe chest X-ray.",
+    "start": 197.652,
+    "duration": 2.628
+  },
+  {
+    "text": "And in fact with the chest X-ray,",
+    "start": 200.822,
+    "duration": 2.169
+  },
+  {
+    "text": "the ability here for the AI to pick up,",
+    "start": 202.991,
+    "duration": 3.086
+  },
+  {
+    "text": "the radiologists, expert radiologists\nmissing the nodule,",
+    "start": 206.077,
+    "duration": 4.88
+  },
+  {
+    "text": "which turned out to be picked up\nby the AI as cancerous,",
+    "start": 210.999,
+    "duration": 3.128
+  },
+  {
+    "text": "and this is, of course,\nrepresentative of all of medical scans,",
+    "start": 214.127,
+    "duration": 4.004
+  },
+  {
+    "text": "whether it’s CT scans, MRI, ultrasound.",
+    "start": 218.173,
+    "duration": 3.837
+  },
+  {
+    "text": "That through supervised learning\nof large, labeled, annotated data sets,",
+    "start": 222.051,
+    "duration": 5.881
+  },
+  {
+    "text": "we can see AI do\nat least as well, if not better,",
+    "start": 227.974,
+    "duration": 3.921
+  },
+  {
+    "text": "than expert physicians.",
+    "start": 231.895,
+    "duration": 1.96
+  },
+  {
+    "text": "And 21 randomized trials\nof picking up polyps --",
+    "start": 235.023,
+    "duration": 4.755
+  },
+  {
+    "text": "machine vision during\ncolonoscopy -- have all shown",
+    "start": 239.819,
+    "duration": 4.171
+  },
+  {
+    "text": "that polyps are picked up better",
+    "start": 243.99,
+    "duration": 3.003
+  },
+  {
+    "text": "with the aid of machine vision\nthan by the gastroenterologist alone,",
+    "start": 246.993,
+    "duration": 3.796
+  },
+  {
+    "text": "especially as the day goes on,\nlater in the day, interestingly.",
+    "start": 250.789,
+    "duration": 4.337
+  },
+  {
+    "text": "We don't know whether picking up\nall these additional polyps",
+    "start": 255.168,
+    "duration": 3.253
+  },
+  {
+    "text": "changes the natural history of cancers,",
+    "start": 258.463,
+    "duration": 2.085
+  },
+  {
+    "text": "but it tells you about machine eyes,",
+    "start": 260.59,
+    "duration": 3.086
+  },
+  {
+    "text": "the power of machine eyes.",
+    "start": 263.718,
+    "duration": 1.376
+  },
+  {
+    "text": "Now that was interesting.",
+    "start": 265.47,
+    "duration": 2.377
+  },
+  {
+    "text": "But now still with deep learning models,\nnot transformer models,",
+    "start": 267.889,
+    "duration": 5.714
+  },
+  {
+    "text": "we've seen and learned that the ability",
+    "start": 273.645,
+    "duration": 3.253
+  },
+  {
+    "text": "for computer vision to pick up things\nthat human eyes can't see",
+    "start": 276.898,
+    "duration": 5.589
+  },
+  {
+    "text": "is quite remarkable.",
+    "start": 282.487,
+    "duration": 1.46
+  },
+  {
+    "text": "Here's the retina.",
+    "start": 283.988,
+    "duration": 1.418
+  },
+  {
+    "text": "Picking up the control of diabetes\nand blood pressure.",
+    "start": 286.074,
+    "duration": 3.378
+  },
+  {
+    "text": "Kidney disease.",
+    "start": 290.495,
+    "duration": 1.71
+  },
+  {
+    "text": "Liver and gallbladder disease.",
+    "start": 292.872,
+    "duration": 2.586
+  },
+  {
+    "text": "The heart calcium score,",
+    "start": 296.084,
+    "duration": 2.043
+  },
+  {
+    "text": "which you would normally get\nthrough a scan of the heart.",
+    "start": 298.127,
+    "duration": 4.004
+  },
+  {
+    "text": "Alzheimer's disease before any\nclinical symptoms have been manifest.",
+    "start": 303.174,
+    "duration": 4.129
+  },
+  {
+    "text": "Predicting heart attacks and strokes.",
+    "start": 308.012,
+    "duration": 2.586
+  },
+  {
+    "text": "Hyperlipidemia.",
+    "start": 311.599,
+    "duration": 1.543
+  },
+  {
+    "text": "And seven years before\nany symptoms of Parkinson's disease,",
+    "start": 313.518,
+    "duration": 4.546
+  },
+  {
+    "text": "to pick that up.",
+    "start": 318.064,
+    "duration": 1.251
+  },
+  {
+    "text": "Now this is interesting\nbecause in the future,",
+    "start": 319.941,
+    "duration": 3.587
+  },
+  {
+    "text": "we'll be taking pictures\nof our retina at checkups.",
+    "start": 323.57,
+    "duration": 3.753
+  },
+  {
+    "text": "This is the gateway to almost\nevery system in the body.",
+    "start": 327.365,
+    "duration": 3.462
+  },
+  {
+    "text": "It's really striking.",
+    "start": 331.369,
+    "duration": 1.168
+  },
+  {
+    "text": "And we'll come back to this\nbecause each one of these studies",
+    "start": 332.579,
+    "duration": 4.087
+  },
+  {
+    "text": "was done with tens or hundreds [of]\nthousands of images",
+    "start": 336.666,
+    "duration": 4.213
+  },
+  {
+    "text": "with supervised learning,",
+    "start": 340.879,
+    "duration": 1.251
+  },
+  {
+    "text": "and they’re all separate studies\nby different investigators.",
+    "start": 342.171,
+    "duration": 3.921
+  },
+  {
+    "text": "Now, as a cardiologist,\nI love to read cardiograms.",
+    "start": 346.426,
+    "duration": 4.045
+  },
+  {
+    "text": "I've been doing it for over 30 years.",
+    "start": 350.513,
+    "duration": 2.169
+  },
+  {
+    "text": "But I couldn't see these things.",
+    "start": 353.808,
+    "duration": 2.086
+  },
+  {
+    "text": "Like, the age and the sex of the patient,",
+    "start": 356.519,
+    "duration": 2.92
+  },
+  {
+    "text": "or the ejection fraction of the heart,",
+    "start": 359.439,
+    "duration": 3.086
+  },
+  {
+    "text": "making difficult diagnoses\nthat are frequently missed.",
+    "start": 362.567,
+    "duration": 3.503
+  },
+  {
+    "text": "The anemia of the patient, that is,\nthe hemoglobin to the decimal point.",
+    "start": 366.571,
+    "duration": 4.212
+  },
+  {
+    "text": "Predicting whether a person,",
+    "start": 371.951,
+    "duration": 1.46
+  },
+  {
+    "text": "who's never had\natrial fibrillation or stroke",
+    "start": 373.453,
+    "duration": 2.502
+  },
+  {
+    "text": "from the ECG,",
+    "start": 375.955,
+    "duration": 1.418
+  },
+  {
+    "text": "whether that's going to likely occur.",
+    "start": 377.415,
+    "duration": 2.169
+  },
+  {
+    "text": "Diabetes, a diagnosis of diabetes\nand prediabetes, from the cardiogram.",
+    "start": 380.418,
+    "duration": 4.796
+  },
+  {
+    "text": "The filling pressure of the heart.",
+    "start": 385.965,
+    "duration": 2.044
+  },
+  {
+    "text": "Hypothyroidism",
+    "start": 388.509,
+    "duration": 2.086
+  },
+  {
+    "text": "and kidney disease.",
+    "start": 390.637,
+    "duration": 1.626
+  },
+  {
+    "text": "Imagine getting an electrocardiogram\nto tell you about all these other things,",
+    "start": 392.305,
+    "duration": 3.92
+  },
+  {
+    "text": "not really so much about the heart.",
+    "start": 396.267,
+    "duration": 2.711
+  },
+  {
+    "text": "Then there's the chest X-ray.",
+    "start": 399.729,
+    "duration": 1.543
+  },
+  {
+    "text": "Who would have guessed\nthat we could accurately determine",
+    "start": 401.314,
+    "duration": 3.92
+  },
+  {
+    "text": "the race of the patient,",
+    "start": 405.234,
+    "duration": 1.377
+  },
+  {
+    "text": "no less the ethical implications of that,",
+    "start": 406.611,
+    "duration": 2.794
+  },
+  {
+    "text": "from a chest X-ray through machine eyes?",
+    "start": 409.405,
+    "duration": 3.379
+  },
+  {
+    "text": "And interestingly, picking up\nthe diagnosis of diabetes,",
+    "start": 413.201,
+    "duration": 4.171
+  },
+  {
+    "text": "as well as how well\nthe diabetes is controlled,",
+    "start": 417.372,
+    "duration": 4.212
+  },
+  {
+    "text": "through the chest X-ray.",
+    "start": 421.584,
+    "duration": 1.668
+  },
+  {
+    "text": "And of course, so many different\nparameters about the heart,",
+    "start": 424.629,
+    "duration": 3.795
+  },
+  {
+    "text": "which we could never,",
+    "start": 428.424,
+    "duration": 2.169
+  },
+  {
+    "text": "radiologists or cardiologists,\ncould never be able to come up",
+    "start": 430.593,
+    "duration": 3.837
+  },
+  {
+    "text": "with what machine vision can do.",
+    "start": 434.43,
+    "duration": 2.878
+  },
+  {
+    "text": "Pathologists often argue about a slide,",
+    "start": 437.976,
+    "duration": 3.169
+  },
+  {
+    "text": "about what does it really show?",
+    "start": 441.187,
+    "duration": 1.794
+  },
+  {
+    "text": "But with this ability of machine eyes,",
+    "start": 443.314,
+    "duration": 4.338
+  },
+  {
+    "text": "the driver genomic mutations\nof the cancer can be defined,",
+    "start": 447.694,
+    "duration": 3.878
+  },
+  {
+    "text": "no less the structural\ncopy number variants",
+    "start": 451.614,
+    "duration": 2.878
+  },
+  {
+    "text": "that are accounting\nor present in that tumor.",
+    "start": 454.534,
+    "duration": 2.878
+  },
+  {
+    "text": "Also, where is that tumor coming from?",
+    "start": 457.787,
+    "duration": 2.336
+  },
+  {
+    "text": "For many patients, we don’t know.",
+    "start": 460.164,
+    "duration": 2.253
+  },
+  {
+    "text": "But it can be determined through AI.",
+    "start": 462.458,
+    "duration": 4.255
+  },
+  {
+    "text": "And also the prognosis of the patient,",
+    "start": 466.754,
+    "duration": 2.836
+  },
+  {
+    "text": "just from the slide,",
+    "start": 469.59,
+    "duration": 2.169
+  },
+  {
+    "text": "by all of the training.",
+    "start": 471.801,
+    "duration": 1.627
+  },
+  {
+    "text": "Again, this is all just\nconvolutional neural networks,",
+    "start": 473.469,
+    "duration": 4.797
+  },
+  {
+    "text": "not transformer models.",
+    "start": 478.307,
+    "duration": 1.669
+  },
+  {
+    "text": "So when we go from the deep neural\nnetworks to transformer models,",
+    "start": 480.852,
+    "duration": 5.63
+  },
+  {
+    "text": "this classic pre-print,",
+    "start": 486.524,
+    "duration": 2.085
+  },
+  {
+    "text": "one of the most cited pre-prints ever,",
+    "start": 488.651,
+    "duration": 2.586
+  },
+  {
+    "text": "\"Attention is All You Need,\"",
+    "start": 491.237,
+    "duration": 1.418
+  },
+  {
+    "text": "the ability to now be able\nto look at many more items,",
+    "start": 492.697,
+    "duration": 4.296
+  },
+  {
+    "text": "whether it be language or images,",
+    "start": 497.035,
+    "duration": 3.837
+  },
+  {
+    "text": "and be able to put this in context,",
+    "start": 500.913,
+    "duration": 2.962
+  },
+  {
+    "text": "setting up a transformational\nprogress in many fields.",
+    "start": 503.916,
+    "duration": 4.588
+  },
+  {
+    "text": "The prototype is,\nthe outgrowth of this is GPT-4.",
+    "start": 509.172,
+    "duration": 4.504
+  },
+  {
+    "text": "With over a trillion connections.",
+    "start": 514.51,
+    "duration": 2.628
+  },
+  {
+    "text": "Our human brain has 100 trillion\nconnections or parameters.",
+    "start": 517.138,
+    "duration": 4.713
+  },
+  {
+    "text": "But one trillion,",
+    "start": 522.185,
+    "duration": 1.167
+  },
+  {
+    "text": "just think of all\nthe information, knowledge,",
+    "start": 523.352,
+    "duration": 2.128
+  },
+  {
+    "text": "that's packed into those one trillion.",
+    "start": 525.48,
+    "duration": 1.876
+  },
+  {
+    "text": "And interestingly, this is now multimodal\nwith language, with images,",
+    "start": 527.398,
+    "duration": 4.88
+  },
+  {
+    "text": "with speech.",
+    "start": 532.32,
+    "duration": 1.376
+  },
+  {
+    "text": "And it involves a massive amount\nof graphic processing units.",
+    "start": 533.696,
+    "duration": 3.921
+  },
+  {
+    "text": "And it's with self-supervised learning,",
+    "start": 538.076,
+    "duration": 2.293
+  },
+  {
+    "text": "which is a big bottleneck in medicine",
+    "start": 540.369,
+    "duration": 2.128
+  },
+  {
+    "text": "because we can't get experts\nto label images.",
+    "start": 542.497,
+    "duration": 3.169
+  },
+  {
+    "text": "This can be done\nwith self-supervised learning.",
+    "start": 545.708,
+    "duration": 2.795
+  },
+  {
+    "text": "So what does this set up in medicine?",
+    "start": 548.961,
+    "duration": 2.837
+  },
+  {
+    "text": "It sets up, for example,\nkeyboard liberation.",
+    "start": 551.839,
+    "duration": 4.421
+  },
+  {
+    "text": "The one thing that both\ndoctors, clinicians",
+    "start": 556.803,
+    "duration": 3.92
+  },
+  {
+    "text": "and patients would like to see.",
+    "start": 560.765,
+    "duration": 2.377
+  },
+  {
+    "text": "Everyone hates being\ndata clerks as clinicians,",
+    "start": 563.851,
+    "duration": 3.921
+  },
+  {
+    "text": "and patients would like\nto see their doctor",
+    "start": 567.814,
+    "duration": 2.836
+  },
+  {
+    "text": "when they finally have the visit\nthey've waited for a long time.",
+    "start": 570.65,
+    "duration": 3.753
+  },
+  {
+    "text": "So the ability to change\nthe face-to-face contact",
+    "start": 574.445,
+    "duration": 4.713
+  },
+  {
+    "text": "is just one step along the way.",
+    "start": 579.2,
+    "duration": 2.502
+  },
+  {
+    "text": "By having the liberation from\nkeyboards with synthetic notes",
+    "start": 581.744,
+    "duration": 5.005
+  },
+  {
+    "text": "that are driven,\nderived from the conversation,",
+    "start": 586.791,
+    "duration": 2.753
+  },
+  {
+    "text": "and then all the downstream normal\ndata clerk functions that are done,",
+    "start": 589.585,
+    "duration": 4.88
+  },
+  {
+    "text": "often off-hours.",
+    "start": 594.507,
+    "duration": 1.668
+  },
+  {
+    "text": "Now we're seeing in health systems\nacross the United States",
+    "start": 596.217,
+    "duration": 3.587
+  },
+  {
+    "text": "where people, physicians\nare saving many hours of time",
+    "start": 599.846,
+    "duration": 3.92
+  },
+  {
+    "text": "and heading towards ultimately\nkeyboard liberation.",
+    "start": 603.808,
+    "duration": 3.587
+  },
+  {
+    "text": "We recently published, with the group\nat Moorfields Eye Institute,",
+    "start": 608.396,
+    "duration": 3.587
+  },
+  {
+    "text": "led by Pearse Keane,",
+    "start": 612.024,
+    "duration": 1.335
+  },
+  {
+    "text": "the first foundation model\nin medicine from the retina.",
+    "start": 613.401,
+    "duration": 3.295
+  },
+  {
+    "text": "And remember those eight different things\nthat were all done by separate studies?",
+    "start": 616.737,
+    "duration": 4.38
+  },
+  {
+    "text": "This was all done with one model.",
+    "start": 621.159,
+    "duration": 2.335
+  },
+  {
+    "text": "This is with 1.6 million retinal images",
+    "start": 623.494,
+    "duration": 3.879
+  },
+  {
+    "text": "predicting all these different\noutcome likelihoods.",
+    "start": 627.415,
+    "duration": 4.546
+  },
+  {
+    "text": "And this is all open-source,",
+    "start": 632.003,
+    "duration": 1.71
+  },
+  {
+    "text": "which is of course really important\nthat others can build on these models.",
+    "start": 633.754,
+    "duration": 4.38
+  },
+  {
+    "text": "Now I just want to review a couple\nof really interesting patients.",
+    "start": 638.134,
+    "duration": 5.547
+  },
+  {
+    "text": "Andrew, who is now six years old.",
+    "start": 644.098,
+    "duration": 3.003
+  },
+  {
+    "text": "He had three years of relentlessly\nincreasing pain, arrested growth.",
+    "start": 647.81,
+    "duration": 7.007
+  },
+  {
+    "text": "His gait suffered with a dragging\nof his left foot,",
+    "start": 655.318,
+    "duration": 2.544
+  },
+  {
+    "text": "he had severe headaches.",
+    "start": 657.862,
+    "duration": 1.918
+  },
+  {
+    "text": "He went to 17 doctors over three years.",
+    "start": 659.78,
+    "duration": 3.337
+  },
+  {
+    "text": "His mother then entered all\nhis symptoms into ChatGPT.",
+    "start": 663.743,
+    "duration": 4.254
+  },
+  {
+    "text": "It made the diagnosis\nof occulta spina bifida,",
+    "start": 668.706,
+    "duration": 4.254
+  },
+  {
+    "text": "which meant he had a tethered spinal cord\nthat was missed by all 17 doctors",
+    "start": 672.96,
+    "duration": 5.297
+  },
+  {
+    "text": "over three years.",
+    "start": 678.257,
+    "duration": 1.168
+  },
+  {
+    "text": "He had surgery to release the cord.",
+    "start": 679.467,
+    "duration": 2.002
+  },
+  {
+    "text": "He's now perfectly healthy.",
+    "start": 681.469,
+    "duration": 1.793
+  },
+  {
+    "text": "(Applause)",
+    "start": 684.889,
+    "duration": 5.63
+  },
+  {
+    "text": "This is a patient that was sent to me,",
+    "start": 690.561,
+    "duration": 2.92
+  },
+  {
+    "text": "who was suffering with,\nshe was told, long COVID.",
+    "start": 693.481,
+    "duration": 4.671
+  },
+  {
+    "text": "She saw many different\nphysicians, neurologists,",
+    "start": 698.694,
+    "duration": 3.379
+  },
+  {
+    "text": "and her sister entered all her symptoms\nafter getting nowhere,",
+    "start": 702.073,
+    "duration": 4.546
+  },
+  {
+    "text": "no treatment for long COVID,",
+    "start": 706.619,
+    "duration": 1.418
+  },
+  {
+    "text": "there is no treatment validated,",
+    "start": 708.079,
+    "duration": 1.71
+  },
+  {
+    "text": "and her sister put all\nher symptoms into ChatGPT.",
+    "start": 709.789,
+    "duration": 4.421
+  },
+  {
+    "text": "It found out it actually\nwas not long COVID,",
+    "start": 714.252,
+    "duration": 2.293
+  },
+  {
+    "text": "she had limbic encephalitis,\nwhich is treatable.",
+    "start": 716.587,
+    "duration": 3.462
+  },
+  {
+    "text": "She was treated, and now\nshe's doing extremely well.",
+    "start": 720.091,
+    "duration": 3.128
+  },
+  {
+    "text": "But these are not just anecdotes anymore.",
+    "start": 723.594,
+    "duration": 2.753
+  },
+  {
+    "text": "70 very difficult cases",
+    "start": 726.389,
+    "duration": 3.461
+  },
+  {
+    "text": "that are the clinical\npathologic conferences",
+    "start": 729.85,
+    "duration": 2.461
+  },
+  {
+    "text": "at the New England Journal of Medicine",
+    "start": 732.353,
+    "duration": 1.877
+  },
+  {
+    "text": "were compared to GPT-4,",
+    "start": 734.272,
+    "duration": 2.836
+  },
+  {
+    "text": "and the chatbot did as well",
+    "start": 737.149,
+    "duration": 3.295
+  },
+  {
+    "text": "or better than the expert\nmaster clinicians",
+    "start": 740.486,
+    "duration": 3.295
+  },
+  {
+    "text": "in making the diagnosis.",
+    "start": 743.781,
+    "duration": 1.96
+  },
+  {
+    "text": "So I just want to close\nwith a recent conversation with my fellow.",
+    "start": 746.492,
+    "duration": 4.713
+  },
+  {
+    "text": "Medicine is still an apprenticeship,",
+    "start": 751.706,
+    "duration": 2.085
+  },
+  {
+    "text": "and Andrew Cho is 30 years old,",
+    "start": 753.833,
+    "duration": 3.837
+  },
+  {
+    "text": "in his second year\nof cardiology fellowship.",
+    "start": 757.67,
+    "duration": 2.085
+  },
+  {
+    "text": "We see all patients\ntogether in the clinic.",
+    "start": 759.797,
+    "duration": 2.669
+  },
+  {
+    "text": "And at the end of clinic the other day,",
+    "start": 762.967,
+    "duration": 2.252
+  },
+  {
+    "text": "I sat down and said to him,",
+    "start": 765.261,
+    "duration": 1.918
+  },
+  {
+    "text": "\"Andrew, you are so lucky.",
+    "start": 767.179,
+    "duration": 2.795
+  },
+  {
+    "text": "You're going to be practicing medicine\nin an era of keyboard liberation.",
+    "start": 770.516,
+    "duration": 4.838
+  },
+  {
+    "text": "You're going to be\nconnecting with patients",
+    "start": 775.813,
+    "duration": 2.044
+  },
+  {
+    "text": "the way we haven't done for decades.\"",
+    "start": 777.857,
+    "duration": 2.502
+  },
+  {
+    "text": "That is the ability to have the note",
+    "start": 780.735,
+    "duration": 3.086
+  },
+  {
+    "text": "and the work from the conversation",
+    "start": 783.863,
+    "duration": 2.502
+  },
+  {
+    "text": "to derive things like pre-authorization,",
+    "start": 786.407,
+    "duration": 3.795
+  },
+  {
+    "text": "billing, prescriptions,\nfuture appointments --",
+    "start": 790.202,
+    "duration": 4.755
+  },
+  {
+    "text": "all the things that we do,",
+    "start": 794.999,
+    "duration": 1.293
+  },
+  {
+    "text": "including nudges to the patient.",
+    "start": 796.334,
+    "duration": 1.584
+  },
+  {
+    "text": "For example, did you get\nyour blood pressure checks",
+    "start": 797.918,
+    "duration": 2.461
+  },
+  {
+    "text": "and what did they show",
+    "start": 800.421,
+    "duration": 1.168
+  },
+  {
+    "text": "and all that coming back to you.",
+    "start": 801.63,
+    "duration": 1.544
+  },
+  {
+    "text": "But much more than that,",
+    "start": 803.215,
+    "duration": 1.71
+  },
+  {
+    "text": "to help with making diagnoses.",
+    "start": 804.925,
+    "duration": 2.086
+  },
+  {
+    "text": "And the gift of time",
+    "start": 807.928,
+    "duration": 2.002
+  },
+  {
+    "text": "that having all the data of a patient",
+    "start": 809.972,
+    "duration": 2.169
+  },
+  {
+    "text": "that's all teed up before\neven seeing the patient.",
+    "start": 812.183,
+    "duration": 2.961
+  },
+  {
+    "text": "And all this support changes the future\nof the patient-doctor relationship,",
+    "start": 815.144,
+    "duration": 6.632
+  },
+  {
+    "text": "bringing in the gift of time.",
+    "start": 821.776,
+    "duration": 2.46
+  },
+  {
+    "text": "So this is really exciting.",
+    "start": 824.612,
+    "duration": 1.71
+  },
+  {
+    "text": "I said to Andrew, everything\nhas to be validated, of course,",
+    "start": 826.364,
+    "duration": 4.295
+  },
+  {
+    "text": "that the benefit greatly\noutweighs any risk.",
+    "start": 830.701,
+    "duration": 3.796
+  },
+  {
+    "text": "But it is really a remarkable time\nfor the future of health care,",
+    "start": 834.538,
+    "duration": 4.505
+  },
+  {
+    "text": "it's so damn exciting.",
+    "start": 839.085,
+    "duration": 2.544
+  },
+  {
+    "text": "Thank you.",
+    "start": 841.962,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 843.172,
+    "duration": 2.753
+  }
+]

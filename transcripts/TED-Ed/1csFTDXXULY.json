@@ -1,0 +1,367 @@
+[
+  {
+    "text": "Mining unobtainium is hard work.",
+    "start": 6.912,
+    "duration": 2.886
+  },
+  {
+    "text": "The rare mineral appears \nin only 1% of rocks in the mine.",
+    "start": 9.798,
+    "duration": 4.161
+  },
+  {
+    "text": "But your friend Tricky Joe \nhas something up his sleeve.",
+    "start": 13.959,
+    "duration": 3.924
+  },
+  {
+    "text": "The unobtainium detector he’s been \nperfecting for months is finally ready.",
+    "start": 17.883,
+    "duration": 4.849
+  },
+  {
+    "text": "The device never fails \nto detect unobtainium if any is present.",
+    "start": 22.732,
+    "duration": 4.91
+  },
+  {
+    "text": "Otherwise, it’s still highly reliable,",
+    "start": 27.642,
+    "duration": 2.491
+  },
+  {
+    "text": "returning accurate \nreadings 90% of the time.",
+    "start": 30.133,
+    "duration": 4.009
+  },
+  {
+    "text": "On his first day trying \nit out in the field,",
+    "start": 34.142,
+    "duration": 2.131
+  },
+  {
+    "text": "the device goes off, and \nJoe happily places the rock in his cart.",
+    "start": 36.273,
+    "duration": 4.759
+  },
+  {
+    "text": "As the two of you head back to camp \nwhere the ore can be examined,",
+    "start": 41.032,
+    "duration": 3.79
+  },
+  {
+    "text": "Joe makes you an offer:",
+    "start": 44.822,
+    "duration": 1.92
+  },
+  {
+    "text": "he’ll sell you the ore for just $200.",
+    "start": 46.742,
+    "duration": 3.899
+  },
+  {
+    "text": "You know that a piece of unobtanium \nthat size would easily be worth $1000,",
+    "start": 50.641,
+    "duration": 5.821
+  },
+  {
+    "text": "but any other minerals \nwould be effectively worthless.",
+    "start": 56.462,
+    "duration": 4.136
+  },
+  {
+    "text": "Should you make the trade?",
+    "start": 60.598,
+    "duration": 2.881
+  },
+  {
+    "text": "Pause here if you want \nto figure it out for yourself.",
+    "start": 63.479,
+    "duration": 3.391
+  },
+  {
+    "text": "Answer in: 3",
+    "start": 66.87,
+    "duration": 1.171
+  },
+  {
+    "text": "Answer in: 2",
+    "start": 68.041,
+    "duration": 1.161
+  },
+  {
+    "text": "Answer in: 1",
+    "start": 69.202,
+    "duration": 1.501
+  },
+  {
+    "text": "Intuitively, it seems like a good deal.",
+    "start": 70.703,
+    "duration": 2.309
+  },
+  {
+    "text": "Since the detector \nis correct most of the time,",
+    "start": 73.012,
+    "duration": 2.679
+  },
+  {
+    "text": "shouldn’t you be able\nto trust its reading?",
+    "start": 75.691,
+    "duration": 2.858
+  },
+  {
+    "text": "Unfortunately, no.",
+    "start": 78.549,
+    "duration": 1.683
+  },
+  {
+    "text": "Here’s why.",
+    "start": 80.232,
+    "duration": 1.607
+  },
+  {
+    "text": "Imagine the mine \nhas exactly 1,000 pieces of ore.",
+    "start": 81.839,
+    "duration": 3.748
+  },
+  {
+    "text": "An unobtainium rarity of 1%",
+    "start": 85.587,
+    "duration": 2.912
+  },
+  {
+    "text": "means that there are only 10 rocks \nwith the precious mineral inside.",
+    "start": 88.499,
+    "duration": 4.434
+  },
+  {
+    "text": "All 10 would set off the detector.",
+    "start": 92.933,
+    "duration": 2.478
+  },
+  {
+    "text": "But what about the other 990\nrocks without unobtainium?",
+    "start": 95.411,
+    "duration": 4.451
+  },
+  {
+    "text": "Well, 90% of them,\n891 rocks, to be exact,",
+    "start": 99.862,
+    "duration": 4.1
+  },
+  {
+    "text": "won’t set off anything.",
+    "start": 103.962,
+    "duration": 1.921
+  },
+  {
+    "text": "But 10%, or 99 rocks, \nwill set off the detector",
+    "start": 105.883,
+    "duration": 4.77
+  },
+  {
+    "text": "despite not having unobtanium,",
+    "start": 110.653,
+    "duration": 2.44
+  },
+  {
+    "text": "a result known as a false positive.",
+    "start": 113.093,
+    "duration": 3.188
+  },
+  {
+    "text": "Why does that matter?",
+    "start": 116.281,
+    "duration": 1.491
+  },
+  {
+    "text": "Because it means that all in all,",
+    "start": 117.772,
+    "duration": 1.637
+  },
+  {
+    "text": "109 rocks will have \ntriggered the detector.",
+    "start": 119.409,
+    "duration": 3.423
+  },
+  {
+    "text": "And Joe’s rock could be any one of them,",
+    "start": 122.832,
+    "duration": 2.711
+  },
+  {
+    "text": "from the 10 that contain the mineral",
+    "start": 125.543,
+    "duration": 1.827
+  },
+  {
+    "text": "to the 99 that don’t,",
+    "start": 127.37,
+    "duration": 2.141
+  },
+  {
+    "text": "which means the chances of it containing \nunobtainium are 10 out of 109 – about 9%.",
+    "start": 129.511,
+    "duration": 7.172
+  },
+  {
+    "text": "And paying $200 for a 9%\nchance of getting $1000 isn’t great odds.",
+    "start": 136.683,
+    "duration": 7.575
+  },
+  {
+    "text": "So why is this result so unexpected,",
+    "start": 144.258,
+    "duration": 2.771
+  },
+  {
+    "text": "and why did Joe’s rock seem \nlike such a sure bet?",
+    "start": 147.029,
+    "duration": 4.101
+  },
+  {
+    "text": "The key is something called \nthe base rate fallacy.",
+    "start": 151.13,
+    "duration": 4.123
+  },
+  {
+    "text": "While we’re focused on the relatively \nhigh accuracy of the detector,",
+    "start": 155.253,
+    "duration": 3.86
+  },
+  {
+    "text": "our intuition makes us forget to account",
+    "start": 159.113,
+    "duration": 2.678
+  },
+  {
+    "text": "for how rare the unobtanium \nwas in the first place.",
+    "start": 161.791,
+    "duration": 4.081
+  },
+  {
+    "text": "But because the device’s error rate of 10%",
+    "start": 165.872,
+    "duration": 2.83
+  },
+  {
+    "text": "is still higher than \nthe mineral’s overall occurrence,",
+    "start": 168.702,
+    "duration": 3.62
+  },
+  {
+    "text": "any time it goes off is still more likely \nto be a false positive",
+    "start": 172.322,
+    "duration": 4.12
+  },
+  {
+    "text": "than a real finding.",
+    "start": 176.442,
+    "duration": 2.15
+  },
+  {
+    "text": "This problem is an example \nof conditional probability.",
+    "start": 178.592,
+    "duration": 3.461
+  },
+  {
+    "text": "The answer lies neither in the overall \nchance of finding unobtainium,",
+    "start": 182.053,
+    "duration": 4.118
+  },
+  {
+    "text": "nor the overall chance \nof receiving a false positive reading.",
+    "start": 186.171,
+    "duration": 4.408
+  },
+  {
+    "text": "This kind of background information \nthat we’re given before anything happens",
+    "start": 190.579,
+    "duration": 4.453
+  },
+  {
+    "text": "is known as unconditional, \nor prior probability.",
+    "start": 195.032,
+    "duration": 4.701
+  },
+  {
+    "text": "What we’re looking for, though,\nis the chance of finding unobtainium",
+    "start": 199.733,
+    "duration": 3.647
+  },
+  {
+    "text": "once we know that the device did\nreturn a positive reading.",
+    "start": 203.38,
+    "duration": 3.714
+  },
+  {
+    "text": "This is known as the conditional, \nor posterior probability,",
+    "start": 207.094,
+    "duration": 4.247
+  },
+  {
+    "text": "determined once the possibilities have \nbeen narrowed down through observation.",
+    "start": 211.341,
+    "duration": 4.717
+  },
+  {
+    "text": "Many people are confused \nby the false positive paradox",
+    "start": 216.058,
+    "duration": 3.785
+  },
+  {
+    "text": "because we have a bias \nfor focusing on specific information",
+    "start": 219.843,
+    "duration": 3.699
+  },
+  {
+    "text": "over the more general,",
+    "start": 223.542,
+    "duration": 1.771
+  },
+  {
+    "text": "especially when immediate decisions \ncome into play.",
+    "start": 225.313,
+    "duration": 3.788
+  },
+  {
+    "text": "And while in many cases \nit’s better to be safe than sorry,",
+    "start": 229.101,
+    "duration": 3.632
+  },
+  {
+    "text": "false positives can have \nreal negative consequences.",
+    "start": 232.733,
+    "duration": 3.136
+  },
+  {
+    "text": "False positives in medical testing \nare preferable to false negatives,",
+    "start": 235.869,
+    "duration": 4.26
+  },
+  {
+    "text": "but they can still lead to stress or\nunnecessary treatment.",
+    "start": 240.129,
+    "duration": 4.054
+  },
+  {
+    "text": "And false positives in mass surveillance",
+    "start": 244.183,
+    "duration": 2.196
+  },
+  {
+    "text": "can cause innocent people to be\nwrongfully arrested, jailed, or worse.",
+    "start": 246.379,
+    "duration": 4.675
+  },
+  {
+    "text": "As for this case, the one thing \nyou can be positive about",
+    "start": 251.054,
+    "duration": 4.195
+  },
+  {
+    "text": "is that Tricky Joe is trying \nto take you for a ride.",
+    "start": 255.249,
+    "duration": 3.433
+  }
+]

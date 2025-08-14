@@ -1,0 +1,452 @@
+[
+  {
+    "text": "So this is my niece.",
+    "start": 12.968,
+    "duration": 1.262
+  },
+  {
+    "text": "Her name is Yahli.",
+    "start": 14.644,
+    "duration": 1.535
+  },
+  {
+    "text": "She is nine months old.",
+    "start": 16.203,
+    "duration": 1.511
+  },
+  {
+    "text": "Her mum is a doctor,\nand her dad is a lawyer.",
+    "start": 18.201,
+    "duration": 2.528
+  },
+  {
+    "text": "By the time Yahli goes to college,",
+    "start": 21.269,
+    "duration": 2.006
+  },
+  {
+    "text": "the jobs her parents do\nare going to look dramatically different.",
+    "start": 23.299,
+    "duration": 3.253
+  },
+  {
+    "text": "In 2013, researchers at Oxford University\ndid a study on the future of work.",
+    "start": 27.347,
+    "duration": 5.073
+  },
+  {
+    "text": "They concluded that almost one\nin every two jobs have a high risk",
+    "start": 32.766,
+    "duration": 4.139
+  },
+  {
+    "text": "of being automated by machines.",
+    "start": 36.929,
+    "duration": 1.824
+  },
+  {
+    "text": "Machine learning is the technology",
+    "start": 40.388,
+    "duration": 1.905
+  },
+  {
+    "text": "that's responsible for most\nof this disruption.",
+    "start": 42.317,
+    "duration": 2.278
+  },
+  {
+    "text": "It's the most powerful branch\nof artificial intelligence.",
+    "start": 44.619,
+    "duration": 2.79
+  },
+  {
+    "text": "It allows machines to learn from data",
+    "start": 47.433,
+    "duration": 1.882
+  },
+  {
+    "text": "and mimic some of the things\nthat humans can do.",
+    "start": 49.339,
+    "duration": 2.592
+  },
+  {
+    "text": "My company, Kaggle, operates\non the cutting edge of machine learning.",
+    "start": 51.955,
+    "duration": 3.415
+  },
+  {
+    "text": "We bring together\nhundreds of thousands of experts",
+    "start": 55.394,
+    "duration": 2.386
+  },
+  {
+    "text": "to solve important problems\nfor industry and academia.",
+    "start": 57.804,
+    "duration": 3.118
+  },
+  {
+    "text": "This gives us a unique perspective\non what machines can do,",
+    "start": 61.279,
+    "duration": 3.222
+  },
+  {
+    "text": "what they can't do",
+    "start": 64.525,
+    "duration": 1.235
+  },
+  {
+    "text": "and what jobs they might\nautomate or threaten.",
+    "start": 65.784,
+    "duration": 2.939
+  },
+  {
+    "text": "Machine learning started making its way\ninto industry in the early '90s.",
+    "start": 69.316,
+    "duration": 3.55
+  },
+  {
+    "text": "It started with relatively simple tasks.",
+    "start": 72.89,
+    "duration": 2.124
+  },
+  {
+    "text": "It started with things like assessing\ncredit risk from loan applications,",
+    "start": 75.406,
+    "duration": 4.115
+  },
+  {
+    "text": "sorting the mail by reading\nhandwritten characters from zip codes.",
+    "start": 79.545,
+    "duration": 4.053
+  },
+  {
+    "text": "Over the past few years, we have made\ndramatic breakthroughs.",
+    "start": 84.036,
+    "duration": 3.169
+  },
+  {
+    "text": "Machine learning is now capable\nof far, far more complex tasks.",
+    "start": 87.586,
+    "duration": 3.916
+  },
+  {
+    "text": "In 2012, Kaggle challenged its community",
+    "start": 91.86,
+    "duration": 3.231
+  },
+  {
+    "text": "to build an algorithm\nthat could grade high-school essays.",
+    "start": 95.115,
+    "duration": 3.189
+  },
+  {
+    "text": "The winning algorithms\nwere able to match the grades",
+    "start": 98.328,
+    "duration": 2.604
+  },
+  {
+    "text": "given by human teachers.",
+    "start": 100.956,
+    "duration": 1.665
+  },
+  {
+    "text": "Last year, we issued\nan even more difficult challenge.",
+    "start": 103.092,
+    "duration": 2.984
+  },
+  {
+    "text": "Can you take images of the eye\nand diagnose an eye disease",
+    "start": 106.1,
+    "duration": 2.953
+  },
+  {
+    "text": "called diabetic retinopathy?",
+    "start": 109.077,
+    "duration": 1.694
+  },
+  {
+    "text": "Again, the winning algorithms\nwere able to match the diagnoses",
+    "start": 111.164,
+    "duration": 4.04
+  },
+  {
+    "text": "given by human ophthalmologists.",
+    "start": 115.228,
+    "duration": 1.825
+  },
+  {
+    "text": "Now, given the right data,\nmachines are going to outperform humans",
+    "start": 117.561,
+    "duration": 3.212
+  },
+  {
+    "text": "at tasks like this.",
+    "start": 120.797,
+    "duration": 1.165
+  },
+  {
+    "text": "A teacher might read 10,000 essays\nover a 40-year career.",
+    "start": 121.986,
+    "duration": 3.992
+  },
+  {
+    "text": "An ophthalmologist might see 50,000 eyes.",
+    "start": 126.407,
+    "duration": 2.36
+  },
+  {
+    "text": "A machine can read millions of essays\nor see millions of eyes",
+    "start": 128.791,
+    "duration": 3.913
+  },
+  {
+    "text": "within minutes.",
+    "start": 132.728,
+    "duration": 1.276
+  },
+  {
+    "text": "We have no chance of competing\nagainst machines",
+    "start": 134.456,
+    "duration": 2.858
+  },
+  {
+    "text": "on frequent, high-volume tasks.",
+    "start": 137.338,
+    "duration": 2.321
+  },
+  {
+    "text": "But there are things we can do\nthat machines can't do.",
+    "start": 140.665,
+    "duration": 3.724
+  },
+  {
+    "text": "Where machines have made\nvery little progress",
+    "start": 144.791,
+    "duration": 2.2
+  },
+  {
+    "text": "is in tackling novel situations.",
+    "start": 147.015,
+    "duration": 1.854
+  },
+  {
+    "text": "They can't handle things\nthey haven't seen many times before.",
+    "start": 148.893,
+    "duration": 3.899
+  },
+  {
+    "text": "The fundamental limitations\nof machine learning",
+    "start": 153.321,
+    "duration": 2.584
+  },
+  {
+    "text": "is that it needs to learn\nfrom large volumes of past data.",
+    "start": 155.929,
+    "duration": 3.394
+  },
+  {
+    "text": "Now, humans don't.",
+    "start": 159.347,
+    "duration": 1.754
+  },
+  {
+    "text": "We have the ability to connect\nseemingly disparate threads",
+    "start": 161.125,
+    "duration": 3.03
+  },
+  {
+    "text": "to solve problems we've never seen before.",
+    "start": 164.179,
+    "duration": 2.238
+  },
+  {
+    "text": "Percy Spencer was a physicist\nworking on radar during World War II,",
+    "start": 166.808,
+    "duration": 4.411
+  },
+  {
+    "text": "when he noticed the magnetron\nwas melting his chocolate bar.",
+    "start": 171.243,
+    "duration": 3.013
+  },
+  {
+    "text": "He was able to connect his understanding\nof electromagnetic radiation",
+    "start": 174.97,
+    "duration": 3.295
+  },
+  {
+    "text": "with his knowledge of cooking",
+    "start": 178.289,
+    "duration": 1.484
+  },
+  {
+    "text": "in order to invent -- any guesses? --\nthe microwave oven.",
+    "start": 179.797,
+    "duration": 3.258
+  },
+  {
+    "text": "Now, this is a particularly remarkable\nexample of creativity.",
+    "start": 183.444,
+    "duration": 3.073
+  },
+  {
+    "text": "But this sort of cross-pollination\nhappens for each of us in small ways",
+    "start": 186.541,
+    "duration": 3.664
+  },
+  {
+    "text": "thousands of times per day.",
+    "start": 190.229,
+    "duration": 1.828
+  },
+  {
+    "text": "Machines cannot compete with us",
+    "start": 192.501,
+    "duration": 1.661
+  },
+  {
+    "text": "when it comes to tackling\nnovel situations,",
+    "start": 194.186,
+    "duration": 2.251
+  },
+  {
+    "text": "and this puts a fundamental limit\non the human tasks",
+    "start": 196.461,
+    "duration": 3.117
+  },
+  {
+    "text": "that machines will automate.",
+    "start": 199.602,
+    "duration": 1.717
+  },
+  {
+    "text": "So what does this mean\nfor the future of work?",
+    "start": 202.041,
+    "duration": 2.405
+  },
+  {
+    "text": "The future state of any single job lies\nin the answer to a single question:",
+    "start": 204.804,
+    "duration": 4.532
+  },
+  {
+    "text": "To what extent is that job reducible\nto frequent, high-volume tasks,",
+    "start": 209.36,
+    "duration": 4.981
+  },
+  {
+    "text": "and to what extent does it involve\ntackling novel situations?",
+    "start": 214.365,
+    "duration": 3.253
+  },
+  {
+    "text": "On frequent, high-volume tasks,\nmachines are getting smarter and smarter.",
+    "start": 217.975,
+    "duration": 4.035
+  },
+  {
+    "text": "Today they grade essays.\nThey diagnose certain diseases.",
+    "start": 222.034,
+    "duration": 2.714
+  },
+  {
+    "text": "Over coming years,\nthey're going to conduct our audits,",
+    "start": 224.772,
+    "duration": 3.157
+  },
+  {
+    "text": "and they're going to read boilerplate\nfrom legal contracts.",
+    "start": 227.953,
+    "duration": 2.967
+  },
+  {
+    "text": "Accountants and lawyers are still needed.",
+    "start": 230.944,
+    "duration": 1.997
+  },
+  {
+    "text": "They're going to be needed\nfor complex tax structuring,",
+    "start": 232.965,
+    "duration": 2.682
+  },
+  {
+    "text": "for pathbreaking litigation.",
+    "start": 235.671,
+    "duration": 1.357
+  },
+  {
+    "text": "But machines will shrink their ranks",
+    "start": 237.052,
+    "duration": 1.717
+  },
+  {
+    "text": "and make these jobs harder to come by.",
+    "start": 238.793,
+    "duration": 1.872
+  },
+  {
+    "text": "Now, as mentioned,",
+    "start": 240.689,
+    "duration": 1.151
+  },
+  {
+    "text": "machines are not making progress\non novel situations.",
+    "start": 241.864,
+    "duration": 2.949
+  },
+  {
+    "text": "The copy behind a marketing campaign\nneeds to grab consumers' attention.",
+    "start": 244.837,
+    "duration": 3.457
+  },
+  {
+    "text": "It has to stand out from the crowd.",
+    "start": 248.318,
+    "duration": 1.715
+  },
+  {
+    "text": "Business strategy means\nfinding gaps in the market,",
+    "start": 250.057,
+    "duration": 2.444
+  },
+  {
+    "text": "things that nobody else is doing.",
+    "start": 252.525,
+    "duration": 1.756
+  },
+  {
+    "text": "It will be humans that are creating\nthe copy behind our marketing campaigns,",
+    "start": 254.305,
+    "duration": 4.118
+  },
+  {
+    "text": "and it will be humans that are developing\nour business strategy.",
+    "start": 258.447,
+    "duration": 3.517
+  },
+  {
+    "text": "So Yahli, whatever you decide to do,",
+    "start": 261.988,
+    "duration": 2.817
+  },
+  {
+    "text": "let every day bring you a new challenge.",
+    "start": 264.829,
+    "duration": 2.361
+  },
+  {
+    "text": "If it does, then you will stay\nahead of the machines.",
+    "start": 267.587,
+    "duration": 2.809
+  },
+  {
+    "text": "Thank you.",
+    "start": 271.126,
+    "duration": 1.176
+  },
+  {
+    "text": "(Applause)",
+    "start": 272.326,
+    "duration": 3.104
+  }
+]

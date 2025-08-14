@@ -1,0 +1,422 @@
+[
+  {
+    "text": "Ragnarok has been raging for far too long;",
+    "start": 6.878,
+    "duration": 3.879
+  },
+  {
+    "text": "many gods and heroes have fallen,\nand the rest can barely stand.",
+    "start": 11.007,
+    "duration": 4.963
+  },
+  {
+    "text": "Loki, his bright eyes\ndimmed by exhaustion,",
+    "start": 16.512,
+    "duration": 3.337
+  },
+  {
+    "text": "asks to meet.",
+    "start": 19.849,
+    "duration": 1.376
+  },
+  {
+    "text": "He proposes that you and he settle\nthe conflict with a game",
+    "start": 21.517,
+    "duration": 4.672
+  },
+  {
+    "text": "atop a sacred table engraved\nwith your names.",
+    "start": 26.189,
+    "duration": 3.879
+  },
+  {
+    "text": "It has the following rules:",
+    "start": 30.943,
+    "duration": 1.919
+  },
+  {
+    "text": "one player will carve any number\nof crosses into the table,",
+    "start": 32.987,
+    "duration": 4.963
+  },
+  {
+    "text": "then play begins.",
+    "start": 37.992,
+    "duration": 2.086
+  },
+  {
+    "text": "Each turn, the active player\nmust carve a line",
+    "start": 40.828,
+    "duration": 3.963
+  },
+  {
+    "text": "connecting two open ends without\ntouching itself or another line.",
+    "start": 44.791,
+    "duration": 5.797
+  },
+  {
+    "text": "Then, he must carve a short segment\nacross that new line",
+    "start": 51.089,
+    "duration": 4.295
+  },
+  {
+    "text": "and pass the knife to the other player.",
+    "start": 55.384,
+    "duration": 2.795
+  },
+  {
+    "text": "Only crosses and\nend-of-turn segments are in play.",
+    "start": 58.471,
+    "duration": 4.838
+  },
+  {
+    "text": "Whoever makes the last valid move\nwins and will rule the new world.",
+    "start": 63.768,
+    "duration": 5.505
+  },
+  {
+    "text": "Loki will let you carve however many\ncrosses you want into the table,",
+    "start": 69.69,
+    "duration": 4.88
+  },
+  {
+    "text": "then he’ll choose whether he goes\nfirst or second.",
+    "start": 75.071,
+    "duration": 4.129
+  },
+  {
+    "text": "You’re certain the trickster\nis up to something,",
+    "start": 79.951,
+    "duration": 2.669
+  },
+  {
+    "text": "so how can you beat him?",
+    "start": 83.412,
+    "duration": 1.585
+  },
+  {
+    "text": "Pause here to figure it out yourself.\nAnswer in 3",
+    "start": 85.164,
+    "duration": 3.087
+  },
+  {
+    "text": "Answer in 2",
+    "start": 88.251,
+    "duration": 2.335
+  },
+  {
+    "text": "Answer in 1",
+    "start": 90.586,
+    "duration": 1.794
+  },
+  {
+    "text": "Often the best way to analyze\na game like this—",
+    "start": 92.713,
+    "duration": 3.546
+  },
+  {
+    "text": "which was invented by John Conway\nunder the name Brussels Sprouts—",
+    "start": 96.259,
+    "duration": 4.17
+  },
+  {
+    "text": "is to try it out.",
+    "start": 100.513,
+    "duration": 1.293
+  },
+  {
+    "text": "Let’s start with the simplest case:\na single cross.",
+    "start": 102.014,
+    "duration": 3.629
+  },
+  {
+    "text": "Here, no matter how we play,\nthe game ends in three moves.",
+    "start": 106.018,
+    "duration": 4.964
+  },
+  {
+    "text": "With two crosses,\nthe game always ends in eight.",
+    "start": 111.44,
+    "duration": 4.046
+  },
+  {
+    "text": "And with three crosses, 13 moves.",
+    "start": 115.695,
+    "duration": 3.17
+  },
+  {
+    "text": "That’s a bad sign if it continues—",
+    "start": 118.948,
+    "duration": 2.461
+  },
+  {
+    "text": "however many crosses you carve,\nLoki could choose the turn order and win.",
+    "start": 121.409,
+    "duration": 5.547
+  },
+  {
+    "text": "But this pattern doesn’t necessarily\nmean that every game is fixed—",
+    "start": 127.29,
+    "duration": 4.588
+  },
+  {
+    "text": "perhaps 10 or 15 or 100 crosses\nhas some winnable condition.",
+    "start": 132.086,
+    "duration": 5.798
+  },
+  {
+    "text": "So let's try to understand\nwhat's happening.",
+    "start": 138.426,
+    "duration": 2.461
+  },
+  {
+    "text": "We can start by looking at the\nfinal states of a few games.",
+    "start": 141.179,
+    "duration": 4.17
+  },
+  {
+    "text": "As chaotic as they seem,\nthere’s something interesting here.",
+    "start": 145.892,
+    "duration": 3.712
+  },
+  {
+    "text": "Every game ends with a number\nof distinct regions,",
+    "start": 149.854,
+    "duration": 3.795
+  },
+  {
+    "text": "each with exactly one line poking in.",
+    "start": 153.816,
+    "duration": 3.17
+  },
+  {
+    "text": "The one cross game has four—\nthese three, and the one outside the blob.",
+    "start": 157.236,
+    "duration": 5.464
+  },
+  {
+    "text": "Two crosses produces eight regions,\nand three crosses, 12.",
+    "start": 162.95,
+    "duration": 5.214
+  },
+  {
+    "text": "That makes sense;",
+    "start": 168.372,
+    "duration": 1.293
+  },
+  {
+    "text": "each cross started with exactly four\npoints that we could carve from—",
+    "start": 169.665,
+    "duration": 4.213
+  },
+  {
+    "text": "we can think of those as lives.",
+    "start": 174.045,
+    "duration": 2.419
+  },
+  {
+    "text": "Each turn removes two ends,\nthen adds two more.",
+    "start": 176.756,
+    "duration": 4.546
+  },
+  {
+    "text": "But when one is stuck by itself\nin an enclosure,",
+    "start": 181.385,
+    "duration": 3.295
+  },
+  {
+    "text": "it’s unusable and we lose a life.",
+    "start": 184.68,
+    "duration": 2.461
+  },
+  {
+    "text": "By the end of the game",
+    "start": 187.516,
+    "duration": 1.419
+  },
+  {
+    "text": "all but one of those lives has been\nclaimed by an enclosed shape,",
+    "start": 188.935,
+    "duration": 4.379
+  },
+  {
+    "text": "with the last poking out into the\ngreat blank beyond.",
+    "start": 193.481,
+    "duration": 3.92
+  },
+  {
+    "text": "And when do we make an enclosed shape?\nAlmost always.",
+    "start": 197.86,
+    "duration": 3.879
+  },
+  {
+    "text": "In this game, we closed one off there,\nand there, and there.",
+    "start": 201.864,
+    "duration": 4.546
+  },
+  {
+    "text": "Sometimes they immediately claim a life,",
+    "start": 206.827,
+    "duration": 3.087
+  },
+  {
+    "text": "but sometimes it happens later\nto two at once,",
+    "start": 209.997,
+    "duration": 3.712
+  },
+  {
+    "text": "like when we divide a region in half.",
+    "start": 213.793,
+    "duration": 2.878
+  },
+  {
+    "text": "But even that move added one more\nregion than we previously had—",
+    "start": 216.837,
+    "duration": 4.38
+  },
+  {
+    "text": "we turned one into two.",
+    "start": 221.384,
+    "duration": 2.252
+  },
+  {
+    "text": "The only time we don’t create\na new enclosure",
+    "start": 223.928,
+    "duration": 3.628
+  },
+  {
+    "text": "is when we connect two separate clusters,\nlike this.",
+    "start": 227.556,
+    "duration": 4.296
+  },
+  {
+    "text": "A cluster might involve a single cross\nor a blob that’s formed around multiple.",
+    "start": 232.144,
+    "duration": 5.631
+  },
+  {
+    "text": "We never end up with an enclosed\nregion without a line,",
+    "start": 238.15,
+    "duration": 3.838
+  },
+  {
+    "text": "because whenever we make a region,\nwe carve a new segment,",
+    "start": 242.071,
+    "duration": 3.337
+  },
+  {
+    "text": "half of which pokes in.",
+    "start": 245.533,
+    "duration": 1.793
+  },
+  {
+    "text": "We also never end with a region\nwith multiple lines,",
+    "start": 247.535,
+    "duration": 3.628
+  },
+  {
+    "text": "because then we could connect them\nand divide the region further.",
+    "start": 251.163,
+    "duration": 3.796
+  },
+  {
+    "text": "So back to the single cross game.",
+    "start": 255.584,
+    "duration": 3.129
+  },
+  {
+    "text": "We start with four lives\nin one giant region.",
+    "start": 258.963,
+    "duration": 3.462
+  },
+  {
+    "text": "After we carve the first line,\nwe have two regions.",
+    "start": 262.675,
+    "duration": 3.545
+  },
+  {
+    "text": "After the second line,\nthree regions.",
+    "start": 266.304,
+    "duration": 2.544
+  },
+  {
+    "text": "And after the third, four,\nso we’re done.",
+    "start": 268.973,
+    "duration": 3.003
+  },
+  {
+    "text": "Adding a second cross gives us\nfour more lives,",
+    "start": 272.476,
+    "duration": 4.046
+  },
+  {
+    "text": "and also a free move that\ndoesn’t make an enclosure,",
+    "start": 276.605,
+    "duration": 4.338
+  },
+  {
+    "text": "whenever we choose\nto connect these two clusters.",
+    "start": 281.027,
+    "duration": 3.586
+  },
+  {
+    "text": "The third cross adds four more lives\nand another free move.",
+    "start": 285.197,
+    "duration": 5.089
+  },
+  {
+    "text": "So that’s why the total number of turns\ngoes up by five each time—",
+    "start": 290.494,
+    "duration": 4.463
+  },
+  {
+    "text": "four extra lives plus one free move.",
+    "start": 295.166,
+    "duration": 3.461
+  },
+  {
+    "text": "All of which is to say:\nLoki, true to form, has rigged the game.",
+    "start": 298.794,
+    "duration": 5.297
+  },
+  {
+    "text": "The only way to win is\nto trick the trickster...",
+    "start": 304.425,
+    "duration": 3.17
+  },
+  {
+    "text": "and there is something he overlooked.",
+    "start": 307.803,
+    "duration": 2.795
+  },
+  {
+    "text": "Let's say you carve one cross.",
+    "start": 310.931,
+    "duration": 2.461
+  },
+  {
+    "text": "Loki chooses to go first, anticipating\na quick and easy win on turn three.",
+    "start": 313.768,
+    "duration": 6.339
+  },
+  {
+    "text": "So when, on your first move,",
+    "start": 320.441,
+    "duration": 2.878
+  },
+  {
+    "text": "you carve a line all the way \nto the last letter in your name,",
+    "start": 323.527,
+    "duration": 4.63
+  },
+  {
+    "text": "his triumphant sneer passes\nthrough shock, dismay, and rage.",
+    "start": 328.324,
+    "duration": 5.672
+  },
+  {
+    "text": "But rules are rules,\nand a cross is a cross.",
+    "start": 334.246,
+    "duration": 4.421
+  }
+]

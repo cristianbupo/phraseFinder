@@ -1,0 +1,392 @@
+[
+  {
+    "text": "Your antivirus squad is up against\na particularly sadistic bit",
+    "start": 6.788,
+    "duration": 4.208
+  },
+  {
+    "text": "of malicious code \nthat’s hijacked your mainframe.",
+    "start": 10.996,
+    "duration": 3.208
+  },
+  {
+    "text": "What you’ve learned from other infected\nsystems— right before they went dark—",
+    "start": 14.579,
+    "duration": 4.292
+  },
+  {
+    "text": "is that it likes to toy with antivirus\nagents in a very peculiar way.",
+    "start": 18.871,
+    "duration": 5.083
+  },
+  {
+    "text": "It corrupts one of the 4 disks\nthat run your mainframe,",
+    "start": 24.538,
+    "duration": 3.625
+  },
+  {
+    "text": "represented by lights showing\nwhich are on and which off.",
+    "start": 28.163,
+    "duration": 3.625
+  },
+  {
+    "text": "Then it selects one member\nof the antivirus squad— this’ll be you—",
+    "start": 32.412,
+    "duration": 4.5
+  },
+  {
+    "text": "and brings them into the mainframe.",
+    "start": 36.912,
+    "duration": 2.167
+  },
+  {
+    "text": "It tells them which disk it corrupted,",
+    "start": 39.079,
+    "duration": 2.375
+  },
+  {
+    "text": "allows the agent to switch\na single disk on or off,",
+    "start": 41.454,
+    "duration": 4.5
+  },
+  {
+    "text": "then immediately de-rezzes the agent.",
+    "start": 45.954,
+    "duration": 3.083
+  },
+  {
+    "text": "Your squad can make an all-out attack\nto break into the mainframe",
+    "start": 49.579,
+    "duration": 3.625
+  },
+  {
+    "text": "and destroy one disk \nbefore they’re wiped out.",
+    "start": 53.204,
+    "duration": 3.167
+  },
+  {
+    "text": "If they destroy the corrupted one, \nthe malware will be defeated.",
+    "start": 56.537,
+    "duration": 3.584
+  },
+  {
+    "text": "Any others, and the virus will erase \nthe entire system.",
+    "start": 60.121,
+    "duration": 3.708
+  },
+  {
+    "text": "The lights are only visible \nwithin the mainframe,",
+    "start": 64.413,
+    "duration": 2.708
+  },
+  {
+    "text": "so you won’t know until you get there \nwhich, if any, are on.",
+    "start": 67.121,
+    "duration": 4.125
+  },
+  {
+    "text": "How can you communicate, \nwith your single action,",
+    "start": 71.621,
+    "duration": 3.25
+  },
+  {
+    "text": "which of the 4 disks\nhas been corrupted?",
+    "start": 74.871,
+    "duration": 2.583
+  },
+  {
+    "text": "Pause here to figure it out for yourself.\nAnswer in 3",
+    "start": 77.454,
+    "duration": 2.709
+  },
+  {
+    "text": "Answer in 2",
+    "start": 80.163,
+    "duration": 2.5
+  },
+  {
+    "text": "Answer in 1",
+    "start": 82.663,
+    "duration": 2.583
+  },
+  {
+    "text": "The setting is a big clue \nfor one solution.",
+    "start": 85.329,
+    "duration": 3.25
+  },
+  {
+    "text": "Using binary code— the base two \nnumbering system that only uses 1s and 0s—",
+    "start": 88.579,
+    "duration": 5.667
+  },
+  {
+    "text": "we can represent each of the 4 disks\nwith a 2-bit binary number",
+    "start": 94.538,
+    "duration": 4.5
+  },
+  {
+    "text": "ranging from 00 for zero\nto 11 for three.",
+    "start": 99.038,
+    "duration": 4.416
+  },
+  {
+    "text": "What we’re looking for now is some sort\nof mathematical operation",
+    "start": 104.163,
+    "duration": 4.041
+  },
+  {
+    "text": "that can take the lit disks as input, \nand give the corrupted disk as an output.",
+    "start": 108.204,
+    "duration": 5.709
+  },
+  {
+    "text": "Let’s consider one possibility.",
+    "start": 114.496,
+    "duration": 1.917
+  },
+  {
+    "text": "Say that the corrupted disk was this one,",
+    "start": 116.413,
+    "duration": 2.708
+  },
+  {
+    "text": "and when you come in, no lights are on.",
+    "start": 119.121,
+    "duration": 2.917
+  },
+  {
+    "text": "You could turn 11 on \nto indicate that disk.",
+    "start": 122.288,
+    "duration": 4.0
+  },
+  {
+    "text": "Okay, what if you came in \nand 11 was already on?",
+    "start": 126.954,
+    "duration": 4.0
+  },
+  {
+    "text": "You have to switch one light.",
+    "start": 131.329,
+    "duration": 1.875
+  },
+  {
+    "text": "Which seems like the most innocuous \nto change?",
+    "start": 133.621,
+    "duration": 2.875
+  },
+  {
+    "text": "Probably 00, \nin that if you were to add 00 and 11,",
+    "start": 136.788,
+    "duration": 4.916
+  },
+  {
+    "text": "you’d still get 11.",
+    "start": 141.704,
+    "duration": 1.709
+  },
+  {
+    "text": "So maybe the key is to think of addition\nof binary numbers,",
+    "start": 144.288,
+    "duration": 4.333
+  },
+  {
+    "text": "with the sum of the lit disks \ncommunicating the corrupted disk number.",
+    "start": 148.621,
+    "duration": 4.583
+  },
+  {
+    "text": "This works great, until we start \nwith a different hypothetical.",
+    "start": 153.496,
+    "duration": 4.0
+  },
+  {
+    "text": "What if 00 was the corrupted disk, \nand 01 and 10 were on?",
+    "start": 157.496,
+    "duration": 5.542
+  },
+  {
+    "text": "Here, the sum of the lit disks is 11.",
+    "start": 163.329,
+    "duration": 3.459
+  },
+  {
+    "text": "But we need to change this to a sum \nof 00 with the flip of one switch.",
+    "start": 166.788,
+    "duration": 5.583
+  },
+  {
+    "text": "We have four options: \nturning switch 00 on gives us 11.",
+    "start": 173.163,
+    "duration": 4.75
+  },
+  {
+    "text": "Turning 01 off takes us back to 10,",
+    "start": 178.121,
+    "duration": 3.292
+  },
+  {
+    "text": "and turning 10 off gives 01.",
+    "start": 181.413,
+    "duration": 3.75
+  },
+  {
+    "text": "None of those work.",
+    "start": 185.163,
+    "duration": 1.791
+  },
+  {
+    "text": "Turning switch 11 on gives us 110 \nby standard binary addition.",
+    "start": 186.954,
+    "duration": 5.834
+  },
+  {
+    "text": "But we don’t really want\nthree digit numbers.",
+    "start": 192.788,
+    "duration": 2.75
+  },
+  {
+    "text": "So what if— to keep the result\na two digit number—",
+    "start": 195.621,
+    "duration": 3.542
+  },
+  {
+    "text": "we break the rules a bit \nand let this sum equal 22.",
+    "start": 199.163,
+    "duration": 4.458
+  },
+  {
+    "text": "That’s not a binary number, \nbut if we regard 2s as the same as 0s,",
+    "start": 203.829,
+    "duration": 4.792
+  },
+  {
+    "text": "that does indicate the correct disk.",
+    "start": 208.621,
+    "duration": 2.625
+  },
+  {
+    "text": "So this suggests a strategy:",
+    "start": 211.871,
+    "duration": 2.375
+  },
+  {
+    "text": "look at the sum of all the lighted disks\nwe see,",
+    "start": 214.246,
+    "duration": 3.667
+  },
+  {
+    "text": "regarding 2s as 0s.",
+    "start": 217.913,
+    "duration": 2.375
+  },
+  {
+    "text": "If it’s already the correct result,\nflip 00,",
+    "start": 220.288,
+    "duration": 3.458
+  },
+  {
+    "text": "and if not, find the switch that will\nmake the sum correct.",
+    "start": 223.746,
+    "duration": 3.917
+  },
+  {
+    "text": "You can see for yourself that any \nstarting configuration",
+    "start": 228.079,
+    "duration": 3.25
+  },
+  {
+    "text": "can sum to any number from 00 to 11\nwith a flip of a switch.",
+    "start": 231.329,
+    "duration": 5.334
+  },
+  {
+    "text": "The reason this works is related\nto a concept called parity.",
+    "start": 236.871,
+    "duration": 4.417
+  },
+  {
+    "text": "Parity tells you whether a given value\nis even or odd.",
+    "start": 241.663,
+    "duration": 4.208
+  },
+  {
+    "text": "In this case, the values whose\nparity we’re considering",
+    "start": 246.538,
+    "duration": 3.375
+  },
+  {
+    "text": "are the number of 1s in each digit place \nof our binary sums.",
+    "start": 249.913,
+    "duration": 4.875
+  },
+  {
+    "text": "And that’s why we can say that 2 and 0,\nboth even numbers,",
+    "start": 254.996,
+    "duration": 4.333
+  },
+  {
+    "text": "can be treated as equivalents.",
+    "start": 259.329,
+    "duration": 2.417
+  },
+  {
+    "text": "By adding or subtracting\n00, 01, 10, or 11,",
+    "start": 262.329,
+    "duration": 5.792
+  },
+  {
+    "text": "we can change the parity of either,\nboth, or neither digit,",
+    "start": 268.121,
+    "duration": 4.667
+  },
+  {
+    "text": "and create the disk number we want.",
+    "start": 272.788,
+    "duration": 2.625
+  },
+  {
+    "text": "What’s incredible about this solution\nis that it works for any mainframe",
+    "start": 276.121,
+    "duration": 4.208
+  },
+  {
+    "text": "whose disks are a power of two.",
+    "start": 280.329,
+    "duration": 2.417
+  },
+  {
+    "text": "With 64 you could turn each activated disk\ninto a 6-bit binary number",
+    "start": 283.163,
+    "duration": 5.625
+  },
+  {
+    "text": "and sum the 1s in each column,",
+    "start": 288.788,
+    "duration": 2.458
+  },
+  {
+    "text": "regarding any even sum as the same as 0 \nand any odd sum as 1.",
+    "start": 291.246,
+    "duration": 5.958
+  },
+  {
+    "text": "1,048,576 disks would be daunting, \nbut entirely doable.",
+    "start": 297.621,
+    "duration": 6.958
+  },
+  {
+    "text": "Luckily, your mainframe is much smaller.",
+    "start": 305.038,
+    "duration": 2.5
+  },
+  {
+    "text": "You make the valiant sacrifice\nand your team rushes in,",
+    "start": 307.538,
+    "duration": 3.5
+  },
+  {
+    "text": "destroying the corruption\nand freeing the system.",
+    "start": 311.038,
+    "duration": 3.125
+  }
+]

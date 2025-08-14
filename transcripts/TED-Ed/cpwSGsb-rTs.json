@@ -1,0 +1,402 @@
+[
+  {
+    "text": "So you're stranded in a huge rainforest,\nand you've eaten a poisonous mushroom.",
+    "start": 7.39,
+    "duration": 6.048
+  },
+  {
+    "text": "To save your life, you need the antidote\nexcreted by a certain species of frog.",
+    "start": 13.438,
+    "duration": 5.634
+  },
+  {
+    "text": "Unfortunately, only the female \nof the species produces the antidote,",
+    "start": 19.072,
+    "duration": 4.662
+  },
+  {
+    "text": "and to make matters worse,",
+    "start": 23.734,
+    "duration": 1.74
+  },
+  {
+    "text": "the male and female occur in equal\nnumbers and look identical,",
+    "start": 25.474,
+    "duration": 4.921
+  },
+  {
+    "text": "with no way for you to tell them apart,",
+    "start": 30.395,
+    "duration": 2.124
+  },
+  {
+    "text": "except that the male \nhas a distinctive croak.",
+    "start": 32.519,
+    "duration": 3.806
+  },
+  {
+    "text": "And it may just be your lucky day.",
+    "start": 36.325,
+    "duration": 1.929
+  },
+  {
+    "text": "To your left, you've spotted a frog\non a tree stump,",
+    "start": 38.254,
+    "duration": 3.096
+  },
+  {
+    "text": "but before you start running to it,",
+    "start": 41.35,
+    "duration": 2.119
+  },
+  {
+    "text": "you're startled by the croak\nof a male frog",
+    "start": 43.469,
+    "duration": 2.771
+  },
+  {
+    "text": "coming from a clearing \nin the opposite direction.",
+    "start": 46.24,
+    "duration": 3.127
+  },
+  {
+    "text": "There, you see two frogs,",
+    "start": 49.367,
+    "duration": 1.8
+  },
+  {
+    "text": "but you can't tell which one \nmade the sound.",
+    "start": 51.167,
+    "duration": 2.963
+  },
+  {
+    "text": "You feel yourself starting \nto lose consciousness,",
+    "start": 54.13,
+    "duration": 3.119
+  },
+  {
+    "text": "and realize you only have time to go\nin one direction before you collapse.",
+    "start": 57.249,
+    "duration": 5.249
+  },
+  {
+    "text": "What are your chances of survival\nif you head for the clearing",
+    "start": 62.498,
+    "duration": 3.206
+  },
+  {
+    "text": "and lick both of the frogs there?",
+    "start": 65.704,
+    "duration": 2.74
+  },
+  {
+    "text": "What about if you go to the tree stump?",
+    "start": 68.444,
+    "duration": 2.189
+  },
+  {
+    "text": "Which way should you go?",
+    "start": 70.633,
+    "duration": 1.902
+  },
+  {
+    "text": "Press pause now\nto calculate odds yourself.",
+    "start": 72.535,
+    "duration": 2.829
+  },
+  {
+    "text": "3",
+    "start": 75.364,
+    "duration": 0.972
+  },
+  {
+    "text": "2",
+    "start": 76.336,
+    "duration": 0.906
+  },
+  {
+    "text": "1",
+    "start": 77.242,
+    "duration": 0.799
+  },
+  {
+    "text": "If you chose to go to the clearing,\nyou're right,",
+    "start": 78.041,
+    "duration": 2.605
+  },
+  {
+    "text": "but the hard part is correctly \ncalculating your odds.",
+    "start": 80.646,
+    "duration": 3.513
+  },
+  {
+    "text": "There are two common incorrect ways\nof solving this problem.",
+    "start": 84.159,
+    "duration": 4.344
+  },
+  {
+    "text": "Wrong answer number one:",
+    "start": 88.503,
+    "duration": 1.637
+  },
+  {
+    "text": "Assuming there's a roughly equal\nnumber of males and females,",
+    "start": 90.14,
+    "duration": 3.482
+  },
+  {
+    "text": "the probability of any one frog being\neither sex is one in two,",
+    "start": 93.622,
+    "duration": 4.853
+  },
+  {
+    "text": "which is 0.5, or 50%.",
+    "start": 98.475,
+    "duration": 2.996
+  },
+  {
+    "text": "And since all frogs are independent\nof each other,",
+    "start": 101.471,
+    "duration": 2.571
+  },
+  {
+    "text": "the chance of any one of them being female\nshould still be 50% each time you choose.",
+    "start": 104.042,
+    "duration": 5.515
+  },
+  {
+    "text": "This logic actually is correct \nfor the tree stump,",
+    "start": 109.557,
+    "duration": 2.867
+  },
+  {
+    "text": "but not for the clearing.",
+    "start": 112.424,
+    "duration": 1.891
+  },
+  {
+    "text": "Wrong answer two:",
+    "start": 114.315,
+    "duration": 1.315
+  },
+  {
+    "text": "First, you saw two frogs in the clearing.",
+    "start": 115.63,
+    "duration": 2.356
+  },
+  {
+    "text": "Now you've learned that at least\none of them is male,",
+    "start": 117.986,
+    "duration": 2.768
+  },
+  {
+    "text": "but what are the chances that both are?",
+    "start": 120.754,
+    "duration": 2.388
+  },
+  {
+    "text": "If the probability of each individual frog\nbeing male is 0.5,",
+    "start": 123.142,
+    "duration": 4.631
+  },
+  {
+    "text": "then multiplying the two together\nwill give you 0.25,",
+    "start": 127.773,
+    "duration": 3.892
+  },
+  {
+    "text": "which is one in four, or 25%.",
+    "start": 131.665,
+    "duration": 3.12
+  },
+  {
+    "text": "So, you have a 75% chance \nof getting at least one female",
+    "start": 134.785,
+    "duration": 4.472
+  },
+  {
+    "text": "and receiving the antidote.",
+    "start": 139.257,
+    "duration": 2.19
+  },
+  {
+    "text": "So here's the right answer.",
+    "start": 141.447,
+    "duration": 1.869
+  },
+  {
+    "text": "Going for the clearing gives you\na two in three chance of survival,",
+    "start": 143.316,
+    "duration": 4.028
+  },
+  {
+    "text": "or about 67%.",
+    "start": 147.344,
+    "duration": 2.606
+  },
+  {
+    "text": "If you're wondering how this \ncould possibly be right,",
+    "start": 149.95,
+    "duration": 2.64
+  },
+  {
+    "text": "it's because of something called\nconditional probability.",
+    "start": 152.59,
+    "duration": 3.062
+  },
+  {
+    "text": "Let's see how it unfolds.",
+    "start": 155.652,
+    "duration": 1.857
+  },
+  {
+    "text": "When we first see the two frogs,",
+    "start": 157.509,
+    "duration": 1.93
+  },
+  {
+    "text": "there are several possible combinations\nof male and female.",
+    "start": 159.439,
+    "duration": 3.45
+  },
+  {
+    "text": "If we write out the full list,",
+    "start": 162.889,
+    "duration": 1.65
+  },
+  {
+    "text": "we have what mathematicians call\nthe sample space,",
+    "start": 164.539,
+    "duration": 3.502
+  },
+  {
+    "text": "and as we can see,",
+    "start": 168.041,
+    "duration": 1.315
+  },
+  {
+    "text": "out of the four possible combinations,\nonly one has two males.",
+    "start": 169.356,
+    "duration": 4.637
+  },
+  {
+    "text": "So why was the answer of 75% wrong?",
+    "start": 173.993,
+    "duration": 3.331
+  },
+  {
+    "text": "Because the croak gives \nus additional information.",
+    "start": 177.324,
+    "duration": 3.241
+  },
+  {
+    "text": "As soon as we know \nthat one of the frogs is male,",
+    "start": 180.565,
+    "duration": 2.658
+  },
+  {
+    "text": "that tells us there can't be \na pair of females,",
+    "start": 183.223,
+    "duration": 3.039
+  },
+  {
+    "text": "which means we can eliminate\nthat possibility from the sample space,",
+    "start": 186.262,
+    "duration": 3.833
+  },
+  {
+    "text": "leaving us with \nthree possible combinations.",
+    "start": 190.095,
+    "duration": 2.858
+  },
+  {
+    "text": "Of them, one still has two males,",
+    "start": 192.953,
+    "duration": 2.604
+  },
+  {
+    "text": "giving us our two in three,\nor 67% chance of getting a female.",
+    "start": 195.557,
+    "duration": 5.76
+  },
+  {
+    "text": "This is how conditional probability works.",
+    "start": 201.317,
+    "duration": 3.034
+  },
+  {
+    "text": "You start off with a large sample space\nthat includes every possibility.",
+    "start": 204.351,
+    "duration": 4.532
+  },
+  {
+    "text": "But every additional piece of information\nallows you to eliminate possibilities,",
+    "start": 208.883,
+    "duration": 4.796
+  },
+  {
+    "text": "shrinking the sample space",
+    "start": 213.679,
+    "duration": 1.573
+  },
+  {
+    "text": "and increasing the probability \nof getting a particular combination.",
+    "start": 215.252,
+    "duration": 4.257
+  },
+  {
+    "text": "The point is that information\naffects probability.",
+    "start": 219.509,
+    "duration": 3.827
+  },
+  {
+    "text": "And conditional probability isn't just\nthe stuff of abstract mathematical games.",
+    "start": 223.336,
+    "duration": 4.793
+  },
+  {
+    "text": "It pops up in the real world, as well.",
+    "start": 228.129,
+    "duration": 2.519
+  },
+  {
+    "text": "Computers and other devices use\nconditional probability",
+    "start": 230.648,
+    "duration": 3.249
+  },
+  {
+    "text": "to detect likely errors in the strings\nof 1's and 0's",
+    "start": 233.897,
+    "duration": 3.951
+  },
+  {
+    "text": "that all our data consists of.",
+    "start": 237.848,
+    "duration": 2.579
+  },
+  {
+    "text": "And in many of our own life decisions,",
+    "start": 240.427,
+    "duration": 2.096
+  },
+  {
+    "text": "we use information gained from \npast experience and our surroundings",
+    "start": 242.523,
+    "duration": 3.791
+  },
+  {
+    "text": "to narrow down our choices\nto the best options",
+    "start": 246.314,
+    "duration": 3.097
+  },
+  {
+    "text": "so that maybe next time,",
+    "start": 249.411,
+    "duration": 1.346
+  },
+  {
+    "text": "we can avoid eating that poisonous \nmushroom in the first place.",
+    "start": 250.757,
+    "duration": 3.54
+  }
+]

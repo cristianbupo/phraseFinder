@@ -1,0 +1,327 @@
+[
+  {
+    "text": "The elephant is a creature\nof epic proportions,",
+    "start": 7.275,
+    "duration": 3.451
+  },
+  {
+    "text": "and yet it owes its enormity to more\nthan 1,000 trillion microscopic cells,",
+    "start": 10.726,
+    "duration": 5.728
+  },
+  {
+    "text": "and on the epically small end of things,",
+    "start": 16.454,
+    "duration": 2.311
+  },
+  {
+    "text": "there are likely millions \nof unicellular species,",
+    "start": 18.765,
+    "duration": 3.201
+  },
+  {
+    "text": "yet there are very few we can see\nwith the naked eye.",
+    "start": 21.966,
+    "duration": 3.51
+  },
+  {
+    "text": "Why is that?",
+    "start": 25.476,
+    "duration": 1.109
+  },
+  {
+    "text": "Why don't we get unicellular elephants,",
+    "start": 26.585,
+    "duration": 2.282
+  },
+  {
+    "text": "or blue whales,",
+    "start": 28.867,
+    "duration": 1.13
+  },
+  {
+    "text": "or brown bears?",
+    "start": 29.997,
+    "duration": 1.66
+  },
+  {
+    "text": "To find out, we have to peer into\na cell's guts.",
+    "start": 31.657,
+    "duration": 3.272
+  },
+  {
+    "text": "This is where most \nof the cell's functions occur,",
+    "start": 34.929,
+    "duration": 3.057
+  },
+  {
+    "text": "enclosed by a cellular membrane",
+    "start": 37.986,
+    "duration": 2.261
+  },
+  {
+    "text": "that acts as the doorway into \nand out of the cell.",
+    "start": 40.247,
+    "duration": 3.629
+  },
+  {
+    "text": "Any resources the cell needs to consume,",
+    "start": 43.876,
+    "duration": 2.161
+  },
+  {
+    "text": "or waste products it needs to expel,",
+    "start": 46.037,
+    "duration": 2.699
+  },
+  {
+    "text": "first have to pass through this membrane.",
+    "start": 48.736,
+    "duration": 2.761
+  },
+  {
+    "text": "But there's a biological quirk \nin this set up.",
+    "start": 51.497,
+    "duration": 2.98
+  },
+  {
+    "text": "A cell's surface and volume increase\nat different rates.",
+    "start": 54.477,
+    "duration": 3.999
+  },
+  {
+    "text": "Cells come in many shapes,",
+    "start": 58.476,
+    "duration": 2.241
+  },
+  {
+    "text": "but imagining them as cubes will make\nthe math easy to calculate.",
+    "start": 60.717,
+    "duration": 4.71
+  },
+  {
+    "text": "A cube has six faces.",
+    "start": 65.427,
+    "duration": 1.609
+  },
+  {
+    "text": "These represent the cell membrane,\nand make up its surface area.",
+    "start": 67.036,
+    "duration": 4.509
+  },
+  {
+    "text": "A cube measuring one micrometer\non each side,",
+    "start": 71.545,
+    "duration": 3.091
+  },
+  {
+    "text": "that's one millionth of a meter,",
+    "start": 74.636,
+    "duration": 2.121
+  },
+  {
+    "text": "would have a total surface area\nof six square micrometers.",
+    "start": 76.757,
+    "duration": 4.38
+  },
+  {
+    "text": "And its volume would be \none cubic micrometer.",
+    "start": 81.137,
+    "duration": 2.931
+  },
+  {
+    "text": "This would give us six units \nof surface area",
+    "start": 84.068,
+    "duration": 2.103
+  },
+  {
+    "text": "for every single unit of volume,",
+    "start": 86.171,
+    "duration": 2.43
+  },
+  {
+    "text": "a six to one ratio.",
+    "start": 88.601,
+    "duration": 2.186
+  },
+  {
+    "text": "But things change dramatically\nif we make the cube ten times bigger,",
+    "start": 90.787,
+    "duration": 4.365
+  },
+  {
+    "text": "measuring ten micrometers on each side.",
+    "start": 95.152,
+    "duration": 2.934
+  },
+  {
+    "text": "This cell would have a surface area\nof 600 square micrometers",
+    "start": 98.086,
+    "duration": 3.887
+  },
+  {
+    "text": "and a volume of one thousand\ncubic micrometers,",
+    "start": 101.973,
+    "duration": 3.568
+  },
+  {
+    "text": "a ratio of only .6 to one.",
+    "start": 105.541,
+    "duration": 2.916
+  },
+  {
+    "text": "That's less than one unit of surface area\nto service each unit of volume.",
+    "start": 108.457,
+    "duration": 4.931
+  },
+  {
+    "text": "As the cube grows, its volume increases\nmuch faster than its surface area.",
+    "start": 113.388,
+    "duration": 4.979
+  },
+  {
+    "text": "The interior would overtake the membrane,",
+    "start": 118.367,
+    "duration": 3.765
+  },
+  {
+    "text": "leaving too little surface area for things\nto quickly move in and out of the cell.",
+    "start": 122.132,
+    "duration": 5.956
+  },
+  {
+    "text": "A huge cell would back up with waste\nand eventually die and disintegrate.",
+    "start": 128.088,
+    "duration": 5.812
+  },
+  {
+    "text": "There's another plus to having multitudes\nof smaller cells, too.",
+    "start": 133.9,
+    "duration": 4.138
+  },
+  {
+    "text": "It's hardly a tragedy if one gets \npunctured, infected, or destroyed.",
+    "start": 138.038,
+    "duration": 4.73
+  },
+  {
+    "text": "Now, there are some \nexceptionally large cells",
+    "start": 142.768,
+    "duration": 3.552
+  },
+  {
+    "text": "that have adapted to cheat the system,",
+    "start": 146.32,
+    "duration": 2.548
+  },
+  {
+    "text": "like the body's longest cell,",
+    "start": 148.868,
+    "duration": 2.021
+  },
+  {
+    "text": "a neuron that stretches from the base\nof the spine to the foot.",
+    "start": 150.889,
+    "duration": 4.201
+  },
+  {
+    "text": "To compensate for its length,\nit's really thin,",
+    "start": 155.09,
+    "duration": 2.531
+  },
+  {
+    "text": "just a few micrometers in diameter.",
+    "start": 157.621,
+    "duration": 2.399
+  },
+  {
+    "text": "Another example can be found\nin your small intestine,",
+    "start": 160.02,
+    "duration": 3.599
+  },
+  {
+    "text": "where structures called villi\nfold up into little fingers.",
+    "start": 163.619,
+    "duration": 3.831
+  },
+  {
+    "text": "Each villus is made of cells with highly\nfolded membranes",
+    "start": 167.45,
+    "duration": 4.41
+  },
+  {
+    "text": "that have tiny bumps called microvilli\nto increase their surface area.",
+    "start": 171.86,
+    "duration": 4.653
+  },
+  {
+    "text": "But what about single-celled organisms?",
+    "start": 176.513,
+    "duration": 3.177
+  },
+  {
+    "text": "Caulerpa taxifolia, a green algae\nthat can reach 30 centimeters long,",
+    "start": 179.69,
+    "duration": 5.76
+  },
+  {
+    "text": "is believed to be the largest \nsingle-celled organism in the world",
+    "start": 185.45,
+    "duration": 4.551
+  },
+  {
+    "text": "thanks to its unique biological hacks.",
+    "start": 190.001,
+    "duration": 2.818
+  },
+  {
+    "text": "Its surface area is enhanced with\na frond-like structure.",
+    "start": 192.819,
+    "duration": 3.403
+  },
+  {
+    "text": "It uses photosynthesis to assemble\nits own food molecules",
+    "start": 196.222,
+    "duration": 4.291
+  },
+  {
+    "text": "and it's coenocytic.",
+    "start": 200.513,
+    "duration": 2.158
+  },
+  {
+    "text": "That means it's a single cell\nwith multiple nuclei,",
+    "start": 202.671,
+    "duration": 3.5
+  },
+  {
+    "text": "making it like a multicellular organism\nbut without the divisions between cells.",
+    "start": 206.171,
+    "duration": 5.3
+  },
+  {
+    "text": "Yet even the biggest unicellular organisms\nhave limits,",
+    "start": 211.471,
+    "duration": 3.69
+  },
+  {
+    "text": "and none grows nearly as large\nas the elephant, whale, or bear.",
+    "start": 215.161,
+    "duration": 4.9
+  },
+  {
+    "text": "But within every big creature\nare trillions of minuscule cells",
+    "start": 220.061,
+    "duration": 4.26
+  },
+  {
+    "text": "perfectly suited in all their tininess",
+    "start": 224.321,
+    "duration": 2.831
+  },
+  {
+    "text": "to keeping the Earth's giants \nlumbering along.",
+    "start": 227.152,
+    "duration": 3.099
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Ah, spring.",
+    "start": 7.128,
+    "duration": 1.168
+  },
+  {
+    "text": "As Demeter, goddess of the harvest,\nit’s your favorite season.",
+    "start": 8.504,
+    "duration": 4.088
+  },
+  {
+    "text": "Humans and animals look to you to balance\nthe bounty of the natural world,",
+    "start": 12.759,
+    "duration": 4.671
+  },
+  {
+    "text": "which, like any self-respecting goddess,\nyou do with a pair of magical dice.",
+    "start": 17.43,
+    "duration": 5.047
+  },
+  {
+    "text": "Every day you roll the dice at dawn,",
+    "start": 22.56,
+    "duration": 2.586
+  },
+  {
+    "text": "and all lands that match the sum\nof the two dice produce their resources.",
+    "start": 25.146,
+    "duration": 5.13
+  },
+  {
+    "text": "The resulting frequency of sums\nacross the season",
+    "start": 30.276,
+    "duration": 3.337
+  },
+  {
+    "text": "keeps your land in perfect harmony;\nany other rates would spell ruin.",
+    "start": 33.613,
+    "duration": 4.921
+  },
+  {
+    "text": "And that’s why it was particularly rotten\nwhen Loki, the Norse trickster god,",
+    "start": 38.576,
+    "duration": 5.13
+  },
+  {
+    "text": "invaded your land and cursed your dice,\ncausing all the dots to fall off.",
+    "start": 43.706,
+    "duration": 5.714
+  },
+  {
+    "text": "When you try to reaffix them,",
+    "start": 49.587,
+    "duration": 1.877
+  },
+  {
+    "text": "you find that one die won’t accept\nmore than four dots on any of its sides,",
+    "start": 51.464,
+    "duration": 5.672
+  },
+  {
+    "text": "though the other has no such constraint.",
+    "start": 57.136,
+    "duration": 2.67
+  },
+  {
+    "text": "You can use Hephaestus’ furnace to seal\nthe dots in place before the sun rises,",
+    "start": 60.348,
+    "duration": 5.63
+  },
+  {
+    "text": "but once sealed you can’t move\nor remove them again.",
+    "start": 65.978,
+    "duration": 4.046
+  },
+  {
+    "text": "How can you craft your dice so that,\nwhen rolled and summed,",
+    "start": 70.358,
+    "duration": 3.92
+  },
+  {
+    "text": "every total comes up with\nthe exact same frequency",
+    "start": 74.278,
+    "duration": 3.712
+  },
+  {
+    "text": "as it would with standard 6-sided dice?",
+    "start": 77.99,
+    "duration": 3.087
+  },
+  {
+    "text": "Pause here to figure it out for yourself.\nAnswer in 3",
+    "start": 81.077,
+    "duration": 2.878
+  },
+  {
+    "text": "Answer in 2",
+    "start": 83.955,
+    "duration": 2.711
+  },
+  {
+    "text": "Answer in 1",
+    "start": 86.666,
+    "duration": 2.794
+  },
+  {
+    "text": "Normal dice can roll any sum from 2 to 12,",
+    "start": 89.544,
+    "duration": 3.461
+  },
+  {
+    "text": "but sums in the middle tend to come\nup more frequently than ones on the ends.",
+    "start": 93.005,
+    "duration": 5.464
+  },
+  {
+    "text": "We can see the odds of rolling any sum\nby making a table,",
+    "start": 98.719,
+    "duration": 3.462
+  },
+  {
+    "text": "with all the possibilities for one die\nrepresented on the top,",
+    "start": 102.181,
+    "duration": 3.921
+  },
+  {
+    "text": "and those for the other on the side.",
+    "start": 106.102,
+    "duration": 2.335
+  },
+  {
+    "text": "The table lets us see at a glance\nthat there are six ways to roll a 7,",
+    "start": 108.855,
+    "duration": 4.671
+  },
+  {
+    "text": "but only two ways to roll a 3.",
+    "start": 113.526,
+    "duration": 2.169
+  },
+  {
+    "text": "This also gives us an approach\nto crafting our new set of dice.",
+    "start": 115.987,
+    "duration": 4.754
+  },
+  {
+    "text": "Matching the original sum frequencies\nmeans that the locations of the sums",
+    "start": 120.825,
+    "duration": 4.421
+  },
+  {
+    "text": "in this table may change,",
+    "start": 125.246,
+    "duration": 2.085
+  },
+  {
+    "text": "but the numbers and quantities\nof each sum must stay the same.",
+    "start": 127.331,
+    "duration": 4.255
+  },
+  {
+    "text": "In other words, there still must be\nexactly one 2, two 3s, and so on.",
+    "start": 131.586,
+    "duration": 5.505
+  },
+  {
+    "text": "To start, we’ve got to roll that 2,",
+    "start": 137.55,
+    "duration": 2.502
+  },
+  {
+    "text": "and since we have to use\npositive, whole numbers,",
+    "start": 140.052,
+    "duration": 2.795
+  },
+  {
+    "text": "there’s only one choice: \neach die needs a 1 on it.",
+    "start": 142.847,
+    "duration": 3.295
+  },
+  {
+    "text": "What else do we know?",
+    "start": 146.642,
+    "duration": 1.293
+  },
+  {
+    "text": "Assuming we have a 4— the highest\nnumber possible— on the cursed die,",
+    "start": 148.102,
+    "duration": 4.838
+  },
+  {
+    "text": "the other one would need an 8\nin order to have one way to roll 12.",
+    "start": 152.982,
+    "duration": 4.88
+  },
+  {
+    "text": "In fact, we know we require a single 1\nand a single 4 on the cursed die,",
+    "start": 157.987,
+    "duration": 5.631
+  },
+  {
+    "text": "or we’d have too many ways\nto roll a 2 or a 12.",
+    "start": 163.618,
+    "duration": 3.795
+  },
+  {
+    "text": "So the cursed dies remaining four sides\nmust have a mix of 2s and 3s.",
+    "start": 167.997,
+    "duration": 5.964
+  },
+  {
+    "text": "If we have three or four 2s, \nwe can roll the sum 3 too many ways.",
+    "start": 174.128,
+    "duration": 4.671
+  },
+  {
+    "text": "Similarly, if we have three or four 3s,\nwe’d get the sum 11 too often.",
+    "start": 178.799,
+    "duration": 5.506
+  },
+  {
+    "text": "So the only possibility is for the\ncursed die to have two 2s and two 3s.",
+    "start": 184.305,
+    "duration": 5.672
+  },
+  {
+    "text": "With one die completed,",
+    "start": 190.728,
+    "duration": 1.668
+  },
+  {
+    "text": "we should be able to figure out the\nmissing values on the second.",
+    "start": 192.396,
+    "duration": 3.587
+  },
+  {
+    "text": "First, we need one more way\nto make 10 and 4,",
+    "start": 196.442,
+    "duration": 3.504
+  },
+  {
+    "text": "so we must have one 3 and one 6.",
+    "start": 199.946,
+    "duration": 3.211
+  },
+  {
+    "text": "We now need one more way\nto make 5 and 9.",
+    "start": 203.616,
+    "duration": 3.211
+  },
+  {
+    "text": "That forces us to choose 4 and 5\nfor the final sides.",
+    "start": 206.827,
+    "duration": 4.213
+  },
+  {
+    "text": "Fill them in, and lo and behold,",
+    "start": 211.207,
+    "duration": 1.877
+  },
+  {
+    "text": "we have a distribution table where\nevery possible sum",
+    "start": 213.084,
+    "duration": 3.336
+  },
+  {
+    "text": "shows up the same number of times\nas with our original dice!",
+    "start": 216.42,
+    "duration": 4.088
+  },
+  {
+    "text": "The discovery of these dice was made\nin 1978 by George Sicherman,",
+    "start": 220.8,
+    "duration": 5.881
+  },
+  {
+    "text": "which is why they’re referred\nto as “Sicherman dice.”",
+    "start": 226.681,
+    "duration": 3.003
+  },
+  {
+    "text": "Incredibly, this is the only alternate\nway to make two 6-sided dice",
+    "start": 230.268,
+    "duration": 5.547
+  },
+  {
+    "text": "with the same distribution of sums\nas standard dice.",
+    "start": 235.815,
+    "duration": 3.587
+  },
+  {
+    "text": "You send the dice to be reforged,\nconfident that you’ve averted disaster.",
+    "start": 239.485,
+    "duration": 4.88
+  },
+  {
+    "text": "Now it’s time to repay the Norse gods\nwith a gift of your own.",
+    "start": 244.824,
+    "duration": 4.337
+  }
+]

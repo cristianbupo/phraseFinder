@@ -1,0 +1,417 @@
+[
+  {
+    "text": "In 2011, a group of researchers conducted\na scientific study",
+    "start": 6.371,
+    "duration": 4.167
+  },
+  {
+    "text": "to find an impossible result:",
+    "start": 10.538,
+    "duration": 2.125
+  },
+  {
+    "text": "that listening to certain songs \ncan make you younger.",
+    "start": 12.663,
+    "duration": 3.5
+  },
+  {
+    "text": "Their study involved real people,\ntruthfully reported data,",
+    "start": 16.663,
+    "duration": 3.625
+  },
+  {
+    "text": "and commonplace statistical analyses.",
+    "start": 20.288,
+    "duration": 3.0
+  },
+  {
+    "text": "So how did they do it?",
+    "start": 23.288,
+    "duration": 1.416
+  },
+  {
+    "text": "The answer lies in a statistical method \nscientists often use",
+    "start": 24.704,
+    "duration": 4.125
+  },
+  {
+    "text": "to try to figure out whether their results\nmean something or if they’re random noise.",
+    "start": 28.829,
+    "duration": 4.875
+  },
+  {
+    "text": "In fact, the whole point \nof the music study",
+    "start": 33.704,
+    "duration": 2.625
+  },
+  {
+    "text": "was to point out ways\nthis method can be misused.",
+    "start": 36.329,
+    "duration": 3.917
+  },
+  {
+    "text": "A famous thought experiment\nexplains the method:",
+    "start": 40.746,
+    "duration": 2.791
+  },
+  {
+    "text": "there are eight cups of tea,",
+    "start": 43.746,
+    "duration": 1.75
+  },
+  {
+    "text": "four with the milk added first,\nand four with the tea added first.",
+    "start": 45.496,
+    "duration": 4.416
+  },
+  {
+    "text": "A participant must determine\nwhich are which according to taste.",
+    "start": 50.162,
+    "duration": 3.625
+  },
+  {
+    "text": "There are 70 different ways the cups \ncan be sorted into two groups of four,",
+    "start": 53.871,
+    "duration": 4.583
+  },
+  {
+    "text": "and only one is correct.",
+    "start": 58.454,
+    "duration": 2.0
+  },
+  {
+    "text": "So, can she taste the difference?",
+    "start": 60.662,
+    "duration": 2.584
+  },
+  {
+    "text": "That’s our research question.",
+    "start": 63.246,
+    "duration": 1.625
+  },
+  {
+    "text": "To analyze her choices, we define \nwhat’s called a null hypothesis:",
+    "start": 64.871,
+    "duration": 4.625
+  },
+  {
+    "text": "that she can’t distinguish the teas.",
+    "start": 69.496,
+    "duration": 2.167
+  },
+  {
+    "text": "If she can’t distinguish the teas,",
+    "start": 71.871,
+    "duration": 2.042
+  },
+  {
+    "text": "she’ll still get the right answer \n1 in 70 times by chance.",
+    "start": 73.913,
+    "duration": 5.166
+  },
+  {
+    "text": "1 in 70 is roughly .014.",
+    "start": 79.079,
+    "duration": 3.334
+  },
+  {
+    "text": "That single number is called a p-value.",
+    "start": 82.746,
+    "duration": 3.292
+  },
+  {
+    "text": "In many fields, a p-value of .05 or below \nis considered statistically significant,",
+    "start": 86.038,
+    "duration": 6.916
+  },
+  {
+    "text": "meaning there’s enough evidence to reject\nthe null hypothesis.",
+    "start": 92.954,
+    "duration": 3.792
+  },
+  {
+    "text": "Based on a p-value of .014,",
+    "start": 96.996,
+    "duration": 3.375
+  },
+  {
+    "text": "they’d rule out the null hypothesis\nthat she can’t distinguish the teas.",
+    "start": 100.371,
+    "duration": 4.125
+  },
+  {
+    "text": "Though p-values are commonly\nused by both researchers and journals",
+    "start": 104.913,
+    "duration": 3.916
+  },
+  {
+    "text": "to evaluate scientific results,",
+    "start": 108.829,
+    "duration": 2.084
+  },
+  {
+    "text": "they’re really confusing, \neven for many scientists.",
+    "start": 110.913,
+    "duration": 2.958
+  },
+  {
+    "text": "That’s partly because all a p-value \nactually tells us",
+    "start": 114.329,
+    "duration": 4.042
+  },
+  {
+    "text": "is the probability of getting \na certain result,",
+    "start": 118.371,
+    "duration": 3.0
+  },
+  {
+    "text": "assuming the null hypothesis is true.",
+    "start": 121.371,
+    "duration": 2.917
+  },
+  {
+    "text": "So if she correctly sorts the teas,",
+    "start": 124.663,
+    "duration": 2.791
+  },
+  {
+    "text": "the p-value is the probability \nof her doing so",
+    "start": 127.454,
+    "duration": 3.417
+  },
+  {
+    "text": "assuming she can’t tell the difference.",
+    "start": 130.871,
+    "duration": 2.458
+  },
+  {
+    "text": "But the reverse isn’t true:",
+    "start": 133.329,
+    "duration": 2.459
+  },
+  {
+    "text": "the p-value doesn’t tell us \nthe probability",
+    "start": 135.788,
+    "duration": 2.416
+  },
+  {
+    "text": "that she can taste the difference,",
+    "start": 138.204,
+    "duration": 1.625
+  },
+  {
+    "text": "which is what we’re trying to find out.",
+    "start": 139.829,
+    "duration": 2.084
+  },
+  {
+    "text": "So if a p-value doesn’t answer\nthe research question,",
+    "start": 142.329,
+    "duration": 3.25
+  },
+  {
+    "text": "why does the scientific community use it?",
+    "start": 145.579,
+    "duration": 2.292
+  },
+  {
+    "text": "Well, because even though a p-value\ndoesn’t directly state the probability",
+    "start": 148.329,
+    "duration": 4.709
+  },
+  {
+    "text": "that the results are due to random chance,",
+    "start": 153.038,
+    "duration": 2.5
+  },
+  {
+    "text": "it usually gives a pretty\nreliable indication.",
+    "start": 155.538,
+    "duration": 3.333
+  },
+  {
+    "text": "At least, it does when used correctly.",
+    "start": 159.204,
+    "duration": 2.792
+  },
+  {
+    "text": "And that’s where many researchers, \nand even whole fields,",
+    "start": 161.996,
+    "duration": 3.917
+  },
+  {
+    "text": "have run into trouble.",
+    "start": 165.913,
+    "duration": 1.458
+  },
+  {
+    "text": "Most real studies are more complex\nthan the tea experiment.",
+    "start": 167.538,
+    "duration": 3.458
+  },
+  {
+    "text": "Scientists can test their research\nquestion in multiple ways,",
+    "start": 171.288,
+    "duration": 3.375
+  },
+  {
+    "text": "and some of these tests might produce\na statistically significant result,",
+    "start": 174.663,
+    "duration": 4.375
+  },
+  {
+    "text": "while others don’t.",
+    "start": 179.038,
+    "duration": 1.208
+  },
+  {
+    "text": "It might seem like a good idea \nto test every possibility.",
+    "start": 180.454,
+    "duration": 3.167
+  },
+  {
+    "text": "But it’s not, \nbecause with each additional test,",
+    "start": 183.913,
+    "duration": 3.083
+  },
+  {
+    "text": "the chance of a false positive increases.",
+    "start": 187.163,
+    "duration": 3.208
+  },
+  {
+    "text": "Searching for a low p-value, \nand then presenting only that analysis,",
+    "start": 190.996,
+    "duration": 4.5
+  },
+  {
+    "text": "is often called p-hacking.",
+    "start": 195.496,
+    "duration": 2.75
+  },
+  {
+    "text": "It’s like throwing darts \nuntil you hit a bullseye",
+    "start": 198.246,
+    "duration": 2.75
+  },
+  {
+    "text": "and then saying you only threw the dart \nthat hit the bull’s eye.",
+    "start": 200.996,
+    "duration": 3.333
+  },
+  {
+    "text": "This is exactly what the\nmusic researchers did.",
+    "start": 204.746,
+    "duration": 3.208
+  },
+  {
+    "text": "They played three groups of participants \neach a different song",
+    "start": 208.079,
+    "duration": 3.709
+  },
+  {
+    "text": "and collected lots of information \nabout them.",
+    "start": 211.788,
+    "duration": 2.5
+  },
+  {
+    "text": "The analysis they published included only\ntwo out of the three groups.",
+    "start": 214.288,
+    "duration": 4.25
+  },
+  {
+    "text": "Of all the information they collected,",
+    "start": 218.538,
+    "duration": 2.208
+  },
+  {
+    "text": "their analysis only used \nparticipants’ fathers’ age—",
+    "start": 220.746,
+    "duration": 3.542
+  },
+  {
+    "text": "to “control for variation in baseline\nage across participants.”",
+    "start": 224.288,
+    "duration": 4.541
+  },
+  {
+    "text": "They also paused their experiment\nafter every ten participants,",
+    "start": 229.246,
+    "duration": 4.208
+  },
+  {
+    "text": "and continued if the p-value\nwas above .05,",
+    "start": 233.454,
+    "duration": 4.459
+  },
+  {
+    "text": "but stopped when it dipped\nbelow .05.",
+    "start": 237.913,
+    "duration": 3.291
+  },
+  {
+    "text": "They found that participants who heard\none song were 1.5 years younger",
+    "start": 241.746,
+    "duration": 5.208
+  },
+  {
+    "text": "than those who heard the other song, \nwith a p-value of .04.",
+    "start": 246.954,
+    "duration": 4.375
+  },
+  {
+    "text": "Usually it’s much tougher to spot\np-hacking,",
+    "start": 252.163,
+    "duration": 2.833
+  },
+  {
+    "text": "because we don’t know the results \nare impossible:",
+    "start": 254.996,
+    "duration": 2.667
+  },
+  {
+    "text": "the whole point of doing experiments\nis to learn something new.",
+    "start": 257.663,
+    "duration": 3.416
+  },
+  {
+    "text": "Fortunately, there’s a simple way\nto make p-values more reliable:",
+    "start": 261.329,
+    "duration": 4.209
+  },
+  {
+    "text": "pre-registering a detailed plan \nfor the experiment and analysis",
+    "start": 265.913,
+    "duration": 4.708
+  },
+  {
+    "text": "beforehand that others can check,",
+    "start": 270.621,
+    "duration": 2.458
+  },
+  {
+    "text": "so researchers can’t keep trying \ndifferent analyses",
+    "start": 273.079,
+    "duration": 3.417
+  },
+  {
+    "text": "until they find a significant result.",
+    "start": 276.496,
+    "duration": 2.125
+  },
+  {
+    "text": "And, in the true spirit \nof scientific inquiry,",
+    "start": 278.788,
+    "duration": 2.458
+  },
+  {
+    "text": "there’s even a new field that’s basically\nscience doing science on itself:",
+    "start": 281.246,
+    "duration": 5.375
+  },
+  {
+    "text": "studying scientific practices\nin order to improve them.",
+    "start": 286.621,
+    "duration": 3.667
+  }
+]

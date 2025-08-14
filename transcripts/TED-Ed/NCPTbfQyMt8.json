@@ -1,0 +1,392 @@
+[
+  {
+    "text": "From 2016 to 2019,",
+    "start": 6.446,
+    "duration": 2.58
+  },
+  {
+    "text": "meteorologists saw record-breaking\nheat waves around the globe,",
+    "start": 9.026,
+    "duration": 4.295
+  },
+  {
+    "text": "rampant wildfires \nin California and Australia,",
+    "start": 13.321,
+    "duration": 3.5
+  },
+  {
+    "text": "and the longest run \nof category 5 tropical cyclones on record.",
+    "start": 16.821,
+    "duration": 4.98
+  },
+  {
+    "text": "The number of extreme weather events\nhas been increasing for the last 40 years,",
+    "start": 21.801,
+    "duration": 4.81
+  },
+  {
+    "text": "and current predictions suggest \nthat trend will continue.",
+    "start": 26.611,
+    "duration": 3.91
+  },
+  {
+    "text": "But are these natural disasters \nsimply bad weather?",
+    "start": 30.521,
+    "duration": 3.5
+  },
+  {
+    "text": "Or are they due to our changing climate?",
+    "start": 34.021,
+    "duration": 3.43
+  },
+  {
+    "text": "To answer this question",
+    "start": 37.451,
+    "duration": 1.3
+  },
+  {
+    "text": "we need to understand the differences\nbetween weather and climate—",
+    "start": 38.751,
+    "duration": 3.76
+  },
+  {
+    "text": "what they are, how we predict them,\nand what those predictions can tell us.",
+    "start": 42.511,
+    "duration": 5.511
+  },
+  {
+    "text": "Meteorologists define weather \nas the conditions of the atmosphere",
+    "start": 48.022,
+    "duration": 4.056
+  },
+  {
+    "text": "at a particular time and place.",
+    "start": 52.078,
+    "duration": 2.83
+  },
+  {
+    "text": "Currently, researchers can predict \na region’s weather for the next week",
+    "start": 54.908,
+    "duration": 3.41
+  },
+  {
+    "text": "with roughly 80% accuracy.",
+    "start": 58.318,
+    "duration": 2.77
+  },
+  {
+    "text": "Climate describes a region’s \naverage atmospheric conditions",
+    "start": 61.088,
+    "duration": 4.397
+  },
+  {
+    "text": "over periods of a month or more.",
+    "start": 65.485,
+    "duration": 3.2
+  },
+  {
+    "text": "Climate predictions can forecast \naverage temperatures for decades to come,",
+    "start": 68.685,
+    "duration": 4.425
+  },
+  {
+    "text": "but they can’t tell us what specific\nweather events to expect.",
+    "start": 73.11,
+    "duration": 4.609
+  },
+  {
+    "text": "These two types of predictions \ngive us such different information",
+    "start": 77.719,
+    "duration": 4.056
+  },
+  {
+    "text": "because they’re based on different data.",
+    "start": 81.775,
+    "duration": 3.1
+  },
+  {
+    "text": "To forecast weather,",
+    "start": 84.875,
+    "duration": 1.4
+  },
+  {
+    "text": "meteorologists need to measure \nthe atmosphere’s initial conditions.",
+    "start": 86.275,
+    "duration": 4.14
+  },
+  {
+    "text": "These are the current levels \nof precipitation, air pressure, humidity,",
+    "start": 90.415,
+    "duration": 4.965
+  },
+  {
+    "text": "wind speed and wind direction \nthat determine a region’s weather.",
+    "start": 95.38,
+    "duration": 4.902
+  },
+  {
+    "text": "Twice every day, meteorologists \nfrom over 800 stations around the globe",
+    "start": 100.282,
+    "duration": 4.781
+  },
+  {
+    "text": "release balloons into the atmosphere.",
+    "start": 105.063,
+    "duration": 2.92
+  },
+  {
+    "text": "These balloons carry instruments \ncalled radiosondes,",
+    "start": 107.983,
+    "duration": 3.94
+  },
+  {
+    "text": "which measure initial conditions",
+    "start": 111.923,
+    "duration": 1.521
+  },
+  {
+    "text": "and transmit their findings \nto international weather centers.",
+    "start": 113.444,
+    "duration": 3.84
+  },
+  {
+    "text": "Meteorologists then run the data \nthrough predictive physics models",
+    "start": 117.284,
+    "duration": 3.73
+  },
+  {
+    "text": "that generate the final weather forecast.",
+    "start": 121.014,
+    "duration": 2.94
+  },
+  {
+    "text": "Unfortunately, there’s something stopping\nthis global web of data",
+    "start": 123.954,
+    "duration": 3.44
+  },
+  {
+    "text": "from producing a perfect prediction:",
+    "start": 127.394,
+    "duration": 2.41
+  },
+  {
+    "text": "weather is a fundamentally \nchaotic system.",
+    "start": 129.804,
+    "duration": 3.69
+  },
+  {
+    "text": "This means it’s incredibly sensitive \nand impossible to perfectly forecast",
+    "start": 133.494,
+    "duration": 4.313
+  },
+  {
+    "text": "without absolute knowledge \nof all the system’s elements.",
+    "start": 137.807,
+    "duration": 4.0
+  },
+  {
+    "text": "In a period of just ten days,",
+    "start": 141.807,
+    "duration": 2.1
+  },
+  {
+    "text": "even incredibly small disturbances can\nmassively impact atmospheric conditions—",
+    "start": 143.907,
+    "duration": 6.108
+  },
+  {
+    "text": "making it impossible to reliably \npredict weather beyond two weeks.",
+    "start": 150.015,
+    "duration": 5.263
+  },
+  {
+    "text": "Climate prediction, on the other hand,\nis far less turbulent.",
+    "start": 155.278,
+    "duration": 4.0
+  },
+  {
+    "text": "This is partly because a region’s climate \nis, by definition,",
+    "start": 159.278,
+    "duration": 3.22
+  },
+  {
+    "text": "the average of all its weather data.",
+    "start": 162.498,
+    "duration": 2.9
+  },
+  {
+    "text": "But also because climate forecasts ignore",
+    "start": 165.398,
+    "duration": 2.98
+  },
+  {
+    "text": "what’s currently happening \nin the atmosphere,",
+    "start": 168.378,
+    "duration": 2.49
+  },
+  {
+    "text": "and focus on the range \nof what could happen.",
+    "start": 170.868,
+    "duration": 3.26
+  },
+  {
+    "text": "These parameters are known \nas boundary conditions,",
+    "start": 174.128,
+    "duration": 3.62
+  },
+  {
+    "text": "and as their name suggests, they act\nas constraints on climate and weather.",
+    "start": 177.748,
+    "duration": 5.316
+  },
+  {
+    "text": "One example of a boundary condition\nis solar radiation.",
+    "start": 183.064,
+    "duration": 4.122
+  },
+  {
+    "text": "By analyzing the precise distance \nand angle between a location and the sun,",
+    "start": 187.186,
+    "duration": 5.264
+  },
+  {
+    "text": "we can determine the amount of heat\nthat area will receive.",
+    "start": 192.45,
+    "duration": 3.71
+  },
+  {
+    "text": "And since we know how the sun \nbehaves throughout the year,",
+    "start": 196.16,
+    "duration": 3.22
+  },
+  {
+    "text": "we can accurately predict \nits effects on temperature.",
+    "start": 199.38,
+    "duration": 3.44
+  },
+  {
+    "text": "Averaged across years of data,",
+    "start": 202.82,
+    "duration": 2.43
+  },
+  {
+    "text": "this reveals periodic patterns,\nincluding seasons.",
+    "start": 205.25,
+    "duration": 4.492
+  },
+  {
+    "text": "Most boundary conditions have well-defined\nvalues that change slowly, if at all.",
+    "start": 209.742,
+    "duration": 4.951
+  },
+  {
+    "text": "This allows researchers to reliably \npredict climate years into the future.",
+    "start": 214.693,
+    "duration": 4.708
+  },
+  {
+    "text": "But here’s where it gets tricky.",
+    "start": 219.401,
+    "duration": 2.34
+  },
+  {
+    "text": "Even the slightest change \nin these boundary conditions",
+    "start": 221.741,
+    "duration": 2.68
+  },
+  {
+    "text": "represents a much larger shift \nfor the chaotic weather system.",
+    "start": 224.421,
+    "duration": 4.235
+  },
+  {
+    "text": "For example, Earth’s surface temperature\nhas warmed by almost 1 degree Celsius",
+    "start": 228.656,
+    "duration": 4.78
+  },
+  {
+    "text": "over the last 150 years.",
+    "start": 233.436,
+    "duration": 2.82
+  },
+  {
+    "text": "This might seem like a minor shift,",
+    "start": 236.256,
+    "duration": 2.41
+  },
+  {
+    "text": "but this 1-degree change \nhas added the energy equivalent",
+    "start": 238.666,
+    "duration": 3.56
+  },
+  {
+    "text": "of roughly one million \nnuclear warheads into the atmosphere.",
+    "start": 242.226,
+    "duration": 4.678
+  },
+  {
+    "text": "This massive surge of energy \nhas already led to a dramatic increase",
+    "start": 246.904,
+    "duration": 4.641
+  },
+  {
+    "text": "in the number of heatwaves, \ndroughts, and storm surges.",
+    "start": 251.545,
+    "duration": 4.177
+  },
+  {
+    "text": "So, is the increase in extreme weather\ndue to random chance, or changing climate?",
+    "start": 255.722,
+    "duration": 5.929
+  },
+  {
+    "text": "The answer is that—",
+    "start": 261.651,
+    "duration": 1.35
+  },
+  {
+    "text": "while weather will always \nbe a chaotic system—",
+    "start": 263.001,
+    "duration": 3.44
+  },
+  {
+    "text": "shifts in our climate do increase \nthe likelihood of extreme weather events.",
+    "start": 266.441,
+    "duration": 5.341
+  },
+  {
+    "text": "Scientists are in near universal agreement\nthat our climate is changing",
+    "start": 271.782,
+    "duration": 5.038
+  },
+  {
+    "text": "and that human activity \nis accelerating those changes.",
+    "start": 276.82,
+    "duration": 3.67
+  },
+  {
+    "text": "But fortunately,",
+    "start": 280.49,
+    "duration": 1.4
+  },
+  {
+    "text": "we can identify what human behaviors\nare impacting the climate most",
+    "start": 281.89,
+    "duration": 4.363
+  },
+  {
+    "text": "by tracking which boundary conditions \nare shifting.",
+    "start": 286.253,
+    "duration": 3.26
+  },
+  {
+    "text": "So even though next month’s weather \nmight always be a mystery,",
+    "start": 289.513,
+    "duration": 4.327
+  },
+  {
+    "text": "we can work together to protect\nthe climate for centuries to come.",
+    "start": 293.84,
+    "duration": 5.28
+  }
+]

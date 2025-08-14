@@ -1,0 +1,387 @@
+[
+  {
+    "text": "It’s your first day in your new job \nas Center Realm’s official cartographer,",
+    "start": 6.961,
+    "duration": 4.963
+  },
+  {
+    "text": "and you've already got a big problem.",
+    "start": 11.924,
+    "duration": 1.877
+  },
+  {
+    "text": "Center Realm is home to three \nelder dragons: two ice, one fire,",
+    "start": 14.093,
+    "duration": 5.255
+  },
+  {
+    "text": "and they’ve lived in harmony \non the east coast for centuries.",
+    "start": 19.348,
+    "duration": 3.546
+  },
+  {
+    "text": "But scouts have sighted three fire dragons\nand five ice dragons",
+    "start": 23.269,
+    "duration": 4.63
+  },
+  {
+    "text": "flying across the Western Ocean.",
+    "start": 27.899,
+    "duration": 2.377
+  },
+  {
+    "text": "You’ll only have a few hours to assign \nthem their designated regions",
+    "start": 30.485,
+    "duration": 4.087
+  },
+  {
+    "text": "before they’ll arrive.",
+    "start": 34.572,
+    "duration": 1.71
+  },
+  {
+    "text": "Elder dragons are extremely territorial.",
+    "start": 36.282,
+    "duration": 2.878
+  },
+  {
+    "text": "Each must have its own, \nofficially acknowledged stomping ground.",
+    "start": 39.577,
+    "duration": 3.921
+  },
+  {
+    "text": "They’ll peacefully roost there unless\ntheir region borders another dragon",
+    "start": 43.498,
+    "duration": 4.379
+  },
+  {
+    "text": "of the same type,",
+    "start": 47.877,
+    "duration": 1.293
+  },
+  {
+    "text": "in which case the matching dragons \nwill go on a rampage.",
+    "start": 49.212,
+    "duration": 3.92
+  },
+  {
+    "text": "However, fire and ice dragons \ncan border each other,",
+    "start": 53.591,
+    "duration": 3.879
+  },
+  {
+    "text": "and matching regions can touch at corners.",
+    "start": 57.47,
+    "duration": 3.587
+  },
+  {
+    "text": "You’ll soon have 11 dragons\nand just 8 regions.",
+    "start": 62.1,
+    "duration": 3.712
+  },
+  {
+    "text": "Fortunately, you have enough \npolitical capital to create 3 new regions,",
+    "start": 66.27,
+    "duration": 4.964
+  },
+  {
+    "text": "each of which must be \ncompletely enclosed spaces.",
+    "start": 71.234,
+    "duration": 3.795
+  },
+  {
+    "text": "Add more or otherwise mess this up,\nand you’ll lose your job and your head.",
+    "start": 75.238,
+    "duration": 5.088
+  },
+  {
+    "text": "Where do you draw lines \nand place the new dragons?",
+    "start": 80.952,
+    "duration": 3.587
+  },
+  {
+    "text": "Pause here to figure it out for yourself.\nAnswer in 3",
+    "start": 84.539,
+    "duration": 2.627
+  },
+  {
+    "text": "Answer in 2",
+    "start": 87.166,
+    "duration": 2.503
+  },
+  {
+    "text": "Answer in 1",
+    "start": 89.669,
+    "duration": 2.752
+  },
+  {
+    "text": "It isn't difficult to create\nthree new regions.",
+    "start": 92.421,
+    "duration": 2.753
+  },
+  {
+    "text": "What is more challenging \nis to make sure the result",
+    "start": 95.174,
+    "duration": 3.087
+  },
+  {
+    "text": "will keep each dragon\naway from its own kind.",
+    "start": 98.261,
+    "duration": 3.211
+  },
+  {
+    "text": "For instance, this can be \nneither ice nor fire,",
+    "start": 101.806,
+    "duration": 3.045
+  },
+  {
+    "text": "because it borders both.",
+    "start": 104.851,
+    "duration": 1.793
+  },
+  {
+    "text": "However, create a new region like this,\nand suddenly there are viable options.",
+    "start": 106.644,
+    "duration": 4.963
+  },
+  {
+    "text": "Why did that work? Look at the point\nwhere these four regions meet.",
+    "start": 112.15,
+    "duration": 4.212
+  },
+  {
+    "text": "If you go around it, it alternates\nbetween fire and ice.",
+    "start": 116.362,
+    "duration": 3.879
+  },
+  {
+    "text": "Before the new line was added,\nthat wouldn’t have worked.",
+    "start": 120.783,
+    "duration": 3.42
+  },
+  {
+    "text": "Nor would 5 or 7 regions.",
+    "start": 124.412,
+    "duration": 2.377
+  },
+  {
+    "text": "6 and 8, however, both do.",
+    "start": 126.789,
+    "duration": 2.711
+  },
+  {
+    "text": "The pattern is that points where lines\nmeet must be surrounded",
+    "start": 130.084,
+    "duration": 4.379
+  },
+  {
+    "text": "by an even number of regions.",
+    "start": 134.463,
+    "duration": 2.378
+  },
+  {
+    "text": "As long as that’s true, you can color \nthe map in two colors,",
+    "start": 137.133,
+    "duration": 3.92
+  },
+  {
+    "text": "by alternating them around those points.",
+    "start": 141.053,
+    "duration": 2.878
+  },
+  {
+    "text": "In our initial arrangement,\nthere were six such meeting points.",
+    "start": 144.557,
+    "duration": 3.545
+  },
+  {
+    "text": "So what we want to do is connect\nthose to each other.",
+    "start": 148.102,
+    "duration": 3.42
+  },
+  {
+    "text": "Each line adds a single new region\nthat touches both meeting points.",
+    "start": 151.981,
+    "duration": 4.838
+  },
+  {
+    "text": "There are several ways to do this\nto accommodate all 8 new dragons.",
+    "start": 156.819,
+    "duration": 4.505
+  },
+  {
+    "text": "You’ve done such a great job \nthat your boss puts you in a ship",
+    "start": 162.491,
+    "duration": 3.129
+  },
+  {
+    "text": "and sends you out across the Western Sea\nto investigate",
+    "start": 165.62,
+    "duration": 3.712
+  },
+  {
+    "text": "where these new dragons are coming from.",
+    "start": 169.332,
+    "duration": 2.168
+  },
+  {
+    "text": "There you’re met\nwith a civilization in disarray.",
+    "start": 171.667,
+    "duration": 3.17
+  },
+  {
+    "text": "Their 17 elder dragons are ravaging \nthe countryside, wiping out the peasants,",
+    "start": 174.837,
+    "duration": 4.963
+  },
+  {
+    "text": "devastating all the people \nand their thatch-roofed cottages.",
+    "start": 179.8,
+    "duration": 3.838
+  },
+  {
+    "text": "And here there aren't just ice and fire\ndragons, but lightning dragons too.",
+    "start": 183.93,
+    "duration": 4.754
+  },
+  {
+    "text": "Their people will only allow \nthe creation of two new regions.",
+    "start": 188.684,
+    "duration": 4.255
+  },
+  {
+    "text": "Where do you create new regions\nand place all the dragons?",
+    "start": 193.606,
+    "duration": 3.67
+  },
+  {
+    "text": "Pause here to figure it out for yourself.\nAnswer in 3",
+    "start": 197.318,
+    "duration": 2.586
+  },
+  {
+    "text": "Answer in 2",
+    "start": 199.904,
+    "duration": 2.461
+  },
+  {
+    "text": "Answer in 1",
+    "start": 202.365,
+    "duration": 2.252
+  },
+  {
+    "text": "Unfortunately, our meeting-point trick\nwon’t suffice",
+    "start": 204.7,
+    "duration": 3.42
+  },
+  {
+    "text": "now that there are three dragon types,",
+    "start": 208.12,
+    "duration": 2.169
+  },
+  {
+    "text": "so we need to find another\nmethod to identify problem areas.",
+    "start": 210.289,
+    "duration": 4.338
+  },
+  {
+    "text": "A great way to do so is to experiment:",
+    "start": 214.752,
+    "duration": 2.419
+  },
+  {
+    "text": "focus on one area and start coloring\nuntil we run out of possibilities.",
+    "start": 217.588,
+    "duration": 4.588
+  },
+  {
+    "text": "Take this section.",
+    "start": 222.176,
+    "duration": 1.502
+  },
+  {
+    "text": "These 3 regions all border each other,\nso they need to be different colors.",
+    "start": 223.678,
+    "duration": 4.546
+  },
+  {
+    "text": "But they also all touch this giant\nterritory, which we now can’t color.",
+    "start": 228.224,
+    "duration": 5.047
+  },
+  {
+    "text": "To generalize the issue, when there are\n4 regions that all border each other,",
+    "start": 233.604,
+    "duration": 4.588
+  },
+  {
+    "text": "it's impossible to color\nthem with three colors.",
+    "start": 238.401,
+    "duration": 2.836
+  },
+  {
+    "text": "The map has two other such areas.",
+    "start": 241.57,
+    "duration": 2.92
+  },
+  {
+    "text": "So what you need to do is break them up.",
+    "start": 244.824,
+    "duration": 2.586
+  },
+  {
+    "text": "And once again, the key is drawing lines\nbetween points",
+    "start": 247.66,
+    "duration": 4.421
+  },
+  {
+    "text": "where multiple problematic regions touch.",
+    "start": 252.081,
+    "duration": 3.003
+  },
+  {
+    "text": "No matter how you do it,",
+    "start": 255.751,
+    "duration": 1.293
+  },
+  {
+    "text": "you’ll effectively subdivide \nthe giant territory into smaller ones.",
+    "start": 257.044,
+    "duration": 4.296
+  },
+  {
+    "text": "Now coloring the map becomes\na logic puzzle.",
+    "start": 261.799,
+    "duration": 2.628
+  },
+  {
+    "text": "So long as you approach it systematically\nby starting in one area and radiating out,",
+    "start": 264.427,
+    "duration": 5.255
+  },
+  {
+    "text": "you’ll reach an arrangement \nthat you can fit all your dragons into,",
+    "start": 269.807,
+    "duration": 3.212
+  },
+  {
+    "text": "shifting the colors as needed.",
+    "start": 273.185,
+    "duration": 1.836
+  },
+  {
+    "text": "Just assign this region last, \nbecause it’ll have two options.",
+    "start": 275.313,
+    "duration": 4.379
+  },
+  {
+    "text": "You've saved not one, but two continents\nfrom certain ruin.",
+    "start": 280.609,
+    "duration": 4.422
+  },
+  {
+    "text": "Now to see if you can find a giant eagle\nand hitch a ride back home.",
+    "start": 285.072,
+    "duration": 4.129
+  }
+]

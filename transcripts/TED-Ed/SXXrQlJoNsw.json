@@ -1,0 +1,382 @@
+[
+  {
+    "text": "The discovery of an alien monolith \non planet RH-1729",
+    "start": 7.361,
+    "duration": 5.056
+  },
+  {
+    "text": "has scientists across the world \nracing to unlock its mysteries.",
+    "start": 12.417,
+    "duration": 4.601
+  },
+  {
+    "text": "Your engineering team has developed \nan elegant probe to study it.",
+    "start": 17.018,
+    "duration": 5.002
+  },
+  {
+    "text": "The probe is a collection \nof 27 cube modules",
+    "start": 22.02,
+    "duration": 3.481
+  },
+  {
+    "text": "capable of running all the scientific \ntests necessary to analyze the monolith.",
+    "start": 25.501,
+    "duration": 5.42
+  },
+  {
+    "text": "The modules can self-assemble \ninto a large 3x3x3 cube,",
+    "start": 30.921,
+    "duration": 5.073
+  },
+  {
+    "text": "with each individual module\nplaced anywhere in the cube,",
+    "start": 35.994,
+    "duration": 3.971
+  },
+  {
+    "text": "and at any orientation.",
+    "start": 39.965,
+    "duration": 1.876
+  },
+  {
+    "text": "It can also break itself apart \nand reassemble into any other orientation.",
+    "start": 41.841,
+    "duration": 5.759
+  },
+  {
+    "text": "Now comes your job.",
+    "start": 47.6,
+    "duration": 1.492
+  },
+  {
+    "text": "The probe will need a special \nprotective coating",
+    "start": 49.092,
+    "duration": 2.339
+  },
+  {
+    "text": "for each of the extreme\nenvironments it passes through.",
+    "start": 51.431,
+    "duration": 3.181
+  },
+  {
+    "text": "The red coating will seal it against \nthe cold of deep space,",
+    "start": 54.612,
+    "duration": 3.381
+  },
+  {
+    "text": "the purple coating will protect it \nfrom the intense heat",
+    "start": 57.993,
+    "duration": 2.748
+  },
+  {
+    "text": "as it enters the atmosphere of RH-1729,",
+    "start": 60.741,
+    "duration": 3.207
+  },
+  {
+    "text": "and the green coating will shield it \nfrom the alien planet’s electric storms.",
+    "start": 63.948,
+    "duration": 5.44
+  },
+  {
+    "text": "You can apply the coatings to each of\nthe faces of all 27 of the cubic modules",
+    "start": 69.388,
+    "duration": 4.861
+  },
+  {
+    "text": "in any way you like,",
+    "start": 74.249,
+    "duration": 1.614
+  },
+  {
+    "text": "but each face can only \ntake a single color coating.",
+    "start": 75.863,
+    "duration": 3.486
+  },
+  {
+    "text": "You need to figure out how you \ncan apply the colors",
+    "start": 79.349,
+    "duration": 2.686
+  },
+  {
+    "text": "so the cubes can re-assemble themselves\nto show only red,",
+    "start": 82.035,
+    "duration": 4.124
+  },
+  {
+    "text": "then purple,",
+    "start": 86.159,
+    "duration": 1.003
+  },
+  {
+    "text": "then green.",
+    "start": 87.162,
+    "duration": 1.321
+  },
+  {
+    "text": "How can you apply the colored coatings \nto the 27 cubes",
+    "start": 88.483,
+    "duration": 3.867
+  },
+  {
+    "text": "so the probe will be able \nto make the trip?",
+    "start": 92.35,
+    "duration": 3.373
+  },
+  {
+    "text": "Pause here if you want \nto figure it out yourself.",
+    "start": 95.723,
+    "duration": 9.735
+  },
+  {
+    "text": "You can start by painting the outside \nof the complete cube red,",
+    "start": 105.458,
+    "duration": 3.873
+  },
+  {
+    "text": "since you’ll need that regardless.",
+    "start": 109.331,
+    "duration": 2.01
+  },
+  {
+    "text": "Then you can break it into 27 pieces, \nand look at what you have.",
+    "start": 111.341,
+    "duration": 4.426
+  },
+  {
+    "text": "There are 8 corner cubes, \nwhich each have three red faces,",
+    "start": 115.767,
+    "duration": 3.878
+  },
+  {
+    "text": "12 edge cubes, \nwhich have two red faces,",
+    "start": 119.645,
+    "duration": 3.13
+  },
+  {
+    "text": "6 face cubes, which have 1 red face,",
+    "start": 122.775,
+    "duration": 2.966
+  },
+  {
+    "text": "and a single center cube, \nwhich has no red faces.",
+    "start": 125.741,
+    "duration": 3.891
+  },
+  {
+    "text": "You’ve painted a total of 54 faces red \nat this point,",
+    "start": 129.632,
+    "duration": 3.567
+  },
+  {
+    "text": "so you’ll need the same number of faces \nfor the green and purple cubes, too.",
+    "start": 133.199,
+    "duration": 4.631
+  },
+  {
+    "text": "When you’re done, \nyou’ll have painted 54 faces red,",
+    "start": 137.83,
+    "duration": 2.748
+  },
+  {
+    "text": "54 faces green,",
+    "start": 140.578,
+    "duration": 1.588
+  },
+  {
+    "text": "and 54 faces purple.",
+    "start": 142.166,
+    "duration": 2.182
+  },
+  {
+    "text": "That’s 162 faces, which is precisely \nhow many the cubes have in total.",
+    "start": 144.348,
+    "duration": 5.525
+  },
+  {
+    "text": "So there’s no margin for waste.",
+    "start": 149.873,
+    "duration": 2.281
+  },
+  {
+    "text": "If there’s any way to do this,\nit’ll probably be highly symmetrical.",
+    "start": 152.154,
+    "duration": 4.028
+  },
+  {
+    "text": "Maybe you can use that to help you.",
+    "start": 156.182,
+    "duration": 2.0
+  },
+  {
+    "text": "You look at the center cube.",
+    "start": 158.182,
+    "duration": 1.854
+  },
+  {
+    "text": "You’d better paint it half green \nand half purple,",
+    "start": 160.036,
+    "duration": 2.853
+  },
+  {
+    "text": "so you can use it as a corner \nfor each of those cubes,",
+    "start": 162.889,
+    "duration": 3.174
+  },
+  {
+    "text": "and not waste a single face.",
+    "start": 166.063,
+    "duration": 2.36
+  },
+  {
+    "text": "There’ll need to be center cubes\nwith no green and no purple too.",
+    "start": 168.423,
+    "duration": 4.006
+  },
+  {
+    "text": "So you take 2 corner cubes \nfrom the red cube",
+    "start": 172.429,
+    "duration": 2.724
+  },
+  {
+    "text": "and paint the 3 blank faces of 1 purple,",
+    "start": 175.153,
+    "duration": 3.472
+  },
+  {
+    "text": "and the 3 blank faces of the other green.",
+    "start": 178.625,
+    "duration": 3.296
+  },
+  {
+    "text": "Now you’ve got the 6 face cubes \nthat each have 1 face painted red.",
+    "start": 181.921,
+    "duration": 4.343
+  },
+  {
+    "text": "That leaves 5 empty faces on each.",
+    "start": 186.264,
+    "duration": 3.061
+  },
+  {
+    "text": "You can split them in half.",
+    "start": 189.325,
+    "duration": 1.718
+  },
+  {
+    "text": "In the first group, \nyou paint 3 faces green",
+    "start": 191.043,
+    "duration": 2.573
+  },
+  {
+    "text": "and 2 faces purple;",
+    "start": 193.616,
+    "duration": 1.668
+  },
+  {
+    "text": "In the second group, \npaint 3 faces purple and 2 green.",
+    "start": 195.284,
+    "duration": 3.829
+  },
+  {
+    "text": "Counting on symmetry,",
+    "start": 199.113,
+    "duration": 1.249
+  },
+  {
+    "text": "you replicate these piles again\nwith the colors rearranged.",
+    "start": 200.362,
+    "duration": 3.912
+  },
+  {
+    "text": "That gives you 6 with 1 green face,",
+    "start": 204.274,
+    "duration": 2.33
+  },
+  {
+    "text": "6 with 1 red face,",
+    "start": 206.604,
+    "duration": 1.547
+  },
+  {
+    "text": "and 6 with 1 purple face.",
+    "start": 208.151,
+    "duration": 2.472
+  },
+  {
+    "text": "Counting up \nwhat you’ve completely painted,",
+    "start": 210.623,
+    "duration": 1.936
+  },
+  {
+    "text": "you see 8 corner cubes in each color,",
+    "start": 212.559,
+    "duration": 2.936
+  },
+  {
+    "text": "6 edge cubes in each color,",
+    "start": 215.495,
+    "duration": 1.861
+  },
+  {
+    "text": "6 face cubes in each color,",
+    "start": 217.356,
+    "duration": 2.029
+  },
+  {
+    "text": "and 1 center cube.",
+    "start": 219.385,
+    "duration": 2.035
+  },
+  {
+    "text": "That means you just need 6 more edge cubes\nin green and purple.",
+    "start": 221.42,
+    "duration": 4.243
+  },
+  {
+    "text": "And there are exactly 6 cubes left,\neach with 4 empty faces.",
+    "start": 225.663,
+    "duration": 4.939
+  },
+  {
+    "text": "You paint 2 faces of each green \nand 2 faces of each purple.",
+    "start": 230.602,
+    "duration": 3.989
+  },
+  {
+    "text": "And now you have a cube that’s perfectly \npainted to make an incredible trip.",
+    "start": 234.591,
+    "duration": 4.351
+  },
+  {
+    "text": "It rearranges itself \nto be red in deep space,",
+    "start": 238.942,
+    "duration": 2.805
+  },
+  {
+    "text": "purple as it enters RH-1729’s atmosphere,",
+    "start": 241.747,
+    "duration": 3.401
+  },
+  {
+    "text": "and green when it flies through \nthe electric storms.",
+    "start": 245.148,
+    "duration": 3.309
+  },
+  {
+    "text": "As it reaches the monolith,",
+    "start": 248.457,
+    "duration": 1.822
+  },
+  {
+    "text": "you realize you’ve achieved \nsomething humans have dreamt of for eons:",
+    "start": 250.279,
+    "duration": 3.928
+  },
+  {
+    "text": "alien contact.",
+    "start": 254.207,
+    "duration": 1.837
+  }
+]

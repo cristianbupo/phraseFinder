@@ -1,0 +1,447 @@
+[
+  {
+    "text": "It’s an increasingly common sight \nin hospitals around the world:",
+    "start": 8.82,
+    "duration": 4.0
+  },
+  {
+    "text": "a nurse measures our height, \nweight, blood pressure,",
+    "start": 12.82,
+    "duration": 2.97
+  },
+  {
+    "text": "and attaches a glowing plastic \nclip to our finger.",
+    "start": 15.79,
+    "duration": 3.77
+  },
+  {
+    "text": "Suddenly, a digital screen reads out \nthe oxygen level in our bloodstream.",
+    "start": 19.56,
+    "duration": 5.05
+  },
+  {
+    "text": "How did that happen?",
+    "start": 24.61,
+    "duration": 1.274
+  },
+  {
+    "text": "How can a plastic clip learn something \nabout our blood…",
+    "start": 25.884,
+    "duration": 3.35
+  },
+  {
+    "text": "without a blood sample?",
+    "start": 29.234,
+    "duration": 1.85
+  },
+  {
+    "text": "Here’s the trick:",
+    "start": 31.084,
+    "duration": 1.08
+  },
+  {
+    "text": "our bodies are translucent,",
+    "start": 32.164,
+    "duration": 2.31
+  },
+  {
+    "text": "meaning they don’t completely \nblock and reflect light.",
+    "start": 34.474,
+    "duration": 3.83
+  },
+  {
+    "text": "Rather, they allow some light to actually\npass through our skin,",
+    "start": 38.304,
+    "duration": 4.07
+  },
+  {
+    "text": "muscles, and blood vessels.",
+    "start": 42.374,
+    "duration": 2.08
+  },
+  {
+    "text": "Don’t believe it?",
+    "start": 44.454,
+    "duration": 1.11
+  },
+  {
+    "text": "Hold a flashlight to your thumb.",
+    "start": 45.564,
+    "duration": 2.36
+  },
+  {
+    "text": "Light, it turns out, can help probe the\ninsides of our bodies.",
+    "start": 47.924,
+    "duration": 4.89
+  },
+  {
+    "text": "Consider that medical fingerclip—",
+    "start": 52.814,
+    "duration": 2.379
+  },
+  {
+    "text": "it’s called a pulse oximeter.",
+    "start": 55.193,
+    "duration": 2.36
+  },
+  {
+    "text": "When you inhale, your lungs transfer \noxygen into hemoglobin molecules,",
+    "start": 57.553,
+    "duration": 4.78
+  },
+  {
+    "text": "and the pulse oximeter measures the ratio \nof oxygenated to oxygen-free hemoglobin.",
+    "start": 62.333,
+    "duration": 6.79
+  },
+  {
+    "text": "It does this by using a tiny red LED light\non one side of the fingerclip,",
+    "start": 69.123,
+    "duration": 5.38
+  },
+  {
+    "text": "and a small light detector on the other.",
+    "start": 74.503,
+    "duration": 2.731
+  },
+  {
+    "text": "When the LED shines into your finger,",
+    "start": 77.234,
+    "duration": 2.43
+  },
+  {
+    "text": "oxygen-free hemoglobin in your blood \nvessels absorbs the red light",
+    "start": 79.664,
+    "duration": 4.55
+  },
+  {
+    "text": "more strongly than its oxygenated \ncounterpart.",
+    "start": 84.214,
+    "duration": 3.178
+  },
+  {
+    "text": "So the amount of light that makes\nit out the other side",
+    "start": 87.392,
+    "duration": 2.74
+  },
+  {
+    "text": "depends on the concentration ratio \nof the two types of hemoglobin.",
+    "start": 90.132,
+    "duration": 4.98
+  },
+  {
+    "text": "But any two patients will have different-sized \nblood vessels in their fingers.",
+    "start": 95.112,
+    "duration": 4.26
+  },
+  {
+    "text": "For one patient, a saturation reading of \nninety-five percent",
+    "start": 99.372,
+    "duration": 3.994
+  },
+  {
+    "text": "corresponds to a healthy oxygen level,",
+    "start": 103.366,
+    "duration": 2.51
+  },
+  {
+    "text": "but for another with smaller arteries,",
+    "start": 105.876,
+    "duration": 2.01
+  },
+  {
+    "text": "the same reading could dangerously \nmisrepresent the actual oxygen level.",
+    "start": 107.886,
+    "duration": 5.17
+  },
+  {
+    "text": "This can be accounted for with a second \ninfrared wavelength LED.",
+    "start": 113.056,
+    "duration": 4.57
+  },
+  {
+    "text": "Light comes in a vast spectrum \nof wavelengths,",
+    "start": 117.626,
+    "duration": 3.205
+  },
+  {
+    "text": "and infrared light lies just beyond \nthe visible colors.",
+    "start": 120.831,
+    "duration": 3.91
+  },
+  {
+    "text": "All molecules, including hemoglobin,",
+    "start": 124.741,
+    "duration": 2.628
+  },
+  {
+    "text": "absorb light at different efficiencies \nacross this spectrum.",
+    "start": 127.369,
+    "duration": 4.11
+  },
+  {
+    "text": "So contrasting the absorbance of red \nto infrared light",
+    "start": 131.479,
+    "duration": 3.65
+  },
+  {
+    "text": "provides a chemical fingerprint to \neliminate the blood vessel size effect.",
+    "start": 135.129,
+    "duration": 5.48
+  },
+  {
+    "text": "Today, an emerging medical sensor industry\nis exploring all-new degrees",
+    "start": 140.609,
+    "duration": 4.95
+  },
+  {
+    "text": "of precision chemical fingerprinting,",
+    "start": 145.559,
+    "duration": 2.367
+  },
+  {
+    "text": "using tiny light-manipulating devices \nno larger than a tenth of a millimeter.",
+    "start": 147.926,
+    "duration": 4.89
+  },
+  {
+    "text": "This microscopic technology,",
+    "start": 152.816,
+    "duration": 1.944
+  },
+  {
+    "text": "called integrated photonics,",
+    "start": 154.76,
+    "duration": 2.03
+  },
+  {
+    "text": "is made from wires of silicon \nthat guide light—",
+    "start": 156.79,
+    "duration": 3.38
+  },
+  {
+    "text": "like water in a pipe—",
+    "start": 160.17,
+    "duration": 1.48
+  },
+  {
+    "text": "to redirect, reshape, even \ntemporarily trap it.",
+    "start": 161.65,
+    "duration": 4.43
+  },
+  {
+    "text": "A ring resonator device, \nwhich is a circular wire of silicon,",
+    "start": 166.08,
+    "duration": 4.02
+  },
+  {
+    "text": "is a light trapper that enhances chemical \nfingerprinting.",
+    "start": 170.1,
+    "duration": 3.77
+  },
+  {
+    "text": "When placed close to a silicon wire,",
+    "start": 173.87,
+    "duration": 2.35
+  },
+  {
+    "text": "a ring siphons off and temporarily stores \nonly certain waves of light—",
+    "start": 176.22,
+    "duration": 4.98
+  },
+  {
+    "text": "those whose periodic wavelength \nfits a whole number of times",
+    "start": 181.2,
+    "duration": 3.718
+  },
+  {
+    "text": "along the ring’s circumference.",
+    "start": 184.918,
+    "duration": 1.6
+  },
+  {
+    "text": "It’s the same effect at work when\nwe pluck guitar strings.",
+    "start": 186.518,
+    "duration": 4.07
+  },
+  {
+    "text": "Only certain vibrating patterns dominate \na string of a particular length,",
+    "start": 190.588,
+    "duration": 4.47
+  },
+  {
+    "text": "to give a fundamental \nnote and its overtones.",
+    "start": 195.058,
+    "duration": 2.98
+  },
+  {
+    "text": "Ring resonators were originally \ndesigned",
+    "start": 198.038,
+    "duration": 2.54
+  },
+  {
+    "text": "to efficiently route different \nwavelengths of light—",
+    "start": 200.578,
+    "duration": 3.02
+  },
+  {
+    "text": "each a channel of digital data—",
+    "start": 203.598,
+    "duration": 2.31
+  },
+  {
+    "text": "in fiber optics communication networks.",
+    "start": 205.908,
+    "duration": 3.0
+  },
+  {
+    "text": "But some day this kind of data \ntraffic routing",
+    "start": 208.908,
+    "duration": 2.87
+  },
+  {
+    "text": "may be adapted for miniature chemical\nfingerprinting labs,",
+    "start": 211.778,
+    "duration": 3.44
+  },
+  {
+    "text": "on chips the size of a penny.",
+    "start": 215.218,
+    "duration": 2.68
+  },
+  {
+    "text": "These future labs-on-a-chip may easily, \nrapidly,",
+    "start": 217.898,
+    "duration": 3.27
+  },
+  {
+    "text": "and non-invasively detect a host \nof illnesses,",
+    "start": 221.168,
+    "duration": 3.52
+  },
+  {
+    "text": "by analyzing human saliva or sweat \nin a doctor’s office",
+    "start": 224.688,
+    "duration": 3.8
+  },
+  {
+    "text": "or the convenience of our homes.",
+    "start": 228.488,
+    "duration": 2.47
+  },
+  {
+    "text": "Human saliva in particular",
+    "start": 230.958,
+    "duration": 2.11
+  },
+  {
+    "text": "mirrors the composition of our bodies’ \nproteins and hormones,",
+    "start": 233.068,
+    "duration": 3.7
+  },
+  {
+    "text": "and can give early-warning signals for \ncertain cancers",
+    "start": 236.768,
+    "duration": 3.5
+  },
+  {
+    "text": "and infectious and autoimmune diseases.",
+    "start": 240.268,
+    "duration": 3.08
+  },
+  {
+    "text": "To accurately identify an illness,",
+    "start": 243.348,
+    "duration": 2.44
+  },
+  {
+    "text": "labs-on-a-chip may rely on \nseveral methods,",
+    "start": 245.788,
+    "duration": 2.71
+  },
+  {
+    "text": "including chemical fingerprinting,",
+    "start": 248.498,
+    "duration": 1.89
+  },
+  {
+    "text": "to sift through the large mix of trace \nsubstances in a sample of spit.",
+    "start": 250.388,
+    "duration": 4.75
+  },
+  {
+    "text": "Various biomolecules in saliva absorb \nlight at the same wavelength—",
+    "start": 255.138,
+    "duration": 4.8
+  },
+  {
+    "text": "but each has a distinct chemical \nfingerprint.",
+    "start": 259.938,
+    "duration": 2.95
+  },
+  {
+    "text": "In a lab-on-a-chip, after the light passes\nthrough a saliva sample,",
+    "start": 262.888,
+    "duration": 4.1
+  },
+  {
+    "text": "a host of fine-tuned rings",
+    "start": 266.988,
+    "duration": 2.15
+  },
+  {
+    "text": "may each siphon off a slightly different\nwavelength of light",
+    "start": 269.138,
+    "duration": 3.56
+  },
+  {
+    "text": "and send it to a partner light detector.",
+    "start": 272.698,
+    "duration": 2.76
+  },
+  {
+    "text": "Together, this bank of detectors will \nresolve",
+    "start": 275.458,
+    "duration": 3.06
+  },
+  {
+    "text": "the cumulative chemical fingerprint \nof the sample.",
+    "start": 278.518,
+    "duration": 2.78
+  },
+  {
+    "text": "From this information, \na tiny on-chip computer,",
+    "start": 281.298,
+    "duration": 3.06
+  },
+  {
+    "text": "containing a library of chemical \nfingerprints for different molecules,",
+    "start": 284.358,
+    "duration": 3.63
+  },
+  {
+    "text": "may figure out their relative \nconcentrations,",
+    "start": 287.988,
+    "duration": 2.56
+  },
+  {
+    "text": "and help diagnose a specific illness.",
+    "start": 290.548,
+    "duration": 2.73
+  },
+  {
+    "text": "From globe-trotting communications \nto labs-on-a-chip,",
+    "start": 293.648,
+    "duration": 3.52
+  },
+  {
+    "text": "humankind has repurposed light to both \ncarry and extract information.",
+    "start": 297.168,
+    "duration": 5.3
+  },
+  {
+    "text": "Its ability to illuminate continues \nto astonish us with new discoveries.",
+    "start": 302.468,
+    "duration": 4.635
+  }
+]

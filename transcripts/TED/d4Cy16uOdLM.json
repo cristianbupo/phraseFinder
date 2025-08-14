@@ -1,0 +1,2252 @@
+[
+  {
+    "text": "Transcriber: Translate TED\nReviewer: Rhonda Jacobs",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "John Doerr: Hello, Hal!",
+    "start": 4.884,
+    "duration": 1.217
+  },
+  {
+    "text": "Hal Harvey: John, nice to see you.",
+    "start": 6.101,
+    "duration": 1.643
+  },
+  {
+    "text": "JD: Nice to see you too.",
+    "start": 7.744,
+    "duration": 1.537
+  },
+  {
+    "text": "HH: So John, we've got a big challenge.",
+    "start": 9.451,
+    "duration": 2.52
+  },
+  {
+    "text": "We need to get carbon\nout of the atmosphere.",
+    "start": 11.971,
+    "duration": 2.1
+  },
+  {
+    "text": "We need to stop emitting carbon,",
+    "start": 14.071,
+    "duration": 1.53
+  },
+  {
+    "text": "drive it to zero by 2050.",
+    "start": 15.601,
+    "duration": 2.03
+  },
+  {
+    "text": "And we need to be halfway there by 2030.",
+    "start": 17.631,
+    "duration": 2.8
+  },
+  {
+    "text": "Where are we now?",
+    "start": 20.431,
+    "duration": 1.473
+  },
+  {
+    "text": "JD: As you know,\nwe're dumping 55 billion tons",
+    "start": 21.904,
+    "duration": 3.031
+  },
+  {
+    "text": "of carbon pollution in our precious\natmosphere every year,",
+    "start": 24.935,
+    "duration": 3.959
+  },
+  {
+    "text": "as if it's some kind\nof free and open sewer.",
+    "start": 28.894,
+    "duration": 2.977
+  },
+  {
+    "text": "To get halfway to zero by 2030,",
+    "start": 31.871,
+    "duration": 2.966
+  },
+  {
+    "text": "we're going to have to reduce\nannual emissions",
+    "start": 34.837,
+    "duration": 2.537
+  },
+  {
+    "text": "by about 10 percent a year.",
+    "start": 37.374,
+    "duration": 2.07
+  },
+  {
+    "text": "And we've never reduced\nannual emissions in any year",
+    "start": 39.444,
+    "duration": 3.17
+  },
+  {
+    "text": "in the history of the planet.",
+    "start": 42.614,
+    "duration": 1.557
+  },
+  {
+    "text": "So let's break this down.",
+    "start": 44.171,
+    "duration": 1.483
+  },
+  {
+    "text": "Seventy-five percent of the emissions",
+    "start": 45.654,
+    "duration": 1.963
+  },
+  {
+    "text": "come from the 20 largest\nemitting countries.",
+    "start": 47.617,
+    "duration": 3.157
+  },
+  {
+    "text": "And from four sectors of their economy.",
+    "start": 50.774,
+    "duration": 3.287
+  },
+  {
+    "text": "The first is grid.",
+    "start": 54.061,
+    "duration": 1.273
+  },
+  {
+    "text": "Second, transportation.",
+    "start": 55.334,
+    "duration": 1.72
+  },
+  {
+    "text": "The third from the buildings.",
+    "start": 57.054,
+    "duration": 1.527
+  },
+  {
+    "text": "And the fourth from industrial activities.",
+    "start": 58.581,
+    "duration": 2.4
+  },
+  {
+    "text": "We've got to fix all those,\nat speed and at scale.",
+    "start": 60.981,
+    "duration": 4.146
+  },
+  {
+    "text": "HH: We do.",
+    "start": 65.507,
+    "duration": 1.03
+  },
+  {
+    "text": "And matters are in some ways worse\nthan we think and some ways better.",
+    "start": 66.537,
+    "duration": 3.284
+  },
+  {
+    "text": "Let me start with the worse.",
+    "start": 69.821,
+    "duration": 1.376
+  },
+  {
+    "text": "Climate change is a wicked problem.",
+    "start": 71.197,
+    "duration": 1.674
+  },
+  {
+    "text": "And what do I mean by wicked problem?",
+    "start": 72.871,
+    "duration": 1.996
+  },
+  {
+    "text": "It means it's a problem\nthat transcends geographic boundaries.",
+    "start": 74.867,
+    "duration": 3.317
+  },
+  {
+    "text": "The sources are everywhere,\nand the impacts are everywhere.",
+    "start": 78.184,
+    "duration": 2.763
+  },
+  {
+    "text": "Although obviously some nations\nhave contributed much more than others.",
+    "start": 80.947,
+    "duration": 3.327
+  },
+  {
+    "text": "In fact, one of the terrible things\nabout climate change",
+    "start": 84.274,
+    "duration": 2.623
+  },
+  {
+    "text": "is those who contributed\nleast to it will be hurt the most.",
+    "start": 86.897,
+    "duration": 2.764
+  },
+  {
+    "text": "It's a great inequity machine.",
+    "start": 89.661,
+    "duration": 2.623
+  },
+  {
+    "text": "So here we have a problem\nthat you cannot solve",
+    "start": 92.284,
+    "duration": 2.967
+  },
+  {
+    "text": "within the national boundaries\nof one country,",
+    "start": 95.251,
+    "duration": 3.09
+  },
+  {
+    "text": "and yet international institutions\nare notoriously weak.",
+    "start": 98.341,
+    "duration": 3.153
+  },
+  {
+    "text": "So that's part of the wicked problem.",
+    "start": 101.494,
+    "duration": 1.96
+  },
+  {
+    "text": "The second element of the wicked problem\nis it transcends normal timescales.",
+    "start": 103.454,
+    "duration": 4.39
+  },
+  {
+    "text": "We're used to news day by day,",
+    "start": 107.844,
+    "duration": 2.817
+  },
+  {
+    "text": "or quarterly reports\nfor business enterprises,",
+    "start": 110.661,
+    "duration": 4.7
+  },
+  {
+    "text": "or an election cycle -- that's\nabout the longest we think anymore of.",
+    "start": 115.361,
+    "duration": 3.24
+  },
+  {
+    "text": "Climate change essentially lasts forever.",
+    "start": 118.601,
+    "duration": 1.96
+  },
+  {
+    "text": "When you put carbon dioxide\ninto the atmosphere,",
+    "start": 120.561,
+    "duration": 2.233
+  },
+  {
+    "text": "it's there, or its impacts\nare there, for 1,000 years.",
+    "start": 122.794,
+    "duration": 3.597
+  },
+  {
+    "text": "It's a gift we keep on giving\nfor our children, our grandchildren",
+    "start": 126.391,
+    "duration": 3.48
+  },
+  {
+    "text": "and dozens and dozens\nof generations beyond there.",
+    "start": 129.871,
+    "duration": 2.35
+  },
+  {
+    "text": "JD: It sounds like a tax\nwe keep on paying.",
+    "start": 132.221,
+    "duration": 2.013
+  },
+  {
+    "text": "HH: Yeah, it is. It is.",
+    "start": 134.234,
+    "duration": 1.101
+  },
+  {
+    "text": "You sin once, you pay forever.",
+    "start": 135.335,
+    "duration": 2.162
+  },
+  {
+    "text": "And then the third element\nof it being a wicked problem",
+    "start": 138.104,
+    "duration": 3.383
+  },
+  {
+    "text": "is that carbon dioxide is embedded\nin every aspect of our industrial economy.",
+    "start": 141.487,
+    "duration": 4.59
+  },
+  {
+    "text": "Every car, and every truck,\nand every airplane, and every house,",
+    "start": 146.077,
+    "duration": 3.047
+  },
+  {
+    "text": "and every electrical socket,\nand every industrial processes",
+    "start": 149.124,
+    "duration": 3.343
+  },
+  {
+    "text": "now emits carbon dioxide.",
+    "start": 152.467,
+    "duration": 1.97
+  },
+  {
+    "text": "JD: So what's the recipe?",
+    "start": 154.437,
+    "duration": 1.204
+  },
+  {
+    "text": "HH: Well, here's the shortcut.",
+    "start": 155.641,
+    "duration": 1.633
+  },
+  {
+    "text": "If you decarbonize the grid,\nthe electrical grid,",
+    "start": 157.274,
+    "duration": 2.63
+  },
+  {
+    "text": "and then run everything on electricity --",
+    "start": 159.904,
+    "duration": 2.203
+  },
+  {
+    "text": "decarbonize the grid\nand electrify everything --",
+    "start": 162.107,
+    "duration": 2.67
+  },
+  {
+    "text": "if you do those two things,\nyou have a zero carbon economy.",
+    "start": 164.777,
+    "duration": 3.17
+  },
+  {
+    "text": "Now, that would seem like a pipe dream\njust a few years ago",
+    "start": 167.947,
+    "duration": 2.774
+  },
+  {
+    "text": "because it was expensive\nto create a zero-carbon grid.",
+    "start": 170.721,
+    "duration": 2.533
+  },
+  {
+    "text": "But the prices of solar\nand wind have plummeted.",
+    "start": 173.254,
+    "duration": 2.283
+  },
+  {
+    "text": "Solar's now the cheapest\nform of electricity on planet earth",
+    "start": 175.537,
+    "duration": 2.804
+  },
+  {
+    "text": "and wind is second.",
+    "start": 178.341,
+    "duration": 1.396
+  },
+  {
+    "text": "It means now that you can convert\nthe grid to zero-carbon rapidly",
+    "start": 179.737,
+    "duration": 3.86
+  },
+  {
+    "text": "and save consumers money along the way.",
+    "start": 183.597,
+    "duration": 2.407
+  },
+  {
+    "text": "So there's leverage.",
+    "start": 186.004,
+    "duration": 1.033
+  },
+  {
+    "text": "JD: Well, I think a key question, Hal,\nis do we have the technology that we need",
+    "start": 187.037,
+    "duration": 5.617
+  },
+  {
+    "text": "to replace fossil fuels\nto get this job done?",
+    "start": 192.654,
+    "duration": 3.117
+  },
+  {
+    "text": "And my answer is no.",
+    "start": 195.771,
+    "duration": 1.7
+  },
+  {
+    "text": "I think we're about 70,\nmaybe 80 percent of the way there.",
+    "start": 197.471,
+    "duration": 3.7
+  },
+  {
+    "text": "For example, we urgently need\na breakthrough in batteries.",
+    "start": 201.171,
+    "duration": 3.733
+  },
+  {
+    "text": "Our batteries need to be\nhigher energy density.",
+    "start": 204.904,
+    "duration": 2.233
+  },
+  {
+    "text": "They need to have enhanced\nsafety, faster charging.",
+    "start": 207.137,
+    "duration": 3.097
+  },
+  {
+    "text": "They need to take less space\nand less weight,",
+    "start": 210.234,
+    "duration": 2.437
+  },
+  {
+    "text": "and above all else,\nthey need to cost a lot less.",
+    "start": 212.671,
+    "duration": 2.8
+  },
+  {
+    "text": "In fact, we need new chemistries\nthat don't rely on scarce cobalt.",
+    "start": 215.471,
+    "duration": 4.626
+  },
+  {
+    "text": "And we're going to need\nlots of these batteries.",
+    "start": 220.097,
+    "duration": 2.86
+  },
+  {
+    "text": "We desperately need much more research\nin clean energy technology.",
+    "start": 222.957,
+    "duration": 4.487
+  },
+  {
+    "text": "The US invests about\n2.5 billion dollars a year.",
+    "start": 227.444,
+    "duration": 3.787
+  },
+  {
+    "text": "Do you know how much\nAmericans spend on potato chips?",
+    "start": 231.231,
+    "duration": 2.483
+  },
+  {
+    "text": "HH: No.",
+    "start": 233.714,
+    "duration": 1.013
+  },
+  {
+    "text": "JD: The answer is 4 billion dollars.",
+    "start": 234.727,
+    "duration": 2.029
+  },
+  {
+    "text": "Now, what do you think of that?",
+    "start": 236.756,
+    "duration": 1.742
+  },
+  {
+    "text": "HH: Upside down.",
+    "start": 238.498,
+    "duration": 1.133
+  },
+  {
+    "text": "But let me press a little further",
+    "start": 239.631,
+    "duration": 1.796
+  },
+  {
+    "text": "on a question that's fascinated me\nabout the Silicon Valley.",
+    "start": 241.427,
+    "duration": 2.814
+  },
+  {
+    "text": "So the Silicon Valley\nis governed by Moore's law,",
+    "start": 244.241,
+    "duration": 2.38
+  },
+  {
+    "text": "where performance doubles\nevery 18 months.",
+    "start": 246.621,
+    "duration": 2.05
+  },
+  {
+    "text": "It's not really a law,\nit's an observation,",
+    "start": 248.671,
+    "duration": 2.04
+  },
+  {
+    "text": "but be that as it may.",
+    "start": 250.711,
+    "duration": 1.601
+  },
+  {
+    "text": "The energy world is governed\nby much more mundane laws,",
+    "start": 252.312,
+    "duration": 3.311
+  },
+  {
+    "text": "the laws of thermodynamics, right?",
+    "start": 255.623,
+    "duration": 1.948
+  },
+  {
+    "text": "It's physical stuff in the economy.",
+    "start": 257.571,
+    "duration": 2.92
+  },
+  {
+    "text": "Cement, trucks, factories, power plants.",
+    "start": 260.771,
+    "duration": 3.533
+  },
+  {
+    "text": "JD: Atoms, not bits.",
+    "start": 264.304,
+    "duration": 1.06
+  },
+  {
+    "text": "HH: Atoms, not bits. Perfect.",
+    "start": 265.364,
+    "duration": 1.707
+  },
+  {
+    "text": "And the transformation\nof big physical things is slower,",
+    "start": 267.071,
+    "duration": 2.616
+  },
+  {
+    "text": "and the margins are worse,\nand often the commodities are generic.",
+    "start": 269.687,
+    "duration": 4.15
+  },
+  {
+    "text": "How do we stimulate\nthe kind of innovation in those worlds",
+    "start": 273.837,
+    "duration": 3.854
+  },
+  {
+    "text": "that we actually need\nin order to save this planet earth?",
+    "start": 277.691,
+    "duration": 4.06
+  },
+  {
+    "text": "JD: Well, that's a really great question.",
+    "start": 281.751,
+    "duration": 2.096
+  },
+  {
+    "text": "The innovation starts with basic science\nin research and development.",
+    "start": 283.847,
+    "duration": 3.497
+  },
+  {
+    "text": "And the American commitment to that,\nwhile advanced on a global sense,",
+    "start": 287.344,
+    "duration": 7.0
+  },
+  {
+    "text": "is still paltry.",
+    "start": 294.344,
+    "duration": 1.007
+  },
+  {
+    "text": "It needs to be 10 times higher",
+    "start": 295.351,
+    "duration": 1.473
+  },
+  {
+    "text": "than the, say, 2.5 billion per year\nthat we spend on clean energy R and D.",
+    "start": 296.824,
+    "duration": 5.38
+  },
+  {
+    "text": "But we need to go beyond R and D as well.",
+    "start": 302.204,
+    "duration": 2.82
+  },
+  {
+    "text": "There needs to be a kind of development,\na kind of pre-commercialization,",
+    "start": 305.024,
+    "duration": 5.933
+  },
+  {
+    "text": "which in the US is done\nby a group called ARPA-E.",
+    "start": 310.957,
+    "duration": 4.271
+  },
+  {
+    "text": "Then there's the matter\nof forming new companies.",
+    "start": 315.228,
+    "duration": 2.389
+  },
+  {
+    "text": "HH: Yes.",
+    "start": 317.617,
+    "duration": 1.03
+  },
+  {
+    "text": "JD: And I think entrepreneurial energy\nis shifting back into that field.",
+    "start": 318.647,
+    "duration": 4.99
+  },
+  {
+    "text": "It's clear that it takes longer\nand more capital,",
+    "start": 323.637,
+    "duration": 3.66
+  },
+  {
+    "text": "but you can build a really substantial\nand valuable enterprise or company.",
+    "start": 327.297,
+    "duration": 5.863
+  },
+  {
+    "text": "HH: Yes.",
+    "start": 333.16,
+    "duration": 1.144
+  },
+  {
+    "text": "JD: Tesla's a prime example.\nBeyond Meat is another one.",
+    "start": 334.304,
+    "duration": 2.977
+  },
+  {
+    "text": "And that's inspiring\nentrepreneurs globally.",
+    "start": 337.281,
+    "duration": 2.686
+  },
+  {
+    "text": "But that's not enough.",
+    "start": 339.967,
+    "duration": 1.637
+  },
+  {
+    "text": "I think you need also a demand signal,\nin the form of policies and purchases,",
+    "start": 341.604,
+    "duration": 4.753
+  },
+  {
+    "text": "from nations, like Germany did with solar,\nto go make these markets happen.",
+    "start": 346.357,
+    "duration": 4.947
+  },
+  {
+    "text": "And so I'm, at heart, a capitalist.",
+    "start": 351.304,
+    "duration": 2.793
+  },
+  {
+    "text": "I think this energy crisis\nis the mother of all markets.",
+    "start": 354.097,
+    "duration": 6.84
+  },
+  {
+    "text": "And it will take longer.",
+    "start": 361.171,
+    "duration": 1.8
+  },
+  {
+    "text": "But the market for electric vehicle\nbatteries -- 500 billion dollars a year.",
+    "start": 362.971,
+    "duration": 5.946
+  },
+  {
+    "text": "It's probably another 500 billion dollars\nif you go to stationary batteries.",
+    "start": 368.917,
+    "duration": 4.907
+  },
+  {
+    "text": "I want to tell you another story\nthat involves policy,",
+    "start": 373.824,
+    "duration": 3.477
+  },
+  {
+    "text": "but importantly, plans.",
+    "start": 377.301,
+    "duration": 1.77
+  },
+  {
+    "text": "Now, Shenzhen is a city\nof 15 million people,",
+    "start": 379.251,
+    "duration": 2.603
+  },
+  {
+    "text": "an innovative city, in China.",
+    "start": 381.854,
+    "duration": 1.74
+  },
+  {
+    "text": "And they decided that they were\ngoing to move to electric buses.",
+    "start": 383.594,
+    "duration": 4.01
+  },
+  {
+    "text": "And so they required\nall buses be electric.",
+    "start": 387.604,
+    "duration": 2.667
+  },
+  {
+    "text": "In fact, they required parking spots\nhave chargers associated with them.",
+    "start": 390.271,
+    "duration": 3.68
+  },
+  {
+    "text": "So today, Shenzhen\nhas 18,000 electric buses.",
+    "start": 393.951,
+    "duration": 4.303
+  },
+  {
+    "text": "It has 21,000 electric taxis.",
+    "start": 398.254,
+    "duration": 2.84
+  },
+  {
+    "text": "And this goodness didn't just happen.",
+    "start": 401.094,
+    "duration": 2.627
+  },
+  {
+    "text": "It was the result of a thoughtful,\nwritten, five-year plan",
+    "start": 403.721,
+    "duration": 4.22
+  },
+  {
+    "text": "that isn't just\na kind of campaign promise.",
+    "start": 407.941,
+    "duration": 2.666
+  },
+  {
+    "text": "Executing against these plans\nis how mayors get promoted, or fired.",
+    "start": 410.607,
+    "duration": 3.83
+  },
+  {
+    "text": "And so it's really deadly serious.",
+    "start": 414.437,
+    "duration": 2.3
+  },
+  {
+    "text": "It has to do with carbon,\nand it has to do with health, with jobs,",
+    "start": 416.737,
+    "duration": 3.096
+  },
+  {
+    "text": "and with overall economic strength.",
+    "start": 419.833,
+    "duration": 1.838
+  },
+  {
+    "text": "The bottom line is that China today\nhas 420,000 electric buses.",
+    "start": 421.671,
+    "duration": 6.276
+  },
+  {
+    "text": "America has less than 1,000.",
+    "start": 427.947,
+    "duration": 2.694
+  },
+  {
+    "text": "So what other national projects are there\nthat you'd like to see?",
+    "start": 430.641,
+    "duration": 3.47
+  },
+  {
+    "text": "HH: So this is a global effort,",
+    "start": 434.111,
+    "duration": 1.603
+  },
+  {
+    "text": "but not everybody's\ngoing to do the same thing,",
+    "start": 435.714,
+    "duration": 2.186
+  },
+  {
+    "text": "or should do the same thing.",
+    "start": 437.9,
+    "duration": 1.377
+  },
+  {
+    "text": "Let me start with Norway.",
+    "start": 439.277,
+    "duration": 1.434
+  },
+  {
+    "text": "A country that happens to be\nbrilliant at offshore oil,",
+    "start": 440.711,
+    "duration": 2.873
+  },
+  {
+    "text": "but also understands\nthe consequences of burning more oil.",
+    "start": 443.584,
+    "duration": 2.737
+  },
+  {
+    "text": "They realized they could\ndeploy their skills",
+    "start": 446.321,
+    "duration": 2.09
+  },
+  {
+    "text": "from their offshore oil development\ninto offshore wind.",
+    "start": 448.411,
+    "duration": 3.29
+  },
+  {
+    "text": "It's a big deal to put wind\nturbines out in the ocean.",
+    "start": 451.701,
+    "duration": 3.283
+  },
+  {
+    "text": "The ocean, the winds are much stronger,",
+    "start": 454.984,
+    "duration": 2.467
+  },
+  {
+    "text": "and the winds are much more\nconstant, not only stronger.",
+    "start": 457.451,
+    "duration": 2.636
+  },
+  {
+    "text": "So it balances the grid beautifully.",
+    "start": 460.087,
+    "duration": 1.734
+  },
+  {
+    "text": "But it's really hard to build things\nin the deep ocean.",
+    "start": 461.821,
+    "duration": 2.58
+  },
+  {
+    "text": "Norway's good at it.",
+    "start": 464.401,
+    "duration": 0.97
+  },
+  {
+    "text": "So let them take that on.",
+    "start": 465.371,
+    "duration": 1.366
+  },
+  {
+    "text": "JD: Are they taking it on?",
+    "start": 466.737,
+    "duration": 1.268
+  },
+  {
+    "text": "HH: They are actually.",
+    "start": 468.005,
+    "duration": 1.09
+  },
+  {
+    "text": "Yeah. It's pretty brilliant.",
+    "start": 469.095,
+    "duration": 1.388
+  },
+  {
+    "text": "Another example: India.",
+    "start": 470.483,
+    "duration": 1.648
+  },
+  {
+    "text": "There are hundreds of millions\nof people in India",
+    "start": 472.131,
+    "duration": 2.31
+  },
+  {
+    "text": "that don’t have access to electricity.",
+    "start": 474.441,
+    "duration": 1.81
+  },
+  {
+    "text": "With the advances in solar\nand advances in batteries,",
+    "start": 476.251,
+    "duration": 2.49
+  },
+  {
+    "text": "there's no reason\nthey have to build the grid",
+    "start": 478.741,
+    "duration": 2.103
+  },
+  {
+    "text": "to all those villages\nthat don't have a grid.",
+    "start": 480.844,
+    "duration": 2.11
+  },
+  {
+    "text": "Skip the steps.",
+    "start": 482.954,
+    "duration": 1.071
+  },
+  {
+    "text": "Skip the dirty steps. Leapfrog to clean.",
+    "start": 484.025,
+    "duration": 2.682
+  },
+  {
+    "text": "But this all comes together,\nin my opinion, in the realm of policy.",
+    "start": 486.707,
+    "duration": 3.63
+  },
+  {
+    "text": "We need dramatic accelerants,\nis what you're saying.",
+    "start": 490.337,
+    "duration": 2.427
+  },
+  {
+    "text": "Accelerants in R and D,\nbut also accelerants in deployment.",
+    "start": 492.764,
+    "duration": 2.77
+  },
+  {
+    "text": "Deployment is innovation\nbecause deployment drives prices down.",
+    "start": 495.534,
+    "duration": 3.603
+  },
+  {
+    "text": "The right policy can turn things around,",
+    "start": 499.137,
+    "duration": 2.497
+  },
+  {
+    "text": "and we've seen it happen already\nin the electricity sector.",
+    "start": 501.634,
+    "duration": 2.87
+  },
+  {
+    "text": "So electricity regulators have asked\nfor ever cleaner sources of electricity:",
+    "start": 504.504,
+    "duration": 4.733
+  },
+  {
+    "text": "more renewables,\nless coal, less natural gas.",
+    "start": 509.237,
+    "duration": 2.8
+  },
+  {
+    "text": "And it's working.",
+    "start": 512.037,
+    "duration": 1.134
+  },
+  {
+    "text": "It's working pretty brilliantly, actually.",
+    "start": 513.171,
+    "duration": 2.037
+  },
+  {
+    "text": "But it's not enough.",
+    "start": 515.208,
+    "duration": 1.473
+  },
+  {
+    "text": "So the German government\nrecognized the possibility",
+    "start": 516.681,
+    "duration": 2.406
+  },
+  {
+    "text": "of driving down the price of clean energy.",
+    "start": 519.087,
+    "duration": 2.02
+  },
+  {
+    "text": "And so they put in orders on the books.",
+    "start": 521.107,
+    "duration": 1.93
+  },
+  {
+    "text": "They agreed to pay an extra price\nfor early phases of solar energy,",
+    "start": 523.037,
+    "duration": 3.417
+  },
+  {
+    "text": "presuming the price would drop.",
+    "start": 526.454,
+    "duration": 1.583
+  },
+  {
+    "text": "They created the demand\nsignal using policy.",
+    "start": 528.037,
+    "duration": 3.16
+  },
+  {
+    "text": "The Chinese created\na supply signal, also using policy.",
+    "start": 531.197,
+    "duration": 2.94
+  },
+  {
+    "text": "They decided that solar was a strategic\npart of their future economy.",
+    "start": 534.137,
+    "duration": 3.68
+  },
+  {
+    "text": "So you had this unwritten agreement\nbetween the two countries,",
+    "start": 537.817,
+    "duration": 2.944
+  },
+  {
+    "text": "one buying a lot,\nthe other producing a lot,",
+    "start": 540.761,
+    "duration": 2.06
+  },
+  {
+    "text": "that helped drive\nthe price down 80 percent.",
+    "start": 542.821,
+    "duration": 2.06
+  },
+  {
+    "text": "We should be doing that\nwith 10 technologies, or a dozen,",
+    "start": 544.881,
+    "duration": 2.723
+  },
+  {
+    "text": "around the world.",
+    "start": 547.604,
+    "duration": 1.503
+  },
+  {
+    "text": "We need policy as the magic sauce",
+    "start": 549.107,
+    "duration": 2.36
+  },
+  {
+    "text": "to go through those four sectors\nin the biggest countries,",
+    "start": 551.467,
+    "duration": 3.724
+  },
+  {
+    "text": "in all countries.",
+    "start": 555.191,
+    "duration": 1.13
+  },
+  {
+    "text": "And one of the things that animates me",
+    "start": 556.321,
+    "duration": 2.38
+  },
+  {
+    "text": "is that this requires people\nwho are concerned about climate change,",
+    "start": 558.701,
+    "duration": 3.716
+  },
+  {
+    "text": "which should be everybody,",
+    "start": 562.417,
+    "duration": 1.24
+  },
+  {
+    "text": "those folks have to apply their energies\non the policies that matter",
+    "start": 563.657,
+    "duration": 4.074
+  },
+  {
+    "text": "with the decision-makers who matter.",
+    "start": 567.731,
+    "duration": 2.086
+  },
+  {
+    "text": "If you don't know\nwho the decision-maker is",
+    "start": 569.817,
+    "duration": 2.087
+  },
+  {
+    "text": "to decarbonize the grid,",
+    "start": 571.904,
+    "duration": 1.45
+  },
+  {
+    "text": "or to produce electric vehicles\nin the policy world,",
+    "start": 573.354,
+    "duration": 2.723
+  },
+  {
+    "text": "you're really not in the game.",
+    "start": 576.077,
+    "duration": 1.7
+  },
+  {
+    "text": "JD: Hal, you're an expert in policy.",
+    "start": 577.777,
+    "duration": 1.927
+  },
+  {
+    "text": "I know this because I've read your book --",
+    "start": 579.704,
+    "duration": 2.267
+  },
+  {
+    "text": "HH: Thanks, John.",
+    "start": 581.971,
+    "duration": 1.023
+  },
+  {
+    "text": "JD: Designing Climate Solutions.",
+    "start": 582.994,
+    "duration": 1.58
+  },
+  {
+    "text": "What makes for good policy?",
+    "start": 584.574,
+    "duration": 2.377
+  },
+  {
+    "text": "HH: There are some secrets here,",
+    "start": 586.951,
+    "duration": 1.593
+  },
+  {
+    "text": "and they're really important\nif we want to solve climate change.",
+    "start": 588.544,
+    "duration": 3.03
+  },
+  {
+    "text": "Let me give you two of the secrets.",
+    "start": 591.574,
+    "duration": 1.673
+  },
+  {
+    "text": "First, you have to go where the tons are.",
+    "start": 593.247,
+    "duration": 1.954
+  },
+  {
+    "text": "JD: Follow the tons.",
+    "start": 595.201,
+    "duration": 1.0
+  },
+  {
+    "text": "HH: Follow the tons.",
+    "start": 596.201,
+    "duration": 1.01
+  },
+  {
+    "text": "And this is such an obvious idea,",
+    "start": 597.211,
+    "duration": 1.59
+  },
+  {
+    "text": "but it's amazing how many policies\ntinker around the edges.",
+    "start": 598.801,
+    "duration": 2.776
+  },
+  {
+    "text": "I call it green paint.",
+    "start": 601.577,
+    "duration": 1.05
+  },
+  {
+    "text": "We don't need green paint.\nWe need green substance.",
+    "start": 602.627,
+    "duration": 2.627
+  },
+  {
+    "text": "The second thing is when you set a policy,\ninsist on continuous improvement.",
+    "start": 605.254,
+    "duration": 5.717
+  },
+  {
+    "text": "So what does that mean?",
+    "start": 610.971,
+    "duration": 1.333
+  },
+  {
+    "text": "Back in 1978, Jerry Brown was the youngest\ngovernor in California's history,",
+    "start": 612.304,
+    "duration": 3.583
+  },
+  {
+    "text": "and he implemented\na thermal building code,",
+    "start": 615.887,
+    "duration": 2.04
+  },
+  {
+    "text": "which means when you build a building,\nit has to have insulation in it.",
+    "start": 617.927,
+    "duration": 3.347
+  },
+  {
+    "text": "Pretty simple idea.",
+    "start": 621.274,
+    "duration": 1.077
+  },
+  {
+    "text": "But he put a trick into that law.",
+    "start": 622.351,
+    "duration": 2.086
+  },
+  {
+    "text": "He said every three years, the code\ngets tighter, and tighter, and tighter.",
+    "start": 624.437,
+    "duration": 3.79
+  },
+  {
+    "text": "And how do you know how much tighter?",
+    "start": 628.227,
+    "duration": 1.787
+  },
+  {
+    "text": "Anything that pays for itself in energy\nsavings gets thrown into the code.",
+    "start": 630.014,
+    "duration": 3.53
+  },
+  {
+    "text": "So in the intervening years,\nwe got better insulation,",
+    "start": 633.787,
+    "duration": 3.544
+  },
+  {
+    "text": "better windows, better furnaces,",
+    "start": 637.331,
+    "duration": 2.056
+  },
+  {
+    "text": "better roofing.",
+    "start": 639.387,
+    "duration": 1.15
+  },
+  {
+    "text": "Today, a new California building",
+    "start": 640.537,
+    "duration": 1.944
+  },
+  {
+    "text": "uses 80 percent less energy\nthan a pre-code building.",
+    "start": 642.481,
+    "duration": 3.59
+  },
+  {
+    "text": "And Jerry Brown used his legislative\nbandwidth once to draft that policy",
+    "start": 646.071,
+    "duration": 4.78
+  },
+  {
+    "text": "that produces fruits forever.",
+    "start": 650.851,
+    "duration": 2.306
+  },
+  {
+    "text": "JD: He got the words right.",
+    "start": 653.157,
+    "duration": 1.307
+  },
+  {
+    "text": "HH: He got the words right.\nContinuous improvement.",
+    "start": 654.464,
+    "duration": 2.413
+  },
+  {
+    "text": "There's a counterexample,\nwhich should be instructive as well.",
+    "start": 656.877,
+    "duration": 2.91
+  },
+  {
+    "text": "So you and I are both of an age\nwhere we remember the first oil embargo",
+    "start": 659.787,
+    "duration": 3.704
+  },
+  {
+    "text": "and the energy crisis that caused",
+    "start": 663.491,
+    "duration": 1.613
+  },
+  {
+    "text": "with stagnation and inflation\nat the same time.",
+    "start": 665.104,
+    "duration": 2.47
+  },
+  {
+    "text": "Gerald Ford was president.",
+    "start": 667.574,
+    "duration": 1.463
+  },
+  {
+    "text": "And he realized that if we could double\nthe fuel efficiency of new vehicles,",
+    "start": 669.037,
+    "duration": 3.584
+  },
+  {
+    "text": "we could cut in half their energy use.",
+    "start": 672.621,
+    "duration": 2.303
+  },
+  {
+    "text": "So he signed a law\nto double the fuel efficiency",
+    "start": 675.237,
+    "duration": 2.63
+  },
+  {
+    "text": "of new vehicles sold in America,",
+    "start": 677.867,
+    "duration": 1.57
+  },
+  {
+    "text": "from 13 miles per gallon,\nabsolutely pathetic,",
+    "start": 679.437,
+    "duration": 2.617
+  },
+  {
+    "text": "to 26 miles per gallon.",
+    "start": 682.054,
+    "duration": 1.15
+  },
+  {
+    "text": "JD: That's big.",
+    "start": 683.204,
+    "duration": 1.267
+  },
+  {
+    "text": "HH: It’s pathetic by today’s standards,\nbut it was a big deal then, right?",
+    "start": 684.471,
+    "duration": 3.483
+  },
+  {
+    "text": "It was doubling.",
+    "start": 687.954,
+    "duration": 1.02
+  },
+  {
+    "text": "But by setting a number as the goal,\nwe created a 25-year plateau.",
+    "start": 688.974,
+    "duration": 5.127
+  },
+  {
+    "text": "So imagine if instead he said",
+    "start": 694.804,
+    "duration": 2.567
+  },
+  {
+    "text": "fuel efficiency will increase\nat four percent a year forever.",
+    "start": 697.371,
+    "duration": 4.05
+  },
+  {
+    "text": "JD: So Hal, goals are great things.",
+    "start": 701.421,
+    "duration": 2.55
+  },
+  {
+    "text": "How do you find the policymakers\nthat set these goals?",
+    "start": 703.971,
+    "duration": 4.1
+  },
+  {
+    "text": "And then how do you influence them?",
+    "start": 708.071,
+    "duration": 1.7
+  },
+  {
+    "text": "HH: Well, so that's maybe\nthe most important question of all.",
+    "start": 709.771,
+    "duration": 2.95
+  },
+  {
+    "text": "If we have a lot of concern\nabout climate change,",
+    "start": 712.721,
+    "duration": 3.316
+  },
+  {
+    "text": "and not it's properly aimed,\nit just dissipates.",
+    "start": 716.037,
+    "duration": 2.834
+  },
+  {
+    "text": "It's a one-day headline about a march.",
+    "start": 718.871,
+    "duration": 1.966
+  },
+  {
+    "text": "And that's not going to get the job done.",
+    "start": 720.837,
+    "duration": 1.974
+  },
+  {
+    "text": "In every sector, in every country,\nthere’s a decision-maker.",
+    "start": 722.811,
+    "duration": 4.726
+  },
+  {
+    "text": "And it’s usually not the senator\nor the president.",
+    "start": 727.537,
+    "duration": 2.7
+  },
+  {
+    "text": "It’s usually an air quality regulator\nor a public utilities commissioner.",
+    "start": 730.237,
+    "duration": 4.04
+  },
+  {
+    "text": "These are the people",
+    "start": 734.277,
+    "duration": 1.05
+  },
+  {
+    "text": "that have the secret knobs\non the energy of the economy.",
+    "start": 735.327,
+    "duration": 2.7
+  },
+  {
+    "text": "They're the ones that get to decide\nwhether we get cleaner and cleaner energy,",
+    "start": 738.027,
+    "duration": 3.717
+  },
+  {
+    "text": "more and more efficient buildings,\nmore and more efficient cars,",
+    "start": 741.744,
+    "duration": 3.026
+  },
+  {
+    "text": "and so forth.",
+    "start": 744.77,
+    "duration": 1.076
+  },
+  {
+    "text": "JD: How many of these people are there\nin an economy like the US?",
+    "start": 745.846,
+    "duration": 3.965
+  },
+  {
+    "text": "HH: Electric utilities are monopolies,",
+    "start": 749.811,
+    "duration": 1.86
+  },
+  {
+    "text": "and so they're regulated\nby utilities commissions.",
+    "start": 751.671,
+    "duration": 2.33
+  },
+  {
+    "text": "Otherwise they'd jack up\nthe price too high.",
+    "start": 754.001,
+    "duration": 2.043
+  },
+  {
+    "text": "Every state has a utilities commission,\na public utilities commission.",
+    "start": 756.044,
+    "duration": 3.86
+  },
+  {
+    "text": "These commissions\ntypically have five members.",
+    "start": 759.904,
+    "duration": 2.761
+  },
+  {
+    "text": "So that’s about 250 people in America \nwho control the future of our grid.",
+    "start": 762.665,
+    "duration": 5.526
+  },
+  {
+    "text": "None of them's a senator.\nNone of them's a governor.",
+    "start": 768.404,
+    "duration": 2.442
+  },
+  {
+    "text": "They're appointed positions.",
+    "start": 770.846,
+    "duration": 1.338
+  },
+  {
+    "text": "JD: How much carbon do they control?",
+    "start": 772.184,
+    "duration": 1.714
+  },
+  {
+    "text": "HH: 40 percent of the carbon\nin the economy.",
+    "start": 773.898,
+    "duration": 2.063
+  },
+  {
+    "text": "JD: Wow. 250 people.",
+    "start": 775.961,
+    "duration": 1.16
+  },
+  {
+    "text": "HH: 250 individuals.",
+    "start": 777.121,
+    "duration": 1.499
+  },
+  {
+    "text": "Now, you can narrow that down even more.",
+    "start": 778.62,
+    "duration": 2.217
+  },
+  {
+    "text": "So let's go for the 30 biggest states.\nBecause this is all about tons, right?",
+    "start": 780.837,
+    "duration": 3.62
+  },
+  {
+    "text": "JD: Yeah.",
+    "start": 784.457,
+    "duration": 1.014
+  },
+  {
+    "text": "HH: You're now down to 150 individuals.",
+    "start": 785.471,
+    "duration": 1.9
+  },
+  {
+    "text": "And if you're content to win votes\non a three to two basis,",
+    "start": 787.371,
+    "duration": 2.77
+  },
+  {
+    "text": "you're down to 90 individuals who control\nalmost half the carbon in the economy.",
+    "start": 790.141,
+    "duration": 5.65
+  },
+  {
+    "text": "How do you make sure those 90 people\nvote for a clean energy grid?",
+    "start": 795.791,
+    "duration": 3.576
+  },
+  {
+    "text": "They have a quasi-judicial process.",
+    "start": 800.171,
+    "duration": 4.126
+  },
+  {
+    "text": "They hold hearings.",
+    "start": 804.297,
+    "duration": 1.107
+  },
+  {
+    "text": "They take evidence.",
+    "start": 805.404,
+    "duration": 1.533
+  },
+  {
+    "text": "They consider what they're allowed to do\nwithin their statutory framework.",
+    "start": 806.937,
+    "duration": 4.717
+  },
+  {
+    "text": "And then they make a decision.",
+    "start": 811.744,
+    "duration": 1.43
+  },
+  {
+    "text": "They have to look at human health,\nat economics, at reliability.",
+    "start": 813.174,
+    "duration": 3.107
+  },
+  {
+    "text": "And they have to look at greenhouse gases.",
+    "start": 816.281,
+    "duration": 2.78
+  },
+  {
+    "text": "JD: Is there a breakthrough\nyou’d like to see",
+    "start": 819.061,
+    "duration": 2.11
+  },
+  {
+    "text": "or an innovation \nyou’re particularly excited about?",
+    "start": 821.171,
+    "duration": 3.01
+  },
+  {
+    "text": "HH: I'm keen on green hydrogen.",
+    "start": 824.181,
+    "duration": 2.456
+  },
+  {
+    "text": "I mean, we need to drive down\nthe cost of electrolysis,",
+    "start": 826.637,
+    "duration": 2.587
+  },
+  {
+    "text": "and it's always going to be more expensive\nthan just pure electricity.",
+    "start": 829.224,
+    "duration": 3.297
+  },
+  {
+    "text": "That's a thermodynamic certainty.",
+    "start": 832.521,
+    "duration": 2.72
+  },
+  {
+    "text": "But once you have hydrogen,",
+    "start": 835.241,
+    "duration": 2.21
+  },
+  {
+    "text": "you can reform it with other\nchemicals into liquid fuels,",
+    "start": 837.451,
+    "duration": 3.1
+  },
+  {
+    "text": "like synthetic diesel for airplanes\nor long haul trucks or ships.",
+    "start": 840.551,
+    "duration": 3.81
+  },
+  {
+    "text": "You can use it to make fertilizers.",
+    "start": 844.604,
+    "duration": 2.73
+  },
+  {
+    "text": "And we can rethink \nthe basics of chemistry.",
+    "start": 847.704,
+    "duration": 2.1
+  },
+  {
+    "text": "Chemistry's built on hydrocarbons,",
+    "start": 849.804,
+    "duration": 2.607
+  },
+  {
+    "text": "and we need to build it\non carbohydrates instead.",
+    "start": 852.411,
+    "duration": 2.926
+  },
+  {
+    "text": "So different kinds of molecules, \nbut it’s not impossible.",
+    "start": 855.337,
+    "duration": 2.724
+  },
+  {
+    "text": "I guess the other thing\nthat’s fascinating to me",
+    "start": 858.061,
+    "duration": 2.26
+  },
+  {
+    "text": "is this term \"stranded investment.\"",
+    "start": 860.321,
+    "duration": 3.216
+  },
+  {
+    "text": "So if you own a coal-fired power plant \nor a coal mine today,",
+    "start": 863.537,
+    "duration": 3.467
+  },
+  {
+    "text": "anywhere in the world almost,\nyou have stranded your money.",
+    "start": 867.004,
+    "duration": 2.773
+  },
+  {
+    "text": "You can't get it back.",
+    "start": 869.777,
+    "duration": 1.36
+  },
+  {
+    "text": "Because they're uneconomic.",
+    "start": 871.137,
+    "duration": 1.414
+  },
+  {
+    "text": "We analyzed every coal plant in America,\nthe economics of every one,",
+    "start": 872.551,
+    "duration": 3.225
+  },
+  {
+    "text": "and 75 percent of them,\nit's cheaper to shut them down",
+    "start": 875.776,
+    "duration": 3.588
+  },
+  {
+    "text": "and replace them with a brand new\nwind or solar farm",
+    "start": 879.364,
+    "duration": 2.593
+  },
+  {
+    "text": "than just pay the operating costs\nof that coal plant.",
+    "start": 881.957,
+    "duration": 3.38
+  },
+  {
+    "text": "So what's going to get stranded next?",
+    "start": 885.337,
+    "duration": 1.764
+  },
+  {
+    "text": "This is an important question.",
+    "start": 887.101,
+    "duration": 1.443
+  },
+  {
+    "text": "I think natural gas is next.",
+    "start": 888.544,
+    "duration": 1.893
+  },
+  {
+    "text": "It's already skidding along at low prices.",
+    "start": 890.437,
+    "duration": 3.034
+  },
+  {
+    "text": "I think people who are putting\na lot of money into gas fields right now,",
+    "start": 894.421,
+    "duration": 3.373
+  },
+  {
+    "text": "or gas turbines right now,\nare going to rue the day.",
+    "start": 897.794,
+    "duration": 2.433
+  },
+  {
+    "text": "John, what are some of\nthe innovations or breakthroughs",
+    "start": 900.227,
+    "duration": 2.63
+  },
+  {
+    "text": "that you’re especially excited about?",
+    "start": 902.857,
+    "duration": 1.76
+  },
+  {
+    "text": "JD: Well, one exciting development\ncomes from my friend and hero Al Gore,",
+    "start": 904.617,
+    "duration": 4.02
+  },
+  {
+    "text": "who has the vision \nand is working with entrepreneurs,",
+    "start": 908.637,
+    "duration": 2.647
+  },
+  {
+    "text": "that by integrating data can produce,",
+    "start": 911.284,
+    "duration": 4.727
+  },
+  {
+    "text": "for every place on the planet,",
+    "start": 916.011,
+    "duration": 2.466
+  },
+  {
+    "text": "a new real-time estimate\nof what their carbon emissions are.",
+    "start": 918.477,
+    "duration": 4.36
+  },
+  {
+    "text": "You know, I come from the school\nof measuring what matters.",
+    "start": 922.837,
+    "duration": 2.937
+  },
+  {
+    "text": "HH: Yes you do.",
+    "start": 925.774,
+    "duration": 1.021
+  },
+  {
+    "text": "JD: If we had a real-time\nkind of Google Earth,",
+    "start": 926.795,
+    "duration": 3.092
+  },
+  {
+    "text": "where we could zoom in\nto individual factories, or oil fields,",
+    "start": 929.887,
+    "duration": 4.794
+  },
+  {
+    "text": "or Walmart stores,",
+    "start": 934.681,
+    "duration": 2.696
+  },
+  {
+    "text": "I think that could really change the game.",
+    "start": 937.377,
+    "duration": 2.71
+  },
+  {
+    "text": "I'm also a believer in carbon accounting.",
+    "start": 940.087,
+    "duration": 2.444
+  },
+  {
+    "text": "And so I've seen entrepreneurs\nwho are making systems",
+    "start": 942.837,
+    "duration": 4.194
+  },
+  {
+    "text": "that will allow not just the owners",
+    "start": 947.031,
+    "duration": 3.136
+  },
+  {
+    "text": "but all the employees\nof an enterprise or organization",
+    "start": 950.167,
+    "duration": 3.51
+  },
+  {
+    "text": "to see what's in\ntheir carbon supply chain.",
+    "start": 953.677,
+    "duration": 2.94
+  },
+  {
+    "text": "HH: Yup. Yup.",
+    "start": 956.617,
+    "duration": 1.354
+  },
+  {
+    "text": "JD: I'd love to see legislation",
+    "start": 957.971,
+    "duration": 1.87
+  },
+  {
+    "text": "that required the OMB\nscore every piece of legislation",
+    "start": 959.841,
+    "duration": 4.92
+  },
+  {
+    "text": "for its carbon impact.",
+    "start": 964.761,
+    "duration": 1.28
+  },
+  {
+    "text": "HH: Yes.",
+    "start": 966.041,
+    "duration": 1.0
+  },
+  {
+    "text": "JD: If we're serious about this,\nwe're going to measure what matters,",
+    "start": 967.041,
+    "duration": 3.273
+  },
+  {
+    "text": "measure what really matters.",
+    "start": 970.314,
+    "duration": 1.496
+  },
+  {
+    "text": "HH: Yup. Yup.",
+    "start": 971.81,
+    "duration": 0.997
+  },
+  {
+    "text": "JD: So let's talk about Paris\nand the Paris Accord",
+    "start": 972.807,
+    "duration": 2.334
+  },
+  {
+    "text": "because some people say that some\nnations are ahead of their plans,",
+    "start": 975.141,
+    "duration": 4.386
+  },
+  {
+    "text": "but others are not,",
+    "start": 979.527,
+    "duration": 1.637
+  },
+  {
+    "text": "and that the agenda\nis not aggressive enough.",
+    "start": 981.164,
+    "duration": 4.317
+  },
+  {
+    "text": "It’s not going to get us\nwhere we need to go.",
+    "start": 985.481,
+    "duration": 2.18
+  },
+  {
+    "text": "What is your view of the Paris Accords?",
+    "start": 987.661,
+    "duration": 3.343
+  },
+  {
+    "text": "HH: The Paris Accords\nare quite interesting animals.",
+    "start": 991.004,
+    "duration": 3.443
+  },
+  {
+    "text": "It’s not a national commitment\nand it’s not an international commitment.",
+    "start": 994.447,
+    "duration": 4.733
+  },
+  {
+    "text": "JD: They're not binding.",
+    "start": 999.18,
+    "duration": 1.147
+  },
+  {
+    "text": "HH: They're not binding.",
+    "start": 1000.327,
+    "duration": 1.15
+  },
+  {
+    "text": "They're individually determined\nnational contributions.",
+    "start": 1001.477,
+    "duration": 3.26
+  },
+  {
+    "text": "That’s the term of art\nthat they use in the Paris Accord.",
+    "start": 1004.737,
+    "duration": 2.7
+  },
+  {
+    "text": "JD: So what does that mean?",
+    "start": 1007.437,
+    "duration": 1.321
+  },
+  {
+    "text": "HH: So that means Europe says:",
+    "start": 1008.758,
+    "duration": 1.436
+  },
+  {
+    "text": "We're going to do 40 percent\nless carbon in 2030",
+    "start": 1010.194,
+    "duration": 3.35
+  },
+  {
+    "text": "than we did in 1990, for example.",
+    "start": 1013.544,
+    "duration": 3.777
+  },
+  {
+    "text": "If they fail to hit that number,\nthere’s no consequences.",
+    "start": 1017.321,
+    "duration": 3.873
+  },
+  {
+    "text": "If they go past that number,\nthere’s no consequences.",
+    "start": 1021.304,
+    "duration": 2.497
+  },
+  {
+    "text": "That, however, does that mean\nthe Paris Accords are not important.",
+    "start": 1023.801,
+    "duration": 3.093
+  },
+  {
+    "text": "They're really important.",
+    "start": 1026.894,
+    "duration": 1.22
+  },
+  {
+    "text": "Because they set up, I would call it,",
+    "start": 1028.114,
+    "duration": 1.767
+  },
+  {
+    "text": "a race to the top\ninstead of a race to the bottom.",
+    "start": 1029.881,
+    "duration": 2.333
+  },
+  {
+    "text": "They set up a dynamic where people were\nsort of bidding to do better and better.",
+    "start": 1032.214,
+    "duration": 3.757
+  },
+  {
+    "text": "They created transparency\nin how people are doing",
+    "start": 1035.971,
+    "duration": 2.633
+  },
+  {
+    "text": "in terms of their carbon emissions.",
+    "start": 1038.604,
+    "duration": 2.28
+  },
+  {
+    "text": "And there are some countries that take\nthese commitments very seriously,",
+    "start": 1040.884,
+    "duration": 3.653
+  },
+  {
+    "text": "and including the European Union\nand China on that list.",
+    "start": 1044.537,
+    "duration": 3.167
+  },
+  {
+    "text": "JD: So I'm going to push on this,\nand what we really need",
+    "start": 1047.704,
+    "duration": 2.993
+  },
+  {
+    "text": "HH: Yup.",
+    "start": 1050.697,
+    "duration": 1.002
+  },
+  {
+    "text": "is we need a plan.",
+    "start": 1051.699,
+    "duration": 2.698
+  },
+  {
+    "text": "HH: So elaborate.",
+    "start": 1054.397,
+    "duration": 1.274
+  },
+  {
+    "text": "JD: Well, I think what we have today\nare goals, not a plan.",
+    "start": 1055.671,
+    "duration": 4.466
+  },
+  {
+    "text": "And I think a plan",
+    "start": 1060.137,
+    "duration": 1.634
+  },
+  {
+    "text": "would be a set of 20 focused\nprecision policy efforts,",
+    "start": 1061.771,
+    "duration": 6.66
+  },
+  {
+    "text": "each of whom's targeted\nat the right decision-maker or makers,",
+    "start": 1068.431,
+    "duration": 3.59
+  },
+  {
+    "text": "in the right venues,\nfor these 20 largest nations,",
+    "start": 1072.021,
+    "duration": 4.006
+  },
+  {
+    "text": "in the four sectors of their economy.",
+    "start": 1076.027,
+    "duration": 2.22
+  },
+  {
+    "text": "And these precision campaigns\nwould be well-funded,",
+    "start": 1078.247,
+    "duration": 3.807
+  },
+  {
+    "text": "they'd be well-focused,",
+    "start": 1082.054,
+    "duration": 1.127
+  },
+  {
+    "text": "they'd have an awesome founder/CEO/leader,",
+    "start": 1083.181,
+    "duration": 3.08
+  },
+  {
+    "text": "an amazing staff of people,",
+    "start": 1086.261,
+    "duration": 1.556
+  },
+  {
+    "text": "an accountable set of objectives\nand key results,",
+    "start": 1087.817,
+    "duration": 3.077
+  },
+  {
+    "text": "and be on a timeline.",
+    "start": 1090.894,
+    "duration": 1.277
+  },
+  {
+    "text": "We would measure their progress,\nquarter by quarter.",
+    "start": 1092.171,
+    "duration": 3.133
+  },
+  {
+    "text": "That would give me hope that we'll get\nwhere we need to go by 2030.",
+    "start": 1095.304,
+    "duration": 4.167
+  },
+  {
+    "text": "How about you?",
+    "start": 1099.471,
+    "duration": 1.066
+  },
+  {
+    "text": "HH: Let me add on\na couple of characteristics",
+    "start": 1100.537,
+    "duration": 3.28
+  },
+  {
+    "text": "to exactly what you just said.",
+    "start": 1103.817,
+    "duration": 1.757
+  },
+  {
+    "text": "And that is you need to have\na deep understanding",
+    "start": 1105.574,
+    "duration": 2.283
+  },
+  {
+    "text": "of who the decision-maker is,\nideally by person, certainly by position,",
+    "start": 1107.857,
+    "duration": 4.34
+  },
+  {
+    "text": "and understand exactly what motivates them\nor hinders them in making this decision",
+    "start": 1112.197,
+    "duration": 4.407
+  },
+  {
+    "text": "so that you can put all your forces on\nthe decision-maker at point of decision.",
+    "start": 1116.604,
+    "duration": 4.23
+  },
+  {
+    "text": "It's one thing to have a general concern\nabout the environment or about climate.",
+    "start": 1121.437,
+    "duration": 4.467
+  },
+  {
+    "text": "It's quite another to focus that concern",
+    "start": 1125.904,
+    "duration": 2.507
+  },
+  {
+    "text": "on the most important\ndecisions on the planet.",
+    "start": 1128.411,
+    "duration": 2.153
+  },
+  {
+    "text": "And that's what we need to do.",
+    "start": 1130.564,
+    "duration": 1.48
+  },
+  {
+    "text": "I love this idea.",
+    "start": 1132.044,
+    "duration": 1.174
+  },
+  {
+    "text": "JD: Okay, so focus on the decision-makers.",
+    "start": 1133.218,
+    "duration": 2.917
+  },
+  {
+    "text": "I think there's other individual action\nthat we can and must take.",
+    "start": 1136.135,
+    "duration": 3.346
+  },
+  {
+    "text": "We've got to amplify your voice",
+    "start": 1139.481,
+    "duration": 3.19
+  },
+  {
+    "text": "so that you organize, activate,\nproselytize, your company,",
+    "start": 1142.671,
+    "duration": 4.75
+  },
+  {
+    "text": "your neighbors, youth, I think\nare an incredibly powerful voice,",
+    "start": 1147.421,
+    "duration": 4.086
+  },
+  {
+    "text": "and friends.",
+    "start": 1151.507,
+    "duration": 1.38
+  },
+  {
+    "text": "HH: Yup.",
+    "start": 1152.887,
+    "duration": 1.0
+  },
+  {
+    "text": "JD: You need to vote.",
+    "start": 1153.887,
+    "duration": 1.015
+  },
+  {
+    "text": "HH: Yup.",
+    "start": 1154.902,
+    "duration": 1.015
+  },
+  {
+    "text": "JD: You need to vote\nlike your life depends on it.",
+    "start": 1155.917,
+    "duration": 2.654
+  },
+  {
+    "text": "So Hal, what does this all add up to?",
+    "start": 1158.571,
+    "duration": 3.3
+  },
+  {
+    "text": "What's the takeaway?",
+    "start": 1161.871,
+    "duration": 1.933
+  },
+  {
+    "text": "HH: I'm an optimist, John.\nI've seen this possible.",
+    "start": 1163.804,
+    "duration": 2.633
+  },
+  {
+    "text": "I've seen when nations\ndecide to do great things,",
+    "start": 1166.847,
+    "duration": 2.294
+  },
+  {
+    "text": "they can do great things.",
+    "start": 1169.141,
+    "duration": 1.48
+  },
+  {
+    "text": "Think of America’s rural electrification\nor the interstate highway system we built.",
+    "start": 1170.621,
+    "duration": 3.91
+  },
+  {
+    "text": "Those are huge projects\nthat transformed the country.",
+    "start": 1174.531,
+    "duration": 2.541
+  },
+  {
+    "text": "What we did prepping for World War II:\nwe built 300,000 airplanes in four years.",
+    "start": 1177.072,
+    "duration": 5.869
+  },
+  {
+    "text": "So if we decide to do something,",
+    "start": 1182.941,
+    "duration": 2.406
+  },
+  {
+    "text": "or when the Germans or the Chinese\nor the Indians decide to do something,",
+    "start": 1185.347,
+    "duration": 3.464
+  },
+  {
+    "text": "other countries,",
+    "start": 1188.811,
+    "duration": 1.0
+  },
+  {
+    "text": "they can get it done.",
+    "start": 1189.811,
+    "duration": 1.46
+  },
+  {
+    "text": "But if this is sort of\npiffling around the edges,",
+    "start": 1191.271,
+    "duration": 3.06
+  },
+  {
+    "text": "we won't get there.",
+    "start": 1194.331,
+    "duration": 1.44
+  },
+  {
+    "text": "What do you think? Are you optimistic?",
+    "start": 1195.771,
+    "duration": 1.836
+  },
+  {
+    "text": "JD: My take on this is,\nI may not be optimistic, but I'm hopeful.",
+    "start": 1197.607,
+    "duration": 4.73
+  },
+  {
+    "text": "I really think the crucial question is:\nCan we do what we must,",
+    "start": 1202.337,
+    "duration": 4.974
+  },
+  {
+    "text": "at speed and at scale?",
+    "start": 1207.311,
+    "duration": 2.36
+  },
+  {
+    "text": "The good news is, it's now clearly cheaper\nto save the planet than to ruin it.",
+    "start": 1209.671,
+    "duration": 4.853
+  },
+  {
+    "text": "The bad news is,\nwe are fast running out of time.",
+    "start": 1214.524,
+    "duration": 4.487
+  }
+]

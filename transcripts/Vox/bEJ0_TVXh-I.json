@@ -1,0 +1,1857 @@
+[
+  {
+    "text": "if you were watching the Web traffic to ChatGPT,",
+    "start": 0.542,
+    "duration": 2.252
+  },
+  {
+    "text": "since it was released by OpenAI,",
+    "start": 3.003,
+    "duration": 1.918
+  },
+  {
+    "text": "you would have seen the visits peak in April",
+    "start": 5.005,
+    "duration": 2.377
+  },
+  {
+    "text": "and then start dipping down.",
+    "start": 7.465,
+    "duration": 1.835
+  },
+  {
+    "text": "Some people thought maybe",
+    "start": 9.384,
+    "duration": 1.043
+  },
+  {
+    "text": "AI-generated text was just a fad after all.",
+    "start": 10.427,
+    "duration": 3.128
+  },
+  {
+    "text": "But now it seems like maybe that was just summer break.",
+    "start": 13.638,
+    "duration": 3.545
+  },
+  {
+    "text": "I was not prepared for the amount of students",
+    "start": 17.267,
+    "duration": 1.877
+  },
+  {
+    "text": "that were using it. It felt like a cheat code, right?",
+    "start": 19.144,
+    "duration": 2.627
+  },
+  {
+    "text": "About 60% said that they use ChatGPT.",
+    "start": 21.813,
+    "duration": 2.294
+  },
+  {
+    "text": "91% have at least tried ChatGPT.",
+    "start": 24.107,
+    "duration": 2.836
+  },
+  {
+    "text": "It's a high number.",
+    "start": 26.943,
+    "duration": 3.17
+  },
+  {
+    "text": "After the headlines said students were using it to cheat,",
+    "start": 30.196,
+    "duration": 1.669
+  },
+  {
+    "text": "I used it to cheat.",
+    "start": 31.948,
+    "duration": 1.085
+  },
+  {
+    "text": "Pieces of writing that are grammatically perfect.",
+    "start": 33.033,
+    "duration": 2.085
+  },
+  {
+    "text": "Everything was capitalized correctly.",
+    "start": 35.243,
+    "duration": 1.46
+  },
+  {
+    "text": "And if I was in their shoes,",
+    "start": 36.703,
+    "duration": 1.209
+  },
+  {
+    "text": "There was a way that I could do my schoolwork,\nlike, quickly--",
+    "start": 37.996,
+    "duration": 2.836
+  },
+  {
+    "text": "I would have been that kid. I would have took it.",
+    "start": 40.832,
+    "duration": 2.294
+  },
+  {
+    "text": "I would have took it 100%.",
+    "start": 43.293,
+    "duration": 3.92
+  },
+  {
+    "text": "So here's where we're at right now:",
+    "start": 47.297,
+    "duration": 2.043
+  },
+  {
+    "text": "The American software industry is racing to release\nand refine",
+    "start": 49.382,
+    "duration": 3.337
+  },
+  {
+    "text": "AI language models, which I’ll call chatbots in this video.",
+    "start": 52.927,
+    "duration": 3.17
+  },
+  {
+    "text": "It hasn't been obvious to everyone",
+    "start": 56.181,
+    "duration": 1.334
+  },
+  {
+    "text": "what they should be used for,",
+    "start": 57.515,
+    "duration": 1.335
+  },
+  {
+    "text": "but it has been obvious to a lot of students.",
+    "start": 58.85,
+    "duration": 2.544
+  },
+  {
+    "text": "The freely available chatbots can respond to assignments",
+    "start": 61.519,
+    "duration": 3.045
+  },
+  {
+    "text": "across a bunch of middle and high school subjects.",
+    "start": 64.564,
+    "duration": 2.544
+  },
+  {
+    "text": "And the most advanced models,",
+    "start": 67.192,
+    "duration": 1.376
+  },
+  {
+    "text": "which you generally have to pay for, can analyze data,",
+    "start": 68.568,
+    "duration": 3.086
+  },
+  {
+    "text": "read image files, and write at the college level.",
+    "start": 71.863,
+    "duration": 3.337
+  },
+  {
+    "text": "I did a little research project where I asked my freshman year",
+    "start": 75.283,
+    "duration": 3.212
+  },
+  {
+    "text": "professors to grade essays written by ChatGPT.",
+    "start": 78.495,
+    "duration": 3.211
+  },
+  {
+    "text": "And they got all A's and B's.",
+    "start": 81.748,
+    "duration": 2.169
+  },
+  {
+    "text": "And so this was just like very striking to me.",
+    "start": 84.125,
+    "duration": 2.92
+  },
+  {
+    "text": "I wanted to find out what this means for education.",
+    "start": 87.128,
+    "duration": 2.419
+  },
+  {
+    "text": "So I talked to students from eighth grade to grad school;",
+    "start": 89.547,
+    "duration": 2.711
+  },
+  {
+    "text": "I talked to teachers and professors and experts\nin learning.",
+    "start": 92.3,
+    "duration": 3.295
+  },
+  {
+    "text": "And bear with us because they're right in the middle of this.",
+    "start": 95.678,
+    "duration": 3.504
+  },
+  {
+    "text": "And it's complicated,",
+    "start": 99.182,
+    "duration": 1.46
+  },
+  {
+    "text": "and they don't really agree about how to proceed.",
+    "start": 100.725,
+    "duration": 2.586
+  },
+  {
+    "text": "So we'll also take a look",
+    "start": 103.394,
+    "duration": 1.293
+  },
+  {
+    "text": "at some of the research on how learning works.",
+    "start": 104.687,
+    "duration": 2.628
+  },
+  {
+    "text": "To see how students can be strategic in the age of AI.",
+    "start": 107.398,
+    "duration": 7.007
+  },
+  {
+    "text": "We don't want to send that message to our our young people,",
+    "start": 114.489,
+    "duration": 3.712
+  },
+  {
+    "text": "you know, to ignore the things that scare us.",
+    "start": 118.284,
+    "duration": 2.545
+  },
+  {
+    "text": "We have to learn about it, learn from it, learn\nhow to use it.",
+    "start": 120.912,
+    "duration": 2.878
+  },
+  {
+    "text": "But it's a lot of extra labor and it's coming on the heels",
+    "start": 123.915,
+    "duration": 2.502
+  },
+  {
+    "text": "of like three years of pandemic-based",
+    "start": 126.626,
+    "duration": 2.586
+  },
+  {
+    "text": "sort of reworking of our teaching.",
+    "start": 129.212,
+    "duration": 1.752
+  },
+  {
+    "text": "And so we're all tired.",
+    "start": 130.964,
+    "duration": 0.959
+  },
+  {
+    "text": "The days",
+    "start": 131.923,
+    "duration": 1.835
+  },
+  {
+    "text": "of like giving assignments",
+    "start": 133.758,
+    "duration": 1.168
+  },
+  {
+    "text": "to students and having them work on it at home are over.",
+    "start": 134.926,
+    "duration": 2.377
+  },
+  {
+    "text": "I would love if they were using this as a great",
+    "start": 137.428,
+    "duration": 2.42
+  },
+  {
+    "text": "thinking tool, but that's that's really not what's happening.",
+    "start": 139.931,
+    "duration": 3.003
+  },
+  {
+    "text": "And so I think educators are asking ourselves, well,",
+    "start": 143.059,
+    "duration": 2.628
+  },
+  {
+    "text": "how do we know that students have learned?",
+    "start": 145.687,
+    "duration": 3.42
+  },
+  {
+    "text": "Right now, educators face a choice between two pretty murky paths.",
+    "start": 149.19,
+    "duration": 3.879
+  },
+  {
+    "text": "They could allow students to use this technology,",
+    "start": 153.278,
+    "duration": 2.794
+  },
+  {
+    "text": "or they could try to prevent students from using it.",
+    "start": 156.156,
+    "duration": 2.293
+  },
+  {
+    "text": "Let's tackle that one first.",
+    "start": 158.533,
+    "duration": 2.377
+  },
+  {
+    "text": "Banning AI looks like some combination",
+    "start": 160.994,
+    "duration": 2.21
+  },
+  {
+    "text": "of blocking the websites on school networks and computers; using A.I.",
+    "start": 163.204,
+    "duration": 3.379
+  },
+  {
+    "text": "detection software to try to catch generated text;",
+    "start": 166.624,
+    "duration": 2.545
+  },
+  {
+    "text": "and shifting more work into class hours and onto paper.",
+    "start": 169.252,
+    "duration": 3.545
+  },
+  {
+    "text": "But the students and teachers that I spoke to, they don't love these options.",
+    "start": 172.964,
+    "duration": 4.754
+  },
+  {
+    "text": "I don't want my students to feel like they're under this kind of policing.",
+    "start": 177.844,
+    "duration": 3.503
+  },
+  {
+    "text": "I go from teacher to sort of hall monitor",
+    "start": 181.347,
+    "duration": 3.295
+  },
+  {
+    "text": "and that's not a desirable teaching relationship.",
+    "start": 184.726,
+    "duration": 2.627
+  },
+  {
+    "text": "But at the same time, I do want to know that they're doing the work.",
+    "start": 187.353,
+    "duration": 3.546
+  },
+  {
+    "text": "A lot of our kids are really, really good at getting around the school firewalls.",
+    "start": 191.065,
+    "duration": 4.046
+  },
+  {
+    "text": "But even if they couldn't access it on their laptops,",
+    "start": 195.111,
+    "duration": 2.586
+  },
+  {
+    "text": "I mean, they have it on their phones,",
+    "start": 197.739,
+    "duration": 1.585
+  },
+  {
+    "text": "I'm not letting them take anything home.",
+    "start": 199.407,
+    "duration": 1.668
+  },
+  {
+    "text": "I want everything to be written in class.",
+    "start": 201.075,
+    "duration": 2.294
+  },
+  {
+    "text": "The last two midterms I had were in-class papers",
+    "start": 203.369,
+    "duration": 2.545
+  },
+  {
+    "text": "and it felt like I was in high school and I hated it.",
+    "start": 205.914,
+    "duration": 2.127
+  },
+  {
+    "text": "I really don't know how you prevent students from using A.I.",
+    "start": 208.124,
+    "duration": 3.587
+  },
+  {
+    "text": "because the detection softwares are really imperfect.",
+    "start": 211.753,
+    "duration": 2.836
+  },
+  {
+    "text": "There will be false positives that the false positives",
+    "start": 214.672,
+    "duration": 2.044
+  },
+  {
+    "text": "are going to be awkward situations with the teacher and the student.",
+    "start": 216.716,
+    "duration": 2.419
+  },
+  {
+    "text": "I have a problem accusing a kid of using ChatGPT or using A.I.",
+    "start": 219.219,
+    "duration": 5.172
+  },
+  {
+    "text": "when I'm not at 100%.",
+    "start": 224.599,
+    "duration": 1.376
+  },
+  {
+    "text": "So I have found the detector helpful.",
+    "start": 226.226,
+    "duration": 2.043
+  },
+  {
+    "text": "It's not perfect. We know it's not perfect.",
+    "start": 228.394,
+    "duration": 2.211
+  },
+  {
+    "text": "To avoid detection is basically cycle it a couple of times within the software.",
+    "start": 230.688,
+    "duration": 2.92
+  },
+  {
+    "text": "Change whole sections of it, add sentences, remove sentences,",
+    "start": 233.608,
+    "duration": 4.754
+  },
+  {
+    "text": "and chances are, unfortunately,",
+    "start": 238.696,
+    "duration": 1.418
+  },
+  {
+    "text": "professors are not going to detect that.",
+    "start": 240.114,
+    "duration": 1.377
+  },
+  {
+    "text": "One of my other friends, he's a great guy.",
+    "start": 241.491,
+    "duration": 1.835
+  },
+  {
+    "text": "I'm not going to say that",
+    "start": 243.326,
+    "duration": 1.71
+  },
+  {
+    "text": "he's like a horrible person or something,",
+    "start": 245.036,
+    "duration": 1.71
+  },
+  {
+    "text": "but like if he can get away without getting caught at all",
+    "start": 246.996,
+    "duration": 3.128
+  },
+  {
+    "text": "for like four terms, I'm going to be pretty skeptical",
+    "start": 250.124,
+    "duration": 2.586
+  },
+  {
+    "text": "of the AI-detection abilities.",
+    "start": 252.71,
+    "duration": 2.586
+  },
+  {
+    "text": "After ChatGPT came out, a bunch of tools popped up",
+    "start": 255.38,
+    "duration": 2.752
+  },
+  {
+    "text": "saying that they could detect A.I. writing.",
+    "start": 258.132,
+    "duration": 1.919
+  },
+  {
+    "text": "But if you look at OpenAI’s educator FAQ, they say detectors don't work.",
+    "start": 260.134,
+    "duration": 4.63
+  },
+  {
+    "text": "So which is it?",
+    "start": 264.931,
+    "duration": 1.084
+  },
+  {
+    "text": "Well, they work sometimes.",
+    "start": 266.015,
+    "duration": 1.418
+  },
+  {
+    "text": "That's the era we're living in. We have technologies that make guesses.",
+    "start": 267.684,
+    "duration": 4.045
+  },
+  {
+    "text": "We can say that the detectors are generally more accurate on longer samples of text",
+    "start": 271.938,
+    "duration": 4.463
+  },
+  {
+    "text": "and on text that hasn't been edited at all.",
+    "start": 276.567,
+    "duration": 2.461
+  },
+  {
+    "text": "Some detectors may be biased against non-native English speakers.",
+    "start": 279.237,
+    "duration": 3.17
+  },
+  {
+    "text": "So be careful there. And you'll want to check\nif the tool you're using",
+    "start": 282.448,
+    "duration": 2.753
+  },
+  {
+    "text": "is transparent about how often it's wrong.",
+    "start": 285.201,
+    "duration": 2.419
+  },
+  {
+    "text": "I couldn't find error rates for these detectors, so who knows if they're really testing the product.",
+    "start": 287.704,
+    "duration": 5.38
+  },
+  {
+    "text": "There's an alternative to detecting AI,",
+    "start": 293.167,
+    "duration": 2.128
+  },
+  {
+    "text": "which is certifying human writing by doing things  like tracking typing patterns and pastes and time spent.",
+    "start": 295.295,
+    "duration": 5.964
+  },
+  {
+    "text": "GPT Zero's writing report even offers a reenactment of the document being written.",
+    "start": 301.467,
+    "duration": 7.8
+  },
+  {
+    "text": "Maybe more and more writing will be done under this kind of surveillance,",
+    "start": 309.309,
+    "duration": 3.336
+  },
+  {
+    "text": "but it doesn't apply to other kinds of assignments.",
+    "start": 312.645,
+    "duration": 2.628
+  },
+  {
+    "text": "And at some point we have to ask if it makes sense to prohibit chat bots for school.",
+    "start": 315.315,
+    "duration": 4.504
+  },
+  {
+    "text": "when tech companies are inserting them everywhere else.",
+    "start": 319.902,
+    "duration": 4.046
+  },
+  {
+    "text": "Notion. Snapchat. Google Docs.\nThey have that “help me write.”",
+    "start": 324.032,
+    "duration": 0.5
+  },
+  {
+    "text": "But and that's built right into the document.",
+    "start": 324.532,
+    "duration": 4.755
+  },
+  {
+    "text": "It really raises the question of, do I have to cite the work of the",
+    "start": 329.287,
+    "duration": 4.129
+  },
+  {
+    "text": "AI now lest I face academic consequences?",
+    "start": 333.666,
+    "duration": 3.253
+  },
+  {
+    "text": "And students aren't the only ones finding them useful.",
+    "start": 337.003,
+    "duration": 1.918
+  },
+  {
+    "text": "I immediately got really excited about using it because I knew it would save hours of my life.",
+    "start": 339.005,
+    "duration": 5.63
+  },
+  {
+    "text": "Say one, of the first things I said was I create a lot of resources using chatbots",
+    "start": 344.802,
+    "duration": 3.879
+  },
+  {
+    "text": "because it's a good support for me",
+    "start": 348.848,
+    "duration": 1.335
+  },
+  {
+    "text": "Creating readings for students. Questions that your students can answer.",
+    "start": 350.183,
+    "duration": 2.794
+  },
+  {
+    "text": "For giving feedback on essays.",
+    "start": 352.977,
+    "duration": 2.503
+  },
+  {
+    "text": "It feels a little disingenuous being like you can't use it at all.",
+    "start": 355.521,
+    "duration": 3.629
+  },
+  {
+    "text": "But I am using AI to generate the stuff for this class.",
+    "start": 359.233,
+    "duration": 5.297
+  },
+  {
+    "text": "So let's take a look at the other path,",
+    "start": 364.614,
+    "duration": 1.543
+  },
+  {
+    "text": "which is allowing students to use but not misuse A.I. chatbots.",
+    "start": 366.24,
+    "duration": 4.088
+  },
+  {
+    "text": "I think A.I. is a wonderful supplement to students’ education journeys",
+    "start": 370.328,
+    "duration": 4.588
+  },
+  {
+    "text": "as long as it's used responsibly.",
+    "start": 374.957,
+    "duration": 2.67
+  },
+  {
+    "text": "if we don't embrace it while we're in school,\nwhich is where we learn how to do things,",
+    "start": 377.627,
+    "duration": 4.087
+  },
+  {
+    "text": "you're going to end up with with a future generation\nthat's struggling",
+    "start": 381.839,
+    "duration": 2.419
+  },
+  {
+    "text": "to adapt to its surroundings.",
+    "start": 384.384,
+    "duration": 1.501
+  },
+  {
+    "text": "We should be figuring out how,",
+    "start": 385.885,
+    "duration": 1.919
+  },
+  {
+    "text": "you know, our students can benefit from it ",
+    "start": 387.887,
+    "duration": 1.585
+  },
+  {
+    "text": "instead of just trying to outright ban it.",
+    "start": 389.472,
+    "duration": 2.836
+  },
+  {
+    "text": "Because that feels ridiculous.",
+    "start": 392.392,
+    "duration": 1.084
+  },
+  {
+    "text": "That feels absolutely ridiculous.",
+    "start": 393.476,
+    "duration": 2.336
+  },
+  {
+    "text": "The International Baccalaureate program",
+    "start": 395.895,
+    "duration": 1.668
+  },
+  {
+    "text": "says AI shouldn't be banned",
+    "start": 397.563,
+    "duration": 1.585
+  },
+  {
+    "text": "because it will become part of our everyday lives like spell",
+    "start": 399.148,
+    "duration": 2.461
+  },
+  {
+    "text": "checkers, translation software and calculators.",
+    "start": 401.609,
+    "duration": 3.003
+  },
+  {
+    "text": "Calculator’s not so scary.",
+    "start": 404.695,
+    "duration": 1.502
+  },
+  {
+    "text": "It frees up time on the tedious stuff",
+    "start": 406.197,
+    "duration": 1.71
+  },
+  {
+    "text": "so that students can move on to more complex problems.",
+    "start": 407.907,
+    "duration": 3.086
+  },
+  {
+    "text": "But there are a couple of ways that I'd say this is different from that.",
+    "start": 411.077,
+    "duration": 3.67
+  },
+  {
+    "text": "For one: Calculators don't make things up.",
+    "start": 414.831,
+    "duration": 3.003
+  },
+  {
+    "text": "It gave me some quotes, I thought, this is perfect.",
+    "start": 417.917,
+    "duration": 1.71
+  },
+  {
+    "text": "But when I tried to search it,",
+    "start": 419.836,
+    "duration": 1.793
+  },
+  {
+    "text": "I put these sources into Google, and all of them were fake.",
+    "start": 421.671,
+    "duration": 2.252
+  },
+  {
+    "text": "That quote isn't in the book, like they didn't exist at all.",
+    "start": 424.006,
+    "duration": 2.711
+  },
+  {
+    "text": "I was able to generate text about the “near extinction",
+    "start": 426.801,
+    "duration": 2.544
+  },
+  {
+    "text": "of the the Yahgan people,” which isn't true at all.",
+    "start": 429.345,
+    "duration": 2.586
+  },
+  {
+    "text": "What's the difference between a consequent",
+    "start": 431.931,
+    "duration": 1.835
+  },
+  {
+    "text": "boundary and subsequent boundary?",
+    "start": 433.85,
+    "duration": 1.209
+  },
+  {
+    "text": "And I don't remember exactly what ChatGPT",
+    "start": 435.309,
+    "duration": 1.836
+  },
+  {
+    "text": "said, but they got it wrong.",
+    "start": 437.145,
+    "duration": 1.293
+  },
+  {
+    "text": "The less you know about something, the more likely",
+    "start": 438.438,
+    "duration": 2.752
+  },
+  {
+    "text": "you are to be convinced by ChatGPT's answer.",
+    "start": 441.19,
+    "duration": 3.087
+  },
+  {
+    "text": "That was when I really realized that I was like,",
+    "start": 444.277,
+    "duration": 2.21
+  },
+  {
+    "text": "this is --you have to be very careful.",
+    "start": 446.612,
+    "duration": 2.294
+  },
+  {
+    "text": "So critical literacy is important",
+    "start": 448.906,
+    "duration": 1.669
+  },
+  {
+    "text": "but we have that problem with humans as well.",
+    "start": 450.658,
+    "duration": 6.84
+  },
+  {
+    "text": "Chatbots work by predicting a plausible sequence of words.",
+    "start": 457.582,
+    "duration": 2.919
+  },
+  {
+    "text": "That makes them more flawed than calculators and spell checkers,",
+    "start": 460.71,
+    "duration": 2.878
+  },
+  {
+    "text": "but it also makes them much more broad.",
+    "start": 463.713,
+    "duration": 2.544
+  },
+  {
+    "text": "Let me list some of the things",
+    "start": 466.424,
+    "duration": 1.084
+  },
+  {
+    "text": "a student can ask a chatbot for.",
+    "start": 467.508,
+    "duration": 1.877
+  },
+  {
+    "text": "And while I do that, think about",
+    "start": 469.469,
+    "duration": 1.334
+  },
+  {
+    "text": "which of these you would consider a misuse:",
+    "start": 470.803,
+    "duration": 3.003
+  },
+  {
+    "text": "Answers to a homework question.",
+    "start": 473.89,
+    "duration": 1.459
+  },
+  {
+    "text": "Background information on a topic.",
+    "start": 475.475,
+    "duration": 1.668
+  },
+  {
+    "text": "Definitions or explanations of a concept.",
+    "start": 477.268,
+    "duration": 2.252
+  },
+  {
+    "text": "Sources to find more information.",
+    "start": 479.604,
+    "duration": 1.668
+  },
+  {
+    "text": "Summaries of readings and lectures.",
+    "start": 481.439,
+    "duration": 1.793
+  },
+  {
+    "text": "Study guides for an exam.",
+    "start": 483.316,
+    "duration": 1.293
+  },
+  {
+    "text": "Ideas for how to respond to an assignment.",
+    "start": 484.734,
+    "duration": 2.085
+  },
+  {
+    "text": "Instructions for solving a problem.",
+    "start": 486.903,
+    "duration": 1.71
+  },
+  {
+    "text": "An outline for a paper or presentation.",
+    "start": 488.696,
+    "duration": 2.294
+  },
+  {
+    "text": "Examples, analogies, and counterarguments.",
+    "start": 491.073,
+    "duration": 2.378
+  },
+  {
+    "text": "A draft of a paper or a discussion post.",
+    "start": 493.534,
+    "duration": 2.211
+  },
+  {
+    "text": "A script for a presentation.",
+    "start": 495.953,
+    "duration": 1.669
+  },
+  {
+    "text": "Feedback on their work.",
+    "start": 497.705,
+    "duration": 1.376
+  },
+  {
+    "text": "A revision of a text to improve it.",
+    "start": 499.081,
+    "duration": 2.211
+  },
+  {
+    "text": "A revision of a text to change its word count, and more.",
+    "start": 501.459,
+    "duration": 3.462
+  },
+  {
+    "text": "Some of these definitely seem helpful for learning,\nbut others,",
+    "start": 505.046,
+    "duration": 2.919
+  },
+  {
+    "text": "it's not so clear.",
+    "start": 508.132,
+    "duration": 1.21
+  },
+  {
+    "text": "Is it okay to ask a chatbot for information?",
+    "start": 509.467,
+    "duration": 2.21
+  },
+  {
+    "text": "I'll typically ask ChatGPT to just to summarize",
+    "start": 511.761,
+    "duration": 3.42
+  },
+  {
+    "text": "that topic into easy to read bullet points.",
+    "start": 515.181,
+    "duration": 2.753
+  },
+  {
+    "text": "I don't see that as very different from getting on Wikipedia.",
+    "start": 517.934,
+    "duration": 3.169
+  },
+  {
+    "text": "Most of the students talked about using ChatGPT",
+    "start": 521.229,
+    "duration": 3.003
+  },
+  {
+    "text": "in particular almost as a kind of Wikipedia,",
+    "start": 524.315,
+    "duration": 3.42
+  },
+  {
+    "text": "and I really quickly was like, Ooh,",
+    "start": 527.818,
+    "duration": 2.044
+  },
+  {
+    "text": "I don't think that's the best way to use these tools.",
+    "start": 529.904,
+    "duration": 2.169
+  },
+  {
+    "text": "Is it okay to get ideas from a chatbot?",
+    "start": 532.198,
+    "duration": 2.711
+  },
+  {
+    "text": "I think in terms of outlining and brainstorming,",
+    "start": 534.992,
+    "duration": 2.878
+  },
+  {
+    "text": "I think that's actually fairly low risk.",
+    "start": 537.87,
+    "duration": 2.378
+  },
+  {
+    "text": "When it comes to generating ideas,",
+    "start": 540.289,
+    "duration": 1.835
+  },
+  {
+    "text": "it's not really giving you an inspiration.",
+    "start": 542.375,
+    "duration": 2.794
+  },
+  {
+    "text": "It's giving you an answer.",
+    "start": 545.169,
+    "duration": 1.369
+  },
+  {
+    "text": "My friends and I were brainstorming different topics and one was like, No, no.",
+    "start": 546.538,
+    "duration": 4.846
+  },
+  {
+    "text": "Quit thinking. I already looked for it on ChatGPT and they have this incredible idea and we can delve into these",
+    "start": 551.467,
+    "duration": 6.006
+  },
+  {
+    "text": "but we did write all the text on our own.",
+    "start": 557.64,
+    "duration": 3.629
+  },
+  {
+    "text": "It's not like we copy and paste because",
+    "start": 561.477,
+    "duration": 2.878
+  },
+  {
+    "text": "that is cheating.",
+    "start": 564.438,
+    "duration": 1.585
+  },
+  {
+    "text": "What about using AI to write a paper",
+    "start": 566.107,
+    "duration": 1.96
+  },
+  {
+    "text": "after you've done the research and analysis?",
+    "start": 568.067,
+    "duration": 2.461
+  },
+  {
+    "text": "If it's all your ideas and ChatGPT is the editor,",
+    "start": 570.611,
+    "duration": 3.462
+  },
+  {
+    "text": "the product is all yours. It's just been aided.",
+    "start": 574.115,
+    "duration": 2.419
+  },
+  {
+    "text": "One of the things that we do when we're writing is",
+    "start": 576.534,
+    "duration": 1.96
+  },
+  {
+    "text": "we're figuring out what we think. And then ChatGPT reorganizes",
+    "start": 578.494,
+    "duration": 4.379
+  },
+  {
+    "text": "things, adds some facts that I didn't know.",
+    "start": 582.873,
+    "duration": 2.878
+  },
+  {
+    "text": "And then my take is like, that's pretty much what I said, right?",
+    "start": 585.835,
+    "duration": 3.671
+  },
+  {
+    "text": "And it's not really.",
+    "start": 589.589,
+    "duration": 2.752
+  },
+  {
+    "text": "I think the reason they disagree on",
+    "start": 592.425,
+    "duration": 1.251
+  },
+  {
+    "text": "how to handle this tool is that it isn't really a tool--",
+    "start": 593.676,
+    "duration": 2.461
+  },
+  {
+    "text": "It wasn't built to do some specific task.",
+    "start": 596.178,
+    "duration": 2.378
+  },
+  {
+    "text": "Now there will be tools that are constrained",
+    "start": 598.639,
+    "duration": 2.294
+  },
+  {
+    "text": "to act more like tutors.",
+    "start": 600.933,
+    "duration": 1.293
+  },
+  {
+    "text": "But OpenAI says they're trying to build\n\"general intelligence.\"",
+    "start": 602.226,
+    "duration": 3.837
+  },
+  {
+    "text": "General meaning something more like a student",
+    "start": 606.314,
+    "duration": 2.252
+  },
+  {
+    "text": "than a calculator.",
+    "start": 608.774,
+    "duration": 1.21
+  },
+  {
+    "text": "The difference is that calculators don't like,",
+    "start": 609.984,
+    "duration": 2.544
+  },
+  {
+    "text": "don't make the equation for you.",
+    "start": 612.695,
+    "duration": 1.46
+  },
+  {
+    "text": "Calculators don't like come up with a creative solution.",
+    "start": 614.155,
+    "duration": 3.253
+  },
+  {
+    "text": "Meanwhile, ChatGPT gives you all of the steps.",
+    "start": 617.45,
+    "duration": 2.711
+  },
+  {
+    "text": "It's I'd say a lot easier,",
+    "start": 620.369,
+    "duration": 1.835
+  },
+  {
+    "text": "at least for me to just, like, read something",
+    "start": 622.204,
+    "duration": 2.586
+  },
+  {
+    "text": "and then write it down than to, like,",
+    "start": 624.79,
+    "duration": 1.377
+  },
+  {
+    "text": "actually think about something.",
+    "start": 626.167,
+    "duration": 1.751
+  },
+  {
+    "text": "They're not going to get that opportunity to sit there",
+    "start": 627.918,
+    "duration": 2.628
+  },
+  {
+    "text": "and really go from A to B to C,",
+    "start": 630.546,
+    "duration": 3.67
+  },
+  {
+    "text": "when you can go from A to C really quickly for them.",
+    "start": 634.3,
+    "duration": 4.796
+  },
+  {
+    "text": "You know, maybe it's just easier",
+    "start": 639.18,
+    "duration": 2.21
+  },
+  {
+    "text": "to just take the ChatGPT generation,",
+    "start": 641.39,
+    "duration": 2.92
+  },
+  {
+    "text": "like the generated response,",
+    "start": 644.393,
+    "duration": 2.253
+  },
+  {
+    "text": "and then just tweak it to sound more like me",
+    "start": 646.646,
+    "duration": 2.502
+  },
+  {
+    "text": "than to create my own original piece of work",
+    "start": 649.231,
+    "duration": 2.378
+  },
+  {
+    "text": "if my work is going to be like, not as good.",
+    "start": 651.692,
+    "duration": 9.969
+  },
+  {
+    "text": "Sometimes with the grades and the GPAs and everything,",
+    "start": 661.744,
+    "duration": 2.92
+  },
+  {
+    "text": "it can feel like the point of school assignments is to evaluate students when really",
+    "start": 664.747,
+    "duration": 3.879
+  },
+  {
+    "text": "the point is the learning that happens along the way.",
+    "start": 668.626,
+    "duration": 2.544
+  },
+  {
+    "text": "The grades are there to monitor the learning.",
+    "start": 671.253,
+    "duration": 2.378
+  },
+  {
+    "text": "And as my friend Denzel points out,",
+    "start": 673.839,
+    "duration": 2.086
+  },
+  {
+    "text": "You can’t grade someone on something that's not theirs.",
+    "start": 676.008,
+    "duration": 3.003
+  },
+  {
+    "text": "So let's take a look at how learning works.",
+    "start": 679.095,
+    "duration": 2.21
+  },
+  {
+    "text": "And this is where the challenge to education really lies,",
+    "start": 681.347,
+    "duration": 2.252
+  },
+  {
+    "text": "because technology is usually supposed to make things easy.",
+    "start": 683.599,
+    "duration": 3.337
+  },
+  {
+    "text": "But the research shows that real learning",
+    "start": 687.144,
+    "duration": 2.336
+  },
+  {
+    "text": "requires things to be a little bit hard.",
+    "start": 689.563,
+    "duration": 2.67
+  },
+  {
+    "text": "Let me give you an example.",
+    "start": 692.316,
+    "duration": 1.46
+  },
+  {
+    "text": "I used GPS almost constantly to get around the city.",
+    "start": 693.859,
+    "duration": 2.545
+  },
+  {
+    "text": "It tells me which train or bus I need, which",
+    "start": 696.612,
+    "duration": 2.377
+  },
+  {
+    "text": "subway exit to take, basically how to walk.",
+    "start": 698.989,
+    "duration": 3.337
+  },
+  {
+    "text": "A bunch of studies have looked",
+    "start": 702.41,
+    "duration": 1.042
+  },
+  {
+    "text": "at how this affects our spatial abilities",
+    "start": 703.452,
+    "duration": 2.086
+  },
+  {
+    "text": "because, hey, maybe watching this app",
+    "start": 705.621,
+    "duration": 2.252
+  },
+  {
+    "text": "produce instructions for my route",
+    "start": 707.873,
+    "duration": 1.502
+  },
+  {
+    "text": "is teaching me how to get around.",
+    "start": 709.375,
+    "duration": 1.793
+  },
+  {
+    "text": "You know, it's giving me all of these examples\nto learn from.",
+    "start": 711.168,
+    "duration": 3.003
+  },
+  {
+    "text": "But no, the experiments consistently show that turn by turn",
+    "start": 714.255,
+    "duration": 3.587
+  },
+  {
+    "text": "navigation leaves us with poorer spatial knowledge of the area.",
+    "start": 717.842,
+    "duration": 4.421
+  },
+  {
+    "text": "That's because the tech lets us \"disengage from our environment.\"",
+    "start": 722.346,
+    "duration": 2.711
+  },
+  {
+    "text": "If I really wanted to build a cognitive map of the space,",
+    "start": 725.266,
+    "duration": 3.128
+  },
+  {
+    "text": "that requires \"active engagement in the navigation process,\"",
+    "start": 728.477,
+    "duration": 3.128
+  },
+  {
+    "text": "And that means making decisions, which is hard.",
+    "start": 731.814,
+    "duration": 3.086
+  },
+  {
+    "text": "And I may decide that it's fine to offload my spatial",
+    "start": 734.984,
+    "duration": 3.795
+  },
+  {
+    "text": "learning to this app and just expect",
+    "start": 738.779,
+    "duration": 2.169
+  },
+  {
+    "text": "that it will always be there for me.",
+    "start": 740.948,
+    "duration": 1.752
+  },
+  {
+    "text": "But what about learning in other domains like in school?",
+    "start": 742.783,
+    "duration": 5.005
+  },
+  {
+    "text": "There's a really interesting study from a few years back",
+    "start": 747.872,
+    "duration": 2.168
+  },
+  {
+    "text": "where they divided college students into two classrooms",
+    "start": 750.04,
+    "duration": 2.795
+  },
+  {
+    "text": "that covered the exact same physics lesson,",
+    "start": 753.043,
+    "duration": 2.294
+  },
+  {
+    "text": "but in different ways.",
+    "start": 755.337,
+    "duration": 1.71
+  },
+  {
+    "text": "One class presented the material in a passive lecture.",
+    "start": 757.131,
+    "duration": 2.961
+  },
+  {
+    "text": "And it was done in a way that it would mimic",
+    "start": 760.092,
+    "duration": 2.961
+  },
+  {
+    "text": "a lecture from a super lecturer,",
+    "start": 763.053,
+    "duration": 2.586
+  },
+  {
+    "text": "you know, like very smooth, very, very fluent.",
+    "start": 765.723,
+    "duration": 2.836
+  },
+  {
+    "text": "The other class used an active learning method",
+    "start": 768.642,
+    "duration": 2.211
+  },
+  {
+    "text": "where the students were put into small groups",
+    "start": 770.853,
+    "duration": 2.002
+  },
+  {
+    "text": "and then given unfamiliar problems to work on.",
+    "start": 772.897,
+    "duration": 2.502
+  },
+  {
+    "text": "They weren't given much direction.",
+    "start": 775.483,
+    "duration": 2.544
+  },
+  {
+    "text": "So it was a bit frustrating.",
+    "start": 778.11,
+    "duration": 1.585
+  },
+  {
+    "text": "And then the instructor would interrupt them",
+    "start": 779.779,
+    "duration": 2.919
+  },
+  {
+    "text": "and then explain, basically give them the feedback",
+    "start": 782.782,
+    "duration": 3.67
+  },
+  {
+    "text": "of how an expert thinks about these things.",
+    "start": 786.535,
+    "duration": 2.127
+  },
+  {
+    "text": "At the end of the class, they asked the students",
+    "start": 788.788,
+    "duration": 1.751
+  },
+  {
+    "text": "if they felt like they learned a great deal from the session,",
+    "start": 790.539,
+    "duration": 2.127
+  },
+  {
+    "text": "and the students who received the passive lecture said",
+    "start": 792.875,
+    "duration": 2.21
+  },
+  {
+    "text": "that they learned more than those who did the active learning class.",
+    "start": 795.085,
+    "duration": 2.586
+  },
+  {
+    "text": "They were also more likely to say",
+    "start": 797.755,
+    "duration": 1.376
+  },
+  {
+    "text": "that all of their physics classes should be taught that way.",
+    "start": 799.131,
+    "duration": 2.461
+  },
+  {
+    "text": "They preferred just watching the lecture, but they were wrong.",
+    "start": 801.675,
+    "duration": 4.088
+  },
+  {
+    "text": "Tests on the material showed that the students in the active participation class",
+    "start": 805.971,
+    "duration": 3.712
+  },
+  {
+    "text": "actually learned more of the information.",
+    "start": 809.683,
+    "duration": 1.836
+  },
+  {
+    "text": "It turns out that we're not great at judging how well we're learning.",
+    "start": 811.685,
+    "duration": 3.17
+  },
+  {
+    "text": "Whenever we try and judge",
+    "start": 814.98,
+    "duration": 1.877
+  },
+  {
+    "text": "if a learning experience is productive or not,",
+    "start": 816.857,
+    "duration": 3.671
+  },
+  {
+    "text": "the strongest metacognitive cue, that we use",
+    "start": 820.611,
+    "duration": 4.046
+  },
+  {
+    "text": "is perception of fluency.",
+    "start": 824.74,
+    "duration": 2.211
+  },
+  {
+    "text": "Fluency is when information is going down easy.",
+    "start": 827.034,
+    "duration": 2.795
+  },
+  {
+    "text": "It's well presented, it's organized, it's convenient.",
+    "start": 829.829,
+    "duration": 3.42
+  },
+  {
+    "text": "Fluency is the reason why students tend to reread their notes",
+    "start": 833.332,
+    "duration": 3.253
+  },
+  {
+    "text": "and textbooks when they're studying,",
+    "start": 836.585,
+    "duration": 1.543
+  },
+  {
+    "text": "when really they should be giving themselves quizzes",
+    "start": 838.337,
+    "duration": 2.586
+  },
+  {
+    "text": "or trying to explain the material in their own words.",
+    "start": 840.923,
+    "duration": 2.961
+  },
+  {
+    "text": "Education researchers have this term \"desirable difficulties,\"",
+    "start": 843.884,
+    "duration": 3.754
+  },
+  {
+    "text": "which describes this kind of effortful participation",
+    "start": 847.721,
+    "duration": 2.878
+  },
+  {
+    "text": "that really works but also kind of hurts.",
+    "start": 850.724,
+    "duration": 3.587
+  },
+  {
+    "text": "And the risk with AI",
+    "start": 854.395,
+    "duration": 1.418
+  },
+  {
+    "text": "is that we might not preserve that effort,",
+    "start": 855.813,
+    "duration": 2.044
+  },
+  {
+    "text": "especially because we already tend to misinterpret",
+    "start": 858.065,
+    "duration": 2.294
+  },
+  {
+    "text": "a little bit of struggling as a signal that we're not learning.",
+    "start": 860.359,
+    "duration": 3.337
+  },
+  {
+    "text": "I want them to know that struggling is okay.",
+    "start": 863.779,
+    "duration": 2.836
+  },
+  {
+    "text": "It's not about getting the right answer.",
+    "start": 866.615,
+    "duration": 2.044
+  },
+  {
+    "text": "It's not about having the correct opinion.",
+    "start": 868.659,
+    "duration": 2.711
+  },
+  {
+    "text": "You do not become a better writer by just editing other people's work.",
+    "start": 871.495,
+    "duration": 3.545
+  },
+  {
+    "text": "You do it through the struggle.",
+    "start": 875.04,
+    "duration": 1.877
+  },
+  {
+    "text": "The text is kind of like the snakeskin of the growth.",
+    "start": 877.001,
+    "duration": 3.712
+  },
+  {
+    "text": "You can replicate the snakeskin,",
+    "start": 880.796,
+    "duration": 1.668
+  },
+  {
+    "text": "but there's a reason you chose to be in this room.",
+    "start": 882.464,
+    "duration": 1.544
+  },
+  {
+    "text": "And the reason is the path.",
+    "start": 884.008,
+    "duration": 1.334
+  },
+  {
+    "text": "The reason isn't the product.",
+    "start": 885.551,
+    "duration": 3.503
+  },
+  {
+    "text": "So with all that said, we can look back at those prompts",
+    "start": 889.138,
+    "duration": 2.836
+  },
+  {
+    "text": "and ask, is this making the work easy for me?",
+    "start": 892.016,
+    "duration": 2.878
+  },
+  {
+    "text": "Or is it motivating me to try the hard things?",
+    "start": 894.977,
+    "duration": 3.629
+  },
+  {
+    "text": "So you could use a chatbot to avoid",
+    "start": 898.689,
+    "duration": 2.085
+  },
+  {
+    "text": "reading a challenging text,",
+    "start": 900.774,
+    "duration": 1.21
+  },
+  {
+    "text": "or you could use it to work through that text",
+    "start": 902.026,
+    "duration": 2.752
+  },
+  {
+    "text": "and help you get more out of it.",
+    "start": 904.778,
+    "duration": 1.418
+  },
+  {
+    "text": "I tried to read like the Prose Edda.",
+    "start": 906.28,
+    "duration": 1.627
+  },
+  {
+    "text": "And it was just impossible to read for me.",
+    "start": 907.99,
+    "duration": 1.877
+  },
+  {
+    "text": "It was very, very hard.",
+    "start": 909.867,
+    "duration": 1.209
+  },
+  {
+    "text": "I think that ChatGPT might be able",
+    "start": 911.243,
+    "duration": 1.543
+  },
+  {
+    "text": "to, you know, parse through some of the harder language, simplify things,",
+    "start": 912.786,
+    "duration": 4.463
+  },
+  {
+    "text": "You could use it to answer questions for you",
+    "start": 917.333,
+    "duration": 2.21
+  },
+  {
+    "text": "or it could inspire you to ask questions",
+    "start": 919.71,
+    "duration": 2.169
+  },
+  {
+    "text": "you wouldn't have asked before.",
+    "start": 921.879,
+    "duration": 1.752
+  },
+  {
+    "text": "If you have a question in class",
+    "start": 923.714,
+    "duration": 1.251
+  },
+  {
+    "text": "and you're not sure what to do with it, now your first step, instead of going",
+    "start": 924.965,
+    "duration": 2.795
+  },
+  {
+    "text": "to a teaching assistantor a friend, might be to ask you about",
+    "start": 927.76,
+    "duration": 2.419
+  },
+  {
+    "text": "You could use it to write or rewrite your words to sound perfect,",
+    "start": 930.304,
+    "duration": 3.42
+  },
+  {
+    "text": "or you could ask it to critique your writing, and then you decide how you want to make changes.",
+    "start": 933.807,
+    "duration": 4.38
+  },
+  {
+    "text": "Where are their problems in the logic? Where are there,",
+    "start": 938.27,
+    "duration": 3.087
+  },
+  {
+    "text": "you know, sentences that aren't clear and so on?",
+    "start": 941.44,
+    "duration": 2.544
+  },
+  {
+    "text": "There's a point in which the student has to make that realization and say,",
+    "start": 944.109,
+    "duration": 4.171
+  },
+  {
+    "text": "okay, this is where I need to work on this.",
+    "start": 948.364,
+    "duration": 2.168
+  },
+  {
+    "text": "And this is like, this is where I need to use ChatGPT,",
+    "start": 950.741,
+    "duration": 2.169
+  },
+  {
+    "text": "and this is where I need to not use ChatGPT.",
+    "start": 952.952,
+    "duration": 2.669
+  },
+  {
+    "text": "But I feel like it's just like asking for trouble because",
+    "start": 955.746,
+    "duration": 5.923
+  },
+  {
+    "text": "high schoolers, man.",
+    "start": 961.752,
+    "duration": 5.339
+  },
+  {
+    "text": "Our schools and teachers prompt us to build our own mental map of the world",
+    "start": 967.174,
+    "duration": 4.671
+  },
+  {
+    "text": "where we can connect ideas and perspectives",
+    "start": 971.929,
+    "duration": 2.669
+  },
+  {
+    "text": "and knowledge across space and time.",
+    "start": 974.598,
+    "duration": 2.336
+  },
+  {
+    "text": "And you want to have that map to help you\nnavigate your future",
+    "start": 976.976,
+    "duration": 3.211
+  },
+  {
+    "text": "and find your place in the human story.",
+    "start": 980.437,
+    "duration": 2.711
+  },
+  {
+    "text": "But from now on, there will always be companies",
+    "start": 983.232,
+    "duration": 2.627
+  },
+  {
+    "text": "offering you turn by turn directions instead.",
+    "start": 985.859,
+    "duration": 2.67
+  },
+  {
+    "text": "And you might think I'm a kid.",
+    "start": 988.529,
+    "duration": 3.92
+  },
+  {
+    "text": "That's a lot of self-regulation to ask",
+    "start": 992.533,
+    "duration": 1.918
+  },
+  {
+    "text": "from someone whose brain is still cooking.",
+    "start": 994.451,
+    "duration": 2.461
+  },
+  {
+    "text": "I mean, we're still trying to figure out",
+    "start": 996.996,
+    "duration": 1.751
+  },
+  {
+    "text": "how to manage these things.",
+    "start": 998.747,
+    "duration": 1.335
+  },
+  {
+    "text": "And adults don't even know",
+    "start": 1000.082,
+    "duration": 1.46
+  },
+  {
+    "text": "what AI's is going to look like in ten years,",
+    "start": 1001.542,
+    "duration": 1.668
+  },
+  {
+    "text": "let alone what jobs will exist.",
+    "start": 1003.21,
+    "duration": 2.044
+  },
+  {
+    "text": "Isn't that kind of a lot to put on us?",
+    "start": 1005.337,
+    "duration": 2.336
+  },
+  {
+    "text": "And my response to that is, yeah,",
+    "start": 1007.756,
+    "duration": 3.879
+  },
+  {
+    "text": "it is.",
+    "start": 1011.719,
+    "duration": 0.542
+  }
+]

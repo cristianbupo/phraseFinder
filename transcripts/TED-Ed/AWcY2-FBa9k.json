@@ -1,0 +1,407 @@
+[
+  {
+    "text": "Dutch artist Piet Mondrian’s abstract,\nrectangular paintings",
+    "start": 6.832,
+    "duration": 4.044
+  },
+  {
+    "text": "inspired mathematicians \nto create a two-fold challenge.",
+    "start": 10.876,
+    "duration": 4.67
+  },
+  {
+    "text": "First, we must completely cover a square\ncanvas with non-overlapping rectangles.",
+    "start": 15.546,
+    "duration": 5.952
+  },
+  {
+    "text": "All must be unique, so if we use a 1x4, \nwe can’t use a 4x1 in another spot,",
+    "start": 21.498,
+    "duration": 6.434
+  },
+  {
+    "text": "but a 2x2 rectangle would be fine.",
+    "start": 27.932,
+    "duration": 3.825
+  },
+  {
+    "text": "Let’s try that.",
+    "start": 31.757,
+    "duration": 1.349
+  },
+  {
+    "text": "Say we have a canvas measuring 4x4.",
+    "start": 33.106,
+    "duration": 2.721
+  },
+  {
+    "text": "We can’t chop it directly in half,",
+    "start": 35.827,
+    "duration": 2.131
+  },
+  {
+    "text": "since that would give us \nidentical rectangles of 2x4.",
+    "start": 37.958,
+    "duration": 3.613
+  },
+  {
+    "text": "But the next closest option \n- 3x4 and 1x4 - works.",
+    "start": 41.571,
+    "duration": 5.436
+  },
+  {
+    "text": "That was easy, but we’re not done yet.",
+    "start": 47.007,
+    "duration": 2.434
+  },
+  {
+    "text": "Now take the area \nof the largest rectangle,",
+    "start": 49.441,
+    "duration": 2.668
+  },
+  {
+    "text": "and subtract the area of the smallest.",
+    "start": 52.109,
+    "duration": 3.063
+  },
+  {
+    "text": "The result is our score,",
+    "start": 55.172,
+    "duration": 1.989
+  },
+  {
+    "text": "and the goal is to get \nas low a score as possible.",
+    "start": 57.161,
+    "duration": 4.014
+  },
+  {
+    "text": "Here, the largest area is 12 \nand the smallest is 4,",
+    "start": 61.175,
+    "duration": 4.258
+  },
+  {
+    "text": "giving us a score of 8.",
+    "start": 65.433,
+    "duration": 1.868
+  },
+  {
+    "text": "Since we didn’t try to go \nfor a low score that time,",
+    "start": 67.301,
+    "duration": 3.036
+  },
+  {
+    "text": "we can probably do better.",
+    "start": 70.337,
+    "duration": 1.871
+  },
+  {
+    "text": "Let’s keep our 1x4",
+    "start": 72.208,
+    "duration": 1.784
+  },
+  {
+    "text": "while breaking the 3x4 \ninto a 3x3 and a 3x1.",
+    "start": 73.992,
+    "duration": 5.039
+  },
+  {
+    "text": "Now our score is 9 minus 3, or 6.",
+    "start": 79.031,
+    "duration": 3.785
+  },
+  {
+    "text": "Still not optimal, but better.",
+    "start": 82.816,
+    "duration": 2.543
+  },
+  {
+    "text": "With such a small canvas, \nthere are only a few options.",
+    "start": 85.359,
+    "duration": 4.093
+  },
+  {
+    "text": "But let’s see what happens\nwhen the canvas gets bigger.",
+    "start": 89.452,
+    "duration": 2.798
+  },
+  {
+    "text": "Try out an 8x8; \nwhat’s the lowest score you can get?",
+    "start": 92.25,
+    "duration": 4.877
+  },
+  {
+    "text": "Pause here if you want \nto figure it out yourself.",
+    "start": 97.127,
+    "duration": 4.567
+  },
+  {
+    "text": "Answer in: 3",
+    "start": 101.694,
+    "duration": 1.085
+  },
+  {
+    "text": "Answer in: 2",
+    "start": 102.779,
+    "duration": 1.061
+  },
+  {
+    "text": "Answer in: 1",
+    "start": 103.84,
+    "duration": 1.383
+  },
+  {
+    "text": "To get our bearings, \nwe can start as before:",
+    "start": 105.223,
+    "duration": 2.362
+  },
+  {
+    "text": "dividing the canvas roughly in two.",
+    "start": 107.585,
+    "duration": 2.318
+  },
+  {
+    "text": "That gives us a 5x8 rectangle \nwith area 40",
+    "start": 109.903,
+    "duration": 3.966
+  },
+  {
+    "text": "and a 3x8 with area 24,",
+    "start": 113.869,
+    "duration": 2.614
+  },
+  {
+    "text": "for a score of 16.",
+    "start": 116.483,
+    "duration": 1.838
+  },
+  {
+    "text": "That’s pretty bad.",
+    "start": 118.321,
+    "duration": 1.207
+  },
+  {
+    "text": "Dividing that 5x8 into a 5x5 \nand a 5x3 leaves us with a score of 10.",
+    "start": 119.528,
+    "duration": 6.925
+  },
+  {
+    "text": "Better, but still not great.",
+    "start": 126.453,
+    "duration": 2.482
+  },
+  {
+    "text": "We could just keep dividing \nthe biggest rectangle.",
+    "start": 128.935,
+    "duration": 3.264
+  },
+  {
+    "text": "But that would leave us \nwith increasingly tiny rectangles,",
+    "start": 132.199,
+    "duration": 3.009
+  },
+  {
+    "text": "which would increase the range \nbetween the largest and smallest.",
+    "start": 135.208,
+    "duration": 3.81
+  },
+  {
+    "text": "What we really want",
+    "start": 139.018,
+    "duration": 1.716
+  },
+  {
+    "text": "is for all our rectangles to fall\nwithin a small range of area values.",
+    "start": 140.734,
+    "duration": 5.207
+  },
+  {
+    "text": "And since the total area \nof the canvas is 64,",
+    "start": 145.941,
+    "duration": 3.338
+  },
+  {
+    "text": "the areas need to add up to that.",
+    "start": 149.279,
+    "duration": 2.336
+  },
+  {
+    "text": "Let’s make a list \nof possible rectangles and areas.",
+    "start": 151.615,
+    "duration": 3.811
+  },
+  {
+    "text": "To improve on our previous score,",
+    "start": 155.426,
+    "duration": 2.211
+  },
+  {
+    "text": "we can try to pick a range \nof values spanning 9 or less",
+    "start": 157.637,
+    "duration": 3.767
+  },
+  {
+    "text": "and adding up to 64.",
+    "start": 161.404,
+    "duration": 2.331
+  },
+  {
+    "text": "You’ll notice that some values \nare left out",
+    "start": 163.735,
+    "duration": 2.919
+  },
+  {
+    "text": "because rectangles like 1x13 \nor 2x9 won’t fit on the canvas.",
+    "start": 166.654,
+    "duration": 5.599
+  },
+  {
+    "text": "You might also realize",
+    "start": 172.253,
+    "duration": 1.212
+  },
+  {
+    "text": "that if you use one of the rectangles \nwith an odd area like 5, 9, or 15,",
+    "start": 173.465,
+    "duration": 5.329
+  },
+  {
+    "text": "you need to use another odd-value \nrectangle to get an even sum.",
+    "start": 178.794,
+    "duration": 4.423
+  },
+  {
+    "text": "With all that in mind, \nlet’s see what works.",
+    "start": 183.217,
+    "duration": 3.416
+  },
+  {
+    "text": "Starting with area 20 or more \nputs us over the limit too quickly.",
+    "start": 186.633,
+    "duration": 5.018
+  },
+  {
+    "text": "But we can get to 64 using\nrectangles in the 14-18 range,",
+    "start": 191.651,
+    "duration": 4.982
+  },
+  {
+    "text": "leaving out 15.",
+    "start": 196.633,
+    "duration": 2.171
+  },
+  {
+    "text": "Unfortunately, there’s no way \nto make them fit.",
+    "start": 198.804,
+    "duration": 2.918
+  },
+  {
+    "text": "Using the 2x7 leaves a gap",
+    "start": 201.722,
+    "duration": 2.569
+  },
+  {
+    "text": "that can only be filled \nby a rectangle with a width of 1.",
+    "start": 204.291,
+    "duration": 3.911
+  },
+  {
+    "text": "Going lower, the next range\nthat works is 8 to 14,",
+    "start": 208.202,
+    "duration": 4.075
+  },
+  {
+    "text": "leaving out the 3x3 square.",
+    "start": 212.277,
+    "duration": 2.52
+  },
+  {
+    "text": "This time, the pieces fit.",
+    "start": 214.797,
+    "duration": 2.149
+  },
+  {
+    "text": "That’s a score of 6.",
+    "start": 216.946,
+    "duration": 1.877
+  },
+  {
+    "text": "Can we do even better?",
+    "start": 218.823,
+    "duration": 1.421
+  },
+  {
+    "text": "No.",
+    "start": 220.244,
+    "duration": 1.095
+  },
+  {
+    "text": "We can get the same score \nby throwing out the 2x7 and 1x8",
+    "start": 221.339,
+    "duration": 4.248
+  },
+  {
+    "text": "and replacing them \nwith a 3x3, 1x7, and 1x6.",
+    "start": 225.587,
+    "duration": 4.463
+  },
+  {
+    "text": "But if we go any lower down the list,",
+    "start": 230.05,
+    "duration": 2.689
+  },
+  {
+    "text": "the numbers become so small",
+    "start": 232.739,
+    "duration": 1.778
+  },
+  {
+    "text": "that we’d need a wider range \nof sizes to cover the canvas,",
+    "start": 234.517,
+    "duration": 3.313
+  },
+  {
+    "text": "which would increase the score.",
+    "start": 237.83,
+    "duration": 2.306
+  },
+  {
+    "text": "There’s no trick or formula here \n– just a bit of intuition.",
+    "start": 240.136,
+    "duration": 3.676
+  },
+  {
+    "text": "It's more art than science.",
+    "start": 243.812,
+    "duration": 2.075
+  },
+  {
+    "text": "And for larger grids,",
+    "start": 245.887,
+    "duration": 1.457
+  },
+  {
+    "text": "expert mathematicians aren’t sure whether\nthey’ve found the lowest possible scores.",
+    "start": 247.344,
+    "duration": 5.393
+  },
+  {
+    "text": "So how would you divide a 4x4,",
+    "start": 252.737,
+    "duration": 2.184
+  },
+  {
+    "text": "10x10,",
+    "start": 254.921,
+    "duration": 1.087
+  },
+  {
+    "text": "or 32x32 canvas?",
+    "start": 256.008,
+    "duration": 3.148
+  },
+  {
+    "text": "Give it a try \nand post your results in the comments.",
+    "start": 259.156,
+    "duration": 2.76
+  }
+]

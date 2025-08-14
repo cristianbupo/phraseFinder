@@ -1,0 +1,652 @@
+[
+  {
+    "text": "it goes back to this idea of of the",
+    "start": 2.96,
+    "duration": 6.12
+  },
+  {
+    "text": "distributed systems and uh you know a",
+    "start": 5.279,
+    "duration": 5.36
+  },
+  {
+    "text": "lot of the costs that we have in",
+    "start": 9.08,
+    "duration": 3.519
+  },
+  {
+    "text": "medicine are related to the centralized",
+    "start": 10.639,
+    "duration": 3.441
+  },
+  {
+    "text": "control you always have to go back to",
+    "start": 12.599,
+    "duration": 3.04
+  },
+  {
+    "text": "the physician to get your prescription",
+    "start": 14.08,
+    "duration": 3.279
+  },
+  {
+    "text": "you always have to go physically to",
+    "start": 15.639,
+    "duration": 3.921
+  },
+  {
+    "text": "their office um you have to wait for",
+    "start": 17.359,
+    "duration": 5.521
+  },
+  {
+    "text": "your uh appointment uh you can't email",
+    "start": 19.56,
+    "duration": 6.16
+  },
+  {
+    "text": "your physician today it's 2010 and you",
+    "start": 22.88,
+    "duration": 4.68
+  },
+  {
+    "text": "still can't email your physician in most",
+    "start": 25.72,
+    "duration": 5.559
+  },
+  {
+    "text": "cases um the the centralized the",
+    "start": 27.56,
+    "duration": 6.36
+  },
+  {
+    "text": "hospitals are incredibly expensive the",
+    "start": 31.279,
+    "duration": 3.881
+  },
+  {
+    "text": "way they're structured the way they",
+    "start": 33.92,
+    "duration": 4.4
+  },
+  {
+    "text": "merge business models so this sort of uh",
+    "start": 35.16,
+    "duration": 6.6
+  },
+  {
+    "text": "you know uh your your your records are",
+    "start": 38.32,
+    "duration": 5.44
+  },
+  {
+    "text": "held at the central location mostly in",
+    "start": 41.76,
+    "duration": 5.6
+  },
+  {
+    "text": "paper still uh the centralization is",
+    "start": 43.76,
+    "duration": 6.2
+  },
+  {
+    "text": "crushing us uh in terms of cost and it",
+    "start": 47.36,
+    "duration": 4.08
+  },
+  {
+    "text": "needs to be distributed it needs to be",
+    "start": 49.96,
+    "duration": 3.88
+  },
+  {
+    "text": "more fluid it needs to be more real time",
+    "start": 51.44,
+    "duration": 5.2
+  },
+  {
+    "text": "and building a platform and a",
+    "start": 53.84,
+    "duration": 4.039
+  },
+  {
+    "text": "methodology for doing that is what",
+    "start": 56.64,
+    "duration": 3.84
+  },
+  {
+    "text": "medpedia is all about is creating an",
+    "start": 57.879,
+    "duration": 4.761
+  },
+  {
+    "text": "infrastructure a hippoc compliant",
+    "start": 60.48,
+    "duration": 5.84
+  },
+  {
+    "text": "infrastructure to allow uh piece pieces",
+    "start": 62.64,
+    "duration": 5.44
+  },
+  {
+    "text": "to Inc of the medical system to",
+    "start": 66.32,
+    "duration": 3.76
+  },
+  {
+    "text": "increasingly be distributed uh whether",
+    "start": 68.08,
+    "duration": 2.92
+  },
+  {
+    "text": "it's through your smartphone",
+    "start": 70.08,
+    "duration": 2.0
+  },
+  {
+    "text": "communication or whether it's through",
+    "start": 71.0,
+    "duration": 2.6
+  },
+  {
+    "text": "your laptop whether it's through the",
+    "start": 72.08,
+    "duration": 3.76
+  },
+  {
+    "text": "phone uh or whether it's uh people",
+    "start": 73.6,
+    "duration": 4.04
+  },
+  {
+    "text": "helping people as opposed to having to",
+    "start": 75.84,
+    "duration": 4.68
+  },
+  {
+    "text": "go to professionals if you will um you",
+    "start": 77.64,
+    "duration": 5.88
+  },
+  {
+    "text": "know all the time with oversight from",
+    "start": 80.52,
+    "duration": 4.52
+  },
+  {
+    "text": "professionals because they ultimately",
+    "start": 83.52,
+    "duration": 3.04
+  },
+  {
+    "text": "have the greatest amount of knowledge",
+    "start": 85.04,
+    "duration": 4.719
+  },
+  {
+    "text": "but um finding out how to balance the",
+    "start": 86.56,
+    "duration": 5.519
+  },
+  {
+    "text": "that distributed nature of knowledge and",
+    "start": 89.759,
+    "duration": 5.161
+  },
+  {
+    "text": "and learning uh is what medp is all",
+    "start": 92.079,
+    "duration": 5.281
+  },
+  {
+    "text": "about you know medicine is fundamentally",
+    "start": 94.92,
+    "duration": 5.28
+  },
+  {
+    "text": "an information management problem uh and",
+    "start": 97.36,
+    "duration": 4.16
+  },
+  {
+    "text": "obviously the internet and and those",
+    "start": 100.2,
+    "duration": 4.64
+  },
+  {
+    "text": "things should be applied to it uh so um",
+    "start": 101.52,
+    "duration": 4.8
+  },
+  {
+    "text": "you know that that's that's really the",
+    "start": 104.84,
+    "duration": 3.2
+  },
+  {
+    "text": "main direction of of midp and I think",
+    "start": 106.32,
+    "duration": 4.68
+  },
+  {
+    "text": "it's a it's a big idea because it is",
+    "start": 108.04,
+    "duration": 5.56
+  },
+  {
+    "text": "such an issue for I mean it's it's the",
+    "start": 111.0,
+    "duration": 4.32
+  },
+  {
+    "text": "ultimate issue right it's life or death",
+    "start": 113.6,
+    "duration": 4.08
+  },
+  {
+    "text": "uh ultimately and it's a big issue for",
+    "start": 115.32,
+    "duration": 4.36
+  },
+  {
+    "text": "this country in terms of its costs and",
+    "start": 117.68,
+    "duration": 3.439
+  },
+  {
+    "text": "it's a big issue in Europe for those",
+    "start": 119.68,
+    "duration": 4.039
+  },
+  {
+    "text": "people who are having rationed uh care",
+    "start": 121.119,
+    "duration": 5.0
+  },
+  {
+    "text": "who have to wait for months to to to get",
+    "start": 123.719,
+    "duration": 3.961
+  },
+  {
+    "text": "some basic care that You' get here in a",
+    "start": 126.119,
+    "duration": 3.76
+  },
+  {
+    "text": "week so there there's no one system",
+    "start": 127.68,
+    "duration": 3.639
+  },
+  {
+    "text": "that's working incredibly well but we",
+    "start": 129.879,
+    "duration": 3.44
+  },
+  {
+    "text": "know that distributed systems tend to",
+    "start": 131.319,
+    "duration": 4.161
+  },
+  {
+    "text": "allocate resources much better and so we",
+    "start": 133.319,
+    "duration": 3.481
+  },
+  {
+    "text": "want to bring that to the world of",
+    "start": 135.48,
+    "duration": 3.08
+  },
+  {
+    "text": "medicine and that's that's why Harvard",
+    "start": 136.8,
+    "duration": 5.04
+  },
+  {
+    "text": "partnered with us um Stanford even the",
+    "start": 138.56,
+    "duration": 5.12
+  },
+  {
+    "text": "British government is now uh",
+    "start": 141.84,
+    "duration": 4.64
+  },
+  {
+    "text": "contributing content giving us uh advice",
+    "start": 143.68,
+    "duration": 4.48
+  },
+  {
+    "text": "helping us navigate the system we are",
+    "start": 146.48,
+    "duration": 4.24
+  },
+  {
+    "text": "not MediCal people uh generally we're",
+    "start": 148.16,
+    "duration": 5.0
+  },
+  {
+    "text": "interface people we're technology people",
+    "start": 150.72,
+    "duration": 5.72
+  },
+  {
+    "text": "and U and so we're we're being assisted",
+    "start": 153.16,
+    "duration": 4.64
+  },
+  {
+    "text": "by all these people who really know what",
+    "start": 156.44,
+    "duration": 2.96
+  },
+  {
+    "text": "they're doing as to how to navigate and",
+    "start": 157.8,
+    "duration": 3.64
+  },
+  {
+    "text": "how to build this so that's what the med",
+    "start": 159.4,
+    "duration": 4.44
+  },
+  {
+    "text": "p is",
+    "start": 161.44,
+    "duration": 2.4
+  },
+  {
+    "text": "about what we're working on right now is",
+    "start": 164.8,
+    "duration": 4.56
+  },
+  {
+    "text": "the idea that you as let's say an",
+    "start": 167.239,
+    "duration": 3.72
+  },
+  {
+    "text": "employee of a company where you get your",
+    "start": 169.36,
+    "duration": 3.84
+  },
+  {
+    "text": "insurance paid you know 70 million",
+    "start": 170.959,
+    "duration": 4.721
+  },
+  {
+    "text": "Americans are covered by the 1500 the",
+    "start": 173.2,
+    "duration": 5.319
+  },
+  {
+    "text": "1800 top uh you know largest",
+    "start": 175.68,
+    "duration": 5.12
+  },
+  {
+    "text": "corporations in America so the majority",
+    "start": 178.519,
+    "duration": 3.72
+  },
+  {
+    "text": "of people are getting their their",
+    "start": 180.8,
+    "duration": 3.48
+  },
+  {
+    "text": "carrots I think it's 60% of people in",
+    "start": 182.239,
+    "duration": 3.28
+  },
+  {
+    "text": "the United States are covered by their",
+    "start": 184.28,
+    "duration": 3.92
+  },
+  {
+    "text": "company so you at your company you sign",
+    "start": 185.519,
+    "duration": 5.161
+  },
+  {
+    "text": "up you do a health risk assessment you",
+    "start": 188.2,
+    "duration": 4.16
+  },
+  {
+    "text": "then have this personal health record",
+    "start": 190.68,
+    "duration": 3.839
+  },
+  {
+    "text": "that's stored in a hippoc compliant way",
+    "start": 192.36,
+    "duration": 6.239
+  },
+  {
+    "text": "online uh from that you are then",
+    "start": 194.519,
+    "duration": 6.681
+  },
+  {
+    "text": "presented with a bunch",
+    "start": 198.599,
+    "duration": 6.2
+  },
+  {
+    "text": "of applications like an application on",
+    "start": 201.2,
+    "duration": 6.399
+  },
+  {
+    "text": "Facebook like an iPhone app that then",
+    "start": 204.799,
+    "duration": 5.841
+  },
+  {
+    "text": "appeals or appeals or or or is directly",
+    "start": 207.599,
+    "duration": 4.801
+  },
+  {
+    "text": "relevant to where you are in your",
+    "start": 210.64,
+    "duration": 3.799
+  },
+  {
+    "text": "medical life and your health life and",
+    "start": 212.4,
+    "duration": 4.24
+  },
+  {
+    "text": "then you can sign up or not sign up if",
+    "start": 214.439,
+    "duration": 5.241
+  },
+  {
+    "text": "you sign up your corporation will",
+    "start": 216.64,
+    "duration": 5.36
+  },
+  {
+    "text": "compensate you for that it will pay you",
+    "start": 219.68,
+    "duration": 5.559
+  },
+  {
+    "text": "more uh let's say GIF dollars you know",
+    "start": 222.0,
+    "duration": 8.599
+  },
+  {
+    "text": "virtual currencies if you will to um uh",
+    "start": 225.239,
+    "duration": 7.121
+  },
+  {
+    "text": "to do these programs to improve your",
+    "start": 230.599,
+    "duration": 3.081
+  },
+  {
+    "text": "health to maintain your health and",
+    "start": 232.36,
+    "duration": 4.519
+  },
+  {
+    "text": "maintain your Vitality if you do not",
+    "start": 233.68,
+    "duration": 5.119
+  },
+  {
+    "text": "then the corporation can actually take",
+    "start": 236.879,
+    "duration": 4.28
+  },
+  {
+    "text": "uh money away from you and and again",
+    "start": 238.799,
+    "duration": 5.72
+  },
+  {
+    "text": "it's sort of a a gaming mechanic applied",
+    "start": 241.159,
+    "duration": 5.44
+  },
+  {
+    "text": "to your health maintenance which isn't",
+    "start": 244.519,
+    "duration": 4.601
+  },
+  {
+    "text": "game specific it's a gaming mechanic",
+    "start": 246.599,
+    "duration": 4.56
+  },
+  {
+    "text": "that we all respond to you know all of",
+    "start": 249.12,
+    "duration": 3.959
+  },
+  {
+    "text": "us all of us respond to those sorts of",
+    "start": 251.159,
+    "duration": 4.16
+  },
+  {
+    "text": "of incentives and uh we haven't been",
+    "start": 253.079,
+    "duration": 3.601
+  },
+  {
+    "text": "able to do that in the medical space",
+    "start": 255.319,
+    "duration": 4.16
+  },
+  {
+    "text": "before and uh once you're engaged in",
+    "start": 256.68,
+    "duration": 4.839
+  },
+  {
+    "text": "these programs on the back end there's a",
+    "start": 259.479,
+    "duration": 4.481
+  },
+  {
+    "text": "lot of information from medpedia that",
+    "start": 261.519,
+    "duration": 4.521
+  },
+  {
+    "text": "everyone's contributing to every day it",
+    "start": 263.96,
+    "duration": 3.679
+  },
+  {
+    "text": "gets better and better deeper and deeper",
+    "start": 266.04,
+    "duration": 3.08
+  },
+  {
+    "text": "more and more relevant better and better",
+    "start": 267.639,
+    "duration": 2.761
+  },
+  {
+    "text": "worded",
+    "start": 269.12,
+    "duration": 4.24
+  },
+  {
+    "text": "uh and and if you have a have a mediocre",
+    "start": 270.4,
+    "duration": 4.44
+  },
+  {
+    "text": "experience you can go in and make some",
+    "start": 273.36,
+    "duration": 3.399
+  },
+  {
+    "text": "changes to the database as well so that",
+    "start": 274.84,
+    "duration": 3.359
+  },
+  {
+    "text": "these services that you're engaged in",
+    "start": 276.759,
+    "duration": 2.72
+  },
+  {
+    "text": "are getting better and better every day",
+    "start": 278.199,
+    "duration": 3.0
+  },
+  {
+    "text": "every week and the whole Community",
+    "start": 279.479,
+    "duration": 4.28
+  },
+  {
+    "text": "contributes to it and you have a feeling",
+    "start": 281.199,
+    "duration": 5.401
+  },
+  {
+    "text": "of of community around it and a real",
+    "start": 283.759,
+    "duration": 4.521
+  },
+  {
+    "text": "sense of personalization of the",
+    "start": 286.6,
+    "duration": 4.12
+  },
+  {
+    "text": "experience none of which is true today",
+    "start": 288.28,
+    "duration": 4.8
+  },
+  {
+    "text": "in your experience of of your own",
+    "start": 290.72,
+    "duration": 5.28
+  },
+  {
+    "text": "Healthcare maintenance um so that's",
+    "start": 293.08,
+    "duration": 6.8
+  },
+  {
+    "text": "that's the world we're moving toward",
+    "start": 296.0,
+    "duration": 3.88
+  }
+]

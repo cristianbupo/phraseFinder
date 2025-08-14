@@ -1,0 +1,362 @@
+[
+  {
+    "text": "In 2013, a group of researchers \nat DeepMind in London",
+    "start": 8.871,
+    "duration": 4.292
+  },
+  {
+    "text": "had set their sights on a grand challenge.",
+    "start": 13.163,
+    "duration": 2.666
+  },
+  {
+    "text": "They wanted to create an AI system \nthat could beat,",
+    "start": 15.996,
+    "duration": 3.292
+  },
+  {
+    "text": "not just a single Atari game, \nbut every Atari game.",
+    "start": 19.288,
+    "duration": 4.833
+  },
+  {
+    "text": "They developed a system they called \nDeep Q Networks, or DQN,",
+    "start": 24.663,
+    "duration": 5.166
+  },
+  {
+    "text": "and less than two years later, \nit was superhuman.",
+    "start": 29.829,
+    "duration": 3.667
+  },
+  {
+    "text": "DQN was getting scores 13 times better",
+    "start": 33.954,
+    "duration": 4.167
+  },
+  {
+    "text": "than professional human games testers\nat “Breakout,”",
+    "start": 38.121,
+    "duration": 3.541
+  },
+  {
+    "text": "17 times better at “Boxing,” \nand 25 times better at “Video Pinball.”",
+    "start": 41.662,
+    "duration": 6.334
+  },
+  {
+    "text": "But there was one notable, and glaring,\nexception.",
+    "start": 48.162,
+    "duration": 3.834
+  },
+  {
+    "text": "When playing “Montezuma’s Revenge” \nDQN couldn’t score a single point,",
+    "start": 52.496,
+    "duration": 5.791
+  },
+  {
+    "text": "even after playing for weeks.",
+    "start": 58.537,
+    "duration": 2.625
+  },
+  {
+    "text": "What was it that made this particular game\nso vexingly difficult for AI?",
+    "start": 61.412,
+    "duration": 5.459
+  },
+  {
+    "text": "And what would it take to solve it?",
+    "start": 67.204,
+    "duration": 2.459
+  },
+  {
+    "text": "Spoiler alert: babies.",
+    "start": 70.538,
+    "duration": 2.833
+  },
+  {
+    "text": "We’ll come back to that in a minute.",
+    "start": 73.746,
+    "duration": 2.0
+  },
+  {
+    "text": "Playing Atari games with AI involves\nwhat’s called reinforcement learning,",
+    "start": 76.163,
+    "duration": 5.541
+  },
+  {
+    "text": "where the system is designed to maximize\nsome kind of numerical rewards.",
+    "start": 81.871,
+    "duration": 4.917
+  },
+  {
+    "text": "In this case, those rewards were\nsimply the game's points.",
+    "start": 86.788,
+    "duration": 3.833
+  },
+  {
+    "text": "This underlying goal drives the system\nto learn which buttons to press",
+    "start": 90.746,
+    "duration": 4.333
+  },
+  {
+    "text": "and when to press them \nto get the most points.",
+    "start": 95.079,
+    "duration": 3.0
+  },
+  {
+    "text": "Some systems use model-based approaches,\nwhere they have a model of the environment",
+    "start": 98.079,
+    "duration": 5.542
+  },
+  {
+    "text": "that they can use to predict \nwhat will happen next",
+    "start": 103.621,
+    "duration": 3.125
+  },
+  {
+    "text": "once they take a certain action.",
+    "start": 106.746,
+    "duration": 2.0
+  },
+  {
+    "text": "DQN, however, is model free.",
+    "start": 109.288,
+    "duration": 3.041
+  },
+  {
+    "text": "Instead of explicitly modeling\nits environment,",
+    "start": 112.704,
+    "duration": 2.584
+  },
+  {
+    "text": "it just learns to predict,\nbased on the images on screen,",
+    "start": 115.288,
+    "duration": 3.458
+  },
+  {
+    "text": "how many future points it can expect \nto earn by pressing different buttons.",
+    "start": 118.746,
+    "duration": 4.958
+  },
+  {
+    "text": "For instance, “if the ball is here \nand I move left, more points,",
+    "start": 123.871,
+    "duration": 4.792
+  },
+  {
+    "text": "but if I move right, no more points.”",
+    "start": 128.663,
+    "duration": 2.833
+  },
+  {
+    "text": "But learning these connections requires\na lot of trial and error.",
+    "start": 132.038,
+    "duration": 4.5
+  },
+  {
+    "text": "The DQN system would start\nby mashing buttons randomly,",
+    "start": 136.704,
+    "duration": 3.834
+  },
+  {
+    "text": "and then slowly piece together \nwhich buttons to mash when",
+    "start": 140.538,
+    "duration": 3.541
+  },
+  {
+    "text": "in order to maximize its score.",
+    "start": 144.079,
+    "duration": 2.125
+  },
+  {
+    "text": "But in playing “Montezuma’s Revenge,”",
+    "start": 146.704,
+    "duration": 2.375
+  },
+  {
+    "text": "this approach of random button-mashing\nfell flat on its face.",
+    "start": 149.079,
+    "duration": 4.334
+  },
+  {
+    "text": "A player would have to perform \nthis entire sequence",
+    "start": 154.121,
+    "duration": 3.0
+  },
+  {
+    "text": "just to score their first points \nat the very end.",
+    "start": 157.121,
+    "duration": 3.375
+  },
+  {
+    "text": "A mistake? Game over.",
+    "start": 160.871,
+    "duration": 2.208
+  },
+  {
+    "text": "So how could DQN even know\nit was on the right track?",
+    "start": 163.538,
+    "duration": 3.708
+  },
+  {
+    "text": "This is where babies come in.",
+    "start": 167.746,
+    "duration": 2.458
+  },
+  {
+    "text": "In studies, infants consistently look \nlonger at pictures",
+    "start": 170.746,
+    "duration": 3.875
+  },
+  {
+    "text": "they haven’t seen before \nthan ones they have.",
+    "start": 174.621,
+    "duration": 2.667
+  },
+  {
+    "text": "There just seems to be something\nintrinsically rewarding about novelty.",
+    "start": 177.579,
+    "duration": 4.0
+  },
+  {
+    "text": "This behavior has been essential \nin understanding the infant mind.",
+    "start": 182.121,
+    "duration": 4.125
+  },
+  {
+    "text": "It also turned out to be the secret\nto beating “Montezuma’s Revenge.”",
+    "start": 186.496,
+    "duration": 4.792
+  },
+  {
+    "text": "The DeepMind researchers worked \nout an ingenious way",
+    "start": 192.121,
+    "duration": 3.708
+  },
+  {
+    "text": "to plug this preference for novelty \ninto reinforcement learning.",
+    "start": 195.829,
+    "duration": 4.5
+  },
+  {
+    "text": "They made it so that unusual or new images\nappearing on the screen",
+    "start": 200.704,
+    "duration": 4.542
+  },
+  {
+    "text": "were every bit as rewarding\nas real in-game points.",
+    "start": 205.246,
+    "duration": 4.208
+  },
+  {
+    "text": "Suddenly, DQN was behaving totally\ndifferently from before.",
+    "start": 209.704,
+    "duration": 4.709
+  },
+  {
+    "text": "It wanted to explore the room it was in,",
+    "start": 214.579,
+    "duration": 2.334
+  },
+  {
+    "text": "to grab the key and escape \nthrough the locked door—",
+    "start": 216.913,
+    "duration": 2.708
+  },
+  {
+    "text": "not because it was worth 100 points,",
+    "start": 219.621,
+    "duration": 2.708
+  },
+  {
+    "text": "but for the same reason we would: \nto see what was on the other side.",
+    "start": 222.329,
+    "duration": 4.667
+  },
+  {
+    "text": "With this new drive, DQN not only\nmanaged to grab that first key—",
+    "start": 228.163,
+    "duration": 5.25
+  },
+  {
+    "text": "it explored all the way through 15 \nof the temple’s 24 chambers.",
+    "start": 233.413,
+    "duration": 4.833
+  },
+  {
+    "text": "But emphasizing novelty-based rewards \ncan sometimes create more problems",
+    "start": 238.454,
+    "duration": 4.209
+  },
+  {
+    "text": "than it solves.",
+    "start": 242.663,
+    "duration": 1.166
+  },
+  {
+    "text": "A novelty-seeking system that’s played \na game too long",
+    "start": 243.913,
+    "duration": 3.208
+  },
+  {
+    "text": "will eventually lose motivation.",
+    "start": 247.121,
+    "duration": 2.5
+  },
+  {
+    "text": "If it’s seen it all before, \nwhy go anywhere?",
+    "start": 249.996,
+    "duration": 3.042
+  },
+  {
+    "text": "Alternately, if it encounters, say, \na television, it will freeze.",
+    "start": 253.621,
+    "duration": 5.167
+  },
+  {
+    "text": "The constant novel images\nare essentially paralyzing.",
+    "start": 258.954,
+    "duration": 3.75
+  },
+  {
+    "text": "The ideas and inspiration here\ngo in both directions.",
+    "start": 263.204,
+    "duration": 3.625
+  },
+  {
+    "text": "AI researchers stuck \non a practical problem,",
+    "start": 267.079,
+    "duration": 3.125
+  },
+  {
+    "text": "like how to get DQN to beat \na difficult game,",
+    "start": 270.204,
+    "duration": 3.334
+  },
+  {
+    "text": "are turning increasingly to experts \nin human intelligence for ideas.",
+    "start": 273.538,
+    "duration": 5.0
+  },
+  {
+    "text": "At the same time,",
+    "start": 278.788,
+    "duration": 1.125
+  },
+  {
+    "text": "AI is giving us new insights\ninto the ways we get stuck and unstuck:",
+    "start": 279.913,
+    "duration": 5.416
+  },
+  {
+    "text": "into boredom, depression, and addiction,",
+    "start": 285.329,
+    "duration": 2.792
+  },
+  {
+    "text": "along with curiosity, creativity, \nand play.",
+    "start": 288.121,
+    "duration": 3.667
+  }
+]

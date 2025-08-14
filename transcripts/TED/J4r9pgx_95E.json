@@ -1,0 +1,572 @@
+[
+  {
+    "text": "So for the past 12 years,",
+    "start": 12.917,
+    "duration": 2.642
+  },
+  {
+    "text": "I've been obsessed with this idea",
+    "start": 15.583,
+    "duration": 1.601
+  },
+  {
+    "text": "that climate change\nis an information issue",
+    "start": 17.208,
+    "duration": 2.975
+  },
+  {
+    "text": "that computers will help us fight.",
+    "start": 20.208,
+    "duration": 2.226
+  },
+  {
+    "text": "I went from data science\nto climate policy research,",
+    "start": 22.458,
+    "duration": 2.643
+  },
+  {
+    "text": "from tech to public service,",
+    "start": 25.125,
+    "duration": 1.393
+  },
+  {
+    "text": "in pursuit of better data",
+    "start": 26.542,
+    "duration": 1.934
+  },
+  {
+    "text": "to avoid the wasted energy,\nresources, opportunities",
+    "start": 28.5,
+    "duration": 3.101
+  },
+  {
+    "text": "that lead to runaway carbon emissions.",
+    "start": 31.625,
+    "duration": 2.0
+  },
+  {
+    "text": "Until one day, running in the streets\nwith a friend, it hit me:",
+    "start": 34.333,
+    "duration": 3.25
+  },
+  {
+    "text": "the same cars, factories, power plants",
+    "start": 38.792,
+    "duration": 3.059
+  },
+  {
+    "text": "whose emissions are wrecking\nour climate over time",
+    "start": 41.875,
+    "duration": 3.101
+  },
+  {
+    "text": "also release harmful, local pollutants",
+    "start": 45.0,
+    "duration": 2.851
+  },
+  {
+    "text": "that threaten our health\nright here and right now.",
+    "start": 47.875,
+    "duration": 2.393
+  },
+  {
+    "text": "All this time I'd focused\non the long-term environmental risk",
+    "start": 50.292,
+    "duration": 4.226
+  },
+  {
+    "text": "when I should have been up in arms",
+    "start": 54.542,
+    "duration": 1.892
+  },
+  {
+    "text": "about the immediate health impact\nof pollutants in the air.",
+    "start": 56.458,
+    "duration": 3.851
+  },
+  {
+    "text": "Air pollution is a burning\npublic health crisis.",
+    "start": 60.333,
+    "duration": 2.518
+  },
+  {
+    "text": "It kills seven million people every year,",
+    "start": 62.875,
+    "duration": 2.601
+  },
+  {
+    "text": "it costs five trillion dollars\nto the world economy",
+    "start": 65.5,
+    "duration": 4.643
+  },
+  {
+    "text": "and, worst, it robs us\nof our most precious gift,",
+    "start": 70.167,
+    "duration": 3.934
+  },
+  {
+    "text": "the years in our lives:",
+    "start": 74.125,
+    "duration": 1.768
+  },
+  {
+    "text": "six months of life expectancy\nin my hometown of Paris",
+    "start": 75.917,
+    "duration": 3.684
+  },
+  {
+    "text": "and up to three, four, five years\nin parts of India and China.",
+    "start": 79.625,
+    "duration": 3.726
+  },
+  {
+    "text": "And in the US, more people die\nfrom car exhaust than from car accidents.",
+    "start": 83.375,
+    "duration": 5.458
+  },
+  {
+    "text": "So how do we protect\nourselves from pollution?",
+    "start": 90.083,
+    "duration": 2.542
+  },
+  {
+    "text": "The reason it's difficult\nis an information gap.",
+    "start": 93.375,
+    "duration": 3.226
+  },
+  {
+    "text": "We simply lack the data\nto understand our exposure.",
+    "start": 96.625,
+    "duration": 3.268
+  },
+  {
+    "text": "And that's because the way\nwe monitor air quality today",
+    "start": 99.917,
+    "duration": 3.934
+  },
+  {
+    "text": "is designed not to help people breathe\nbut to help governments govern.",
+    "start": 103.875,
+    "duration": 3.976
+  },
+  {
+    "text": "Most major cities operate networks\nof air-quality monitoring stations",
+    "start": 107.875,
+    "duration": 4.184
+  },
+  {
+    "text": "like this one in London,",
+    "start": 112.083,
+    "duration": 1.268
+  },
+  {
+    "text": "to decide when to cut traffic\nor when to shut down factories.",
+    "start": 113.375,
+    "duration": 3.268
+  },
+  {
+    "text": "And these machines\nare like the computers from the '60s",
+    "start": 116.667,
+    "duration": 3.017
+  },
+  {
+    "text": "that filled entire rooms.",
+    "start": 119.708,
+    "duration": 1.31
+  },
+  {
+    "text": "They're incredibly precise\nbut incredibly large,",
+    "start": 121.042,
+    "duration": 4.184
+  },
+  {
+    "text": "heavy, costly --",
+    "start": 125.25,
+    "duration": 1.684
+  },
+  {
+    "text": "so much that you can only deploy\njust a few of them,",
+    "start": 126.958,
+    "duration": 2.768
+  },
+  {
+    "text": "and they cannot move.",
+    "start": 129.75,
+    "duration": 1.476
+  },
+  {
+    "text": "So to governments,\nair pollution looks like this.",
+    "start": 131.25,
+    "duration": 2.434
+  },
+  {
+    "text": "But for the rest of us,",
+    "start": 133.708,
+    "duration": 1.476
+  },
+  {
+    "text": "air quality looks like this.",
+    "start": 135.208,
+    "duration": 2.601
+  },
+  {
+    "text": "It changes all the time:",
+    "start": 137.833,
+    "duration": 1.31
+  },
+  {
+    "text": "hour by hour, street by street,",
+    "start": 139.167,
+    "duration": 1.976
+  },
+  {
+    "text": "up to eight times\nwithin a single city block.",
+    "start": 141.167,
+    "duration": 2.684
+  },
+  {
+    "text": "And even more from indoor to outdoor.",
+    "start": 143.875,
+    "duration": 2.351
+  },
+  {
+    "text": "So unless you happen to be walking\nright next to one of those stations,",
+    "start": 146.25,
+    "duration": 3.601
+  },
+  {
+    "text": "they just cannot tell you\nwhat you breathe.",
+    "start": 149.875,
+    "duration": 2.059
+  },
+  {
+    "text": "So what would environmental\nprotection look like",
+    "start": 151.958,
+    "duration": 2.268
+  },
+  {
+    "text": "if it was designed\nfor the age of the smartphone?",
+    "start": 154.25,
+    "duration": 2.583
+  },
+  {
+    "text": "So for the past three years,",
+    "start": 157.458,
+    "duration": 1.518
+  },
+  {
+    "text": "my team and I have been\nbuilding a technology",
+    "start": 159.0,
+    "duration": 3.559
+  },
+  {
+    "text": "that helps you know what you breathe",
+    "start": 162.583,
+    "duration": 1.726
+  },
+  {
+    "text": "and fits in your hand.",
+    "start": 164.333,
+    "duration": 1.459
+  },
+  {
+    "text": "Flow is a personal air-quality tracker\nthat you can wear with you",
+    "start": 166.5,
+    "duration": 4.226
+  },
+  {
+    "text": "on a backpack, a bike, a stroller.",
+    "start": 170.75,
+    "duration": 2.809
+  },
+  {
+    "text": "It's packed with miniature sensors",
+    "start": 173.583,
+    "duration": 2.018
+  },
+  {
+    "text": "that monitor the most important\npollutants in the air around you,",
+    "start": 175.625,
+    "duration": 3.059
+  },
+  {
+    "text": "like nitrogen oxides,",
+    "start": 178.708,
+    "duration": 1.685
+  },
+  {
+    "text": "the exhaust gas from cars,",
+    "start": 180.417,
+    "duration": 1.351
+  },
+  {
+    "text": "or particulate matter\nthat gets into your bloodstream",
+    "start": 181.792,
+    "duration": 2.809
+  },
+  {
+    "text": "and creates strokes and heart issues.",
+    "start": 184.625,
+    "duration": 1.934
+  },
+  {
+    "text": "Or volatile organic compounds,",
+    "start": 186.583,
+    "duration": 2.518
+  },
+  {
+    "text": "the thousands of chemicals\nin everyday products",
+    "start": 189.125,
+    "duration": 2.309
+  },
+  {
+    "text": "that we end up breathing.",
+    "start": 191.458,
+    "duration": 1.601
+  },
+  {
+    "text": "And that makes this data actionable",
+    "start": 193.083,
+    "duration": 2.06
+  },
+  {
+    "text": "and helps you understand\nwhat you're breathing",
+    "start": 195.167,
+    "duration": 2.184
+  },
+  {
+    "text": "by telling you where and when\nyou've been exposed to poor air quality,",
+    "start": 197.375,
+    "duration": 3.809
+  },
+  {
+    "text": "and that way you can make\ninformed decisions",
+    "start": 201.208,
+    "duration": 2.56
+  },
+  {
+    "text": "to take action against pollution.",
+    "start": 203.792,
+    "duration": 1.601
+  },
+  {
+    "text": "You can change the products\nyou use at home,",
+    "start": 205.417,
+    "duration": 2.101
+  },
+  {
+    "text": "you can find the best route\nto cycle to work,",
+    "start": 207.542,
+    "duration": 2.351
+  },
+  {
+    "text": "you can run when pollution is not peaking",
+    "start": 209.917,
+    "duration": 2.851
+  },
+  {
+    "text": "and you can find the best park\nto bring your children out.",
+    "start": 212.792,
+    "duration": 2.767
+  },
+  {
+    "text": "Over time you build better habits\nto decrease your exposure to pollution,",
+    "start": 215.583,
+    "duration": 3.935
+  },
+  {
+    "text": "and by tracking air quality around them,",
+    "start": 219.542,
+    "duration": 3.392
+  },
+  {
+    "text": "cyclists, commuters, parents",
+    "start": 222.958,
+    "duration": 1.851
+  },
+  {
+    "text": "will also contribute\nto mapping air quality in their city.",
+    "start": 224.833,
+    "duration": 3.268
+  },
+  {
+    "text": "So we're building more than a device,",
+    "start": 228.125,
+    "duration": 1.809
+  },
+  {
+    "text": "but a community.",
+    "start": 229.958,
+    "duration": 1.518
+  },
+  {
+    "text": "And last summer,",
+    "start": 231.5,
+    "duration": 1.268
+  },
+  {
+    "text": "we sent early prototypes of our technology\nto 100 volunteers in London,",
+    "start": 232.792,
+    "duration": 5.476
+  },
+  {
+    "text": "and together they mapped air quality",
+    "start": 238.292,
+    "duration": 2.976
+  },
+  {
+    "text": "across 1,000 miles of sidewalk",
+    "start": 241.292,
+    "duration": 2.726
+  },
+  {
+    "text": "and 20 percent of all of central London.",
+    "start": 244.042,
+    "duration": 2.267
+  },
+  {
+    "text": "So our goal now is to scale\nthis work around the world,",
+    "start": 246.333,
+    "duration": 2.685
+  },
+  {
+    "text": "to crowdsource data so we can map\nair quality on every street,",
+    "start": 249.042,
+    "duration": 3.601
+  },
+  {
+    "text": "to build an unprecedented database",
+    "start": 252.667,
+    "duration": 2.142
+  },
+  {
+    "text": "so scientists can research pollution,",
+    "start": 254.833,
+    "duration": 2.393
+  },
+  {
+    "text": "and to empower citizens,\ncivic leaders, policy makers",
+    "start": 257.25,
+    "duration": 4.184
+  },
+  {
+    "text": "to support clean-air policies for change.",
+    "start": 261.458,
+    "duration": 2.542
+  },
+  {
+    "text": "Because this can and must change.",
+    "start": 265.0,
+    "duration": 3.851
+  },
+  {
+    "text": "Remember cigarettes in bars?",
+    "start": 268.875,
+    "duration": 2.267
+  },
+  {
+    "text": "It took decades of lung cancer research\nand second-hand smoking studies,",
+    "start": 271.166,
+    "duration": 4.435
+  },
+  {
+    "text": "but eventually, we reached a tipping point\nand we passed smoking-ban laws.",
+    "start": 275.625,
+    "duration": 3.684
+  },
+  {
+    "text": "We must reach the same tipping point\nfor air quality and I believe we will.",
+    "start": 279.333,
+    "duration": 3.81
+  },
+  {
+    "text": "In the past couple years alone,",
+    "start": 283.167,
+    "duration": 1.767
+  },
+  {
+    "text": "governments have fined\ncarmakers record amounts",
+    "start": 284.958,
+    "duration": 2.643
+  },
+  {
+    "text": "for cheating on emission standards.",
+    "start": 287.625,
+    "duration": 1.726
+  },
+  {
+    "text": "Cities have passed congestion charges\nor built bike lanes --",
+    "start": 289.375,
+    "duration": 3.518
+  },
+  {
+    "text": "like Paris that turned this highway,",
+    "start": 292.917,
+    "duration": 2.684
+  },
+  {
+    "text": "right next to my home,\nin the middle of the city,",
+    "start": 295.625,
+    "duration": 2.309
+  },
+  {
+    "text": "into a waterfront park.",
+    "start": 297.958,
+    "duration": 1.768
+  },
+  {
+    "text": "And now mayors around the world\nare thinking of banning diesel outright",
+    "start": 299.75,
+    "duration": 3.684
+  },
+  {
+    "text": "by 2025, 2030, 2035.",
+    "start": 303.458,
+    "duration": 3.042
+  },
+  {
+    "text": "But how much faster could we go,\nhow many lives could we save?",
+    "start": 307.875,
+    "duration": 2.958
+  },
+  {
+    "text": "Technology alone\nwill not solve climate change,",
+    "start": 312.042,
+    "duration": 3.184
+  },
+  {
+    "text": "nor will it make air pollution\ndisappear overnight.",
+    "start": 315.25,
+    "duration": 2.934
+  },
+  {
+    "text": "But it can make the quality\nof our air much more transparent,",
+    "start": 318.208,
+    "duration": 4.31
+  },
+  {
+    "text": "and if we can empower people",
+    "start": 322.542,
+    "duration": 1.434
+  },
+  {
+    "text": "to take action\nto improve their own health,",
+    "start": 324.0,
+    "duration": 2.143
+  },
+  {
+    "text": "then together we can act\nto bring an end to our pollution.",
+    "start": 326.167,
+    "duration": 3.583
+  },
+  {
+    "text": "Thank you very much.",
+    "start": 330.375,
+    "duration": 1.268
+  },
+  {
+    "text": "(Applause)",
+    "start": 331.667,
+    "duration": 2.083
+  }
+]

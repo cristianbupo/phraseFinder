@@ -1,0 +1,447 @@
+[
+  {
+    "text": "As Numberland’s best detective,\nyou thought you’d seen it all.",
+    "start": 7.003,
+    "duration": 3.754
+  },
+  {
+    "text": "But the desiccated corpses \nof prominent natural numbers—",
+    "start": 10.757,
+    "duration": 3.211
+  },
+  {
+    "text": "whole numbers greater than 0—",
+    "start": 13.968,
+    "duration": 2.044
+  },
+  {
+    "text": "have been showing up all over the city\nfor the past week.",
+    "start": 16.012,
+    "duration": 4.004
+  },
+  {
+    "text": "All of Digitopolis is on lockdown\nfrom sundown to sunrise,",
+    "start": 20.475,
+    "duration": 4.546
+  },
+  {
+    "text": "and it’s still not enough to stop\nwhat can only be described",
+    "start": 25.021,
+    "duration": 3.67
+  },
+  {
+    "text": "as a vampiric feeding frenzy.",
+    "start": 28.691,
+    "duration": 2.669
+  },
+  {
+    "text": "The police are helpless, \nand have turned to you.",
+    "start": 31.36,
+    "duration": 2.92
+  },
+  {
+    "text": "You put the missing persons case \nyou’ve been investigating on hold",
+    "start": 34.572,
+    "duration": 3.587
+  },
+  {
+    "text": "and study the evidence.",
+    "start": 38.159,
+    "duration": 1.543
+  },
+  {
+    "text": "Here’s what you know:",
+    "start": 39.911,
+    "duration": 1.376
+  },
+  {
+    "text": "most victims have been completely\ndrained of their life’s essence.",
+    "start": 41.287,
+    "duration": 4.087
+  },
+  {
+    "text": "Some have a thin line of slime\nseparating digits—",
+    "start": 45.416,
+    "duration": 3.629
+  },
+  {
+    "text": "some of which were drained \nand others spared.",
+    "start": 49.045,
+    "duration": 3.253
+  },
+  {
+    "text": "Which leads you to mystery one:",
+    "start": 52.799,
+    "duration": 2.085
+  },
+  {
+    "text": "what’s the significance \nof the slime-lines,",
+    "start": 54.884,
+    "duration": 2.294
+  },
+  {
+    "text": "and why are certain digits untouched?",
+    "start": 57.178,
+    "duration": 2.92
+  },
+  {
+    "text": "Pause here to figure it out yourself. \nAnswer in 3",
+    "start": 60.306,
+    "duration": 2.336
+  },
+  {
+    "text": "Answer in 2",
+    "start": 62.642,
+    "duration": 2.252
+  },
+  {
+    "text": "Answer in 1",
+    "start": 64.894,
+    "duration": 1.501
+  },
+  {
+    "text": "Let’s start by looking \nfor a pattern in the victims.",
+    "start": 67.23,
+    "duration": 2.711
+  },
+  {
+    "text": "Why have some been fully drained,\nand some slimed?",
+    "start": 69.941,
+    "duration": 3.628
+  },
+  {
+    "text": "Well, the slime-lined are in their prime—",
+    "start": 73.82,
+    "duration": 2.752
+  },
+  {
+    "text": "which is to say they’re prime numbers,\ndivisible only by 1 and themselves.",
+    "start": 76.656,
+    "duration": 5.422
+  },
+  {
+    "text": "Not a single one of the unslimed numbers,\non the other hand, is.",
+    "start": 82.245,
+    "duration": 4.504
+  },
+  {
+    "text": "Furthermore, the drained parts of the \nslimed primes are not, themselves, prime.",
+    "start": 86.999,
+    "duration": 5.422
+  },
+  {
+    "text": "When 71 got slimed, 7 was prime,\nbut 1 was not.",
+    "start": 92.547,
+    "duration": 4.546
+  },
+  {
+    "text": "If 461 had been split into 4 and 61,\nthe right side would have been prime,",
+    "start": 97.343,
+    "duration": 6.423
+  },
+  {
+    "text": "but instead it was split further\ninto non-prime digits.",
+    "start": 103.766,
+    "duration": 4.088
+  },
+  {
+    "text": "And when 2099 got slimed, \nthe attacker went with 20 and 99,",
+    "start": 108.271,
+    "duration": 5.297
+  },
+  {
+    "text": "and was able to drain both.",
+    "start": 113.568,
+    "duration": 1.918
+  },
+  {
+    "text": "So you have a big problem.",
+    "start": 116.154,
+    "duration": 1.751
+  },
+  {
+    "text": "There are infinite potential victims:",
+    "start": 117.905,
+    "duration": 2.336
+  },
+  {
+    "text": "all non-prime numbers,",
+    "start": 120.241,
+    "duration": 1.835
+  },
+  {
+    "text": "and all prime numbers that can \nbe slime-lined",
+    "start": 122.076,
+    "duration": 3.087
+  },
+  {
+    "text": "to reveal at least one non-prime number.",
+    "start": 125.163,
+    "duration": 2.794
+  },
+  {
+    "text": "In fact, you can only think of a few\nnumbers that aren't vulnerable.",
+    "start": 128.583,
+    "duration": 4.045
+  },
+  {
+    "text": "First of all, the one digit primes: \n2, 3, 5, and 7.",
+    "start": 132.92,
+    "duration": 4.797
+  },
+  {
+    "text": "Then primes like 23, which could only be\nsplit into 2 and 3, both prime.",
+    "start": 138.092,
+    "duration": 6.131
+  },
+  {
+    "text": "These numbers are familiar, but why?",
+    "start": 144.599,
+    "duration": 2.377
+  },
+  {
+    "text": "Aha! Your missing person’s case.",
+    "start": 147.476,
+    "duration": 2.795
+  },
+  {
+    "text": "Someone is kidnapping the numbers\nthat can’t be drained:",
+    "start": 150.688,
+    "duration": 3.587
+  },
+  {
+    "text": "we’ll call them the immune.",
+    "start": 154.275,
+    "duration": 2.044
+  },
+  {
+    "text": "If you can identify the four immune \nwho remain,",
+    "start": 156.611,
+    "duration": 3.253
+  },
+  {
+    "text": "perhaps you can get to them first\nand figure out what’s going on.",
+    "start": 159.864,
+    "duration": 4.379
+  },
+  {
+    "text": "Who are the immune?\nPause here to figure it out yourself.",
+    "start": 164.577,
+    "duration": 3.42
+  },
+  {
+    "text": "Answer in 2",
+    "start": 167.997,
+    "duration": 2.628
+  },
+  {
+    "text": "Answer in 1",
+    "start": 170.625,
+    "duration": 2.502
+  },
+  {
+    "text": "There are 4 one-digit immune:\n2, 3, 5, and 7.",
+    "start": 174.212,
+    "duration": 4.963
+  },
+  {
+    "text": "All have already been kidnapped.",
+    "start": 179.383,
+    "duration": 2.127
+  },
+  {
+    "text": "But every digit in all of the immune\nmust be one of those four numbers;",
+    "start": 181.51,
+    "duration": 5.047
+  },
+  {
+    "text": "otherwise there would be \na non-prime split possible.",
+    "start": 186.557,
+    "duration": 3.504
+  },
+  {
+    "text": "That means there are only these 16\ncandidates among the two-digit numbers.",
+    "start": 191.02,
+    "duration": 5.505
+  },
+  {
+    "text": "The ones that are prime must be immune.",
+    "start": 196.734,
+    "duration": 3.17
+  },
+  {
+    "text": "We can eliminate anything \nthat ends in 2 or 5,",
+    "start": 199.904,
+    "duration": 3.42
+  },
+  {
+    "text": "as they’ll always be divisible by 2 and 5.",
+    "start": 203.324,
+    "duration": 3.253
+  },
+  {
+    "text": "This diagonal is also out,\nas they’re divisible by 11.",
+    "start": 206.869,
+    "duration": 4.171
+  },
+  {
+    "text": "If the digits of a number add\nup to a multiple of 3,",
+    "start": 211.457,
+    "duration": 3.378
+  },
+  {
+    "text": "it’s divisible by 3.",
+    "start": 214.835,
+    "duration": 1.877
+  },
+  {
+    "text": "So that eliminates 57 and 27,\nleaving these numbers.",
+    "start": 216.712,
+    "duration": 4.922
+  },
+  {
+    "text": "Which, upon double-checking, are, \nin fact, immune.",
+    "start": 221.759,
+    "duration": 4.129
+  },
+  {
+    "text": "We now have a strong starting point\nfor searching three-digit numbers:",
+    "start": 227.139,
+    "duration": 4.13
+  },
+  {
+    "text": "any 2 consecutive digits must be \non the list of the two-digit immune.",
+    "start": 231.269,
+    "duration": 5.088
+  },
+  {
+    "text": "Those all end in 3 and 7,",
+    "start": 236.691,
+    "duration": 2.46
+  },
+  {
+    "text": "so the only possibilities\nare these 8 options:",
+    "start": 239.151,
+    "duration": 3.754
+  },
+  {
+    "text": "the two-digit immune with additional\n3s or 7s on their ends.",
+    "start": 242.905,
+    "duration": 4.546
+  },
+  {
+    "text": "3 can’t follow 3,\nnor 7 follow 7.",
+    "start": 248.244,
+    "duration": 3.545
+  },
+  {
+    "text": "And once again, adding the digits \nreveals that 237 and 537",
+    "start": 251.789,
+    "duration": 6.215
+  },
+  {
+    "text": "are divisible by 3.",
+    "start": 258.004,
+    "duration": 1.71
+  },
+  {
+    "text": "737 is 67 times 11, \nso that leaves just 373,",
+    "start": 260.339,
+    "duration": 6.507
+  },
+  {
+    "text": "which is, in fact, prime,\nand therefore immune.",
+    "start": 266.846,
+    "duration": 3.462
+  },
+  {
+    "text": "Could a four-digit number be immune?",
+    "start": 271.225,
+    "duration": 2.044
+  },
+  {
+    "text": "No, any consecutive three digits\nwould have to be immune,",
+    "start": 273.269,
+    "duration": 3.962
+  },
+  {
+    "text": "and there’s no immune three digit\nnumber that starts with a 7.",
+    "start": 277.231,
+    "duration": 4.213
+  },
+  {
+    "text": "You rush out, \nbut reach each home too late,",
+    "start": 282.028,
+    "duration": 2.752
+  },
+  {
+    "text": "until the only immune left is 373.",
+    "start": 284.78,
+    "duration": 3.879
+  },
+  {
+    "text": "You’re in the nick of time to scare\noff her would-be kidnapper;",
+    "start": 289.243,
+    "duration": 3.378
+  },
+  {
+    "text": "not the vampire itself but a minion.",
+    "start": 292.705,
+    "duration": 2.586
+  },
+  {
+    "text": "373 explains that she and the other immune\nare the subjects of an ancient prophecy",
+    "start": 295.416,
+    "duration": 6.256
+  },
+  {
+    "text": "that designated them as vampire slayers.",
+    "start": 301.672,
+    "duration": 3.128
+  },
+  {
+    "text": "They’d sometimes gather and try \nto figure out what a vampire is,",
+    "start": 305.009,
+    "duration": 3.67
+  },
+  {
+    "text": "but no one had the slightest idea.",
+    "start": 308.679,
+    "duration": 2.002
+  },
+  {
+    "text": "They found the idea of slaying\nthings quite distasteful.",
+    "start": 310.89,
+    "duration": 2.878
+  },
+  {
+    "text": "You both trail her would-be kidnapper\nback to a foreboding castle.",
+    "start": 314.518,
+    "duration": 4.547
+  },
+  {
+    "text": "There you release the other \nkidnapped numbers",
+    "start": 319.273,
+    "duration": 2.628
+  },
+  {
+    "text": "and confront the vampire himself.",
+    "start": 321.901,
+    "duration": 2.502
+  },
+  {
+    "text": "He’s powerless before the slayers, \nbut ever the pacifists,",
+    "start": 324.987,
+    "duration": 4.171
+  },
+  {
+    "text": "they round him up, return the lifeforce \nto his victims, and send him packing.",
+    "start": 329.158,
+    "duration": 4.922
+  },
+  {
+    "text": "Numberland is safe... for now.",
+    "start": 334.288,
+    "duration": 2.586
+  }
+]

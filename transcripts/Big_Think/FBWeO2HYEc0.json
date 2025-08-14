@@ -1,0 +1,377 @@
+[
+  {
+    "text": "uh many things are interesting these",
+    "start": 3.719,
+    "duration": 6.281
+  },
+  {
+    "text": "days um the interesting thing for me is",
+    "start": 6.52,
+    "duration": 6.6
+  },
+  {
+    "text": "the computers they have inside it in and",
+    "start": 10.0,
+    "duration": 5.52
+  },
+  {
+    "text": "so when when you see",
+    "start": 13.12,
+    "duration": 6.28
+  },
+  {
+    "text": "things um cars driving down there or",
+    "start": 15.52,
+    "duration": 6.519
+  },
+  {
+    "text": "planes flying and such uh you can see",
+    "start": 19.4,
+    "duration": 4.84
+  },
+  {
+    "text": "them as a distributed computing system",
+    "start": 22.039,
+    "duration": 5.0
+  },
+  {
+    "text": "with wings or distributed computing",
+    "start": 24.24,
+    "duration": 6.6
+  },
+  {
+    "text": "system with uh Wheels I was was over in",
+    "start": 27.039,
+    "duration": 6.001
+  },
+  {
+    "text": "in Germany earlier in the year to speak",
+    "start": 30.84,
+    "duration": 7.0
+  },
+  {
+    "text": "to the uh German automotive software um",
+    "start": 33.04,
+    "duration": 8.4
+  },
+  {
+    "text": "conference and I don't know much about",
+    "start": 37.84,
+    "duration": 7.12
+  },
+  {
+    "text": "um about programming cars but uh I got",
+    "start": 41.44,
+    "duration": 5.72
+  },
+  {
+    "text": "an invitation to go down and see how",
+    "start": 44.96,
+    "duration": 3.72
+  },
+  {
+    "text": "they they program the",
+    "start": 47.16,
+    "duration": 4.8
+  },
+  {
+    "text": "BMWs uh which is C++ so that that'll be",
+    "start": 48.68,
+    "duration": 5.8
+  },
+  {
+    "text": "interesting um not that the others",
+    "start": 51.96,
+    "duration": 6.72
+  },
+  {
+    "text": "weren't but those are cool cars and I've",
+    "start": 54.48,
+    "duration": 6.559
+  },
+  {
+    "text": "worked with some people up at Lo heat",
+    "start": 58.68,
+    "duration": 5.92
+  },
+  {
+    "text": "Martin where they built the uh f35s the",
+    "start": 61.039,
+    "duration": 5.961
+  },
+  {
+    "text": "new fighter planes which which is which",
+    "start": 64.6,
+    "duration": 6.28
+  },
+  {
+    "text": "is C++ also so I I get some insight in",
+    "start": 67.0,
+    "duration": 7.72
+  },
+  {
+    "text": "how how things are used and so at the",
+    "start": 70.88,
+    "duration": 6.2
+  },
+  {
+    "text": "bottom of all of this is the technology",
+    "start": 74.72,
+    "duration": 5.399
+  },
+  {
+    "text": "of the hardware uh there's the",
+    "start": 77.08,
+    "duration": 6.399
+  },
+  {
+    "text": "technology of the uh Communications",
+    "start": 80.119,
+    "duration": 5.64
+  },
+  {
+    "text": "stuff between it",
+    "start": 83.479,
+    "duration": 5.161
+  },
+  {
+    "text": "networking and on the hardware side what",
+    "start": 85.759,
+    "duration": 6.441
+  },
+  {
+    "text": "has happened a lot is um is the",
+    "start": 88.64,
+    "duration": 5.439
+  },
+  {
+    "text": "multicores you get concurrent",
+    "start": 92.2,
+    "duration": 4.32
+  },
+  {
+    "text": "programming both from the physical",
+    "start": 94.079,
+    "duration": 6.36
+  },
+  {
+    "text": "distribution and for the um uh what",
+    "start": 96.52,
+    "duration": 6.279
+  },
+  {
+    "text": "What's on the the chip",
+    "start": 100.439,
+    "duration": 5.561
+  },
+  {
+    "text": "themselves and uh this is interesting to",
+    "start": 102.799,
+    "duration": 6.32
+  },
+  {
+    "text": "me because my PhD topic was distributed",
+    "start": 106.0,
+    "duration": 7.079
+  },
+  {
+    "text": "and concurrency and such so i' I've been",
+    "start": 109.119,
+    "duration": 6.161
+  },
+  {
+    "text": "looking at that so that's interesting",
+    "start": 113.079,
+    "duration": 3.72
+  },
+  {
+    "text": "and a lot of the most interesting",
+    "start": 115.28,
+    "duration": 3.92
+  },
+  {
+    "text": "applications these days uh fall into",
+    "start": 116.799,
+    "duration": 3.761
+  },
+  {
+    "text": "that category",
+    "start": 119.2,
+    "duration": 4.44
+  },
+  {
+    "text": "um take our cell phones they last time I",
+    "start": 120.56,
+    "duration": 6.559
+  },
+  {
+    "text": "looked at several processors take a",
+    "start": 123.64,
+    "duration": 7.56
+  },
+  {
+    "text": "single take an SLR camera it's got five",
+    "start": 127.119,
+    "duration": 6.921
+  },
+  {
+    "text": "or six processors in it and a couple in",
+    "start": 131.2,
+    "duration": 5.72
+  },
+  {
+    "text": "the um in the lenses I mean there's some",
+    "start": 134.04,
+    "duration": 5.199
+  },
+  {
+    "text": "interesting code there and so whether",
+    "start": 136.92,
+    "duration": 4.76
+  },
+  {
+    "text": "you think of that as technology or or or",
+    "start": 139.239,
+    "duration": 4.36
+  },
+  {
+    "text": "gadgets I think them is a gadget I mean",
+    "start": 141.68,
+    "duration": 4.919
+  },
+  {
+    "text": "a cell phone or a or or",
+    "start": 143.599,
+    "duration": 6.801
+  },
+  {
+    "text": "a a new Jetline it's they gadgets",
+    "start": 146.599,
+    "duration": 5.401
+  },
+  {
+    "text": "um there are things you program and",
+    "start": 150.4,
+    "duration": 4.4
+  },
+  {
+    "text": "there's there's programs in it there's",
+    "start": 152.0,
+    "duration": 5.44
+  },
+  {
+    "text": "techniques uh lots of",
+    "start": 154.8,
+    "duration": 5.719
+  },
+  {
+    "text": "computers um what I haven't talked about",
+    "start": 157.44,
+    "duration": 5.079
+  },
+  {
+    "text": "much about and what I don't think that",
+    "start": 160.519,
+    "duration": 4.401
+  },
+  {
+    "text": "much about is sort of the the web kind",
+    "start": 162.519,
+    "duration": 5.881
+  },
+  {
+    "text": "of thing and the the web business um",
+    "start": 164.92,
+    "duration": 5.44
+  },
+  {
+    "text": "from my perspective that that's somebody",
+    "start": 168.4,
+    "duration": 4.919
+  },
+  {
+    "text": "else's business except",
+    "start": 170.36,
+    "duration": 7.04
+  },
+  {
+    "text": "when uh the scale becomes really huge so",
+    "start": 173.319,
+    "duration": 6.521
+  },
+  {
+    "text": "you have things like uh the Google",
+    "start": 177.4,
+    "duration": 5.0
+  },
+  {
+    "text": "search engines a C++ and I get",
+    "start": 179.84,
+    "duration": 4.92
+  },
+  {
+    "text": "interested they get interested uh",
+    "start": 182.4,
+    "duration": 4.96
+  },
+  {
+    "text": "Facebook has has has recently turned to",
+    "start": 184.76,
+    "duration": 6.16
+  },
+  {
+    "text": "C+ plus because they needed the uh",
+    "start": 187.36,
+    "duration": 5.48
+  },
+  {
+    "text": "performance I guess in some way of",
+    "start": 190.92,
+    "duration": 3.92
+  },
+  {
+    "text": "saying here's my contribution to to",
+    "start": 192.84,
+    "duration": 5.0
+  },
+  {
+    "text": "dealing with global warming because uh",
+    "start": 194.84,
+    "duration": 4.64
+  },
+  {
+    "text": "if you can double the efficiency of",
+    "start": 197.84,
+    "duration": 3.44
+  },
+  {
+    "text": "those systems you don't need yet another",
+    "start": 199.48,
+    "duration": 4.839
+  },
+  {
+    "text": "server farm that use as much energy as a",
+    "start": 201.28,
+    "duration": 7.319
+  },
+  {
+    "text": "small town uh so my view is that there",
+    "start": 204.319,
+    "duration": 6.321
+  },
+  {
+    "text": "software and there computer just about",
+    "start": 208.599,
+    "duration": 3.761
+  },
+  {
+    "text": "everything and if you look at",
+    "start": 210.64,
+    "duration": 7.519
+  },
+  {
+    "text": "interesting things well you you find it",
+    "start": 212.36,
+    "duration": 5.799
+  }
+]

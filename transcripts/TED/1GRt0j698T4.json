@@ -1,0 +1,1197 @@
+[
+  {
+    "text": "In the summer of 2020,\nCOVID was ravaging the world,",
+    "start": 4.501,
+    "duration": 3.587
+  },
+  {
+    "text": "and in my hometown of Boulder, Colorado,",
+    "start": 8.129,
+    "duration": 2.67
+  },
+  {
+    "text": "businesses were having\na hard time staying afloat.",
+    "start": 10.84,
+    "duration": 2.92
+  },
+  {
+    "text": "I worked with the community\nto raise money for these businesses",
+    "start": 13.802,
+    "duration": 2.961
+  },
+  {
+    "text": "to help get them through this trying time.",
+    "start": 16.805,
+    "duration": 2.669
+  },
+  {
+    "text": "But it wasn't a normal funding campaign.",
+    "start": 19.516,
+    "duration": 2.294
+  },
+  {
+    "text": "It was driven by a new vision\nand way of funding",
+    "start": 21.851,
+    "duration": 2.712
+  },
+  {
+    "text": "that is ultimately more democratic,",
+    "start": 24.563,
+    "duration": 2.168
+  },
+  {
+    "text": "called quadratic funding.",
+    "start": 26.731,
+    "duration": 2.044
+  },
+  {
+    "text": "Quadratic funding is really, really new.",
+    "start": 28.775,
+    "duration": 2.795
+  },
+  {
+    "text": "It was invented by Glen Weyl at Microsoft,",
+    "start": 31.57,
+    "duration": 3.503
+  },
+  {
+    "text": "Vitalik Buterin of the Ethereum Foundation",
+    "start": 35.073,
+    "duration": 2.669
+  },
+  {
+    "text": "and Zoë Hitzig, a PhD economist.",
+    "start": 37.742,
+    "duration": 2.92
+  },
+  {
+    "text": "In September 2018,\nthey set out to write a paper",
+    "start": 40.662,
+    "duration": 3.712
+  },
+  {
+    "text": "that would have a new vision",
+    "start": 44.416,
+    "duration": 1.376
+  },
+  {
+    "text": "for a mathematically optimal way\nto fund community goods.",
+    "start": 45.834,
+    "duration": 3.962
+  },
+  {
+    "text": "Quadratic funding is basically\na crowdfunding campaign,",
+    "start": 49.838,
+    "duration": 3.42
+  },
+  {
+    "text": "but it's not like a Patreon\nwhere creators sell subscriptions.",
+    "start": 53.3,
+    "duration": 4.004
+  },
+  {
+    "text": "And it's not like a Kickstarter,",
+    "start": 57.345,
+    "duration": 1.919
+  },
+  {
+    "text": "in that it leverages\na matching funds mechanism",
+    "start": 59.306,
+    "duration": 3.169
+  },
+  {
+    "text": "to match contributions\nfrom everyday donors.",
+    "start": 62.517,
+    "duration": 3.17
+  },
+  {
+    "text": "It's a mathematical formula",
+    "start": 65.729,
+    "duration": 1.626
+  },
+  {
+    "text": "that results in a fairer way\nto distribute funds.",
+    "start": 67.355,
+    "duration": 3.212
+  },
+  {
+    "text": "Here's the formula.",
+    "start": 70.567,
+    "duration": 1.293
+  },
+  {
+    "text": "Maybe it looks a bit daunting to you,",
+    "start": 71.86,
+    "duration": 1.877
+  },
+  {
+    "text": "especially if you\ndon't like Greek letters,",
+    "start": 73.737,
+    "duration": 2.085
+  },
+  {
+    "text": "but it's really powerful",
+    "start": 75.822,
+    "duration": 1.335
+  },
+  {
+    "text": "and I'm going to show you\nwhy it's so cool.",
+    "start": 77.157,
+    "duration": 2.085
+  },
+  {
+    "text": "It's basically a matching campaign.\nSo how does it work?",
+    "start": 79.242,
+    "duration": 2.669
+  },
+  {
+    "text": "Someone who's civic minded",
+    "start": 81.911,
+    "duration": 1.335
+  },
+  {
+    "text": "raises a pool of funding\nto stimulate a community.",
+    "start": 83.246,
+    "duration": 3.212
+  },
+  {
+    "text": "This could be a local philanthropist\nthat wants to give back,",
+    "start": 86.499,
+    "duration": 2.962
+  },
+  {
+    "text": "or a civic leader that wants\nto stimulate economic recovery.",
+    "start": 89.502,
+    "duration": 4.421
+  },
+  {
+    "text": "Second, projects sign up\nfor a crowdfunding campaign.",
+    "start": 93.965,
+    "duration": 3.253
+  },
+  {
+    "text": "This could be local businesses\nthat have a civic-minded mission,",
+    "start": 97.26,
+    "duration": 3.337
+  },
+  {
+    "text": "or it could be any group of neighbors\nwho wants to help out the community.",
+    "start": 100.639,
+    "duration": 3.586
+  },
+  {
+    "text": "And then third,\nyou run a crowdfunding campaign",
+    "start": 104.267,
+    "duration": 2.878
+  },
+  {
+    "text": "in which the everyday citizens\nin these communities",
+    "start": 107.187,
+    "duration": 3.128
+  },
+  {
+    "text": "contribute to the projects\nthat are in the campaign,",
+    "start": 110.315,
+    "duration": 2.627
+  },
+  {
+    "text": "and those contributions\nare matched by the matching pool.",
+    "start": 112.942,
+    "duration": 4.63
+  },
+  {
+    "text": "Now here's the cool thing\nabout quadratic funding",
+    "start": 117.572,
+    "duration": 2.377
+  },
+  {
+    "text": "that makes it into a funding power tool.",
+    "start": 119.949,
+    "duration": 2.586
+  },
+  {
+    "text": "When the contributions from the crowd\nare matched by the matching pool,",
+    "start": 122.535,
+    "duration": 3.712
+  },
+  {
+    "text": "they're matched more on the basis",
+    "start": 126.289,
+    "duration": 1.71
+  },
+  {
+    "text": "of the breadth of contributors\nto each project",
+    "start": 128.041,
+    "duration": 2.919
+  },
+  {
+    "text": "as opposed to the depth\nof their contributions.",
+    "start": 131.002,
+    "duration": 3.337
+  },
+  {
+    "text": "And this is really, really powerful.",
+    "start": 134.381,
+    "duration": 2.335
+  },
+  {
+    "text": "Let's run through an example of how.",
+    "start": 136.758,
+    "duration": 2.252
+  },
+  {
+    "text": "Let's say you have\na million-dollar matching pool",
+    "start": 139.052,
+    "duration": 2.294
+  },
+  {
+    "text": "for a seaside town's restoration campaign,",
+    "start": 141.388,
+    "duration": 3.003
+  },
+  {
+    "text": "and the first project, a marina,\nis favored by wealthy donors.",
+    "start": 144.432,
+    "duration": 3.295
+  },
+  {
+    "text": "It raises 500K from one contributor.",
+    "start": 147.769,
+    "duration": 3.837
+  },
+  {
+    "text": "The second project raises 500K\nfrom 10,000 contributors.",
+    "start": 151.606,
+    "duration": 4.588
+  },
+  {
+    "text": "Let's say it's something\nthat's more popular",
+    "start": 156.194,
+    "duration": 2.127
+  },
+  {
+    "text": "in everyday members of the community,\nlike revitalizing the downtown.",
+    "start": 158.321,
+    "duration": 3.796
+  },
+  {
+    "text": "With quadratic funding,",
+    "start": 162.117,
+    "duration": 1.334
+  },
+  {
+    "text": "that second project will get\nway more of the matching pool,",
+    "start": 163.451,
+    "duration": 2.836
+  },
+  {
+    "text": "even though they raised\nthe same amount of money,",
+    "start": 166.287,
+    "duration": 2.294
+  },
+  {
+    "text": "and in one-to-one matching,",
+    "start": 168.623,
+    "duration": 1.335
+  },
+  {
+    "text": "they would get the same amount\nfrom the matching pool.",
+    "start": 169.958,
+    "duration": 2.544
+  },
+  {
+    "text": "With quadratic funding,",
+    "start": 172.502,
+    "duration": 1.293
+  },
+  {
+    "text": "99 percent of the funds \nwill go to that second project.",
+    "start": 173.795,
+    "duration": 2.794
+  },
+  {
+    "text": "OK, so this is what makes\nquadratic funding a tool",
+    "start": 176.965,
+    "duration": 2.461
+  },
+  {
+    "text": "for funding what everyday members\nof the community want.",
+    "start": 179.467,
+    "duration": 2.878
+  },
+  {
+    "text": "It leverages a matching funds mechanism",
+    "start": 182.387,
+    "duration": 2.294
+  },
+  {
+    "text": "that disproportionately rewards projects\nwith a broader base of support",
+    "start": 184.723,
+    "duration": 3.545
+  },
+  {
+    "text": "over the ones that are supported\nby small donors.",
+    "start": 188.309,
+    "duration": 3.212
+  },
+  {
+    "text": "Alright, so now that we have\nan intuition for how this works --",
+    "start": 191.521,
+    "duration": 2.961
+  },
+  {
+    "text": "many small donors are more powerful\nthan one large donor --",
+    "start": 194.482,
+    "duration": 3.796
+  },
+  {
+    "text": "let's take a look at the math.",
+    "start": 198.278,
+    "duration": 1.835
+  },
+  {
+    "text": "This equation basically says",
+    "start": 200.113,
+    "duration": 2.252
+  },
+  {
+    "text": "that the amount\ncoming from the matching pool",
+    "start": 202.365,
+    "duration": 2.503
+  },
+  {
+    "text": "is proportional to the sum\nof the square roots of each contribution,",
+    "start": 204.868,
+    "duration": 4.713
+  },
+  {
+    "text": "all of that squared.",
+    "start": 209.622,
+    "duration": 1.544
+  },
+  {
+    "text": "Now, that might sound like a mouthful,",
+    "start": 211.207,
+    "duration": 2.878
+  },
+  {
+    "text": "but basically the reason\nwhy we call this quadratic funding",
+    "start": 214.127,
+    "duration": 3.337
+  },
+  {
+    "text": "is that it leverages squares\nand square roots",
+    "start": 217.505,
+    "duration": 3.462
+  },
+  {
+    "text": "in order to determine\nthe matching amounts.",
+    "start": 221.009,
+    "duration": 2.669
+  },
+  {
+    "text": "So let's run through an example",
+    "start": 223.72,
+    "duration": 1.543
+  },
+  {
+    "text": "so that you develop an intuition\nfor how this math works.",
+    "start": 225.305,
+    "duration": 2.878
+  },
+  {
+    "text": "Let's say we're running a QF campaign\nfor two different projects.",
+    "start": 228.224,
+    "duration": 4.088
+  },
+  {
+    "text": "And the first project raises 10 dollars\nfrom 10 contributors.",
+    "start": 232.353,
+    "duration": 4.588
+  },
+  {
+    "text": "So ten contributions of one dollar each.",
+    "start": 236.941,
+    "duration": 2.92
+  },
+  {
+    "text": "And the second project,\nfavored by wealthy donors,",
+    "start": 239.861,
+    "duration": 2.502
+  },
+  {
+    "text": "raises 10 dollars from one contributor.",
+    "start": 242.363,
+    "duration": 3.045
+  },
+  {
+    "text": "Let's apply the quadratic math\nto this campaign",
+    "start": 245.408,
+    "duration": 2.461
+  },
+  {
+    "text": "and figure out who's going\nto get the most matching.",
+    "start": 247.869,
+    "duration": 2.502
+  },
+  {
+    "text": "The first thing we have to do",
+    "start": 250.371,
+    "duration": 1.419
+  },
+  {
+    "text": "is we have to sum the square roots\nof each contribution.",
+    "start": 251.831,
+    "duration": 3.003
+  },
+  {
+    "text": "So the square root of one is one\nand one plus one plus one equals 10.",
+    "start": 254.876,
+    "duration": 5.547
+  },
+  {
+    "text": "So that's the first project.",
+    "start": 260.465,
+    "duration": 1.585
+  },
+  {
+    "text": "The second project received\none contribution of 10 dollars.",
+    "start": 262.091,
+    "duration": 3.003
+  },
+  {
+    "text": "We take the square root of that.\nAnd that's roughly three.",
+    "start": 265.136,
+    "duration": 3.212
+  },
+  {
+    "text": "So you can see\nin this portion of the formula",
+    "start": 268.389,
+    "duration": 2.128
+  },
+  {
+    "text": "how it starts to break down\nthe contributions of the larger donors",
+    "start": 270.558,
+    "duration": 3.128
+  },
+  {
+    "text": "with the square root,",
+    "start": 273.728,
+    "duration": 1.251
+  },
+  {
+    "text": "but it doesn't affect\nthe small donors as much.",
+    "start": 274.979,
+    "duration": 2.586
+  },
+  {
+    "text": "Next, let's take the sum\nof the square roots",
+    "start": 277.565,
+    "duration": 2.253
+  },
+  {
+    "text": "and let's square those.",
+    "start": 279.818,
+    "duration": 1.751
+  },
+  {
+    "text": "Ten squared is 100,",
+    "start": 281.569,
+    "duration": 2.086
+  },
+  {
+    "text": "and roughly three squared is about nine.",
+    "start": 283.655,
+    "duration": 3.044
+  },
+  {
+    "text": "Here you can develop an intuition\nfor the second half of this formula,",
+    "start": 286.699,
+    "duration": 3.337
+  },
+  {
+    "text": "and how it's widening the distance\nbetween the projects",
+    "start": 290.036,
+    "duration": 2.586
+  },
+  {
+    "text": "that have a broader base of support",
+    "start": 292.664,
+    "duration": 1.71
+  },
+  {
+    "text": "and the one favored by a large donor.",
+    "start": 294.415,
+    "duration": 2.67
+  },
+  {
+    "text": "And finally we have\nour matching proportions.",
+    "start": 297.126,
+    "duration": 2.211
+  },
+  {
+    "text": "90% of the funding\nis going to go to the project",
+    "start": 299.379,
+    "duration": 4.379
+  },
+  {
+    "text": "that has a broader base of support.",
+    "start": 303.8,
+    "duration": 2.294
+  },
+  {
+    "text": "OK, so that's how the math works.",
+    "start": 306.135,
+    "duration": 2.169
+  },
+  {
+    "text": "Many small donors are more powerful\nthan one large donor.",
+    "start": 308.346,
+    "duration": 3.42
+  },
+  {
+    "text": "And there's a counterintuitive implication\nof this that is extremely powerful.",
+    "start": 311.808,
+    "duration": 4.629
+  },
+  {
+    "text": "If we were doing a 1000-\nor 10,000-dollar-matching pool",
+    "start": 316.437,
+    "duration": 3.295
+  },
+  {
+    "text": "in that example,",
+    "start": 319.732,
+    "duration": 1.377
+  },
+  {
+    "text": "then when you give to that first project,",
+    "start": 321.109,
+    "duration": 2.043
+  },
+  {
+    "text": "you are allocating tens or hundreds\nof dollars in the campaign.",
+    "start": 323.152,
+    "duration": 4.588
+  },
+  {
+    "text": "So this gets lots of people\noff their butts",
+    "start": 327.74,
+    "duration": 2.336
+  },
+  {
+    "text": "to contribute to quadratic\nfunding campaigns.",
+    "start": 330.076,
+    "duration": 2.711
+  },
+  {
+    "text": "What's better? You give a dollar\nand a project gets a dollar,",
+    "start": 332.787,
+    "duration": 3.295
+  },
+  {
+    "text": "because of no matching.",
+    "start": 336.124,
+    "duration": 1.293
+  },
+  {
+    "text": "You give a dollar\nand a project gets two dollars",
+    "start": 337.458,
+    "duration": 2.253
+  },
+  {
+    "text": "because of one-to-one matching.",
+    "start": 339.752,
+    "duration": 1.627
+  },
+  {
+    "text": "Or you give a dollar\nand a project gets hundreds of dollars",
+    "start": 341.421,
+    "duration": 3.628
+  },
+  {
+    "text": "because the matching pool was well-funded",
+    "start": 345.091,
+    "duration": 2.085
+  },
+  {
+    "text": "and that project got\nenough small donors supporting it.",
+    "start": 347.218,
+    "duration": 3.003
+  },
+  {
+    "text": "OK? So because of these matching multiples",
+    "start": 350.263,
+    "duration": 2.669
+  },
+  {
+    "text": "we're starting to see lots of people\ncontribute to quadratic funding campaigns",
+    "start": 352.974,
+    "duration": 3.921
+  },
+  {
+    "text": "when we run them.",
+    "start": 356.936,
+    "duration": 1.293
+  },
+  {
+    "text": "And because of that, we're able\nto develop a high-resolution view",
+    "start": 358.229,
+    "duration": 3.42
+  },
+  {
+    "text": "of what constituencies\nthat run quadratic funding campaigns",
+    "start": 361.649,
+    "duration": 3.17
+  },
+  {
+    "text": "actually care about.",
+    "start": 364.819,
+    "duration": 1.627
+  },
+  {
+    "text": "This is what we call a preference map",
+    "start": 366.446,
+    "duration": 2.169
+  },
+  {
+    "text": "from a recent quadratic\nfunding campaign that we've run.",
+    "start": 368.615,
+    "duration": 2.669
+  },
+  {
+    "text": "And each circle is a donor\nor a grant that they gave to.",
+    "start": 371.284,
+    "duration": 3.337
+  },
+  {
+    "text": "So we see in high resolution\nwhat communities actually care about,",
+    "start": 374.621,
+    "duration": 3.628
+  },
+  {
+    "text": "and by care about I don't mean\nthat they hit a like button.",
+    "start": 378.291,
+    "duration": 2.794
+  },
+  {
+    "text": "They actually gave a dollar\nof their own money",
+    "start": 381.127,
+    "duration": 2.211
+  },
+  {
+    "text": "to the projects in their community",
+    "start": 383.379,
+    "duration": 1.835
+  },
+  {
+    "text": "on the basis of what they see\nin their community.",
+    "start": 385.256,
+    "duration": 2.878
+  },
+  {
+    "text": "In analog democracies,\nwe get a signal every couple of years",
+    "start": 388.176,
+    "duration": 3.545
+  },
+  {
+    "text": "and an up or down vote\nof what people actually care about,",
+    "start": 391.763,
+    "duration": 3.295
+  },
+  {
+    "text": "but with quadratic funding,",
+    "start": 395.099,
+    "duration": 1.335
+  },
+  {
+    "text": "we can get it more frequent",
+    "start": 396.476,
+    "duration": 1.334
+  },
+  {
+    "text": "if we run these campaigns\nevery three or six months,",
+    "start": 397.852,
+    "duration": 2.461
+  },
+  {
+    "text": "and more high-resolution view\nof what matters to everyday citizens.",
+    "start": 400.313,
+    "duration": 3.42
+  },
+  {
+    "text": "And then we can take the projects",
+    "start": 403.733,
+    "duration": 1.627
+  },
+  {
+    "text": "that are supported\nin the quadratic funding campaign,",
+    "start": 405.36,
+    "duration": 2.586
+  },
+  {
+    "text": "and build relationships\nbetween those in power",
+    "start": 407.946,
+    "duration": 2.252
+  },
+  {
+    "text": "and those who are doing\nthe most good in their communities.",
+    "start": 410.198,
+    "duration": 2.836
+  },
+  {
+    "text": "Quadratic funding isn't just for downtowns\nthat want to revitalize after a pandemic.",
+    "start": 413.034,
+    "duration": 4.379
+  },
+  {
+    "text": "And it's not just for seaside projects\nthat want to revitalize themselves either.",
+    "start": 417.455,
+    "duration": 3.879
+  },
+  {
+    "text": "Any community that wants to fund\nwhat matters to everyday people",
+    "start": 421.376,
+    "duration": 3.336
+  },
+  {
+    "text": "can use a quadratic\nfunding campaign to do so.",
+    "start": 424.754,
+    "duration": 2.502
+  },
+  {
+    "text": "The cycle can be kicked off\nby a philanthropist",
+    "start": 427.298,
+    "duration": 2.211
+  },
+  {
+    "text": "that wants to give back,\nbut isn't sure to what,",
+    "start": 429.55,
+    "duration": 2.253
+  },
+  {
+    "text": "a digital community that wants to fund\nwhat matters to everyday people",
+    "start": 431.844,
+    "duration": 3.295
+  },
+  {
+    "text": "can use quadratic funding,",
+    "start": 435.181,
+    "duration": 1.293
+  },
+  {
+    "text": "and it can be used\nby cities, states or countries",
+    "start": 436.516,
+    "duration": 2.294
+  },
+  {
+    "text": "that want to revitalize their democracies.",
+    "start": 438.851,
+    "duration": 2.044
+  },
+  {
+    "text": "Know any of those?",
+    "start": 440.937,
+    "duration": 1.918
+  },
+  {
+    "text": "Quadratic funding scales.",
+    "start": 442.855,
+    "duration": 1.752
+  },
+  {
+    "text": "In just about six years,",
+    "start": 444.607,
+    "duration": 1.293
+  },
+  {
+    "text": "it's been used to fund 60 million dollars\nworth of community goods",
+    "start": 445.9,
+    "duration": 3.337
+  },
+  {
+    "text": "through 270,000 unique contributors\nand four million unique contributions.",
+    "start": 449.237,
+    "duration": 5.547
+  },
+  {
+    "text": "It has funded 4,000 creators,",
+    "start": 454.784,
+    "duration": 2.085
+  },
+  {
+    "text": "extending a civic lifeline to the people",
+    "start": 456.869,
+    "duration": 2.128
+  },
+  {
+    "text": "who have the most legitimacy\nin these communities.",
+    "start": 458.997,
+    "duration": 3.67
+  },
+  {
+    "text": "The tech to do quadratic funding\nis available today.",
+    "start": 462.709,
+    "duration": 3.753
+  },
+  {
+    "text": "In the last year, my team at Gitcoin\nhas developed open-source software",
+    "start": 466.504,
+    "duration": 3.837
+  },
+  {
+    "text": "that anyone can pull down\nand run a quadratic funding campaign",
+    "start": 470.383,
+    "duration": 2.961
+  },
+  {
+    "text": "in their community today.",
+    "start": 473.386,
+    "duration": 1.293
+  },
+  {
+    "text": "Now I've got to address --",
+    "start": 474.721,
+    "duration": 1.251
+  },
+  {
+    "text": "Thank you.",
+    "start": 476.014,
+    "duration": 1.251
+  },
+  {
+    "text": "(Applause)",
+    "start": 477.306,
+    "duration": 3.421
+  },
+  {
+    "text": "I've got to address\nthe elephant in the room for a second.",
+    "start": 480.768,
+    "duration": 2.753
+  },
+  {
+    "text": "You may have guessed\nby the name of my startup,",
+    "start": 483.521,
+    "duration": 2.252
+  },
+  {
+    "text": "Gitcoin with a G,",
+    "start": 485.773,
+    "duration": 1.377
+  },
+  {
+    "text": "that I am indeed a crypto bro.",
+    "start": 487.15,
+    "duration": 1.96
+  },
+  {
+    "text": "(Laughter)",
+    "start": 489.11,
+    "duration": 1.293
+  },
+  {
+    "text": "I plead guilty.",
+    "start": 490.403,
+    "duration": 1.293
+  },
+  {
+    "text": "Crypto doesn't have the best reputation,\nand probably deservedly so,",
+    "start": 491.696,
+    "duration": 3.337
+  },
+  {
+    "text": "but I'm a part of the crypto movement\nthat cares deeply about community goods,",
+    "start": 495.033,
+    "duration": 3.712
+  },
+  {
+    "text": "things like open-source software,",
+    "start": 498.745,
+    "duration": 1.751
+  },
+  {
+    "text": "and we want to see those things funded.",
+    "start": 500.496,
+    "duration": 2.002
+  },
+  {
+    "text": "You wouldn't throw out all of the internet\nbecause of a couple of bad websites,",
+    "start": 502.54,
+    "duration": 3.754
+  },
+  {
+    "text": "so please don't throw out all of crypto\nbecause of Scam Bankman-Fried.",
+    "start": 506.335,
+    "duration": 3.337
+  },
+  {
+    "text": "(Laughter and applause)",
+    "start": 509.714,
+    "duration": 2.461
+  },
+  {
+    "text": "My flavor of crypto bro\ncares deeply about community goods",
+    "start": 512.216,
+    "duration": 2.753
+  },
+  {
+    "text": "and quadratic funding.",
+    "start": 515.011,
+    "duration": 1.293
+  },
+  {
+    "text": "It's an example of something good\nthat was pioneered in crypto",
+    "start": 516.345,
+    "duration": 3.796
+  },
+  {
+    "text": "and is now starting to go mainstream.",
+    "start": 520.183,
+    "duration": 2.085
+  },
+  {
+    "text": "If you want to run\na quadratic funding campaign",
+    "start": 522.31,
+    "duration": 2.21
+  },
+  {
+    "text": "in your Ethereum-based community,",
+    "start": 524.562,
+    "duration": 1.585
+  },
+  {
+    "text": "you can use Gitcoin Grants,\nour software, to do that.",
+    "start": 526.147,
+    "duration": 2.711
+  },
+  {
+    "text": "But if you don't care\nabout the whole crypto thing,",
+    "start": 528.858,
+    "duration": 2.502
+  },
+  {
+    "text": "we've built a tool called SimpleGrants.xyz",
+    "start": 531.36,
+    "duration": 2.753
+  },
+  {
+    "text": "that will allow you to fund\nwhat matters in your community",
+    "start": 534.113,
+    "duration": 2.836
+  },
+  {
+    "text": "using quadratic funding\nin US dollars, euros, Japanese yen",
+    "start": 536.949,
+    "duration": 4.38
+  },
+  {
+    "text": "or any of the hundreds\nof currencies that we support.",
+    "start": 541.329,
+    "duration": 3.17
+  },
+  {
+    "text": "This tool is available\nas open-source software,",
+    "start": 544.54,
+    "duration": 2.628
+  },
+  {
+    "text": "which means that anyone can download it",
+    "start": 547.21,
+    "duration": 1.877
+  },
+  {
+    "text": "and run it without needing\nanything from me.",
+    "start": 549.128,
+    "duration": 2.378
+  },
+  {
+    "text": "But if you need something,",
+    "start": 551.547,
+    "duration": 1.293
+  },
+  {
+    "text": "me and my team are available\nto talk about best practices",
+    "start": 552.84,
+    "duration": 2.711
+  },
+  {
+    "text": "and to help you support your community.",
+    "start": 555.593,
+    "duration": 2.085
+  },
+  {
+    "text": "Now I don't want to oversell\nquadratic funding.",
+    "start": 557.72,
+    "duration": 2.211
+  },
+  {
+    "text": "It's not perfect,\nor I guess said another way,",
+    "start": 559.972,
+    "duration": 2.169
+  },
+  {
+    "text": "it works under very specific scenarios.",
+    "start": 562.183,
+    "duration": 2.419
+  },
+  {
+    "text": "First, you need someone\nwho's going to put up the matching pool.",
+    "start": 564.644,
+    "duration": 3.003
+  },
+  {
+    "text": "Second, that person has to be comfortable\nwith other people distributing the funds.",
+    "start": 567.647,
+    "duration": 4.045
+  },
+  {
+    "text": "Third, we need the ability to stop people\nfrom falsifying identities.",
+    "start": 571.692,
+    "duration": 4.255
+  },
+  {
+    "text": "And fourth, we need to stop the ability\nto collude with each other.",
+    "start": 575.947,
+    "duration": 3.67
+  },
+  {
+    "text": "Basically, situations where\nif you contribute to my project,",
+    "start": 579.617,
+    "duration": 2.961
+  },
+  {
+    "text": "I'll contribute to yours.",
+    "start": 582.578,
+    "duration": 1.293
+  },
+  {
+    "text": "That's collusion.",
+    "start": 583.871,
+    "duration": 1.252
+  },
+  {
+    "text": "But these are solvable problems.",
+    "start": 585.164,
+    "duration": 1.543
+  },
+  {
+    "text": "And I know that because\nI've solved them hundreds of times",
+    "start": 586.749,
+    "duration": 2.753
+  },
+  {
+    "text": "through trial and error",
+    "start": 589.544,
+    "duration": 1.251
+  },
+  {
+    "text": "in the quadratic funding\ncampaigns that I've run.",
+    "start": 590.837,
+    "duration": 2.335
+  },
+  {
+    "text": "American sociobiologist\nEdward Wilson once said,",
+    "start": 593.214,
+    "duration": 2.252
+  },
+  {
+    "text": "the real problem with humanity\nis we've got Paleolithic emotions,",
+    "start": 595.466,
+    "duration": 3.087
+  },
+  {
+    "text": "medieval institutions\nand godlike technology.",
+    "start": 598.594,
+    "duration": 3.045
+  },
+  {
+    "text": "I think that with all\nof the amazing technology",
+    "start": 601.681,
+    "duration": 2.21
+  },
+  {
+    "text": "that we've got available today,",
+    "start": 603.933,
+    "duration": 1.543
+  },
+  {
+    "text": "we should be able\nto upgrade our institutions",
+    "start": 605.518,
+    "duration": 2.169
+  },
+  {
+    "text": "and use technology for the civic good.",
+    "start": 607.728,
+    "duration": 2.044
+  },
+  {
+    "text": "Fund what matters to everyday people.",
+    "start": 609.772,
+    "duration": 2.378
+  },
+  {
+    "text": "Quadratic funding\nis one way we can do that.",
+    "start": 612.15,
+    "duration": 2.127
+  },
+  {
+    "text": "It's not the only way,",
+    "start": 614.277,
+    "duration": 1.376
+  },
+  {
+    "text": "but it's part of an ecology\nof 21st-century digital democratic tools",
+    "start": 615.653,
+    "duration": 4.087
+  },
+  {
+    "text": "that are going to allow us\nto support the voices",
+    "start": 619.74,
+    "duration": 2.711
+  },
+  {
+    "text": "of a general, diverse population",
+    "start": 622.451,
+    "duration": 2.169
+  },
+  {
+    "text": "and create community engagement\nand collective action,",
+    "start": 624.62,
+    "duration": 3.379
+  },
+  {
+    "text": "and all in a way that feels\nmore like using a slick app",
+    "start": 628.04,
+    "duration": 2.753
+  },
+  {
+    "text": "than going to the DMV.",
+    "start": 630.835,
+    "duration": 1.501
+  },
+  {
+    "text": "I want to see us fund what matters\nto everyday people in the 21st century,",
+    "start": 632.378,
+    "duration": 3.545
+  },
+  {
+    "text": "and upgrade our institutions\nto be digitally native.",
+    "start": 635.965,
+    "duration": 3.212
+  },
+  {
+    "text": "Quadratic funding\nis one way we can do that.",
+    "start": 639.218,
+    "duration": 2.461
+  },
+  {
+    "text": "Thank you for coming to my TED talk.",
+    "start": 642.638,
+    "duration": 1.835
+  },
+  {
+    "text": "(Laughter and applause)",
+    "start": 644.515,
+    "duration": 2.086
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "text": "In 2012,",
+    "start": 7.016,
+    "duration": 1.46
+  },
+  {
+    "text": "a team of Japanese and Danish researchers\nset a world record,",
+    "start": 8.476,
+    "duration": 4.66
+  },
+  {
+    "text": "transmitting 1 petabit of data—",
+    "start": 13.136,
+    "duration": 2.58
+  },
+  {
+    "text": "that’s 10,000 hours of high-def video—",
+    "start": 15.716,
+    "duration": 3.29
+  },
+  {
+    "text": "over a fifty-kilometer cable, in a second.",
+    "start": 19.006,
+    "duration": 3.52
+  },
+  {
+    "text": "This wasn’t just any cable.",
+    "start": 22.526,
+    "duration": 1.9
+  },
+  {
+    "text": "It was a souped-up version \nof fiber optics—",
+    "start": 24.426,
+    "duration": 3.04
+  },
+  {
+    "text": "the hidden network that links our planet",
+    "start": 27.466,
+    "duration": 2.3
+  },
+  {
+    "text": "and makes the internet possible.",
+    "start": 29.766,
+    "duration": 2.47
+  },
+  {
+    "text": "For decades,",
+    "start": 32.236,
+    "duration": 0.88
+  },
+  {
+    "text": "long-distance communications \nbetween cities and countries",
+    "start": 33.116,
+    "duration": 3.38
+  },
+  {
+    "text": "were carried by electrical signals,",
+    "start": 36.496,
+    "duration": 2.05
+  },
+  {
+    "text": "in wires made of copper.",
+    "start": 38.546,
+    "duration": 1.72
+  },
+  {
+    "text": "This was slow and inefficient,",
+    "start": 40.266,
+    "duration": 1.97
+  },
+  {
+    "text": "with metal wires limiting data rates \nand power lost as wasted heat.",
+    "start": 42.236,
+    "duration": 5.42
+  },
+  {
+    "text": "But in the late 20th century,",
+    "start": 47.656,
+    "duration": 1.94
+  },
+  {
+    "text": "engineers mastered a far superior method\nof transmission.",
+    "start": 49.596,
+    "duration": 4.0
+  },
+  {
+    "text": "Instead of metal,",
+    "start": 53.596,
+    "duration": 1.46
+  },
+  {
+    "text": "glass can be carefully melted and \ndrawn into flexible fiber strands,",
+    "start": 55.056,
+    "duration": 5.09
+  },
+  {
+    "text": "hundreds of kilometers long \nand no thicker than human hair.",
+    "start": 60.146,
+    "duration": 4.389
+  },
+  {
+    "text": "And instead of electricity,",
+    "start": 64.535,
+    "duration": 1.702
+  },
+  {
+    "text": "these strands carry pulses of light, \nrepresenting digital data.",
+    "start": 66.237,
+    "duration": 5.25
+  },
+  {
+    "text": "But how does light travel within glass, \nrather than just pass through it?",
+    "start": 71.487,
+    "duration": 4.74
+  },
+  {
+    "text": "The trick lies in a phenomenon known \nas total internal reflection.",
+    "start": 76.227,
+    "duration": 5.284
+  },
+  {
+    "text": "Since Isaac Newton’s time,",
+    "start": 81.511,
+    "duration": 1.657
+  },
+  {
+    "text": "lensmakers and scientists have \nknown that light bends",
+    "start": 83.168,
+    "duration": 3.63
+  },
+  {
+    "text": "when it passes between air and \nmaterials like water or glass.",
+    "start": 86.798,
+    "duration": 4.79
+  },
+  {
+    "text": "When a ray of light inside glass hits its \nsurface at a steep angle,",
+    "start": 91.588,
+    "duration": 4.651
+  },
+  {
+    "text": "it refracts, or bends \nas it exits into air.",
+    "start": 96.239,
+    "duration": 3.73
+  },
+  {
+    "text": "But if the ray travels at a shallow angle,",
+    "start": 99.969,
+    "duration": 2.99
+  },
+  {
+    "text": "it’ll bend so far that it stays trapped,",
+    "start": 102.959,
+    "duration": 3.07
+  },
+  {
+    "text": "bouncing along inside the glass.",
+    "start": 106.029,
+    "duration": 2.92
+  },
+  {
+    "text": "Under the right condition,",
+    "start": 108.949,
+    "duration": 1.37
+  },
+  {
+    "text": "something normally transparent to light\ncan instead hide it from the world.",
+    "start": 110.319,
+    "duration": 5.23
+  },
+  {
+    "text": "Compared to electricity or radio,",
+    "start": 115.549,
+    "duration": 2.442
+  },
+  {
+    "text": "fiber optic signals barely degrade \nover great distances—",
+    "start": 117.991,
+    "duration": 3.79
+  },
+  {
+    "text": "a little power does scatter away,",
+    "start": 121.781,
+    "duration": 2.27
+  },
+  {
+    "text": "and fibers can’t bend too sharply,",
+    "start": 124.051,
+    "duration": 2.53
+  },
+  {
+    "text": "otherwise the light leaks out.",
+    "start": 126.581,
+    "duration": 1.91
+  },
+  {
+    "text": "Today, a single optical fiber carries many\nwavelengths of light,",
+    "start": 128.491,
+    "duration": 4.3
+  },
+  {
+    "text": "each a different channel of data.",
+    "start": 132.791,
+    "duration": 2.465
+  },
+  {
+    "text": "And a fiber optic cable contains hundreds \nof these fiber strands.",
+    "start": 135.256,
+    "duration": 4.21
+  },
+  {
+    "text": "Over a million kilometers of cable \ncrisscross our ocean floors",
+    "start": 139.466,
+    "duration": 3.979
+  },
+  {
+    "text": "to link the continents—",
+    "start": 143.445,
+    "duration": 1.6
+  },
+  {
+    "text": "that’s enough to wind around the \nEquator nearly thirty times.",
+    "start": 145.045,
+    "duration": 4.39
+  },
+  {
+    "text": "With fiber optics,",
+    "start": 149.435,
+    "duration": 1.196
+  },
+  {
+    "text": "distance hardly limits data,",
+    "start": 150.631,
+    "duration": 2.22
+  },
+  {
+    "text": "which has allowed the internet to evolve\ninto a planetary computer.",
+    "start": 152.851,
+    "duration": 4.0
+  },
+  {
+    "text": "Increasingly,",
+    "start": 156.851,
+    "duration": 0.8
+  },
+  {
+    "text": "our mobile work and play rely on legions \nof overworked computer servers,",
+    "start": 157.651,
+    "duration": 5.57
+  },
+  {
+    "text": "warehoused in gigantic data centers \nflung across the world.",
+    "start": 163.221,
+    "duration": 3.94
+  },
+  {
+    "text": "This is called cloud computing,",
+    "start": 167.161,
+    "duration": 1.92
+  },
+  {
+    "text": "and it leads to two big problems:",
+    "start": 169.081,
+    "duration": 2.28
+  },
+  {
+    "text": "heat waste and bandwidth demand.",
+    "start": 171.361,
+    "duration": 2.783
+  },
+  {
+    "text": "The vast majority of internet traffic \nshuttles around inside data centers,",
+    "start": 174.144,
+    "duration": 4.7
+  },
+  {
+    "text": "where thousands of servers are connected \nby traditional electrical cables.",
+    "start": 178.844,
+    "duration": 4.7
+  },
+  {
+    "text": "Half of their running power \nis wasted as heat.",
+    "start": 183.544,
+    "duration": 2.742
+  },
+  {
+    "text": "Meanwhile, wireless bandwidth demand \nsteadily marches on,",
+    "start": 186.286,
+    "duration": 4.16
+  },
+  {
+    "text": "and the gigahertz signals used in our \nmobile devices",
+    "start": 190.446,
+    "duration": 3.09
+  },
+  {
+    "text": "are reaching their data delivery limits.",
+    "start": 193.536,
+    "duration": 2.8
+  },
+  {
+    "text": "It seems fiber optics has been too good\nfor its own good,",
+    "start": 196.336,
+    "duration": 3.53
+  },
+  {
+    "text": "fueling overly-ambitious cloud and mobile\ncomputing expectations.",
+    "start": 199.866,
+    "duration": 4.71
+  },
+  {
+    "text": "But a related technology, integrated \nphotonics, has come to the rescue.",
+    "start": 204.576,
+    "duration": 5.25
+  },
+  {
+    "text": "Light can be guided not \nonly in optical fibers,",
+    "start": 209.827,
+    "duration": 3.03
+  },
+  {
+    "text": "but also in ultrathin silicon wires.",
+    "start": 212.857,
+    "duration": 3.36
+  },
+  {
+    "text": "Silicon wires don’t guide light\nas well as fiber.",
+    "start": 216.217,
+    "duration": 3.33
+  },
+  {
+    "text": "But they do enable engineers to shrink",
+    "start": 219.547,
+    "duration": 2.57
+  },
+  {
+    "text": "all the devices in a hundred kilometer \nfiber optic network",
+    "start": 222.117,
+    "duration": 3.48
+  },
+  {
+    "text": "down to tiny photonic chips that plug\ninto servers",
+    "start": 225.597,
+    "duration": 3.64
+  },
+  {
+    "text": "and convert their electrical signals \nto optical and back.",
+    "start": 229.237,
+    "duration": 4.09
+  },
+  {
+    "text": "These electricity-to-light chips allow for\nwasteful electrical cables in data centers",
+    "start": 233.327,
+    "duration": 6.102
+  },
+  {
+    "text": "to be swapped out for \npower-efficient fiber.",
+    "start": 239.429,
+    "duration": 3.38
+  },
+  {
+    "text": "Photonic chips can help break open \nwireless bandwidth limitations, too.",
+    "start": 242.809,
+    "duration": 4.57
+  },
+  {
+    "text": "Researchers are working to replace mobile\ngigahertz signals",
+    "start": 247.379,
+    "duration": 3.482
+  },
+  {
+    "text": "with terahertz frequencies,",
+    "start": 250.861,
+    "duration": 1.79
+  },
+  {
+    "text": "to carry data thousands of times faster.",
+    "start": 252.651,
+    "duration": 2.93
+  },
+  {
+    "text": "But these are short-range signals:",
+    "start": 255.581,
+    "duration": 2.04
+  },
+  {
+    "text": "they get absorbed by moisture in the air,",
+    "start": 257.621,
+    "duration": 2.1
+  },
+  {
+    "text": "or blocked by tall buildings.",
+    "start": 259.721,
+    "duration": 2.24
+  },
+  {
+    "text": "With tiny wireless-to-fiber photonic \ntransmitter chips",
+    "start": 261.961,
+    "duration": 3.37
+  },
+  {
+    "text": "distributed throughout cities,",
+    "start": 265.331,
+    "duration": 1.67
+  },
+  {
+    "text": "terahertz signals can be relayed over \nlong-range distances.",
+    "start": 267.001,
+    "duration": 4.43
+  },
+  {
+    "text": "They can do so via a stable middleman,",
+    "start": 271.431,
+    "duration": 2.638
+  },
+  {
+    "text": "optical fiber, and make hyperfast \nwireless connectivity a reality.",
+    "start": 274.069,
+    "duration": 5.36
+  },
+  {
+    "text": "For all of human history,",
+    "start": 279.429,
+    "duration": 1.874
+  },
+  {
+    "text": "light has gifted us with sight and heat,",
+    "start": 281.303,
+    "duration": 2.59
+  },
+  {
+    "text": "serving as a steady companion while we\nexplored and settled the physical world.",
+    "start": 283.893,
+    "duration": 5.29
+  },
+  {
+    "text": "Now, we’ve saddled light with information\nand redirected it",
+    "start": 289.183,
+    "duration": 3.629
+  },
+  {
+    "text": "to run along a fiber optic superhighway—",
+    "start": 292.812,
+    "duration": 2.95
+  },
+  {
+    "text": "with many different integrated \nphotonic exits—",
+    "start": 295.762,
+    "duration": 3.34
+  },
+  {
+    "text": "to build an even more expansive, \nvirtual world.",
+    "start": 299.102,
+    "duration": 3.78
+  }
+]

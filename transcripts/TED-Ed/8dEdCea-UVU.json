@@ -1,0 +1,547 @@
+[
+  {
+    "text": "Their fall from the tower sends \nEthic and Hedge",
+    "start": 21.734,
+    "duration": 3.05
+  },
+  {
+    "text": "spinning into the rapids \nof a river of pure energy.",
+    "start": 24.784,
+    "duration": 4.24
+  },
+  {
+    "text": "This torrent flows from the Bradbarrier\nall the way to Huxenborg.",
+    "start": 30.944,
+    "duration": 5.937
+  },
+  {
+    "text": "There an entire city’s worth of factories",
+    "start": 36.881,
+    "duration": 3.1
+  },
+  {
+    "text": "build the robots \nand house the Node of Memory,",
+    "start": 39.981,
+    "duration": 3.08
+  },
+  {
+    "text": "the last of the three powerful artifacts \nEthic needs to collect.",
+    "start": 43.061,
+    "duration": 4.372
+  },
+  {
+    "text": "After a long day and a longer night",
+    "start": 47.433,
+    "duration": 2.51
+  },
+  {
+    "text": "they find themselves \nin a canyon of brick and steel.",
+    "start": 49.943,
+    "duration": 3.72
+  },
+  {
+    "text": "Just when they’re about to reach \nthe end of the line,",
+    "start": 58.918,
+    "duration": 2.655
+  },
+  {
+    "text": "a rope catches them.",
+    "start": 61.573,
+    "duration": 1.75
+  },
+  {
+    "text": "Their savior, Lemma, \nhas been waiting for them.",
+    "start": 67.023,
+    "duration": 4.114
+  },
+  {
+    "text": "When Ethic claimed the Node of Creation \nfrom the forest tower,",
+    "start": 71.137,
+    "duration": 3.952
+  },
+  {
+    "text": "radios all across the land \ncame back to life.",
+    "start": 75.089,
+    "duration": 3.9
+  },
+  {
+    "text": "Adila, the resistance leader, \nimmediately started contacting her allies,",
+    "start": 78.989,
+    "duration": 4.776
+  },
+  {
+    "text": "none more important than Lemma,",
+    "start": 83.765,
+    "duration": 2.61
+  },
+  {
+    "text": "a brilliant scientist working from within\nHuxenborg to bring down the machines.",
+    "start": 86.375,
+    "duration": 5.893
+  },
+  {
+    "text": "Unfortunately, the radios \nalso tipped off the robots.",
+    "start": 92.268,
+    "duration": 4.0
+  },
+  {
+    "text": "So they’ve taken defensive measures",
+    "start": 96.268,
+    "duration": 2.26
+  },
+  {
+    "text": "to protect the final artifact in its home \nin the very heart of the city.",
+    "start": 98.528,
+    "duration": 4.828
+  },
+  {
+    "text": "There’s only one way to get there: \nthe gauntlet of forking paths.",
+    "start": 103.356,
+    "duration": 5.155
+  },
+  {
+    "text": "It’s a deadly series of luminous conveyors\nthat wind underneath Huxenborg.",
+    "start": 108.511,
+    "duration": 6.386
+  },
+  {
+    "text": "Starting from the current position,",
+    "start": 114.897,
+    "duration": 1.82
+  },
+  {
+    "text": "each section runs for a distance, \nthen splits in two.",
+    "start": 116.717,
+    "duration": 4.395
+  },
+  {
+    "text": "Every branch does the same thing, \nagain and again.",
+    "start": 121.112,
+    "duration": 3.43
+  },
+  {
+    "text": "There are thousands of branches.",
+    "start": 124.542,
+    "duration": 2.4
+  },
+  {
+    "text": "Only one path leads to the artifact; \nall the others to destruction.",
+    "start": 126.942,
+    "duration": 5.942
+  },
+  {
+    "text": "Fortunately, the Node of Creation \nhas granted Hedge a strange power:",
+    "start": 132.884,
+    "duration": 4.619
+  },
+  {
+    "text": "he can produce slightly smaller versions \nof himself.",
+    "start": 137.503,
+    "duration": 3.72
+  },
+  {
+    "text": "Each version can do only two things: \nradio information back to its parent,",
+    "start": 141.223,
+    "duration": 5.21
+  },
+  {
+    "text": "and produce slightly smaller \nversions of itself…",
+    "start": 146.433,
+    "duration": 3.74
+  },
+  {
+    "text": "which can do the same two things, \nas can their children,",
+    "start": 150.173,
+    "duration": 3.69
+  },
+  {
+    "text": "for as many generations as needed.",
+    "start": 153.863,
+    "duration": 2.94
+  },
+  {
+    "text": "A patrol is closing in on their position, \nso Ethic’s time is limited.",
+    "start": 156.803,
+    "duration": 5.051
+  },
+  {
+    "text": "What instructions should she give \nHedge to find the one safe path?",
+    "start": 161.854,
+    "duration": 5.203
+  },
+  {
+    "text": "Pause the video to figure it out yourself.",
+    "start": 167.057,
+    "duration": 6.778
+  },
+  {
+    "text": "Hint in 3",
+    "start": 173.835,
+    "duration": 0.99
+  },
+  {
+    "text": "Hint in 2",
+    "start": 174.825,
+    "duration": 1.2
+  },
+  {
+    "text": "Hint in 1",
+    "start": 176.025,
+    "duration": 0.96
+  },
+  {
+    "text": "Programmers have an elegant tool \nin their arsenal called recursion.",
+    "start": 177.825,
+    "duration": 5.162
+  },
+  {
+    "text": "Recursion is when you have a set of \ninstructions that refers back to itself.",
+    "start": 182.987,
+    "duration": 5.341
+  },
+  {
+    "text": "It’s like using a word \nin its own definition,",
+    "start": 188.328,
+    "duration": 2.96
+  },
+  {
+    "text": "except where that’s frowned upon,\nthis is incredibly effective.",
+    "start": 191.288,
+    "duration": 4.56
+  },
+  {
+    "text": "Recursion involves repetition, \nbut in a different way than loops.",
+    "start": 195.848,
+    "duration": 4.512
+  },
+  {
+    "text": "Where a loop takes one action \nand repeats it again and again,",
+    "start": 200.36,
+    "duration": 4.0
+  },
+  {
+    "text": "recursion will start an action, \nand before it’s finished, use it again,",
+    "start": 204.36,
+    "duration": 4.302
+  },
+  {
+    "text": "and before that’s finished, \nuse it again, and so on.",
+    "start": 208.662,
+    "duration": 4.0
+  },
+  {
+    "text": "It keeps doing this until \nsome end state is reached.",
+    "start": 212.662,
+    "duration": 4.0
+  },
+  {
+    "text": "It then passes the information back up,\nlayer after layer,",
+    "start": 216.662,
+    "duration": 4.162
+  },
+  {
+    "text": "until it reaches the top \nand ends the cycle.",
+    "start": 220.824,
+    "duration": 3.62
+  },
+  {
+    "text": "Recursion is ideal for problems \nthat involve self-similarity,",
+    "start": 224.444,
+    "duration": 4.662
+  },
+  {
+    "text": "where each part resembles \nthe larger whole.",
+    "start": 229.106,
+    "duration": 2.86
+  },
+  {
+    "text": "Like, for example, a deadly defense \nsystem designed to end any person or thing",
+    "start": 231.966,
+    "duration": 6.004
+  },
+  {
+    "text": "who dares tread upon it.",
+    "start": 237.97,
+    "duration": 1.89
+  },
+  {
+    "text": "Pause the video to figure it out yourself.",
+    "start": 239.86,
+    "duration": 2.06
+  },
+  {
+    "text": "Solution in 3",
+    "start": 241.92,
+    "duration": 0.793
+  },
+  {
+    "text": "Solution in 2",
+    "start": 242.713,
+    "duration": 0.92
+  },
+  {
+    "text": "Solution in 1",
+    "start": 243.633,
+    "duration": 1.08
+  },
+  {
+    "text": "Ethic’s conundrum seems sprawling \non the surface,",
+    "start": 244.993,
+    "duration": 3.041
+  },
+  {
+    "text": "but there’s a remarkably simple\nsolution to it using recursion.",
+    "start": 248.034,
+    "duration": 4.366
+  },
+  {
+    "text": "In order to find it, let’s first look \nat the simplest version of this puzzle:",
+    "start": 252.4,
+    "duration": 4.75
+  },
+  {
+    "text": "what if the entire maze \nwere just two paths?",
+    "start": 257.15,
+    "duration": 3.27
+  },
+  {
+    "text": "If Hedge copies himself, the copy \nthat goes the wrong way will be destroyed.",
+    "start": 260.42,
+    "duration": 4.618
+  },
+  {
+    "text": "So the other one, \nwhich will reach the artifact,",
+    "start": 265.038,
+    "duration": 2.719
+  },
+  {
+    "text": "can radio back the path it took,\nand then no matter which way is correct,",
+    "start": 267.757,
+    "duration": 4.7
+  },
+  {
+    "text": "that’s the answer Hedge will receive.",
+    "start": 272.457,
+    "duration": 2.401
+  },
+  {
+    "text": "This is called the \"base case\"\nof the recursion.",
+    "start": 274.858,
+    "duration": 3.58
+  },
+  {
+    "text": "Now, suppose the maze \nbranches twice from the starting point,",
+    "start": 278.438,
+    "duration": 3.34
+  },
+  {
+    "text": "and at every intersection, \nHedge’s copies—",
+    "start": 281.778,
+    "duration": 2.982
+  },
+  {
+    "text": "let’s call them Twig 1 and Twig 2—",
+    "start": 284.76,
+    "duration": 2.86
+  },
+  {
+    "text": "make more copies— \nlet’s call them Leaves 1 through 4.",
+    "start": 287.62,
+    "duration": 5.007
+  },
+  {
+    "text": "Three Leaves will be destroyed.",
+    "start": 292.627,
+    "duration": 3.12
+  },
+  {
+    "text": "The one that reaches the artifact \nwill radio back the right answer,",
+    "start": 295.747,
+    "duration": 4.116
+  },
+  {
+    "text": "but only to its parent.",
+    "start": 299.863,
+    "duration": 1.98
+  },
+  {
+    "text": "So if Twig 1 or 2 is waiting \nat an intersection",
+    "start": 301.843,
+    "duration": 3.88
+  },
+  {
+    "text": "and hears something over the radio,",
+    "start": 305.723,
+    "duration": 1.99
+  },
+  {
+    "text": "that’s the right way to go \nto the artifact from where it is.",
+    "start": 307.713,
+    "duration": 3.56
+  },
+  {
+    "text": "To tell Hedge the right answer \nfrom his perspective,",
+    "start": 311.273,
+    "duration": 3.29
+  },
+  {
+    "text": "the Twig should say which way it went,",
+    "start": 314.563,
+    "duration": 2.44
+  },
+  {
+    "text": "and then the route \nit just heard over the radio.",
+    "start": 317.003,
+    "duration": 3.6
+  },
+  {
+    "text": "This same process will work no matter \nhow many times the maze branches.",
+    "start": 320.603,
+    "duration": 4.79
+  },
+  {
+    "text": "Any answer a copy hears on the radio",
+    "start": 325.393,
+    "duration": 2.96
+  },
+  {
+    "text": "must be the way to the control room \nfrom its location,",
+    "start": 328.353,
+    "duration": 3.3
+  },
+  {
+    "text": "and if it then adds the branch it took,",
+    "start": 331.653,
+    "duration": 2.35
+  },
+  {
+    "text": "it can tell its parent \nhow to get there as well.",
+    "start": 334.003,
+    "duration": 3.22
+  },
+  {
+    "text": "We can sum up the instructions \nin an action called Pathfinder",
+    "start": 337.223,
+    "duration": 4.0
+  },
+  {
+    "text": "that every version of Hedge will follow:",
+    "start": 341.223,
+    "duration": 3.13
+  },
+  {
+    "text": "1. If you’ve reached the artifact,",
+    "start": 344.353,
+    "duration": 2.29
+  },
+  {
+    "text": "radio to your parent whether \nyou got there by going left or right.",
+    "start": 346.643,
+    "duration": 4.094
+  },
+  {
+    "text": "2. When you reach an intersection, \nmove off the conveyor",
+    "start": 350.737,
+    "duration": 3.83
+  },
+  {
+    "text": "and send new copies down the left \nand right paths.",
+    "start": 354.567,
+    "duration": 3.98
+  },
+  {
+    "text": "Have them each run Pathfinder.",
+    "start": 358.547,
+    "duration": 2.28
+  },
+  {
+    "text": "This is where recursion comes in,",
+    "start": 360.827,
+    "duration": 2.04
+  },
+  {
+    "text": "and this may happen many times before\nthe last instruction triggers, which is:",
+    "start": 362.867,
+    "duration": 5.094
+  },
+  {
+    "text": "3. If you hear anything over the radio,\nyou should radio to your parent",
+    "start": 367.961,
+    "duration": 4.987
+  },
+  {
+    "text": "whether you got to your spot \nby going left or right,",
+    "start": 372.948,
+    "duration": 3.629
+  },
+  {
+    "text": "then repeat everything you just heard.",
+    "start": 376.577,
+    "duration": 2.85
+  },
+  {
+    "text": "Pathfinder is an example \nof what programmers call functions,",
+    "start": 379.427,
+    "duration": 3.996
+  },
+  {
+    "text": "subroutines, or procedures.",
+    "start": 383.423,
+    "duration": 2.69
+  },
+  {
+    "text": "No matter the terminology, \nthe idea is the same—",
+    "start": 386.113,
+    "duration": 3.39
+  },
+  {
+    "text": "it’s a set of instructions given a label \nso that it can be easily reused—",
+    "start": 389.503,
+    "duration": 4.794
+  },
+  {
+    "text": "perhaps even by itself.",
+    "start": 394.297,
+    "duration": 2.31
+  },
+  {
+    "text": "And in our case that’ll work perfectly—",
+    "start": 396.607,
+    "duration": 2.976
+  },
+  {
+    "text": "an entire network of paths mapped\nusing just three instructions.",
+    "start": 399.583,
+    "duration": 5.23
+  },
+  {
+    "text": "So here's what happens.",
+    "start": 406.257,
+    "duration": 1.63
+  },
+  {
+    "text": "By the time the patrol rounds the corner,\nEthic and Lemma have improvised disguises.",
+    "start": 429.76,
+    "duration": 5.777
+  },
+  {
+    "text": "They try to confuse the bots \nlong enough to buy Hedge time.",
+    "start": 435.537,
+    "duration": 4.12
+  },
+  {
+    "text": "Finally, Hedge’s radio crackles to life \nwith a series of directions.",
+    "start": 451.473,
+    "duration": 4.778
+  },
+  {
+    "text": "The three dive onto the conveyor\nand flee for their lives,",
+    "start": 456.251,
+    "duration": 3.85
+  },
+  {
+    "text": "with a squadron of enforcer bots \nin hot pursuit.",
+    "start": 460.101,
+    "duration": 3.72
+  }
+]

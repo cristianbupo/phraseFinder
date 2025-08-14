@@ -1,0 +1,877 @@
+[
+  {
+    "text": "Translator: Ivana Korom\nReviewer: Camille Martínez",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Many of us here use technology\nin our day-to-day.",
+    "start": 12.937,
+    "duration": 3.165
+  },
+  {
+    "text": "And some of us rely\non technology to do our jobs.",
+    "start": 16.126,
+    "duration": 3.247
+  },
+  {
+    "text": "For a while, I thought of machines\nand the technologies that drive them",
+    "start": 19.397,
+    "duration": 3.95
+  },
+  {
+    "text": "as perfect tools that could make my work\nmore efficient and more productive.",
+    "start": 23.371,
+    "duration": 4.505
+  },
+  {
+    "text": "But with the rise of automation\nacross so many different industries,",
+    "start": 28.403,
+    "duration": 3.254
+  },
+  {
+    "text": "it led me to wonder:",
+    "start": 31.681,
+    "duration": 1.372
+  },
+  {
+    "text": "If machines are starting\nto be able to do the work",
+    "start": 33.077,
+    "duration": 2.341
+  },
+  {
+    "text": "traditionally done by humans,",
+    "start": 35.442,
+    "duration": 1.667
+  },
+  {
+    "text": "what will become of the human hand?",
+    "start": 37.133,
+    "duration": 2.333
+  },
+  {
+    "text": "How does our desire for perfection,\nprecision and automation",
+    "start": 40.133,
+    "duration": 4.093
+  },
+  {
+    "text": "affect our ability to be creative?",
+    "start": 44.25,
+    "duration": 1.922
+  },
+  {
+    "text": "In my work as an artist and researcher,\nI explore AI and robotics",
+    "start": 46.553,
+    "duration": 4.087
+  },
+  {
+    "text": "to develop new processes\nfor human creativity.",
+    "start": 50.664,
+    "duration": 3.005
+  },
+  {
+    "text": "For the past few years,",
+    "start": 54.077,
+    "duration": 1.286
+  },
+  {
+    "text": "I've made work alongside machines,\ndata and emerging technologies.",
+    "start": 55.387,
+    "duration": 4.376
+  },
+  {
+    "text": "It's part of a lifelong fascination",
+    "start": 60.143,
+    "duration": 1.861
+  },
+  {
+    "text": "about the dynamics\nof individuals and systems",
+    "start": 62.028,
+    "duration": 2.735
+  },
+  {
+    "text": "and all the messiness that that entails.",
+    "start": 64.787,
+    "duration": 2.381
+  },
+  {
+    "text": "It's how I'm exploring questions about\nwhere AI ends and we begin",
+    "start": 67.192,
+    "duration": 4.808
+  },
+  {
+    "text": "and where I'm developing processes",
+    "start": 72.024,
+    "duration": 1.642
+  },
+  {
+    "text": "that investigate potential\nsensory mixes of the future.",
+    "start": 73.69,
+    "duration": 3.326
+  },
+  {
+    "text": "I think it's where philosophy\nand technology intersect.",
+    "start": 77.675,
+    "duration": 2.857
+  },
+  {
+    "text": "Doing this work\nhas taught me a few things.",
+    "start": 80.992,
+    "duration": 2.239
+  },
+  {
+    "text": "It's taught me how embracing imperfection",
+    "start": 83.642,
+    "duration": 2.824
+  },
+  {
+    "text": "can actually teach us\nsomething about ourselves.",
+    "start": 86.49,
+    "duration": 2.489
+  },
+  {
+    "text": "It's taught me that exploring art",
+    "start": 89.428,
+    "duration": 2.336
+  },
+  {
+    "text": "can actually help shape\nthe technology that shapes us.",
+    "start": 91.788,
+    "duration": 2.931
+  },
+  {
+    "text": "And it's taught me\nthat combining AI and robotics",
+    "start": 95.148,
+    "duration": 3.261
+  },
+  {
+    "text": "with traditional forms of creativity --\nvisual arts in my case --",
+    "start": 98.433,
+    "duration": 3.532
+  },
+  {
+    "text": "can help us think a little bit more deeply",
+    "start": 101.989,
+    "duration": 2.302
+  },
+  {
+    "text": "about what is human\nand what is the machine.",
+    "start": 104.315,
+    "duration": 2.897
+  },
+  {
+    "text": "And it's led me to the realization",
+    "start": 107.942,
+    "duration": 1.707
+  },
+  {
+    "text": "that collaboration is the key\nto creating the space for both",
+    "start": 109.673,
+    "duration": 3.055
+  },
+  {
+    "text": "as we move forward.",
+    "start": 112.752,
+    "duration": 1.267
+  },
+  {
+    "text": "It all started with a simple\nexperiment with machines,",
+    "start": 114.387,
+    "duration": 2.746
+  },
+  {
+    "text": "called \"Drawing Operations\nUnit: Generation 1.\"",
+    "start": 117.157,
+    "duration": 2.826
+  },
+  {
+    "text": "I call the machine \"D.O.U.G.\" for short.",
+    "start": 120.434,
+    "duration": 2.516
+  },
+  {
+    "text": "Before I built D.O.U.G,",
+    "start": 122.974,
+    "duration": 1.326
+  },
+  {
+    "text": "I didn't know anything\nabout building robots.",
+    "start": 124.324,
+    "duration": 2.365
+  },
+  {
+    "text": "I took some open-source\nrobotic arm designs,",
+    "start": 127.22,
+    "duration": 2.897
+  },
+  {
+    "text": "I hacked together a system\nwhere the robot would match my gestures",
+    "start": 130.141,
+    "duration": 3.341
+  },
+  {
+    "text": "and follow [them] in real time.",
+    "start": 133.506,
+    "duration": 1.639
+  },
+  {
+    "text": "The premise was simple:",
+    "start": 135.169,
+    "duration": 1.448
+  },
+  {
+    "text": "I would lead, and it would follow.",
+    "start": 136.641,
+    "duration": 2.2
+  },
+  {
+    "text": "I would draw a line,\nand it would mimic my line.",
+    "start": 139.403,
+    "duration": 2.936
+  },
+  {
+    "text": "So back in 2015, there we were,\ndrawing for the first time,",
+    "start": 142.363,
+    "duration": 3.698
+  },
+  {
+    "text": "in front of a small audience\nin New York City.",
+    "start": 146.085,
+    "duration": 2.619
+  },
+  {
+    "text": "The process was pretty sparse --",
+    "start": 148.728,
+    "duration": 2.555
+  },
+  {
+    "text": "no lights, no sounds,\nnothing to hide behind.",
+    "start": 151.307,
+    "duration": 3.487
+  },
+  {
+    "text": "Just my palms sweating\nand the robot's new servos heating up.",
+    "start": 155.241,
+    "duration": 3.395
+  },
+  {
+    "text": "(Laughs) Clearly, we were\nnot built for this.",
+    "start": 158.95,
+    "duration": 2.441
+  },
+  {
+    "text": "But something interesting happened,\nsomething I didn't anticipate.",
+    "start": 161.82,
+    "duration": 3.233
+  },
+  {
+    "text": "See, D.O.U.G., in its primitive form,\nwasn't tracking my line perfectly.",
+    "start": 165.077,
+    "duration": 4.802
+  },
+  {
+    "text": "While in the simulation\nthat happened onscreen",
+    "start": 169.903,
+    "duration": 2.333
+  },
+  {
+    "text": "it was pixel-perfect,",
+    "start": 172.26,
+    "duration": 1.357
+  },
+  {
+    "text": "in physical reality,\nit was a different story.",
+    "start": 173.641,
+    "duration": 2.531
+  },
+  {
+    "text": "It would slip and slide\nand punctuate and falter,",
+    "start": 176.196,
+    "duration": 2.817
+  },
+  {
+    "text": "and I would be forced to respond.",
+    "start": 179.037,
+    "duration": 2.068
+  },
+  {
+    "text": "There was nothing pristine about it.",
+    "start": 181.525,
+    "duration": 1.778
+  },
+  {
+    "text": "And yet, somehow, the mistakes\nmade the work more interesting.",
+    "start": 183.327,
+    "duration": 3.238
+  },
+  {
+    "text": "The machine was interpreting\nmy line but not perfectly.",
+    "start": 186.589,
+    "duration": 2.754
+  },
+  {
+    "text": "And I was forced to respond.",
+    "start": 189.367,
+    "duration": 1.372
+  },
+  {
+    "text": "We were adapting\nto each other in real time.",
+    "start": 190.763,
+    "duration": 2.709
+  },
+  {
+    "text": "And seeing this taught me a few things.",
+    "start": 193.496,
+    "duration": 1.937
+  },
+  {
+    "text": "It showed me that our mistakes\nactually made the work more interesting.",
+    "start": 195.457,
+    "duration": 4.88
+  },
+  {
+    "text": "And I realized that, you know,\nthrough the imperfection of the machine,",
+    "start": 200.663,
+    "duration": 4.249
+  },
+  {
+    "text": "our imperfections became\nwhat was beautiful about the interaction.",
+    "start": 204.936,
+    "duration": 3.705
+  },
+  {
+    "text": "And I was excited,\nbecause it led me to the realization",
+    "start": 209.65,
+    "duration": 3.087
+  },
+  {
+    "text": "that maybe part of the beauty\nof human and machine systems",
+    "start": 212.761,
+    "duration": 3.65
+  },
+  {
+    "text": "is their shared inherent fallibility.",
+    "start": 216.435,
+    "duration": 2.738
+  },
+  {
+    "text": "For the second generation of D.O.U.G.,",
+    "start": 219.197,
+    "duration": 1.82
+  },
+  {
+    "text": "I knew I wanted to explore this idea.",
+    "start": 221.041,
+    "duration": 2.307
+  },
+  {
+    "text": "But instead of an accident produced\nby pushing a robotic arm to its limits,",
+    "start": 223.372,
+    "duration": 4.418
+  },
+  {
+    "text": "I wanted to design a system\nthat would respond to my drawings",
+    "start": 227.814,
+    "duration": 2.897
+  },
+  {
+    "text": "in ways that I didn't expect.",
+    "start": 230.735,
+    "duration": 1.833
+  },
+  {
+    "text": "So, I used a visual algorithm\nto extract visual information",
+    "start": 232.592,
+    "duration": 3.849
+  },
+  {
+    "text": "from decades of my digital\nand analog drawings.",
+    "start": 236.465,
+    "duration": 2.978
+  },
+  {
+    "text": "I trained a neural net on these drawings",
+    "start": 239.467,
+    "duration": 2.055
+  },
+  {
+    "text": "in order to generate\nrecurring patterns in the work",
+    "start": 241.546,
+    "duration": 2.865
+  },
+  {
+    "text": "that were then fed through custom software\nback into the machine.",
+    "start": 244.435,
+    "duration": 3.476
+  },
+  {
+    "text": "I painstakingly collected\nas many of my drawings as I could find --",
+    "start": 247.935,
+    "duration": 4.386
+  },
+  {
+    "text": "finished works, unfinished experiments\nand random sketches --",
+    "start": 252.345,
+    "duration": 4.215
+  },
+  {
+    "text": "and tagged them for the AI system.",
+    "start": 256.584,
+    "duration": 1.999
+  },
+  {
+    "text": "And since I'm an artist,\nI've been making work for over 20 years.",
+    "start": 258.607,
+    "duration": 3.684
+  },
+  {
+    "text": "Collecting that many drawings took months,",
+    "start": 262.315,
+    "duration": 2.024
+  },
+  {
+    "text": "it was a whole thing.",
+    "start": 264.363,
+    "duration": 1.389
+  },
+  {
+    "text": "And here's the thing\nabout training AI systems:",
+    "start": 265.776,
+    "duration": 2.595
+  },
+  {
+    "text": "it's actually a lot of hard work.",
+    "start": 268.395,
+    "duration": 2.2
+  },
+  {
+    "text": "A lot of work goes on behind the scenes.",
+    "start": 271.022,
+    "duration": 2.191
+  },
+  {
+    "text": "But in doing the work,\nI realized a little bit more",
+    "start": 273.237,
+    "duration": 2.681
+  },
+  {
+    "text": "about how the architecture\nof an AI is constructed.",
+    "start": 275.942,
+    "duration": 3.421
+  },
+  {
+    "text": "And I realized it's not just made\nof models and classifiers",
+    "start": 279.387,
+    "duration": 2.947
+  },
+  {
+    "text": "for the neural network.",
+    "start": 282.358,
+    "duration": 1.322
+  },
+  {
+    "text": "But it's a fundamentally\nmalleable and shapable system,",
+    "start": 283.704,
+    "duration": 3.532
+  },
+  {
+    "text": "one in which the human hand\nis always present.",
+    "start": 287.26,
+    "duration": 3.111
+  },
+  {
+    "text": "It's far from the omnipotent AI\nwe've been told to believe in.",
+    "start": 290.395,
+    "duration": 4.0
+  },
+  {
+    "text": "So I collected these drawings\nfor the neural net.",
+    "start": 294.419,
+    "duration": 2.515
+  },
+  {
+    "text": "And we realized something\nthat wasn't previously possible.",
+    "start": 296.958,
+    "duration": 3.929
+  },
+  {
+    "text": "My robot D.O.U.G. became\na real-time interactive reflection",
+    "start": 300.911,
+    "duration": 4.091
+  },
+  {
+    "text": "of the work I'd done\nthrough the course of my life.",
+    "start": 305.026,
+    "duration": 2.627
+  },
+  {
+    "text": "The data was personal,\nbut the results were powerful.",
+    "start": 307.677,
+    "duration": 3.865
+  },
+  {
+    "text": "And I got really excited,",
+    "start": 311.566,
+    "duration": 1.484
+  },
+  {
+    "text": "because I started thinking maybe\nmachines don't need to be just tools,",
+    "start": 313.074,
+    "duration": 4.582
+  },
+  {
+    "text": "but they can function\nas nonhuman collaborators.",
+    "start": 317.68,
+    "duration": 3.42
+  },
+  {
+    "text": "And even more than that,",
+    "start": 321.537,
+    "duration": 1.547
+  },
+  {
+    "text": "I thought maybe\nthe future of human creativity",
+    "start": 323.108,
+    "duration": 2.429
+  },
+  {
+    "text": "isn't in what it makes",
+    "start": 325.561,
+    "duration": 1.524
+  },
+  {
+    "text": "but how it comes together\nto explore new ways of making.",
+    "start": 327.109,
+    "duration": 3.436
+  },
+  {
+    "text": "So if D.O.U.G._1 was the muscle,",
+    "start": 331.101,
+    "duration": 2.19
+  },
+  {
+    "text": "and D.O.U.G._2 was the brain,",
+    "start": 333.315,
+    "duration": 1.762
+  },
+  {
+    "text": "then I like to think\nof D.O.U.G._3 as the family.",
+    "start": 335.101,
+    "duration": 2.928
+  },
+  {
+    "text": "I knew I wanted to explore this idea\nof human-nonhuman collaboration at scale.",
+    "start": 338.482,
+    "duration": 4.793
+  },
+  {
+    "text": "So over the past few months,",
+    "start": 343.299,
+    "duration": 1.373
+  },
+  {
+    "text": "I worked with my team\nto develop 20 custom robots",
+    "start": 344.696,
+    "duration": 3.135
+  },
+  {
+    "text": "that could work with me as a collective.",
+    "start": 347.855,
+    "duration": 1.96
+  },
+  {
+    "text": "They would work as a group,",
+    "start": 349.839,
+    "duration": 1.293
+  },
+  {
+    "text": "and together, we would collaborate\nwith all of New York City.",
+    "start": 351.156,
+    "duration": 2.889
+  },
+  {
+    "text": "I was really inspired\nby Stanford researcher Fei-Fei Li,",
+    "start": 354.069,
+    "duration": 2.944
+  },
+  {
+    "text": "who said, \"if we want to teach\nmachines how to think,",
+    "start": 357.037,
+    "duration": 2.515
+  },
+  {
+    "text": "we need to first teach them how to see.\"",
+    "start": 359.576,
+    "duration": 1.984
+  },
+  {
+    "text": "It made me think of the past decade\nof my life in New York,",
+    "start": 361.584,
+    "duration": 2.785
+  },
+  {
+    "text": "and how I'd been all watched over by these\nsurveillance cameras around the city.",
+    "start": 364.393,
+    "duration": 3.993
+  },
+  {
+    "text": "And I thought it would be\nreally interesting",
+    "start": 368.41,
+    "duration": 2.056
+  },
+  {
+    "text": "if I could use them\nto teach my robots to see.",
+    "start": 370.49,
+    "duration": 2.405
+  },
+  {
+    "text": "So with this project,",
+    "start": 372.919,
+    "duration": 1.888
+  },
+  {
+    "text": "I thought about the gaze of the machine,",
+    "start": 374.831,
+    "duration": 1.967
+  },
+  {
+    "text": "and I began to think about vision\nas multidimensional,",
+    "start": 376.822,
+    "duration": 3.226
+  },
+  {
+    "text": "as views from somewhere.",
+    "start": 380.072,
+    "duration": 1.6
+  },
+  {
+    "text": "We collected video",
+    "start": 382.151,
+    "duration": 1.834
+  },
+  {
+    "text": "from publicly available\ncamera feeds on the internet",
+    "start": 384.009,
+    "duration": 3.063
+  },
+  {
+    "text": "of people walking on the sidewalks,",
+    "start": 387.096,
+    "duration": 1.69
+  },
+  {
+    "text": "cars and taxis on the road,",
+    "start": 388.81,
+    "duration": 1.712
+  },
+  {
+    "text": "all kinds of urban movement.",
+    "start": 390.546,
+    "duration": 1.817
+  },
+  {
+    "text": "We trained a vision algorithm\non those feeds",
+    "start": 393.188,
+    "duration": 2.603
+  },
+  {
+    "text": "based on a technique\ncalled \"optical flow,\"",
+    "start": 395.815,
+    "duration": 2.286
+  },
+  {
+    "text": "to analyze the collective density,",
+    "start": 398.125,
+    "duration": 1.977
+  },
+  {
+    "text": "direction, dwell and velocity states\nof urban movement.",
+    "start": 400.126,
+    "duration": 3.637
+  },
+  {
+    "text": "Our system extracted those states\nfrom the feeds as positional data",
+    "start": 404.178,
+    "duration": 4.269
+  },
+  {
+    "text": "and became pads for my\nrobotic units to draw on.",
+    "start": 408.471,
+    "duration": 3.373
+  },
+  {
+    "text": "Instead of a collaboration of one-to-one,",
+    "start": 411.868,
+    "duration": 2.534
+  },
+  {
+    "text": "we made a collaboration of many-to-many.",
+    "start": 414.426,
+    "duration": 3.024
+  },
+  {
+    "text": "By combining the vision of human\nand machine in the city,",
+    "start": 417.474,
+    "duration": 3.587
+  },
+  {
+    "text": "we reimagined what\na landscape painting could be.",
+    "start": 421.085,
+    "duration": 2.794
+  },
+  {
+    "text": "Throughout all of my\nexperiments with D.O.U.G.,",
+    "start": 423.903,
+    "duration": 2.218
+  },
+  {
+    "text": "no two performances\nhave ever been the same.",
+    "start": 426.145,
+    "duration": 2.717
+  },
+  {
+    "text": "And through collaboration,",
+    "start": 428.886,
+    "duration": 1.382
+  },
+  {
+    "text": "we create something that neither of us\ncould have done alone:",
+    "start": 430.292,
+    "duration": 2.864
+  },
+  {
+    "text": "we explore the boundaries\nof our creativity,",
+    "start": 433.18,
+    "duration": 2.611
+  },
+  {
+    "text": "human and nonhuman working in parallel.",
+    "start": 435.815,
+    "duration": 2.892
+  },
+  {
+    "text": "I think this is just the beginning.",
+    "start": 439.823,
+    "duration": 2.334
+  },
+  {
+    "text": "This year, I've launched Scilicet,",
+    "start": 442.569,
+    "duration": 2.183
+  },
+  {
+    "text": "my new lab exploring human\nand interhuman collaboration.",
+    "start": 444.776,
+    "duration": 4.245
+  },
+  {
+    "text": "We're really interested\nin the feedback loop",
+    "start": 449.339,
+    "duration": 2.12
+  },
+  {
+    "text": "between individual, artificial\nand ecological systems.",
+    "start": 451.483,
+    "duration": 4.23
+  },
+  {
+    "text": "We're connecting human and machine output",
+    "start": 456.276,
+    "duration": 2.269
+  },
+  {
+    "text": "to biometrics and other kinds\nof environmental data.",
+    "start": 458.569,
+    "duration": 2.984
+  },
+  {
+    "text": "We're inviting anyone who's interested\nin the future of work, systems",
+    "start": 461.577,
+    "duration": 4.079
+  },
+  {
+    "text": "and interhuman collaboration",
+    "start": 465.68,
+    "duration": 1.595
+  },
+  {
+    "text": "to explore with us.",
+    "start": 467.299,
+    "duration": 1.55
+  },
+  {
+    "text": "We know it's not just technologists\nthat have to do this work",
+    "start": 468.873,
+    "duration": 3.405
+  },
+  {
+    "text": "and that we all have a role to play.",
+    "start": 472.302,
+    "duration": 2.103
+  },
+  {
+    "text": "We believe that by teaching machines",
+    "start": 474.429,
+    "duration": 2.243
+  },
+  {
+    "text": "how to do the work\ntraditionally done by humans,",
+    "start": 476.696,
+    "duration": 2.73
+  },
+  {
+    "text": "we can explore and evolve our criteria",
+    "start": 479.45,
+    "duration": 2.953
+  },
+  {
+    "text": "of what's made possible by the human hand.",
+    "start": 482.427,
+    "duration": 2.443
+  },
+  {
+    "text": "And part of that journey\nis embracing the imperfections",
+    "start": 484.894,
+    "duration": 3.493
+  },
+  {
+    "text": "and recognizing the fallibility\nof both human and machine,",
+    "start": 488.411,
+    "duration": 3.69
+  },
+  {
+    "text": "in order to expand the potential of both.",
+    "start": 492.125,
+    "duration": 2.405
+  },
+  {
+    "text": "Today, I'm still in pursuit\nof finding the beauty",
+    "start": 494.919,
+    "duration": 2.301
+  },
+  {
+    "text": "in human and nonhuman creativity.",
+    "start": 497.244,
+    "duration": 2.276
+  },
+  {
+    "text": "In the future, I have no idea\nwhat that will look like,",
+    "start": 499.865,
+    "duration": 2.829
+  },
+  {
+    "text": "but I'm pretty curious to find out.",
+    "start": 503.627,
+    "duration": 2.024
+  },
+  {
+    "text": "Thank you.",
+    "start": 505.675,
+    "duration": 1.151
+  },
+  {
+    "text": "(Applause)",
+    "start": 506.85,
+    "duration": 1.884
+  }
+]

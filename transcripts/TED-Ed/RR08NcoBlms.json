@@ -1,0 +1,1437 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.63,
+    "duration": 3.15
+  },
+  {
+    "text": "[Music]",
+    "start": 10.17,
+    "duration": 5.3
+  },
+  {
+    "text": "[Applause]",
+    "start": 12.31,
+    "duration": 3.16
+  },
+  {
+    "text": "I study how the brain processes",
+    "start": 16.16,
+    "duration": 3.36
+  },
+  {
+    "text": "information that is how it takes",
+    "start": 17.68,
+    "duration": 4.0
+  },
+  {
+    "text": "information in from the outside world",
+    "start": 19.52,
+    "duration": 3.56
+  },
+  {
+    "text": "and converts it into patterns of",
+    "start": 21.68,
+    "duration": 3.56
+  },
+  {
+    "text": "electrical activity and then how it uses",
+    "start": 23.08,
+    "duration": 4.119
+  },
+  {
+    "text": "those patterns to allow you to do things",
+    "start": 25.24,
+    "duration": 5.24
+  },
+  {
+    "text": "to see to hear to reach for an object so",
+    "start": 27.199,
+    "duration": 5.121
+  },
+  {
+    "text": "I'm really um a basic scientist not a",
+    "start": 30.48,
+    "duration": 3.64
+  },
+  {
+    "text": "clinician but in the last year and a",
+    "start": 32.32,
+    "duration": 3.919
+  },
+  {
+    "text": "half i' I've started to switch over to",
+    "start": 34.12,
+    "duration": 3.32
+  },
+  {
+    "text": "use what we've been learning about these",
+    "start": 36.239,
+    "duration": 3.0
+  },
+  {
+    "text": "patterns of activity to develop",
+    "start": 37.44,
+    "duration": 4.119
+  },
+  {
+    "text": "prosthetic devices and what I wanted to",
+    "start": 39.239,
+    "duration": 4.8
+  },
+  {
+    "text": "do today is um is show you an example of",
+    "start": 41.559,
+    "duration": 4.201
+  },
+  {
+    "text": "this it's really our our first foray",
+    "start": 44.039,
+    "duration": 3.441
+  },
+  {
+    "text": "into this it's the development of a",
+    "start": 45.76,
+    "duration": 4.08
+  },
+  {
+    "text": "prosthetic device for treating",
+    "start": 47.48,
+    "duration": 4.8
+  },
+  {
+    "text": "blindness okay so let me start in on the",
+    "start": 49.84,
+    "duration": 4.64
+  },
+  {
+    "text": "problem there are 10 million people in",
+    "start": 52.28,
+    "duration": 4.52
+  },
+  {
+    "text": "the US and many more worldwide who are",
+    "start": 54.48,
+    "duration": 4.079
+  },
+  {
+    "text": "blind or facing blindness due to",
+    "start": 56.8,
+    "duration": 3.599
+  },
+  {
+    "text": "diseases of the retina diseases like",
+    "start": 58.559,
+    "duration": 3.96
+  },
+  {
+    "text": "macular degeneration and there's little",
+    "start": 60.399,
+    "duration": 4.001
+  },
+  {
+    "text": "that can be done for them there are some",
+    "start": 62.519,
+    "duration": 3.321
+  },
+  {
+    "text": "drug treatments but they're only",
+    "start": 64.4,
+    "duration": 3.16
+  },
+  {
+    "text": "effective on a small fraction of the",
+    "start": 65.84,
+    "duration": 4.08
+  },
+  {
+    "text": "population and so for the vast majority",
+    "start": 67.56,
+    "duration": 3.76
+  },
+  {
+    "text": "of patients their best hope for",
+    "start": 69.92,
+    "duration": 3.44
+  },
+  {
+    "text": "regaining sight is through prosthetic",
+    "start": 71.32,
+    "duration": 4.68
+  },
+  {
+    "text": "devices the problem is that carent",
+    "start": 73.36,
+    "duration": 4.399
+  },
+  {
+    "text": "Prosthetics don't work very well they're",
+    "start": 76.0,
+    "duration": 3.24
+  },
+  {
+    "text": "still very limited in the vision that",
+    "start": 77.759,
+    "duration": 3.921
+  },
+  {
+    "text": "they can provide and so you know for",
+    "start": 79.24,
+    "duration": 4.12
+  },
+  {
+    "text": "example with these devices patients can",
+    "start": 81.68,
+    "duration": 4.079
+  },
+  {
+    "text": "see simple things like bright lights and",
+    "start": 83.36,
+    "duration": 5.28
+  },
+  {
+    "text": "high contrast edges not very much more",
+    "start": 85.759,
+    "duration": 4.641
+  },
+  {
+    "text": "so nothing nothing close to normal",
+    "start": 88.64,
+    "duration": 4.0
+  },
+  {
+    "text": "vision has been possible so what I'm",
+    "start": 90.4,
+    "duration": 3.359
+  },
+  {
+    "text": "going to tell you about today is a",
+    "start": 92.64,
+    "duration": 2.839
+  },
+  {
+    "text": "device that we've been working on that",
+    "start": 93.759,
+    "duration": 3.241
+  },
+  {
+    "text": "that I think has the potential to to",
+    "start": 95.479,
+    "duration": 3.121
+  },
+  {
+    "text": "make a difference to to be much more",
+    "start": 97.0,
+    "duration": 3.68
+  },
+  {
+    "text": "effective and what I wanted to do is",
+    "start": 98.6,
+    "duration": 4.479
+  },
+  {
+    "text": "show you how it works okay so let me",
+    "start": 100.68,
+    "duration": 3.719
+  },
+  {
+    "text": "back up a little bit and show you how a",
+    "start": 103.079,
+    "duration": 3.08
+  },
+  {
+    "text": "normal retina works first so you can see",
+    "start": 104.399,
+    "duration": 3.36
+  },
+  {
+    "text": "the problem that we were trying to solve",
+    "start": 106.159,
+    "duration": 3.28
+  },
+  {
+    "text": "here you have a retina so you have an",
+    "start": 107.759,
+    "duration": 4.601
+  },
+  {
+    "text": "image a retina and a brain so when you",
+    "start": 109.439,
+    "duration": 4.72
+  },
+  {
+    "text": "look at something like this image of",
+    "start": 112.36,
+    "duration": 4.039
+  },
+  {
+    "text": "this baby's face it goes into your eye",
+    "start": 114.159,
+    "duration": 3.841
+  },
+  {
+    "text": "and it lands on your retina on the front",
+    "start": 116.399,
+    "duration": 4.281
+  },
+  {
+    "text": "end cells here the photo receptors",
+    "start": 118.0,
+    "duration": 4.119
+  },
+  {
+    "text": "then what happens is the retinal",
+    "start": 120.68,
+    "duration": 3.039
+  },
+  {
+    "text": "circuitry the middle part goes to work",
+    "start": 122.119,
+    "duration": 4.04
+  },
+  {
+    "text": "on it and what it does is it it performs",
+    "start": 123.719,
+    "duration": 4.361
+  },
+  {
+    "text": "operations on it it extracts information",
+    "start": 126.159,
+    "duration": 4.481
+  },
+  {
+    "text": "from it and it converts that information",
+    "start": 128.08,
+    "duration": 5.08
+  },
+  {
+    "text": "into a code and the code is in the form",
+    "start": 130.64,
+    "duration": 4.16
+  },
+  {
+    "text": "of these patterns of electrical pulses",
+    "start": 133.16,
+    "duration": 3.92
+  },
+  {
+    "text": "that get sent up to the brain and so the",
+    "start": 134.8,
+    "duration": 4.0
+  },
+  {
+    "text": "key thing is that the image ultimately",
+    "start": 137.08,
+    "duration": 4.32
+  },
+  {
+    "text": "gets converted into a code and when I",
+    "start": 138.8,
+    "duration": 4.96
+  },
+  {
+    "text": "say code I do literally mean code like",
+    "start": 141.4,
+    "duration": 4.4
+  },
+  {
+    "text": "this pattern of pulses here actually",
+    "start": 143.76,
+    "duration": 4.72
+  },
+  {
+    "text": "means baby's face and so when the brain",
+    "start": 145.8,
+    "duration": 4.56
+  },
+  {
+    "text": "gets this pattern of pulses it knows",
+    "start": 148.48,
+    "duration": 3.8
+  },
+  {
+    "text": "that what was out there was a baby's",
+    "start": 150.36,
+    "duration": 3.76
+  },
+  {
+    "text": "face and if it got a different pattern",
+    "start": 152.28,
+    "duration": 3.08
+  },
+  {
+    "text": "it would know that what was out there",
+    "start": 154.12,
+    "duration": 3.119
+  },
+  {
+    "text": "was say a dog or another pattern would",
+    "start": 155.36,
+    "duration": 5.56
+  },
+  {
+    "text": "be a house anyway you get the idea and",
+    "start": 157.239,
+    "duration": 5.92
+  },
+  {
+    "text": "of course in real life it's all Dynamic",
+    "start": 160.92,
+    "duration": 4.399
+  },
+  {
+    "text": "meaning that it's changing all the time",
+    "start": 163.159,
+    "duration": 3.8
+  },
+  {
+    "text": "so the patterns of pulses are changing",
+    "start": 165.319,
+    "duration": 3.081
+  },
+  {
+    "text": "all the time because the world you're",
+    "start": 166.959,
+    "duration": 3.28
+  },
+  {
+    "text": "looking at is is changing all the time",
+    "start": 168.4,
+    "duration": 3.88
+  },
+  {
+    "text": "too so you know it's sort of a",
+    "start": 170.239,
+    "duration": 3.28
+  },
+  {
+    "text": "complicated thing you have these",
+    "start": 172.28,
+    "duration": 2.84
+  },
+  {
+    "text": "patterns of pulses coming out of your",
+    "start": 173.519,
+    "duration": 4.0
+  },
+  {
+    "text": "eye every millisecond telling your brain",
+    "start": 175.12,
+    "duration": 4.479
+  },
+  {
+    "text": "what it is that you're seeing okay so",
+    "start": 177.519,
+    "duration": 3.321
+  },
+  {
+    "text": "what happens when a person gets a",
+    "start": 179.599,
+    "duration": 3.481
+  },
+  {
+    "text": "retinal degenerative disease like macula",
+    "start": 180.84,
+    "duration": 5.08
+  },
+  {
+    "text": "degeneration what happens is that the",
+    "start": 183.08,
+    "duration": 5.2
+  },
+  {
+    "text": "front end cells die the photo receptors",
+    "start": 185.92,
+    "duration": 4.879
+  },
+  {
+    "text": "die and over time all the cells and the",
+    "start": 188.28,
+    "duration": 4.64
+  },
+  {
+    "text": "circuits that are connected to them they",
+    "start": 190.799,
+    "duration": 4.481
+  },
+  {
+    "text": "die too until the only things that you",
+    "start": 192.92,
+    "duration": 4.36
+  },
+  {
+    "text": "have left are these cells here the",
+    "start": 195.28,
+    "duration": 3.519
+  },
+  {
+    "text": "output cells the ones that send the",
+    "start": 197.28,
+    "duration": 3.28
+  },
+  {
+    "text": "signals to the brain but because of all",
+    "start": 198.799,
+    "duration": 3.201
+  },
+  {
+    "text": "that degeneration they aren't sending",
+    "start": 200.56,
+    "duration": 2.88
+  },
+  {
+    "text": "any signals",
+    "start": 202.0,
+    "duration": 3.76
+  },
+  {
+    "text": "anymore they aren't getting any input so",
+    "start": 203.44,
+    "duration": 3.799
+  },
+  {
+    "text": "the person's brain no longer gets any",
+    "start": 205.76,
+    "duration": 5.92
+  },
+  {
+    "text": "visual information that is he or she is",
+    "start": 207.239,
+    "duration": 7.08
+  },
+  {
+    "text": "blind so a solution to the problem then",
+    "start": 211.68,
+    "duration": 4.4
+  },
+  {
+    "text": "would be to build a device that could",
+    "start": 214.319,
+    "duration": 3.041
+  },
+  {
+    "text": "mimic the actions of that front end",
+    "start": 216.08,
+    "duration": 3.2
+  },
+  {
+    "text": "circuitry and send signals to the",
+    "start": 217.36,
+    "duration": 3.879
+  },
+  {
+    "text": "retina's output cells then they can go",
+    "start": 219.28,
+    "duration": 3.159
+  },
+  {
+    "text": "back to doing their normal job of",
+    "start": 221.239,
+    "duration": 3.841
+  },
+  {
+    "text": "sending signals to the brain so this is",
+    "start": 222.439,
+    "duration": 4.121
+  },
+  {
+    "text": "what we've been working on and and this",
+    "start": 225.08,
+    "duration": 3.76
+  },
+  {
+    "text": "is um what our prosthetic does so it",
+    "start": 226.56,
+    "duration": 4.56
+  },
+  {
+    "text": "consists of two parts what we call an",
+    "start": 228.84,
+    "duration": 5.239
+  },
+  {
+    "text": "encoder and a transducer and so the",
+    "start": 231.12,
+    "duration": 4.6
+  },
+  {
+    "text": "encoder does just what I was saying it",
+    "start": 234.079,
+    "duration": 3.0
+  },
+  {
+    "text": "mimics the actions of the front end",
+    "start": 235.72,
+    "duration": 3.359
+  },
+  {
+    "text": "circuitry so it takes images in and it",
+    "start": 237.079,
+    "duration": 3.921
+  },
+  {
+    "text": "converts them into the retina's code and",
+    "start": 239.079,
+    "duration": 3.681
+  },
+  {
+    "text": "then the transducer then makes the",
+    "start": 241.0,
+    "duration": 3.959
+  },
+  {
+    "text": "output cells send the code on up to the",
+    "start": 242.76,
+    "duration": 5.44
+  },
+  {
+    "text": "brain and the result is a retinal",
+    "start": 244.959,
+    "duration": 5.041
+  },
+  {
+    "text": "prosthetic that can produce normal",
+    "start": 248.2,
+    "duration": 3.08
+  },
+  {
+    "text": "retinal",
+    "start": 250.0,
+    "duration": 4.2
+  },
+  {
+    "text": "output so a completely blind retina even",
+    "start": 251.28,
+    "duration": 4.64
+  },
+  {
+    "text": "one with no front and circuitry at all",
+    "start": 254.2,
+    "duration": 4.719
+  },
+  {
+    "text": "no photo receptors can now send out",
+    "start": 255.92,
+    "duration": 5.24
+  },
+  {
+    "text": "normal signals signals that the brain",
+    "start": 258.919,
+    "duration": 5.441
+  },
+  {
+    "text": "can understand so no other device has",
+    "start": 261.16,
+    "duration": 4.52
+  },
+  {
+    "text": "been able to do",
+    "start": 264.36,
+    "duration": 3.44
+  },
+  {
+    "text": "this okay so I just want to take a you",
+    "start": 265.68,
+    "duration": 3.68
+  },
+  {
+    "text": "know a sentence or two to say something",
+    "start": 267.8,
+    "duration": 3.0
+  },
+  {
+    "text": "about the encoder and what it's doing",
+    "start": 269.36,
+    "duration": 3.48
+  },
+  {
+    "text": "because it's it's really the key part",
+    "start": 270.8,
+    "duration": 3.959
+  },
+  {
+    "text": "and it's sort of interesting and and",
+    "start": 272.84,
+    "duration": 3.919
+  },
+  {
+    "text": "kind of cool not sure cool is really the",
+    "start": 274.759,
+    "duration": 4.841
+  },
+  {
+    "text": "right word but you know what I mean um",
+    "start": 276.759,
+    "duration": 4.801
+  },
+  {
+    "text": "so what it's doing is it's replacing the",
+    "start": 279.6,
+    "duration": 2.8
+  },
+  {
+    "text": "retinal",
+    "start": 281.56,
+    "duration": 2.84
+  },
+  {
+    "text": "circuitry really the guts of the retinal",
+    "start": 282.4,
+    "duration": 5.12
+  },
+  {
+    "text": "circuitry with a set of equations a set",
+    "start": 284.4,
+    "duration": 4.72
+  },
+  {
+    "text": "of equations that we can Implement on a",
+    "start": 287.52,
+    "duration": 4.84
+  },
+  {
+    "text": "chip so it's just math in other words",
+    "start": 289.12,
+    "duration": 4.639
+  },
+  {
+    "text": "we're not literally replacing the",
+    "start": 292.36,
+    "duration": 3.08
+  },
+  {
+    "text": "components of the retina it's not like",
+    "start": 293.759,
+    "duration": 3.321
+  },
+  {
+    "text": "we're making a little mini device for",
+    "start": 295.44,
+    "duration": 3.44
+  },
+  {
+    "text": "each of the different cell types we've",
+    "start": 297.08,
+    "duration": 3.679
+  },
+  {
+    "text": "just like abstracted Ed what the what",
+    "start": 298.88,
+    "duration": 4.24
+  },
+  {
+    "text": "the retina is doing with a set of",
+    "start": 300.759,
+    "duration": 4.561
+  },
+  {
+    "text": "equations and so in a way the equations",
+    "start": 303.12,
+    "duration": 4.68
+  },
+  {
+    "text": "are serving as sort of a code book an",
+    "start": 305.32,
+    "duration": 4.68
+  },
+  {
+    "text": "image comes in goes through the set of",
+    "start": 307.8,
+    "duration": 4.48
+  },
+  {
+    "text": "equations and out comes streams of",
+    "start": 310.0,
+    "duration": 4.199
+  },
+  {
+    "text": "electrical pulses just like a normal",
+    "start": 312.28,
+    "duration": 3.72
+  },
+  {
+    "text": "retina would",
+    "start": 314.199,
+    "duration": 4.081
+  },
+  {
+    "text": "produce okay so now let me put my money",
+    "start": 316.0,
+    "duration": 3.8
+  },
+  {
+    "text": "where my mouth is and show you that we",
+    "start": 318.28,
+    "duration": 3.56
+  },
+  {
+    "text": "can actually produce normal output and",
+    "start": 319.8,
+    "duration": 4.32
+  },
+  {
+    "text": "what the what the implications of this",
+    "start": 321.84,
+    "duration": 4.88
+  },
+  {
+    "text": "are okay so here are three sets of",
+    "start": 324.12,
+    "duration": 4.72
+  },
+  {
+    "text": "firing patterns the top one's from a",
+    "start": 326.72,
+    "duration": 4.12
+  },
+  {
+    "text": "normal animal the middle ones from a",
+    "start": 328.84,
+    "duration": 3.359
+  },
+  {
+    "text": "blind animal that's been treated with",
+    "start": 330.84,
+    "duration": 3.88
+  },
+  {
+    "text": "this encoder transducer device and the",
+    "start": 332.199,
+    "duration": 4.0
+  },
+  {
+    "text": "bottom one's from a blind animal treated",
+    "start": 334.72,
+    "duration": 3.759
+  },
+  {
+    "text": "with a standard prosthetic so the bottom",
+    "start": 336.199,
+    "duration": 3.601
+  },
+  {
+    "text": "one is the state-of-the-art device",
+    "start": 338.479,
+    "duration": 3.081
+  },
+  {
+    "text": "that's out there right now which is",
+    "start": 339.8,
+    "duration": 3.44
+  },
+  {
+    "text": "basically made up of light detectors but",
+    "start": 341.56,
+    "duration": 3.4
+  },
+  {
+    "text": "no encoder so what we did was we",
+    "start": 343.24,
+    "duration": 3.519
+  },
+  {
+    "text": "presented movies of you know everyday",
+    "start": 344.96,
+    "duration": 4.56
+  },
+  {
+    "text": "things people babies um park benches you",
+    "start": 346.759,
+    "duration": 4.841
+  },
+  {
+    "text": "know regular things happening and we",
+    "start": 349.52,
+    "duration": 3.88
+  },
+  {
+    "text": "recorded the responses from the retinas",
+    "start": 351.6,
+    "duration": 3.76
+  },
+  {
+    "text": "of these three groups of",
+    "start": 353.4,
+    "duration": 5.16
+  },
+  {
+    "text": "animals and just to orient you each box",
+    "start": 355.36,
+    "duration": 5.0
+  },
+  {
+    "text": "is showing the firing patterns of",
+    "start": 358.56,
+    "duration": 3.72
+  },
+  {
+    "text": "several cells and just as in the",
+    "start": 360.36,
+    "duration": 4.44
+  },
+  {
+    "text": "previous slides each row is a different",
+    "start": 362.28,
+    "duration": 5.4
+  },
+  {
+    "text": "cell and I just made the pulses a little",
+    "start": 364.8,
+    "duration": 4.48
+  },
+  {
+    "text": "bit smaller and thinner so I could show",
+    "start": 367.68,
+    "duration": 3.72
+  },
+  {
+    "text": "you like a long stretch of",
+    "start": 369.28,
+    "duration": 4.72
+  },
+  {
+    "text": "data okay so as you can see the firing",
+    "start": 371.4,
+    "duration": 4.0
+  },
+  {
+    "text": "patterns from the blind animal treated",
+    "start": 374.0,
+    "duration": 2.72
+  },
+  {
+    "text": "with the encoder",
+    "start": 375.4,
+    "duration": 4.04
+  },
+  {
+    "text": "transducer really do very closely match",
+    "start": 376.72,
+    "duration": 5.479
+  },
+  {
+    "text": "the normal firing patterns and it's not",
+    "start": 379.44,
+    "duration": 4.8
+  },
+  {
+    "text": "perfect but but it's pretty good and the",
+    "start": 382.199,
+    "duration": 3.321
+  },
+  {
+    "text": "blind animal treated with the standard",
+    "start": 384.24,
+    "duration": 4.519
+  },
+  {
+    "text": "prosthetic the responses really don't",
+    "start": 385.52,
+    "duration": 5.399
+  },
+  {
+    "text": "and so with a standard method the cells",
+    "start": 388.759,
+    "duration": 4.601
+  },
+  {
+    "text": "do fire they just don't fire in the",
+    "start": 390.919,
+    "duration": 3.961
+  },
+  {
+    "text": "normal firing patterns because they",
+    "start": 393.36,
+    "duration": 3.959
+  },
+  {
+    "text": "don't have the right code how important",
+    "start": 394.88,
+    "duration": 5.599
+  },
+  {
+    "text": "is this like what what's the um what's",
+    "start": 397.319,
+    "duration": 4.761
+  },
+  {
+    "text": "the potential impact on a patient's",
+    "start": 400.479,
+    "duration": 3.921
+  },
+  {
+    "text": "ability to see so I'm just going to show",
+    "start": 402.08,
+    "duration": 5.0
+  },
+  {
+    "text": "you one one bottom line experiment um",
+    "start": 404.4,
+    "duration": 4.68
+  },
+  {
+    "text": "that answers this and of course I've got",
+    "start": 407.08,
+    "duration": 3.04
+  },
+  {
+    "text": "a lot of other data so if you're",
+    "start": 409.08,
+    "duration": 3.04
+  },
+  {
+    "text": "interested I'm happy to show to show",
+    "start": 410.12,
+    "duration": 4.32
+  },
+  {
+    "text": "more okay so the experiment is called a",
+    "start": 412.12,
+    "duration": 4.079
+  },
+  {
+    "text": "reconstruction experiment so what we did",
+    "start": 414.44,
+    "duration": 4.479
+  },
+  {
+    "text": "is we took a moment in time from these",
+    "start": 416.199,
+    "duration": 3.881
+  },
+  {
+    "text": "recordings",
+    "start": 418.919,
+    "duration": 3.241
+  },
+  {
+    "text": "and asked what was the retina seeing at",
+    "start": 420.08,
+    "duration": 4.28
+  },
+  {
+    "text": "that moment can we reconstruct what the",
+    "start": 422.16,
+    "duration": 4.599
+  },
+  {
+    "text": "retina was seeing from the responses",
+    "start": 424.36,
+    "duration": 3.559
+  },
+  {
+    "text": "from the firing",
+    "start": 426.759,
+    "duration": 4.72
+  },
+  {
+    "text": "patterns so when we did this for",
+    "start": 427.919,
+    "duration": 5.801
+  },
+  {
+    "text": "responses from um from the standard",
+    "start": 431.479,
+    "duration": 4.681
+  },
+  {
+    "text": "method and from from our encoder and",
+    "start": 433.72,
+    "duration": 4.36
+  },
+  {
+    "text": "transducer so let me show you and I'm",
+    "start": 436.16,
+    "duration": 3.439
+  },
+  {
+    "text": "going to start with the standard method",
+    "start": 438.08,
+    "duration": 3.679
+  },
+  {
+    "text": "first okay so you can see that it's",
+    "start": 439.599,
+    "duration": 4.44
+  },
+  {
+    "text": "pretty limited and because the firing",
+    "start": 441.759,
+    "duration": 3.84
+  },
+  {
+    "text": "patterns aren't in the right code",
+    "start": 444.039,
+    "duration": 2.84
+  },
+  {
+    "text": "they're very limited in what they can",
+    "start": 445.599,
+    "duration": 2.921
+  },
+  {
+    "text": "tell you about what's out there so you",
+    "start": 446.879,
+    "duration": 3.521
+  },
+  {
+    "text": "can see that there's something there but",
+    "start": 448.52,
+    "duration": 4.28
+  },
+  {
+    "text": "it's not so clear what that something is",
+    "start": 450.4,
+    "duration": 3.68
+  },
+  {
+    "text": "and this just sort of circles back to",
+    "start": 452.8,
+    "duration": 2.36
+  },
+  {
+    "text": "what I was saying in the beginning that",
+    "start": 454.08,
+    "duration": 3.72
+  },
+  {
+    "text": "with a standard method patients can see",
+    "start": 455.16,
+    "duration": 4.879
+  },
+  {
+    "text": "high contrast edges they can see light",
+    "start": 457.8,
+    "duration": 4.0
+  },
+  {
+    "text": "but it it it doesn't easily go further",
+    "start": 460.039,
+    "duration": 5.241
+  },
+  {
+    "text": "than that okay so what was the image it",
+    "start": 461.8,
+    "duration": 5.32
+  },
+  {
+    "text": "was a baby's",
+    "start": 465.28,
+    "duration": 4.0
+  },
+  {
+    "text": "face okay so what about with our",
+    "start": 467.12,
+    "duration": 4.479
+  },
+  {
+    "text": "approach adding the code and you can see",
+    "start": 469.28,
+    "duration": 3.68
+  },
+  {
+    "text": "that it's much better not only can you",
+    "start": 471.599,
+    "duration": 2.921
+  },
+  {
+    "text": "tell that it's a baby's face but you can",
+    "start": 472.96,
+    "duration": 3.359
+  },
+  {
+    "text": "tell that it's this baby's face which is",
+    "start": 474.52,
+    "duration": 3.44
+  },
+  {
+    "text": "a really challenging",
+    "start": 476.319,
+    "duration": 4.041
+  },
+  {
+    "text": "task okay so on the left is the encoder",
+    "start": 477.96,
+    "duration": 4.56
+  },
+  {
+    "text": "alone and on the right is from an actual",
+    "start": 480.36,
+    "duration": 3.88
+  },
+  {
+    "text": "blind retina so the encoder and the",
+    "start": 482.52,
+    "duration": 3.92
+  },
+  {
+    "text": "transducer but the key one really is the",
+    "start": 484.24,
+    "duration": 3.6
+  },
+  {
+    "text": "encoder alone because we can team up the",
+    "start": 486.44,
+    "duration": 3.159
+  },
+  {
+    "text": "encoder with the different transducer",
+    "start": 487.84,
+    "duration": 2.88
+  },
+  {
+    "text": "this was just actually the first one",
+    "start": 489.599,
+    "duration": 3.28
+  },
+  {
+    "text": "that we tried I want just wanted to say",
+    "start": 490.72,
+    "duration": 4.28
+  },
+  {
+    "text": "something about the standard method when",
+    "start": 492.879,
+    "duration": 3.801
+  },
+  {
+    "text": "when this first came out it was just a",
+    "start": 495.0,
+    "duration": 3.8
+  },
+  {
+    "text": "really exciting thing you know the idea",
+    "start": 496.68,
+    "duration": 3.56
+  },
+  {
+    "text": "that you could even make a blind Ren or",
+    "start": 498.8,
+    "duration": 4.839
+  },
+  {
+    "text": "respond at all but there was this this",
+    "start": 500.24,
+    "duration": 5.16
+  },
+  {
+    "text": "um this limiting factor the issue of the",
+    "start": 503.639,
+    "duration": 4.481
+  },
+  {
+    "text": "code and how to make the cells respond",
+    "start": 505.4,
+    "duration": 5.239
+  },
+  {
+    "text": "produce normal responses and so this",
+    "start": 508.12,
+    "duration": 4.32
+  },
+  {
+    "text": "this was our",
+    "start": 510.639,
+    "duration": 4.681
+  },
+  {
+    "text": "contribution okay so um now I just want",
+    "start": 512.44,
+    "duration": 5.479
+  },
+  {
+    "text": "to wrap up and as I was mentioning",
+    "start": 515.32,
+    "duration": 3.839
+  },
+  {
+    "text": "earlier of course I have a lot of other",
+    "start": 517.919,
+    "duration": 2.761
+  },
+  {
+    "text": "data if you're interested but I just",
+    "start": 519.159,
+    "duration": 3.56
+  },
+  {
+    "text": "wanted to give this sort of basic idea",
+    "start": 520.68,
+    "duration": 6.04
+  },
+  {
+    "text": "that this idea that um of being able to",
+    "start": 522.719,
+    "duration": 5.881
+  },
+  {
+    "text": "communicate with the brain in in its",
+    "start": 526.72,
+    "duration": 4.04
+  },
+  {
+    "text": "language and the potential power of",
+    "start": 528.6,
+    "duration": 4.04
+  },
+  {
+    "text": "being able to do that so it's different",
+    "start": 530.76,
+    "duration": 3.0
+  },
+  {
+    "text": "from the motor Prosthetics where you're",
+    "start": 532.64,
+    "duration": 3.639
+  },
+  {
+    "text": "communicating from the brain to a to a",
+    "start": 533.76,
+    "duration": 4.68
+  },
+  {
+    "text": "device here we have to communicate from",
+    "start": 536.279,
+    "duration": 4.761
+  },
+  {
+    "text": "the outside world into the brain and be",
+    "start": 538.44,
+    "duration": 4.68
+  },
+  {
+    "text": "understood and be understood by the",
+    "start": 541.04,
+    "duration": 3.84
+  },
+  {
+    "text": "brain okay and then the last thing I",
+    "start": 543.12,
+    "duration": 3.839
+  },
+  {
+    "text": "wanted to sort of say really is that is",
+    "start": 544.88,
+    "duration": 4.04
+  },
+  {
+    "text": "um to emphasize that the idea",
+    "start": 546.959,
+    "duration": 3.961
+  },
+  {
+    "text": "generalizes so the same strategy that we",
+    "start": 548.92,
+    "duration": 3.479
+  },
+  {
+    "text": "use to find the code for the retina we",
+    "start": 550.92,
+    "duration": 3.44
+  },
+  {
+    "text": "can also use to find the code for other",
+    "start": 552.399,
+    "duration": 3.721
+  },
+  {
+    "text": "areas for um like for example the",
+    "start": 554.36,
+    "duration": 3.479
+  },
+  {
+    "text": "auditory system and the motor system so",
+    "start": 556.12,
+    "duration": 4.48
+  },
+  {
+    "text": "for treating um deafness and for and for",
+    "start": 557.839,
+    "duration": 4.761
+  },
+  {
+    "text": "motor disorders so just the same way",
+    "start": 560.6,
+    "duration": 4.359
+  },
+  {
+    "text": "that we were able to jump over the you",
+    "start": 562.6,
+    "duration": 3.799
+  },
+  {
+    "text": "know the damaged circuitry in the retina",
+    "start": 564.959,
+    "duration": 3.401
+  },
+  {
+    "text": "to get to the retina's output cells we",
+    "start": 566.399,
+    "duration": 4.321
+  },
+  {
+    "text": "can jump over the uh damaged circuitry",
+    "start": 568.36,
+    "duration": 4.64
+  },
+  {
+    "text": "in the in the ca to get the auditory",
+    "start": 570.72,
+    "duration": 4.4
+  },
+  {
+    "text": "nerve or jump over damaged areas in the",
+    "start": 573.0,
+    "duration": 4.279
+  },
+  {
+    "text": "cortex in the motor cortex to bridge the",
+    "start": 575.12,
+    "duration": 4.64
+  },
+  {
+    "text": "gap produced by a",
+    "start": 577.279,
+    "duration": 4.56
+  },
+  {
+    "text": "stroke okay so I just want to end with a",
+    "start": 579.76,
+    "duration": 4.199
+  },
+  {
+    "text": "simple message that understanding the",
+    "start": 581.839,
+    "duration": 4.24
+  },
+  {
+    "text": "code is really really important and if",
+    "start": 583.959,
+    "duration": 3.681
+  },
+  {
+    "text": "we can understand the code you know the",
+    "start": 586.079,
+    "duration": 3.641
+  },
+  {
+    "text": "the language of the brain Things become",
+    "start": 587.64,
+    "duration": 3.96
+  },
+  {
+    "text": "possible that that didn't seem obviously",
+    "start": 589.72,
+    "duration": 6.559
+  },
+  {
+    "text": "possible before thank you",
+    "start": 591.6,
+    "duration": 4.679
+  },
+  {
+    "text": "[Music]",
+    "start": 596.69,
+    "duration": 3.209
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Joseph Keller used to jog\naround the Stanford campus,",
+    "start": 12.879,
+    "duration": 4.072
+  },
+  {
+    "text": "and he was struck by all the women\njogging there as well.",
+    "start": 16.975,
+    "duration": 4.717
+  },
+  {
+    "text": "Why did their ponytails swing\nfrom side to side like that?",
+    "start": 21.716,
+    "duration": 3.589
+  },
+  {
+    "text": "Being a mathematician,\nhe set out to understand why.",
+    "start": 25.867,
+    "duration": 3.138
+  },
+  {
+    "text": "(Laughter)",
+    "start": 29.029,
+    "duration": 1.151
+  },
+  {
+    "text": "Professor Keller was curious\nabout many things:",
+    "start": 30.204,
+    "duration": 2.306
+  },
+  {
+    "text": "why teapots dribble",
+    "start": 32.534,
+    "duration": 1.967
+  },
+  {
+    "text": "or how earthworms wriggle.",
+    "start": 34.525,
+    "duration": 1.83
+  },
+  {
+    "text": "Until a few months ago,\nI hadn't heard of Joseph Keller.",
+    "start": 36.847,
+    "duration": 3.048
+  },
+  {
+    "text": "I read about him in the New York Times,",
+    "start": 40.581,
+    "duration": 2.852
+  },
+  {
+    "text": "in the obituaries.",
+    "start": 43.457,
+    "duration": 1.432
+  },
+  {
+    "text": "The Times had half a page\nof editorial dedicated to him,",
+    "start": 44.913,
+    "duration": 3.772
+  },
+  {
+    "text": "which you can imagine is premium space\nfor a newspaper of their stature.",
+    "start": 48.709,
+    "duration": 3.922
+  },
+  {
+    "text": "I read the obituaries almost every day.",
+    "start": 53.368,
+    "duration": 2.342
+  },
+  {
+    "text": "My wife understandably thinks\nI'm rather morbid",
+    "start": 56.69,
+    "duration": 3.022
+  },
+  {
+    "text": "to begin my day with scrambled eggs\nand a \"Let's see who died today.\"",
+    "start": 59.736,
+    "duration": 4.4
+  },
+  {
+    "text": "(Laughter)",
+    "start": 64.16,
+    "duration": 1.15
+  },
+  {
+    "text": "But if you think about it,",
+    "start": 66.025,
+    "duration": 1.292
+  },
+  {
+    "text": "the front page of the newspaper\nis usually bad news,",
+    "start": 67.341,
+    "duration": 3.413
+  },
+  {
+    "text": "and cues man's failures.",
+    "start": 70.778,
+    "duration": 1.975
+  },
+  {
+    "text": "An instance where bad news\ncues accomplishment",
+    "start": 72.777,
+    "duration": 2.666
+  },
+  {
+    "text": "is at the end of the paper,\nin the obituaries.",
+    "start": 75.467,
+    "duration": 3.235
+  },
+  {
+    "text": "In my day job,",
+    "start": 79.405,
+    "duration": 1.364
+  },
+  {
+    "text": "I run a company that focuses\non future insights",
+    "start": 80.793,
+    "duration": 2.476
+  },
+  {
+    "text": "that marketers can derive\nfrom past data --",
+    "start": 83.293,
+    "duration": 2.42
+  },
+  {
+    "text": "a kind of rearview-mirror analysis.",
+    "start": 85.737,
+    "duration": 2.944
+  },
+  {
+    "text": "And we began to think:",
+    "start": 89.092,
+    "duration": 1.155
+  },
+  {
+    "text": "What if we held a rearview mirror\nto obituaries from the New York Times?",
+    "start": 90.271,
+    "duration": 5.118
+  },
+  {
+    "text": "Were there lessons on how you could get\nyour obituary featured --",
+    "start": 96.514,
+    "duration": 3.468
+  },
+  {
+    "text": "even if you aren't around to enjoy it?",
+    "start": 100.006,
+    "duration": 1.977
+  },
+  {
+    "text": "(Laughter)",
+    "start": 102.007,
+    "duration": 1.484
+  },
+  {
+    "text": "Would this go better with scrambled eggs?",
+    "start": 103.515,
+    "duration": 2.628
+  },
+  {
+    "text": "(Laughter)",
+    "start": 106.167,
+    "duration": 1.15
+  },
+  {
+    "text": "And so, we looked at the data.",
+    "start": 108.163,
+    "duration": 2.998
+  },
+  {
+    "text": "2,000 editorial, non-paid obituaries",
+    "start": 111.869,
+    "duration": 4.494
+  },
+  {
+    "text": "over a 20-month period\nbetween 2015 and 2016.",
+    "start": 116.387,
+    "duration": 3.642
+  },
+  {
+    "text": "What did these 2,000 deaths --\nrather, lives -- teach us?",
+    "start": 120.053,
+    "duration": 4.824
+  },
+  {
+    "text": "Well, first we looked at words.",
+    "start": 124.901,
+    "duration": 2.033
+  },
+  {
+    "text": "This here is an obituary headline.",
+    "start": 126.958,
+    "duration": 1.761
+  },
+  {
+    "text": "This one is of the amazing Lee Kuan Yew.",
+    "start": 128.743,
+    "duration": 2.296
+  },
+  {
+    "text": "If you remove the beginning and the end,",
+    "start": 131.063,
+    "duration": 2.522
+  },
+  {
+    "text": "you're left with a beautifully\nworded descriptor",
+    "start": 133.609,
+    "duration": 3.334
+  },
+  {
+    "text": "that tries to, in just a few words,\ncapture an achievement or a lifetime.",
+    "start": 136.967,
+    "duration": 4.675
+  },
+  {
+    "text": "Just looking at these is fascinating.",
+    "start": 141.666,
+    "duration": 2.161
+  },
+  {
+    "text": "Here are a few famous ones,\npeople who died in the last two years.",
+    "start": 144.301,
+    "duration": 3.295
+  },
+  {
+    "text": "Try and guess who they are.",
+    "start": 147.62,
+    "duration": 1.319
+  },
+  {
+    "text": "[An Artist who Defied Genre]",
+    "start": 148.963,
+    "duration": 1.44
+  },
+  {
+    "text": "That's Prince.",
+    "start": 150.427,
+    "duration": 1.185
+  },
+  {
+    "text": "[Titan of Boxing and the 20th Century]",
+    "start": 152.497,
+    "duration": 1.837
+  },
+  {
+    "text": "Oh, yes.",
+    "start": 154.358,
+    "duration": 1.16
+  },
+  {
+    "text": "[Muhammad Ali]",
+    "start": 155.542,
+    "duration": 1.224
+  },
+  {
+    "text": "[Groundbreaking Architect]",
+    "start": 156.79,
+    "duration": 1.546
+  },
+  {
+    "text": "Zaha Hadid.",
+    "start": 158.36,
+    "duration": 1.251
+  },
+  {
+    "text": "So we took these descriptors",
+    "start": 160.843,
+    "duration": 1.748
+  },
+  {
+    "text": "and did what's called\nnatural language processing,",
+    "start": 162.615,
+    "duration": 2.524
+  },
+  {
+    "text": "where you feed these into a program,",
+    "start": 165.163,
+    "duration": 1.771
+  },
+  {
+    "text": "it throws out the superfluous words --",
+    "start": 166.958,
+    "duration": 1.865
+  },
+  {
+    "text": "\"the,\" \"and,\" -- the kind of words\nyou can mime easily in \"Charades,\" --",
+    "start": 168.847,
+    "duration": 4.223
+  },
+  {
+    "text": "and leaves you with the most\nsignificant words.",
+    "start": 173.094,
+    "duration": 2.193
+  },
+  {
+    "text": "And we did it not just for these four,",
+    "start": 175.311,
+    "duration": 1.821
+  },
+  {
+    "text": "but for all 2,000 descriptors.",
+    "start": 177.156,
+    "duration": 2.519
+  },
+  {
+    "text": "And this is what it looks like.",
+    "start": 179.699,
+    "duration": 1.743
+  },
+  {
+    "text": "Film, theatre, music, dance\nand of course, art, are huge.",
+    "start": 183.004,
+    "duration": 4.827
+  },
+  {
+    "text": "Over 40 percent.",
+    "start": 188.485,
+    "duration": 1.946
+  },
+  {
+    "text": "You have to wonder\nwhy in so many societies",
+    "start": 190.455,
+    "duration": 2.528
+  },
+  {
+    "text": "we insist that our kids pursue\nengineering or medicine or business or law",
+    "start": 193.007,
+    "duration": 4.435
+  },
+  {
+    "text": "to be construed as successful.",
+    "start": 197.466,
+    "duration": 1.587
+  },
+  {
+    "text": "And while we're talking profession,",
+    "start": 199.871,
+    "duration": 1.693
+  },
+  {
+    "text": "let's look at age --",
+    "start": 201.588,
+    "duration": 1.151
+  },
+  {
+    "text": "the average age at which\nthey achieved things.",
+    "start": 202.763,
+    "duration": 2.51
+  },
+  {
+    "text": "That number is 37.",
+    "start": 205.297,
+    "duration": 1.846
+  },
+  {
+    "text": "What that means is,\nyou've got to wait 37 years ...",
+    "start": 208.274,
+    "duration": 3.656
+  },
+  {
+    "text": "before your first significant achievement\nthat you're remembered for --",
+    "start": 211.954,
+    "duration": 3.395
+  },
+  {
+    "text": "on average --",
+    "start": 215.373,
+    "duration": 1.151
+  },
+  {
+    "text": "44 years later, when you\ndie at the age of 81 --",
+    "start": 216.548,
+    "duration": 2.478
+  },
+  {
+    "text": "on average.",
+    "start": 219.05,
+    "duration": 1.168
+  },
+  {
+    "text": "(Laughter)",
+    "start": 220.242,
+    "duration": 1.001
+  },
+  {
+    "text": "Talk about having to be patient.",
+    "start": 221.267,
+    "duration": 1.684
+  },
+  {
+    "text": "(Laughter)",
+    "start": 222.975,
+    "duration": 1.057
+  },
+  {
+    "text": "Of course, it varies by profession.",
+    "start": 224.056,
+    "duration": 2.089
+  },
+  {
+    "text": "If you're a sports star,",
+    "start": 226.566,
+    "duration": 1.193
+  },
+  {
+    "text": "you'll probably hit\nyour stride in your 20s.",
+    "start": 227.783,
+    "duration": 2.127
+  },
+  {
+    "text": "And if you're in your 40s like me,",
+    "start": 229.934,
+    "duration": 2.645
+  },
+  {
+    "text": "you can join the fun world of politics.",
+    "start": 232.603,
+    "duration": 1.991
+  },
+  {
+    "text": "(Laughter)",
+    "start": 234.618,
+    "duration": 1.056
+  },
+  {
+    "text": "Politicians do their first and sometimes\nonly commendable act in their mid-40s.",
+    "start": 235.698,
+    "duration": 3.915
+  },
+  {
+    "text": "(Laughter)",
+    "start": 239.637,
+    "duration": 1.257
+  },
+  {
+    "text": "If you're wondering what \"others\" are,",
+    "start": 240.918,
+    "duration": 1.937
+  },
+  {
+    "text": "here are some examples.",
+    "start": 242.879,
+    "duration": 1.476
+  },
+  {
+    "text": "Isn't it fascinating, the things people do",
+    "start": 244.821,
+    "duration": 2.116
+  },
+  {
+    "text": "and the things they're remembered for?",
+    "start": 246.961,
+    "duration": 1.882
+  },
+  {
+    "text": "(Laughter)",
+    "start": 248.867,
+    "duration": 1.752
+  },
+  {
+    "text": "Our curiosity was in overdrive,",
+    "start": 252.136,
+    "duration": 1.844
+  },
+  {
+    "text": "and we desired to analyze\nmore than just a descriptor.",
+    "start": 254.004,
+    "duration": 3.788
+  },
+  {
+    "text": "So, we ingested the entire\nfirst paragraph of all 2,000 obituaries,",
+    "start": 258.998,
+    "duration": 4.946
+  },
+  {
+    "text": "but we did this separately\nfor two groups of people:",
+    "start": 263.968,
+    "duration": 2.774
+  },
+  {
+    "text": "people that are famous\nand people that are not famous.",
+    "start": 266.766,
+    "duration": 2.777
+  },
+  {
+    "text": "Famous people -- Prince,\nAli, Zaha Hadid --",
+    "start": 269.567,
+    "duration": 2.689
+  },
+  {
+    "text": "people who are not famous\nare people like Jocelyn Cooper,",
+    "start": 272.28,
+    "duration": 4.235
+  },
+  {
+    "text": "Reverend Curry",
+    "start": 276.539,
+    "duration": 1.154
+  },
+  {
+    "text": "or Lorna Kelly.",
+    "start": 277.717,
+    "duration": 1.169
+  },
+  {
+    "text": "I'm willing to bet you haven't heard\nof most of their names.",
+    "start": 278.91,
+    "duration": 3.188
+  },
+  {
+    "text": "Amazing people, fantastic achievements,\nbut they're not famous.",
+    "start": 282.122,
+    "duration": 3.812
+  },
+  {
+    "text": "So what if we analyze\nthese two groups separately --",
+    "start": 286.72,
+    "duration": 2.788
+  },
+  {
+    "text": "the famous and the non-famous?",
+    "start": 289.532,
+    "duration": 1.525
+  },
+  {
+    "text": "What might that tell us?",
+    "start": 291.081,
+    "duration": 1.419
+  },
+  {
+    "text": "Take a look.",
+    "start": 292.524,
+    "duration": 1.24
+  },
+  {
+    "text": "Two things leap out at me.",
+    "start": 296.556,
+    "duration": 1.469
+  },
+  {
+    "text": "First:",
+    "start": 298.569,
+    "duration": 1.17
+  },
+  {
+    "text": "\"John.\"",
+    "start": 300.106,
+    "duration": 1.198
+  },
+  {
+    "text": "(Laughter)",
+    "start": 301.328,
+    "duration": 1.3
+  },
+  {
+    "text": "Anyone here named John\nshould thank your parents --",
+    "start": 303.914,
+    "duration": 3.388
+  },
+  {
+    "text": "(Laughter)",
+    "start": 307.326,
+    "duration": 1.329
+  },
+  {
+    "text": "and remind your kids to cut out\nyour obituary when you're gone.",
+    "start": 308.679,
+    "duration": 3.082
+  },
+  {
+    "text": "And second:",
+    "start": 313.061,
+    "duration": 1.356
+  },
+  {
+    "text": "\"help.\"",
+    "start": 315.849,
+    "duration": 1.154
+  },
+  {
+    "text": "We uncovered, many lessons\nfrom lives well-led,",
+    "start": 318.524,
+    "duration": 3.465
+  },
+  {
+    "text": "and what those people immortalized\nin print could teach us.",
+    "start": 322.013,
+    "duration": 2.836
+  },
+  {
+    "text": "The exercise was a fascinating testament\nto the kaleidoscope that is life,",
+    "start": 324.873,
+    "duration": 4.738
+  },
+  {
+    "text": "and even more fascinating",
+    "start": 329.635,
+    "duration": 2.715
+  },
+  {
+    "text": "was the fact that the overwhelming\nmajority of obituaries",
+    "start": 332.374,
+    "duration": 3.068
+  },
+  {
+    "text": "featured people famous and non-famous,",
+    "start": 335.466,
+    "duration": 2.998
+  },
+  {
+    "text": "who did seemingly extraordinary things.",
+    "start": 338.488,
+    "duration": 2.433
+  },
+  {
+    "text": "They made a positive dent\nin the fabric of life.",
+    "start": 341.574,
+    "duration": 3.11
+  },
+  {
+    "text": "They helped.",
+    "start": 344.708,
+    "duration": 1.237
+  },
+  {
+    "text": "So ask yourselves as you go\nback to your daily lives:",
+    "start": 346.772,
+    "duration": 2.591
+  },
+  {
+    "text": "How am I using my talents to help society?",
+    "start": 349.387,
+    "duration": 2.92
+  },
+  {
+    "text": "Because the most powerful lesson here is,",
+    "start": 352.331,
+    "duration": 2.973
+  },
+  {
+    "text": "if more people lived their lives\ntrying to be famous in death,",
+    "start": 355.328,
+    "duration": 4.336
+  },
+  {
+    "text": "the world would be a much better place.",
+    "start": 359.688,
+    "duration": 2.605
+  },
+  {
+    "text": "Thank you.",
+    "start": 363.062,
+    "duration": 1.169
+  },
+  {
+    "text": "(Applause)",
+    "start": 364.255,
+    "duration": 2.848
+  }
+]

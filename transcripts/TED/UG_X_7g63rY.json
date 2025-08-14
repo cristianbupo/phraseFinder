@@ -1,0 +1,787 @@
+[
+  {
+    "text": "Hello, I'm Joy, a poet of code,",
+    "start": 12.861,
+    "duration": 3.134
+  },
+  {
+    "text": "on a mission to stop\nan unseen force that's rising,",
+    "start": 16.019,
+    "duration": 4.993
+  },
+  {
+    "text": "a force that I called \"the coded gaze,\"",
+    "start": 21.036,
+    "duration": 2.856
+  },
+  {
+    "text": "my term for algorithmic bias.",
+    "start": 23.916,
+    "duration": 3.309
+  },
+  {
+    "text": "Algorithmic bias, like human bias,\nresults in unfairness.",
+    "start": 27.249,
+    "duration": 4.3
+  },
+  {
+    "text": "However, algorithms, like viruses,\ncan spread bias on a massive scale",
+    "start": 31.573,
+    "duration": 6.022
+  },
+  {
+    "text": "at a rapid pace.",
+    "start": 37.619,
+    "duration": 1.582
+  },
+  {
+    "text": "Algorithmic bias can also lead\nto exclusionary experiences",
+    "start": 39.763,
+    "duration": 4.387
+  },
+  {
+    "text": "and discriminatory practices.",
+    "start": 44.174,
+    "duration": 2.128
+  },
+  {
+    "text": "Let me show you what I mean.",
+    "start": 46.326,
+    "duration": 2.061
+  },
+  {
+    "text": "(Video) Joy Buolamwini: Hi, camera.\nI've got a face.",
+    "start": 48.8,
+    "duration": 2.436
+  },
+  {
+    "text": "Can you see my face?",
+    "start": 51.982,
+    "duration": 1.864
+  },
+  {
+    "text": "No-glasses face?",
+    "start": 53.871,
+    "duration": 1.625
+  },
+  {
+    "text": "You can see her face.",
+    "start": 55.521,
+    "duration": 2.214
+  },
+  {
+    "text": "What about my face?",
+    "start": 58.057,
+    "duration": 2.245
+  },
+  {
+    "text": "I've got a mask. Can you see my mask?",
+    "start": 63.71,
+    "duration": 3.75
+  },
+  {
+    "text": "Joy Buolamwini: So how did this happen?",
+    "start": 68.294,
+    "duration": 2.365
+  },
+  {
+    "text": "Why am I sitting in front of a computer",
+    "start": 70.683,
+    "duration": 3.141
+  },
+  {
+    "text": "in a white mask,",
+    "start": 73.848,
+    "duration": 1.424
+  },
+  {
+    "text": "trying to be detected by a cheap webcam?",
+    "start": 75.296,
+    "duration": 3.65
+  },
+  {
+    "text": "Well, when I'm not fighting the coded gaze",
+    "start": 78.97,
+    "duration": 2.291
+  },
+  {
+    "text": "as a poet of code,",
+    "start": 81.285,
+    "duration": 1.52
+  },
+  {
+    "text": "I'm a graduate student\nat the MIT Media Lab,",
+    "start": 82.829,
+    "duration": 3.272
+  },
+  {
+    "text": "and there I have the opportunity to work\non all sorts of whimsical projects,",
+    "start": 86.125,
+    "duration": 4.917
+  },
+  {
+    "text": "including the Aspire Mirror,",
+    "start": 91.066,
+    "duration": 2.027
+  },
+  {
+    "text": "a project I did so I could project\ndigital masks onto my reflection.",
+    "start": 93.117,
+    "duration": 5.134
+  },
+  {
+    "text": "So in the morning, if I wanted\nto feel powerful,",
+    "start": 98.275,
+    "duration": 2.35
+  },
+  {
+    "text": "I could put on a lion.",
+    "start": 100.649,
+    "duration": 1.434
+  },
+  {
+    "text": "If I wanted to be uplifted,\nI might have a quote.",
+    "start": 102.107,
+    "duration": 3.496
+  },
+  {
+    "text": "So I used generic\nfacial recognition software",
+    "start": 105.627,
+    "duration": 2.989
+  },
+  {
+    "text": "to build the system,",
+    "start": 108.64,
+    "duration": 1.351
+  },
+  {
+    "text": "but found it was really hard to test it\nunless I wore a white mask.",
+    "start": 110.015,
+    "duration": 5.103
+  },
+  {
+    "text": "Unfortunately, I've run\ninto this issue before.",
+    "start": 116.102,
+    "duration": 4.346
+  },
+  {
+    "text": "When I was an undergraduate\nat Georgia Tech studying computer science,",
+    "start": 120.472,
+    "duration": 4.303
+  },
+  {
+    "text": "I used to work on social robots,",
+    "start": 124.799,
+    "duration": 2.055
+  },
+  {
+    "text": "and one of my tasks was to get a robot\nto play peek-a-boo,",
+    "start": 126.878,
+    "duration": 3.777
+  },
+  {
+    "text": "a simple turn-taking game",
+    "start": 130.679,
+    "duration": 1.683
+  },
+  {
+    "text": "where partners cover their face\nand then uncover it saying, \"Peek-a-boo!\"",
+    "start": 132.386,
+    "duration": 4.321
+  },
+  {
+    "text": "The problem is, peek-a-boo\ndoesn't really work if I can't see you,",
+    "start": 136.731,
+    "duration": 4.429
+  },
+  {
+    "text": "and my robot couldn't see me.",
+    "start": 141.184,
+    "duration": 2.499
+  },
+  {
+    "text": "But I borrowed my roommate's face\nto get the project done,",
+    "start": 143.707,
+    "duration": 3.95
+  },
+  {
+    "text": "submitted the assignment,",
+    "start": 147.681,
+    "duration": 1.38
+  },
+  {
+    "text": "and figured, you know what,\nsomebody else will solve this problem.",
+    "start": 149.085,
+    "duration": 3.753
+  },
+  {
+    "text": "Not too long after,",
+    "start": 153.489,
+    "duration": 2.003
+  },
+  {
+    "text": "I was in Hong Kong\nfor an entrepreneurship competition.",
+    "start": 155.516,
+    "duration": 4.159
+  },
+  {
+    "text": "The organizers decided\nto take participants",
+    "start": 160.159,
+    "duration": 2.694
+  },
+  {
+    "text": "on a tour of local start-ups.",
+    "start": 162.877,
+    "duration": 2.372
+  },
+  {
+    "text": "One of the start-ups had a social robot,",
+    "start": 165.273,
+    "duration": 2.715
+  },
+  {
+    "text": "and they decided to do a demo.",
+    "start": 168.012,
+    "duration": 1.912
+  },
+  {
+    "text": "The demo worked on everybody\nuntil it got to me,",
+    "start": 169.948,
+    "duration": 2.98
+  },
+  {
+    "text": "and you can probably guess it.",
+    "start": 172.952,
+    "duration": 1.923
+  },
+  {
+    "text": "It couldn't detect my face.",
+    "start": 174.899,
+    "duration": 2.965
+  },
+  {
+    "text": "I asked the developers what was going on,",
+    "start": 177.888,
+    "duration": 2.511
+  },
+  {
+    "text": "and it turned out we had used the same\ngeneric facial recognition software.",
+    "start": 180.423,
+    "duration": 5.533
+  },
+  {
+    "text": "Halfway around the world,",
+    "start": 185.98,
+    "duration": 1.65
+  },
+  {
+    "text": "I learned that algorithmic bias\ncan travel as quickly",
+    "start": 187.654,
+    "duration": 3.852
+  },
+  {
+    "text": "as it takes to download\nsome files off of the internet.",
+    "start": 191.53,
+    "duration": 3.17
+  },
+  {
+    "text": "So what's going on?\nWhy isn't my face being detected?",
+    "start": 195.565,
+    "duration": 3.076
+  },
+  {
+    "text": "Well, we have to look\nat how we give machines sight.",
+    "start": 198.665,
+    "duration": 3.356
+  },
+  {
+    "text": "Computer vision uses\nmachine learning techniques",
+    "start": 202.045,
+    "duration": 3.409
+  },
+  {
+    "text": "to do facial recognition.",
+    "start": 205.478,
+    "duration": 1.88
+  },
+  {
+    "text": "So how this works is, you create\na training set with examples of faces.",
+    "start": 207.382,
+    "duration": 3.897
+  },
+  {
+    "text": "This is a face. This is a face.\nThis is not a face.",
+    "start": 211.303,
+    "duration": 2.818
+  },
+  {
+    "text": "And over time, you can teach a computer\nhow to recognize other faces.",
+    "start": 214.145,
+    "duration": 4.519
+  },
+  {
+    "text": "However, if the training sets\naren't really that diverse,",
+    "start": 218.688,
+    "duration": 3.989
+  },
+  {
+    "text": "any face that deviates too much\nfrom the established norm",
+    "start": 222.701,
+    "duration": 3.349
+  },
+  {
+    "text": "will be harder to detect,",
+    "start": 226.074,
+    "duration": 1.649
+  },
+  {
+    "text": "which is what was happening to me.",
+    "start": 227.747,
+    "duration": 1.963
+  },
+  {
+    "text": "But don't worry -- there's some good news.",
+    "start": 229.734,
+    "duration": 2.382
+  },
+  {
+    "text": "Training sets don't just\nmaterialize out of nowhere.",
+    "start": 232.14,
+    "duration": 2.771
+  },
+  {
+    "text": "We actually can create them.",
+    "start": 234.935,
+    "duration": 1.788
+  },
+  {
+    "text": "So there's an opportunity to create\nfull-spectrum training sets",
+    "start": 236.747,
+    "duration": 4.176
+  },
+  {
+    "text": "that reflect a richer\nportrait of humanity.",
+    "start": 240.947,
+    "duration": 3.824
+  },
+  {
+    "text": "Now you've seen in my examples",
+    "start": 244.795,
+    "duration": 2.221
+  },
+  {
+    "text": "how social robots",
+    "start": 247.04,
+    "duration": 1.768
+  },
+  {
+    "text": "was how I found out about exclusion\nwith algorithmic bias.",
+    "start": 248.832,
+    "duration": 4.611
+  },
+  {
+    "text": "But algorithmic bias can also lead\nto discriminatory practices.",
+    "start": 253.467,
+    "duration": 4.815
+  },
+  {
+    "text": "Across the US,",
+    "start": 259.257,
+    "duration": 1.453
+  },
+  {
+    "text": "police departments are starting to use\nfacial recognition software",
+    "start": 260.734,
+    "duration": 4.198
+  },
+  {
+    "text": "in their crime-fighting arsenal.",
+    "start": 264.956,
+    "duration": 2.459
+  },
+  {
+    "text": "Georgetown Law published a report",
+    "start": 267.439,
+    "duration": 2.013
+  },
+  {
+    "text": "showing that one in two adults\nin the US -- that's 117 million people --",
+    "start": 269.476,
+    "duration": 6.763
+  },
+  {
+    "text": "have their faces\nin facial recognition networks.",
+    "start": 276.263,
+    "duration": 3.534
+  },
+  {
+    "text": "Police departments can currently look\nat these networks unregulated,",
+    "start": 279.821,
+    "duration": 4.552
+  },
+  {
+    "text": "using algorithms that have not\nbeen audited for accuracy.",
+    "start": 284.397,
+    "duration": 4.286
+  },
+  {
+    "text": "Yet we know facial recognition\nis not fail proof,",
+    "start": 288.707,
+    "duration": 3.864
+  },
+  {
+    "text": "and labeling faces consistently\nremains a challenge.",
+    "start": 292.595,
+    "duration": 4.179
+  },
+  {
+    "text": "You might have seen this on Facebook.",
+    "start": 296.798,
+    "duration": 1.762
+  },
+  {
+    "text": "My friends and I laugh all the time\nwhen we see other people",
+    "start": 298.584,
+    "duration": 2.988
+  },
+  {
+    "text": "mislabeled in our photos.",
+    "start": 301.596,
+    "duration": 2.458
+  },
+  {
+    "text": "But misidentifying a suspected criminal\nis no laughing matter,",
+    "start": 304.078,
+    "duration": 5.591
+  },
+  {
+    "text": "nor is breaching civil liberties.",
+    "start": 309.693,
+    "duration": 2.827
+  },
+  {
+    "text": "Machine learning is being used\nfor facial recognition,",
+    "start": 312.544,
+    "duration": 3.205
+  },
+  {
+    "text": "but it's also extending beyond the realm\nof computer vision.",
+    "start": 315.773,
+    "duration": 4.505
+  },
+  {
+    "text": "In her book, \"Weapons\nof Math Destruction,\"",
+    "start": 321.086,
+    "duration": 4.016
+  },
+  {
+    "text": "data scientist Cathy O'Neil\ntalks about the rising new WMDs --",
+    "start": 325.126,
+    "duration": 6.681
+  },
+  {
+    "text": "widespread, mysterious\nand destructive algorithms",
+    "start": 331.831,
+    "duration": 4.353
+  },
+  {
+    "text": "that are increasingly being used\nto make decisions",
+    "start": 336.208,
+    "duration": 2.964
+  },
+  {
+    "text": "that impact more aspects of our lives.",
+    "start": 339.196,
+    "duration": 3.177
+  },
+  {
+    "text": "So who gets hired or fired?",
+    "start": 342.397,
+    "duration": 1.87
+  },
+  {
+    "text": "Do you get that loan?\nDo you get insurance?",
+    "start": 344.291,
+    "duration": 2.112
+  },
+  {
+    "text": "Are you admitted into the college\nyou wanted to get into?",
+    "start": 346.427,
+    "duration": 3.503
+  },
+  {
+    "text": "Do you and I pay the same price\nfor the same product",
+    "start": 349.954,
+    "duration": 3.509
+  },
+  {
+    "text": "purchased on the same platform?",
+    "start": 353.487,
+    "duration": 2.442
+  },
+  {
+    "text": "Law enforcement is also starting\nto use machine learning",
+    "start": 355.953,
+    "duration": 3.759
+  },
+  {
+    "text": "for predictive policing.",
+    "start": 359.736,
+    "duration": 2.289
+  },
+  {
+    "text": "Some judges use machine-generated\nrisk scores to determine",
+    "start": 362.049,
+    "duration": 3.494
+  },
+  {
+    "text": "how long an individual\nis going to spend in prison.",
+    "start": 365.567,
+    "duration": 4.402
+  },
+  {
+    "text": "So we really have to think\nabout these decisions.",
+    "start": 369.993,
+    "duration": 2.454
+  },
+  {
+    "text": "Are they fair?",
+    "start": 372.471,
+    "duration": 1.182
+  },
+  {
+    "text": "And we've seen that algorithmic bias",
+    "start": 373.677,
+    "duration": 2.89
+  },
+  {
+    "text": "doesn't necessarily always\nlead to fair outcomes.",
+    "start": 376.591,
+    "duration": 3.374
+  },
+  {
+    "text": "So what can we do about it?",
+    "start": 379.989,
+    "duration": 1.964
+  },
+  {
+    "text": "Well, we can start thinking about\nhow we create more inclusive code",
+    "start": 381.977,
+    "duration": 3.68
+  },
+  {
+    "text": "and employ inclusive coding practices.",
+    "start": 385.681,
+    "duration": 2.99
+  },
+  {
+    "text": "It really starts with people.",
+    "start": 388.695,
+    "duration": 2.309
+  },
+  {
+    "text": "So who codes matters.",
+    "start": 391.528,
+    "duration": 1.961
+  },
+  {
+    "text": "Are we creating full-spectrum teams\nwith diverse individuals",
+    "start": 393.513,
+    "duration": 4.119
+  },
+  {
+    "text": "who can check each other's blind spots?",
+    "start": 397.656,
+    "duration": 2.411
+  },
+  {
+    "text": "On the technical side,\nhow we code matters.",
+    "start": 400.091,
+    "duration": 3.545
+  },
+  {
+    "text": "Are we factoring in fairness\nas we're developing systems?",
+    "start": 403.66,
+    "duration": 3.651
+  },
+  {
+    "text": "And finally, why we code matters.",
+    "start": 407.335,
+    "duration": 2.913
+  },
+  {
+    "text": "We've used tools of computational creation\nto unlock immense wealth.",
+    "start": 410.605,
+    "duration": 5.083
+  },
+  {
+    "text": "We now have the opportunity\nto unlock even greater equality",
+    "start": 415.712,
+    "duration": 4.447
+  },
+  {
+    "text": "if we make social change a priority",
+    "start": 420.183,
+    "duration": 2.93
+  },
+  {
+    "text": "and not an afterthought.",
+    "start": 423.137,
+    "duration": 2.17
+  },
+  {
+    "text": "And so these are the three tenets\nthat will make up the \"incoding\" movement.",
+    "start": 425.828,
+    "duration": 4.522
+  },
+  {
+    "text": "Who codes matters,",
+    "start": 430.374,
+    "duration": 1.652
+  },
+  {
+    "text": "how we code matters",
+    "start": 432.05,
+    "duration": 1.543
+  },
+  {
+    "text": "and why we code matters.",
+    "start": 433.617,
+    "duration": 2.023
+  },
+  {
+    "text": "So to go towards incoding,\nwe can start thinking about",
+    "start": 435.664,
+    "duration": 3.099
+  },
+  {
+    "text": "building platforms that can identify bias",
+    "start": 438.787,
+    "duration": 3.164
+  },
+  {
+    "text": "by collecting people's experiences\nlike the ones I shared,",
+    "start": 441.975,
+    "duration": 3.078
+  },
+  {
+    "text": "but also auditing existing software.",
+    "start": 445.077,
+    "duration": 3.07
+  },
+  {
+    "text": "We can also start to create\nmore inclusive training sets.",
+    "start": 448.171,
+    "duration": 3.765
+  },
+  {
+    "text": "Imagine a \"Selfies for Inclusion\" campaign",
+    "start": 451.96,
+    "duration": 2.803
+  },
+  {
+    "text": "where you and I can help\ndevelopers test and create",
+    "start": 454.787,
+    "duration": 3.655
+  },
+  {
+    "text": "more inclusive training sets.",
+    "start": 458.466,
+    "duration": 2.093
+  },
+  {
+    "text": "And we can also start thinking\nmore conscientiously",
+    "start": 461.122,
+    "duration": 2.828
+  },
+  {
+    "text": "about the social impact\nof the technology that we're developing.",
+    "start": 463.974,
+    "duration": 5.391
+  },
+  {
+    "text": "To get the incoding movement started,",
+    "start": 469.389,
+    "duration": 2.393
+  },
+  {
+    "text": "I've launched the Algorithmic\nJustice League,",
+    "start": 471.806,
+    "duration": 2.847
+  },
+  {
+    "text": "where anyone who cares about fairness\ncan help fight the coded gaze.",
+    "start": 474.677,
+    "duration": 5.872
+  },
+  {
+    "text": "On codedgaze.com, you can report bias,",
+    "start": 480.573,
+    "duration": 3.296
+  },
+  {
+    "text": "request audits, become a tester",
+    "start": 483.893,
+    "duration": 2.445
+  },
+  {
+    "text": "and join the ongoing conversation,",
+    "start": 486.362,
+    "duration": 2.771
+  },
+  {
+    "text": "#codedgaze.",
+    "start": 489.157,
+    "duration": 2.287
+  },
+  {
+    "text": "So I invite you to join me",
+    "start": 492.562,
+    "duration": 2.487
+  },
+  {
+    "text": "in creating a world where technology\nworks for all of us,",
+    "start": 495.073,
+    "duration": 3.719
+  },
+  {
+    "text": "not just some of us,",
+    "start": 498.816,
+    "duration": 1.897
+  },
+  {
+    "text": "a world where we value inclusion\nand center social change.",
+    "start": 500.737,
+    "duration": 4.588
+  },
+  {
+    "text": "Thank you.",
+    "start": 505.349,
+    "duration": 1.175
+  },
+  {
+    "text": "(Applause)",
+    "start": 506.548,
+    "duration": 4.271
+  },
+  {
+    "text": "But I have one question:",
+    "start": 512.693,
+    "duration": 2.854
+  },
+  {
+    "text": "Will you join me in the fight?",
+    "start": 515.571,
+    "duration": 2.059
+  },
+  {
+    "text": "(Laughter)",
+    "start": 517.654,
+    "duration": 1.285
+  },
+  {
+    "text": "(Applause)",
+    "start": 518.963,
+    "duration": 3.687
+  }
+]

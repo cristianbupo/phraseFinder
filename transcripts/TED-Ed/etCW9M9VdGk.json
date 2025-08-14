@@ -1,0 +1,377 @@
+[
+  {
+    "text": "As the space telescope prepares\nto snap a photo,",
+    "start": 7.954,
+    "duration": 3.5
+  },
+  {
+    "text": "the light of the nearby\nstar blocks its view.",
+    "start": 11.454,
+    "duration": 2.917
+  },
+  {
+    "text": "But the telescope \nhas a trick up its sleeve:",
+    "start": 14.996,
+    "duration": 2.75
+  },
+  {
+    "text": "a massive shield to block the glare.",
+    "start": 17.746,
+    "duration": 3.333
+  },
+  {
+    "text": "This starshade has a diameter \nof about 35 meters—",
+    "start": 21.079,
+    "duration": 4.625
+  },
+  {
+    "text": "that folds down to just under 2.5 meters,",
+    "start": 25.704,
+    "duration": 3.667
+  },
+  {
+    "text": "small enough to carry \non the end of a rocket.",
+    "start": 29.371,
+    "duration": 3.083
+  },
+  {
+    "text": "Its compact design is based\non an ancient art form.",
+    "start": 32.454,
+    "duration": 5.0
+  },
+  {
+    "text": "Origami, which literally translates\nto “folding paper,”",
+    "start": 37.454,
+    "duration": 5.042
+  },
+  {
+    "text": "is a Japanese practice dating back\nto at least the 17th century.",
+    "start": 42.496,
+    "duration": 4.583
+  },
+  {
+    "text": "In origami, the same simple concepts",
+    "start": 47.079,
+    "duration": 2.375
+  },
+  {
+    "text": "yield everything from a paper crane \nwith about 20 steps,",
+    "start": 49.454,
+    "duration": 4.0
+  },
+  {
+    "text": "to this dragon with over 1,000 steps,\nto a starshade.",
+    "start": 53.454,
+    "duration": 5.167
+  },
+  {
+    "text": "A single, traditionally square sheet \nof paper",
+    "start": 58.621,
+    "duration": 2.791
+  },
+  {
+    "text": "can be transformed into almost \nany shape, purely by folding.",
+    "start": 61.412,
+    "duration": 4.459
+  },
+  {
+    "text": "Unfold that sheet,\nand there’s a pattern of lines,",
+    "start": 65.871,
+    "duration": 3.25
+  },
+  {
+    "text": "each of which represents a concave \nvalley fold or a convex mountain fold.",
+    "start": 69.121,
+    "duration": 6.833
+  },
+  {
+    "text": "Origami artists arrange these folds \nto create crease patterns,",
+    "start": 75.954,
+    "duration": 4.709
+  },
+  {
+    "text": "which serve as blueprints \nfor their designs.",
+    "start": 80.663,
+    "duration": 2.875
+  },
+  {
+    "text": "Though most origami models\nare three dimensional,",
+    "start": 83.579,
+    "duration": 2.75
+  },
+  {
+    "text": "their crease patterns are usually designed\nto fold flat",
+    "start": 86.329,
+    "duration": 3.459
+  },
+  {
+    "text": "without introducing any new creases \nor cutting the paper.",
+    "start": 89.788,
+    "duration": 4.166
+  },
+  {
+    "text": "The mathematical rules behind \nflat-foldable crease patterns",
+    "start": 93.954,
+    "duration": 4.0
+  },
+  {
+    "text": "are much simpler than those behind \n3D crease patterns—",
+    "start": 97.954,
+    "duration": 4.209
+  },
+  {
+    "text": "it’s easier to create an abstract 2D\ndesign and then shape it into a 3D form.",
+    "start": 102.163,
+    "duration": 5.875
+  },
+  {
+    "text": "There are four rules that any \nflat-foldable crease pattern must obey.",
+    "start": 108.954,
+    "duration": 4.542
+  },
+  {
+    "text": "First, the crease pattern\nmust be two-colorable—",
+    "start": 114.246,
+    "duration": 3.542
+  },
+  {
+    "text": "meaning the areas between creases\ncan be filled with two colors",
+    "start": 117.788,
+    "duration": 4.208
+  },
+  {
+    "text": "so that areas of the same\ncolor never touch.",
+    "start": 121.996,
+    "duration": 3.417
+  },
+  {
+    "text": "Add another crease here,",
+    "start": 125.413,
+    "duration": 1.833
+  },
+  {
+    "text": "and the crease pattern no longer\ndisplays two-colorability.",
+    "start": 127.246,
+    "duration": 3.958
+  },
+  {
+    "text": "Second, the number \nof mountain and valley folds",
+    "start": 131.871,
+    "duration": 2.833
+  },
+  {
+    "text": "at any interior vertex\nmust differ by exactly two—",
+    "start": 134.704,
+    "duration": 4.792
+  },
+  {
+    "text": "like the three valley folds \nand one mountain fold that meet here.",
+    "start": 139.496,
+    "duration": 4.833
+  },
+  {
+    "text": "Here’s a closer look at what happens \nwhen we make the folds at this vertex.",
+    "start": 144.329,
+    "duration": 4.875
+  },
+  {
+    "text": "If we add a mountain fold at this vertex,\nthere are three valleys and two mountains.",
+    "start": 149.204,
+    "duration": 5.584
+  },
+  {
+    "text": "If it’s a valley, there are four valleys \nand one mountain.",
+    "start": 154.788,
+    "duration": 3.541
+  },
+  {
+    "text": "Either way, the model doesn’t fold flat.",
+    "start": 159.121,
+    "duration": 3.208
+  },
+  {
+    "text": "The third rule is that if we number \nall the angles",
+    "start": 162.913,
+    "duration": 3.166
+  },
+  {
+    "text": "at an interior vertex moving \nclockwise or counterclockwise,",
+    "start": 166.079,
+    "duration": 3.917
+  },
+  {
+    "text": "the even-numbered angles must\nadd up to 180 degrees,",
+    "start": 169.996,
+    "duration": 5.458
+  },
+  {
+    "text": "as must the odd-numbered angles.",
+    "start": 175.454,
+    "duration": 2.792
+  },
+  {
+    "text": "Looking closer at the folds, \nwe can see why.",
+    "start": 178.246,
+    "duration": 3.292
+  },
+  {
+    "text": "If we add a crease and number \nthe new angles at this vertex,",
+    "start": 182.288,
+    "duration": 4.208
+  },
+  {
+    "text": "the even and odd angles no longer\nadd up to 180 degrees,",
+    "start": 186.496,
+    "duration": 5.042
+  },
+  {
+    "text": "and the model doesn’t fold flat.",
+    "start": 191.538,
+    "duration": 2.5
+  },
+  {
+    "text": "Finally,\na layer cannot penetrate a fold.",
+    "start": 194.038,
+    "duration": 3.791
+  },
+  {
+    "text": "A 2D, flat-foldable base is often\nan abstract representation",
+    "start": 198.663,
+    "duration": 4.541
+  },
+  {
+    "text": "of a final 3D shape.",
+    "start": 203.204,
+    "duration": 2.167
+  },
+  {
+    "text": "Understanding the relationship\nbetween crease patterns, 2D bases,",
+    "start": 205.829,
+    "duration": 4.75
+  },
+  {
+    "text": "and the final 3D form \nallows origami artists",
+    "start": 210.579,
+    "duration": 4.084
+  },
+  {
+    "text": "to design incredibly complex shapes.",
+    "start": 214.663,
+    "duration": 3.333
+  },
+  {
+    "text": "Take this crease pattern \nby origami artist Robert J. Lang.",
+    "start": 217.996,
+    "duration": 3.958
+  },
+  {
+    "text": "The crease pattern allocates areas\nfor a creature's legs,",
+    "start": 221.954,
+    "duration": 3.375
+  },
+  {
+    "text": "tail, and other appendages.",
+    "start": 225.329,
+    "duration": 2.5
+  },
+  {
+    "text": "When we fold the crease pattern\ninto this flat base,",
+    "start": 227.829,
+    "duration": 3.167
+  },
+  {
+    "text": "each of these allocated areas\nbecomes a separate flap.",
+    "start": 230.996,
+    "duration": 4.125
+  },
+  {
+    "text": "By narrowing, bending, and sculpting \nthese flaps,",
+    "start": 235.121,
+    "duration": 3.125
+  },
+  {
+    "text": "the 2D base becomes a 3D scorpion.",
+    "start": 238.246,
+    "duration": 3.917
+  },
+  {
+    "text": "Now, what if we wanted to fold 7 of these \nflowers from the same sheet of paper?",
+    "start": 242.913,
+    "duration": 5.458
+  },
+  {
+    "text": "If we can duplicate \nthe flower’s crease pattern",
+    "start": 248.371,
+    "duration": 2.542
+  },
+  {
+    "text": "and connect each of them in such a way\nthat all four laws are satisfied,",
+    "start": 250.913,
+    "duration": 4.958
+  },
+  {
+    "text": "we can create a tessellation, \nor a repeating pattern of shapes",
+    "start": 255.871,
+    "duration": 4.042
+  },
+  {
+    "text": "that covers a plane \nwithout any gaps or overlaps.",
+    "start": 259.913,
+    "duration": 3.875
+  },
+  {
+    "text": "The ability to fold a large surface \ninto a compact shape",
+    "start": 263.788,
+    "duration": 3.958
+  },
+  {
+    "text": "has applications \nfrom the vastness of space",
+    "start": 267.746,
+    "duration": 2.792
+  },
+  {
+    "text": "to the microscopic world of our cells.",
+    "start": 270.538,
+    "duration": 3.291
+  },
+  {
+    "text": "Using principles of origami,",
+    "start": 273.829,
+    "duration": 2.084
+  },
+  {
+    "text": "medical engineers have re-imagined\nthe traditional stent graft,",
+    "start": 275.913,
+    "duration": 4.291
+  },
+  {
+    "text": "a tube used to open and support \ndamaged blood vessels.",
+    "start": 280.204,
+    "duration": 3.709
+  },
+  {
+    "text": "Through tessellation, the rigid tubular \nstructure folds into a compact sheet",
+    "start": 283.913,
+    "duration": 5.083
+  },
+  {
+    "text": "about half its expanded size.",
+    "start": 288.996,
+    "duration": 2.708
+  },
+  {
+    "text": "Origami principles have been used\nin airbags, solar arrays,",
+    "start": 291.704,
+    "duration": 4.584
+  },
+  {
+    "text": "self-folding robots, \nand even DNA nanostructures—",
+    "start": 296.288,
+    "duration": 4.75
+  },
+  {
+    "text": "who knows what possibilities\nwill unfold next.",
+    "start": 301.038,
+    "duration": 4.0
+  }
+]

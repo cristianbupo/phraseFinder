@@ -1,0 +1,552 @@
+[
+  {
+    "text": "In the coming years, \nartificial intelligence",
+    "start": 6.335,
+    "duration": 2.169
+  },
+  {
+    "text": "is probably going to change your life, \nand likely the entire world.",
+    "start": 8.504,
+    "duration": 4.004
+  },
+  {
+    "text": "But people have a hard time\nagreeing on exactly how.",
+    "start": 12.592,
+    "duration": 3.128
+  },
+  {
+    "text": "The following are excerpts \nfrom a World Economic Forum interview",
+    "start": 15.72,
+    "duration": 3.211
+  },
+  {
+    "text": "where renowned computer science professor \nand AI expert Stuart Russell",
+    "start": 18.931,
+    "duration": 3.796
+  },
+  {
+    "text": "helps separate the sense \nfrom the nonsense.",
+    "start": 22.727,
+    "duration": 2.586
+  },
+  {
+    "text": "There’s a big difference between asking\na human to do something",
+    "start": 25.313,
+    "duration": 3.754
+  },
+  {
+    "text": "and giving that as the objective\nto an AI system.",
+    "start": 29.067,
+    "duration": 3.461
+  },
+  {
+    "text": "When you ask a human to get\nyou a cup of coffee,",
+    "start": 32.528,
+    "duration": 2.628
+  },
+  {
+    "text": "you don’t mean this should be \ntheir life’s mission,",
+    "start": 35.156,
+    "duration": 2.586
+  },
+  {
+    "text": "and nothing else in the universe matters.",
+    "start": 37.742,
+    "duration": 1.96
+  },
+  {
+    "text": "Even if they have to kill everybody else\nin Starbucks",
+    "start": 39.702,
+    "duration": 2.586
+  },
+  {
+    "text": "to get you the coffee before it closes—\nthey should do that.",
+    "start": 42.288,
+    "duration": 2.836
+  },
+  {
+    "text": "No, that’s not what you mean.",
+    "start": 45.124,
+    "duration": 1.627
+  },
+  {
+    "text": "All the other things that\nwe mutually care about,",
+    "start": 46.751,
+    "duration": 2.294
+  },
+  {
+    "text": "they should factor\ninto your behavior as well.",
+    "start": 49.045,
+    "duration": 2.169
+  },
+  {
+    "text": "And the problem with the way \nwe build AI systems now",
+    "start": 51.214,
+    "duration": 3.169
+  },
+  {
+    "text": "is we give them a fixed objective.",
+    "start": 54.383,
+    "duration": 1.627
+  },
+  {
+    "text": "The algorithms require us\nto specify everything in the objective.",
+    "start": 56.01,
+    "duration": 3.545
+  },
+  {
+    "text": "And if you say, can we fix the\nacidification of the oceans?",
+    "start": 59.555,
+    "duration": 3.42
+  },
+  {
+    "text": "Yeah, you could have a catalytic reaction\nthat does that extremely efficiently,",
+    "start": 62.975,
+    "duration": 4.046
+  },
+  {
+    "text": "but it consumes a quarter \nof the oxygen in the atmosphere,",
+    "start": 67.021,
+    "duration": 3.253
+  },
+  {
+    "text": "which would apparently cause us to die\nfairly slowly and unpleasantly",
+    "start": 70.274,
+    "duration": 3.712
+  },
+  {
+    "text": "over the course of several hours.",
+    "start": 73.986,
+    "duration": 1.752
+  },
+  {
+    "text": "So, how do we avoid this problem?",
+    "start": 75.78,
+    "duration": 3.211
+  },
+  {
+    "text": "You might say, okay, well, just be more\ncareful about specifying the objective—",
+    "start": 78.991,
+    "duration": 4.088
+  },
+  {
+    "text": "don’t forget the atmospheric oxygen.",
+    "start": 83.079,
+    "duration": 2.544
+  },
+  {
+    "text": "And then, of course, some side effect\nof the reaction in the ocean",
+    "start": 85.873,
+    "duration": 3.545
+  },
+  {
+    "text": "poisons all the fish.",
+    "start": 89.418,
+    "duration": 1.377
+  },
+  {
+    "text": "Okay, well I meant don’t kill\nthe fish either.",
+    "start": 90.795,
+    "duration": 2.669
+  },
+  {
+    "text": "And then, well, what about\nthe seaweed?",
+    "start": 93.464,
+    "duration": 1.919
+  },
+  {
+    "text": "Don’t do anything that’s going\nto cause all the seaweed to die.",
+    "start": 95.383,
+    "duration": 2.961
+  },
+  {
+    "text": "And on and on and on.",
+    "start": 98.344,
+    "duration": 1.21
+  },
+  {
+    "text": "And the reason that we don’t have to do\nthat with humans is that",
+    "start": 99.679,
+    "duration": 3.92
+  },
+  {
+    "text": "humans often know that they don’t know \nall the things that we care about.",
+    "start": 103.599,
+    "duration": 4.505
+  },
+  {
+    "text": "If you ask a human to get you\na cup of coffee,",
+    "start": 108.354,
+    "duration": 2.961
+  },
+  {
+    "text": "and you happen to be \nin the Hotel George Sand in Paris,",
+    "start": 111.315,
+    "duration": 2.878
+  },
+  {
+    "text": "where the coffee is 13 euros a cup,",
+    "start": 114.193,
+    "duration": 2.628
+  },
+  {
+    "text": "it’s entirely reasonable to come\nback and say, well, it’s 13 euros,",
+    "start": 116.821,
+    "duration": 4.171
+  },
+  {
+    "text": "are you sure you want it, \nor I could go next door and get one?",
+    "start": 120.992,
+    "duration": 2.961
+  },
+  {
+    "text": "And it’s a perfectly normal thing\nfor a person to do.",
+    "start": 123.953,
+    "duration": 2.878
+  },
+  {
+    "text": "To ask, I’m going to repaint your house—",
+    "start": 127.039,
+    "duration": 3.003
+  },
+  {
+    "text": "is it okay if I take off the drainpipes\nand then put them back?",
+    "start": 130.042,
+    "duration": 3.337
+  },
+  {
+    "text": "We don't think of this as a terribly\nsophisticated capability,",
+    "start": 133.504,
+    "duration": 3.128
+  },
+  {
+    "text": "but AI systems don’t have it \nbecause the way we build them now,",
+    "start": 136.632,
+    "duration": 3.087
+  },
+  {
+    "text": "they have to know the full objective.",
+    "start": 139.719,
+    "duration": 1.793
+  },
+  {
+    "text": "If we build systems that know that \nthey don’t know what the objective is,",
+    "start": 141.721,
+    "duration": 3.753
+  },
+  {
+    "text": "then they start to exhibit\nthese behaviors,",
+    "start": 145.474,
+    "duration": 2.586
+  },
+  {
+    "text": "like asking permission before getting rid\nof all the oxygen in the atmosphere.",
+    "start": 148.06,
+    "duration": 4.046
+  },
+  {
+    "text": "In all these senses, \ncontrol over the AI system",
+    "start": 152.565,
+    "duration": 3.378
+  },
+  {
+    "text": "comes from the machine’s uncertainty \nabout what the true objective is.",
+    "start": 155.943,
+    "duration": 4.463
+  },
+  {
+    "text": "And it’s when you build machines that\nbelieve with certainty",
+    "start": 161.282,
+    "duration": 3.086
+  },
+  {
+    "text": "that they have the objective,",
+    "start": 164.368,
+    "duration": 1.418
+  },
+  {
+    "text": "that’s when you get this\nsort of psychopathic behavior.",
+    "start": 165.786,
+    "duration": 2.753
+  },
+  {
+    "text": "And I think we see \nthe same thing in humans.",
+    "start": 168.539,
+    "duration": 2.127
+  },
+  {
+    "text": "What happens when general purpose AI\nhits the real economy?",
+    "start": 170.75,
+    "duration": 4.254
+  },
+  {
+    "text": "How do things change? Can we adapt?",
+    "start": 175.379,
+    "duration": 3.587
+  },
+  {
+    "text": "This is a very old point.",
+    "start": 179.175,
+    "duration": 1.835
+  },
+  {
+    "text": "Amazingly, Aristotle actually has\na passage where he says,",
+    "start": 181.01,
+    "duration": 3.587
+  },
+  {
+    "text": "look, if we had fully automated \nweaving machines",
+    "start": 184.597,
+    "duration": 3.045
+  },
+  {
+    "text": "and plectrums that could pluck the lyre \nand produce music without any humans,",
+    "start": 187.642,
+    "duration": 3.837
+  },
+  {
+    "text": "then we wouldn’t need any workers.",
+    "start": 191.604,
+    "duration": 2.002
+  },
+  {
+    "text": "That idea, which I think it was Keynes",
+    "start": 193.814,
+    "duration": 2.878
+  },
+  {
+    "text": "who called it technological unemployment \nin 1930,",
+    "start": 196.692,
+    "duration": 2.836
+  },
+  {
+    "text": "is very obvious to people.",
+    "start": 199.528,
+    "duration": 1.919
+  },
+  {
+    "text": "They think, yeah, of course, \nif the machine does the work,",
+    "start": 201.447,
+    "duration": 3.086
+  },
+  {
+    "text": "then I'm going to be unemployed.",
+    "start": 204.533,
+    "duration": 1.669
+  },
+  {
+    "text": "You can think about the warehouses \nthat companies are currently operating",
+    "start": 206.369,
+    "duration": 3.503
+  },
+  {
+    "text": "for e-commerce, \nthey are half automated.",
+    "start": 209.872,
+    "duration": 2.711
+  },
+  {
+    "text": "The way it works is that an old warehouse—\nwhere you’ve got tons of stuff piled up",
+    "start": 212.583,
+    "duration": 4.046
+  },
+  {
+    "text": "all over the place \nand humans go and rummage around",
+    "start": 216.629,
+    "duration": 2.461
+  },
+  {
+    "text": "and then bring it back and send it off—",
+    "start": 219.09,
+    "duration": 1.877
+  },
+  {
+    "text": "there’s a robot who goes\nand gets the shelving unit",
+    "start": 220.967,
+    "duration": 3.586
+  },
+  {
+    "text": "that contains the thing that you need,",
+    "start": 224.553,
+    "duration": 1.919
+  },
+  {
+    "text": "but the human has to pick the object \nout of the bin or off the shelf,",
+    "start": 226.472,
+    "duration": 3.629
+  },
+  {
+    "text": "because that’s still too difficult.",
+    "start": 230.101,
+    "duration": 1.877
+  },
+  {
+    "text": "But, at the same time,",
+    "start": 232.019,
+    "duration": 2.002
+  },
+  {
+    "text": "would you make a robot that is accurate\nenough to be able to pick",
+    "start": 234.021,
+    "duration": 3.921
+  },
+  {
+    "text": "pretty much any object within a very wide \nvariety of objects that you can buy?",
+    "start": 237.942,
+    "duration": 4.338
+  },
+  {
+    "text": "That would, at a stroke, \neliminate 3 or 4 million jobs?",
+    "start": 242.28,
+    "duration": 4.004
+  },
+  {
+    "text": "There's an interesting story\nthat E.M. Forster wrote,",
+    "start": 246.409,
+    "duration": 3.336
+  },
+  {
+    "text": "where everyone is entirely\nmachine dependent.",
+    "start": 249.745,
+    "duration": 3.504
+  },
+  {
+    "text": "The story is really about the\nfact that if you hand over",
+    "start": 253.499,
+    "duration": 3.754
+  },
+  {
+    "text": "the management of your civilization\nto machines,",
+    "start": 257.253,
+    "duration": 2.961
+  },
+  {
+    "text": "you then lose the incentive to understand\nit yourself",
+    "start": 260.214,
+    "duration": 3.504
+  },
+  {
+    "text": "or to teach the next generation \nhow to understand it.",
+    "start": 263.718,
+    "duration": 2.544
+  },
+  {
+    "text": "You can see “WALL-E”\nactually as a modern version,",
+    "start": 266.262,
+    "duration": 3.003
+  },
+  {
+    "text": "where everyone is enfeebled\nand infantilized by the machine,",
+    "start": 269.265,
+    "duration": 3.628
+  },
+  {
+    "text": "and that hasn’t been possible\nup to now.",
+    "start": 272.893,
+    "duration": 1.961
+  },
+  {
+    "text": "We put a lot of our civilization \ninto books,",
+    "start": 274.854,
+    "duration": 2.419
+  },
+  {
+    "text": "but the books can’t run it for us.",
+    "start": 277.273,
+    "duration": 1.626
+  },
+  {
+    "text": "And so we always have to teach\nthe next generation.",
+    "start": 278.899,
+    "duration": 2.795
+  },
+  {
+    "text": "If you work it out, it’s about a trillion\nperson years of teaching and learning",
+    "start": 281.736,
+    "duration": 4.212
+  },
+  {
+    "text": "and an unbroken chain that goes back \ntens of thousands of generations.",
+    "start": 285.948,
+    "duration": 3.962
+  },
+  {
+    "text": "What happens if that chain breaks?",
+    "start": 290.119,
+    "duration": 1.919
+  },
+  {
+    "text": "I think that’s something we have \nto understand as AI moves forward.",
+    "start": 292.038,
+    "duration": 3.461
+  },
+  {
+    "text": "The actual date of arrival\nof general purpose AI—",
+    "start": 295.624,
+    "duration": 3.587
+  },
+  {
+    "text": "you’re not going to be able to pinpoint,\nit isn’t a single day.",
+    "start": 299.211,
+    "duration": 3.087
+  },
+  {
+    "text": "It’s also not the case \nthat it’s all or nothing.",
+    "start": 302.298,
+    "duration": 2.294
+  },
+  {
+    "text": "The impact is going to be increasing.",
+    "start": 304.592,
+    "duration": 2.461
+  },
+  {
+    "text": "So with every advance in AI,",
+    "start": 307.053,
+    "duration": 2.043
+  },
+  {
+    "text": "it significantly expands\nthe range of tasks.",
+    "start": 309.096,
+    "duration": 2.962
+  },
+  {
+    "text": "So in that sense, I think most experts say\nby the end of the century,",
+    "start": 312.058,
+    "duration": 5.338
+  },
+  {
+    "text": "we’re very, very likely to have \ngeneral purpose AI.",
+    "start": 317.396,
+    "duration": 3.337
+  },
+  {
+    "text": "The median is something around 2045.",
+    "start": 320.733,
+    "duration": 3.754
+  },
+  {
+    "text": "I'm a little more on the\nconservative side.",
+    "start": 324.487,
+    "duration": 2.002
+  },
+  {
+    "text": "I think the problem is\nharder than we think.",
+    "start": 326.489,
+    "duration": 2.085
+  },
+  {
+    "text": "I like what John McAfee, \nhe was one of the founders of AI,",
+    "start": 328.574,
+    "duration": 3.253
+  },
+  {
+    "text": "when he was asked this question, he said, \nsomewhere between five and 500 years.",
+    "start": 331.911,
+    "duration": 3.837
+  },
+  {
+    "text": "And we're going to need, I think, several\nEinsteins to make it happen.",
+    "start": 335.748,
+    "duration": 3.337
+  }
+]

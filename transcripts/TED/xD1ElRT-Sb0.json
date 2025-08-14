@@ -1,0 +1,577 @@
+[
+  {
+    "text": "Modern engineering focuses\non rotating motors",
+    "start": 4.209,
+    "duration": 3.211
+  },
+  {
+    "text": "to power almost any machine.",
+    "start": 7.42,
+    "duration": 3.129
+  },
+  {
+    "text": "It has taken about 200 years",
+    "start": 10.59,
+    "duration": 2.252
+  },
+  {
+    "text": "for motors to become what they are today.",
+    "start": 12.884,
+    "duration": 3.003
+  },
+  {
+    "text": "And they're still loud\nand unnatural in their ways.",
+    "start": 16.346,
+    "duration": 3.337
+  },
+  {
+    "text": "The constant noise of machines",
+    "start": 20.267,
+    "duration": 2.627
+  },
+  {
+    "text": "causes problems\nfor living beings everywhere,",
+    "start": 22.936,
+    "duration": 3.295
+  },
+  {
+    "text": "both in the ocean and also on land.",
+    "start": 26.273,
+    "duration": 2.502
+  },
+  {
+    "text": "Humans who are constantly exposed to noise\ncan become stressed, depressed",
+    "start": 29.401,
+    "duration": 5.297
+  },
+  {
+    "text": "and even develop tinnitus.",
+    "start": 34.739,
+    "duration": 2.169
+  },
+  {
+    "text": "In contrast,",
+    "start": 38.159,
+    "duration": 1.585
+  },
+  {
+    "text": "there are no rotating motors in nature.",
+    "start": 39.786,
+    "duration": 3.003
+  },
+  {
+    "text": "Nature often smoothly,\nglides, swims or wiggles,",
+    "start": 43.623,
+    "duration": 4.338
+  },
+  {
+    "text": "without the rattling of rigid parts",
+    "start": 47.961,
+    "duration": 2.753
+  },
+  {
+    "text": "or the loud rubbing of surfaces.",
+    "start": 50.755,
+    "duration": 2.294
+  },
+  {
+    "text": "I believe we can and should rehaul\nour approach to how we make machines.",
+    "start": 53.842,
+    "duration": 5.964
+  },
+  {
+    "text": "Instead of using rigid\nor unnatural materials,",
+    "start": 60.181,
+    "duration": 4.171
+  },
+  {
+    "text": "what if we made biomimetic machines?",
+    "start": 64.394,
+    "duration": 2.961
+  },
+  {
+    "text": "Machines made of soft or living materials",
+    "start": 67.397,
+    "duration": 2.711
+  },
+  {
+    "text": "that are adaptive and safe to use\nin a variety of everyday tasks?",
+    "start": 70.108,
+    "duration": 5.088
+  },
+  {
+    "text": "Can you imagine boats\nor submarines that propel themselves",
+    "start": 76.865,
+    "duration": 3.503
+  },
+  {
+    "text": "by moving their tails from side to side,",
+    "start": 80.41,
+    "duration": 2.419
+  },
+  {
+    "text": "just like fish do?",
+    "start": 82.871,
+    "duration": 1.418
+  },
+  {
+    "text": "So to imitate these natural movements,",
+    "start": 84.998,
+    "duration": 3.503
+  },
+  {
+    "text": "we have to replace rotating motors",
+    "start": 88.543,
+    "duration": 2.336
+  },
+  {
+    "text": "and fast, spinning propellers",
+    "start": 90.92,
+    "duration": 2.378
+  },
+  {
+    "text": "with artificial muscles.",
+    "start": 93.34,
+    "duration": 1.668
+  },
+  {
+    "text": "And I can tell you this, this can be done.",
+    "start": 95.634,
+    "duration": 2.752
+  },
+  {
+    "text": "Our team of researchers\nat MIT and ETH Zurich",
+    "start": 99.679,
+    "duration": 3.879
+  },
+  {
+    "text": "has started to develop\nless disruptive robots",
+    "start": 103.558,
+    "duration": 2.753
+  },
+  {
+    "text": "by introducing a new, biomimetic way\nof moving through water.",
+    "start": 106.353,
+    "duration": 4.963
+  },
+  {
+    "text": "We created a biomimetic robotic fish.",
+    "start": 112.567,
+    "duration": 3.42
+  },
+  {
+    "text": "Her name is Sophie.",
+    "start": 116.571,
+    "duration": 1.877
+  },
+  {
+    "text": "She's the first demonstration\nof a fully untethered, soft robot",
+    "start": 120.325,
+    "duration": 3.67
+  },
+  {
+    "text": "that can explore the ocean\nwithout the need for propellers.",
+    "start": 124.037,
+    "duration": 3.712
+  },
+  {
+    "text": "Sophie pumps water back and forth\nwithin a highly deformable tail.",
+    "start": 132.253,
+    "duration": 4.964
+  },
+  {
+    "text": "Her tail movement imitates the natural\nswimming motion of real fish.",
+    "start": 140.261,
+    "duration": 4.839
+  },
+  {
+    "text": "Sophie's natural design allows her\nto closely monitor aquatic life.",
+    "start": 149.979,
+    "duration": 5.005
+  },
+  {
+    "text": "Now, there's a catch.",
+    "start": 156.236,
+    "duration": 2.377
+  },
+  {
+    "text": "Sophie is energy-hungry and loud.",
+    "start": 159.406,
+    "duration": 2.669
+  },
+  {
+    "text": "Yes, we successfully managed\nto build a robot that swims like a fish,",
+    "start": 162.701,
+    "duration": 4.462
+  },
+  {
+    "text": "but...",
+    "start": 167.205,
+    "duration": 1.126
+  },
+  {
+    "text": "Sophie requires a motor\nand a pump to properly work.",
+    "start": 172.794,
+    "duration": 5.005
+  },
+  {
+    "text": "Now we are replacing that motor and pump,",
+    "start": 180.677,
+    "duration": 2.836
+  },
+  {
+    "text": "which is noisy and not\ndesired in such a way,",
+    "start": 183.555,
+    "duration": 4.171
+  },
+  {
+    "text": "we're replacing it with silent,\nartificial muscles.",
+    "start": 187.767,
+    "duration": 3.796
+  },
+  {
+    "text": "These muscles are called HASELs.",
+    "start": 192.605,
+    "duration": 2.878
+  },
+  {
+    "text": "They directly and efficiently\nconvert electrical energy",
+    "start": 196.151,
+    "duration": 4.17
+  },
+  {
+    "text": "into muscle contractions.",
+    "start": 200.321,
+    "duration": 1.877
+  },
+  {
+    "text": "Take a look at this large muscle\nwe made to lift and lower a leg.",
+    "start": 203.116,
+    "duration": 5.005
+  },
+  {
+    "text": "A stack of flexible sheets\ncontracts and relaxes",
+    "start": 209.122,
+    "duration": 3.795
+  },
+  {
+    "text": "just like a thigh muscle does.",
+    "start": 212.959,
+    "duration": 2.336
+  },
+  {
+    "text": "Let me tell you how this works.",
+    "start": 218.506,
+    "duration": 1.627
+  },
+  {
+    "text": "So we take laminated sheets",
+    "start": 221.843,
+    "duration": 3.962
+  },
+  {
+    "text": "to create pouches.",
+    "start": 225.847,
+    "duration": 2.419
+  },
+  {
+    "text": "We have several of these pouches\nwithin a single muscle.",
+    "start": 228.266,
+    "duration": 2.961
+  },
+  {
+    "text": "We now take a conductive ink",
+    "start": 231.686,
+    "duration": 1.627
+  },
+  {
+    "text": "and spray-coat that ink\nonto these pouches,",
+    "start": 233.354,
+    "duration": 3.337
+  },
+  {
+    "text": "and then we inject them with oil.",
+    "start": 236.733,
+    "duration": 2.21
+  },
+  {
+    "text": "After having done this,",
+    "start": 241.905,
+    "duration": 1.293
+  },
+  {
+    "text": "we have a conductive ink that acts\nlike a flexible electrode",
+    "start": 243.198,
+    "duration": 4.254
+  },
+  {
+    "text": "that squeezes these liquid-filled pouches",
+    "start": 247.494,
+    "duration": 3.295
+  },
+  {
+    "text": "when a voltage is applied.",
+    "start": 250.83,
+    "duration": 1.669
+  },
+  {
+    "text": "Now, just like muscles with real fish,",
+    "start": 255.752,
+    "duration": 3.378
+  },
+  {
+    "text": "we take this kind of filmed muscles",
+    "start": 259.172,
+    "duration": 3.128
+  },
+  {
+    "text": "and pair them up as antagonistic pairs",
+    "start": 262.342,
+    "duration": 3.003
+  },
+  {
+    "text": "and put them into our soft\nrobotic fish design.",
+    "start": 265.345,
+    "duration": 3.712
+  },
+  {
+    "text": "We 3D-print the hull",
+    "start": 270.725,
+    "duration": 2.586
+  },
+  {
+    "text": "and the spine of this fish,",
+    "start": 273.353,
+    "duration": 1.835
+  },
+  {
+    "text": "using soft and rigid materials.",
+    "start": 278.066,
+    "duration": 3.462
+  },
+  {
+    "text": "The fish now swims silently",
+    "start": 283.613,
+    "duration": 3.086
+  },
+  {
+    "text": "by electrically charging the muscles\ninside of the fish",
+    "start": 286.699,
+    "duration": 3.337
+  },
+  {
+    "text": "in an alternating fashion\nfrom one side to the other.",
+    "start": 290.036,
+    "duration": 4.087
+  },
+  {
+    "text": "To improve our designs,",
+    "start": 295.333,
+    "duration": 2.169
+  },
+  {
+    "text": "we do not rely on tedious\ntrial and error fabrication.",
+    "start": 297.544,
+    "duration": 3.378
+  },
+  {
+    "text": "Instead, our software rapidly simulates",
+    "start": 301.798,
+    "duration": 4.671
+  },
+  {
+    "text": "and optimizes a design for performance",
+    "start": 306.469,
+    "duration": 3.796
+  },
+  {
+    "text": "before we have to build it.",
+    "start": 310.265,
+    "duration": 1.793
+  },
+  {
+    "text": "Our approach creates\na continuous design space",
+    "start": 314.644,
+    "duration": 4.463
+  },
+  {
+    "text": "that interpolates between existing\nfish designs to create new designs.",
+    "start": 319.148,
+    "duration": 4.463
+  },
+  {
+    "text": "Our optimization then explores\nthis continuous design space",
+    "start": 325.029,
+    "duration": 4.088
+  },
+  {
+    "text": "to come up with new and faster creatures\nwe have not seen before.",
+    "start": 329.158,
+    "duration": 4.463
+  },
+  {
+    "text": "Robots one day might even be made\nof living muscle cells.",
+    "start": 334.247,
+    "duration": 4.755
+  },
+  {
+    "text": "Wouldn't it be great if such a living\nrobot would then heal itself,",
+    "start": 339.043,
+    "duration": 5.673
+  },
+  {
+    "text": "just like human muscles do?",
+    "start": 344.757,
+    "duration": 1.752
+  },
+  {
+    "text": "I can tell you this.",
+    "start": 347.927,
+    "duration": 1.168
+  },
+  {
+    "text": "Starting from muscle cells,",
+    "start": 349.137,
+    "duration": 1.293
+  },
+  {
+    "text": "we can already print,\ngrow and stimulate muscles.",
+    "start": 350.471,
+    "duration": 4.547
+  },
+  {
+    "text": "We are now beginning to make\nthese muscles larger,",
+    "start": 356.311,
+    "duration": 3.628
+  },
+  {
+    "text": "longer-lasting and controllable.",
+    "start": 359.981,
+    "duration": 2.836
+  },
+  {
+    "text": "It’s a fascinating challenge\nto engineer a standalone muscle",
+    "start": 364.777,
+    "duration": 4.588
+  },
+  {
+    "text": "without a supporting organism",
+    "start": 369.365,
+    "duration": 1.752
+  },
+  {
+    "text": "that provides this muscle\nwith an immune system.",
+    "start": 371.117,
+    "duration": 2.795
+  },
+  {
+    "text": "These living muscles efficiently convert\nchemical energy that comes from nutrients",
+    "start": 375.997,
+    "duration": 6.256
+  },
+  {
+    "text": "into muscle contractions.",
+    "start": 382.295,
+    "duration": 1.96
+  },
+  {
+    "text": "Living muscles can eventually\nbecome sustainable",
+    "start": 385.506,
+    "duration": 3.129
+  },
+  {
+    "text": "and biodegradable machines",
+    "start": 388.676,
+    "duration": 1.752
+  },
+  {
+    "text": "that decrease emissions and pollution",
+    "start": 390.428,
+    "duration": 3.629
+  },
+  {
+    "text": "all while actually truly mimicking nature.",
+    "start": 394.057,
+    "duration": 3.211
+  },
+  {
+    "text": "So all of this,",
+    "start": 399.103,
+    "duration": 1.168
+  },
+  {
+    "text": "what I've told you, is possible",
+    "start": 400.271,
+    "duration": 2.211
+  },
+  {
+    "text": "with the knowledge that researchers\nand engineers have today.",
+    "start": 402.523,
+    "duration": 3.754
+  },
+  {
+    "text": "I believe we have to rethink\nevery machine ever invented",
+    "start": 407.654,
+    "duration": 3.962
+  },
+  {
+    "text": "from a holistic perspective.",
+    "start": 411.616,
+    "duration": 1.752
+  },
+  {
+    "text": "We have to rethink\nwhat the machine should do",
+    "start": 413.66,
+    "duration": 3.42
+  },
+  {
+    "text": "and what it should not do.",
+    "start": 417.121,
+    "duration": 1.919
+  },
+  {
+    "text": "I think we want machines\nthat safely integrate with us,",
+    "start": 420.5,
+    "duration": 3.17
+  },
+  {
+    "text": "improve our quality of life.",
+    "start": 423.67,
+    "duration": 2.752
+  },
+  {
+    "text": "All the while, we respect nature,",
+    "start": 426.422,
+    "duration": 3.254
+  },
+  {
+    "text": "and don't pollute our world\nwith loud noises.",
+    "start": 429.717,
+    "duration": 2.795
+  },
+  {
+    "text": "So let's reimagine machines\nto take on forms",
+    "start": 434.681,
+    "duration": 4.587
+  },
+  {
+    "text": "we have never thought of before",
+    "start": 439.268,
+    "duration": 2.795
+  },
+  {
+    "text": "and discover places\nwe have never been to before.",
+    "start": 442.105,
+    "duration": 3.42
+  },
+  {
+    "text": "Thank you.",
+    "start": 445.525,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 446.693,
+    "duration": 3.086
+  }
+]

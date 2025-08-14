@@ -1,0 +1,812 @@
+[
+  {
+    "text": "Three years ago,",
+    "start": 13.2,
+    "duration": 1.24
+  },
+  {
+    "text": "I started building a decentralized web",
+    "start": 14.48,
+    "duration": 3.016
+  },
+  {
+    "text": "because I was worried\nabout the future of our internet.",
+    "start": 17.52,
+    "duration": 3.28
+  },
+  {
+    "text": "The current internet we are using\nis about gatekeepers.",
+    "start": 21.68,
+    "duration": 2.616
+  },
+  {
+    "text": "If you want to reach something on the web,",
+    "start": 24.32,
+    "duration": 2.376
+  },
+  {
+    "text": "then you need to go\nthrough multiple middlemen.",
+    "start": 26.72,
+    "duration": 2.376
+  },
+  {
+    "text": "First, a domain name server,",
+    "start": 29.12,
+    "duration": 2.456
+  },
+  {
+    "text": "then a server hosting company,",
+    "start": 31.6,
+    "duration": 2.536
+  },
+  {
+    "text": "which usually points you to a third party,",
+    "start": 34.16,
+    "duration": 3.736
+  },
+  {
+    "text": "to a web hosting service.",
+    "start": 37.92,
+    "duration": 1.96
+  },
+  {
+    "text": "And this happens every time\nyou want to reach a website on the web.",
+    "start": 41.08,
+    "duration": 3.52
+  },
+  {
+    "text": "But these gatekeepers are\nvulnerable to internet attacks",
+    "start": 45.44,
+    "duration": 4.456
+  },
+  {
+    "text": "and also makes the censorship\nand the surveillance easier.",
+    "start": 49.92,
+    "duration": 3.8
+  },
+  {
+    "text": "And the situation is getting worse.",
+    "start": 55.04,
+    "duration": 1.72
+  },
+  {
+    "text": "Everything is moving to the cloud,",
+    "start": 57.84,
+    "duration": 1.696
+  },
+  {
+    "text": "where the data is hosted\nby giant corporations.",
+    "start": 59.56,
+    "duration": 3.08
+  },
+  {
+    "text": "This move creates much,\nmuch more powerful middlemen.",
+    "start": 63.4,
+    "duration": 4.28
+  },
+  {
+    "text": "Now, move to the cloud makes sense",
+    "start": 68.56,
+    "duration": 2.296
+  },
+  {
+    "text": "because this way it's easier and cheaper",
+    "start": 70.88,
+    "duration": 2.056
+  },
+  {
+    "text": "for the developers\nand the service operators.",
+    "start": 72.96,
+    "duration": 2.136
+  },
+  {
+    "text": "They don't have to worry\nabout maintaining the physical servers.",
+    "start": 75.12,
+    "duration": 4.2
+  },
+  {
+    "text": "I can't blame them, but I found\nthis trend to be very dangerous,",
+    "start": 80.72,
+    "duration": 5.216
+  },
+  {
+    "text": "because this way, these giant corporations",
+    "start": 85.96,
+    "duration": 2.256
+  },
+  {
+    "text": "have unlimited control\nover the hosting services.",
+    "start": 88.24,
+    "duration": 3.84
+  },
+  {
+    "text": "And it's very easy to abuse this power.",
+    "start": 92.92,
+    "duration": 3.0
+  },
+  {
+    "text": "For example, last year, a CEO of a company",
+    "start": 97.44,
+    "duration": 3.776
+  },
+  {
+    "text": "that acts as a gatekeeper\nfor nine million websites",
+    "start": 101.24,
+    "duration": 4.616
+  },
+  {
+    "text": "decided, after some public pressure,",
+    "start": 105.88,
+    "duration": 2.096
+  },
+  {
+    "text": "that one of the sites it manages,",
+    "start": 108.0,
+    "duration": 2.416
+  },
+  {
+    "text": "a far right page, should be blocked.",
+    "start": 110.44,
+    "duration": 2.6
+  },
+  {
+    "text": "He then sent an internal email\nto his coworkers.",
+    "start": 114.52,
+    "duration": 2.88
+  },
+  {
+    "text": "\"This was an arbitrary decision.",
+    "start": 119.0,
+    "duration": 2.2
+  },
+  {
+    "text": "I woke up this morning in a bad mood",
+    "start": 122.64,
+    "duration": 2.536
+  },
+  {
+    "text": "and decided to kick them\noff the Internet.\"",
+    "start": 125.2,
+    "duration": 2.64
+  },
+  {
+    "text": "Even he admits,",
+    "start": 129.96,
+    "duration": 1.896
+  },
+  {
+    "text": "\"No one should have this power.\"",
+    "start": 131.88,
+    "duration": 2.04
+  },
+  {
+    "text": "As a response, one of\nthe employees asked him,",
+    "start": 135.72,
+    "duration": 2.896
+  },
+  {
+    "text": "\"Is this the day the Internet dies?\"",
+    "start": 138.64,
+    "duration": 2.64
+  },
+  {
+    "text": "I don't think we are actually\nkilling the internet,",
+    "start": 143.8,
+    "duration": 2.416
+  },
+  {
+    "text": "but I do think that we are in the middle",
+    "start": 146.24,
+    "duration": 1.936
+  },
+  {
+    "text": "of a kind of irresponsible\ncentralization process",
+    "start": 148.2,
+    "duration": 2.776
+  },
+  {
+    "text": "that makes our internet more fragile.",
+    "start": 151.0,
+    "duration": 2.64
+  },
+  {
+    "text": "The decentralized, people-to-people web",
+    "start": 155.12,
+    "duration": 3.336
+  },
+  {
+    "text": "solves this problem\nby removing the central points,",
+    "start": 158.48,
+    "duration": 3.056
+  },
+  {
+    "text": "the web-hosting services.",
+    "start": 161.56,
+    "duration": 1.6
+  },
+  {
+    "text": "It empowers the users",
+    "start": 163.88,
+    "duration": 2.256
+  },
+  {
+    "text": "to have host sites they want to preserve.",
+    "start": 166.16,
+    "duration": 3.52
+  },
+  {
+    "text": "On this network, the sites get downloaded\ndirectly from other visitors.",
+    "start": 171.08,
+    "duration": 5.2
+  },
+  {
+    "text": "This means, if you have a site\nwith 100 visitors,",
+    "start": 177.12,
+    "duration": 2.336
+  },
+  {
+    "text": "then it's hosted\n[by] 100 computers around the world.",
+    "start": 179.48,
+    "duration": 3.2
+  },
+  {
+    "text": "Basically, this is a people-powered\nversion of the internet.",
+    "start": 184.04,
+    "duration": 5.36
+  },
+  {
+    "text": "The security of the network\nis provided by public-key cryptography.",
+    "start": 190.72,
+    "duration": 4.016
+  },
+  {
+    "text": "This makes sure that no one\ncan modify the sites",
+    "start": 194.76,
+    "duration": 3.496
+  },
+  {
+    "text": "but only the real owner.",
+    "start": 198.28,
+    "duration": 1.68
+  },
+  {
+    "text": "Think of it like instead of getting\nelectricity from big power plants,",
+    "start": 201.36,
+    "duration": 4.456
+  },
+  {
+    "text": "you put solar panels on top of your house,",
+    "start": 205.84,
+    "duration": 2.056
+  },
+  {
+    "text": "and if your neighbor down the street\nneeds some extra energy,",
+    "start": 207.92,
+    "duration": 2.896
+  },
+  {
+    "text": "then they can just download\nsome from your house.",
+    "start": 210.84,
+    "duration": 2.68
+  },
+  {
+    "text": "So by using the decentralized web,",
+    "start": 216.76,
+    "duration": 2.816
+  },
+  {
+    "text": "we can help to keep content\naccessible for other visitors.",
+    "start": 219.6,
+    "duration": 4.32
+  },
+  {
+    "text": "And by that, it means",
+    "start": 224.8,
+    "duration": 2.696
+  },
+  {
+    "text": "that we can also fight against things",
+    "start": 227.52,
+    "duration": 3.656
+  },
+  {
+    "text": "that we feel are unjust,",
+    "start": 231.2,
+    "duration": 1.64
+  },
+  {
+    "text": "like censorship.",
+    "start": 234.0,
+    "duration": 1.2
+  },
+  {
+    "text": "In China, the internet\nis tightly controlled.",
+    "start": 236.48,
+    "duration": 2.92
+  },
+  {
+    "text": "They can't criticize the government,",
+    "start": 240.6,
+    "duration": 3.856
+  },
+  {
+    "text": "organize a protest,",
+    "start": 244.48,
+    "duration": 2.016
+  },
+  {
+    "text": "and it's also forbidden to post",
+    "start": 246.52,
+    "duration": 2.736
+  },
+  {
+    "text": "a kind of emoticon to remember the victims\nof the Tiananmen Square Massacre.",
+    "start": 249.28,
+    "duration": 4.56
+  },
+  {
+    "text": "With the decentralized web,\nit's not the government that decides",
+    "start": 255.04,
+    "duration": 3.061
+  },
+  {
+    "text": "what gets seen and what doesn't.",
+    "start": 258.126,
+    "duration": 1.994
+  },
+  {
+    "text": "It's the people,",
+    "start": 261.08,
+    "duration": 2.016
+  },
+  {
+    "text": "which makes the web more democratic.",
+    "start": 263.12,
+    "duration": 2.16
+  },
+  {
+    "text": "But at the same time,\nit's hard to use this network",
+    "start": 266.6,
+    "duration": 2.416
+  },
+  {
+    "text": "to do something that is clearly illegal",
+    "start": 269.04,
+    "duration": 2.775
+  },
+  {
+    "text": "everywhere in the world,",
+    "start": 271.839,
+    "duration": 1.377
+  },
+  {
+    "text": "as the users probably\ndon't want to endanger themselves",
+    "start": 273.24,
+    "duration": 3.536
+  },
+  {
+    "text": "hosting these kinds\nof problematic content.",
+    "start": 276.8,
+    "duration": 2.48
+  },
+  {
+    "text": "Another increasing threat",
+    "start": 281.72,
+    "duration": 2.936
+  },
+  {
+    "text": "to internet freedom",
+    "start": 284.68,
+    "duration": 1.76
+  },
+  {
+    "text": "is overregulation.",
+    "start": 287.4,
+    "duration": 1.44
+  },
+  {
+    "text": "I have the impression",
+    "start": 291.16,
+    "duration": 2.096
+  },
+  {
+    "text": "that our delegates",
+    "start": 293.28,
+    "duration": 1.696
+  },
+  {
+    "text": "who vote on the internet regulation laws",
+    "start": 295.0,
+    "duration": 2.856
+  },
+  {
+    "text": "are not fully aware of their decisions.",
+    "start": 297.88,
+    "duration": 3.2
+  },
+  {
+    "text": "For example, the European Parliament\nhas a new law on the table,",
+    "start": 301.76,
+    "duration": 3.656
+  },
+  {
+    "text": "a new copyright protection law,",
+    "start": 305.44,
+    "duration": 1.976
+  },
+  {
+    "text": "that has a part called Article 13.",
+    "start": 307.44,
+    "duration": 2.64
+  },
+  {
+    "text": "If it passes, it would require\nevery big website",
+    "start": 311.68,
+    "duration": 4.336
+  },
+  {
+    "text": "to implement a filter",
+    "start": 316.04,
+    "duration": 2.256
+  },
+  {
+    "text": "that automatically blocks content",
+    "start": 318.32,
+    "duration": 3.296
+  },
+  {
+    "text": "based on rules controlled\nby big corporations.",
+    "start": 321.64,
+    "duration": 2.92
+  },
+  {
+    "text": "The original idea is\nto protect copyrighted materials,",
+    "start": 325.8,
+    "duration": 2.656
+  },
+  {
+    "text": "but it would endanger many other things\nwe do on the internet:",
+    "start": 328.48,
+    "duration": 3.496
+  },
+  {
+    "text": "blogging, criticizing,\ndiscussing, linking and sharing.",
+    "start": 332.0,
+    "duration": 3.52
+  },
+  {
+    "text": "Google and YouTube\nalready have similar systems",
+    "start": 336.76,
+    "duration": 3.816
+  },
+  {
+    "text": "and they are receiving\n100,000 takedown requests every hour.",
+    "start": 340.6,
+    "duration": 5.28
+  },
+  {
+    "text": "Of course, they can't process\nthis amount of data by hand,",
+    "start": 347.44,
+    "duration": 3.216
+  },
+  {
+    "text": "so they are using machine learning",
+    "start": 350.68,
+    "duration": 1.656
+  },
+  {
+    "text": "to decide if it's really\na copyright violation or not.",
+    "start": 352.36,
+    "duration": 2.56
+  },
+  {
+    "text": "But these filters do make mistakes.",
+    "start": 356.6,
+    "duration": 3.44
+  },
+  {
+    "text": "They're removing everything\nfrom documentation of human rights abuses,",
+    "start": 361.0,
+    "duration": 5.816
+  },
+  {
+    "text": "lectures about copyrights",
+    "start": 366.84,
+    "duration": 2.896
+  },
+  {
+    "text": "and search results",
+    "start": 369.76,
+    "duration": 2.216
+  },
+  {
+    "text": "that point to criticism\nof this new Article 13.",
+    "start": 372.0,
+    "duration": 5.04
+  },
+  {
+    "text": "Beside of that, they are also\nremoving many other things.",
+    "start": 378.84,
+    "duration": 2.76
+  },
+  {
+    "text": "And sometimes, these filters\naren't just removing the specific content,",
+    "start": 384.48,
+    "duration": 6.296
+  },
+  {
+    "text": "but it could also lead\nto loss of your linked accounts:",
+    "start": 390.8,
+    "duration": 4.776
+  },
+  {
+    "text": "your email address,\nyour documents, your photos,",
+    "start": 395.6,
+    "duration": 4.176
+  },
+  {
+    "text": "or your unfinished book,",
+    "start": 399.8,
+    "duration": 2.176
+  },
+  {
+    "text": "which happened\nwith the writer Dennis Cooper.",
+    "start": 402.0,
+    "duration": 2.72
+  },
+  {
+    "text": "It's not hard to see\nhow a system like this could be abused",
+    "start": 405.92,
+    "duration": 4.496
+  },
+  {
+    "text": "by politicians and corporate competitors.",
+    "start": 410.44,
+    "duration": 3.2
+  },
+  {
+    "text": "This Article 13, the extension of these\nautomated filters to the whole internet,",
+    "start": 415.76,
+    "duration": 6.296
+  },
+  {
+    "text": "got strong opposition",
+    "start": 422.08,
+    "duration": 2.136
+  },
+  {
+    "text": "from Wikipedia, Github,\nMozilla, and many others,",
+    "start": 424.24,
+    "duration": 5.376
+  },
+  {
+    "text": "including the original founders\nof the internet and the World Wide Web,",
+    "start": 429.64,
+    "duration": 5.536
+  },
+  {
+    "text": "Vint Cerf and Tim Berners-Lee.",
+    "start": 435.2,
+    "duration": 1.88
+  },
+  {
+    "text": "But despite this strong opposition,",
+    "start": 438.12,
+    "duration": 2.896
+  },
+  {
+    "text": "on the last European Parliament vote,",
+    "start": 441.04,
+    "duration": 2.376
+  },
+  {
+    "text": "two thirds of the representatives\nsupported this law.",
+    "start": 443.44,
+    "duration": 3.88
+  },
+  {
+    "text": "The final vote will be early 2019.",
+    "start": 449.08,
+    "duration": 2.72
+  },
+  {
+    "text": "The result is important,",
+    "start": 452.92,
+    "duration": 1.976
+  },
+  {
+    "text": "but whatever happens,",
+    "start": 454.92,
+    "duration": 2.696
+  },
+  {
+    "text": "I'm pretty sure it will be followed\nby many other similar proposals",
+    "start": 457.64,
+    "duration": 5.296
+  },
+  {
+    "text": "around the world.",
+    "start": 462.96,
+    "duration": 1.2
+  },
+  {
+    "text": "These kinds of regulations\nwould be very hard to enforce",
+    "start": 465.28,
+    "duration": 3.176
+  },
+  {
+    "text": "through a decentralized web,",
+    "start": 468.48,
+    "duration": 1.456
+  },
+  {
+    "text": "as there is no hosting companies.",
+    "start": 469.96,
+    "duration": 2.28
+  },
+  {
+    "text": "The websites are served\nby the visitors themselves.",
+    "start": 473.28,
+    "duration": 3.0
+  },
+  {
+    "text": "I started to build\nthis network three years ago.",
+    "start": 478.24,
+    "duration": 3.68
+  },
+  {
+    "text": "Since then, I've spent thousands,\ntens of thousands of hours",
+    "start": 483.12,
+    "duration": 4.256
+  },
+  {
+    "text": "on the development.",
+    "start": 487.4,
+    "duration": 1.2
+  },
+  {
+    "text": "Why?",
+    "start": 489.8,
+    "duration": 1.576
+  },
+  {
+    "text": "Why would anyone spend thousands of hours\non something anyone can freely copy,",
+    "start": 491.4,
+    "duration": 3.776
+  },
+  {
+    "text": "rename, or even sell?",
+    "start": 495.2,
+    "duration": 2.2
+  },
+  {
+    "text": "Well, in my case,",
+    "start": 499.6,
+    "duration": 1.736
+  },
+  {
+    "text": "one of the reasons was\nto do something meaningful.",
+    "start": 501.36,
+    "duration": 2.44
+  },
+  {
+    "text": "During my daily regular job\nas a web developer,",
+    "start": 504.72,
+    "duration": 2.536
+  },
+  {
+    "text": "I didn't have the feeling\nthat I'm working on something",
+    "start": 507.28,
+    "duration": 3.216
+  },
+  {
+    "text": "that had a chance to be a bigger than me.",
+    "start": 510.52,
+    "duration": 2.64
+  },
+  {
+    "text": "Simply, I just wanted to make\nmy short presence in this world",
+    "start": 515.0,
+    "duration": 3.816
+  },
+  {
+    "text": "to be meaningful.",
+    "start": 518.84,
+    "duration": 1.56
+  },
+  {
+    "text": "Last year, the Great Firewall of China\nstarted blocking this network I created.",
+    "start": 523.0,
+    "duration": 5.08
+  },
+  {
+    "text": "This move officially made me the enemy",
+    "start": 529.4,
+    "duration": 3.255
+  },
+  {
+    "text": "of the government-supported\ninternet censorship.",
+    "start": 532.679,
+    "duration": 3.441
+  },
+  {
+    "text": "Since then, it's been really\na game of cat and mouse.",
+    "start": 537.68,
+    "duration": 3.016
+  },
+  {
+    "text": "They make new rules in the firewall",
+    "start": 540.72,
+    "duration": 2.736
+  },
+  {
+    "text": "and I try to react to it as fast as I can",
+    "start": 543.48,
+    "duration": 3.016
+  },
+  {
+    "text": "so the users can keep hosting content\nand create websites",
+    "start": 546.52,
+    "duration": 4.096
+  },
+  {
+    "text": "that otherwise would be censored\nby the centralized Chinese internet.",
+    "start": 550.64,
+    "duration": 5.36
+  },
+  {
+    "text": "My other motivation\nto create this network was worry.",
+    "start": 557.68,
+    "duration": 4.08
+  },
+  {
+    "text": "I fear that the future of our internet\nis out of our control.",
+    "start": 563.08,
+    "duration": 5.216
+  },
+  {
+    "text": "The increasing centralization\nand the proposed laws",
+    "start": 568.32,
+    "duration": 3.416
+  },
+  {
+    "text": "are threatening our freedom of speech",
+    "start": 571.76,
+    "duration": 2.536
+  },
+  {
+    "text": "and, by that, our democracy.",
+    "start": 574.32,
+    "duration": 2.24
+  },
+  {
+    "text": "So for me, building a decentralized web",
+    "start": 577.44,
+    "duration": 3.336
+  },
+  {
+    "text": "means creating a safe harbor,",
+    "start": 580.8,
+    "duration": 3.216
+  },
+  {
+    "text": "a space where the rules are not written\nby big corporations and political parties,",
+    "start": 584.04,
+    "duration": 6.816
+  },
+  {
+    "text": "but by the people.",
+    "start": 590.88,
+    "duration": 1.76
+  },
+  {
+    "text": "Thank you.",
+    "start": 593.84,
+    "duration": 1.216
+  },
+  {
+    "text": "(Applause)",
+    "start": 595.08,
+    "duration": 4.4
+  }
+]

@@ -1,0 +1,1397 @@
+[
+  {
+    "text": "The technology and vision\nbehind generative AI is amazing,",
+    "start": 4.301,
+    "duration": 5.072
+  },
+  {
+    "text": "but stealing the work of the world's\ncreators to build it is not.",
+    "start": 9.373,
+    "duration": 3.771
+  },
+  {
+    "text": "There are three key things that AI\ncompanies need to build their models,",
+    "start": 14.078,
+    "duration": 4.972
+  },
+  {
+    "text": "three key resources --\npeople, compute and data.",
+    "start": 19.083,
+    "duration": 4.271
+  },
+  {
+    "text": "That is, engineers to build the models,",
+    "start": 24.121,
+    "duration": 2.937
+  },
+  {
+    "text": "GPUs to run the training process",
+    "start": 27.091,
+    "duration": 2.102
+  },
+  {
+    "text": "and data to train the models on.",
+    "start": 29.226,
+    "duration": 2.336
+  },
+  {
+    "text": "AI companies spend\nvast sums on the first two,",
+    "start": 32.696,
+    "duration": 5.005
+  },
+  {
+    "text": "sometimes a million dollars per engineer",
+    "start": 37.735,
+    "duration": 2.402
+  },
+  {
+    "text": "and up to a billion dollars per model.",
+    "start": 40.137,
+    "duration": 3.337
+  },
+  {
+    "text": "But they expect to take the third\nresource, training data, for free.",
+    "start": 43.507,
+    "duration": 5.439
+  },
+  {
+    "text": "Right now, many AI companies train\non creative work they haven't paid for",
+    "start": 48.979,
+    "duration": 4.772
+  },
+  {
+    "text": "or even asked permission to use.",
+    "start": 53.784,
+    "duration": 1.869
+  },
+  {
+    "text": "This is unfair and unsustainable.",
+    "start": 56.32,
+    "duration": 2.97
+  },
+  {
+    "text": "But if we reset,\nand license our training data,",
+    "start": 60.224,
+    "duration": 3.27
+  },
+  {
+    "text": "we can build a better generative AI\necosystem that works for everyone,",
+    "start": 63.527,
+    "duration": 3.704
+  },
+  {
+    "text": "both the AI companies themselves\nand the creators,",
+    "start": 67.264,
+    "duration": 3.304
+  },
+  {
+    "text": "without whose work\nthese models would not exist.",
+    "start": 70.601,
+    "duration": 2.636
+  },
+  {
+    "text": "Most AI companies today do not license\nthe majority of their training data.",
+    "start": 74.271,
+    "duration": 4.839
+  },
+  {
+    "text": "They use web scrapers to find, download",
+    "start": 79.143,
+    "duration": 2.402
+  },
+  {
+    "text": "and train on as much content\nas they can gather.",
+    "start": 81.579,
+    "duration": 3.036
+  },
+  {
+    "text": "They're often pretty secretive\nabout what they do train on,",
+    "start": 84.615,
+    "duration": 2.87
+  },
+  {
+    "text": "but what's clear is that training\non copyrighted work without a license",
+    "start": 87.485,
+    "duration": 4.037
+  },
+  {
+    "text": "is rife.",
+    "start": 91.555,
+    "duration": 1.268
+  },
+  {
+    "text": "For instance, when the Mozilla Foundation",
+    "start": 92.857,
+    "duration": 2.569
+  },
+  {
+    "text": "looked at 47 large language models\nreleased between 2019 and 2023,",
+    "start": 95.459,
+    "duration": 5.406
+  },
+  {
+    "text": "they found that 64 percent of them\nwere trained, in part, on Common Crawl,",
+    "start": 100.898,
+    "duration": 4.905
+  },
+  {
+    "text": "a dataset that includes copyrighted works,",
+    "start": 105.836,
+    "duration": 3.07
+  },
+  {
+    "text": "such as newspaper articles\nfrom major publications.",
+    "start": 108.939,
+    "duration": 2.403
+  },
+  {
+    "text": "And a further 21 percent didn’t reveal\nenough information to know either way.",
+    "start": 111.375,
+    "duration": 5.239
+  },
+  {
+    "text": "Training on copyrighted\nwork without a license",
+    "start": 117.982,
+    "duration": 2.302
+  },
+  {
+    "text": "has rapidly become standard\nacross much of the generative AI industry.",
+    "start": 120.284,
+    "duration": 4.404
+  },
+  {
+    "text": "But this training,",
+    "start": 124.722,
+    "duration": 1.601
+  },
+  {
+    "text": "this unlicensed training on creative work,",
+    "start": 126.357,
+    "duration": 2.903
+  },
+  {
+    "text": "has serious negative consequences\nfor the people behind that work.",
+    "start": 129.26,
+    "duration": 3.603
+  },
+  {
+    "text": "And this is for the simple reason",
+    "start": 132.863,
+    "duration": 1.969
+  },
+  {
+    "text": "that generative AI\ncompetes with its training data.",
+    "start": 134.832,
+    "duration": 3.337
+  },
+  {
+    "text": "This is not the narrative\nthat AI companies like to portray.",
+    "start": 138.202,
+    "duration": 3.27
+  },
+  {
+    "text": "We like to talk about democratization,\nabout letting more people be creative.",
+    "start": 141.505,
+    "duration": 3.637
+  },
+  {
+    "text": "But the fact that AI competes\nwith its training data is inescapable.",
+    "start": 145.176,
+    "duration": 3.87
+  },
+  {
+    "text": "A large language model\ntrained on short stories",
+    "start": 150.08,
+    "duration": 2.269
+  },
+  {
+    "text": "can create competing short stories.",
+    "start": 152.383,
+    "duration": 1.768
+  },
+  {
+    "text": "An AI image model trained on stock images\ncan create competing stock images.",
+    "start": 154.185,
+    "duration": 3.703
+  },
+  {
+    "text": "An AI music model trained on music\nthat's licensed to TV shows",
+    "start": 157.888,
+    "duration": 3.771
+  },
+  {
+    "text": "can create competing music\nto license to TV shows.",
+    "start": 161.659,
+    "duration": 2.836
+  },
+  {
+    "text": "These models, however imperfect,",
+    "start": 164.528,
+    "duration": 3.837
+  },
+  {
+    "text": "are so quick and easy to use\nthat this competition is inevitable.",
+    "start": 168.399,
+    "duration": 3.937
+  },
+  {
+    "text": "And this isn't just theoretical.",
+    "start": 173.27,
+    "duration": 1.869
+  },
+  {
+    "text": "Generative AI is still pretty new,",
+    "start": 175.172,
+    "duration": 2.269
+  },
+  {
+    "text": "but we're already seeing exactly\nthe sort of effects you'd expect",
+    "start": 177.474,
+    "duration": 3.27
+  },
+  {
+    "text": "in a world in which generative AI\ncompetes with its training data.",
+    "start": 180.778,
+    "duration": 4.237
+  },
+  {
+    "text": "For instance, the well-known filmmaker\nRam Gopal Varma recently said",
+    "start": 185.049,
+    "duration": 4.804
+  },
+  {
+    "text": "that he'll use AI music\nin all his projects going forward.",
+    "start": 189.853,
+    "duration": 3.704
+  },
+  {
+    "text": "Indeed, there are multiple reports\nof people starting to listen to AI music",
+    "start": 193.591,
+    "duration": 4.137
+  },
+  {
+    "text": "in place of human-produced music,",
+    "start": 197.761,
+    "duration": 1.635
+  },
+  {
+    "text": "and recently, an AI song hit number 48\nin the German charts.",
+    "start": 199.43,
+    "duration": 5.472
+  },
+  {
+    "text": "In all these cases, AI music is competing\nwith the songs it was trained on.",
+    "start": 204.935,
+    "duration": 5.205
+  },
+  {
+    "text": "Or take Kelly McKernan.",
+    "start": 210.174,
+    "duration": 2.636
+  },
+  {
+    "text": "Kelly is an artist from Nashville.",
+    "start": 212.843,
+    "duration": 2.77
+  },
+  {
+    "text": "For 10 years, they made\nenough money selling their work",
+    "start": 215.646,
+    "duration": 4.104
+  },
+  {
+    "text": "that art was their full-time income.",
+    "start": 219.783,
+    "duration": 1.836
+  },
+  {
+    "text": "But in 2022, a dataset\nthat included their works",
+    "start": 221.652,
+    "duration": 4.104
+  },
+  {
+    "text": "was used to train\na popular AI image model.",
+    "start": 225.756,
+    "duration": 3.837
+  },
+  {
+    "text": "Their name was one of many\nused by huge numbers of people",
+    "start": 231.362,
+    "duration": 5.038
+  },
+  {
+    "text": "to create art in the style\nof specific human artists.",
+    "start": 236.433,
+    "duration": 4.772
+  },
+  {
+    "text": "Kelly's income fell by 33 percent\nalmost overnight.",
+    "start": 241.238,
+    "duration": 3.871
+  },
+  {
+    "text": "Illustrators around the world\nreport similar stories,",
+    "start": 245.109,
+    "duration": 3.203
+  },
+  {
+    "text": "being outcompeted by AI models",
+    "start": 248.312,
+    "duration": 2.569
+  },
+  {
+    "text": "they have reason to believe\nwere trained on their work.",
+    "start": 250.914,
+    "duration": 3.571
+  },
+  {
+    "text": "The freelance platform Upwork\nwrote a white paper",
+    "start": 254.518,
+    "duration": 3.337
+  },
+  {
+    "text": "in which they looked at the effects,\nthat they've seen on the job market,",
+    "start": 257.888,
+    "duration": 4.138
+  },
+  {
+    "text": "of generative AI.",
+    "start": 262.026,
+    "duration": 2.002
+  },
+  {
+    "text": "They looked at how job postings\non their platform have changed",
+    "start": 264.028,
+    "duration": 3.136
+  },
+  {
+    "text": "since the introduction of ChatGPT,",
+    "start": 267.197,
+    "duration": 1.669
+  },
+  {
+    "text": "and sure enough, they found\nexactly what you'd expect,",
+    "start": 268.866,
+    "duration": 2.903
+  },
+  {
+    "text": "that generative AI has reduced the demand\nfor freelance writing tasks by 8 percent,",
+    "start": 271.769,
+    "duration": 4.804
+  },
+  {
+    "text": "which increases to 18 percent",
+    "start": 276.607,
+    "duration": 2.469
+  },
+  {
+    "text": "if you look at only what they term\nlower-value tasks.",
+    "start": 279.109,
+    "duration": 2.836
+  },
+  {
+    "text": "So the initial data we have,\nplus the individual stories we hear,",
+    "start": 281.979,
+    "duration": 6.373
+  },
+  {
+    "text": "all align with the logical assumption:",
+    "start": 288.385,
+    "duration": 1.835
+  },
+  {
+    "text": "\"Generative AI competes\nwith the work it's trained on.\"",
+    "start": 290.254,
+    "duration": 2.936
+  },
+  {
+    "text": "It's so quick and easy to use,\nit's inevitable,",
+    "start": 293.223,
+    "duration": 2.803
+  },
+  {
+    "text": "and it competes\nwith the people behind that work.",
+    "start": 296.06,
+    "duration": 2.636
+  },
+  {
+    "text": "Now creators argue\nthis training is illegal.",
+    "start": 298.729,
+    "duration": 3.704
+  },
+  {
+    "text": "The legal framework of copyright",
+    "start": 302.433,
+    "duration": 1.568
+  },
+  {
+    "text": "affords creators the exclusive right\nto authorize copies of their work,",
+    "start": 304.034,
+    "duration": 4.071
+  },
+  {
+    "text": "and AI training involves copying.",
+    "start": 308.138,
+    "duration": 3.47
+  },
+  {
+    "text": "Here, in the US, many AI companies argue",
+    "start": 311.642,
+    "duration": 3.17
+  },
+  {
+    "text": "that training AI falls\nunder the fair use copyright exception,",
+    "start": 314.845,
+    "duration": 4.204
+  },
+  {
+    "text": "which allows unlicensed copying\nin a limited set of circumstances,",
+    "start": 319.083,
+    "duration": 4.137
+  },
+  {
+    "text": "such as creating parodies of a work.",
+    "start": 323.253,
+    "duration": 2.203
+  },
+  {
+    "text": "Creators and rights holders\nstrongly disagree,",
+    "start": 326.523,
+    "duration": 3.137
+  },
+  {
+    "text": "saying there's no way\nthis narrow exception can be used",
+    "start": 329.693,
+    "duration": 3.037
+  },
+  {
+    "text": "to legitimize the mass\nexploitation of creative work",
+    "start": 332.763,
+    "duration": 4.905
+  },
+  {
+    "text": "to create automated\ncompetitors to that work.",
+    "start": 337.701,
+    "duration": 2.102
+  },
+  {
+    "text": "And for the record, I entirely agree.",
+    "start": 339.837,
+    "duration": 3.436
+  },
+  {
+    "text": "Of course, this question\nis previously untested in the courts,",
+    "start": 343.307,
+    "duration": 3.804
+  },
+  {
+    "text": "and there are currently\naround 30 ongoing lawsuits",
+    "start": 347.111,
+    "duration": 2.535
+  },
+  {
+    "text": "brought by rights holders\nagainst AI companies,",
+    "start": 349.68,
+    "duration": 2.769
+  },
+  {
+    "text": "which will help to address this question.",
+    "start": 352.483,
+    "duration": 2.569
+  },
+  {
+    "text": "But this will take time,\nand creators are suffering",
+    "start": 355.085,
+    "duration": 2.87
+  },
+  {
+    "text": "from what they see\nas unjust competition right now.",
+    "start": 357.988,
+    "duration": 3.971
+  },
+  {
+    "text": "So they propose a solution\nthat has been used and worked before --",
+    "start": 361.992,
+    "duration": 5.205
+  },
+  {
+    "text": "licensing.",
+    "start": 367.197,
+    "duration": 1.569
+  },
+  {
+    "text": "If a commercial entity\nwants to use copyrighted work,",
+    "start": 368.799,
+    "duration": 3.87
+  },
+  {
+    "text": "be it for merchandise manufacturing\nor building a streaming service,",
+    "start": 372.669,
+    "duration": 3.504
+  },
+  {
+    "text": "they license that work.",
+    "start": 376.206,
+    "duration": 1.435
+  },
+  {
+    "text": "Now AI companies have a bunch of reasons\nwhy this shouldn’t apply to them.",
+    "start": 377.674,
+    "duration": 5.306
+  },
+  {
+    "text": "There’s the fair use legal exception\nthat I’ve already mentioned.",
+    "start": 383.013,
+    "duration": 5.439
+  },
+  {
+    "text": "There's also the argument",
+    "start": 389.686,
+    "duration": 1.469
+  },
+  {
+    "text": "that since humans can train\non copyrighted work without a license,",
+    "start": 391.188,
+    "duration": 4.004
+  },
+  {
+    "text": "AI should be allowed to, too.",
+    "start": 395.225,
+    "duration": 1.569
+  },
+  {
+    "text": "But this is a very hard claim to justify.",
+    "start": 396.827,
+    "duration": 3.27
+  },
+  {
+    "text": "Artists have been learning\nfrom each other for centuries.",
+    "start": 400.13,
+    "duration": 2.736
+  },
+  {
+    "text": "When you create, you expect\nother people to learn from you.",
+    "start": 402.9,
+    "duration": 4.304
+  },
+  {
+    "text": "You learn from a range of sources,",
+    "start": 407.237,
+    "duration": 1.669
+  },
+  {
+    "text": "from other art to textbooks\nto taking lessons.",
+    "start": 408.939,
+    "duration": 2.87
+  },
+  {
+    "text": "Much of this you or someone else paid for,",
+    "start": 411.842,
+    "duration": 2.169
+  },
+  {
+    "text": "supporting the entire ecosystem.",
+    "start": 414.011,
+    "duration": 1.768
+  },
+  {
+    "text": "In generative AI,",
+    "start": 415.813,
+    "duration": 2.035
+  },
+  {
+    "text": "commercial entities valued\nat millions or billions of dollars",
+    "start": 417.881,
+    "duration": 3.137
+  },
+  {
+    "text": "scrape as much content as they can,",
+    "start": 421.018,
+    "duration": 2.302
+  },
+  {
+    "text": "often against creators' will,\nwithout payment,",
+    "start": 423.353,
+    "duration": 2.436
+  },
+  {
+    "text": "making multiple copies along the way --",
+    "start": 425.823,
+    "duration": 3.103
+  },
+  {
+    "text": "which are subject to copyright law --",
+    "start": 428.959,
+    "duration": 2.369
+  },
+  {
+    "text": "to create a highly scalable competitor\nto what they're copying.",
+    "start": 431.361,
+    "duration": 3.27
+  },
+  {
+    "text": "So scalable, in fact,\nthat there are AI image generators",
+    "start": 434.631,
+    "duration": 3.17
+  },
+  {
+    "text": "estimated to be making\n2.5 million images a day",
+    "start": 437.835,
+    "duration": 3.47
+  },
+  {
+    "text": "and AI song generators\noutputting 10 songs a second.",
+    "start": 441.338,
+    "duration": 2.736
+  },
+  {
+    "text": "To argue that human learning\nand AI training are the same",
+    "start": 444.107,
+    "duration": 2.77
+  },
+  {
+    "text": "and should be treated the same",
+    "start": 446.91,
+    "duration": 1.569
+  },
+  {
+    "text": "is preposterous.",
+    "start": 448.512,
+    "duration": 1.268
+  },
+  {
+    "text": "AI companies also argue",
+    "start": 451.281,
+    "duration": 2.203
+  },
+  {
+    "text": "that licensing their training data\nwould be impractical.",
+    "start": 453.517,
+    "duration": 3.103
+  },
+  {
+    "text": "They use so much training data, they say,",
+    "start": 456.62,
+    "duration": 2.169
+  },
+  {
+    "text": "that individual payments to each creator\nbehind the data would be small.",
+    "start": 458.789,
+    "duration": 4.504
+  },
+  {
+    "text": "But this is true of many\ncontent-licensing markets.",
+    "start": 463.327,
+    "duration": 3.069
+  },
+  {
+    "text": "Creators still want to get paid,\neven if the payments are small.",
+    "start": 466.43,
+    "duration": 3.036
+  },
+  {
+    "text": "AI companies also argue\nthat they simply use too much data",
+    "start": 470.234,
+    "duration": 3.069
+  },
+  {
+    "text": "for licensing to even be feasible.",
+    "start": 473.337,
+    "duration": 2.435
+  },
+  {
+    "text": "But this is harder and harder to believe",
+    "start": 476.44,
+    "duration": 2.102
+  },
+  {
+    "text": "in a world in which\nthere is such a range of datasets",
+    "start": 478.575,
+    "duration": 3.203
+  },
+  {
+    "text": "that you can access with permission.",
+    "start": 481.812,
+    "duration": 3.036
+  },
+  {
+    "text": "You can license data from media companies.",
+    "start": 484.848,
+    "duration": 2.069
+  },
+  {
+    "text": "There have been 27 major deals",
+    "start": 486.95,
+    "duration": 2.436
+  },
+  {
+    "text": "between AI companies\nand rights holders in the last year alone,",
+    "start": 489.419,
+    "duration": 3.204
+  },
+  {
+    "text": "and that's to say nothing of the smaller\nones that don't get reported.",
+    "start": 492.656,
+    "duration": 3.337
+  },
+  {
+    "text": "There are marketplaces of training data\nwhere you can get more data.",
+    "start": 496.026,
+    "duration": 3.203
+  },
+  {
+    "text": "You can expand this with data\nthat's in the public domain --",
+    "start": 499.229,
+    "duration": 3.203
+  },
+  {
+    "text": "that is, in which no copyright exists,",
+    "start": 502.466,
+    "duration": 2.202
+  },
+  {
+    "text": "like the 500-billion-word\ndataset Common Corpus.",
+    "start": 504.668,
+    "duration": 4.338
+  },
+  {
+    "text": "You can expand this further\nwith synthetic data,",
+    "start": 509.006,
+    "duration": 2.903
+  },
+  {
+    "text": "that is, data that's created\nitself by an AI model,",
+    "start": 511.942,
+    "duration": 3.27
+  },
+  {
+    "text": "in which usually no copyright exists.",
+    "start": 515.212,
+    "duration": 2.636
+  },
+  {
+    "text": "So there are multiple options\navailable to you",
+    "start": 517.881,
+    "duration": 2.236
+  },
+  {
+    "text": "if you want to build your model\nwithout infringing copyright.",
+    "start": 520.15,
+    "duration": 3.003
+  },
+  {
+    "text": "But the strongest evidence",
+    "start": 524.321,
+    "duration": 1.401
+  },
+  {
+    "text": "that it's possible\nto license all your data",
+    "start": 525.756,
+    "duration": 3.17
+  },
+  {
+    "text": "is that there are multiple companies\ndoing it already.",
+    "start": 528.926,
+    "duration": 2.569
+  },
+  {
+    "text": "I know, because I've done it myself.",
+    "start": 531.528,
+    "duration": 1.735
+  },
+  {
+    "text": "I've worked in what we now call\ngenerative AI for over a decade,",
+    "start": 533.297,
+    "duration": 3.336
+  },
+  {
+    "text": "and last September,",
+    "start": 536.667,
+    "duration": 1.334
+  },
+  {
+    "text": "my team at Stability AI\nreleased an AI music model",
+    "start": 538.001,
+    "duration": 3.938
+  },
+  {
+    "text": "that trained on licensed music.",
+    "start": 541.972,
+    "duration": 2.069
+  },
+  {
+    "text": "A number of other companies\nhave done the same thing,",
+    "start": 546.31,
+    "duration": 3.103
+  },
+  {
+    "text": "and I founded Fairly Trained\nin order to highlight this fact,",
+    "start": 549.446,
+    "duration": 3.704
+  },
+  {
+    "text": "and these companies.",
+    "start": 553.183,
+    "duration": 1.602
+  },
+  {
+    "text": "Fairly Trained is a nonprofit\nthat certifies generative AI companies",
+    "start": 555.586,
+    "duration": 4.704
+  },
+  {
+    "text": "that don't train on copyrighted work\nwithout a license.",
+    "start": 560.29,
+    "duration": 2.77
+  },
+  {
+    "text": "We launched in January of this year,\nand we've already certified 18 companies.",
+    "start": 563.093,
+    "duration": 4.071
+  },
+  {
+    "text": "Now these companies\ntake a variety of approaches",
+    "start": 567.164,
+    "duration": 2.436
+  },
+  {
+    "text": "to licensing their training data.",
+    "start": 569.633,
+    "duration": 1.601
+  },
+  {
+    "text": "We have an AI voice model that's trained\non individual voices it's licensed.",
+    "start": 571.234,
+    "duration": 5.039
+  },
+  {
+    "text": "We have an AI music model that's licensed\nmore than 40 music catalogs.",
+    "start": 576.306,
+    "duration": 4.138
+  },
+  {
+    "text": "We have a large language model",
+    "start": 580.477,
+    "duration": 1.535
+  },
+  {
+    "text": "that's trained only on data\nin the public domain,",
+    "start": 582.045,
+    "duration": 2.403
+  },
+  {
+    "text": "mostly from government\ndocuments and records.",
+    "start": 584.481,
+    "duration": 2.136
+  },
+  {
+    "text": "We have companies who have paid\nupfront fees for their data.",
+    "start": 586.65,
+    "duration": 4.871
+  },
+  {
+    "text": "We have companies who share\ntheir revenue with their data providers.",
+    "start": 592.356,
+    "duration": 3.47
+  },
+  {
+    "text": "There is no one answer\nto the exact specifics",
+    "start": 595.826,
+    "duration": 3.57
+  },
+  {
+    "text": "of how one of these\nlicensing deals has to work.",
+    "start": 599.396,
+    "duration": 2.836
+  },
+  {
+    "text": "The beauty of licensing\nis that the two parties can come together",
+    "start": 602.265,
+    "duration": 3.27
+  },
+  {
+    "text": "and figure out what works for them.",
+    "start": 605.569,
+    "duration": 1.735
+  },
+  {
+    "text": "And this is happening more and more now.",
+    "start": 607.337,
+    "duration": 1.935
+  },
+  {
+    "text": "You will hear that a requirement\nto license training data",
+    "start": 609.306,
+    "duration": 3.47
+  },
+  {
+    "text": "somehow stifles innovation,",
+    "start": 612.809,
+    "duration": 2.069
+  },
+  {
+    "text": "that it's only the big\nAI companies that can afford",
+    "start": 614.878,
+    "duration": 2.503
+  },
+  {
+    "text": "these huge upfront licensing fees.",
+    "start": 617.414,
+    "duration": 1.969
+  },
+  {
+    "text": "But in reality, it's the smaller start-ups",
+    "start": 619.383,
+    "duration": 2.902
+  },
+  {
+    "text": "who are bothering\nto license all their data,",
+    "start": 622.319,
+    "duration": 2.803
+  },
+  {
+    "text": "and they're doing so, often,\nwithout hefty upfront licensing fees,",
+    "start": 625.155,
+    "duration": 3.136
+  },
+  {
+    "text": "but using models such as revenue shares.",
+    "start": 628.325,
+    "duration": 3.07
+  },
+  {
+    "text": "And there's another major upside\nto licensing your training data.",
+    "start": 632.996,
+    "duration": 3.07
+  },
+  {
+    "text": "All of this training on copyrighted work",
+    "start": 636.099,
+    "duration": 3.971
+  },
+  {
+    "text": "is forcing publishers\nto shut off access to their content.",
+    "start": 640.103,
+    "duration": 4.138
+  },
+  {
+    "text": "The Data Provenance Initiative",
+    "start": 644.274,
+    "duration": 1.802
+  },
+  {
+    "text": "looked at 14,000 websites\ncommonly used in AI training sets,",
+    "start": 646.109,
+    "duration": 4.238
+  },
+  {
+    "text": "and they found that,\nover the course of a single year,",
+    "start": 650.347,
+    "duration": 2.636
+  },
+  {
+    "text": "looking at only the domains\nof the highest value for AI training,",
+    "start": 653.016,
+    "duration": 4.338
+  },
+  {
+    "text": "the number that was restricted\nvia opt-outs or terms of service",
+    "start": 657.387,
+    "duration": 4.004
+  },
+  {
+    "text": "increased from three percent\nto between 20 and 33 percent.",
+    "start": 661.391,
+    "duration": 4.805
+  },
+  {
+    "text": "The web is being gradually closed\ndue to unlicensed training.",
+    "start": 666.196,
+    "duration": 3.637
+  },
+  {
+    "text": "Now this is bad for new AI models,\nfor new entrants to the market,",
+    "start": 669.866,
+    "duration": 3.17
+  },
+  {
+    "text": "but also for everyone --",
+    "start": 673.07,
+    "duration": 1.601
+  },
+  {
+    "text": "researchers, consumers and more,\nwho benefit from an open internet.",
+    "start": 674.705,
+    "duration": 4.07
+  },
+  {
+    "text": "It should come as no surprise",
+    "start": 680.51,
+    "duration": 1.402
+  },
+  {
+    "text": "that the general public do not agree\nwith AI companies",
+    "start": 681.945,
+    "duration": 3.07
+  },
+  {
+    "text": "about what they can train their models on.",
+    "start": 685.048,
+    "duration": 2.436
+  },
+  {
+    "text": "One poll from the AI\nPolicy Institute, in April,",
+    "start": 687.517,
+    "duration": 3.17
+  },
+  {
+    "text": "asked people about the common\npolicy among AI companies",
+    "start": 690.721,
+    "duration": 3.169
+  },
+  {
+    "text": "of training on publicly available data.",
+    "start": 693.924,
+    "duration": 2.969
+  },
+  {
+    "text": "This is data that is openly\navailable online,",
+    "start": 696.927,
+    "duration": 3.036
+  },
+  {
+    "text": "which of course includes\na lot of copyrighted work,",
+    "start": 699.996,
+    "duration": 2.436
+  },
+  {
+    "text": "like news articles\nand, often, pirated media.",
+    "start": 702.466,
+    "duration": 3.036
+  },
+  {
+    "text": "60 percent of people\nsaid this should not be allowed",
+    "start": 705.535,
+    "duration": 3.704
+  },
+  {
+    "text": "versus only 19 percent who said it should.",
+    "start": 709.272,
+    "duration": 3.037
+  },
+  {
+    "text": "The same poll went on to ask",
+    "start": 712.309,
+    "duration": 2.402
+  },
+  {
+    "text": "whether AI companies\nshould compensate data providers.",
+    "start": 714.745,
+    "duration": 3.97
+  },
+  {
+    "text": "74 percent said yes,\nand only nine percent said no.",
+    "start": 718.749,
+    "duration": 5.305
+  },
+  {
+    "text": "Time and time again,\nwhen we ask the public these questions,",
+    "start": 724.087,
+    "duration": 3.671
+  },
+  {
+    "text": "they show support for requirements\naround permission and payment,",
+    "start": 727.791,
+    "duration": 4.972
+  },
+  {
+    "text": "and a rejection of the notion",
+    "start": 732.796,
+    "duration": 1.435
+  },
+  {
+    "text": "that something being publicly available\nsomehow makes it fair game.",
+    "start": 734.264,
+    "duration": 3.47
+  },
+  {
+    "text": "And the people who make the art\nthat society consumes feel the same way.",
+    "start": 739.336,
+    "duration": 4.237
+  },
+  {
+    "text": "Today, we launched\na \"Statement on AI Training,\"",
+    "start": 743.607,
+    "duration": 3.703
+  },
+  {
+    "text": "a short, simple open letter,\nwhich simply reads:",
+    "start": 747.31,
+    "duration": 4.338
+  },
+  {
+    "text": "“The unlicensed use of creative works\nfor training generative AI ",
+    "start": 751.681,
+    "duration": 3.571
+  },
+  {
+    "text": "is a major, unjust threat\nto the livelihoods",
+    "start": 755.285,
+    "duration": 2.503
+  },
+  {
+    "text": "of the people behind those works,",
+    "start": 757.821,
+    "duration": 1.735
+  },
+  {
+    "text": "and must not be permitted.\"",
+    "start": 759.589,
+    "duration": 2.303
+  },
+  {
+    "text": "This has already been signed by 11,000\nand counting creators around the world,",
+    "start": 762.225,
+    "duration": 4.638
+  },
+  {
+    "text": "including Nobel-winning authors,",
+    "start": 766.897,
+    "duration": 2.235
+  },
+  {
+    "text": "Academy Award-winning actors\nand Oscar-winning composers.",
+    "start": 769.132,
+    "duration": 2.803
+  },
+  {
+    "text": "And if you agree with this sentiment,",
+    "start": 771.968,
+    "duration": 1.869
+  },
+  {
+    "text": "I encourage you to sign it today\nat aitrainingstatement.org.",
+    "start": 773.87,
+    "duration": 2.937
+  },
+  {
+    "text": "What this statement and previous\nones like it make abundantly clear",
+    "start": 776.84,
+    "duration": 3.937
+  },
+  {
+    "text": "is that these artists, these creators,",
+    "start": 780.811,
+    "duration": 2.302
+  },
+  {
+    "text": "view the unlicensed training\non their work by generative AI models",
+    "start": 783.113,
+    "duration": 3.37
+  },
+  {
+    "text": "as totally unjust and potentially\ncatastrophic to their professions.",
+    "start": 786.516,
+    "duration": 4.571
+  },
+  {
+    "text": "So if you are an advocate\nfor unlicensed AI training,",
+    "start": 791.121,
+    "duration": 4.004
+  },
+  {
+    "text": "just remember that the people who wrote\nthe music that you are listening to",
+    "start": 795.158,
+    "duration": 4.838
+  },
+  {
+    "text": "and the books you’re reading",
+    "start": 800.03,
+    "duration": 1.768
+  },
+  {
+    "text": "probably disagree. ",
+    "start": 801.798,
+    "duration": 1.468
+  },
+  {
+    "text": "So where does this leave us?",
+    "start": 804.634,
+    "duration": 1.435
+  },
+  {
+    "text": "Well, right now,\nmany of the world's artists,",
+    "start": 806.102,
+    "duration": 2.503
+  },
+  {
+    "text": "writers, musicians, creators",
+    "start": 808.605,
+    "duration": 2.002
+  },
+  {
+    "text": "straight-up hate generative AI.",
+    "start": 810.607,
+    "duration": 2.369
+  },
+  {
+    "text": "And we know, from their own words,\nthat one of the reasons for this",
+    "start": 812.976,
+    "duration": 3.403
+  },
+  {
+    "text": "is that we're training on their work\nwithout asking them.",
+    "start": 816.413,
+    "duration": 3.003
+  },
+  {
+    "text": "But it doesn't have to be this way.",
+    "start": 819.449,
+    "duration": 2.302
+  },
+  {
+    "text": "The AI industry\nand the creative industries",
+    "start": 821.785,
+    "duration": 2.069
+  },
+  {
+    "text": "can be and should be mutually beneficial.",
+    "start": 823.887,
+    "duration": 2.369
+  },
+  {
+    "text": "But for this mutually beneficial\nrelationship to emerge,",
+    "start": 826.256,
+    "duration": 4.204
+  },
+  {
+    "text": "we have to start\nfrom a position of respect",
+    "start": 830.46,
+    "duration": 2.77
+  },
+  {
+    "text": "for the value of the works\nbeing trained on",
+    "start": 833.263,
+    "duration": 2.102
+  },
+  {
+    "text": "and the rights of the people\nwho made them.",
+    "start": 835.398,
+    "duration": 2.803
+  },
+  {
+    "text": "I'm not arguing that all AI\ndevelopment should be halted.",
+    "start": 839.002,
+    "duration": 3.27
+  },
+  {
+    "text": "I'm not arguing that AI should not exist.",
+    "start": 842.305,
+    "duration": 2.069
+  },
+  {
+    "text": "What I'm arguing is that the resources\nused to build generative AI",
+    "start": 844.374,
+    "duration": 4.071
+  },
+  {
+    "text": "should be paid for.",
+    "start": 848.478,
+    "duration": 1.502
+  },
+  {
+    "text": "Licensing is hard work.",
+    "start": 850.413,
+    "duration": 2.136
+  },
+  {
+    "text": "It will slow you down in the short term,",
+    "start": 852.549,
+    "duration": 1.968
+  },
+  {
+    "text": "but you'll ultimately reach\nexactly the same point --",
+    "start": 854.551,
+    "duration": 2.569
+  },
+  {
+    "text": "models that are just as capable,\njust as powerful --",
+    "start": 857.153,
+    "duration": 2.436
+  },
+  {
+    "text": "and you'll do so without\nforcing the world's publishers",
+    "start": 859.623,
+    "duration": 4.037
+  },
+  {
+    "text": "to batten down the hatches\nand destroy the commons,",
+    "start": 863.693,
+    "duration": 3.37
+  },
+  {
+    "text": "and without pitting\nthe world's creators against you.",
+    "start": 867.063,
+    "duration": 3.571
+  },
+  {
+    "text": "So I hope that more AI companies\nwill follow the example",
+    "start": 870.667,
+    "duration": 4.404
+  },
+  {
+    "text": "set by those we've certified\nat Fairly Trained,",
+    "start": 875.105,
+    "duration": 2.369
+  },
+  {
+    "text": "and license all their training data.",
+    "start": 877.507,
+    "duration": 1.835
+  },
+  {
+    "text": "I hope that employees at these companies\nwill demand this of their employers.",
+    "start": 879.376,
+    "duration": 4.037
+  },
+  {
+    "text": "And I hope that everyone\nwho uses generative AI",
+    "start": 883.446,
+    "duration": 3.204
+  },
+  {
+    "text": "will ask what their favorite\nmodels were trained on.",
+    "start": 886.683,
+    "duration": 2.703
+  },
+  {
+    "text": "There is a future in which generative AI\nand human creativity can coexist,",
+    "start": 889.419,
+    "duration": 5.939
+  },
+  {
+    "text": "not just peacefully, but symbiotically.",
+    "start": 895.358,
+    "duration": 2.67
+  },
+  {
+    "text": "It's been a rough start,",
+    "start": 899.029,
+    "duration": 1.668
+  },
+  {
+    "text": "but it's not too late to change course.",
+    "start": 900.73,
+    "duration": 1.902
+  },
+  {
+    "text": "Thank you.",
+    "start": 903.433,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 904.601,
+    "duration": 2.302
+  }
+]

@@ -1,0 +1,1827 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.62,
+    "duration": 12.84
+  },
+  {
+    "text": "[Applause]",
+    "start": 12.3,
+    "duration": 3.16
+  },
+  {
+    "text": "Something happened in the early morning",
+    "start": 17.039,
+    "duration": 5.681
+  },
+  {
+    "text": "hours of May 2nd, 2000 that had a",
+    "start": 19.439,
+    "duration": 5.401
+  },
+  {
+    "text": "profound effect on the way our society",
+    "start": 22.72,
+    "duration": 4.559
+  },
+  {
+    "text": "operates. Ironically, hardly anyone",
+    "start": 24.84,
+    "duration": 4.759
+  },
+  {
+    "text": "noticed at the time. The change was",
+    "start": 27.279,
+    "duration": 5.12
+  },
+  {
+    "text": "silent, imperceptible, unless you knew",
+    "start": 29.599,
+    "duration": 5.361
+  },
+  {
+    "text": "exactly what to look for. On that",
+    "start": 32.399,
+    "duration": 4.481
+  },
+  {
+    "text": "morning, US President Bill Clinton",
+    "start": 34.96,
+    "duration": 4.0
+  },
+  {
+    "text": "ordered that a special switch be thrown",
+    "start": 36.88,
+    "duration": 4.32
+  },
+  {
+    "text": "in the orbiting satellites of the global",
+    "start": 38.96,
+    "duration": 5.0
+  },
+  {
+    "text": "positioning system.",
+    "start": 41.2,
+    "duration": 4.96
+  },
+  {
+    "text": "Instantaneously, every civilian GPS",
+    "start": 43.96,
+    "duration": 5.0
+  },
+  {
+    "text": "receiver around the globe went from",
+    "start": 46.16,
+    "duration": 5.44
+  },
+  {
+    "text": "errors the size of a football field to",
+    "start": 48.96,
+    "duration": 7.48
+  },
+  {
+    "text": "errors the size of a small room.",
+    "start": 51.6,
+    "duration": 4.84
+  },
+  {
+    "text": "It's hard to overstate the effect that",
+    "start": 57.92,
+    "duration": 6.48
+  },
+  {
+    "text": "this change in accuracy has had on us.",
+    "start": 61.28,
+    "duration": 4.879
+  },
+  {
+    "text": "Before this switch was thrown, we didn't",
+    "start": 64.4,
+    "duration": 3.68
+  },
+  {
+    "text": "have in-car navigation systems giving",
+    "start": 66.159,
+    "duration": 4.401
+  },
+  {
+    "text": "turnbyturn directions because back then",
+    "start": 68.08,
+    "duration": 4.16
+  },
+  {
+    "text": "GPS couldn't tell you what block you",
+    "start": 70.56,
+    "duration": 4.04
+  },
+  {
+    "text": "were on, let alone what street. For",
+    "start": 72.24,
+    "duration": 5.519
+  },
+  {
+    "text": "geoccation, accuracy matters.",
+    "start": 74.6,
+    "duration": 4.68
+  },
+  {
+    "text": "And things have only improved over the",
+    "start": 77.759,
+    "duration": 3.761
+  },
+  {
+    "text": "last 10 years. With more base stations,",
+    "start": 79.28,
+    "duration": 4.8
+  },
+  {
+    "text": "more ground stations, better receivers,",
+    "start": 81.52,
+    "duration": 5.599
+  },
+  {
+    "text": "and better algorithms, GPS can now not",
+    "start": 84.08,
+    "duration": 4.92
+  },
+  {
+    "text": "only tell you what street you were",
+    "start": 87.119,
+    "duration": 5.161
+  },
+  {
+    "text": "on, but what part of the",
+    "start": 89.0,
+    "duration": 6.6
+  },
+  {
+    "text": "street. This level of accuracy has",
+    "start": 92.28,
+    "duration": 6.44
+  },
+  {
+    "text": "unleashed a firestorm of innovation. In",
+    "start": 95.6,
+    "duration": 5.92
+  },
+  {
+    "text": "fact, many of you navigated here today",
+    "start": 98.72,
+    "duration": 4.68
+  },
+  {
+    "text": "with the help of your TomTom or your",
+    "start": 101.52,
+    "duration": 4.559
+  },
+  {
+    "text": "smartphone. Paper maps are becoming",
+    "start": 103.4,
+    "duration": 4.679
+  },
+  {
+    "text": "obsolete.",
+    "start": 106.079,
+    "duration": 4.4
+  },
+  {
+    "text": "But we st now stand on the verge of",
+    "start": 108.079,
+    "duration": 5.0
+  },
+  {
+    "text": "another revolution in geoloccation",
+    "start": 110.479,
+    "duration": 4.64
+  },
+  {
+    "text": "accuracy. What if I told you that the",
+    "start": 113.079,
+    "duration": 4.441
+  },
+  {
+    "text": "2meter positioning that our current cell",
+    "start": 115.119,
+    "duration": 5.841
+  },
+  {
+    "text": "phones and our our tomtoms give us is",
+    "start": 117.52,
+    "duration": 5.44
+  },
+  {
+    "text": "pathetic compared to what we could be",
+    "start": 120.96,
+    "duration": 4.72
+  },
+  {
+    "text": "getting? For some some time now it's",
+    "start": 122.96,
+    "duration": 4.159
+  },
+  {
+    "text": "been known that if you pay attention to",
+    "start": 125.68,
+    "duration": 4.079
+  },
+  {
+    "text": "the carrier phase of the GPS signal and",
+    "start": 127.119,
+    "duration": 4.801
+  },
+  {
+    "text": "if you have an internet connection then",
+    "start": 129.759,
+    "duration": 4.001
+  },
+  {
+    "text": "you can go from meter level to",
+    "start": 131.92,
+    "duration": 4.679
+  },
+  {
+    "text": "centimeter level even millimeter level",
+    "start": 133.76,
+    "duration": 4.88
+  },
+  {
+    "text": "positioning. So why don't we have this",
+    "start": 136.599,
+    "duration": 5.161
+  },
+  {
+    "text": "capability on our on our phones only I",
+    "start": 138.64,
+    "duration": 7.12
+  },
+  {
+    "text": "believe for a lack of imagination.",
+    "start": 141.76,
+    "duration": 6.08
+  },
+  {
+    "text": "manufacturers haven't built this carrier",
+    "start": 145.76,
+    "duration": 3.839
+  },
+  {
+    "text": "phase technique into their cheap GPS",
+    "start": 147.84,
+    "duration": 3.84
+  },
+  {
+    "text": "chips because they're not sure what the",
+    "start": 149.599,
+    "duration": 4.161
+  },
+  {
+    "text": "general public would do with",
+    "start": 151.68,
+    "duration": 4.32
+  },
+  {
+    "text": "geoloccation so accurate that you could",
+    "start": 153.76,
+    "duration": 4.479
+  },
+  {
+    "text": "pinpoint the wrinkles in the palm of",
+    "start": 156.0,
+    "duration": 3.4
+  },
+  {
+    "text": "your",
+    "start": 158.239,
+    "duration": 3.64
+  },
+  {
+    "text": "hand. But you and I and other",
+    "start": 159.4,
+    "duration": 4.839
+  },
+  {
+    "text": "innovators, we can see the potential in",
+    "start": 161.879,
+    "duration": 5.161
+  },
+  {
+    "text": "this next leap in accuracy. Imagine, for",
+    "start": 164.239,
+    "duration": 5.921
+  },
+  {
+    "text": "example, an augmented reality app that",
+    "start": 167.04,
+    "duration": 5.199
+  },
+  {
+    "text": "overlays a virtual world to millimeter",
+    "start": 170.16,
+    "duration": 4.04
+  },
+  {
+    "text": "level precision on top of the physical",
+    "start": 172.239,
+    "duration": 4.321
+  },
+  {
+    "text": "world. I could build for you a structure",
+    "start": 174.2,
+    "duration": 4.52
+  },
+  {
+    "text": "up here in 3D, millimeter accurate that",
+    "start": 176.56,
+    "duration": 6.039
+  },
+  {
+    "text": "only you could see or my friends at",
+    "start": 178.72,
+    "duration": 7.2
+  },
+  {
+    "text": "home. So this level of positioning, this",
+    "start": 182.599,
+    "duration": 5.881
+  },
+  {
+    "text": "is what we're looking for. And I believe",
+    "start": 185.92,
+    "duration": 4.8
+  },
+  {
+    "text": "that within the next few years, I",
+    "start": 188.48,
+    "duration": 4.92
+  },
+  {
+    "text": "predict that this kind of",
+    "start": 190.72,
+    "duration": 4.879
+  },
+  {
+    "text": "hyperprecise carrier phase-based",
+    "start": 193.4,
+    "duration": 4.8
+  },
+  {
+    "text": "positioning will become cheap and",
+    "start": 195.599,
+    "duration": 6.201
+  },
+  {
+    "text": "ubiquitous and the consequences will be",
+    "start": 198.2,
+    "duration": 6.759
+  },
+  {
+    "text": "fantastic. The holy grail, of course, is",
+    "start": 201.8,
+    "duration": 5.719
+  },
+  {
+    "text": "the GPS dot. Do you remember the the",
+    "start": 204.959,
+    "duration": 4.881
+  },
+  {
+    "text": "movie The Da Vinci Code? Here's",
+    "start": 207.519,
+    "duration": 5.121
+  },
+  {
+    "text": "Professor Langden examining a GPS dot,",
+    "start": 209.84,
+    "duration": 5.44
+  },
+  {
+    "text": "which his accomplice tells him is a",
+    "start": 212.64,
+    "duration": 5.2
+  },
+  {
+    "text": "tracking device accurate within 2 feet",
+    "start": 215.28,
+    "duration": 5.039
+  },
+  {
+    "text": "anywhere on the globe. But we know that",
+    "start": 217.84,
+    "duration": 5.36
+  },
+  {
+    "text": "in the world of non-fiction, the GPS dot",
+    "start": 220.319,
+    "duration": 6.0
+  },
+  {
+    "text": "is impossible, right? For one thing, GPS",
+    "start": 223.2,
+    "duration": 5.52
+  },
+  {
+    "text": "doesn't work indoors, and for another,",
+    "start": 226.319,
+    "duration": 4.081
+  },
+  {
+    "text": "they don't make devices quite this",
+    "start": 228.72,
+    "duration": 3.84
+  },
+  {
+    "text": "small, especially when those devices",
+    "start": 230.4,
+    "duration": 3.759
+  },
+  {
+    "text": "have to relay their measurements back",
+    "start": 232.56,
+    "duration": 3.679
+  },
+  {
+    "text": "over a network.",
+    "start": 234.159,
+    "duration": 4.08
+  },
+  {
+    "text": "Well, these objections were perfectly",
+    "start": 236.239,
+    "duration": 4.0
+  },
+  {
+    "text": "reasonable a few years ago, but things",
+    "start": 238.239,
+    "duration": 4.161
+  },
+  {
+    "text": "have changed. There's been a strong",
+    "start": 240.239,
+    "duration": 4.761
+  },
+  {
+    "text": "trend toward miniaturization, better",
+    "start": 242.4,
+    "duration": 5.28
+  },
+  {
+    "text": "sensitivity. So much so that a few years",
+    "start": 245.0,
+    "duration": 4.68
+  },
+  {
+    "text": "ago, a GPS tracking device looked like",
+    "start": 247.68,
+    "duration": 4.279
+  },
+  {
+    "text": "this clunky box to the left of the",
+    "start": 249.68,
+    "duration": 4.479
+  },
+  {
+    "text": "keys. Compare that with the device",
+    "start": 251.959,
+    "duration": 4.68
+  },
+  {
+    "text": "released just months ago that's now",
+    "start": 254.159,
+    "duration": 4.161
+  },
+  {
+    "text": "packaged into something the size of a",
+    "start": 256.639,
+    "duration": 4.56
+  },
+  {
+    "text": "key fob. And if you take a look at the",
+    "start": 258.32,
+    "duration": 4.8
+  },
+  {
+    "text": "state-of-the-art for a complete GPS",
+    "start": 261.199,
+    "duration": 3.841
+  },
+  {
+    "text": "receiver, which is only a centimeter on",
+    "start": 263.12,
+    "duration": 4.16
+  },
+  {
+    "text": "a side and more sensitive than ever, you",
+    "start": 265.04,
+    "duration": 5.28
+  },
+  {
+    "text": "realize that the GPS dot will soon move",
+    "start": 267.28,
+    "duration": 6.4
+  },
+  {
+    "text": "from fiction to",
+    "start": 270.32,
+    "duration": 3.36
+  },
+  {
+    "text": "non-fiction. Imagine what we could do",
+    "start": 273.96,
+    "duration": 5.64
+  },
+  {
+    "text": "with a world full of GPS dots. It's not",
+    "start": 275.919,
+    "duration": 5.28
+  },
+  {
+    "text": "just that you'll never lose your wallet",
+    "start": 279.6,
+    "duration": 4.24
+  },
+  {
+    "text": "or your keys anymore or your child when",
+    "start": 281.199,
+    "duration": 5.121
+  },
+  {
+    "text": "you're at Disneyland.",
+    "start": 283.84,
+    "duration": 6.0
+  },
+  {
+    "text": "You'll buy GPS dots in bulk and you'll",
+    "start": 286.32,
+    "duration": 5.28
+  },
+  {
+    "text": "stick them on everything you own worth",
+    "start": 289.84,
+    "duration": 4.56
+  },
+  {
+    "text": "more than a few tens of dollars. I",
+    "start": 291.6,
+    "duration": 4.48
+  },
+  {
+    "text": "couldn't find my shoes one recent",
+    "start": 294.4,
+    "duration": 4.32
+  },
+  {
+    "text": "morning and as usual had to ask my wife",
+    "start": 296.08,
+    "duration": 4.96
+  },
+  {
+    "text": "if she had seen them. But I shouldn't",
+    "start": 298.72,
+    "duration": 4.28
+  },
+  {
+    "text": "have to bother my wife with that kind of",
+    "start": 301.04,
+    "duration": 4.24
+  },
+  {
+    "text": "triviality. I should be able to ask my",
+    "start": 303.0,
+    "duration": 6.36
+  },
+  {
+    "text": "house where my shoes are.",
+    "start": 305.28,
+    "duration": 6.199
+  },
+  {
+    "text": "Those of you who have made the switch to",
+    "start": 309.36,
+    "duration": 4.96
+  },
+  {
+    "text": "Gmail remember how refreshing it was to",
+    "start": 311.479,
+    "duration": 5.801
+  },
+  {
+    "text": "go from organizing all of your email to",
+    "start": 314.32,
+    "duration": 6.319
+  },
+  {
+    "text": "simply searching it. The GPS dot will do",
+    "start": 317.28,
+    "duration": 5.479
+  },
+  {
+    "text": "the same for our",
+    "start": 320.639,
+    "duration": 5.12
+  },
+  {
+    "text": "possessions. Now, of course, there is a",
+    "start": 322.759,
+    "duration": 5.361
+  },
+  {
+    "text": "flip side to the GPS",
+    "start": 325.759,
+    "duration": 5.041
+  },
+  {
+    "text": "dot. I was in my office some months back",
+    "start": 328.12,
+    "duration": 5.48
+  },
+  {
+    "text": "and got a telephone call. the w the the",
+    "start": 330.8,
+    "duration": 4.399
+  },
+  {
+    "text": "woman on the other end of the line,",
+    "start": 333.6,
+    "duration": 4.28
+  },
+  {
+    "text": "we'll call her Carol, was",
+    "start": 335.199,
+    "duration": 5.44
+  },
+  {
+    "text": "panicked. Apparently, an ex-boyfriend of",
+    "start": 337.88,
+    "duration": 5.0
+  },
+  {
+    "text": "Carol's from California had found her in",
+    "start": 340.639,
+    "duration": 5.441
+  },
+  {
+    "text": "Texas and was following her around. So,",
+    "start": 342.88,
+    "duration": 4.96
+  },
+  {
+    "text": "you might ask at this point why she's",
+    "start": 346.08,
+    "duration": 4.72
+  },
+  {
+    "text": "calling you. Well, so did I. But it",
+    "start": 347.84,
+    "duration": 4.72
+  },
+  {
+    "text": "turned out there was a technical twist",
+    "start": 350.8,
+    "duration": 3.76
+  },
+  {
+    "text": "to Carol's case.",
+    "start": 352.56,
+    "duration": 3.84
+  },
+  {
+    "text": "Every time her ex-boyfriend would show",
+    "start": 354.56,
+    "duration": 4.8
+  },
+  {
+    "text": "up at the most improbable times in the",
+    "start": 356.4,
+    "duration": 5.44
+  },
+  {
+    "text": "most improbable locations, he was",
+    "start": 359.36,
+    "duration": 5.52
+  },
+  {
+    "text": "carrying an open laptop. And over time,",
+    "start": 361.84,
+    "duration": 5.68
+  },
+  {
+    "text": "Carol realized that he had planted a GPS",
+    "start": 364.88,
+    "duration": 5.039
+  },
+  {
+    "text": "tracking device on her car. So, she was",
+    "start": 367.52,
+    "duration": 5.679
+  },
+  {
+    "text": "calling me for help to disable it. Well,",
+    "start": 369.919,
+    "duration": 4.801
+  },
+  {
+    "text": "you should go to a good mechanic and",
+    "start": 373.199,
+    "duration": 2.961
+  },
+  {
+    "text": "have them take your have them look at",
+    "start": 374.72,
+    "duration": 4.319
+  },
+  {
+    "text": "your car. I said, \"I already have.\" She",
+    "start": 376.16,
+    "duration": 6.0
+  },
+  {
+    "text": "told me. He didn't see anything obvious",
+    "start": 379.039,
+    "duration": 4.481
+  },
+  {
+    "text": "and he said he'd have to take the car",
+    "start": 382.16,
+    "duration": 3.0
+  },
+  {
+    "text": "apart piece by",
+    "start": 383.52,
+    "duration": 4.16
+  },
+  {
+    "text": "piece. Well then, uh, you better go to",
+    "start": 385.16,
+    "duration": 5.4
+  },
+  {
+    "text": "the the police, I said. I already have,",
+    "start": 387.68,
+    "duration": 5.68
+  },
+  {
+    "text": "she replied. They're not sure this rises",
+    "start": 390.56,
+    "duration": 4.96
+  },
+  {
+    "text": "to the level of harassment and they're",
+    "start": 393.36,
+    "duration": 4.44
+  },
+  {
+    "text": "not set up technically to find the",
+    "start": 395.52,
+    "duration": 5.04
+  },
+  {
+    "text": "device. Okay, what about the FBI? I've",
+    "start": 397.8,
+    "duration": 4.0
+  },
+  {
+    "text": "talked to them,",
+    "start": 400.56,
+    "duration": 4.32
+  },
+  {
+    "text": "too. And same story. We then talked",
+    "start": 401.8,
+    "duration": 4.6
+  },
+  {
+    "text": "about her coming to my lab and us",
+    "start": 404.88,
+    "duration": 4.0
+  },
+  {
+    "text": "performing a radio sweep of her car, but",
+    "start": 406.4,
+    "duration": 5.12
+  },
+  {
+    "text": "I wasn't even sure that would work given",
+    "start": 408.88,
+    "duration": 3.759
+  },
+  {
+    "text": "that some of these devices are",
+    "start": 411.52,
+    "duration": 2.72
+  },
+  {
+    "text": "configured to only transmit when they're",
+    "start": 412.639,
+    "duration": 5.0
+  },
+  {
+    "text": "inside safe zones or when uh the car is",
+    "start": 414.24,
+    "duration": 6.72
+  },
+  {
+    "text": "moving. So, there we were. Carol isn't",
+    "start": 417.639,
+    "duration": 4.921
+  },
+  {
+    "text": "the first and certainly won't be the",
+    "start": 420.96,
+    "duration": 4.04
+  },
+  {
+    "text": "last to find herself in this kind",
+    "start": 422.56,
+    "duration": 5.079
+  },
+  {
+    "text": "of fearsome",
+    "start": 425.0,
+    "duration": 6.759
+  },
+  {
+    "text": "environment, worrisome situation caused",
+    "start": 427.639,
+    "duration": 6.361
+  },
+  {
+    "text": "by GPS tracking.",
+    "start": 431.759,
+    "duration": 4.321
+  },
+  {
+    "text": "In fact, as I looked into her case, I",
+    "start": 434.0,
+    "duration": 3.68
+  },
+  {
+    "text": "discovered, to my surprise, that it's",
+    "start": 436.08,
+    "duration": 4.959
+  },
+  {
+    "text": "not clearly illegal for you or me to put",
+    "start": 437.68,
+    "duration": 5.72
+  },
+  {
+    "text": "a tracking device on someone else's",
+    "start": 441.039,
+    "duration": 5.201
+  },
+  {
+    "text": "car. The Supreme Court ruled last month",
+    "start": 443.4,
+    "duration": 5.16
+  },
+  {
+    "text": "that a policeman has to get a warrant if",
+    "start": 446.24,
+    "duration": 5.519
+  },
+  {
+    "text": "he wants to do prolonged tracking, but",
+    "start": 448.56,
+    "duration": 4.8
+  },
+  {
+    "text": "the law isn't clear about civilians",
+    "start": 451.759,
+    "duration": 3.921
+  },
+  {
+    "text": "doing this to one another. So, it's not",
+    "start": 453.36,
+    "duration": 4.959
+  },
+  {
+    "text": "just big brother we have to worry about,",
+    "start": 455.68,
+    "duration": 5.6
+  },
+  {
+    "text": "but big neighbor.",
+    "start": 458.319,
+    "duration": 6.081
+  },
+  {
+    "text": "There is one alternative that Carol",
+    "start": 461.28,
+    "duration": 6.639
+  },
+  {
+    "text": "could have taken, very effective. It's",
+    "start": 464.4,
+    "duration": 6.04
+  },
+  {
+    "text": "called the Wave",
+    "start": 467.919,
+    "duration": 7.12
+  },
+  {
+    "text": "Bubble. It's a an open-source GPS jammer",
+    "start": 470.44,
+    "duration": 7.319
+  },
+  {
+    "text": "developed by Lemore Freed, a graduate",
+    "start": 475.039,
+    "duration": 6.56
+  },
+  {
+    "text": "student at MIT. And Lemore calls it a",
+    "start": 477.759,
+    "duration": 6.961
+  },
+  {
+    "text": "tool for reclaiming our personal space.",
+    "start": 481.599,
+    "duration": 4.72
+  },
+  {
+    "text": "With a flip of the switch, you create a",
+    "start": 484.72,
+    "duration": 3.68
+  },
+  {
+    "text": "bubble around you within which GPS",
+    "start": 486.319,
+    "duration": 3.841
+  },
+  {
+    "text": "signals can't reside. to get drowned out",
+    "start": 488.4,
+    "duration": 5.04
+  },
+  {
+    "text": "by the bubble. And Lamour designed this",
+    "start": 490.16,
+    "duration": 5.599
+  },
+  {
+    "text": "in part because like Carol, she felt",
+    "start": 493.44,
+    "duration": 4.96
+  },
+  {
+    "text": "threatened by GPS tracking. Then she",
+    "start": 495.759,
+    "duration": 4.521
+  },
+  {
+    "text": "posted her design to the",
+    "start": 498.4,
+    "duration": 4.16
+  },
+  {
+    "text": "web. And if you don't have time to build",
+    "start": 500.28,
+    "duration": 5.4
+  },
+  {
+    "text": "your own, you can buy one. Chinese",
+    "start": 502.56,
+    "duration": 4.88
+  },
+  {
+    "text": "manufacturers now sell thousands of",
+    "start": 505.68,
+    "duration": 5.32
+  },
+  {
+    "text": "nearly identical devices on the",
+    "start": 507.44,
+    "duration": 5.92
+  },
+  {
+    "text": "internet. So you might be thinking, \"The",
+    "start": 511.0,
+    "duration": 4.12
+  },
+  {
+    "text": "weight bubble sounds great. I should",
+    "start": 513.36,
+    "duration": 2.88
+  },
+  {
+    "text": "have one. Might come in handy if",
+    "start": 515.12,
+    "duration": 2.399
+  },
+  {
+    "text": "somebody ever puts a tracking device on",
+    "start": 516.24,
+    "duration": 4.08
+  },
+  {
+    "text": "my car.\" But you should be aware that",
+    "start": 517.519,
+    "duration": 5.361
+  },
+  {
+    "text": "its use is very much illegal in the",
+    "start": 520.32,
+    "duration": 5.04
+  },
+  {
+    "text": "United States. And why is that? Well,",
+    "start": 522.88,
+    "duration": 5.36
+  },
+  {
+    "text": "because it's not a bubble at all. Its",
+    "start": 525.36,
+    "duration": 5.039
+  },
+  {
+    "text": "jamming signals don't stop at the edge",
+    "start": 528.24,
+    "duration": 3.84
+  },
+  {
+    "text": "of your personal space or at the edge of",
+    "start": 530.399,
+    "duration": 5.44
+  },
+  {
+    "text": "your car. They go on to jam innocent GPS",
+    "start": 532.08,
+    "duration": 7.68
+  },
+  {
+    "text": "receivers for miles around you.",
+    "start": 535.839,
+    "duration": 6.161
+  },
+  {
+    "text": "Now, if you're Carol or Lemore or",
+    "start": 539.76,
+    "duration": 4.44
+  },
+  {
+    "text": "someone who feels threatened by GPS",
+    "start": 542.0,
+    "duration": 4.88
+  },
+  {
+    "text": "tracking, it might not feel wrong to",
+    "start": 544.2,
+    "duration": 5.72
+  },
+  {
+    "text": "turn on a wave bubble. But in fact, the",
+    "start": 546.88,
+    "duration": 4.36
+  },
+  {
+    "text": "results can be",
+    "start": 549.92,
+    "duration": 3.76
+  },
+  {
+    "text": "disastrous. Imagine, for example, you're",
+    "start": 551.24,
+    "duration": 4.12
+  },
+  {
+    "text": "the captain of a cruise ship trying to",
+    "start": 553.68,
+    "duration": 4.159
+  },
+  {
+    "text": "make your way through a thick fog and",
+    "start": 555.36,
+    "duration": 4.88
+  },
+  {
+    "text": "some passenger in the back turns on a",
+    "start": 557.839,
+    "duration": 4.641
+  },
+  {
+    "text": "wave bubble. All of a sudden, your GPS",
+    "start": 560.24,
+    "duration": 3.719
+  },
+  {
+    "text": "readout goes",
+    "start": 562.48,
+    "duration": 5.359
+  },
+  {
+    "text": "blank. And now it's just you and the fog",
+    "start": 563.959,
+    "duration": 5.56
+  },
+  {
+    "text": "and whatever you can pull off the radar",
+    "start": 567.839,
+    "duration": 4.881
+  },
+  {
+    "text": "system. If you remember how to work",
+    "start": 569.519,
+    "duration": 3.201
+  },
+  {
+    "text": "it, they in fact they don't update or",
+    "start": 572.76,
+    "duration": 9.16
+  },
+  {
+    "text": "upkeep lighouses anymore. And Lauran,",
+    "start": 577.279,
+    "duration": 7.201
+  },
+  {
+    "text": "the only backup to GPS was discontinued",
+    "start": 581.92,
+    "duration": 6.88
+  },
+  {
+    "text": "last year. Our modern society has a",
+    "start": 584.48,
+    "duration": 6.12
+  },
+  {
+    "text": "special relationship with",
+    "start": 588.8,
+    "duration": 4.64
+  },
+  {
+    "text": "GPS. We're almost blindly reliant on it.",
+    "start": 590.6,
+    "duration": 5.28
+  },
+  {
+    "text": "It's built deeply into our systems and",
+    "start": 593.44,
+    "duration": 4.56
+  },
+  {
+    "text": "infrastructure. Some call it the",
+    "start": 595.88,
+    "duration": 3.68
+  },
+  {
+    "text": "invisible",
+    "start": 598.0,
+    "duration": 3.92
+  },
+  {
+    "text": "utility. So turning on a wave bubble",
+    "start": 599.56,
+    "duration": 4.08
+  },
+  {
+    "text": "might not just cause",
+    "start": 601.92,
+    "duration": 3.72
+  },
+  {
+    "text": "inconvenience. It might",
+    "start": 603.64,
+    "duration": 5.08
+  },
+  {
+    "text": "be deadly.",
+    "start": 605.64,
+    "duration": 5.56
+  },
+  {
+    "text": "But as it turns out, for purposes of",
+    "start": 608.72,
+    "duration": 5.44
+  },
+  {
+    "text": "protecting your privacy at the expense",
+    "start": 611.2,
+    "duration": 5.6
+  },
+  {
+    "text": "of general GPS reliability, there's",
+    "start": 614.16,
+    "duration": 5.4
+  },
+  {
+    "text": "something even more potent and more",
+    "start": 616.8,
+    "duration": 5.84
+  },
+  {
+    "text": "subversive than a wave bubble. And that",
+    "start": 619.56,
+    "duration": 5.36
+  },
+  {
+    "text": "is a GPS",
+    "start": 622.64,
+    "duration": 4.8
+  },
+  {
+    "text": "spoofer. The idea behind the GPS spoofer",
+    "start": 624.92,
+    "duration": 5.0
+  },
+  {
+    "text": "is simple. Instead of jamming the GPS",
+    "start": 627.44,
+    "duration": 5.519
+  },
+  {
+    "text": "signals, you fake them. You imitate",
+    "start": 629.92,
+    "duration": 5.68
+  },
+  {
+    "text": "them. And if you do it right, the device",
+    "start": 632.959,
+    "duration": 4.241
+  },
+  {
+    "text": "you're attacking doesn't even know it's",
+    "start": 635.6,
+    "duration": 3.919
+  },
+  {
+    "text": "being spoofed. So, let me show you how",
+    "start": 637.2,
+    "duration": 4.8
+  },
+  {
+    "text": "this works. In any GPS receiver, there's",
+    "start": 639.519,
+    "duration": 5.121
+  },
+  {
+    "text": "a peak inside that corresponds to the",
+    "start": 642.0,
+    "duration": 5.2
+  },
+  {
+    "text": "authentic signals. These three red dots",
+    "start": 644.64,
+    "duration": 4.24
+  },
+  {
+    "text": "represent the tracking points that try",
+    "start": 647.2,
+    "duration": 3.56
+  },
+  {
+    "text": "to keep themselves centered on that",
+    "start": 648.88,
+    "duration": 5.399
+  },
+  {
+    "text": "peak. But if you send in a fake GPS",
+    "start": 650.76,
+    "duration": 7.24
+  },
+  {
+    "text": "signal, another peak pops up. And if you",
+    "start": 654.279,
+    "duration": 5.841
+  },
+  {
+    "text": "can get these two peaks perfectly",
+    "start": 658.0,
+    "duration": 4.56
+  },
+  {
+    "text": "aligned, the tracking points can't tell",
+    "start": 660.12,
+    "duration": 4.76
+  },
+  {
+    "text": "the difference and they get hijacked by",
+    "start": 662.56,
+    "duration": 4.959
+  },
+  {
+    "text": "the stronger counterfoot signal with the",
+    "start": 664.88,
+    "duration": 4.92
+  },
+  {
+    "text": "authentic peak getting forced",
+    "start": 667.519,
+    "duration": 5.281
+  },
+  {
+    "text": "off. At this point, the game is over.",
+    "start": 669.8,
+    "duration": 5.08
+  },
+  {
+    "text": "The fake signals now completely control",
+    "start": 672.8,
+    "duration": 4.64
+  },
+  {
+    "text": "this GPS receiver. So, is this really",
+    "start": 674.88,
+    "duration": 5.199
+  },
+  {
+    "text": "possible? Can someone really manipulate",
+    "start": 677.44,
+    "duration": 4.639
+  },
+  {
+    "text": "the timing and positioning of a GPS",
+    "start": 680.079,
+    "duration": 4.641
+  },
+  {
+    "text": "receiver just like that with a spoofer?",
+    "start": 682.079,
+    "duration": 5.44
+  },
+  {
+    "text": "Well, the short answer is yes. The key",
+    "start": 684.72,
+    "duration": 5.6
+  },
+  {
+    "text": "is that civil GPS signals are completely",
+    "start": 687.519,
+    "duration": 5.361
+  },
+  {
+    "text": "open. They have no encryption. They have",
+    "start": 690.32,
+    "duration": 5.199
+  },
+  {
+    "text": "no in authentication. They're wide open,",
+    "start": 692.88,
+    "duration": 5.44
+  },
+  {
+    "text": "vulnerable to a kind of spoofing attack.",
+    "start": 695.519,
+    "duration": 6.0
+  },
+  {
+    "text": "Even so, up until very recently, nobody",
+    "start": 698.32,
+    "duration": 5.36
+  },
+  {
+    "text": "worried about GPS spoofers. People",
+    "start": 701.519,
+    "duration": 3.921
+  },
+  {
+    "text": "figured that it would be too complex or",
+    "start": 703.68,
+    "duration": 4.12
+  },
+  {
+    "text": "too expensive for some hacker to build",
+    "start": 705.44,
+    "duration": 5.519
+  },
+  {
+    "text": "one. But I and a friend of mine from",
+    "start": 707.8,
+    "duration": 5.32
+  },
+  {
+    "text": "graduate school, we didn't see it that",
+    "start": 710.959,
+    "duration": 3.44
+  },
+  {
+    "text": "way.",
+    "start": 713.12,
+    "duration": 3.52
+  },
+  {
+    "text": "We knew it wasn't going to be so hard",
+    "start": 714.399,
+    "duration": 3.921
+  },
+  {
+    "text": "and we wanted to be the first to build",
+    "start": 716.64,
+    "duration": 3.439
+  },
+  {
+    "text": "one so we could get out in front of the",
+    "start": 718.32,
+    "duration": 5.88
+  },
+  {
+    "text": "problem and help protect against GPS",
+    "start": 720.079,
+    "duration": 6.721
+  },
+  {
+    "text": "spoofing. I remember vividly the week it",
+    "start": 724.2,
+    "duration": 5.439
+  },
+  {
+    "text": "all came together. We uh built it at my",
+    "start": 726.8,
+    "duration": 5.68
+  },
+  {
+    "text": "home, which means that I got a little",
+    "start": 729.639,
+    "duration": 5.841
+  },
+  {
+    "text": "extra help from my three-year-old son,",
+    "start": 732.48,
+    "duration": 6.479
+  },
+  {
+    "text": "Ramon. Here's Ramon looking for a little",
+    "start": 735.48,
+    "duration": 6.52
+  },
+  {
+    "text": "attention from dad that week.",
+    "start": 738.959,
+    "duration": 4.961
+  },
+  {
+    "text": "At first, the spoofer was just a jumble",
+    "start": 742.0,
+    "duration": 4.24
+  },
+  {
+    "text": "of cables and computers, though we",
+    "start": 743.92,
+    "duration": 4.28
+  },
+  {
+    "text": "eventually got it packaged into a small",
+    "start": 746.24,
+    "duration": 5.839
+  },
+  {
+    "text": "box. Now, the Dr. Frankenstein moment",
+    "start": 748.2,
+    "duration": 6.28
+  },
+  {
+    "text": "when the spoofer finally came alive and",
+    "start": 752.079,
+    "duration": 6.0
+  },
+  {
+    "text": "I glimpsed its awful potential came late",
+    "start": 754.48,
+    "duration": 5.359
+  },
+  {
+    "text": "one night when I tested the spoofer",
+    "start": 758.079,
+    "duration": 4.32
+  },
+  {
+    "text": "against my iPhone. Let me show you some",
+    "start": 759.839,
+    "duration": 4.761
+  },
+  {
+    "text": "actual footage from that very first",
+    "start": 762.399,
+    "duration": 4.801
+  },
+  {
+    "text": "experiment. I had come to completely",
+    "start": 764.6,
+    "duration": 4.76
+  },
+  {
+    "text": "trust this little blue dot and its",
+    "start": 767.2,
+    "duration": 4.24
+  },
+  {
+    "text": "reassuring blue halo. They they seem to",
+    "start": 769.36,
+    "duration": 5.44
+  },
+  {
+    "text": "speak to me. They'd say, \"Here you are.",
+    "start": 771.44,
+    "duration": 6.839
+  },
+  {
+    "text": "Here you are, and you can trust",
+    "start": 774.8,
+    "duration": 5.719
+  },
+  {
+    "text": "us.\"",
+    "start": 778.279,
+    "duration": 5.161
+  },
+  {
+    "text": "So, something felt very wrong about the",
+    "start": 780.519,
+    "duration": 5.601
+  },
+  {
+    "text": "world. It was a sense almost of",
+    "start": 783.44,
+    "duration": 4.88
+  },
+  {
+    "text": "betrayal. When this little blue dot",
+    "start": 786.12,
+    "duration": 3.839
+  },
+  {
+    "text": "started at my",
+    "start": 788.32,
+    "duration": 4.319
+  },
+  {
+    "text": "house and went running off toward the",
+    "start": 789.959,
+    "duration": 4.161
+  },
+  {
+    "text": "north, leaving me",
+    "start": 792.639,
+    "duration": 5.121
+  },
+  {
+    "text": "behind, I wasn't moving.",
+    "start": 794.12,
+    "duration": 5.88
+  },
+  {
+    "text": "What I then saw in this little moving",
+    "start": 797.76,
+    "duration": 5.16
+  },
+  {
+    "text": "blue dot was the potential for",
+    "start": 800.0,
+    "duration": 6.399
+  },
+  {
+    "text": "chaos. I saw airplanes and ships veering",
+    "start": 802.92,
+    "duration": 5.64
+  },
+  {
+    "text": "off course with the captain learning",
+    "start": 806.399,
+    "duration": 5.521
+  },
+  {
+    "text": "only too late that something was wrong.",
+    "start": 808.56,
+    "duration": 6.719
+  },
+  {
+    "text": "I saw the GPS derived timing of the New",
+    "start": 811.92,
+    "duration": 5.56
+  },
+  {
+    "text": "York Stock Exchange being manipulated by",
+    "start": 815.279,
+    "duration": 5.201
+  },
+  {
+    "text": "hackers. You can scarcely imagine the",
+    "start": 817.48,
+    "duration": 5.32
+  },
+  {
+    "text": "kind of havoc you could cause if you",
+    "start": 820.48,
+    "duration": 4.479
+  },
+  {
+    "text": "knew what you were doing with a GPS",
+    "start": 822.8,
+    "duration": 4.719
+  },
+  {
+    "text": "spoofer.",
+    "start": 824.959,
+    "duration": 4.841
+  },
+  {
+    "text": "There is",
+    "start": 827.519,
+    "duration": 6.281
+  },
+  {
+    "text": "though one redeeming feature of the GPS",
+    "start": 829.8,
+    "duration": 6.36
+  },
+  {
+    "text": "spoofer. It's the ultimate weapon",
+    "start": 833.8,
+    "duration": 5.839
+  },
+  {
+    "text": "against an invasion of GPS",
+    "start": 836.16,
+    "duration": 5.679
+  },
+  {
+    "text": "dots. Imagine, for example, you're being",
+    "start": 839.639,
+    "duration": 4.281
+  },
+  {
+    "text": "tracked. Well, you can play the tracker",
+    "start": 841.839,
+    "duration": 4.56
+  },
+  {
+    "text": "for a fool pretending to be at work when",
+    "start": 843.92,
+    "duration": 4.8
+  },
+  {
+    "text": "you're really on vacation. Or if you're",
+    "start": 846.399,
+    "duration": 4.321
+  },
+  {
+    "text": "Carol, you could lure your ex-boyfriend",
+    "start": 848.72,
+    "duration": 3.76
+  },
+  {
+    "text": "into some empty parking lot where the",
+    "start": 850.72,
+    "duration": 4.08
+  },
+  {
+    "text": "police are waiting for him.",
+    "start": 852.48,
+    "duration": 5.919
+  },
+  {
+    "text": "So, I'm fascinated by this conflict, a",
+    "start": 854.8,
+    "duration": 6.56
+  },
+  {
+    "text": "looming conflict between privacy on the",
+    "start": 858.399,
+    "duration": 6.24
+  },
+  {
+    "text": "one hand and the need for a clean radio",
+    "start": 861.36,
+    "duration": 5.76
+  },
+  {
+    "text": "spectrum on the other. We simply cannot",
+    "start": 864.639,
+    "duration": 5.0
+  },
+  {
+    "text": "tolerate GPS jammers and spoofers. And",
+    "start": 867.12,
+    "duration": 5.6
+  },
+  {
+    "text": "yet, given the lack of effective legal",
+    "start": 869.639,
+    "duration": 5.32
+  },
+  {
+    "text": "means for protecting our privacy from",
+    "start": 872.72,
+    "duration": 5.28
+  },
+  {
+    "text": "the GPS dot, can you really blame people",
+    "start": 874.959,
+    "duration": 4.961
+  },
+  {
+    "text": "for wanting to turn them on, for wanting",
+    "start": 878.0,
+    "duration": 3.76
+  },
+  {
+    "text": "to use them?",
+    "start": 879.92,
+    "duration": 4.24
+  },
+  {
+    "text": "I hold out hope that we'll be able to",
+    "start": 881.76,
+    "duration": 5.16
+  },
+  {
+    "text": "reconcile this conflict with some sort",
+    "start": 884.16,
+    "duration": 8.2
+  },
+  {
+    "text": "of some yet uh uninvented",
+    "start": 886.92,
+    "duration": 8.52
+  },
+  {
+    "text": "technology. But meanwhile, grab some",
+    "start": 892.36,
+    "duration": 4.96
+  },
+  {
+    "text": "popcorn because things are going to get",
+    "start": 895.44,
+    "duration": 4.399
+  },
+  {
+    "text": "interesting. Within the next few years,",
+    "start": 897.32,
+    "duration": 4.92
+  },
+  {
+    "text": "many of you will be the proud owner of a",
+    "start": 899.839,
+    "duration": 5.36
+  },
+  {
+    "text": "GPS dot. Maybe you'll have a whole bag",
+    "start": 902.24,
+    "duration": 5.44
+  },
+  {
+    "text": "full of them. You'll never lose track of",
+    "start": 905.199,
+    "duration": 5.681
+  },
+  {
+    "text": "your things again. The GPS dot will",
+    "start": 907.68,
+    "duration": 5.48
+  },
+  {
+    "text": "fundamentally reorder your",
+    "start": 910.88,
+    "duration": 5.079
+  },
+  {
+    "text": "life. But will you be able to resist the",
+    "start": 913.16,
+    "duration": 5.52
+  },
+  {
+    "text": "temptation to track your fellow",
+    "start": 915.959,
+    "duration": 4.921
+  },
+  {
+    "text": "man? Or will you be able to resist the",
+    "start": 918.68,
+    "duration": 5.399
+  },
+  {
+    "text": "temptation to turn on a GPS spoofer or a",
+    "start": 920.88,
+    "duration": 5.48
+  },
+  {
+    "text": "wave bubble to protect your own",
+    "start": 924.079,
+    "duration": 5.521
+  },
+  {
+    "text": "privacy? So, as usual, what we see just",
+    "start": 926.36,
+    "duration": 6.52
+  },
+  {
+    "text": "beyond the horizon is full of promise",
+    "start": 929.6,
+    "duration": 6.239
+  },
+  {
+    "text": "and peril. It'll be fascinating to see",
+    "start": 932.88,
+    "duration": 6.05
+  },
+  {
+    "text": "how this all turns out. Thanks,",
+    "start": 935.839,
+    "duration": 6.241
+  },
+  {
+    "text": "[Applause]",
+    "start": 938.93,
+    "duration": 3.15
+  }
+]

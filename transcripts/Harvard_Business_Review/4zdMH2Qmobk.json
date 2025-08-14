@@ -1,0 +1,2267 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.0,
+    "duration": 2.862
+  },
+  {
+    "text": "CURT NICKISCH: Welcome\nto the HBR IdeaCast",
+    "start": 10.51,
+    "duration": 2.1
+  },
+  {
+    "text": "from Harvard Business Review.",
+    "start": 12.61,
+    "duration": 1.68
+  },
+  {
+    "text": "I'm Curt Nickisch.",
+    "start": 14.29,
+    "duration": 1.72
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 16.01,
+    "duration": 1.96
+  },
+  {
+    "text": "Women have been\ndisproportionately affected",
+    "start": 21.89,
+    "duration": 2.22
+  },
+  {
+    "text": "by the COVID-19 pandemic.",
+    "start": 24.11,
+    "duration": 2.19
+  },
+  {
+    "text": "In the US, for instance,\nwomen left the workforce",
+    "start": 26.3,
+    "duration": 2.97
+  },
+  {
+    "text": "at alarming rates,\nlargely due to child care",
+    "start": 29.27,
+    "duration": 2.67
+  },
+  {
+    "text": "needs in the year of schooling\nand working from home.",
+    "start": 31.94,
+    "duration": 3.09
+  },
+  {
+    "text": "Also affected the\nlimited numbers",
+    "start": 35.03,
+    "duration": 2.22
+  },
+  {
+    "text": "of female entrepreneurs.",
+    "start": 37.25,
+    "duration": 1.95
+  },
+  {
+    "text": "On the one hand, venture\ncapital firms in the US",
+    "start": 39.2,
+    "duration": 2.37
+  },
+  {
+    "text": "set a record high, investing\nnearly $130 billion",
+    "start": 41.57,
+    "duration": 3.9
+  },
+  {
+    "text": "in companies last year.",
+    "start": 45.47,
+    "duration": 1.47
+  },
+  {
+    "text": "Much of that money went into\nfast-growing categories,",
+    "start": 46.94,
+    "duration": 3.0
+  },
+  {
+    "text": "like health care, remote\nwork, and e-commerce.",
+    "start": 49.94,
+    "duration": 2.97
+  },
+  {
+    "text": "But just 2.3% of\nthat money, literally",
+    "start": 52.91,
+    "duration": 3.24
+  },
+  {
+    "text": "a couple of pennies per dollar,\nwent to start-ups led by women.",
+    "start": 56.15,
+    "duration": 4.65
+  },
+  {
+    "text": "That's down from about\nthree pennies the year",
+    "start": 60.8,
+    "duration": 2.37
+  },
+  {
+    "text": "before, which although extremely\nlow had been trending up.",
+    "start": 63.17,
+    "duration": 4.83
+  },
+  {
+    "text": "Now Harvard Business\nReview has been",
+    "start": 68.0,
+    "duration": 1.86
+  },
+  {
+    "text": "featuring a lot of research\nand analysis of this trend.",
+    "start": 69.86,
+    "duration": 3.03
+  },
+  {
+    "text": "Go to HBR.org and type in\nventure capital gender gap,",
+    "start": 72.89,
+    "duration": 3.96
+  },
+  {
+    "text": "and you'll find all\nsorts of articles",
+    "start": 76.85,
+    "duration": 2.16
+  },
+  {
+    "text": "about how male and\nfemale founders get",
+    "start": 79.01,
+    "duration": 2.07
+  },
+  {
+    "text": "asked different questions\nwhen they pitch to VC firms",
+    "start": 81.08,
+    "duration": 3.03
+  },
+  {
+    "text": "and how it affects\nhow much they get,",
+    "start": 84.11,
+    "duration": 2.07
+  },
+  {
+    "text": "about how the gender gap\ndisappears when women fund",
+    "start": 86.18,
+    "duration": 3.78
+  },
+  {
+    "text": "women, but also about how just\n12% of venture capital firms",
+    "start": 89.96,
+    "duration": 4.38
+  },
+  {
+    "text": "have women deciding\nwhere funding goes.",
+    "start": 94.34,
+    "duration": 3.21
+  },
+  {
+    "text": "These inequities are\nwidespread, slow-changing,",
+    "start": 97.55,
+    "duration": 3.6
+  },
+  {
+    "text": "and honestly they just\ndon't make economic sense.",
+    "start": 101.15,
+    "duration": 3.66
+  },
+  {
+    "text": "Here to help us understand this\necosystem and what's happening",
+    "start": 104.81,
+    "duration": 3.24
+  },
+  {
+    "text": "is Jenny Lefcourt.",
+    "start": 108.05,
+    "duration": 1.47
+  },
+  {
+    "text": "She's a general partner\nat Freestyle Capital",
+    "start": 109.52,
+    "duration": 2.76
+  },
+  {
+    "text": "in Silicon Valley.",
+    "start": 112.28,
+    "duration": 1.2
+  },
+  {
+    "text": "She also helped launch a\nnonprofit called AllRaise",
+    "start": 113.48,
+    "duration": 3.09
+  },
+  {
+    "text": "that is trying to change the\ninequality in venture equity.",
+    "start": 116.57,
+    "duration": 3.78
+  },
+  {
+    "text": "Jenny, thanks so much\nfor coming on the show.",
+    "start": 120.35,
+    "duration": 2.55
+  },
+  {
+    "text": "JENNY LEFCOURT:\nThanks for having me.",
+    "start": 122.9,
+    "duration": 2.37
+  },
+  {
+    "text": "CURT NICKISCH: How did\nyou get into VC funding?",
+    "start": 125.27,
+    "duration": 2.4
+  },
+  {
+    "text": "JENNY LEFCOURT: Well, I\nstarted on the other side,",
+    "start": 127.67,
+    "duration": 2.43
+  },
+  {
+    "text": "which is being the receiver\nof venture capital.",
+    "start": 130.1,
+    "duration": 3.12
+  },
+  {
+    "text": "I was a founder of two\ncompanies, a co-founder,",
+    "start": 133.22,
+    "duration": 3.63
+  },
+  {
+    "text": "which both raised a\nlot of venture capital.",
+    "start": 136.85,
+    "duration": 2.85
+  },
+  {
+    "text": "The first one was\nweddingchannel.com, which",
+    "start": 139.7,
+    "duration": 3.57
+  },
+  {
+    "text": "I co-founded over 20 years ago.",
+    "start": 143.27,
+    "duration": 2.37
+  },
+  {
+    "text": "For both of those\ncompanies combined,",
+    "start": 145.64,
+    "duration": 1.89
+  },
+  {
+    "text": "I raised over $100 million.",
+    "start": 147.53,
+    "duration": 2.993
+  },
+  {
+    "text": "CURT NICKISCH: Was\nthat remarkable",
+    "start": 150.523,
+    "duration": 1.417
+  },
+  {
+    "text": "at the time as a female founder?",
+    "start": 151.94,
+    "duration": 4.17
+  },
+  {
+    "text": "JENNY LEFCOURT: It turns\nout it was remarkable.",
+    "start": 156.11,
+    "duration": 2.16
+  },
+  {
+    "text": "And the funny thing is I\ndidn't know it at the time",
+    "start": 158.27,
+    "duration": 3.06
+  },
+  {
+    "text": "so just I would go in there,\nand I'd pitch my heart out.",
+    "start": 161.33,
+    "duration": 3.72
+  },
+  {
+    "text": "And I didn't know at the\ntime that very little",
+    "start": 165.05,
+    "duration": 2.46
+  },
+  {
+    "text": "venture capital went to women,\nwhich I think helped me.",
+    "start": 167.51,
+    "duration": 2.82
+  },
+  {
+    "text": "I often have said that\nignorance can be bliss.",
+    "start": 170.33,
+    "duration": 3.06
+  },
+  {
+    "text": "But there are some things that\nI think worked to my favor that",
+    "start": 173.39,
+    "duration": 3.27
+  },
+  {
+    "text": "are worth understanding.",
+    "start": 176.66,
+    "duration": 1.08
+  },
+  {
+    "text": "One was the first\none was very much",
+    "start": 177.74,
+    "duration": 2.19
+  },
+  {
+    "text": "a woman business, meaning it\nwas based on wedding gifts.",
+    "start": 179.93,
+    "duration": 4.35
+  },
+  {
+    "text": "And so I think the men in\nthe room really understood",
+    "start": 184.28,
+    "duration": 2.88
+  },
+  {
+    "text": "that we knew this market\nbetter than they did.",
+    "start": 187.16,
+    "duration": 3.48
+  },
+  {
+    "text": "And the second time around,\nI raised venture funding,",
+    "start": 190.64,
+    "duration": 3.03
+  },
+  {
+    "text": "but I also had a\nman by my side, who",
+    "start": 193.67,
+    "duration": 2.13
+  },
+  {
+    "text": "I'd brought in to be the CEO.",
+    "start": 195.8,
+    "duration": 2.13
+  },
+  {
+    "text": "So I don't mean to\nsay anyone-- you know,",
+    "start": 197.93,
+    "duration": 2.43
+  },
+  {
+    "text": "it was just a matter of mindset.",
+    "start": 200.36,
+    "duration": 1.77
+  },
+  {
+    "text": "I think my mindset was helpful,\nin that I didn't know it",
+    "start": 202.13,
+    "duration": 3.3
+  },
+  {
+    "text": "was supposed to be a problem.",
+    "start": 205.43,
+    "duration": 1.65
+  },
+  {
+    "text": "But I also had a couple other\nfactors working in my favor.",
+    "start": 207.08,
+    "duration": 2.922
+  },
+  {
+    "text": "CURT NICKISCH: Tell\nme a little bit",
+    "start": 210.002,
+    "duration": 1.458
+  },
+  {
+    "text": "about your growing awareness.",
+    "start": 211.46,
+    "duration": 1.41
+  },
+  {
+    "text": "What were some of the\nhorror stories or things",
+    "start": 212.87,
+    "duration": 3.69
+  },
+  {
+    "text": "that you saw that\nmade you realize",
+    "start": 216.56,
+    "duration": 1.98
+  },
+  {
+    "text": "that this is a serious problem?",
+    "start": 218.54,
+    "duration": 2.197
+  },
+  {
+    "text": "JENNY LEFCOURT: I'm\nalmost embarrassed",
+    "start": 220.737,
+    "duration": 1.583
+  },
+  {
+    "text": "to admit the time it took me\nto kind of pull my head out",
+    "start": 222.32,
+    "duration": 3.3
+  },
+  {
+    "text": "of the sand, as it relates\nto the lack of gender",
+    "start": 225.62,
+    "duration": 4.95
+  },
+  {
+    "text": "parity in venture capital.",
+    "start": 230.57,
+    "duration": 2.46
+  },
+  {
+    "text": "So as someone who\nhad successfully",
+    "start": 233.03,
+    "duration": 2.31
+  },
+  {
+    "text": "raised so much venture\ncapital, and then I",
+    "start": 235.34,
+    "duration": 2.64
+  },
+  {
+    "text": "was an angel investor and an\nadvisor to many companies,",
+    "start": 237.98,
+    "duration": 4.14
+  },
+  {
+    "text": "and a lot of them I was\nhelping women raise money.",
+    "start": 242.12,
+    "duration": 2.94
+  },
+  {
+    "text": "And they would tell me how hard\nit was for them as a woman.",
+    "start": 245.06,
+    "duration": 2.82
+  },
+  {
+    "text": "And I really told them\nit's mind over matter",
+    "start": 247.88,
+    "duration": 2.79
+  },
+  {
+    "text": "and that they were wrong.",
+    "start": 250.67,
+    "duration": 2.52
+  },
+  {
+    "text": "CURT NICKISCH: They must\nbe imagining things?",
+    "start": 253.19,
+    "duration": 2.19
+  },
+  {
+    "text": "Is that basically what\nyou were thinking?",
+    "start": 255.38,
+    "duration": 2.37
+  },
+  {
+    "text": "JENNY LEFCOURT: Well, it was\na combination of my experience",
+    "start": 257.75,
+    "duration": 3.329
+  },
+  {
+    "text": "and also this belief\nthat Silicon Valley",
+    "start": 261.079,
+    "duration": 3.691
+  },
+  {
+    "text": "was a meritocracy.",
+    "start": 264.77,
+    "duration": 1.65
+  },
+  {
+    "text": "And that venture\ncapitalists won't",
+    "start": 266.42,
+    "duration": 3.39
+  },
+  {
+    "text": "care who you are, what\ncolor of your skin,",
+    "start": 269.81,
+    "duration": 3.81
+  },
+  {
+    "text": "if you can make them money.",
+    "start": 273.62,
+    "duration": 2.01
+  },
+  {
+    "text": "At one point, I'm embarrassed\nto tell you that I said a--",
+    "start": 275.63,
+    "duration": 3.78
+  },
+  {
+    "text": "you could be a purple person.",
+    "start": 279.41,
+    "duration": 2.757
+  },
+  {
+    "text": "And if you could make\nsomeone lots of money,",
+    "start": 282.167,
+    "duration": 1.833
+  },
+  {
+    "text": "they would back you.",
+    "start": 284.0,
+    "duration": 0.81
+  },
+  {
+    "text": "Like, it just didn't--",
+    "start": 284.81,
+    "duration": 0.917
+  },
+  {
+    "text": "I thought it just didn't matter.",
+    "start": 285.727,
+    "duration": 2.24
+  },
+  {
+    "text": "CURT NICKISCH: Yeah.",
+    "start": 287.967,
+    "duration": 0.833
+  },
+  {
+    "text": "JENNY LEFCOURT: And it wasn't\nuntil I became a venture",
+    "start": 288.8,
+    "duration": 2.25
+  },
+  {
+    "text": "capitalist and looked around and\nsaid, where are all the women,",
+    "start": 291.05,
+    "duration": 4.29
+  },
+  {
+    "text": "there's so few of us.",
+    "start": 295.34,
+    "duration": 1.53
+  },
+  {
+    "text": "CURT NICKISCH:\nBecause you just saw",
+    "start": 296.87,
+    "duration": 1.83
+  },
+  {
+    "text": "a parade of male founders\ncoming in to pitch you,",
+    "start": 298.7,
+    "duration": 3.54
+  },
+  {
+    "text": "or you just saw male\nnames on your calendar?",
+    "start": 302.24,
+    "duration": 2.46
+  },
+  {
+    "text": "When did you realize this?",
+    "start": 304.7,
+    "duration": 1.14
+  },
+  {
+    "text": "JENNY LEFCOURT: Well,\nmy first realization",
+    "start": 305.84,
+    "duration": 2.13
+  },
+  {
+    "text": "was in where are my--",
+    "start": 307.97,
+    "duration": 2.94
+  },
+  {
+    "text": "I work very well with men, but\nI love having female friends",
+    "start": 310.91,
+    "duration": 4.26
+  },
+  {
+    "text": "and coworkers.",
+    "start": 315.17,
+    "duration": 1.23
+  },
+  {
+    "text": "And so I became a\nventure capitalist,",
+    "start": 316.4,
+    "duration": 1.74
+  },
+  {
+    "text": "and I went to build my network\nof venture capitalists.",
+    "start": 318.14,
+    "duration": 2.7
+  },
+  {
+    "text": "And I knew a lot of\nthem from my days",
+    "start": 320.84,
+    "duration": 2.27
+  },
+  {
+    "text": "when I was a\nfounder fundraising.",
+    "start": 323.11,
+    "duration": 2.1
+  },
+  {
+    "text": "But as I was making those\nconnections and sort",
+    "start": 325.21,
+    "duration": 3.3
+  },
+  {
+    "text": "of reconnecting\nwith people, I was",
+    "start": 328.51,
+    "duration": 4.11
+  },
+  {
+    "text": "aware at how few\nwomen there were.",
+    "start": 332.62,
+    "duration": 3.21
+  },
+  {
+    "text": "And so as I got\ncurious about that,",
+    "start": 335.83,
+    "duration": 2.4
+  },
+  {
+    "text": "I started to dig into the data.",
+    "start": 338.23,
+    "duration": 2.25
+  },
+  {
+    "text": "And the more I dug into\nthe data, the more abysmal",
+    "start": 340.48,
+    "duration": 3.3
+  },
+  {
+    "text": "I realized the\ndata was, not just",
+    "start": 343.78,
+    "duration": 2.1
+  },
+  {
+    "text": "on how many venture\ncapitalists there",
+    "start": 345.88,
+    "duration": 2.34
+  },
+  {
+    "text": "were who were truly\ndeploying the capital",
+    "start": 348.22,
+    "duration": 2.31
+  },
+  {
+    "text": "and being decision-makers,\nbut also how little of venture",
+    "start": 350.53,
+    "duration": 3.93
+  },
+  {
+    "text": "capital was going to women.",
+    "start": 354.46,
+    "duration": 1.65
+  },
+  {
+    "text": "I did not know until\nI became a VC myself.",
+    "start": 356.11,
+    "duration": 4.26
+  },
+  {
+    "text": "CURT NICKISCH: I have to admit\nthis is something that just",
+    "start": 360.37,
+    "duration": 2.64
+  },
+  {
+    "text": "baffles me, too, right,\nbecause you would think",
+    "start": 363.01,
+    "duration": 2.61
+  },
+  {
+    "text": "that in a business where you're\nreally trying to attract money",
+    "start": 365.62,
+    "duration": 4.62
+  },
+  {
+    "text": "to invest in companies\nto make money,",
+    "start": 370.24,
+    "duration": 2.58
+  },
+  {
+    "text": "you have very, very,\nvery clear incentives.",
+    "start": 372.82,
+    "duration": 4.05
+  },
+  {
+    "text": "It just doesn't\nmake sense that you",
+    "start": 376.87,
+    "duration": 1.56
+  },
+  {
+    "text": "would pass on value that\ncomes into your boardroom",
+    "start": 378.43,
+    "duration": 5.42
+  },
+  {
+    "text": "to make a pitch to you\njust because of gender.",
+    "start": 383.85,
+    "duration": 3.88
+  },
+  {
+    "text": "It just-- like, it should be\nso easy for people to see value",
+    "start": 387.73,
+    "duration": 5.13
+  },
+  {
+    "text": "that other people aren't\nseeing and just invest in it",
+    "start": 392.86,
+    "duration": 3.15
+  },
+  {
+    "text": "and snap it up.",
+    "start": 396.01,
+    "duration": 0.683
+  },
+  {
+    "text": "JENNY LEFCOURT:\nYeah, so I guess--",
+    "start": 396.693,
+    "duration": 1.417
+  },
+  {
+    "text": "I think a little\neducation or breakdown",
+    "start": 398.11,
+    "duration": 2.46
+  },
+  {
+    "text": "of how the systems have\nworked may actually",
+    "start": 400.57,
+    "duration": 3.24
+  },
+  {
+    "text": "shine some light onto this.",
+    "start": 403.81,
+    "duration": 1.14
+  },
+  {
+    "text": "CURT NICKISCH: OK.",
+    "start": 404.95,
+    "duration": 0.75
+  },
+  {
+    "text": "JENNY LEFCOURT: So venture\ncapitalists use their network--",
+    "start": 405.7,
+    "duration": 3.75
+  },
+  {
+    "text": "we-- and I'll say\nwe use our networks",
+    "start": 409.45,
+    "duration": 2.52
+  },
+  {
+    "text": "to deliver founders\nwho then present to us",
+    "start": 411.97,
+    "duration": 3.45
+  },
+  {
+    "text": "and show us a vision and ideas\nthat we can have conviction in.",
+    "start": 415.42,
+    "duration": 5.94
+  },
+  {
+    "text": "And so, one, you're relying on\nyour network to show you that.",
+    "start": 421.36,
+    "duration": 5.52
+  },
+  {
+    "text": "And so a lot of times\nit's not so much",
+    "start": 426.88,
+    "duration": 2.73
+  },
+  {
+    "text": "that you pass because\nsomeone was a woman",
+    "start": 429.61,
+    "duration": 2.37
+  },
+  {
+    "text": "or someone was a\nperson of color,",
+    "start": 431.98,
+    "duration": 1.56
+  },
+  {
+    "text": "you may never have seen\nit, depending on what",
+    "start": 433.54,
+    "duration": 2.43
+  },
+  {
+    "text": "your network looks like.",
+    "start": 435.97,
+    "duration": 1.8
+  },
+  {
+    "text": "And then the second thing\nis at the earliest stages,",
+    "start": 437.77,
+    "duration": 3.33
+  },
+  {
+    "text": "there is no data.",
+    "start": 441.1,
+    "duration": 1.77
+  },
+  {
+    "text": "So you're looking to have this\ngut feeling, this conviction,",
+    "start": 442.87,
+    "duration": 4.47
+  },
+  {
+    "text": "to believe.",
+    "start": 447.34,
+    "duration": 1.38
+  },
+  {
+    "text": "And so the reality is\nthere's pattern recognition.",
+    "start": 448.72,
+    "duration": 4.32
+  },
+  {
+    "text": "And so you're looking at\nsomeone across the table.",
+    "start": 453.04,
+    "duration": 2.97
+  },
+  {
+    "text": "Do they look like\nsomeone who is going",
+    "start": 456.01,
+    "duration": 2.76
+  },
+  {
+    "text": "to build a big powerful\nvaluable company?",
+    "start": 458.77,
+    "duration": 3.24
+  },
+  {
+    "text": "And most of those\nvaluable companies",
+    "start": 462.01,
+    "duration": 3.36
+  },
+  {
+    "text": "had been built by white men.",
+    "start": 465.37,
+    "duration": 2.49
+  },
+  {
+    "text": "That brings us to\nunconscious biases.",
+    "start": 467.86,
+    "duration": 2.4
+  },
+  {
+    "text": "So, one, I think it's how many\ntimes are venture capitalists",
+    "start": 470.26,
+    "duration": 4.77
+  },
+  {
+    "text": "seeing the right\ncompanies, right,",
+    "start": 475.03,
+    "duration": 2.28
+  },
+  {
+    "text": "the right founders\nwith the right visions?",
+    "start": 477.31,
+    "duration": 1.98
+  },
+  {
+    "text": "So you have to make sure that\nyou have the right things",
+    "start": 479.29,
+    "duration": 2.292
+  },
+  {
+    "text": "in your pipeline.",
+    "start": 481.582,
+    "duration": 1.008
+  },
+  {
+    "text": "And then the second part\nis making sure, especially",
+    "start": 482.59,
+    "duration": 2.88
+  },
+  {
+    "text": "at the early days when there\nisn't enough data, that you",
+    "start": 485.47,
+    "duration": 3.09
+  },
+  {
+    "text": "have really parked your\nunconscious biases aside.",
+    "start": 488.56,
+    "duration": 3.48
+  },
+  {
+    "text": "Because if you don't,\nyou're basically--",
+    "start": 492.04,
+    "duration": 3.18
+  },
+  {
+    "text": "especially if you think\nabout Mark Zuckerberg,",
+    "start": 495.22,
+    "duration": 2.9
+  },
+  {
+    "text": "the young dropout from\nHarvard with the gray hoodie--",
+    "start": 498.12,
+    "duration": 3.4
+  },
+  {
+    "text": "you saw a lot of guys that\nlooked like that getting funded",
+    "start": 501.52,
+    "duration": 3.9
+  },
+  {
+    "text": "after Facebook was successful.",
+    "start": 505.42,
+    "duration": 1.92
+  },
+  {
+    "text": "And that is pattern recognition\nat its finest, otherwise known",
+    "start": 507.34,
+    "duration": 3.84
+  },
+  {
+    "text": "as unconscious biases.",
+    "start": 511.18,
+    "duration": 2.129
+  },
+  {
+    "text": "CURT NICKISCH: So you're in\nthis kind of catch-22 situation,",
+    "start": 513.309,
+    "duration": 2.821
+  },
+  {
+    "text": "where to have more funding\nin female founders,",
+    "start": 516.13,
+    "duration": 3.45
+  },
+  {
+    "text": "you need more of them\nto be successful.",
+    "start": 519.58,
+    "duration": 1.829
+  },
+  {
+    "text": "But if people aren't\nputting money into them,",
+    "start": 521.409,
+    "duration": 2.461
+  },
+  {
+    "text": "they won't be successful.",
+    "start": 523.87,
+    "duration": 1.457
+  },
+  {
+    "text": "JENNY LEFCOURT: That is correct.",
+    "start": 525.327,
+    "duration": 1.333
+  },
+  {
+    "text": "So I think there's a\nfew things at play.",
+    "start": 526.66,
+    "duration": 2.04
+  },
+  {
+    "text": "One is because the\nfirst round of financing",
+    "start": 528.7,
+    "duration": 3.87
+  },
+  {
+    "text": "is a little bit more leap of\nfaith, right, lacks the data,",
+    "start": 532.57,
+    "duration": 4.62
+  },
+  {
+    "text": "you believe in the team, and\nyou believe in the vision.",
+    "start": 537.19,
+    "duration": 4.35
+  },
+  {
+    "text": "You need more of those.",
+    "start": 541.54,
+    "duration": 1.89
+  },
+  {
+    "text": "So those rounds of\ncapital are smaller.",
+    "start": 543.43,
+    "duration": 3.87
+  },
+  {
+    "text": "And then when those\ngroups, those teams,",
+    "start": 547.3,
+    "duration": 2.88
+  },
+  {
+    "text": "are successful, as\ntheir success grows",
+    "start": 550.18,
+    "duration": 2.7
+  },
+  {
+    "text": "and as their company grows,\nthey raise more venture capital.",
+    "start": 552.88,
+    "duration": 3.63
+  },
+  {
+    "text": "And the sizes of\nthose rounds just",
+    "start": 556.51,
+    "duration": 2.07
+  },
+  {
+    "text": "keep getting bigger\nand bigger and bigger.",
+    "start": 558.58,
+    "duration": 2.58
+  },
+  {
+    "text": "So if you want to change\nthe gender diversity and who",
+    "start": 561.16,
+    "duration": 5.16
+  },
+  {
+    "text": "is getting the venture\ncapital, you actually",
+    "start": 566.32,
+    "duration": 2.37
+  },
+  {
+    "text": "have to get it at\nthe earliest stages.",
+    "start": 568.69,
+    "duration": 2.61
+  },
+  {
+    "text": "Because whoever is doing\ntheir massive $100 million",
+    "start": 571.3,
+    "duration": 4.32
+  },
+  {
+    "text": "round today, they got\nstarted five years ago.",
+    "start": 575.62,
+    "duration": 5.71
+  },
+  {
+    "text": "So when I look at the\ndata, there's a few things",
+    "start": 581.33,
+    "duration": 3.66
+  },
+  {
+    "text": "that I like to look\nat, to really say,",
+    "start": 584.99,
+    "duration": 2.57
+  },
+  {
+    "text": "can I have hope that\nthis is changing,",
+    "start": 587.56,
+    "duration": 2.26
+  },
+  {
+    "text": "that this can go in\nthe right direction,",
+    "start": 589.82,
+    "duration": 1.71
+  },
+  {
+    "text": "even if the numbers\ntoday don't show it.",
+    "start": 591.53,
+    "duration": 2.46
+  },
+  {
+    "text": "So two big things,\none is what percentage",
+    "start": 593.99,
+    "duration": 4.8
+  },
+  {
+    "text": "of the decision-makers,\nthe people who",
+    "start": 598.79,
+    "duration": 2.19
+  },
+  {
+    "text": "are writing the checks,\ndeploying the capital,",
+    "start": 600.98,
+    "duration": 2.97
+  },
+  {
+    "text": "sitting on boards,\nare women, right?",
+    "start": 603.95,
+    "duration": 3.57
+  },
+  {
+    "text": "Is there gender diversity\nin venture capitalists?",
+    "start": 607.52,
+    "duration": 3.36
+  },
+  {
+    "text": "And then the second\nis what percent",
+    "start": 610.88,
+    "duration": 3.36
+  },
+  {
+    "text": "of early-stage financing\nare going to diverse teams?",
+    "start": 614.24,
+    "duration": 4.56
+  },
+  {
+    "text": "Because if you just\nlook at the number,",
+    "start": 618.8,
+    "duration": 2.58
+  },
+  {
+    "text": "the big number, of what\npercentage of venture capital",
+    "start": 621.38,
+    "duration": 3.96
+  },
+  {
+    "text": "went to diverse\nteams in 2020, it",
+    "start": 625.34,
+    "duration": 2.97
+  },
+  {
+    "text": "is so small because it is super\nskewed by these large rounds.",
+    "start": 628.31,
+    "duration": 7.26
+  },
+  {
+    "text": "And, of course, the\nlarge rounds are",
+    "start": 635.57,
+    "duration": 2.25
+  },
+  {
+    "text": "going to go to who was\nfunded five years ago, which",
+    "start": 637.82,
+    "duration": 2.31
+  },
+  {
+    "text": "wasn't very diverse.",
+    "start": 640.13,
+    "duration": 2.61
+  },
+  {
+    "text": "CURT NICKISCH: Mm-hmm.",
+    "start": 642.74,
+    "duration": 2.22
+  },
+  {
+    "text": "So this is one reason\nthat you founded AllRaise,",
+    "start": 644.96,
+    "duration": 3.24
+  },
+  {
+    "text": "this nonprofit to boost\nfunding in female entrepreneurs",
+    "start": 648.2,
+    "duration": 4.47
+  },
+  {
+    "text": "and also pressure really venture\ncapital firms to put more",
+    "start": 652.67,
+    "duration": 6.0
+  },
+  {
+    "text": "women into check-writing roles.",
+    "start": 658.67,
+    "duration": 3.15
+  },
+  {
+    "text": "What kind of resistance\nhave you encountered?",
+    "start": 661.82,
+    "duration": 4.278
+  },
+  {
+    "text": "JENNY LEFCOURT: So when\nwe started AllRaise",
+    "start": 666.098,
+    "duration": 1.792
+  },
+  {
+    "text": "three years ago, we felt\nlike there was an opportunity",
+    "start": 667.89,
+    "duration": 3.51
+  },
+  {
+    "text": "to make a very positive\ndifference in tech, as it",
+    "start": 671.4,
+    "duration": 4.71
+  },
+  {
+    "text": "related to gender diversity.",
+    "start": 676.11,
+    "duration": 2.25
+  },
+  {
+    "text": "And we felt like there were two\nsort of big levers to improve.",
+    "start": 678.36,
+    "duration": 4.65
+  },
+  {
+    "text": "One was the percentage\nof venture capitalists",
+    "start": 683.01,
+    "duration": 3.27
+  },
+  {
+    "text": "who were women,\nand the other was",
+    "start": 686.28,
+    "duration": 2.49
+  },
+  {
+    "text": "the percentage of venture\ncapital going to diverse teams.",
+    "start": 688.77,
+    "duration": 3.54
+  },
+  {
+    "text": "So the interesting\nthing is those two",
+    "start": 692.31,
+    "duration": 2.43
+  },
+  {
+    "text": "are not siloed, right?",
+    "start": 694.74,
+    "duration": 1.23
+  },
+  {
+    "text": "They go together.",
+    "start": 695.97,
+    "duration": 1.62
+  },
+  {
+    "text": "And at the time, we were seeing\nsigns of the power dynamic",
+    "start": 697.59,
+    "duration": 6.27
+  },
+  {
+    "text": "being with founders.",
+    "start": 703.86,
+    "duration": 2.16
+  },
+  {
+    "text": "And now I don't mean to\nclaim that all founders have",
+    "start": 706.02,
+    "duration": 2.34
+  },
+  {
+    "text": "the power in this dynamic.",
+    "start": 708.36,
+    "duration": 1.53
+  },
+  {
+    "text": "But the quote, unquote,\n\"hot companies,\"",
+    "start": 709.89,
+    "duration": 2.4
+  },
+  {
+    "text": "those founding teams do.",
+    "start": 712.29,
+    "duration": 1.65
+  },
+  {
+    "text": "They have many firms\nvying to write them checks",
+    "start": 713.94,
+    "duration": 3.36
+  },
+  {
+    "text": "and be their investors.",
+    "start": 717.3,
+    "duration": 1.53
+  },
+  {
+    "text": "And what we were seeing\nwas that those founders",
+    "start": 718.83,
+    "duration": 3.81
+  },
+  {
+    "text": "knew that diversity mattered.",
+    "start": 722.64,
+    "duration": 2.73
+  },
+  {
+    "text": "And they knew that to make\ntheir company wildly successful,",
+    "start": 725.37,
+    "duration": 4.05
+  },
+  {
+    "text": "not have a toxic culture,\nbe sort of appreciated",
+    "start": 729.42,
+    "duration": 3.66
+  },
+  {
+    "text": "by people of all kinds\nusing the product,",
+    "start": 733.08,
+    "duration": 2.58
+  },
+  {
+    "text": "they wanted to get diversity\nright out of the gate.",
+    "start": 735.66,
+    "duration": 3.87
+  },
+  {
+    "text": "And so they went\nlooking for firms",
+    "start": 739.53,
+    "duration": 3.27
+  },
+  {
+    "text": "who were modern and\ndiverse because they",
+    "start": 742.8,
+    "duration": 2.91
+  },
+  {
+    "text": "knew if they had people--",
+    "start": 745.71,
+    "duration": 4.14
+  },
+  {
+    "text": "they knew if their\nfunders were diverse,",
+    "start": 749.85,
+    "duration": 4.47
+  },
+  {
+    "text": "they would have a\ngreater chance of having",
+    "start": 754.32,
+    "duration": 2.52
+  },
+  {
+    "text": "a diverse board and then\na diverse organization.",
+    "start": 756.84,
+    "duration": 3.66
+  },
+  {
+    "text": "So as founders began wanting\nfirms who were diverse,",
+    "start": 760.5,
+    "duration": 4.23
+  },
+  {
+    "text": "it enabled us to\nlet the firms know",
+    "start": 764.73,
+    "duration": 2.85
+  },
+  {
+    "text": "that, which turned out to be\npressure for them to diversify.",
+    "start": 767.58,
+    "duration": 6.253
+  },
+  {
+    "text": "CURT NICKISCH:\nJenny, do you think",
+    "start": 773.833,
+    "duration": 1.417
+  },
+  {
+    "text": "there should be a mandate\nfor venture capital firms",
+    "start": 775.25,
+    "duration": 4.44
+  },
+  {
+    "text": "to have women in check-writing,\ndecision-making roles",
+    "start": 779.69,
+    "duration": 5.43
+  },
+  {
+    "text": "or a certain amount of\nmoney go into companies",
+    "start": 785.12,
+    "duration": 3.45
+  },
+  {
+    "text": "that are led by women or have\nwomen in the founding team?",
+    "start": 788.57,
+    "duration": 4.53
+  },
+  {
+    "text": "I ask that because there's\ninteresting comps, right,",
+    "start": 793.1,
+    "duration": 4.05
+  },
+  {
+    "text": "with boards in Nordic\ncountries, where",
+    "start": 797.15,
+    "duration": 2.61
+  },
+  {
+    "text": "they have mandated a\ncertain number of women",
+    "start": 799.76,
+    "duration": 2.25
+  },
+  {
+    "text": "on those boards.",
+    "start": 802.01,
+    "duration": 0.9
+  },
+  {
+    "text": "And it has substantially\naffected those boards",
+    "start": 802.91,
+    "duration": 4.26
+  },
+  {
+    "text": "and how they operate.",
+    "start": 807.17,
+    "duration": 1.17
+  },
+  {
+    "text": "And a lot of people\nwho didn't even",
+    "start": 808.34,
+    "duration": 2.1
+  },
+  {
+    "text": "like the mandate\nwhen it first went in",
+    "start": 810.44,
+    "duration": 2.34
+  },
+  {
+    "text": "feel like it's had\na positive effect.",
+    "start": 812.78,
+    "duration": 2.76
+  },
+  {
+    "text": "What do you think about that\nin the US venture capital",
+    "start": 815.54,
+    "duration": 3.6
+  },
+  {
+    "text": "industry?",
+    "start": 819.14,
+    "duration": 0.54
+  },
+  {
+    "text": "Would that kick-start things?",
+    "start": 819.68,
+    "duration": 2.22
+  },
+  {
+    "text": "JENNY LEFCOURT: I think\nthat mandates often",
+    "start": 821.9,
+    "duration": 2.01
+  },
+  {
+    "text": "do kick-start things,\nso it may be a direction",
+    "start": 823.91,
+    "duration": 3.09
+  },
+  {
+    "text": "that we one day have to go in.",
+    "start": 827.0,
+    "duration": 1.74
+  },
+  {
+    "text": "Right now, I'm hopeful that\nwe'll get there ourselves,",
+    "start": 828.74,
+    "duration": 4.26
+  },
+  {
+    "text": "we being the\nventure capitalists,",
+    "start": 833.0,
+    "duration": 1.74
+  },
+  {
+    "text": "before a mandate will even\nhave to get put in place",
+    "start": 834.74,
+    "duration": 3.48
+  },
+  {
+    "text": "because the impact is so great\nif people are truly educated",
+    "start": 838.22,
+    "duration": 5.64
+  },
+  {
+    "text": "on understanding why diversity\nmatters and the positive impact",
+    "start": 843.86,
+    "duration": 4.74
+  },
+  {
+    "text": "it can have on society\nand the profitability",
+    "start": 848.6,
+    "duration": 2.52
+  },
+  {
+    "text": "and success of the business.",
+    "start": 851.12,
+    "duration": 2.1
+  },
+  {
+    "text": "So because I am seeing\nso many people really",
+    "start": 853.22,
+    "duration": 3.99
+  },
+  {
+    "text": "get educated on the importance\nand monitoring it themselves,",
+    "start": 857.21,
+    "duration": 5.28
+  },
+  {
+    "text": "I guess I'm still hopeful\nthat we as an industry",
+    "start": 862.49,
+    "duration": 3.39
+  },
+  {
+    "text": "will get there before we even\nneed to put a mandate in place.",
+    "start": 865.88,
+    "duration": 4.68
+  },
+  {
+    "text": "CURT NICKISCH: I want to ask a\nlittle bit about the pandemic,",
+    "start": 870.56,
+    "duration": 2.79
+  },
+  {
+    "text": "right, because funding\nin women-led start-ups",
+    "start": 873.35,
+    "duration": 2.58
+  },
+  {
+    "text": "went down from\n2.9% down to 2.3%.",
+    "start": 875.93,
+    "duration": 4.23
+  },
+  {
+    "text": "What do you think is\nhappening currently?",
+    "start": 880.16,
+    "duration": 2.43
+  },
+  {
+    "text": "And does this trend worry you?",
+    "start": 882.59,
+    "duration": 2.82
+  },
+  {
+    "text": "JENNY LEFCOURT: So we\nexperienced a start-up boom",
+    "start": 885.41,
+    "duration": 3.15
+  },
+  {
+    "text": "in 2020.",
+    "start": 888.56,
+    "duration": 1.65
+  },
+  {
+    "text": "And more capital was\ndeployed than any other time,",
+    "start": 890.21,
+    "duration": 3.24
+  },
+  {
+    "text": "meaning more people were\nwriting checks into start-ups",
+    "start": 893.45,
+    "duration": 2.7
+  },
+  {
+    "text": "than any other time.",
+    "start": 896.15,
+    "duration": 1.41
+  },
+  {
+    "text": "And it was because the pandemic\naccelerated so much change,",
+    "start": 897.56,
+    "duration": 4.26
+  },
+  {
+    "text": "the way that people were\nworking, getting educated,",
+    "start": 901.82,
+    "duration": 4.47
+  },
+  {
+    "text": "shopping, exercise,\neverything completely changed.",
+    "start": 906.29,
+    "duration": 3.81
+  },
+  {
+    "text": "So two things\nhappened with that.",
+    "start": 910.1,
+    "duration": 1.92
+  },
+  {
+    "text": "One is you have a lot of\nnew opportunities showing",
+    "start": 912.02,
+    "duration": 3.21
+  },
+  {
+    "text": "themselves and young\nentrepreneurs--",
+    "start": 915.23,
+    "duration": 2.04
+  },
+  {
+    "text": "I don't mean young in age--\nbut founders starting companies",
+    "start": 917.27,
+    "duration": 5.04
+  },
+  {
+    "text": "to chase those opportunities.",
+    "start": 922.31,
+    "duration": 2.16
+  },
+  {
+    "text": "And then the second\nthing was that you",
+    "start": 924.47,
+    "duration": 1.92
+  },
+  {
+    "text": "had an insane acceleration for\nmany companies that were helped",
+    "start": 926.39,
+    "duration": 4.65
+  },
+  {
+    "text": "by these pandemic tailwinds.",
+    "start": 931.04,
+    "duration": 2.7
+  },
+  {
+    "text": "So there are companies that\nmaybe had funding in the past,",
+    "start": 933.74,
+    "duration": 4.68
+  },
+  {
+    "text": "that now the pandemic caused\nexplosive growth for them.",
+    "start": 938.42,
+    "duration": 4.11
+  },
+  {
+    "text": "And you had a lot of\nventure capitalists trying",
+    "start": 942.53,
+    "duration": 2.13
+  },
+  {
+    "text": "to write really big checks and\nput them into their companies.",
+    "start": 944.66,
+    "duration": 4.44
+  },
+  {
+    "text": "With that, you had this,\nthe numbers that you shared,",
+    "start": 949.1,
+    "duration": 3.78
+  },
+  {
+    "text": "of the amount of venture\ncapital going to diverse teams",
+    "start": 952.88,
+    "duration": 3.81
+  },
+  {
+    "text": "down in 2020 versus 2019.",
+    "start": 956.69,
+    "duration": 3.69
+  },
+  {
+    "text": "But what you need to\nunderstand is the lion's share",
+    "start": 960.38,
+    "duration": 2.76
+  },
+  {
+    "text": "of that are in the growth rounds\nof financing, those larger",
+    "start": 963.14,
+    "duration": 4.83
+  },
+  {
+    "text": "rounds of financing.",
+    "start": 967.97,
+    "duration": 1.65
+  },
+  {
+    "text": "And so that's going\nto dwarf what's",
+    "start": 969.62,
+    "duration": 2.19
+  },
+  {
+    "text": "happening at the early stages.",
+    "start": 971.81,
+    "duration": 1.895
+  },
+  {
+    "text": "CURT NICKISCH: So\nit may not have",
+    "start": 973.705,
+    "duration": 1.375
+  },
+  {
+    "text": "been as much of a backward\nslide as the 2.3% seems.",
+    "start": 975.08,
+    "duration": 4.903
+  },
+  {
+    "text": "JENNY LEFCOURT: Right.",
+    "start": 979.983,
+    "duration": 0.917
+  },
+  {
+    "text": "So I don't believe the\nbackward-- the numbers show",
+    "start": 980.9,
+    "duration": 2.67
+  },
+  {
+    "text": "a greater backward slide\nthan I think actually",
+    "start": 983.57,
+    "duration": 3.63
+  },
+  {
+    "text": "exists because I think that\nthe growth rounds are a lagging",
+    "start": 987.2,
+    "duration": 4.95
+  },
+  {
+    "text": "indicator of gender diversity,\nand the early-stage rounds are",
+    "start": 992.15,
+    "duration": 6.21
+  },
+  {
+    "text": "more a leading\nindicator on how are",
+    "start": 998.36,
+    "duration": 2.31
+  },
+  {
+    "text": "we doing on gender diversity.",
+    "start": 1000.67,
+    "duration": 2.07
+  },
+  {
+    "text": "Now I feel the need to point\nout we were pretty flat.",
+    "start": 1002.74,
+    "duration": 3.81
+  },
+  {
+    "text": "We had been going\nup and to the right",
+    "start": 1006.55,
+    "duration": 2.52
+  },
+  {
+    "text": "on early-stage financing\nor early-stage venture",
+    "start": 1009.07,
+    "duration": 2.49
+  },
+  {
+    "text": "capital going to diverse teams.",
+    "start": 1011.56,
+    "duration": 2.31
+  },
+  {
+    "text": "So it was still\nvery disappointing,",
+    "start": 1013.87,
+    "duration": 2.97
+  },
+  {
+    "text": "and definitely the\npandemic hit that.",
+    "start": 1016.84,
+    "duration": 2.58
+  },
+  {
+    "text": "But I don't think it is as\nbad as it appears because",
+    "start": 1019.42,
+    "duration": 4.26
+  },
+  {
+    "text": "of these differences\nbetween what",
+    "start": 1023.68,
+    "duration": 1.47
+  },
+  {
+    "text": "is the leading indicator\nversus the lagging indicator.",
+    "start": 1025.15,
+    "duration": 3.27
+  },
+  {
+    "text": "I would love to say,\nthough, that I believe",
+    "start": 1028.42,
+    "duration": 3.78
+  },
+  {
+    "text": "that, even with the\nearly-stage venture capital,",
+    "start": 1032.2,
+    "duration": 5.31
+  },
+  {
+    "text": "that it got impacted by the\nfact that things were happening",
+    "start": 1037.51,
+    "duration": 4.17
+  },
+  {
+    "text": "so quickly that venture\ncapitalists and founders were",
+    "start": 1041.68,
+    "duration": 4.919
+  },
+  {
+    "text": "relying on the old ways of\ndoing things, which is relying",
+    "start": 1046.599,
+    "duration": 3.181
+  },
+  {
+    "text": "on your network and going really\nquickly, so going with sort",
+    "start": 1049.78,
+    "duration": 3.99
+  },
+  {
+    "text": "of your gut or your\nquick conviction,",
+    "start": 1053.77,
+    "duration": 1.95
+  },
+  {
+    "text": "or I can trust them.",
+    "start": 1055.72,
+    "duration": 1.2
+  },
+  {
+    "text": "There are serial founders\nwho I believe in them,",
+    "start": 1056.92,
+    "duration": 2.82
+  },
+  {
+    "text": "and those are the things\nthat often trap us",
+    "start": 1059.74,
+    "duration": 2.82
+  },
+  {
+    "text": "into investing in\nthe same people we've",
+    "start": 1062.56,
+    "duration": 2.04
+  },
+  {
+    "text": "invested in the past or just\ninvesting in our network.",
+    "start": 1064.6,
+    "duration": 3.42
+  },
+  {
+    "text": "So I do believe that\nthe pandemic still",
+    "start": 1068.02,
+    "duration": 2.85
+  },
+  {
+    "text": "had an impact on early stage--",
+    "start": 1070.87,
+    "duration": 2.96
+  },
+  {
+    "text": "the percentage of early-stage\ncapital going to diverse teams.",
+    "start": 1073.83,
+    "duration": 3.84
+  },
+  {
+    "text": "I think it would have been\nmore positive or more up",
+    "start": 1077.67,
+    "duration": 2.73
+  },
+  {
+    "text": "into the right,\nlike it had been,",
+    "start": 1080.4,
+    "duration": 1.83
+  },
+  {
+    "text": "if things were a\nlittle bit slower,",
+    "start": 1082.23,
+    "duration": 2.25
+  },
+  {
+    "text": "and we weren't relying on\nsort of some old bad habits.",
+    "start": 1084.48,
+    "duration": 4.26
+  },
+  {
+    "text": "CURT NICKISCH: Now\nyou're in Silicon Valley,",
+    "start": 1088.74,
+    "duration": 2.65
+  },
+  {
+    "text": "the giant Bay Area venture\ncapital scene is your home.",
+    "start": 1091.39,
+    "duration": 5.39
+  },
+  {
+    "text": "I'm curious what you have\nbeen seeing in these trends",
+    "start": 1096.78,
+    "duration": 4.35
+  },
+  {
+    "text": "internationally.",
+    "start": 1101.13,
+    "duration": 0.87
+  },
+  {
+    "text": "And do you think investing\nin women-led companies,",
+    "start": 1102.0,
+    "duration": 4.77
+  },
+  {
+    "text": "female founders, whether that's\nan opportunity for other tech",
+    "start": 1106.77,
+    "duration": 5.07
+  },
+  {
+    "text": "clusters or other venture\ncapital firms in other places?",
+    "start": 1111.84,
+    "duration": 5.84
+  },
+  {
+    "text": "JENNY LEFCOURT: I do believe\nthat the pandemic changed",
+    "start": 1117.68,
+    "duration": 3.9
+  },
+  {
+    "text": "a lot of behaviors.",
+    "start": 1121.58,
+    "duration": 1.26
+  },
+  {
+    "text": "And one of them is that\nit's not in the valley",
+    "start": 1122.84,
+    "duration": 3.84
+  },
+  {
+    "text": "or just in the valley anymore.",
+    "start": 1126.68,
+    "duration": 2.82
+  },
+  {
+    "text": "And we had already\nbeen seeing trends",
+    "start": 1129.5,
+    "duration": 1.59
+  },
+  {
+    "text": "but once again the pandemic\naccelerated these trends.",
+    "start": 1131.09,
+    "duration": 3.54
+  },
+  {
+    "text": "And so I think that\nwhere someone is located,",
+    "start": 1134.63,
+    "duration": 4.38
+  },
+  {
+    "text": "their gender, what\ncollege they went to,",
+    "start": 1139.01,
+    "duration": 3.6
+  },
+  {
+    "text": "the people that they\nknow, a lot of that",
+    "start": 1142.61,
+    "duration": 2.49
+  },
+  {
+    "text": "carries less weight\nthan it used to.",
+    "start": 1145.1,
+    "duration": 2.88
+  },
+  {
+    "text": "And people are\nbeing more evaluated",
+    "start": 1147.98,
+    "duration": 2.16
+  },
+  {
+    "text": "by who they are, how they\nthink, the opportunity they're",
+    "start": 1150.14,
+    "duration": 3.0
+  },
+  {
+    "text": "pursuing, than a lot of\nother factors, I think,",
+    "start": 1153.14,
+    "duration": 3.27
+  },
+  {
+    "text": "that were deeply at play\nwith unconscious biases,",
+    "start": 1156.41,
+    "duration": 4.95
+  },
+  {
+    "text": "with old sort of\nSilicon Valley way.",
+    "start": 1161.36,
+    "duration": 2.212
+  },
+  {
+    "text": "CURT NICKISCH: It sounds\nlike, even though it's",
+    "start": 1163.572,
+    "duration": 1.958
+  },
+  {
+    "text": "been a little bit of a\nrough road for progress",
+    "start": 1165.53,
+    "duration": 2.91
+  },
+  {
+    "text": "in the pandemic, you've got\nsome hope for the future.",
+    "start": 1168.44,
+    "duration": 4.2
+  },
+  {
+    "text": "JENNY LEFCOURT: I absolutely\nhave hope for the future.",
+    "start": 1172.64,
+    "duration": 2.67
+  },
+  {
+    "text": "I'm not going to lie.",
+    "start": 1175.31,
+    "duration": 1.11
+  },
+  {
+    "text": "These numbers--\nseeing the numbers",
+    "start": 1176.42,
+    "duration": 1.8
+  },
+  {
+    "text": "were very disappointing.",
+    "start": 1178.22,
+    "duration": 1.74
+  },
+  {
+    "text": "However, looking at the most\ncompetitive important firms",
+    "start": 1179.96,
+    "duration": 5.34
+  },
+  {
+    "text": "in the valley diversifying,\nconsciously diversifying,",
+    "start": 1185.3,
+    "duration": 3.57
+  },
+  {
+    "text": "making sure that they had\nthe right people at the table",
+    "start": 1188.87,
+    "duration": 3.27
+  },
+  {
+    "text": "making decisions, knowing they\nneed to to stay competitive,",
+    "start": 1192.14,
+    "duration": 4.32
+  },
+  {
+    "text": "and then looking at\nthe founding teams",
+    "start": 1196.46,
+    "duration": 2.82
+  },
+  {
+    "text": "and seeing that, at\nthe early stages,",
+    "start": 1199.28,
+    "duration": 2.97
+  },
+  {
+    "text": "we are still seeing things,\neither in the pandemic",
+    "start": 1202.25,
+    "duration": 3.18
+  },
+  {
+    "text": "stay flat, or the good news\nis it looks like in Q1, 2021,",
+    "start": 1205.43,
+    "duration": 4.8
+  },
+  {
+    "text": "going up and to the right.",
+    "start": 1210.23,
+    "duration": 1.53
+  },
+  {
+    "text": "So diverse teams getting\nmore venture capital out",
+    "start": 1211.76,
+    "duration": 3.69
+  },
+  {
+    "text": "of the gate, which is sort\nof what matters, right?",
+    "start": 1215.45,
+    "duration": 3.175
+  },
+  {
+    "text": "Those are the companies that\nwill get the massive rounds,",
+    "start": 1218.625,
+    "duration": 2.375
+  },
+  {
+    "text": "the large rounds in the future.",
+    "start": 1221.0,
+    "duration": 2.85
+  },
+  {
+    "text": "So seeing those numbers look\ngood right at this moment,",
+    "start": 1223.85,
+    "duration": 4.26
+  },
+  {
+    "text": "those are the things\nthat give me hope.",
+    "start": 1228.11,
+    "duration": 2.28
+  },
+  {
+    "text": "And I would say the\nmost powerful thing",
+    "start": 1230.39,
+    "duration": 2.67
+  },
+  {
+    "text": "that gives me hope is\nhow educated founders are",
+    "start": 1233.06,
+    "duration": 3.84
+  },
+  {
+    "text": "on the importance of diversity\nwithin their organizations",
+    "start": 1236.9,
+    "duration": 3.84
+  },
+  {
+    "text": "and understanding that having\na diverse cap table, meaning",
+    "start": 1240.74,
+    "duration": 3.39
+  },
+  {
+    "text": "a diverse group\nof investors, will",
+    "start": 1244.13,
+    "duration": 2.28
+  },
+  {
+    "text": "help them achieve that almost\nbetter than anything else.",
+    "start": 1246.41,
+    "duration": 3.51
+  },
+  {
+    "text": "CURT NICKISCH: Jenny, what kind\nof progress are you seeing?",
+    "start": 1249.92,
+    "duration": 2.88
+  },
+  {
+    "text": "Who's kind of pioneering\nthis and taking advantage",
+    "start": 1252.8,
+    "duration": 4.89
+  },
+  {
+    "text": "of the trend that other people\nare slow to recognize and adapt",
+    "start": 1257.69,
+    "duration": 3.21
+  },
+  {
+    "text": "to?",
+    "start": 1260.9,
+    "duration": 0.99
+  },
+  {
+    "text": "JENNY LEFCOURT: I am seeing\nsome of the biggest, most",
+    "start": 1261.89,
+    "duration": 4.29
+  },
+  {
+    "text": "powerful firms diversifying.",
+    "start": 1266.18,
+    "duration": 2.67
+  },
+  {
+    "text": "So you have Benchmark,\nSequoia, a16z, USV,",
+    "start": 1268.85,
+    "duration": 6.42
+  },
+  {
+    "text": "those types of firms,\nwho went out of their way",
+    "start": 1275.27,
+    "duration": 3.54
+  },
+  {
+    "text": "knowing it was a smart\nmove for their firms",
+    "start": 1278.81,
+    "duration": 2.22
+  },
+  {
+    "text": "to stay competitive, putting\nwomen in positions of power.",
+    "start": 1281.03,
+    "duration": 4.11
+  },
+  {
+    "text": "Then on top of that,\nyou've seen a lot of women",
+    "start": 1285.14,
+    "duration": 3.24
+  },
+  {
+    "text": "start their own firms and be\nvery successful in raising",
+    "start": 1288.38,
+    "duration": 3.42
+  },
+  {
+    "text": "their capital to then deploy.",
+    "start": 1291.8,
+    "duration": 2.79
+  },
+  {
+    "text": "So you have [INAUDIBLE]\nLee at Convoy.",
+    "start": 1294.59,
+    "duration": 1.98
+  },
+  {
+    "text": "You have Kirsten\nGreen at Forerunner.",
+    "start": 1296.57,
+    "duration": 2.19
+  },
+  {
+    "text": "You have Mary Meeker at BOND.",
+    "start": 1298.76,
+    "duration": 2.4
+  },
+  {
+    "text": "You have a lot of funds\nthat recently raised,",
+    "start": 1301.16,
+    "duration": 2.61
+  },
+  {
+    "text": "so it's BBG, Construct\nCapital, Scalable Ventures,",
+    "start": 1303.77,
+    "duration": 3.75
+  },
+  {
+    "text": "Reach Capital.",
+    "start": 1307.52,
+    "duration": 0.78
+  },
+  {
+    "text": "I mean, I could keep on naming\nthem, Theresia Gouw at Aspect.",
+    "start": 1308.3,
+    "duration": 4.35
+  },
+  {
+    "text": "So I think that we're seeing\nthe biggest and best firms who",
+    "start": 1312.65,
+    "duration": 4.92
+  },
+  {
+    "text": "want to stay competitive\ndiversifying at the top.",
+    "start": 1317.57,
+    "duration": 2.79
+  },
+  {
+    "text": "And then I think you're seeing\na lot of limited partners,",
+    "start": 1320.36,
+    "duration": 2.73
+  },
+  {
+    "text": "the people who put\nchecks into VC firms,",
+    "start": 1323.09,
+    "duration": 4.53
+  },
+  {
+    "text": "like mine, having\nwomen either start",
+    "start": 1327.62,
+    "duration": 3.06
+  },
+  {
+    "text": "their own or being\nstrong equal partners.",
+    "start": 1330.68,
+    "duration": 3.95
+  },
+  {
+    "text": "CURT NICKISCH: Jenny, thanks\nso much for coming on the show.",
+    "start": 1334.63,
+    "duration": 2.5
+  },
+  {
+    "text": "JENNY LEFCOURT: Thank you\nfor having me and helping",
+    "start": 1337.13,
+    "duration": 2.13
+  },
+  {
+    "text": "us shine a light on this issue.",
+    "start": 1339.26,
+    "duration": 1.485
+  },
+  {
+    "text": "CURT NICKISCH: That's\nJenny Lefcourt.",
+    "start": 1343.28,
+    "duration": 1.56
+  },
+  {
+    "text": "She's a general partner\nat Freestyle Capital,",
+    "start": 1344.84,
+    "duration": 2.76
+  },
+  {
+    "text": "and she's a co-founder of\nthe nonprofit AllRaise.",
+    "start": 1347.6,
+    "duration": 3.09
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1350.69,
+    "duration": 2.455
+  },
+  {
+    "text": "This episode was\nproduced by Mary Dooe.",
+    "start": 1362.0,
+    "duration": 2.67
+  },
+  {
+    "text": "We get technical help\nfrom Rob Eckhart.",
+    "start": 1364.67,
+    "duration": 2.4
+  },
+  {
+    "text": "Adam Buckholtz is our\naudio product manager.",
+    "start": 1367.07,
+    "duration": 2.685
+  },
+  {
+    "text": "Thanks for listening\nto the HBR IdeaCast.",
+    "start": 1373.08,
+    "duration": 2.64
+  },
+  {
+    "text": "I'm Curt Nickisch.",
+    "start": 1375.72,
+    "duration": 1.65
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1377.37,
+    "duration": 2.75
+  }
+]

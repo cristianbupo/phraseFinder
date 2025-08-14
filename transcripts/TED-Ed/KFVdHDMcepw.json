@@ -1,0 +1,407 @@
+[
+  {
+    "text": "Upon emerging from stasis, Ethic is the \nunfortunate recipient of three surprises.",
+    "start": 29.937,
+    "duration": 7.44
+  },
+  {
+    "text": "The first: a prison cell.",
+    "start": 37.377,
+    "duration": 2.962
+  },
+  {
+    "text": "The second: complete amnesia.",
+    "start": 40.339,
+    "duration": 3.165
+  },
+  {
+    "text": "And the third: a mysterious stranger \nhas gotten stuck",
+    "start": 43.504,
+    "duration": 3.708
+  },
+  {
+    "text": "squeezing through the bars on her window.",
+    "start": 47.212,
+    "duration": 3.655
+  },
+  {
+    "text": "His name is Hedge, and he has come \nto help Ethic save the world.",
+    "start": 50.867,
+    "duration": 5.558
+  },
+  {
+    "text": "But first they have to break out of jail.",
+    "start": 56.425,
+    "duration": 3.531
+  },
+  {
+    "text": "Hedge turns his hand into a lockpick and \noutlines the challenge ahead.",
+    "start": 59.956,
+    "duration": 6.017
+  },
+  {
+    "text": "Each lock in the prison works \nin the same unusual way.",
+    "start": 65.973,
+    "duration": 4.65
+  },
+  {
+    "text": "Inside the keyhole is a red dial that can \nbe rotated to one of 100 positions",
+    "start": 70.623,
+    "duration": 6.628
+  },
+  {
+    "text": "numbered 1 through 100.",
+    "start": 77.251,
+    "duration": 2.448
+  },
+  {
+    "text": "The key for a given cell spins the dial \nto the right position,",
+    "start": 79.699,
+    "duration": 4.344
+  },
+  {
+    "text": "which, when stopped there, makes it turn \ngreen and unlocks the door.",
+    "start": 84.043,
+    "duration": 4.87
+  },
+  {
+    "text": "It would be out of the question to steal \nkeys from a guard,",
+    "start": 88.913,
+    "duration": 4.715
+  },
+  {
+    "text": "but Hedge has a better idea.",
+    "start": 93.628,
+    "duration": 3.137
+  },
+  {
+    "text": "Hedge can carry out Ethic‘s commands.",
+    "start": 96.765,
+    "duration": 2.731
+  },
+  {
+    "text": "If Ethic tells him to walk \n5 steps forward,",
+    "start": 99.496,
+    "duration": 3.2
+  },
+  {
+    "text": "turn right, then walk another 5 steps,",
+    "start": 102.696,
+    "duration": 3.475
+  },
+  {
+    "text": "that’s exactly what he’ll do.",
+    "start": 106.171,
+    "duration": 3.552
+  },
+  {
+    "text": "Hedge needs specific instructions though.",
+    "start": 109.723,
+    "duration": 3.121
+  },
+  {
+    "text": "If Ethic says “pick the lock” or \n“try every combination”",
+    "start": 112.844,
+    "duration": 4.156
+  },
+  {
+    "text": "that would be too vague, but “spin the \ndial 5 positions forward” would work.",
+    "start": 117.0,
+    "duration": 6.685
+  },
+  {
+    "text": "Once out of the cell, they will only have \na few moments to crack the lock",
+    "start": 123.685,
+    "duration": 4.022
+  },
+  {
+    "text": "for the outer prison door too before \nthe guards catch them.",
+    "start": 127.707,
+    "duration": 4.518
+  },
+  {
+    "text": "So what instructions will allow Hedge \nto efficiently open any door?",
+    "start": 132.225,
+    "duration": 5.48
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 140.325,
+    "duration": 4.07
+  },
+  {
+    "text": "Before we explain the solution, \nhere’s a hint.",
+    "start": 145.775,
+    "duration": 4.977
+  },
+  {
+    "text": "A key programming concept that can help \nunlock the door is called a loop.",
+    "start": 150.752,
+    "duration": 6.428
+  },
+  {
+    "text": "This can be one or more instructions \nthat Hedge will iterate— or repeat—",
+    "start": 157.18,
+    "duration": 5.33
+  },
+  {
+    "text": "a specified number of times,",
+    "start": 162.51,
+    "duration": 4.144
+  },
+  {
+    "text": "like “jump up and down 100 times.”",
+    "start": 166.654,
+    "duration": 3.411
+  },
+  {
+    "text": "Or an instruction that Hedge will \nrepeat until a condition is met,",
+    "start": 170.065,
+    "duration": 5.18
+  },
+  {
+    "text": "such as “keep jumping up and \ndown until it’s 7 o’clock.”",
+    "start": 175.245,
+    "duration": 4.986
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 180.231,
+    "duration": 6.017
+  },
+  {
+    "text": "The first thing that’s clear is that you \nneed to find a way for Hedge",
+    "start": 186.248,
+    "duration": 3.888
+  },
+  {
+    "text": "to try every combination until one works.",
+    "start": 190.136,
+    "duration": 4.094
+  },
+  {
+    "text": "What takes a little more effort is \nhow exactly you do so.",
+    "start": 194.23,
+    "duration": 4.29
+  },
+  {
+    "text": "One solution would be to instruct Hedge \nto try every combination in succession.",
+    "start": 198.52,
+    "duration": 5.28
+  },
+  {
+    "text": "Try 1 and check the light.",
+    "start": 203.8,
+    "duration": 2.705
+  },
+  {
+    "text": "If it turns green, open the door, \nand if not, try 2.",
+    "start": 206.505,
+    "duration": 5.848
+  },
+  {
+    "text": "If that doesn’t work try 3. \nAll the way up to 100.",
+    "start": 212.353,
+    "duration": 5.89
+  },
+  {
+    "text": "But it would be tedious to lay \nthat out in its entirety.",
+    "start": 218.243,
+    "duration": 3.574
+  },
+  {
+    "text": "Why write more than 100 lines of code,",
+    "start": 221.817,
+    "duration": 2.436
+  },
+  {
+    "text": "when you can do the same thing \nwith just 3?",
+    "start": 224.253,
+    "duration": 4.135
+  },
+  {
+    "text": "This is where a loop comes in.",
+    "start": 228.388,
+    "duration": 2.295
+  },
+  {
+    "text": "There are a few ways to go about this.",
+    "start": 230.683,
+    "duration": 3.225
+  },
+  {
+    "text": "The lock has 100 positions,",
+    "start": 233.908,
+    "duration": 2.355
+  },
+  {
+    "text": "so Ethic could say “Check the dial’s \ncolor, then spin the dial forward once,",
+    "start": 236.263,
+    "duration": 6.051
+  },
+  {
+    "text": "for 100 repetitions.",
+    "start": 242.314,
+    "duration": 3.882
+  },
+  {
+    "text": "Remember where the dial turns green, then \nhave Hedge set it back to that number.”",
+    "start": 246.196,
+    "duration": 6.816
+  },
+  {
+    "text": "A loop like this, where you specify \nthe number of times it repeats,",
+    "start": 253.012,
+    "duration": 4.167
+  },
+  {
+    "text": "is called a “for\" loop.",
+    "start": 257.179,
+    "duration": 2.986
+  },
+  {
+    "text": "But an even more efficient loop",
+    "start": 260.165,
+    "duration": 1.942
+  },
+  {
+    "text": "would have Hedge spin the dial one \nposition at a time until it turns green",
+    "start": 262.107,
+    "duration": 5.25
+  },
+  {
+    "text": "and as soon as that happens, have him \nstop and open the door.",
+    "start": 267.357,
+    "duration": 4.487
+  },
+  {
+    "text": "That way if the door unlocks on 1,",
+    "start": 271.844,
+    "duration": 3.409
+  },
+  {
+    "text": "he doesn’t need to cycle through \nall the rest of the numbers.",
+    "start": 275.253,
+    "duration": 3.995
+  },
+  {
+    "text": "This is an “until” loop,",
+    "start": 279.248,
+    "duration": 3.414
+  },
+  {
+    "text": "because it involves doing an \naction until a condition is met.",
+    "start": 282.662,
+    "duration": 4.78
+  },
+  {
+    "text": "A similar, alternate approach would be \nto turn the dial while it’s still red,",
+    "start": 287.442,
+    "duration": 4.769
+  },
+  {
+    "text": "then stop.",
+    "start": 292.211,
+    "duration": 2.099
+  },
+  {
+    "text": "That’s called a “while” loop.",
+    "start": 294.31,
+    "duration": 3.732
+  },
+  {
+    "text": "Back to the adventure.",
+    "start": 298.042,
+    "duration": 1.888
+  },
+  {
+    "text": "Hedge loops through the combinations, \nand the cell opens at 41.",
+    "start": 299.93,
+    "duration": 7.1
+  },
+  {
+    "text": "Ethic and Hedge wait until the \nperfect moment in the guards’ rotation",
+    "start": 307.03,
+    "duration": 3.921
+  },
+  {
+    "text": "and make a break for it.",
+    "start": 310.951,
+    "duration": 3.529
+  },
+  {
+    "text": "Soon, Ethic faces a choice: \nhide inside a mysterious crystal,",
+    "start": 314.48,
+    "duration": 5.407
+  },
+  {
+    "text": "or try to crack the outer door \nand make a run for it.",
+    "start": 319.887,
+    "duration": 3.964
+  },
+  {
+    "text": "Ethic chooses to run.",
+    "start": 323.851,
+    "duration": 2.266
+  },
+  {
+    "text": "The second door takes Hedge longer, \nrequiring him to spin all the way to 93.",
+    "start": 328.227,
+    "duration": 6.416
+  },
+  {
+    "text": "But he gets it open",
+    "start": 334.643,
+    "duration": 2.55
+  },
+  {
+    "text": "and takes the opportunity \nto explain why he’s rescued Ethic.",
+    "start": 343.871,
+    "duration": 4.87
+  },
+  {
+    "text": "The world is in turmoil:",
+    "start": 348.741,
+    "duration": 1.728
+  },
+  {
+    "text": "robots have taken over, \nand only Ethic can set things right.",
+    "start": 350.469,
+    "duration": 4.073
+  },
+  {
+    "text": "In order to do so,",
+    "start": 354.542,
+    "duration": 1.153
+  },
+  {
+    "text": "they’ll need to collect three \npowerful artifacts",
+    "start": 355.695,
+    "duration": 2.466
+  },
+  {
+    "text": "that are being used for nefarious \npurposes across the land.",
+    "start": 358.161,
+    "duration": 3.462
+  },
+  {
+    "text": "Only then can Ethic return to the \nworld machine— that giant crystal—",
+    "start": 361.623,
+    "duration": 4.348
+  },
+  {
+    "text": "to set things right.",
+    "start": 365.971,
+    "duration": 1.5
+  },
+  {
+    "text": "Ethic may have escaped the prison…",
+    "start": 379.685,
+    "duration": 2.84
+  },
+  {
+    "text": "but what has she gotten herself into?",
+    "start": 382.525,
+    "duration": 2.93
+  }
+]

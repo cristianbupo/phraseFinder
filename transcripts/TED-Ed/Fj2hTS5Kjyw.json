@@ -1,0 +1,342 @@
+[
+  {
+    "text": "It’s an incredible discovery:",
+    "start": 7.121,
+    "duration": 1.711
+  },
+  {
+    "text": "an ancient, abandoned alien space station \nfilled with precursor technology.",
+    "start": 8.832,
+    "duration": 5.566
+  },
+  {
+    "text": "But now, every species in the galaxy is \nin a mad dash to get there first",
+    "start": 14.398,
+    "duration": 5.41
+  },
+  {
+    "text": "and claim it for themselves.",
+    "start": 19.808,
+    "duration": 2.3
+  },
+  {
+    "text": "And right away, you’ve got a problem.",
+    "start": 22.108,
+    "duration": 2.586
+  },
+  {
+    "text": "Your ship’s faster-than-light jump drive \nconsumes 1 unit of fuel",
+    "start": 24.694,
+    "duration": 4.293
+  },
+  {
+    "text": "for every parsec of distance it takes you,",
+    "start": 28.987,
+    "duration": 2.848
+  },
+  {
+    "text": "and your ship holds only 15 units of fuel.",
+    "start": 31.835,
+    "duration": 3.428
+  },
+  {
+    "text": "But the space station is 23 parsecs away,",
+    "start": 35.263,
+    "duration": 3.51
+  },
+  {
+    "text": "and there’s only empty space between \nthere and here.",
+    "start": 38.773,
+    "duration": 4.098
+  },
+  {
+    "text": "There’s one thing that can \nhelp you, though:",
+    "start": 42.871,
+    "duration": 2.11
+  },
+  {
+    "text": "dark matter fuel is stable in deep space.",
+    "start": 44.981,
+    "duration": 3.038
+  },
+  {
+    "text": "That means you can vent a cache of it \nfrom your fuel chamber,",
+    "start": 48.019,
+    "duration": 3.251
+  },
+  {
+    "text": "and then come back to pick \nit up again later.",
+    "start": 51.27,
+    "duration": 3.135
+  },
+  {
+    "text": "Even though your ship holds \nonly 15 units of fuel,",
+    "start": 54.405,
+    "duration": 3.19
+  },
+  {
+    "text": "you’ve been granted use of all 45 units \nin your current location.",
+    "start": 57.595,
+    "duration": 4.97
+  },
+  {
+    "text": "With some strategic fuel caching \nalong the way,",
+    "start": 62.565,
+    "duration": 2.736
+  },
+  {
+    "text": "you might be able to \nmake it all 23 parsecs.",
+    "start": 65.301,
+    "duration": 3.668
+  },
+  {
+    "text": "So how can you reach the \nalien space station?",
+    "start": 68.969,
+    "duration": 3.38
+  },
+  {
+    "text": "Answer in 3,",
+    "start": 75.501,
+    "duration": 1.76
+  },
+  {
+    "text": "2,",
+    "start": 77.261,
+    "duration": 1.516
+  },
+  {
+    "text": "1.",
+    "start": 78.777,
+    "duration": 1.668
+  },
+  {
+    "text": "It’s possible to solve this riddle using \nas few as two cache points,",
+    "start": 80.445,
+    "duration": 4.86
+  },
+  {
+    "text": "and there are also valid solutions \nthat use more.",
+    "start": 85.305,
+    "duration": 3.267
+  },
+  {
+    "text": "No matter how you go about it though,",
+    "start": 88.572,
+    "duration": 1.931
+  },
+  {
+    "text": "the key is determining exactly where \nto cache fuel along your route.",
+    "start": 90.503,
+    "duration": 4.98
+  },
+  {
+    "text": "Let’s work backwards from the \nalien space station.",
+    "start": 95.483,
+    "duration": 2.854
+  },
+  {
+    "text": "To reach 23 parsecs,",
+    "start": 98.337,
+    "duration": 1.851
+  },
+  {
+    "text": "you’ll have to leave the 8-parsec \nmark with a full tank of fuel.",
+    "start": 100.188,
+    "duration": 4.37
+  },
+  {
+    "text": "The 8-parsec point is too far from the \nstart to use as a cache right away;",
+    "start": 104.558,
+    "duration": 4.941
+  },
+  {
+    "text": "you could jump there, but wouldn’t have \nenough fuel to return to the start,",
+    "start": 109.499,
+    "duration": 4.163
+  },
+  {
+    "text": "let alone store any for later.",
+    "start": 113.662,
+    "duration": 2.382
+  },
+  {
+    "text": "So that means you’ll need to find a cache \nsomewhere between the start and 8.",
+    "start": 116.044,
+    "duration": 4.89
+  },
+  {
+    "text": "But where?",
+    "start": 120.934,
+    "duration": 1.093
+  },
+  {
+    "text": "There’s an interesting pattern \nthat can help.",
+    "start": 122.027,
+    "duration": 2.293
+  },
+  {
+    "text": "At the start you have exactly 3 tanks’ \nworth of fuel.",
+    "start": 124.32,
+    "duration": 3.085
+  },
+  {
+    "text": "At 8 parsecs you need exactly 1.",
+    "start": 127.405,
+    "duration": 2.96
+  },
+  {
+    "text": "Is there a point, which we can call \npoint X, where you could have exactly 2?",
+    "start": 130.365,
+    "duration": 5.674
+  },
+  {
+    "text": "That would be useful, because then you \ncould refuel there exactly twice,",
+    "start": 136.039,
+    "duration": 4.71
+  },
+  {
+    "text": "making full use of your storage capacity \nwithout any waste.",
+    "start": 140.749,
+    "duration": 4.245
+  },
+  {
+    "text": "Wherever point X is,",
+    "start": 144.994,
+    "duration": 1.75
+  },
+  {
+    "text": "you’ll jump forward from it twice:",
+    "start": 146.744,
+    "duration": 2.446
+  },
+  {
+    "text": "once to deposit some fuel at the 8-parsec \ncache point, and a second time for good.",
+    "start": 149.19,
+    "duration": 5.58
+  },
+  {
+    "text": "So you’ll jump the distance between X and \n8-parsecs 3 times in all.",
+    "start": 154.77,
+    "duration": 5.362
+  },
+  {
+    "text": "You’d have 2 tanks of fuel at point X, and\nneed 1 left at the 8 parsec cache point,",
+    "start": 160.132,
+    "duration": 5.98
+  },
+  {
+    "text": "so you can spend one tank-- or 15 units-- \ngoing back and forth.",
+    "start": 166.112,
+    "duration": 5.489
+  },
+  {
+    "text": "Since 15 units divided by 3 trips is 5,",
+    "start": 171.601,
+    "duration": 3.639
+  },
+  {
+    "text": "we can place these two cache points \n5 parsecs apart.",
+    "start": 175.24,
+    "duration": 4.534
+  },
+  {
+    "text": "Any farther, and you wouldn’t have enough \nfuel to reach the alien space station.",
+    "start": 179.774,
+    "duration": 4.51
+  },
+  {
+    "text": "So it looks like the earliest we can place\npoint X is at the 3-parsec mark.",
+    "start": 184.284,
+    "duration": 5.008
+  },
+  {
+    "text": "Is it possible to transport 30 units of \nfuel there? Let’s try.",
+    "start": 189.292,
+    "duration": 4.485
+  },
+  {
+    "text": "You set out with a full tank of 15 units.",
+    "start": 193.777,
+    "duration": 2.75
+  },
+  {
+    "text": "You jump 3 parsecs, drop 9 units \noff at the cache point,",
+    "start": 196.527,
+    "duration": 4.128
+  },
+  {
+    "text": "and then jump the 3 units home, \narriving with an empty tank.",
+    "start": 200.655,
+    "duration": 4.49
+  },
+  {
+    "text": "Repeating this process gets you 18 units \nof fuel at the cache point,",
+    "start": 205.145,
+    "duration": 4.662
+  },
+  {
+    "text": "and one more jump puts you at the 3-parsec\ncache with 30 total units of fuel.",
+    "start": 209.807,
+    "duration": 6.031
+  },
+  {
+    "text": "So far so good!",
+    "start": 215.838,
+    "duration": 1.711
+  },
+  {
+    "text": "Next, you jump to the 8-parsec mark,",
+    "start": 217.549,
+    "duration": 2.605
+  },
+  {
+    "text": "drop off 5 units of fuel, and jump \nback to the 3-parsec mark.",
+    "start": 220.154,
+    "duration": 4.63
+  },
+  {
+    "text": "You fill up your tank and \njump forward again,",
+    "start": 224.784,
+    "duration": 2.766
+  },
+  {
+    "text": "arriving with 10 units of \nfuel in your tank.",
+    "start": 227.55,
+    "duration": 3.38
+  },
+  {
+    "text": "And now the end is in sight.",
+    "start": 230.93,
+    "duration": 1.901
+  },
+  {
+    "text": "You beam the 5 units of fuel in from deep \nspace to fill your tank to capacity,",
+    "start": 232.831,
+    "duration": 5.31
+  },
+  {
+    "text": "and type in the coordinates of \nyour final destination.",
+    "start": 238.141,
+    "duration": 3.144
+  },
+  {
+    "text": "A 15-parsec jump leaves you \nrunning on fumes,",
+    "start": 241.285,
+    "duration": 3.4
+  },
+  {
+    "text": "but ready to dock with the \nprecursor space station.",
+    "start": 244.685,
+    "duration": 3.252
+  },
+  {
+    "text": "Time to put this alien tech to work",
+    "start": 247.937,
+    "duration": 2.283
+  },
+  {
+    "text": "and make life better for everyone \nin the galaxy.",
+    "start": 250.22,
+    "duration": 3.06
+  }
+]

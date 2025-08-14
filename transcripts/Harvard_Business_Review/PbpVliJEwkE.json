@@ -1,0 +1,3512 @@
+[
+  {
+    "text": "NARRATOR: HBR presents.",
+    "start": 1.7,
+    "duration": 1.17
+  },
+  {
+    "text": "BRIAN KENNY: A question for\nyou social media aficionados--",
+    "start": 9.09,
+    "duration": 3.36
+  },
+  {
+    "text": "what do Daily Booth, Yik\nYak, Friendster, and Meerkat",
+    "start": 12.45,
+    "duration": 4.86
+  },
+  {
+    "text": "have in common?",
+    "start": 17.31,
+    "duration": 1.27
+  },
+  {
+    "text": "Well, in a word--",
+    "start": 18.58,
+    "duration": 1.55
+  },
+  {
+    "text": "failure.",
+    "start": 20.13,
+    "duration": 1.02
+  },
+  {
+    "text": "They each have the\ndubious distinction",
+    "start": 21.15,
+    "duration": 1.8
+  },
+  {
+    "text": "of being among the long\nlist of once-wildly-popular,",
+    "start": 22.95,
+    "duration": 3.3
+  },
+  {
+    "text": "and now defunct,\nsocial media platforms.",
+    "start": 26.25,
+    "duration": 2.79
+  },
+  {
+    "text": "They join the likes\nof Vine, Google+,",
+    "start": 29.04,
+    "duration": 2.37
+  },
+  {
+    "text": "and others that were once\ndeclared the next big thing,",
+    "start": 31.41,
+    "duration": 2.94
+  },
+  {
+    "text": "with valuations in the\nhundreds of millions,",
+    "start": 34.35,
+    "duration": 2.49
+  },
+  {
+    "text": "only to hit a pothole on\nthe information superhighway",
+    "start": 36.84,
+    "duration": 3.0
+  },
+  {
+    "text": "and careen off into oblivion.",
+    "start": 39.84,
+    "duration": 1.95
+  },
+  {
+    "text": "In the brief history\nof the internet,",
+    "start": 41.79,
+    "duration": 1.83
+  },
+  {
+    "text": "there are, in fact, dozens\nof social media platforms",
+    "start": 43.62,
+    "duration": 2.79
+  },
+  {
+    "text": "that had faltered after\nshowing great promise.",
+    "start": 46.41,
+    "duration": 2.43
+  },
+  {
+    "text": "And there are a few--\nyou know the ones--",
+    "start": 48.84,
+    "duration": 2.55
+  },
+  {
+    "text": "that have hit their stride\nand continued to thrive,",
+    "start": 51.39,
+    "duration": 3.03
+  },
+  {
+    "text": "all of which leaves\none to wonder,",
+    "start": 54.42,
+    "duration": 2.07
+  },
+  {
+    "text": "will we know the next\nbig thing when we see it?",
+    "start": 56.49,
+    "duration": 2.79
+  },
+  {
+    "text": "Today on Cold Call, we've\ninvited Professor Jeffrey",
+    "start": 59.28,
+    "duration": 2.88
+  },
+  {
+    "text": "Rayport to discuss his case\nentitled, \"TikTok and 2020:",
+    "start": 62.16,
+    "duration": 4.35
+  },
+  {
+    "text": "Super App or Supernova?\"",
+    "start": 66.51,
+    "duration": 2.1
+  },
+  {
+    "text": "I'm your host, Brian\nKenny, and you're",
+    "start": 68.61,
+    "duration": 1.65
+  },
+  {
+    "text": "listening to Cold Call on\nthe HBR Presents network.",
+    "start": 70.26,
+    "duration": 5.01
+  },
+  {
+    "text": "Jeffrey Rayport is a member\nof the Entrepreneurial Faculty",
+    "start": 75.27,
+    "duration": 2.76
+  },
+  {
+    "text": "Unit at Harvard Business School\nand an expert in online media",
+    "start": 78.03,
+    "duration": 3.42
+  },
+  {
+    "text": "and e-commerce, with a focus\non new business opportunities",
+    "start": 81.45,
+    "duration": 3.15
+  },
+  {
+    "text": "enabled by emerging\ndigital technologies.",
+    "start": 84.6,
+    "duration": 2.55
+  },
+  {
+    "text": "I think you're a three-peat\nhere on Cold Call, Jeffrey,",
+    "start": 87.15,
+    "duration": 2.91
+  },
+  {
+    "text": "so thanks for coming\nback and joining us.",
+    "start": 90.06,
+    "duration": 1.86
+  },
+  {
+    "text": "JEFFREY RAYPORT: Brian, thank\nyou so much for having me.",
+    "start": 91.92,
+    "duration": 2.04
+  },
+  {
+    "text": "BRIAN KENNY: This\nis a super fun case.",
+    "start": 93.96,
+    "duration": 1.62
+  },
+  {
+    "text": "I will admit that\nbefore reading the case,",
+    "start": 95.58,
+    "duration": 1.95
+  },
+  {
+    "text": "I had spent virtually\nno time on TikTok,",
+    "start": 97.53,
+    "duration": 2.7
+  },
+  {
+    "text": "but everybody in\nmy house around me",
+    "start": 100.23,
+    "duration": 1.588
+  },
+  {
+    "text": "seems to be on it all the time.",
+    "start": 101.818,
+    "duration": 1.292
+  },
+  {
+    "text": "So I thought, OK, I'll\njust log in and test it out",
+    "start": 103.11,
+    "duration": 2.163
+  },
+  {
+    "text": "for a few minutes and\nsee what it's all about.",
+    "start": 105.273,
+    "duration": 1.917
+  },
+  {
+    "text": "And literally, about\n30 minutes later,",
+    "start": 107.19,
+    "duration": 2.23
+  },
+  {
+    "text": "I dug myself out of the hole\nthat I had burrowed myself",
+    "start": 109.42,
+    "duration": 2.9
+  },
+  {
+    "text": "in on TikTok videos.",
+    "start": 112.32,
+    "duration": 1.44
+  },
+  {
+    "text": "It's amazing.",
+    "start": 113.76,
+    "duration": 0.9
+  },
+  {
+    "text": "It's really-- I'm not\nsure how to describe it,",
+    "start": 114.66,
+    "duration": 2.61
+  },
+  {
+    "text": "but it's amazing.",
+    "start": 117.27,
+    "duration": 0.923
+  },
+  {
+    "text": "JEFFREY RAYPORT:\nIt is remarkable.",
+    "start": 118.193,
+    "duration": 1.417
+  },
+  {
+    "text": "And all I can say is,\nif you were captivated",
+    "start": 119.61,
+    "duration": 2.37
+  },
+  {
+    "text": "for those first 30 minutes,\nspend a couple of hours",
+    "start": 121.98,
+    "duration": 2.25
+  },
+  {
+    "text": "with it, and wait till that\nAI figures out who you are,",
+    "start": 124.23,
+    "duration": 3.12
+  },
+  {
+    "text": "and then it would become\neven more magnetic.",
+    "start": 127.35,
+    "duration": 1.833
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 129.183,
+    "duration": 0.75
+  },
+  {
+    "text": "Let me ask you to\nstart by telling us,",
+    "start": 129.933,
+    "duration": 1.737
+  },
+  {
+    "text": "when you step into\nthe classroom,",
+    "start": 131.67,
+    "duration": 1.56
+  },
+  {
+    "text": "what would your cold call be\nto start the case on TikTok?",
+    "start": 133.23,
+    "duration": 2.885
+  },
+  {
+    "text": "JEFFREY RAYPORT:\nWell, Brian, you",
+    "start": 136.115,
+    "duration": 1.375
+  },
+  {
+    "text": "said it was a really fun case.",
+    "start": 137.49,
+    "duration": 1.02
+  },
+  {
+    "text": "I completely agree with you.",
+    "start": 138.51,
+    "duration": 1.167
+  },
+  {
+    "text": "And the Cold Call, I think--",
+    "start": 139.677,
+    "duration": 1.263
+  },
+  {
+    "text": "maybe this is just a faculty\nmember's point of view--",
+    "start": 140.94,
+    "duration": 2.208
+  },
+  {
+    "text": "is really fun, too.",
+    "start": 143.148,
+    "duration": 0.912
+  },
+  {
+    "text": "You know, there's\nthis interesting kind",
+    "start": 144.06,
+    "duration": 2.25
+  },
+  {
+    "text": "of question in every\nmedia business, that",
+    "start": 146.31,
+    "duration": 2.94
+  },
+  {
+    "text": "is the tradeoff between\ngrowing audience and driving",
+    "start": 149.25,
+    "duration": 3.6
+  },
+  {
+    "text": "the business model.",
+    "start": 152.85,
+    "duration": 1.11
+  },
+  {
+    "text": "And TikTok, for\nall the reasons you",
+    "start": 153.96,
+    "duration": 2.1
+  },
+  {
+    "text": "just mentioned in your intro--",
+    "start": 156.06,
+    "duration": 2.1
+  },
+  {
+    "text": "the fact that there have been a\nlot of video player sites, Vine",
+    "start": 158.16,
+    "duration": 3.51
+  },
+  {
+    "text": "being maybe the most obvious\nthat seem to be similar,",
+    "start": 161.67,
+    "duration": 3.24
+  },
+  {
+    "text": "kind of short-form, virally\ndistributed video content",
+    "start": 164.91,
+    "duration": 3.57
+  },
+  {
+    "text": "that have come and gone.",
+    "start": 168.48,
+    "duration": 1.29
+  },
+  {
+    "text": "So the presenting question\nin the case for our students",
+    "start": 169.77,
+    "duration": 2.7
+  },
+  {
+    "text": "and for our executives\nis, here you",
+    "start": 172.47,
+    "duration": 2.1
+  },
+  {
+    "text": "are, a global phenomenon--\nof course, this is 2020--",
+    "start": 174.57,
+    "duration": 2.85
+  },
+  {
+    "text": "and TikTok has recorded\nover 2 billion downloads,",
+    "start": 177.42,
+    "duration": 3.72
+  },
+  {
+    "text": "the fastest-spreading app in\nthe history of the app economy,",
+    "start": 181.14,
+    "duration": 3.75
+  },
+  {
+    "text": "starting in 2008.",
+    "start": 184.89,
+    "duration": 1.38
+  },
+  {
+    "text": "It has a vast global audience\nby anyone's standards,",
+    "start": 186.27,
+    "duration": 3.78
+  },
+  {
+    "text": "but less than 2% of\nits global revenues",
+    "start": 190.05,
+    "duration": 2.73
+  },
+  {
+    "text": "are generated in\nthe United States.",
+    "start": 192.78,
+    "duration": 1.86
+  },
+  {
+    "text": "And so the question\nis, do you continue",
+    "start": 194.64,
+    "duration": 2.4
+  },
+  {
+    "text": "to drive audience growth\nin the United States,",
+    "start": 197.04,
+    "duration": 2.61
+  },
+  {
+    "text": "or do you double down on\nmonetization of that audience",
+    "start": 199.65,
+    "duration": 3.45
+  },
+  {
+    "text": "by introducing a number of\nrevenue-generating activities,",
+    "start": 203.1,
+    "duration": 3.37
+  },
+  {
+    "text": "the most obvious of which\nwould be advertising?",
+    "start": 206.47,
+    "duration": 2.24
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 208.71,
+    "duration": 0.75
+  },
+  {
+    "text": "That's a great way\nto start the case.",
+    "start": 209.46,
+    "duration": 1.23
+  },
+  {
+    "text": "I would add one\ndimension to that,",
+    "start": 210.69,
+    "duration": 1.417
+  },
+  {
+    "text": "which is if Brian Kenny\nstarts to use the app,",
+    "start": 212.107,
+    "duration": 1.973
+  },
+  {
+    "text": "is it still valuable?",
+    "start": 214.08,
+    "duration": 1.35
+  },
+  {
+    "text": "Because I think I've driven many\nof these social media platforms",
+    "start": 215.43,
+    "duration": 3.54
+  },
+  {
+    "text": "into the ground when\nI started to use them.",
+    "start": 218.97,
+    "duration": 1.96
+  },
+  {
+    "text": "JEFFREY RAYPORT: Well, that\nis a very interesting point.",
+    "start": 220.93,
+    "duration": 1.79
+  },
+  {
+    "text": "Some research just came\nout in the last few days,",
+    "start": 222.72,
+    "duration": 2.22
+  },
+  {
+    "text": "saying, good news to\nyou big brands who are",
+    "start": 224.94,
+    "duration": 2.152
+  },
+  {
+    "text": "getting interested in TikTok.",
+    "start": 227.092,
+    "duration": 1.208
+  },
+  {
+    "text": "It turns out that the audience\nis roughly evenly divided",
+    "start": 228.3,
+    "duration": 2.52
+  },
+  {
+    "text": "between young people who\nare actually cool and hip",
+    "start": 230.82,
+    "duration": 2.49
+  },
+  {
+    "text": "and will drive the\nvirality of the app,",
+    "start": 233.31,
+    "duration": 1.83
+  },
+  {
+    "text": "and us somewhat older and\neven more affluent folks--",
+    "start": 235.14,
+    "duration": 3.24
+  },
+  {
+    "text": "53% of the audience\nhave household incomes",
+    "start": 238.38,
+    "duration": 2.16
+  },
+  {
+    "text": "over $150,000.",
+    "start": 240.54,
+    "duration": 1.51
+  },
+  {
+    "text": "So it turns out it appeals\nto all ages and all stages",
+    "start": 242.05,
+    "duration": 3.8
+  },
+  {
+    "text": "of the socioeconomic spectrum.",
+    "start": 245.85,
+    "duration": 1.56
+  },
+  {
+    "text": "So you're in good company.",
+    "start": 247.41,
+    "duration": 1.29
+  },
+  {
+    "text": "BRIAN KENNY: Good to know.",
+    "start": 248.7,
+    "duration": 0.6
+  },
+  {
+    "text": "So Jeffrey, what caught your\nattention about this case?",
+    "start": 249.3,
+    "duration": 2.16
+  },
+  {
+    "text": "Why did you decide to\nwrite it, and how does it",
+    "start": 251.46,
+    "duration": 1.958
+  },
+  {
+    "text": "relate to the things that\nyou think about as a scholar?",
+    "start": 253.418,
+    "duration": 2.722
+  },
+  {
+    "text": "JEFFREY RAYPORT:\nBrian, I guess I",
+    "start": 256.14,
+    "duration": 0.72
+  },
+  {
+    "text": "could say that there were\nmultiple triggers to writing",
+    "start": 256.86,
+    "duration": 2.099
+  },
+  {
+    "text": "this case.",
+    "start": 258.959,
+    "duration": 0.511
+  },
+  {
+    "text": "TikTok had certainly caught\nmy eye as something--",
+    "start": 259.47,
+    "duration": 3.33
+  },
+  {
+    "text": "and again, you alluded to\nthis in your introduction.",
+    "start": 262.8,
+    "duration": 2.73
+  },
+  {
+    "text": "It is very hard to\ndefine what TikTok is.",
+    "start": 265.53,
+    "duration": 3.45
+  },
+  {
+    "text": "One of the questions\nthat gets most excitement",
+    "start": 268.98,
+    "duration": 2.13
+  },
+  {
+    "text": "in the classroom is literally\npushing students, participants,",
+    "start": 271.11,
+    "duration": 3.48
+  },
+  {
+    "text": "executives, to\nanswer that question.",
+    "start": 274.59,
+    "duration": 2.13
+  },
+  {
+    "text": "What is it?",
+    "start": 276.72,
+    "duration": 0.96
+  },
+  {
+    "text": "On top of that, with\nthe 2 billion downloads,",
+    "start": 277.68,
+    "duration": 2.82
+  },
+  {
+    "text": "it kind of looks\nlike escape velocity,",
+    "start": 280.5,
+    "duration": 2.01
+  },
+  {
+    "text": "and just in the last\nfew weeks, TikTok",
+    "start": 282.51,
+    "duration": 1.65
+  },
+  {
+    "text": "has reported that\nit now has over",
+    "start": 284.16,
+    "duration": 1.5
+  },
+  {
+    "text": "a billion daily active users.",
+    "start": 285.66,
+    "duration": 1.57
+  },
+  {
+    "text": "So it's unlikely this\nis a flash in the pan.",
+    "start": 287.23,
+    "duration": 2.18
+  },
+  {
+    "text": "But that was another\nquestion, which",
+    "start": 289.41,
+    "duration": 1.5
+  },
+  {
+    "text": "is, what does it take to create\na sustainable and scaling",
+    "start": 290.91,
+    "duration": 3.78
+  },
+  {
+    "text": "venture?",
+    "start": 294.69,
+    "duration": 0.75
+  },
+  {
+    "text": "And that goes right back\nto this question of,",
+    "start": 295.44,
+    "duration": 1.96
+  },
+  {
+    "text": "do you need scale\nin the audience,",
+    "start": 297.4,
+    "duration": 1.49
+  },
+  {
+    "text": "or do you actually need to\ndemonstrate a robust business",
+    "start": 298.89,
+    "duration": 2.4
+  },
+  {
+    "text": "model?",
+    "start": 301.29,
+    "duration": 0.54
+  },
+  {
+    "text": "And the final thing to say\nis that the company that",
+    "start": 301.83,
+    "duration": 2.55
+  },
+  {
+    "text": "created it--",
+    "start": 304.38,
+    "duration": 0.66
+  },
+  {
+    "text": "ByteDance-- is not\neven 10 years old.",
+    "start": 305.04,
+    "duration": 2.73
+  },
+  {
+    "text": "TikTok itself is not\neven five years old.",
+    "start": 307.77,
+    "duration": 2.88
+  },
+  {
+    "text": "In some ways, we've never seen\na phenomenon quite like this--",
+    "start": 310.65,
+    "duration": 4.26
+  },
+  {
+    "text": "brand-new, discontinuous\ninnovation, extraordinary pace",
+    "start": 314.91,
+    "duration": 3.15
+  },
+  {
+    "text": "of uptake.",
+    "start": 318.06,
+    "duration": 0.93
+  },
+  {
+    "text": "And then, potentially,\nenormous impact",
+    "start": 318.99,
+    "duration": 1.588
+  },
+  {
+    "text": "on the worlds of advertising\npromotion and media.",
+    "start": 320.578,
+    "duration": 2.042
+  },
+  {
+    "text": "BRIAN KENNY: So let's go back\nto that question of what it is.",
+    "start": 322.62,
+    "duration": 2.14
+  },
+  {
+    "text": "How do you define it?",
+    "start": 324.76,
+    "duration": 0.96
+  },
+  {
+    "text": "JEFFREY RAYPORT: I was\nthinking about that.",
+    "start": 325.72,
+    "duration": 1.1
+  },
+  {
+    "text": "The other day, I\nwas with a group",
+    "start": 326.82,
+    "duration": 1.65
+  },
+  {
+    "text": "of 40, 50 executives\ntalking about this,",
+    "start": 328.47,
+    "duration": 1.86
+  },
+  {
+    "text": "and I asked them the question\nwe're just talking about.",
+    "start": 330.33,
+    "duration": 2.292
+  },
+  {
+    "text": "And I thought I'd just share\nwith you and our listeners what",
+    "start": 332.622,
+    "duration": 2.628
+  },
+  {
+    "text": "came out of their impressions.",
+    "start": 335.25,
+    "duration": 1.608
+  },
+  {
+    "text": "BRIAN KENNY: Great.",
+    "start": 336.858,
+    "duration": 0.792
+  },
+  {
+    "text": "JEFFREY RAYPORT:\nSo one was, it's",
+    "start": 337.65,
+    "duration": 1.23
+  },
+  {
+    "text": "a reinvention of\nbroadcast television.",
+    "start": 338.88,
+    "duration": 1.68
+  },
+  {
+    "text": "One of the pundits in the\ncase talks about it being TV",
+    "start": 340.56,
+    "duration": 2.61
+  },
+  {
+    "text": "without the remote.",
+    "start": 343.17,
+    "duration": 1.05
+  },
+  {
+    "text": "And guess what?",
+    "start": 344.22,
+    "duration": 0.66
+  },
+  {
+    "text": "There is a remote.",
+    "start": 344.88,
+    "duration": 0.75
+  },
+  {
+    "text": "It's called the AI.",
+    "start": 345.63,
+    "duration": 1.567
+  },
+  {
+    "text": "Interesting.",
+    "start": 347.197,
+    "duration": 0.953
+  },
+  {
+    "text": "It's clearly, in some\nways, a social network.",
+    "start": 348.15,
+    "duration": 2.65
+  },
+  {
+    "text": "It is also a performance\nplatform or a performance",
+    "start": 350.8,
+    "duration": 2.45
+  },
+  {
+    "text": "venue.",
+    "start": 353.25,
+    "duration": 0.63
+  },
+  {
+    "text": "It's a marketplace, and\nalso a retail platform,",
+    "start": 353.88,
+    "duration": 2.45
+  },
+  {
+    "text": "because people buy and\nsell stuff, as well",
+    "start": 356.33,
+    "duration": 1.75
+  },
+  {
+    "text": "as brands accessing the\nservices of influencers.",
+    "start": 358.08,
+    "duration": 2.88
+  },
+  {
+    "text": "It's big on brand promotion,\nin that a lot of brands",
+    "start": 360.96,
+    "duration": 3.03
+  },
+  {
+    "text": "go there simply to\nexpress themselves.",
+    "start": 363.99,
+    "duration": 2.56
+  },
+  {
+    "text": "We also see a lot\nof what you might",
+    "start": 366.55,
+    "duration": 1.55
+  },
+  {
+    "text": "call branded publishing or\ncontent marketing happening",
+    "start": 368.1,
+    "duration": 2.1
+  },
+  {
+    "text": "on the site.",
+    "start": 370.2,
+    "duration": 0.5
+  },
+  {
+    "text": "And then, on top of that--\nsurprise, surprise--",
+    "start": 370.7,
+    "duration": 2.11
+  },
+  {
+    "text": "as TikTok has enabled certain\nhigh-followership influencers",
+    "start": 372.81,
+    "duration": 3.99
+  },
+  {
+    "text": "to get more time--",
+    "start": 376.8,
+    "duration": 1.38
+  },
+  {
+    "text": "meaning, we've gone from 15\nto 60 seconds as the permitted",
+    "start": 378.18,
+    "duration": 4.05
+  },
+  {
+    "text": "length of a TikTok\nvideo to, now,",
+    "start": 382.23,
+    "duration": 1.77
+  },
+  {
+    "text": "three-minute standard-- it is\neven become an edtech platform.",
+    "start": 384.0,
+    "duration": 3.6
+  },
+  {
+    "text": "There are people\nteaching on TikTok.",
+    "start": 387.6,
+    "duration": 1.65
+  },
+  {
+    "text": "So this question of\n\"what is it,\" I think,",
+    "start": 389.25,
+    "duration": 2.04
+  },
+  {
+    "text": "is really, really fascinating.",
+    "start": 391.29,
+    "duration": 1.74
+  },
+  {
+    "text": "And I think where I come down\nis where one of the-- again, one",
+    "start": 393.03,
+    "duration": 3.12
+  },
+  {
+    "text": "of the pundits in\nthe case says this",
+    "start": 396.15,
+    "duration": 1.53
+  },
+  {
+    "text": "is the first time that\na mainstream consumer",
+    "start": 397.68,
+    "duration": 2.16
+  },
+  {
+    "text": "application has come to market,\nwhere AI is the product.",
+    "start": 399.84,
+    "duration": 3.99
+  },
+  {
+    "text": "I think this is--",
+    "start": 403.83,
+    "duration": 1.14
+  },
+  {
+    "text": "at the end of the\nday, this is an AI.",
+    "start": 404.97,
+    "duration": 2.24
+  },
+  {
+    "text": "BRIAN KENNY: What's\ndifferent about the AI",
+    "start": 407.21,
+    "duration": 1.75
+  },
+  {
+    "text": "that TikTok is using?",
+    "start": 408.96,
+    "duration": 1.187
+  },
+  {
+    "text": "JEFFREY RAYPORT: What's\ninteresting and different,",
+    "start": 410.147,
+    "duration": 2.083
+  },
+  {
+    "text": "to my mind, about TikTok\nis that we don't explicitly",
+    "start": 412.23,
+    "duration": 4.71
+  },
+  {
+    "text": "give the app any\ninformation about ourselves.",
+    "start": 416.94,
+    "duration": 2.745
+  },
+  {
+    "text": "You go to Facebook or LinkedIn.",
+    "start": 419.685,
+    "duration": 1.648
+  },
+  {
+    "text": "You build a social profile,\nand you identify your friends,",
+    "start": 421.333,
+    "duration": 2.417
+  },
+  {
+    "text": "and you make connections.",
+    "start": 423.75,
+    "duration": 0.94
+  },
+  {
+    "text": "That's a lot of information\nyou're anteing up-- obviously,",
+    "start": 424.69,
+    "duration": 2.06
+  },
+  {
+    "text": "very controversial\nright now, with all",
+    "start": 426.75,
+    "duration": 1.583
+  },
+  {
+    "text": "the backlash around privacy.",
+    "start": 428.333,
+    "duration": 1.387
+  },
+  {
+    "text": "Google knows a ton about\nus, for the simple reason",
+    "start": 429.72,
+    "duration": 2.418
+  },
+  {
+    "text": "that even if you do nothing\nelse, you search on Google.",
+    "start": 432.138,
+    "duration": 2.292
+  },
+  {
+    "text": "So it knows what\nwe're interested in.",
+    "start": 434.43,
+    "duration": 1.542
+  },
+  {
+    "text": "It's, as we used to call\nit, a database of intent.",
+    "start": 435.972,
+    "duration": 3.138
+  },
+  {
+    "text": "TikTok never asks for\nprofile information.",
+    "start": 439.11,
+    "duration": 2.94
+  },
+  {
+    "text": "You input absolutely no\ndata, as you found out",
+    "start": 442.05,
+    "duration": 3.082
+  },
+  {
+    "text": "with your 30 minutes with\nTikTok the other day.",
+    "start": 445.132,
+    "duration": 1.958
+  },
+  {
+    "text": "The only data, if you will,\nthat the AI is ingesting",
+    "start": 447.09,
+    "duration": 4.35
+  },
+  {
+    "text": "is your behavior with the app.",
+    "start": 451.44,
+    "duration": 2.99
+  },
+  {
+    "text": "What's interesting, though, is\nthat for TikTok's mainstream",
+    "start": 454.43,
+    "duration": 3.73
+  },
+  {
+    "text": "users, people who\nare committed users,",
+    "start": 458.16,
+    "duration": 1.74
+  },
+  {
+    "text": "the average user has\nabout 2,000 meta tags",
+    "start": 459.9,
+    "duration": 2.73
+  },
+  {
+    "text": "that ByteDance, the\nowner of TikTok,",
+    "start": 462.63,
+    "duration": 2.73
+  },
+  {
+    "text": "has developed in order to\nprofile each individual user.",
+    "start": 465.36,
+    "duration": 3.93
+  },
+  {
+    "text": "So you think about the fact\nthat your video behavior",
+    "start": 469.29,
+    "duration": 2.28
+  },
+  {
+    "text": "indicates categories and\ninterests and topics.",
+    "start": 471.57,
+    "duration": 3.27
+  },
+  {
+    "text": "Your phone reveals its\noperating system, your carrier,",
+    "start": 474.84,
+    "duration": 4.26
+  },
+  {
+    "text": "the model of phone you're on,\nthe speed of your connection.",
+    "start": 479.1,
+    "duration": 3.87
+  },
+  {
+    "text": "But maybe the most\nindicative is, of course,",
+    "start": 482.97,
+    "duration": 2.86
+  },
+  {
+    "text": "your behaviors within the app.",
+    "start": 485.83,
+    "duration": 1.8
+  },
+  {
+    "text": "What do you swipe on?",
+    "start": 487.63,
+    "duration": 0.883
+  },
+  {
+    "text": "What do you tap?",
+    "start": 488.513,
+    "duration": 0.667
+  },
+  {
+    "text": "What do you favorite?",
+    "start": 489.18,
+    "duration": 0.875
+  },
+  {
+    "text": "What do you share?",
+    "start": 490.055,
+    "duration": 0.835
+  },
+  {
+    "text": "Which videos do you complete?",
+    "start": 490.89,
+    "duration": 1.47
+  },
+  {
+    "text": "Which do you leave\nafter 2 seconds?",
+    "start": 492.36,
+    "duration": 2.2
+  },
+  {
+    "text": "Which videos do you\nnot just complete,",
+    "start": 494.56,
+    "duration": 1.64
+  },
+  {
+    "text": "but you watch seven times,\nbecause they're so amusing?",
+    "start": 496.2,
+    "duration": 2.76
+  },
+  {
+    "text": "All of those\nrepresent, if you will,",
+    "start": 498.96,
+    "duration": 2.79
+  },
+  {
+    "text": "unstructured data inputs that\nallows TikTok to develop very",
+    "start": 501.75,
+    "duration": 4.26
+  },
+  {
+    "text": "quickly, essentially,\na profile or an image,",
+    "start": 506.01,
+    "duration": 2.7
+  },
+  {
+    "text": "individualized down\nto a segment of one,",
+    "start": 508.71,
+    "duration": 2.4
+  },
+  {
+    "text": "to customize your video\nfeed, in a way that",
+    "start": 511.11,
+    "duration": 3.12
+  },
+  {
+    "text": "becomes increasingly appealing.",
+    "start": 514.23,
+    "duration": 2.069
+  },
+  {
+    "text": "And as I say, in a very\nshort period of time,",
+    "start": 516.299,
+    "duration": 2.221
+  },
+  {
+    "text": "I think most users experience\nthat the power of the AI",
+    "start": 518.52,
+    "duration": 2.519
+  },
+  {
+    "text": "is such that within two\nor three days of usage,",
+    "start": 521.039,
+    "duration": 3.101
+  },
+  {
+    "text": "this thing has gotten to\nknow you very, very well.",
+    "start": 524.14,
+    "duration": 2.37
+  },
+  {
+    "text": "And again, unlike\nGoogle, unlike Facebook,",
+    "start": 526.51,
+    "duration": 1.94
+  },
+  {
+    "text": "unlike any other platform\nyou can think of,",
+    "start": 528.45,
+    "duration": 1.89
+  },
+  {
+    "text": "you have told it nothing--",
+    "start": 530.34,
+    "duration": 1.98
+  },
+  {
+    "text": "or everything, depending\non your point of view.",
+    "start": 532.32,
+    "duration": 1.958
+  },
+  {
+    "text": "BRIAN KENNY: Like\nmost things with AI,",
+    "start": 534.278,
+    "duration": 1.584
+  },
+  {
+    "text": "it's both impressive and scary\nat the same time. (CHUCKLING)",
+    "start": 535.862,
+    "duration": 2.508
+  },
+  {
+    "text": "Right?",
+    "start": 538.37,
+    "duration": 0.28
+  },
+  {
+    "text": "JEFFREY RAYPORT: Absolutely.",
+    "start": 538.65,
+    "duration": 0.69
+  },
+  {
+    "text": "BRIAN KENNY: Let's\ntalk about the origins",
+    "start": 539.34,
+    "duration": 1.35
+  },
+  {
+    "text": "of the firm a little bit.",
+    "start": 540.69,
+    "duration": 1.09
+  },
+  {
+    "text": "We know that it's\na Chinese firm.",
+    "start": 541.78,
+    "duration": 1.94
+  },
+  {
+    "text": "It was started in China.",
+    "start": 543.72,
+    "duration": 1.02
+  },
+  {
+    "text": "But tell us a little bit\nabout what the inspiration was",
+    "start": 544.74,
+    "duration": 2.292
+  },
+  {
+    "text": "and how it got rolling.",
+    "start": 547.032,
+    "duration": 1.008
+  },
+  {
+    "text": "JEFFREY RAYPORT: The\nfounder of ByteDance,",
+    "start": 548.04,
+    "duration": 1.75
+  },
+  {
+    "text": "the parent company of TikTok,\nis a Chinese entrepreneur",
+    "start": 549.79,
+    "duration": 2.81
+  },
+  {
+    "text": "by the name of Zhang Yiming.",
+    "start": 552.6,
+    "duration": 2.01
+  },
+  {
+    "text": "He, in 2011, 2012,\nsaw something that",
+    "start": 554.61,
+    "duration": 3.84
+  },
+  {
+    "text": "will be familiar to\neveryone listening.",
+    "start": 558.45,
+    "duration": 2.59
+  },
+  {
+    "text": "And that is that people\ngetting on subway trains",
+    "start": 561.04,
+    "duration": 2.42
+  },
+  {
+    "text": "in Beijing, as they\nwere all over the world,",
+    "start": 563.46,
+    "duration": 1.98
+  },
+  {
+    "text": "were spending less time reading\nbroadsheet newspapers, print",
+    "start": 565.44,
+    "duration": 3.45
+  },
+  {
+    "text": "media, and more time reading\nnews on their smartphones.",
+    "start": 568.89,
+    "duration": 3.3
+  },
+  {
+    "text": "And so his initial\ninsight was that he could",
+    "start": 572.19,
+    "duration": 2.34
+  },
+  {
+    "text": "ride, effectively, two waves.",
+    "start": 574.53,
+    "duration": 1.89
+  },
+  {
+    "text": "One was the rapid pace\nof smartphone adoption",
+    "start": 576.42,
+    "duration": 2.76
+  },
+  {
+    "text": "that had begun, really, with the\nrelease of the iPhone in 2007",
+    "start": 579.18,
+    "duration": 3.0
+  },
+  {
+    "text": "and the Android phone\nshortly thereafter,",
+    "start": 582.18,
+    "duration": 1.83
+  },
+  {
+    "text": "combined with this shift\nfrom print to digital,",
+    "start": 584.01,
+    "duration": 3.36
+  },
+  {
+    "text": "specifically for news.",
+    "start": 587.37,
+    "duration": 1.8
+  },
+  {
+    "text": "And so the first\noffer from ByteDance",
+    "start": 589.17,
+    "duration": 2.37
+  },
+  {
+    "text": "was a service called Toutiao,\nwhich was essentially",
+    "start": 591.54,
+    "duration": 2.94
+  },
+  {
+    "text": "a news aggregator.",
+    "start": 594.48,
+    "duration": 1.54
+  },
+  {
+    "text": "But it was not\njust, if you will,",
+    "start": 596.02,
+    "duration": 2.15
+  },
+  {
+    "text": "state-controlled news or\nofficial news, but included--",
+    "start": 598.17,
+    "duration": 2.79
+  },
+  {
+    "text": "which was unusual for Chinese\nnews sources at the time--",
+    "start": 600.96,
+    "duration": 2.49
+  },
+  {
+    "text": "a huge amount of soft news,\ncelebrity reporting, gossip,",
+    "start": 603.45,
+    "duration": 3.66
+  },
+  {
+    "text": "and all the rest of it.",
+    "start": 607.11,
+    "duration": 1.0
+  },
+  {
+    "text": "But you could argue that\nthe secret sauce was",
+    "start": 608.11,
+    "duration": 2.87
+  },
+  {
+    "text": "the role of an artificial\nintelligence, which customized",
+    "start": 610.98,
+    "duration": 3.63
+  },
+  {
+    "text": "the news feed, based\non its increasing",
+    "start": 614.61,
+    "duration": 2.04
+  },
+  {
+    "text": "familiarity with each\nindividual user's interests,",
+    "start": 616.65,
+    "duration": 3.0
+  },
+  {
+    "text": "predilections, and tastes.",
+    "start": 619.65,
+    "duration": 2.55
+  },
+  {
+    "text": "As videos became more\npopular on Toutiao,",
+    "start": 622.2,
+    "duration": 4.05
+  },
+  {
+    "text": "he had an insight,\nwhich is, maybe",
+    "start": 626.25,
+    "duration": 2.22
+  },
+  {
+    "text": "this is a recipe for a\nbrand-new app offering.",
+    "start": 628.47,
+    "duration": 3.27
+  },
+  {
+    "text": "In this case, it\nwas Douyin, which",
+    "start": 631.74,
+    "duration": 1.86
+  },
+  {
+    "text": "was the predecessor to TikTok.",
+    "start": 633.6,
+    "duration": 1.317
+  },
+  {
+    "text": "It's still the brand\nname under which TikTok",
+    "start": 634.917,
+    "duration": 1.833
+  },
+  {
+    "text": "operates in mainland China.",
+    "start": 636.75,
+    "duration": 1.32
+  },
+  {
+    "text": "And that then became a mobile\napp or mobile-optimized service",
+    "start": 638.07,
+    "duration": 4.53
+  },
+  {
+    "text": "for short-form videos,\nagain, powered by the same AI",
+    "start": 642.6,
+    "duration": 4.14
+  },
+  {
+    "text": "that he developed in\nthe earliest stage",
+    "start": 646.74,
+    "duration": 1.83
+  },
+  {
+    "text": "with news aggregation.",
+    "start": 648.57,
+    "duration": 1.392
+  },
+  {
+    "text": "BRIAN KENNY: Is there\nsomething about the timing that",
+    "start": 649.962,
+    "duration": 2.208
+  },
+  {
+    "text": "made this particularly ripe\nfor people to adopt it?",
+    "start": 652.17,
+    "duration": 2.98
+  },
+  {
+    "text": "I'm thinking about increasing\nspeeds of broadband,",
+    "start": 655.15,
+    "duration": 2.66
+  },
+  {
+    "text": "the ability to\nstream video in ways",
+    "start": 657.81,
+    "duration": 2.31
+  },
+  {
+    "text": "that you couldn't, maybe, when\nhe first started with Toutiao.",
+    "start": 660.12,
+    "duration": 3.27
+  },
+  {
+    "text": "Did he hit on the right\ntiming, and for some reason,",
+    "start": 663.39,
+    "duration": 2.19
+  },
+  {
+    "text": "that allowed this to take off?",
+    "start": 665.58,
+    "duration": 1.353
+  },
+  {
+    "text": "JEFFREY RAYPORT: Absolutely.",
+    "start": 666.933,
+    "duration": 1.167
+  },
+  {
+    "text": "Two things were\nhappening, not only",
+    "start": 668.1,
+    "duration": 1.77
+  },
+  {
+    "text": "with smartphone adoption\nrunning at blazing speeds--",
+    "start": 669.87,
+    "duration": 3.067
+  },
+  {
+    "text": "not just in China, but\naround the world-- and just",
+    "start": 672.937,
+    "duration": 2.083
+  },
+  {
+    "text": "to put that in perspective,\ncurrent stats indicate",
+    "start": 675.02,
+    "duration": 2.94
+  },
+  {
+    "text": "that of the 7 billion-plus-minus\nhumans on Earth, about 5",
+    "start": 677.96,
+    "duration": 3.9
+  },
+  {
+    "text": "and 1/4 billion have\nactive mobile devices,",
+    "start": 681.86,
+    "duration": 3.33
+  },
+  {
+    "text": "and of those, about\n80% have smartphones.",
+    "start": 685.19,
+    "duration": 2.92
+  },
+  {
+    "text": "So we're now looking at\na world where over 50%",
+    "start": 688.11,
+    "duration": 2.21
+  },
+  {
+    "text": "of the human population\nhas a smartphone.",
+    "start": 690.32,
+    "duration": 1.83
+  },
+  {
+    "text": "That's all happened\nin the last 10 years,",
+    "start": 692.15,
+    "duration": 2.52
+  },
+  {
+    "text": "and it happened very,\nvery fast in China,",
+    "start": 694.67,
+    "duration": 2.13
+  },
+  {
+    "text": "because of Chinese\nmanufacturers,",
+    "start": 696.8,
+    "duration": 1.98
+  },
+  {
+    "text": "Xiaomi, and others creating,\nessentially, very powerful,",
+    "start": 698.78,
+    "duration": 3.42
+  },
+  {
+    "text": "very low-priced\ndevices, hence very",
+    "start": 702.2,
+    "duration": 2.58
+  },
+  {
+    "text": "affordable and\ndemocratized access.",
+    "start": 704.78,
+    "duration": 2.22
+  },
+  {
+    "text": "That was clearly\npart of this picture.",
+    "start": 707.0,
+    "duration": 2.245
+  },
+  {
+    "text": "And then, you put your finger\non another big trend, which",
+    "start": 709.245,
+    "duration": 2.375
+  },
+  {
+    "text": "was the transition in mobile\ntelephony from 3G to 4G--",
+    "start": 711.62,
+    "duration": 3.75
+  },
+  {
+    "text": "hence, the availability of\nwireless broadband connections,",
+    "start": 715.37,
+    "duration": 3.15
+  },
+  {
+    "text": "and essentially, glitch-free\nstreams, not just of content,",
+    "start": 718.52,
+    "duration": 3.75
+  },
+  {
+    "text": "a la the Facebook news feed,\nbut actually, video content.",
+    "start": 722.27,
+    "duration": 3.132
+  },
+  {
+    "text": "BRIAN KENNY: It's\ninteresting to me",
+    "start": 725.402,
+    "duration": 1.458
+  },
+  {
+    "text": "also that this kind of a\nservice launched in China, which",
+    "start": 726.86,
+    "duration": 2.64
+  },
+  {
+    "text": "we know has a lot of state\ncontrols over what people",
+    "start": 729.5,
+    "duration": 2.31
+  },
+  {
+    "text": "can see and do on the internet.",
+    "start": 731.81,
+    "duration": 1.315
+  },
+  {
+    "text": "And those of us who have been\nto China with our computers",
+    "start": 733.125,
+    "duration": 2.375
+  },
+  {
+    "text": "feel like they never come\nback the way they arrived.",
+    "start": 735.5,
+    "duration": 2.167
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 737.667,
+    "duration": 0.633
+  },
+  {
+    "text": "So I'm curious as to how\nhe was able to get people",
+    "start": 738.3,
+    "duration": 3.65
+  },
+  {
+    "text": "to adopt this platform\nthat basically require them",
+    "start": 741.95,
+    "duration": 2.79
+  },
+  {
+    "text": "to be extroverted in a way\nthat seems like it might clash",
+    "start": 744.74,
+    "duration": 3.24
+  },
+  {
+    "text": "with Chinese culture.",
+    "start": 747.98,
+    "duration": 1.2
+  },
+  {
+    "text": "JEFFREY RAYPORT: Brian, that\nis a fascinating question.",
+    "start": 749.18,
+    "duration": 1.57
+  },
+  {
+    "text": "Let me see if I can answer\nthat in a couple of ways.",
+    "start": 750.75,
+    "duration": 2.167
+  },
+  {
+    "text": "So suppose it'd be fair to\nsay that those early services",
+    "start": 752.917,
+    "duration": 2.713
+  },
+  {
+    "text": "certainly benefited\nfrom the fact",
+    "start": 755.63,
+    "duration": 2.1
+  },
+  {
+    "text": "that the President Xi in power\nthen was not the president we",
+    "start": 757.73,
+    "duration": 3.54
+  },
+  {
+    "text": "know today, meaning that it\nwas a freewheeling economy that",
+    "start": 761.27,
+    "duration": 3.0
+  },
+  {
+    "text": "was celebrating tech\nentrepreneurship",
+    "start": 764.27,
+    "duration": 2.04
+  },
+  {
+    "text": "and the accumulation of\nwealth and a, roughly",
+    "start": 766.31,
+    "duration": 2.07
+  },
+  {
+    "text": "speaking, capitalist\nsystem, albeit",
+    "start": 768.38,
+    "duration": 2.04
+  },
+  {
+    "text": "with socialist characteristics,\nas the Chinese like to say.",
+    "start": 770.42,
+    "duration": 3.09
+  },
+  {
+    "text": "In addition, it is also the\ncase that the version of TikTok,",
+    "start": 773.51,
+    "duration": 3.99
+  },
+  {
+    "text": "Douyin in China, is\npretty heavily censored.",
+    "start": 777.5,
+    "duration": 4.17
+  },
+  {
+    "text": "And so if you go into Douyin\nwith 5,000 or 6,000 keywords",
+    "start": 781.67,
+    "duration": 4.2
+  },
+  {
+    "text": "that you can search on TikTok\nand get results on, about 40%",
+    "start": 785.87,
+    "duration": 3.12
+  },
+  {
+    "text": "of those keywords that you\ncould search on for TikTok,",
+    "start": 788.99,
+    "duration": 2.52
+  },
+  {
+    "text": "are censored on Douyin.",
+    "start": 791.51,
+    "duration": 1.77
+  },
+  {
+    "text": "So another aspect of this\nstory is that TikTok has been--",
+    "start": 793.28,
+    "duration": 4.02
+  },
+  {
+    "text": "or ByteDance, I should say-- has\nbeen relatively well-behaved,",
+    "start": 797.3,
+    "duration": 3.447
+  },
+  {
+    "text": "I think it would be\nfair to say, in the eyes",
+    "start": 800.747,
+    "duration": 1.833
+  },
+  {
+    "text": "of any kind of state\ncontrollers who",
+    "start": 802.58,
+    "duration": 1.89
+  },
+  {
+    "text": "might be interested in this.",
+    "start": 804.47,
+    "duration": 1.51
+  },
+  {
+    "text": "The other thing\nis that regardless",
+    "start": 805.98,
+    "duration": 1.61
+  },
+  {
+    "text": "of what one may think about\nthe nefarious uses to which AI",
+    "start": 807.59,
+    "duration": 3.9
+  },
+  {
+    "text": "might be put, I think ByteDance\nhas benefited from the fact",
+    "start": 811.49,
+    "duration": 3.6
+  },
+  {
+    "text": "that this was about doing\nsomething really nice",
+    "start": 815.09,
+    "duration": 3.09
+  },
+  {
+    "text": "for people.",
+    "start": 818.18,
+    "duration": 0.63
+  },
+  {
+    "text": "Everyone in big Chinese\ncities rides the subway.",
+    "start": 818.81,
+    "duration": 2.97
+  },
+  {
+    "text": "Everyone needs a form\nof entertainment.",
+    "start": 821.78,
+    "duration": 2.13
+  },
+  {
+    "text": "This at least has\npresented, initially,",
+    "start": 823.91,
+    "duration": 1.83
+  },
+  {
+    "text": "as something pretty\nlight and fluffy.",
+    "start": 825.74,
+    "duration": 2.4
+  },
+  {
+    "text": "You'll be interested to\nknow that the new mission",
+    "start": 828.14,
+    "duration": 2.34
+  },
+  {
+    "text": "of the company is to inspire\ncreativity and to bring joy.",
+    "start": 830.48,
+    "duration": 3.875
+  },
+  {
+    "text": "BRIAN KENNY: It's\nhard not to get",
+    "start": 834.355,
+    "duration": 1.375
+  },
+  {
+    "text": "behind that mission, isn't it?",
+    "start": 835.73,
+    "duration": 1.41
+  },
+  {
+    "text": "I mean, we live in a time\nwhere the polarization is such",
+    "start": 837.14,
+    "duration": 2.43
+  },
+  {
+    "text": "that you don't even\nwant to watch the news,",
+    "start": 839.57,
+    "duration": 1.17
+  },
+  {
+    "text": "but this is a harmless,\nfun form of entertainment.",
+    "start": 840.74,
+    "duration": 2.5
+  },
+  {
+    "text": "So I think they've\nstruck something there.",
+    "start": 843.24,
+    "duration": 1.92
+  },
+  {
+    "text": "But at the end of the day,\nJeffrey, it's a business,",
+    "start": 845.16,
+    "duration": 2.42
+  },
+  {
+    "text": "and the case goes\ninto great detail",
+    "start": 847.58,
+    "duration": 1.89
+  },
+  {
+    "text": "about how this\nbusiness is now trying",
+    "start": 849.47,
+    "duration": 2.28
+  },
+  {
+    "text": "to monetize what they're doing.",
+    "start": 851.75,
+    "duration": 1.53
+  },
+  {
+    "text": "So can you talk a\nlittle bit about that?",
+    "start": 853.28,
+    "duration": 1.89
+  },
+  {
+    "text": "How are they going about\nmonetizing the platform?",
+    "start": 855.17,
+    "duration": 2.32
+  },
+  {
+    "text": "JEFFREY RAYPORT: Well, one\nof the reasons that we think",
+    "start": 857.49,
+    "duration": 2.42
+  },
+  {
+    "text": "there's success with that\ncold call we talked about",
+    "start": 859.91,
+    "duration": 2.37
+  },
+  {
+    "text": "is that conventional\nwisdom in the media world",
+    "start": 862.28,
+    "duration": 2.508
+  },
+  {
+    "text": "is that the minute\nyou take something",
+    "start": 864.788,
+    "duration": 1.542
+  },
+  {
+    "text": "that is delightful and\njoyous, generally speaking,",
+    "start": 866.33,
+    "duration": 3.22
+  },
+  {
+    "text": "the imposition of advertising\ndegrades the experience.",
+    "start": 869.55,
+    "duration": 3.508
+  },
+  {
+    "text": "And I don't-- I say\nthat with great respect",
+    "start": 873.058,
+    "duration": 1.792
+  },
+  {
+    "text": "for my colleagues,\nDan O'Brien, Dan Marr,",
+    "start": 874.85,
+    "duration": 1.98
+  },
+  {
+    "text": "who wrote this case with me\nand really were the initiators",
+    "start": 876.83,
+    "duration": 2.97
+  },
+  {
+    "text": "of this piece of research.",
+    "start": 879.8,
+    "duration": 1.51
+  },
+  {
+    "text": "We all love advertising.",
+    "start": 881.31,
+    "duration": 1.4
+  },
+  {
+    "text": "Because as consumers, in some\nways, when it's not done right,",
+    "start": 882.71,
+    "duration": 3.27
+  },
+  {
+    "text": "we can very easily\nhate, even loathe it,",
+    "start": 885.98,
+    "duration": 2.46
+  },
+  {
+    "text": "when it's interruptive,\nwhen it's spamming us,",
+    "start": 888.44,
+    "duration": 2.82
+  },
+  {
+    "text": "when it's taking\nover our devices.",
+    "start": 891.26,
+    "duration": 2.62
+  },
+  {
+    "text": "So the question\nis, if you pursue",
+    "start": 893.88,
+    "duration": 3.92
+  },
+  {
+    "text": "a monetization model,\nmaking use of advertising",
+    "start": 897.8,
+    "duration": 2.73
+  },
+  {
+    "text": "in traditional ways, do\nyou, in fact, degrade",
+    "start": 900.53,
+    "duration": 4.38
+  },
+  {
+    "text": "the user experience of the app?",
+    "start": 904.91,
+    "duration": 3.06
+  },
+  {
+    "text": "And in that sense, in most of\nthe stories that we've been",
+    "start": 907.97,
+    "duration": 3.69
+  },
+  {
+    "text": "talking about, including much of\ndigital audience-building over",
+    "start": 911.66,
+    "duration": 4.14
+  },
+  {
+    "text": "the last 20 years, the\nfriction-free way to grow",
+    "start": 915.8,
+    "duration": 3.39
+  },
+  {
+    "text": "audience-- this is how Facebook\ngot to 3 billion users--",
+    "start": 919.19,
+    "duration": 3.93
+  },
+  {
+    "text": "is to start with a light\ntouch on monetization,",
+    "start": 923.12,
+    "duration": 3.18
+  },
+  {
+    "text": "and then impose it later on--",
+    "start": 926.3,
+    "duration": 2.43
+  },
+  {
+    "text": "at least, light touch until\nyou have escape velocity.",
+    "start": 928.73,
+    "duration": 2.97
+  },
+  {
+    "text": "What is interesting here is that\nTikTok is relying, roughly--",
+    "start": 931.7,
+    "duration": 5.43
+  },
+  {
+    "text": "maybe not 100%, but 70% or 80%--",
+    "start": 937.13,
+    "duration": 2.16
+  },
+  {
+    "text": "on advertising, and\nByteDance, globally.",
+    "start": 939.29,
+    "duration": 3.06
+  },
+  {
+    "text": "I should say that\nthere's 20% or 30%",
+    "start": 942.35,
+    "duration": 2.04
+  },
+  {
+    "text": "of sales of virtual coins,\nvirtual gifts, other kinds",
+    "start": 944.39,
+    "duration": 3.63
+  },
+  {
+    "text": "of, if you will,\neconomic exchange that",
+    "start": 948.02,
+    "duration": 2.22
+  },
+  {
+    "text": "take place inside the app.",
+    "start": 950.24,
+    "duration": 1.98
+  },
+  {
+    "text": "But the main event, from\nthe standpoint of revenue",
+    "start": 952.22,
+    "duration": 2.31
+  },
+  {
+    "text": "generation, is advertising.",
+    "start": 954.53,
+    "duration": 1.96
+  },
+  {
+    "text": "And then, the question is,\ngiven that they are pursuing",
+    "start": 956.49,
+    "duration": 2.33
+  },
+  {
+    "text": "advertising, has\nit actually become",
+    "start": 958.82,
+    "duration": 2.64
+  },
+  {
+    "text": "a drag on audience\ngrowth, meaning",
+    "start": 961.46,
+    "duration": 2.49
+  },
+  {
+    "text": "has it actually degraded\nthe user experience?",
+    "start": 963.95,
+    "duration": 3.16
+  },
+  {
+    "text": "TikTok has proven\nuniquely successful",
+    "start": 967.11,
+    "duration": 3.38
+  },
+  {
+    "text": "as a channel for\nbrands, precisely",
+    "start": 970.49,
+    "duration": 3.91
+  },
+  {
+    "text": "because most of what brands\nare doing in the medium",
+    "start": 974.4,
+    "duration": 3.36
+  },
+  {
+    "text": "doesn't look like advertising,\neven though the brands are",
+    "start": 977.76,
+    "duration": 3.0
+  },
+  {
+    "text": "showing up and spending\nwhat would otherwise",
+    "start": 980.76,
+    "duration": 2.55
+  },
+  {
+    "text": "be considered, certainly by\ntheir CFO, as ad dollars.",
+    "start": 983.31,
+    "duration": 4.05
+  },
+  {
+    "text": "And that is a\nfascinating finesse",
+    "start": 987.36,
+    "duration": 2.403
+  },
+  {
+    "text": "that lies at the heart\nof this business model.",
+    "start": 989.763,
+    "duration": 1.917
+  },
+  {
+    "text": "BRIAN KENNY: Speaking\nas a brand manager,",
+    "start": 991.68,
+    "duration": 1.99
+  },
+  {
+    "text": "I feel for all of\nmy peers out there.",
+    "start": 993.67,
+    "duration": 1.67
+  },
+  {
+    "text": "Because every time\none of these platforms",
+    "start": 995.34,
+    "duration": 1.708
+  },
+  {
+    "text": "emerges, we all struggle\nto try and figure out,",
+    "start": 997.048,
+    "duration": 2.402
+  },
+  {
+    "text": "how do we integrate our\nbrands into that platform",
+    "start": 999.45,
+    "duration": 2.34
+  },
+  {
+    "text": "without stepping on ourselves\nthe way that you describe.",
+    "start": 1001.79,
+    "duration": 2.82
+  },
+  {
+    "text": "There's certainly\nlots of stories",
+    "start": 1004.61,
+    "duration": 1.38
+  },
+  {
+    "text": "about brands that\nhave misstepped",
+    "start": 1005.99,
+    "duration": 1.47
+  },
+  {
+    "text": "when they've tried to\nengage with the users",
+    "start": 1007.46,
+    "duration": 2.34
+  },
+  {
+    "text": "of these platforms.",
+    "start": 1009.8,
+    "duration": 1.15
+  },
+  {
+    "text": "The case goes into some\ndetail about how advertisers",
+    "start": 1010.95,
+    "duration": 2.42
+  },
+  {
+    "text": "are viewing this as well.",
+    "start": 1013.37,
+    "duration": 1.042
+  },
+  {
+    "text": "So I'm wondering\nif you could talk",
+    "start": 1014.412,
+    "duration": 1.416
+  },
+  {
+    "text": "about what the\nperceptions are of some",
+    "start": 1015.828,
+    "duration": 1.72
+  },
+  {
+    "text": "of the big brands that\nare out there trying",
+    "start": 1017.548,
+    "duration": 1.792
+  },
+  {
+    "text": "to use the platform.",
+    "start": 1019.34,
+    "duration": 0.833
+  },
+  {
+    "text": "JEFFREY RAYPORT: The case\ntalks about five ad products,",
+    "start": 1020.173,
+    "duration": 2.292
+  },
+  {
+    "text": "and we have a lovely exhibit\nwith visualizations of these.",
+    "start": 1022.465,
+    "duration": 2.447
+  },
+  {
+    "text": "And they all look kind of\ninnovative at first blush,",
+    "start": 1024.912,
+    "duration": 2.167
+  },
+  {
+    "text": "but when you sit down\nand parse this list,",
+    "start": 1027.079,
+    "duration": 2.433
+  },
+  {
+    "text": "there are three that\nare pretty standard.",
+    "start": 1029.512,
+    "duration": 1.708
+  },
+  {
+    "text": "There's one that is what\nwe would call a pre-roll.",
+    "start": 1031.22,
+    "duration": 3.119
+  },
+  {
+    "text": "Anyone who's opened\nup a YouTube video",
+    "start": 1034.339,
+    "duration": 1.921
+  },
+  {
+    "text": "and sees a 15-second video\nplay before they see the video",
+    "start": 1036.26,
+    "duration": 2.73
+  },
+  {
+    "text": "they want-- that's a pre-roll.",
+    "start": 1038.99,
+    "duration": 1.44
+  },
+  {
+    "text": "So the app has a pre-roll\nad unit, if you will,",
+    "start": 1040.43,
+    "duration": 3.81
+  },
+  {
+    "text": "when you first open the app.",
+    "start": 1044.24,
+    "duration": 1.329
+  },
+  {
+    "text": "There is a pre-roll on\nsteroids that lasts a minute,",
+    "start": 1045.569,
+    "duration": 2.391
+  },
+  {
+    "text": "instead of 5 or 15 seconds,\nso that's the second ad unit.",
+    "start": 1047.96,
+    "duration": 3.123
+  },
+  {
+    "text": "The third is something\nthat we would recognize",
+    "start": 1051.083,
+    "duration": 1.917
+  },
+  {
+    "text": "from broadcast television\nand interstitial ad,",
+    "start": 1053.0,
+    "duration": 2.228
+  },
+  {
+    "text": "meaning those ads that\nappear in your feed.",
+    "start": 1055.228,
+    "duration": 1.792
+  },
+  {
+    "text": "They're short videos\nfrom brands that",
+    "start": 1057.02,
+    "duration": 1.542
+  },
+  {
+    "text": "run between the videos that\ncome from influencers, creators",
+    "start": 1058.562,
+    "duration": 3.168
+  },
+  {
+    "text": "on the platform.",
+    "start": 1061.73,
+    "duration": 0.9
+  },
+  {
+    "text": "The last two are the most\ninteresting, and maybe",
+    "start": 1062.63,
+    "duration": 3.39
+  },
+  {
+    "text": "no surprise.",
+    "start": 1066.02,
+    "duration": 0.69
+  },
+  {
+    "text": "It's where the action is.",
+    "start": 1066.71,
+    "duration": 1.62
+  },
+  {
+    "text": "One of them is\nsomething that is very",
+    "start": 1068.33,
+    "duration": 1.83
+  },
+  {
+    "text": "familiar from the world\nof Snapchat, which",
+    "start": 1070.16,
+    "duration": 1.89
+  },
+  {
+    "text": "is filters and\nlenses, so that I can",
+    "start": 1072.05,
+    "duration": 2.077
+  },
+  {
+    "text": "make a video of this\nunique expression",
+    "start": 1074.127,
+    "duration": 1.583
+  },
+  {
+    "text": "myself, or my reaction to your\nsix-month-old puppy, Brian,",
+    "start": 1075.71,
+    "duration": 2.7
+  },
+  {
+    "text": "that you acquired during\nCOVID, for whom you're buying",
+    "start": 1078.41,
+    "duration": 2.25
+  },
+  {
+    "text": "lots and lots of dog food.",
+    "start": 1080.66,
+    "duration": 1.14
+  },
+  {
+    "text": "I can take a bunch of\nbranded stickers and lenses",
+    "start": 1081.8,
+    "duration": 2.67
+  },
+  {
+    "text": "and do something to augment\nmy own video in a way that",
+    "start": 1084.47,
+    "duration": 3.6
+  },
+  {
+    "text": "ties into the brand,\nbut it's still",
+    "start": 1088.07,
+    "duration": 1.86
+  },
+  {
+    "text": "an organic and\nnatural expression",
+    "start": 1089.93,
+    "duration": 1.83
+  },
+  {
+    "text": "of my own creativity, and I\nhaven't been bought and sold",
+    "start": 1091.76,
+    "duration": 2.73
+  },
+  {
+    "text": "by anyone as an influencer.",
+    "start": 1094.49,
+    "duration": 1.59
+  },
+  {
+    "text": "The ones that are\neven more interesting",
+    "start": 1096.08,
+    "duration": 2.16
+  },
+  {
+    "text": "are what TikTok refers\nto hashtag challenges.",
+    "start": 1098.24,
+    "duration": 3.91
+  },
+  {
+    "text": "The first brand to do a\nhashtag challenge on TikTok",
+    "start": 1102.15,
+    "duration": 3.65
+  },
+  {
+    "text": "was Guess jeans.",
+    "start": 1105.8,
+    "duration": 1.68
+  },
+  {
+    "text": "Guess jeans ran a hashtag\nchallenge called, In My Denim.",
+    "start": 1107.48,
+    "duration": 3.16
+  },
+  {
+    "text": "It sounds very frivolous.",
+    "start": 1110.64,
+    "duration": 1.16
+  },
+  {
+    "text": "But let's talk about what it is.",
+    "start": 1111.8,
+    "duration": 2.08
+  },
+  {
+    "text": "There was a basic challenge\nto, essentially, create a video",
+    "start": 1113.88,
+    "duration": 4.76
+  },
+  {
+    "text": "that replicated a very simple\nstoryline that had been spelled",
+    "start": 1118.64,
+    "duration": 4.02
+  },
+  {
+    "text": "out by Guess and,\npresumably, their ad",
+    "start": 1122.66,
+    "duration": 2.16
+  },
+  {
+    "text": "agency and the geniuses at\nTikTok who try to figure out",
+    "start": 1124.82,
+    "duration": 2.88
+  },
+  {
+    "text": "what's going to go viral.",
+    "start": 1127.7,
+    "duration": 1.17
+  },
+  {
+    "text": "And the storyline\nwas simply this.",
+    "start": 1128.87,
+    "duration": 1.71
+  },
+  {
+    "text": "You're just a regular person.",
+    "start": 1130.58,
+    "duration": 1.59
+  },
+  {
+    "text": "You've gotten out of\nbed in the morning.",
+    "start": 1132.17,
+    "duration": 1.8
+  },
+  {
+    "text": "You feel schlumpy.",
+    "start": 1133.97,
+    "duration": 1.53
+  },
+  {
+    "text": "Or you're coming home\nfrom a long day of work,",
+    "start": 1135.5,
+    "duration": 2.01
+  },
+  {
+    "text": "and you feel schlumpy.",
+    "start": 1137.51,
+    "duration": 2.13
+  },
+  {
+    "text": "Or you've had too much\nto drink at night,",
+    "start": 1139.64,
+    "duration": 3.03
+  },
+  {
+    "text": "and you feel troglodytic.",
+    "start": 1142.67,
+    "duration": 2.19
+  },
+  {
+    "text": "And then, you reach out\ntowards the camera lens",
+    "start": 1144.86,
+    "duration": 3.66
+  },
+  {
+    "text": "and block the lens\nwith your hand,",
+    "start": 1148.52,
+    "duration": 1.8
+  },
+  {
+    "text": "or throw a blanket\nover the camera lens,",
+    "start": 1150.32,
+    "duration": 2.43
+  },
+  {
+    "text": "or go into your closet,\nand then open the door one",
+    "start": 1152.75,
+    "duration": 2.61
+  },
+  {
+    "text": "nanosecond later and come out.",
+    "start": 1155.36,
+    "duration": 1.71
+  },
+  {
+    "text": "When you reappear after\nthese quick interruptions,",
+    "start": 1157.07,
+    "duration": 3.75
+  },
+  {
+    "text": "you're dressed in denim.",
+    "start": 1160.82,
+    "duration": 1.47
+  },
+  {
+    "text": "And in denim, you look\nlike the sexiest, coolest,",
+    "start": 1162.29,
+    "duration": 3.73
+  },
+  {
+    "text": "most compelling, charismatic\nversion of yourself",
+    "start": 1166.02,
+    "duration": 2.63
+  },
+  {
+    "text": "that a camera eye has ever seen.",
+    "start": 1168.65,
+    "duration": 2.55
+  },
+  {
+    "text": "Now, here's what's interesting.",
+    "start": 1171.2,
+    "duration": 1.77
+  },
+  {
+    "text": "Not every one of those\nhashtag challenge responses--",
+    "start": 1172.97,
+    "duration": 2.55
+  },
+  {
+    "text": "there were tens of\nthousands of responses.",
+    "start": 1175.52,
+    "duration": 2.07
+  },
+  {
+    "text": "Not everyone actually had\npeople wearing Guess jeans.",
+    "start": 1177.59,
+    "duration": 2.64
+  },
+  {
+    "text": "So it raises this really\ninteresting question,",
+    "start": 1180.23,
+    "duration": 3.46
+  },
+  {
+    "text": "which is, if you are Guess, or\nHome Depot, or Kroger, or any",
+    "start": 1183.69,
+    "duration": 5.442
+  },
+  {
+    "text": "of the other major brands\nthat have advertising",
+    "start": 1189.132,
+    "duration": 1.958
+  },
+  {
+    "text": "on the platform--",
+    "start": 1191.09,
+    "duration": 1.107
+  },
+  {
+    "text": "and I say, \"advertising\"--",
+    "start": 1192.197,
+    "duration": 1.083
+  },
+  {
+    "text": "I should say in\nquotes, because I'm not",
+    "start": 1193.28,
+    "duration": 1.23
+  },
+  {
+    "text": "sure everyone considers\nthis advertising.",
+    "start": 1194.51,
+    "duration": 1.8
+  },
+  {
+    "text": "What would you rather have?",
+    "start": 1196.31,
+    "duration": 1.59
+  },
+  {
+    "text": "An interruptive 15-second or\na 30-second video placement",
+    "start": 1197.9,
+    "duration": 3.87
+  },
+  {
+    "text": "that might be repurposed from\nbroadcast or cable television,",
+    "start": 1201.77,
+    "duration": 3.21
+  },
+  {
+    "text": "or a hashtag\nchallenge that foments",
+    "start": 1204.98,
+    "duration": 2.73
+  },
+  {
+    "text": "a social movement, that\nis inspired by your brand?",
+    "start": 1207.71,
+    "duration": 3.03
+  },
+  {
+    "text": "What's been fascinating to see\nis that in the same way that we",
+    "start": 1210.74,
+    "duration": 3.54
+  },
+  {
+    "text": "have a hard time actually\nanswering the question, what",
+    "start": 1214.28,
+    "duration": 2.73
+  },
+  {
+    "text": "is TikTok, we have a hard time\nanswering the question, what",
+    "start": 1217.01,
+    "duration": 3.84
+  },
+  {
+    "text": "does advertising, or more\nbroadly, commercial messaging,",
+    "start": 1220.85,
+    "duration": 2.88
+  },
+  {
+    "text": "look like on TikTok?",
+    "start": 1223.73,
+    "duration": 1.38
+  },
+  {
+    "text": "Because it turns out that the\nmore organic and, if you will,",
+    "start": 1225.11,
+    "duration": 3.39
+  },
+  {
+    "text": "native it is to the medium, the\nmore powerful and successful",
+    "start": 1228.5,
+    "duration": 3.57
+  },
+  {
+    "text": "it is, hence the\nless interruptive.",
+    "start": 1232.07,
+    "duration": 2.43
+  },
+  {
+    "text": "And many of these brand\ninterventions, if you will,",
+    "start": 1234.5,
+    "duration": 3.45
+  },
+  {
+    "text": "enrich, rather than\ndegrade, the platform.",
+    "start": 1237.95,
+    "duration": 2.01
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1239.96,
+    "duration": 0.75
+  },
+  {
+    "text": "And we know that consumers\ndon't mind engaging with brands",
+    "start": 1240.71,
+    "duration": 3.03
+  },
+  {
+    "text": "in fun ways like that, too.",
+    "start": 1243.74,
+    "duration": 1.26
+  },
+  {
+    "text": "We've seen that play out\nin other social platforms.",
+    "start": 1245.0,
+    "duration": 2.37
+  },
+  {
+    "text": "And TikTok is trying\nto figure this out.",
+    "start": 1247.37,
+    "duration": 1.74
+  },
+  {
+    "text": "The case talks about the\nfact that they have really--",
+    "start": 1249.11,
+    "duration": 2.37
+  },
+  {
+    "text": "in the Asian culture,\nthe instant commerce",
+    "start": 1251.48,
+    "duration": 3.9
+  },
+  {
+    "text": "on these social platforms\nis much more common than it",
+    "start": 1255.38,
+    "duration": 2.39
+  },
+  {
+    "text": "is in the United States.",
+    "start": 1257.77,
+    "duration": 1.0
+  },
+  {
+    "text": "So part of their\nglobal strategy is",
+    "start": 1258.77,
+    "duration": 1.83
+  },
+  {
+    "text": "to try and figure out\nhow to make commerce",
+    "start": 1260.6,
+    "duration": 2.22
+  },
+  {
+    "text": "work on this platform in the\nWestern world, is that right?",
+    "start": 1262.82,
+    "duration": 3.65
+  },
+  {
+    "text": "JEFFREY RAYPORT: That\nis absolutely right.",
+    "start": 1266.47,
+    "duration": 1.75
+  },
+  {
+    "text": "It is interesting to\nnote a couple of things.",
+    "start": 1268.22,
+    "duration": 2.23
+  },
+  {
+    "text": "One is that their VP of\nBusiness Solutions guy, named",
+    "start": 1270.45,
+    "duration": 2.46
+  },
+  {
+    "text": "Blake Chandler, in the\ncase talks about the fact",
+    "start": 1272.91,
+    "duration": 2.0
+  },
+  {
+    "text": "that his vision for the future\nis a world in which TikTok",
+    "start": 1274.91,
+    "duration": 3.18
+  },
+  {
+    "text": "has the very best influencers\non the face of this Earth, who,",
+    "start": 1278.09,
+    "duration": 4.71
+  },
+  {
+    "text": "every time a brand wants to\nlaunch a campaign, a.k.a.",
+    "start": 1282.8,
+    "duration": 3.69
+  },
+  {
+    "text": "a social movement, the\nbrand would show up,",
+    "start": 1286.49,
+    "duration": 2.43
+  },
+  {
+    "text": "and instead of\nbriefing the creatives",
+    "start": 1288.92,
+    "duration": 2.04
+  },
+  {
+    "text": "at their ad agency\non Madison Avenue,",
+    "start": 1290.96,
+    "duration": 2.13
+  },
+  {
+    "text": "they would be briefing\nthe interested influencers",
+    "start": 1293.09,
+    "duration": 3.15
+  },
+  {
+    "text": "or creators who want\nto show up to hear",
+    "start": 1296.24,
+    "duration": 2.01
+  },
+  {
+    "text": "about what the brand's all about\nand what they wish to achieve,",
+    "start": 1298.25,
+    "duration": 2.94
+  },
+  {
+    "text": "with no particular constraints\non what those creators would",
+    "start": 1301.19,
+    "duration": 2.73
+  },
+  {
+    "text": "do with that.",
+    "start": 1303.92,
+    "duration": 0.78
+  },
+  {
+    "text": "This idea that influencers\ncan create not just",
+    "start": 1304.7,
+    "duration": 3.9
+  },
+  {
+    "text": "highly persuasive video, but\nvideo that actually-- let's",
+    "start": 1308.6,
+    "duration": 4.367
+  },
+  {
+    "text": "put it this way-- does\nmore than just change minds",
+    "start": 1312.967,
+    "duration": 2.083
+  },
+  {
+    "text": "but actually sells\nstuff, is something",
+    "start": 1315.05,
+    "duration": 2.52
+  },
+  {
+    "text": "that is happening\nin mainland China",
+    "start": 1317.57,
+    "duration": 2.22
+  },
+  {
+    "text": "at a scale that is\nalmost unimaginable.",
+    "start": 1319.79,
+    "duration": 2.73
+  },
+  {
+    "text": "So this version that you\nsee on TikTok of people",
+    "start": 1322.52,
+    "duration": 2.233
+  },
+  {
+    "text": "talking about product, whether\nit's going to a restaurant,",
+    "start": 1324.753,
+    "duration": 2.417
+  },
+  {
+    "text": "flying an airline, or buying\nthe latest smartphone from HTC--",
+    "start": 1327.17,
+    "duration": 4.59
+  },
+  {
+    "text": "these videos are\nwhat are now referred",
+    "start": 1331.76,
+    "duration": 2.46
+  },
+  {
+    "text": "to in China as \"live shopping.\"",
+    "start": 1334.22,
+    "duration": 2.28
+  },
+  {
+    "text": "And in 2019, live shopping,\nclearly not just on TikTok,",
+    "start": 1336.5,
+    "duration": 4.56
+  },
+  {
+    "text": "but on major platforms,\nstarting with Taobao,",
+    "start": 1341.06,
+    "duration": 2.28
+  },
+  {
+    "text": "which is an Alibaba property--\nthey did $120 billion",
+    "start": 1343.34,
+    "duration": 4.65
+  },
+  {
+    "text": "of gross merchandise volume,\nmeaning GMV revenues.",
+    "start": 1347.99,
+    "duration": 3.22
+  },
+  {
+    "text": "So real retail\nrevenues in China,",
+    "start": 1351.21,
+    "duration": 3.08
+  },
+  {
+    "text": "on live shopping media alone--",
+    "start": 1354.29,
+    "duration": 2.01
+  },
+  {
+    "text": "that number, in 2020,\ngrew to 300 billion.",
+    "start": 1356.3,
+    "duration": 3.162
+  },
+  {
+    "text": "BRIAN KENNY: Wow.",
+    "start": 1359.462,
+    "duration": 0.708
+  },
+  {
+    "text": "JEFFREY RAYPORT: The prediction\nis, it'll be up 50% in 2021.",
+    "start": 1360.17,
+    "duration": 3.57
+  },
+  {
+    "text": "So this idea--\nback to this notion",
+    "start": 1363.74,
+    "duration": 2.85
+  },
+  {
+    "text": "that TikTok defies definition,\naccording to traditional media",
+    "start": 1366.59,
+    "duration": 3.63
+  },
+  {
+    "text": "categories-- it is\na medium in which",
+    "start": 1370.22,
+    "duration": 3.09
+  },
+  {
+    "text": "every form of\ncommunication, every video,",
+    "start": 1373.31,
+    "duration": 2.82
+  },
+  {
+    "text": "is also implicitly, and even\nexplicitly, a point of sale.",
+    "start": 1376.13,
+    "duration": 4.57
+  },
+  {
+    "text": "And so the commercial\nactionability",
+    "start": 1380.7,
+    "duration": 1.7
+  },
+  {
+    "text": "of what goes on in\nTikTok, and therefore",
+    "start": 1382.4,
+    "duration": 2.19
+  },
+  {
+    "text": "the leverage or the power\nthat these influencers have",
+    "start": 1384.59,
+    "duration": 2.34
+  },
+  {
+    "text": "to move activity commercial\nactivity for brands,",
+    "start": 1386.93,
+    "duration": 2.43
+  },
+  {
+    "text": "is quite extraordinary.",
+    "start": 1389.36,
+    "duration": 1.325
+  },
+  {
+    "text": "BRIAN KENNY: It's amazing,\nthe numbers and the pace",
+    "start": 1390.685,
+    "duration": 2.125
+  },
+  {
+    "text": "with which this has taken off.",
+    "start": 1392.81,
+    "duration": 1.64
+  },
+  {
+    "text": "So I have sort of a two-part\nquestion here-- one is,",
+    "start": 1394.45,
+    "duration": 2.8
+  },
+  {
+    "text": "is TikTok a disruptor?",
+    "start": 1397.25,
+    "duration": 1.74
+  },
+  {
+    "text": "Have they really\nchanged the landscape,",
+    "start": 1398.99,
+    "duration": 2.04
+  },
+  {
+    "text": "such that they sort of meet\nthat definition of a disruptor?",
+    "start": 1401.03,
+    "duration": 3.21
+  },
+  {
+    "text": "Coupled with that is, why do\nother platforms fizzle out?",
+    "start": 1404.24,
+    "duration": 2.527
+  },
+  {
+    "text": "JEFFREY RAYPORT: I think it'd\nbe fair to say that TikTok",
+    "start": 1406.767,
+    "duration": 2.333
+  },
+  {
+    "text": "is definitely a disruptor,\nbut most disruptors",
+    "start": 1409.1,
+    "duration": 1.917
+  },
+  {
+    "text": "focus on a product or a\nsector, and TikTok somehow",
+    "start": 1411.017,
+    "duration": 3.243
+  },
+  {
+    "text": "is, whether intentionally\nor otherwise,",
+    "start": 1414.26,
+    "duration": 1.89
+  },
+  {
+    "text": "disrupting multiple\nsectors at the same time,",
+    "start": 1416.15,
+    "duration": 2.5
+  },
+  {
+    "text": "if it's disrupting\nanything at all.",
+    "start": 1418.65,
+    "duration": 2.03
+  },
+  {
+    "text": "Part of the reason, I\nthink, that one could bet",
+    "start": 1420.68,
+    "duration": 3.0
+  },
+  {
+    "text": "on TikTok's staying power\nis that unlike those prior",
+    "start": 1423.68,
+    "duration": 4.32
+  },
+  {
+    "text": "platforms-- like Myspace\nor Friendster in the social",
+    "start": 1428.0,
+    "duration": 2.61
+  },
+  {
+    "text": "networking space, or Vine in\nthe short-form video space--",
+    "start": 1430.61,
+    "duration": 3.15
+  },
+  {
+    "text": "part of, you could argue,\na successful disruption",
+    "start": 1433.76,
+    "duration": 3.09
+  },
+  {
+    "text": "is actually creating\na complete ecosystem",
+    "start": 1436.85,
+    "duration": 3.6
+  },
+  {
+    "text": "to support the\ntrajectory of disruption.",
+    "start": 1440.45,
+    "duration": 3.64
+  },
+  {
+    "text": "And I think if you\nwere to ask what",
+    "start": 1444.09,
+    "duration": 2.45
+  },
+  {
+    "text": "is the single most\nimportant key success factor",
+    "start": 1446.54,
+    "duration": 2.67
+  },
+  {
+    "text": "beyond the brilliance of the\nAI we've been talking about,",
+    "start": 1449.21,
+    "duration": 3.3
+  },
+  {
+    "text": "and hence this incredibly\ncaptivating programming,",
+    "start": 1452.51,
+    "duration": 3.365
+  },
+  {
+    "text": "if you will, that\neach of us gets",
+    "start": 1455.875,
+    "duration": 1.375
+  },
+  {
+    "text": "across a billion users a\nday on our mobile devices,",
+    "start": 1457.25,
+    "duration": 3.12
+  },
+  {
+    "text": "it's the fact that TikTok\nhas been very aggressive,",
+    "start": 1460.37,
+    "duration": 3.18
+  },
+  {
+    "text": "not just about growing audience.",
+    "start": 1463.55,
+    "duration": 1.66
+  },
+  {
+    "text": "And by the way, just to\nput this in perspective,",
+    "start": 1465.21,
+    "duration": 2.0
+  },
+  {
+    "text": "at the time of the case,\nthey spent $1 billion",
+    "start": 1467.21,
+    "duration": 2.22
+  },
+  {
+    "text": "of marketing money, growing\naudience in the US--",
+    "start": 1469.43,
+    "duration": 2.28
+  },
+  {
+    "text": "so $3 million a day\nto drive downloads.",
+    "start": 1471.71,
+    "duration": 2.372
+  },
+  {
+    "text": "So that's-- they've been growing\naudience, very aggressive.",
+    "start": 1474.082,
+    "duration": 2.458
+  },
+  {
+    "text": "But they've taken that same\nkind of aggressive approach",
+    "start": 1476.54,
+    "duration": 3.15
+  },
+  {
+    "text": "to clearing the\nmarket of the world's,",
+    "start": 1479.69,
+    "duration": 3.45
+  },
+  {
+    "text": "essentially, best, most\npedigreed influencers",
+    "start": 1483.14,
+    "duration": 3.63
+  },
+  {
+    "text": "in the context of social media,\nas expressed through video.",
+    "start": 1486.77,
+    "duration": 3.39
+  },
+  {
+    "text": "The ways in which TikTok has\nactively courted that community",
+    "start": 1490.16,
+    "duration": 4.71
+  },
+  {
+    "text": "is essentially to have become\nwhat another kind of business",
+    "start": 1494.87,
+    "duration": 3.42
+  },
+  {
+    "text": "that came and went\na few years ago--",
+    "start": 1498.29,
+    "duration": 1.5
+  },
+  {
+    "text": "if you remember when Disney\nbought Makers' Studio for half",
+    "start": 1499.79,
+    "duration": 2.417
+  },
+  {
+    "text": "a $1 billion--",
+    "start": 1502.207,
+    "duration": 0.583
+  },
+  {
+    "text": "Makers' Studio was what\nwe used to call an MCN",
+    "start": 1502.79,
+    "duration": 3.18
+  },
+  {
+    "text": "or a Multichannel Network.",
+    "start": 1505.97,
+    "duration": 1.38
+  },
+  {
+    "text": "It was a talent agency\nthat represented",
+    "start": 1507.35,
+    "duration": 1.77
+  },
+  {
+    "text": "the long tail of\nwould-be celebrities,",
+    "start": 1509.12,
+    "duration": 2.603
+  },
+  {
+    "text": "otherwise known as the tens\nor hundreds of thousands",
+    "start": 1511.723,
+    "duration": 2.167
+  },
+  {
+    "text": "of influencers around the world.",
+    "start": 1513.89,
+    "duration": 1.62
+  },
+  {
+    "text": "TikTok essentially\nbecame its own MCN.",
+    "start": 1515.51,
+    "duration": 2.88
+  },
+  {
+    "text": "And they went to such an\nextent that, for some, they",
+    "start": 1518.39,
+    "duration": 3.6
+  },
+  {
+    "text": "were spending a million\nbucks to place a single video",
+    "start": 1521.99,
+    "duration": 3.12
+  },
+  {
+    "text": "from an influencer.",
+    "start": 1525.11,
+    "duration": 0.99
+  },
+  {
+    "text": "For many of them, they\nwere offering office space.",
+    "start": 1526.1,
+    "duration": 2.49
+  },
+  {
+    "text": "For all of them, they\nwere offering mentorship.",
+    "start": 1528.59,
+    "duration": 2.85
+  },
+  {
+    "text": "Everyone was getting\naccess to fully licensed",
+    "start": 1531.44,
+    "duration": 3.69
+  },
+  {
+    "text": "copyrighted music libraries\nand snippets of TV and film",
+    "start": 1535.13,
+    "duration": 4.17
+  },
+  {
+    "text": "to aid them with\nthe raw materials",
+    "start": 1539.3,
+    "duration": 1.74
+  },
+  {
+    "text": "to put together their videos.",
+    "start": 1541.04,
+    "duration": 1.38
+  },
+  {
+    "text": "They had authoring tools.",
+    "start": 1542.42,
+    "duration": 1.51
+  },
+  {
+    "text": "And then, maybe most\nvaluable of all--",
+    "start": 1543.93,
+    "duration": 2.13
+  },
+  {
+    "text": "when you have a powerful\nAI like this telling you,",
+    "start": 1546.06,
+    "duration": 2.96
+  },
+  {
+    "text": "more or less in real time,\nhow a video is doing,",
+    "start": 1549.02,
+    "duration": 2.82
+  },
+  {
+    "text": "you can deliver back to a\ncreator exceedingly nuanced,",
+    "start": 1551.84,
+    "duration": 3.93
+  },
+  {
+    "text": "ripped-from-the-headlines\ninformation about what",
+    "start": 1555.77,
+    "duration": 2.697
+  },
+  {
+    "text": "you're doing right,\nwhat you're doing wrong,",
+    "start": 1558.467,
+    "duration": 1.833
+  },
+  {
+    "text": "and how to 10x your viewership\nor followership tomorrow,",
+    "start": 1560.3,
+    "duration": 3.33
+  },
+  {
+    "text": "with the next video you post.",
+    "start": 1563.63,
+    "duration": 1.438
+  },
+  {
+    "text": "BRIAN KENNY: You sound a\nlittle excited about all",
+    "start": 1565.068,
+    "duration": 2.042
+  },
+  {
+    "text": "of this, Jeffrey.",
+    "start": 1567.11,
+    "duration": 0.51
+  },
+  {
+    "text": "I think you may have answered\nyour question in the case",
+    "start": 1567.62,
+    "duration": 2.292
+  },
+  {
+    "text": "title, which is, this is a\nsuper app, and not a supernova.",
+    "start": 1569.912,
+    "duration": 2.435
+  },
+  {
+    "text": "JEFFREY RAYPORT: I\nthink that's right.",
+    "start": 1572.347,
+    "duration": 1.583
+  },
+  {
+    "text": "I think that's right.",
+    "start": 1573.93,
+    "duration": 0.56
+  },
+  {
+    "text": "It's clearer today\nthan it was at the time",
+    "start": 1574.49,
+    "duration": 1.86
+  },
+  {
+    "text": "that we did the case, mainly\nbecause they're bigger, more",
+    "start": 1576.35,
+    "duration": 2.61
+  },
+  {
+    "text": "successful, and much of what\nthey envision in the case,",
+    "start": 1578.96,
+    "duration": 2.73
+  },
+  {
+    "text": "they've now actually delivered\nfor brands in the market.",
+    "start": 1581.69,
+    "duration": 2.79
+  },
+  {
+    "text": "BRIAN KENNY: Yeah,\nit is remarkable.",
+    "start": 1584.48,
+    "duration": 1.5
+  },
+  {
+    "text": "This has been a fabulous\nconversation, as usual,",
+    "start": 1585.98,
+    "duration": 2.91
+  },
+  {
+    "text": "Jeffrey.",
+    "start": 1588.89,
+    "duration": 0.57
+  },
+  {
+    "text": "I have one more question\nbefore I let you go,",
+    "start": 1589.46,
+    "duration": 2.07
+  },
+  {
+    "text": "and that is, if there's\none thing you want",
+    "start": 1591.53,
+    "duration": 2.07
+  },
+  {
+    "text": "our listeners to take away\nfrom this case on TikTok,",
+    "start": 1593.6,
+    "duration": 2.55
+  },
+  {
+    "text": "what would it be?",
+    "start": 1596.15,
+    "duration": 0.96
+  },
+  {
+    "text": "JEFFREY RAYPORT:\nI suppose we all",
+    "start": 1597.11,
+    "duration": 1.375
+  },
+  {
+    "text": "are skeptical every\ntime we read, especially",
+    "start": 1598.485,
+    "duration": 2.495
+  },
+  {
+    "text": "in the business press, that\nsome wildly radical innovation",
+    "start": 1600.98,
+    "duration": 3.45
+  },
+  {
+    "text": "represents something\ngenuinely new under the sun.",
+    "start": 1604.43,
+    "duration": 2.88
+  },
+  {
+    "text": "This is a reminder, speaking\nof that message of happiness",
+    "start": 1607.31,
+    "duration": 2.67
+  },
+  {
+    "text": "and joy--",
+    "start": 1609.98,
+    "duration": 0.6
+  },
+  {
+    "text": "whether this is for good or\nfor evil, it is fascinating.",
+    "start": 1610.58,
+    "duration": 2.7
+  },
+  {
+    "text": "It is genuinely something\nnew under the sun,",
+    "start": 1613.28,
+    "duration": 2.28
+  },
+  {
+    "text": "and it provides all\nof us, especially",
+    "start": 1615.56,
+    "duration": 1.56
+  },
+  {
+    "text": "in the worlds of\nmarketing and media,",
+    "start": 1617.12,
+    "duration": 1.65
+  },
+  {
+    "text": "a great challenge, which is\nunderstanding what it is.",
+    "start": 1618.77,
+    "duration": 3.61
+  },
+  {
+    "text": "And then, the even more\ninteresting question",
+    "start": 1622.38,
+    "duration": 2.33
+  },
+  {
+    "text": "is, what kind of\nimpact does it have",
+    "start": 1624.71,
+    "duration": 1.74
+  },
+  {
+    "text": "on the rest of the\nbusiness world?",
+    "start": 1626.45,
+    "duration": 1.47
+  },
+  {
+    "text": "BRIAN KENNY: Jeffrey,\nit's a great case.",
+    "start": 1627.92,
+    "duration": 1.08
+  },
+  {
+    "text": "Thank you for coming on\nCold Call to talk about it.",
+    "start": 1629.0,
+    "duration": 2.01
+  },
+  {
+    "text": "JEFFREY RAYPORT: Brian, thank\nyou so much for having me.",
+    "start": 1631.01,
+    "duration": 2.333
+  },
+  {
+    "text": "It's a pleasure.",
+    "start": 1633.343,
+    "duration": 0.934
+  },
+  {
+    "text": "BRIAN KENNY: We're\nexcited to be celebrating",
+    "start": 1634.277,
+    "duration": 1.833
+  },
+  {
+    "text": "the 100-year anniversary\nof the case method",
+    "start": 1636.11,
+    "duration": 2.34
+  },
+  {
+    "text": "at Harvard Business School.",
+    "start": 1638.45,
+    "duration": 1.41
+  },
+  {
+    "text": "It's a yearlong celebration,\nkicking off this month,",
+    "start": 1639.86,
+    "duration": 2.85
+  },
+  {
+    "text": "alongside our new academic year.",
+    "start": 1642.71,
+    "duration": 1.95
+  },
+  {
+    "text": "If you want more on the\nhistory of the case method,",
+    "start": 1644.66,
+    "duration": 2.34
+  },
+  {
+    "text": "visit our website,\nHBS.edu/casemethod100.",
+    "start": 1647.0,
+    "duration": 5.22
+  },
+  {
+    "text": "Cold Call is a great way to\nget a taste of the case method.",
+    "start": 1652.22,
+    "duration": 2.97
+  },
+  {
+    "text": "After all, each episode features\na business case and its faculty",
+    "start": 1655.19,
+    "duration": 3.36
+  },
+  {
+    "text": "author.",
+    "start": 1658.55,
+    "duration": 0.6
+  },
+  {
+    "text": "You might also like\nour other podcasts,",
+    "start": 1659.15,
+    "duration": 2.22
+  },
+  {
+    "text": "After Hours, Climate\nRising, Skydeck,",
+    "start": 1661.37,
+    "duration": 2.85
+  },
+  {
+    "text": "and Managing the Future of Work.",
+    "start": 1664.22,
+    "duration": 1.74
+  },
+  {
+    "text": "Find them on Apple Podcasts\nor wherever you listen.",
+    "start": 1665.96,
+    "duration": 3.09
+  },
+  {
+    "text": "Thanks again for joining us.",
+    "start": 1669.05,
+    "duration": 1.59
+  },
+  {
+    "text": "I'm your host, Brian\nKenny, and you've",
+    "start": 1670.64,
+    "duration": 1.83
+  },
+  {
+    "text": "been listening to Cold Call,\nan official podcast of Harvard",
+    "start": 1672.47,
+    "duration": 3.18
+  },
+  {
+    "text": "Business School, brought to you\nby the HBR Presents network.",
+    "start": 1675.65,
+    "duration": 4.25
+  }
+]

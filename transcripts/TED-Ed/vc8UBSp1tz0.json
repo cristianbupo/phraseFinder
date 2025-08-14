@@ -1,0 +1,452 @@
+[
+  {
+    "text": "A drop of gasoline, a match,\nand a battery, all store energy—",
+    "start": 7.587,
+    "duration": 4.671
+  },
+  {
+    "text": "but, after each expends its energy,\nonly the battery is recyclable.",
+    "start": 12.425,
+    "duration": 4.796
+  },
+  {
+    "text": "That's because, chemically speaking,",
+    "start": 17.472,
+    "duration": 1.793
+  },
+  {
+    "text": "a dead battery is actually not\nthat different from a fresh one.",
+    "start": 19.265,
+    "duration": 3.42
+  },
+  {
+    "text": "Most of the batteries we use\ntoday take advantage",
+    "start": 23.227,
+    "duration": 2.419
+  },
+  {
+    "text": "of the fact that some metals like\nto release electrons",
+    "start": 25.646,
+    "duration": 3.295
+  },
+  {
+    "text": "and others like to accept them.",
+    "start": 28.941,
+    "duration": 2.336
+  },
+  {
+    "text": "For example, in a typical\nalkaline double-A battery,",
+    "start": 31.527,
+    "duration": 2.92
+  },
+  {
+    "text": "zinc metal reacts with hydroxide ions,",
+    "start": 34.447,
+    "duration": 3.045
+  },
+  {
+    "text": "changing into zinc oxide and releasing\nelectrons at the negative terminal.",
+    "start": 37.492,
+    "duration": 4.713
+  },
+  {
+    "text": "The electrons travel through, say,\na light bulb,",
+    "start": 42.371,
+    "duration": 2.67
+  },
+  {
+    "text": "and then return to the battery\nat the positive terminal,",
+    "start": 45.041,
+    "duration": 2.836
+  },
+  {
+    "text": "where they’re accepted\nby manganese dioxide.",
+    "start": 47.877,
+    "duration": 3.086
+  },
+  {
+    "text": "Different batteries use different\ncombinations of metals,",
+    "start": 51.297,
+    "duration": 2.92
+  },
+  {
+    "text": "and sometimes non-metals like graphite,",
+    "start": 54.217,
+    "duration": 2.252
+  },
+  {
+    "text": "but the basic idea is to use\na pair of chemical reactions",
+    "start": 56.469,
+    "duration": 3.462
+  },
+  {
+    "text": "to generate a stream of electrons.",
+    "start": 59.931,
+    "duration": 2.544
+  },
+  {
+    "text": "Almost all batteries,\neven single-use batteries,",
+    "start": 62.934,
+    "duration": 3.17
+  },
+  {
+    "text": "are theoretically rechargeable.",
+    "start": 66.104,
+    "duration": 2.21
+  },
+  {
+    "text": "That's because the metals and other\nchemicals are still right there.",
+    "start": 68.356,
+    "duration": 3.378
+  },
+  {
+    "text": "That’s very different than in,\nsay, gasoline,",
+    "start": 71.901,
+    "duration": 2.336
+  },
+  {
+    "text": "where the liquid hydrocarbon molecules\nare converted to gases.",
+    "start": 74.237,
+    "duration": 4.129
+  },
+  {
+    "text": "You can't convert exhaust\nback into gasoline,",
+    "start": 78.533,
+    "duration": 3.169
+  },
+  {
+    "text": "but, with some work you can convert,\nsay, zinc oxide back to zinc.",
+    "start": 81.702,
+    "duration": 4.422
+  },
+  {
+    "text": "So then what's the difference\nbetween these and these?",
+    "start": 86.916,
+    "duration": 3.921
+  },
+  {
+    "text": "The short answer is that trying\nto recharge a single-use battery",
+    "start": 91.045,
+    "duration": 3.796
+  },
+  {
+    "text": "doesn’t just force these reactions\nto run in reverse.",
+    "start": 94.841,
+    "duration": 3.42
+  },
+  {
+    "text": "It also results in a bunch of side\nreactions that produce",
+    "start": 98.511,
+    "duration": 3.17
+  },
+  {
+    "text": "useless contaminants,",
+    "start": 101.681,
+    "duration": 1.334
+  },
+  {
+    "text": "reducing a battery’s capacity;",
+    "start": 103.015,
+    "duration": 2.086
+  },
+  {
+    "text": "and it could even damage\nthe internal structure of the battery,",
+    "start": 105.184,
+    "duration": 3.17
+  },
+  {
+    "text": "leading to a loss of electrical contact\nand failure.",
+    "start": 108.354,
+    "duration": 3.17
+  },
+  {
+    "text": "Rechargeable batteries are engineered\nto avoid these issues.",
+    "start": 112.4,
+    "duration": 3.879
+  },
+  {
+    "text": "Look at this lithium-ion battery.",
+    "start": 116.362,
+    "duration": 1.96
+  },
+  {
+    "text": "Both sides have an atomic-level structure\nthat you can imagine as lots of docks.",
+    "start": 118.322,
+    "duration": 4.839
+  },
+  {
+    "text": "So when the battery is powering something,",
+    "start": 123.161,
+    "duration": 2.002
+  },
+  {
+    "text": "the lithium “ships” give up their\nelectrons to power the circuit,",
+    "start": 125.163,
+    "duration": 3.378
+  },
+  {
+    "text": "and then sail over to the other side\nof the battery,",
+    "start": 128.541,
+    "duration": 2.878
+  },
+  {
+    "text": "dock in an orderly, organized way,",
+    "start": 131.419,
+    "duration": 2.544
+  },
+  {
+    "text": "and meet up with their\nnow-lower-energy electrons.",
+    "start": 133.963,
+    "duration": 3.503
+  },
+  {
+    "text": "When the battery is being charged,\nthe opposite happens.",
+    "start": 138.134,
+    "duration": 3.003
+  },
+  {
+    "text": "Over the course of hundreds,\nsometimes thousands, of charge cycles,",
+    "start": 141.387,
+    "duration": 3.545
+  },
+  {
+    "text": "some of the lithium ion ships\nsort of veer off course",
+    "start": 144.932,
+    "duration": 3.545
+  },
+  {
+    "text": "and engage in side reactions,",
+    "start": 148.477,
+    "duration": 2.044
+  },
+  {
+    "text": "producing stuff that increases\nthe internal resistance of the battery,",
+    "start": 150.521,
+    "duration": 3.796
+  },
+  {
+    "text": "which in turn makes it lose\nefficiency and power",
+    "start": 154.317,
+    "duration": 2.961
+  },
+  {
+    "text": "until it inevitably dies.",
+    "start": 157.278,
+    "duration": 2.461
+  },
+  {
+    "text": "Even when that happens,\nyou can bring dead batteries back to life—",
+    "start": 160.323,
+    "duration": 4.045
+  },
+  {
+    "text": "whether they’re rechargeable or not—\nby recycling them.",
+    "start": 164.368,
+    "duration": 3.295
+  },
+  {
+    "text": "The heart of most battery recycling\nis a process called smelting,",
+    "start": 167.872,
+    "duration": 3.754
+  },
+  {
+    "text": "which is basically just melting\nthe metallic parts.",
+    "start": 171.876,
+    "duration": 2.544
+  },
+  {
+    "text": "This drives off impurities,",
+    "start": 174.42,
+    "duration": 1.71
+  },
+  {
+    "text": "returning metals back to their\ninitial, orderly state.",
+    "start": 176.13,
+    "duration": 3.378
+  },
+  {
+    "text": "Unfortunately, in many countries you can’t\njust toss household batteries",
+    "start": 179.884,
+    "duration": 3.92
+  },
+  {
+    "text": "in with your regular recycling.",
+    "start": 183.804,
+    "duration": 1.836
+  },
+  {
+    "text": "You have to take them to a battery\ncollection point or recycling center.",
+    "start": 185.64,
+    "duration": 3.545
+  },
+  {
+    "text": "Same goes for more complicated\nrechargeable batteries:",
+    "start": 189.185,
+    "duration": 2.878
+  },
+  {
+    "text": "you need to bring them\nto a collection point",
+    "start": 192.063,
+    "duration": 2.085
+  },
+  {
+    "text": "or send them back to the company\nyou bought them from.",
+    "start": 194.148,
+    "duration": 2.586
+  },
+  {
+    "text": "It’s a pain, but absolutely\nworth the time and effort,",
+    "start": 196.859,
+    "duration": 3.087
+  },
+  {
+    "text": "because recycling batteries is critical.",
+    "start": 199.946,
+    "duration": 2.46
+  },
+  {
+    "text": "Not only does it prevent\npotentially toxic battery metals",
+    "start": 202.406,
+    "duration": 2.711
+  },
+  {
+    "text": "from leaking into the environment,",
+    "start": 205.117,
+    "duration": 1.794
+  },
+  {
+    "text": "it conserves scarce— and vital— resources.",
+    "start": 206.911,
+    "duration": 3.42
+  },
+  {
+    "text": "Earth has about 22 million tons\nof lithium—",
+    "start": 210.623,
+    "duration": 3.128
+  },
+  {
+    "text": "enough for about 2.5 billion EVs.",
+    "start": 213.751,
+    "duration": 2.794
+  },
+  {
+    "text": "That sounds like plenty, but it’s only\n25% higher than the number of EVs",
+    "start": 216.545,
+    "duration": 4.171
+  },
+  {
+    "text": "experts believe it’ll take to reach\nnet zero emissions by 2050,",
+    "start": 220.716,
+    "duration": 4.171
+  },
+  {
+    "text": "and that doesn’t even account for laptops,\nphones, and anything else",
+    "start": 224.887,
+    "duration": 3.212
+  },
+  {
+    "text": "that uses a lithium-ion battery.",
+    "start": 228.099,
+    "duration": 2.127
+  },
+  {
+    "text": "Currently, though, most lithium-ion\nbatteries are not manufactured",
+    "start": 230.601,
+    "duration": 3.42
+  },
+  {
+    "text": "with recycling in mind.",
+    "start": 234.021,
+    "duration": 1.752
+  },
+  {
+    "text": "The designs are intricate\nand non-standard,",
+    "start": 235.815,
+    "duration": 2.544
+  },
+  {
+    "text": "and the components are held together\nby almost indestructible glues.",
+    "start": 238.359,
+    "duration": 3.754
+  },
+  {
+    "text": "So today, less than 5% of lithium-ion\nbatteries are recycled.",
+    "start": 242.113,
+    "duration": 4.546
+  },
+  {
+    "text": "Regulations that clearly define\nwho is responsible for a spent battery",
+    "start": 247.618,
+    "duration": 4.171
+  },
+  {
+    "text": "and what should happen to it\ncan boost recycling dramatically.",
+    "start": 251.789,
+    "duration": 3.754
+  },
+  {
+    "text": "For example, lead-acid batteries are\ngenerally subject to stringent regulations",
+    "start": 255.751,
+    "duration": 4.672
+  },
+  {
+    "text": "and are recycled at much higher rates\nthan lithium-ion batteries.",
+    "start": 260.423,
+    "duration": 4.087
+  },
+  {
+    "text": "Over the next century, we’ll need\nto recycle huge numbers of EV batteries,",
+    "start": 265.136,
+    "duration": 4.588
+  },
+  {
+    "text": "so scientists are working on making\nthe battery recycling process cheaper",
+    "start": 269.724,
+    "duration": 3.837
+  },
+  {
+    "text": "and more environmentally friendly.",
+    "start": 273.561,
+    "duration": 1.793
+  },
+  {
+    "text": "Smelting uses a lot of energy and,\ndepending on the type of battery,",
+    "start": 275.396,
+    "duration": 3.42
+  },
+  {
+    "text": "can release harmful by-products.",
+    "start": 278.816,
+    "duration": 2.044
+  },
+  {
+    "text": "In addition to regulations, industrial\nprocesses, and our own individual choices,",
+    "start": 281.235,
+    "duration": 4.296
+  },
+  {
+    "text": "battery tech will also continue to evolve.",
+    "start": 285.531,
+    "duration": 2.669
+  },
+  {
+    "text": "There are proof-of-concept batteries\nbeing developed that can convert",
+    "start": 288.2,
+    "duration": 3.42
+  },
+  {
+    "text": "physical force, ambient sound,\nand even pee into electricity.",
+    "start": 291.62,
+    "duration": 5.089
+  },
+  {
+    "text": "But if your top priority is to make your\nnumber one source of power, number one,",
+    "start": 297.001,
+    "duration": 4.296
+  },
+  {
+    "text": "sorry to say, but urine for a long wait.",
+    "start": 301.297,
+    "duration": 2.711
+  }
+]

@@ -1,0 +1,1617 @@
+[
+  {
+    "text": "So you go to the doctor\nand get some tests.",
+    "start": 12.811,
+    "duration": 3.321
+  },
+  {
+    "text": "The doctor determines\nthat you have high cholesterol",
+    "start": 16.674,
+    "duration": 2.62
+  },
+  {
+    "text": "and you would benefit\nfrom medication to treat it.",
+    "start": 19.318,
+    "duration": 3.171
+  },
+  {
+    "text": "So you get a pillbox.",
+    "start": 22.981,
+    "duration": 1.556
+  },
+  {
+    "text": "You have some confidence,",
+    "start": 25.505,
+    "duration": 1.199
+  },
+  {
+    "text": "your physician has some confidence\nthat this is going to work.",
+    "start": 26.728,
+    "duration": 2.937
+  },
+  {
+    "text": "The company that invented it did\na lot of studies, submitted it to the FDA.",
+    "start": 29.689,
+    "duration": 3.553
+  },
+  {
+    "text": "They studied it very carefully,\nskeptically, they approved it.",
+    "start": 33.266,
+    "duration": 3.107
+  },
+  {
+    "text": "They have a rough idea of how it works,",
+    "start": 36.397,
+    "duration": 1.889
+  },
+  {
+    "text": "they have a rough idea\nof what the side effects are.",
+    "start": 38.31,
+    "duration": 2.453
+  },
+  {
+    "text": "It should be OK.",
+    "start": 40.787,
+    "duration": 1.15
+  },
+  {
+    "text": "You have a little more\nof a conversation with your physician",
+    "start": 42.864,
+    "duration": 2.818
+  },
+  {
+    "text": "and the physician is a little worried\nbecause you've been blue,",
+    "start": 45.706,
+    "duration": 2.963
+  },
+  {
+    "text": "haven't felt like yourself,",
+    "start": 48.693,
+    "duration": 1.293
+  },
+  {
+    "text": "you haven't been able to enjoy things\nin life quite as much as you usually do.",
+    "start": 50.01,
+    "duration": 3.731
+  },
+  {
+    "text": "Your physician says, \"You know,\nI think you have some depression.",
+    "start": 53.765,
+    "duration": 3.186
+  },
+  {
+    "text": "I'm going to have to give\nyou another pill.\"",
+    "start": 57.792,
+    "duration": 2.315
+  },
+  {
+    "text": "So now we're talking\nabout two medications.",
+    "start": 60.934,
+    "duration": 2.483
+  },
+  {
+    "text": "This pill also -- millions\nof people have taken it,",
+    "start": 63.441,
+    "duration": 3.104
+  },
+  {
+    "text": "the company did studies,\nthe FDA looked at it -- all good.",
+    "start": 66.569,
+    "duration": 3.631
+  },
+  {
+    "text": "Think things should go OK.",
+    "start": 70.823,
+    "duration": 2.057
+  },
+  {
+    "text": "Think things should go OK.",
+    "start": 72.904,
+    "duration": 2.197
+  },
+  {
+    "text": "Well, wait a minute.",
+    "start": 75.125,
+    "duration": 1.439
+  },
+  {
+    "text": "How much have we studied\nthese two together?",
+    "start": 76.588,
+    "duration": 3.517
+  },
+  {
+    "text": "Well, it's very hard to do that.",
+    "start": 80.63,
+    "duration": 2.3
+  },
+  {
+    "text": "In fact, it's not traditionally done.",
+    "start": 82.954,
+    "duration": 2.13
+  },
+  {
+    "text": "We totally depend on what we call\n\"post-marketing surveillance,\"",
+    "start": 85.108,
+    "duration": 5.518
+  },
+  {
+    "text": "after the drugs hit the market.",
+    "start": 90.65,
+    "duration": 1.88
+  },
+  {
+    "text": "How can we figure out\nif bad things are happening",
+    "start": 92.996,
+    "duration": 2.848
+  },
+  {
+    "text": "between two medications?",
+    "start": 95.868,
+    "duration": 1.357
+  },
+  {
+    "text": "Three? Five? Seven?",
+    "start": 97.249,
+    "duration": 2.03
+  },
+  {
+    "text": "Ask your favorite person\nwho has several diagnoses",
+    "start": 99.708,
+    "duration": 2.415
+  },
+  {
+    "text": "how many medications they're on.",
+    "start": 102.147,
+    "duration": 1.834
+  },
+  {
+    "text": "Why do I care about this problem?",
+    "start": 104.53,
+    "duration": 1.58
+  },
+  {
+    "text": "I care about it deeply.",
+    "start": 106.134,
+    "duration": 1.157
+  },
+  {
+    "text": "I'm an informatics and data science guy\nand really, in my opinion,",
+    "start": 107.315,
+    "duration": 4.304
+  },
+  {
+    "text": "the only hope -- only hope --\nto understand these interactions",
+    "start": 111.643,
+    "duration": 3.745
+  },
+  {
+    "text": "is to leverage lots\nof different sources of data",
+    "start": 115.412,
+    "duration": 3.056
+  },
+  {
+    "text": "in order to figure out\nwhen drugs can be used together safely",
+    "start": 118.492,
+    "duration": 3.556
+  },
+  {
+    "text": "and when it's not so safe.",
+    "start": 122.072,
+    "duration": 1.777
+  },
+  {
+    "text": "So let me tell you a data science story.",
+    "start": 124.615,
+    "duration": 2.051
+  },
+  {
+    "text": "And it begins with my student Nick.",
+    "start": 126.69,
+    "duration": 2.154
+  },
+  {
+    "text": "Let's call him \"Nick,\"\nbecause that's his name.",
+    "start": 128.868,
+    "duration": 2.38
+  },
+  {
+    "text": "(Laughter)",
+    "start": 131.272,
+    "duration": 1.592
+  },
+  {
+    "text": "Nick was a young student.",
+    "start": 132.888,
+    "duration": 1.201
+  },
+  {
+    "text": "I said, \"You know, Nick, we have\nto understand how drugs work",
+    "start": 134.113,
+    "duration": 3.079
+  },
+  {
+    "text": "and how they work together\nand how they work separately,",
+    "start": 137.216,
+    "duration": 2.626
+  },
+  {
+    "text": "and we don't have a great understanding.",
+    "start": 139.866,
+    "duration": 1.922
+  },
+  {
+    "text": "But the FDA has made available\nan amazing database.",
+    "start": 141.812,
+    "duration": 2.405
+  },
+  {
+    "text": "It's a database of adverse events.",
+    "start": 144.241,
+    "duration": 1.699
+  },
+  {
+    "text": "They literally put on the web --",
+    "start": 146.321,
+    "duration": 1.642
+  },
+  {
+    "text": "publicly available, you could all\ndownload it right now --",
+    "start": 147.987,
+    "duration": 3.119
+  },
+  {
+    "text": "hundreds of thousands\nof adverse event reports",
+    "start": 151.13,
+    "duration": 3.627
+  },
+  {
+    "text": "from patients, doctors,\ncompanies, pharmacists.",
+    "start": 154.781,
+    "duration": 3.76
+  },
+  {
+    "text": "And these reports are pretty simple:",
+    "start": 158.565,
+    "duration": 1.749
+  },
+  {
+    "text": "it has all the diseases\nthat the patient has,",
+    "start": 160.338,
+    "duration": 2.658
+  },
+  {
+    "text": "all the drugs that they're on,",
+    "start": 163.02,
+    "duration": 1.767
+  },
+  {
+    "text": "and all the adverse events,\nor side effects, that they experience.",
+    "start": 164.811,
+    "duration": 3.818
+  },
+  {
+    "text": "It is not all of the adverse events\nthat are occurring in America today,",
+    "start": 168.653,
+    "duration": 3.436
+  },
+  {
+    "text": "but it's hundreds and hundreds\nof thousands of drugs.",
+    "start": 172.113,
+    "duration": 2.578
+  },
+  {
+    "text": "So I said to Nick,",
+    "start": 174.715,
+    "duration": 1.299
+  },
+  {
+    "text": "\"Let's think about glucose.",
+    "start": 176.038,
+    "duration": 1.826
+  },
+  {
+    "text": "Glucose is very important,\nand we know it's involved with diabetes.",
+    "start": 177.888,
+    "duration": 3.567
+  },
+  {
+    "text": "Let's see if we can understand\nglucose response.",
+    "start": 181.479,
+    "duration": 3.97
+  },
+  {
+    "text": "I sent Nick off. Nick came back.",
+    "start": 185.473,
+    "duration": 2.458
+  },
+  {
+    "text": "\"Russ,\" he said,",
+    "start": 188.248,
+    "duration": 1.786
+  },
+  {
+    "text": "\"I've created a classifier that can\nlook at the side effects of a drug",
+    "start": 190.351,
+    "duration": 5.112
+  },
+  {
+    "text": "based on looking at this database,",
+    "start": 195.487,
+    "duration": 2.051
+  },
+  {
+    "text": "and can tell you whether that drug\nis likely to change glucose or not.\"",
+    "start": 197.562,
+    "duration": 4.271
+  },
+  {
+    "text": "He did it. It was very simple, in a way.",
+    "start": 201.857,
+    "duration": 2.016
+  },
+  {
+    "text": "He took all the drugs\nthat were known to change glucose",
+    "start": 203.897,
+    "duration": 2.635
+  },
+  {
+    "text": "and a bunch of drugs\nthat don't change glucose,",
+    "start": 206.556,
+    "duration": 2.389
+  },
+  {
+    "text": "and said, \"What's the difference\nin their side effects?",
+    "start": 208.969,
+    "duration": 2.888
+  },
+  {
+    "text": "Differences in fatigue? In appetite?\nIn urination habits?\"",
+    "start": 211.881,
+    "duration": 4.852
+  },
+  {
+    "text": "All those things conspired\nto give him a really good predictor.",
+    "start": 216.757,
+    "duration": 2.96
+  },
+  {
+    "text": "He said, \"Russ, I can predict\nwith 93 percent accuracy",
+    "start": 219.741,
+    "duration": 2.548
+  },
+  {
+    "text": "when a drug will change glucose.\"",
+    "start": 222.313,
+    "duration": 1.572
+  },
+  {
+    "text": "I said, \"Nick, that's great.\"",
+    "start": 223.909,
+    "duration": 1.416
+  },
+  {
+    "text": "He's a young student,\nyou have to build his confidence.",
+    "start": 225.349,
+    "duration": 2.896
+  },
+  {
+    "text": "\"But Nick, there's a problem.",
+    "start": 228.269,
+    "duration": 1.39
+  },
+  {
+    "text": "It's that every physician in the world\nknows all the drugs that change glucose,",
+    "start": 229.683,
+    "duration": 3.96
+  },
+  {
+    "text": "because it's core to our practice.",
+    "start": 233.667,
+    "duration": 2.038
+  },
+  {
+    "text": "So it's great, good job,\nbut not really that interesting,",
+    "start": 235.729,
+    "duration": 3.722
+  },
+  {
+    "text": "definitely not publishable.\"",
+    "start": 239.475,
+    "duration": 1.531
+  },
+  {
+    "text": "(Laughter)",
+    "start": 241.03,
+    "duration": 1.014
+  },
+  {
+    "text": "He said, \"I know, Russ.\nI thought you might say that.\"",
+    "start": 242.068,
+    "duration": 2.55
+  },
+  {
+    "text": "Nick is smart.",
+    "start": 244.642,
+    "duration": 1.152
+  },
+  {
+    "text": "\"I thought you might say that,\nso I did one other experiment.",
+    "start": 246.149,
+    "duration": 2.874
+  },
+  {
+    "text": "I looked at people in this database\nwho were on two drugs,",
+    "start": 249.047,
+    "duration": 2.928
+  },
+  {
+    "text": "and I looked for signals similar,\nglucose-changing signals,",
+    "start": 251.999,
+    "duration": 4.422
+  },
+  {
+    "text": "for people taking two drugs,",
+    "start": 256.445,
+    "duration": 1.624
+  },
+  {
+    "text": "where each drug alone\ndid not change glucose,",
+    "start": 258.093,
+    "duration": 5.569
+  },
+  {
+    "text": "but together I saw a strong signal.\"",
+    "start": 263.686,
+    "duration": 2.46
+  },
+  {
+    "text": "And I said, \"Oh! You're clever.\nGood idea. Show me the list.\"",
+    "start": 266.17,
+    "duration": 3.149
+  },
+  {
+    "text": "And there's a bunch of drugs,\nnot very exciting.",
+    "start": 269.343,
+    "duration": 2.254
+  },
+  {
+    "text": "But what caught my eye\nwas, on the list there were two drugs:",
+    "start": 271.621,
+    "duration": 3.932
+  },
+  {
+    "text": "paroxetine, or Paxil, an antidepressant;",
+    "start": 275.577,
+    "duration": 3.393
+  },
+  {
+    "text": "and pravastatin, or Pravachol,\na cholesterol medication.",
+    "start": 279.756,
+    "duration": 3.57
+  },
+  {
+    "text": "And I said, \"Huh. There are millions\nof Americans on those two drugs.\"",
+    "start": 283.936,
+    "duration": 4.283
+  },
+  {
+    "text": "In fact, we learned later,",
+    "start": 288.243,
+    "duration": 1.246
+  },
+  {
+    "text": "15 million Americans on paroxetine\nat the time, 15 million on pravastatin,",
+    "start": 289.513,
+    "duration": 6.032
+  },
+  {
+    "text": "and a million, we estimated, on both.",
+    "start": 295.569,
+    "duration": 2.817
+  },
+  {
+    "text": "So that's a million people",
+    "start": 298.767,
+    "duration": 1.254
+  },
+  {
+    "text": "who might be having some problems\nwith their glucose",
+    "start": 300.045,
+    "duration": 2.453
+  },
+  {
+    "text": "if this machine-learning mumbo jumbo\nthat he did in the FDA database",
+    "start": 302.522,
+    "duration": 3.206
+  },
+  {
+    "text": "actually holds up.",
+    "start": 305.752,
+    "duration": 1.254
+  },
+  {
+    "text": "But I said, \"It's still not publishable,",
+    "start": 307.03,
+    "duration": 1.927
+  },
+  {
+    "text": "because I love what you did\nwith the mumbo jumbo,",
+    "start": 308.981,
+    "duration": 2.296
+  },
+  {
+    "text": "with the machine learning,",
+    "start": 311.301,
+    "duration": 1.246
+  },
+  {
+    "text": "but it's not really standard-of-proof\nevidence that we have.\"",
+    "start": 312.571,
+    "duration": 3.864
+  },
+  {
+    "text": "So we have to do something else.",
+    "start": 317.618,
+    "duration": 1.589
+  },
+  {
+    "text": "Let's go into the Stanford\nelectronic medical record.",
+    "start": 319.231,
+    "duration": 2.876
+  },
+  {
+    "text": "We have a copy of it\nthat's OK for research,",
+    "start": 322.131,
+    "duration": 2.064
+  },
+  {
+    "text": "we removed identifying information.",
+    "start": 324.219,
+    "duration": 2.046
+  },
+  {
+    "text": "And I said, \"Let's see if people\non these two drugs",
+    "start": 326.581,
+    "duration": 2.503
+  },
+  {
+    "text": "have problems with their glucose.\"",
+    "start": 329.108,
+    "duration": 1.769
+  },
+  {
+    "text": "Now there are thousands\nand thousands of people",
+    "start": 331.242,
+    "duration": 2.207
+  },
+  {
+    "text": "in the Stanford medical records\nthat take paroxetine and pravastatin.",
+    "start": 333.473,
+    "duration": 3.459
+  },
+  {
+    "text": "But we needed special patients.",
+    "start": 336.956,
+    "duration": 1.799
+  },
+  {
+    "text": "We needed patients who were on one of them\nand had a glucose measurement,",
+    "start": 338.779,
+    "duration": 4.597
+  },
+  {
+    "text": "then got the second one and had\nanother glucose measurement,",
+    "start": 343.4,
+    "duration": 3.449
+  },
+  {
+    "text": "all within a reasonable period of time --\nsomething like two months.",
+    "start": 346.873,
+    "duration": 3.615
+  },
+  {
+    "text": "And when we did that,\nwe found 10 patients.",
+    "start": 350.512,
+    "duration": 3.159
+  },
+  {
+    "text": "However, eight out of the 10\nhad a bump in their glucose",
+    "start": 354.592,
+    "duration": 4.538
+  },
+  {
+    "text": "when they got the second P --\nwe call this P and P --",
+    "start": 359.154,
+    "duration": 2.645
+  },
+  {
+    "text": "when they got the second P.",
+    "start": 361.823,
+    "duration": 1.31
+  },
+  {
+    "text": "Either one could be first,\nthe second one comes up,",
+    "start": 363.157,
+    "duration": 2.562
+  },
+  {
+    "text": "glucose went up\n20 milligrams per deciliter.",
+    "start": 365.743,
+    "duration": 2.847
+  },
+  {
+    "text": "Just as a reminder,",
+    "start": 368.614,
+    "duration": 1.158
+  },
+  {
+    "text": "you walk around normally,\nif you're not diabetic,",
+    "start": 369.796,
+    "duration": 2.325
+  },
+  {
+    "text": "with a glucose of around 90.",
+    "start": 372.145,
+    "duration": 1.359
+  },
+  {
+    "text": "And if it gets up to 120, 125,",
+    "start": 373.528,
+    "duration": 2.076
+  },
+  {
+    "text": "your doctor begins to think\nabout a potential diagnosis of diabetes.",
+    "start": 375.628,
+    "duration": 3.45
+  },
+  {
+    "text": "So a 20 bump -- pretty significant.",
+    "start": 379.102,
+    "duration": 2.991
+  },
+  {
+    "text": "I said, \"Nick, this is very cool.",
+    "start": 382.601,
+    "duration": 1.904
+  },
+  {
+    "text": "But, I'm sorry, we still\ndon't have a paper,",
+    "start": 385.616,
+    "duration": 2.053
+  },
+  {
+    "text": "because this is 10 patients\nand -- give me a break --",
+    "start": 387.693,
+    "duration": 2.579
+  },
+  {
+    "text": "it's not enough patients.\"",
+    "start": 390.296,
+    "duration": 1.245
+  },
+  {
+    "text": "So we said, what can we do?",
+    "start": 391.565,
+    "duration": 1.306
+  },
+  {
+    "text": "And we said, let's call our friends\nat Harvard and Vanderbilt,",
+    "start": 392.895,
+    "duration": 2.976
+  },
+  {
+    "text": "who also -- Harvard in Boston,\nVanderbilt in Nashville,",
+    "start": 395.895,
+    "duration": 2.587
+  },
+  {
+    "text": "who also have electronic\nmedical records similar to ours.",
+    "start": 398.506,
+    "duration": 2.821
+  },
+  {
+    "text": "Let's see if they can find\nsimilar patients",
+    "start": 401.351,
+    "duration": 2.02
+  },
+  {
+    "text": "with the one P, the other P,\nthe glucose measurements",
+    "start": 403.395,
+    "duration": 3.276
+  },
+  {
+    "text": "in that range that we need.",
+    "start": 406.695,
+    "duration": 1.6
+  },
+  {
+    "text": "God bless them, Vanderbilt\nin one week found 40 such patients,",
+    "start": 408.787,
+    "duration": 4.955
+  },
+  {
+    "text": "same trend.",
+    "start": 413.766,
+    "duration": 1.189
+  },
+  {
+    "text": "Harvard found 100 patients, same trend.",
+    "start": 415.804,
+    "duration": 3.62
+  },
+  {
+    "text": "So at the end, we had 150 patients\nfrom three diverse medical centers",
+    "start": 419.448,
+    "duration": 4.281
+  },
+  {
+    "text": "that were telling us that patients\ngetting these two drugs",
+    "start": 423.753,
+    "duration": 3.297
+  },
+  {
+    "text": "were having their glucose bump\nsomewhat significantly.",
+    "start": 427.074,
+    "duration": 2.703
+  },
+  {
+    "text": "More interestingly,\nwe had left out diabetics,",
+    "start": 430.317,
+    "duration": 2.81
+  },
+  {
+    "text": "because diabetics already\nhave messed up glucose.",
+    "start": 433.151,
+    "duration": 2.317
+  },
+  {
+    "text": "When we looked\nat the glucose of diabetics,",
+    "start": 435.492,
+    "duration": 2.238
+  },
+  {
+    "text": "it was going up 60 milligrams\nper deciliter, not just 20.",
+    "start": 437.754,
+    "duration": 3.435
+  },
+  {
+    "text": "This was a big deal, and we said,\n\"We've got to publish this.\"",
+    "start": 441.76,
+    "duration": 3.452
+  },
+  {
+    "text": "We submitted the paper.",
+    "start": 445.236,
+    "duration": 1.179
+  },
+  {
+    "text": "It was all data evidence,",
+    "start": 446.439,
+    "duration": 2.111
+  },
+  {
+    "text": "data from the FDA, data from Stanford,",
+    "start": 448.574,
+    "duration": 2.483
+  },
+  {
+    "text": "data from Vanderbilt, data from Harvard.",
+    "start": 451.081,
+    "duration": 1.946
+  },
+  {
+    "text": "We had not done a single real experiment.",
+    "start": 453.051,
+    "duration": 2.396
+  },
+  {
+    "text": "But we were nervous.",
+    "start": 456.495,
+    "duration": 1.296
+  },
+  {
+    "text": "So Nick, while the paper\nwas in review, went to the lab.",
+    "start": 458.201,
+    "duration": 3.73
+  },
+  {
+    "text": "We found somebody\nwho knew about lab stuff.",
+    "start": 461.955,
+    "duration": 2.462
+  },
+  {
+    "text": "I don't do that.",
+    "start": 464.441,
+    "duration": 1.393
+  },
+  {
+    "text": "I take care of patients,\nbut I don't do pipettes.",
+    "start": 465.858,
+    "duration": 2.417
+  },
+  {
+    "text": "They taught us how to feed mice drugs.",
+    "start": 469.42,
+    "duration": 3.053
+  },
+  {
+    "text": "We took mice and we gave them\none P, paroxetine.",
+    "start": 472.864,
+    "duration": 2.414
+  },
+  {
+    "text": "We gave some other mice pravastatin.",
+    "start": 475.302,
+    "duration": 2.508
+  },
+  {
+    "text": "And we gave a third group\nof mice both of them.",
+    "start": 477.834,
+    "duration": 3.595
+  },
+  {
+    "text": "And lo and behold, glucose went up\n20 to 60 milligrams per deciliter",
+    "start": 481.893,
+    "duration": 3.946
+  },
+  {
+    "text": "in the mice.",
+    "start": 485.863,
+    "duration": 1.171
+  },
+  {
+    "text": "So the paper was accepted\nbased on the informatics evidence alone,",
+    "start": 487.058,
+    "duration": 3.158
+  },
+  {
+    "text": "but we added a little note at the end,",
+    "start": 490.24,
+    "duration": 1.894
+  },
+  {
+    "text": "saying, oh by the way,\nif you give these to mice, it goes up.",
+    "start": 492.158,
+    "duration": 2.899
+  },
+  {
+    "text": "That was great, and the story\ncould have ended there.",
+    "start": 495.081,
+    "duration": 2.508
+  },
+  {
+    "text": "But I still have six and a half minutes.",
+    "start": 497.613,
+    "duration": 1.997
+  },
+  {
+    "text": "(Laughter)",
+    "start": 499.634,
+    "duration": 2.807
+  },
+  {
+    "text": "So we were sitting around\nthinking about all of this,",
+    "start": 502.465,
+    "duration": 2.815
+  },
+  {
+    "text": "and I don't remember who thought\nof it, but somebody said,",
+    "start": 505.304,
+    "duration": 2.735
+  },
+  {
+    "text": "\"I wonder if patients\nwho are taking these two drugs",
+    "start": 508.063,
+    "duration": 3.201
+  },
+  {
+    "text": "are noticing side effects\nof hyperglycemia.",
+    "start": 511.288,
+    "duration": 3.553
+  },
+  {
+    "text": "They could and they should.",
+    "start": 514.865,
+    "duration": 1.496
+  },
+  {
+    "text": "How would we ever determine that?\"",
+    "start": 516.761,
+    "duration": 1.877
+  },
+  {
+    "text": "We said, well, what do you do?",
+    "start": 519.551,
+    "duration": 1.443
+  },
+  {
+    "text": "You're taking a medication,\none new medication or two,",
+    "start": 521.018,
+    "duration": 2.58
+  },
+  {
+    "text": "and you get a funny feeling.",
+    "start": 523.622,
+    "duration": 1.538
+  },
+  {
+    "text": "What do you do?",
+    "start": 525.184,
+    "duration": 1.151
+  },
+  {
+    "text": "You go to Google",
+    "start": 526.359,
+    "duration": 1.151
+  },
+  {
+    "text": "and type in the two drugs you're taking\nor the one drug you're taking,",
+    "start": 527.534,
+    "duration": 3.349
+  },
+  {
+    "text": "and you type in \"side effects.\"",
+    "start": 530.907,
+    "duration": 1.603
+  },
+  {
+    "text": "What are you experiencing?",
+    "start": 532.534,
+    "duration": 1.356
+  },
+  {
+    "text": "So we said OK,",
+    "start": 534.239,
+    "duration": 1.151
+  },
+  {
+    "text": "let's ask Google if they will share\ntheir search logs with us,",
+    "start": 535.414,
+    "duration": 3.056
+  },
+  {
+    "text": "so that we can look at the search logs",
+    "start": 538.494,
+    "duration": 1.833
+  },
+  {
+    "text": "and see if patients are doing\nthese kinds of searches.",
+    "start": 540.351,
+    "duration": 2.565
+  },
+  {
+    "text": "Google, I am sorry to say,\ndenied our request.",
+    "start": 542.94,
+    "duration": 3.275
+  },
+  {
+    "text": "So I was bummed.",
+    "start": 546.819,
+    "duration": 1.151
+  },
+  {
+    "text": "I was at a dinner with a colleague\nwho works at Microsoft Research",
+    "start": 547.994,
+    "duration": 3.166
+  },
+  {
+    "text": "and I said, \"We wanted to do this study,",
+    "start": 551.184,
+    "duration": 1.941
+  },
+  {
+    "text": "Google said no, it's kind of a bummer.\"",
+    "start": 553.149,
+    "duration": 1.88
+  },
+  {
+    "text": "He said, \"Well, we have\nthe Bing searches.\"",
+    "start": 555.053,
+    "duration": 2.086
+  },
+  {
+    "text": "(Laughter)",
+    "start": 558.195,
+    "duration": 3.483
+  },
+  {
+    "text": "Yeah.",
+    "start": 562.805,
+    "duration": 1.267
+  },
+  {
+    "text": "That's great.",
+    "start": 564.096,
+    "duration": 1.151
+  },
+  {
+    "text": "Now I felt like I was --",
+    "start": 565.271,
+    "duration": 1.151
+  },
+  {
+    "text": "(Laughter)",
+    "start": 566.446,
+    "duration": 1.0
+  },
+  {
+    "text": "I felt like I was talking to Nick again.",
+    "start": 567.47,
+    "duration": 2.412
+  },
+  {
+    "text": "He works for one of the largest\ncompanies in the world,",
+    "start": 570.437,
+    "duration": 2.624
+  },
+  {
+    "text": "and I'm already trying\nto make him feel better.",
+    "start": 573.085,
+    "duration": 2.206
+  },
+  {
+    "text": "But he said, \"No, Russ --\nyou might not understand.",
+    "start": 575.315,
+    "duration": 2.445
+  },
+  {
+    "text": "We not only have Bing searches,",
+    "start": 577.784,
+    "duration": 1.5
+  },
+  {
+    "text": "but if you use Internet Explorer\nto do searches at Google,",
+    "start": 579.308,
+    "duration": 3.34
+  },
+  {
+    "text": "Yahoo, Bing, any ...",
+    "start": 582.672,
+    "duration": 1.891
+  },
+  {
+    "text": "Then, for 18 months, we keep that data\nfor research purposes only.\"",
+    "start": 584.587,
+    "duration": 3.643
+  },
+  {
+    "text": "I said, \"Now you're talking!\"",
+    "start": 588.254,
+    "duration": 1.936
+  },
+  {
+    "text": "This was Eric Horvitz,\nmy friend at Microsoft.",
+    "start": 590.214,
+    "duration": 2.198
+  },
+  {
+    "text": "So we did a study",
+    "start": 592.436,
+    "duration": 1.695
+  },
+  {
+    "text": "where we defined 50 words\nthat a regular person might type in",
+    "start": 594.155,
+    "duration": 4.619
+  },
+  {
+    "text": "if they're having hyperglycemia,",
+    "start": 598.798,
+    "duration": 1.602
+  },
+  {
+    "text": "like \"fatigue,\" \"loss of appetite,\"\n\"urinating a lot,\" \"peeing a lot\" --",
+    "start": 600.424,
+    "duration": 4.762
+  },
+  {
+    "text": "forgive me, but that's one\nof the things you might type in.",
+    "start": 605.21,
+    "duration": 2.767
+  },
+  {
+    "text": "So we had 50 phrases\nthat we called the \"diabetes words.\"",
+    "start": 608.001,
+    "duration": 2.79
+  },
+  {
+    "text": "And we did first a baseline.",
+    "start": 610.815,
+    "duration": 2.063
+  },
+  {
+    "text": "And it turns out\nthat about .5 to one percent",
+    "start": 612.902,
+    "duration": 2.704
+  },
+  {
+    "text": "of all searches on the Internet\ninvolve one of those words.",
+    "start": 615.63,
+    "duration": 2.982
+  },
+  {
+    "text": "So that's our baseline rate.",
+    "start": 618.636,
+    "duration": 1.742
+  },
+  {
+    "text": "If people type in \"paroxetine\"\nor \"Paxil\" -- those are synonyms --",
+    "start": 620.402,
+    "duration": 4.143
+  },
+  {
+    "text": "and one of those words,",
+    "start": 624.569,
+    "duration": 1.215
+  },
+  {
+    "text": "the rate goes up to about two percent\nof diabetes-type words,",
+    "start": 625.808,
+    "duration": 4.89
+  },
+  {
+    "text": "if you already know\nthat there's that \"paroxetine\" word.",
+    "start": 630.722,
+    "duration": 3.044
+  },
+  {
+    "text": "If it's \"pravastatin,\" the rate goes up\nto about three percent from the baseline.",
+    "start": 634.191,
+    "duration": 4.547
+  },
+  {
+    "text": "If both \"paroxetine\" and \"pravastatin\"\nare present in the query,",
+    "start": 639.171,
+    "duration": 4.39
+  },
+  {
+    "text": "it goes up to 10 percent,",
+    "start": 643.585,
+    "duration": 1.669
+  },
+  {
+    "text": "a huge three- to four-fold increase",
+    "start": 645.278,
+    "duration": 3.461
+  },
+  {
+    "text": "in those searches with the two drugs\nthat we were interested in,",
+    "start": 648.763,
+    "duration": 3.389
+  },
+  {
+    "text": "and diabetes-type words\nor hyperglycemia-type words.",
+    "start": 652.176,
+    "duration": 3.566
+  },
+  {
+    "text": "We published this,",
+    "start": 656.216,
+    "duration": 1.265
+  },
+  {
+    "text": "and it got some attention.",
+    "start": 657.505,
+    "duration": 1.466
+  },
+  {
+    "text": "The reason it deserves attention",
+    "start": 658.995,
+    "duration": 1.778
+  },
+  {
+    "text": "is that patients are telling us\ntheir side effects indirectly",
+    "start": 660.797,
+    "duration": 4.312
+  },
+  {
+    "text": "through their searches.",
+    "start": 665.133,
+    "duration": 1.156
+  },
+  {
+    "text": "We brought this\nto the attention of the FDA.",
+    "start": 666.313,
+    "duration": 2.138
+  },
+  {
+    "text": "They were interested.",
+    "start": 668.475,
+    "duration": 1.269
+  },
+  {
+    "text": "They have set up social media\nsurveillance programs",
+    "start": 669.768,
+    "duration": 3.606
+  },
+  {
+    "text": "to collaborate with Microsoft,",
+    "start": 673.398,
+    "duration": 1.751
+  },
+  {
+    "text": "which had a nice infrastructure\nfor doing this, and others,",
+    "start": 675.173,
+    "duration": 2.794
+  },
+  {
+    "text": "to look at Twitter feeds,",
+    "start": 677.991,
+    "duration": 1.282
+  },
+  {
+    "text": "to look at Facebook feeds,",
+    "start": 679.297,
+    "duration": 1.716
+  },
+  {
+    "text": "to look at search logs,",
+    "start": 681.037,
+    "duration": 1.311
+  },
+  {
+    "text": "to try to see early signs that drugs,\neither individually or together,",
+    "start": 682.372,
+    "duration": 4.909
+  },
+  {
+    "text": "are causing problems.",
+    "start": 687.305,
+    "duration": 1.589
+  },
+  {
+    "text": "What do I take from this?\nWhy tell this story?",
+    "start": 688.918,
+    "duration": 2.174
+  },
+  {
+    "text": "Well, first of all,",
+    "start": 691.116,
+    "duration": 1.207
+  },
+  {
+    "text": "we have now the promise\nof big data and medium-sized data",
+    "start": 692.347,
+    "duration": 4.037
+  },
+  {
+    "text": "to help us understand drug interactions",
+    "start": 696.408,
+    "duration": 2.918
+  },
+  {
+    "text": "and really, fundamentally, drug actions.",
+    "start": 699.35,
+    "duration": 2.42
+  },
+  {
+    "text": "How do drugs work?",
+    "start": 701.794,
+    "duration": 1.413
+  },
+  {
+    "text": "This will create and has created\na new ecosystem",
+    "start": 703.231,
+    "duration": 2.836
+  },
+  {
+    "text": "for understanding how drugs work\nand to optimize their use.",
+    "start": 706.091,
+    "duration": 3.267
+  },
+  {
+    "text": "Nick went on; he's a professor\nat Columbia now.",
+    "start": 710.303,
+    "duration": 2.659
+  },
+  {
+    "text": "He did this in his PhD\nfor hundreds of pairs of drugs.",
+    "start": 712.986,
+    "duration": 4.072
+  },
+  {
+    "text": "He found several\nvery important interactions,",
+    "start": 717.082,
+    "duration": 2.517
+  },
+  {
+    "text": "and so we replicated this",
+    "start": 719.623,
+    "duration": 1.214
+  },
+  {
+    "text": "and we showed that this\nis a way that really works",
+    "start": 720.861,
+    "duration": 2.574
+  },
+  {
+    "text": "for finding drug-drug interactions.",
+    "start": 723.459,
+    "duration": 2.339
+  },
+  {
+    "text": "However, there's a couple of things.",
+    "start": 726.282,
+    "duration": 1.734
+  },
+  {
+    "text": "We don't just use pairs\nof drugs at a time.",
+    "start": 728.04,
+    "duration": 3.046
+  },
+  {
+    "text": "As I said before, there are patients\non three, five, seven, nine drugs.",
+    "start": 731.11,
+    "duration": 4.469
+  },
+  {
+    "text": "Have they been studied with respect\nto their nine-way interaction?",
+    "start": 735.981,
+    "duration": 3.642
+  },
+  {
+    "text": "Yes, we can do pair-wise,\nA and B, A and C, A and D,",
+    "start": 739.647,
+    "duration": 4.208
+  },
+  {
+    "text": "but what about A, B, C,\nD, E, F, G all together,",
+    "start": 743.879,
+    "duration": 4.286
+  },
+  {
+    "text": "being taken by the same patient,",
+    "start": 748.189,
+    "duration": 1.762
+  },
+  {
+    "text": "perhaps interacting with each other",
+    "start": 749.975,
+    "duration": 2.118
+  },
+  {
+    "text": "in ways that either makes them\nmore effective or less effective",
+    "start": 752.117,
+    "duration": 3.778
+  },
+  {
+    "text": "or causes side effects\nthat are unexpected?",
+    "start": 755.919,
+    "duration": 2.332
+  },
+  {
+    "text": "We really have no idea.",
+    "start": 758.275,
+    "duration": 1.827
+  },
+  {
+    "text": "It's a blue sky, open field\nfor us to use data",
+    "start": 760.126,
+    "duration": 3.756
+  },
+  {
+    "text": "to try to understand\nthe interaction of drugs.",
+    "start": 763.906,
+    "duration": 2.502
+  },
+  {
+    "text": "Two more lessons:",
+    "start": 766.848,
+    "duration": 1.37
+  },
+  {
+    "text": "I want you to think about the power\nthat we were able to generate",
+    "start": 768.242,
+    "duration": 4.199
+  },
+  {
+    "text": "with the data from people who had\nvolunteered their adverse reactions",
+    "start": 772.465,
+    "duration": 4.711
+  },
+  {
+    "text": "through their pharmacists,\nthrough themselves, through their doctors,",
+    "start": 777.2,
+    "duration": 3.269
+  },
+  {
+    "text": "the people who allowed the databases\nat Stanford, Harvard, Vanderbilt,",
+    "start": 780.493,
+    "duration": 3.667
+  },
+  {
+    "text": "to be used for research.",
+    "start": 784.184,
+    "duration": 1.427
+  },
+  {
+    "text": "People are worried about data.",
+    "start": 785.929,
+    "duration": 1.445
+  },
+  {
+    "text": "They're worried about their privacy\nand security -- they should be.",
+    "start": 787.398,
+    "duration": 3.187
+  },
+  {
+    "text": "We need secure systems.",
+    "start": 790.609,
+    "duration": 1.151
+  },
+  {
+    "text": "But we can't have a system\nthat closes that data off,",
+    "start": 791.784,
+    "duration": 3.406
+  },
+  {
+    "text": "because it is too rich of a source",
+    "start": 795.214,
+    "duration": 2.752
+  },
+  {
+    "text": "of inspiration, innovation and discovery",
+    "start": 797.99,
+    "duration": 3.971
+  },
+  {
+    "text": "for new things in medicine.",
+    "start": 801.985,
+    "duration": 1.578
+  },
+  {
+    "text": "And the final thing I want to say is,",
+    "start": 804.494,
+    "duration": 1.794
+  },
+  {
+    "text": "in this case we found two drugs\nand it was a little bit of a sad story.",
+    "start": 806.312,
+    "duration": 3.357
+  },
+  {
+    "text": "The two drugs actually caused problems.",
+    "start": 809.693,
+    "duration": 1.921
+  },
+  {
+    "text": "They increased glucose.",
+    "start": 811.638,
+    "duration": 1.475
+  },
+  {
+    "text": "They could throw somebody into diabetes",
+    "start": 813.137,
+    "duration": 2.446
+  },
+  {
+    "text": "who would otherwise not be in diabetes,",
+    "start": 815.607,
+    "duration": 2.294
+  },
+  {
+    "text": "and so you would want to use\nthe two drugs very carefully together,",
+    "start": 817.925,
+    "duration": 3.175
+  },
+  {
+    "text": "perhaps not together,",
+    "start": 821.124,
+    "duration": 1.151
+  },
+  {
+    "text": "make different choices\nwhen you're prescribing.",
+    "start": 822.299,
+    "duration": 2.34
+  },
+  {
+    "text": "But there was another possibility.",
+    "start": 824.663,
+    "duration": 1.846
+  },
+  {
+    "text": "We could have found\ntwo drugs or three drugs",
+    "start": 826.533,
+    "duration": 2.344
+  },
+  {
+    "text": "that were interacting in a beneficial way.",
+    "start": 828.901,
+    "duration": 2.261
+  },
+  {
+    "text": "We could have found new effects of drugs",
+    "start": 831.616,
+    "duration": 2.712
+  },
+  {
+    "text": "that neither of them has alone,",
+    "start": 834.352,
+    "duration": 2.16
+  },
+  {
+    "text": "but together, instead\nof causing a side effect,",
+    "start": 836.536,
+    "duration": 2.493
+  },
+  {
+    "text": "they could be a new and novel treatment",
+    "start": 839.053,
+    "duration": 2.425
+  },
+  {
+    "text": "for diseases that don't have treatments",
+    "start": 841.502,
+    "duration": 1.882
+  },
+  {
+    "text": "or where the treatments are not effective.",
+    "start": 843.408,
+    "duration": 2.007
+  },
+  {
+    "text": "If we think about drug treatment today,",
+    "start": 845.439,
+    "duration": 2.395
+  },
+  {
+    "text": "all the major breakthroughs --",
+    "start": 847.858,
+    "duration": 1.752
+  },
+  {
+    "text": "for HIV, for tuberculosis,\nfor depression, for diabetes --",
+    "start": 849.634,
+    "duration": 4.297
+  },
+  {
+    "text": "it's always a cocktail of drugs.",
+    "start": 853.955,
+    "duration": 2.83
+  },
+  {
+    "text": "And so the upside here,",
+    "start": 856.809,
+    "duration": 1.73
+  },
+  {
+    "text": "and the subject for a different\nTED Talk on a different day,",
+    "start": 858.563,
+    "duration": 2.849
+  },
+  {
+    "text": "is how can we use the same data sources",
+    "start": 861.436,
+    "duration": 2.593
+  },
+  {
+    "text": "to find good effects\nof drugs in combination",
+    "start": 864.053,
+    "duration": 3.563
+  },
+  {
+    "text": "that will provide us new treatments,",
+    "start": 867.64,
+    "duration": 2.175
+  },
+  {
+    "text": "new insights into how drugs work",
+    "start": 869.839,
+    "duration": 1.852
+  },
+  {
+    "text": "and enable us to take care\nof our patients even better?",
+    "start": 871.715,
+    "duration": 3.786
+  },
+  {
+    "text": "Thank you very much.",
+    "start": 875.525,
+    "duration": 1.166
+  },
+  {
+    "text": "(Applause)",
+    "start": 876.715,
+    "duration": 3.499
+  }
+]

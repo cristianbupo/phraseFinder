@@ -1,0 +1,432 @@
+[
+  {
+    "text": "Ethic and her robot Hedge agree \nto help the resistance leader, Adila,",
+    "start": 35.753,
+    "duration": 5.043
+  },
+  {
+    "text": "sabotage the art-incinerating \nfurnace-bots.",
+    "start": 40.796,
+    "duration": 3.77
+  },
+  {
+    "text": "In exchange,",
+    "start": 44.566,
+    "duration": 0.996
+  },
+  {
+    "text": "Adila promises to lead them \nto the first object of Ethic’s quest,",
+    "start": 45.562,
+    "duration": 4.784
+  },
+  {
+    "text": "an artifact called the Node of Power.",
+    "start": 50.346,
+    "duration": 4.331
+  },
+  {
+    "text": "Years ago, there was just \none furnace-bot.",
+    "start": 54.677,
+    "duration": 3.051
+  },
+  {
+    "text": "It had a 0 inside its furnace \nand an unknown,",
+    "start": 57.728,
+    "duration": 3.489
+  },
+  {
+    "text": "randomly generated serial number.",
+    "start": 61.217,
+    "duration": 3.0
+  },
+  {
+    "text": "Over time, the original self-replicated \nto produce more identical furnace-bots.",
+    "start": 64.217,
+    "duration": 6.557
+  },
+  {
+    "text": "Each child inherited the original’s \nunknown serial number within its furnace,",
+    "start": 70.774,
+    "duration": 5.268
+  },
+  {
+    "text": "and had a random, unique serial \nnumber of its own inscribed on its shell.",
+    "start": 76.042,
+    "duration": 5.467
+  },
+  {
+    "text": "The second generation of furnace-\nbots also self-replicated in the same way,",
+    "start": 81.509,
+    "duration": 4.931
+  },
+  {
+    "text": "always passing their own serial \nnumbers to their offspring’s furnaces.",
+    "start": 86.44,
+    "duration": 5.003
+  },
+  {
+    "text": "This continued on for many generations.",
+    "start": 91.443,
+    "duration": 3.71
+  },
+  {
+    "text": "Today, each furnace-bot receives \nits orders from its parent.",
+    "start": 95.153,
+    "duration": 4.479
+  },
+  {
+    "text": "So if Ethic can find the original 0 bot\nand somehow change its instructions,",
+    "start": 99.632,
+    "duration": 6.115
+  },
+  {
+    "text": "she could take over \nthe entire army, all at once.",
+    "start": 105.747,
+    "duration": 4.429
+  },
+  {
+    "text": "Adila has the perfect solution:",
+    "start": 110.176,
+    "duration": 2.695
+  },
+  {
+    "text": "a data crystal that she’s \nbeen carrying for years,",
+    "start": 112.871,
+    "duration": 3.554
+  },
+  {
+    "text": "waiting for the right moment \nto activate it.",
+    "start": 116.425,
+    "duration": 2.941
+  },
+  {
+    "text": "It contains a program designed \nto gain control of a bot",
+    "start": 119.366,
+    "duration": 4.094
+  },
+  {
+    "text": "and give it new instructions.",
+    "start": 123.46,
+    "duration": 2.355
+  },
+  {
+    "text": "But if it’s uploaded to any furnace-\nbot other than the original,",
+    "start": 125.815,
+    "duration": 4.056
+  },
+  {
+    "text": "the 0 bot will override \nthe instructions",
+    "start": 129.871,
+    "duration": 2.87
+  },
+  {
+    "text": "and destroy the data crystal \nin the process.",
+    "start": 132.741,
+    "duration": 3.624
+  },
+  {
+    "text": "The feeding is just \na few minutes away,",
+    "start": 136.365,
+    "duration": 2.395
+  },
+  {
+    "text": "and there’s only one \nchance to get this right.",
+    "start": 138.76,
+    "duration": 3.559
+  },
+  {
+    "text": "Fortunately, Hedge’s ability \nto store data can help.",
+    "start": 142.319,
+    "duration": 4.249
+  },
+  {
+    "text": "In programming,",
+    "start": 146.568,
+    "duration": 1.205
+  },
+  {
+    "text": "a piece of information gets \nstored in something called a variable.",
+    "start": 147.773,
+    "duration": 4.344
+  },
+  {
+    "text": "Variables are basically containers that \nhold onto numbers, words, or other values.",
+    "start": 152.117,
+    "duration": 6.49
+  },
+  {
+    "text": "How does Ethic program Hedge to find \nthe original 0 bot as quickly as possible?",
+    "start": 158.607,
+    "duration": 6.695
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 165.302,
+    "duration": 2.79
+  },
+  {
+    "text": "Here’s a hint.",
+    "start": 169.956,
+    "duration": 1.353
+  },
+  {
+    "text": "Programs can be written to have \nas many variables as you need,",
+    "start": 171.309,
+    "duration": 4.22
+  },
+  {
+    "text": "but you can solve this problem \nwith just one.",
+    "start": 175.529,
+    "duration": 3.341
+  },
+  {
+    "text": "Hedge can use it to store \na serial number",
+    "start": 178.87,
+    "duration": 2.794
+  },
+  {
+    "text": "and replace it with a new one \nas often as he needs.",
+    "start": 181.664,
+    "duration": 3.606
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 185.27,
+    "duration": 2.444
+  },
+  {
+    "text": "A key insight here is that Hedge \ndoesn’t need to map out the entire",
+    "start": 190.129,
+    "duration": 4.439
+  },
+  {
+    "text": "set of relationships to find \nthe original furnace-bot.",
+    "start": 194.568,
+    "duration": 3.923
+  },
+  {
+    "text": "If, for example, he gets lucky and picks \nthe original one right away,",
+    "start": 198.491,
+    "duration": 4.449
+  },
+  {
+    "text": "he’ll be done.",
+    "start": 202.94,
+    "duration": 1.08
+  },
+  {
+    "text": "But if he starts with any other bot,",
+    "start": 204.02,
+    "duration": 2.418
+  },
+  {
+    "text": "he can still find a path that leads \nstraight back to the 0-bot",
+    "start": 206.438,
+    "duration": 4.273
+  },
+  {
+    "text": "by following a simple set of instructions.",
+    "start": 210.711,
+    "duration": 3.72
+  },
+  {
+    "text": "To help craft them, let’s first \nsimplify the problem.",
+    "start": 214.431,
+    "duration": 3.62
+  },
+  {
+    "text": "Let’s say there were only \nthree furnace-bots;",
+    "start": 218.051,
+    "duration": 2.772
+  },
+  {
+    "text": "a parent and two children, but you don’t \nknow which is which.",
+    "start": 220.823,
+    "duration": 3.809
+  },
+  {
+    "text": "You could have Hedge pick one \nat random and look inside its furnace.",
+    "start": 224.632,
+    "duration": 4.777
+  },
+  {
+    "text": "Now, you know the family tree \nlooks like this.",
+    "start": 229.409,
+    "duration": 3.84
+  },
+  {
+    "text": "If the number inside the furnace is a 0, \nyou’ve found the parent.",
+    "start": 233.249,
+    "duration": 3.954
+  },
+  {
+    "text": "If not, then no matter \nwhich child you chose,",
+    "start": 237.203,
+    "duration": 3.345
+  },
+  {
+    "text": "it must have the parent’s serial \nnumber in its furnace.",
+    "start": 240.548,
+    "duration": 3.81
+  },
+  {
+    "text": "So in this scenario, you’re guaranteed \nto find the parent in one or two moves.",
+    "start": 244.358,
+    "duration": 6.315
+  },
+  {
+    "text": "In actuality, there are many \nfurnace-bots,",
+    "start": 250.673,
+    "duration": 2.89
+  },
+  {
+    "text": "and you don’t know how \nmany generations there are",
+    "start": 253.563,
+    "duration": 2.683
+  },
+  {
+    "text": "nor what the family tree looks like.",
+    "start": 256.246,
+    "duration": 2.605
+  },
+  {
+    "text": "But you don’t need to,",
+    "start": 258.851,
+    "duration": 1.589
+  },
+  {
+    "text": "because Hedge can just keep repeating \nthe same sequence of actions",
+    "start": 260.44,
+    "duration": 3.921
+  },
+  {
+    "text": "until he gets to the original.",
+    "start": 264.361,
+    "duration": 2.242
+  },
+  {
+    "text": "How? With a loop.",
+    "start": 266.603,
+    "duration": 2.409
+  },
+  {
+    "text": "Hedge can pick any bot at random, \nlook inside its furnace,",
+    "start": 269.012,
+    "duration": 3.88
+  },
+  {
+    "text": "and store that serial \nnumber as a variable.",
+    "start": 272.892,
+    "duration": 3.318
+  },
+  {
+    "text": "Then he’ll begin the following \nloop that will repeat",
+    "start": 276.21,
+    "duration": 3.405
+  },
+  {
+    "text": "until the stored variable equals 0,",
+    "start": 279.615,
+    "duration": 2.706
+  },
+  {
+    "text": "the furnace number of the original bot:",
+    "start": 282.321,
+    "duration": 3.27
+  },
+  {
+    "text": "1. Find the bot whose shell serial number \nmatches the stored number.",
+    "start": 285.591,
+    "duration": 5.428
+  },
+  {
+    "text": "2. Look inside its furnace.",
+    "start": 291.019,
+    "duration": 2.96
+  },
+  {
+    "text": "3. Store that new number, \noverwriting the old one.",
+    "start": 293.979,
+    "duration": 5.12
+  },
+  {
+    "text": "Once the loop ends, we’ll know \nthat Hedge has found the 0 bot,",
+    "start": 299.099,
+    "duration": 4.34
+  },
+  {
+    "text": "so he should upload the control program.",
+    "start": 303.439,
+    "duration": 2.685
+  },
+  {
+    "text": "So here’s what happens:",
+    "start": 306.124,
+    "duration": 1.628
+  },
+  {
+    "text": "Hedge only takes 5 repetitions \nto find the original:",
+    "start": 307.752,
+    "duration": 3.729
+  },
+  {
+    "text": "robot 733 has the 0 in its furnace.",
+    "start": 311.481,
+    "duration": 4.1
+  },
+  {
+    "text": "In a blink of a mechanical eye,",
+    "start": 315.581,
+    "duration": 2.094
+  },
+  {
+    "text": "the program spreads through the entire \narmy, and Adila takes control.",
+    "start": 317.675,
+    "duration": 5.136
+  },
+  {
+    "text": "She has the furnace-bots \ngive off theatrical bouts of flame",
+    "start": 322.811,
+    "duration": 3.449
+  },
+  {
+    "text": "to hide the fact that they’re now secretly\nsafe-guarding",
+    "start": 326.26,
+    "duration": 3.343
+  },
+  {
+    "text": "all of that artistic output.",
+    "start": 329.603,
+    "duration": 3.04
+  },
+  {
+    "text": "Now that Ethic’s delivered \nthe furnace-bots,",
+    "start": 332.643,
+    "duration": 2.397
+  },
+  {
+    "text": "Adila honors her end of the deal.",
+    "start": 335.04,
+    "duration": 3.46
+  },
+  {
+    "text": "She leads Ethic and Hedge \nto the location of the first artifact,",
+    "start": 338.5,
+    "duration": 3.901
+  },
+  {
+    "text": "the Node of Power.",
+    "start": 342.401,
+    "duration": 2.579
+  },
+  {
+    "text": "There, one thing is immediately clear:",
+    "start": 344.98,
+    "duration": 3.016
+  },
+  {
+    "text": "they’ll have to steal it.",
+    "start": 350.086,
+    "duration": 1.72
+  }
+]

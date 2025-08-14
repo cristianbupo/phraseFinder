@@ -1,0 +1,237 @@
+[
+  {
+    "text": "So human computation, the idea, is that there\nare problems that computers cannot yet solve.",
+    "start": 0.26,
+    "duration": 8.92
+  },
+  {
+    "text": "It's funny because some of these problems\nare very simple problems seemingly.",
+    "start": 9.18,
+    "duration": 4.1
+  },
+  {
+    "text": "For example, a computer cannot tell you what's\ninside an image.",
+    "start": 13.28,
+    "duration": 2.939
+  },
+  {
+    "text": "They can tell you somethings but it can't\nreally quite tell you there's a cat next to",
+    "start": 16.219,
+    "duration": 3.341
+  },
+  {
+    "text": "a dog and they're both running.",
+    "start": 19.56,
+    "duration": 1.61
+  },
+  {
+    "text": "A computer can't do that.",
+    "start": 21.17,
+    "duration": 1.17
+  },
+  {
+    "text": "Well humans, we can do it super easily.",
+    "start": 22.34,
+    "duration": 2.189
+  },
+  {
+    "text": "And there are many things that computers cannot\ndo that humans can.",
+    "start": 24.529,
+    "duration": 3.34
+  },
+  {
+    "text": "Conversely, there are also things that computers\ncan do that humans can't do.",
+    "start": 27.869,
+    "duration": 3.41
+  },
+  {
+    "text": "I mean computers can multiply humongous numbers,\nhumans may be able to do it but very slowly",
+    "start": 31.279,
+    "duration": 4.83
+  },
+  {
+    "text": "and we're error-prone.",
+    "start": 36.109,
+    "duration": 1.09
+  },
+  {
+    "text": "And so the idea with human computation is\nto combine both humans and computers together",
+    "start": 37.199,
+    "duration": 5.561
+  },
+  {
+    "text": "in a very large scale to solve problems that\nneither can solve alone.",
+    "start": 42.76,
+    "duration": 3.729
+  },
+  {
+    "text": "My project that has been used by most people\nis a project called reCAPTCHA, where the Idea",
+    "start": 46.489,
+    "duration": 4.57
+  },
+  {
+    "text": "with reCAPTCHA is that we take a problem that\nneither humans nor computers can solve by",
+    "start": 51.059,
+    "duration": 5.85
+  },
+  {
+    "text": "themselves, which is fully digitizing books.",
+    "start": 56.909,
+    "duration": 2.711
+  },
+  {
+    "text": "The idea there is we would like to digitize\nbooks.",
+    "start": 59.62,
+    "duration": 4.84
+  },
+  {
+    "text": "And the way this process works is you start\nwith a book and then you scan it.",
+    "start": 64.46,
+    "duration": 4.57
+  },
+  {
+    "text": "The next step in the process is that the computer\nneeds to be able to decipher all of the words",
+    "start": 69.03,
+    "duration": 4.79
+  },
+  {
+    "text": "in this picture.",
+    "start": 73.82,
+    "duration": 1.0
+  },
+  {
+    "text": "It's a picture of words.",
+    "start": 74.82,
+    "duration": 1.0
+  },
+  {
+    "text": "The computer needs to be able to decipher\nall of those words.",
+    "start": 75.82,
+    "duration": 2.0
+  },
+  {
+    "text": "The problem is that sometimes the computer\ncannot decipher these words because for older",
+    "start": 77.82,
+    "duration": 4.29
+  },
+  {
+    "text": "books the ink has faded a little or the pages\nhave turned yellow so the computer cannot",
+    "start": 82.11,
+    "duration": 4.54
+  },
+  {
+    "text": "decipher all of the words.",
+    "start": 86.65,
+    "duration": 1.34
+  },
+  {
+    "text": "But, humans can.",
+    "start": 87.99,
+    "duration": 1.6
+  },
+  {
+    "text": "So what we're doing with reCAPTCHA, If you've\never seen these distorted letters that you",
+    "start": 89.59,
+    "duration": 4.11
+  },
+  {
+    "text": "have to type all over the Internet, for example,\nwhen you buy tickets on Ticketmaster or whenever",
+    "start": 93.7,
+    "duration": 4.06
+  },
+  {
+    "text": "you get a Facebook account or something you\nhave to type these distorted characters.",
+    "start": 97.76,
+    "duration": 6.48
+  },
+  {
+    "text": "That thing is called a CAPTCHA and I was one\nof the people who helped invent it.",
+    "start": 104.24,
+    "duration": 3.76
+  },
+  {
+    "text": "And the reason it's there, there's a primary\npurpose, which is to make sure that you're",
+    "start": 108.0,
+    "duration": 4.9
+  },
+  {
+    "text": "a human and not a computer.",
+    "start": 112.9,
+    "duration": 1.01
+  },
+  {
+    "text": "And it's because humans can read these squiggly\ncharacters but computers can't.",
+    "start": 113.91,
+    "duration": 4.79
+  },
+  {
+    "text": "This is a security mechanism and it has been\nthere for a while, but at some point I realized",
+    "start": 118.7,
+    "duration": 4.01
+  },
+  {
+    "text": "its second use, which is helping to digitize\nbooks.",
+    "start": 122.71,
+    "duration": 2.519
+  },
+  {
+    "text": "The idea is that some of these words, nowadays\nsome of these words are words that are actually",
+    "start": 125.229,
+    "duration": 3.68
+  },
+  {
+    "text": "coming from books that the computer could\nnot recognize in this process and we're using",
+    "start": 128.909,
+    "duration": 4.581
+  },
+  {
+    "text": "what people enter to help us digitize the\nbooks.",
+    "start": 133.49,
+    "duration": 3.279
+  },
+  {
+    "text": "So that's the idea.",
+    "start": 136.769,
+    "duration": 1.0
+  },
+  {
+    "text": "And so this is a project where it's about\n1.1 billion people in the world have helped",
+    "start": 137.769,
+    "duration": 4.181
+  },
+  {
+    "text": "us digitize at least one word out of a book\nusing this.",
+    "start": 141.95,
+    "duration": 2.799
+  },
+  {
+    "text": "So here we're taking a very large number of\nhumans to do precisely the step that computers",
+    "start": 144.749,
+    "duration": 5.661
+  },
+  {
+    "text": "cannot do in the book digitization process.",
+    "start": 150.41,
+    "duration": 2.89
+  },
+  {
+    "text": "This is a company that was bought by Google,\nby now Google is digitizing the equivalent",
+    "start": 153.3,
+    "duration": 4.54
+  },
+  {
+    "text": "of about 2 million books a year with basically\nhumans typing every now and then some of the",
+    "start": 157.84,
+    "duration": 4.929
+  },
+  {
+    "text": "words through CAPTCHAs all over the Internet.",
+    "start": 162.769,
+    "duration": 2.23
+  },
+  {
+    "text": "So that's the idea of human computation.",
+    "start": 164.999,
+    "duration": 1.66
+  }
+]

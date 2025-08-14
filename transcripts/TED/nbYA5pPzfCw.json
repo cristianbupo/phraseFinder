@@ -1,0 +1,442 @@
+[
+  {
+    "text": "In 2003,",
+    "start": 13.507,
+    "duration": 1.889
+  },
+  {
+    "text": "when we sequenced the human genome,",
+    "start": 15.42,
+    "duration": 2.913
+  },
+  {
+    "text": "we thought we would have the answer\nto treat many diseases.",
+    "start": 18.357,
+    "duration": 3.922
+  },
+  {
+    "text": "But the reality is far from that,",
+    "start": 22.974,
+    "duration": 2.657
+  },
+  {
+    "text": "because in addition to our genes,",
+    "start": 26.782,
+    "duration": 1.921
+  },
+  {
+    "text": "our environment and lifestyle\ncould have a significant role",
+    "start": 28.727,
+    "duration": 4.57
+  },
+  {
+    "text": "in developing many major diseases.",
+    "start": 33.321,
+    "duration": 2.548
+  },
+  {
+    "text": "One example is fatty liver disease,",
+    "start": 35.893,
+    "duration": 3.58
+  },
+  {
+    "text": "which is affecting over 20 percent\nof the population globally,",
+    "start": 39.497,
+    "duration": 4.083
+  },
+  {
+    "text": "and it has no treatment\nand leads to liver cancer",
+    "start": 43.604,
+    "duration": 3.034
+  },
+  {
+    "text": "or liver failure.",
+    "start": 46.662,
+    "duration": 1.423
+  },
+  {
+    "text": "So sequencing DNA alone\ndoesn't give us enough information",
+    "start": 49.517,
+    "duration": 4.744
+  },
+  {
+    "text": "to find effective therapeutics.",
+    "start": 54.285,
+    "duration": 2.232
+  },
+  {
+    "text": "On the bright side, there are\nmany other molecules in our body.",
+    "start": 56.541,
+    "duration": 3.756
+  },
+  {
+    "text": "In fact, there are\nover 100,000 metabolites.",
+    "start": 60.321,
+    "duration": 3.98
+  },
+  {
+    "text": "Metabolites are any molecule\nthat is supersmall in their size.",
+    "start": 64.325,
+    "duration": 4.296
+  },
+  {
+    "text": "Known examples are glucose,\nfructose, fats, cholesterol --",
+    "start": 69.193,
+    "duration": 4.972
+  },
+  {
+    "text": "things we hear all the time.",
+    "start": 74.189,
+    "duration": 1.51
+  },
+  {
+    "text": "Metabolites are involved\nin our metabolism.",
+    "start": 76.273,
+    "duration": 2.983
+  },
+  {
+    "text": "They are also downstream of DNA,",
+    "start": 80.066,
+    "duration": 4.028
+  },
+  {
+    "text": "so they carry information\nfrom both our genes as well as lifestyle.",
+    "start": 84.118,
+    "duration": 5.082
+  },
+  {
+    "text": "Understanding metabolites is essential\nto find treatments for many diseases.",
+    "start": 89.224,
+    "duration": 5.649
+  },
+  {
+    "text": "I've always wanted to treat patients.",
+    "start": 94.897,
+    "duration": 2.212
+  },
+  {
+    "text": "Despite that, 15 years ago,\nI left medical school,",
+    "start": 97.934,
+    "duration": 3.858
+  },
+  {
+    "text": "as I missed mathematics.",
+    "start": 101.816,
+    "duration": 1.965
+  },
+  {
+    "text": "Soon after, I found the coolest thing:",
+    "start": 105.019,
+    "duration": 2.936
+  },
+  {
+    "text": "I can use mathematics to study medicine.",
+    "start": 108.692,
+    "duration": 2.763
+  },
+  {
+    "text": "Since then, I've been developing\nalgorithms to analyze biological data.",
+    "start": 113.026,
+    "duration": 5.213
+  },
+  {
+    "text": "So, it sounded easy:",
+    "start": 119.092,
+    "duration": 2.283
+  },
+  {
+    "text": "let's collect data from all\nthe metabolites in our body,",
+    "start": 121.399,
+    "duration": 3.601
+  },
+  {
+    "text": "develop mathematical models to describe\nhow they are changed in a disease",
+    "start": 125.024,
+    "duration": 5.128
+  },
+  {
+    "text": "and intervene in those\nchanges to treat them.",
+    "start": 130.176,
+    "duration": 2.988
+  },
+  {
+    "text": "Then I realized why no one\nhas done this before:",
+    "start": 134.488,
+    "duration": 3.472
+  },
+  {
+    "text": "it's extremely difficult.",
+    "start": 139.23,
+    "duration": 1.687
+  },
+  {
+    "text": "(Laughter)",
+    "start": 140.941,
+    "duration": 1.087
+  },
+  {
+    "text": "There are many metabolites in our body.",
+    "start": 142.052,
+    "duration": 2.412
+  },
+  {
+    "text": "Each one is different from the other one.",
+    "start": 144.783,
+    "duration": 2.5
+  },
+  {
+    "text": "For some metabolites,\nwe can measure their molecular mass",
+    "start": 147.307,
+    "duration": 3.728
+  },
+  {
+    "text": "using mass spectrometry instruments.",
+    "start": 151.059,
+    "duration": 2.593
+  },
+  {
+    "text": "But because there could be, like,\n10 molecules with the exact same mass,",
+    "start": 153.676,
+    "duration": 4.393
+  },
+  {
+    "text": "we don't know exactly what they are,",
+    "start": 158.093,
+    "duration": 1.807
+  },
+  {
+    "text": "and if you want to clearly\nidentify all of them,",
+    "start": 159.924,
+    "duration": 2.774
+  },
+  {
+    "text": "you have to do more experiments,\nwhich could take decades",
+    "start": 162.722,
+    "duration": 3.104
+  },
+  {
+    "text": "and billions of dollars.",
+    "start": 165.85,
+    "duration": 1.714
+  },
+  {
+    "text": "So we developed an artificial\nintelligence, or AI, platform, to do that.",
+    "start": 168.207,
+    "duration": 5.563
+  },
+  {
+    "text": "We leveraged the growth of biological data",
+    "start": 173.794,
+    "duration": 2.844
+  },
+  {
+    "text": "and built a database of any existing\ninformation about metabolites",
+    "start": 176.662,
+    "duration": 4.424
+  },
+  {
+    "text": "and their interactions\nwith other molecules.",
+    "start": 181.11,
+    "duration": 3.128
+  },
+  {
+    "text": "We combined all this data\nas a meganetwork.",
+    "start": 184.262,
+    "duration": 3.424
+  },
+  {
+    "text": "Then, from tissues or blood of patients,",
+    "start": 187.71,
+    "duration": 3.396
+  },
+  {
+    "text": "we measure masses of metabolites",
+    "start": 191.13,
+    "duration": 2.751
+  },
+  {
+    "text": "and find the masses\nthat are changed in a disease.",
+    "start": 193.905,
+    "duration": 3.259
+  },
+  {
+    "text": "But, as I mentioned earlier,\nwe don't know exactly what they are.",
+    "start": 197.188,
+    "duration": 3.19
+  },
+  {
+    "text": "A molecular mass of 180 could be\neither the glucose, galactose or fructose.",
+    "start": 200.402,
+    "duration": 5.135
+  },
+  {
+    "text": "They all have the exact same mass",
+    "start": 205.561,
+    "duration": 2.019
+  },
+  {
+    "text": "but different functions in our body.",
+    "start": 207.604,
+    "duration": 2.087
+  },
+  {
+    "text": "Our AI algorithm considered\nall these ambiguities.",
+    "start": 209.715,
+    "duration": 3.587
+  },
+  {
+    "text": "It then mined that meganetwork",
+    "start": 213.326,
+    "duration": 2.736
+  },
+  {
+    "text": "to find how those metabolic masses\nare connected to each other",
+    "start": 216.086,
+    "duration": 4.353
+  },
+  {
+    "text": "that result in disease.",
+    "start": 220.463,
+    "duration": 1.958
+  },
+  {
+    "text": "And because of the way they are connected,",
+    "start": 222.445,
+    "duration": 2.238
+  },
+  {
+    "text": "then we are able to infer\nwhat each metabolite mass is,",
+    "start": 224.707,
+    "duration": 4.323
+  },
+  {
+    "text": "like that 180 could be glucose here,",
+    "start": 229.054,
+    "duration": 2.924
+  },
+  {
+    "text": "and, more importantly, to discover",
+    "start": 232.002,
+    "duration": 2.551
+  },
+  {
+    "text": "how changes in glucose\nand other metabolites",
+    "start": 234.577,
+    "duration": 3.367
+  },
+  {
+    "text": "lead to a disease.",
+    "start": 237.968,
+    "duration": 1.505
+  },
+  {
+    "text": "This novel understanding\nof disease mechanisms",
+    "start": 239.497,
+    "duration": 2.995
+  },
+  {
+    "text": "then enable us to discover\neffective therapeutics to target that.",
+    "start": 242.516,
+    "duration": 4.492
+  },
+  {
+    "text": "So we formed a start-up company\nto bring this technology to the market",
+    "start": 247.601,
+    "duration": 3.845
+  },
+  {
+    "text": "and impact people's lives.",
+    "start": 251.47,
+    "duration": 1.805
+  },
+  {
+    "text": "Now my team and I at ReviveMed\nare working to discover",
+    "start": 253.722,
+    "duration": 3.545
+  },
+  {
+    "text": "therapeutics for major diseases\nthat metabolites are key drivers for,",
+    "start": 257.291,
+    "duration": 5.105
+  },
+  {
+    "text": "like fatty liver disease,",
+    "start": 262.42,
+    "duration": 1.897
+  },
+  {
+    "text": "because it is caused\nby accumulation of fats,",
+    "start": 264.341,
+    "duration": 2.924
+  },
+  {
+    "text": "which are types\nof metabolites in the liver.",
+    "start": 267.289,
+    "duration": 2.473
+  },
+  {
+    "text": "As I mentioned earlier,\nit's a huge epidemic with no treatment.",
+    "start": 269.786,
+    "duration": 3.94
+  },
+  {
+    "text": "And fatty liver disease\nis just one example.",
+    "start": 273.75,
+    "duration": 2.724
+  },
+  {
+    "text": "Moving forward, we are going to tackle\nhundreds of other diseases",
+    "start": 276.498,
+    "duration": 4.178
+  },
+  {
+    "text": "with no treatment.",
+    "start": 280.7,
+    "duration": 1.493
+  },
+  {
+    "text": "And by collecting more and more\ndata about metabolites",
+    "start": 282.217,
+    "duration": 4.554
+  },
+  {
+    "text": "and understanding\nhow changes in metabolites",
+    "start": 286.795,
+    "duration": 3.544
+  },
+  {
+    "text": "leads to developing diseases,",
+    "start": 290.363,
+    "duration": 2.402
+  },
+  {
+    "text": "our algorithms will get\nsmarter and smarter",
+    "start": 292.789,
+    "duration": 3.489
+  },
+  {
+    "text": "to discover the right therapeutics\nfor the right patients.",
+    "start": 296.302,
+    "duration": 4.196
+  },
+  {
+    "text": "And we will get closer to reach our vision",
+    "start": 300.522,
+    "duration": 3.77
+  },
+  {
+    "text": "of saving lives with every line of code.",
+    "start": 304.316,
+    "duration": 3.863
+  },
+  {
+    "text": "Thank you.",
+    "start": 308.203,
+    "duration": 1.321
+  },
+  {
+    "text": "(Applause)",
+    "start": 309.548,
+    "duration": 3.827
+  }
+]

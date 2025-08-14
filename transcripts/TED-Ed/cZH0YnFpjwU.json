@@ -1,0 +1,427 @@
+[
+  {
+    "text": "One, two, three, four, five, six,\nseven, eight, nine, and zero.",
+    "start": 10.947,
+    "duration": 7.542
+  },
+  {
+    "text": "With just these ten symbols, we can\nwrite any rational number imaginable.",
+    "start": 18.489,
+    "duration": 5.699
+  },
+  {
+    "text": "But why these particular symbols?",
+    "start": 24.188,
+    "duration": 2.503
+  },
+  {
+    "text": "Why ten of them?",
+    "start": 26.691,
+    "duration": 1.661
+  },
+  {
+    "text": "And why do we arrange them the way we do?",
+    "start": 28.352,
+    "duration": 3.247
+  },
+  {
+    "text": "Numbers have been a fact of life\nthroughout recorded history.",
+    "start": 31.599,
+    "duration": 3.82
+  },
+  {
+    "text": "Early humans likely counted animals\nin a flock or members in a tribe",
+    "start": 35.419,
+    "duration": 4.43
+  },
+  {
+    "text": "using body parts or tally marks.",
+    "start": 39.849,
+    "duration": 3.14
+  },
+  {
+    "text": "But as the complexity of life increased,\nalong with the number of things to count,",
+    "start": 42.989,
+    "duration": 4.491
+  },
+  {
+    "text": "these methods were no longer sufficient.",
+    "start": 47.48,
+    "duration": 3.07
+  },
+  {
+    "text": "So as they developed,",
+    "start": 50.55,
+    "duration": 1.499
+  },
+  {
+    "text": "different civilizations came up \nwith ways of recording higher numbers.",
+    "start": 52.049,
+    "duration": 4.759
+  },
+  {
+    "text": "Many of these systems,",
+    "start": 56.808,
+    "duration": 1.251
+  },
+  {
+    "text": "like Greek,",
+    "start": 58.059,
+    "duration": 0.76
+  },
+  {
+    "text": "Hebrew,",
+    "start": 58.819,
+    "duration": 0.72
+  },
+  {
+    "text": "and Egyptian numerals,",
+    "start": 59.539,
+    "duration": 1.231
+  },
+  {
+    "text": "were just extensions of tally marks",
+    "start": 60.77,
+    "duration": 2.53
+  },
+  {
+    "text": "with new symbols added to represent\nlarger magnitudes of value.",
+    "start": 63.3,
+    "duration": 4.05
+  },
+  {
+    "text": "Each symbol was repeated as many times\nas necessary and all were added together.",
+    "start": 67.35,
+    "duration": 5.8
+  },
+  {
+    "text": "Roman numerals added another twist.",
+    "start": 73.15,
+    "duration": 2.84
+  },
+  {
+    "text": "If a numeral appeared before one\nwith a higher value,",
+    "start": 75.99,
+    "duration": 2.5
+  },
+  {
+    "text": "it would be subtracted rather than added.",
+    "start": 78.49,
+    "duration": 3.46
+  },
+  {
+    "text": "But even with this innovation,",
+    "start": 81.95,
+    "duration": 1.5
+  },
+  {
+    "text": "it was still a cumbersome method\nfor writing large numbers.",
+    "start": 83.45,
+    "duration": 5.051
+  },
+  {
+    "text": "The way to a more useful \nand elegant system",
+    "start": 88.501,
+    "duration": 2.36
+  },
+  {
+    "text": "lay in something called \npositional notation.",
+    "start": 90.861,
+    "duration": 4.18
+  },
+  {
+    "text": "Previous number systems needed to draw\nmany symbols repeatedly",
+    "start": 95.041,
+    "duration": 3.389
+  },
+  {
+    "text": "and invent a new symbol \nfor each larger magnitude.",
+    "start": 98.43,
+    "duration": 4.18
+  },
+  {
+    "text": "But a positional system could reuse\nthe same symbols,",
+    "start": 102.61,
+    "duration": 3.361
+  },
+  {
+    "text": "assigning them different values\nbased on their position in the sequence.",
+    "start": 105.971,
+    "duration": 4.991
+  },
+  {
+    "text": "Several civilizations developed positional\nnotation independently,",
+    "start": 110.962,
+    "duration": 3.949
+  },
+  {
+    "text": "including the Babylonians,",
+    "start": 114.911,
+    "duration": 1.911
+  },
+  {
+    "text": "the Ancient Chinese,",
+    "start": 116.822,
+    "duration": 1.21
+  },
+  {
+    "text": "and the Aztecs.",
+    "start": 118.032,
+    "duration": 1.95
+  },
+  {
+    "text": "By the 8th century, Indian mathematicians\nhad perfected such a system",
+    "start": 119.982,
+    "duration": 4.58
+  },
+  {
+    "text": "and over the next several centuries,",
+    "start": 124.562,
+    "duration": 1.99
+  },
+  {
+    "text": "Arab merchants, scholars, and conquerors\nbegan to spread it into Europe.",
+    "start": 126.552,
+    "duration": 5.791
+  },
+  {
+    "text": "This was a decimal, or base ten, system,",
+    "start": 132.343,
+    "duration": 3.7
+  },
+  {
+    "text": "which could represent any number\nusing only ten unique glyphs.",
+    "start": 136.043,
+    "duration": 4.471
+  },
+  {
+    "text": "The positions of these symbols\nindicate different powers of ten,",
+    "start": 140.514,
+    "duration": 3.429
+  },
+  {
+    "text": "starting on the right \nand increasing as we move left.",
+    "start": 143.943,
+    "duration": 3.54
+  },
+  {
+    "text": "For example, the number 316",
+    "start": 147.483,
+    "duration": 2.72
+  },
+  {
+    "text": "reads as 6x10^0",
+    "start": 150.203,
+    "duration": 3.49
+  },
+  {
+    "text": "plus 1x10^1",
+    "start": 153.693,
+    "duration": 2.599
+  },
+  {
+    "text": "plus 3x10^2.",
+    "start": 156.292,
+    "duration": 3.651
+  },
+  {
+    "text": "A key breakthrough of this system,",
+    "start": 159.943,
+    "duration": 1.89
+  },
+  {
+    "text": "which was also independently \ndeveloped by the Mayans,",
+    "start": 161.833,
+    "duration": 2.901
+  },
+  {
+    "text": "was the number zero.",
+    "start": 164.734,
+    "duration": 2.749
+  },
+  {
+    "text": "Older positional notation systems \nthat lacked this symbol",
+    "start": 167.483,
+    "duration": 3.09
+  },
+  {
+    "text": "would leave a blank in its place,",
+    "start": 170.573,
+    "duration": 1.821
+  },
+  {
+    "text": "making it hard to distinguish \nbetween 63 and 603,",
+    "start": 172.394,
+    "duration": 4.541
+  },
+  {
+    "text": "or 12 and 120.",
+    "start": 176.935,
+    "duration": 3.068
+  },
+  {
+    "text": "The understanding of zero as both\na value and a placeholder",
+    "start": 180.003,
+    "duration": 4.051
+  },
+  {
+    "text": "made for reliable and consistent notation.",
+    "start": 184.054,
+    "duration": 3.97
+  },
+  {
+    "text": "Of course, it's possible \nto use any ten symbols",
+    "start": 188.024,
+    "duration": 2.369
+  },
+  {
+    "text": "to represent the numerals \nzero through nine.",
+    "start": 190.393,
+    "duration": 3.35
+  },
+  {
+    "text": "For a long time, \nthe glyphs varied regionally.",
+    "start": 193.743,
+    "duration": 3.295
+  },
+  {
+    "text": "Most scholars agree \nthat our current digits",
+    "start": 197.038,
+    "duration": 2.164
+  },
+  {
+    "text": "evolved from those used in the\nNorth African Maghreb region",
+    "start": 199.202,
+    "duration": 3.524
+  },
+  {
+    "text": "of the Arab Empire.",
+    "start": 202.726,
+    "duration": 2.158
+  },
+  {
+    "text": "And by the 15th century, what we now know\nas the Hindu-Arabic numeral system",
+    "start": 204.884,
+    "duration": 5.021
+  },
+  {
+    "text": "had replaced Roman numerals\nin everyday life",
+    "start": 209.905,
+    "duration": 2.884
+  },
+  {
+    "text": "to become the most commonly \nused number system in the world.",
+    "start": 212.789,
+    "duration": 4.486
+  },
+  {
+    "text": "So why did the Hindu-Arabic system,\nalong with so many others,",
+    "start": 217.275,
+    "duration": 3.451
+  },
+  {
+    "text": "use base ten?",
+    "start": 220.726,
+    "duration": 2.133
+  },
+  {
+    "text": "The most likely answer is the simplest.",
+    "start": 222.859,
+    "duration": 3.925
+  },
+  {
+    "text": "That also explains why the Aztecs used\na base 20, or vigesimal system.",
+    "start": 226.784,
+    "duration": 5.571
+  },
+  {
+    "text": "But other bases are possible, too.",
+    "start": 232.355,
+    "duration": 2.62
+  },
+  {
+    "text": "Babylonian numerals were sexigesimal,\nor base 60.",
+    "start": 234.975,
+    "duration": 3.99
+  },
+  {
+    "text": "Any many people think that a base 12,\nor duodecimal system,",
+    "start": 238.965,
+    "duration": 3.271
+  },
+  {
+    "text": "would be a good idea.",
+    "start": 242.236,
+    "duration": 2.109
+  },
+  {
+    "text": "Like 60, 12 is a highly composite number\nthat can be divided by two,",
+    "start": 244.345,
+    "duration": 3.92
+  },
+  {
+    "text": "three,",
+    "start": 248.265,
+    "duration": 0.77
+  },
+  {
+    "text": "four,",
+    "start": 249.035,
+    "duration": 0.712
+  },
+  {
+    "text": "and six,",
+    "start": 249.747,
+    "duration": 1.179
+  },
+  {
+    "text": "making it much better for representing\ncommon fractions.",
+    "start": 250.926,
+    "duration": 3.779
+  },
+  {
+    "text": "In fact, both systems appear\nin our everyday lives,",
+    "start": 254.705,
+    "duration": 3.05
+  },
+  {
+    "text": "from how we measure degrees and time,",
+    "start": 257.755,
+    "duration": 2.116
+  },
+  {
+    "text": "to common measurements,\nlike a dozen or a gross.",
+    "start": 259.871,
+    "duration": 3.545
+  },
+  {
+    "text": "And, of course, the base two, \nor binary system,",
+    "start": 263.416,
+    "duration": 3.75
+  },
+  {
+    "text": "is used in all of our digital devices,",
+    "start": 267.166,
+    "duration": 2.882
+  },
+  {
+    "text": "though programmers also use base eight\nand base 16 for more compact notation.",
+    "start": 270.048,
+    "duration": 5.918
+  },
+  {
+    "text": "So the next time you use a large number,",
+    "start": 275.966,
+    "duration": 2.024
+  },
+  {
+    "text": "think of the massive quantity captured\nin just these few symbols,",
+    "start": 277.99,
+    "duration": 4.406
+  },
+  {
+    "text": "and see if you can come up \nwith a different way to represent it.",
+    "start": 282.396,
+    "duration": 3.383
+  }
+]

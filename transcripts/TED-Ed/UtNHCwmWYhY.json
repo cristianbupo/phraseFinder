@@ -1,0 +1,937 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.56,
+    "duration": 13.479
+  },
+  {
+    "text": "[Applause]",
+    "start": 12.24,
+    "duration": 6.72
+  },
+  {
+    "text": "as a kid I was fascinated with all",
+    "start": 16.039,
+    "duration": 6.041
+  },
+  {
+    "text": "things air and space I would watch Nova",
+    "start": 18.96,
+    "duration": 5.6
+  },
+  {
+    "text": "on BBS uh our school would show Bill NY",
+    "start": 22.08,
+    "duration": 5.92
+  },
+  {
+    "text": "the Science Guy when I was um when I was",
+    "start": 24.56,
+    "duration": 4.92
+  },
+  {
+    "text": "in elementary school my next door",
+    "start": 28.0,
+    "duration": 3.039
+  },
+  {
+    "text": "neighbor he gave me a book for my",
+    "start": 29.48,
+    "duration": 4.239
+  },
+  {
+    "text": "birthday it was an astronomy book and I",
+    "start": 31.039,
+    "duration": 5.04
+  },
+  {
+    "text": "poured over that thing for hours on end",
+    "start": 33.719,
+    "duration": 4.601
+  },
+  {
+    "text": "and it was a combination of all these",
+    "start": 36.079,
+    "duration": 5.521
+  },
+  {
+    "text": "things that inspired me to pursue space",
+    "start": 38.32,
+    "duration": 5.759
+  },
+  {
+    "text": "exploration as my own personal",
+    "start": 41.6,
+    "duration": 5.479
+  },
+  {
+    "text": "dream and part of that dream was I",
+    "start": 44.079,
+    "duration": 4.48
+  },
+  {
+    "text": "always wanted to just fly around the",
+    "start": 47.079,
+    "duration": 3.361
+  },
+  {
+    "text": "solar system and visit different planets",
+    "start": 48.559,
+    "duration": 5.441
+  },
+  {
+    "text": "and visit moons and spacecraft well a",
+    "start": 50.44,
+    "duration": 6.279
+  },
+  {
+    "text": "number of years later uh I graduated",
+    "start": 54.0,
+    "duration": 5.359
+  },
+  {
+    "text": "from UCLA and I found myself at Nasa",
+    "start": 56.719,
+    "duration": 4.401
+  },
+  {
+    "text": "working for the jet propulsion",
+    "start": 59.359,
+    "duration": 4.441
+  },
+  {
+    "text": "laboratory and there our team was",
+    "start": 61.12,
+    "duration": 5.96
+  },
+  {
+    "text": "challenged to create a 3D visualization",
+    "start": 63.8,
+    "duration": 6.679
+  },
+  {
+    "text": "of the solar system and today I want to",
+    "start": 67.08,
+    "duration": 6.32
+  },
+  {
+    "text": "show you what we've done so far now the",
+    "start": 70.479,
+    "duration": 6.32
+  },
+  {
+    "text": "ker is everything I'm about to do here",
+    "start": 73.4,
+    "duration": 6.44
+  },
+  {
+    "text": "you can do at home because we built this",
+    "start": 76.799,
+    "duration": 5.201
+  },
+  {
+    "text": "for the public for you guys to",
+    "start": 79.84,
+    "duration": 4.319
+  },
+  {
+    "text": "use so what you're looking at right now",
+    "start": 82.0,
+    "duration": 3.52
+  },
+  {
+    "text": "is the earth you can see the United",
+    "start": 84.159,
+    "duration": 4.201
+  },
+  {
+    "text": "States and California and San Diego and",
+    "start": 85.52,
+    "duration": 4.4
+  },
+  {
+    "text": "you can use the mouse or the key",
+    "start": 88.36,
+    "duration": 4.32
+  },
+  {
+    "text": "keyboard to spin things around now this",
+    "start": 89.92,
+    "duration": 5.04
+  },
+  {
+    "text": "isn't new anyone who's used Google Earth",
+    "start": 92.68,
+    "duration": 4.68
+  },
+  {
+    "text": "has seen this before but one thing we",
+    "start": 94.96,
+    "duration": 5.159
+  },
+  {
+    "text": "like to say in our group is we do the",
+    "start": 97.36,
+    "duration": 4.92
+  },
+  {
+    "text": "opposite of Google Earth Google Earth",
+    "start": 100.119,
+    "duration": 4.64
+  },
+  {
+    "text": "goes from this view down to your",
+    "start": 102.28,
+    "duration": 6.0
+  },
+  {
+    "text": "backyard we go from this view out to the",
+    "start": 104.759,
+    "duration": 6.601
+  },
+  {
+    "text": "Stars so the Earth is cool but what we",
+    "start": 108.28,
+    "duration": 5.36
+  },
+  {
+    "text": "really want to show are the spacecraft",
+    "start": 111.36,
+    "duration": 4.56
+  },
+  {
+    "text": "so I'm going to bring the interface back",
+    "start": 113.64,
+    "duration": 5.399
+  },
+  {
+    "text": "up and now you're looking at a number of",
+    "start": 115.92,
+    "duration": 5.04
+  },
+  {
+    "text": "satellites orbiting the Earth these are",
+    "start": 119.039,
+    "duration": 3.601
+  },
+  {
+    "text": "a number of our science-based Earth",
+    "start": 120.96,
+    "duration": 3.88
+  },
+  {
+    "text": "orbiters we haven't included military",
+    "start": 122.64,
+    "duration": 3.519
+  },
+  {
+    "text": "satellites and weather satellites and",
+    "start": 124.84,
+    "duration": 2.319
+  },
+  {
+    "text": "communication satellites and",
+    "start": 126.159,
+    "duration": 2.8
+  },
+  {
+    "text": "reconnaissance satellites if we did it",
+    "start": 127.159,
+    "duration": 3.72
+  },
+  {
+    "text": "would be a complete mess because there's",
+    "start": 128.959,
+    "duration": 4.92
+  },
+  {
+    "text": "a lot of stuff out there and the cool",
+    "start": 130.879,
+    "duration": 5.64
+  },
+  {
+    "text": "thing is we actually created 3D models",
+    "start": 133.879,
+    "duration": 5.041
+  },
+  {
+    "text": "for a number of these spacecraft so if",
+    "start": 136.519,
+    "duration": 4.561
+  },
+  {
+    "text": "you want to visit any of these all you",
+    "start": 138.92,
+    "duration": 3.959
+  },
+  {
+    "text": "need to do is double click on them so",
+    "start": 141.08,
+    "duration": 3.64
+  },
+  {
+    "text": "I'm going to find the International",
+    "start": 142.879,
+    "duration": 5.041
+  },
+  {
+    "text": "Space Station double click and it'll",
+    "start": 144.72,
+    "duration": 6.4
+  },
+  {
+    "text": "take us all the way down to the s and",
+    "start": 147.92,
+    "duration": 5.92
+  },
+  {
+    "text": "now you're riding along with the ISS",
+    "start": 151.12,
+    "duration": 5.04
+  },
+  {
+    "text": "where it is right",
+    "start": 153.84,
+    "duration": 4.88
+  },
+  {
+    "text": "now and the other cool thing is not only",
+    "start": 156.16,
+    "duration": 4.48
+  },
+  {
+    "text": "can we move the camera around we can",
+    "start": 158.72,
+    "duration": 4.0
+  },
+  {
+    "text": "also control time so I can slide this",
+    "start": 160.64,
+    "duration": 5.12
+  },
+  {
+    "text": "jog dial here to shuttle time forward",
+    "start": 162.72,
+    "duration": 5.04
+  },
+  {
+    "text": "and now we could see what a sunset on",
+    "start": 165.76,
+    "duration": 4.24
+  },
+  {
+    "text": "the ISS would look",
+    "start": 167.76,
+    "duration": 5.38
+  },
+  {
+    "text": "like and they get one every 90",
+    "start": 170.0,
+    "duration": 5.599
+  },
+  {
+    "text": "[Laughter]",
+    "start": 173.14,
+    "duration": 5.019
+  },
+  {
+    "text": "minutes all right so what about the rest",
+    "start": 175.599,
+    "duration": 4.481
+  },
+  {
+    "text": "of it well I can click on this home",
+    "start": 178.159,
+    "duration": 4.08
+  },
+  {
+    "text": "button over here and that'll take us up",
+    "start": 180.08,
+    "duration": 4.92
+  },
+  {
+    "text": "to the inner solar system and now we're",
+    "start": 182.239,
+    "duration": 4.521
+  },
+  {
+    "text": "looking at the rest of the solar system",
+    "start": 185.0,
+    "duration": 3.599
+  },
+  {
+    "text": "you can see there's Saturn there's",
+    "start": 186.76,
+    "duration": 4.039
+  },
+  {
+    "text": "Jupiter and while we're here I want to",
+    "start": 188.599,
+    "duration": 5.121
+  },
+  {
+    "text": "point out something it's actually pretty",
+    "start": 190.799,
+    "duration": 5.321
+  },
+  {
+    "text": "busy here we have the Mars science",
+    "start": 193.72,
+    "duration": 4.0
+  },
+  {
+    "text": "laboratory on its way to Mars just",
+    "start": 196.12,
+    "duration": 4.16
+  },
+  {
+    "text": "launched last weekend here we have Juno",
+    "start": 197.72,
+    "duration": 5.799
+  },
+  {
+    "text": "on its cruise to Jupiter there we have",
+    "start": 200.28,
+    "duration": 5.92
+  },
+  {
+    "text": "Dawn orbiting Vesta and we have over",
+    "start": 203.519,
+    "duration": 5.241
+  },
+  {
+    "text": "here New Horizons on a straight shot to",
+    "start": 206.2,
+    "duration": 5.56
+  },
+  {
+    "text": "Pluto and I mentioned this because",
+    "start": 208.76,
+    "duration": 5.199
+  },
+  {
+    "text": "there's this strange public perception",
+    "start": 211.76,
+    "duration": 5.0
+  },
+  {
+    "text": "that NASA's dead that the space shuttle",
+    "start": 213.959,
+    "duration": 4.241
+  },
+  {
+    "text": "stop Flying and all of a sudden there's",
+    "start": 216.76,
+    "duration": 4.119
+  },
+  {
+    "text": "no more spacecraft out there well a lot",
+    "start": 218.2,
+    "duration": 6.16
+  },
+  {
+    "text": "of what NASA does is robotic exploration",
+    "start": 220.879,
+    "duration": 5.481
+  },
+  {
+    "text": "and we have a lot of spacecraft out",
+    "start": 224.36,
+    "duration": 3.959
+  },
+  {
+    "text": "there granted we're not sending humans",
+    "start": 226.36,
+    "duration": 3.56
+  },
+  {
+    "text": "up at the moment well at least with our",
+    "start": 228.319,
+    "duration": 4.081
+  },
+  {
+    "text": "own with our own launch vehicles but",
+    "start": 229.92,
+    "duration": 4.28
+  },
+  {
+    "text": "NASA is far from",
+    "start": 232.4,
+    "duration": 4.52
+  },
+  {
+    "text": "dead and one of the reasons why we write",
+    "start": 234.2,
+    "duration": 4.28
+  },
+  {
+    "text": "a program like this is so that people",
+    "start": 236.92,
+    "duration": 3.08
+  },
+  {
+    "text": "realize that there's so many other",
+    "start": 238.48,
+    "duration": 2.52
+  },
+  {
+    "text": "things that we're",
+    "start": 240.0,
+    "duration": 3.68
+  },
+  {
+    "text": "doing anyway while we're here again if",
+    "start": 241.0,
+    "duration": 4.879
+  },
+  {
+    "text": "you want to visit anything all you need",
+    "start": 243.68,
+    "duration": 4.399
+  },
+  {
+    "text": "to do is double click so I'm just going",
+    "start": 245.879,
+    "duration": 3.841
+  },
+  {
+    "text": "to double click on",
+    "start": 248.079,
+    "duration": 4.841
+  },
+  {
+    "text": "Vesta and here we have Dawn orbiting",
+    "start": 249.72,
+    "duration": 6.039
+  },
+  {
+    "text": "Vesta and this is happening right",
+    "start": 252.92,
+    "duration": 6.159
+  },
+  {
+    "text": "now I'm going to double click on Uranus",
+    "start": 255.759,
+    "duration": 6.16
+  },
+  {
+    "text": "and we can see Uranus rotating on its",
+    "start": 259.079,
+    "duration": 5.041
+  },
+  {
+    "text": "side along with its moons you can see",
+    "start": 261.919,
+    "duration": 4.961
+  },
+  {
+    "text": "how it's tilted at all",
+    "start": 264.12,
+    "duration": 6.24
+  },
+  {
+    "text": "89° and just being being able to visit",
+    "start": 266.88,
+    "duration": 5.319
+  },
+  {
+    "text": "different places and go through",
+    "start": 270.36,
+    "duration": 4.24
+  },
+  {
+    "text": "different times we have data from 1950",
+    "start": 272.199,
+    "duration": 4.961
+  },
+  {
+    "text": "to 2050 granted we don't have everything",
+    "start": 274.6,
+    "duration": 4.0
+  },
+  {
+    "text": "in between because some of the data is",
+    "start": 277.16,
+    "duration": 4.84
+  },
+  {
+    "text": "hard to get uh just being able to visit",
+    "start": 278.6,
+    "duration": 5.64
+  },
+  {
+    "text": "places in different times you can",
+    "start": 282.0,
+    "duration": 4.759
+  },
+  {
+    "text": "explore every you can explore this for",
+    "start": 284.24,
+    "duration": 6.08
+  },
+  {
+    "text": "hours literally hours on end but I want",
+    "start": 286.759,
+    "duration": 5.521
+  },
+  {
+    "text": "to show you one thing in particular so",
+    "start": 290.32,
+    "duration": 4.319
+  },
+  {
+    "text": "I'm going to open up the destination tab",
+    "start": 292.28,
+    "duration": 4.759
+  },
+  {
+    "text": "spacecraft outer planet missions Voyager",
+    "start": 294.639,
+    "duration": 4.761
+  },
+  {
+    "text": "1 and I'm going to bring up the Titan",
+    "start": 297.039,
+    "duration": 4.321
+  },
+  {
+    "text": "flly",
+    "start": 299.4,
+    "duration": 4.28
+  },
+  {
+    "text": "so now we've gone back in",
+    "start": 301.36,
+    "duration": 5.119
+  },
+  {
+    "text": "time we're now riding along with voyager",
+    "start": 303.68,
+    "duration": 6.799
+  },
+  {
+    "text": "one the date here is November 11th 1980",
+    "start": 306.479,
+    "duration": 6.44
+  },
+  {
+    "text": "now there's a funny thing going on here",
+    "start": 310.479,
+    "duration": 4.16
+  },
+  {
+    "text": "it doesn't look like anything's going on",
+    "start": 312.919,
+    "duration": 3.801
+  },
+  {
+    "text": "it looks like I've paused the program",
+    "start": 314.639,
+    "duration": 3.84
+  },
+  {
+    "text": "it's actually running at real rate right",
+    "start": 316.72,
+    "duration": 4.16
+  },
+  {
+    "text": "now one second per second and in fact",
+    "start": 318.479,
+    "duration": 6.961
+  },
+  {
+    "text": "Voyager one here is flying by Titan at I",
+    "start": 320.88,
+    "duration": 7.96
+  },
+  {
+    "text": "think it's 38,000 miles hour it only",
+    "start": 325.44,
+    "duration": 4.64
+  },
+  {
+    "text": "looks like nothing's moving moving",
+    "start": 328.84,
+    "duration": 4.52
+  },
+  {
+    "text": "because well Saturn here is 700,000 mil",
+    "start": 330.08,
+    "duration": 6.04
+  },
+  {
+    "text": "away and Titan here is 4 to 5,000 mil",
+    "start": 333.36,
+    "duration": 5.6
+  },
+  {
+    "text": "away it's just the vastness of space",
+    "start": 336.12,
+    "duration": 5.28
+  },
+  {
+    "text": "makes it look like nothing's happening",
+    "start": 338.96,
+    "duration": 3.92
+  },
+  {
+    "text": "but to make it more interesting I'm",
+    "start": 341.4,
+    "duration": 4.16
+  },
+  {
+    "text": "going to speed up time and we can watch",
+    "start": 342.88,
+    "duration": 6.2
+  },
+  {
+    "text": "as Voyager One flies by Titan which is a",
+    "start": 345.56,
+    "duration": 5.639
+  },
+  {
+    "text": "hazy Moon of uh Saturn it actually has a",
+    "start": 349.08,
+    "duration": 4.36
+  },
+  {
+    "text": "very thick atmosphere and I'm going to",
+    "start": 351.199,
+    "duration": 5.72
+  },
+  {
+    "text": "reenter the camera on Saturn here I'm",
+    "start": 353.44,
+    "duration": 6.8
+  },
+  {
+    "text": "gonna pull out and I want to show you",
+    "start": 356.919,
+    "duration": 5.441
+  },
+  {
+    "text": "Voyager one as it flies by",
+    "start": 360.24,
+    "duration": 5.2
+  },
+  {
+    "text": "Saturn there's a point to be made here",
+    "start": 362.36,
+    "duration": 6.119
+  },
+  {
+    "text": "with a 3D visualization like this we",
+    "start": 365.44,
+    "duration": 5.879
+  },
+  {
+    "text": "cannot only just say Voyager One Flew by",
+    "start": 368.479,
+    "duration": 4.601
+  },
+  {
+    "text": "Saturn there's a whole story to tell",
+    "start": 371.319,
+    "duration": 3.481
+  },
+  {
+    "text": "here and even better because it's an",
+    "start": 373.08,
+    "duration": 4.0
+  },
+  {
+    "text": "interactive application you can tell the",
+    "start": 374.8,
+    "duration": 4.2
+  },
+  {
+    "text": "story for yourself if you want to pause",
+    "start": 377.08,
+    "duration": 4.0
+  },
+  {
+    "text": "it you can pause it if you want to keep",
+    "start": 379.0,
+    "duration": 3.44
+  },
+  {
+    "text": "going if you want to change the camera",
+    "start": 381.08,
+    "duration": 4.119
+  },
+  {
+    "text": "angle you can do that and because of",
+    "start": 382.44,
+    "duration": 5.56
+  },
+  {
+    "text": "that I can show you that Voyager one",
+    "start": 385.199,
+    "duration": 5.201
+  },
+  {
+    "text": "doesn't just fly by Saturn",
+    "start": 388.0,
+    "duration": 5.28
+  },
+  {
+    "text": "it actually flies underneath",
+    "start": 390.4,
+    "duration": 5.48
+  },
+  {
+    "text": "Saturn now what happens is as it flies",
+    "start": 393.28,
+    "duration": 5.12
+  },
+  {
+    "text": "underneath Saturn Saturn grabs it",
+    "start": 395.88,
+    "duration": 5.28
+  },
+  {
+    "text": "gravitationally and flings it up and out",
+    "start": 398.4,
+    "duration": 5.12
+  },
+  {
+    "text": "of the solar system so if I just keep",
+    "start": 401.16,
+    "duration": 6.64
+  },
+  {
+    "text": "letting this go you can see Voyager One",
+    "start": 403.52,
+    "duration": 7.0
+  },
+  {
+    "text": "fly up like that and in fact I'm going",
+    "start": 407.8,
+    "duration": 4.399
+  },
+  {
+    "text": "to go back to the solar system I'm going",
+    "start": 410.52,
+    "duration": 3.36
+  },
+  {
+    "text": "to go back to today",
+    "start": 412.199,
+    "duration": 4.321
+  },
+  {
+    "text": "now and I want to show you where Voyager",
+    "start": 413.88,
+    "duration": 3.8
+  },
+  {
+    "text": "one",
+    "start": 416.52,
+    "duration": 4.2
+  },
+  {
+    "text": "is right there",
+    "start": 417.68,
+    "duration": 5.799
+  },
+  {
+    "text": "above way above the solar system way",
+    "start": 420.72,
+    "duration": 5.479
+  },
+  {
+    "text": "beyond our solar system and here's the",
+    "start": 423.479,
+    "duration": 4.961
+  },
+  {
+    "text": "thing now you know how it got there now",
+    "start": 426.199,
+    "duration": 4.44
+  },
+  {
+    "text": "you know why and to me that's the point",
+    "start": 428.44,
+    "duration": 5.8
+  },
+  {
+    "text": "of this program you can uh manipulate it",
+    "start": 430.639,
+    "duration": 6.0
+  },
+  {
+    "text": "yourself you could fly around yourself",
+    "start": 434.24,
+    "duration": 3.959
+  },
+  {
+    "text": "and you can learn for",
+    "start": 436.639,
+    "duration": 3.761
+  },
+  {
+    "text": "yourself you know the theme today is the",
+    "start": 438.199,
+    "duration": 4.4
+  },
+  {
+    "text": "world in your grasp well we're trying to",
+    "start": 440.4,
+    "duration": 4.4
+  },
+  {
+    "text": "give you the solar system in your grasp",
+    "start": 442.599,
+    "duration": 4.04
+  },
+  {
+    "text": "and we hope once it's there you'll be",
+    "start": 444.8,
+    "duration": 4.119
+  },
+  {
+    "text": "able to learn for yourself what we've",
+    "start": 446.639,
+    "duration": 4.24
+  },
+  {
+    "text": "done out there what we're about to do",
+    "start": 448.919,
+    "duration": 5.161
+  },
+  {
+    "text": "and my personal dream is for kids to",
+    "start": 450.879,
+    "duration": 5.361
+  },
+  {
+    "text": "take this and explore and see the",
+    "start": 454.08,
+    "duration": 4.76
+  },
+  {
+    "text": "Wonders out there and be inspired as I",
+    "start": 456.24,
+    "duration": 5.359
+  },
+  {
+    "text": "was as a kid to pursue stem education",
+    "start": 458.84,
+    "duration": 4.84
+  },
+  {
+    "text": "and to pursue a dream in space",
+    "start": 461.599,
+    "duration": 4.401
+  },
+  {
+    "text": "exploration thank you",
+    "start": 463.68,
+    "duration": 5.54
+  },
+  {
+    "text": "[Applause]",
+    "start": 466.0,
+    "duration": 3.22
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "text": "Hi, I'm Jeff.",
+    "start": 13.329,
+    "duration": 1.583
+  },
+  {
+    "text": "I lead AI Research and Health at Google.",
+    "start": 15.746,
+    "duration": 2.833
+  },
+  {
+    "text": "I joined Google more than 20 years ago,",
+    "start": 18.621,
+    "duration": 1.875
+  },
+  {
+    "text": "when we were all wedged\ninto a tiny office space,",
+    "start": 20.538,
+    "duration": 3.166
+  },
+  {
+    "text": "above what's now a T-Mobile store\nin downtown Palo Alto.",
+    "start": 23.704,
+    "duration": 2.75
+  },
+  {
+    "text": "I've seen a lot of computing\ntransformations in that time,",
+    "start": 27.163,
+    "duration": 2.875
+  },
+  {
+    "text": "and in the last decade, we've seen AI\nbe able to do tremendous things.",
+    "start": 30.079,
+    "duration": 3.459
+  },
+  {
+    "text": "But we're still doing it\nall wrong in many ways.",
+    "start": 34.746,
+    "duration": 2.542
+  },
+  {
+    "text": "That's what I want\nto talk to you about today.",
+    "start": 37.329,
+    "duration": 2.209
+  },
+  {
+    "text": "But first, let's talk\nabout what AI can do.",
+    "start": 39.579,
+    "duration": 2.209
+  },
+  {
+    "text": "So in the last decade,\nwe've seen tremendous progress",
+    "start": 41.829,
+    "duration": 3.292
+  },
+  {
+    "text": "in how AI can help computers see,\nunderstand language,",
+    "start": 45.121,
+    "duration": 4.333
+  },
+  {
+    "text": "understand speech better than ever before.",
+    "start": 49.496,
+    "duration": 2.833
+  },
+  {
+    "text": "Things that we couldn't do\nbefore, now we can do.",
+    "start": 52.329,
+    "duration": 2.583
+  },
+  {
+    "text": "If you think about computer vision alone,",
+    "start": 54.954,
+    "duration": 2.333
+  },
+  {
+    "text": "just in the last 10 years,",
+    "start": 57.329,
+    "duration": 1.583
+  },
+  {
+    "text": "computers have effectively\ndeveloped the ability to see;",
+    "start": 58.912,
+    "duration": 2.792
+  },
+  {
+    "text": "10 years ago, they couldn't see,\nnow they can see.",
+    "start": 61.746,
+    "duration": 2.5
+  },
+  {
+    "text": "You can imagine this has had\na transformative effect",
+    "start": 64.287,
+    "duration": 2.5
+  },
+  {
+    "text": "on what we can do with computers.",
+    "start": 66.787,
+    "duration": 2.209
+  },
+  {
+    "text": "So let's look at a couple\nof the great applications",
+    "start": 68.996,
+    "duration": 2.5
+  },
+  {
+    "text": "enabled by these capabilities.",
+    "start": 71.496,
+    "duration": 2.0
+  },
+  {
+    "text": "We can better predict flooding,\nkeep everyone safe,",
+    "start": 73.537,
+    "duration": 2.417
+  },
+  {
+    "text": "using machine learning.",
+    "start": 75.996,
+    "duration": 1.5
+  },
+  {
+    "text": "We can translate over 100 languages\nso we all can communicate better,",
+    "start": 77.538,
+    "duration": 3.25
+  },
+  {
+    "text": "and better predict and diagnose disease,",
+    "start": 80.788,
+    "duration": 2.0
+  },
+  {
+    "text": "where everyone gets\nthe treatment that they need.",
+    "start": 82.788,
+    "duration": 2.333
+  },
+  {
+    "text": "So let's look at two key components",
+    "start": 85.163,
+    "duration": 1.916
+  },
+  {
+    "text": "that underlie the progress\nin AI systems today.",
+    "start": 87.121,
+    "duration": 2.333
+  },
+  {
+    "text": "The first is neural networks,",
+    "start": 90.121,
+    "duration": 1.542
+  },
+  {
+    "text": "a breakthrough approach to solving\nsome of these difficult problems",
+    "start": 91.704,
+    "duration": 3.417
+  },
+  {
+    "text": "that has really shone\nin the last 15 years.",
+    "start": 95.121,
+    "duration": 2.833
+  },
+  {
+    "text": "But they're not a new idea.",
+    "start": 97.954,
+    "duration": 1.625
+  },
+  {
+    "text": "And the second is computational power.",
+    "start": 99.621,
+    "duration": 1.833
+  },
+  {
+    "text": "It actually takes a lot\nof computational power",
+    "start": 101.454,
+    "duration": 2.167
+  },
+  {
+    "text": "to make neural networks\nable to really sing,",
+    "start": 103.663,
+    "duration": 2.083
+  },
+  {
+    "text": "and in the last 15 years,\nwe’ve been able to have that,",
+    "start": 105.746,
+    "duration": 3.375
+  },
+  {
+    "text": "and that's partly what's enabled\nall this progress.",
+    "start": 109.121,
+    "duration": 2.458
+  },
+  {
+    "text": "But at the same time,\nI think we're doing several things wrong,",
+    "start": 111.954,
+    "duration": 3.459
+  },
+  {
+    "text": "and that's what I want\nto talk to you about",
+    "start": 115.413,
+    "duration": 2.0
+  },
+  {
+    "text": "at the end of the talk.",
+    "start": 117.454,
+    "duration": 1.167
+  },
+  {
+    "text": "First, a bit of a history lesson.",
+    "start": 118.663,
+    "duration": 1.958
+  },
+  {
+    "text": "So for decades,",
+    "start": 120.663,
+    "duration": 1.208
+  },
+  {
+    "text": "almost since the very\nbeginning of computing,",
+    "start": 121.913,
+    "duration": 2.125
+  },
+  {
+    "text": "people have wanted\nto be able to build computers",
+    "start": 124.079,
+    "duration": 2.25
+  },
+  {
+    "text": "that could see, understand language,\nunderstand speech.",
+    "start": 126.329,
+    "duration": 3.917
+  },
+  {
+    "text": "The earliest approaches\nto this, generally,",
+    "start": 130.579,
+    "duration": 2.0
+  },
+  {
+    "text": "people were trying to hand-code\nall the algorithms",
+    "start": 132.621,
+    "duration": 2.333
+  },
+  {
+    "text": "that you need to accomplish\nthose difficult tasks,",
+    "start": 134.996,
+    "duration": 2.458
+  },
+  {
+    "text": "and it just turned out\nto not work very well.",
+    "start": 137.454,
+    "duration": 2.375
+  },
+  {
+    "text": "But in the last 15 years,\na single approach",
+    "start": 139.829,
+    "duration": 3.25
+  },
+  {
+    "text": "unexpectedly advanced all these different\nproblem spaces all at once:",
+    "start": 143.079,
+    "duration": 4.167
+  },
+  {
+    "text": "neural networks.",
+    "start": 147.954,
+    "duration": 1.542
+  },
+  {
+    "text": "So neural networks are not a new idea.",
+    "start": 149.538,
+    "duration": 1.833
+  },
+  {
+    "text": "They're kind of loosely based",
+    "start": 151.371,
+    "duration": 1.417
+  },
+  {
+    "text": "on some of the properties\nthat are in real neural systems.",
+    "start": 152.788,
+    "duration": 3.041
+  },
+  {
+    "text": "And many of the ideas\nbehind neural networks",
+    "start": 155.829,
+    "duration": 2.084
+  },
+  {
+    "text": "have been around since the 1960s and 70s.",
+    "start": 157.954,
+    "duration": 2.25
+  },
+  {
+    "text": "A neural network is what it sounds like,",
+    "start": 160.204,
+    "duration": 2.167
+  },
+  {
+    "text": "a series of interconnected\nartificial neurons",
+    "start": 162.413,
+    "duration": 2.708
+  },
+  {
+    "text": "that loosely emulate the properties\nof your real neurons.",
+    "start": 165.121,
+    "duration": 3.0
+  },
+  {
+    "text": "An individual neuron\nin one of these systems",
+    "start": 168.163,
+    "duration": 2.166
+  },
+  {
+    "text": "has a set of inputs,",
+    "start": 170.371,
+    "duration": 1.417
+  },
+  {
+    "text": "each with an associated weight,",
+    "start": 171.788,
+    "duration": 2.041
+  },
+  {
+    "text": "and the output of a neuron",
+    "start": 173.871,
+    "duration": 1.833
+  },
+  {
+    "text": "is a function of those inputs\nmultiplied by those weights.",
+    "start": 175.704,
+    "duration": 3.209
+  },
+  {
+    "text": "So pretty simple,",
+    "start": 179.288,
+    "duration": 1.208
+  },
+  {
+    "text": "and lots and lots of these work together\nto learn complicated things.",
+    "start": 180.538,
+    "duration": 3.666
+  },
+  {
+    "text": "So how do we actually learn\nin a neural network?",
+    "start": 184.496,
+    "duration": 2.833
+  },
+  {
+    "text": "It turns out the learning process",
+    "start": 187.371,
+    "duration": 1.708
+  },
+  {
+    "text": "consists of repeatedly making\ntiny little adjustments",
+    "start": 189.079,
+    "duration": 2.792
+  },
+  {
+    "text": "to the weight values,",
+    "start": 191.913,
+    "duration": 1.208
+  },
+  {
+    "text": "strengthening the influence\nof some things,",
+    "start": 193.121,
+    "duration": 2.042
+  },
+  {
+    "text": "weakening the influence of others.",
+    "start": 195.204,
+    "duration": 1.959
+  },
+  {
+    "text": "By driving the overall system\ntowards desired behaviors,",
+    "start": 197.204,
+    "duration": 3.917
+  },
+  {
+    "text": "these systems can be trained\nto do really complicated things,",
+    "start": 201.163,
+    "duration": 2.916
+  },
+  {
+    "text": "like translate\nfrom one language to another,",
+    "start": 204.121,
+    "duration": 2.875
+  },
+  {
+    "text": "detect what kind\nof objects are in a photo,",
+    "start": 207.038,
+    "duration": 3.083
+  },
+  {
+    "text": "all kinds of complicated things.",
+    "start": 210.121,
+    "duration": 1.875
+  },
+  {
+    "text": "I first got interested in neural networks",
+    "start": 212.038,
+    "duration": 2.0
+  },
+  {
+    "text": "when I took a class on them\nas an undergraduate in 1990.",
+    "start": 214.079,
+    "duration": 3.042
+  },
+  {
+    "text": "At that time,",
+    "start": 217.163,
+    "duration": 1.125
+  },
+  {
+    "text": "neural networks showed\nimpressive results on tiny problems,",
+    "start": 218.329,
+    "duration": 3.792
+  },
+  {
+    "text": "but they really couldn't scale to do\nreal-world important tasks.",
+    "start": 222.121,
+    "duration": 4.375
+  },
+  {
+    "text": "But I was super excited.",
+    "start": 226.538,
+    "duration": 1.5
+  },
+  {
+    "text": "(Laughter)",
+    "start": 228.079,
+    "duration": 2.5
+  },
+  {
+    "text": "I felt maybe we just needed\nmore compute power.",
+    "start": 230.579,
+    "duration": 2.417
+  },
+  {
+    "text": "And the University of Minnesota\nhad a 32-processor machine.",
+    "start": 232.996,
+    "duration": 3.625
+  },
+  {
+    "text": "I thought, \"With more compute power,",
+    "start": 236.621,
+    "duration": 1.792
+  },
+  {
+    "text": "boy, we could really make\nneural networks really sing.\"",
+    "start": 238.413,
+    "duration": 3.0
+  },
+  {
+    "text": "So I decided to do a senior thesis\non parallel training of neural networks,",
+    "start": 241.454,
+    "duration": 3.584
+  },
+  {
+    "text": "the idea of using processors in a computer\nor in a computer system",
+    "start": 245.079,
+    "duration": 4.0
+  },
+  {
+    "text": "to all work toward the same task,",
+    "start": 249.079,
+    "duration": 2.125
+  },
+  {
+    "text": "that of training neural networks.",
+    "start": 251.204,
+    "duration": 1.584
+  },
+  {
+    "text": "32 processors, wow,",
+    "start": 252.829,
+    "duration": 1.292
+  },
+  {
+    "text": "we’ve got to be able\nto do great things with this.",
+    "start": 254.163,
+    "duration": 2.833
+  },
+  {
+    "text": "But I was wrong.",
+    "start": 257.496,
+    "duration": 1.167
+  },
+  {
+    "text": "Turns out we needed about a million times\nas much computational power",
+    "start": 260.038,
+    "duration": 3.333
+  },
+  {
+    "text": "as we had in 1990",
+    "start": 263.371,
+    "duration": 1.375
+  },
+  {
+    "text": "before we could actually get\nneural networks to do impressive things.",
+    "start": 264.788,
+    "duration": 3.333
+  },
+  {
+    "text": "But starting around 2005,",
+    "start": 268.121,
+    "duration": 2.417
+  },
+  {
+    "text": "thanks to the computing progress\nof Moore's law,",
+    "start": 270.579,
+    "duration": 2.5
+  },
+  {
+    "text": "we actually started to have\nthat much computing power,",
+    "start": 273.121,
+    "duration": 2.625
+  },
+  {
+    "text": "and researchers in a few universities\naround the world started to see success",
+    "start": 275.746,
+    "duration": 4.25
+  },
+  {
+    "text": "in using neural networks for a wide\nvariety of different kinds of tasks.",
+    "start": 280.038,
+    "duration": 4.083
+  },
+  {
+    "text": "I and a few others at Google\nheard about some of these successes,",
+    "start": 284.121,
+    "duration": 3.583
+  },
+  {
+    "text": "and we decided to start a project\nto train very large neural networks.",
+    "start": 287.746,
+    "duration": 3.333
+  },
+  {
+    "text": "One system that we trained,",
+    "start": 291.079,
+    "duration": 1.459
+  },
+  {
+    "text": "we trained with 10 million\nrandomly selected frames",
+    "start": 292.538,
+    "duration": 3.541
+  },
+  {
+    "text": "from YouTube videos.",
+    "start": 296.079,
+    "duration": 1.292
+  },
+  {
+    "text": "The system developed the capability",
+    "start": 297.371,
+    "duration": 1.75
+  },
+  {
+    "text": "to recognize all kinds\nof different objects.",
+    "start": 299.121,
+    "duration": 2.583
+  },
+  {
+    "text": "And it being YouTube, of course,",
+    "start": 301.746,
+    "duration": 1.542
+  },
+  {
+    "text": "it developed the ability\nto recognize cats.",
+    "start": 303.329,
+    "duration": 2.5
+  },
+  {
+    "text": "YouTube is full of cats.",
+    "start": 305.829,
+    "duration": 1.292
+  },
+  {
+    "text": "(Laughter)",
+    "start": 307.163,
+    "duration": 1.416
+  },
+  {
+    "text": "But what made that so remarkable",
+    "start": 308.621,
+    "duration": 2.208
+  },
+  {
+    "text": "is that the system was never told\nwhat a cat was.",
+    "start": 310.871,
+    "duration": 2.417
+  },
+  {
+    "text": "So using just patterns in data,",
+    "start": 313.704,
+    "duration": 2.5
+  },
+  {
+    "text": "the system honed in on the concept\nof a cat all on its own.",
+    "start": 316.204,
+    "duration": 3.625
+  },
+  {
+    "text": "All of this occurred at the beginning\nof a decade-long string of successes,",
+    "start": 320.371,
+    "duration": 3.75
+  },
+  {
+    "text": "of using neural networks\nfor a huge variety of tasks,",
+    "start": 324.121,
+    "duration": 2.5
+  },
+  {
+    "text": "at Google and elsewhere.",
+    "start": 326.663,
+    "duration": 1.166
+  },
+  {
+    "text": "Many of the things you use every day,",
+    "start": 327.871,
+    "duration": 2.167
+  },
+  {
+    "text": "things like better speech\nrecognition for your phone,",
+    "start": 330.079,
+    "duration": 2.5
+  },
+  {
+    "text": "improved understanding\nof queries and documents",
+    "start": 332.579,
+    "duration": 2.209
+  },
+  {
+    "text": "for better search quality,",
+    "start": 334.829,
+    "duration": 1.459
+  },
+  {
+    "text": "better understanding of geographic\ninformation to improve maps,",
+    "start": 336.329,
+    "duration": 3.042
+  },
+  {
+    "text": "and so on.",
+    "start": 339.413,
+    "duration": 1.166
+  },
+  {
+    "text": "Around that time,",
+    "start": 340.621,
+    "duration": 1.167
+  },
+  {
+    "text": "we also got excited about how we could\nbuild hardware that was better tailored",
+    "start": 341.788,
+    "duration": 3.75
+  },
+  {
+    "text": "to the kinds of computations\nneural networks wanted to do.",
+    "start": 345.579,
+    "duration": 2.792
+  },
+  {
+    "text": "Neural network computations\nhave two special properties.",
+    "start": 348.371,
+    "duration": 2.667
+  },
+  {
+    "text": "The first is they're very tolerant\nof reduced precision.",
+    "start": 351.079,
+    "duration": 2.625
+  },
+  {
+    "text": "Couple of significant digits,\nyou don't need six or seven.",
+    "start": 353.746,
+    "duration": 2.75
+  },
+  {
+    "text": "And the second is that all the\nalgorithms are generally composed",
+    "start": 356.496,
+    "duration": 3.458
+  },
+  {
+    "text": "of different sequences\nof matrix and vector operations.",
+    "start": 359.996,
+    "duration": 3.458
+  },
+  {
+    "text": "So if you can build a computer",
+    "start": 363.496,
+    "duration": 1.75
+  },
+  {
+    "text": "that is really good at low-precision\nmatrix and vector operations",
+    "start": 365.246,
+    "duration": 3.792
+  },
+  {
+    "text": "but can't do much else,",
+    "start": 369.079,
+    "duration": 1.709
+  },
+  {
+    "text": "that's going to be great\nfor neural-network computation,",
+    "start": 370.829,
+    "duration": 2.625
+  },
+  {
+    "text": "even though you can't use it\nfor a lot of other things.",
+    "start": 373.496,
+    "duration": 2.667
+  },
+  {
+    "text": "And if you build such things,\npeople will find amazing uses for them.",
+    "start": 376.163,
+    "duration": 3.291
+  },
+  {
+    "text": "This is the first one we built, TPU v1.",
+    "start": 379.496,
+    "duration": 2.083
+  },
+  {
+    "text": "\"TPU\" stands for Tensor Processing Unit.",
+    "start": 381.621,
+    "duration": 2.542
+  },
+  {
+    "text": "These have been used for many years\nbehind every Google search,",
+    "start": 384.204,
+    "duration": 3.042
+  },
+  {
+    "text": "for translation,",
+    "start": 387.246,
+    "duration": 1.167
+  },
+  {
+    "text": "in the DeepMind AlphaGo matches,",
+    "start": 388.454,
+    "duration": 1.917
+  },
+  {
+    "text": "so Lee Sedol and Ke Jie\nmaybe didn't realize,",
+    "start": 390.413,
+    "duration": 2.583
+  },
+  {
+    "text": "but they were competing\nagainst racks of TPU cards.",
+    "start": 393.038,
+    "duration": 2.708
+  },
+  {
+    "text": "And we've built a bunch\nof subsequent versions of TPUs",
+    "start": 395.788,
+    "duration": 2.583
+  },
+  {
+    "text": "that are even better and more exciting.",
+    "start": 398.371,
+    "duration": 1.875
+  },
+  {
+    "text": "But despite all these successes,",
+    "start": 400.288,
+    "duration": 2.083
+  },
+  {
+    "text": "I think we're still doing\nmany things wrong,",
+    "start": 402.371,
+    "duration": 2.208
+  },
+  {
+    "text": "and I'll tell you about three\nkey things we're doing wrong,",
+    "start": 404.621,
+    "duration": 2.792
+  },
+  {
+    "text": "and how we'll fix them.",
+    "start": 407.454,
+    "duration": 1.167
+  },
+  {
+    "text": "The first is that most\nneural networks today",
+    "start": 408.663,
+    "duration": 2.083
+  },
+  {
+    "text": "are trained to do one thing,\nand one thing only.",
+    "start": 410.746,
+    "duration": 2.25
+  },
+  {
+    "text": "You train it for a particular task\nthat you might care deeply about,",
+    "start": 413.038,
+    "duration": 3.208
+  },
+  {
+    "text": "but it's a pretty heavyweight activity.",
+    "start": 416.288,
+    "duration": 1.916
+  },
+  {
+    "text": "You need to curate a data set,",
+    "start": 418.246,
+    "duration": 1.667
+  },
+  {
+    "text": "you need to decide\nwhat network architecture you'll use",
+    "start": 419.913,
+    "duration": 3.0
+  },
+  {
+    "text": "for this problem,",
+    "start": 422.954,
+    "duration": 1.167
+  },
+  {
+    "text": "you need to initialize the weights\nwith random values,",
+    "start": 424.121,
+    "duration": 2.708
+  },
+  {
+    "text": "apply lots of computation\nto make adjustments to the weights.",
+    "start": 426.871,
+    "duration": 2.875
+  },
+  {
+    "text": "And at the end, if you’re lucky,\nyou end up with a model",
+    "start": 429.746,
+    "duration": 2.75
+  },
+  {
+    "text": "that is really good\nat that task you care about.",
+    "start": 432.538,
+    "duration": 2.291
+  },
+  {
+    "text": "But if you do this over and over,",
+    "start": 434.871,
+    "duration": 1.583
+  },
+  {
+    "text": "you end up with thousands\nof separate models,",
+    "start": 436.496,
+    "duration": 2.667
+  },
+  {
+    "text": "each perhaps very capable,",
+    "start": 439.204,
+    "duration": 1.792
+  },
+  {
+    "text": "but separate for all the different\ntasks you care about.",
+    "start": 441.038,
+    "duration": 2.791
+  },
+  {
+    "text": "But think about how people learn.",
+    "start": 443.829,
+    "duration": 1.667
+  },
+  {
+    "text": "In the last year, many of us\nhave picked up a bunch of new skills.",
+    "start": 445.538,
+    "duration": 3.166
+  },
+  {
+    "text": "I've been honing my gardening skills,",
+    "start": 448.746,
+    "duration": 1.792
+  },
+  {
+    "text": "experimenting with vertical\nhydroponic gardening.",
+    "start": 450.579,
+    "duration": 2.375
+  },
+  {
+    "text": "To do that, I didn't need to relearn\neverything I already knew about plants.",
+    "start": 452.954,
+    "duration": 3.792
+  },
+  {
+    "text": "I was able to know\nhow to put a plant in a hole,",
+    "start": 456.746,
+    "duration": 3.375
+  },
+  {
+    "text": "how to pour water, that plants need sun,",
+    "start": 460.163,
+    "duration": 2.291
+  },
+  {
+    "text": "and leverage that\nin learning this new skill.",
+    "start": 462.496,
+    "duration": 3.583
+  },
+  {
+    "text": "Computers can work\nthe same way, but they don’t today.",
+    "start": 466.079,
+    "duration": 3.042
+  },
+  {
+    "text": "If you train a neural\nnetwork from scratch,",
+    "start": 469.163,
+    "duration": 2.583
+  },
+  {
+    "text": "it's effectively like forgetting\nyour entire education",
+    "start": 471.746,
+    "duration": 3.542
+  },
+  {
+    "text": "every time you try to do something new.",
+    "start": 475.288,
+    "duration": 1.875
+  },
+  {
+    "text": "That’s crazy, right?",
+    "start": 477.163,
+    "duration": 1.0
+  },
+  {
+    "text": "So instead, I think we can\nand should be training",
+    "start": 478.788,
+    "duration": 3.708
+  },
+  {
+    "text": "multitask models that can do\nthousands or millions of different tasks.",
+    "start": 482.538,
+    "duration": 3.791
+  },
+  {
+    "text": "Each part of that model would specialize\nin different kinds of things.",
+    "start": 486.329,
+    "duration": 3.375
+  },
+  {
+    "text": "And then, if we have a model\nthat can do a thousand things,",
+    "start": 489.704,
+    "duration": 2.792
+  },
+  {
+    "text": "and the thousand and first\nthing comes along,",
+    "start": 492.538,
+    "duration": 2.166
+  },
+  {
+    "text": "we can leverage\nthe expertise we already have",
+    "start": 494.746,
+    "duration": 2.125
+  },
+  {
+    "text": "in the related kinds of things",
+    "start": 496.913,
+    "duration": 1.541
+  },
+  {
+    "text": "so that we can more quickly be able\nto do this new task,",
+    "start": 498.496,
+    "duration": 2.792
+  },
+  {
+    "text": "just like you, if you're confronted\nwith some new problem,",
+    "start": 501.288,
+    "duration": 2.791
+  },
+  {
+    "text": "you quickly identify\nthe 17 things you already know",
+    "start": 504.121,
+    "duration": 2.625
+  },
+  {
+    "text": "that are going to be helpful\nin solving that problem.",
+    "start": 506.746,
+    "duration": 2.542
+  },
+  {
+    "text": "Second problem is that most\nof our models today",
+    "start": 509.329,
+    "duration": 2.709
+  },
+  {
+    "text": "deal with only a single\nmodality of data --",
+    "start": 512.079,
+    "duration": 2.125
+  },
+  {
+    "text": "with images, or text or speech,",
+    "start": 514.204,
+    "duration": 3.084
+  },
+  {
+    "text": "but not all of these all at once.",
+    "start": 517.329,
+    "duration": 1.709
+  },
+  {
+    "text": "But think about how you\ngo about the world.",
+    "start": 519.079,
+    "duration": 2.042
+  },
+  {
+    "text": "You're continuously using all your senses",
+    "start": 521.121,
+    "duration": 2.333
+  },
+  {
+    "text": "to learn from, react to,",
+    "start": 523.454,
+    "duration": 3.083
+  },
+  {
+    "text": "figure out what actions\nyou want to take in the world.",
+    "start": 526.579,
+    "duration": 2.667
+  },
+  {
+    "text": "Makes a lot more sense to do that,",
+    "start": 529.287,
+    "duration": 1.667
+  },
+  {
+    "text": "and we can build models in the same way.",
+    "start": 530.954,
+    "duration": 2.0
+  },
+  {
+    "text": "We can build models that take in\nthese different modalities of input data,",
+    "start": 532.954,
+    "duration": 4.042
+  },
+  {
+    "text": "text, images, speech,",
+    "start": 537.037,
+    "duration": 1.75
+  },
+  {
+    "text": "but then fuse them together,",
+    "start": 538.829,
+    "duration": 1.417
+  },
+  {
+    "text": "so that regardless of whether the model\nsees the word \"leopard,\"",
+    "start": 540.329,
+    "duration": 3.833
+  },
+  {
+    "text": "sees a video of a leopard\nor hears someone say the word \"leopard,\"",
+    "start": 544.204,
+    "duration": 4.083
+  },
+  {
+    "text": "the same response\nis triggered inside the model:",
+    "start": 548.329,
+    "duration": 2.25
+  },
+  {
+    "text": "the concept of a leopard",
+    "start": 550.621,
+    "duration": 1.75
+  },
+  {
+    "text": "can deal with different\nkinds of input data,",
+    "start": 552.412,
+    "duration": 2.25
+  },
+  {
+    "text": "even nonhuman inputs,\nlike genetic sequences,",
+    "start": 554.662,
+    "duration": 3.0
+  },
+  {
+    "text": "3D clouds of points,\nas well as images, text and video.",
+    "start": 557.662,
+    "duration": 3.209
+  },
+  {
+    "text": "The third problem\nis that today's models are dense.",
+    "start": 560.912,
+    "duration": 3.625
+  },
+  {
+    "text": "There's a single model,",
+    "start": 564.579,
+    "duration": 1.417
+  },
+  {
+    "text": "the model is fully activated\nfor every task,",
+    "start": 565.996,
+    "duration": 2.375
+  },
+  {
+    "text": "for every example\nthat we want to accomplish,",
+    "start": 568.412,
+    "duration": 2.125
+  },
+  {
+    "text": "whether that's a really simple\nor a really complicated thing.",
+    "start": 570.537,
+    "duration": 2.917
+  },
+  {
+    "text": "This, too, is unlike\nhow our own brains work.",
+    "start": 573.496,
+    "duration": 2.666
+  },
+  {
+    "text": "Different parts of our brains\nare good at different things,",
+    "start": 576.204,
+    "duration": 3.0
+  },
+  {
+    "text": "and we're continuously calling\nupon the pieces of them",
+    "start": 579.246,
+    "duration": 3.291
+  },
+  {
+    "text": "that are relevant for the task at hand.",
+    "start": 582.579,
+    "duration": 2.167
+  },
+  {
+    "text": "For example, nervously watching\na garbage truck",
+    "start": 584.787,
+    "duration": 2.334
+  },
+  {
+    "text": "back up towards your car,",
+    "start": 587.162,
+    "duration": 1.875
+  },
+  {
+    "text": "the part of your brain that thinks\nabout Shakespearean sonnets",
+    "start": 589.037,
+    "duration": 2.917
+  },
+  {
+    "text": "is probably inactive.",
+    "start": 591.996,
+    "duration": 1.25
+  },
+  {
+    "text": "(Laughter)",
+    "start": 593.246,
+    "duration": 1.625
+  },
+  {
+    "text": "AI models can work the same way.",
+    "start": 594.912,
+    "duration": 1.75
+  },
+  {
+    "text": "Instead of a dense model,",
+    "start": 596.662,
+    "duration": 1.292
+  },
+  {
+    "text": "we can have one\nthat is sparsely activated.",
+    "start": 597.954,
+    "duration": 2.25
+  },
+  {
+    "text": "So for particular different tasks,\nwe call upon different parts of the model.",
+    "start": 600.204,
+    "duration": 4.25
+  },
+  {
+    "text": "During training, the model can also learn\nwhich parts are good at which things,",
+    "start": 604.496,
+    "duration": 4.375
+  },
+  {
+    "text": "to continuously identify what parts\nit wants to call upon",
+    "start": 608.871,
+    "duration": 3.791
+  },
+  {
+    "text": "in order to accomplish a new task.",
+    "start": 612.662,
+    "duration": 1.834
+  },
+  {
+    "text": "The advantage of this is we can have\na very high-capacity model,",
+    "start": 614.496,
+    "duration": 3.541
+  },
+  {
+    "text": "but it's very efficient,",
+    "start": 618.037,
+    "duration": 1.25
+  },
+  {
+    "text": "because we're only calling\nupon the parts that we need",
+    "start": 619.329,
+    "duration": 2.583
+  },
+  {
+    "text": "for any given task.",
+    "start": 621.954,
+    "duration": 1.208
+  },
+  {
+    "text": "So fixing these three things, I think,",
+    "start": 623.162,
+    "duration": 2.0
+  },
+  {
+    "text": "will lead to a more powerful AI system:",
+    "start": 625.162,
+    "duration": 2.209
+  },
+  {
+    "text": "instead of thousands of separate models,",
+    "start": 627.412,
+    "duration": 2.0
+  },
+  {
+    "text": "train a handful of general-purpose models",
+    "start": 629.412,
+    "duration": 2.0
+  },
+  {
+    "text": "that can do thousands\nor millions of things.",
+    "start": 631.454,
+    "duration": 2.083
+  },
+  {
+    "text": "Instead of dealing with single modalities,",
+    "start": 633.579,
+    "duration": 2.042
+  },
+  {
+    "text": "deal with all modalities,",
+    "start": 635.662,
+    "duration": 1.334
+  },
+  {
+    "text": "and be able to fuse them together.",
+    "start": 636.996,
+    "duration": 1.708
+  },
+  {
+    "text": "And instead of dense models,\nuse sparse, high-capacity models,",
+    "start": 638.746,
+    "duration": 3.458
+  },
+  {
+    "text": "where we call upon the relevant\nbits as we need them.",
+    "start": 642.246,
+    "duration": 2.958
+  },
+  {
+    "text": "We've been building a system\nthat enables these kinds of approaches,",
+    "start": 645.246,
+    "duration": 3.416
+  },
+  {
+    "text": "and we’ve been calling\nthe system “Pathways.”",
+    "start": 648.704,
+    "duration": 2.542
+  },
+  {
+    "text": "So the idea is this model\nwill be able to do",
+    "start": 651.287,
+    "duration": 3.084
+  },
+  {
+    "text": "thousands or millions of different tasks,",
+    "start": 654.412,
+    "duration": 2.084
+  },
+  {
+    "text": "and then, we can incrementally\nadd new tasks,",
+    "start": 656.537,
+    "duration": 2.25
+  },
+  {
+    "text": "and it can deal\nwith all modalities at once,",
+    "start": 658.787,
+    "duration": 2.125
+  },
+  {
+    "text": "and then incrementally learn\nnew tasks as needed",
+    "start": 660.954,
+    "duration": 2.958
+  },
+  {
+    "text": "and call upon the relevant\nbits of the model",
+    "start": 663.954,
+    "duration": 2.083
+  },
+  {
+    "text": "for different examples or tasks.",
+    "start": 666.037,
+    "duration": 1.709
+  },
+  {
+    "text": "And we're pretty excited about this,",
+    "start": 667.787,
+    "duration": 1.75
+  },
+  {
+    "text": "we think this is going\nto be a step forward",
+    "start": 669.537,
+    "duration": 2.042
+  },
+  {
+    "text": "in how we build AI systems.",
+    "start": 671.621,
+    "duration": 1.333
+  },
+  {
+    "text": "But I also wanted\nto touch on responsible AI.",
+    "start": 672.954,
+    "duration": 3.708
+  },
+  {
+    "text": "We clearly need to make sure\nthat this vision of powerful AI systems",
+    "start": 676.662,
+    "duration": 4.875
+  },
+  {
+    "text": "benefits everyone.",
+    "start": 681.579,
+    "duration": 1.167
+  },
+  {
+    "text": "These kinds of models raise\nimportant new questions",
+    "start": 683.496,
+    "duration": 2.458
+  },
+  {
+    "text": "about how do we build them with fairness,",
+    "start": 685.954,
+    "duration": 2.458
+  },
+  {
+    "text": "interpretability, privacy and security,",
+    "start": 688.454,
+    "duration": 3.208
+  },
+  {
+    "text": "for all users in mind.",
+    "start": 691.662,
+    "duration": 1.459
+  },
+  {
+    "text": "For example, if we're going\nto train these models",
+    "start": 693.621,
+    "duration": 2.291
+  },
+  {
+    "text": "on thousands or millions of tasks,",
+    "start": 695.954,
+    "duration": 2.125
+  },
+  {
+    "text": "we'll need to be able to train them\non large amounts of data.",
+    "start": 698.079,
+    "duration": 2.875
+  },
+  {
+    "text": "And we need to make sure that data\nis thoughtfully collected",
+    "start": 700.996,
+    "duration": 3.25
+  },
+  {
+    "text": "and is representative of different\ncommunities and situations",
+    "start": 704.287,
+    "duration": 3.667
+  },
+  {
+    "text": "all around the world.",
+    "start": 707.954,
+    "duration": 1.167
+  },
+  {
+    "text": "And data concerns are only\none aspect of responsible AI.",
+    "start": 709.579,
+    "duration": 4.0
+  },
+  {
+    "text": "We have a lot of work to do here.",
+    "start": 713.621,
+    "duration": 1.583
+  },
+  {
+    "text": "So in 2018, Google published\nthis set of AI principles",
+    "start": 715.246,
+    "duration": 2.666
+  },
+  {
+    "text": "by which we think about developing\nthese kinds of technology.",
+    "start": 717.912,
+    "duration": 3.5
+  },
+  {
+    "text": "And these have helped guide us\nin how we do research in this space,",
+    "start": 721.454,
+    "duration": 3.625
+  },
+  {
+    "text": "how we use AI in our products.",
+    "start": 725.121,
+    "duration": 1.833
+  },
+  {
+    "text": "And I think it's a really helpful\nand important framing",
+    "start": 726.996,
+    "duration": 2.75
+  },
+  {
+    "text": "for how to think about these deep\nand complex questions",
+    "start": 729.746,
+    "duration": 2.875
+  },
+  {
+    "text": "about how we should\nbe using AI in society.",
+    "start": 732.621,
+    "duration": 2.833
+  },
+  {
+    "text": "We continue to update these\nas we learn more.",
+    "start": 735.454,
+    "duration": 3.625
+  },
+  {
+    "text": "Many of these kinds of principles\nare active areas of research --",
+    "start": 739.079,
+    "duration": 3.458
+  },
+  {
+    "text": "super important area.",
+    "start": 742.537,
+    "duration": 1.542
+  },
+  {
+    "text": "Moving from single-purpose systems\nthat kind of recognize patterns in data",
+    "start": 744.121,
+    "duration": 4.125
+  },
+  {
+    "text": "to these kinds of general-purpose\nintelligent systems",
+    "start": 748.246,
+    "duration": 2.75
+  },
+  {
+    "text": "that have a deeper\nunderstanding of the world",
+    "start": 751.037,
+    "duration": 2.292
+  },
+  {
+    "text": "will really enable us to tackle",
+    "start": 753.329,
+    "duration": 1.583
+  },
+  {
+    "text": "some of the greatest problems\nhumanity faces.",
+    "start": 754.954,
+    "duration": 2.5
+  },
+  {
+    "text": "For example,",
+    "start": 757.454,
+    "duration": 1.167
+  },
+  {
+    "text": "we’ll be able to diagnose more disease;",
+    "start": 758.662,
+    "duration": 2.375
+  },
+  {
+    "text": "we'll be able to engineer better medicines",
+    "start": 761.079,
+    "duration": 2.0
+  },
+  {
+    "text": "by infusing these models\nwith knowledge of chemistry and physics;",
+    "start": 763.079,
+    "duration": 3.083
+  },
+  {
+    "text": "we'll be able to advance\neducational systems",
+    "start": 766.204,
+    "duration": 2.667
+  },
+  {
+    "text": "by providing more individualized tutoring",
+    "start": 768.871,
+    "duration": 2.041
+  },
+  {
+    "text": "to help people learn\nin new and better ways;",
+    "start": 770.912,
+    "duration": 2.375
+  },
+  {
+    "text": "we’ll be able to tackle\nreally complicated issues,",
+    "start": 773.287,
+    "duration": 2.375
+  },
+  {
+    "text": "like climate change,",
+    "start": 775.704,
+    "duration": 1.208
+  },
+  {
+    "text": "and perhaps engineering\nof clean energy solutions.",
+    "start": 776.954,
+    "duration": 2.792
+  },
+  {
+    "text": "So really, all of these kinds of systems",
+    "start": 779.787,
+    "duration": 2.667
+  },
+  {
+    "text": "are going to be requiring\nthe multidisciplinary expertise",
+    "start": 782.496,
+    "duration": 2.875
+  },
+  {
+    "text": "of people all over the world.",
+    "start": 785.371,
+    "duration": 1.875
+  },
+  {
+    "text": "So connecting AI\nwith whatever field you are in,",
+    "start": 787.287,
+    "duration": 3.542
+  },
+  {
+    "text": "in order to make progress.",
+    "start": 790.829,
+    "duration": 1.75
+  },
+  {
+    "text": "So I've seen a lot\nof advances in computing,",
+    "start": 793.579,
+    "duration": 2.292
+  },
+  {
+    "text": "and how computing, over the past decades,",
+    "start": 795.912,
+    "duration": 2.292
+  },
+  {
+    "text": "has really helped millions of people\nbetter understand the world around them.",
+    "start": 798.204,
+    "duration": 4.167
+  },
+  {
+    "text": "And AI today has the potential\nto help billions of people.",
+    "start": 802.412,
+    "duration": 3.0
+  },
+  {
+    "text": "We truly live in exciting times.",
+    "start": 806.204,
+    "duration": 2.125
+  },
+  {
+    "text": "Thank you.",
+    "start": 808.746,
+    "duration": 1.166
+  },
+  {
+    "text": "(Applause)",
+    "start": 809.912,
+    "duration": 7.0
+  },
+  {
+    "text": "Chris Anderson: Thank you so much.",
+    "start": 819.829,
+    "duration": 1.667
+  },
+  {
+    "text": "I want to follow up on a couple things.",
+    "start": 821.537,
+    "duration": 2.375
+  },
+  {
+    "text": "This is what I heard.",
+    "start": 824.454,
+    "duration": 2.792
+  },
+  {
+    "text": "Most people's traditional picture of AI",
+    "start": 827.287,
+    "duration": 4.125
+  },
+  {
+    "text": "is that computers recognize\na pattern of information,",
+    "start": 831.412,
+    "duration": 3.125
+  },
+  {
+    "text": "and with a bit of machine learning,",
+    "start": 834.579,
+    "duration": 2.125
+  },
+  {
+    "text": "they can get really good at that,\nbetter than humans.",
+    "start": 836.704,
+    "duration": 2.625
+  },
+  {
+    "text": "What you're saying is those patterns",
+    "start": 839.329,
+    "duration": 1.792
+  },
+  {
+    "text": "are no longer the atoms\nthat AI is working with,",
+    "start": 841.121,
+    "duration": 2.875
+  },
+  {
+    "text": "that it's much richer-layered concepts",
+    "start": 844.037,
+    "duration": 2.542
+  },
+  {
+    "text": "that can include all manners\nof types of things",
+    "start": 846.621,
+    "duration": 3.458
+  },
+  {
+    "text": "that go to make up a leopard, for example.",
+    "start": 850.121,
+    "duration": 3.0
+  },
+  {
+    "text": "So what could that lead to?",
+    "start": 853.121,
+    "duration": 2.916
+  },
+  {
+    "text": "Give me an example\nof when that AI is working,",
+    "start": 856.079,
+    "duration": 2.75
+  },
+  {
+    "text": "what do you picture happening in the world",
+    "start": 858.829,
+    "duration": 2.042
+  },
+  {
+    "text": "in the next five or 10 years\nthat excites you?",
+    "start": 860.912,
+    "duration": 2.209
+  },
+  {
+    "text": "Jeff Dean: I think\nthe grand challenge in AI",
+    "start": 863.537,
+    "duration": 2.5
+  },
+  {
+    "text": "is how do you generalize\nfrom a set of tasks",
+    "start": 866.079,
+    "duration": 2.375
+  },
+  {
+    "text": "you already know how to do",
+    "start": 868.496,
+    "duration": 1.416
+  },
+  {
+    "text": "to new tasks,",
+    "start": 869.954,
+    "duration": 1.208
+  },
+  {
+    "text": "as easily and effortlessly as possible.",
+    "start": 871.204,
+    "duration": 2.542
+  },
+  {
+    "text": "And the current approach of training\nseparate models for everything",
+    "start": 873.746,
+    "duration": 3.25
+  },
+  {
+    "text": "means you need lots of data\nabout that particular problem,",
+    "start": 876.996,
+    "duration": 3.166
+  },
+  {
+    "text": "because you're effectively trying\nto learn everything",
+    "start": 880.162,
+    "duration": 2.542
+  },
+  {
+    "text": "about the world\nand that problem, from nothing.",
+    "start": 882.746,
+    "duration": 2.541
+  },
+  {
+    "text": "But if you can build these systems",
+    "start": 885.287,
+    "duration": 1.667
+  },
+  {
+    "text": "that already are infused with how to do\nthousands and millions of tasks,",
+    "start": 886.996,
+    "duration": 4.458
+  },
+  {
+    "text": "then you can effectively\nteach them to do a new thing",
+    "start": 891.496,
+    "duration": 3.791
+  },
+  {
+    "text": "with relatively few examples.",
+    "start": 895.329,
+    "duration": 1.5
+  },
+  {
+    "text": "So I think that's the real hope,",
+    "start": 896.871,
+    "duration": 2.083
+  },
+  {
+    "text": "that you could then have a system\nwhere you just give it five examples",
+    "start": 898.996,
+    "duration": 4.083
+  },
+  {
+    "text": "of something you care about,",
+    "start": 903.121,
+    "duration": 1.541
+  },
+  {
+    "text": "and it learns to do that new task.",
+    "start": 904.704,
+    "duration": 1.917
+  },
+  {
+    "text": "CA: You can do a form\nof self-supervised learning",
+    "start": 906.662,
+    "duration": 2.375
+  },
+  {
+    "text": "that is based on remarkably\nlittle seeding.",
+    "start": 909.079,
+    "duration": 2.542
+  },
+  {
+    "text": "JD: Yeah, as opposed to needing\n10,000 or 100,000 examples",
+    "start": 911.662,
+    "duration": 2.875
+  },
+  {
+    "text": "to figure everything in the world out.",
+    "start": 914.579,
+    "duration": 1.833
+  },
+  {
+    "text": "CA: Aren't there kind of terrifying\nunintended consequences",
+    "start": 916.454,
+    "duration": 2.792
+  },
+  {
+    "text": "possible, from that?",
+    "start": 919.287,
+    "duration": 1.334
+  },
+  {
+    "text": "JD: I think it depends\non how you apply these systems.",
+    "start": 920.621,
+    "duration": 2.625
+  },
+  {
+    "text": "It's very clear that AI\ncan be a powerful system for good,",
+    "start": 923.287,
+    "duration": 4.167
+  },
+  {
+    "text": "or if you apply it in ways\nthat are not so great,",
+    "start": 927.496,
+    "duration": 2.333
+  },
+  {
+    "text": "it can be a negative consequence.",
+    "start": 929.871,
+    "duration": 3.375
+  },
+  {
+    "text": "So I think that's why it's important\nto have a set of principles",
+    "start": 933.287,
+    "duration": 3.042
+  },
+  {
+    "text": "by which you look at potential uses of AI",
+    "start": 936.371,
+    "duration": 2.25
+  },
+  {
+    "text": "and really are careful and thoughtful\nabout how you consider applications.",
+    "start": 938.662,
+    "duration": 5.125
+  },
+  {
+    "text": "CA: One of the things\npeople worry most about",
+    "start": 943.787,
+    "duration": 2.209
+  },
+  {
+    "text": "is that, if AI is so good at learning\nfrom the world as it is,",
+    "start": 945.996,
+    "duration": 3.583
+  },
+  {
+    "text": "it's going to carry forward\ninto the future",
+    "start": 949.621,
+    "duration": 2.875
+  },
+  {
+    "text": "aspects of the world as it is\nthat actually aren't right, right now.",
+    "start": 952.537,
+    "duration": 4.375
+  },
+  {
+    "text": "And there's obviously been\na huge controversy about that",
+    "start": 956.954,
+    "duration": 2.708
+  },
+  {
+    "text": "recently at Google.",
+    "start": 959.662,
+    "duration": 2.417
+  },
+  {
+    "text": "Some of those principles\nof AI development,",
+    "start": 962.121,
+    "duration": 3.083
+  },
+  {
+    "text": "you've been challenged that you're not\nactually holding to them.",
+    "start": 965.246,
+    "duration": 4.708
+  },
+  {
+    "text": "Not really interested to hear\nabout comments on a specific case,",
+    "start": 970.329,
+    "duration": 3.25
+  },
+  {
+    "text": "but ... are you really committed?",
+    "start": 973.621,
+    "duration": 2.708
+  },
+  {
+    "text": "How do we know that you are\ncommitted to these principles?",
+    "start": 976.329,
+    "duration": 2.75
+  },
+  {
+    "text": "Is that just PR, or is that real,\nat the heart of your day-to-day?",
+    "start": 979.079,
+    "duration": 4.417
+  },
+  {
+    "text": "JD: No, that is absolutely real.",
+    "start": 983.496,
+    "duration": 1.541
+  },
+  {
+    "text": "Like, we have literally hundreds of people",
+    "start": 985.079,
+    "duration": 2.125
+  },
+  {
+    "text": "working on many of these\nrelated research issues,",
+    "start": 987.204,
+    "duration": 2.333
+  },
+  {
+    "text": "because many of those\nthings are research topics",
+    "start": 989.537,
+    "duration": 2.417
+  },
+  {
+    "text": "in their own right.",
+    "start": 991.996,
+    "duration": 1.166
+  },
+  {
+    "text": "How do you take data from the real world,",
+    "start": 993.162,
+    "duration": 2.25
+  },
+  {
+    "text": "that is the world as it is,\nnot as we would like it to be,",
+    "start": 995.412,
+    "duration": 5.0
+  },
+  {
+    "text": "and how do you then use that\nto train a machine-learning model",
+    "start": 1000.412,
+    "duration": 3.209
+  },
+  {
+    "text": "and adapt the data bit of the scene",
+    "start": 1003.621,
+    "duration": 2.5
+  },
+  {
+    "text": "or augment the data with additional data",
+    "start": 1006.162,
+    "duration": 2.5
+  },
+  {
+    "text": "so that it can better reflect\nthe values we want the system to have,",
+    "start": 1008.704,
+    "duration": 3.292
+  },
+  {
+    "text": "not the values that it sees in the world?",
+    "start": 1011.996,
+    "duration": 2.208
+  },
+  {
+    "text": "CA: But you work for Google,",
+    "start": 1014.204,
+    "duration": 2.417
+  },
+  {
+    "text": "Google is funding the research.",
+    "start": 1016.662,
+    "duration": 2.084
+  },
+  {
+    "text": "How do we know that the main values\nthat this AI will build",
+    "start": 1019.371,
+    "duration": 4.458
+  },
+  {
+    "text": "are for the world,",
+    "start": 1023.871,
+    "duration": 1.208
+  },
+  {
+    "text": "and not, for example, to maximize\nthe profitability of an ad model?",
+    "start": 1025.121,
+    "duration": 4.916
+  },
+  {
+    "text": "When you know everything\nthere is to know about human attention,",
+    "start": 1030.037,
+    "duration": 3.084
+  },
+  {
+    "text": "you're going to know so much",
+    "start": 1033.121,
+    "duration": 1.5
+  },
+  {
+    "text": "about the little wriggly,\nweird, dark parts of us.",
+    "start": 1034.621,
+    "duration": 2.458
+  },
+  {
+    "text": "In your group, are there rules\nabout how you hold off,",
+    "start": 1037.121,
+    "duration": 6.167
+  },
+  {
+    "text": "church-state wall\nbetween a sort of commercial push,",
+    "start": 1043.329,
+    "duration": 3.75
+  },
+  {
+    "text": "\"You must do it for this purpose,\"",
+    "start": 1047.079,
+    "duration": 2.292
+  },
+  {
+    "text": "so that you can inspire\nyour engineers and so forth,",
+    "start": 1049.413,
+    "duration": 2.458
+  },
+  {
+    "text": "to do this for the world, for all of us.",
+    "start": 1051.913,
+    "duration": 1.916
+  },
+  {
+    "text": "JD: Yeah, our research group\ndoes collaborate",
+    "start": 1053.871,
+    "duration": 2.125
+  },
+  {
+    "text": "with a number of groups across Google,",
+    "start": 1056.038,
+    "duration": 1.833
+  },
+  {
+    "text": "including the Ads group,\nthe Search group, the Maps group,",
+    "start": 1057.913,
+    "duration": 2.75
+  },
+  {
+    "text": "so we do have some collaboration,\nbut also a lot of basic research",
+    "start": 1060.704,
+    "duration": 3.209
+  },
+  {
+    "text": "that we publish openly.",
+    "start": 1063.954,
+    "duration": 1.542
+  },
+  {
+    "text": "We've published more\nthan 1,000 papers last year",
+    "start": 1065.538,
+    "duration": 3.333
+  },
+  {
+    "text": "in different topics,\nincluding the ones you discussed,",
+    "start": 1068.871,
+    "duration": 2.583
+  },
+  {
+    "text": "about fairness, interpretability\nof the machine-learning models,",
+    "start": 1071.454,
+    "duration": 3.042
+  },
+  {
+    "text": "things that are super important,",
+    "start": 1074.538,
+    "duration": 1.791
+  },
+  {
+    "text": "and we need to advance\nthe state of the art in this",
+    "start": 1076.371,
+    "duration": 2.417
+  },
+  {
+    "text": "in order to continue to make progress",
+    "start": 1078.829,
+    "duration": 2.209
+  },
+  {
+    "text": "to make sure these models\nare developed safely and responsibly.",
+    "start": 1081.079,
+    "duration": 3.292
+  },
+  {
+    "text": "CA: It feels like we're at a time\nwhen people are concerned",
+    "start": 1084.788,
+    "duration": 3.041
+  },
+  {
+    "text": "about the power of the big tech companies,",
+    "start": 1087.829,
+    "duration": 2.042
+  },
+  {
+    "text": "and it's almost, if there was ever\na moment to really show the world",
+    "start": 1089.871,
+    "duration": 3.75
+  },
+  {
+    "text": "that this is being done\nto make a better future,",
+    "start": 1093.663,
+    "duration": 3.333
+  },
+  {
+    "text": "that is actually key to Google's future,",
+    "start": 1097.038,
+    "duration": 2.791
+  },
+  {
+    "text": "as well as all of ours.",
+    "start": 1099.871,
+    "duration": 1.75
+  },
+  {
+    "text": "JD: Indeed.",
+    "start": 1101.663,
+    "duration": 1.166
+  },
+  {
+    "text": "CA: It's very good to hear you\ncome and say that, Jeff.",
+    "start": 1102.871,
+    "duration": 2.583
+  },
+  {
+    "text": "Thank you so much for coming here to TED.",
+    "start": 1105.454,
+    "duration": 2.042
+  },
+  {
+    "text": "JD: Thank you.",
+    "start": 1107.538,
+    "duration": 1.166
+  },
+  {
+    "text": "(Applause)",
+    "start": 1108.704,
+    "duration": 1.167
+  }
+]

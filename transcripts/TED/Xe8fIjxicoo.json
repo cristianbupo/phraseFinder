@@ -1,0 +1,4897 @@
+[
+  {
+    "text": "Transcriber: Ivana Korom\nReviewer: Krystian Aparta",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Whitney Pennington Rodgers:\nHello and welcome to everyone",
+    "start": 12.722,
+    "duration": 2.731
+  },
+  {
+    "text": "joining us from around the globe.",
+    "start": 15.477,
+    "duration": 1.578
+  },
+  {
+    "text": "Thank you for being part of day two\nof our special series TED Connects.",
+    "start": 17.079,
+    "duration": 3.35
+  },
+  {
+    "text": "This week, we're bringing you interviews\nfrom some of the world's greatest minds",
+    "start": 20.453,
+    "duration": 3.941
+  },
+  {
+    "text": "to offer tools for us to navigate\nthrough and thrive",
+    "start": 24.418,
+    "duration": 2.571
+  },
+  {
+    "text": "in these really uncertain times.",
+    "start": 27.013,
+    "duration": 2.095
+  },
+  {
+    "text": "I'm Whitney Pennington Rogers,\nTED's current affairs curator,",
+    "start": 29.132,
+    "duration": 3.047
+  },
+  {
+    "text": "and I'll be one of your hosts\nfor today's event.",
+    "start": 32.203,
+    "duration": 2.628
+  },
+  {
+    "text": "Yesterday, we kicked off this series",
+    "start": 34.855,
+    "duration": 1.73
+  },
+  {
+    "text": "with an interview from acclaimed\npsychologist Susan David,",
+    "start": 36.609,
+    "duration": 3.159
+  },
+  {
+    "text": "who offered us some tips\non how to really be our best selves",
+    "start": 39.792,
+    "duration": 2.962
+  },
+  {
+    "text": "in these trying times.",
+    "start": 42.778,
+    "duration": 1.833
+  },
+  {
+    "text": "And we're going to switch gears\na little bit today",
+    "start": 45.31,
+    "duration": 2.344
+  },
+  {
+    "text": "from thinking about\nour own personal mental health",
+    "start": 47.678,
+    "duration": 2.806
+  },
+  {
+    "text": "to the state of our global\npublic health systems.",
+    "start": 50.508,
+    "duration": 2.791
+  },
+  {
+    "text": "Chris Anderson: Thank you.",
+    "start": 53.323,
+    "duration": 1.667
+  },
+  {
+    "text": "I guess we have a pretty\nexciting guest to introduce.",
+    "start": 55.014,
+    "duration": 4.103
+  },
+  {
+    "text": "On the other side of the country,\nlet's bring in Bill Gates.",
+    "start": 59.141,
+    "duration": 3.394
+  },
+  {
+    "text": "Bill, they say\nthe better-known people are,",
+    "start": 63.336,
+    "duration": 3.15
+  },
+  {
+    "text": "the less you have to intro them.",
+    "start": 66.51,
+    "duration": 2.258
+  },
+  {
+    "text": "It's great to have you here.",
+    "start": 68.792,
+    "duration": 1.354
+  },
+  {
+    "text": "How are you doing?",
+    "start": 70.17,
+    "duration": 1.844
+  },
+  {
+    "text": "Bill Gates: I think this is\nan unprecedented,",
+    "start": 73.768,
+    "duration": 3.643
+  },
+  {
+    "text": "really disconcerting time for everyone,",
+    "start": 77.435,
+    "duration": 2.568
+  },
+  {
+    "text": "with things being shut down,",
+    "start": 80.027,
+    "duration": 2.019
+  },
+  {
+    "text": "not knowing exactly\nhow long it's going to last,",
+    "start": 82.07,
+    "duration": 3.149
+  },
+  {
+    "text": "worrying about the health\nof all the people we care about.",
+    "start": 85.243,
+    "duration": 2.934
+  },
+  {
+    "text": "You know, I'm lucky\nthat I get to connect up",
+    "start": 89.974,
+    "duration": 2.937
+  },
+  {
+    "text": "with video conferencing using Teams a lot,",
+    "start": 92.935,
+    "duration": 3.126
+  },
+  {
+    "text": "so the Foundation is stepping up",
+    "start": 96.085,
+    "duration": 3.148
+  },
+  {
+    "text": "and there's a lot of great people\ntrying to help with this crisis.",
+    "start": 99.257,
+    "duration": 5.344
+  },
+  {
+    "text": "But it's scary for everyone.",
+    "start": 104.625,
+    "duration": 1.867
+  },
+  {
+    "text": "CA: Are you basically stuck at home\nlike many of us watching?",
+    "start": 107.03,
+    "duration": 3.036
+  },
+  {
+    "text": "BG: Yeah, almost all my meetings\nare using Teams now,",
+    "start": 111.41,
+    "duration": 4.309
+  },
+  {
+    "text": "I'm getting used to that.",
+    "start": 115.743,
+    "duration": 2.097
+  },
+  {
+    "text": "You know, I've gone days\nwithout seeing any coworkers.",
+    "start": 118.173,
+    "duration": 5.961
+  },
+  {
+    "text": "CA: Let's start here, Bill.",
+    "start": 124.585,
+    "duration": 1.325
+  },
+  {
+    "text": "Five years ago, you stood on the TED stage",
+    "start": 125.934,
+    "duration": 4.342
+  },
+  {
+    "text": "and you gave this chilling warning",
+    "start": 130.3,
+    "duration": 2.595
+  },
+  {
+    "text": "that the world was in danger,\nat some point, of a major pandemic.",
+    "start": 132.919,
+    "duration": 5.023
+  },
+  {
+    "text": "People watching that talk now,",
+    "start": 138.695,
+    "duration": 1.7
+  },
+  {
+    "text": "their hair stands up\non the back of their neck --",
+    "start": 140.419,
+    "duration": 2.321
+  },
+  {
+    "text": "it is exactly what we're living through.",
+    "start": 142.764,
+    "duration": 2.075
+  },
+  {
+    "text": "What happened, did people\nlisten to that warning at all?",
+    "start": 144.863,
+    "duration": 3.699
+  },
+  {
+    "text": "BG: Basically, no.",
+    "start": 149.903,
+    "duration": 1.2
+  },
+  {
+    "text": "You know, I was hopeful\nthat with the Zika and Ebola",
+    "start": 152.815,
+    "duration": 5.997
+  },
+  {
+    "text": "and SARS and MERS,",
+    "start": 158.836,
+    "duration": 1.595
+  },
+  {
+    "text": "they all reminded us",
+    "start": 160.455,
+    "duration": 2.472
+  },
+  {
+    "text": "that, particularly in a world\nwhere people move around so much,",
+    "start": 162.951,
+    "duration": 3.671
+  },
+  {
+    "text": "you can get huge devastation.",
+    "start": 166.646,
+    "duration": 3.246
+  },
+  {
+    "text": "And so the talk was to say,",
+    "start": 170.9,
+    "duration": 2.96
+  },
+  {
+    "text": "hey, we're not ready\nfor the next pandemic,",
+    "start": 173.884,
+    "duration": 2.326
+  },
+  {
+    "text": "but in fact, there's advances in science\nthat if we put resources against them,",
+    "start": 176.234,
+    "duration": 6.113
+  },
+  {
+    "text": "we can be ready.",
+    "start": 182.371,
+    "duration": 1.507
+  },
+  {
+    "text": "Sadly, very little was done.",
+    "start": 184.212,
+    "duration": 2.175
+  },
+  {
+    "text": "There were some things --",
+    "start": 186.411,
+    "duration": 1.231
+  },
+  {
+    "text": "the Coalition for Epidemic\nPreparedness Innovation, CEPI,",
+    "start": 187.666,
+    "duration": 5.633
+  },
+  {
+    "text": "was funded by our foundation,",
+    "start": 193.323,
+    "duration": 3.232
+  },
+  {
+    "text": "Wellcome Trust\nand a number of governments,",
+    "start": 196.579,
+    "duration": 4.474
+  },
+  {
+    "text": "to do some of the platform vaccine work,",
+    "start": 201.077,
+    "duration": 3.999
+  },
+  {
+    "text": "but in the area of diagnostics,\nantibodies, antivirals,",
+    "start": 205.1,
+    "duration": 5.484
+  },
+  {
+    "text": "basically doing the disease games\nthat I talked about,",
+    "start": 210.608,
+    "duration": 2.859
+  },
+  {
+    "text": "where we'd simulate\nwhat needed to be done.",
+    "start": 213.491,
+    "duration": 3.555
+  },
+  {
+    "text": "We hardly did anything,",
+    "start": 217.443,
+    "duration": 1.582
+  },
+  {
+    "text": "and so now here we have\na respiratory virus",
+    "start": 219.049,
+    "duration": 4.307
+  },
+  {
+    "text": "that is, sadly, fulfilling some\nof the more negative predictions I made.",
+    "start": 223.38,
+    "duration": 6.132
+  },
+  {
+    "text": "CA: Last month, you said\nthat this might be the big one.",
+    "start": 230.338,
+    "duration": 3.349
+  },
+  {
+    "text": "You wrote that this could be\nthe sort of once-in-a-century pandemic",
+    "start": 233.711,
+    "duration": 6.511
+  },
+  {
+    "text": "that people had been fearing.",
+    "start": 240.246,
+    "duration": 1.934
+  },
+  {
+    "text": "Is that how you think of it still?",
+    "start": 242.511,
+    "duration": 2.267
+  },
+  {
+    "text": "BG: Well, it's awful to say this,",
+    "start": 245.127,
+    "duration": 2.724
+  },
+  {
+    "text": "but we could have a respiratory virus\nwhose case fatality rate was even higher,",
+    "start": 247.875,
+    "duration": 6.456
+  },
+  {
+    "text": "if this was something like smallpox,",
+    "start": 254.355,
+    "duration": 2.301
+  },
+  {
+    "text": "you know, that kills 30 percent of people.",
+    "start": 256.68,
+    "duration": 2.009
+  },
+  {
+    "text": "So this is horrific.",
+    "start": 258.713,
+    "duration": 2.087
+  },
+  {
+    "text": "But in fact,",
+    "start": 261.173,
+    "duration": 2.592
+  },
+  {
+    "text": "most people, even who get\nthe COVID disease,",
+    "start": 263.789,
+    "duration": 4.209
+  },
+  {
+    "text": "are able to survive.",
+    "start": 268.022,
+    "duration": 1.896
+  },
+  {
+    "text": "So it's quite infectious,",
+    "start": 269.942,
+    "duration": 2.961
+  },
+  {
+    "text": "way more infectious\nthan MERS or SARS were.",
+    "start": 272.927,
+    "duration": 3.877
+  },
+  {
+    "text": "It's not as fatal as they were.",
+    "start": 277.632,
+    "duration": 2.229
+  },
+  {
+    "text": "And yet, the disruption we're seeing,\nin order to knock it down,",
+    "start": 280.838,
+    "duration": 5.666
+  },
+  {
+    "text": "is really completely unprecedented.",
+    "start": 286.528,
+    "duration": 3.496
+  },
+  {
+    "text": "So this is going global,",
+    "start": 290.048,
+    "duration": 4.058
+  },
+  {
+    "text": "that was --",
+    "start": 294.931,
+    "duration": 1.222
+  },
+  {
+    "text": "it's respiratory,",
+    "start": 296.177,
+    "duration": 1.913
+  },
+  {
+    "text": "that was the great fear.",
+    "start": 298.114,
+    "duration": 1.841
+  },
+  {
+    "text": "How many people end up dying --",
+    "start": 301.067,
+    "duration": 2.756
+  },
+  {
+    "text": "hopefully, if we do the right things,\nit won't be a gigantic number.",
+    "start": 303.847,
+    "duration": 4.27
+  },
+  {
+    "text": "So, you know, we should end up\nnot having the 1918 flu situation.",
+    "start": 308.141,
+    "duration": 6.792
+  },
+  {
+    "text": "We should be able to do\na lot better than that.",
+    "start": 315.402,
+    "duration": 2.288
+  },
+  {
+    "text": "CA: And that's because of actions\nthat we would take.",
+    "start": 319.28,
+    "duration": 2.82
+  },
+  {
+    "text": "I mean, left without the right actions,",
+    "start": 322.124,
+    "duration": 3.802
+  },
+  {
+    "text": "the prospects are pretty deadly.",
+    "start": 325.95,
+    "duration": 1.963
+  },
+  {
+    "text": "If we knew what we knew in 1919,",
+    "start": 327.937,
+    "duration": 3.929
+  },
+  {
+    "text": "this thing could take out\ntens of millions of people",
+    "start": 331.89,
+    "duration": 2.449
+  },
+  {
+    "text": "around the world.",
+    "start": 334.363,
+    "duration": 1.15
+  },
+  {
+    "text": "You said --",
+    "start": 336.371,
+    "duration": 1.182
+  },
+  {
+    "text": "is the key thing here that it's got\nthis sort of a strange combination",
+    "start": 337.577,
+    "duration": 4.178
+  },
+  {
+    "text": "of being certainly\nmore dangerous than flu --",
+    "start": 341.779,
+    "duration": 2.6
+  },
+  {
+    "text": "not as dangerous as something\nlike Ebola or SARS,",
+    "start": 344.403,
+    "duration": 2.896
+  },
+  {
+    "text": "but more dangerous than flu\nby a factor, but infectious,",
+    "start": 347.323,
+    "duration": 4.786
+  },
+  {
+    "text": "and also infectious\nbefore symptoms have started,",
+    "start": 352.133,
+    "duration": 4.055
+  },
+  {
+    "text": "is that part of why\nit's been really hard to respond to?",
+    "start": 356.212,
+    "duration": 4.158
+  },
+  {
+    "text": "BG: Right.",
+    "start": 361.3,
+    "duration": 1.15
+  },
+  {
+    "text": "Ebola,",
+    "start": 363.062,
+    "duration": 2.087
+  },
+  {
+    "text": "you're actually flat on your back\nbefore you're very infectious.",
+    "start": 365.173,
+    "duration": 4.0
+  },
+  {
+    "text": "So you're not at church\nor in a bus or at a store.",
+    "start": 369.197,
+    "duration": 5.437
+  },
+  {
+    "text": "With most respiratory viruses\nlike the flu and COVID,",
+    "start": 375.546,
+    "duration": 6.603
+  },
+  {
+    "text": "at first you only feel a little bit\nof a fever and a little bit sick,",
+    "start": 382.173,
+    "duration": 3.714
+  },
+  {
+    "text": "and so there's the possibility\nyou're going about your normal activities",
+    "start": 385.911,
+    "duration": 6.316
+  },
+  {
+    "text": "and infecting other people.",
+    "start": 392.251,
+    "duration": 2.42
+  },
+  {
+    "text": "And so human-to-human\ntransmissible respiratory viruses",
+    "start": 395.083,
+    "duration": 4.017
+  },
+  {
+    "text": "that in the early stage\naren't stopping you from doing things,",
+    "start": 399.124,
+    "duration": 6.85
+  },
+  {
+    "text": "that's kind of a worst case,",
+    "start": 406.3,
+    "duration": 1.507
+  },
+  {
+    "text": "and that's where, you know,\nI did a flu simulation in the 2015 talk",
+    "start": 407.831,
+    "duration": 4.937
+  },
+  {
+    "text": "and showed how quickly it spread.",
+    "start": 412.792,
+    "duration": 2.166
+  },
+  {
+    "text": "You know, versus 1918,",
+    "start": 414.982,
+    "duration": 2.182
+  },
+  {
+    "text": "people move around a lot more now\nthan they used to,",
+    "start": 417.188,
+    "duration": 4.429
+  },
+  {
+    "text": "and so that works against us.",
+    "start": 421.641,
+    "duration": 1.682
+  },
+  {
+    "text": "Now the medical system\nthat steps up to treat people",
+    "start": 423.347,
+    "duration": 3.181
+  },
+  {
+    "text": "is also far, far better.",
+    "start": 426.552,
+    "duration": 1.501
+  },
+  {
+    "text": "CA: But when was it clear to you",
+    "start": 428.077,
+    "duration": 1.952
+  },
+  {
+    "text": "that unless we acted,\nthis could be a really deadly pandemic?",
+    "start": 430.053,
+    "duration": 5.989
+  },
+  {
+    "text": "BG: Well, in January it was discussed",
+    "start": 437.235,
+    "duration": 4.288
+  },
+  {
+    "text": "that there was human-to-human\ntransmission taking place.",
+    "start": 441.547,
+    "duration": 3.331
+  },
+  {
+    "text": "And so the alarm bells were ringing",
+    "start": 446.146,
+    "duration": 6.016
+  },
+  {
+    "text": "that this fits the very scary pattern",
+    "start": 453.837,
+    "duration": 3.717
+  },
+  {
+    "text": "that it will be very difficult to contain.",
+    "start": 457.578,
+    "duration": 4.055
+  },
+  {
+    "text": "And on January 23,",
+    "start": 462.189,
+    "duration": 3.294
+  },
+  {
+    "text": "China did their equivalent\nof the shutdown.",
+    "start": 465.507,
+    "duration": 3.554
+  },
+  {
+    "text": "Did it in a fairly extreme form.",
+    "start": 469.577,
+    "duration": 2.222
+  },
+  {
+    "text": "The very good news\nis that they were able to reduce",
+    "start": 472.506,
+    "duration": 4.182
+  },
+  {
+    "text": "the infection rates dramatically",
+    "start": 476.712,
+    "duration": 3.786
+  },
+  {
+    "text": "because of those actions.",
+    "start": 480.522,
+    "duration": 1.979
+  },
+  {
+    "text": "But it's January where everybody\nshould have been on notice --",
+    "start": 482.879,
+    "duration": 5.0
+  },
+  {
+    "text": "let's get our act together with testing,",
+    "start": 487.903,
+    "duration": 2.698
+  },
+  {
+    "text": "let's get going on\ntherapeutics and vaccines,",
+    "start": 490.625,
+    "duration": 4.293
+  },
+  {
+    "text": "we've got to get organized",
+    "start": 494.942,
+    "duration": 1.432
+  },
+  {
+    "text": "because we have this novel\nrespiratory virus",
+    "start": 496.398,
+    "duration": 2.893
+  },
+  {
+    "text": "whose infectiousness and fatality\nput it in that superscary range.",
+    "start": 499.315,
+    "duration": 5.825
+  },
+  {
+    "text": "CA: And so, what did happen?",
+    "start": 506.053,
+    "duration": 1.881
+  },
+  {
+    "text": "Because it's such a mystery to me",
+    "start": 507.958,
+    "duration": 1.648
+  },
+  {
+    "text": "about the \"lost month\" of preparations",
+    "start": 509.63,
+    "duration": 4.29
+  },
+  {
+    "text": "in many countries and certainly in the US,",
+    "start": 513.944,
+    "duration": 2.9
+  },
+  {
+    "text": "where we are.",
+    "start": 516.868,
+    "duration": 1.9
+  },
+  {
+    "text": "Were you on the phone to people",
+    "start": 518.792,
+    "duration": 2.793
+  },
+  {
+    "text": "during early February,\nlate January, early February,",
+    "start": 521.609,
+    "duration": 3.413
+  },
+  {
+    "text": "saying, \"Guys, what's going on,",
+    "start": 525.046,
+    "duration": 3.484
+  },
+  {
+    "text": "this is a really big deal,\nwhat are we doing?\"",
+    "start": 528.554,
+    "duration": 2.15
+  },
+  {
+    "text": "What was happening behind the scenes\nduring that period?",
+    "start": 530.728,
+    "duration": 3.087
+  },
+  {
+    "text": "BG: Well, you'd like to have\ngovernment money show up",
+    "start": 535.006,
+    "duration": 2.666
+  },
+  {
+    "text": "for the key activities.",
+    "start": 537.696,
+    "duration": 1.222
+  },
+  {
+    "text": "We put out 100 million,",
+    "start": 538.942,
+    "duration": 3.276
+  },
+  {
+    "text": "we created the Therapeutics Accelerator,",
+    "start": 542.242,
+    "duration": 3.065
+  },
+  {
+    "text": "there's the period between\nwhen we realized it was transmitting",
+    "start": 545.331,
+    "duration": 4.532
+  },
+  {
+    "text": "and now, where we should have done more.",
+    "start": 549.887,
+    "duration": 2.444
+  },
+  {
+    "text": "I think the most important thing\nto discuss today",
+    "start": 552.355,
+    "duration": 3.333
+  },
+  {
+    "text": "is that in the area of testing,",
+    "start": 555.712,
+    "duration": 3.691
+  },
+  {
+    "text": "we're still not creating that capacity",
+    "start": 559.427,
+    "duration": 4.841
+  },
+  {
+    "text": "and applying it\nto the people most in need.",
+    "start": 564.292,
+    "duration": 2.934
+  },
+  {
+    "text": "And so we have health workers\nwho are symptomatic,",
+    "start": 567.546,
+    "duration": 3.46
+  },
+  {
+    "text": "who can't get a test",
+    "start": 571.03,
+    "duration": 2.221
+  },
+  {
+    "text": "and so they don't know\nshould they go in or not go in,",
+    "start": 573.275,
+    "duration": 3.024
+  },
+  {
+    "text": "and yet we have lots of tests",
+    "start": 576.323,
+    "duration": 1.437
+  },
+  {
+    "text": "being given to people\nwho aren't symptomatic.",
+    "start": 577.784,
+    "duration": 2.68
+  },
+  {
+    "text": "So the testing thing to me,",
+    "start": 580.488,
+    "duration": 2.28
+  },
+  {
+    "text": "it's got to be organized,\nit's got to be prioritized,",
+    "start": 582.792,
+    "duration": 4.922
+  },
+  {
+    "text": "that is super, super urgent.",
+    "start": 587.738,
+    "duration": 2.302
+  },
+  {
+    "text": "The second thing is the isolation",
+    "start": 590.683,
+    "duration": 2.007
+  },
+  {
+    "text": "that, you know, various parts,\njust focusing on the US,",
+    "start": 592.714,
+    "duration": 3.927
+  },
+  {
+    "text": "some parts are doing that\nin a fairly strong way",
+    "start": 596.665,
+    "duration": 3.412
+  },
+  {
+    "text": "and other parts not yet,",
+    "start": 600.101,
+    "duration": 1.555
+  },
+  {
+    "text": "and it's very hard to do,",
+    "start": 601.68,
+    "duration": 2.23
+  },
+  {
+    "text": "it's tough on people,",
+    "start": 603.934,
+    "duration": 1.25
+  },
+  {
+    "text": "it's disastrous for the economy.",
+    "start": 605.208,
+    "duration": 3.475
+  },
+  {
+    "text": "But the sooner you do it in a tough way,",
+    "start": 609.903,
+    "duration": 4.544
+  },
+  {
+    "text": "the sooner you can undo it\nand go back to normal.",
+    "start": 614.471,
+    "duration": 4.852
+  },
+  {
+    "text": "CA: So we'll come\nto the isolation part in a minute,",
+    "start": 621.533,
+    "duration": 2.512
+  },
+  {
+    "text": "but just sticking with the testing thing,",
+    "start": 624.069,
+    "duration": 1.984
+  },
+  {
+    "text": "I'm just so confused as to why,\nwith more than a month's notice --",
+    "start": 626.077,
+    "duration": 5.31
+  },
+  {
+    "text": "I mean, there are so many smart\nepidemiologists in the US, for example,",
+    "start": 631.411,
+    "duration": 4.286
+  },
+  {
+    "text": "you plug numbers\nabout infectiousness and fatality",
+    "start": 635.721,
+    "duration": 2.901
+  },
+  {
+    "text": "into any simulation",
+    "start": 638.646,
+    "duration": 1.218
+  },
+  {
+    "text": "and you see that if you don't do anything,",
+    "start": 639.888,
+    "duration": 2.015
+  },
+  {
+    "text": "millions of people will die.",
+    "start": 641.927,
+    "duration": 1.69
+  },
+  {
+    "text": "And there's a month.",
+    "start": 643.641,
+    "duration": 1.174
+  },
+  {
+    "text": "So what's your explanation,",
+    "start": 644.839,
+    "duration": 3.253
+  },
+  {
+    "text": "what do you think happened here\nas to why there was almost no --",
+    "start": 648.116,
+    "duration": 4.182
+  },
+  {
+    "text": "a month later,",
+    "start": 652.322,
+    "duration": 1.168
+  },
+  {
+    "text": "there was no viable test in the US.",
+    "start": 653.514,
+    "duration": 2.619
+  },
+  {
+    "text": "Was this just government complexity,",
+    "start": 656.157,
+    "duration": 3.042
+  },
+  {
+    "text": "too many chefs in the kitchen,",
+    "start": 659.223,
+    "duration": 2.212
+  },
+  {
+    "text": "what on earth happened here?",
+    "start": 661.459,
+    "duration": 2.255
+  },
+  {
+    "text": "BG: Well, we certainly didn't take\nadvantage of the month of February.",
+    "start": 664.595,
+    "duration": 4.714
+  },
+  {
+    "text": "The good news is that the actual process,",
+    "start": 669.333,
+    "duration": 3.56
+  },
+  {
+    "text": "the PCR machines,",
+    "start": 672.917,
+    "duration": 3.954
+  },
+  {
+    "text": "we have a lot in the United States.",
+    "start": 676.895,
+    "duration": 2.333
+  },
+  {
+    "text": "And so there's models like South Korea,",
+    "start": 679.736,
+    "duration": 3.142
+  },
+  {
+    "text": "who took advantage of February,",
+    "start": 682.902,
+    "duration": 2.262
+  },
+  {
+    "text": "built up the testing capacity,",
+    "start": 685.188,
+    "duration": 2.205
+  },
+  {
+    "text": "and they were able to contact-trace\nand their infections have gone down,",
+    "start": 687.417,
+    "duration": 4.727
+  },
+  {
+    "text": "even without the type of shutdown",
+    "start": 692.168,
+    "duration": 2.663
+  },
+  {
+    "text": "that, because we're late,\nwe're having to do.",
+    "start": 694.855,
+    "duration": 2.96
+  },
+  {
+    "text": "One thing that is good news just this week",
+    "start": 698.141,
+    "duration": 3.503
+  },
+  {
+    "text": "is that people had thought\nto do this test,",
+    "start": 701.668,
+    "duration": 4.441
+  },
+  {
+    "text": "that you had to have a nurse or doctor\nshove a swab way up,",
+    "start": 706.133,
+    "duration": 4.516
+  },
+  {
+    "text": "all the way to the back of your throat,",
+    "start": 710.673,
+    "duration": 1.904
+  },
+  {
+    "text": "which hurts a lot,",
+    "start": 712.601,
+    "duration": 1.215
+  },
+  {
+    "text": "but also, you're going to cough",
+    "start": 713.84,
+    "duration": 2.415
+  },
+  {
+    "text": "and potentially spread the disease\nto that health care worker.",
+    "start": 716.279,
+    "duration": 3.354
+  },
+  {
+    "text": "So they have to have protective equipment",
+    "start": 719.657,
+    "duration": 2.0
+  },
+  {
+    "text": "and change that.",
+    "start": 721.681,
+    "duration": 1.206
+  },
+  {
+    "text": "We sent data to the FDA this weekend,",
+    "start": 722.911,
+    "duration": 4.341
+  },
+  {
+    "text": "showing that just\nan individual, by themselves,",
+    "start": 727.276,
+    "duration": 3.696
+  },
+  {
+    "text": "swabbing up to the tip of their nose,",
+    "start": 730.996,
+    "duration": 2.333
+  },
+  {
+    "text": "the accuracy of that test",
+    "start": 735.397,
+    "duration": 3.286
+  },
+  {
+    "text": "is essentially the same\nas having a health care worker do it.",
+    "start": 738.707,
+    "duration": 3.627
+  },
+  {
+    "text": "That helps a lot.",
+    "start": 742.358,
+    "duration": 2.114
+  },
+  {
+    "text": "We still have to do other things,",
+    "start": 745.038,
+    "duration": 1.595
+  },
+  {
+    "text": "but that means that you\ndon't have to change protective equipment,",
+    "start": 746.657,
+    "duration": 4.388
+  },
+  {
+    "text": "you just hand the patient that swab,",
+    "start": 751.069,
+    "duration": 2.58
+  },
+  {
+    "text": "they do it, put it in the test tube,",
+    "start": 753.673,
+    "duration": 1.872
+  },
+  {
+    "text": "and if the capacity is right,",
+    "start": 755.569,
+    "duration": 2.889
+  },
+  {
+    "text": "within 24 hours,\nyou should get that result back.",
+    "start": 758.482,
+    "duration": 3.19
+  },
+  {
+    "text": "CA: So how do you see that playing out?",
+    "start": 762.069,
+    "duration": 1.882
+  },
+  {
+    "text": "Are there people going to massively\nscale those tests",
+    "start": 763.975,
+    "duration": 4.825
+  },
+  {
+    "text": "and how will ordinary citizens\nbe able to get hold of them?",
+    "start": 768.824,
+    "duration": 5.317
+  },
+  {
+    "text": "Does it still have to be kind of\nprescribed by a doctor at some point,",
+    "start": 774.165,
+    "duration": 3.303
+  },
+  {
+    "text": "or at some point, will you be able\nto order them off Amazon or something?",
+    "start": 777.492,
+    "duration": 4.45
+  },
+  {
+    "text": "BG: Well, it's pretty chaotic today,\nbecause the government hasn't stepped in",
+    "start": 781.966,
+    "duration": 4.338
+  },
+  {
+    "text": "to make sure the testing capacity\nis both increased",
+    "start": 786.328,
+    "duration": 3.114
+  },
+  {
+    "text": "and it's used for the right cases.",
+    "start": 789.466,
+    "duration": 2.266
+  },
+  {
+    "text": "There will be a website --",
+    "start": 792.151,
+    "duration": 3.085
+  },
+  {
+    "text": "and if the federal\ngovernment doesn't do it,",
+    "start": 795.26,
+    "duration": 2.547
+  },
+  {
+    "text": "a lot of local governments\nwill have to do it --",
+    "start": 797.831,
+    "duration": 2.284
+  },
+  {
+    "text": "that you go to, you give your situation,\nincluding your symptoms,",
+    "start": 800.139,
+    "duration": 3.738
+  },
+  {
+    "text": "you're told, based on your work\nand your symptoms,",
+    "start": 803.901,
+    "duration": 4.111
+  },
+  {
+    "text": "are you a priority.",
+    "start": 808.036,
+    "duration": 1.175
+  },
+  {
+    "text": "If so, you're told where\nthere are kiosks you can go to",
+    "start": 809.235,
+    "duration": 4.58
+  },
+  {
+    "text": "and you'll do the self-swab\nand just hand it over,",
+    "start": 813.839,
+    "duration": 3.239
+  },
+  {
+    "text": "or eventually, we'll send\nthe kits to you at home,",
+    "start": 817.102,
+    "duration": 5.61
+  },
+  {
+    "text": "and then you'll send it back\nand hear that result.",
+    "start": 822.736,
+    "duration": 4.571
+  },
+  {
+    "text": "Maybe six months from now,",
+    "start": 827.331,
+    "duration": 1.333
+  },
+  {
+    "text": "you'll actually have a strip\nwhere you perform the test in the home,",
+    "start": 828.688,
+    "duration": 3.501
+  },
+  {
+    "text": "but for now, they're sending it back\nfor the PCR processing.",
+    "start": 832.213,
+    "duration": 3.849
+  },
+  {
+    "text": "We can have massive capacity there.",
+    "start": 836.086,
+    "duration": 3.198
+  },
+  {
+    "text": "And that's how you know.",
+    "start": 839.308,
+    "duration": 2.118
+  },
+  {
+    "text": "The testing is everything,",
+    "start": 841.927,
+    "duration": 1.61
+  },
+  {
+    "text": "because that's how you know\nwhether you need to do more shutdown",
+    "start": 843.561,
+    "duration": 4.024
+  },
+  {
+    "text": "or you're starting to get to the point\nwhere you can relieve it.",
+    "start": 847.609,
+    "duration": 3.032
+  },
+  {
+    "text": "CA: Some people are trying to argue now",
+    "start": 850.665,
+    "duration": 1.88
+  },
+  {
+    "text": "that, almost, the testing\nshould be dialed back,",
+    "start": 852.569,
+    "duration": 2.928
+  },
+  {
+    "text": "because the cat is out of the bag,",
+    "start": 855.521,
+    "duration": 2.064
+  },
+  {
+    "text": "testing is bringing people together\nand risking infection,",
+    "start": 857.609,
+    "duration": 3.317
+  },
+  {
+    "text": "you know, forget that,\nlet's just focus on treatment",
+    "start": 860.95,
+    "duration": 2.627
+  },
+  {
+    "text": "and on isolation strategies.",
+    "start": 863.601,
+    "duration": 2.785
+  },
+  {
+    "text": "You disagree with that.",
+    "start": 867.101,
+    "duration": 1.159
+  },
+  {
+    "text": "Testing is still absolutely essential\nand needs to be scaled dramatically.",
+    "start": 868.284,
+    "duration": 3.492
+  },
+  {
+    "text": "BG: The two that go together are testing,",
+    "start": 871.8,
+    "duration": 2.555
+  },
+  {
+    "text": "at very high volume,",
+    "start": 874.379,
+    "duration": 1.555
+  },
+  {
+    "text": "and the isolation piece.",
+    "start": 875.958,
+    "duration": 2.246
+  },
+  {
+    "text": "If you're a medical worker,",
+    "start": 878.228,
+    "duration": 1.746
+  },
+  {
+    "text": "you want to stay and do your job.",
+    "start": 879.998,
+    "duration": 2.126
+  },
+  {
+    "text": "If you're making sure\nthe electricity, water, food",
+    "start": 882.148,
+    "duration": 4.175
+  },
+  {
+    "text": "is still available,",
+    "start": 886.347,
+    "duration": 2.159
+  },
+  {
+    "text": "you want to do your job,",
+    "start": 888.53,
+    "duration": 1.412
+  },
+  {
+    "text": "and so testing is what indicates to you,",
+    "start": 889.966,
+    "duration": 4.087
+  },
+  {
+    "text": "do you need to go into isolation",
+    "start": 894.077,
+    "duration": 2.559
+  },
+  {
+    "text": "and make sure you're not\nthe source of spread.",
+    "start": 896.66,
+    "duration": 2.798
+  },
+  {
+    "text": "And so, you know,\ntesting is the key thing.",
+    "start": 899.482,
+    "duration": 5.499
+  },
+  {
+    "text": "South Korea did that in this massive way",
+    "start": 905.752,
+    "duration": 3.96
+  },
+  {
+    "text": "that everybody should learn from.",
+    "start": 909.736,
+    "duration": 3.351
+  },
+  {
+    "text": "And so that is paired\nwith the isolation piece.",
+    "start": 913.524,
+    "duration": 5.579
+  },
+  {
+    "text": "Our goal here is to get to the point",
+    "start": 919.405,
+    "duration": 3.198
+  },
+  {
+    "text": "where a very small percentage\nof the population is infected.",
+    "start": 922.627,
+    "duration": 4.32
+  },
+  {
+    "text": "You know, China, only 0.01 percent\nof the population was infected.",
+    "start": 926.971,
+    "duration": 4.468
+  },
+  {
+    "text": "If you let it,",
+    "start": 931.773,
+    "duration": 1.151
+  },
+  {
+    "text": "if you don't do these things,",
+    "start": 932.948,
+    "duration": 1.478
+  },
+  {
+    "text": "you're going to get\nthe majority of people infected",
+    "start": 934.45,
+    "duration": 3.301
+  },
+  {
+    "text": "and that huge overload\nof the medical system.",
+    "start": 937.775,
+    "duration": 3.905
+  },
+  {
+    "text": "CA: Whitney has some questions\nfrom our online audience. Whitney.",
+    "start": 943.03,
+    "duration": 3.952
+  },
+  {
+    "text": "WPR: Some of the questions\nthat we're seeing",
+    "start": 947.006,
+    "duration": 2.111
+  },
+  {
+    "text": "are about how our tech giants and leaders",
+    "start": 949.141,
+    "duration": 2.325
+  },
+  {
+    "text": "can play a role in isolating this\nand containing this virus.",
+    "start": 951.49,
+    "duration": 4.769
+  },
+  {
+    "text": "BG: The tech companies are very involved",
+    "start": 957.12,
+    "duration": 1.93
+  },
+  {
+    "text": "in making sure that some work can go on.",
+    "start": 959.074,
+    "duration": 2.63
+  },
+  {
+    "text": "People can stay in touch,",
+    "start": 962.482,
+    "duration": 2.126
+  },
+  {
+    "text": "you know, they can help\nwith some of the disease modeling,",
+    "start": 964.632,
+    "duration": 2.731
+  },
+  {
+    "text": "they can help with\nthe visibility of the numbers.",
+    "start": 967.387,
+    "duration": 2.389
+  },
+  {
+    "text": "It's actually very impressive,",
+    "start": 969.8,
+    "duration": 1.698
+  },
+  {
+    "text": "you get up there\nand you can see those numbers.",
+    "start": 971.522,
+    "duration": 2.698
+  },
+  {
+    "text": "Actually, they're sad numbers,",
+    "start": 974.244,
+    "duration": 1.492
+  },
+  {
+    "text": "but everybody's able\nto monitor this thing.",
+    "start": 975.76,
+    "duration": 4.008
+  },
+  {
+    "text": "Back in 1918, they didn't have\nthis type of visibility,",
+    "start": 979.792,
+    "duration": 4.657
+  },
+  {
+    "text": "and ability to share best practices.",
+    "start": 984.473,
+    "duration": 5.023
+  },
+  {
+    "text": "But for a lot of people,\nthe isolation is the key thing.",
+    "start": 989.805,
+    "duration": 3.477
+  },
+  {
+    "text": "CA: Bill, one of the riddles\nabout this isolation strategy",
+    "start": 993.306,
+    "duration": 6.065
+  },
+  {
+    "text": "is how long it has to last.",
+    "start": 999.395,
+    "duration": 3.599
+  },
+  {
+    "text": "A lot of people are concerned",
+    "start": 1003.018,
+    "duration": 2.62
+  },
+  {
+    "text": "that the price of victory\nby isolating everyone",
+    "start": 1005.662,
+    "duration": 4.526
+  },
+  {
+    "text": "is that you crash the economy,",
+    "start": 1010.212,
+    "duration": 1.453
+  },
+  {
+    "text": "and that we have to be, basically,",
+    "start": 1011.689,
+    "duration": 3.347
+  },
+  {
+    "text": "at home, not doing our regular jobs\nfor three, six months, maybe all year.",
+    "start": 1015.06,
+    "duration": 5.888
+  },
+  {
+    "text": "And so much so that there's now\nthis big debate in the US",
+    "start": 1020.972,
+    "duration": 2.716
+  },
+  {
+    "text": "and other countries",
+    "start": 1023.712,
+    "duration": 1.268
+  },
+  {
+    "text": "about this may just be the wrong strategy,",
+    "start": 1025.004,
+    "duration": 2.034
+  },
+  {
+    "text": "that we can't crash\nthe economy that badly,",
+    "start": 1027.062,
+    "duration": 2.309
+  },
+  {
+    "text": "we should only isolate\nfor another couple of weeks,",
+    "start": 1029.395,
+    "duration": 2.603
+  },
+  {
+    "text": "and then let people back,",
+    "start": 1032.022,
+    "duration": 1.492
+  },
+  {
+    "text": "and if that means\na lot of other people get sick",
+    "start": 1033.538,
+    "duration": 2.753
+  },
+  {
+    "text": "and we eventually build up herd immunity,",
+    "start": 1036.315,
+    "duration": 1.974
+  },
+  {
+    "text": "that may be the right way to go.",
+    "start": 1038.313,
+    "duration": 1.716
+  },
+  {
+    "text": "What's your thought on this,",
+    "start": 1040.053,
+    "duration": 1.334
+  },
+  {
+    "text": "what is the isolation strategy",
+    "start": 1041.411,
+    "duration": 2.506
+  },
+  {
+    "text": "that eventually leads to us\ngetting back to normal?",
+    "start": 1043.941,
+    "duration": 3.461
+  },
+  {
+    "text": "BG: It's very tough to say to people,",
+    "start": 1048.022,
+    "duration": 4.0
+  },
+  {
+    "text": "\"Hey, keep going to restaurants,\"",
+    "start": 1052.046,
+    "duration": 2.245
+  },
+  {
+    "text": "you know, \"Go buy new houses,",
+    "start": 1054.315,
+    "duration": 3.095
+  },
+  {
+    "text": "ignore that pile of bodies\nover in the corner,",
+    "start": 1057.434,
+    "duration": 3.699
+  },
+  {
+    "text": "just, you know, we want you\nto keep spending,\"",
+    "start": 1061.157,
+    "duration": 2.207
+  },
+  {
+    "text": "because there's some, maybe a politician",
+    "start": 1063.388,
+    "duration": 2.602
+  },
+  {
+    "text": "who thinks GDP growth\nis what really counts.",
+    "start": 1066.014,
+    "duration": 3.737
+  },
+  {
+    "text": "It's very hard to tell people,\nwhen there's an epidemic spreading",
+    "start": 1069.775,
+    "duration": 4.099
+  },
+  {
+    "text": "that threatens,\nparticularly, their parents",
+    "start": 1073.898,
+    "duration": 5.049
+  },
+  {
+    "text": "or elderly people that they know,",
+    "start": 1078.971,
+    "duration": 2.111
+  },
+  {
+    "text": "that they should go about things",
+    "start": 1081.106,
+    "duration": 1.859
+  },
+  {
+    "text": "knowing that their activity\nis spreading this disease.",
+    "start": 1082.989,
+    "duration": 3.706
+  },
+  {
+    "text": "I don't know of any rich countries\nthat have chosen to use that approach.",
+    "start": 1087.648,
+    "duration": 4.064
+  },
+  {
+    "text": "It is true, if you did that approach,",
+    "start": 1091.736,
+    "duration": 2.684
+  },
+  {
+    "text": "over a period of several years,",
+    "start": 1094.444,
+    "duration": 2.736
+  },
+  {
+    "text": "enough people would be infected\nyou'd have what's called herd immunity.",
+    "start": 1097.204,
+    "duration": 3.339
+  },
+  {
+    "text": "But herd immunity is meaningless\nuntil you infect over half the population.",
+    "start": 1100.567,
+    "duration": 4.732
+  },
+  {
+    "text": "And so you can take --",
+    "start": 1105.323,
+    "duration": 1.595
+  },
+  {
+    "text": "You'll overload your medical system,",
+    "start": 1106.942,
+    "duration": 1.762
+  },
+  {
+    "text": "so your case fatality rate,\ninstead of being one percent,",
+    "start": 1108.728,
+    "duration": 2.714
+  },
+  {
+    "text": "will be like three, four percent.",
+    "start": 1111.466,
+    "duration": 1.883
+  },
+  {
+    "text": "And so,",
+    "start": 1114.658,
+    "duration": 1.856
+  },
+  {
+    "text": "the idea, it's very irresponsible",
+    "start": 1116.538,
+    "duration": 3.755
+  },
+  {
+    "text": "for somebody to suggest\nwe can have the best of both worlds.",
+    "start": 1120.317,
+    "duration": 3.119
+  },
+  {
+    "text": "What we need is the extreme shutdown",
+    "start": 1123.46,
+    "duration": 3.356
+  },
+  {
+    "text": "so that in six to ten weeks,",
+    "start": 1126.84,
+    "duration": 3.031
+  },
+  {
+    "text": "if things go well,",
+    "start": 1129.895,
+    "duration": 1.452
+  },
+  {
+    "text": "then you can start opening back up.",
+    "start": 1131.371,
+    "duration": 2.563
+  },
+  {
+    "text": "CA: So just putting the math together\nfrom what you just said, Bill,",
+    "start": 1134.847,
+    "duration": 3.231
+  },
+  {
+    "text": "to get to herd immunity,",
+    "start": 1138.102,
+    "duration": 1.246
+  },
+  {
+    "text": "you need more than half\nthe people in the country",
+    "start": 1139.372,
+    "duration": 2.316
+  },
+  {
+    "text": "to basically get the bug.",
+    "start": 1141.712,
+    "duration": 1.413
+  },
+  {
+    "text": "So in the case of the US, for example,",
+    "start": 1143.149,
+    "duration": 1.877
+  },
+  {
+    "text": "that would be 150 million\npeople, thereabouts.",
+    "start": 1145.05,
+    "duration": 2.203
+  },
+  {
+    "text": "You said that the fatality rate\nin that scenario,",
+    "start": 1147.277,
+    "duration": 3.236
+  },
+  {
+    "text": "you're talking about four\nto five million people",
+    "start": 1150.537,
+    "duration": 3.825
+  },
+  {
+    "text": "potential fatalities.",
+    "start": 1154.386,
+    "duration": 3.167
+  },
+  {
+    "text": "That is just a horrifying scenario\nthat no one should be contemplating.",
+    "start": 1157.577,
+    "duration": 4.445
+  },
+  {
+    "text": "BG: Even one percent\nof the population getting sick,",
+    "start": 1162.046,
+    "duration": 2.61
+  },
+  {
+    "text": "they will treat, whoever goes\nfor this \"ignore the disease\" strategy,",
+    "start": 1164.68,
+    "duration": 5.898
+  },
+  {
+    "text": "they will treat them as a pariah state,",
+    "start": 1170.602,
+    "duration": 1.89
+  },
+  {
+    "text": "so none of their people will go in,",
+    "start": 1172.516,
+    "duration": 2.664
+  },
+  {
+    "text": "and none of your people will go into that.",
+    "start": 1175.204,
+    "duration": 2.746
+  },
+  {
+    "text": "And so briefly, a few countries in Europe\nthat hadn't really looked at this hard,",
+    "start": 1177.974,
+    "duration": 4.533
+  },
+  {
+    "text": "considered, \"OK, should we be the ones\nwho kind of go about business as usual?\"",
+    "start": 1182.531,
+    "duration": 4.919
+  },
+  {
+    "text": "It is tempting,\nbecause if you got there early --",
+    "start": 1187.474,
+    "duration": 3.145
+  },
+  {
+    "text": "South Korea did not have to do\nthe extreme shutdown,",
+    "start": 1190.643,
+    "duration": 3.179
+  },
+  {
+    "text": "because they did\nsuch a good job on testing.",
+    "start": 1193.846,
+    "duration": 2.617
+  },
+  {
+    "text": "CA: Testing and containment.",
+    "start": 1197.496,
+    "duration": 1.437
+  },
+  {
+    "text": "BG: That's why it's so maddening to me",
+    "start": 1198.957,
+    "duration": 2.109
+  },
+  {
+    "text": "that government\nis not allocating the testing",
+    "start": 1201.09,
+    "duration": 4.392
+  },
+  {
+    "text": "to where it's needed,",
+    "start": 1205.506,
+    "duration": 3.849
+  },
+  {
+    "text": "and maybe that will have to happen\nat the state level,",
+    "start": 1209.379,
+    "duration": 2.542
+  },
+  {
+    "text": "because it's not happening\nat the federal level.",
+    "start": 1211.945,
+    "duration": 2.458
+  },
+  {
+    "text": "But there is no middle course\non this thing.",
+    "start": 1214.427,
+    "duration": 3.856
+  },
+  {
+    "text": "It is sad that the shutdown\nwill be harder for poorer countries",
+    "start": 1219.109,
+    "duration": 4.22
+  },
+  {
+    "text": "than it is for richer countries.",
+    "start": 1223.353,
+    "duration": 2.134
+  },
+  {
+    "text": "CA: So let's come into that in minute.",
+    "start": 1226.125,
+    "duration": 2.222
+  },
+  {
+    "text": "The one exception I've heard\nthe case made for is Japan,",
+    "start": 1228.371,
+    "duration": 2.714
+  },
+  {
+    "text": "that Japan has not contained it\nquite in the same way",
+    "start": 1231.109,
+    "duration": 4.127
+  },
+  {
+    "text": "that South Korea did",
+    "start": 1235.26,
+    "duration": 1.777
+  },
+  {
+    "text": "but has allowed people to work.",
+    "start": 1237.061,
+    "duration": 1.499
+  },
+  {
+    "text": "It's tried to make extreme measures",
+    "start": 1238.584,
+    "duration": 1.699
+  },
+  {
+    "text": "for protecting their most\nelderly population.",
+    "start": 1240.307,
+    "duration": 3.142
+  },
+  {
+    "text": "But they've tried to find\na middle scenario, haven't they?",
+    "start": 1243.473,
+    "duration": 5.956
+  },
+  {
+    "text": "BG: If you act --",
+    "start": 1250.125,
+    "duration": 1.849
+  },
+  {
+    "text": "When you have hundreds of cases,",
+    "start": 1252.879,
+    "duration": 4.809
+  },
+  {
+    "text": "you may be able to contain it\nby doing great testing",
+    "start": 1257.712,
+    "duration": 4.024
+  },
+  {
+    "text": "and great contact tracing,",
+    "start": 1261.76,
+    "duration": 2.158
+  },
+  {
+    "text": "and restricting foreigners coming in,",
+    "start": 1263.942,
+    "duration": 2.635
+  },
+  {
+    "text": "without as much damage to your economy.",
+    "start": 1266.601,
+    "duration": 2.267
+  },
+  {
+    "text": "The US is past this opportunity\nto control without shutdown.",
+    "start": 1269.204,
+    "duration": 6.643
+  },
+  {
+    "text": "So the worst case of what was happening\nin Wuhan in the beginning",
+    "start": 1275.871,
+    "duration": 6.715
+  },
+  {
+    "text": "or in northern Italy\nover the last few weeks,",
+    "start": 1282.61,
+    "duration": 4.464
+  },
+  {
+    "text": "that we avoid that.",
+    "start": 1287.098,
+    "duration": 2.646
+  },
+  {
+    "text": "But we did not act fast enough\nto have an ability to avoid the shutdown.",
+    "start": 1289.768,
+    "duration": 6.825
+  },
+  {
+    "text": "CA: But then what I don't understand,\nin the case of the US, for example,",
+    "start": 1296.617,
+    "duration": 3.666
+  },
+  {
+    "text": "is that even if we're successful",
+    "start": 1300.307,
+    "duration": 3.302
+  },
+  {
+    "text": "in bending the curve and reducing\nthe number of new cases",
+    "start": 1303.633,
+    "duration": 3.476
+  },
+  {
+    "text": "from a period of extreme\nshutdown, as it were,",
+    "start": 1307.133,
+    "duration": 3.304
+  },
+  {
+    "text": "no immunity has been built up.",
+    "start": 1310.461,
+    "duration": 2.906
+  },
+  {
+    "text": "Let's say that there's still no vaccine.",
+    "start": 1313.391,
+    "duration": 1.932
+  },
+  {
+    "text": "Surely when you lift restrictions\nand people start going back to work,",
+    "start": 1315.347,
+    "duration": 3.609
+  },
+  {
+    "text": "the whole thing just blows up again.",
+    "start": 1318.98,
+    "duration": 2.4
+  },
+  {
+    "text": "BG: The experience that we're seeing\nin China and in South Korea",
+    "start": 1321.919,
+    "duration": 6.928
+  },
+  {
+    "text": "is that there are not these people\nwho are asymptomatic",
+    "start": 1329.934,
+    "duration": 4.254
+  },
+  {
+    "text": "that are causing lots of infections.",
+    "start": 1334.212,
+    "duration": 1.755
+  },
+  {
+    "text": "And that's a parameter",
+    "start": 1335.991,
+    "duration": 1.459
+  },
+  {
+    "text": "that, as you build the model,\nyou have to put in.",
+    "start": 1337.474,
+    "duration": 4.626
+  },
+  {
+    "text": "There's an Imperial model\nthat people talk about a lot,",
+    "start": 1342.124,
+    "duration": 3.221
+  },
+  {
+    "text": "which shows that reopening\nis very hard to do.",
+    "start": 1345.369,
+    "duration": 3.318
+  },
+  {
+    "text": "But the results of that model\nare not matching what we see in China,",
+    "start": 1349.584,
+    "duration": 4.562
+  },
+  {
+    "text": "and so very likely,",
+    "start": 1354.17,
+    "duration": 2.451
+  },
+  {
+    "text": "there aren't as many\nof these infecting asymptomatics.",
+    "start": 1356.645,
+    "duration": 3.734
+  },
+  {
+    "text": "And that's why you have to be pragmatic.",
+    "start": 1360.403,
+    "duration": 2.5
+  },
+  {
+    "text": "There's a lot we don't know.",
+    "start": 1362.927,
+    "duration": 1.38
+  },
+  {
+    "text": "For example, seasonality\nmay help us in the Northern Hemisphere,",
+    "start": 1364.331,
+    "duration": 3.602
+  },
+  {
+    "text": "the force of infection will --",
+    "start": 1367.957,
+    "duration": 2.215
+  },
+  {
+    "text": "Respiratory viruses,\nto some degree, they all are seasonal.",
+    "start": 1370.673,
+    "duration": 5.97
+  },
+  {
+    "text": "We don't know how seasonal this one is,",
+    "start": 1376.667,
+    "duration": 3.45
+  },
+  {
+    "text": "but you know, there's a reasonable chance",
+    "start": 1380.141,
+    "duration": 3.24
+  },
+  {
+    "text": "that the force of infection\nwill be going down.",
+    "start": 1383.405,
+    "duration": 2.602
+  },
+  {
+    "text": "And it's your testing\nthat always is telling you,",
+    "start": 1386.031,
+    "duration": 3.429
+  },
+  {
+    "text": "\"Oh, my gosh, do I have to shut down more,",
+    "start": 1389.484,
+    "duration": 3.323
+  },
+  {
+    "text": "or can I start to open up?\"",
+    "start": 1392.831,
+    "duration": 1.327
+  },
+  {
+    "text": "So particularly, right as you open up,",
+    "start": 1394.182,
+    "duration": 2.403
+  },
+  {
+    "text": "that testing and contact tracing\nis saying to you --",
+    "start": 1396.609,
+    "duration": 4.342
+  },
+  {
+    "text": "And you can say I'm more\non the optimistic side,",
+    "start": 1400.975,
+    "duration": 4.229
+  },
+  {
+    "text": "that it will be possible to do\nwhat China's doing,",
+    "start": 1405.228,
+    "duration": 3.117
+  },
+  {
+    "text": "where they are starting\nto go back to normal.",
+    "start": 1408.369,
+    "duration": 4.277
+  },
+  {
+    "text": "CA: And help me understand\nwhat happened there",
+    "start": 1413.163,
+    "duration": 2.206
+  },
+  {
+    "text": "because it seems kind of miraculous to me,",
+    "start": 1415.393,
+    "duration": 2.097
+  },
+  {
+    "text": "because this virus was exploding,",
+    "start": 1417.514,
+    "duration": 2.944
+  },
+  {
+    "text": "yes, in Wuhan, but people moved from there\nto many other parts of China.",
+    "start": 1420.482,
+    "duration": 6.447
+  },
+  {
+    "text": "How is it possible",
+    "start": 1426.953,
+    "duration": 1.358
+  },
+  {
+    "text": "that the combination\nof the shutdown in Wuhan",
+    "start": 1428.335,
+    "duration": 3.006
+  },
+  {
+    "text": "and measures elsewhere",
+    "start": 1431.365,
+    "duration": 1.429
+  },
+  {
+    "text": "seem to have got to the point\nwhere there are literally",
+    "start": 1432.818,
+    "duration": 2.618
+  },
+  {
+    "text": "no new cases happening.",
+    "start": 1435.46,
+    "duration": 1.874
+  },
+  {
+    "text": "I mean, to me,\nthat implies that literally,",
+    "start": 1437.358,
+    "duration": 2.005
+  },
+  {
+    "text": "the virus is not circulating at all\nbetween humans in China.",
+    "start": 1439.387,
+    "duration": 6.864
+  },
+  {
+    "text": "You know, there's a few tourists\ncoming in who they deal with,",
+    "start": 1446.275,
+    "duration": 2.937
+  },
+  {
+    "text": "but I mean, is that literally\nyour interpretation of what happened,",
+    "start": 1449.236,
+    "duration": 4.643
+  },
+  {
+    "text": "that it's no longer circulating in China?",
+    "start": 1453.903,
+    "duration": 2.071
+  },
+  {
+    "text": "BG: Absolutely.",
+    "start": 1455.998,
+    "duration": 1.151
+  },
+  {
+    "text": "Take a spreadsheet\nand take a number like four --",
+    "start": 1457.173,
+    "duration": 2.372
+  },
+  {
+    "text": "one person infects four people --",
+    "start": 1459.569,
+    "duration": 2.103
+  },
+  {
+    "text": "and say the cycle is every 10 days.",
+    "start": 1461.696,
+    "duration": 3.174
+  },
+  {
+    "text": "Go through eight of those cycles,",
+    "start": 1464.894,
+    "duration": 4.207
+  },
+  {
+    "text": "and you're getting the big number.",
+    "start": 1469.125,
+    "duration": 2.611
+  },
+  {
+    "text": "You know, start with 10,000 and then,",
+    "start": 1471.76,
+    "duration": 4.484
+  },
+  {
+    "text": "you know, that increase.",
+    "start": 1476.268,
+    "duration": 1.222
+  },
+  {
+    "text": "If you take the number 0.4 instead,",
+    "start": 1477.514,
+    "duration": 2.714
+  },
+  {
+    "text": "that is, the average case\ninfects 0.4 people,",
+    "start": 1480.252,
+    "duration": 4.652
+  },
+  {
+    "text": "then look at what happens\nto that number as you go out.",
+    "start": 1484.928,
+    "duration": 3.285
+  },
+  {
+    "text": "It drops to zero,",
+    "start": 1488.237,
+    "duration": 1.583
+  },
+  {
+    "text": "and so things that are exponential\nare very, very dramatic.",
+    "start": 1489.844,
+    "duration": 5.563
+  },
+  {
+    "text": "When they're above one,\nthey are growing rapidly.",
+    "start": 1495.431,
+    "duration": 4.087
+  },
+  {
+    "text": "When they're below one,\nthey are shrinking rapidly.",
+    "start": 1499.542,
+    "duration": 3.456
+  },
+  {
+    "text": "And so the isolation in China",
+    "start": 1503.022,
+    "duration": 3.055
+  },
+  {
+    "text": "drove that reproductive number\nto well below zero.",
+    "start": 1506.101,
+    "duration": 4.428
+  },
+  {
+    "text": "And so local infection rates --",
+    "start": 1510.553,
+    "duration": 1.541
+  },
+  {
+    "text": "CA: Below one.",
+    "start": 1512.118,
+    "duration": 1.415
+  },
+  {
+    "text": "BG: Below one, sorry.",
+    "start": 1514.153,
+    "duration": 2.123
+  },
+  {
+    "text": "And that quarantine,",
+    "start": 1516.3,
+    "duration": 5.023
+  },
+  {
+    "text": "you know, quarantine comes from \"40 days,\"",
+    "start": 1521.347,
+    "duration": 2.737
+  },
+  {
+    "text": "which is what they thought\nwould help for black plague,",
+    "start": 1524.108,
+    "duration": 3.779
+  },
+  {
+    "text": "that is our primary technique.",
+    "start": 1527.911,
+    "duration": 1.896
+  },
+  {
+    "text": "Thank God we have testing,\nif we use it properly.",
+    "start": 1529.831,
+    "duration": 4.286
+  },
+  {
+    "text": "We are doing therapeutics,",
+    "start": 1534.141,
+    "duration": 2.5
+  },
+  {
+    "text": "which will help with the death rate,",
+    "start": 1536.665,
+    "duration": 1.738
+  },
+  {
+    "text": "but in terms of keeping the infections\nbelow one percent of the population,",
+    "start": 1538.427,
+    "duration": 4.15
+  },
+  {
+    "text": "it really all depends\njust on the two things:",
+    "start": 1542.601,
+    "duration": 2.687
+  },
+  {
+    "text": "isolation and testing.",
+    "start": 1545.312,
+    "duration": 1.579
+  },
+  {
+    "text": "CA: So to quote a question from\nmy Twitter feed this morning for you Bill:",
+    "start": 1547.498,
+    "duration": 4.19
+  },
+  {
+    "text": "If you were president\nfor a month in the US,",
+    "start": 1551.712,
+    "duration": 4.635
+  },
+  {
+    "text": "what would be the top\ntwo or three things you would do?",
+    "start": 1556.371,
+    "duration": 3.484
+  },
+  {
+    "text": "BG: Well, the clear message",
+    "start": 1560.474,
+    "duration": 2.254
+  },
+  {
+    "text": "that we have no choice\nto maintain this isolation",
+    "start": 1562.752,
+    "duration": 3.539
+  },
+  {
+    "text": "and that's going to keep going\nfor a period of time,",
+    "start": 1566.315,
+    "duration": 5.016
+  },
+  {
+    "text": "you know, probably in the Chinese case,\nit was like six weeks,",
+    "start": 1571.355,
+    "duration": 4.571
+  },
+  {
+    "text": "so we have to prepare ourselves for that,",
+    "start": 1575.95,
+    "duration": 1.976
+  },
+  {
+    "text": "and do it very well.",
+    "start": 1577.95,
+    "duration": 1.335
+  },
+  {
+    "text": "And then use the testing",
+    "start": 1579.309,
+    "duration": 2.895
+  },
+  {
+    "text": "and every week, talk about\nwhat's going on with that.",
+    "start": 1582.228,
+    "duration": 3.358
+  },
+  {
+    "text": "If you're doing isolation well,\nwithin about 20 days,",
+    "start": 1586.117,
+    "duration": 4.598
+  },
+  {
+    "text": "you'll see those numbers really change,",
+    "start": 1590.739,
+    "duration": 3.14
+  },
+  {
+    "text": "you know, instead of this,\nyou'll see this,",
+    "start": 1593.903,
+    "duration": 2.887
+  },
+  {
+    "text": "and that is a sign\nthat you're on your way.",
+    "start": 1596.814,
+    "duration": 3.039
+  },
+  {
+    "text": "Now, you have to stay\nto get more generations",
+    "start": 1599.877,
+    "duration": 4.36
+  },
+  {
+    "text": "that are 0.4 infections\nper previous infection.",
+    "start": 1604.261,
+    "duration": 4.471
+  },
+  {
+    "text": "You have to maintain it\nfor a number of weeks there.",
+    "start": 1608.756,
+    "duration": 2.627
+  },
+  {
+    "text": "And you know,",
+    "start": 1611.725,
+    "duration": 1.164
+  },
+  {
+    "text": "so this is not going to be easy.",
+    "start": 1612.913,
+    "duration": 2.557
+  },
+  {
+    "text": "We need a clear message about that.",
+    "start": 1615.494,
+    "duration": 2.392
+  },
+  {
+    "text": "It is really tragic\nthat the economic effects of this",
+    "start": 1617.91,
+    "duration": 3.143
+  },
+  {
+    "text": "are very dramatic.",
+    "start": 1621.077,
+    "duration": 1.556
+  },
+  {
+    "text": "I mean, nothing like this\nhas ever happened to the economy",
+    "start": 1622.657,
+    "duration": 3.738
+  },
+  {
+    "text": "in our lifetimes.",
+    "start": 1626.419,
+    "duration": 2.583
+  },
+  {
+    "text": "But bringing the economy back\nand doing money,",
+    "start": 1629.026,
+    "duration": 3.627
+  },
+  {
+    "text": "that's more of a reversible thing\nthan bringing people back to life.",
+    "start": 1632.677,
+    "duration": 6.358
+  },
+  {
+    "text": "And so, we're going to take the pain\nin the economic dimension,",
+    "start": 1639.059,
+    "duration": 4.367
+  },
+  {
+    "text": "huge pain,",
+    "start": 1643.45,
+    "duration": 1.331
+  },
+  {
+    "text": "in order to minimize the pain\nin the disease and death dimension.",
+    "start": 1644.805,
+    "duration": 4.797
+  },
+  {
+    "text": "CA: Whitney.",
+    "start": 1650.53,
+    "duration": 1.15
+  },
+  {
+    "text": "WPR: We have a lot\nof other questions coming in.",
+    "start": 1652.38,
+    "duration": 2.253
+  },
+  {
+    "text": "One that we've been seeing",
+    "start": 1654.657,
+    "duration": 1.619
+  },
+  {
+    "text": "is a question about what tools\nare available for countries",
+    "start": 1656.3,
+    "duration": 2.969
+  },
+  {
+    "text": "that maybe don't have the luxury\nof being able to social-distance,",
+    "start": 1659.293,
+    "duration": 3.744
+  },
+  {
+    "text": "don't have great health systems in place,",
+    "start": 1663.061,
+    "duration": 2.516
+  },
+  {
+    "text": "how should they be handling this virus?",
+    "start": 1665.601,
+    "duration": 2.6
+  },
+  {
+    "text": "BG: Yeah, I would say,",
+    "start": 1669.212,
+    "duration": 2.619
+  },
+  {
+    "text": "if the rich countries\nreally do their job well,",
+    "start": 1671.855,
+    "duration": 2.54
+  },
+  {
+    "text": "by the summer, they'll be like China is,",
+    "start": 1674.419,
+    "duration": 5.841
+  },
+  {
+    "text": "or some of the other countries\nthat responded early.",
+    "start": 1680.284,
+    "duration": 3.261
+  },
+  {
+    "text": "But in the developing countries,",
+    "start": 1683.569,
+    "duration": 3.024
+  },
+  {
+    "text": "particularly in the Southern Hemisphere,",
+    "start": 1686.617,
+    "duration": 1.92
+  },
+  {
+    "text": "the seasonality is large.",
+    "start": 1688.561,
+    "duration": 2.349
+  },
+  {
+    "text": "As you say, the ability to isolate,",
+    "start": 1691.585,
+    "duration": 3.278
+  },
+  {
+    "text": "you know, when you go out\nto get your food every day,",
+    "start": 1694.887,
+    "duration": 3.889
+  },
+  {
+    "text": "you have to earn your wage,",
+    "start": 1698.8,
+    "duration": 1.483
+  },
+  {
+    "text": "when you live in a slum\nor you're very nearby each other,",
+    "start": 1700.307,
+    "duration": 3.092
+  },
+  {
+    "text": "it's very hard to do,",
+    "start": 1703.423,
+    "duration": 2.122
+  },
+  {
+    "text": "as you move down the income ladder,",
+    "start": 1705.569,
+    "duration": 3.167
+  },
+  {
+    "text": "than it is for a country\nlike the United States.",
+    "start": 1708.76,
+    "duration": 4.254
+  },
+  {
+    "text": "And so we should all\naccelerate the vaccine,",
+    "start": 1713.038,
+    "duration": 3.515
+  },
+  {
+    "text": "which eventually will come,",
+    "start": 1716.577,
+    "duration": 2.561
+  },
+  {
+    "text": "and you know, people\nare being responsible to say",
+    "start": 1719.162,
+    "duration": 2.304
+  },
+  {
+    "text": "that that's going to take 18 months.",
+    "start": 1721.49,
+    "duration": 4.017
+  },
+  {
+    "text": "And there's a lot of those being pursued.",
+    "start": 1725.531,
+    "duration": 3.816
+  },
+  {
+    "text": "I'm talking a lot with Seth Berkley,",
+    "start": 1729.864,
+    "duration": 2.064
+  },
+  {
+    "text": "who you're going to have later this week,",
+    "start": 1731.952,
+    "duration": 2.738
+  },
+  {
+    "text": "who can talk a lot\nabout the vaccine front,",
+    "start": 1734.714,
+    "duration": 4.032
+  },
+  {
+    "text": "because he's definitely\nat the center of that,",
+    "start": 1738.77,
+    "duration": 3.301
+  },
+  {
+    "text": "being the head of GAVI.",
+    "start": 1742.095,
+    "duration": 2.206
+  },
+  {
+    "text": "We do need to get really cheap testing\nout to these countries,",
+    "start": 1744.325,
+    "duration": 5.054
+  },
+  {
+    "text": "and we need to get therapeutics",
+    "start": 1749.403,
+    "duration": 1.571
+  },
+  {
+    "text": "so you don't need to put\nfive percent of people on respirators.",
+    "start": 1750.998,
+    "duration": 3.182
+  },
+  {
+    "text": "Because even if they had the equipment,",
+    "start": 1754.204,
+    "duration": 1.882
+  },
+  {
+    "text": "they don't have the personnel,",
+    "start": 1756.11,
+    "duration": 1.443
+  },
+  {
+    "text": "they just don't have\nthe beds, the capacity.",
+    "start": 1757.577,
+    "duration": 3.238
+  },
+  {
+    "text": "And so the only good news\nis that the rich countries have this",
+    "start": 1760.839,
+    "duration": 4.373
+  },
+  {
+    "text": "and so they will be learning\nabout testing, therapeutics,",
+    "start": 1765.236,
+    "duration": 5.54
+  },
+  {
+    "text": "and funding the vaccines\nfor the entire world,",
+    "start": 1770.8,
+    "duration": 3.175
+  },
+  {
+    "text": "to try and minimize the damage\nin developing countries.",
+    "start": 1773.999,
+    "duration": 4.555
+  },
+  {
+    "text": "WPR: Great, I'll be back later\nwith more questions.",
+    "start": 1780.209,
+    "duration": 2.729
+  },
+  {
+    "text": "CA: Bill, you mentioned\ntherapeutics there.",
+    "start": 1782.962,
+    "duration": 2.913
+  },
+  {
+    "text": "What is looking promising,",
+    "start": 1785.899,
+    "duration": 2.697
+  },
+  {
+    "text": "is anything looking promising?",
+    "start": 1788.62,
+    "duration": 2.0
+  },
+  {
+    "text": "BG: Yeah, so there's quite\na range of things going on.",
+    "start": 1791.149,
+    "duration": 3.666
+  },
+  {
+    "text": "There's a few that get mentioned a lot,",
+    "start": 1795.601,
+    "duration": 2.813
+  },
+  {
+    "text": "remdesivir, hydroxychloroquine,\nazithromycin,",
+    "start": 1798.438,
+    "duration": 4.242
+  },
+  {
+    "text": "and the data is still a bit confusing,",
+    "start": 1802.704,
+    "duration": 2.349
+  },
+  {
+    "text": "but there's some positive data on those.",
+    "start": 1805.077,
+    "duration": 2.96
+  },
+  {
+    "text": "Remdesivir is a five-day IV infusion,",
+    "start": 1808.061,
+    "duration": 4.207
+  },
+  {
+    "text": "and actually kind of hard to manufacture,",
+    "start": 1812.292,
+    "duration": 2.439
+  },
+  {
+    "text": "so people are looking\nat how that can be improved.",
+    "start": 1814.755,
+    "duration": 2.941
+  },
+  {
+    "text": "The hydroxychloroquine looks like\nit works, somewhat,",
+    "start": 1819.147,
+    "duration": 2.694
+  },
+  {
+    "text": "if you get in early.",
+    "start": 1821.865,
+    "duration": 1.353
+  },
+  {
+    "text": "There's a huge list of compounds,\nincluding antibodies,",
+    "start": 1823.242,
+    "duration": 4.159
+  },
+  {
+    "text": "antiviral drugs,",
+    "start": 1827.425,
+    "duration": 1.668
+  },
+  {
+    "text": "and so the Gates Foundation\nand Wellcome Trust,",
+    "start": 1829.117,
+    "duration": 4.801
+  },
+  {
+    "text": "with support from Mastercard\nand now others,",
+    "start": 1833.942,
+    "duration": 2.421
+  },
+  {
+    "text": "created this therapeutics accelerator\nto really triage out.",
+    "start": 1836.387,
+    "duration": 4.921
+  },
+  {
+    "text": "You have hundreds of people showing up\nand saying, try this, try that.",
+    "start": 1841.332,
+    "duration": 3.549
+  },
+  {
+    "text": "So we look at lab assays, animal models,",
+    "start": 1844.905,
+    "duration": 3.141
+  },
+  {
+    "text": "and so we understand which things\nshould be prioritized",
+    "start": 1848.07,
+    "duration": 3.127
+  },
+  {
+    "text": "for these very quick human trials",
+    "start": 1851.221,
+    "duration": 2.65
+  },
+  {
+    "text": "that need to be done all over the world.",
+    "start": 1853.895,
+    "duration": 1.921
+  },
+  {
+    "text": "So the coordination on that\nis very complex, globally.",
+    "start": 1855.84,
+    "duration": 5.676
+  },
+  {
+    "text": "But I think, you know,\nout of the top 20 or so candidates,",
+    "start": 1861.54,
+    "duration": 4.396
+  },
+  {
+    "text": "probably three or four of them\nwill work out,",
+    "start": 1865.96,
+    "duration": 3.151
+  },
+  {
+    "text": "you know, at different\nstages of the disease,",
+    "start": 1869.135,
+    "duration": 2.277
+  },
+  {
+    "text": "to reduce the respiratory distress.",
+    "start": 1871.436,
+    "duration": 3.422
+  },
+  {
+    "text": "CA: I heard you mentioned\nthat one possibility",
+    "start": 1875.45,
+    "duration": 2.167
+  },
+  {
+    "text": "might be treatments\nfrom the serum, the blood serum,",
+    "start": 1877.641,
+    "duration": 4.023
+  },
+  {
+    "text": "of people who had had\nthe disease and recovered.",
+    "start": 1881.688,
+    "duration": 4.086
+  },
+  {
+    "text": "So I guess they're carrying antibodies.",
+    "start": 1885.798,
+    "duration": 1.898
+  },
+  {
+    "text": "Talk a bit about that, how that could work",
+    "start": 1887.72,
+    "duration": 2.064
+  },
+  {
+    "text": "and what it would take to accelerate that.",
+    "start": 1889.808,
+    "duration": 2.221
+  },
+  {
+    "text": "BG: Yeah, this has always been discussed\nas how could you pull that off.",
+    "start": 1893.337,
+    "duration": 4.762
+  },
+  {
+    "text": "So people who are recovered,",
+    "start": 1898.123,
+    "duration": 3.769
+  },
+  {
+    "text": "it appears,",
+    "start": 1901.916,
+    "duration": 1.151
+  },
+  {
+    "text": "have really effective\nantibodies in their blood.",
+    "start": 1903.091,
+    "duration": 3.788
+  },
+  {
+    "text": "So you could go,",
+    "start": 1906.903,
+    "duration": 1.507
+  },
+  {
+    "text": "transfuse them and only take out\nthe white cells, the immune cells.",
+    "start": 1908.434,
+    "duration": 6.207
+  },
+  {
+    "text": "And then the question is,",
+    "start": 1914.665,
+    "duration": 1.302
+  },
+  {
+    "text": "OK, how many patients' worth\nof material could you get?",
+    "start": 1915.991,
+    "duration": 3.518
+  },
+  {
+    "text": "You know, if you have\nthat recovered person come in,",
+    "start": 1919.824,
+    "duration": 2.454
+  },
+  {
+    "text": "say, once a week,",
+    "start": 1922.302,
+    "duration": 1.519
+  },
+  {
+    "text": "do you get enough\nfor two people or five people?",
+    "start": 1923.845,
+    "duration": 3.177
+  },
+  {
+    "text": "Then logistically, you have to take that\nand get it to where that need is.",
+    "start": 1927.046,
+    "duration": 5.674
+  },
+  {
+    "text": "And so it's fairly complicated,",
+    "start": 1932.744,
+    "duration": 3.039
+  },
+  {
+    "text": "you know, compared to a drug\nthat we can make in high volume.",
+    "start": 1935.807,
+    "duration": 3.842
+  },
+  {
+    "text": "You know, the cost of taking it out\nand putting it back in",
+    "start": 1939.673,
+    "duration": 4.668
+  },
+  {
+    "text": "probably doesn't scale as well.",
+    "start": 1944.365,
+    "duration": 2.793
+  },
+  {
+    "text": "But there is work being done on this.",
+    "start": 1947.182,
+    "duration": 3.015
+  },
+  {
+    "text": "You know, we actually started with Ebola,",
+    "start": 1950.833,
+    "duration": 1.99
+  },
+  {
+    "text": "and fortunately, it got done\nbefore it was needed.",
+    "start": 1952.847,
+    "duration": 5.767
+  },
+  {
+    "text": "So that is being pursued",
+    "start": 1959.059,
+    "duration": 2.597
+  },
+  {
+    "text": "and it will work to some degree,",
+    "start": 1961.68,
+    "duration": 2.27
+  },
+  {
+    "text": "but it will be hard to scale the numbers.",
+    "start": 1963.974,
+    "duration": 3.802
+  },
+  {
+    "text": "CA: So it's almost like,",
+    "start": 1968.372,
+    "duration": 1.601
+  },
+  {
+    "text": "when you talk about the need\nto accelerate testing,",
+    "start": 1969.997,
+    "duration": 2.398
+  },
+  {
+    "text": "the immediate need\nis for testing for the virus.",
+    "start": 1972.419,
+    "duration": 2.929
+  },
+  {
+    "text": "But is it possible\nthat in a few months' time,",
+    "start": 1975.372,
+    "duration": 2.198
+  },
+  {
+    "text": "there's going to be this growing need\nto test for these antibodies in people,",
+    "start": 1977.594,
+    "duration": 3.658
+  },
+  {
+    "text": "i.e. to see if someone\nhad the disease and recovered,",
+    "start": 1981.276,
+    "duration": 3.278
+  },
+  {
+    "text": "maybe they didn't even know they had it.",
+    "start": 1984.578,
+    "duration": 2.008
+  },
+  {
+    "text": "Because you could picture\nthis growing worldwide force of heroes --",
+    "start": 1986.61,
+    "duration": 4.333
+  },
+  {
+    "text": "let's call them heroes --",
+    "start": 1990.967,
+    "duration": 1.258
+  },
+  {
+    "text": "who have been through this experience",
+    "start": 1992.249,
+    "duration": 2.003
+  },
+  {
+    "text": "and have a lot to offer the world.",
+    "start": 1994.276,
+    "duration": 1.634
+  },
+  {
+    "text": "Maybe they can offer\nblood donation, serum donation.",
+    "start": 1995.934,
+    "duration": 3.048
+  },
+  {
+    "text": "But also other tasks,",
+    "start": 1999.719,
+    "duration": 1.294
+  },
+  {
+    "text": "like, if you've got overwhelmed\nhealth care systems,",
+    "start": 2001.037,
+    "duration": 2.793
+  },
+  {
+    "text": "presumably, there are kind of\ncommunity health worker type tasks",
+    "start": 2003.854,
+    "duration": 3.699
+  },
+  {
+    "text": "that people could be trained to do\nto relieve the pressure there,",
+    "start": 2007.577,
+    "duration": 3.072
+  },
+  {
+    "text": "if we knew that they were\neffectively immune?",
+    "start": 2010.673,
+    "duration": 2.619
+  },
+  {
+    "text": "BG: Yes.",
+    "start": 2013.633,
+    "duration": 1.151
+  },
+  {
+    "text": "Until we came up with the self-swab",
+    "start": 2014.808,
+    "duration": 3.491
+  },
+  {
+    "text": "and showed FDA that that's equivalent,",
+    "start": 2018.323,
+    "duration": 2.611
+  },
+  {
+    "text": "we were thinking that people\nwho might be able to man those kiosks",
+    "start": 2020.958,
+    "duration": 3.349
+  },
+  {
+    "text": "would be the recovered patients.",
+    "start": 2024.331,
+    "duration": 1.848
+  },
+  {
+    "text": "Now we don't want to have\na lot of recovered people, you know.",
+    "start": 2026.203,
+    "duration": 2.912
+  },
+  {
+    "text": "To be clear, we're trying,\nthrough the shutdown,",
+    "start": 2029.139,
+    "duration": 3.925
+  },
+  {
+    "text": "in the United States,",
+    "start": 2033.088,
+    "duration": 1.368
+  },
+  {
+    "text": "to not get to one percent\nof the population infected.",
+    "start": 2034.48,
+    "duration": 4.212
+  },
+  {
+    "text": "We're well below that today,",
+    "start": 2038.716,
+    "duration": 1.499
+  },
+  {
+    "text": "but with exponentiation,\nyou could get past that three million.",
+    "start": 2040.239,
+    "duration": 6.539
+  },
+  {
+    "text": "I believe we will be able to avoid that",
+    "start": 2046.802,
+    "duration": 3.323
+  },
+  {
+    "text": "with having this economic pain.",
+    "start": 2050.149,
+    "duration": 3.602
+  },
+  {
+    "text": "Eventually, what we'll have to have",
+    "start": 2054.184,
+    "duration": 1.714
+  },
+  {
+    "text": "is certificates of who\nis a recovered person,",
+    "start": 2055.922,
+    "duration": 2.694
+  },
+  {
+    "text": "who is a vaccinated person,",
+    "start": 2058.64,
+    "duration": 1.536
+  },
+  {
+    "text": "because you don't want people\nmoving around the world --",
+    "start": 2060.2,
+    "duration": 3.443
+  },
+  {
+    "text": "where you'll have some countries\nthat won't have it under control, sadly --",
+    "start": 2063.667,
+    "duration": 3.976
+  },
+  {
+    "text": "you don't want to completely block off",
+    "start": 2067.667,
+    "duration": 2.794
+  },
+  {
+    "text": "the ability for those people to go there\nand come back and move around.",
+    "start": 2070.485,
+    "duration": 5.119
+  },
+  {
+    "text": "CA: Bill, is your foundation helping\nto accelerate the manufacture",
+    "start": 2075.628,
+    "duration": 3.238
+  },
+  {
+    "text": "of these self tests?",
+    "start": 2078.89,
+    "duration": 1.279
+  },
+  {
+    "text": "What are the prospects\nfor really seeing scale",
+    "start": 2080.193,
+    "duration": 2.181
+  },
+  {
+    "text": "on some of this testing soon,",
+    "start": 2082.398,
+    "duration": 1.53
+  },
+  {
+    "text": "not just in the US, but globally?",
+    "start": 2083.952,
+    "duration": 2.27
+  },
+  {
+    "text": "BG: Yeah, our foundation,",
+    "start": 2086.741,
+    "duration": 1.223
+  },
+  {
+    "text": "we'd been funding the thing\ncalled the Flu Study",
+    "start": 2087.988,
+    "duration": 2.301
+  },
+  {
+    "text": "to really understand\nhow respiratory viruses spread.",
+    "start": 2090.313,
+    "duration": 3.001
+  },
+  {
+    "text": "It's amazing how little was understood\nabout how important schools are,",
+    "start": 2093.338,
+    "duration": 5.588
+  },
+  {
+    "text": "different age groups,\ndifferent types of interaction.",
+    "start": 2098.95,
+    "duration": 2.732
+  },
+  {
+    "text": "And that gave us an experience.",
+    "start": 2102.046,
+    "duration": 1.769
+  },
+  {
+    "text": "In fact, that flu study",
+    "start": 2103.839,
+    "duration": 1.76
+  },
+  {
+    "text": "actually was the first time\ncoronavirus was found in the community,",
+    "start": 2105.623,
+    "duration": 3.833
+  },
+  {
+    "text": "because the government was still saying",
+    "start": 2109.48,
+    "duration": 1.858
+  },
+  {
+    "text": "you only test people\nwho'd come from China,",
+    "start": 2111.362,
+    "duration": 2.174
+  },
+  {
+    "text": "but we ran into people\nwho had coronavirus,",
+    "start": 2113.56,
+    "duration": 3.669
+  },
+  {
+    "text": "who hadn't been travelers.",
+    "start": 2117.253,
+    "duration": 2.332
+  },
+  {
+    "text": "So, that was like an early warning sign,",
+    "start": 2119.609,
+    "duration": 2.686
+  },
+  {
+    "text": "even though the regulation said\nyou weren't supposed to even look at that.",
+    "start": 2122.319,
+    "duration": 4.774
+  },
+  {
+    "text": "So yeah, the Foundation is working\nwith all the private sector people,",
+    "start": 2127.117,
+    "duration": 6.632
+  },
+  {
+    "text": "the diagnostics people\non this testing piece.",
+    "start": 2133.773,
+    "duration": 2.698
+  },
+  {
+    "text": "Now that we can do the self-swab,",
+    "start": 2137.035,
+    "duration": 4.274
+  },
+  {
+    "text": "those swabs are very easy to manufacture.",
+    "start": 2141.333,
+    "duration": 2.785
+  },
+  {
+    "text": "The one where you had\nto jam it into the throat,",
+    "start": 2144.142,
+    "duration": 2.707
+  },
+  {
+    "text": "deep turbinate,",
+    "start": 2146.873,
+    "duration": 1.151
+  },
+  {
+    "text": "that was getting into short supply.",
+    "start": 2148.048,
+    "duration": 2.816
+  },
+  {
+    "text": "So the swab should not be limiting,",
+    "start": 2150.888,
+    "duration": 3.099
+  },
+  {
+    "text": "neither should the various chemicals\nthat help run the PCR machines.",
+    "start": 2154.011,
+    "duration": 5.532
+  },
+  {
+    "text": "So we should be able",
+    "start": 2159.567,
+    "duration": 1.921
+  },
+  {
+    "text": "to get to a South Korea-type\nprioritized testing thing",
+    "start": 2161.512,
+    "duration": 3.91
+  },
+  {
+    "text": "within a few weeks.",
+    "start": 2165.446,
+    "duration": 1.631
+  },
+  {
+    "text": "CA: How important is it\nthat the world's nations",
+    "start": 2167.49,
+    "duration": 4.065
+  },
+  {
+    "text": "collaborate right now?",
+    "start": 2171.579,
+    "duration": 1.347
+  },
+  {
+    "text": "I mean, it seems like, you know,",
+    "start": 2172.95,
+    "duration": 2.357
+  },
+  {
+    "text": "here's this common enemy facing humanity,",
+    "start": 2175.331,
+    "duration": 2.707
+  },
+  {
+    "text": "it does not know\nthat it just crossed a border,",
+    "start": 2178.062,
+    "duration": 2.222
+  },
+  {
+    "text": "it does not know what race people are,",
+    "start": 2180.308,
+    "duration": 2.007
+  },
+  {
+    "text": "what religion they are --",
+    "start": 2182.339,
+    "duration": 1.222
+  },
+  {
+    "text": "it just knows, \"Here's a human,",
+    "start": 2183.585,
+    "duration": 1.511
+  },
+  {
+    "text": "I've got a manufacturing machine here\nthat can make me famous.\"",
+    "start": 2185.12,
+    "duration": 6.163
+  },
+  {
+    "text": "And it goes to work.",
+    "start": 2191.307,
+    "duration": 1.596
+  },
+  {
+    "text": "It's so terrifying to me to see",
+    "start": 2192.927,
+    "duration": 2.736
+  },
+  {
+    "text": "signs of countries starting\nto blame each other",
+    "start": 2195.687,
+    "duration": 2.956
+  },
+  {
+    "text": "or the xenophobia, it just seems so toxic.",
+    "start": 2198.667,
+    "duration": 4.496
+  },
+  {
+    "text": "What's your take on this, Bill?",
+    "start": 2203.187,
+    "duration": 2.278
+  },
+  {
+    "text": "Do you see signs of cooperation happening,",
+    "start": 2205.902,
+    "duration": 3.089
+  },
+  {
+    "text": "or are you also worried about the sort of,\n\"US versus China\" kind of thing",
+    "start": 2209.015,
+    "duration": 6.223
+  },
+  {
+    "text": "that seems to be going on\nif we're not careful?",
+    "start": 2215.262,
+    "duration": 2.799
+  },
+  {
+    "text": "BG: Well, I see both.",
+    "start": 2218.085,
+    "duration": 1.335
+  },
+  {
+    "text": "I see that countries that are recovered",
+    "start": 2219.444,
+    "duration": 5.085
+  },
+  {
+    "text": "can help other countries.",
+    "start": 2224.553,
+    "duration": 1.96
+  },
+  {
+    "text": "And that's fantastic.",
+    "start": 2227.363,
+    "duration": 3.563
+  },
+  {
+    "text": "If by the summer,\nwe've knocked this thing down,",
+    "start": 2230.95,
+    "duration": 3.559
+  },
+  {
+    "text": "then great, we can help other countries.",
+    "start": 2234.533,
+    "duration": 2.706
+  },
+  {
+    "text": "There are vaccine projects\nall over the world,",
+    "start": 2237.263,
+    "duration": 2.5
+  },
+  {
+    "text": "and those should be evaluated\non a very neutral basis,",
+    "start": 2239.787,
+    "duration": 3.679
+  },
+  {
+    "text": "to which one is the best to help humanity.",
+    "start": 2243.49,
+    "duration": 3.659
+  },
+  {
+    "text": "And make sure the manufacturing capacity\nisn't just for rich countries,",
+    "start": 2247.173,
+    "duration": 4.118
+  },
+  {
+    "text": "that it's scaled up, very low cost stuff\nfor the entire world,",
+    "start": 2251.315,
+    "duration": 4.262
+  },
+  {
+    "text": "and that's the spirit of GAVI,\nis getting vaccines out to every person.",
+    "start": 2255.601,
+    "duration": 5.083
+  },
+  {
+    "text": "So in the science side,\nand data-sharing side,",
+    "start": 2260.708,
+    "duration": 4.889
+  },
+  {
+    "text": "you see this great cooperation going on.",
+    "start": 2265.621,
+    "duration": 2.666
+  },
+  {
+    "text": "Unfortunately, whenever you have disease,",
+    "start": 2268.883,
+    "duration": 1.972
+  },
+  {
+    "text": "this sense of other and foreign\nand \"Oh, stay away from me,\"",
+    "start": 2270.879,
+    "duration": 4.873
+  },
+  {
+    "text": "you know, that sort of\npulling inward is reinforced.",
+    "start": 2275.776,
+    "duration": 4.158
+  },
+  {
+    "text": "And we have to avoid that.",
+    "start": 2279.958,
+    "duration": 1.841
+  },
+  {
+    "text": "You know, ironically,\nwe have to isolate physically,",
+    "start": 2282.752,
+    "duration": 3.778
+  },
+  {
+    "text": "while in terms of looking\nat community groups",
+    "start": 2286.554,
+    "duration": 5.356
+  },
+  {
+    "text": "that are pooling resources\nto help make sure food gets to everyone",
+    "start": 2291.934,
+    "duration": 4.429
+  },
+  {
+    "text": "and help assure medical care,",
+    "start": 2296.387,
+    "duration": 1.992
+  },
+  {
+    "text": "you know, if older people need\nto be moved out of common facilities,",
+    "start": 2298.403,
+    "duration": 4.491
+  },
+  {
+    "text": "you help out with that,",
+    "start": 2302.918,
+    "duration": 1.183
+  },
+  {
+    "text": "and that people aren't suffering too much\nfrom the psychology of isolation.",
+    "start": 2304.125,
+    "duration": 4.826
+  },
+  {
+    "text": "So our generosity\nhas to go up towards others",
+    "start": 2308.975,
+    "duration": 3.054
+  },
+  {
+    "text": "at the same time we're less actually\nphysically interacting with other people.",
+    "start": 2312.053,
+    "duration": 6.465
+  },
+  {
+    "text": "CA: I mean, thinking about the situation\nin many developing countries,",
+    "start": 2319.005,
+    "duration": 4.016
+  },
+  {
+    "text": "I'm curious how you think of this.",
+    "start": 2323.045,
+    "duration": 1.809
+  },
+  {
+    "text": "You mentioned, first of all,\nthat seasonality may help,",
+    "start": 2324.878,
+    "duration": 3.08
+  },
+  {
+    "text": "i.e. high temperatures.",
+    "start": 2327.982,
+    "duration": 1.325
+  },
+  {
+    "text": "Is it possible that that is so far\nprotecting, to some extent,",
+    "start": 2329.331,
+    "duration": 4.277
+  },
+  {
+    "text": "places like India\nor sub-Saharan Africa and so forth?",
+    "start": 2333.632,
+    "duration": 3.151
+  },
+  {
+    "text": "BG: India's Northern Hemisphere.",
+    "start": 2337.53,
+    "duration": 2.19
+  },
+  {
+    "text": "So Southern Hemisphere\nis lots of Africa, South America,",
+    "start": 2339.744,
+    "duration": 3.631
+  },
+  {
+    "text": "Australia, New Zealand, Indonesia.",
+    "start": 2343.399,
+    "duration": 2.504
+  },
+  {
+    "text": "And it is true,",
+    "start": 2345.927,
+    "duration": 1.855
+  },
+  {
+    "text": "either the force\nof the infection is lower there",
+    "start": 2347.806,
+    "duration": 4.117
+  },
+  {
+    "text": "or we're just not seeing it with testing.",
+    "start": 2351.947,
+    "duration": 2.065
+  },
+  {
+    "text": "You know, a few months from now,\nwe'll understand the seasonality question,",
+    "start": 2354.036,
+    "duration": 3.946
+  },
+  {
+    "text": "which would be good news\nfor the Northern Hemisphere,",
+    "start": 2358.006,
+    "duration": 2.983
+  },
+  {
+    "text": "and somewhat bad news\nfor the Southern Hemisphere.",
+    "start": 2361.013,
+    "duration": 2.921
+  },
+  {
+    "text": "Now more people live\nin the Northern Hemisphere,",
+    "start": 2363.958,
+    "duration": 2.341
+  },
+  {
+    "text": "including India, Pakistan,",
+    "start": 2366.323,
+    "duration": 2.683
+  },
+  {
+    "text": "and that would buy us some time,\nand time is a big deal,",
+    "start": 2369.03,
+    "duration": 2.711
+  },
+  {
+    "text": "because all these tools get so much better",
+    "start": 2371.765,
+    "duration": 5.043
+  },
+  {
+    "text": "if you had to go into\na second season with it.",
+    "start": 2376.832,
+    "duration": 2.588
+  },
+  {
+    "text": "But yeah, sadly,",
+    "start": 2379.444,
+    "duration": 1.547
+  },
+  {
+    "text": "we could see, in the next few months,",
+    "start": 2381.015,
+    "duration": 2.301
+  },
+  {
+    "text": "as the Southern Hemisphere\nis moving into its fall and then winter,",
+    "start": 2383.34,
+    "duration": 6.401
+  },
+  {
+    "text": "we could see a big increase there,",
+    "start": 2389.765,
+    "duration": 1.627
+  },
+  {
+    "text": "and that is going to be very difficult.",
+    "start": 2391.416,
+    "duration": 2.968
+  },
+  {
+    "text": "Now they don't have as many older people,",
+    "start": 2394.408,
+    "duration": 2.311
+  },
+  {
+    "text": "but they have lots of people\nwho are HIV positive,",
+    "start": 2396.743,
+    "duration": 4.398
+  },
+  {
+    "text": "or have malnutrition\nor various lung challenges",
+    "start": 2401.165,
+    "duration": 4.604
+  },
+  {
+    "text": "because of indoor smoke,",
+    "start": 2405.793,
+    "duration": 1.198
+  },
+  {
+    "text": "and so the wild card",
+    "start": 2407.015,
+    "duration": 2.38
+  },
+  {
+    "text": "is how well can the developing\ncountries deal with this.",
+    "start": 2409.419,
+    "duration": 3.441
+  },
+  {
+    "text": "CA: If you're in a country\nwhere the majority of your population",
+    "start": 2413.507,
+    "duration": 3.108
+  },
+  {
+    "text": "is making less than two\nor three dollars a day,",
+    "start": 2416.639,
+    "duration": 3.01
+  },
+  {
+    "text": "can you even afford a strategy\nthat looks like, basically,",
+    "start": 2419.673,
+    "duration": 2.745
+  },
+  {
+    "text": "shutting down the economy?",
+    "start": 2422.442,
+    "duration": 1.644
+  },
+  {
+    "text": "BG: I'm very worried that there will be\na massive number of deaths",
+    "start": 2424.11,
+    "duration": 7.0
+  },
+  {
+    "text": "in those poorer countries,",
+    "start": 2431.134,
+    "duration": 1.524
+  },
+  {
+    "text": "because the health systems just aren't --",
+    "start": 2432.682,
+    "duration": 3.23
+  },
+  {
+    "text": "you know, the number\nof respirators, hospitals,",
+    "start": 2435.936,
+    "duration": 2.816
+  },
+  {
+    "text": "and of course,\nwhen you overload that system,",
+    "start": 2438.776,
+    "duration": 2.111
+  },
+  {
+    "text": "your deaths are not just COVID deaths,",
+    "start": 2440.911,
+    "duration": 2.388
+  },
+  {
+    "text": "but everyone else who's trying to access\na system that will be somewhat in chaos,",
+    "start": 2443.323,
+    "duration": 5.01
+  },
+  {
+    "text": "including with health workers\nwho are getting sick.",
+    "start": 2448.357,
+    "duration": 3.021
+  },
+  {
+    "text": "CA: OK, we're getting near\nto running out of time with this.",
+    "start": 2452.438,
+    "duration": 2.834
+  },
+  {
+    "text": "Whitney, maybe a last question\nor two from online.",
+    "start": 2455.296,
+    "duration": 3.078
+  },
+  {
+    "text": "WPR: Sure, we have two from online,",
+    "start": 2458.398,
+    "duration": 1.675
+  },
+  {
+    "text": "we're seeing thousands of questions\naround these same lines.",
+    "start": 2460.097,
+    "duration": 2.861
+  },
+  {
+    "text": "One, there's lots of people\nwho are really interested to hear",
+    "start": 2462.982,
+    "duration": 2.873
+  },
+  {
+    "text": "about the kind of work that you're doing\nwith your foundation",
+    "start": 2465.879,
+    "duration": 2.889
+  },
+  {
+    "text": "as far as distributing tests,\nbut also producing safety gear,",
+    "start": 2468.792,
+    "duration": 3.502
+  },
+  {
+    "text": "masks and that sort of thing,",
+    "start": 2472.318,
+    "duration": 1.705
+  },
+  {
+    "text": "to help with this effort\nfor health workers.",
+    "start": 2474.047,
+    "duration": 2.383
+  },
+  {
+    "text": "BG: So the Gates Foundation,",
+    "start": 2477.087,
+    "duration": 2.349
+  },
+  {
+    "text": "you know, we, very early on,",
+    "start": 2479.46,
+    "duration": 3.445
+  },
+  {
+    "text": "gave out 100 million\nto help out with all the pieces:",
+    "start": 2482.929,
+    "duration": 4.021
+  },
+  {
+    "text": "the testing piece,\nthe therapeutics and the vaccines.",
+    "start": 2486.974,
+    "duration": 3.944
+  },
+  {
+    "text": "We are not experts in making masks\nand ventilators and gowns,",
+    "start": 2490.942,
+    "duration": 4.362
+  },
+  {
+    "text": "and it's great that other people,\nincluding some 3D printing,",
+    "start": 2495.328,
+    "duration": 4.357
+  },
+  {
+    "text": "and open-source things, that is great.",
+    "start": 2499.709,
+    "duration": 2.642
+  },
+  {
+    "text": "Our focus, you know,\nlike this self-swab thing,",
+    "start": 2502.375,
+    "duration": 4.862
+  },
+  {
+    "text": "nobody had done that before,",
+    "start": 2507.261,
+    "duration": 1.714
+  },
+  {
+    "text": "people thought it wouldn't work,",
+    "start": 2508.999,
+    "duration": 1.865
+  },
+  {
+    "text": "we were quite sure it would work.",
+    "start": 2510.888,
+    "duration": 1.572
+  },
+  {
+    "text": "And so that, for the globe,\nis a huge thing.",
+    "start": 2512.484,
+    "duration": 3.015
+  },
+  {
+    "text": "We work a lot with both\ngovernments and private sector,",
+    "start": 2515.523,
+    "duration": 2.578
+  },
+  {
+    "text": "so in some ways, we're kind of a bridge.",
+    "start": 2518.125,
+    "duration": 2.881
+  },
+  {
+    "text": "And we've been talking to the heads\nof the pharmaceutical companies,",
+    "start": 2521.03,
+    "duration": 3.254
+  },
+  {
+    "text": "the testing companies",
+    "start": 2524.308,
+    "duration": 1.587
+  },
+  {
+    "text": "and, specifically,\nwith the ones doing vaccines,",
+    "start": 2525.919,
+    "duration": 2.396
+  },
+  {
+    "text": "including some of which are these new\ntype of vaccines, RNA vaccines,",
+    "start": 2528.339,
+    "duration": 4.3
+  },
+  {
+    "text": "that we've been backing\nfor quite some time,",
+    "start": 2532.663,
+    "duration": 3.652
+  },
+  {
+    "text": "and CEPI has been backing.",
+    "start": 2536.339,
+    "duration": 1.381
+  },
+  {
+    "text": "And so our expertise\nis in those medical tools",
+    "start": 2537.744,
+    "duration": 3.979
+  },
+  {
+    "text": "and really getting the best\nof the private sector engaged there.",
+    "start": 2541.747,
+    "duration": 3.997
+  },
+  {
+    "text": "It's been a little slow.",
+    "start": 2545.768,
+    "duration": 1.174
+  },
+  {
+    "text": "We can write checks right away,",
+    "start": 2546.966,
+    "duration": 2.374
+  },
+  {
+    "text": "whereas the government processes,",
+    "start": 2549.364,
+    "duration": 1.59
+  },
+  {
+    "text": "even in this situation --",
+    "start": 2550.978,
+    "duration": 2.369
+  },
+  {
+    "text": "you know, there's still\nthis notion of bidding,",
+    "start": 2553.371,
+    "duration": 2.214
+  },
+  {
+    "text": "and not really knowing who has\nthe unique capabilities of doing things,",
+    "start": 2555.609,
+    "duration": 4.464
+  },
+  {
+    "text": "and so, an organization\nthat's working on this all the time,",
+    "start": 2560.097,
+    "duration": 4.373
+  },
+  {
+    "text": "lots of new vaccines,",
+    "start": 2564.494,
+    "duration": 1.651
+  },
+  {
+    "text": "can step in and be helpful.",
+    "start": 2566.169,
+    "duration": 2.234
+  },
+  {
+    "text": "And it's really amazing.",
+    "start": 2568.427,
+    "duration": 1.293
+  },
+  {
+    "text": "When we talk to private-sector partners,",
+    "start": 2569.744,
+    "duration": 2.016
+  },
+  {
+    "text": "their interest in helping out\nhas been absolutely fantastic.",
+    "start": 2571.784,
+    "duration": 6.631
+  },
+  {
+    "text": "And so that's where we have a unique role.",
+    "start": 2578.439,
+    "duration": 3.818
+  },
+  {
+    "text": "WPR: And the other question\nthat we're seeing a ton of --",
+    "start": 2582.281,
+    "duration": 2.729
+  },
+  {
+    "text": "before we wrap up here --",
+    "start": 2585.034,
+    "duration": 1.596
+  },
+  {
+    "text": "is just people are really interested\nin your insight, Bill,",
+    "start": 2586.654,
+    "duration": 3.037
+  },
+  {
+    "text": "on whether you think we are heading\nin the right direction,",
+    "start": 2589.715,
+    "duration": 2.777
+  },
+  {
+    "text": "do you feel like our economy\nis heading in the right place,",
+    "start": 2592.516,
+    "duration": 2.81
+  },
+  {
+    "text": "that humanity is heading\nin the right place,",
+    "start": 2595.35,
+    "duration": 2.079
+  },
+  {
+    "text": "are we in a better position now",
+    "start": 2597.453,
+    "duration": 1.64
+  },
+  {
+    "text": "than you thought we were in\nfive years ago?",
+    "start": 2599.117,
+    "duration": 2.325
+  },
+  {
+    "text": "BG: Well, five years ago,",
+    "start": 2602.911,
+    "duration": 1.449
+  },
+  {
+    "text": "I said that pandemic",
+    "start": 2604.384,
+    "duration": 3.716
+  },
+  {
+    "text": "is this unaddressed,\nvery, very scary thing.",
+    "start": 2608.124,
+    "duration": 5.27
+  },
+  {
+    "text": "And that if we did the right things,\nwe could be more prepared.",
+    "start": 2613.823,
+    "duration": 5.056
+  },
+  {
+    "text": "Science is on our side.",
+    "start": 2618.903,
+    "duration": 1.738
+  },
+  {
+    "text": "The fact we can be ready\nfor the next epidemic,",
+    "start": 2620.665,
+    "duration": 5.837
+  },
+  {
+    "text": "it's very clear how to do that.",
+    "start": 2626.526,
+    "duration": 2.793
+  },
+  {
+    "text": "And yes, it will take tens of billions,",
+    "start": 2629.343,
+    "duration": 2.054
+  },
+  {
+    "text": "but not hundreds or trillions of dollars.",
+    "start": 2631.421,
+    "duration": 3.201
+  },
+  {
+    "text": "So it will be tiny compared\nto the economic cost.",
+    "start": 2634.646,
+    "duration": 4.042
+  },
+  {
+    "text": "I remember when I did\nthat presentation 2015,",
+    "start": 2638.712,
+    "duration": 2.28
+  },
+  {
+    "text": "I put up, \"Hey, a big flu epidemic\ncould cost four trillion,\"",
+    "start": 2641.016,
+    "duration": 4.343
+  },
+  {
+    "text": "and I thought, wow, that's a big number,",
+    "start": 2645.383,
+    "duration": 1.929
+  },
+  {
+    "text": "do I really think it's that big?",
+    "start": 2647.336,
+    "duration": 1.896
+  },
+  {
+    "text": "And I went and looked up numbers\nand thought, yeah, well, that's big.",
+    "start": 2649.256,
+    "duration": 3.297
+  },
+  {
+    "text": "This epidemic will cost\nthat much to the economy.",
+    "start": 2652.577,
+    "duration": 6.0
+  },
+  {
+    "text": "So in the short run,",
+    "start": 2658.601,
+    "duration": 2.762
+  },
+  {
+    "text": "we are going to have more pain\nand more difficulty",
+    "start": 2661.387,
+    "duration": 3.368
+  },
+  {
+    "text": "and people are going to have to step up\nto help each other.",
+    "start": 2664.779,
+    "duration": 3.351
+  },
+  {
+    "text": "I'm still very much an optimist, you know,",
+    "start": 2668.154,
+    "duration": 2.199
+  },
+  {
+    "text": "whether it's climate change,\ncountries working together,",
+    "start": 2670.377,
+    "duration": 3.467
+  },
+  {
+    "text": "biology taking the diseases, malaria, TB,",
+    "start": 2673.868,
+    "duration": 5.678
+  },
+  {
+    "text": "you know, even advances\nfor what are more rich-world diseases,",
+    "start": 2679.57,
+    "duration": 3.472
+  },
+  {
+    "text": "like cancer.",
+    "start": 2683.066,
+    "duration": 1.155
+  },
+  {
+    "text": "The amount of innovation,",
+    "start": 2684.245,
+    "duration": 1.277
+  },
+  {
+    "text": "the way we can connect up\nand work together --",
+    "start": 2685.546,
+    "duration": 2.412
+  },
+  {
+    "text": "yes, I'm superpositive about that.",
+    "start": 2687.982,
+    "duration": 3.389
+  },
+  {
+    "text": "You know, I love my work",
+    "start": 2691.395,
+    "duration": 1.315
+  },
+  {
+    "text": "because I see progress\non all these diseases all the time.",
+    "start": 2692.734,
+    "duration": 3.717
+  },
+  {
+    "text": "Now we have to turn\nand focus on this, you know.",
+    "start": 2696.475,
+    "duration": 4.635
+  },
+  {
+    "text": "Sadly, it may interrupt",
+    "start": 2701.134,
+    "duration": 1.61
+  },
+  {
+    "text": "and the polio situation\nmight get worse a little bit",
+    "start": 2702.768,
+    "duration": 2.706
+  },
+  {
+    "text": "because of the distraction here.",
+    "start": 2705.498,
+    "duration": 2.905
+  },
+  {
+    "text": "We're using a lot of the great capacity",
+    "start": 2708.427,
+    "duration": 2.293
+  },
+  {
+    "text": "that was built up\nfor those polio activities",
+    "start": 2710.744,
+    "duration": 3.032
+  },
+  {
+    "text": "to try and help the developing countries\nrespond to this very well.",
+    "start": 2713.8,
+    "duration": 3.396
+  },
+  {
+    "text": "And that is appropriate,",
+    "start": 2717.22,
+    "duration": 1.674
+  },
+  {
+    "text": "but the message from me,",
+    "start": 2718.918,
+    "duration": 2.054
+  },
+  {
+    "text": "although it's very sober\nwhen we're dealing with this epidemic,",
+    "start": 2720.996,
+    "duration": 4.888
+  },
+  {
+    "text": "you know, I'm very positive\nthat this should draw us together.",
+    "start": 2725.908,
+    "duration": 5.883
+  },
+  {
+    "text": "We will get out of this,",
+    "start": 2731.815,
+    "duration": 3.444
+  },
+  {
+    "text": "and then, we will get ready\nfor the next epidemic.",
+    "start": 2735.283,
+    "duration": 4.704
+  },
+  {
+    "text": "CA: That's exactly\nwhat I was going to ask you, Bill,",
+    "start": 2740.887,
+    "duration": 2.555
+  },
+  {
+    "text": "which is, where is your head,\ndo you think we will get through this?",
+    "start": 2743.466,
+    "duration": 4.77
+  },
+  {
+    "text": "Will the leaders that matter\nlisten to the scientists,",
+    "start": 2748.26,
+    "duration": 3.846
+  },
+  {
+    "text": "will they?",
+    "start": 2752.13,
+    "duration": 1.151
+  },
+  {
+    "text": "Will we make it through?",
+    "start": 2753.305,
+    "duration": 1.248
+  },
+  {
+    "text": "Do you believe that within\na few months' time,",
+    "start": 2754.577,
+    "duration": 2.175
+  },
+  {
+    "text": "we're already going to be\nlooking back and saying,",
+    "start": 2756.776,
+    "duration": 2.349
+  },
+  {
+    "text": "\"Phew, we dodged a pretty bad one there.\"",
+    "start": 2759.149,
+    "duration": 2.333
+  },
+  {
+    "text": "BG: We can't say for sure",
+    "start": 2761.506,
+    "duration": 2.857
+  },
+  {
+    "text": "that even the rich countries\nwill be out of this",
+    "start": 2764.387,
+    "duration": 2.642
+  },
+  {
+    "text": "in six to ten weeks.",
+    "start": 2767.053,
+    "duration": 1.73
+  },
+  {
+    "text": "I think that's likely,",
+    "start": 2768.807,
+    "duration": 1.58
+  },
+  {
+    "text": "but as we get the testing data,",
+    "start": 2770.411,
+    "duration": 2.38
+  },
+  {
+    "text": "we'll get more of a sense of that",
+    "start": 2772.815,
+    "duration": 1.738
+  },
+  {
+    "text": "and people will continuously\nbe able to see that.",
+    "start": 2774.577,
+    "duration": 2.683
+  },
+  {
+    "text": "But you know, the rich countries\nwill get out of this.",
+    "start": 2777.737,
+    "duration": 3.683
+  },
+  {
+    "text": "The developing countries\nwill bear a significant price,",
+    "start": 2781.444,
+    "duration": 2.904
+  },
+  {
+    "text": "but even they, we will get a vaccine",
+    "start": 2784.372,
+    "duration": 2.777
+  },
+  {
+    "text": "and GAVI will get that out to everyone.",
+    "start": 2787.173,
+    "duration": 3.914
+  },
+  {
+    "text": "So you know, two to three years from now,",
+    "start": 2791.111,
+    "duration": 3.385
+  },
+  {
+    "text": "this thing, even on a global basis,",
+    "start": 2794.52,
+    "duration": 2.755
+  },
+  {
+    "text": "will essentially be over\nwith a gigantic price tag.",
+    "start": 2797.299,
+    "duration": 4.438
+  },
+  {
+    "text": "But now we're going to know,",
+    "start": 2802.157,
+    "duration": 1.96
+  },
+  {
+    "text": "OK, next time we see a pathogen,",
+    "start": 2804.141,
+    "duration": 2.777
+  },
+  {
+    "text": "we can make billions of tests\nwithin two or three weeks.",
+    "start": 2806.942,
+    "duration": 4.564
+  },
+  {
+    "text": "We can figure out\nwhich antiviral drugs work",
+    "start": 2811.53,
+    "duration": 3.234
+  },
+  {
+    "text": "within two or three weeks",
+    "start": 2814.788,
+    "duration": 1.276
+  },
+  {
+    "text": "and get those scaled up.",
+    "start": 2816.088,
+    "duration": 1.154
+  },
+  {
+    "text": "And we can make a vaccine,",
+    "start": 2817.266,
+    "duration": 1.581
+  },
+  {
+    "text": "if we're really ready,",
+    "start": 2818.871,
+    "duration": 1.46
+  },
+  {
+    "text": "probably in six months,",
+    "start": 2820.355,
+    "duration": 2.468
+  },
+  {
+    "text": "using these new platforms,\nprobably the RNA vaccine.",
+    "start": 2822.847,
+    "duration": 3.342
+  },
+  {
+    "text": "So specifically, there are innovations\nthat are there",
+    "start": 2826.213,
+    "duration": 6.873
+  },
+  {
+    "text": "that will get financed,\nyou know, I hope, quite generously,",
+    "start": 2833.11,
+    "duration": 6.467
+  },
+  {
+    "text": "coming out of this thing.",
+    "start": 2839.601,
+    "duration": 1.538
+  },
+  {
+    "text": "And so, three years from now,\nwe'll look back and say,",
+    "start": 2841.163,
+    "duration": 2.756
+  },
+  {
+    "text": "you know, that was awful,",
+    "start": 2843.943,
+    "duration": 2.182
+  },
+  {
+    "text": "there's a lot of heroes,\nbut we've learned a lesson",
+    "start": 2846.149,
+    "duration": 2.496
+  },
+  {
+    "text": "and the world as a whole,",
+    "start": 2848.669,
+    "duration": 3.829
+  },
+  {
+    "text": "with its great science\nand desire to help each other,",
+    "start": 2852.522,
+    "duration": 2.667
+  },
+  {
+    "text": "was able to try and minimize\nwhat happened there",
+    "start": 2855.213,
+    "duration": 3.253
+  },
+  {
+    "text": "and avoid it happening again.",
+    "start": 2858.49,
+    "duration": 4.088
+  },
+  {
+    "text": "CA: That's certainly\nthe optimistic scenario",
+    "start": 2863.365,
+    "duration": 2.204
+  },
+  {
+    "text": "that I'm craving for, myself.",
+    "start": 2865.593,
+    "duration": 2.45
+  },
+  {
+    "text": "That the world kind of realizes,",
+    "start": 2868.067,
+    "duration": 2.982
+  },
+  {
+    "text": "one, that there are certain things\nthat you just have to unite on.",
+    "start": 2871.073,
+    "duration": 3.115
+  },
+  {
+    "text": "Two, that science really matters",
+    "start": 2874.212,
+    "duration": 1.706
+  },
+  {
+    "text": "and it's a miracle that science\ncan understand this bug,",
+    "start": 2875.942,
+    "duration": 4.023
+  },
+  {
+    "text": "you know, make a vaccine,",
+    "start": 2879.989,
+    "duration": 1.914
+  },
+  {
+    "text": "sequence it, make therapeutics,",
+    "start": 2881.927,
+    "duration": 1.96
+  },
+  {
+    "text": "understand how to model it --",
+    "start": 2883.911,
+    "duration": 1.778
+  },
+  {
+    "text": "it's kind of miraculous to me.",
+    "start": 2885.713,
+    "duration": 1.491
+  },
+  {
+    "text": "So will we learn, now,\nto pay attention to scientists,",
+    "start": 2887.228,
+    "duration": 3.524
+  },
+  {
+    "text": "because if we do,\nI'm sure that you feel this as well,",
+    "start": 2890.776,
+    "duration": 3.175
+  },
+  {
+    "text": "there's an amazing analogue with climate,",
+    "start": 2893.975,
+    "duration": 1.984
+  },
+  {
+    "text": "it's just a different timescale.",
+    "start": 2895.983,
+    "duration": 1.65
+  },
+  {
+    "text": "That the scientists are out there, saying,",
+    "start": 2897.657,
+    "duration": 2.015
+  },
+  {
+    "text": "\"There's this huge enemy coming,",
+    "start": 2899.696,
+    "duration": 1.533
+  },
+  {
+    "text": "if we do nothing,",
+    "start": 2901.253,
+    "duration": 1.181
+  },
+  {
+    "text": "it's going to take millions of lives,\nit's going to wreck our planet.",
+    "start": 2902.458,
+    "duration": 3.302
+  },
+  {
+    "text": "For God's sake, act, politicians!",
+    "start": 2905.784,
+    "duration": 1.611
+  },
+  {
+    "text": "Do something.\"",
+    "start": 2907.419,
+    "duration": 1.158
+  },
+  {
+    "text": "And the politicians are going, \"Meh, no.",
+    "start": 2908.601,
+    "duration": 1.921
+  },
+  {
+    "text": "We need a little more GDP,\nwe need to win an election.\"",
+    "start": 2910.546,
+    "duration": 2.595
+  },
+  {
+    "text": "And they're not acting.",
+    "start": 2913.165,
+    "duration": 1.214
+  },
+  {
+    "text": "Do you see a scenario\nwhere this shocks politicians",
+    "start": 2914.403,
+    "duration": 3.353
+  },
+  {
+    "text": "to actually change their thinking",
+    "start": 2917.78,
+    "duration": 1.605
+  },
+  {
+    "text": "and their prioritization\nof science overall,",
+    "start": 2919.409,
+    "duration": 2.095
+  },
+  {
+    "text": "or is that asking too much?",
+    "start": 2921.528,
+    "duration": 2.141
+  },
+  {
+    "text": "BG: Yeah, it's interesting\nhow much of this distraction",
+    "start": 2924.28,
+    "duration": 3.584
+  },
+  {
+    "text": "will delay the urgent innovation agenda\nthat exists over in climate.",
+    "start": 2927.888,
+    "duration": 6.895
+  },
+  {
+    "text": "You know, I have freed up\na lot of time to work on climate.",
+    "start": 2934.807,
+    "duration": 3.881
+  },
+  {
+    "text": "I have to say,",
+    "start": 2938.712,
+    "duration": 1.206
+  },
+  {
+    "text": "you know, for the last few months,\nthat's now shifted,",
+    "start": 2939.942,
+    "duration": 2.866
+  },
+  {
+    "text": "and until we get out of this crisis,\nCOVID will dominate,",
+    "start": 2942.832,
+    "duration": 4.905
+  },
+  {
+    "text": "and so some of the climate stuff,\nalthough it will still go on,",
+    "start": 2947.761,
+    "duration": 4.587
+  },
+  {
+    "text": "it won't get that same focus.",
+    "start": 2952.372,
+    "duration": 2.824
+  },
+  {
+    "text": "As we get past this,",
+    "start": 2955.704,
+    "duration": 3.581
+  },
+  {
+    "text": "yes, that idea of innovation and science\nand the world working together,",
+    "start": 2959.309,
+    "duration": 4.575
+  },
+  {
+    "text": "that is totally common\nbetween these two problems.",
+    "start": 2963.908,
+    "duration": 3.542
+  },
+  {
+    "text": "And so I don't think this has to be\na huge setback for climate.",
+    "start": 2967.474,
+    "duration": 4.735
+  },
+  {
+    "text": "CA: Last question.",
+    "start": 2972.609,
+    "duration": 1.201
+  },
+  {
+    "text": "There are thousands of people watching,",
+    "start": 2973.834,
+    "duration": 2.442
+  },
+  {
+    "text": "many of them living alone,",
+    "start": 2976.3,
+    "duration": 2.388
+  },
+  {
+    "text": "some quite scared,",
+    "start": 2978.712,
+    "duration": 1.592
+  },
+  {
+    "text": "there may even be people there\nwho have this virus",
+    "start": 2980.328,
+    "duration": 3.376
+  },
+  {
+    "text": "and are suffering symptoms or recovering.",
+    "start": 2983.728,
+    "duration": 3.328
+  },
+  {
+    "text": "By the way, if that's you,\nwe'd love to hear from you,",
+    "start": 2987.442,
+    "duration": 3.611
+  },
+  {
+    "text": "we really would.",
+    "start": 2991.077,
+    "duration": 1.163
+  },
+  {
+    "text": "Maybe have a conversation\nwith some of you,",
+    "start": 2992.264,
+    "duration": 2.011
+  },
+  {
+    "text": "in a future one of these,",
+    "start": 2994.299,
+    "duration": 2.048
+  },
+  {
+    "text": "just understanding the experience.",
+    "start": 2996.371,
+    "duration": 2.674
+  },
+  {
+    "text": "But Bill, what can people do\nas individuals from their own homes,",
+    "start": 2999.069,
+    "duration": 4.779
+  },
+  {
+    "text": "right now, to try and help?",
+    "start": 3003.872,
+    "duration": 2.518
+  },
+  {
+    "text": "BG: Well, there's a lot\nof creativity, you know --",
+    "start": 3007.331,
+    "duration": 2.344
+  },
+  {
+    "text": "can you mentor kids who are being forced\ninto an online format",
+    "start": 3009.699,
+    "duration": 5.157
+  },
+  {
+    "text": "where the school systems\nreally weren't ready for that?",
+    "start": 3014.88,
+    "duration": 2.781
+  },
+  {
+    "text": "Can you organize some giving activity\nthat gets the food banks to step up",
+    "start": 3017.685,
+    "duration": 5.155
+  },
+  {
+    "text": "where there's problems there?",
+    "start": 3022.864,
+    "duration": 2.785
+  },
+  {
+    "text": "These are such unprecedented times,",
+    "start": 3025.673,
+    "duration": 2.095
+  },
+  {
+    "text": "and it really should draw out\nthat sense of creativity,",
+    "start": 3027.792,
+    "duration": 5.635
+  },
+  {
+    "text": "while complying\nwith the isolation mandates.",
+    "start": 3033.451,
+    "duration": 3.872
+  },
+  {
+    "text": "CA: Bill, I really want to thank you\nfor spending this time with us",
+    "start": 3038.569,
+    "duration": 3.175
+  },
+  {
+    "text": "and for the financial investment,\nthe time investment.",
+    "start": 3041.768,
+    "duration": 3.632
+  },
+  {
+    "text": "You've really invested your life\ninto trying to solve these big problems.",
+    "start": 3045.424,
+    "duration": 4.571
+  },
+  {
+    "text": "And this is as big as they get.",
+    "start": 3050.019,
+    "duration": 2.0
+  },
+  {
+    "text": "I have a hunch that your voice\nis really going to be needed",
+    "start": 3052.043,
+    "duration": 3.587
+  },
+  {
+    "text": "in the next few weeks.",
+    "start": 3055.654,
+    "duration": 1.177
+  },
+  {
+    "text": "Thank you so much for your time today.",
+    "start": 3056.855,
+    "duration": 1.865
+  },
+  {
+    "text": "This was really wonderful,\nhearing from you.",
+    "start": 3058.744,
+    "duration": 2.071
+  },
+  {
+    "text": "Thank you.",
+    "start": 3060.839,
+    "duration": 1.151
+  },
+  {
+    "text": "BG: Thanks, Chris.",
+    "start": 3062.014,
+    "duration": 1.201
+  },
+  {
+    "text": "CA: OK, thanks, everyone,",
+    "start": 3063.239,
+    "duration": 1.855
+  },
+  {
+    "text": "thanks for being part\nof the TED community.",
+    "start": 3065.118,
+    "duration": 2.574
+  },
+  {
+    "text": "Look after yourselves,\nbe smart about this.",
+    "start": 3067.716,
+    "duration": 2.552
+  },
+  {
+    "text": "You know, get ahead of it.",
+    "start": 3070.292,
+    "duration": 1.39
+  },
+  {
+    "text": "If you're in a part of the world\nwhere this thing hasn't really hit,",
+    "start": 3071.706,
+    "duration": 3.371
+  },
+  {
+    "text": "listen to Bill Gates.",
+    "start": 3075.101,
+    "duration": 2.127
+  },
+  {
+    "text": "Get ahead of it.",
+    "start": 3077.252,
+    "duration": 1.151
+  },
+  {
+    "text": "Keep, you know, if you possibly can,",
+    "start": 3078.427,
+    "duration": 3.777
+  },
+  {
+    "text": "socially distanced.",
+    "start": 3082.228,
+    "duration": 1.151
+  },
+  {
+    "text": "No, not -- physically distanced\nand socially connect.",
+    "start": 3083.403,
+    "duration": 2.73
+  },
+  {
+    "text": "That's what the internet is for.",
+    "start": 3086.157,
+    "duration": 2.134
+  },
+  {
+    "text": "These days are what\nthe internet was built for.",
+    "start": 3088.315,
+    "duration": 3.179
+  },
+  {
+    "text": "We can spread love, we can spread ideas,",
+    "start": 3091.804,
+    "duration": 1.913
+  },
+  {
+    "text": "we can spread relationship,\nwe can spread thought,",
+    "start": 3093.741,
+    "duration": 2.34
+  },
+  {
+    "text": "without spreading a dangerous bug.",
+    "start": 3096.105,
+    "duration": 3.016
+  },
+  {
+    "text": "So get ahead of it,\nand let's figure this out together.",
+    "start": 3099.145,
+    "duration": 2.89
+  },
+  {
+    "text": "It's been wonderful\nspending time with you.",
+    "start": 3102.059,
+    "duration": 2.56
+  },
+  {
+    "text": "From Whitney and from me\nand from the whole TED team,",
+    "start": 3104.643,
+    "duration": 3.222
+  },
+  {
+    "text": "thank you, and over and out.",
+    "start": 3107.889,
+    "duration": 1.415
+  }
+]

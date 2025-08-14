@@ -1,0 +1,867 @@
+[
+  {
+    "text": "Over a million people are killed\neach year in disasters.",
+    "start": 12.999,
+    "duration": 4.976
+  },
+  {
+    "text": "Two and a half million people\nwill be permanently disabled or displaced,",
+    "start": 17.999,
+    "duration": 5.234
+  },
+  {
+    "text": "and the communities will take\n20 to 30 years to recover",
+    "start": 23.257,
+    "duration": 3.924
+  },
+  {
+    "text": "and billions of economic losses.",
+    "start": 27.205,
+    "duration": 2.401
+  },
+  {
+    "text": "If you can reduce\nthe initial response by one day,",
+    "start": 31.054,
+    "duration": 4.371
+  },
+  {
+    "text": "you can reduce the overall recovery",
+    "start": 35.449,
+    "duration": 3.527
+  },
+  {
+    "text": "by a thousand days, or three years.",
+    "start": 39.0,
+    "duration": 2.808
+  },
+  {
+    "text": "See how that works?",
+    "start": 41.832,
+    "duration": 1.753
+  },
+  {
+    "text": "If the initial responders\ncan get in, save lives,",
+    "start": 43.609,
+    "duration": 2.85
+  },
+  {
+    "text": "mitigate whatever flooding\ndanger there is,",
+    "start": 46.483,
+    "duration": 2.516
+  },
+  {
+    "text": "that means the other groups can get in",
+    "start": 49.023,
+    "duration": 2.284
+  },
+  {
+    "text": "to restore the water,\nthe roads, the electricity,",
+    "start": 51.331,
+    "duration": 2.985
+  },
+  {
+    "text": "which means then the construction people,\nthe insurance agents,",
+    "start": 54.34,
+    "duration": 3.116
+  },
+  {
+    "text": "all of them can get in\nto rebuild the houses,",
+    "start": 57.48,
+    "duration": 2.614
+  },
+  {
+    "text": "which then means\nyou can restore the economy,",
+    "start": 60.118,
+    "duration": 2.988
+  },
+  {
+    "text": "and maybe even make it better\nand more resilient to the next disaster.",
+    "start": 63.13,
+    "duration": 4.873
+  },
+  {
+    "text": "A major insurance company told me",
+    "start": 69.899,
+    "duration": 1.796
+  },
+  {
+    "text": "that if they can get a homeowner's claim\nprocessed one day earlier,",
+    "start": 71.719,
+    "duration": 5.112
+  },
+  {
+    "text": "it'll make a difference of six months",
+    "start": 76.855,
+    "duration": 2.12
+  },
+  {
+    "text": "in that person getting\ntheir home repaired.",
+    "start": 78.999,
+    "duration": 2.24
+  },
+  {
+    "text": "And that's why I do disaster robotics --",
+    "start": 82.118,
+    "duration": 2.329
+  },
+  {
+    "text": "because robots can\nmake a disaster go away faster.",
+    "start": 84.471,
+    "duration": 4.499
+  },
+  {
+    "text": "Now, you've already seen\na couple of these.",
+    "start": 90.305,
+    "duration": 2.017
+  },
+  {
+    "text": "These are the UAVs.",
+    "start": 92.346,
+    "duration": 1.72
+  },
+  {
+    "text": "These are two types of UAVs:",
+    "start": 94.09,
+    "duration": 1.861
+  },
+  {
+    "text": "a rotorcraft, or hummingbird;",
+    "start": 95.975,
+    "duration": 1.865
+  },
+  {
+    "text": "a fixed-wing, a hawk.",
+    "start": 97.864,
+    "duration": 2.07
+  },
+  {
+    "text": "And they're used extensively since 2005 --",
+    "start": 99.958,
+    "duration": 3.39
+  },
+  {
+    "text": "Hurricane Katrina.",
+    "start": 103.372,
+    "duration": 1.175
+  },
+  {
+    "text": "Let me show you how this hummingbird,\nthis rotorcraft, works.",
+    "start": 104.571,
+    "duration": 3.324
+  },
+  {
+    "text": "Fantastic for structural engineers.",
+    "start": 107.919,
+    "duration": 3.056
+  },
+  {
+    "text": "Being able to see damage from angles you\ncan't get from binoculars on the ground",
+    "start": 110.999,
+    "duration": 4.42
+  },
+  {
+    "text": "or from a satellite image,",
+    "start": 115.443,
+    "duration": 1.31
+  },
+  {
+    "text": "or anything flying at a higher angle.",
+    "start": 116.777,
+    "duration": 3.192
+  },
+  {
+    "text": "But it's not just structural engineers\nand insurance people who need this.",
+    "start": 120.53,
+    "duration": 4.372
+  },
+  {
+    "text": "You've got things\nlike this fixed-wing, this hawk.",
+    "start": 124.926,
+    "duration": 2.467
+  },
+  {
+    "text": "Now, this hawk can be used\nfor geospatial surveys.",
+    "start": 127.417,
+    "duration": 3.271
+  },
+  {
+    "text": "That's where you're\npulling imagery together",
+    "start": 130.712,
+    "duration": 2.849
+  },
+  {
+    "text": "and getting 3D reconstruction.",
+    "start": 133.585,
+    "duration": 1.825
+  },
+  {
+    "text": "We used both of these at the Oso mudslides\nup in Washington State,",
+    "start": 135.434,
+    "duration": 4.074
+  },
+  {
+    "text": "because the big problem",
+    "start": 139.532,
+    "duration": 2.199
+  },
+  {
+    "text": "was geospatial and hydrological\nunderstanding of the disaster --",
+    "start": 141.755,
+    "duration": 3.158
+  },
+  {
+    "text": "not the search and rescue.",
+    "start": 144.937,
+    "duration": 1.246
+  },
+  {
+    "text": "The search and rescue teams\nhad it under control",
+    "start": 146.207,
+    "duration": 2.319
+  },
+  {
+    "text": "and knew what they were doing.",
+    "start": 148.55,
+    "duration": 1.478
+  },
+  {
+    "text": "The bigger problem was that river\nand mudslide might wipe them out",
+    "start": 150.052,
+    "duration": 3.87
+  },
+  {
+    "text": "and flood the responders.",
+    "start": 153.946,
+    "duration": 1.494
+  },
+  {
+    "text": "And not only was it challenging\nto the responders and property damage,",
+    "start": 155.464,
+    "duration": 3.742
+  },
+  {
+    "text": "it's also putting at risk\nthe future of salmon fishing",
+    "start": 159.23,
+    "duration": 3.279
+  },
+  {
+    "text": "along that part of Washington State.",
+    "start": 162.533,
+    "duration": 1.716
+  },
+  {
+    "text": "So they needed to understand\nwhat was going on.",
+    "start": 164.273,
+    "duration": 2.476
+  },
+  {
+    "text": "In seven hours, going from Arlington,",
+    "start": 166.773,
+    "duration": 2.609
+  },
+  {
+    "text": "driving from the Incident Command Post\nto the site, flying the UAVs,",
+    "start": 169.406,
+    "duration": 4.814
+  },
+  {
+    "text": "processing the data, driving back\nto Arlington command post --",
+    "start": 174.244,
+    "duration": 3.731
+  },
+  {
+    "text": "seven hours.",
+    "start": 177.999,
+    "duration": 1.406
+  },
+  {
+    "text": "We gave them in seven hours\ndata that they could take",
+    "start": 179.429,
+    "duration": 3.534
+  },
+  {
+    "text": "only two to three days\nto get any other way --",
+    "start": 182.987,
+    "duration": 3.75
+  },
+  {
+    "text": "and at higher resolution.",
+    "start": 186.761,
+    "duration": 1.837
+  },
+  {
+    "text": "It's a game changer.",
+    "start": 189.064,
+    "duration": 1.373
+  },
+  {
+    "text": "And don't just think about the UAVs.",
+    "start": 191.773,
+    "duration": 2.069
+  },
+  {
+    "text": "I mean, they are sexy -- but remember,",
+    "start": 193.866,
+    "duration": 2.628
+  },
+  {
+    "text": "80 percent of the world's\npopulation lives by water,",
+    "start": 196.518,
+    "duration": 3.336
+  },
+  {
+    "text": "and that means our critical\ninfrastructure is underwater --",
+    "start": 199.878,
+    "duration": 2.864
+  },
+  {
+    "text": "the parts that we can't get to,\nlike the bridges and things like that.",
+    "start": 202.766,
+    "duration": 3.286
+  },
+  {
+    "text": "And that's why we have\nunmanned marine vehicles,",
+    "start": 206.076,
+    "duration": 2.592
+  },
+  {
+    "text": "one type of which you've already met,\nwhich is SARbot, a square dolphin.",
+    "start": 208.692,
+    "duration": 4.452
+  },
+  {
+    "text": "It goes underwater and uses sonar.",
+    "start": 213.168,
+    "duration": 2.696
+  },
+  {
+    "text": "Well, why are marine vehicles so important",
+    "start": 215.888,
+    "duration": 2.333
+  },
+  {
+    "text": "and why are they very, very important?",
+    "start": 218.245,
+    "duration": 3.124
+  },
+  {
+    "text": "They get overlooked.",
+    "start": 221.393,
+    "duration": 1.516
+  },
+  {
+    "text": "Think about the Japanese tsunami --",
+    "start": 222.933,
+    "duration": 2.402
+  },
+  {
+    "text": "400 miles of coastland totally devastated,",
+    "start": 225.359,
+    "duration": 3.966
+  },
+  {
+    "text": "twice the amount of coastland devastated\nby Hurricane Katrina in the United States.",
+    "start": 229.349,
+    "duration": 4.696
+  },
+  {
+    "text": "You're talking about your bridges,\nyour pipelines, your ports -- wiped out.",
+    "start": 234.069,
+    "duration": 3.856
+  },
+  {
+    "text": "And if you don't have a port,",
+    "start": 237.949,
+    "duration": 1.612
+  },
+  {
+    "text": "you don't have a way\nto get in enough relief supplies",
+    "start": 239.585,
+    "duration": 3.246
+  },
+  {
+    "text": "to support a population.",
+    "start": 242.855,
+    "duration": 1.221
+  },
+  {
+    "text": "That was a huge problem\nat the Haiti earthquake.",
+    "start": 244.1,
+    "duration": 2.572
+  },
+  {
+    "text": "So we need marine vehicles.",
+    "start": 247.565,
+    "duration": 2.122
+  },
+  {
+    "text": "Now, let's look at a viewpoint\nfrom the SARbot",
+    "start": 249.711,
+    "duration": 2.431
+  },
+  {
+    "text": "of what they were seeing.",
+    "start": 252.166,
+    "duration": 1.471
+  },
+  {
+    "text": "We were working on a fishing port.",
+    "start": 253.661,
+    "duration": 2.246
+  },
+  {
+    "text": "We were able to reopen that fishing port,\nusing her sonar, in four hours.",
+    "start": 255.931,
+    "duration": 5.716
+  },
+  {
+    "text": "That fishing port was told\nit was going to be six months",
+    "start": 261.671,
+    "duration": 2.653
+  },
+  {
+    "text": "before they could get\na manual team of divers in,",
+    "start": 264.348,
+    "duration": 2.706
+  },
+  {
+    "text": "and it was going to take\nthe divers two weeks.",
+    "start": 267.078,
+    "duration": 2.687
+  },
+  {
+    "text": "They were going to miss\nthe fall fishing season,",
+    "start": 269.789,
+    "duration": 2.294
+  },
+  {
+    "text": "which was the major economy for that part,\nwhich is kind of like their Cape Cod.",
+    "start": 272.107,
+    "duration": 4.226
+  },
+  {
+    "text": "UMVs, very important.",
+    "start": 276.357,
+    "duration": 2.268
+  },
+  {
+    "text": "But you know, all the robots\nI've shown you have been small,",
+    "start": 278.649,
+    "duration": 3.248
+  },
+  {
+    "text": "and that's because robots\ndon't do things that people do.",
+    "start": 281.921,
+    "duration": 3.777
+  },
+  {
+    "text": "They go places people can't go.",
+    "start": 285.722,
+    "duration": 2.253
+  },
+  {
+    "text": "And a great example of that is Bujold.",
+    "start": 287.999,
+    "duration": 2.976
+  },
+  {
+    "text": "Unmanned ground vehicles\nare particularly small,",
+    "start": 290.999,
+    "duration": 2.976
+  },
+  {
+    "text": "so Bujold --",
+    "start": 293.999,
+    "duration": 1.318
+  },
+  {
+    "text": "(Laughter)",
+    "start": 295.341,
+    "duration": 1.508
+  },
+  {
+    "text": "Say hello to Bujold.",
+    "start": 296.873,
+    "duration": 1.183
+  },
+  {
+    "text": "(Laughter)",
+    "start": 298.08,
+    "duration": 2.684
+  },
+  {
+    "text": "Bujold was used extensively\nat the World Trade Center",
+    "start": 301.606,
+    "duration": 3.369
+  },
+  {
+    "text": "to go through Towers 1, 2 and 4.",
+    "start": 304.999,
+    "duration": 2.38
+  },
+  {
+    "text": "You're climbing into the rubble,\nrappelling down, going deep in spaces.",
+    "start": 307.403,
+    "duration": 4.645
+  },
+  {
+    "text": "And just to see the World Trade Center\nfrom Bujold's viewpoint, look at this.",
+    "start": 312.072,
+    "duration": 4.559
+  },
+  {
+    "text": "You're talking about a disaster\nwhere you can't fit a person or a dog --",
+    "start": 316.655,
+    "duration": 5.069
+  },
+  {
+    "text": "and it's on fire.",
+    "start": 321.748,
+    "duration": 2.142
+  },
+  {
+    "text": "The only hope of getting\nto a survivor way in the basement,",
+    "start": 323.914,
+    "duration": 3.734
+  },
+  {
+    "text": "you have to go through things\nthat are on fire.",
+    "start": 327.672,
+    "duration": 2.195
+  },
+  {
+    "text": "It was so hot, on one of the robots,\nthe tracks began to melt and come off.",
+    "start": 329.891,
+    "duration": 4.504
+  },
+  {
+    "text": "Robots don't replace people or dogs,",
+    "start": 335.161,
+    "duration": 2.788
+  },
+  {
+    "text": "or hummingbirds or hawks or dolphins.",
+    "start": 337.973,
+    "duration": 2.521
+  },
+  {
+    "text": "They do things new.",
+    "start": 340.518,
+    "duration": 2.036
+  },
+  {
+    "text": "They assist the responders,\nthe experts, in new and innovative ways.",
+    "start": 342.578,
+    "duration": 5.689
+  },
+  {
+    "text": "The biggest problem is not\nmaking the robots smaller, though.",
+    "start": 348.291,
+    "duration": 4.429
+  },
+  {
+    "text": "It's not making them more heat-resistant.",
+    "start": 352.744,
+    "duration": 2.231
+  },
+  {
+    "text": "It's not making more sensors.",
+    "start": 354.999,
+    "duration": 1.757
+  },
+  {
+    "text": "The biggest problem is the data,\nthe informatics,",
+    "start": 356.78,
+    "duration": 3.61
+  },
+  {
+    "text": "because these people need to get\nthe right data at the right time.",
+    "start": 360.414,
+    "duration": 4.036
+  },
+  {
+    "text": "So wouldn't it be great if we could have\nexperts immediately access the robots",
+    "start": 364.474,
+    "duration": 5.501
+  },
+  {
+    "text": "without having to waste any time\nof driving to the site,",
+    "start": 369.999,
+    "duration": 2.976
+  },
+  {
+    "text": "so whoever's there,\nuse their robots over the Internet.",
+    "start": 372.999,
+    "duration": 2.933
+  },
+  {
+    "text": "Well, let's think about that.",
+    "start": 375.956,
+    "duration": 1.382
+  },
+  {
+    "text": "Let's think about a chemical\ntrain derailment in a rural county.",
+    "start": 377.362,
+    "duration": 3.372
+  },
+  {
+    "text": "What are the odds that the experts,\nyour chemical engineer,",
+    "start": 380.758,
+    "duration": 3.842
+  },
+  {
+    "text": "your railroad transportation engineers,",
+    "start": 384.624,
+    "duration": 1.862
+  },
+  {
+    "text": "have been trained on whatever UAV\nthat particular county happens to have?",
+    "start": 386.51,
+    "duration": 4.861
+  },
+  {
+    "text": "Probably, like, none.",
+    "start": 391.395,
+    "duration": 1.533
+  },
+  {
+    "text": "So we're using these kinds of interfaces",
+    "start": 392.952,
+    "duration": 2.39
+  },
+  {
+    "text": "to allow people to use the robots\nwithout knowing what robot they're using,",
+    "start": 395.366,
+    "duration": 4.34
+  },
+  {
+    "text": "or even if they're using a robot or not.",
+    "start": 399.73,
+    "duration": 2.786
+  },
+  {
+    "text": "What the robots give you,\nwhat they give the experts, is data.",
+    "start": 404.252,
+    "duration": 6.034
+  },
+  {
+    "text": "The problem becomes:\nwho gets what data when?",
+    "start": 410.31,
+    "duration": 3.58
+  },
+  {
+    "text": "One thing to do is to ship\nall the information to everybody",
+    "start": 413.914,
+    "duration": 3.893
+  },
+  {
+    "text": "and let them sort it out.",
+    "start": 417.831,
+    "duration": 1.512
+  },
+  {
+    "text": "Well, the problem with that\nis it overwhelms the networks,",
+    "start": 419.367,
+    "duration": 3.856
+  },
+  {
+    "text": "and worse yet, it overwhelms\nthe cognitive abilities",
+    "start": 423.247,
+    "duration": 3.686
+  },
+  {
+    "text": "of each of the people trying to get\nthat one nugget of information",
+    "start": 426.957,
+    "duration": 4.509
+  },
+  {
+    "text": "they need to make the decision\nthat's going to make the difference.",
+    "start": 431.49,
+    "duration": 3.805
+  },
+  {
+    "text": "So we need to think\nabout those kinds of challenges.",
+    "start": 435.999,
+    "duration": 3.094
+  },
+  {
+    "text": "So it's the data.",
+    "start": 439.117,
+    "duration": 1.265
+  },
+  {
+    "text": "Going back to the World Trade Center,",
+    "start": 440.406,
+    "duration": 2.236
+  },
+  {
+    "text": "we tried to solve that problem\nby just recording the data from Bujold",
+    "start": 442.666,
+    "duration": 4.309
+  },
+  {
+    "text": "only when she was deep in the rubble,",
+    "start": 446.999,
+    "duration": 1.976
+  },
+  {
+    "text": "because that's what the USAR team\nsaid they wanted.",
+    "start": 448.999,
+    "duration": 2.564
+  },
+  {
+    "text": "What we didn't know at the time",
+    "start": 452.523,
+    "duration": 2.588
+  },
+  {
+    "text": "was that the civil engineers\nwould have loved,",
+    "start": 455.135,
+    "duration": 2.598
+  },
+  {
+    "text": "needed the data as we recorded\nthe box beams, the serial numbers,",
+    "start": 457.757,
+    "duration": 4.218
+  },
+  {
+    "text": "the locations, as we went into the rubble.",
+    "start": 461.999,
+    "duration": 2.619
+  },
+  {
+    "text": "We lost valuable data.",
+    "start": 465.343,
+    "duration": 1.467
+  },
+  {
+    "text": "So the challenge is getting all the data",
+    "start": 466.834,
+    "duration": 2.379
+  },
+  {
+    "text": "and getting it to the right people.",
+    "start": 469.237,
+    "duration": 2.18
+  },
+  {
+    "text": "Now, here's another reason.",
+    "start": 471.441,
+    "duration": 2.077
+  },
+  {
+    "text": "We've learned that some buildings --",
+    "start": 473.542,
+    "duration": 2.311
+  },
+  {
+    "text": "things like schools,\nhospitals, city halls --",
+    "start": 475.877,
+    "duration": 3.272
+  },
+  {
+    "text": "get inspected four times\nby different agencies",
+    "start": 479.173,
+    "duration": 4.019
+  },
+  {
+    "text": "throughout the response phases.",
+    "start": 483.216,
+    "duration": 2.25
+  },
+  {
+    "text": "Now, we're looking, if we can get\nthe data from the robots to share,",
+    "start": 486.156,
+    "duration": 3.269
+  },
+  {
+    "text": "not only can we do things like\ncompress that sequence of phases",
+    "start": 489.449,
+    "duration": 4.85
+  },
+  {
+    "text": "to shorten the response time,",
+    "start": 494.323,
+    "duration": 1.653
+  },
+  {
+    "text": "but now we can begin\nto do the response in parallel.",
+    "start": 496.0,
+    "duration": 4.358
+  },
+  {
+    "text": "Everybody can see the data.",
+    "start": 500.382,
+    "duration": 1.379
+  },
+  {
+    "text": "We can shorten it that way.",
+    "start": 501.785,
+    "duration": 1.462
+  },
+  {
+    "text": "So really, \"disaster robotics\"\nis a misnomer.",
+    "start": 503.999,
+    "duration": 3.406
+  },
+  {
+    "text": "It's not about the robots.",
+    "start": 508.227,
+    "duration": 1.895
+  },
+  {
+    "text": "It's about the data.",
+    "start": 510.146,
+    "duration": 1.882
+  },
+  {
+    "text": "(Applause)",
+    "start": 512.433,
+    "duration": 3.33
+  },
+  {
+    "text": "So my challenge to you:",
+    "start": 515.787,
+    "duration": 1.957
+  },
+  {
+    "text": "the next time you hear about a disaster,",
+    "start": 517.768,
+    "duration": 2.3
+  },
+  {
+    "text": "look for the robots.",
+    "start": 520.092,
+    "duration": 1.325
+  },
+  {
+    "text": "They may be underground,\nthey may be underwater,",
+    "start": 521.441,
+    "duration": 3.125
+  },
+  {
+    "text": "they may be in the sky,",
+    "start": 524.59,
+    "duration": 1.694
+  },
+  {
+    "text": "but they should be there.",
+    "start": 526.308,
+    "duration": 1.965
+  },
+  {
+    "text": "Look for the robots,",
+    "start": 528.297,
+    "duration": 1.167
+  },
+  {
+    "text": "because robots are coming to the rescue.",
+    "start": 529.488,
+    "duration": 2.747
+  },
+  {
+    "text": "(Applause)",
+    "start": 532.259,
+    "duration": 5.661
+  }
+]

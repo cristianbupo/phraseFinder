@@ -1,0 +1,282 @@
+[
+  {
+    "text": "The family of giants you work for",
+    "start": 7.881,
+    "duration": 2.36
+  },
+  {
+    "text": "is throwing a fancy dinner party,",
+    "start": 10.241,
+    "duration": 2.19
+  },
+  {
+    "text": "and they all want to look their best.",
+    "start": 12.431,
+    "duration": 2.32
+  },
+  {
+    "text": "But there’s a problem –",
+    "start": 14.751,
+    "duration": 1.27
+  },
+  {
+    "text": "the elder giant’s favorite \nshirt is wrinkled!",
+    "start": 16.021,
+    "duration": 3.22
+  },
+  {
+    "text": "To fix it, you’ll need to power up…",
+    "start": 19.241,
+    "duration": 2.39
+  },
+  {
+    "text": "the Giant Iron.",
+    "start": 21.631,
+    "duration": 2.25
+  },
+  {
+    "text": "The iron needs two giant \nbatteries to work.",
+    "start": 23.881,
+    "duration": 3.04
+  },
+  {
+    "text": "You just had 4 working ones",
+    "start": 26.921,
+    "duration": 1.85
+  },
+  {
+    "text": "and 4 dead ones in separate piles,",
+    "start": 28.771,
+    "duration": 2.74
+  },
+  {
+    "text": "but it looks like the baby giant \nmixed them all up.",
+    "start": 31.511,
+    "duration": 3.26
+  },
+  {
+    "text": "You need to get the iron working \nand press the giant shirt, fast –",
+    "start": 34.771,
+    "duration": 3.79
+  },
+  {
+    "text": "or you’ll end up being the \nmain course tonight!",
+    "start": 38.561,
+    "duration": 3.19
+  },
+  {
+    "text": "How can you test the batteries",
+    "start": 41.751,
+    "duration": 1.65
+  },
+  {
+    "text": "so that you’re guaranteed to get \na working pair in 7 tries or less?",
+    "start": 43.401,
+    "duration": 4.97
+  },
+  {
+    "text": "Pause the video now if you want to \nfigure it out for yourself",
+    "start": 48.371,
+    "duration": 3.63
+  },
+  {
+    "text": "Answer in 3",
+    "start": 52.001,
+    "duration": 1.04
+  },
+  {
+    "text": "Answer in 2",
+    "start": 53.041,
+    "duration": 1.16
+  },
+  {
+    "text": "Answer in 1",
+    "start": 54.201,
+    "duration": 1.46
+  },
+  {
+    "text": "You could, of course, take \nall eight batteries",
+    "start": 55.671,
+    "duration": 2.192
+  },
+  {
+    "text": "and begin testing the 28 \npossible combinations.",
+    "start": 57.863,
+    "duration": 3.3
+  },
+  {
+    "text": "You might get lucky within \nthe first few tries.",
+    "start": 61.163,
+    "duration": 2.62
+  },
+  {
+    "text": "But if you don’t, moving the giant \nbatteries that many times",
+    "start": 63.783,
+    "duration": 3.35
+  },
+  {
+    "text": "will take way too long.",
+    "start": 67.133,
+    "duration": 1.76
+  },
+  {
+    "text": "You can’t rely on luck –",
+    "start": 68.893,
+    "duration": 1.52
+  },
+  {
+    "text": "you need to assume the worst \npossibility and plan accordingly.",
+    "start": 70.413,
+    "duration": 4.55
+  },
+  {
+    "text": "However, you don’t actually need \nto test every possible combination.",
+    "start": 74.963,
+    "duration": 4.838
+  },
+  {
+    "text": "Remember – there are four \ngood batteries in total,",
+    "start": 79.801,
+    "duration": 3.519
+  },
+  {
+    "text": "meaning that any pile of six you choose",
+    "start": 83.32,
+    "duration": 2.74
+  },
+  {
+    "text": "will have at least two \ngood batteries in it.",
+    "start": 86.06,
+    "duration": 2.89
+  },
+  {
+    "text": "That doesn’t help you right away,",
+    "start": 88.95,
+    "duration": 1.68
+  },
+  {
+    "text": "since testing all six batteries could \nstill take as many as 15 tries.",
+    "start": 90.63,
+    "duration": 4.57
+  },
+  {
+    "text": "But it does give you \na clue to the solution –",
+    "start": 95.2,
+    "duration": 2.999
+  },
+  {
+    "text": "dividing the batteries into smaller \nsubsets narrows down the possible results.",
+    "start": 98.199,
+    "duration": 5.51
+  },
+  {
+    "text": "So instead of six batteries,",
+    "start": 103.718,
+    "duration": 1.98
+  },
+  {
+    "text": "let’s take any three.",
+    "start": 105.698,
+    "duration": 1.93
+  },
+  {
+    "text": "This group has a total of three \npossible combinations.",
+    "start": 107.628,
+    "duration": 3.67
+  },
+  {
+    "text": "Since both batteries have to be \nworking for the iron to power up,",
+    "start": 111.298,
+    "duration": 3.47
+  },
+  {
+    "text": "a single failure can’t tell you whether \nboth batteries are dead, or just one.",
+    "start": 114.768,
+    "duration": 4.89
+  },
+  {
+    "text": "But if all three combinations fail,",
+    "start": 119.658,
+    "duration": 2.53
+  },
+  {
+    "text": "then you’ll know this group has either \none good battery, or none at all.",
+    "start": 122.188,
+    "duration": 5.09
+  },
+  {
+    "text": "Now you can set those three aside",
+    "start": 127.278,
+    "duration": 2.315
+  },
+  {
+    "text": "and repeat the process for \nanother three batteries.",
+    "start": 129.593,
+    "duration": 3.17
+  },
+  {
+    "text": "You might get a match, but if every \ncombination fails again,",
+    "start": 132.763,
+    "duration": 3.78
+  },
+  {
+    "text": "you’ll know this set can have \nno more than one good battery.",
+    "start": 136.543,
+    "duration": 3.71
+  },
+  {
+    "text": "That would leave only two \nbatteries untried.",
+    "start": 140.253,
+    "duration": 2.9
+  },
+  {
+    "text": "Since there are four good \nbatteries in total",
+    "start": 143.153,
+    "duration": 2.33
+  },
+  {
+    "text": "and you’ve only accounted for two so far,",
+    "start": 145.483,
+    "duration": 2.78
+  },
+  {
+    "text": "both of these remaining ones must be good.",
+    "start": 148.263,
+    "duration": 2.84
+  },
+  {
+    "text": "Dividing the batteries into \nsets of 3, 3, and 2",
+    "start": 151.103,
+    "duration": 3.59
+  },
+  {
+    "text": "is guaranteed to get a working result \nin 7 tries or less,",
+    "start": 154.693,
+    "duration": 4.08
+  },
+  {
+    "text": "no matter what order \nyou test the piles in.",
+    "start": 158.773,
+    "duration": 2.99
+  },
+  {
+    "text": "With no time to spare, \nthe iron comes to life,",
+    "start": 161.763,
+    "duration": 2.93
+  },
+  {
+    "text": "and you manage to get the shirt \nflawlessly ironed.",
+    "start": 164.693,
+    "duration": 3.07
+  },
+  {
+    "text": "The pleased elder and his family show up \nto the party dressed to the nines",
+    "start": 167.763,
+    "duration": 4.337
+  },
+  {
+    "text": "… well, almost.",
+    "start": 172.1,
+    "duration": 2.3
+  }
+]

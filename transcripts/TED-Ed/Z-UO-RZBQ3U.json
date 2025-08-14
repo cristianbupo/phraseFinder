@@ -1,0 +1,347 @@
+[
+  {
+    "text": "You may know that it takes light\na zippy eight minutes",
+    "start": 6.794,
+    "duration": 3.587
+  },
+  {
+    "text": "to reach us from the surface of the Sun,",
+    "start": 10.381,
+    "duration": 2.544
+  },
+  {
+    "text": "so how long do you think it takes light",
+    "start": 13.051,
+    "duration": 1.876
+  },
+  {
+    "text": "to travel from the Sun's core\nto its surface?",
+    "start": 14.927,
+    "duration": 3.254
+  },
+  {
+    "text": "A few seconds or a minute at most?",
+    "start": 18.222,
+    "duration": 2.837
+  },
+  {
+    "text": "Well, oddly enough, the answer\nis many thousands of years.",
+    "start": 21.184,
+    "duration": 4.462
+  },
+  {
+    "text": "Here's why.",
+    "start": 25.73,
+    "duration": 1.001
+  },
+  {
+    "text": "Photons are produced by the nuclear \nreactions deep in the core of our Sun.",
+    "start": 26.731,
+    "duration": 5.13
+  },
+  {
+    "text": "As the photons flow out of the core,\nthey interact with matter and lose energy,",
+    "start": 32.028,
+    "duration": 5.297
+  },
+  {
+    "text": "becoming longer wavelength forms of light.",
+    "start": 37.492,
+    "duration": 2.961
+  },
+  {
+    "text": "They start out as gamma rays in the core,",
+    "start": 40.661,
+    "duration": 2.67
+  },
+  {
+    "text": "but end up as x-rays, ultraviolet,\nor visible light as they near the surface.",
+    "start": 43.498,
+    "duration": 6.006
+  },
+  {
+    "text": "However, that journey\nis neither simple nor direct.",
+    "start": 49.712,
+    "duration": 4.129
+  },
+  {
+    "text": "Upon being born, ",
+    "start": 54.008,
+    "duration": 1.46
+  },
+  {
+    "text": "each photon travels at a speed\nof 300,000 kilometers per second",
+    "start": 55.468,
+    "duration": 5.922
+  },
+  {
+    "text": "until it collides with a proton\nand is diverted in another direction,",
+    "start": 61.724,
+    "duration": 4.38
+  },
+  {
+    "text": "acting like a bullet ricocheting off\nof every charged particle it strikes.",
+    "start": 66.312,
+    "duration": 4.922
+  },
+  {
+    "text": "The question of how far this photon gets\nfrom the center of the Sun",
+    "start": 71.234,
+    "duration": 4.129
+  },
+  {
+    "text": "after each collision",
+    "start": 75.363,
+    "duration": 1.543
+  },
+  {
+    "text": "is known as the random walk problem.",
+    "start": 76.906,
+    "duration": 2.753
+  },
+  {
+    "text": "The answer is given by this formula:",
+    "start": 80.034,
+    "duration": 2.377
+  },
+  {
+    "text": "distance equals step size times the square\nroot of the number of steps.",
+    "start": 82.662,
+    "duration": 5.172
+  },
+  {
+    "text": "So if you were taking a random walk \nfrom your front door",
+    "start": 87.917,
+    "duration": 3.212
+  },
+  {
+    "text": "with a one meter stride each second,",
+    "start": 91.129,
+    "duration": 2.419
+  },
+  {
+    "text": "it would take you a million steps\nand eleven days",
+    "start": 93.548,
+    "duration": 4.296
+  },
+  {
+    "text": "just to travel one kilometer.",
+    "start": 97.844,
+    "duration": 2.21
+  },
+  {
+    "text": "So then how long does it take for a photon\ngenerated in the center of the Sun",
+    "start": 100.304,
+    "duration": 4.964
+  },
+  {
+    "text": "to reach you?",
+    "start": 105.393,
+    "duration": 1.168
+  },
+  {
+    "text": "We know the mass of the Sun",
+    "start": 106.978,
+    "duration": 1.668
+  },
+  {
+    "text": "and can use that to calculate the number\nof protons within it.",
+    "start": 108.646,
+    "duration": 4.046
+  },
+  {
+    "text": "Let's assume for a second that all \nthe Sun's protons are evenly spread out,",
+    "start": 113.109,
+    "duration": 4.838
+  },
+  {
+    "text": "making the average distance between them\nabout 1.0 x 10^-10 meters.",
+    "start": 117.947,
+    "duration": 6.59
+  },
+  {
+    "text": "To random walk the 690,000 kilometers\nfrom the core to the solar surface",
+    "start": 125.037,
+    "duration": 6.09
+  },
+  {
+    "text": "would then require 3.9 x 10^37 steps,",
+    "start": 131.127,
+    "duration": 6.131
+  },
+  {
+    "text": "giving a total travel time \nof 400 billion years.",
+    "start": 137.425,
+    "duration": 4.755
+  },
+  {
+    "text": "Hmm, that can't be right.",
+    "start": 142.722,
+    "duration": 1.668
+  },
+  {
+    "text": "The Sun is only 4.6 billion years old,\nso what went wrong?",
+    "start": 144.39,
+    "duration": 4.087
+  },
+  {
+    "text": "Two things:",
+    "start": 148.728,
+    "duration": 1.168
+  },
+  {
+    "text": "the Sun isn’t actually of uniform density",
+    "start": 149.896,
+    "duration": 3.003
+  },
+  {
+    "text": "and photons will miss quite a few protons\nbetween every collision.",
+    "start": 152.94,
+    "duration": 5.089
+  },
+  {
+    "text": "In actuality, a photon's energy,",
+    "start": 158.154,
+    "duration": 2.919
+  },
+  {
+    "text": "which changes over \nthe course of its journey,",
+    "start": 161.073,
+    "duration": 2.503
+  },
+  {
+    "text": "determines how likely it is \nto interact with a proton.",
+    "start": 163.576,
+    "duration": 3.337
+  },
+  {
+    "text": "On the density question,",
+    "start": 167.038,
+    "duration": 1.501
+  },
+  {
+    "text": "our models show that the Sun\nhas a hot core,",
+    "start": 168.539,
+    "duration": 3.087
+  },
+  {
+    "text": "where the fusion reactions occur.",
+    "start": 171.667,
+    "duration": 2.127
+  },
+  {
+    "text": "Surrounding that is the radiative zone,",
+    "start": 173.794,
+    "duration": 2.628
+  },
+  {
+    "text": "followed by the convective zone,\nwhich extends all the way to the surface.",
+    "start": 176.589,
+    "duration": 4.504
+  },
+  {
+    "text": "The material in the core \nis much denser than lead,",
+    "start": 181.093,
+    "duration": 3.629
+  },
+  {
+    "text": "while the hot plasma near the surface\nis a million times less dense",
+    "start": 184.847,
+    "duration": 4.546
+  },
+  {
+    "text": "with a continuum of densities in between.",
+    "start": 189.393,
+    "duration": 2.795
+  },
+  {
+    "text": "And here's the photon-energy relationship.",
+    "start": 192.438,
+    "duration": 3.128
+  },
+  {
+    "text": "For a photon that carries\na small amount of energy,",
+    "start": 195.566,
+    "duration": 2.961
+  },
+  {
+    "text": "a proton is effectively huge,",
+    "start": 198.527,
+    "duration": 2.628
+  },
+  {
+    "text": "and it's much more likely to cause\nthe photon to ricochet.",
+    "start": 201.239,
+    "duration": 3.294
+  },
+  {
+    "text": "And for a high-energy photon,\nthe opposite is true.",
+    "start": 204.992,
+    "duration": 3.337
+  },
+  {
+    "text": "Protons are effectively tiny.",
+    "start": 208.329,
+    "duration": 2.044
+  },
+  {
+    "text": "Photons start off at very high energies",
+    "start": 210.623,
+    "duration": 2.794
+  },
+  {
+    "text": "compared to when they're finally radiated\nfrom the Sun's surface.",
+    "start": 213.417,
+    "duration": 3.504
+  },
+  {
+    "text": "Now when we use a computer\nand a sophisticated solar interior model",
+    "start": 217.588,
+    "duration": 4.421
+  },
+  {
+    "text": "to calculate the random walk equation \nwith these changing quantities,",
+    "start": 222.009,
+    "duration": 4.38
+  },
+  {
+    "text": "it spits out the following number:\n170,000 years.",
+    "start": 226.472,
+    "duration": 5.464
+  },
+  {
+    "text": "Future discoveries about the Sun\nmay refine this number further,",
+    "start": 232.979,
+    "duration": 3.712
+  },
+  {
+    "text": "but for now, \nto the best of our understanding,",
+    "start": 236.691,
+    "duration": 2.836
+  },
+  {
+    "text": "the light that's hitting your eyes today",
+    "start": 239.568,
+    "duration": 2.336
+  },
+  {
+    "text": "spent 170,000 years pinballing its way\ntowards the Sun's surface,",
+    "start": 242.029,
+    "duration": 5.464
+  },
+  {
+    "text": "plus eight miniscule minutes in space.",
+    "start": 247.493,
+    "duration": 2.92
+  },
+  {
+    "text": "In other words, that photon \nbegan its journey two ice ages ago,",
+    "start": 250.538,
+    "duration": 4.963
+  },
+  {
+    "text": "around the same time when humans\nfirst started wearing clothes.",
+    "start": 255.543,
+    "duration": 4.504
+  }
+]

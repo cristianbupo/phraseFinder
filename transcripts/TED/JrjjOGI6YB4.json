@@ -1,0 +1,2307 @@
+[
+  {
+    "text": "Chris Anderson: Nick Bostrom.",
+    "start": 13.0,
+    "duration": 1.809
+  },
+  {
+    "text": "So, you have already given us\nso many crazy ideas out there.",
+    "start": 14.833,
+    "duration": 3.976
+  },
+  {
+    "text": "I think a couple of decades ago,",
+    "start": 18.833,
+    "duration": 1.726
+  },
+  {
+    "text": "you made the case that we might\nall be living in a simulation,",
+    "start": 20.583,
+    "duration": 2.935
+  },
+  {
+    "text": "or perhaps probably were.",
+    "start": 23.542,
+    "duration": 1.809
+  },
+  {
+    "text": "More recently,",
+    "start": 25.375,
+    "duration": 1.351
+  },
+  {
+    "text": "you've painted the most vivid examples\nof how artificial general intelligence",
+    "start": 26.75,
+    "duration": 4.601
+  },
+  {
+    "text": "could go horribly wrong.",
+    "start": 31.375,
+    "duration": 1.833
+  },
+  {
+    "text": "And now this year,",
+    "start": 33.75,
+    "duration": 1.393
+  },
+  {
+    "text": "you're about to publish",
+    "start": 35.167,
+    "duration": 2.226
+  },
+  {
+    "text": "a paper that presents something called\nthe vulnerable world hypothesis.",
+    "start": 37.417,
+    "duration": 3.934
+  },
+  {
+    "text": "And our job this evening is to\ngive the illustrated guide to that.",
+    "start": 41.375,
+    "duration": 4.583
+  },
+  {
+    "text": "So let's do that.",
+    "start": 46.417,
+    "duration": 1.833
+  },
+  {
+    "text": "What is that hypothesis?",
+    "start": 48.833,
+    "duration": 1.792
+  },
+  {
+    "text": "Nick Bostrom: It's trying to think about",
+    "start": 52.0,
+    "duration": 2.434
+  },
+  {
+    "text": "a sort of structural feature\nof the current human condition.",
+    "start": 54.458,
+    "duration": 3.084
+  },
+  {
+    "text": "You like the urn metaphor,",
+    "start": 59.125,
+    "duration": 2.351
+  },
+  {
+    "text": "so I'm going to use that to explain it.",
+    "start": 61.5,
+    "duration": 1.893
+  },
+  {
+    "text": "So picture a big urn filled with balls",
+    "start": 63.417,
+    "duration": 4.351
+  },
+  {
+    "text": "representing ideas, methods,\npossible technologies.",
+    "start": 67.792,
+    "duration": 3.958
+  },
+  {
+    "text": "You can think of the history\nof human creativity",
+    "start": 72.833,
+    "duration": 3.726
+  },
+  {
+    "text": "as the process of reaching into this urn\nand pulling out one ball after another,",
+    "start": 76.583,
+    "duration": 3.81
+  },
+  {
+    "text": "and the net effect so far\nhas been hugely beneficial, right?",
+    "start": 80.417,
+    "duration": 3.226
+  },
+  {
+    "text": "We've extracted a great many white balls,",
+    "start": 83.667,
+    "duration": 2.726
+  },
+  {
+    "text": "some various shades of gray,\nmixed blessings.",
+    "start": 86.417,
+    "duration": 2.875
+  },
+  {
+    "text": "We haven't so far\npulled out the black ball --",
+    "start": 90.042,
+    "duration": 2.958
+  },
+  {
+    "text": "a technology that invariably destroys\nthe civilization that discovers it.",
+    "start": 94.292,
+    "duration": 5.476
+  },
+  {
+    "text": "So the paper tries to think\nabout what could such a black ball be.",
+    "start": 99.792,
+    "duration": 3.267
+  },
+  {
+    "text": "CA: So you define that ball",
+    "start": 103.083,
+    "duration": 1.81
+  },
+  {
+    "text": "as one that would inevitably\nbring about civilizational destruction.",
+    "start": 104.917,
+    "duration": 3.684
+  },
+  {
+    "text": "NB: Unless we exit what I call\nthe semi-anarchic default condition.",
+    "start": 108.625,
+    "duration": 5.309
+  },
+  {
+    "text": "But sort of, by default.",
+    "start": 113.958,
+    "duration": 1.5
+  },
+  {
+    "text": "CA: So, you make the case compelling",
+    "start": 116.333,
+    "duration": 3.518
+  },
+  {
+    "text": "by showing some sort of counterexamples",
+    "start": 119.875,
+    "duration": 2.018
+  },
+  {
+    "text": "where you believe that so far\nwe've actually got lucky,",
+    "start": 121.917,
+    "duration": 2.934
+  },
+  {
+    "text": "that we might have pulled out\nthat death ball",
+    "start": 124.875,
+    "duration": 2.851
+  },
+  {
+    "text": "without even knowing it.",
+    "start": 127.75,
+    "duration": 1.559
+  },
+  {
+    "text": "So there's this quote, what's this quote?",
+    "start": 129.333,
+    "duration": 2.292
+  },
+  {
+    "text": "NB: Well, I guess\nit's just meant to illustrate",
+    "start": 132.625,
+    "duration": 2.684
+  },
+  {
+    "text": "the difficulty of foreseeing",
+    "start": 135.333,
+    "duration": 2.101
+  },
+  {
+    "text": "what basic discoveries will lead to.",
+    "start": 137.458,
+    "duration": 2.685
+  },
+  {
+    "text": "We just don't have that capability.",
+    "start": 140.167,
+    "duration": 3.059
+  },
+  {
+    "text": "Because we have become quite good\nat pulling out balls,",
+    "start": 143.25,
+    "duration": 3.351
+  },
+  {
+    "text": "but we don't really have the ability\nto put the ball back into the urn, right.",
+    "start": 146.625,
+    "duration": 3.726
+  },
+  {
+    "text": "We can invent, but we can't un-invent.",
+    "start": 150.375,
+    "duration": 2.167
+  },
+  {
+    "text": "So our strategy, such as it is,",
+    "start": 153.583,
+    "duration": 2.768
+  },
+  {
+    "text": "is to hope that there is\nno black ball in the urn.",
+    "start": 156.375,
+    "duration": 2.434
+  },
+  {
+    "text": "CA: So once it's out, it's out,\nand you can't put it back in,",
+    "start": 158.833,
+    "duration": 4.06
+  },
+  {
+    "text": "and you think we've been lucky.",
+    "start": 162.917,
+    "duration": 1.517
+  },
+  {
+    "text": "So talk through a couple\nof these examples.",
+    "start": 164.458,
+    "duration": 2.226
+  },
+  {
+    "text": "You talk about different\ntypes of vulnerability.",
+    "start": 166.708,
+    "duration": 3.101
+  },
+  {
+    "text": "NB: So the easiest type to understand",
+    "start": 169.833,
+    "duration": 2.435
+  },
+  {
+    "text": "is a technology\nthat just makes it very easy",
+    "start": 172.292,
+    "duration": 3.142
+  },
+  {
+    "text": "to cause massive amounts of destruction.",
+    "start": 175.458,
+    "duration": 2.125
+  },
+  {
+    "text": "Synthetic biology might be a fecund\nsource of that kind of black ball,",
+    "start": 179.375,
+    "duration": 3.518
+  },
+  {
+    "text": "but many other possible things we could --",
+    "start": 182.917,
+    "duration": 2.684
+  },
+  {
+    "text": "think of geoengineering,\nreally great, right?",
+    "start": 185.625,
+    "duration": 2.518
+  },
+  {
+    "text": "We could combat global warming,",
+    "start": 188.167,
+    "duration": 2.226
+  },
+  {
+    "text": "but you don't want it\nto get too easy either,",
+    "start": 190.417,
+    "duration": 2.142
+  },
+  {
+    "text": "you don't want any random person\nand his grandmother",
+    "start": 192.583,
+    "duration": 2.476
+  },
+  {
+    "text": "to have the ability to radically\nalter the earth's climate.",
+    "start": 195.083,
+    "duration": 3.06
+  },
+  {
+    "text": "Or maybe lethal autonomous drones,",
+    "start": 198.167,
+    "duration": 3.559
+  },
+  {
+    "text": "massed-produced, mosquito-sized\nkiller bot swarms.",
+    "start": 201.75,
+    "duration": 3.333
+  },
+  {
+    "text": "Nanotechnology,\nartificial general intelligence.",
+    "start": 206.5,
+    "duration": 2.726
+  },
+  {
+    "text": "CA: You argue in the paper",
+    "start": 209.25,
+    "duration": 1.309
+  },
+  {
+    "text": "that it's a matter of luck\nthat when we discovered",
+    "start": 210.583,
+    "duration": 2.893
+  },
+  {
+    "text": "that nuclear power could create a bomb,",
+    "start": 213.5,
+    "duration": 3.434
+  },
+  {
+    "text": "it might have been the case",
+    "start": 216.958,
+    "duration": 1.393
+  },
+  {
+    "text": "that you could have created a bomb",
+    "start": 218.375,
+    "duration": 1.851
+  },
+  {
+    "text": "with much easier resources,\naccessible to anyone.",
+    "start": 220.25,
+    "duration": 3.559
+  },
+  {
+    "text": "NB: Yeah, so think back to the 1930s",
+    "start": 223.833,
+    "duration": 3.56
+  },
+  {
+    "text": "where for the first time we make\nsome breakthroughs in nuclear physics,",
+    "start": 227.417,
+    "duration": 4.601
+  },
+  {
+    "text": "some genius figures out that it's possible\nto create a nuclear chain reaction",
+    "start": 232.042,
+    "duration": 3.684
+  },
+  {
+    "text": "and then realizes\nthat this could lead to the bomb.",
+    "start": 235.75,
+    "duration": 3.184
+  },
+  {
+    "text": "And we do some more work,",
+    "start": 238.958,
+    "duration": 1.893
+  },
+  {
+    "text": "it turns out that what you require\nto make a nuclear bomb",
+    "start": 240.875,
+    "duration": 2.726
+  },
+  {
+    "text": "is highly enriched uranium or plutonium,",
+    "start": 243.625,
+    "duration": 2.393
+  },
+  {
+    "text": "which are very difficult materials to get.",
+    "start": 246.042,
+    "duration": 2.017
+  },
+  {
+    "text": "You need ultracentrifuges,",
+    "start": 248.083,
+    "duration": 2.268
+  },
+  {
+    "text": "you need reactors, like,\nmassive amounts of energy.",
+    "start": 250.375,
+    "duration": 3.768
+  },
+  {
+    "text": "But suppose it had turned out instead",
+    "start": 254.167,
+    "duration": 1.809
+  },
+  {
+    "text": "there had been an easy way\nto unlock the energy of the atom.",
+    "start": 256.0,
+    "duration": 3.976
+  },
+  {
+    "text": "That maybe by baking sand\nin the microwave oven",
+    "start": 260.0,
+    "duration": 2.768
+  },
+  {
+    "text": "or something like that",
+    "start": 262.792,
+    "duration": 1.267
+  },
+  {
+    "text": "you could have created\na nuclear detonation.",
+    "start": 264.083,
+    "duration": 2.101
+  },
+  {
+    "text": "So we know that that's\nphysically impossible.",
+    "start": 266.208,
+    "duration": 2.143
+  },
+  {
+    "text": "But before you did the relevant physics",
+    "start": 268.375,
+    "duration": 1.893
+  },
+  {
+    "text": "how could you have known\nhow it would turn out?",
+    "start": 270.292,
+    "duration": 2.191
+  },
+  {
+    "text": "CA: Although, couldn't you argue",
+    "start": 272.507,
+    "duration": 1.552
+  },
+  {
+    "text": "that for life to evolve on Earth",
+    "start": 274.083,
+    "duration": 1.935
+  },
+  {
+    "text": "that implied sort of stable environment,",
+    "start": 276.042,
+    "duration": 3.267
+  },
+  {
+    "text": "that if it was possible to create\nmassive nuclear reactions relatively easy,",
+    "start": 279.333,
+    "duration": 4.185
+  },
+  {
+    "text": "the Earth would never have been stable,",
+    "start": 283.542,
+    "duration": 1.858
+  },
+  {
+    "text": "that we wouldn't be here at all.",
+    "start": 285.424,
+    "duration": 1.552
+  },
+  {
+    "text": "NB: Yeah, unless there were something\nthat is easy to do on purpose",
+    "start": 287.0,
+    "duration": 3.393
+  },
+  {
+    "text": "but that wouldn't happen by random chance.",
+    "start": 290.417,
+    "duration": 2.851
+  },
+  {
+    "text": "So, like things we can easily do,",
+    "start": 293.292,
+    "duration": 1.579
+  },
+  {
+    "text": "we can stack 10 blocks\non top of one another,",
+    "start": 294.896,
+    "duration": 2.11
+  },
+  {
+    "text": "but in nature, you're not going to find,\nlike, a stack of 10 blocks.",
+    "start": 297.031,
+    "duration": 3.197
+  },
+  {
+    "text": "CA: OK, so this is probably the one",
+    "start": 300.253,
+    "duration": 1.673
+  },
+  {
+    "text": "that many of us worry about most,",
+    "start": 301.95,
+    "duration": 1.943
+  },
+  {
+    "text": "and yes, synthetic biology\nis perhaps the quickest route",
+    "start": 303.917,
+    "duration": 3.517
+  },
+  {
+    "text": "that we can foresee\nin our near future to get us here.",
+    "start": 307.458,
+    "duration": 3.018
+  },
+  {
+    "text": "NB: Yeah, and so think\nabout what that would have meant",
+    "start": 310.5,
+    "duration": 2.934
+  },
+  {
+    "text": "if, say, anybody by working\nin their kitchen for an afternoon",
+    "start": 313.458,
+    "duration": 3.643
+  },
+  {
+    "text": "could destroy a city.",
+    "start": 317.125,
+    "duration": 1.393
+  },
+  {
+    "text": "It's hard to see how\nmodern civilization as we know it",
+    "start": 318.542,
+    "duration": 3.559
+  },
+  {
+    "text": "could have survived that.",
+    "start": 322.125,
+    "duration": 1.434
+  },
+  {
+    "text": "Because in any population\nof a million people,",
+    "start": 323.583,
+    "duration": 2.518
+  },
+  {
+    "text": "there will always be some\nwho would, for whatever reason,",
+    "start": 326.125,
+    "duration": 2.684
+  },
+  {
+    "text": "choose to use that destructive power.",
+    "start": 328.833,
+    "duration": 2.084
+  },
+  {
+    "text": "So if that apocalyptic residual",
+    "start": 331.75,
+    "duration": 3.143
+  },
+  {
+    "text": "would choose to destroy a city, or worse,",
+    "start": 334.917,
+    "duration": 1.976
+  },
+  {
+    "text": "then cities would get destroyed.",
+    "start": 336.917,
+    "duration": 1.559
+  },
+  {
+    "text": "CA: So here's another type\nof vulnerability.",
+    "start": 338.5,
+    "duration": 2.351
+  },
+  {
+    "text": "Talk about this.",
+    "start": 340.875,
+    "duration": 1.643
+  },
+  {
+    "text": "NB: Yeah, so in addition to these\nkind of obvious types of black balls",
+    "start": 342.542,
+    "duration": 3.976
+  },
+  {
+    "text": "that would just make it possible\nto blow up a lot of things,",
+    "start": 346.542,
+    "duration": 2.81
+  },
+  {
+    "text": "other types would act\nby creating bad incentives",
+    "start": 349.376,
+    "duration": 4.433
+  },
+  {
+    "text": "for humans to do things that are harmful.",
+    "start": 353.833,
+    "duration": 2.226
+  },
+  {
+    "text": "So, the Type-2a, we might call it that,",
+    "start": 356.083,
+    "duration": 4.101
+  },
+  {
+    "text": "is to think about some technology\nthat incentivizes great powers",
+    "start": 360.208,
+    "duration": 4.518
+  },
+  {
+    "text": "to use their massive amounts of force\nto create destruction.",
+    "start": 364.75,
+    "duration": 4.476
+  },
+  {
+    "text": "So, nuclear weapons were actually\nvery close to this, right?",
+    "start": 369.25,
+    "duration": 2.833
+  },
+  {
+    "text": "What we did, we spent\nover 10 trillion dollars",
+    "start": 374.083,
+    "duration": 3.06
+  },
+  {
+    "text": "to build 70,000 nuclear warheads",
+    "start": 377.167,
+    "duration": 2.517
+  },
+  {
+    "text": "and put them on hair-trigger alert.",
+    "start": 379.708,
+    "duration": 2.435
+  },
+  {
+    "text": "And there were several times\nduring the Cold War",
+    "start": 382.167,
+    "duration": 2.267
+  },
+  {
+    "text": "we almost blew each other up.",
+    "start": 384.458,
+    "duration": 1.435
+  },
+  {
+    "text": "It's not because a lot of people felt\nthis would be a great idea,",
+    "start": 385.917,
+    "duration": 3.101
+  },
+  {
+    "text": "let's all spend 10 trillion dollars\nto blow ourselves up,",
+    "start": 389.042,
+    "duration": 2.684
+  },
+  {
+    "text": "but the incentives were such\nthat we were finding ourselves --",
+    "start": 391.75,
+    "duration": 2.934
+  },
+  {
+    "text": "this could have been worse.",
+    "start": 394.708,
+    "duration": 1.31
+  },
+  {
+    "text": "Imagine if there had been\na safe first strike.",
+    "start": 396.042,
+    "duration": 2.434
+  },
+  {
+    "text": "Then it might have been very tricky,",
+    "start": 398.5,
+    "duration": 2.309
+  },
+  {
+    "text": "in a crisis situation,",
+    "start": 400.833,
+    "duration": 1.268
+  },
+  {
+    "text": "to refrain from launching\nall their nuclear missiles.",
+    "start": 402.125,
+    "duration": 2.477
+  },
+  {
+    "text": "If nothing else, because you would fear\nthat the other side might do it.",
+    "start": 404.626,
+    "duration": 3.392
+  },
+  {
+    "text": "CA: Right, mutual assured destruction",
+    "start": 408.042,
+    "duration": 1.809
+  },
+  {
+    "text": "kept the Cold War relatively stable,",
+    "start": 409.875,
+    "duration": 2.726
+  },
+  {
+    "text": "without that, we might not be here now.",
+    "start": 412.625,
+    "duration": 1.934
+  },
+  {
+    "text": "NB: It could have been\nmore unstable than it was.",
+    "start": 414.583,
+    "duration": 2.31
+  },
+  {
+    "text": "And there could be\nother properties of technology.",
+    "start": 416.917,
+    "duration": 2.351
+  },
+  {
+    "text": "It could have been harder\nto have arms treaties,",
+    "start": 419.292,
+    "duration": 2.309
+  },
+  {
+    "text": "if instead of nuclear weapons",
+    "start": 421.625,
+    "duration": 1.601
+  },
+  {
+    "text": "there had been some smaller thing\nor something less distinctive.",
+    "start": 423.25,
+    "duration": 3.018
+  },
+  {
+    "text": "CA: And as well as bad incentives\nfor powerful actors,",
+    "start": 426.292,
+    "duration": 2.559
+  },
+  {
+    "text": "you also worry about bad incentives\nfor all of us, in Type-2b here.",
+    "start": 428.875,
+    "duration": 3.518
+  },
+  {
+    "text": "NB: Yeah, so, here we might\ntake the case of global warming.",
+    "start": 432.417,
+    "duration": 4.25
+  },
+  {
+    "text": "There are a lot of little conveniences",
+    "start": 438.958,
+    "duration": 1.893
+  },
+  {
+    "text": "that cause each one of us to do things",
+    "start": 440.875,
+    "duration": 2.184
+  },
+  {
+    "text": "that individually \nhave no significant effect, right?",
+    "start": 443.083,
+    "duration": 2.851
+  },
+  {
+    "text": "But if billions of people do it,",
+    "start": 445.958,
+    "duration": 1.976
+  },
+  {
+    "text": "cumulatively, it has a damaging effect.",
+    "start": 447.958,
+    "duration": 2.06
+  },
+  {
+    "text": "Now, global warming\ncould have been a lot worse than it is.",
+    "start": 450.042,
+    "duration": 2.809
+  },
+  {
+    "text": "So we have the climate\nsensitivity parameter, right.",
+    "start": 452.875,
+    "duration": 2.976
+  },
+  {
+    "text": "It's a parameter that says\nhow much warmer does it get",
+    "start": 455.875,
+    "duration": 3.643
+  },
+  {
+    "text": "if you emit a certain amount\nof greenhouse gases.",
+    "start": 459.542,
+    "duration": 2.684
+  },
+  {
+    "text": "But, suppose that it had been the case",
+    "start": 462.25,
+    "duration": 2.393
+  },
+  {
+    "text": "that with the amount\nof greenhouse gases we emitted,",
+    "start": 464.667,
+    "duration": 2.517
+  },
+  {
+    "text": "instead of the temperature rising by, say,",
+    "start": 467.208,
+    "duration": 2.06
+  },
+  {
+    "text": "between three and 4.5 degrees by 2100,",
+    "start": 469.292,
+    "duration": 3.726
+  },
+  {
+    "text": "suppose it had been\n15 degrees or 20 degrees.",
+    "start": 473.042,
+    "duration": 2.5
+  },
+  {
+    "text": "Like, then we might have been\nin a very bad situation.",
+    "start": 476.375,
+    "duration": 2.559
+  },
+  {
+    "text": "Or suppose that renewable energy\nhad just been a lot harder to do.",
+    "start": 478.958,
+    "duration": 3.143
+  },
+  {
+    "text": "Or that there had been\nmore fossil fuels in the ground.",
+    "start": 482.125,
+    "duration": 2.643
+  },
+  {
+    "text": "CA: Couldn't you argue\nthat if in that case of --",
+    "start": 484.792,
+    "duration": 2.642
+  },
+  {
+    "text": "if what we are doing today",
+    "start": 487.458,
+    "duration": 1.726
+  },
+  {
+    "text": "had resulted in 10 degrees difference\nin the time period that we could see,",
+    "start": 489.208,
+    "duration": 4.56
+  },
+  {
+    "text": "actually humanity would have got\noff its ass and done something about it.",
+    "start": 493.792,
+    "duration": 3.684
+  },
+  {
+    "text": "We're stupid, but we're not\nmaybe that stupid.",
+    "start": 497.5,
+    "duration": 2.809
+  },
+  {
+    "text": "Or maybe we are.",
+    "start": 500.333,
+    "duration": 1.268
+  },
+  {
+    "text": "NB: I wouldn't bet on it.",
+    "start": 501.625,
+    "duration": 1.268
+  },
+  {
+    "text": "(Laughter)",
+    "start": 502.917,
+    "duration": 2.184
+  },
+  {
+    "text": "You could imagine other features.",
+    "start": 505.125,
+    "duration": 1.684
+  },
+  {
+    "text": "So, right now, it's a little bit difficult\nto switch to renewables and stuff, right,",
+    "start": 506.833,
+    "duration": 5.518
+  },
+  {
+    "text": "but it can be done.",
+    "start": 512.375,
+    "duration": 1.268
+  },
+  {
+    "text": "But it might just have been,\nwith slightly different physics,",
+    "start": 513.667,
+    "duration": 2.976
+  },
+  {
+    "text": "it could have been much more expensive\nto do these things.",
+    "start": 516.667,
+    "duration": 2.791
+  },
+  {
+    "text": "CA: And what's your view, Nick?",
+    "start": 520.375,
+    "duration": 1.518
+  },
+  {
+    "text": "Do you think, putting\nthese possibilities together,",
+    "start": 521.917,
+    "duration": 2.434
+  },
+  {
+    "text": "that this earth, humanity that we are,",
+    "start": 524.375,
+    "duration": 4.268
+  },
+  {
+    "text": "we count as a vulnerable world?",
+    "start": 528.667,
+    "duration": 1.559
+  },
+  {
+    "text": "That there is a death ball in our future?",
+    "start": 530.25,
+    "duration": 2.417
+  },
+  {
+    "text": "NB: It's hard to say.",
+    "start": 535.958,
+    "duration": 1.268
+  },
+  {
+    "text": "I mean, I think there might\nwell be various black balls in the urn,",
+    "start": 537.25,
+    "duration": 5.059
+  },
+  {
+    "text": "that's what it looks like.",
+    "start": 542.333,
+    "duration": 1.31
+  },
+  {
+    "text": "There might also be some golden balls",
+    "start": 543.667,
+    "duration": 2.392
+  },
+  {
+    "text": "that would help us\nprotect against black balls.",
+    "start": 546.083,
+    "duration": 3.476
+  },
+  {
+    "text": "And I don't know which order\nthey will come out.",
+    "start": 549.583,
+    "duration": 2.976
+  },
+  {
+    "text": "CA: I mean, one possible\nphilosophical critique of this idea",
+    "start": 552.583,
+    "duration": 3.851
+  },
+  {
+    "text": "is that it implies a view\nthat the future is essentially settled.",
+    "start": 556.458,
+    "duration": 5.643
+  },
+  {
+    "text": "That there either\nis that ball there or it's not.",
+    "start": 562.125,
+    "duration": 2.476
+  },
+  {
+    "text": "And in a way,",
+    "start": 564.625,
+    "duration": 3.018
+  },
+  {
+    "text": "that's not a view of the future\nthat I want to believe.",
+    "start": 567.667,
+    "duration": 2.601
+  },
+  {
+    "text": "I want to believe\nthat the future is undetermined,",
+    "start": 570.292,
+    "duration": 2.351
+  },
+  {
+    "text": "that our decisions today will determine",
+    "start": 572.667,
+    "duration": 1.934
+  },
+  {
+    "text": "what kind of balls\nwe pull out of that urn.",
+    "start": 574.625,
+    "duration": 2.208
+  },
+  {
+    "text": "NB: I mean, if we just keep inventing,",
+    "start": 577.917,
+    "duration": 3.767
+  },
+  {
+    "text": "like, eventually we will\npull out all the balls.",
+    "start": 581.708,
+    "duration": 2.334
+  },
+  {
+    "text": "I mean, I think there's a kind\nof weak form of technological determinism",
+    "start": 584.875,
+    "duration": 3.393
+  },
+  {
+    "text": "that is quite plausible,",
+    "start": 588.292,
+    "duration": 1.267
+  },
+  {
+    "text": "like, you're unlikely\nto encounter a society",
+    "start": 589.583,
+    "duration": 2.643
+  },
+  {
+    "text": "that uses flint axes and jet planes.",
+    "start": 592.25,
+    "duration": 2.833
+  },
+  {
+    "text": "But you can almost think\nof a technology as a set of affordances.",
+    "start": 596.208,
+    "duration": 4.06
+  },
+  {
+    "text": "So technology is the thing\nthat enables us to do various things",
+    "start": 600.292,
+    "duration": 3.017
+  },
+  {
+    "text": "and achieve various effects in the world.",
+    "start": 603.333,
+    "duration": 1.976
+  },
+  {
+    "text": "How we'd then use that,\nof course depends on human choice.",
+    "start": 605.333,
+    "duration": 2.81
+  },
+  {
+    "text": "But if we think about these\nthree types of vulnerability,",
+    "start": 608.167,
+    "duration": 2.684
+  },
+  {
+    "text": "they make quite weak assumptions\nabout how we would choose to use them.",
+    "start": 610.875,
+    "duration": 3.393
+  },
+  {
+    "text": "So a Type-1 vulnerability, again,\nthis massive, destructive power,",
+    "start": 614.292,
+    "duration": 3.392
+  },
+  {
+    "text": "it's a fairly weak assumption",
+    "start": 617.708,
+    "duration": 1.435
+  },
+  {
+    "text": "to think that in a population\nof millions of people",
+    "start": 619.167,
+    "duration": 2.392
+  },
+  {
+    "text": "there would be some that would choose\nto use it destructively.",
+    "start": 621.583,
+    "duration": 2.935
+  },
+  {
+    "text": "CA: For me, the most single\ndisturbing argument",
+    "start": 624.542,
+    "duration": 2.434
+  },
+  {
+    "text": "is that we actually might have\nsome kind of view into the urn",
+    "start": 627.0,
+    "duration": 4.559
+  },
+  {
+    "text": "that makes it actually\nvery likely that we're doomed.",
+    "start": 631.583,
+    "duration": 3.518
+  },
+  {
+    "text": "Namely, if you believe\nin accelerating power,",
+    "start": 635.125,
+    "duration": 4.643
+  },
+  {
+    "text": "that technology inherently accelerates,",
+    "start": 639.792,
+    "duration": 2.267
+  },
+  {
+    "text": "that we build the tools\nthat make us more powerful,",
+    "start": 642.083,
+    "duration": 2.435
+  },
+  {
+    "text": "then at some point you get to a stage",
+    "start": 644.542,
+    "duration": 2.642
+  },
+  {
+    "text": "where a single individual\ncan take us all down,",
+    "start": 647.208,
+    "duration": 3.06
+  },
+  {
+    "text": "and then it looks like we're screwed.",
+    "start": 650.292,
+    "duration": 2.851
+  },
+  {
+    "text": "Isn't that argument quite alarming?",
+    "start": 653.167,
+    "duration": 2.934
+  },
+  {
+    "text": "NB: Ah, yeah.",
+    "start": 656.125,
+    "duration": 1.75
+  },
+  {
+    "text": "(Laughter)",
+    "start": 658.708,
+    "duration": 1.268
+  },
+  {
+    "text": "I think --",
+    "start": 660.0,
+    "duration": 1.333
+  },
+  {
+    "text": "Yeah, we get more and more power,",
+    "start": 662.875,
+    "duration": 1.601
+  },
+  {
+    "text": "and [it's] easier and easier \nto use those powers,",
+    "start": 664.5,
+    "duration": 3.934
+  },
+  {
+    "text": "but we can also invent technologies\nthat kind of help us control",
+    "start": 668.458,
+    "duration": 3.56
+  },
+  {
+    "text": "how people use those powers.",
+    "start": 672.042,
+    "duration": 2.017
+  },
+  {
+    "text": "CA: So let's talk about that,\nlet's talk about the response.",
+    "start": 674.083,
+    "duration": 2.851
+  },
+  {
+    "text": "Suppose that thinking\nabout all the possibilities",
+    "start": 676.958,
+    "duration": 2.31
+  },
+  {
+    "text": "that are out there now --",
+    "start": 679.292,
+    "duration": 2.101
+  },
+  {
+    "text": "it's not just synbio,\nit's things like cyberwarfare,",
+    "start": 681.417,
+    "duration": 3.726
+  },
+  {
+    "text": "artificial intelligence, etc., etc. --",
+    "start": 685.167,
+    "duration": 3.351
+  },
+  {
+    "text": "that there might be\nserious doom in our future.",
+    "start": 688.542,
+    "duration": 4.517
+  },
+  {
+    "text": "What are the possible responses?",
+    "start": 693.083,
+    "duration": 1.601
+  },
+  {
+    "text": "And you've talked about\nfour possible responses as well.",
+    "start": 694.708,
+    "duration": 4.893
+  },
+  {
+    "text": "NB: Restricting technological development\ndoesn't seem promising,",
+    "start": 699.625,
+    "duration": 3.643
+  },
+  {
+    "text": "if we are talking about a general halt\nto technological progress.",
+    "start": 703.292,
+    "duration": 3.226
+  },
+  {
+    "text": "I think neither feasible,",
+    "start": 706.542,
+    "duration": 1.267
+  },
+  {
+    "text": "nor would it be desirable\neven if we could do it.",
+    "start": 707.833,
+    "duration": 2.31
+  },
+  {
+    "text": "I think there might be very limited areas",
+    "start": 710.167,
+    "duration": 3.017
+  },
+  {
+    "text": "where maybe you would want\nslower technological progress.",
+    "start": 713.208,
+    "duration": 2.726
+  },
+  {
+    "text": "You don't, I think, want\nfaster progress in bioweapons,",
+    "start": 715.958,
+    "duration": 3.393
+  },
+  {
+    "text": "or in, say, isotope separation,",
+    "start": 719.375,
+    "duration": 2.059
+  },
+  {
+    "text": "that would make it easier to create nukes.",
+    "start": 721.458,
+    "duration": 2.25
+  },
+  {
+    "text": "CA: I mean, I used to be\nfully on board with that.",
+    "start": 724.583,
+    "duration": 3.31
+  },
+  {
+    "text": "But I would like to actually\npush back on that for a minute.",
+    "start": 727.917,
+    "duration": 3.267
+  },
+  {
+    "text": "Just because, first of all,",
+    "start": 731.208,
+    "duration": 1.31
+  },
+  {
+    "text": "if you look at the history\nof the last couple of decades,",
+    "start": 732.542,
+    "duration": 2.684
+  },
+  {
+    "text": "you know, it's always been\npush forward at full speed,",
+    "start": 735.25,
+    "duration": 3.559
+  },
+  {
+    "text": "it's OK, that's our only choice.",
+    "start": 738.833,
+    "duration": 1.851
+  },
+  {
+    "text": "But if you look at globalization\nand the rapid acceleration of that,",
+    "start": 740.708,
+    "duration": 4.268
+  },
+  {
+    "text": "if you look at the strategy of\n\"move fast and break things\"",
+    "start": 745.0,
+    "duration": 3.434
+  },
+  {
+    "text": "and what happened with that,",
+    "start": 748.458,
+    "duration": 2.06
+  },
+  {
+    "text": "and then you look at the potential\nfor synthetic biology,",
+    "start": 750.542,
+    "duration": 2.767
+  },
+  {
+    "text": "I don't know that we should\nmove forward rapidly",
+    "start": 753.333,
+    "duration": 4.435
+  },
+  {
+    "text": "or without any kind of restriction",
+    "start": 757.792,
+    "duration": 1.642
+  },
+  {
+    "text": "to a world where you could have\na DNA printer in every home",
+    "start": 759.458,
+    "duration": 3.31
+  },
+  {
+    "text": "and high school lab.",
+    "start": 762.792,
+    "duration": 1.333
+  },
+  {
+    "text": "There are some restrictions, right?",
+    "start": 765.167,
+    "duration": 1.684
+  },
+  {
+    "text": "NB: Possibly, there is\nthe first part, the not feasible.",
+    "start": 766.875,
+    "duration": 2.643
+  },
+  {
+    "text": "If you think it would be\ndesirable to stop it,",
+    "start": 769.542,
+    "duration": 2.184
+  },
+  {
+    "text": "there's the problem of feasibility.",
+    "start": 771.75,
+    "duration": 1.726
+  },
+  {
+    "text": "So it doesn't really help\nif one nation kind of --",
+    "start": 773.5,
+    "duration": 2.809
+  },
+  {
+    "text": "CA: No, it doesn't help\nif one nation does,",
+    "start": 776.333,
+    "duration": 2.018
+  },
+  {
+    "text": "but we've had treaties before.",
+    "start": 778.375,
+    "duration": 2.934
+  },
+  {
+    "text": "That's really how we survived\nthe nuclear threat,",
+    "start": 781.333,
+    "duration": 3.351
+  },
+  {
+    "text": "was by going out there",
+    "start": 784.708,
+    "duration": 1.268
+  },
+  {
+    "text": "and going through\nthe painful process of negotiating.",
+    "start": 786.0,
+    "duration": 2.518
+  },
+  {
+    "text": "I just wonder whether the logic isn't\nthat we, as a matter of global priority,",
+    "start": 788.542,
+    "duration": 5.434
+  },
+  {
+    "text": "we shouldn't go out there and try,",
+    "start": 794.0,
+    "duration": 1.684
+  },
+  {
+    "text": "like, now start negotiating\nreally strict rules",
+    "start": 795.708,
+    "duration": 2.685
+  },
+  {
+    "text": "on where synthetic bioresearch is done,",
+    "start": 798.417,
+    "duration": 2.684
+  },
+  {
+    "text": "that it's not something\nthat you want to democratize, no?",
+    "start": 801.125,
+    "duration": 2.851
+  },
+  {
+    "text": "NB: I totally agree with that --",
+    "start": 804.0,
+    "duration": 1.809
+  },
+  {
+    "text": "that it would be desirable, for example,",
+    "start": 805.833,
+    "duration": 4.226
+  },
+  {
+    "text": "maybe to have DNA synthesis machines,",
+    "start": 810.083,
+    "duration": 3.601
+  },
+  {
+    "text": "not as a product where each lab\nhas their own device,",
+    "start": 813.708,
+    "duration": 3.56
+  },
+  {
+    "text": "but maybe as a service.",
+    "start": 817.292,
+    "duration": 1.476
+  },
+  {
+    "text": "Maybe there could be\nfour or five places in the world",
+    "start": 818.792,
+    "duration": 2.517
+  },
+  {
+    "text": "where you send in your digital blueprint\nand the DNA comes back, right?",
+    "start": 821.333,
+    "duration": 3.518
+  },
+  {
+    "text": "And then, you would have the ability,",
+    "start": 824.875,
+    "duration": 1.768
+  },
+  {
+    "text": "if one day it really looked\nlike it was necessary,",
+    "start": 826.667,
+    "duration": 2.392
+  },
+  {
+    "text": "we would have like,\na finite set of choke points.",
+    "start": 829.083,
+    "duration": 2.351
+  },
+  {
+    "text": "So I think you want to look\nfor kind of special opportunities,",
+    "start": 831.458,
+    "duration": 3.518
+  },
+  {
+    "text": "where you could have tighter control.",
+    "start": 835.0,
+    "duration": 2.059
+  },
+  {
+    "text": "CA: Your belief is, fundamentally,",
+    "start": 837.083,
+    "duration": 1.643
+  },
+  {
+    "text": "we are not going to be successful\nin just holding back.",
+    "start": 838.75,
+    "duration": 2.893
+  },
+  {
+    "text": "Someone, somewhere --\nNorth Korea, you know --",
+    "start": 841.667,
+    "duration": 2.726
+  },
+  {
+    "text": "someone is going to go there\nand discover this knowledge,",
+    "start": 844.417,
+    "duration": 3.517
+  },
+  {
+    "text": "if it's there to be found.",
+    "start": 847.958,
+    "duration": 1.268
+  },
+  {
+    "text": "NB: That looks plausible\nunder current conditions.",
+    "start": 849.25,
+    "duration": 2.351
+  },
+  {
+    "text": "It's not just synthetic biology, either.",
+    "start": 851.625,
+    "duration": 1.934
+  },
+  {
+    "text": "I mean, any kind of profound,\nnew change in the world",
+    "start": 853.583,
+    "duration": 2.518
+  },
+  {
+    "text": "could turn out to be a black ball.",
+    "start": 856.101,
+    "duration": 1.626
+  },
+  {
+    "text": "CA: Let's look at \nanother possible response.",
+    "start": 857.727,
+    "duration": 2.096
+  },
+  {
+    "text": "NB: This also, I think,\nhas only limited potential.",
+    "start": 859.823,
+    "duration": 2.403
+  },
+  {
+    "text": "So, with the Type-1 vulnerability again,",
+    "start": 862.25,
+    "duration": 3.559
+  },
+  {
+    "text": "I mean, if you could reduce the number\nof people who are incentivized",
+    "start": 865.833,
+    "duration": 4.351
+  },
+  {
+    "text": "to destroy the world,",
+    "start": 870.208,
+    "duration": 1.268
+  },
+  {
+    "text": "if only they could get\naccess and the means,",
+    "start": 871.5,
+    "duration": 2.059
+  },
+  {
+    "text": "that would be good.",
+    "start": 873.583,
+    "duration": 1.268
+  },
+  {
+    "text": "CA: In this image that you asked us to do",
+    "start": 874.875,
+    "duration": 1.976
+  },
+  {
+    "text": "you're imagining these drones\nflying around the world",
+    "start": 876.875,
+    "duration": 2.559
+  },
+  {
+    "text": "with facial recognition.",
+    "start": 879.458,
+    "duration": 1.268
+  },
+  {
+    "text": "When they spot someone\nshowing signs of sociopathic behavior,",
+    "start": 880.75,
+    "duration": 2.893
+  },
+  {
+    "text": "they shower them with love, they fix them.",
+    "start": 883.667,
+    "duration": 2.184
+  },
+  {
+    "text": "NB: I think it's like a hybrid picture.",
+    "start": 885.875,
+    "duration": 1.893
+  },
+  {
+    "text": "Eliminate can either mean,\nlike, incarcerate or kill,",
+    "start": 887.792,
+    "duration": 4.017
+  },
+  {
+    "text": "or it can mean persuade them\nto a better view of the world.",
+    "start": 891.833,
+    "duration": 3.018
+  },
+  {
+    "text": "But the point is that,",
+    "start": 894.875,
+    "duration": 1.726
+  },
+  {
+    "text": "suppose you were\nextremely successful in this,",
+    "start": 896.625,
+    "duration": 2.143
+  },
+  {
+    "text": "and you reduced the number\nof such individuals by half.",
+    "start": 898.792,
+    "duration": 3.309
+  },
+  {
+    "text": "And if you want to do it by persuasion,",
+    "start": 902.125,
+    "duration": 1.893
+  },
+  {
+    "text": "you are competing against\nall other powerful forces",
+    "start": 904.042,
+    "duration": 2.392
+  },
+  {
+    "text": "that are trying to persuade people,",
+    "start": 906.458,
+    "duration": 1.685
+  },
+  {
+    "text": "parties, religion, education system.",
+    "start": 908.167,
+    "duration": 1.767
+  },
+  {
+    "text": "But suppose you could reduce it by half,",
+    "start": 909.958,
+    "duration": 1.905
+  },
+  {
+    "text": "I don't think the risk\nwould be reduced by half.",
+    "start": 911.887,
+    "duration": 2.256
+  },
+  {
+    "text": "Maybe by five or 10 percent.",
+    "start": 914.167,
+    "duration": 1.559
+  },
+  {
+    "text": "CA: You're not recommending that we gamble\nhumanity's future on response two.",
+    "start": 915.75,
+    "duration": 4.351
+  },
+  {
+    "text": "NB: I think it's all good\nto try to deter and persuade people,",
+    "start": 920.125,
+    "duration": 3.018
+  },
+  {
+    "text": "but we shouldn't rely on that\nas our only safeguard.",
+    "start": 923.167,
+    "duration": 2.976
+  },
+  {
+    "text": "CA: How about three?",
+    "start": 926.167,
+    "duration": 1.267
+  },
+  {
+    "text": "NB: I think there are two general methods",
+    "start": 927.458,
+    "duration": 2.893
+  },
+  {
+    "text": "that we could use to achieve\nthe ability to stabilize the world",
+    "start": 930.375,
+    "duration": 3.976
+  },
+  {
+    "text": "against the whole spectrum\nof possible vulnerabilities.",
+    "start": 934.375,
+    "duration": 2.976
+  },
+  {
+    "text": "And we probably would need both.",
+    "start": 937.375,
+    "duration": 1.559
+  },
+  {
+    "text": "So, one is an extremely effective ability",
+    "start": 938.958,
+    "duration": 4.518
+  },
+  {
+    "text": "to do preventive policing.",
+    "start": 943.5,
+    "duration": 1.768
+  },
+  {
+    "text": "Such that you could intercept.",
+    "start": 945.292,
+    "duration": 1.524
+  },
+  {
+    "text": "If anybody started to do\nthis dangerous thing,",
+    "start": 946.84,
+    "duration": 2.761
+  },
+  {
+    "text": "you could intercept them\nin real time, and stop them.",
+    "start": 949.625,
+    "duration": 2.684
+  },
+  {
+    "text": "So this would require\nubiquitous surveillance,",
+    "start": 952.333,
+    "duration": 2.476
+  },
+  {
+    "text": "everybody would be monitored all the time.",
+    "start": 954.833,
+    "duration": 2.375
+  },
+  {
+    "text": "CA: This is \"Minority Report,\"\nessentially, a form of.",
+    "start": 958.333,
+    "duration": 2.56
+  },
+  {
+    "text": "NB: You would have maybe AI algorithms,",
+    "start": 960.917,
+    "duration": 1.934
+  },
+  {
+    "text": "big freedom centers\nthat were reviewing this, etc., etc.",
+    "start": 962.875,
+    "duration": 4.417
+  },
+  {
+    "text": "CA: You know that mass surveillance\nis not a very popular term right now?",
+    "start": 968.583,
+    "duration": 4.393
+  },
+  {
+    "text": "(Laughter)",
+    "start": 973.0,
+    "duration": 1.25
+  },
+  {
+    "text": "NB: Yeah, so this little device there,",
+    "start": 975.458,
+    "duration": 1.81
+  },
+  {
+    "text": "imagine that kind of necklace\nthat you would have to wear at all times",
+    "start": 977.292,
+    "duration": 3.601
+  },
+  {
+    "text": "with multidirectional cameras.",
+    "start": 980.917,
+    "duration": 2.0
+  },
+  {
+    "text": "But, to make it go down better,",
+    "start": 983.792,
+    "duration": 1.809
+  },
+  {
+    "text": "just call it the \"freedom tag\"\nor something like that.",
+    "start": 985.625,
+    "duration": 2.524
+  },
+  {
+    "text": "(Laughter)",
+    "start": 988.173,
+    "duration": 2.011
+  },
+  {
+    "text": "CA: OK.",
+    "start": 990.208,
+    "duration": 1.268
+  },
+  {
+    "text": "I mean, this is the conversation, friends,",
+    "start": 991.5,
+    "duration": 2.101
+  },
+  {
+    "text": "this is why this is\nsuch a mind-blowing conversation.",
+    "start": 993.625,
+    "duration": 3.559
+  },
+  {
+    "text": "NB: Actually, there's\na whole big conversation on this",
+    "start": 997.208,
+    "duration": 2.601
+  },
+  {
+    "text": "on its own, obviously.",
+    "start": 999.833,
+    "duration": 1.31
+  },
+  {
+    "text": "There are huge problems and risks\nwith that, right?",
+    "start": 1001.167,
+    "duration": 2.476
+  },
+  {
+    "text": "We may come back to that.",
+    "start": 1003.667,
+    "duration": 1.267
+  },
+  {
+    "text": "So the other, the final,",
+    "start": 1004.958,
+    "duration": 1.268
+  },
+  {
+    "text": "the other general stabilization capability",
+    "start": 1006.25,
+    "duration": 2.559
+  },
+  {
+    "text": "is kind of plugging\nanother governance gap.",
+    "start": 1008.833,
+    "duration": 2.06
+  },
+  {
+    "text": "So the surveillance would be kind of\ngovernance gap at the microlevel,",
+    "start": 1010.917,
+    "duration": 4.184
+  },
+  {
+    "text": "like, preventing anybody\nfrom ever doing something highly illegal.",
+    "start": 1015.125,
+    "duration": 3.101
+  },
+  {
+    "text": "Then, there's a corresponding\ngovernance gap",
+    "start": 1018.25,
+    "duration": 2.309
+  },
+  {
+    "text": "at the macro level, at the global level.",
+    "start": 1020.583,
+    "duration": 1.935
+  },
+  {
+    "text": "You would need the ability, reliably,",
+    "start": 1022.542,
+    "duration": 3.934
+  },
+  {
+    "text": "to prevent the worst kinds\nof global coordination failures,",
+    "start": 1026.5,
+    "duration": 2.809
+  },
+  {
+    "text": "to avoid wars between great powers,",
+    "start": 1029.333,
+    "duration": 3.768
+  },
+  {
+    "text": "arms races,",
+    "start": 1033.125,
+    "duration": 1.333
+  },
+  {
+    "text": "cataclysmic commons problems,",
+    "start": 1035.5,
+    "duration": 2.208
+  },
+  {
+    "text": "in order to deal with\nthe Type-2a vulnerabilities.",
+    "start": 1039.667,
+    "duration": 4.184
+  },
+  {
+    "text": "CA: Global governance is a term",
+    "start": 1043.875,
+    "duration": 1.934
+  },
+  {
+    "text": "that's definitely way out\nof fashion right now,",
+    "start": 1045.833,
+    "duration": 2.226
+  },
+  {
+    "text": "but could you make the case\nthat throughout history,",
+    "start": 1048.083,
+    "duration": 2.518
+  },
+  {
+    "text": "the history of humanity",
+    "start": 1050.625,
+    "duration": 1.268
+  },
+  {
+    "text": "is that at every stage\nof technological power increase,",
+    "start": 1051.917,
+    "duration": 5.434
+  },
+  {
+    "text": "people have reorganized\nand sort of centralized the power.",
+    "start": 1057.375,
+    "duration": 3.226
+  },
+  {
+    "text": "So, for example,\nwhen a roving band of criminals",
+    "start": 1060.625,
+    "duration": 3.434
+  },
+  {
+    "text": "could take over a society,",
+    "start": 1064.083,
+    "duration": 1.685
+  },
+  {
+    "text": "the response was,\nwell, you have a nation-state",
+    "start": 1065.792,
+    "duration": 2.239
+  },
+  {
+    "text": "and you centralize force,\na police force or an army,",
+    "start": 1068.055,
+    "duration": 2.434
+  },
+  {
+    "text": "so, \"No, you can't do that.\"",
+    "start": 1070.513,
+    "duration": 1.63
+  },
+  {
+    "text": "The logic, perhaps, of having\na single person or a single group",
+    "start": 1072.167,
+    "duration": 4.559
+  },
+  {
+    "text": "able to take out humanity",
+    "start": 1076.75,
+    "duration": 1.643
+  },
+  {
+    "text": "means at some point\nwe're going to have to go this route,",
+    "start": 1078.417,
+    "duration": 2.726
+  },
+  {
+    "text": "at least in some form, no?",
+    "start": 1081.167,
+    "duration": 1.434
+  },
+  {
+    "text": "NB: It's certainly true that the scale\nof political organization has increased",
+    "start": 1082.625,
+    "duration": 3.684
+  },
+  {
+    "text": "over the course of human history.",
+    "start": 1086.333,
+    "duration": 2.143
+  },
+  {
+    "text": "It used to be hunter-gatherer band, right,",
+    "start": 1088.5,
+    "duration": 2.018
+  },
+  {
+    "text": "and then chiefdom, city-states, nations,",
+    "start": 1090.542,
+    "duration": 2.934
+  },
+  {
+    "text": "now there are international organizations\nand so on and so forth.",
+    "start": 1093.5,
+    "duration": 3.976
+  },
+  {
+    "text": "Again, I just want to make sure",
+    "start": 1097.5,
+    "duration": 1.518
+  },
+  {
+    "text": "I get the chance to stress",
+    "start": 1099.042,
+    "duration": 1.642
+  },
+  {
+    "text": "that obviously there are huge downsides",
+    "start": 1100.708,
+    "duration": 1.976
+  },
+  {
+    "text": "and indeed, massive risks,",
+    "start": 1102.708,
+    "duration": 1.518
+  },
+  {
+    "text": "both to mass surveillance\nand to global governance.",
+    "start": 1104.25,
+    "duration": 3.351
+  },
+  {
+    "text": "I'm just pointing out\nthat if we are lucky,",
+    "start": 1107.625,
+    "duration": 2.559
+  },
+  {
+    "text": "the world could be such\nthat these would be the only ways",
+    "start": 1110.208,
+    "duration": 2.685
+  },
+  {
+    "text": "you could survive a black ball.",
+    "start": 1112.917,
+    "duration": 1.517
+  },
+  {
+    "text": "CA: The logic of this theory,",
+    "start": 1114.458,
+    "duration": 2.518
+  },
+  {
+    "text": "it seems to me,",
+    "start": 1117.0,
+    "duration": 1.268
+  },
+  {
+    "text": "is that we've got to recognize\nwe can't have it all.",
+    "start": 1118.292,
+    "duration": 3.601
+  },
+  {
+    "text": "That the sort of,",
+    "start": 1121.917,
+    "duration": 1.833
+  },
+  {
+    "text": "I would say, naive dream\nthat many of us had",
+    "start": 1125.5,
+    "duration": 2.976
+  },
+  {
+    "text": "that technology is always\ngoing to be a force for good,",
+    "start": 1128.5,
+    "duration": 3.351
+  },
+  {
+    "text": "keep going, don't stop,\ngo as fast as you can",
+    "start": 1131.875,
+    "duration": 2.976
+  },
+  {
+    "text": "and not pay attention\nto some of the consequences,",
+    "start": 1134.875,
+    "duration": 2.351
+  },
+  {
+    "text": "that's actually just not an option.",
+    "start": 1137.25,
+    "duration": 1.684
+  },
+  {
+    "text": "We can have that.",
+    "start": 1138.958,
+    "duration": 1.935
+  },
+  {
+    "text": "If we have that,",
+    "start": 1140.917,
+    "duration": 1.267
+  },
+  {
+    "text": "we're going to have to accept",
+    "start": 1142.208,
+    "duration": 1.435
+  },
+  {
+    "text": "some of these other\nvery uncomfortable things with it,",
+    "start": 1143.667,
+    "duration": 2.559
+  },
+  {
+    "text": "and kind of be in this\narms race with ourselves",
+    "start": 1146.25,
+    "duration": 2.226
+  },
+  {
+    "text": "of, you want the power,\nyou better limit it,",
+    "start": 1148.5,
+    "duration": 2.268
+  },
+  {
+    "text": "you better figure out how to limit it.",
+    "start": 1150.792,
+    "duration": 2.142
+  },
+  {
+    "text": "NB: I think it is an option,",
+    "start": 1152.958,
+    "duration": 3.476
+  },
+  {
+    "text": "a very tempting option,\nit's in a sense the easiest option",
+    "start": 1156.458,
+    "duration": 2.768
+  },
+  {
+    "text": "and it might work,",
+    "start": 1159.25,
+    "duration": 1.268
+  },
+  {
+    "text": "but it means we are fundamentally\nvulnerable to extracting a black ball.",
+    "start": 1160.542,
+    "duration": 4.809
+  },
+  {
+    "text": "Now, I think with a bit of coordination,",
+    "start": 1165.375,
+    "duration": 2.143
+  },
+  {
+    "text": "like, if you did solve this\nmacrogovernance problem,",
+    "start": 1167.542,
+    "duration": 2.726
+  },
+  {
+    "text": "and the microgovernance problem,",
+    "start": 1170.292,
+    "duration": 1.601
+  },
+  {
+    "text": "then we could extract\nall the balls from the urn",
+    "start": 1171.917,
+    "duration": 2.309
+  },
+  {
+    "text": "and we'd benefit greatly.",
+    "start": 1174.25,
+    "duration": 2.268
+  },
+  {
+    "text": "CA: I mean, if we're living\nin a simulation, does it matter?",
+    "start": 1176.542,
+    "duration": 3.434
+  },
+  {
+    "text": "We just reboot.",
+    "start": 1180.0,
+    "duration": 1.309
+  },
+  {
+    "text": "(Laughter)",
+    "start": 1181.333,
+    "duration": 1.268
+  },
+  {
+    "text": "NB: Then ... I ...",
+    "start": 1182.625,
+    "duration": 1.643
+  },
+  {
+    "text": "(Laughter)",
+    "start": 1184.292,
+    "duration": 2.476
+  },
+  {
+    "text": "I didn't see that one coming.",
+    "start": 1186.792,
+    "duration": 1.416
+  },
+  {
+    "text": "CA: So what's your view?",
+    "start": 1190.125,
+    "duration": 1.268
+  },
+  {
+    "text": "Putting all the pieces together,\nhow likely is it that we're doomed?",
+    "start": 1191.417,
+    "duration": 4.809
+  },
+  {
+    "text": "(Laughter)",
+    "start": 1196.25,
+    "duration": 1.958
+  },
+  {
+    "text": "I love how people laugh\nwhen you ask that question.",
+    "start": 1199.042,
+    "duration": 2.392
+  },
+  {
+    "text": "NB: On an individual level,",
+    "start": 1201.458,
+    "duration": 1.351
+  },
+  {
+    "text": "we seem to kind of be doomed anyway,\njust with the time line,",
+    "start": 1202.833,
+    "duration": 3.851
+  },
+  {
+    "text": "we're rotting and aging\nand all kinds of things, right?",
+    "start": 1206.708,
+    "duration": 2.601
+  },
+  {
+    "text": "(Laughter)",
+    "start": 1209.333,
+    "duration": 1.601
+  },
+  {
+    "text": "It's actually a little bit tricky.",
+    "start": 1210.958,
+    "duration": 1.685
+  },
+  {
+    "text": "If you want to set up\nso that you can attach a probability,",
+    "start": 1212.667,
+    "duration": 2.767
+  },
+  {
+    "text": "first, who are we?",
+    "start": 1215.458,
+    "duration": 1.268
+  },
+  {
+    "text": "If you're very old,\nprobably you'll die of natural causes,",
+    "start": 1216.75,
+    "duration": 2.726
+  },
+  {
+    "text": "if you're very young,\nyou might have a 100-year --",
+    "start": 1219.5,
+    "duration": 2.351
+  },
+  {
+    "text": "the probability might depend\non who you ask.",
+    "start": 1221.875,
+    "duration": 2.143
+  },
+  {
+    "text": "Then the threshold, like, what counts\nas civilizational devastation?",
+    "start": 1224.042,
+    "duration": 4.226
+  },
+  {
+    "text": "In the paper I don't require\nan existential catastrophe",
+    "start": 1228.292,
+    "duration": 5.642
+  },
+  {
+    "text": "in order for it to count.",
+    "start": 1233.958,
+    "duration": 1.435
+  },
+  {
+    "text": "This is just a definitional matter,",
+    "start": 1235.417,
+    "duration": 1.684
+  },
+  {
+    "text": "I say a billion dead,",
+    "start": 1237.125,
+    "duration": 1.309
+  },
+  {
+    "text": "or a reduction of world GDP by 50 percent,",
+    "start": 1238.458,
+    "duration": 2.06
+  },
+  {
+    "text": "but depending on what\nyou say the threshold is,",
+    "start": 1240.542,
+    "duration": 2.226
+  },
+  {
+    "text": "you get a different probability estimate.",
+    "start": 1242.792,
+    "duration": 1.976
+  },
+  {
+    "text": "But I guess you could\nput me down as a frightened optimist.",
+    "start": 1244.792,
+    "duration": 4.517
+  },
+  {
+    "text": "(Laughter)",
+    "start": 1249.333,
+    "duration": 1.101
+  },
+  {
+    "text": "CA: You're a frightened optimist,",
+    "start": 1250.458,
+    "duration": 1.643
+  },
+  {
+    "text": "and I think you've just created\na large number of other frightened ...",
+    "start": 1252.125,
+    "duration": 4.268
+  },
+  {
+    "text": "people.",
+    "start": 1256.417,
+    "duration": 1.267
+  },
+  {
+    "text": "(Laughter)",
+    "start": 1257.708,
+    "duration": 1.06
+  },
+  {
+    "text": "NB: In the simulation.",
+    "start": 1258.792,
+    "duration": 1.267
+  },
+  {
+    "text": "CA: In a simulation.",
+    "start": 1260.083,
+    "duration": 1.268
+  },
+  {
+    "text": "Nick Bostrom, your mind amazes me,",
+    "start": 1261.375,
+    "duration": 1.684
+  },
+  {
+    "text": "thank you so much for scaring\nthe living daylights out of us.",
+    "start": 1263.083,
+    "duration": 2.893
+  },
+  {
+    "text": "(Applause)",
+    "start": 1266.0,
+    "duration": 2.375
+  }
+]

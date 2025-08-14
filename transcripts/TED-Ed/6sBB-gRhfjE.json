@@ -1,0 +1,437 @@
+[
+  {
+    "text": "After months of travel, \nyou’ve arrived at Duonia,",
+    "start": 7.095,
+    "duration": 4.019
+  },
+  {
+    "text": "home to the famous temple that’s \nthe destination of your pilgrimage.",
+    "start": 11.114,
+    "duration": 4.31
+  },
+  {
+    "text": "Entering from the northwest,",
+    "start": 15.424,
+    "duration": 1.87
+  },
+  {
+    "text": "you pass through the city gates \nand the welcome center,",
+    "start": 17.294,
+    "duration": 3.19
+  },
+  {
+    "text": "where you’re given a map and a brochure.",
+    "start": 20.484,
+    "duration": 2.822
+  },
+  {
+    "text": "The map reveals that the town consists\nof 16 blocks,",
+    "start": 23.306,
+    "duration": 4.057
+  },
+  {
+    "text": "formed by five streets that \nrun west to east,",
+    "start": 27.363,
+    "duration": 2.982
+  },
+  {
+    "text": "intersecting five more \nthat run north to south.",
+    "start": 30.345,
+    "duration": 3.638
+  },
+  {
+    "text": "You’re standing on the\nnorthernmost street facing east,",
+    "start": 33.983,
+    "duration": 3.881
+  },
+  {
+    "text": "with the two blocks containing the gate \nand the welcome center behind you.",
+    "start": 37.864,
+    "duration": 4.551
+  },
+  {
+    "text": "The temple’s only entrance lies \nat the very southeast corner.",
+    "start": 42.415,
+    "duration": 3.99
+  },
+  {
+    "text": "It’s not a long walk, \nbut there’s a problem.",
+    "start": 46.405,
+    "duration": 3.449
+  },
+  {
+    "text": "As you learn from the brochure,",
+    "start": 49.854,
+    "duration": 1.82
+  },
+  {
+    "text": "Duonia imposes a unique tax \non all visitors,",
+    "start": 51.674,
+    "duration": 4.519
+  },
+  {
+    "text": "which must be paid when they arrive \nat their destination within the city.",
+    "start": 56.193,
+    "duration": 4.151
+  },
+  {
+    "text": "The tax begins at zero,",
+    "start": 60.344,
+    "duration": 1.99
+  },
+  {
+    "text": "increases by two silver \nfor every block you walk east,",
+    "start": 62.334,
+    "duration": 4.26
+  },
+  {
+    "text": "and doubles for every block \nyou walk south.",
+    "start": 66.594,
+    "duration": 3.524
+  },
+  {
+    "text": "However, a recent reform \nto make the tax fairer",
+    "start": 70.118,
+    "duration": 3.461
+  },
+  {
+    "text": "halves your total bill for\nevery block you walk north",
+    "start": 73.579,
+    "duration": 3.495
+  },
+  {
+    "text": "and subtracts two silver \nfor every block you walk west.",
+    "start": 77.074,
+    "duration": 4.729
+  },
+  {
+    "text": "Just passing through the gate \nand the welcome center",
+    "start": 81.803,
+    "duration": 2.572
+  },
+  {
+    "text": "means you already owe four silver.",
+    "start": 84.375,
+    "duration": 2.79
+  },
+  {
+    "text": "As a pilgrim you carry no money \nand have no way of earning any.",
+    "start": 87.165,
+    "duration": 4.29
+  },
+  {
+    "text": "What’s more, the rules \nof your pilgrimage forbid you",
+    "start": 91.455,
+    "duration": 3.449
+  },
+  {
+    "text": "from walking over any stretch of\nground more than once during your journey—",
+    "start": 94.904,
+    "duration": 4.712
+  },
+  {
+    "text": "though you can cross your own path.",
+    "start": 99.616,
+    "duration": 2.749
+  },
+  {
+    "text": "Can you figure out a way to reach \nthe temple without owing any tax",
+    "start": 102.365,
+    "duration": 4.729
+  },
+  {
+    "text": "or walking the same block twice \nin any direction?",
+    "start": 107.094,
+    "duration": 4.11
+  },
+  {
+    "text": "Pause here if you want \nto figure it out for yourself.",
+    "start": 111.204,
+    "duration": 3.226
+  },
+  {
+    "text": "Answer in: 3",
+    "start": 114.43,
+    "duration": 1.453
+  },
+  {
+    "text": "Answer in: 2",
+    "start": 115.883,
+    "duration": 1.315
+  },
+  {
+    "text": "Answer in: 1",
+    "start": 117.198,
+    "duration": 1.627
+  },
+  {
+    "text": "You look at the map \nto consider your options.",
+    "start": 118.825,
+    "duration": 2.389
+  },
+  {
+    "text": "Walking towards the temple \nalways increases the tax,",
+    "start": 121.214,
+    "duration": 3.243
+  },
+  {
+    "text": "and walking away decreases it,",
+    "start": 124.457,
+    "duration": 2.376
+  },
+  {
+    "text": "so it seems like you can never reach it\nwithout owing silver.",
+    "start": 126.833,
+    "duration": 3.8
+  },
+  {
+    "text": "But what happens when you walk \naround a single block?",
+    "start": 130.633,
+    "duration": 3.386
+  },
+  {
+    "text": "If you start out owing four silver\nand go clockwise starting east,",
+    "start": 134.019,
+    "duration": 4.846
+  },
+  {
+    "text": "your tax bill becomes six,",
+    "start": 138.865,
+    "duration": 1.82
+  },
+  {
+    "text": "then 12,",
+    "start": 140.685,
+    "duration": 1.273
+  },
+  {
+    "text": "then 10,",
+    "start": 141.958,
+    "duration": 1.226
+  },
+  {
+    "text": "then five.",
+    "start": 143.184,
+    "duration": 1.67
+  },
+  {
+    "text": "If you looped again, you’d owe seven,",
+    "start": 144.854,
+    "duration": 2.331
+  },
+  {
+    "text": "14,",
+    "start": 147.185,
+    "duration": 0.991
+  },
+  {
+    "text": "12,",
+    "start": 148.176,
+    "duration": 0.957
+  },
+  {
+    "text": "and six.",
+    "start": 149.133,
+    "duration": 1.352
+  },
+  {
+    "text": "It seems that each clockwise loop leaves \nyou owing one extra silver.",
+    "start": 150.485,
+    "duration": 4.672
+  },
+  {
+    "text": "What about a counterclockwise loop then?",
+    "start": 155.157,
+    "duration": 3.017
+  },
+  {
+    "text": "Starting owing four again \nand going south first,",
+    "start": 158.174,
+    "duration": 3.241
+  },
+  {
+    "text": "your bill changes to eight,",
+    "start": 161.415,
+    "duration": 1.868
+  },
+  {
+    "text": "10,",
+    "start": 163.283,
+    "duration": 0.769
+  },
+  {
+    "text": "five,",
+    "start": 164.052,
+    "duration": 0.85
+  },
+  {
+    "text": "and three.",
+    "start": 164.902,
+    "duration": 1.33
+  },
+  {
+    "text": "Looping again you’d owe six,",
+    "start": 166.232,
+    "duration": 1.842
+  },
+  {
+    "text": "eight,",
+    "start": 168.074,
+    "duration": 0.774
+  },
+  {
+    "text": "four,",
+    "start": 168.848,
+    "duration": 0.907
+  },
+  {
+    "text": "and two.",
+    "start": 169.755,
+    "duration": 0.959
+  },
+  {
+    "text": "Each counterclockwise loop actually earns \nyou one silver.",
+    "start": 170.714,
+    "duration": 4.31
+  },
+  {
+    "text": "That’s because any tax doubled,",
+    "start": 175.024,
+    "duration": 2.09
+  },
+  {
+    "text": "plus two,",
+    "start": 177.114,
+    "duration": 1.062
+  },
+  {
+    "text": "halved,",
+    "start": 178.176,
+    "duration": 0.849
+  },
+  {
+    "text": "and minus two,",
+    "start": 179.025,
+    "duration": 1.348
+  },
+  {
+    "text": "always ends up one smaller \nthan it started.",
+    "start": 180.373,
+    "duration": 3.0
+  },
+  {
+    "text": "The key here is that while the different \ntaxes for opposite directions",
+    "start": 183.373,
+    "duration": 3.902
+  },
+  {
+    "text": "may seem to balance each other out,",
+    "start": 187.275,
+    "duration": 2.359
+  },
+  {
+    "text": "the order in which they’re applied \nmakes a huge difference.",
+    "start": 189.634,
+    "duration": 4.133
+  },
+  {
+    "text": "You start off owing four silver,",
+    "start": 193.767,
+    "duration": 1.987
+  },
+  {
+    "text": "so four counterclockwise loops would \nget you down to zero.",
+    "start": 195.754,
+    "duration": 3.372
+  },
+  {
+    "text": "Unfortunately, it’s not that simple, \nsince you can’t walk the same block twice.",
+    "start": 199.126,
+    "duration": 5.456
+  },
+  {
+    "text": "But there’s another way\nto reduce your bill:",
+    "start": 204.582,
+    "duration": 2.641
+  },
+  {
+    "text": "walking one large counterclockwise loop\nthrough the city.",
+    "start": 207.223,
+    "duration": 3.731
+  },
+  {
+    "text": "From your starting position, \nwalk three blocks south.",
+    "start": 210.954,
+    "duration": 3.23
+  },
+  {
+    "text": "You need to leave the southernmost \nstreet clear for the final stretch,",
+    "start": 214.184,
+    "duration": 3.36
+  },
+  {
+    "text": "so continuing counterclockwise \nmeans going east.",
+    "start": 217.544,
+    "duration": 3.382
+  },
+  {
+    "text": "Walk two blocks to the eastern wall \nand you owe a whopping 36 silver.",
+    "start": 220.926,
+    "duration": 5.947
+  },
+  {
+    "text": "But now you can start reducing your bill.",
+    "start": 226.873,
+    "duration": 2.672
+  },
+  {
+    "text": "Three blocks north and one block west \ncuts it to 2.5.",
+    "start": 229.545,
+    "duration": 4.43
+  },
+  {
+    "text": "You can’t go west from here \n—that would leave you with no way out.",
+    "start": 233.975,
+    "duration": 3.241
+  },
+  {
+    "text": "So you go one block south, \nand the remaining three blocks west,",
+    "start": 237.216,
+    "duration": 4.338
+  },
+  {
+    "text": "leaving you with a debt \nof -1 silver.",
+    "start": 241.554,
+    "duration": 2.89
+  },
+  {
+    "text": "And since doubling a negative number \nstill gives you a negative number,",
+    "start": 244.444,
+    "duration": 3.53
+  },
+  {
+    "text": "walking the three blocks to the south wall\nmeans the city owes you eight.",
+    "start": 247.974,
+    "duration": 5.251
+  },
+  {
+    "text": "Fortunately, that’s exactly enough",
+    "start": 253.225,
+    "duration": 2.29
+  },
+  {
+    "text": "to get you through the final blocks \nto the temple.",
+    "start": 255.515,
+    "duration": 2.73
+  },
+  {
+    "text": "As you enter, you realize what \nyou’ve learned from your pilgrimage:",
+    "start": 258.245,
+    "duration": 3.878
+  },
+  {
+    "text": "sometimes an indirect route \nis the best way to reach your destination.",
+    "start": 262.123,
+    "duration": 4.431
+  }
+]

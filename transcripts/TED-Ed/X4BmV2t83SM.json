@@ -1,0 +1,387 @@
+[
+  {
+    "text": "How is it that so many \nintergalactic species in movies and TV",
+    "start": 6.677,
+    "duration": 4.629
+  },
+  {
+    "text": "just happen to speak perfect English?",
+    "start": 11.306,
+    "duration": 3.177
+  },
+  {
+    "text": "The short answer is that no one\nwants to watch a starship crew",
+    "start": 14.483,
+    "duration": 3.403
+  },
+  {
+    "text": "spend years compiling an alien dictionary.",
+    "start": 17.886,
+    "duration": 3.888
+  },
+  {
+    "text": "But to keep things consistent,",
+    "start": 21.774,
+    "duration": 1.618
+  },
+  {
+    "text": "the creators of Star Trek\nand other science-fiction worlds",
+    "start": 23.392,
+    "duration": 3.397
+  },
+  {
+    "text": "have introduced the concept\nof a universal translator,",
+    "start": 26.789,
+    "duration": 3.725
+  },
+  {
+    "text": "a portable device that can instantly\ntranslate between any languages.",
+    "start": 30.514,
+    "duration": 4.498
+  },
+  {
+    "text": "So is a universal translator \npossible in real life?",
+    "start": 35.012,
+    "duration": 3.527
+  },
+  {
+    "text": "We already have many programs\nthat claim to do just that,",
+    "start": 38.539,
+    "duration": 3.598
+  },
+  {
+    "text": "taking a word, sentence, \nor entire book in one language",
+    "start": 42.137,
+    "duration": 3.817
+  },
+  {
+    "text": "and translating it into almost any other,",
+    "start": 45.954,
+    "duration": 3.05
+  },
+  {
+    "text": "whether it's modern English\nor Ancient Sanskrit.",
+    "start": 49.004,
+    "duration": 3.333
+  },
+  {
+    "text": "And if translation were just a matter\nof looking up words in a dictionary,",
+    "start": 52.337,
+    "duration": 3.576
+  },
+  {
+    "text": "these programs would run circles\naround humans.",
+    "start": 55.913,
+    "duration": 3.912
+  },
+  {
+    "text": "The reality, however, \nis a bit more complicated.",
+    "start": 59.825,
+    "duration": 3.474
+  },
+  {
+    "text": "A rule-based translation program\nuses a lexical database,",
+    "start": 63.299,
+    "duration": 4.05
+  },
+  {
+    "text": "which includes all the words \nyou'd find in a dictionary",
+    "start": 67.349,
+    "duration": 2.953
+  },
+  {
+    "text": "and all grammatical forms they can take,",
+    "start": 70.302,
+    "duration": 2.981
+  },
+  {
+    "text": "and set of rules to recognize the basic\nlinguistic elements in the input language.",
+    "start": 73.283,
+    "duration": 5.642
+  },
+  {
+    "text": "For a seemingly simple sentence like,\n\"The children eat the muffins,\"",
+    "start": 78.925,
+    "duration": 3.471
+  },
+  {
+    "text": "the program first parses its syntax,\nor grammatical structure,",
+    "start": 82.396,
+    "duration": 4.654
+  },
+  {
+    "text": "by identifying the children \nas the subject,",
+    "start": 87.05,
+    "duration": 2.537
+  },
+  {
+    "text": "and the rest of the sentence \nas the predicate",
+    "start": 89.587,
+    "duration": 2.73
+  },
+  {
+    "text": "consisting of a verb \"eat,\"",
+    "start": 92.317,
+    "duration": 2.051
+  },
+  {
+    "text": "and a direct object \"the muffins.\"",
+    "start": 94.368,
+    "duration": 3.054
+  },
+  {
+    "text": "It then needs to recognize\nEnglish morphology,",
+    "start": 97.422,
+    "duration": 2.827
+  },
+  {
+    "text": "or how the language can be broken down\ninto its smallest meaningful units,",
+    "start": 100.249,
+    "duration": 4.432
+  },
+  {
+    "text": "such as the word muffin",
+    "start": 104.681,
+    "duration": 1.443
+  },
+  {
+    "text": "and the suffix \"s,\" \nused to indicate plural.",
+    "start": 106.124,
+    "duration": 3.631
+  },
+  {
+    "text": "Finally, it needs to understand \nthe semantics,",
+    "start": 109.755,
+    "duration": 2.694
+  },
+  {
+    "text": "what the different parts of the sentence\nactually mean.",
+    "start": 112.449,
+    "duration": 3.729
+  },
+  {
+    "text": "To translate this sentence properly,",
+    "start": 116.178,
+    "duration": 1.896
+  },
+  {
+    "text": "the program would refer to a different set\nof vocabulary and rules",
+    "start": 118.074,
+    "duration": 3.908
+  },
+  {
+    "text": "for each element of the target language.",
+    "start": 121.982,
+    "duration": 3.184
+  },
+  {
+    "text": "But this is where it gets tricky.",
+    "start": 125.166,
+    "duration": 1.854
+  },
+  {
+    "text": "The syntax of some languages\nallows words to be arranged in any order,",
+    "start": 127.02,
+    "duration": 4.8
+  },
+  {
+    "text": "while in others, doing so could make\nthe muffin eat the child.",
+    "start": 131.82,
+    "duration": 5.134
+  },
+  {
+    "text": "Morphology can also pose a problem.",
+    "start": 136.954,
+    "duration": 2.693
+  },
+  {
+    "text": "Slovene distinguishes between\ntwo children and three or more",
+    "start": 139.647,
+    "duration": 3.596
+  },
+  {
+    "text": "using a dual suffix absent \nin many other languages,",
+    "start": 143.243,
+    "duration": 3.854
+  },
+  {
+    "text": "while Russian's lack of definite articles\nmight leave you wondering",
+    "start": 147.097,
+    "duration": 3.435
+  },
+  {
+    "text": "whether the children are eating \nsome particular muffins,",
+    "start": 150.532,
+    "duration": 3.043
+  },
+  {
+    "text": "or just eat muffins in general.",
+    "start": 153.575,
+    "duration": 3.144
+  },
+  {
+    "text": "Finally, even when the semantics\nare technically correct,",
+    "start": 156.719,
+    "duration": 2.989
+  },
+  {
+    "text": "the program might miss their finer points,",
+    "start": 159.708,
+    "duration": 3.049
+  },
+  {
+    "text": "such as whether the children \n\"mangiano\" the muffins,",
+    "start": 162.757,
+    "duration": 3.052
+  },
+  {
+    "text": "or \"divorano\" them.",
+    "start": 165.809,
+    "duration": 1.985
+  },
+  {
+    "text": "Another method is \nstatistical machine translation,",
+    "start": 167.794,
+    "duration": 3.764
+  },
+  {
+    "text": "which analyzes a database \nof books, articles, and documents",
+    "start": 171.558,
+    "duration": 4.204
+  },
+  {
+    "text": "that have already \nbeen translated by humans.",
+    "start": 175.762,
+    "duration": 3.726
+  },
+  {
+    "text": "By finding matches between source\nand translated text",
+    "start": 179.488,
+    "duration": 3.471
+  },
+  {
+    "text": "that are unlikely to occur by chance,",
+    "start": 182.959,
+    "duration": 2.434
+  },
+  {
+    "text": "the program can identify corresponding\nphrases and patterns,",
+    "start": 185.393,
+    "duration": 3.952
+  },
+  {
+    "text": "and use them for future translations.",
+    "start": 189.345,
+    "duration": 3.084
+  },
+  {
+    "text": "However, the quality \nof this type of translation",
+    "start": 192.429,
+    "duration": 2.54
+  },
+  {
+    "text": "depends on the size \nof the initial database",
+    "start": 194.969,
+    "duration": 2.721
+  },
+  {
+    "text": "and the availability of samples \nfor certain languages",
+    "start": 197.69,
+    "duration": 3.667
+  },
+  {
+    "text": "or styles of writing.",
+    "start": 201.357,
+    "duration": 2.026
+  },
+  {
+    "text": "The difficulty that computers have\nwith the exceptions, irregularities",
+    "start": 203.383,
+    "duration": 3.757
+  },
+  {
+    "text": "and shades of meaning\nthat seem to come instinctively to humans",
+    "start": 207.14,
+    "duration": 3.854
+  },
+  {
+    "text": "has led some researchers to believe\nthat our understanding of language",
+    "start": 210.994,
+    "duration": 4.051
+  },
+  {
+    "text": "is a unique product \nof our biological brain structure.",
+    "start": 215.045,
+    "duration": 4.206
+  },
+  {
+    "text": "In fact, one of the most famous\nfictional universal translators,",
+    "start": 219.251,
+    "duration": 3.85
+  },
+  {
+    "text": "the Babel fish from \n\"The Hitchhiker's Guide to the Galaxy\",",
+    "start": 223.101,
+    "duration": 3.338
+  },
+  {
+    "text": "is not a machine at all\nbut a small creature",
+    "start": 226.439,
+    "duration": 3.287
+  },
+  {
+    "text": "that translates the brain waves\nand nerve signals of sentient species",
+    "start": 229.726,
+    "duration": 4.484
+  },
+  {
+    "text": "through a form of telepathy.",
+    "start": 234.21,
+    "duration": 2.795
+  },
+  {
+    "text": "For now, learning a language\nthe old fashioned way",
+    "start": 237.005,
+    "duration": 2.721
+  },
+  {
+    "text": "will still give you better results than\nany currently available computer program.",
+    "start": 239.726,
+    "duration": 5.38
+  },
+  {
+    "text": "But this is no easy task,",
+    "start": 245.106,
+    "duration": 1.643
+  },
+  {
+    "text": "and the sheer number \nof languages in the world,",
+    "start": 246.749,
+    "duration": 2.265
+  },
+  {
+    "text": "as well as the increasing interaction\nbetween the people who speak them,",
+    "start": 249.014,
+    "duration": 3.975
+  },
+  {
+    "text": "will only continue to spur greater\nadvances in automatic translation.",
+    "start": 252.989,
+    "duration": 5.015
+  },
+  {
+    "text": "Perhaps by the time we encounter\nintergalactic life forms,",
+    "start": 258.004,
+    "duration": 3.405
+  },
+  {
+    "text": "we'll be able to communicate with them\nthrough a tiny gizmo,",
+    "start": 261.409,
+    "duration": 3.251
+  },
+  {
+    "text": "or we might have to start compiling\nthat dictionary, after all.",
+    "start": 264.66,
+    "duration": 4.366
+  }
+]

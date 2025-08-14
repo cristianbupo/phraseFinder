@@ -1,0 +1,2887 @@
+[
+  {
+    "text": "Bilawal Sidhu: Eric Schmidt,\nthank you for joining us.",
+    "start": 4.602,
+    "duration": 2.702
+  },
+  {
+    "text": "Let's go back.",
+    "start": 7.838,
+    "duration": 1.135
+  },
+  {
+    "text": "You said the arrival of non-human\nintelligence is a very big deal.",
+    "start": 9.774,
+    "duration": 3.837
+  },
+  {
+    "text": "And this photo, taken in 2016,",
+    "start": 14.378,
+    "duration": 2.302
+  },
+  {
+    "text": "feels like one of those quiet moments\nwhere the Earth shifted beneath us,",
+    "start": 16.714,
+    "duration": 4.071
+  },
+  {
+    "text": "but not everyone noticed.",
+    "start": 20.818,
+    "duration": 1.969
+  },
+  {
+    "text": "What did you see back then\nthat the rest of us might have missed?",
+    "start": 22.787,
+    "duration": 3.069
+  },
+  {
+    "text": "Eric Schmidt: In 2016,\nwe didn't understand",
+    "start": 25.89,
+    "duration": 2.769
+  },
+  {
+    "text": "what was now going to happen,",
+    "start": 28.692,
+    "duration": 1.602
+  },
+  {
+    "text": "but we understood that these algorithms\nwere new and powerful.",
+    "start": 30.327,
+    "duration": 3.504
+  },
+  {
+    "text": "What happened in this\nparticular set of games",
+    "start": 34.131,
+    "duration": 2.703
+  },
+  {
+    "text": "was in roughly the second game,",
+    "start": 36.834,
+    "duration": 1.935
+  },
+  {
+    "text": "there was a new move invented by AI",
+    "start": 38.769,
+    "duration": 2.77
+  },
+  {
+    "text": "in a game that had been\naround for 2,500 years",
+    "start": 41.572,
+    "duration": 3.337
+  },
+  {
+    "text": "that no one had ever seen.",
+    "start": 44.942,
+    "duration": 1.768
+  },
+  {
+    "text": "Technically, the way this occurred",
+    "start": 47.011,
+    "duration": 1.668
+  },
+  {
+    "text": "was that the system of AlphaGo\nwas essentially organized",
+    "start": 48.679,
+    "duration": 3.57
+  },
+  {
+    "text": "to always maintain a greater\nthan 50 percent chance of winning.",
+    "start": 52.283,
+    "duration": 3.737
+  },
+  {
+    "text": "And so it calculated correctly this move,",
+    "start": 56.487,
+    "duration": 2.703
+  },
+  {
+    "text": "which was this great mystery\namong all of the Go players",
+    "start": 59.223,
+    "duration": 2.736
+  },
+  {
+    "text": "who are obviously insanely brilliant,",
+    "start": 61.992,
+    "duration": 2.369
+  },
+  {
+    "text": "mathematical and intuitive players.",
+    "start": 64.395,
+    "duration": 2.436
+  },
+  {
+    "text": "The question that Henry, Craig Mundie\nand I started to discuss, right,",
+    "start": 67.364,
+    "duration": 6.474
+  },
+  {
+    "text": "is what does this mean?",
+    "start": 73.838,
+    "duration": 3.436
+  },
+  {
+    "text": "How is it that our computers\ncould come up with something",
+    "start": 78.109,
+    "duration": 2.702
+  },
+  {
+    "text": "that humans had never thought about?",
+    "start": 80.811,
+    "duration": 1.735
+  },
+  {
+    "text": "I mean, this is a game\nplayed by billions of people.",
+    "start": 82.546,
+    "duration": 2.67
+  },
+  {
+    "text": "And that began the process\nthat led to two books.",
+    "start": 85.649,
+    "duration": 3.604
+  },
+  {
+    "text": "And I think, frankly,",
+    "start": 89.887,
+    "duration": 1.168
+  },
+  {
+    "text": "is the point at which\nthe revolution really started.",
+    "start": 91.088,
+    "duration": 4.271
+  },
+  {
+    "text": "BS: If you fast forward to today,",
+    "start": 95.392,
+    "duration": 2.169
+  },
+  {
+    "text": "it seems that all anyone\ncan talk about is AI,",
+    "start": 97.561,
+    "duration": 4.038
+  },
+  {
+    "text": "especially here at TED.",
+    "start": 101.632,
+    "duration": 1.969
+  },
+  {
+    "text": "But you've taken a contrarian stance.",
+    "start": 103.601,
+    "duration": 1.968
+  },
+  {
+    "text": "You actually think AI is underhyped.",
+    "start": 106.303,
+    "duration": 2.369
+  },
+  {
+    "text": "Why is that?",
+    "start": 108.706,
+    "duration": 1.234
+  },
+  {
+    "text": "ES: And I'll tell you why.",
+    "start": 109.974,
+    "duration": 1.268
+  },
+  {
+    "text": "Most of you think of AI as,",
+    "start": 111.242,
+    "duration": 1.301
+  },
+  {
+    "text": "I'll just use the general\nterm, as ChatGPT.",
+    "start": 112.576,
+    "duration": 2.002
+  },
+  {
+    "text": "For most of you, ChatGPT\nwas the moment where you said,",
+    "start": 114.612,
+    "duration": 3.169
+  },
+  {
+    "text": "\"Oh my God,",
+    "start": 117.815,
+    "duration": 1.168
+  },
+  {
+    "text": "this thing writes, and it makes mistakes,",
+    "start": 119.016,
+    "duration": 2.002
+  },
+  {
+    "text": "but it's so brilliantly verbal.\"",
+    "start": 121.051,
+    "duration": 2.837
+  },
+  {
+    "text": "That was certainly my reaction.",
+    "start": 123.921,
+    "duration": 1.501
+  },
+  {
+    "text": "Most people that I knew did that.",
+    "start": 125.422,
+    "duration": 1.602
+  },
+  {
+    "text": "BS: It was visceral, yeah.",
+    "start": 127.024,
+    "duration": 1.301
+  },
+  {
+    "text": "ES: This was two years ago.",
+    "start": 128.325,
+    "duration": 1.735
+  },
+  {
+    "text": "Since then, the gains in what is called\nreinforcement learning,",
+    "start": 130.094,
+    "duration": 3.703
+  },
+  {
+    "text": "which is what AlphaGo\nhelped invent and so forth,",
+    "start": 133.831,
+    "duration": 3.103
+  },
+  {
+    "text": "allow us to do planning.",
+    "start": 136.967,
+    "duration": 1.669
+  },
+  {
+    "text": "And a good example is look at OpenAI o3",
+    "start": 139.036,
+    "duration": 4.571
+  },
+  {
+    "text": "or DeepSeek R1,",
+    "start": 143.641,
+    "duration": 1.835
+  },
+  {
+    "text": "and you can see how it goes\nforward and back,",
+    "start": 145.509,
+    "duration": 2.77
+  },
+  {
+    "text": "forward and back, forward and back.",
+    "start": 148.312,
+    "duration": 2.302
+  },
+  {
+    "text": "It's extraordinary.",
+    "start": 150.614,
+    "duration": 1.535
+  },
+  {
+    "text": "In my case, I bought a rocket company",
+    "start": 152.149,
+    "duration": 2.436
+  },
+  {
+    "text": "because it was like, interesting.",
+    "start": 154.618,
+    "duration": 1.869
+  },
+  {
+    "text": "BS: (Laughs) As one does.",
+    "start": 156.52,
+    "duration": 1.502
+  },
+  {
+    "text": "ES: As one does.",
+    "start": 158.055,
+    "duration": 1.168
+  },
+  {
+    "text": "And it’s an area that\nI’m not an expert in,",
+    "start": 159.256,
+    "duration": 2.736
+  },
+  {
+    "text": "and I want to be an expert.",
+    "start": 162.026,
+    "duration": 1.301
+  },
+  {
+    "text": "So I'm using deep research.",
+    "start": 163.36,
+    "duration": 1.602
+  },
+  {
+    "text": "And these systems are spending 15 minutes\nwriting these deep papers.",
+    "start": 165.296,
+    "duration": 4.337
+  },
+  {
+    "text": "That's true for most of them.",
+    "start": 169.667,
+    "duration": 1.501
+  },
+  {
+    "text": "Do you have any idea how much computation",
+    "start": 171.202,
+    "duration": 2.402
+  },
+  {
+    "text": "15 minutes of these supercomputers is?",
+    "start": 173.637,
+    "duration": 2.536
+  },
+  {
+    "text": "It's extraordinary.",
+    "start": 176.207,
+    "duration": 1.601
+  },
+  {
+    "text": "So you’re seeing the arrival,",
+    "start": 177.841,
+    "duration": 1.669
+  },
+  {
+    "text": "the shift from language to language.",
+    "start": 179.543,
+    "duration": 2.236
+  },
+  {
+    "text": "Tthen you had language to sequence,",
+    "start": 181.812,
+    "duration": 1.702
+  },
+  {
+    "text": "which is how biology is done.",
+    "start": 183.514,
+    "duration": 1.468
+  },
+  {
+    "text": "Now you're doing essentially\nplanning and strategy.",
+    "start": 185.015,
+    "duration": 3.404
+  },
+  {
+    "text": "The eventual state of this",
+    "start": 189.053,
+    "duration": 2.802
+  },
+  {
+    "text": "is the computers running\nall business processes, right?",
+    "start": 191.889,
+    "duration": 2.936
+  },
+  {
+    "text": "So you have an agent to do this,\nan agent to do this,",
+    "start": 194.858,
+    "duration": 2.503
+  },
+  {
+    "text": "an agent to do this.",
+    "start": 197.361,
+    "duration": 1.635
+  },
+  {
+    "text": "And you concatenate them together,",
+    "start": 199.029,
+    "duration": 1.702
+  },
+  {
+    "text": "and they speak language among each other.",
+    "start": 200.764,
+    "duration": 2.57
+  },
+  {
+    "text": "They typically speak English language.",
+    "start": 203.367,
+    "duration": 2.069
+  },
+  {
+    "text": "BS: I mean, speaking of just the sheer\ncompute requirements of these systems,",
+    "start": 206.303,
+    "duration": 4.939
+  },
+  {
+    "text": "let's talk about scale briefly.",
+    "start": 211.275,
+    "duration": 1.635
+  },
+  {
+    "text": "You know, I kind of think of these AI\nsystems as Hungry Hungry Hippos.",
+    "start": 213.277,
+    "duration": 3.37
+  },
+  {
+    "text": "They seemingly soak up all the data\nand compute that we throw at them. ",
+    "start": 216.647,
+    "duration": 3.47
+  },
+  {
+    "text": "They've already digested all the tokens\non the public internet,",
+    "start": 220.15,
+    "duration": 3.504
+  },
+  {
+    "text": "and it seems we can't build\ndata centers fast enough.",
+    "start": 223.654,
+    "duration": 2.903
+  },
+  {
+    "text": "What do you think the real limits are,",
+    "start": 227.224,
+    "duration": 2.002
+  },
+  {
+    "text": "and how do we get ahead of them",
+    "start": 229.26,
+    "duration": 2.202
+  },
+  {
+    "text": "before they start throttling AI progress?",
+    "start": 231.462,
+    "duration": 2.636
+  },
+  {
+    "text": "ES: So there's a real limit in energy.",
+    "start": 234.131,
+    "duration": 1.835
+  },
+  {
+    "text": "Give you an example.",
+    "start": 236.0,
+    "duration": 1.167
+  },
+  {
+    "text": "There's one calculation,",
+    "start": 237.167,
+    "duration": 1.202
+  },
+  {
+    "text": "and I testified on this\nthis week in Congress,",
+    "start": 238.402,
+    "duration": 2.769
+  },
+  {
+    "text": "that we need another 90 gigawatts\nof power in America.",
+    "start": 241.205,
+    "duration": 5.539
+  },
+  {
+    "text": "My answer, by the way,\nis, think Canada, right?",
+    "start": 246.777,
+    "duration": 3.837
+  },
+  {
+    "text": "Nice people, full of hydroelectric power.",
+    "start": 250.648,
+    "duration": 2.268
+  },
+  {
+    "text": "But that's apparently not\nthe political mood right now.",
+    "start": 252.95,
+    "duration": 3.136
+  },
+  {
+    "text": "Sorry.",
+    "start": 256.12,
+    "duration": 1.201
+  },
+  {
+    "text": "So 90 gigawatts is 90 nuclear\npower plants in America.",
+    "start": 257.354,
+    "duration": 5.539
+  },
+  {
+    "text": "Not happening.",
+    "start": 262.926,
+    "duration": 1.168
+  },
+  {
+    "text": "We're building zero, right?",
+    "start": 264.094,
+    "duration": 1.569
+  },
+  {
+    "text": "How are we going to get all that power?",
+    "start": 265.696,
+    "duration": 1.868
+  },
+  {
+    "text": "This is a major, major national issue.",
+    "start": 267.598,
+    "duration": 2.402
+  },
+  {
+    "text": "You can use the Arab world,",
+    "start": 270.501,
+    "duration": 1.301
+  },
+  {
+    "text": "which is busy building five to 10\ngigawatts of data centers.",
+    "start": 271.835,
+    "duration": 3.737
+  },
+  {
+    "text": "India is considering\na 10-gigawatt data center.",
+    "start": 275.572,
+    "duration": 3.037
+  },
+  {
+    "text": "To understand how big gigawatts are,",
+    "start": 278.642,
+    "duration": 2.369
+  },
+  {
+    "text": "is think cities per data center.",
+    "start": 281.045,
+    "duration": 2.969
+  },
+  {
+    "text": "That's how much power these things need.",
+    "start": 284.048,
+    "duration": 2.269
+  },
+  {
+    "text": "And the people look at it and they say,",
+    "start": 286.35,
+    "duration": 2.169
+  },
+  {
+    "text": "“Well, there’s lots\nof algorithmic improvements,",
+    "start": 288.519,
+    "duration": 3.17
+  },
+  {
+    "text": "and you will need less power.\"",
+    "start": 291.722,
+    "duration": 1.668
+  },
+  {
+    "text": "There's an old rule, I'm old enough\nto remember, right?",
+    "start": 293.424,
+    "duration": 3.47
+  },
+  {
+    "text": "Grove giveth, Gates taketh away.",
+    "start": 297.328,
+    "duration": 2.802
+  },
+  {
+    "text": "OK, the hardware just\ngets faster and faster.",
+    "start": 300.564,
+    "duration": 3.237
+  },
+  {
+    "text": "The physicists are amazing.",
+    "start": 303.834,
+    "duration": 1.869
+  },
+  {
+    "text": "Just incredible what\nthey've been able to do.",
+    "start": 306.17,
+    "duration": 2.269
+  },
+  {
+    "text": "And us software people,\nwe just use it and use it and use it.",
+    "start": 308.472,
+    "duration": 3.737
+  },
+  {
+    "text": "And when you look at planning,\nat least in today's algorithms,",
+    "start": 312.242,
+    "duration": 3.671
+  },
+  {
+    "text": "it's back and forth and try this and that",
+    "start": 315.946,
+    "duration": 2.536
+  },
+  {
+    "text": "and just watch it yourself.",
+    "start": 318.515,
+    "duration": 1.735
+  },
+  {
+    "text": "There are estimates, and you know this\nfrom Andreessen Horowitz reports,",
+    "start": 320.284,
+    "duration": 4.638
+  },
+  {
+    "text": "it's been well studied,",
+    "start": 324.955,
+    "duration": 1.635
+  },
+  {
+    "text": "that there's an increase\nin at least a factor of 100,",
+    "start": 326.59,
+    "duration": 2.97
+  },
+  {
+    "text": "maybe a factor of 1,000,",
+    "start": 329.593,
+    "duration": 1.301
+  },
+  {
+    "text": "in computation required\njust to do the kind of planning.",
+    "start": 330.894,
+    "duration": 3.237
+  },
+  {
+    "text": "The technology goes from essentially\ndeep learning to reinforcement learning",
+    "start": 334.598,
+    "duration": 4.238
+  },
+  {
+    "text": "to something called test-time compute,",
+    "start": 338.869,
+    "duration": 1.969
+  },
+  {
+    "text": "where not only are you doing planning,",
+    "start": 340.838,
+    "duration": 1.835
+  },
+  {
+    "text": "but you're also learning\nwhile you're doing planning.",
+    "start": 342.673,
+    "duration": 2.502
+  },
+  {
+    "text": "That is the, if you will,",
+    "start": 345.209,
+    "duration": 1.201
+  },
+  {
+    "text": "the zenith or what have you,\nof computation needs.",
+    "start": 346.443,
+    "duration": 3.537
+  },
+  {
+    "text": "That's problem number one,\nelectricity and hardware.",
+    "start": 350.013,
+    "duration": 3.204
+  },
+  {
+    "text": "Problem number two is we ran out of data",
+    "start": 353.25,
+    "duration": 4.071
+  },
+  {
+    "text": "so we have to start generating it.",
+    "start": 357.354,
+    "duration": 1.635
+  },
+  {
+    "text": "But we can easily do that\nbecause that's one of the functions.",
+    "start": 359.022,
+    "duration": 2.903
+  },
+  {
+    "text": "And then the third question\nthat I don't understand",
+    "start": 361.959,
+    "duration": 2.636
+  },
+  {
+    "text": "is what's the limit of knowledge?",
+    "start": 364.628,
+    "duration": 2.269
+  },
+  {
+    "text": "I'll give you an example.",
+    "start": 367.364,
+    "duration": 1.201
+  },
+  {
+    "text": "Let's imagine we are collectively\nall of the computers in the world,",
+    "start": 368.599,
+    "duration": 3.37
+  },
+  {
+    "text": "and we're all thinking",
+    "start": 371.969,
+    "duration": 1.435
+  },
+  {
+    "text": "and we're all thinking based on knowledge\nthat exists that was previously invented.",
+    "start": 373.437,
+    "duration": 3.971
+  },
+  {
+    "text": "How do we invent something completely new?",
+    "start": 377.441,
+    "duration": 3.67
+  },
+  {
+    "text": "So, Einstein.",
+    "start": 381.512,
+    "duration": 1.668
+  },
+  {
+    "text": "So when you study the way\nscientific discovery works,",
+    "start": 383.213,
+    "duration": 3.003
+  },
+  {
+    "text": "biology, math, so forth and so on,",
+    "start": 386.216,
+    "duration": 2.403
+  },
+  {
+    "text": "what typically happens is\na truly brilliant human being",
+    "start": 388.652,
+    "duration": 3.771
+  },
+  {
+    "text": "looks at one area and says,",
+    "start": 392.423,
+    "duration": 3.003
+  },
+  {
+    "text": "\"I see a pattern",
+    "start": 395.459,
+    "duration": 1.568
+  },
+  {
+    "text": "that's in a completely different area,",
+    "start": 397.06,
+    "duration": 1.836
+  },
+  {
+    "text": "has nothing to do with the first one.",
+    "start": 398.896,
+    "duration": 1.801
+  },
+  {
+    "text": "It's the same pattern.\"",
+    "start": 400.731,
+    "duration": 1.268
+  },
+  {
+    "text": "And they take the tools from one\nand they apply it to another.",
+    "start": 402.032,
+    "duration": 3.704
+  },
+  {
+    "text": "Today, our systems cannot do that.",
+    "start": 405.769,
+    "duration": 2.603
+  },
+  {
+    "text": "If we can get through that,\nI'm working on this,",
+    "start": 408.405,
+    "duration": 2.87
+  },
+  {
+    "text": "a general technical term for this\nis non-stationarity of objectives.",
+    "start": 411.308,
+    "duration": 4.771
+  },
+  {
+    "text": "The rules keep changing.",
+    "start": 416.113,
+    "duration": 2.002
+  },
+  {
+    "text": "We will see if we can solve that problem.",
+    "start": 418.849,
+    "duration": 1.969
+  },
+  {
+    "text": "If we can solve that, we're going to need\neven more data centers.",
+    "start": 420.851,
+    "duration": 3.103
+  },
+  {
+    "text": "And we'll also be able to invent\ncompletely new schools of scientific",
+    "start": 423.987,
+    "duration": 4.505
+  },
+  {
+    "text": "and intellectual thought,",
+    "start": 428.525,
+    "duration": 1.502
+  },
+  {
+    "text": "which will be incredible.",
+    "start": 430.06,
+    "duration": 1.735
+  },
+  {
+    "text": "BS: So as we push towards a zenith,",
+    "start": 431.829,
+    "duration": 1.768
+  },
+  {
+    "text": "autonomy has been\na big topic of discussion.",
+    "start": 433.63,
+    "duration": 2.77
+  },
+  {
+    "text": "Yoshua Bengio gave a compelling\ntalk earlier this week,",
+    "start": 436.433,
+    "duration": 2.903
+  },
+  {
+    "text": "advocating that AI labs should halt\nthe development of agentic AI systems",
+    "start": 439.369,
+    "duration": 4.071
+  },
+  {
+    "text": "that are capable\nof taking autonomous action.",
+    "start": 443.474,
+    "duration": 2.435
+  },
+  {
+    "text": "Yet that is precisely what the next\nfrontier is for all these AI labs,",
+    "start": 445.943,
+    "duration": 4.137
+  },
+  {
+    "text": "and seemingly for yourself, too.",
+    "start": 450.113,
+    "duration": 2.136
+  },
+  {
+    "text": "What is the right decision here?",
+    "start": 452.282,
+    "duration": 1.669
+  },
+  {
+    "text": "ES: So Yoshua is a brilliant inventor\nof much of what we're talking about",
+    "start": 453.984,
+    "duration": 4.338
+  },
+  {
+    "text": "and a good personal friend.",
+    "start": 458.355,
+    "duration": 1.301
+  },
+  {
+    "text": "And we’ve talked about this,\nand his concerns are very legitimate.",
+    "start": 459.656,
+    "duration": 3.971
+  },
+  {
+    "text": "The question is not\nare his concerns right,",
+    "start": 463.66,
+    "duration": 2.002
+  },
+  {
+    "text": "but what are the solutions?",
+    "start": 465.696,
+    "duration": 1.368
+  },
+  {
+    "text": "So let's think about agents.",
+    "start": 467.097,
+    "duration": 2.436
+  },
+  {
+    "text": "So for purposes of argument,\neveryone in the audience is an agent.",
+    "start": 469.566,
+    "duration": 3.57
+  },
+  {
+    "text": "You have an input that's English\nor whatever language.",
+    "start": 473.17,
+    "duration": 3.603
+  },
+  {
+    "text": "And you have an output that’s English,\nand you have memory,",
+    "start": 476.807,
+    "duration": 2.769
+  },
+  {
+    "text": "which is true of all humans.",
+    "start": 479.576,
+    "duration": 1.468
+  },
+  {
+    "text": "Now we're all busy working,",
+    "start": 481.044,
+    "duration": 1.802
+  },
+  {
+    "text": "and all of a sudden, one of you decides",
+    "start": 482.88,
+    "duration": 3.87
+  },
+  {
+    "text": "it's much more efficient\nnot to use human language,",
+    "start": 486.783,
+    "duration": 2.737
+  },
+  {
+    "text": "but we'll invent\nour own computer language.",
+    "start": 489.553,
+    "duration": 2.235
+  },
+  {
+    "text": "Now you and I are sitting here,\nwatching all of this,",
+    "start": 491.822,
+    "duration": 2.536
+  },
+  {
+    "text": "and we're saying, like, what do we do now?",
+    "start": 494.391,
+    "duration": 2.269
+  },
+  {
+    "text": "The correct answer is unplug you, right?",
+    "start": 496.66,
+    "duration": 3.303
+  },
+  {
+    "text": "Because we're not going to know,",
+    "start": 499.997,
+    "duration": 2.602
+  },
+  {
+    "text": "we're just not going to know\nwhat you're up to.",
+    "start": 502.633,
+    "duration": 2.369
+  },
+  {
+    "text": "And you might actually be doing\nsomething really bad or really amazing.",
+    "start": 505.035,
+    "duration": 3.47
+  },
+  {
+    "text": "We want to be able to watch.",
+    "start": 508.505,
+    "duration": 1.869
+  },
+  {
+    "text": "So we need provenance,\nsomething you and I have talked about,",
+    "start": 510.407,
+    "duration": 3.303
+  },
+  {
+    "text": "but we also need to be able to observe it.",
+    "start": 513.744,
+    "duration": 2.135
+  },
+  {
+    "text": "To me, that's a core requirement.",
+    "start": 515.913,
+    "duration": 2.702
+  },
+  {
+    "text": "There's a set of criteria\nthat the industry believes are points",
+    "start": 519.049,
+    "duration": 3.003
+  },
+  {
+    "text": "where you want to,\nmetaphorically, unplug it.",
+    "start": 522.085,
+    "duration": 2.436
+  },
+  {
+    "text": "One is where you get\nrecursive self-improvement,",
+    "start": 524.555,
+    "duration": 2.502
+  },
+  {
+    "text": "which you can't control.",
+    "start": 527.057,
+    "duration": 1.201
+  },
+  {
+    "text": "Recursive self-improvement\nis where the computer is off learning,",
+    "start": 528.292,
+    "duration": 3.069
+  },
+  {
+    "text": "and you don't know what it's learning.",
+    "start": 531.361,
+    "duration": 1.835
+  },
+  {
+    "text": "That can obviously lead to bad outcomes.",
+    "start": 533.23,
+    "duration": 1.935
+  },
+  {
+    "text": "Another one would be direct\naccess to weapons.",
+    "start": 535.198,
+    "duration": 2.269
+  },
+  {
+    "text": "Another one would be that the computer\nsystems decide to exfiltrate themselves,",
+    "start": 537.467,
+    "duration": 4.038
+  },
+  {
+    "text": "to reproduce themselves\nwithout our permission.",
+    "start": 541.538,
+    "duration": 3.103
+  },
+  {
+    "text": "So there's a set of such things.",
+    "start": 544.675,
+    "duration": 2.035
+  },
+  {
+    "text": "The problem with Yoshua's speech,\nwith respect to such a brilliant person,",
+    "start": 546.743,
+    "duration": 4.939
+  },
+  {
+    "text": "is stopping things in a globally\ncompetitive market",
+    "start": 551.715,
+    "duration": 3.67
+  },
+  {
+    "text": "doesn't really work.",
+    "start": 555.419,
+    "duration": 1.601
+  },
+  {
+    "text": "Instead of stopping agentic work,",
+    "start": 557.454,
+    "duration": 3.137
+  },
+  {
+    "text": "we need to find a way\nto establish the guardrails,",
+    "start": 560.624,
+    "duration": 2.669
+  },
+  {
+    "text": "which I know you agree with\nbecause we’ve talked about it.",
+    "start": 563.327,
+    "duration": 2.736
+  },
+  {
+    "text": "(Applause)",
+    "start": 566.063,
+    "duration": 3.703
+  },
+  {
+    "text": "BS: I think that brings us nicely\nto the dilemmas.",
+    "start": 570.1,
+    "duration": 2.336
+  },
+  {
+    "text": "And let's just say there are a lot of them\nwhen it comes to this technology.",
+    "start": 572.469,
+    "duration": 3.704
+  },
+  {
+    "text": "The first one I'd love\nto start with, Eric,",
+    "start": 576.173,
+    "duration": 2.002
+  },
+  {
+    "text": "is the exceedingly dual-use nature\nof this tech, right?",
+    "start": 578.208,
+    "duration": 2.736
+  },
+  {
+    "text": "It's applicable to both civilian\nand military applications.",
+    "start": 580.978,
+    "duration": 3.37
+  },
+  {
+    "text": "So how do you broadly think\nabout the dilemmas",
+    "start": 584.748,
+    "duration": 2.236
+  },
+  {
+    "text": "and ethical quandaries",
+    "start": 587.017,
+    "duration": 1.535
+  },
+  {
+    "text": "that come with this tech\nand how humans deploy them?",
+    "start": 588.585,
+    "duration": 3.237
+  },
+  {
+    "text": "ES: In many cases,\nwe already have doctrines",
+    "start": 593.156,
+    "duration": 2.503
+  },
+  {
+    "text": "about personal responsibility.",
+    "start": 595.659,
+    "duration": 1.902
+  },
+  {
+    "text": "A simple example, I did\na lot of military work",
+    "start": 597.594,
+    "duration": 2.169
+  },
+  {
+    "text": "and continue to do so.",
+    "start": 599.763,
+    "duration": 1.568
+  },
+  {
+    "text": "The US military has a rule called 3000.09,",
+    "start": 601.331,
+    "duration": 3.671
+  },
+  {
+    "text": "generally known as \"human in the loop\"\nor \"meaningful human control.\"",
+    "start": 605.035,
+    "duration": 4.171
+  },
+  {
+    "text": "You don't want systems\nthat are not under our control.",
+    "start": 609.74,
+    "duration": 3.904
+  },
+  {
+    "text": "It's a line we can't cross.",
+    "start": 613.677,
+    "duration": 2.102
+  },
+  {
+    "text": "I think that's correct.",
+    "start": 615.812,
+    "duration": 1.468
+  },
+  {
+    "text": "I think that the competition\nbetween the West,",
+    "start": 617.314,
+    "duration": 3.403
+  },
+  {
+    "text": "and particularly the United States,",
+    "start": 620.751,
+    "duration": 1.735
+  },
+  {
+    "text": "and China,",
+    "start": 622.486,
+    "duration": 1.168
+  },
+  {
+    "text": "is going to be defining in this area.",
+    "start": 623.687,
+    "duration": 2.502
+  },
+  {
+    "text": "And I'll give you some examples.",
+    "start": 626.223,
+    "duration": 1.568
+  },
+  {
+    "text": "First, the current government\nhas now put in",
+    "start": 627.824,
+    "duration": 3.137
+  },
+  {
+    "text": "essentially reciprocating\n145-percent tariffs.",
+    "start": 630.994,
+    "duration": 3.637
+  },
+  {
+    "text": "That has huge implications\nfor the supply chain.",
+    "start": 634.665,
+    "duration": 2.869
+  },
+  {
+    "text": "We in our industry depend on packaging",
+    "start": 637.567,
+    "duration": 3.737
+  },
+  {
+    "text": "and components from China\nthat are boring, if you will,",
+    "start": 641.338,
+    "duration": 3.503
+  },
+  {
+    "text": "but incredibly important.",
+    "start": 644.875,
+    "duration": 1.234
+  },
+  {
+    "text": "The little packaging and the little\nglue things and so forth",
+    "start": 646.143,
+    "duration": 2.836
+  },
+  {
+    "text": "that are part of the computers.",
+    "start": 648.979,
+    "duration": 1.501
+  },
+  {
+    "text": "If China were to deny access to them,\nthat would be a big deal.",
+    "start": 650.514,
+    "duration": 3.904
+  },
+  {
+    "text": "We are trying to deny them access\nto the most advanced chips,",
+    "start": 654.451,
+    "duration": 3.604
+  },
+  {
+    "text": "which they are super annoyed about.",
+    "start": 658.088,
+    "duration": 1.902
+  },
+  {
+    "text": "Dr. Kissinger asked Craig and I",
+    "start": 660.791,
+    "duration": 2.369
+  },
+  {
+    "text": "to do Track II dialogues\nwith the Chinese,",
+    "start": 663.193,
+    "duration": 3.17
+  },
+  {
+    "text": "and we’re in conversations with them.",
+    "start": 666.396,
+    "duration": 1.802
+  },
+  {
+    "text": "What's the number one issue they raise?",
+    "start": 668.198,
+    "duration": 1.869
+  },
+  {
+    "text": "This issue.",
+    "start": 670.1,
+    "duration": 1.168
+  },
+  {
+    "text": "Indeed, if you look at DeepSeek,\nwhich is really impressive,",
+    "start": 671.268,
+    "duration": 2.869
+  },
+  {
+    "text": "they managed to find algorithms\nthat got around the problems",
+    "start": 674.171,
+    "duration": 3.203
+  },
+  {
+    "text": "by making them more efficient.",
+    "start": 677.407,
+    "duration": 1.702
+  },
+  {
+    "text": "Because China is doing everything\nopen source, open weights,",
+    "start": 679.142,
+    "duration": 3.337
+  },
+  {
+    "text": "we immediately got the benefit\nof their invention",
+    "start": 682.479,
+    "duration": 2.302
+  },
+  {
+    "text": "and have adopted into US things.",
+    "start": 684.815,
+    "duration": 1.801
+  },
+  {
+    "text": "So we're in a situation now\nwhich I think is quite tenuous,",
+    "start": 686.95,
+    "duration": 3.837
+  },
+  {
+    "text": "where the US is largely driving,\nfor many, many good reasons,",
+    "start": 690.821,
+    "duration": 3.303
+  },
+  {
+    "text": "largely closed models,\nlargely under very good control.",
+    "start": 694.157,
+    "duration": 3.637
+  },
+  {
+    "text": "China is likely to be the leader\nin open source unless something changes.",
+    "start": 697.828,
+    "duration": 3.837
+  },
+  {
+    "text": "And open source leads to very\nrapid proliferation around the world.",
+    "start": 701.698,
+    "duration": 3.837
+  },
+  {
+    "text": "This proliferation is dangerous\nat the cyber level and the bio level.",
+    "start": 705.569,
+    "duration": 4.838
+  },
+  {
+    "text": "But let me give you why it's also\ndangerous in a more significant way,",
+    "start": 710.407,
+    "duration": 3.937
+  },
+  {
+    "text": "in a nuclear-threat way.",
+    "start": 714.344,
+    "duration": 1.368
+  },
+  {
+    "text": "Dr. Kissinger, who we all\nworked with very closely,",
+    "start": 716.346,
+    "duration": 2.536
+  },
+  {
+    "text": "was one of the architects\nof mutually assured destruction,",
+    "start": 718.882,
+    "duration": 2.736
+  },
+  {
+    "text": "deterrence and so forth.",
+    "start": 721.651,
+    "duration": 1.335
+  },
+  {
+    "text": "And what's happening now\nis you've got a situation",
+    "start": 722.986,
+    "duration": 3.537
+  },
+  {
+    "text": "where -- I'll use an example.",
+    "start": 726.556,
+    "duration": 1.402
+  },
+  {
+    "text": "It's easier if I explain.",
+    "start": 727.991,
+    "duration": 1.201
+  },
+  {
+    "text": "You’re the good guy,\nand I’m the bad guy, OK?",
+    "start": 729.226,
+    "duration": 2.569
+  },
+  {
+    "text": "You're six months ahead of me,",
+    "start": 731.828,
+    "duration": 1.769
+  },
+  {
+    "text": "and we're both on the same path\nfor superintelligence.",
+    "start": 733.63,
+    "duration": 3.47
+  },
+  {
+    "text": "And you're going to get there, right?",
+    "start": 737.134,
+    "duration": 2.302
+  },
+  {
+    "text": "And I'm sure you're going\nto get there, you're that close.",
+    "start": 739.436,
+    "duration": 3.303
+  },
+  {
+    "text": "And I'm six months behind.",
+    "start": 743.306,
+    "duration": 1.769
+  },
+  {
+    "text": "Pretty good, right?",
+    "start": 745.108,
+    "duration": 1.502
+  },
+  {
+    "text": "Sounds pretty good.",
+    "start": 746.943,
+    "duration": 1.535
+  },
+  {
+    "text": "No.",
+    "start": 749.179,
+    "duration": 1.168
+  },
+  {
+    "text": "These are network-effect businesses.",
+    "start": 750.38,
+    "duration": 1.935
+  },
+  {
+    "text": "And in network-effect businesses,",
+    "start": 752.349,
+    "duration": 1.868
+  },
+  {
+    "text": "it is the slope of your improvement\nthat determines everything.",
+    "start": 754.251,
+    "duration": 3.803
+  },
+  {
+    "text": "So I'll use OpenAI or Gemini,",
+    "start": 758.088,
+    "duration": 2.369
+  },
+  {
+    "text": "they have 1,000 programmers.",
+    "start": 760.49,
+    "duration": 1.669
+  },
+  {
+    "text": "They're in the process of creating\na million AI software programmers.",
+    "start": 762.159,
+    "duration": 4.337
+  },
+  {
+    "text": "What does that do?",
+    "start": 766.496,
+    "duration": 1.201
+  },
+  {
+    "text": "First, you don't have to feed them\nexcept electricity.",
+    "start": 767.731,
+    "duration": 2.602
+  },
+  {
+    "text": "So that's good.",
+    "start": 770.367,
+    "duration": 1.168
+  },
+  {
+    "text": "And they don't quit and things like that.",
+    "start": 771.535,
+    "duration": 2.135
+  },
+  {
+    "text": "Second, the slope is like this.",
+    "start": 773.703,
+    "duration": 2.303
+  },
+  {
+    "text": "Well, as we get closer\nto superintelligence,",
+    "start": 776.039,
+    "duration": 2.936
+  },
+  {
+    "text": "the slope goes like this.",
+    "start": 778.975,
+    "duration": 1.502
+  },
+  {
+    "text": "If you get there first,\nyou dastardly person --",
+    "start": 780.51,
+    "duration": 3.604
+  },
+  {
+    "text": "BS: You're never going\nto be able to catch me.",
+    "start": 784.147,
+    "duration": 2.169
+  },
+  {
+    "text": "ES: I will not be able to catch you.",
+    "start": 786.316,
+    "duration": 1.735
+  },
+  {
+    "text": "And I've given you the tools",
+    "start": 788.084,
+    "duration": 1.402
+  },
+  {
+    "text": "to reinvent the world\nand in particular, destroy me.",
+    "start": 789.486,
+    "duration": 3.437
+  },
+  {
+    "text": "That's how my brain,\nMr. Evil, is going to think.",
+    "start": 792.956,
+    "duration": 2.502
+  },
+  {
+    "text": "So what am I going to do?",
+    "start": 795.992,
+    "duration": 1.402
+  },
+  {
+    "text": "The first thing I'm going to do\nis try to steal all your code.",
+    "start": 798.061,
+    "duration": 3.036
+  },
+  {
+    "text": "And you've prevented that\nbecause you're good.",
+    "start": 801.131,
+    "duration": 2.169
+  },
+  {
+    "text": "And you were good.",
+    "start": 803.333,
+    "duration": 1.168
+  },
+  {
+    "text": "So you’re still good, at Google.",
+    "start": 804.501,
+    "duration": 1.968
+  },
+  {
+    "text": "Second, then I'm going\nto infiltrate you with humans.",
+    "start": 806.503,
+    "duration": 3.103
+  },
+  {
+    "text": "Well, you've got\ngood protections against that.",
+    "start": 809.639,
+    "duration": 2.203
+  },
+  {
+    "text": "You know, we don't have spies.",
+    "start": 811.875,
+    "duration": 1.468
+  },
+  {
+    "text": "So what do I do?",
+    "start": 813.376,
+    "duration": 1.268
+  },
+  {
+    "text": "I’m going to go in,\nand I’m going to change your model. ",
+    "start": 815.745,
+    "duration": 2.636
+  },
+  {
+    "text": "I'm going to modify it.",
+    "start": 818.381,
+    "duration": 1.135
+  },
+  {
+    "text": "I'm going to actually screw you up",
+    "start": 819.549,
+    "duration": 1.635
+  },
+  {
+    "text": "to get me so I'm one day ahead of you.",
+    "start": 821.184,
+    "duration": 2.403
+  },
+  {
+    "text": "And you're so good, I can't do that.",
+    "start": 823.62,
+    "duration": 1.768
+  },
+  {
+    "text": "What's my next choice?",
+    "start": 825.422,
+    "duration": 1.668
+  },
+  {
+    "text": "Bomb your data center.",
+    "start": 827.691,
+    "duration": 1.668
+  },
+  {
+    "text": "Now do you think I’m insane?",
+    "start": 830.026,
+    "duration": 3.07
+  },
+  {
+    "text": "These conversations are occurring",
+    "start": 833.73,
+    "duration": 2.169
+  },
+  {
+    "text": "around nuclear opponents\ntoday in our world.",
+    "start": 835.932,
+    "duration": 4.138
+  },
+  {
+    "text": "There are legitimate people saying",
+    "start": 840.103,
+    "duration": 1.902
+  },
+  {
+    "text": "the only solution\nto this problem is preemption.",
+    "start": 842.038,
+    "duration": 3.437
+  },
+  {
+    "text": "Now I just told you that you, Mr. Good,",
+    "start": 845.876,
+    "duration": 3.069
+  },
+  {
+    "text": "are about to have the keys\nto control the entire world,",
+    "start": 848.979,
+    "duration": 4.371
+  },
+  {
+    "text": "both in terms of economic dominance,",
+    "start": 853.383,
+    "duration": 1.869
+  },
+  {
+    "text": "innovation, surveillance,",
+    "start": 855.285,
+    "duration": 1.635
+  },
+  {
+    "text": "whatever it is that you care about.",
+    "start": 856.953,
+    "duration": 1.835
+  },
+  {
+    "text": "I have to prevent that.",
+    "start": 858.788,
+    "duration": 1.402
+  },
+  {
+    "text": "We don't have any language in our society,",
+    "start": 860.891,
+    "duration": 3.403
+  },
+  {
+    "text": "the foreign policy people have not\nthought about this,",
+    "start": 864.327,
+    "duration": 2.67
+  },
+  {
+    "text": "and this is coming.",
+    "start": 867.03,
+    "duration": 1.201
+  },
+  {
+    "text": "When is it coming?",
+    "start": 868.231,
+    "duration": 1.368
+  },
+  {
+    "text": "Probably five years.",
+    "start": 869.633,
+    "duration": 1.835
+  },
+  {
+    "text": "We have time.",
+    "start": 871.501,
+    "duration": 1.135
+  },
+  {
+    "text": "We have time for this conversation.",
+    "start": 872.669,
+    "duration": 1.702
+  },
+  {
+    "text": "And this is really important.",
+    "start": 874.371,
+    "duration": 1.668
+  },
+  {
+    "text": "BS: Let me push on this a little bit.",
+    "start": 876.072,
+    "duration": 1.769
+  },
+  {
+    "text": "So if this is true",
+    "start": 877.874,
+    "duration": 1.168
+  },
+  {
+    "text": "and we can end up in this\nsort of standoff scenario",
+    "start": 879.042,
+    "duration": 2.402
+  },
+  {
+    "text": "and the equivalent\nof mutually-assured destruction,",
+    "start": 881.478,
+    "duration": 2.402
+  },
+  {
+    "text": "you've also said that the US\nshould embrace open-source AI",
+    "start": 883.914,
+    "duration": 3.603
+  },
+  {
+    "text": "even after China's DeepSeek\nshowed what's possible",
+    "start": 887.55,
+    "duration": 2.336
+  },
+  {
+    "text": "with a fraction of the compute.",
+    "start": 889.92,
+    "duration": 1.501
+  },
+  {
+    "text": "But doesn't open-sourcing these models,",
+    "start": 891.421,
+    "duration": 1.902
+  },
+  {
+    "text": "just hand capabilities to adversaries\nthat will accelerate their own timelines?",
+    "start": 893.356,
+    "duration": 4.138
+  },
+  {
+    "text": "ES: This is one of the wickedest,\nor, we call them wicked hard problems.",
+    "start": 897.527,
+    "duration": 3.771
+  },
+  {
+    "text": "Our industry, our science,",
+    "start": 902.132,
+    "duration": 1.935
+  },
+  {
+    "text": "everything about the world\nthat we have built",
+    "start": 904.1,
+    "duration": 2.636
+  },
+  {
+    "text": "is based on academic research,\nopen source, so forth.",
+    "start": 906.77,
+    "duration": 3.336
+  },
+  {
+    "text": "Much of Google's technology\nwas based on open source.",
+    "start": 910.14,
+    "duration": 2.669
+  },
+  {
+    "text": "Some of Google's technology\nis open-source,",
+    "start": 912.842,
+    "duration": 2.036
+  },
+  {
+    "text": "some of it is proprietary,\nperfectly legitimate.",
+    "start": 914.911,
+    "duration": 2.436
+  },
+  {
+    "text": "What happens when there's\nan open-source model",
+    "start": 918.148,
+    "duration": 3.37
+  },
+  {
+    "text": "that is really dangerous,",
+    "start": 921.518,
+    "duration": 1.735
+  },
+  {
+    "text": "and it gets into the hands\nof the Osama bin Ladens of the world,",
+    "start": 923.286,
+    "duration": 3.537
+  },
+  {
+    "text": "and we know there are more\nthan one, unfortunately.",
+    "start": 926.856,
+    "duration": 3.237
+  },
+  {
+    "text": "We don't know.",
+    "start": 930.093,
+    "duration": 1.168
+  },
+  {
+    "text": "The consensus in the industry right now",
+    "start": 931.294,
+    "duration": 2.169
+  },
+  {
+    "text": "is the open-source models\nare not quite at the point",
+    "start": 933.496,
+    "duration": 4.705
+  },
+  {
+    "text": "of national or global danger.",
+    "start": 938.234,
+    "duration": 2.503
+  },
+  {
+    "text": "But you can see a pattern\nwhere they might get there.",
+    "start": 941.137,
+    "duration": 2.903
+  },
+  {
+    "text": "So a lot will now depend upon the key\ndecisions made in the US and China",
+    "start": 944.407,
+    "duration": 4.204
+  },
+  {
+    "text": "and in the companies in both places.",
+    "start": 948.645,
+    "duration": 1.935
+  },
+  {
+    "text": "The reason I focus on US and China",
+    "start": 951.081,
+    "duration": 2.002
+  },
+  {
+    "text": "is they're the only two countries\nwhere people are crazy enough",
+    "start": 953.116,
+    "duration": 3.537
+  },
+  {
+    "text": "to spend the billions\nand billions of dollars",
+    "start": 956.686,
+    "duration": 2.87
+  },
+  {
+    "text": "that are required\nto build this new vision.",
+    "start": 959.589,
+    "duration": 2.002
+  },
+  {
+    "text": "Europe, which would love to do it,",
+    "start": 961.624,
+    "duration": 1.669
+  },
+  {
+    "text": "doesn't have the capital\nstructure to do it.",
+    "start": 963.293,
+    "duration": 2.102
+  },
+  {
+    "text": "Most of the other countries,\nnot even India,",
+    "start": 965.428,
+    "duration": 2.069
+  },
+  {
+    "text": "has the capital structure to do it,\nalthough they wish to.",
+    "start": 967.497,
+    "duration": 2.736
+  },
+  {
+    "text": "Arabs don't have\nthe capital structure to do it,",
+    "start": 970.266,
+    "duration": 2.269
+  },
+  {
+    "text": "although they're working on it.",
+    "start": 972.569,
+    "duration": 1.501
+  },
+  {
+    "text": "So this fight, this battle,\nwill be the defining battle.",
+    "start": 974.104,
+    "duration": 3.904
+  },
+  {
+    "text": "I'm worried about this fight.",
+    "start": 978.041,
+    "duration": 1.535
+  },
+  {
+    "text": "Dr. Kissinger talked about the likely\npath to war with China",
+    "start": 979.609,
+    "duration": 4.972
+  },
+  {
+    "text": "was by accident.",
+    "start": 984.614,
+    "duration": 2.369
+  },
+  {
+    "text": "And he was a student of World War I.",
+    "start": 987.884,
+    "duration": 1.935
+  },
+  {
+    "text": "And of course, [it]\nstarted with a small event,",
+    "start": 989.853,
+    "duration": 2.269
+  },
+  {
+    "text": "and it escalated over that summer\nin, I think, 1914.",
+    "start": 992.122,
+    "duration": 3.27
+  },
+  {
+    "text": "And then it was this\nhorrific conflagration.",
+    "start": 995.959,
+    "duration": 3.437
+  },
+  {
+    "text": "You can imagine a series of steps",
+    "start": 999.396,
+    "duration": 2.002
+  },
+  {
+    "text": "along the lines of what I'm talking about",
+    "start": 1001.431,
+    "duration": 2.202
+  },
+  {
+    "text": "that could lead us\nto a horrific global outcome.",
+    "start": 1003.666,
+    "duration": 3.771
+  },
+  {
+    "text": "That's why we have to be paying attention.",
+    "start": 1007.47,
+    "duration": 2.202
+  },
+  {
+    "text": "BS: I want to talk about one\nof the recurring tensions here,",
+    "start": 1009.706,
+    "duration": 2.836
+  },
+  {
+    "text": "before we move on to the dreams,",
+    "start": 1012.542,
+    "duration": 2.002
+  },
+  {
+    "text": "is, to sort of moderate\nthese AI systems at scale, right,",
+    "start": 1014.577,
+    "duration": 3.204
+  },
+  {
+    "text": "there's this weird tension in AI safety",
+    "start": 1017.814,
+    "duration": 2.135
+  },
+  {
+    "text": "that the solution to preventing \"1984\"",
+    "start": 1019.949,
+    "duration": 3.137
+  },
+  {
+    "text": "often sounds a lot like \"1984.\"",
+    "start": 1023.086,
+    "duration": 2.903
+  },
+  {
+    "text": "So proof of personhood is a hot topic.",
+    "start": 1026.022,
+    "duration": 1.835
+  },
+  {
+    "text": "Moderating these systems\nat scale is a hot topic.",
+    "start": 1027.857,
+    "duration": 2.503
+  },
+  {
+    "text": "How do you view that trade-off?",
+    "start": 1030.393,
+    "duration": 1.502
+  },
+  {
+    "text": "In trying to prevent dystopia,",
+    "start": 1031.895,
+    "duration": 1.768
+  },
+  {
+    "text": "let's say preventing non-state actors",
+    "start": 1033.663,
+    "duration": 1.902
+  },
+  {
+    "text": "from using these models\nin undesirable ways,",
+    "start": 1035.598,
+    "duration": 2.703
+  },
+  {
+    "text": "we might accidentally end up building\nthe ultimate surveillance state.",
+    "start": 1038.301,
+    "duration": 3.804
+  },
+  {
+    "text": "ES: It's really important\nthat we stick to the values",
+    "start": 1043.139,
+    "duration": 3.737
+  },
+  {
+    "text": "that we have in our society.",
+    "start": 1046.876,
+    "duration": 2.136
+  },
+  {
+    "text": "I am very, very committed\nto individual freedom.",
+    "start": 1049.045,
+    "duration": 2.803
+  },
+  {
+    "text": "It's very easy for a well-intentioned\nengineer to build a system",
+    "start": 1051.881,
+    "duration": 4.138
+  },
+  {
+    "text": "which is optimized\nand restricts your freedom.",
+    "start": 1056.052,
+    "duration": 3.337
+  },
+  {
+    "text": "So it's very important that human\nfreedom be preserved in this.",
+    "start": 1059.856,
+    "duration": 4.037
+  },
+  {
+    "text": "A lot of these are not technical issues.",
+    "start": 1064.494,
+    "duration": 1.935
+  },
+  {
+    "text": "They're really business decisions.",
+    "start": 1066.463,
+    "duration": 1.635
+  },
+  {
+    "text": "It's certainly possible\nto build a surveillance state,",
+    "start": 1068.098,
+    "duration": 2.569
+  },
+  {
+    "text": "but it's also possible\nto build one that's freeing.",
+    "start": 1070.7,
+    "duration": 2.403
+  },
+  {
+    "text": "The conundrum that you're describing",
+    "start": 1073.136,
+    "duration": 1.735
+  },
+  {
+    "text": "is because it's now so easy to operate\nbased on misinformation,",
+    "start": 1074.904,
+    "duration": 3.47
+  },
+  {
+    "text": "everyone knows what I'm talking about,",
+    "start": 1078.408,
+    "duration": 1.868
+  },
+  {
+    "text": "that you really do need proof of identity.",
+    "start": 1080.276,
+    "duration": 2.403
+  },
+  {
+    "text": "But proof of identity\ndoes not have to include details.",
+    "start": 1082.679,
+    "duration": 2.903
+  },
+  {
+    "text": "So, for example, you could have\na cryptographic proof",
+    "start": 1085.615,
+    "duration": 2.503
+  },
+  {
+    "text": "that you are a human being,",
+    "start": 1088.118,
+    "duration": 1.301
+  },
+  {
+    "text": "and it could actually be true\nwithout anything else,",
+    "start": 1089.452,
+    "duration": 2.469
+  },
+  {
+    "text": "and also not be able to link it to others",
+    "start": 1091.921,
+    "duration": 2.77
+  },
+  {
+    "text": "using various cryptographic techniques.",
+    "start": 1094.724,
+    "duration": 2.636
+  },
+  {
+    "text": "BS: So zero-knowledge proofs\nand other techniques.",
+    "start": 1097.36,
+    "duration": 2.369
+  },
+  {
+    "text": "ES: Zero-knowledge proofs\nare the most obvious one.",
+    "start": 1099.762,
+    "duration": 2.403
+  },
+  {
+    "text": "BS: Alright, let's change gears,\nshall we, to dreams.",
+    "start": 1102.165,
+    "duration": 3.57
+  },
+  {
+    "text": "In your book, \"Genesis,\"\nyou strike a cautiously optimistic tone,",
+    "start": 1105.768,
+    "duration": 3.637
+  },
+  {
+    "text": "which you obviously co-authored\nwith Henry Kissinger.",
+    "start": 1109.439,
+    "duration": 2.536
+  },
+  {
+    "text": "When you look ahead to the future,\nwhat should we all be excited about?",
+    "start": 1112.008,
+    "duration": 3.704
+  },
+  {
+    "text": "ES: Well, I'm of the age",
+    "start": 1115.745,
+    "duration": 1.435
+  },
+  {
+    "text": "where some of my friends\nare getting really dread diseases.",
+    "start": 1117.213,
+    "duration": 3.437
+  },
+  {
+    "text": "Can we fix that now?",
+    "start": 1121.317,
+    "duration": 1.869
+  },
+  {
+    "text": "Can we just eliminate all of those?",
+    "start": 1123.52,
+    "duration": 2.168
+  },
+  {
+    "text": "Why can't we just uptake these",
+    "start": 1125.722,
+    "duration": 1.635
+  },
+  {
+    "text": "and right now, eradicate\nall of these diseases?",
+    "start": 1127.357,
+    "duration": 3.97
+  },
+  {
+    "text": "That's a pretty good goal.",
+    "start": 1131.961,
+    "duration": 1.835
+  },
+  {
+    "text": "I'm aware of one nonprofit\nthat's trying to identify,",
+    "start": 1134.531,
+    "duration": 3.203
+  },
+  {
+    "text": "in the next two years,",
+    "start": 1137.767,
+    "duration": 1.301
+  },
+  {
+    "text": "all human druggable targets\nand release it to the scientists.",
+    "start": 1139.102,
+    "duration": 3.804
+  },
+  {
+    "text": "If you know the druggable targets,",
+    "start": 1142.939,
+    "duration": 1.702
+  },
+  {
+    "text": "then the drug industry\ncan begin to work on things.",
+    "start": 1144.674,
+    "duration": 3.136
+  },
+  {
+    "text": "I have another company I'm associated with",
+    "start": 1147.844,
+    "duration": 2.002
+  },
+  {
+    "text": "which has figured out a way,\nallegedly, it's a startup,",
+    "start": 1149.879,
+    "duration": 2.636
+  },
+  {
+    "text": "to reduce the cost of stage-3 trials\nby an order of magnitude.",
+    "start": 1152.515,
+    "duration": 3.971
+  },
+  {
+    "text": "As you know, those are the things",
+    "start": 1156.519,
+    "duration": 1.635
+  },
+  {
+    "text": "that ultimately drive\nthe cost structure of drugs.",
+    "start": 1158.154,
+    "duration": 2.369
+  },
+  {
+    "text": "That's an example.",
+    "start": 1160.557,
+    "duration": 1.167
+  },
+  {
+    "text": "I'd like to know where dark energy is,",
+    "start": 1161.758,
+    "duration": 3.036
+  },
+  {
+    "text": "and I'd like to find it.",
+    "start": 1164.827,
+    "duration": 1.435
+  },
+  {
+    "text": "I'm sure that there is an enormous amount\nof physics in dark energy, dark matter.",
+    "start": 1166.996,
+    "duration": 5.406
+  },
+  {
+    "text": "Think about the revolution\nin material science.",
+    "start": 1172.435,
+    "duration": 3.237
+  },
+  {
+    "text": "Infinitely more powerful transportation,",
+    "start": 1175.705,
+    "duration": 2.87
+  },
+  {
+    "text": "infinitely more powerful\nscience and so forth.",
+    "start": 1178.608,
+    "duration": 3.537
+  },
+  {
+    "text": "I'll give you another example.",
+    "start": 1182.178,
+    "duration": 1.435
+  },
+  {
+    "text": "Why do we not have\nevery human being on the planet",
+    "start": 1183.613,
+    "duration": 5.939
+  },
+  {
+    "text": "have their own tutor in their own language",
+    "start": 1189.586,
+    "duration": 3.57
+  },
+  {
+    "text": "to help them learn something new?",
+    "start": 1193.189,
+    "duration": 1.802
+  },
+  {
+    "text": "Starting with kindergarten.",
+    "start": 1195.024,
+    "duration": 1.936
+  },
+  {
+    "text": "It's obvious.",
+    "start": 1196.96,
+    "duration": 1.401
+  },
+  {
+    "text": "Why have we not built it?",
+    "start": 1198.394,
+    "duration": 1.235
+  },
+  {
+    "text": "The answer, the only possible answer",
+    "start": 1199.662,
+    "duration": 1.735
+  },
+  {
+    "text": "is there must not be\na good economic argument.",
+    "start": 1201.397,
+    "duration": 2.236
+  },
+  {
+    "text": "The technology works.",
+    "start": 1203.666,
+    "duration": 1.602
+  },
+  {
+    "text": "Teach them in their language,\ngamify the learning,",
+    "start": 1205.301,
+    "duration": 3.07
+  },
+  {
+    "text": "bring people to their\nbest natural lengths.",
+    "start": 1208.404,
+    "duration": 2.169
+  },
+  {
+    "text": "Another example.",
+    "start": 1210.607,
+    "duration": 1.134
+  },
+  {
+    "text": "The vast majority\nof health care in the world",
+    "start": 1211.774,
+    "duration": 2.102
+  },
+  {
+    "text": "is either absent",
+    "start": 1213.876,
+    "duration": 1.135
+  },
+  {
+    "text": "or delivered by the equivalent\nof nurse practitioners",
+    "start": 1215.044,
+    "duration": 2.536
+  },
+  {
+    "text": "and very, very sort of stressed\nlocal village doctors.",
+    "start": 1217.614,
+    "duration": 3.303
+  },
+  {
+    "text": "Why do they not have the doctor assistant\nthat helps them in their language,",
+    "start": 1220.917,
+    "duration": 4.504
+  },
+  {
+    "text": "treat whatever with,\nagain, perfect healthcare?",
+    "start": 1225.455,
+    "duration": 2.369
+  },
+  {
+    "text": "I can just go on.",
+    "start": 1227.824,
+    "duration": 1.668
+  },
+  {
+    "text": "There are lots and lots of issues\nwith the digital world.",
+    "start": 1229.525,
+    "duration": 5.673
+  },
+  {
+    "text": "It feels like that we're all\nin our own ships in the ocean,",
+    "start": 1235.198,
+    "duration": 3.77
+  },
+  {
+    "text": "and we're not talking to each other.",
+    "start": 1239.002,
+    "duration": 1.768
+  },
+  {
+    "text": "In our hunger for connectivity\nand connection,",
+    "start": 1240.803,
+    "duration": 3.571
+  },
+  {
+    "text": "these tools make us lonelier.",
+    "start": 1244.407,
+    "duration": 2.669
+  },
+  {
+    "text": "We've got to fix that, right?",
+    "start": 1247.11,
+    "duration": 1.568
+  },
+  {
+    "text": "But these are fixable problems.",
+    "start": 1248.711,
+    "duration": 1.569
+  },
+  {
+    "text": "They don't require new physics.",
+    "start": 1250.313,
+    "duration": 1.935
+  },
+  {
+    "text": "They don't require new discoveries,\nwe just have to decide.",
+    "start": 1252.248,
+    "duration": 2.936
+  },
+  {
+    "text": "So when I look at this future,",
+    "start": 1255.218,
+    "duration": 1.435
+  },
+  {
+    "text": "I want to be clear that the arrival\nof this intelligence,",
+    "start": 1256.686,
+    "duration": 4.504
+  },
+  {
+    "text": "both at the AI level, the AGI,",
+    "start": 1261.224,
+    "duration": 2.636
+  },
+  {
+    "text": "which is general intelligence,",
+    "start": 1263.86,
+    "duration": 1.435
+  },
+  {
+    "text": "and then superintelligence,",
+    "start": 1265.328,
+    "duration": 1.668
+  },
+  {
+    "text": "is the most important thing\nthat's going to happen in about 500 years,",
+    "start": 1267.03,
+    "duration": 4.738
+  },
+  {
+    "text": "maybe 1,000 years in human society.",
+    "start": 1271.801,
+    "duration": 2.102
+  },
+  {
+    "text": "And it's happening in our lifetime.",
+    "start": 1273.936,
+    "duration": 1.902
+  },
+  {
+    "text": "So don't screw it up.",
+    "start": 1275.872,
+    "duration": 1.868
+  },
+  {
+    "text": "BS: Let's say we don't.",
+    "start": 1278.641,
+    "duration": 2.036
+  },
+  {
+    "text": "(Applause)",
+    "start": 1280.677,
+    "duration": 3.103
+  },
+  {
+    "text": "Let's say we don't screw it up.",
+    "start": 1283.813,
+    "duration": 1.502
+  },
+  {
+    "text": "Let's say we get into this world\nof radical abundance.",
+    "start": 1285.348,
+    "duration": 2.869
+  },
+  {
+    "text": "Let's say we end up in this place,",
+    "start": 1288.251,
+    "duration": 1.635
+  },
+  {
+    "text": "and we hit that point\nof recursive self-improvement.",
+    "start": 1289.919,
+    "duration": 3.637
+  },
+  {
+    "text": "AI systems take on a vast majority\nof economically productive tasks.",
+    "start": 1293.556,
+    "duration": 4.204
+  },
+  {
+    "text": "In your mind, what are humans\ngoing to do in this future?",
+    "start": 1297.794,
+    "duration": 2.702
+  },
+  {
+    "text": "Are we all sipping piña coladas\non the beach, engaging in hobbies?",
+    "start": 1300.53,
+    "duration": 3.103
+  },
+  {
+    "text": "ES: You tech liberal, you.",
+    "start": 1303.666,
+    "duration": 1.969
+  },
+  {
+    "text": "You must be in favor of UBI.",
+    "start": 1305.668,
+    "duration": 2.236
+  },
+  {
+    "text": "BS: No, no, no.",
+    "start": 1308.404,
+    "duration": 1.168
+  },
+  {
+    "text": "ES: Look, humans are unchanged",
+    "start": 1309.605,
+    "duration": 3.003
+  },
+  {
+    "text": "in the midst of this incredible discovery.",
+    "start": 1312.642,
+    "duration": 2.436
+  },
+  {
+    "text": "Do you really think that we're going\nto get rid of lawyers?",
+    "start": 1315.111,
+    "duration": 2.836
+  },
+  {
+    "text": "No, they're just going to have more\nsophisticated lawsuits.",
+    "start": 1317.947,
+    "duration": 3.203
+  },
+  {
+    "text": "Do you really think we're going\nto get rid of politicians?",
+    "start": 1321.184,
+    "duration": 2.736
+  },
+  {
+    "text": "No, they'll just have more\nplatforms to mislead you.",
+    "start": 1323.953,
+    "duration": 2.436
+  },
+  {
+    "text": "Sorry.",
+    "start": 1326.422,
+    "duration": 1.368
+  },
+  {
+    "text": "I mean, I can just go on and on and on.",
+    "start": 1327.824,
+    "duration": 2.369
+  },
+  {
+    "text": "The key thing to understand\nabout this new economics",
+    "start": 1330.226,
+    "duration": 3.57
+  },
+  {
+    "text": "is that we collectively, as a society,\nare not having enough humans.",
+    "start": 1333.83,
+    "duration": 4.838
+  },
+  {
+    "text": "Look at the reproduction rate in Asia,",
+    "start": 1338.701,
+    "duration": 2.336
+  },
+  {
+    "text": "is essentially 1.0 for two parents.",
+    "start": 1341.07,
+    "duration": 2.703
+  },
+  {
+    "text": "This is not good, right?",
+    "start": 1343.806,
+    "duration": 2.036
+  },
+  {
+    "text": "So for the rest of our lives,",
+    "start": 1345.842,
+    "duration": 2.002
+  },
+  {
+    "text": "the key problem is going to get\nthe people who are productive.",
+    "start": 1347.877,
+    "duration": 2.903
+  },
+  {
+    "text": "That is, in their productive\nperiod of lives,",
+    "start": 1350.813,
+    "duration": 2.169
+  },
+  {
+    "text": "more productive to support\nold people like me, right,",
+    "start": 1353.015,
+    "duration": 4.438
+  },
+  {
+    "text": "who will be bitching that we want\nmore stuff from the younger people.",
+    "start": 1357.487,
+    "duration": 3.27
+  },
+  {
+    "text": "That's how it's going to work.",
+    "start": 1360.757,
+    "duration": 1.468
+  },
+  {
+    "text": "These tools will radically\nincrease that productivity.",
+    "start": 1362.258,
+    "duration": 3.637
+  },
+  {
+    "text": "There's a study that says that we will,",
+    "start": 1365.928,
+    "duration": 2.069
+  },
+  {
+    "text": "under this set of assumptions\naround agentic AI and discovery",
+    "start": 1367.997,
+    "duration": 3.17
+  },
+  {
+    "text": "and the scale that I'm describing,",
+    "start": 1371.2,
+    "duration": 1.669
+  },
+  {
+    "text": "there's a lot of assumptions",
+    "start": 1372.869,
+    "duration": 1.635
+  },
+  {
+    "text": "that you'll end up",
+    "start": 1374.504,
+    "duration": 1.568
+  },
+  {
+    "text": "with something like 30-percent increase\nin productivity per year.",
+    "start": 1376.105,
+    "duration": 4.305
+  },
+  {
+    "text": "Having now talked\nto a bunch of economists,",
+    "start": 1380.443,
+    "duration": 2.069
+  },
+  {
+    "text": "they have no models",
+    "start": 1382.545,
+    "duration": 1.835
+  },
+  {
+    "text": "for what that kind of increase\nin productivity looks like.",
+    "start": 1384.414,
+    "duration": 3.069
+  },
+  {
+    "text": "We just have never seen it.",
+    "start": 1387.517,
+    "duration": 1.835
+  },
+  {
+    "text": "It didn't occur in any rise of a democracy\nor a kingdom in our history.",
+    "start": 1389.385,
+    "duration": 5.039
+  },
+  {
+    "text": "It's unbelievable what's going to happen.",
+    "start": 1395.525,
+    "duration": 3.136
+  },
+  {
+    "text": "Hopefully we will get it\nin the right direction.",
+    "start": 1398.694,
+    "duration": 2.903
+  },
+  {
+    "text": "BS: It is truly unbelievable.",
+    "start": 1402.231,
+    "duration": 1.402
+  },
+  {
+    "text": "Let's bring this home, Eric.",
+    "start": 1403.666,
+    "duration": 1.368
+  },
+  {
+    "text": "You've navigated decades\nof technological change.",
+    "start": 1405.067,
+    "duration": 2.837
+  },
+  {
+    "text": "For everyone that's navigating\nthis AI transition,",
+    "start": 1407.904,
+    "duration": 2.536
+  },
+  {
+    "text": "technologists, leaders, citizens",
+    "start": 1410.473,
+    "duration": 2.235
+  },
+  {
+    "text": "that are feeling a mix\nof excitement and anxiety,",
+    "start": 1412.708,
+    "duration": 3.17
+  },
+  {
+    "text": "what is that single piece of wisdom",
+    "start": 1415.912,
+    "duration": 2.135
+  },
+  {
+    "text": "or advice you'd like to offer",
+    "start": 1418.08,
+    "duration": 1.936
+  },
+  {
+    "text": "for navigating this insane moment\nthat we're living through today?",
+    "start": 1420.016,
+    "duration": 3.737
+  },
+  {
+    "text": "ES: So one thing to remember",
+    "start": 1423.786,
+    "duration": 1.835
+  },
+  {
+    "text": "is that this is a marathon, not a sprint.",
+    "start": 1425.655,
+    "duration": 2.736
+  },
+  {
+    "text": "One year I decided to do\na 100-mile bike race,",
+    "start": 1429.859,
+    "duration": 3.036
+  },
+  {
+    "text": "which was a mistake.",
+    "start": 1432.895,
+    "duration": 1.235
+  },
+  {
+    "text": "And the idea was,\nI learned about spin rate.",
+    "start": 1434.163,
+    "duration": 2.703
+  },
+  {
+    "text": "Every day, you get up,\nand you just keep going.",
+    "start": 1437.5,
+    "duration": 2.336
+  },
+  {
+    "text": "You know, from our work\ntogether at Google,",
+    "start": 1439.869,
+    "duration": 2.336
+  },
+  {
+    "text": "that when you’re growing\nat the rate that we’re growing,",
+    "start": 1442.238,
+    "duration": 4.538
+  },
+  {
+    "text": "you get so much done in a year,",
+    "start": 1446.809,
+    "duration": 2.236
+  },
+  {
+    "text": "you forget how far you went.",
+    "start": 1449.078,
+    "duration": 2.803
+  },
+  {
+    "text": "Humans can't understand that.",
+    "start": 1452.315,
+    "duration": 1.968
+  },
+  {
+    "text": "And we're in this situation",
+    "start": 1454.317,
+    "duration": 1.568
+  },
+  {
+    "text": "where the exponential is moving like this.",
+    "start": 1455.918,
+    "duration": 2.469
+  },
+  {
+    "text": "As this stuff happens quicker,",
+    "start": 1458.387,
+    "duration": 1.869
+  },
+  {
+    "text": "you will forget what was true\ntwo years ago or three years ago.",
+    "start": 1460.289,
+    "duration": 4.738
+  },
+  {
+    "text": "That's the key thing.",
+    "start": 1465.561,
+    "duration": 1.535
+  },
+  {
+    "text": "So my advice to you all is ride the wave,\nbut ride it every day.",
+    "start": 1467.129,
+    "duration": 4.872
+  },
+  {
+    "text": "Don't view it as episodic\nand something you can end,",
+    "start": 1472.001,
+    "duration": 2.469
+  },
+  {
+    "text": "but understand it and build on it.",
+    "start": 1474.504,
+    "duration": 2.469
+  },
+  {
+    "text": "Each and every one of you\nhas a reason to use this technology.",
+    "start": 1476.973,
+    "duration": 4.004
+  },
+  {
+    "text": "If you're an artist,\na teacher, a physician,",
+    "start": 1481.01,
+    "duration": 3.504
+  },
+  {
+    "text": "a business person, a technical person.",
+    "start": 1484.514,
+    "duration": 2.669
+  },
+  {
+    "text": "If you're not using this technology,",
+    "start": 1487.216,
+    "duration": 2.303
+  },
+  {
+    "text": "you're not going to be relevant\ncompared to your peer groups",
+    "start": 1489.552,
+    "duration": 3.27
+  },
+  {
+    "text": "and your competitors",
+    "start": 1492.855,
+    "duration": 1.168
+  },
+  {
+    "text": "and the people who want to be successful.",
+    "start": 1494.056,
+    "duration": 2.603
+  },
+  {
+    "text": "Adopt it, and adopt it fast.",
+    "start": 1496.692,
+    "duration": 1.902
+  },
+  {
+    "text": "I have been shocked\nat how fast these systems --",
+    "start": 1498.594,
+    "duration": 3.003
+  },
+  {
+    "text": "as an aside, my background\nis enterprise software,",
+    "start": 1501.597,
+    "duration": 4.505
+  },
+  {
+    "text": "and nowadays there's a model\nProtocol from Anthropic.",
+    "start": 1506.135,
+    "duration": 4.271
+  },
+  {
+    "text": "You can actually connect the model\ndirectly into the databases",
+    "start": 1510.439,
+    "duration": 3.17
+  },
+  {
+    "text": "without any of the connectors.",
+    "start": 1513.609,
+    "duration": 1.468
+  },
+  {
+    "text": "I know this sounds nerdy.",
+    "start": 1515.111,
+    "duration": 1.234
+  },
+  {
+    "text": "There's a whole industry\nthere that goes away",
+    "start": 1516.379,
+    "duration": 2.102
+  },
+  {
+    "text": "because you have all this flexibility now.",
+    "start": 1518.514,
+    "duration": 2.036
+  },
+  {
+    "text": "You can just say what you want,\nand it just produces it.",
+    "start": 1520.583,
+    "duration": 2.97
+  },
+  {
+    "text": "That's an example\nof a real change in business.",
+    "start": 1523.553,
+    "duration": 2.535
+  },
+  {
+    "text": "There are so many of these things\ncoming every day.",
+    "start": 1526.122,
+    "duration": 3.036
+  },
+  {
+    "text": "BS: Ladies and gentlemen, Eric Schmidt.",
+    "start": 1529.191,
+    "duration": 1.936
+  },
+  {
+    "text": "ES: Thank you very much.",
+    "start": 1531.16,
+    "duration": 1.201
+  },
+  {
+    "text": "(Applause)",
+    "start": 1532.361,
+    "duration": 4.805
+  }
+]

@@ -1,0 +1,417 @@
+[
+  {
+    "text": "Created by logician Raymond Smullyan",
+    "start": 6.994,
+    "duration": 2.451
+  },
+  {
+    "text": "and popularized by his colleague\nGeorge Boolos,",
+    "start": 9.445,
+    "duration": 3.121
+  },
+  {
+    "text": "this riddle has been called the hardest\nlogic puzzle ever.",
+    "start": 12.566,
+    "duration": 4.61
+  },
+  {
+    "text": "You and your team have crash-landed\non an ancient planet.",
+    "start": 17.176,
+    "duration": 4.339
+  },
+  {
+    "text": "The only way off is to appease\nits three alien overlords,",
+    "start": 21.515,
+    "duration": 5.001
+  },
+  {
+    "text": "Tee, Eff, and Arr,",
+    "start": 26.516,
+    "duration": 2.54
+  },
+  {
+    "text": "by giving them the correct artifacts.",
+    "start": 29.056,
+    "duration": 2.689
+  },
+  {
+    "text": "Unfortunately, you don't\nknow who is who.",
+    "start": 31.745,
+    "duration": 2.851
+  },
+  {
+    "text": "From an inscription, you learn that you\nmay ask three yes or no questions,",
+    "start": 34.596,
+    "duration": 4.591
+  },
+  {
+    "text": "each addressed to any one lord.",
+    "start": 39.187,
+    "duration": 3.079
+  },
+  {
+    "text": "Tee's answers are always true,",
+    "start": 42.266,
+    "duration": 2.481
+  },
+  {
+    "text": "Eff's are always false,",
+    "start": 44.747,
+    "duration": 2.029
+  },
+  {
+    "text": "and Arr's answer is random each time.",
+    "start": 46.776,
+    "duration": 3.551
+  },
+  {
+    "text": "But there's a problem.",
+    "start": 50.327,
+    "duration": 1.44
+  },
+  {
+    "text": "You've deciphered the language enough\nto ask any question,",
+    "start": 51.767,
+    "duration": 3.072
+  },
+  {
+    "text": "but you don't know which of the two\nwords 'ozo' and 'ulu' means yes",
+    "start": 54.839,
+    "duration": 5.088
+  },
+  {
+    "text": "and which means no.",
+    "start": 59.927,
+    "duration": 1.701
+  },
+  {
+    "text": "How can you still figure out \nwhich alien is which?",
+    "start": 61.628,
+    "duration": 3.56
+  },
+  {
+    "text": "Pause here if you want \nto figure it out for yourself!",
+    "start": 65.188,
+    "duration": 2.959
+  },
+  {
+    "text": "Answer in: 3",
+    "start": 68.147,
+    "duration": 1.821
+  },
+  {
+    "text": "2",
+    "start": 69.968,
+    "duration": 1.479
+  },
+  {
+    "text": "1",
+    "start": 71.447,
+    "duration": 1.269
+  },
+  {
+    "text": "At first, this puzzle seems not just hard,\nbut downright impossible.",
+    "start": 72.716,
+    "duration": 4.512
+  },
+  {
+    "text": "What good is asking a question",
+    "start": 77.228,
+    "duration": 1.569
+  },
+  {
+    "text": "if you can neither understand the answer\nnor know if it's true?",
+    "start": 78.797,
+    "duration": 4.43
+  },
+  {
+    "text": "But it can be done.",
+    "start": 83.227,
+    "duration": 1.691
+  },
+  {
+    "text": "The key is to carefully formulate\nour questions",
+    "start": 84.918,
+    "duration": 2.68
+  },
+  {
+    "text": "so that any answer \nyields useful information.",
+    "start": 87.598,
+    "duration": 3.7
+  },
+  {
+    "text": "First of all, we can get around\nto not knowing what 'ozo' and 'ulu' mean",
+    "start": 91.298,
+    "duration": 4.529
+  },
+  {
+    "text": "by including the words themselves\nin the questions,",
+    "start": 95.827,
+    "duration": 3.751
+  },
+  {
+    "text": "and secondly, if we load each question\nwith a hypothetical condition,",
+    "start": 99.578,
+    "duration": 3.961
+  },
+  {
+    "text": "whether an alien is lying or not\nwon't actually matter.",
+    "start": 103.539,
+    "duration": 4.449
+  },
+  {
+    "text": "To see how that could work,",
+    "start": 107.988,
+    "duration": 1.571
+  },
+  {
+    "text": "imagine our question\nis whether two plus two is four.",
+    "start": 109.559,
+    "duration": 4.071
+  },
+  {
+    "text": "Instead of posing it directly,",
+    "start": 113.63,
+    "duration": 1.769
+  },
+  {
+    "text": "we say, \"If I asked you whether\ntwo plus two is four,",
+    "start": 115.399,
+    "duration": 3.949
+  },
+  {
+    "text": "would you answer 'ozo'?\"",
+    "start": 119.348,
+    "duration": 2.191
+  },
+  {
+    "text": "If 'ozo' means yes \nand the overlord is Tee,",
+    "start": 121.539,
+    "duration": 3.08
+  },
+  {
+    "text": "it truthfully replies, \"ozo.\"",
+    "start": 124.619,
+    "duration": 2.74
+  },
+  {
+    "text": "But what if we ask Eff?",
+    "start": 127.359,
+    "duration": 1.93
+  },
+  {
+    "text": "Well, it would answer \"ulu,\"\nor no to the embedded question,",
+    "start": 129.289,
+    "duration": 4.17
+  },
+  {
+    "text": "so it lies and replies 'ozo' instead.",
+    "start": 133.459,
+    "duration": 3.657
+  },
+  {
+    "text": "And if 'ozo' actually means no,",
+    "start": 137.116,
+    "duration": 2.933
+  },
+  {
+    "text": "then the answer to \nour embedded question is 'ulu,'",
+    "start": 140.049,
+    "duration": 3.54
+  },
+  {
+    "text": "and both Tee and Eff still reply 'ozo,'",
+    "start": 143.589,
+    "duration": 3.48
+  },
+  {
+    "text": "each for their own reasons.",
+    "start": 147.069,
+    "duration": 2.041
+  },
+  {
+    "text": "If you're confused about why this works,",
+    "start": 149.11,
+    "duration": 2.07
+  },
+  {
+    "text": "the reason involves logical structure.",
+    "start": 151.18,
+    "duration": 2.43
+  },
+  {
+    "text": "A double positive and a double negative\nboth result in a positive.",
+    "start": 153.61,
+    "duration": 5.03
+  },
+  {
+    "text": "Now, we can be sure that asking\neither Tee or Eff a question put this way",
+    "start": 158.64,
+    "duration": 4.68
+  },
+  {
+    "text": "will yield 'ozo'\nif the hypothetical question is true",
+    "start": 163.32,
+    "duration": 4.141
+  },
+  {
+    "text": "and 'ulu' if it's false",
+    "start": 167.461,
+    "duration": 2.169
+  },
+  {
+    "text": "regardless of what \neach word actually means.",
+    "start": 169.63,
+    "duration": 3.39
+  },
+  {
+    "text": "Unfortunately, \nthis doesn't help us with Arr.",
+    "start": 173.02,
+    "duration": 3.601
+  },
+  {
+    "text": "But don't worry, we can use our first\nquestion to identify one alien lord",
+    "start": 176.621,
+    "duration": 4.61
+  },
+  {
+    "text": "that definitely isn't Arr.",
+    "start": 181.231,
+    "duration": 2.54
+  },
+  {
+    "text": "Then we can use the second to find out\nwhether its Tee or Eff.",
+    "start": 183.771,
+    "duration": 4.341
+  },
+  {
+    "text": "And once we know that,",
+    "start": 188.112,
+    "duration": 1.259
+  },
+  {
+    "text": "we can ask it to identify \none of the others.",
+    "start": 189.371,
+    "duration": 3.584
+  },
+  {
+    "text": "So let's begin.",
+    "start": 192.955,
+    "duration": 1.777
+  },
+  {
+    "text": "Ask the alien in the middle,",
+    "start": 194.732,
+    "duration": 1.72
+  },
+  {
+    "text": "\"If I asked you whether the overlord on\nmy left is Arr, would you answer 'ozo'?\"",
+    "start": 196.452,
+    "duration": 5.67
+  },
+  {
+    "text": "If the reply is 'ozo,' \nthere are two possibilities.",
+    "start": 202.122,
+    "duration": 4.22
+  },
+  {
+    "text": "You could already be talking to Arr,\nin which case the answer is meaningless.",
+    "start": 206.342,
+    "duration": 4.619
+  },
+  {
+    "text": "But otherwise, you're talking to either\nTee or Eff,",
+    "start": 210.961,
+    "duration": 3.96
+  },
+  {
+    "text": "and as we know,",
+    "start": 214.921,
+    "duration": 1.27
+  },
+  {
+    "text": "getting 'ozo' from either one means \nyour hypothetical question was correct,",
+    "start": 216.191,
+    "duration": 5.211
+  },
+  {
+    "text": "and the left overlord is indeed Arr.",
+    "start": 221.402,
+    "duration": 3.311
+  },
+  {
+    "text": "Either way, you can be sure the alien\non the right is not Arr.",
+    "start": 224.713,
+    "duration": 4.75
+  },
+  {
+    "text": "Similarly, if the answer is 'ulu,'",
+    "start": 229.463,
+    "duration": 2.609
+  },
+  {
+    "text": "then you know the alien \non the left can't be Arr.",
+    "start": 232.072,
+    "duration": 3.59
+  },
+  {
+    "text": "Now go to the overlord you've determined\nisn't Arr and ask,",
+    "start": 235.662,
+    "duration": 4.365
+  },
+  {
+    "text": "\"If I asked 'are you Eff?' \nwould you answer 'ozo'?\"",
+    "start": 240.027,
+    "duration": 4.136
+  },
+  {
+    "text": "Since you don't have to worry about\nthe random possibility,",
+    "start": 244.163,
+    "duration": 2.989
+  },
+  {
+    "text": "either answer will \nestablish its identity.",
+    "start": 247.152,
+    "duration": 4.151
+  },
+  {
+    "text": "Now that you know whether its\nanswers are true or false,",
+    "start": 251.303,
+    "duration": 3.07
+  },
+  {
+    "text": "ask the same alien whether the center\noverlord is Arr.",
+    "start": 254.373,
+    "duration": 5.098
+  },
+  {
+    "text": "The process of elimination will identify\nthe remaining one.",
+    "start": 259.471,
+    "duration": 4.513
+  },
+  {
+    "text": "The satisfied overlords help you\nrepair your ship",
+    "start": 263.984,
+    "duration": 2.869
+  },
+  {
+    "text": "and you prepare for takeoff.",
+    "start": 266.853,
+    "duration": 2.01
+  },
+  {
+    "text": "Allowed one final question, you ask\nTee if it's a long way to Earth,",
+    "start": 268.863,
+    "duration": 4.61
+  },
+  {
+    "text": "and he answers \"ozo.\"",
+    "start": 273.473,
+    "duration": 2.92
+  },
+  {
+    "text": "Too bad you still don't know \nwhat that means.",
+    "start": 276.393,
+    "duration": 2.89
+  }
+]

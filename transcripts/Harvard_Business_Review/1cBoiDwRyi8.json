@@ -1,0 +1,5557 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.0,
+    "duration": 3.465
+  },
+  {
+    "text": "ADI IGNATIUS: Hi, everybody.",
+    "start": 7.873,
+    "duration": 1.167
+  },
+  {
+    "text": "This is Adi Ignatus, editor\nin chief of Harvard Business",
+    "start": 9.04,
+    "duration": 2.66
+  },
+  {
+    "text": "Review, and welcome to another\nepisode of HBR Quarantined.",
+    "start": 11.7,
+    "duration": 3.9
+  },
+  {
+    "text": "I'm joined by my\nco-host, Joshua Macht,",
+    "start": 15.6,
+    "duration": 2.13
+  },
+  {
+    "text": "who heads product and innovation\nat Harvard Business Publishing.",
+    "start": 17.73,
+    "duration": 3.99
+  },
+  {
+    "text": "This show was created\nseveral weeks ago",
+    "start": 21.72,
+    "duration": 2.34
+  },
+  {
+    "text": "to connect with all of you who\nare still in lockdown, to try",
+    "start": 24.06,
+    "duration": 4.35
+  },
+  {
+    "text": "to give you insight on what's\nhappening in the world of work",
+    "start": 28.41,
+    "duration": 3.03
+  },
+  {
+    "text": "and in business, and\nwith the economy.",
+    "start": 31.44,
+    "duration": 2.76
+  },
+  {
+    "text": "Our special guest today\nis Samantha Power,",
+    "start": 34.2,
+    "duration": 2.91
+  },
+  {
+    "text": "author of a few books, including\nthe Pulitzer Prize winning",
+    "start": 37.11,
+    "duration": 3.71
+  },
+  {
+    "text": "A Problem from Hell, America\nand the Age of Genocide.",
+    "start": 40.82,
+    "duration": 3.34
+  },
+  {
+    "text": "She was the US ambassador\nto the United Nations",
+    "start": 44.16,
+    "duration": 3.0
+  },
+  {
+    "text": "from 2013 to 2017, so we\nwill bring her in a second.",
+    "start": 47.16,
+    "duration": 4.76
+  },
+  {
+    "text": "But before then,\nJosh, I just want",
+    "start": 51.92,
+    "duration": 1.42
+  },
+  {
+    "text": "to talk a little bit about\nwhere we are right now.",
+    "start": 53.34,
+    "duration": 3.07
+  },
+  {
+    "text": "So we're just past Memorial\nDay weekend in the US.",
+    "start": 56.41,
+    "duration": 5.42
+  },
+  {
+    "text": "We saw the pictures of\npeople hitting the beaches.",
+    "start": 61.83,
+    "duration": 3.48
+  },
+  {
+    "text": "This strikes me as\na period of risk.",
+    "start": 65.31,
+    "duration": 2.46
+  },
+  {
+    "text": "The New York metro area,\nwhere a third of the cases",
+    "start": 67.77,
+    "duration": 2.58
+  },
+  {
+    "text": "and a third of the\ndeaths occurred",
+    "start": 70.35,
+    "duration": 2.37
+  },
+  {
+    "text": "seems to have succeeded\nin flattening the curve.",
+    "start": 72.72,
+    "duration": 2.61
+  },
+  {
+    "text": "The rest of the country is\ncontinuing to see cases rise.",
+    "start": 75.33,
+    "duration": 3.15
+  },
+  {
+    "text": "That's true globally, as well.",
+    "start": 78.48,
+    "duration": 1.89
+  },
+  {
+    "text": "But we're going back to work.",
+    "start": 80.37,
+    "duration": 1.35
+  },
+  {
+    "text": "So this is really a reminder to\nmyself as much as anybody else.",
+    "start": 81.72,
+    "duration": 4.45
+  },
+  {
+    "text": "This is a time not to relax.",
+    "start": 86.17,
+    "duration": 1.67
+  },
+  {
+    "text": "We know the workplaces that\nare the most dangerous, those",
+    "start": 91.44,
+    "duration": 2.61
+  },
+  {
+    "text": "with poor ventilation,\nmeatpacking plants, nursing",
+    "start": 94.05,
+    "duration": 2.31
+  },
+  {
+    "text": "homes, prisons.",
+    "start": 96.36,
+    "duration": 1.74
+  },
+  {
+    "text": "We know where the risk is,\nbut the risk is everywhere.",
+    "start": 98.1,
+    "duration": 2.25
+  },
+  {
+    "text": "And we're going to start\ngoing back to work,",
+    "start": 100.35,
+    "duration": 2.257
+  },
+  {
+    "text": "but we're going to\nbe facing the risk.",
+    "start": 102.607,
+    "duration": 1.583
+  },
+  {
+    "text": "And it's important to\nstay vigilant to avoid",
+    "start": 104.19,
+    "duration": 4.16
+  },
+  {
+    "text": "a deadly second wave.",
+    "start": 108.35,
+    "duration": 1.128
+  },
+  {
+    "text": "That's a pretty\nserious way to start.",
+    "start": 109.478,
+    "duration": 1.542
+  },
+  {
+    "text": "But Josh, let me\nkick it over to you.",
+    "start": 111.02,
+    "duration": 1.57
+  },
+  {
+    "text": "What are you thinking right now?",
+    "start": 112.59,
+    "duration": 1.823
+  },
+  {
+    "text": "JOSHUA MACHT: No,\nI mean, I agree.",
+    "start": 114.413,
+    "duration": 1.417
+  },
+  {
+    "text": "And I think we all saw the\npictures of Memorial Day,",
+    "start": 115.83,
+    "duration": 3.99
+  },
+  {
+    "text": "and people on\nbeaches and whatnot.",
+    "start": 119.82,
+    "duration": 1.74
+  },
+  {
+    "text": "And it does give you pause\nbecause we all have--",
+    "start": 121.56,
+    "duration": 5.04
+  },
+  {
+    "text": "there is this fatigue for sure.",
+    "start": 126.6,
+    "duration": 1.59
+  },
+  {
+    "text": "But at the same\ntime, you're going",
+    "start": 128.19,
+    "duration": 1.62
+  },
+  {
+    "text": "to keep reminding yourself\nthat we've got to be vigilant.",
+    "start": 129.81,
+    "duration": 4.41
+  },
+  {
+    "text": "This is a long,\nlong way from over.",
+    "start": 134.22,
+    "duration": 1.973
+  },
+  {
+    "text": "I'll tell you the one thing\nthough that for me, Adi,",
+    "start": 136.193,
+    "duration": 2.167
+  },
+  {
+    "text": "and I'm curious if this\nis the same for you.",
+    "start": 138.36,
+    "duration": 1.84
+  },
+  {
+    "text": "For me, it's like a long\nweekend when you come back.",
+    "start": 140.2,
+    "duration": 2.49
+  },
+  {
+    "text": "It's nice out, and\nyou don't go to work.",
+    "start": 142.69,
+    "duration": 3.57
+  },
+  {
+    "text": "It's just a strange feeling.",
+    "start": 146.26,
+    "duration": 3.02
+  },
+  {
+    "text": "I mean, in some\nways this morning,",
+    "start": 149.28,
+    "duration": 1.62
+  },
+  {
+    "text": "I felt more disconnected\nthan I have in the past.",
+    "start": 150.9,
+    "duration": 2.52
+  },
+  {
+    "text": "Normally after a long\nweekend, people sort of slowly",
+    "start": 156.293,
+    "duration": 2.167
+  },
+  {
+    "text": "trickle in, and you'd\nhave that conversation",
+    "start": 158.46,
+    "duration": 3.06
+  },
+  {
+    "text": "about where people\nhad been, and just",
+    "start": 161.52,
+    "duration": 2.22
+  },
+  {
+    "text": "normal workplace things that\nit's sort of a glaring absence",
+    "start": 163.74,
+    "duration": 4.51
+  },
+  {
+    "text": "right now.",
+    "start": 168.25,
+    "duration": 0.5
+  },
+  {
+    "text": "I don't know if you\nfeel the same way.",
+    "start": 168.75,
+    "duration": 1.95
+  },
+  {
+    "text": "ADI IGNATIUS: Definitely\nfeel the same way.",
+    "start": 170.7,
+    "duration": 1.8
+  },
+  {
+    "text": "We've talked about this before,\nthat it's the transitions.",
+    "start": 172.5,
+    "duration": 3.33
+  },
+  {
+    "text": "The commutes or the clear breaks\nbetween weekend and week day",
+    "start": 175.83,
+    "duration": 4.89
+  },
+  {
+    "text": "that are gone now,\nand that make our life",
+    "start": 180.72,
+    "duration": 2.46
+  },
+  {
+    "text": "seem a little bit groundhog\nday, a little bit repetitive.",
+    "start": 183.18,
+    "duration": 4.675
+  },
+  {
+    "text": "They're just absolutely missing\nthat kind of casual interaction",
+    "start": 187.855,
+    "duration": 2.625
+  },
+  {
+    "text": "in the office is a tough thing.",
+    "start": 190.48,
+    "duration": 3.59
+  },
+  {
+    "text": "Let me remind our\nviewers if you want",
+    "start": 194.07,
+    "duration": 2.13
+  },
+  {
+    "text": "to pose a question\nto Samantha Power,",
+    "start": 196.2,
+    "duration": 2.88
+  },
+  {
+    "text": "put your comments\nin the comment box,",
+    "start": 199.08,
+    "duration": 2.02
+  },
+  {
+    "text": "put a question rather,\nin the comment box.",
+    "start": 201.1,
+    "duration": 2.57
+  },
+  {
+    "text": "Before we bring\nher on, we always",
+    "start": 203.67,
+    "duration": 1.44
+  },
+  {
+    "text": "like to show a TikTok that\ncaptures the zeitgeist.",
+    "start": 205.11,
+    "duration": 2.88
+  },
+  {
+    "text": "So engineer Dave,\nif you could roll",
+    "start": 207.99,
+    "duration": 2.55
+  },
+  {
+    "text": "a TikTok that sums up what it's\nlike on week 11 of lockdown.",
+    "start": 210.54,
+    "duration": 4.962
+  },
+  {
+    "text": "SUBJECT 1: I know,\nand I can't tell",
+    "start": 215.502,
+    "duration": 1.458
+  },
+  {
+    "text": "the difference between\na weekend and a weekday.",
+    "start": 216.96,
+    "duration": 2.49
+  },
+  {
+    "text": "And I barely remember what\nreal pants feel like anymore.",
+    "start": 219.45,
+    "duration": 4.05
+  },
+  {
+    "text": "Right?",
+    "start": 223.5,
+    "duration": 0.5
+  },
+  {
+    "text": "It's crazy.",
+    "start": 224.0,
+    "duration": 2.3
+  },
+  {
+    "text": "It's wild.",
+    "start": 226.3,
+    "duration": 2.21
+  },
+  {
+    "text": "Anyway, did you get my email?",
+    "start": 228.51,
+    "duration": 3.132
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah, so\nwe've all been that guy.",
+    "start": 231.642,
+    "duration": 1.958
+  },
+  {
+    "text": "We've all seen that\nguy, and that's",
+    "start": 233.6,
+    "duration": 1.458
+  },
+  {
+    "text": "sort of what life has been\nlike on this loop for 11",
+    "start": 235.058,
+    "duration": 2.512
+  },
+  {
+    "text": "[INAUDIBLE].",
+    "start": 237.57,
+    "duration": 2.51
+  },
+  {
+    "text": "One thing quickly.",
+    "start": 240.08,
+    "duration": 1.37
+  },
+  {
+    "text": "If you like the show,\nit's free obviously.",
+    "start": 241.45,
+    "duration": 3.59
+  },
+  {
+    "text": "But if you like what we\ndo, feel free to subscribe.",
+    "start": 245.04,
+    "duration": 3.11
+  },
+  {
+    "text": "Go to hbr.org, and you can\nsubscribe to all aspects",
+    "start": 248.15,
+    "duration": 4.05
+  },
+  {
+    "text": "of Harvard Business Review.",
+    "start": 252.2,
+    "duration": 1.285
+  },
+  {
+    "text": "If you're a sponsor,\nand you're looking",
+    "start": 253.485,
+    "duration": 1.625
+  },
+  {
+    "text": "for a really great opportunity\nto get your message across,",
+    "start": 255.11,
+    "duration": 2.46
+  },
+  {
+    "text": "well, you'd be hard pressed\nto do better than this, Josh.",
+    "start": 257.57,
+    "duration": 3.95
+  },
+  {
+    "text": "JOSHUA MACHT: Hell yeah.",
+    "start": 261.52,
+    "duration": 1.0
+  },
+  {
+    "text": "This is your spot.",
+    "start": 262.52,
+    "duration": 1.16
+  },
+  {
+    "text": "This is your chance.",
+    "start": 263.68,
+    "duration": 0.98
+  },
+  {
+    "text": "ADI IGNATIUS: It's true.",
+    "start": 264.66,
+    "duration": 1.37
+  },
+  {
+    "text": "All right, so let's\nbring in Samantha Power.",
+    "start": 266.03,
+    "duration": 2.28
+  },
+  {
+    "text": "As I said, she is the\nauthor of the Pulitzer Prize",
+    "start": 268.31,
+    "duration": 2.79
+  },
+  {
+    "text": "winning book, A Problem\nfrom Hell, America",
+    "start": 271.1,
+    "duration": 2.49
+  },
+  {
+    "text": "and the Age of Genocide.",
+    "start": 273.59,
+    "duration": 1.53
+  },
+  {
+    "text": "And she has a new memoir called\nThe Education of an Idealist.",
+    "start": 275.12,
+    "duration": 3.772
+  },
+  {
+    "text": "She was the US ambassador\nto the United Nations",
+    "start": 278.892,
+    "duration": 1.958
+  },
+  {
+    "text": "from 2013 to 2017, and\nwas involved importantly",
+    "start": 280.85,
+    "duration": 4.17
+  },
+  {
+    "text": "in the global coalition that\nresponded to the Ebola epidemic",
+    "start": 285.02,
+    "duration": 3.81
+  },
+  {
+    "text": "in West Africa six years ago.",
+    "start": 288.83,
+    "duration": 2.31
+  },
+  {
+    "text": "So Samantha, welcome, and\nthank you for being here.",
+    "start": 291.14,
+    "duration": 4.16
+  },
+  {
+    "text": "SAMANTHA POWER:\nGreat to be here.",
+    "start": 295.3,
+    "duration": 2.0
+  },
+  {
+    "text": "ADI IGNATIUS: So why\ndon't we jump in?",
+    "start": 297.3,
+    "duration": 1.583
+  },
+  {
+    "text": "Talk a little bit about how\nare you handling the work life",
+    "start": 298.883,
+    "duration": 4.547
+  },
+  {
+    "text": "balance that everybody watching\nthis is coping with as well.",
+    "start": 303.43,
+    "duration": 5.39
+  },
+  {
+    "text": "SAMANTHA POWER: Like many, in a\ntime of political polarization,",
+    "start": 308.82,
+    "duration": 3.24
+  },
+  {
+    "text": "my own emotions\nare very polarized.",
+    "start": 312.06,
+    "duration": 2.25
+  },
+  {
+    "text": "I feel immensely lucky.",
+    "start": 314.31,
+    "duration": 2.46
+  },
+  {
+    "text": "We had a very serious\nscare in my family.",
+    "start": 316.77,
+    "duration": 3.34
+  },
+  {
+    "text": "It's somebody very close to\nme getting COVID, and having",
+    "start": 320.11,
+    "duration": 4.31
+  },
+  {
+    "text": "a brutal few weeks.",
+    "start": 324.42,
+    "duration": 2.55
+  },
+  {
+    "text": "But he's made it\nout, and is very",
+    "start": 326.97,
+    "duration": 1.92
+  },
+  {
+    "text": "much on the road to recovery we\nhope, although all the science.",
+    "start": 328.89,
+    "duration": 3.45
+  },
+  {
+    "text": "We've never had this\nexperience in our lives",
+    "start": 332.34,
+    "duration": 1.87
+  },
+  {
+    "text": "of [INAUDIBLE]\nscience, hypotheses,",
+    "start": 334.21,
+    "duration": 4.7
+  },
+  {
+    "text": "experimentation playing\nout before us, those",
+    "start": 338.91,
+    "duration": 3.12
+  },
+  {
+    "text": "of us who were not scientists.",
+    "start": 342.03,
+    "duration": 1.63
+  },
+  {
+    "text": "We're the recipients of the\ninherited wisdom of science,",
+    "start": 343.66,
+    "duration": 2.577
+  },
+  {
+    "text": "more often than not.",
+    "start": 346.237,
+    "duration": 0.833
+  },
+  {
+    "text": "And so even on questions\nof immunity and so forth,",
+    "start": 347.07,
+    "duration": 2.56
+  },
+  {
+    "text": "there's a lot of uncertainty.",
+    "start": 349.63,
+    "duration": 1.58
+  },
+  {
+    "text": "So there's that.",
+    "start": 351.21,
+    "duration": 0.78
+  },
+  {
+    "text": "There's the kind of way\nCOVID has snuck up close.",
+    "start": 351.99,
+    "duration": 5.12
+  },
+  {
+    "text": "But then also as one who even\nwrites about it in Education",
+    "start": 357.11,
+    "duration": 3.45
+  },
+  {
+    "text": "of an Idealist all the lost\ntime with my young kids,",
+    "start": 360.56,
+    "duration": 3.76
+  },
+  {
+    "text": "because I was working a\n24/7 national security",
+    "start": 364.32,
+    "duration": 2.91
+  },
+  {
+    "text": "job for the first eight\nyears of my son's life.",
+    "start": 367.23,
+    "duration": 3.6
+  },
+  {
+    "text": "Now I have all this time.",
+    "start": 370.83,
+    "duration": 1.89
+  },
+  {
+    "text": "I've never cooked anything\nmore than a hard boiled egg",
+    "start": 372.72,
+    "duration": 2.25
+  },
+  {
+    "text": "before COVID struck, and now\nI've graduated to aloo gobi,",
+    "start": 374.97,
+    "duration": 5.318
+  },
+  {
+    "text": "although I don't know\nhow good anything is.",
+    "start": 380.288,
+    "duration": 1.792
+  },
+  {
+    "text": "But beggars can't be\nchoosers, and we have",
+    "start": 382.08,
+    "duration": 2.85
+  },
+  {
+    "text": "a household of hungry people.",
+    "start": 384.93,
+    "duration": 3.75
+  },
+  {
+    "text": "I find homeschooling\nexcruciating.",
+    "start": 388.68,
+    "duration": 2.55
+  },
+  {
+    "text": "It's the hardest\nthing I've ever done.",
+    "start": 391.23,
+    "duration": 1.89
+  },
+  {
+    "text": "Negotiating with\nRussia, fighting",
+    "start": 393.12,
+    "duration": 2.31
+  },
+  {
+    "text": "ISIS, [INAUDIBLE]\nEbola epidemic.",
+    "start": 395.43,
+    "duration": 3.54
+  },
+  {
+    "text": "Nothing compares to trying to\nget your children to treat you",
+    "start": 398.97,
+    "duration": 4.98
+  },
+  {
+    "text": "with the authority that you\nfeel that your parental status",
+    "start": 403.95,
+    "duration": 3.69
+  },
+  {
+    "text": "entitles you to.",
+    "start": 407.64,
+    "duration": 1.5
+  },
+  {
+    "text": "So like many, I have\na whole new admiration",
+    "start": 409.14,
+    "duration": 4.71
+  },
+  {
+    "text": "for what teachers are doing\neveryday behind the scenes,",
+    "start": 413.85,
+    "duration": 3.27
+  },
+  {
+    "text": "and I say several Hail\nMarys a day for summer camp,",
+    "start": 417.12,
+    "duration": 3.57
+  },
+  {
+    "text": "desperate for summer camp.",
+    "start": 420.69,
+    "duration": 1.89
+  },
+  {
+    "text": "But right now, we have the sort\nof worst of all worlds again.",
+    "start": 422.58,
+    "duration": 3.897
+  },
+  {
+    "text": "Feeling blessed, but\nthe worst of all worlds",
+    "start": 426.477,
+    "duration": 1.833
+  },
+  {
+    "text": "in terms of kids and\nschool, because they're",
+    "start": 428.31,
+    "duration": 2.67
+  },
+  {
+    "text": "in that stir crazy\ntime of year anyway.",
+    "start": 430.98,
+    "duration": 2.97
+  },
+  {
+    "text": "My kids are 10 and 7.",
+    "start": 433.95,
+    "duration": 2.75
+  },
+  {
+    "text": "And so they'd be climbing the\nwalls under any circumstances.",
+    "start": 436.7,
+    "duration": 4.01
+  },
+  {
+    "text": "But if they're\nclimbing the walls,",
+    "start": 440.71,
+    "duration": 2.07
+  },
+  {
+    "text": "and we're doing so even\nbefore it became silly season,",
+    "start": 442.78,
+    "duration": 3.23
+  },
+  {
+    "text": "and you're the one tasked\nwith homeschooling.",
+    "start": 446.01,
+    "duration": 3.3
+  },
+  {
+    "text": "You take refuge in\nsessions like this one,",
+    "start": 449.31,
+    "duration": 2.67
+  },
+  {
+    "text": "where you're not actually\ntrying to get them to follow",
+    "start": 451.98,
+    "duration": 3.6
+  },
+  {
+    "text": "the schedule for the day.",
+    "start": 455.58,
+    "duration": 1.23
+  },
+  {
+    "text": "I stopped printing the\nschedules out a long time ago.",
+    "start": 456.81,
+    "duration": 3.09
+  },
+  {
+    "text": "The standards have\nbecome very, very lax.",
+    "start": 459.9,
+    "duration": 2.07
+  },
+  {
+    "text": "But the number of\nHail Marys is going up",
+    "start": 461.97,
+    "duration": 2.46
+  },
+  {
+    "text": "as we get closer and\ncloser to the decision day",
+    "start": 464.43,
+    "duration": 2.83
+  },
+  {
+    "text": "for camp, which hasn't come\nyet here in Massachusetts.",
+    "start": 467.26,
+    "duration": 4.448
+  },
+  {
+    "text": "ADI IGNATIUS: If this\nproviding you with a break,",
+    "start": 471.708,
+    "duration": 2.042
+  },
+  {
+    "text": "we can keep you on the\nair for 10, 12 hours.",
+    "start": 473.75,
+    "duration": 3.172
+  },
+  {
+    "text": "It used to be a\nsix hour session.",
+    "start": 476.922,
+    "duration": 2.958
+  },
+  {
+    "text": "There are worse things.",
+    "start": 479.88,
+    "duration": 2.74
+  },
+  {
+    "text": "JOSHUA MACHT: So camp\nwas a big deal for me,",
+    "start": 482.62,
+    "duration": 2.21
+  },
+  {
+    "text": "and my kids went through it.",
+    "start": 484.83,
+    "duration": 2.71
+  },
+  {
+    "text": "They're teenagers now and older.",
+    "start": 487.54,
+    "duration": 1.46
+  },
+  {
+    "text": "This year with my co-workers\nwho have kids of that age",
+    "start": 491.52,
+    "duration": 3.57
+  },
+  {
+    "text": "with thinking about camp.",
+    "start": 495.09,
+    "duration": 1.41
+  },
+  {
+    "text": "I mean, are you just like\nOK, this has got to happen.",
+    "start": 496.5,
+    "duration": 4.05
+  },
+  {
+    "text": "Some camp has to happen.",
+    "start": 500.55,
+    "duration": 1.11
+  },
+  {
+    "text": "Or are you actually thinking\nall right, what would I do.",
+    "start": 501.66,
+    "duration": 4.287
+  },
+  {
+    "text": "SAMANTHA POWER: No I mean,\nI'm still in the prayer mode.",
+    "start": 505.947,
+    "duration": 2.333
+  },
+  {
+    "text": "So I'm desperate\nfor something that",
+    "start": 508.28,
+    "duration": 4.71
+  },
+  {
+    "text": "will allow them to socialize.",
+    "start": 512.99,
+    "duration": 2.79
+  },
+  {
+    "text": "I mean, they've\nhad no play dates",
+    "start": 515.78,
+    "duration": 2.61
+  },
+  {
+    "text": "to speak of for three months.",
+    "start": 518.39,
+    "duration": 1.95
+  },
+  {
+    "text": "We go on bike rides occasionally\nwhere we're all masked",
+    "start": 520.34,
+    "duration": 2.495
+  },
+  {
+    "text": "and they meet their friends,\nand then their friends",
+    "start": 522.835,
+    "duration": 2.125
+  },
+  {
+    "text": "are six feet ahead.",
+    "start": 524.96,
+    "duration": 2.17
+  },
+  {
+    "text": "But I think what camp offers.",
+    "start": 527.13,
+    "duration": 3.83
+  },
+  {
+    "text": "There is a maturing that goes\non through socialization.",
+    "start": 530.96,
+    "duration": 5.43
+  },
+  {
+    "text": "There is the absence of the\nneed for parental authority",
+    "start": 536.39,
+    "duration": 4.11
+  },
+  {
+    "text": "as well, which is a big factor.",
+    "start": 540.5,
+    "duration": 1.41
+  },
+  {
+    "text": "And for me, just wanting them\nto be doing something else other",
+    "start": 541.91,
+    "duration": 4.14
+  },
+  {
+    "text": "than saying to me, what's\nfor breakfast, what's",
+    "start": 546.05,
+    "duration": 2.31
+  },
+  {
+    "text": "for lunch, what's for dinner,\nand then fighting about school",
+    "start": 548.36,
+    "duration": 3.03
+  },
+  {
+    "text": "assignments.",
+    "start": 551.39,
+    "duration": 2.09
+  },
+  {
+    "text": "But I really think there's just\nsuch value in group dynamics,",
+    "start": 553.48,
+    "duration": 5.26
+  },
+  {
+    "text": "group settings.",
+    "start": 558.74,
+    "duration": 2.6
+  },
+  {
+    "text": "There is a reason--",
+    "start": 561.34,
+    "duration": 1.48
+  },
+  {
+    "text": "other than many of us working--",
+    "start": 562.82,
+    "duration": 3.08
+  },
+  {
+    "text": "that we don't\nhomeschool our kids.",
+    "start": 565.9,
+    "duration": 1.86
+  },
+  {
+    "text": "There's something\nin the learning",
+    "start": 567.76,
+    "duration": 1.54
+  },
+  {
+    "text": "process about cohabitating,\nand being with other kids.",
+    "start": 569.3,
+    "duration": 4.23
+  },
+  {
+    "text": "I'm just hoping for day camps.",
+    "start": 573.53,
+    "duration": 1.89
+  },
+  {
+    "text": "I've given up on\novernight camps.",
+    "start": 575.42,
+    "duration": 2.67
+  },
+  {
+    "text": "But also just to\nlet some energy out.",
+    "start": 578.09,
+    "duration": 3.985
+  },
+  {
+    "text": "Parents are trying to get\ntheir kids to go for long walks",
+    "start": 582.075,
+    "duration": 2.375
+  },
+  {
+    "text": "with them.",
+    "start": 584.45,
+    "duration": 0.38
+  },
+  {
+    "text": "That's one way to\nexpend energy, but it's",
+    "start": 584.83,
+    "duration": 1.75
+  },
+  {
+    "text": "nothing like hitting a tennis\nball, or kicking a soccer ball,",
+    "start": 586.58,
+    "duration": 4.2
+  },
+  {
+    "text": "or swimming in a pond.",
+    "start": 590.78,
+    "duration": 2.19
+  },
+  {
+    "text": "So again, these are\nhigh class problems",
+    "start": 592.97,
+    "duration": 2.16
+  },
+  {
+    "text": "compared to what so many\nfamilies are going through.",
+    "start": 595.13,
+    "duration": 2.43
+  },
+  {
+    "text": "But this balance and this effort\nto hold it together I know",
+    "start": 597.56,
+    "duration": 3.78
+  },
+  {
+    "text": "is something that is defining\nparental life for so many",
+    "start": 601.34,
+    "duration": 4.35
+  },
+  {
+    "text": "right now.",
+    "start": 605.69,
+    "duration": 0.5
+  },
+  {
+    "text": "ADI IGNATIUS: We're\ngoing to get you back",
+    "start": 606.19,
+    "duration": 1.708
+  },
+  {
+    "text": "to the easy stuff, global\ninternational relations.",
+    "start": 607.898,
+    "duration": 2.412
+  },
+  {
+    "text": "COVID-19 has just brought\nout, I don't know.",
+    "start": 614.15,
+    "duration": 4.212
+  },
+  {
+    "text": "I was going to say\nthe worst in us.",
+    "start": 618.362,
+    "duration": 1.458
+  },
+  {
+    "text": "But it certainly\nbrought out the worst",
+    "start": 619.82,
+    "duration": 1.77
+  },
+  {
+    "text": "in terms of global\ncooperation on things",
+    "start": 621.59,
+    "duration": 2.49
+  },
+  {
+    "text": "where most people would like\nto see more rather than less.",
+    "start": 624.08,
+    "duration": 4.34
+  },
+  {
+    "text": "There are times when I think\nthere's a new world order",
+    "start": 628.42,
+    "duration": 2.35
+  },
+  {
+    "text": "setting in which xenophobia\nstaked in part by fears",
+    "start": 630.77,
+    "duration": 4.47
+  },
+  {
+    "text": "of contagion, and\nthe interaction",
+    "start": 635.24,
+    "duration": 4.11
+  },
+  {
+    "text": "will continue to rise.",
+    "start": 639.35,
+    "duration": 1.05
+  },
+  {
+    "text": "And that the new world\norder is something",
+    "start": 640.4,
+    "duration": 1.83
+  },
+  {
+    "text": "a lot less interactive\nthan what we've seen.",
+    "start": 642.23,
+    "duration": 3.3
+  },
+  {
+    "text": "Does that feel inevitable\nto you, as well?",
+    "start": 645.53,
+    "duration": 3.33
+  },
+  {
+    "text": "SAMANTHA POWER: Nothing\never seems inevitable to me,",
+    "start": 648.86,
+    "duration": 3.03
+  },
+  {
+    "text": "just having seen the zigs\nand zags of recent decades,",
+    "start": 651.89,
+    "duration": 4.2
+  },
+  {
+    "text": "and even in certain parts of\nthe world, in recent months.",
+    "start": 656.09,
+    "duration": 5.34
+  },
+  {
+    "text": "This is the classic almost\nparadigmatic science fiction",
+    "start": 661.43,
+    "duration": 4.86
+  },
+  {
+    "text": "case, where the\nalien invader comes",
+    "start": 666.29,
+    "duration": 2.7
+  },
+  {
+    "text": "and Ronald Reagan even\nin a speech of the nature",
+    "start": 668.99,
+    "duration": 3.39
+  },
+  {
+    "text": "before the General\nAssembly factor in the Cold",
+    "start": 672.38,
+    "duration": 1.95
+  },
+  {
+    "text": "War for the UN General\nAssembly saying,",
+    "start": 674.33,
+    "duration": 2.22
+  },
+  {
+    "text": "sometimes you almost\nwish the aliens",
+    "start": 676.55,
+    "duration": 1.86
+  },
+  {
+    "text": "would come so as to forge\nthat kind of cooperation.",
+    "start": 678.41,
+    "duration": 2.37
+  },
+  {
+    "text": "This is the moment.",
+    "start": 680.78,
+    "duration": 1.0
+  },
+  {
+    "text": "We have so much to\nlearn from one another.",
+    "start": 681.78,
+    "duration": 3.21
+  },
+  {
+    "text": "The standard spread\nof the disease",
+    "start": 684.99,
+    "duration": 2.0
+  },
+  {
+    "text": "makes such learning\nlife and death, even.",
+    "start": 686.99,
+    "duration": 4.59
+  },
+  {
+    "text": "If we had looked ahead to\nwhat China was going through,",
+    "start": 691.58,
+    "duration": 2.497
+  },
+  {
+    "text": "what Italy was going\nthrough, we could",
+    "start": 694.077,
+    "duration": 1.583
+  },
+  {
+    "text": "have been better\nprepared ourselves",
+    "start": 695.66,
+    "duration": 1.458
+  },
+  {
+    "text": "here in the United States.",
+    "start": 697.118,
+    "duration": 1.702
+  },
+  {
+    "text": "The need to pool our\nresources in order",
+    "start": 698.82,
+    "duration": 2.69
+  },
+  {
+    "text": "to aid those in\ndeveloping countries",
+    "start": 701.51,
+    "duration": 2.25
+  },
+  {
+    "text": "who don't have anywhere near\nthe infrastructure that we have,",
+    "start": 703.76,
+    "duration": 4.23
+  },
+  {
+    "text": "not even clean running\nwater in the household,",
+    "start": 707.99,
+    "duration": 3.48
+  },
+  {
+    "text": "overcrowded conditions that\ngo well beyond anything, even",
+    "start": 711.47,
+    "duration": 3.24
+  },
+  {
+    "text": "in very crowded communities\nin this country.",
+    "start": 714.71,
+    "duration": 3.57
+  },
+  {
+    "text": "So we are connected to\nthose countries in the sense",
+    "start": 718.28,
+    "duration": 3.9
+  },
+  {
+    "text": "that our supply\nchains might extend",
+    "start": 722.18,
+    "duration": 2.19
+  },
+  {
+    "text": "into a place like Bangladesh,\nor our family ties certainly",
+    "start": 724.37,
+    "duration": 3.15
+  },
+  {
+    "text": "extend into India,\nNigeria, Somalia.",
+    "start": 727.52,
+    "duration": 3.06
+  },
+  {
+    "text": "There is no wishing away\nthe last couple 100 years",
+    "start": 730.58,
+    "duration": 3.15
+  },
+  {
+    "text": "of civilization's development\nand interconnecting.",
+    "start": 733.73,
+    "duration": 3.88
+  },
+  {
+    "text": "And yet, we are acting\nas if we can go it alone.",
+    "start": 737.61,
+    "duration": 3.93
+  },
+  {
+    "text": "And in the case of the\nUnited States government,",
+    "start": 741.54,
+    "duration": 2.0
+  },
+  {
+    "text": "really not seeing our future as\nlinked to the fates of people",
+    "start": 743.54,
+    "duration": 4.41
+  },
+  {
+    "text": "living elsewhere, even\nthough our economy almost",
+    "start": 747.95,
+    "duration": 3.21
+  },
+  {
+    "text": "by definition cannot return to\nnormalcy the degree that it can",
+    "start": 751.16,
+    "duration": 4.29
+  },
+  {
+    "text": "ever.",
+    "start": 755.45,
+    "duration": 1.06
+  },
+  {
+    "text": "It can't return if the\nmarkets for our products",
+    "start": 756.51,
+    "duration": 2.81
+  },
+  {
+    "text": "are themselves shuttered\nin the parts of the world,",
+    "start": 759.32,
+    "duration": 3.15
+  },
+  {
+    "text": "or if travel is shut off\nto places that are, again,",
+    "start": 762.47,
+    "duration": 4.08
+  },
+  {
+    "text": "critical parts of the\nvirtual assembly line",
+    "start": 766.55,
+    "duration": 3.99
+  },
+  {
+    "text": "that exists around the world.",
+    "start": 770.54,
+    "duration": 2.28
+  },
+  {
+    "text": "So to your question, I\nmean, xenophobia will go up.",
+    "start": 772.82,
+    "duration": 3.37
+  },
+  {
+    "text": "And it has spiked\nin different places.",
+    "start": 776.19,
+    "duration": 1.88
+  },
+  {
+    "text": "A lot of it depends\non leadership.",
+    "start": 778.07,
+    "duration": 1.66
+  },
+  {
+    "text": "So what you see in\na lot of countries",
+    "start": 779.73,
+    "duration": 2.81
+  },
+  {
+    "text": "is that the\npredisposition of a leader",
+    "start": 782.54,
+    "duration": 2.64
+  },
+  {
+    "text": "prior to the onset\nof COVID tells you",
+    "start": 785.18,
+    "duration": 1.95
+  },
+  {
+    "text": "a lot about the extent to\nwhich that leader is preaching",
+    "start": 787.13,
+    "duration": 3.51
+  },
+  {
+    "text": "regional and global cooperation\nand solidarity right now,",
+    "start": 790.64,
+    "duration": 3.27
+  },
+  {
+    "text": "or looking to find\nscapegoats, usually",
+    "start": 793.91,
+    "duration": 2.88
+  },
+  {
+    "text": "for one's own mishandling\nof the pandemic.",
+    "start": 796.79,
+    "duration": 3.42
+  },
+  {
+    "text": "And so that's where,\nagain, I don't succumb",
+    "start": 800.21,
+    "duration": 2.64
+  },
+  {
+    "text": "to theories of inevitability.",
+    "start": 802.85,
+    "duration": 2.31
+  },
+  {
+    "text": "It's about human agency.",
+    "start": 805.16,
+    "duration": 1.44
+  },
+  {
+    "text": "I think what gets challenging\nin a period like this where",
+    "start": 806.6,
+    "duration": 3.48
+  },
+  {
+    "text": "already 52 countries\nhave postponed",
+    "start": 810.08,
+    "duration": 2.16
+  },
+  {
+    "text": "elections, or\ncanceled elections,",
+    "start": 812.24,
+    "duration": 2.43
+  },
+  {
+    "text": "is how does dissent\nget expressed.",
+    "start": 814.67,
+    "duration": 3.42
+  },
+  {
+    "text": "When somebody is using their\npulpit to blame the other,",
+    "start": 818.09,
+    "duration": 3.72
+  },
+  {
+    "text": "to blame the foreigner,\nto blame the minority,",
+    "start": 821.81,
+    "duration": 2.13
+  },
+  {
+    "text": "to blame whatever\nform it may be taking",
+    "start": 823.94,
+    "duration": 3.6
+  },
+  {
+    "text": "with everybody else\nconfined and experimenting",
+    "start": 827.54,
+    "duration": 4.62
+  },
+  {
+    "text": "in online organizing.",
+    "start": 832.16,
+    "duration": 3.39
+  },
+  {
+    "text": "But how do the kinds of\nprotests that have taken",
+    "start": 835.55,
+    "duration": 2.64
+  },
+  {
+    "text": "hold over the last two\nyears, many of which",
+    "start": 838.19,
+    "duration": 2.19
+  },
+  {
+    "text": "had deleterious\neconomic effects,",
+    "start": 840.38,
+    "duration": 1.89
+  },
+  {
+    "text": "but nonetheless\nwere an expression",
+    "start": 842.27,
+    "duration": 2.13
+  },
+  {
+    "text": "of a lot of discontent with\nincumbents around the world.",
+    "start": 844.4,
+    "duration": 3.78
+  },
+  {
+    "text": "Where does that go?",
+    "start": 848.18,
+    "duration": 0.81
+  },
+  {
+    "text": "Where does that energy go?",
+    "start": 848.99,
+    "duration": 1.89
+  },
+  {
+    "text": "And to what degree will\nadvanced democracies",
+    "start": 850.88,
+    "duration": 4.47
+  },
+  {
+    "text": "that manage to get past the\nworst of the pandemic start",
+    "start": 855.35,
+    "duration": 3.36
+  },
+  {
+    "text": "to use their voices, their\npressure tactics to pay",
+    "start": 858.71,
+    "duration": 3.45
+  },
+  {
+    "text": "attention to what someone\nin Hungary or Poland",
+    "start": 862.16,
+    "duration": 3.0
+  },
+  {
+    "text": "may be doing to take\nadvantage of a crisis",
+    "start": 865.16,
+    "duration": 2.82
+  },
+  {
+    "text": "to extend their powers.",
+    "start": 867.98,
+    "duration": 1.74
+  },
+  {
+    "text": "And again, to use that pulpit in\na way that divides rather than",
+    "start": 869.72,
+    "duration": 4.05
+  },
+  {
+    "text": "unites citizens.",
+    "start": 873.77,
+    "duration": 1.41
+  },
+  {
+    "text": "But there are lots of\nexamples now of the countries",
+    "start": 875.18,
+    "duration": 3.51
+  },
+  {
+    "text": "that have been extremely\nsuccessful in managing",
+    "start": 878.69,
+    "duration": 3.36
+  },
+  {
+    "text": "both the economic and the\nhealth effects of the pandemic.",
+    "start": 882.05,
+    "duration": 2.43
+  },
+  {
+    "text": "They're doing so by\nbringing people together,",
+    "start": 884.48,
+    "duration": 2.52
+  },
+  {
+    "text": "and by embracing\nnarratives of solidarity.",
+    "start": 887.0,
+    "duration": 3.75
+  },
+  {
+    "text": "And that they [INAUDIBLE]\nto contain their problems,",
+    "start": 890.75,
+    "duration": 3.0
+  },
+  {
+    "text": "it's nice to see\nthem getting also",
+    "start": 893.75,
+    "duration": 1.51
+  },
+  {
+    "text": "to step up within\ninternational institutions,",
+    "start": 895.26,
+    "duration": 3.26
+  },
+  {
+    "text": "and feel as that they have\nsomething to offer on behalf",
+    "start": 898.52,
+    "duration": 2.76
+  },
+  {
+    "text": "of those who haven't yet\nbeen walloped in the way",
+    "start": 901.28,
+    "duration": 2.16
+  },
+  {
+    "text": "that they soon will.",
+    "start": 903.44,
+    "duration": 3.498
+  },
+  {
+    "text": "JOSHUA MACHT: I\nmean, in our country,",
+    "start": 906.938,
+    "duration": 1.542
+  },
+  {
+    "text": "I feel like we're just\nso fragmented right",
+    "start": 908.48,
+    "duration": 2.55
+  },
+  {
+    "text": "here in our response.",
+    "start": 911.03,
+    "duration": 1.77
+  },
+  {
+    "text": "Thinking about what you did\nwith the Obama administration",
+    "start": 912.8,
+    "duration": 4.86
+  },
+  {
+    "text": "when there was the\nEbola outbreak,",
+    "start": 917.66,
+    "duration": 2.43
+  },
+  {
+    "text": "and reading more about how\ncountries came together",
+    "start": 920.09,
+    "duration": 3.24
+  },
+  {
+    "text": "and what we did to lead that.",
+    "start": 923.33,
+    "duration": 1.61
+  },
+  {
+    "text": "To help us to understand first\nof all, some of the parallels",
+    "start": 927.55,
+    "duration": 2.5
+  },
+  {
+    "text": "to that situation, or maybe some\nof the ways that it's part--",
+    "start": 930.05,
+    "duration": 2.91
+  },
+  {
+    "text": "what we're seeing now\ndeparts from that.",
+    "start": 932.96,
+    "duration": 1.782
+  },
+  {
+    "text": "And it just doesn't\nfeel like we're",
+    "start": 934.742,
+    "duration": 1.458
+  },
+  {
+    "text": "taking those lessons\nforward, and what's",
+    "start": 936.2,
+    "duration": 1.92
+  },
+  {
+    "text": "stopping us from really\ncoming together in the ways",
+    "start": 938.12,
+    "duration": 2.34
+  },
+  {
+    "text": "that you're talking about?",
+    "start": 940.46,
+    "duration": 1.598
+  },
+  {
+    "text": "SAMANTHA POWER: Well,\nthank you for asking.",
+    "start": 942.058,
+    "duration": 1.792
+  },
+  {
+    "text": "I mean, the Ebola case\nis, of course, different,",
+    "start": 943.85,
+    "duration": 2.73
+  },
+  {
+    "text": "especially if we start\nthe clock right now",
+    "start": 946.58,
+    "duration": 1.98
+  },
+  {
+    "text": "where the COVID has spread\nto every country on earth",
+    "start": 948.56,
+    "duration": 4.44
+  },
+  {
+    "text": "practically, and where you\nhave millions of infections.",
+    "start": 953.0,
+    "duration": 4.74
+  },
+  {
+    "text": "Ebola started confined in\nWest Africa, Liberia, Guinea,",
+    "start": 957.74,
+    "duration": 4.38
+  },
+  {
+    "text": "and Sierra Leone back in 2014.",
+    "start": 962.12,
+    "duration": 3.68
+  },
+  {
+    "text": "The worst Ebola outbreak\nthat the world had ever seen,",
+    "start": 965.8,
+    "duration": 5.29
+  },
+  {
+    "text": "and the projections that we\ngot in the situation room",
+    "start": 971.09,
+    "duration": 3.66
+  },
+  {
+    "text": "were that 1.4\nmillion people will",
+    "start": 974.75,
+    "duration": 2.85
+  },
+  {
+    "text": "be infected, even just in the\nregion within four or five",
+    "start": 977.6,
+    "duration": 3.51
+  },
+  {
+    "text": "months.",
+    "start": 981.11,
+    "duration": 0.6
+  },
+  {
+    "text": "And so we saw a slide that looks\na lot like the kind of curves",
+    "start": 981.71,
+    "duration": 4.11
+  },
+  {
+    "text": "we saw and continue to see in\ndifferent countries showing",
+    "start": 985.82,
+    "duration": 3.69
+  },
+  {
+    "text": "that spike, and with the CDC\npleading to President Obama",
+    "start": 989.51,
+    "duration": 3.9
+  },
+  {
+    "text": "that we take a set of actions in\norder to try to bend the curve,",
+    "start": 993.41,
+    "duration": 5.1
+  },
+  {
+    "text": "flatten the curve, and then\neventually eliminate the curve.",
+    "start": 998.51,
+    "duration": 2.94
+  },
+  {
+    "text": "And President Obama didn't\nneed to be convinced.",
+    "start": 1001.45,
+    "duration": 3.24
+  },
+  {
+    "text": "He recognized that the only\nway international institutions",
+    "start": 1004.69,
+    "duration": 2.7
+  },
+  {
+    "text": "work-- and this is\nvery much true today--",
+    "start": 1007.39,
+    "duration": 2.49
+  },
+  {
+    "text": "is if there is a catalytic\nleading actor, a first mover.",
+    "start": 1009.88,
+    "duration": 5.13
+  },
+  {
+    "text": "And he recognized just as every\nother president has recognized",
+    "start": 1015.01,
+    "duration": 3.21
+  },
+  {
+    "text": "for the last seven\ndecades that by and large,",
+    "start": 1018.22,
+    "duration": 2.13
+  },
+  {
+    "text": "if it isn't the United\nStates, it isn't anybody.",
+    "start": 1020.35,
+    "duration": 3.81
+  },
+  {
+    "text": "And so what President\nObama decided to do--",
+    "start": 1024.16,
+    "duration": 2.22
+  },
+  {
+    "text": "despite the fact that even\nDemocrats in his own party were",
+    "start": 1026.38,
+    "duration": 2.489
+  },
+  {
+    "text": "very skeptical of his approach--",
+    "start": 1028.869,
+    "duration": 2.371
+  },
+  {
+    "text": "was to send 3,000 troops\nand health workers",
+    "start": 1031.24,
+    "duration": 2.79
+  },
+  {
+    "text": "into the eye of the\nstorm, into West Africa.",
+    "start": 1034.03,
+    "duration": 3.03
+  },
+  {
+    "text": "Donald Trump was then a reality\nTV show host, of course,",
+    "start": 1037.06,
+    "duration": 3.24
+  },
+  {
+    "text": "but he would actually really\ncame to the fore politically",
+    "start": 1040.3,
+    "duration": 3.539
+  },
+  {
+    "text": "in part because of\nthe tweets that he--",
+    "start": 1043.839,
+    "duration": 5.143
+  },
+  {
+    "text": "I don't want to repeat the\nword tweeted, but admitted",
+    "start": 1048.982,
+    "duration": 2.208
+  },
+  {
+    "text": "the tweets that he put forth\nin the midst of this epidemic.",
+    "start": 1051.19,
+    "duration": 3.88
+  },
+  {
+    "text": "And they got huge\ntraction, not only on Fox,",
+    "start": 1055.07,
+    "duration": 2.03
+  },
+  {
+    "text": "but they actually broke\nthrough into the mainstream",
+    "start": 1057.1,
+    "duration": 3.28
+  },
+  {
+    "text": "and outside of right\nwing media sites.",
+    "start": 1060.38,
+    "duration": 4.04
+  },
+  {
+    "text": "This began to spook, again,\neven Democratic governors",
+    "start": 1064.42,
+    "duration": 3.96
+  },
+  {
+    "text": "and Democratic politicians.",
+    "start": 1068.38,
+    "duration": 1.89
+  },
+  {
+    "text": "And there was a fear that\nif you go there to help,",
+    "start": 1070.27,
+    "duration": 3.12
+  },
+  {
+    "text": "you'll end up bringing\nit here much more",
+    "start": 1073.39,
+    "duration": 2.28
+  },
+  {
+    "text": "than would otherwise\nbe the case.",
+    "start": 1075.67,
+    "duration": 1.4
+  },
+  {
+    "text": "We already had an\nisolated case of somebody",
+    "start": 1077.07,
+    "duration": 2.89
+  },
+  {
+    "text": "who'd come from Liberia.",
+    "start": 1079.96,
+    "duration": 1.53
+  },
+  {
+    "text": "So the appeals were\nto close the borders.",
+    "start": 1081.49,
+    "duration": 2.43
+  },
+  {
+    "text": "In that instance, that\nwas the wrong approach.",
+    "start": 1083.92,
+    "duration": 3.09
+  },
+  {
+    "text": "The public health experts in our\nown government made that clear.",
+    "start": 1087.01,
+    "duration": 3.11
+  },
+  {
+    "text": "Obviously in the COVID case,\nit was the right approach.",
+    "start": 1090.12,
+    "duration": 3.33
+  },
+  {
+    "text": "It's a cost benefit\nin every instance.",
+    "start": 1093.45,
+    "duration": 2.122
+  },
+  {
+    "text": "But what was the\nright approach was",
+    "start": 1095.572,
+    "duration": 1.458
+  },
+  {
+    "text": "to go into the\nheart of the storm",
+    "start": 1097.03,
+    "duration": 2.49
+  },
+  {
+    "text": "and then use what you're doing\nto leverage other countries",
+    "start": 1099.52,
+    "duration": 4.41
+  },
+  {
+    "text": "to do far more.",
+    "start": 1103.93,
+    "duration": 0.87
+  },
+  {
+    "text": "So we took leadership\non Liberia.",
+    "start": 1104.8,
+    "duration": 1.59
+  },
+  {
+    "text": "We went to the British and said,\nwill you take Sierra Leone.",
+    "start": 1106.39,
+    "duration": 2.5
+  },
+  {
+    "text": "The British said, we got this.",
+    "start": 1108.89,
+    "duration": 1.53
+  },
+  {
+    "text": "We're just running point backing\nthe people of Sierra Leone",
+    "start": 1110.42,
+    "duration": 2.99
+  },
+  {
+    "text": "we're doing the real work.",
+    "start": 1113.41,
+    "duration": 1.48
+  },
+  {
+    "text": "The French took\nleadership in Guinea.",
+    "start": 1114.89,
+    "duration": 1.558
+  },
+  {
+    "text": "We went to China\nand said, OK, you're",
+    "start": 1116.448,
+    "duration": 1.542
+  },
+  {
+    "text": "ready to be part\nof a so-called P2.",
+    "start": 1117.99,
+    "duration": 2.567
+  },
+  {
+    "text": "How many Ebola\ntreatment units are you",
+    "start": 1120.557,
+    "duration": 1.583
+  },
+  {
+    "text": "going to build in\nthese three countries?",
+    "start": 1122.14,
+    "duration": 2.01
+  },
+  {
+    "text": "How many labs are\nyou going to set up?",
+    "start": 1124.15,
+    "duration": 1.65
+  },
+  {
+    "text": "This is the number\nthat we're setting up.",
+    "start": 1125.8,
+    "duration": 1.86
+  },
+  {
+    "text": "The Malaysians contributed\ntens of thousands",
+    "start": 1127.66,
+    "duration": 1.867
+  },
+  {
+    "text": "of [INAUDIBLE] of rubber gloves.",
+    "start": 1129.527,
+    "duration": 1.333
+  },
+  {
+    "text": "The Cubans, more\nhealth workers and docs",
+    "start": 1130.86,
+    "duration": 3.55
+  },
+  {
+    "text": "per capita than any other\ncountry contributing",
+    "start": 1134.41,
+    "duration": 2.1
+  },
+  {
+    "text": "to the coalition.",
+    "start": 1136.51,
+    "duration": 1.32
+  },
+  {
+    "text": "So this is how\ncoalitions are built.",
+    "start": 1137.83,
+    "duration": 1.5
+  },
+  {
+    "text": "There's a temptation to say\nwhy doesn't the UN just snap",
+    "start": 1139.33,
+    "duration": 2.998
+  },
+  {
+    "text": "its fingers and make it happen.",
+    "start": 1142.328,
+    "duration": 1.292
+  },
+  {
+    "text": "Well, the UN is a building\ncomprised of countries",
+    "start": 1143.62,
+    "duration": 3.36
+  },
+  {
+    "text": "that are run by governments.",
+    "start": 1146.98,
+    "duration": 1.83
+  },
+  {
+    "text": "And like any collective\naction problem--",
+    "start": 1148.81,
+    "duration": 2.19
+  },
+  {
+    "text": "and we see this in our\nbusiness world often--",
+    "start": 1151.0,
+    "duration": 2.76
+  },
+  {
+    "text": "in any group setting, it\nrequires a first mover.",
+    "start": 1153.76,
+    "duration": 3.7
+  },
+  {
+    "text": "And the problem for the first\ncouple months of this pandemic",
+    "start": 1157.46,
+    "duration": 4.91
+  },
+  {
+    "text": "is that the first\nmover was China.",
+    "start": 1162.37,
+    "duration": 2.31
+  },
+  {
+    "text": "China, first of course,\ncovering up what it was doing,",
+    "start": 1164.68,
+    "duration": 3.0
+  },
+  {
+    "text": "providing bad information.",
+    "start": 1167.68,
+    "duration": 2.16
+  },
+  {
+    "text": "Then as a first mover,\nit began to first move",
+    "start": 1169.84,
+    "duration": 3.18
+  },
+  {
+    "text": "outside of\ninternational settings,",
+    "start": 1173.02,
+    "duration": 1.68
+  },
+  {
+    "text": "so providing\nbilateral assistance.",
+    "start": 1174.7,
+    "duration": 2.37
+  },
+  {
+    "text": "Not leveraging what it was doing\nto get other countries to chip",
+    "start": 1177.07,
+    "duration": 2.88
+  },
+  {
+    "text": "in.",
+    "start": 1179.95,
+    "duration": 0.71
+  },
+  {
+    "text": "The United States\nretreated altogether.",
+    "start": 1180.66,
+    "duration": 1.66
+  },
+  {
+    "text": "It had already pulled\nback significantly.",
+    "start": 1182.32,
+    "duration": 1.93
+  },
+  {
+    "text": "So we weren't there in\nthe way that we have been",
+    "start": 1184.25,
+    "duration": 2.06
+  },
+  {
+    "text": "for every other major crisis.",
+    "start": 1186.31,
+    "duration": 2.13
+  },
+  {
+    "text": "And now, just in the\nlast couple of weeks,",
+    "start": 1188.44,
+    "duration": 2.52
+  },
+  {
+    "text": "China has begun to\nshift to try to lead",
+    "start": 1190.96,
+    "duration": 2.423
+  },
+  {
+    "text": "within international\ninstitutions.",
+    "start": 1193.383,
+    "duration": 1.417
+  },
+  {
+    "text": "Seeing an opening\nto spread its wings",
+    "start": 1194.8,
+    "duration": 2.79
+  },
+  {
+    "text": "and to cement its role\nas the global leader,",
+    "start": 1197.59,
+    "duration": 3.39
+  },
+  {
+    "text": "as the leader of the world.",
+    "start": 1200.98,
+    "duration": 1.2
+  },
+  {
+    "text": "I mean, this is what President\nXi's announcement last week",
+    "start": 1202.18,
+    "duration": 3.63
+  },
+  {
+    "text": "of a $2 billion\nvaccine contribution",
+    "start": 1205.81,
+    "duration": 2.73
+  },
+  {
+    "text": "to try to pull vaccine knowledge\nand ultimately distribution",
+    "start": 1208.54,
+    "duration": 3.93
+  },
+  {
+    "text": "to developing countries.",
+    "start": 1212.47,
+    "duration": 1.47
+  },
+  {
+    "text": "He actually did that not\nas China bilaterally,",
+    "start": 1213.94,
+    "duration": 3.26
+  },
+  {
+    "text": "as China has usually done, but\ndid it within the World Health",
+    "start": 1217.2,
+    "duration": 3.73
+  },
+  {
+    "text": "Organization, where the US\nhas vacated its premise.",
+    "start": 1220.93,
+    "duration": 2.658
+  },
+  {
+    "text": "The other thing\nwe're seeing though--",
+    "start": 1223.588,
+    "duration": 1.542
+  },
+  {
+    "text": "and I think this is really\ninstructive in terms",
+    "start": 1225.13,
+    "duration": 1.958
+  },
+  {
+    "text": "of a happier story about\nhow things can develop--",
+    "start": 1227.088,
+    "duration": 3.082
+  },
+  {
+    "text": "is that those countries like\nNew Zealand, Australia, Korea,",
+    "start": 1230.17,
+    "duration": 4.2
+  },
+  {
+    "text": "Denmark, Germany,\nthat have managed",
+    "start": 1234.37,
+    "duration": 2.68
+  },
+  {
+    "text": "to get a grip on the\npandemic within their borders",
+    "start": 1237.05,
+    "duration": 3.14
+  },
+  {
+    "text": "have created something\ncalled the first movers club.",
+    "start": 1240.19,
+    "duration": 3.25
+  },
+  {
+    "text": "And they are now seeking to pool\ntheir energies as democracies",
+    "start": 1243.44,
+    "duration": 5.55
+  },
+  {
+    "text": "within international\ninstitutions",
+    "start": 1248.99,
+    "duration": 2.04
+  },
+  {
+    "text": "to create a kind of\nblock that offers",
+    "start": 1251.03,
+    "duration": 2.49
+  },
+  {
+    "text": "its expertise, its resources.",
+    "start": 1253.52,
+    "duration": 2.01
+  },
+  {
+    "text": "But also, we don't\nwant to live in a world",
+    "start": 1255.53,
+    "duration": 2.04
+  },
+  {
+    "text": "where the China\nmodel of governance",
+    "start": 1257.57,
+    "duration": 1.87
+  },
+  {
+    "text": "then gets imported into\ninternational institutions.",
+    "start": 1259.44,
+    "duration": 3.44
+  },
+  {
+    "text": "And for the first three\nyears of Trump's leadership,",
+    "start": 1262.88,
+    "duration": 3.12
+  },
+  {
+    "text": "middle powers have\ntended to just",
+    "start": 1266.0,
+    "duration": 1.68
+  },
+  {
+    "text": "be recessive in those\norganizations, kind",
+    "start": 1267.68,
+    "duration": 2.55
+  },
+  {
+    "text": "of waiting for the United\nStates to show up again.",
+    "start": 1270.23,
+    "duration": 2.79
+  },
+  {
+    "text": "And now, the pandemic\nhas really brought home",
+    "start": 1273.02,
+    "duration": 2.4
+  },
+  {
+    "text": "that that-- at least in\nthis administration--",
+    "start": 1275.42,
+    "duration": 2.46
+  },
+  {
+    "text": "is unlikely to happen.",
+    "start": 1277.88,
+    "duration": 1.57
+  },
+  {
+    "text": "And time to get busy.",
+    "start": 1279.45,
+    "duration": 0.875
+  },
+  {
+    "text": "If we don't want to\nsee the norms that",
+    "start": 1280.325,
+    "duration": 2.985
+  },
+  {
+    "text": "have defined international\nstatecraft for the last 75",
+    "start": 1283.31,
+    "duration": 2.7
+  },
+  {
+    "text": "years altered, and looking more\nand more like Chinese norms,",
+    "start": 1286.01,
+    "duration": 4.518
+  },
+  {
+    "text": "those countries are going to\nhave to raise their voices",
+    "start": 1290.528,
+    "duration": 2.292
+  },
+  {
+    "text": "and take leadership\nroles they haven't really",
+    "start": 1292.82,
+    "duration": 3.09
+  },
+  {
+    "text": "taken up to this point.",
+    "start": 1295.91,
+    "duration": 2.298
+  },
+  {
+    "text": "ADI IGNATIUS: If you just joined\nus, this is HBR Quarantined.",
+    "start": 1298.208,
+    "duration": 2.542
+  },
+  {
+    "text": "Our guest is Ambassador\nSamantha Power.",
+    "start": 1300.75,
+    "duration": 2.57
+  },
+  {
+    "text": "If you have questions\nfor her, please",
+    "start": 1303.32,
+    "duration": 2.138
+  },
+  {
+    "text": "put them in the comments.",
+    "start": 1305.458,
+    "duration": 1.042
+  },
+  {
+    "text": "We'll try to get to\nsome in a little bit.",
+    "start": 1306.5,
+    "duration": 2.678
+  },
+  {
+    "text": "Samantha, I want to ask--",
+    "start": 1309.178,
+    "duration": 1.042
+  },
+  {
+    "text": "I want to take on the question.",
+    "start": 1310.22,
+    "duration": 1.292
+  },
+  {
+    "text": "You've just written this book,\nEducation of an Idealist.",
+    "start": 1311.512,
+    "duration": 3.298
+  },
+  {
+    "text": "When I think of shattered\nidealism for myself.",
+    "start": 1314.81,
+    "duration": 4.98
+  },
+  {
+    "text": "I view myself as\nan idealist, and I",
+    "start": 1319.79,
+    "duration": 1.83
+  },
+  {
+    "text": "find governments let you down.",
+    "start": 1321.62,
+    "duration": 2.12
+  },
+  {
+    "text": "NGOs let you down.",
+    "start": 1323.74,
+    "duration": 1.857
+  },
+  {
+    "text": "Almost everything lets you down.",
+    "start": 1325.597,
+    "duration": 1.333
+  },
+  {
+    "text": "I actually find solace sometimes\nin the world of business.",
+    "start": 1326.93,
+    "duration": 3.61
+  },
+  {
+    "text": "I don't mean to overstate\nbusiness as good",
+    "start": 1330.54,
+    "duration": 2.9
+  },
+  {
+    "text": "as opposed to being neutral.",
+    "start": 1333.44,
+    "duration": 1.32
+  },
+  {
+    "text": "But there are companies\nthat within the ecosystem",
+    "start": 1334.76,
+    "duration": 3.36
+  },
+  {
+    "text": "of a business can try\nto do the right thing,",
+    "start": 1338.12,
+    "duration": 1.94
+  },
+  {
+    "text": "and to try to create an\nenvironment that cares",
+    "start": 1340.06,
+    "duration": 2.08
+  },
+  {
+    "text": "about whatever issues matter.",
+    "start": 1342.14,
+    "duration": 3.413
+  },
+  {
+    "text": "Environmental,\nsocial, governance,",
+    "start": 1345.553,
+    "duration": 1.417
+  },
+  {
+    "text": "sort of other things.",
+    "start": 1346.97,
+    "duration": 0.875
+  },
+  {
+    "text": "These little microcosms.",
+    "start": 1347.845,
+    "duration": 1.315
+  },
+  {
+    "text": "So my question for\nyou is, where does",
+    "start": 1349.16,
+    "duration": 2.98
+  },
+  {
+    "text": "an American idealist\nlike yourself",
+    "start": 1352.14,
+    "duration": 1.88
+  },
+  {
+    "text": "find solace these days.",
+    "start": 1354.02,
+    "duration": 2.697
+  },
+  {
+    "text": "SAMANTHA POWER: Thank you.",
+    "start": 1356.717,
+    "duration": 1.083
+  },
+  {
+    "text": "I mean, I think that\nsome of the trends",
+    "start": 1357.8,
+    "duration": 4.29
+  },
+  {
+    "text": "that we've seen with\nbusiness leaders",
+    "start": 1362.09,
+    "duration": 1.89
+  },
+  {
+    "text": "well before the pandemic\nstepping up and saying,",
+    "start": 1363.98,
+    "duration": 4.12
+  },
+  {
+    "text": "it's not just about\nthe bottom line.",
+    "start": 1368.1,
+    "duration": 1.58
+  },
+  {
+    "text": "I mean, this trend\nhas been at work,",
+    "start": 1369.68,
+    "duration": 2.07
+  },
+  {
+    "text": "and it's never\nentirely clear what's",
+    "start": 1371.75,
+    "duration": 3.72
+  },
+  {
+    "text": "motivating a particular leader\nin a particular circumstance.",
+    "start": 1375.47,
+    "duration": 2.58
+  },
+  {
+    "text": "But more and more seeing the\nbusiness roundtable and others",
+    "start": 1378.05,
+    "duration": 3.39
+  },
+  {
+    "text": "step up and take note\nof the warming planet",
+    "start": 1381.44,
+    "duration": 4.86
+  },
+  {
+    "text": "around us, companies\nthat have been",
+    "start": 1386.3,
+    "duration": 2.7
+  },
+  {
+    "text": "able to get through this\npandemic without big blows.",
+    "start": 1389.0,
+    "duration": 5.88
+  },
+  {
+    "text": "Stepping into the void where\ncharities and others are really",
+    "start": 1394.88,
+    "duration": 5.01
+  },
+  {
+    "text": "flailing.",
+    "start": 1399.89,
+    "duration": 1.17
+  },
+  {
+    "text": "I just saw last week Oxfam\npulling out of 18 countries",
+    "start": 1401.06,
+    "duration": 4.17
+  },
+  {
+    "text": "because they can no longer\npay the bills there.",
+    "start": 1405.23,
+    "duration": 2.76
+  },
+  {
+    "text": "UN humanitarian work all\naround the world shriveling up",
+    "start": 1407.99,
+    "duration": 3.84
+  },
+  {
+    "text": "as resources get\ndiverted to deal",
+    "start": 1411.83,
+    "duration": 1.8
+  },
+  {
+    "text": "with really difficult\ndomestic circumstances",
+    "start": 1413.63,
+    "duration": 2.16
+  },
+  {
+    "text": "for developed countries.",
+    "start": 1415.79,
+    "duration": 1.81
+  },
+  {
+    "text": "And so for the private\nsector to do more of that,",
+    "start": 1417.6,
+    "duration": 2.75
+  },
+  {
+    "text": "I mean, again, it comes\nback to individual agency.",
+    "start": 1420.35,
+    "duration": 3.09
+  },
+  {
+    "text": "In my own career, as I\nwrite about in the book,",
+    "start": 1423.44,
+    "duration": 2.88
+  },
+  {
+    "text": "I just saw too often\nindividuals change the world.",
+    "start": 1426.32,
+    "duration": 5.58
+  },
+  {
+    "text": "And it may be that the slice\nof the world that they changed",
+    "start": 1431.9,
+    "duration": 2.85
+  },
+  {
+    "text": "was small.",
+    "start": 1434.75,
+    "duration": 2.61
+  },
+  {
+    "text": "Again, the climate\nkept warming, even",
+    "start": 1437.36,
+    "duration": 3.21
+  },
+  {
+    "text": "as we were able in support\nof the people in West Africa",
+    "start": 1440.57,
+    "duration": 3.51
+  },
+  {
+    "text": "to bring the Ebola\nepidemic to an end.",
+    "start": 1444.08,
+    "duration": 3.54
+  },
+  {
+    "text": "But if you set your sights on\nchanging everything at once,",
+    "start": 1447.62,
+    "duration": 3.33
+  },
+  {
+    "text": "then that is a recipe\nfor disillusionment.",
+    "start": 1450.95,
+    "duration": 3.15
+  },
+  {
+    "text": "And maybe just watching The\nLast Dance over and over",
+    "start": 1454.1,
+    "duration": 3.69
+  },
+  {
+    "text": "and not seeing the world\nthe world around you.",
+    "start": 1457.79,
+    "duration": 3.6
+  },
+  {
+    "text": "It can be really\ntempting to turn off,",
+    "start": 1461.39,
+    "duration": 2.88
+  },
+  {
+    "text": "if you think you can solve the\nbiggest problems of our time",
+    "start": 1464.27,
+    "duration": 2.58
+  },
+  {
+    "text": "either by yourself\nor all at once.",
+    "start": 1466.85,
+    "duration": 2.47
+  },
+  {
+    "text": "So I fastened when I was\nin government on an idea",
+    "start": 1469.32,
+    "duration": 3.35
+  },
+  {
+    "text": "that actually,\nwriters who I think",
+    "start": 1472.67,
+    "duration": 2.61
+  },
+  {
+    "text": "are beloved in the business\nworld, the Heath brothers.",
+    "start": 1475.28,
+    "duration": 3.917
+  },
+  {
+    "text": "They wrote a book called Switch.",
+    "start": 1479.197,
+    "duration": 1.333
+  },
+  {
+    "text": "And they had this\nidea, and it really",
+    "start": 1480.53,
+    "duration": 1.542
+  },
+  {
+    "text": "resonated for me in government,\nwhich was shrink the change.",
+    "start": 1482.072,
+    "duration": 4.578
+  },
+  {
+    "text": "Find that small\nslice of change that",
+    "start": 1486.65,
+    "duration": 3.51
+  },
+  {
+    "text": "actually is within your scope.",
+    "start": 1490.16,
+    "duration": 2.88
+  },
+  {
+    "text": "So for example, when\nI was in the cabinet",
+    "start": 1493.04,
+    "duration": 2.94
+  },
+  {
+    "text": "with the president of the\nUnited States as UN ambassador.",
+    "start": 1495.98,
+    "duration": 2.85
+  },
+  {
+    "text": "At the very time, I was at the\nhighest levels of government.",
+    "start": 1498.83,
+    "duration": 3.462
+  },
+  {
+    "text": "We were experiencing\nsomething that",
+    "start": 1502.292,
+    "duration": 1.458
+  },
+  {
+    "text": "continues to this day, which\nis a human rights recession all",
+    "start": 1503.75,
+    "duration": 3.682
+  },
+  {
+    "text": "around the world.",
+    "start": 1507.432,
+    "duration": 0.708
+  },
+  {
+    "text": "We're now in the 14th\nstraight year of human rights",
+    "start": 1508.14,
+    "duration": 3.65
+  },
+  {
+    "text": "being in decline.",
+    "start": 1511.79,
+    "duration": 1.27
+  },
+  {
+    "text": "Now, we had an explosive\ngrowth in human rights",
+    "start": 1513.06,
+    "duration": 2.15
+  },
+  {
+    "text": "and civil society and so forth\nafter the end of the Cold War.",
+    "start": 1515.21,
+    "duration": 4.02
+  },
+  {
+    "text": "But those trend lines have gone\nin a negative direction in part",
+    "start": 1519.23,
+    "duration": 2.79
+  },
+  {
+    "text": "because of the xenophobia\nand nationalism",
+    "start": 1522.02,
+    "duration": 1.87
+  },
+  {
+    "text": "you mentioned earlier.",
+    "start": 1523.89,
+    "duration": 1.67
+  },
+  {
+    "text": "But I'm thinking here I am,\nhuman rights advocate actually",
+    "start": 1525.56,
+    "duration": 2.97
+  },
+  {
+    "text": "at the highest\nlevels of government.",
+    "start": 1528.53,
+    "duration": 1.5
+  },
+  {
+    "text": "What am I doing about the\nhuman rights recession?",
+    "start": 1530.03,
+    "duration": 2.49
+  },
+  {
+    "text": "And if you ask the\nquestion in that way,",
+    "start": 1532.52,
+    "duration": 3.57
+  },
+  {
+    "text": "again, you could just\nfeel immensely small.",
+    "start": 1536.09,
+    "duration": 2.31
+  },
+  {
+    "text": "And I think people right\nnow given the crisis,",
+    "start": 1538.4,
+    "duration": 2.58
+  },
+  {
+    "text": "are feeling very, very\nsmall and disempowered.",
+    "start": 1540.98,
+    "duration": 2.892
+  },
+  {
+    "text": "[INAUDIBLE] I sat down\nwith my team and I",
+    "start": 1543.872,
+    "duration": 1.708
+  },
+  {
+    "text": "read about this new book.",
+    "start": 1545.58,
+    "duration": 1.27
+  },
+  {
+    "text": "And I said, what can\nwe do that's just",
+    "start": 1546.85,
+    "duration": 1.583
+  },
+  {
+    "text": "a tiny piece of this.",
+    "start": 1548.433,
+    "duration": 1.887
+  },
+  {
+    "text": "And we decided we\nwere going to set",
+    "start": 1550.32,
+    "duration": 1.53
+  },
+  {
+    "text": "our sights on just getting 20\nfemale political prisoners out",
+    "start": 1551.85,
+    "duration": 3.24
+  },
+  {
+    "text": "of jail.",
+    "start": 1555.09,
+    "duration": 1.193
+  },
+  {
+    "text": "That was so modest\nfor the US government",
+    "start": 1556.283,
+    "duration": 1.667
+  },
+  {
+    "text": "to be doing this next to this--",
+    "start": 1557.95,
+    "duration": 1.88
+  },
+  {
+    "text": "all these years of\nfreedom in decline.",
+    "start": 1559.83,
+    "duration": 2.62
+  },
+  {
+    "text": "But we profiled each of\nthese women on social media.",
+    "start": 1562.45,
+    "duration": 2.42
+  },
+  {
+    "text": "Some were exposing corruption\nin their government,",
+    "start": 1564.87,
+    "duration": 2.13
+  },
+  {
+    "text": "some were protesting\nsexual harassment in China.",
+    "start": 1567.0,
+    "duration": 3.54
+  },
+  {
+    "text": "And we hung jumbo photos of\nthese women in the US mission",
+    "start": 1570.54,
+    "duration": 4.02
+  },
+  {
+    "text": "to the UN in the window\nwhen heads of state",
+    "start": 1574.56,
+    "duration": 2.19
+  },
+  {
+    "text": "were coming to town in September\nfor the General Assembly.",
+    "start": 1576.75,
+    "duration": 3.75
+  },
+  {
+    "text": "We teamed up in\na bipartisan way.",
+    "start": 1580.5,
+    "duration": 1.92
+  },
+  {
+    "text": "The forgotten\npractice of bipartisan",
+    "start": 1582.42,
+    "duration": 2.85
+  },
+  {
+    "text": "backed diplomacy, where we got\nthe 20 US female senators who",
+    "start": 1585.27,
+    "duration": 4.17
+  },
+  {
+    "text": "were in the US senate\nat the time, Republican",
+    "start": 1589.44,
+    "duration": 2.04
+  },
+  {
+    "text": "and Democratic, to\nback the campaign.",
+    "start": 1591.48,
+    "duration": 2.13
+  },
+  {
+    "text": "And 16 of the 20 women were\nultimately freed from jail,",
+    "start": 1593.61,
+    "duration": 4.44
+  },
+  {
+    "text": "and went back to making\ntrouble, and holding",
+    "start": 1598.05,
+    "duration": 2.28
+  },
+  {
+    "text": "their governments accountable.",
+    "start": 1600.33,
+    "duration": 1.58
+  },
+  {
+    "text": "And I use this example not\nbecause it by any means",
+    "start": 1601.91,
+    "duration": 2.65
+  },
+  {
+    "text": "changed the world,\nbut [INAUDIBLE]",
+    "start": 1604.56,
+    "duration": 1.42
+  },
+  {
+    "text": "to describe the\neffect on my team,",
+    "start": 1605.98,
+    "duration": 2.66
+  },
+  {
+    "text": "and the way that they\nwent about their business.",
+    "start": 1608.64,
+    "duration": 2.56
+  },
+  {
+    "text": "The tangible nature\nof that, which",
+    "start": 1611.2,
+    "duration": 2.81
+  },
+  {
+    "text": "was so concrete and yet so\nsmall next to the abstraction",
+    "start": 1614.01,
+    "duration": 4.26
+  },
+  {
+    "text": "of freedom in decline.",
+    "start": 1618.27,
+    "duration": 1.98
+  },
+  {
+    "text": "People who in COVID, are\nnow creating these shopping",
+    "start": 1620.25,
+    "duration": 3.6
+  },
+  {
+    "text": "angels networks.",
+    "start": 1623.85,
+    "duration": 0.96
+  },
+  {
+    "text": "I know just shopping\nfor elderly neighbors",
+    "start": 1624.81,
+    "duration": 3.18
+  },
+  {
+    "text": "gives you a sense of meaning,\nand purpose, and impact.",
+    "start": 1627.99,
+    "duration": 3.39
+  },
+  {
+    "text": "So you can't change all of\nthese structural trends that",
+    "start": 1631.38,
+    "duration": 4.38
+  },
+  {
+    "text": "are defining our plight\nat a given moment.",
+    "start": 1635.76,
+    "duration": 3.36
+  },
+  {
+    "text": "But it is a mistake to think\nthat you can come up with a--",
+    "start": 1639.12,
+    "duration": 3.66
+  },
+  {
+    "text": "usually-- a solution\ncommensurate with the scale",
+    "start": 1642.78,
+    "duration": 2.52
+  },
+  {
+    "text": "of the challenge.",
+    "start": 1645.3,
+    "duration": 1.26
+  },
+  {
+    "text": "The question is,\nwhat is your slice.",
+    "start": 1646.56,
+    "duration": 1.5
+  },
+  {
+    "text": "And I think in\nthinking that way,",
+    "start": 1648.06,
+    "duration": 1.71
+  },
+  {
+    "text": "it breeds an idealism and a\ngreater sense of empowerment.",
+    "start": 1649.77,
+    "duration": 3.71
+  },
+  {
+    "text": "JOSHUA MACHT: I know we've\ngot some other things",
+    "start": 1656.48,
+    "duration": 2.0
+  },
+  {
+    "text": "that we want to talk\nabout on the sports front",
+    "start": 1658.48,
+    "duration": 1.74
+  },
+  {
+    "text": "and everything.",
+    "start": 1660.22,
+    "duration": 0.625
+  },
+  {
+    "text": "But I want to one kind of big--",
+    "start": 1660.845,
+    "duration": 3.185
+  },
+  {
+    "text": "sort of big, heavy\nquestion for you.",
+    "start": 1664.03,
+    "duration": 1.63
+  },
+  {
+    "text": "Because I'm curious what you\nthink about the whole notion",
+    "start": 1665.66,
+    "duration": 3.23
+  },
+  {
+    "text": "of national security.",
+    "start": 1668.89,
+    "duration": 3.08
+  },
+  {
+    "text": "It feels at the\nvery least like we",
+    "start": 1671.97,
+    "duration": 1.81
+  },
+  {
+    "text": "broaden the definition of it.",
+    "start": 1673.78,
+    "duration": 1.59
+  },
+  {
+    "text": "It feels like the\ndefinition is changing",
+    "start": 1675.37,
+    "duration": 2.31
+  },
+  {
+    "text": "of what that really means.",
+    "start": 1677.68,
+    "duration": 1.58
+  },
+  {
+    "text": "And it kind of seems like that\nhas some scary implications,",
+    "start": 1679.26,
+    "duration": 2.74
+  },
+  {
+    "text": "and I'm wondering what\nyour thinking on that is.",
+    "start": 1682.0,
+    "duration": 3.35
+  },
+  {
+    "text": "SAMANTHA POWER: Yeah, I mean,\nI think that rhetorically, it",
+    "start": 1685.35,
+    "duration": 3.37
+  },
+  {
+    "text": "has been altered for some time.",
+    "start": 1688.72,
+    "duration": 2.23
+  },
+  {
+    "text": "We have talked about\nnational security",
+    "start": 1690.95,
+    "duration": 2.9
+  },
+  {
+    "text": "as entailing threats\nthat cross borders.",
+    "start": 1693.85,
+    "duration": 3.0
+  },
+  {
+    "text": "We rhetorically-- certainly\nsince 9/11 at the very least--",
+    "start": 1696.85,
+    "duration": 4.9
+  },
+  {
+    "text": "have talked about the ways\nthat borders don't insulate us",
+    "start": 1701.75,
+    "duration": 4.28
+  },
+  {
+    "text": "from terrorists who\ncan move their finances",
+    "start": 1706.03,
+    "duration": 2.19
+  },
+  {
+    "text": "in a different way or\nslip into a country",
+    "start": 1708.22,
+    "duration": 3.0
+  },
+  {
+    "text": "under one kind of visa\nand do dangerous things.",
+    "start": 1711.22,
+    "duration": 4.12
+  },
+  {
+    "text": "We've had the rhetoric\nalso about pandemics",
+    "start": 1715.34,
+    "duration": 3.11
+  },
+  {
+    "text": "in every national\nsecurity strategy,",
+    "start": 1718.45,
+    "duration": 1.74
+  },
+  {
+    "text": "I think, at least,\nagain, since 9/11.",
+    "start": 1720.19,
+    "duration": 3.87
+  },
+  {
+    "text": "But our resource\nallocations are absolutely",
+    "start": 1724.06,
+    "duration": 3.87
+  },
+  {
+    "text": "overweighted toward believing\nthat military force is",
+    "start": 1727.93,
+    "duration": 5.25
+  },
+  {
+    "text": "our national security weapon,\na first, second, third, fourth,",
+    "start": 1733.18,
+    "duration": 3.49
+  },
+  {
+    "text": "and fifth resort.",
+    "start": 1736.67,
+    "duration": 2.0
+  },
+  {
+    "text": "And so you see colossal\nunderinvestments, for example,",
+    "start": 1738.67,
+    "duration": 3.53
+  },
+  {
+    "text": "in the Centers for\nDisease Control,",
+    "start": 1742.2,
+    "duration": 2.29
+  },
+  {
+    "text": "or in public health\ninfrastructure as compared",
+    "start": 1744.49,
+    "duration": 3.48
+  },
+  {
+    "text": "to what we would\ninvest in the wars",
+    "start": 1747.97,
+    "duration": 3.66
+  },
+  {
+    "text": "that we are fighting in multiple\ntheaters around the world.",
+    "start": 1751.63,
+    "duration": 3.55
+  },
+  {
+    "text": "So I think that the challenge\nnow as we look forward",
+    "start": 1755.18,
+    "duration": 2.81
+  },
+  {
+    "text": "is how do we resource\nappropriately",
+    "start": 1757.99,
+    "duration": 2.91
+  },
+  {
+    "text": "the global threats that\ndon't respect borders.",
+    "start": 1760.9,
+    "duration": 2.85
+  },
+  {
+    "text": "And that includes resourcing\ninternational institutions that",
+    "start": 1763.75,
+    "duration": 3.51
+  },
+  {
+    "text": "are themselves, unfortunately,\nthe amalgamation",
+    "start": 1767.26,
+    "duration": 3.297
+  },
+  {
+    "text": "of the national interests\nof the governments",
+    "start": 1770.557,
+    "duration": 1.833
+  },
+  {
+    "text": "that comprise\nthose institutions.",
+    "start": 1772.39,
+    "duration": 2.28
+  },
+  {
+    "text": "Namely, China is going to have\na bigger and bigger say in how",
+    "start": 1774.67,
+    "duration": 3.883
+  },
+  {
+    "text": "those institutions work as\nthey become a bigger and bigger",
+    "start": 1778.553,
+    "duration": 2.417
+  },
+  {
+    "text": "donor to those institutions.",
+    "start": 1780.97,
+    "duration": 1.41
+  },
+  {
+    "text": "That's going to make our\npath in those international",
+    "start": 1782.38,
+    "duration": 2.73
+  },
+  {
+    "text": "institutions more challenging.",
+    "start": 1785.11,
+    "duration": 1.29
+  },
+  {
+    "text": "But there's no work around.",
+    "start": 1786.4,
+    "duration": 1.56
+  },
+  {
+    "text": "For global threats,\nyou've got to work",
+    "start": 1787.96,
+    "duration": 1.95
+  },
+  {
+    "text": "with other countries\non the globe",
+    "start": 1789.91,
+    "duration": 2.04
+  },
+  {
+    "text": "by definition, and find\nvehicles and venues to do that.",
+    "start": 1791.95,
+    "duration": 3.37
+  },
+  {
+    "text": "We don't have the\nability to walk away",
+    "start": 1795.32,
+    "duration": 2.09
+  },
+  {
+    "text": "from China in a\nclimate discussion",
+    "start": 1797.41,
+    "duration": 2.49
+  },
+  {
+    "text": "when China is the number\none emitter of carbon.",
+    "start": 1799.9,
+    "duration": 4.04
+  },
+  {
+    "text": "That option is not\navailable to us.",
+    "start": 1803.94,
+    "duration": 1.67
+  },
+  {
+    "text": "So how do we look out\nfor those global threats,",
+    "start": 1805.61,
+    "duration": 3.062
+  },
+  {
+    "text": "strengthen those international\ninstitutions, and even",
+    "start": 1808.672,
+    "duration": 2.208
+  },
+  {
+    "text": "those collaborations\nwith those we vehemently",
+    "start": 1810.88,
+    "duration": 3.21
+  },
+  {
+    "text": "disagree with on a whole\nhost of other issues?",
+    "start": 1814.09,
+    "duration": 2.82
+  },
+  {
+    "text": "How do you compartmentalize\ncompetition?",
+    "start": 1816.91,
+    "duration": 3.66
+  },
+  {
+    "text": "More than that, though, how--",
+    "start": 1820.57,
+    "duration": 1.86
+  },
+  {
+    "text": "as part of dealing\nwith global threats,",
+    "start": 1822.43,
+    "duration": 1.725
+  },
+  {
+    "text": "particularly, again,\nthe non-traditional ones",
+    "start": 1824.155,
+    "duration": 1.875
+  },
+  {
+    "text": "like pandemics and\nclimate security.",
+    "start": 1826.03,
+    "duration": 3.03
+  },
+  {
+    "text": "How do you bring\nnon-traditional actors",
+    "start": 1829.06,
+    "duration": 2.25
+  },
+  {
+    "text": "much more into those\ninternational coalitions",
+    "start": 1831.31,
+    "duration": 2.55
+  },
+  {
+    "text": "than they have been?",
+    "start": 1833.86,
+    "duration": 0.87
+  },
+  {
+    "text": "I mean, I know from\nmy time at the UN",
+    "start": 1834.73,
+    "duration": 2.07
+  },
+  {
+    "text": "that yes, governments\ntalk a good game",
+    "start": 1836.8,
+    "duration": 3.0
+  },
+  {
+    "text": "about multi-stakeholder\ninitiatives",
+    "start": 1839.8,
+    "duration": 1.71
+  },
+  {
+    "text": "and private-public partnerships.",
+    "start": 1841.51,
+    "duration": 1.98
+  },
+  {
+    "text": "But it's states that\ndrive the response.",
+    "start": 1843.49,
+    "duration": 4.05
+  },
+  {
+    "text": "States have to drive\na significant share",
+    "start": 1847.54,
+    "duration": 2.643
+  },
+  {
+    "text": "of the response, given\ntheir significant share",
+    "start": 1850.183,
+    "duration": 1.917
+  },
+  {
+    "text": "of responsibility,\nand the resources they",
+    "start": 1852.1,
+    "duration": 1.89
+  },
+  {
+    "text": "can bring to bear.",
+    "start": 1853.99,
+    "duration": 2.61
+  },
+  {
+    "text": "The private sector actors,\nphilanthropists like Bill Gates",
+    "start": 1856.6,
+    "duration": 4.22
+  },
+  {
+    "text": "are doing so much more\nthan probably more than 2/3",
+    "start": 1860.82,
+    "duration": 3.64
+  },
+  {
+    "text": "of the countries within\nthe UN in this pandemic.",
+    "start": 1864.46,
+    "duration": 2.97
+  },
+  {
+    "text": "They need to have much\nmore significant respected",
+    "start": 1867.43,
+    "duration": 5.52
+  },
+  {
+    "text": "voices in the decision\nmaking of these bodies.",
+    "start": 1872.95,
+    "duration": 3.03
+  },
+  {
+    "text": "And so those bodies are going\nto have to get modernized,",
+    "start": 1875.98,
+    "duration": 2.46
+  },
+  {
+    "text": "and the complexion of\nwho's participating",
+    "start": 1878.44,
+    "duration": 2.73
+  },
+  {
+    "text": "is going to have to change.",
+    "start": 1881.17,
+    "duration": 1.68
+  },
+  {
+    "text": "At the same time, the\ntraditional great power threats",
+    "start": 1882.85,
+    "duration": 3.45
+  },
+  {
+    "text": "haven't gone anywhere.",
+    "start": 1886.3,
+    "duration": 1.03
+  },
+  {
+    "text": "So that's where the notion\nthat we might have had right",
+    "start": 1887.33,
+    "duration": 3.08
+  },
+  {
+    "text": "after the Cold\nWar that everybody",
+    "start": 1890.41,
+    "duration": 1.53
+  },
+  {
+    "text": "was trending in a liberal\ndemocratic direction.",
+    "start": 1891.94,
+    "duration": 3.09
+  },
+  {
+    "text": "That, of course,\nhas been dispelled",
+    "start": 1895.03,
+    "duration": 1.95
+  },
+  {
+    "text": "with Putin's reassertion\nof Russian power via 19,",
+    "start": 1896.98,
+    "duration": 6.96
+  },
+  {
+    "text": "18th century tools, like taking\nover parts of other countries.",
+    "start": 1903.94,
+    "duration": 4.77
+  },
+  {
+    "text": "But also, China and the way\ncoercively makes its way",
+    "start": 1908.71,
+    "duration": 5.22
+  },
+  {
+    "text": "through the South China Sea.",
+    "start": 1913.93,
+    "duration": 1.86
+  },
+  {
+    "text": "The way it also leverages\nits economic statecraft.",
+    "start": 1915.79,
+    "duration": 4.05
+  },
+  {
+    "text": "[INAUDIBLE] really\ndifferent outcomes",
+    "start": 1919.84,
+    "duration": 2.215
+  },
+  {
+    "text": "within the UN that\nare going to be very",
+    "start": 1922.055,
+    "duration": 1.625
+  },
+  {
+    "text": "detrimental to our interests.",
+    "start": 1923.68,
+    "duration": 1.83
+  },
+  {
+    "text": "This is going to be a very\ncombative relationship",
+    "start": 1925.51,
+    "duration": 3.06
+  },
+  {
+    "text": "with China on a whole series\nof fronts including, of course,",
+    "start": 1928.57,
+    "duration": 3.09
+  },
+  {
+    "text": "the economic front\nfor some time.",
+    "start": 1931.66,
+    "duration": 2.06
+  },
+  {
+    "text": "But we don't have the\noption of just privileging",
+    "start": 1933.72,
+    "duration": 2.0
+  },
+  {
+    "text": "the great power competition\nand confrontation over managing",
+    "start": 1935.72,
+    "duration": 5.21
+  },
+  {
+    "text": "those global threats.",
+    "start": 1940.93,
+    "duration": 0.93
+  },
+  {
+    "text": "So it's going to take a\nsubtlety and a sophistication",
+    "start": 1941.86,
+    "duration": 2.88
+  },
+  {
+    "text": "of statecraft that we\nreally haven't seen,",
+    "start": 1944.74,
+    "duration": 2.76
+  },
+  {
+    "text": "because it's not\nall or nothing where",
+    "start": 1947.5,
+    "duration": 2.37
+  },
+  {
+    "text": "we throw out the old playbook.",
+    "start": 1949.87,
+    "duration": 2.22
+  },
+  {
+    "text": "When great power conflict\nand tension [INAUDIBLE],,",
+    "start": 1952.09,
+    "duration": 4.08
+  },
+  {
+    "text": "that old playbook still\nhas something to teach us.",
+    "start": 1956.17,
+    "duration": 3.48
+  },
+  {
+    "text": "But it requires a\nmuch more creative use",
+    "start": 1959.65,
+    "duration": 2.43
+  },
+  {
+    "text": "of the tools in the tool\nbox, and much less reliance",
+    "start": 1962.08,
+    "duration": 3.36
+  },
+  {
+    "text": "on military force, which\nfrankly, has largely",
+    "start": 1965.44,
+    "duration": 2.01
+  },
+  {
+    "text": "drained American capital\nand prevented us, I think,",
+    "start": 1967.45,
+    "duration": 4.27
+  },
+  {
+    "text": "from seeing this fuller picture\nthat has existed for some time.",
+    "start": 1971.72,
+    "duration": 4.04
+  },
+  {
+    "text": "JOSHUA MACHT: I do love\nthat phrase, by the way.",
+    "start": 1975.76,
+    "duration": 2.43
+  },
+  {
+    "text": "How do you compartmentalize\ncompetition.",
+    "start": 1978.19,
+    "duration": 1.74
+  },
+  {
+    "text": "I mean, it just seems\nto speak to we're",
+    "start": 1979.93,
+    "duration": 2.07
+  },
+  {
+    "text": "going to have to\nwork with partners'",
+    "start": 1982.0,
+    "duration": 1.5
+  },
+  {
+    "text": "countries, different factors\nthat might not be so thrilled",
+    "start": 1983.5,
+    "duration": 4.32
+  },
+  {
+    "text": "about you, but you\nbasically have to do it.",
+    "start": 1987.82,
+    "duration": 2.443
+  },
+  {
+    "text": "I do worry-- and I\nwonder if you worry--",
+    "start": 1990.263,
+    "duration": 1.667
+  },
+  {
+    "text": "that in a time when\nwe move forward,",
+    "start": 1991.93,
+    "duration": 2.01
+  },
+  {
+    "text": "when we have fewer and fewer\nresources as we move into--",
+    "start": 1993.94,
+    "duration": 3.78
+  },
+  {
+    "text": "inevitably-- into\ntougher economic times",
+    "start": 1997.72,
+    "duration": 2.07
+  },
+  {
+    "text": "and paying for all this debt.",
+    "start": 1999.79,
+    "duration": 2.79
+  },
+  {
+    "text": "I mean, aren't you concerned?",
+    "start": 2002.58,
+    "duration": 1.485
+  },
+  {
+    "text": "It feels the challenge\nyou're putting forward",
+    "start": 2004.065,
+    "duration": 1.875
+  },
+  {
+    "text": "is even greater [INAUDIBLE]\nresource against,",
+    "start": 2005.94,
+    "duration": 2.452
+  },
+  {
+    "text": "whether it's military\nversus some of the things",
+    "start": 2008.392,
+    "duration": 1.958
+  },
+  {
+    "text": "you're talking about.",
+    "start": 2010.35,
+    "duration": 2.49
+  },
+  {
+    "text": "SAMANTHA POWER: It's\nhard for two reasons.",
+    "start": 2012.84,
+    "duration": 1.75
+  },
+  {
+    "text": "One, it's a resource\nconstrained environment.",
+    "start": 2014.59,
+    "duration": 2.157
+  },
+  {
+    "text": "But two, I think to come back\nto a point that one of you",
+    "start": 2016.747,
+    "duration": 2.333
+  },
+  {
+    "text": "made before.",
+    "start": 2019.08,
+    "duration": 0.89
+  },
+  {
+    "text": "We're just so polarized\nthat risk is who",
+    "start": 2019.97,
+    "duration": 4.42
+  },
+  {
+    "text": "whoever the president\nis, that they're",
+    "start": 2024.39,
+    "duration": 2.89
+  },
+  {
+    "text": "a polarized reaction to\nwhat he or she eventually",
+    "start": 2027.28,
+    "duration": 4.82
+  },
+  {
+    "text": "is putting forward.",
+    "start": 2032.1,
+    "duration": 1.38
+  },
+  {
+    "text": "And so if you actually believed\nwhat we're talking about,",
+    "start": 2033.48,
+    "duration": 6.84
+  },
+  {
+    "text": "and institutionalized lessons\nfrom what we have just--",
+    "start": 2040.32,
+    "duration": 3.42
+  },
+  {
+    "text": "what we are continuing to\nexperience with the pandemic.",
+    "start": 2043.74,
+    "duration": 2.92
+  },
+  {
+    "text": "This is national security.",
+    "start": 2046.66,
+    "duration": 1.46
+  },
+  {
+    "text": "Americans, even in\nhard times, invest",
+    "start": 2048.12,
+    "duration": 3.119
+  },
+  {
+    "text": "in protecting one another.",
+    "start": 2051.239,
+    "duration": 2.46
+  },
+  {
+    "text": "American leaders invest in\nprotecting their citizens.",
+    "start": 2053.699,
+    "duration": 3.451
+  },
+  {
+    "text": "If you take to a\nnatural conclusion",
+    "start": 2057.15,
+    "duration": 2.819
+  },
+  {
+    "text": "the gravity of\nthis risk, then it",
+    "start": 2059.969,
+    "duration": 2.821
+  },
+  {
+    "text": "requires making room\nfor those investments",
+    "start": 2062.79,
+    "duration": 3.179
+  },
+  {
+    "text": "in international infrastructure.",
+    "start": 2065.969,
+    "duration": 2.19
+  },
+  {
+    "text": "But the challenge is because we\nare divided on that question--",
+    "start": 2068.159,
+    "duration": 3.301
+  },
+  {
+    "text": "because at least for now, the\nhead of the Republican Party",
+    "start": 2071.46,
+    "duration": 4.199
+  },
+  {
+    "text": "has not embraced the idea\nthat protecting our security",
+    "start": 2075.659,
+    "duration": 4.681
+  },
+  {
+    "text": "requires strengthening\nour alliances and working",
+    "start": 2080.34,
+    "duration": 3.51
+  },
+  {
+    "text": "in coalitions within\ninternational institutions--",
+    "start": 2083.85,
+    "duration": 2.789
+  },
+  {
+    "text": "that is likely to be a very\ndivisive issue at a time",
+    "start": 2086.639,
+    "duration": 3.391
+  },
+  {
+    "text": "when resources are\ngoing to be scarce,",
+    "start": 2090.03,
+    "duration": 1.84
+  },
+  {
+    "text": "so it's the worst combination.",
+    "start": 2091.87,
+    "duration": 2.63
+  },
+  {
+    "text": "I worry very much about that.",
+    "start": 2094.5,
+    "duration": 2.245
+  },
+  {
+    "text": "ADI IGNATIUS: Let's\ngo into a lightning",
+    "start": 2096.745,
+    "duration": 1.625
+  },
+  {
+    "text": "round, where we're sort of--",
+    "start": 2098.37,
+    "duration": 1.582
+  },
+  {
+    "text": "we have a little bit of time.",
+    "start": 2099.952,
+    "duration": 1.208
+  },
+  {
+    "text": "But I do want to get\na couple of questions.",
+    "start": 2101.16,
+    "duration": 1.792
+  },
+  {
+    "text": "Maybe we can get quick\nquestions, quick answers.",
+    "start": 2102.952,
+    "duration": 2.228
+  },
+  {
+    "text": "This is from Ada in the UK.",
+    "start": 2105.18,
+    "duration": 2.695
+  },
+  {
+    "text": "What advice do you\nhave for other women",
+    "start": 2107.875,
+    "duration": 1.625
+  },
+  {
+    "text": "who want to work in the\nfield of national security?",
+    "start": 2109.5,
+    "duration": 4.228
+  },
+  {
+    "text": "SAMANTHA POWER: Well, I write\nin The Education of an Idealist",
+    "start": 2113.728,
+    "duration": 2.542
+  },
+  {
+    "text": "a lot about that.",
+    "start": 2116.27,
+    "duration": 0.708
+  },
+  {
+    "text": "Because the truth is having been\na journalist and human rights",
+    "start": 2116.978,
+    "duration": 3.552
+  },
+  {
+    "text": "advocate on the\noutside, I hadn't really",
+    "start": 2120.53,
+    "duration": 3.36
+  },
+  {
+    "text": "been so self-conscious of\nbeing a woman in the workplace",
+    "start": 2123.89,
+    "duration": 4.68
+  },
+  {
+    "text": "until I went and worked\nin national security.",
+    "start": 2128.57,
+    "duration": 2.89
+  },
+  {
+    "text": "And I say it would be\nthe same in the UK.",
+    "start": 2131.46,
+    "duration": 2.36
+  },
+  {
+    "text": "It's just amazing how you can\nlook around in some meetings",
+    "start": 2133.82,
+    "duration": 4.02
+  },
+  {
+    "text": "and feel as if you're in 1945.",
+    "start": 2137.84,
+    "duration": 1.98
+  },
+  {
+    "text": "And that became even more\ndramatically the case",
+    "start": 2139.82,
+    "duration": 3.24
+  },
+  {
+    "text": "when I got to the United\nNations, which still has never",
+    "start": 2143.06,
+    "duration": 2.37
+  },
+  {
+    "text": "had a female secretary general,\nand where fewer than a quarter",
+    "start": 2145.43,
+    "duration": 3.63
+  },
+  {
+    "text": "of the ambassadors are\nfemale, which resembles,",
+    "start": 2149.06,
+    "duration": 4.56
+  },
+  {
+    "text": "actually, the\npercentage of women",
+    "start": 2153.62,
+    "duration": 1.56
+  },
+  {
+    "text": "represented in the US Senate\nand House of Representatives",
+    "start": 2155.18,
+    "duration": 3.36
+  },
+  {
+    "text": "until the 2018 election.",
+    "start": 2158.54,
+    "duration": 2.46
+  },
+  {
+    "text": "So in some ways, what\ngoes on at the UN,",
+    "start": 2161.0,
+    "duration": 2.49
+  },
+  {
+    "text": "and what goes on in\nnational security",
+    "start": 2163.49,
+    "duration": 2.7
+  },
+  {
+    "text": "is out of step with\ncertain sectors",
+    "start": 2166.19,
+    "duration": 3.06
+  },
+  {
+    "text": "where women have made more\nheadway, at least in terms",
+    "start": 2169.25,
+    "duration": 2.4
+  },
+  {
+    "text": "of equitable representation.",
+    "start": 2171.65,
+    "duration": 2.55
+  },
+  {
+    "text": "But in certain respects,\nit's reflective of politics",
+    "start": 2174.2,
+    "duration": 4.44
+  },
+  {
+    "text": "and public policy\nlife more generally.",
+    "start": 2178.64,
+    "duration": 2.43
+  },
+  {
+    "text": "What do I recommend?",
+    "start": 2181.07,
+    "duration": 0.96
+  },
+  {
+    "text": "What I learned the hard\nway was that the solidarity",
+    "start": 2182.03,
+    "duration": 4.56
+  },
+  {
+    "text": "that women bring to the\nworkplace is everything.",
+    "start": 2186.59,
+    "duration": 4.56
+  },
+  {
+    "text": "Again, I didn't self identify.",
+    "start": 2191.15,
+    "duration": 2.4
+  },
+  {
+    "text": "I was having some trouble in the\nearly days of my time working",
+    "start": 2193.55,
+    "duration": 2.79
+  },
+  {
+    "text": "at the White House as President\nObama's human rights advisor.",
+    "start": 2196.34,
+    "duration": 2.542
+  },
+  {
+    "text": "I thought, is it because\nI'm new to government,",
+    "start": 2198.882,
+    "duration": 2.075
+  },
+  {
+    "text": "and because I used\nto be a journalist,",
+    "start": 2200.957,
+    "duration": 1.583
+  },
+  {
+    "text": "people think that I'm a\njournalist almost under cover",
+    "start": 2202.54,
+    "duration": 4.57
+  },
+  {
+    "text": "at the White House.",
+    "start": 2207.11,
+    "duration": 0.95
+  },
+  {
+    "text": "Are my ideas not being\ntaken as seriously",
+    "start": 2208.06,
+    "duration": 2.05
+  },
+  {
+    "text": "as I might like because of\nsomething to do with me?",
+    "start": 2210.11,
+    "duration": 3.808
+  },
+  {
+    "text": "Is it because I'm the\nhuman rights advisor, which",
+    "start": 2213.918,
+    "duration": 2.042
+  },
+  {
+    "text": "is sometimes likened to being\nthe skunk at the lawn party.",
+    "start": 2215.96,
+    "duration": 3.58
+  },
+  {
+    "text": "Because there are a lot of\nhabits in national security",
+    "start": 2219.54,
+    "duration": 2.9
+  },
+  {
+    "text": "that cut in a pretty\ntraditional status direction,",
+    "start": 2222.44,
+    "duration": 3.195
+  },
+  {
+    "text": "and don't like the\nconfrontation sometimes involved",
+    "start": 2225.635,
+    "duration": 2.125
+  },
+  {
+    "text": "in raising human\nrights concerns.",
+    "start": 2227.76,
+    "duration": 3.34
+  },
+  {
+    "text": "But all of my questions\nwere it must be me.",
+    "start": 2231.1,
+    "duration": 2.768
+  },
+  {
+    "text": "I just need to get better,\nand I need to improve.",
+    "start": 2233.868,
+    "duration": 2.042
+  },
+  {
+    "text": "Then I sat down with the\nother female so-called special",
+    "start": 2235.91,
+    "duration": 4.263
+  },
+  {
+    "text": "assistance to the president.",
+    "start": 2240.173,
+    "duration": 1.167
+  },
+  {
+    "text": "There were six of\nus out of 26, all",
+    "start": 2241.34,
+    "duration": 3.3
+  },
+  {
+    "text": "told, 26 special\nassistants all told.",
+    "start": 2244.64,
+    "duration": 3.005
+  },
+  {
+    "text": "And each of these\nwomen-- one was",
+    "start": 2247.645,
+    "duration": 1.375
+  },
+  {
+    "text": "working on\nnonproliferation, another",
+    "start": 2249.02,
+    "duration": 1.625
+  },
+  {
+    "text": "had come from the\nPentagon, I was",
+    "start": 2250.645,
+    "duration": 1.375
+  },
+  {
+    "text": "in charge of European affairs.",
+    "start": 2252.02,
+    "duration": 1.852
+  },
+  {
+    "text": "They'd been around the block.",
+    "start": 2253.872,
+    "duration": 1.208
+  },
+  {
+    "text": "They weren't promoting\nhuman rights.",
+    "start": 2255.08,
+    "duration": 1.83
+  },
+  {
+    "text": "They weren't novices\nin the US government.",
+    "start": 2256.91,
+    "duration": 1.983
+  },
+  {
+    "text": "They weren't former\njournalists, and they were",
+    "start": 2258.893,
+    "duration": 1.917
+  },
+  {
+    "text": "having exactly the same issues.",
+    "start": 2260.81,
+    "duration": 2.08
+  },
+  {
+    "text": "And once we each came\ntogether and understood",
+    "start": 2262.89,
+    "duration": 3.8
+  },
+  {
+    "text": "that something in the culture\nwas a little bit amiss,",
+    "start": 2266.69,
+    "duration": 2.73
+  },
+  {
+    "text": "we were much better ourselves\nat raising collective concerns,",
+    "start": 2269.42,
+    "duration": 5.13
+  },
+  {
+    "text": "and being able to say, what was\nus and what was the culture,",
+    "start": 2274.55,
+    "duration": 3.96
+  },
+  {
+    "text": "and pushing back.",
+    "start": 2278.51,
+    "duration": 1.05
+  },
+  {
+    "text": "And I brought that spirit when\nI was UN ambassador to that job.",
+    "start": 2279.56,
+    "duration": 4.65
+  },
+  {
+    "text": "And created a group for\nall the female ambassadors",
+    "start": 2284.21,
+    "duration": 3.75
+  },
+  {
+    "text": "to come together.",
+    "start": 2287.96,
+    "duration": 1.23
+  },
+  {
+    "text": "We had dinner about psychology\nand The Confidence Code.",
+    "start": 2289.19,
+    "duration": 4.035
+  },
+  {
+    "text": "We brought the authors\nof The Confidence Code",
+    "start": 2293.225,
+    "duration": 1.875
+  },
+  {
+    "text": "to talk through how we\nwere holding ourselves back",
+    "start": 2295.1,
+    "duration": 2.91
+  },
+  {
+    "text": "at times.",
+    "start": 2298.01,
+    "duration": 0.75
+  },
+  {
+    "text": "I had Gloria Steinem come to\ndinner, Madeleine Albright,",
+    "start": 2298.76,
+    "duration": 3.33
+  },
+  {
+    "text": "first female US\nsecretary of state.",
+    "start": 2302.09,
+    "duration": 2.94
+  },
+  {
+    "text": "But we also\nbrainstormed about what",
+    "start": 2305.03,
+    "duration": 1.56
+  },
+  {
+    "text": "we could do as a network\non issues related",
+    "start": 2306.59,
+    "duration": 2.55
+  },
+  {
+    "text": "to sexual violence,\nor on representation",
+    "start": 2309.14,
+    "duration": 2.82
+  },
+  {
+    "text": "of women within the UN system.",
+    "start": 2311.96,
+    "duration": 1.6
+  },
+  {
+    "text": "So I think there's\nstrength in numbers.",
+    "start": 2313.56,
+    "duration": 2.81
+  },
+  {
+    "text": "And even though our numbers\nsometimes in the boardroom",
+    "start": 2316.37,
+    "duration": 2.34
+  },
+  {
+    "text": "or in the situation\nroom aren't what",
+    "start": 2318.71,
+    "duration": 2.67
+  },
+  {
+    "text": "they will be, and need to be.",
+    "start": 2321.38,
+    "duration": 2.88
+  },
+  {
+    "text": "The numbers that you have\ncan actually be quite potent",
+    "start": 2324.26,
+    "duration": 2.67
+  },
+  {
+    "text": "if you find one another.",
+    "start": 2326.93,
+    "duration": 3.0
+  },
+  {
+    "text": "ADI IGNATIUS: So we have to ask.",
+    "start": 2329.93,
+    "duration": 2.69
+  },
+  {
+    "text": "You are a well-known\noutspoken Red Sox fan.",
+    "start": 2332.62,
+    "duration": 3.61
+  },
+  {
+    "text": "How are you surviving\nwithout sports?",
+    "start": 2336.23,
+    "duration": 2.75
+  },
+  {
+    "text": "Other than it sounds\nlike watching and maybe",
+    "start": 2338.98,
+    "duration": 2.07
+  },
+  {
+    "text": "rewatching The Last Dance\nover and over again.",
+    "start": 2341.05,
+    "duration": 3.39
+  },
+  {
+    "text": "SAMANTHA POWER: It's\nactually Dave Roberts steal,",
+    "start": 2344.44,
+    "duration": 3.57
+  },
+  {
+    "text": "where I have a\nson, Declan, who's",
+    "start": 2348.01,
+    "duration": 3.42
+  },
+  {
+    "text": "a Washington Nationals fanatic.",
+    "start": 2351.43,
+    "duration": 2.43
+  },
+  {
+    "text": "And you won't\nbelieve it, but he's",
+    "start": 2353.86,
+    "duration": 1.74
+  },
+  {
+    "text": "trying to convince me\nthat Derek Jeter actually",
+    "start": 2355.6,
+    "duration": 2.37
+  },
+  {
+    "text": "applied the tag to Dave\nRoberts critical steal",
+    "start": 2357.97,
+    "duration": 3.75
+  },
+  {
+    "text": "in [INAUDIBLE] for several\npitched verbal battle.",
+    "start": 2361.72,
+    "duration": 6.643
+  },
+  {
+    "text": "ADI IGNATIUS: You just got to\nwatch it over and over again",
+    "start": 2368.363,
+    "duration": 2.417
+  },
+  {
+    "text": "to find out.",
+    "start": 2370.78,
+    "duration": 0.89
+  },
+  {
+    "text": "SAMANTHA POWER: I think\nthat they're encouraging me.",
+    "start": 2371.67,
+    "duration": 3.05
+  },
+  {
+    "text": "It didn't go over well.",
+    "start": 2374.72,
+    "duration": 1.145
+  },
+  {
+    "text": "There's just too much\nof an investment.",
+    "start": 2378.575,
+    "duration": 1.625
+  },
+  {
+    "text": "Baseball is all about\nthe reward on investment.",
+    "start": 2380.2,
+    "duration": 3.39
+  },
+  {
+    "text": "So The Last Dance has\nbeen a little bit of a--",
+    "start": 2383.59,
+    "duration": 3.36
+  },
+  {
+    "text": "offered some solace,\ndifferent sport,",
+    "start": 2386.95,
+    "duration": 1.8
+  },
+  {
+    "text": "but a nice way to remember\nwhat sports offers all of us,",
+    "start": 2388.75,
+    "duration": 6.21
+  },
+  {
+    "text": "and a family bonding device.",
+    "start": 2394.96,
+    "duration": 2.04
+  },
+  {
+    "text": "But we're hopeful that they're\ngoing to get baseball back.",
+    "start": 2397.0,
+    "duration": 3.03
+  },
+  {
+    "text": "It's not going to\nlook like it used to.",
+    "start": 2400.03,
+    "duration": 2.64
+  },
+  {
+    "text": "My son, I should note because\nhe's a Washington Nationals",
+    "start": 2402.67,
+    "duration": 2.44
+  },
+  {
+    "text": "fan.",
+    "start": 2405.11,
+    "duration": 0.5
+  },
+  {
+    "text": "He's pretty mixed.",
+    "start": 2405.61,
+    "duration": 0.905
+  },
+  {
+    "text": "He watches 162 games a year.",
+    "start": 2409.15,
+    "duration": 1.58
+  },
+  {
+    "text": "He's a fanatic, but\nhe's a little bit",
+    "start": 2410.73,
+    "duration": 3.37
+  },
+  {
+    "text": "torn between getting to be the\nWorld Series champion forever.",
+    "start": 2414.1,
+    "duration": 4.995
+  },
+  {
+    "text": "ADI IGNATIUS: If they\nnever play again, yeah.",
+    "start": 2423.555,
+    "duration": 1.875
+  },
+  {
+    "text": "SAMANTHA POWER:\n[INAUDIBLE] here probably.",
+    "start": 2425.43,
+    "duration": 2.68
+  },
+  {
+    "text": "When he thinks about empty\nstadium, not being able to",
+    "start": 2428.11,
+    "duration": 3.48
+  },
+  {
+    "text": "have a full season, having\nlost Anthony Rendon.",
+    "start": 2431.59,
+    "duration": 4.05
+  },
+  {
+    "text": "And he weights that\nagainst actually",
+    "start": 2435.64,
+    "duration": 2.22
+  },
+  {
+    "text": "just being able to call himself\nworld champion for longer.",
+    "start": 2437.86,
+    "duration": 2.82
+  },
+  {
+    "text": "He's more mature\nthan you'd expect.",
+    "start": 2440.68,
+    "duration": 3.503
+  },
+  {
+    "text": "ADI IGNATIUS: Your\ngreatest moment",
+    "start": 2444.183,
+    "duration": 1.417
+  },
+  {
+    "text": "of international\ndiplomacy was when",
+    "start": 2445.6,
+    "duration": 1.44
+  },
+  {
+    "text": "you thanked the\nJapanese government",
+    "start": 2447.04,
+    "duration": 1.47
+  },
+  {
+    "text": "for the two Japanese\nrelief pitchers who",
+    "start": 2448.51,
+    "duration": 2.79
+  },
+  {
+    "text": "helped deliver the World Series\nto the Red Sox a few years ago.",
+    "start": 2451.3,
+    "duration": 3.04
+  },
+  {
+    "text": "SAMANTHA POWER: Thank\nyou for remembering.",
+    "start": 2454.34,
+    "duration": 1.75
+  },
+  {
+    "text": "Thank you for remembering.",
+    "start": 2456.09,
+    "duration": 1.48
+  },
+  {
+    "text": "ADI IGNATIUS: All\nright, so quickly,",
+    "start": 2457.57,
+    "duration": 1.68
+  },
+  {
+    "text": "we'd like to do a little\nsegment called here today",
+    "start": 2459.25,
+    "duration": 2.34
+  },
+  {
+    "text": "or here to stay.",
+    "start": 2461.59,
+    "duration": 1.83
+  },
+  {
+    "text": "And let's just do\nreally quick on that.",
+    "start": 2463.42,
+    "duration": 2.67
+  },
+  {
+    "text": "Josh, you want to do one?",
+    "start": 2466.09,
+    "duration": 2.37
+  },
+  {
+    "text": "JOSHUA MACHT: OK, so\ngraduation rituals.",
+    "start": 2468.46,
+    "duration": 1.68
+  },
+  {
+    "text": "I have a daughter who's leaving\nhigh school this spring.",
+    "start": 2472.85,
+    "duration": 5.45
+  },
+  {
+    "text": "There we go.",
+    "start": 2478.3,
+    "duration": 0.55
+  },
+  {
+    "text": "There's the sign.",
+    "start": 2478.85,
+    "duration": 1.01
+  },
+  {
+    "text": "Now. this sign is\none-- and dogs too.",
+    "start": 2479.86,
+    "duration": 2.39
+  },
+  {
+    "text": "My dogs which you\ndidn't hear today.",
+    "start": 2482.25,
+    "duration": 1.78
+  },
+  {
+    "text": "I think you heard Adi's dogs.",
+    "start": 2484.03,
+    "duration": 1.208
+  },
+  {
+    "text": "ADI IGNATIUS: Sorry about that.",
+    "start": 2485.238,
+    "duration": 1.292
+  },
+  {
+    "text": "JOSHUA MACHT: That's OK.",
+    "start": 2486.53,
+    "duration": 1.12
+  },
+  {
+    "text": "But this is actually a sign\nthat's a line of signs a mile",
+    "start": 2487.65,
+    "duration": 3.7
+  },
+  {
+    "text": "long, with each\nindividual's name on it.",
+    "start": 2491.35,
+    "duration": 1.92
+  },
+  {
+    "text": "You can go take your\npicture with it.",
+    "start": 2493.27,
+    "duration": 1.59
+  },
+  {
+    "text": "And it's just such a\ngreat way, I think,",
+    "start": 2494.86,
+    "duration": 2.16
+  },
+  {
+    "text": "when you can't have the big--",
+    "start": 2497.02,
+    "duration": 2.1
+  },
+  {
+    "text": "when we can't all congregate.",
+    "start": 2499.12,
+    "duration": 1.71
+  },
+  {
+    "text": "And I've seen many,\nmany different ways",
+    "start": 2500.83,
+    "duration": 1.89
+  },
+  {
+    "text": "that we see people\ncelebrating these milestones.",
+    "start": 2502.72,
+    "duration": 3.515
+  },
+  {
+    "text": "That are kind of fun and\ninteresting and maybe even",
+    "start": 2506.235,
+    "duration": 2.125
+  },
+  {
+    "text": "a little bit better than sitting\nthrough that long high school",
+    "start": 2508.36,
+    "duration": 2.583
+  },
+  {
+    "text": "graduation.",
+    "start": 2510.943,
+    "duration": 0.667
+  },
+  {
+    "text": "Not that I was going\nto mind it, Charlotte.",
+    "start": 2511.61,
+    "duration": 2.24
+  },
+  {
+    "text": "I sort of hope that that stays\non long after this moment.",
+    "start": 2518.71,
+    "duration": 4.305
+  },
+  {
+    "text": "I don't know what\nyou guys think.",
+    "start": 2523.015,
+    "duration": 1.375
+  },
+  {
+    "text": "ADI IGNATIUS:\nYeah, I love these.",
+    "start": 2524.39,
+    "duration": 1.375
+  },
+  {
+    "text": "I spoke to somebody,\na parent who",
+    "start": 2525.765,
+    "duration": 3.595
+  },
+  {
+    "text": "was present at a kind of a\nZoom version of their child's",
+    "start": 2529.36,
+    "duration": 3.66
+  },
+  {
+    "text": "college graduation.",
+    "start": 2533.02,
+    "duration": 0.99
+  },
+  {
+    "text": "And it's not the way\nyou want to do it.",
+    "start": 2534.01,
+    "duration": 2.74
+  },
+  {
+    "text": "[INAUDIBLE] she said there was\nan intimacy with the speaker",
+    "start": 2536.75,
+    "duration": 2.93
+  },
+  {
+    "text": "that you don't necessarily\nget if you're in a stadium,",
+    "start": 2539.68,
+    "duration": 3.7
+  },
+  {
+    "text": "and tens of thousands\nof kids are graduating",
+    "start": 2543.38,
+    "duration": 2.235
+  },
+  {
+    "text": "and there's a tiny little\nspeaker far, far away from you.",
+    "start": 2545.615,
+    "duration": 2.375
+  },
+  {
+    "text": "So there was actually\nsomething positive.",
+    "start": 2547.99,
+    "duration": 1.84
+  },
+  {
+    "text": "I love these things\non the street.",
+    "start": 2549.83,
+    "duration": 1.52
+  },
+  {
+    "text": "Look, I hope we keep\nappreciating frontline workers,",
+    "start": 2554.29,
+    "duration": 3.0
+  },
+  {
+    "text": "and I hope we keep\nappreciating health workers,",
+    "start": 2557.29,
+    "duration": 2.13
+  },
+  {
+    "text": "and I hope we appreciate\ngraduates the way we have.",
+    "start": 2559.42,
+    "duration": 3.42
+  },
+  {
+    "text": "The pandemic has\ndriven us apart,",
+    "start": 2562.84,
+    "duration": 1.83
+  },
+  {
+    "text": "but it's the moments when we\nrealize new ways to connect",
+    "start": 2564.67,
+    "duration": 3.81
+  },
+  {
+    "text": "have been really moving,\nand I hope they do survive.",
+    "start": 2568.48,
+    "duration": 2.97
+  },
+  {
+    "text": "SAMANTHA POWER:\nYeah, I was slated",
+    "start": 2571.45,
+    "duration": 1.59
+  },
+  {
+    "text": "to give four\ncommencement speeches",
+    "start": 2573.04,
+    "duration": 3.91
+  },
+  {
+    "text": "and talk about needing\nto learn to say no.",
+    "start": 2576.95,
+    "duration": 5.06
+  },
+  {
+    "text": "Then this struck.",
+    "start": 2582.01,
+    "duration": 2.957
+  },
+  {
+    "text": "I had already begun to\nthink about the different--",
+    "start": 2584.967,
+    "duration": 2.083
+  },
+  {
+    "text": "I was doing two high schools\nand two universities.",
+    "start": 2587.05,
+    "duration": 3.27
+  },
+  {
+    "text": "And so it's sort of an\ninteresting sort of insight",
+    "start": 2590.32,
+    "duration": 5.61
+  },
+  {
+    "text": "into what different\nschools are doing.",
+    "start": 2595.93,
+    "duration": 1.89
+  },
+  {
+    "text": "So one of the universities\nI was supposed to speak at",
+    "start": 2597.82,
+    "duration": 2.67
+  },
+  {
+    "text": "canceled altogether.",
+    "start": 2600.49,
+    "duration": 1.38
+  },
+  {
+    "text": "And it's having no Zoom\nanything, unfortunately.",
+    "start": 2601.87,
+    "duration": 3.75
+  },
+  {
+    "text": "Another asked for a written\node to the graduating class.",
+    "start": 2605.62,
+    "duration": 6.21
+  },
+  {
+    "text": "And among the high\nschools, one of them,",
+    "start": 2611.83,
+    "duration": 2.43
+  },
+  {
+    "text": "which is here in Massachusetts.",
+    "start": 2614.26,
+    "duration": 1.59
+  },
+  {
+    "text": "I'm actually going--",
+    "start": 2615.85,
+    "duration": 1.21
+  },
+  {
+    "text": "I think at the end of\nthis week or next week--",
+    "start": 2617.06,
+    "duration": 2.52
+  },
+  {
+    "text": "and standing at an empty podium.",
+    "start": 2619.58,
+    "duration": 1.91
+  },
+  {
+    "text": "And they're doing\nthe livestream.",
+    "start": 2621.49,
+    "duration": 2.28
+  },
+  {
+    "text": "They'll be talking\nabout Korean baseball.",
+    "start": 2623.77,
+    "duration": 3.7
+  },
+  {
+    "text": "Hard to get used to.",
+    "start": 2627.47,
+    "duration": 0.86
+  },
+  {
+    "text": "One of the things I'm\nreally looking forward to,",
+    "start": 2631.65,
+    "duration": 2.0
+  },
+  {
+    "text": "and I just have my\nfingers crossed that",
+    "start": 2633.65,
+    "duration": 2.18
+  },
+  {
+    "text": "as a professor myself,\nthat the students",
+    "start": 2635.83,
+    "duration": 1.8
+  },
+  {
+    "text": "are going to be back\non campus in the fall.",
+    "start": 2637.63,
+    "duration": 2.4
+  },
+  {
+    "text": "But I do think that all\nof the things you take for",
+    "start": 2640.03,
+    "duration": 2.85
+  },
+  {
+    "text": "granted about the social, about\nthose after class conversations",
+    "start": 2642.88,
+    "duration": 6.37
+  },
+  {
+    "text": "you have with the professor\nor among students.",
+    "start": 2649.25,
+    "duration": 5.0
+  },
+  {
+    "text": "Just the spontaneity\nand so forth.",
+    "start": 2654.25,
+    "duration": 2.94
+  },
+  {
+    "text": "I think that when we go\nback, it won't look the same.",
+    "start": 2657.19,
+    "duration": 3.27
+  },
+  {
+    "text": "Yes, classes will\nbe not as crowded.",
+    "start": 2660.46,
+    "duration": 3.103
+  },
+  {
+    "text": "People will be walking\nin one direction,",
+    "start": 2663.563,
+    "duration": 1.667
+  },
+  {
+    "text": "and wearing masks, and this\nand that and the other.",
+    "start": 2665.23,
+    "duration": 1.33
+  },
+  {
+    "text": "But the one thing that would\nbe great to be different",
+    "start": 2666.56,
+    "duration": 2.99
+  },
+  {
+    "text": "when we do return is\njust that smelling of the",
+    "start": 2669.55,
+    "duration": 2.97
+  },
+  {
+    "text": "rose of group dynamics,\ngroup settings,",
+    "start": 2672.52,
+    "duration": 4.87
+  },
+  {
+    "text": "of important friendships.",
+    "start": 2677.39,
+    "duration": 1.623
+  },
+  {
+    "text": "It's so stilted in a way because\nyou have to call up and--",
+    "start": 2679.013,
+    "duration": 2.417
+  },
+  {
+    "text": "can we have a Zoom drink, or\ncan we have a Zoom flirtation.",
+    "start": 2681.43,
+    "duration": 5.28
+  },
+  {
+    "text": "And to just be looking\naround, and anything",
+    "start": 2686.71,
+    "duration": 3.24
+  },
+  {
+    "text": "that makes us not take\nfor granted the joys",
+    "start": 2689.95,
+    "duration": 4.02
+  },
+  {
+    "text": "that we have without--",
+    "start": 2693.97,
+    "duration": 1.26
+  },
+  {
+    "text": "that become kind of\npart of our wallpaper.",
+    "start": 2695.23,
+    "duration": 2.46
+  },
+  {
+    "text": "I think that could be a\nlovely benefit on the back end",
+    "start": 2697.69,
+    "duration": 3.93
+  },
+  {
+    "text": "when we do come back together.",
+    "start": 2701.62,
+    "duration": 1.87
+  },
+  {
+    "text": "JOSHUA MACHT: Yeah, I agree.",
+    "start": 2703.49,
+    "duration": 1.273
+  },
+  {
+    "text": "ADI IGNATIUS: All\nright, so I want",
+    "start": 2704.763,
+    "duration": 1.417
+  },
+  {
+    "text": "to thank Ambassador Samantha\nPower for being our guest today",
+    "start": 2706.18,
+    "duration": 3.45
+  },
+  {
+    "text": "on HBR Quarantined.",
+    "start": 2709.63,
+    "duration": 1.89
+  },
+  {
+    "text": "Really generous of you to\ngive us a lot of your time,",
+    "start": 2711.52,
+    "duration": 2.46
+  },
+  {
+    "text": "and good luck surviving this\nvery, very strange moment going",
+    "start": 2713.98,
+    "duration": 4.68
+  },
+  {
+    "text": "forward.",
+    "start": 2718.66,
+    "duration": 0.51
+  },
+  {
+    "text": "SAMANTHA POWER: You too.",
+    "start": 2719.17,
+    "duration": 1.0
+  },
+  {
+    "text": "Thank you so much for having me.",
+    "start": 2720.17,
+    "duration": 1.333
+  },
+  {
+    "text": "Thanks for all the\ngreat comments too.",
+    "start": 2721.503,
+    "duration": 1.775
+  },
+  {
+    "text": "JOSHUA MACHT: Thanks, Samantha.",
+    "start": 2723.278,
+    "duration": 1.292
+  },
+  {
+    "text": "ADI IGNATIUS: And Josh, you\nwant to talk about our guest",
+    "start": 2724.57,
+    "duration": 1.53
+  },
+  {
+    "text": "next week?",
+    "start": 2726.1,
+    "duration": 0.698
+  },
+  {
+    "text": "JOSHUA MACHT: Sure.",
+    "start": 2726.798,
+    "duration": 0.792
+  },
+  {
+    "text": "Our guest next week,\nwhich next week,",
+    "start": 2727.59,
+    "duration": 2.25
+  },
+  {
+    "text": "it will be Monday,\njust the normal Monday",
+    "start": 2729.84,
+    "duration": 2.59
+  },
+  {
+    "text": "when HBR Quarantined\nresumes with Adam Grant, who",
+    "start": 2732.43,
+    "duration": 3.78
+  },
+  {
+    "text": "is a psychologist and\na professor at Wharton",
+    "start": 2736.21,
+    "duration": 1.98
+  },
+  {
+    "text": "School of Business at the\nUniversity of Pennsylvania.",
+    "start": 2738.19,
+    "duration": 3.09
+  },
+  {
+    "text": "Adam will talk with us a little\nbit about remote collaboration",
+    "start": 2741.28,
+    "duration": 4.65
+  },
+  {
+    "text": "during this time, as well as\nkeeping that company culture,",
+    "start": 2745.93,
+    "duration": 4.14
+  },
+  {
+    "text": "or not keeping it, I guess.",
+    "start": 2750.07,
+    "duration": 1.335
+  },
+  {
+    "text": "I guess that's what we'll\nhave to talk to him about.",
+    "start": 2751.405,
+    "duration": 1.665
+  },
+  {
+    "text": "What is it that\ncompanies want to do",
+    "start": 2753.07,
+    "duration": 1.502
+  },
+  {
+    "text": "and take from this\nmoment moving forward?",
+    "start": 2754.572,
+    "duration": 1.708
+  },
+  {
+    "text": "So that should be a\ngreat conversation.",
+    "start": 2756.28,
+    "duration": 2.19
+  },
+  {
+    "text": "Also just to remind\nyou, the shameless",
+    "start": 2758.47,
+    "duration": 2.76
+  },
+  {
+    "text": "plug for HBR if you enjoy\nwhat you're seeing here,",
+    "start": 2761.23,
+    "duration": 3.63
+  },
+  {
+    "text": "and you want to\nget more of this.",
+    "start": 2764.86,
+    "duration": 2.37
+  },
+  {
+    "text": "Go to hbr.org, where\nyou can subscribe.",
+    "start": 2767.23,
+    "duration": 3.06
+  },
+  {
+    "text": "And I just want to thank you\nall for coming this week,",
+    "start": 2770.29,
+    "duration": 2.76
+  },
+  {
+    "text": "and I hope you have a\ngreat rest of your week.",
+    "start": 2773.05,
+    "duration": 2.94
+  },
+  {
+    "text": "So long.",
+    "start": 2775.99,
+    "duration": 1.998
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 2777.988,
+    "duration": 3.472
+  },
+  {
+    "text": "OK, we're back on.",
+    "start": 2795.505,
+    "duration": 1.235
+  },
+  {
+    "text": "ADI IGNATIUS: So we're back,\nand we know we're back.",
+    "start": 2796.74,
+    "duration": 2.167
+  },
+  {
+    "text": "JOSHUA MACHT: We\nknow we're back.",
+    "start": 2798.907,
+    "duration": 1.375
+  },
+  {
+    "text": "We're back.",
+    "start": 2800.282,
+    "duration": 0.651
+  },
+  {
+    "text": "ADI IGNATIUS: We\nlike to come back",
+    "start": 2800.933,
+    "duration": 1.417
+  },
+  {
+    "text": "after the show to do a quick\nlittle post-mortem on the show.",
+    "start": 2802.35,
+    "duration": 2.73
+  },
+  {
+    "text": "So that's what this.",
+    "start": 2805.08,
+    "duration": 1.77
+  },
+  {
+    "text": "JOSHUA MACHT: Now, why didn't\nyou talk about my blazer?",
+    "start": 2806.85,
+    "duration": 2.45
+  },
+  {
+    "text": "ADI IGNATIUS: Oh yeah, sorry.",
+    "start": 2809.3,
+    "duration": 1.208
+  },
+  {
+    "text": "Well, this is the time now.",
+    "start": 2810.508,
+    "duration": 2.102
+  },
+  {
+    "text": "Josh, look.",
+    "start": 2812.61,
+    "duration": 1.14
+  },
+  {
+    "text": "Blazer.",
+    "start": 2813.75,
+    "duration": 0.99
+  },
+  {
+    "text": "DAVE DI IULIO: Nice blazer.",
+    "start": 2814.74,
+    "duration": 2.203
+  },
+  {
+    "text": "JOSHUA MACHT: I dressed\nup for the show.",
+    "start": 2816.943,
+    "duration": 1.667
+  },
+  {
+    "text": "For, well, the\nambassador, and the show.",
+    "start": 2818.61,
+    "duration": 2.178
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah.",
+    "start": 2820.788,
+    "duration": 0.792
+  },
+  {
+    "text": "So I thought she was great.",
+    "start": 2821.58,
+    "duration": 1.125
+  },
+  {
+    "text": "I thought there was a lot\nof really interesting ideas",
+    "start": 2822.705,
+    "duration": 2.56
+  },
+  {
+    "text": "and things to think about.",
+    "start": 2825.265,
+    "duration": 1.155
+  },
+  {
+    "text": "We had a lot of questions\nthat I wish I'd gotten to.",
+    "start": 2826.42,
+    "duration": 4.31
+  },
+  {
+    "text": "But we went along.",
+    "start": 2830.73,
+    "duration": 1.647
+  },
+  {
+    "text": "JOSHUA MACHT: Well,\nwere there any questions",
+    "start": 2832.377,
+    "duration": 1.833
+  },
+  {
+    "text": "that you think of as memorable\nthat we didn't get to?",
+    "start": 2834.21,
+    "duration": 3.03
+  },
+  {
+    "text": "[INTERPOSING VOICES]",
+    "start": 2837.24,
+    "duration": 1.9
+  },
+  {
+    "text": "JOSHUA MACHT: What was that?",
+    "start": 2840.09,
+    "duration": 1.62
+  },
+  {
+    "text": "ADI IGNATIUS: That was kind\nof a nightmare on my side.",
+    "start": 2841.71,
+    "duration": 2.79
+  },
+  {
+    "text": "I had children walking\naround in the background.",
+    "start": 2844.5,
+    "duration": 2.82
+  },
+  {
+    "text": "I had dogs barking.",
+    "start": 2847.32,
+    "duration": 1.133
+  },
+  {
+    "text": "JOSHUA MACHT: But he wasn't\nin his boxers, at least.",
+    "start": 2848.453,
+    "duration": 2.167
+  },
+  {
+    "text": "I mean, I felt like\nany moment now, someone",
+    "start": 2850.62,
+    "duration": 1.97
+  },
+  {
+    "text": "was coming in with a\ncigarette, bathrobe, dog.",
+    "start": 2852.59,
+    "duration": 2.505
+  },
+  {
+    "text": "ADI IGNATIUS: That\nwas just pure,",
+    "start": 2855.095,
+    "duration": 1.375
+  },
+  {
+    "text": "pure chance that it was not--",
+    "start": 2856.47,
+    "duration": 1.51
+  },
+  {
+    "text": "JOSHUA MACHT: It could\nhave been Dave, given.",
+    "start": 2857.98,
+    "duration": 1.875
+  },
+  {
+    "text": "I was just like, this is the\nstuff I don't want to see.",
+    "start": 2859.855,
+    "duration": 2.945
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah, so\nwe have to work on that.",
+    "start": 2862.8,
+    "duration": 2.61
+  },
+  {
+    "text": "JOSHUA MACHT: [INAUDIBLE]\nbackstage in your",
+    "start": 2865.41,
+    "duration": 3.12
+  },
+  {
+    "text": "whatever it is, where\nyou are right now.",
+    "start": 2868.53,
+    "duration": 1.76
+  },
+  {
+    "text": "ADI IGNATIUS: But there\nwere definitely questions.",
+    "start": 2870.29,
+    "duration": 1.27
+  },
+  {
+    "text": "People wanted to hear\nmore from Samantha",
+    "start": 2871.56,
+    "duration": 1.667
+  },
+  {
+    "text": "about how COVID-19 has\nimpacted America's reputation",
+    "start": 2873.227,
+    "duration": 5.983
+  },
+  {
+    "text": "as a global leader.",
+    "start": 2879.21,
+    "duration": 0.98
+  },
+  {
+    "text": "And I would have been interested\nin hearing more about that.",
+    "start": 2880.19,
+    "duration": 3.691
+  },
+  {
+    "text": "Let's see, what are some others.",
+    "start": 2883.881,
+    "duration": 1.759
+  },
+  {
+    "text": "There was [INAUDIBLE] more\nabout Ebola, which obviously",
+    "start": 2885.64,
+    "duration": 3.26
+  },
+  {
+    "text": "was very different in\nthe response and the kind",
+    "start": 2888.9,
+    "duration": 2.7
+  },
+  {
+    "text": "of coalition that existed.",
+    "start": 2891.6,
+    "duration": 1.95
+  },
+  {
+    "text": "But whether there were\nmore overt lessons that",
+    "start": 2893.55,
+    "duration": 2.88
+  },
+  {
+    "text": "could be extracted\nfrom that and applied",
+    "start": 2896.43,
+    "duration": 1.83
+  },
+  {
+    "text": "to the current situation.",
+    "start": 2898.26,
+    "duration": 1.953
+  },
+  {
+    "text": "JOSHUA MACHT: I think\none of the big parallels",
+    "start": 2900.213,
+    "duration": 1.917
+  },
+  {
+    "text": "that she resonates with\nme talking about it's what",
+    "start": 2902.13,
+    "duration": 3.78
+  },
+  {
+    "text": "we do in business all the time.",
+    "start": 2905.91,
+    "duration": 1.41
+  },
+  {
+    "text": "What we write about is how\nyou divide those resources.",
+    "start": 2907.32,
+    "duration": 2.52
+  },
+  {
+    "text": "Once you start talking just\nso much about the overweight",
+    "start": 2909.84,
+    "duration": 4.09
+  },
+  {
+    "text": "into the military response.",
+    "start": 2913.93,
+    "duration": 1.432
+  },
+  {
+    "text": "And then how do\nyou move resources.",
+    "start": 2915.362,
+    "duration": 1.458
+  },
+  {
+    "text": "What a great commencement\nspeaker she would be.",
+    "start": 2920.46,
+    "duration": 3.91
+  },
+  {
+    "text": "ADI IGNATIUS: The other\nthing about sports.",
+    "start": 2924.37,
+    "duration": 2.15
+  },
+  {
+    "text": "This is such a strange\ntime for those of us who--",
+    "start": 2926.52,
+    "duration": 3.06
+  },
+  {
+    "text": "for whom sports is important\npart of our daily rituals.",
+    "start": 2929.58,
+    "duration": 5.73
+  },
+  {
+    "text": "The sports station in Boston\nin the area last night",
+    "start": 2935.31,
+    "duration": 3.6
+  },
+  {
+    "text": "was playing a replay\nof the first Super Bowl",
+    "start": 2938.91,
+    "duration": 3.63
+  },
+  {
+    "text": "from 1967, just kind of playing\nit with all the pregame stuff",
+    "start": 2942.54,
+    "duration": 5.76
+  },
+  {
+    "text": "and without the kind of--",
+    "start": 2948.3,
+    "duration": 1.68
+  },
+  {
+    "text": "wasn't highlight.",
+    "start": 2949.98,
+    "duration": 0.81
+  },
+  {
+    "text": "It was just beginning\nto end, 3 and 1/2",
+    "start": 2950.79,
+    "duration": 2.04
+  },
+  {
+    "text": "hours of the first Super\nBowl to an audience.",
+    "start": 2952.83,
+    "duration": 2.49
+  },
+  {
+    "text": "JOSHUA MACHT: Green Bay?",
+    "start": 2955.32,
+    "duration": 1.35
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah,\nGreen Bay against--",
+    "start": 2956.67,
+    "duration": 1.625
+  },
+  {
+    "text": "[INTERPOSING VOICES]",
+    "start": 2958.295,
+    "duration": 1.08
+  },
+  {
+    "text": "DAVE DI IULIO: Yeah.",
+    "start": 2959.375,
+    "duration": 0.877
+  },
+  {
+    "text": "ADI IGNATIUS: Wasn't even\ncalled the Super Bowl then.",
+    "start": 2960.252,
+    "duration": 2.208
+  },
+  {
+    "text": "That's how that's\nhow long ago it was.",
+    "start": 2962.46,
+    "duration": 2.14
+  },
+  {
+    "text": "For those of us who are\njust starved for something.",
+    "start": 2964.6,
+    "duration": 3.245
+  },
+  {
+    "text": "JULIA BUTLER: I'd be\ninterested to know",
+    "start": 2967.845,
+    "duration": 1.625
+  },
+  {
+    "text": "did they [INAUDIBLE]\noriginal advertisements,",
+    "start": 2969.47,
+    "duration": 2.26
+  },
+  {
+    "text": "and what was an ad by for the\nSuper Bowl like back in, what,",
+    "start": 2971.73,
+    "duration": 3.12
+  },
+  {
+    "text": "1961?",
+    "start": 2974.85,
+    "duration": 3.097
+  },
+  {
+    "text": "JOSHUA MACHT: I think it was\nall just like real tobacco.",
+    "start": 2977.947,
+    "duration": 2.333
+  },
+  {
+    "text": "I want to know who the\nmusician was at halftime.",
+    "start": 2980.28,
+    "duration": 3.647
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah, that's true.",
+    "start": 2983.927,
+    "duration": 1.333
+  },
+  {
+    "text": "Don Ho, I think.",
+    "start": 2985.26,
+    "duration": 2.97
+  },
+  {
+    "text": "DAVE DI IULIO: No,\nthat's before Don's time.",
+    "start": 2988.23,
+    "duration": 2.382
+  },
+  {
+    "text": "JOSHUA MACHT: Maybe.",
+    "start": 2990.612,
+    "duration": 0.833
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah, maybe.",
+    "start": 2991.445,
+    "duration": 1.235
+  },
+  {
+    "text": "Wow, that really dates me.",
+    "start": 2992.68,
+    "duration": 1.49
+  },
+  {
+    "text": "If I'd come with a\nridiculously dated--",
+    "start": 2994.17,
+    "duration": 4.2
+  },
+  {
+    "text": "JOSHUA MACHT: I set\nyou up for that.",
+    "start": 2998.37,
+    "duration": 1.5
+  },
+  {
+    "text": "There you go.",
+    "start": 2999.87,
+    "duration": 2.87
+  },
+  {
+    "text": "ADI IGNATIUS: OK,\nwell that was good.",
+    "start": 3002.74,
+    "duration": 1.78
+  },
+  {
+    "text": "We should do this\nagain next week.",
+    "start": 3004.52,
+    "duration": 1.91
+  },
+  {
+    "text": "JULIA BUTLER: Yeah, on Monday.",
+    "start": 3006.43,
+    "duration": 1.73
+  },
+  {
+    "text": "JOSHUA MACHT: All\nright, I'll see you.",
+    "start": 3008.16,
+    "duration": 2.617
+  },
+  {
+    "text": "ADI IGNATIUS: See you on Monday.",
+    "start": 3010.777,
+    "duration": 1.333
+  },
+  {
+    "text": "Thanks for tuning in.",
+    "start": 3012.11,
+    "duration": 0.99
+  },
+  {
+    "text": "DAVE DI IULIO: All\nright, see you.",
+    "start": 3013.1,
+    "duration": 1.08
+  },
+  {
+    "text": "ADI IGNATIUS: Real Goodbye.",
+    "start": 3014.18,
+    "duration": 1.125
+  },
+  {
+    "text": "JOSHUA MACHT: Real goodbye.",
+    "start": 3015.305,
+    "duration": 1.185
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 3016.49,
+    "duration": 3.35
+  }
+]

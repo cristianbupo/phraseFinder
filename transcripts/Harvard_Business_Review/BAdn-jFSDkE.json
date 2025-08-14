@@ -1,0 +1,962 @@
+[
+  {
+    "text": "RAMSEY KHABBAZ: I'm\nRamsey Khabbaz, an editor",
+    "start": 0.0,
+    "duration": 1.17
+  },
+  {
+    "text": "at Harvard Business Review.",
+    "start": 1.17,
+    "duration": 0.96
+  },
+  {
+    "text": "And today, I'm\ngoing to be trying",
+    "start": 2.13,
+    "duration": 1.375
+  },
+  {
+    "text": "to understand, what are NFTs?",
+    "start": 3.505,
+    "duration": 2.435
+  },
+  {
+    "text": "I've been seeing this new\nacronym in the news a lot",
+    "start": 5.94,
+    "duration": 2.43
+  },
+  {
+    "text": "lately.",
+    "start": 8.37,
+    "duration": 0.99
+  },
+  {
+    "text": "NFTs seem to be everywhere.",
+    "start": 9.36,
+    "duration": 1.47
+  },
+  {
+    "text": "Everyone's talking about them.",
+    "start": 10.83,
+    "duration": 1.66
+  },
+  {
+    "text": "But I'm having a really\nhard time understanding.",
+    "start": 12.49,
+    "duration": 2.51
+  },
+  {
+    "text": "What are these things?",
+    "start": 15.0,
+    "duration": 1.239
+  },
+  {
+    "text": "How do they work?",
+    "start": 16.239,
+    "duration": 1.521
+  },
+  {
+    "text": "What's the point of them?",
+    "start": 17.76,
+    "duration": 1.21
+  },
+  {
+    "text": "And what are the\nimplications on business?",
+    "start": 18.97,
+    "duration": 2.07
+  },
+  {
+    "text": "So in order to unpack\nit, I called up",
+    "start": 21.04,
+    "duration": 1.73
+  },
+  {
+    "text": "my colleague, Tom Stackpole.",
+    "start": 22.77,
+    "duration": 1.26
+  },
+  {
+    "text": "He is a senior editor of\ntechnology here at HBR.",
+    "start": 24.03,
+    "duration": 3.99
+  },
+  {
+    "text": "Tom, NFTs, explain them to me.",
+    "start": 28.02,
+    "duration": 3.592
+  },
+  {
+    "text": "THOMAS STACKPOLE: Absolutely.",
+    "start": 31.612,
+    "duration": 1.208
+  },
+  {
+    "text": "They are kind of confusing.",
+    "start": 32.82,
+    "duration": 1.56
+  },
+  {
+    "text": "NFT stands for\nnon-fungible token.",
+    "start": 34.38,
+    "duration": 2.64
+  },
+  {
+    "text": "And basically, what this means\nis it's a digital object,",
+    "start": 37.02,
+    "duration": 3.51
+  },
+  {
+    "text": "and it's one of a kind.",
+    "start": 40.53,
+    "duration": 1.488
+  },
+  {
+    "text": "RAMSEY KHABBAZ: Can you\nexplain this term non-fungible?",
+    "start": 42.018,
+    "duration": 2.292
+  },
+  {
+    "text": "Because aside from just\nbeing a fun word to say,",
+    "start": 44.31,
+    "duration": 2.88
+  },
+  {
+    "text": "I feel like it's a key\nterm in this acronym.",
+    "start": 47.19,
+    "duration": 3.2
+  },
+  {
+    "text": "THOMAS STACKPOLE: Right.",
+    "start": 50.39,
+    "duration": 1.0
+  },
+  {
+    "text": "Totally.",
+    "start": 51.39,
+    "duration": 0.5
+  },
+  {
+    "text": "So yeah, fungibility\nis the key here, right?",
+    "start": 51.89,
+    "duration": 4.33
+  },
+  {
+    "text": "Fungibility means you\ncan exchange something",
+    "start": 56.22,
+    "duration": 3.39
+  },
+  {
+    "text": "for something that's\nexactly the same.",
+    "start": 59.61,
+    "duration": 2.01
+  },
+  {
+    "text": "Dollars are fungible,\nbut the Mona Lisa is not.",
+    "start": 61.62,
+    "duration": 4.53
+  },
+  {
+    "text": "There's one Mona Lisa.",
+    "start": 66.15,
+    "duration": 1.33
+  },
+  {
+    "text": "You can look at replicas\nor posters of it,",
+    "start": 67.48,
+    "duration": 4.04
+  },
+  {
+    "text": "but there's really\njust one of them.",
+    "start": 71.52,
+    "duration": 2.065
+  },
+  {
+    "text": "RAMSEY KHABBAZ: Could\nyou explain to me",
+    "start": 73.585,
+    "duration": 1.625
+  },
+  {
+    "text": "how NFTs relate to two\nother key tech buzzwords--",
+    "start": 75.21,
+    "duration": 5.13
+  },
+  {
+    "text": "Bitcoin and blockchain?",
+    "start": 80.34,
+    "duration": 1.68
+  },
+  {
+    "text": "What's the relationship\nbetween those three terms?",
+    "start": 82.02,
+    "duration": 2.67
+  },
+  {
+    "text": "THOMAS STACKPOLE: So\nNFTs and Bitcoin--",
+    "start": 84.69,
+    "duration": 3.63
+  },
+  {
+    "text": "or cryptocurrency in general--",
+    "start": 88.32,
+    "duration": 2.34
+  },
+  {
+    "text": "are built on blockchain.",
+    "start": 90.66,
+    "duration": 2.67
+  },
+  {
+    "text": "Blockchain is a\nterm we hear a lot,",
+    "start": 93.33,
+    "duration": 2.02
+  },
+  {
+    "text": "but it basically\nmeans a technology",
+    "start": 95.35,
+    "duration": 2.18
+  },
+  {
+    "text": "that uses a distributed ledger.",
+    "start": 97.53,
+    "duration": 2.97
+  },
+  {
+    "text": "So the trick about\na distributed ledger",
+    "start": 100.5,
+    "duration": 2.153
+  },
+  {
+    "text": "is it basically means the\nsame information is stored",
+    "start": 102.653,
+    "duration": 2.167
+  },
+  {
+    "text": "in a bunch of different places.",
+    "start": 104.82,
+    "duration": 1.59
+  },
+  {
+    "text": "With cryptocurrency, it's a way\nto verify that digital money is",
+    "start": 106.41,
+    "duration": 2.85
+  },
+  {
+    "text": "real, that it's worth something,\nAnd it's not just like--",
+    "start": 109.26,
+    "duration": 2.73
+  },
+  {
+    "text": "I don't know-- a PDF\nthat I made that says,",
+    "start": 111.99,
+    "duration": 2.11
+  },
+  {
+    "text": "I have this much money.",
+    "start": 114.1,
+    "duration": 0.98
+  },
+  {
+    "text": "With NFTs, basically you\nget a stamp that says,",
+    "start": 115.08,
+    "duration": 4.44
+  },
+  {
+    "text": "I bought this gift, and\nthis is the original gift.",
+    "start": 119.52,
+    "duration": 5.3
+  },
+  {
+    "text": "This is the real one.",
+    "start": 124.82,
+    "duration": 2.11
+  },
+  {
+    "text": "RAMSEY KHABBAZ: So\nin real world terms,",
+    "start": 126.93,
+    "duration": 4.32
+  },
+  {
+    "text": "blockchain is basically\njust creating a certificate",
+    "start": 131.25,
+    "duration": 3.0
+  },
+  {
+    "text": "of authenticity\nthat you would get",
+    "start": 134.25,
+    "duration": 1.98
+  },
+  {
+    "text": "with any expensive piece of\nart or expensive collectible.",
+    "start": 136.23,
+    "duration": 4.257
+  },
+  {
+    "text": "THOMAS STACKPOLE: Yeah, exactly.",
+    "start": 140.487,
+    "duration": 1.333
+  },
+  {
+    "text": "And the way that it\nworks is that it's",
+    "start": 141.82,
+    "duration": 1.31
+  },
+  {
+    "text": "stored in a bunch of different\nplaces at the same time.",
+    "start": 143.13,
+    "duration": 2.35
+  },
+  {
+    "text": "So it's like, you can't\nforge it because it's on all",
+    "start": 145.48,
+    "duration": 2.3
+  },
+  {
+    "text": "of these other computers.",
+    "start": 147.78,
+    "duration": 2.1
+  },
+  {
+    "text": "RAMSEY KHABBAZ: Can you give\nus some examples of where NFTs",
+    "start": 152.97,
+    "duration": 2.49
+  },
+  {
+    "text": "are popping up in real life?",
+    "start": 155.46,
+    "duration": 1.77
+  },
+  {
+    "text": "THOMAS STACKPOLE: I mean,\nbasically, the reason",
+    "start": 157.23,
+    "duration": 1.11
+  },
+  {
+    "text": "they're in the news\nis because people",
+    "start": 158.34,
+    "duration": 1.542
+  },
+  {
+    "text": "are making a ton of money.",
+    "start": 159.882,
+    "duration": 2.058
+  },
+  {
+    "text": "A piece of art by\nan artist named",
+    "start": 161.94,
+    "duration": 1.56
+  },
+  {
+    "text": "Beeple was sold at\nChristie's for $69 million.",
+    "start": 163.5,
+    "duration": 4.37
+  },
+  {
+    "text": "Also, artists like Grimes have\nbeen making NFT pieces of art",
+    "start": 167.87,
+    "duration": 4.33
+  },
+  {
+    "text": "that they've sold\nfor bunches of money.",
+    "start": 172.2,
+    "duration": 2.903
+  },
+  {
+    "text": "The NBA is getting\nin on the game.",
+    "start": 175.103,
+    "duration": 1.417
+  },
+  {
+    "text": "They've been making these\ntrading-card-style NFTs called",
+    "start": 176.52,
+    "duration": 4.56
+  },
+  {
+    "text": "Moments.",
+    "start": 181.08,
+    "duration": 0.63
+  },
+  {
+    "text": "So you're an NBA guy, right?",
+    "start": 181.71,
+    "duration": 2.52
+  },
+  {
+    "text": "You collect cards.",
+    "start": 184.23,
+    "duration": 3.18
+  },
+  {
+    "text": "RAMSEY KHABBAZ: I\nused to collect cards.",
+    "start": 187.41,
+    "duration": 1.748
+  },
+  {
+    "text": "But I don't know if I'm going\nto be getting into the Top Shot",
+    "start": 189.158,
+    "duration": 2.542
+  },
+  {
+    "text": "craze.",
+    "start": 191.7,
+    "duration": 0.57
+  },
+  {
+    "text": "[CHUCKLES]",
+    "start": 192.27,
+    "duration": 1.47
+  },
+  {
+    "text": "THOMAS STACKPOLE: So\nbasically, with Top Shot,",
+    "start": 193.74,
+    "duration": 2.37
+  },
+  {
+    "text": "it's basically clips that\nyou can find on YouTube,",
+    "start": 196.11,
+    "duration": 4.05
+  },
+  {
+    "text": "but they're an authenticated\npart of a series.",
+    "start": 200.16,
+    "duration": 4.86
+  },
+  {
+    "text": "So yeah, basically, there's\nthis new collecting craze,",
+    "start": 205.02,
+    "duration": 3.15
+  },
+  {
+    "text": "and people are\nburning through cash.",
+    "start": 208.17,
+    "duration": 3.27
+  },
+  {
+    "text": "RAMSEY KHABBAZ: Are the people\nspending on NFTs right now",
+    "start": 211.44,
+    "duration": 3.0
+  },
+  {
+    "text": "and putting their\nmoney in there?",
+    "start": 214.44,
+    "duration": 1.613
+  },
+  {
+    "text": "Do you think that\nthey're doing so",
+    "start": 216.053,
+    "duration": 1.417
+  },
+  {
+    "text": "because they see\na real collectible",
+    "start": 217.47,
+    "duration": 3.87
+  },
+  {
+    "text": "value in these things?",
+    "start": 221.34,
+    "duration": 1.08
+  },
+  {
+    "text": "Or do you think it's a\nmore cynical money move,",
+    "start": 222.42,
+    "duration": 4.56
+  },
+  {
+    "text": "and they're just going to\nplan on flipping and riding",
+    "start": 226.98,
+    "duration": 3.15
+  },
+  {
+    "text": "this wave?",
+    "start": 230.13,
+    "duration": 1.14
+  },
+  {
+    "text": "THOMAS STACKPOLE: I\nthink a lot of people",
+    "start": 231.27,
+    "duration": 0.75
+  },
+  {
+    "text": "are asking that question.",
+    "start": 232.02,
+    "duration": 1.042
+  },
+  {
+    "text": "And so if you think\nabout collecting",
+    "start": 233.062,
+    "duration": 1.988
+  },
+  {
+    "text": "and why people\ncollect, they collect",
+    "start": 235.05,
+    "duration": 1.5
+  },
+  {
+    "text": "for all kinds of reasons.",
+    "start": 236.55,
+    "duration": 1.48
+  },
+  {
+    "text": "And on some level, most of\nthem are irrational, right?",
+    "start": 238.03,
+    "duration": 3.74
+  },
+  {
+    "text": "Beanie Babies are a\ncouple dollars of--",
+    "start": 241.77,
+    "duration": 5.455
+  },
+  {
+    "text": "maybe, not even that--\nbut a little bit",
+    "start": 247.225,
+    "duration": 1.625
+  },
+  {
+    "text": "of fabric and stuffing, and\nthose were worth a ton of money",
+    "start": 248.85,
+    "duration": 3.6
+  },
+  {
+    "text": "at some point.",
+    "start": 252.45,
+    "duration": 0.87
+  },
+  {
+    "text": "A Michael Jordan rookie\ncard is just paper and ink,",
+    "start": 253.32,
+    "duration": 2.85
+  },
+  {
+    "text": "but some people are\ninvesting in it.",
+    "start": 256.17,
+    "duration": 1.95
+  },
+  {
+    "text": "Some people, maybe, are\njust super into basketball,",
+    "start": 258.12,
+    "duration": 2.125
+  },
+  {
+    "text": "and like the history,\nand like the fact",
+    "start": 260.245,
+    "duration": 1.774
+  },
+  {
+    "text": "that they own an object\nthat other people can't",
+    "start": 262.019,
+    "duration": 2.851
+  },
+  {
+    "text": "get their hands on.",
+    "start": 264.87,
+    "duration": 0.99
+  },
+  {
+    "text": "I think the thing that's\ndriving this is scarcity.",
+    "start": 265.86,
+    "duration": 3.22
+  },
+  {
+    "text": "So if you think about the\ndigital economy, up until now,",
+    "start": 269.08,
+    "duration": 2.36
+  },
+  {
+    "text": "scarcity has been\nreally hard to create.",
+    "start": 271.44,
+    "duration": 2.64
+  },
+  {
+    "text": "It's like, I make a funny GIF.",
+    "start": 274.08,
+    "duration": 2.93
+  },
+  {
+    "text": "Give me some credit\nfor trying to do that.",
+    "start": 277.01,
+    "duration": 1.75
+  },
+  {
+    "text": "But let's say I made\na GIF that's great,",
+    "start": 278.76,
+    "duration": 3.54
+  },
+  {
+    "text": "and it went viral.",
+    "start": 282.3,
+    "duration": 1.5
+  },
+  {
+    "text": "With NFTs, all of a sudden it's\nlike, you can create scarcity",
+    "start": 283.8,
+    "duration": 6.15
+  },
+  {
+    "text": "on the internet.",
+    "start": 289.95,
+    "duration": 0.84
+  },
+  {
+    "text": "You know the flying Pop Tart\ncat with the rainbow, Nyan Cat?",
+    "start": 290.79,
+    "duration": 4.177
+  },
+  {
+    "text": "RAMSEY KHABBAZ: Nyan-- yeah,\nI don't know how to say it.",
+    "start": 294.967,
+    "duration": 2.333
+  },
+  {
+    "text": "[CHUCKLES]",
+    "start": 297.3,
+    "duration": 0.58
+  },
+  {
+    "text": "THOMAS STACKPOLE: I think\nthat's how you say it.",
+    "start": 297.88,
+    "duration": 1.17
+  },
+  {
+    "text": "I don't know either.",
+    "start": 299.05,
+    "duration": 0.833
+  },
+  {
+    "text": "I hope it's how you say it.",
+    "start": 299.883,
+    "duration": 1.957
+  },
+  {
+    "text": "But now, you can be like,\noh yeah, I own Nyan Cat.",
+    "start": 301.84,
+    "duration": 4.26
+  },
+  {
+    "text": "Everyone can see it,\nbut you're the guy",
+    "start": 306.1,
+    "duration": 2.16
+  },
+  {
+    "text": "who owns the Nyan Cat GIF.",
+    "start": 308.26,
+    "duration": 3.247
+  },
+  {
+    "text": "RAMSEY KHABBAZ: What\nhappens if people",
+    "start": 311.507,
+    "duration": 1.583
+  },
+  {
+    "text": "stop believing that\nthe scarcity actually",
+    "start": 313.09,
+    "duration": 2.01
+  },
+  {
+    "text": "makes these things valuable?",
+    "start": 315.1,
+    "duration": 1.802
+  },
+  {
+    "text": "THOMAS STACKPOLE: Yeah.",
+    "start": 316.902,
+    "duration": 0.958
+  },
+  {
+    "text": "I mean, that is\na great question.",
+    "start": 317.86,
+    "duration": 1.51
+  },
+  {
+    "text": "I think if people\nstop believing in it,",
+    "start": 319.37,
+    "duration": 2.03
+  },
+  {
+    "text": "then the price of these things\nis going to come crashing down.",
+    "start": 321.4,
+    "duration": 3.12
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 324.52,
+    "duration": 4.045
+  },
+  {
+    "text": "RAMSEY KHABBAZ: What are the\nimplications of all of this?",
+    "start": 328.565,
+    "duration": 2.375
+  },
+  {
+    "text": "Because it seems like\nthe applications of NFTs",
+    "start": 330.94,
+    "duration": 3.87
+  },
+  {
+    "text": "is kind of endless.",
+    "start": 334.81,
+    "duration": 0.93
+  },
+  {
+    "text": "As you're explaining\nthis to me, I'm",
+    "start": 335.74,
+    "duration": 1.53
+  },
+  {
+    "text": "imagining so many\ndifferent possibilities",
+    "start": 337.27,
+    "duration": 2.417
+  },
+  {
+    "text": "for this technology.",
+    "start": 339.687,
+    "duration": 0.833
+  },
+  {
+    "text": "So what do you predict is going\nto be the biggest story to come",
+    "start": 340.52,
+    "duration": 2.625
+  },
+  {
+    "text": "out of this craze?",
+    "start": 343.145,
+    "duration": 1.187
+  },
+  {
+    "text": "THOMAS STACKPOLE:\nYou know, I think",
+    "start": 344.332,
+    "duration": 1.458
+  },
+  {
+    "text": "that it shows a couple\nof things, one of which",
+    "start": 345.79,
+    "duration": 2.52
+  },
+  {
+    "text": "is it's one of these use\ncases for how you use",
+    "start": 348.31,
+    "duration": 3.93
+  },
+  {
+    "text": "a blockchain that we've been\nhearing about for a long time,",
+    "start": 352.24,
+    "duration": 3.87
+  },
+  {
+    "text": "that blockchain can do\nall of these things.",
+    "start": 356.11,
+    "duration": 1.89
+  },
+  {
+    "text": "And we're finally\nseeing a new example",
+    "start": 358.0,
+    "duration": 2.64
+  },
+  {
+    "text": "other than cryptocurrency.",
+    "start": 360.64,
+    "duration": 1.35
+  },
+  {
+    "text": "This is an interesting case\nof how you create value",
+    "start": 361.99,
+    "duration": 3.54
+  },
+  {
+    "text": "and how you can really\nlean into the distributed",
+    "start": 365.53,
+    "duration": 3.54
+  },
+  {
+    "text": "nature of this technology, that\nyou don't need gatekeepers.",
+    "start": 369.07,
+    "duration": 3.45
+  },
+  {
+    "text": "You can make art.",
+    "start": 372.52,
+    "duration": 1.95
+  },
+  {
+    "text": "You can find a way\nto sell it yourself,",
+    "start": 374.47,
+    "duration": 2.43
+  },
+  {
+    "text": "which people have\nobviously been able to do.",
+    "start": 376.9,
+    "duration": 1.93
+  },
+  {
+    "text": "But it's sort of\nupping the scale.",
+    "start": 378.83,
+    "duration": 2.54
+  },
+  {
+    "text": "I also think that\nNFTs, possibly,",
+    "start": 381.37,
+    "duration": 2.52
+  },
+  {
+    "text": "do have more mundane\nbusiness uses.",
+    "start": 383.89,
+    "duration": 3.537
+  },
+  {
+    "text": "And so that's something that I'm\ncurious to see if people look",
+    "start": 387.427,
+    "duration": 2.583
+  },
+  {
+    "text": "at this and they're like, well,\nif this works for a flying",
+    "start": 390.01,
+    "duration": 2.7
+  },
+  {
+    "text": "rainbow cat, then\nmaybe I can find a way",
+    "start": 392.71,
+    "duration": 2.82
+  },
+  {
+    "text": "to use this for\ncontracts or securities.",
+    "start": 395.53,
+    "duration": 4.86
+  },
+  {
+    "text": "There are probably more\nmundane business uses for this.",
+    "start": 400.39,
+    "duration": 5.01
+  },
+  {
+    "text": "RAMSEY KHABBAZ: So\njust moving forward,",
+    "start": 405.4,
+    "duration": 2.01
+  },
+  {
+    "text": "do you think that this\nis a story that I,",
+    "start": 407.41,
+    "duration": 2.1
+  },
+  {
+    "text": "as someone who isn't\nreally a tech specialist,",
+    "start": 409.51,
+    "duration": 2.28
+  },
+  {
+    "text": "should I keep an eye on this?",
+    "start": 411.79,
+    "duration": 1.29
+  },
+  {
+    "text": "Or is this one of those things\nthat I could just kind of",
+    "start": 413.08,
+    "duration": 2.333
+  },
+  {
+    "text": "scroll past the next time\nit comes up on my news feed.",
+    "start": 415.413,
+    "duration": 2.647
+  },
+  {
+    "text": "THOMAS STACKPOLE: To\nme, NFT is kind of a--",
+    "start": 418.06,
+    "duration": 2.54
+  },
+  {
+    "text": "this whole hype thing\nis a fun thing to watch.",
+    "start": 420.6,
+    "duration": 3.28
+  },
+  {
+    "text": "It's people engaging\nwith blockchain",
+    "start": 423.88,
+    "duration": 1.92
+  },
+  {
+    "text": "in a new way, outside\nof cryptocurrency.",
+    "start": 425.8,
+    "duration": 1.71
+  },
+  {
+    "text": "And so, I think it is\nbringing this a little bit",
+    "start": 427.51,
+    "duration": 2.588
+  },
+  {
+    "text": "closer to the mainstream.",
+    "start": 430.098,
+    "duration": 1.042
+  },
+  {
+    "text": "And it's helping\npeople understand",
+    "start": 431.14,
+    "duration": 1.92
+  },
+  {
+    "text": "the multitude of uses that\nblockchain really has.",
+    "start": 433.06,
+    "duration": 2.25
+  },
+  {
+    "text": "But don't cash out\nyour retirement",
+    "start": 435.31,
+    "duration": 2.32
+  },
+  {
+    "text": "to fund your NFT art\ncollection quite yet.",
+    "start": 437.63,
+    "duration": 1.843
+  },
+  {
+    "text": "RAMSEY KHABBAZ:\nWell, all my money",
+    "start": 439.473,
+    "duration": 1.417
+  },
+  {
+    "text": "is tied up in Kevin Durant\nrookie cards anyway, so--",
+    "start": 440.89,
+    "duration": 2.34
+  },
+  {
+    "text": "THOMAS STACKPOLE:\n[CHUCKLES] A safer bet.",
+    "start": 443.23,
+    "duration": 2.12
+  },
+  {
+    "text": "Stick with Kevin Durant.",
+    "start": 445.35,
+    "duration": 1.0
+  },
+  {
+    "text": "[CHUCKLES]",
+    "start": 446.35,
+    "duration": 0.54
+  },
+  {
+    "text": "RAMSEY KHABBAZ: Yeah, I'm\nsticking with paper for now.",
+    "start": 446.89,
+    "duration": 1.86
+  },
+  {
+    "text": "Tom, thank you so much\nfor chatting with me.",
+    "start": 448.75,
+    "duration": 2.14
+  },
+  {
+    "text": "This has been really helpful.",
+    "start": 450.89,
+    "duration": 1.208
+  },
+  {
+    "text": "THOMAS STACKPOLE:\nThanks, Ramsey.",
+    "start": 452.098,
+    "duration": 1.375
+  },
+  {
+    "text": "I'll see you on [INAUDIBLE].",
+    "start": 453.473,
+    "duration": 1.367
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 454.84,
+    "duration": 3.05
+  }
+]

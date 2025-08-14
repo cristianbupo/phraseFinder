@@ -1,0 +1,562 @@
+[
+  {
+    "text": "Paying close attention to something:",
+    "start": 12.58,
+    "duration": 2.48
+  },
+  {
+    "text": "Not that easy, is it?",
+    "start": 15.1,
+    "duration": 1.24
+  },
+  {
+    "text": "It's because our attention is pulled\nin so many different directions at a time,",
+    "start": 17.34,
+    "duration": 5.016
+  },
+  {
+    "text": "and it's in fact pretty impressive\nif you can stay focused.",
+    "start": 22.38,
+    "duration": 4.08
+  },
+  {
+    "text": "Many people think that attention\nis all about what we are focusing on,",
+    "start": 28.18,
+    "duration": 4.056
+  },
+  {
+    "text": "but it's also about what information\nour brain is trying to filter out.",
+    "start": 32.26,
+    "duration": 4.8
+  },
+  {
+    "text": "There are two ways\nyou direct your attention.",
+    "start": 38.14,
+    "duration": 2.72
+  },
+  {
+    "text": "First, there's overt attention.",
+    "start": 41.42,
+    "duration": 1.56
+  },
+  {
+    "text": "In overt attention,\nyou move your eyes towards something",
+    "start": 43.46,
+    "duration": 4.136
+  },
+  {
+    "text": "in order to pay attention to it.",
+    "start": 47.62,
+    "duration": 1.56
+  },
+  {
+    "text": "Then there's covert attention.",
+    "start": 50.18,
+    "duration": 1.976
+  },
+  {
+    "text": "In covert attention,\nyou pay attention to something,",
+    "start": 52.18,
+    "duration": 4.016
+  },
+  {
+    "text": "but without moving your eyes.",
+    "start": 56.22,
+    "duration": 1.56
+  },
+  {
+    "text": "Think of driving for a second.",
+    "start": 58.86,
+    "duration": 1.64
+  },
+  {
+    "text": "Your overt attention,\nyour direction of the eyes,",
+    "start": 62.78,
+    "duration": 3.016
+  },
+  {
+    "text": "are in front,",
+    "start": 65.82,
+    "duration": 1.656
+  },
+  {
+    "text": "but that's your covert attention",
+    "start": 67.5,
+    "duration": 1.776
+  },
+  {
+    "text": "which is constantly scanning\nthe surrounding area,",
+    "start": 69.3,
+    "duration": 3.08
+  },
+  {
+    "text": "where you don't actually look at them.",
+    "start": 73.42,
+    "duration": 1.88
+  },
+  {
+    "text": "I'm a computational neuroscientist,",
+    "start": 77.339,
+    "duration": 1.937
+  },
+  {
+    "text": "and I work on cognitive\nbrain-machine interfaces,",
+    "start": 79.3,
+    "duration": 3.096
+  },
+  {
+    "text": "or bringing together\nthe brain and the computer.",
+    "start": 82.42,
+    "duration": 3.04
+  },
+  {
+    "text": "I love brain patterns.",
+    "start": 86.54,
+    "duration": 1.6
+  },
+  {
+    "text": "Brain patterns are important for us",
+    "start": 88.54,
+    "duration": 1.696
+  },
+  {
+    "text": "because based on them\nwe can build models for the computers,",
+    "start": 90.26,
+    "duration": 3.496
+  },
+  {
+    "text": "and based on these models",
+    "start": 93.78,
+    "duration": 1.416
+  },
+  {
+    "text": "computers can recognize\nhow well our brain functions.",
+    "start": 95.22,
+    "duration": 4.216
+  },
+  {
+    "text": "And if it doesn't function well,",
+    "start": 99.46,
+    "duration": 1.6
+  },
+  {
+    "text": "then these computers themselves\ncan be used as assistive devices",
+    "start": 101.9,
+    "duration": 3.92
+  },
+  {
+    "text": "for therapies.",
+    "start": 106.58,
+    "duration": 1.2
+  },
+  {
+    "text": "But that also means something,",
+    "start": 108.3,
+    "duration": 1.64
+  },
+  {
+    "text": "because choosing the wrong patterns",
+    "start": 111.18,
+    "duration": 2.496
+  },
+  {
+    "text": "will give us the wrong models",
+    "start": 113.7,
+    "duration": 1.896
+  },
+  {
+    "text": "and therefore the wrong therapies.",
+    "start": 115.62,
+    "duration": 1.656
+  },
+  {
+    "text": "Right?",
+    "start": 117.3,
+    "duration": 1.2
+  },
+  {
+    "text": "In case of attention,",
+    "start": 119.46,
+    "duration": 1.656
+  },
+  {
+    "text": "the fact that we can",
+    "start": 121.14,
+    "duration": 1.28
+  },
+  {
+    "text": "shift our attention not only by our eyes",
+    "start": 123.62,
+    "duration": 3.496
+  },
+  {
+    "text": "but also by thinking --",
+    "start": 127.14,
+    "duration": 1.32
+  },
+  {
+    "text": "that makes covert attention\nan interesting model for computers.",
+    "start": 129.26,
+    "duration": 4.08
+  },
+  {
+    "text": "So I wanted to know\nwhat are the brainwave patterns",
+    "start": 134.1,
+    "duration": 3.456
+  },
+  {
+    "text": "when you look overtly\nor when you look covertly.",
+    "start": 137.58,
+    "duration": 3.68
+  },
+  {
+    "text": "I set up an experiment for that.",
+    "start": 142.26,
+    "duration": 1.76
+  },
+  {
+    "text": "In this experiment\nthere are two flickering squares,",
+    "start": 144.78,
+    "duration": 2.736
+  },
+  {
+    "text": "one of them flickering\nat a slower rate than the other one.",
+    "start": 147.54,
+    "duration": 3.36
+  },
+  {
+    "text": "Depending on which of these flickers\nyou are paying attention to,",
+    "start": 152.42,
+    "duration": 3.816
+  },
+  {
+    "text": "certain parts of your brain\nwill start resonating in the same rate",
+    "start": 156.26,
+    "duration": 3.96
+  },
+  {
+    "text": "as that flickering rate.",
+    "start": 161.02,
+    "duration": 1.44
+  },
+  {
+    "text": "So by analyzing your brain signals,",
+    "start": 163.82,
+    "duration": 2.936
+  },
+  {
+    "text": "we can track where exactly\nyou are watching",
+    "start": 166.78,
+    "duration": 3.04
+  },
+  {
+    "text": "or you are paying attention to.",
+    "start": 170.58,
+    "duration": 1.56
+  },
+  {
+    "text": "So to see what happens in your brain\nwhen you pay overt attention,",
+    "start": 174.82,
+    "duration": 4.216
+  },
+  {
+    "text": "I asked people to look directly\nin one of the squares",
+    "start": 179.06,
+    "duration": 3.256
+  },
+  {
+    "text": "and pay attention to it.",
+    "start": 182.34,
+    "duration": 1.28
+  },
+  {
+    "text": "In this case, not surprisingly,\nwe saw that these flickering squares",
+    "start": 184.58,
+    "duration": 5.296
+  },
+  {
+    "text": "appeared in their brain signals",
+    "start": 189.9,
+    "duration": 1.936
+  },
+  {
+    "text": "which was coming\nfrom the back of their head,",
+    "start": 191.86,
+    "duration": 2.36
+  },
+  {
+    "text": "which is responsible for the processing\nof your visual information.",
+    "start": 195.38,
+    "duration": 3.4
+  },
+  {
+    "text": "But I was really interested",
+    "start": 200.1,
+    "duration": 2.336
+  },
+  {
+    "text": "to see what happens in your brain\nwhen you pay covert attention.",
+    "start": 202.46,
+    "duration": 3.16
+  },
+  {
+    "text": "So this time I asked people\nto look in the middle of the screen",
+    "start": 206.3,
+    "duration": 3.896
+  },
+  {
+    "text": "and without moving their eyes,",
+    "start": 210.22,
+    "duration": 1.88
+  },
+  {
+    "text": "to pay attention\nto either of these squares.",
+    "start": 212.94,
+    "duration": 2.72
+  },
+  {
+    "text": "When we did that,",
+    "start": 216.94,
+    "duration": 1.616
+  },
+  {
+    "text": "we saw that both of these flickering rates\nappeared in their brain signals,",
+    "start": 218.58,
+    "duration": 3.936
+  },
+  {
+    "text": "but interestingly,",
+    "start": 222.54,
+    "duration": 1.2
+  },
+  {
+    "text": "only one of them,\nwhich was paid attention to,",
+    "start": 224.46,
+    "duration": 3.536
+  },
+  {
+    "text": "had stronger signals,",
+    "start": 228.02,
+    "duration": 1.656
+  },
+  {
+    "text": "so there was something in the brain",
+    "start": 229.7,
+    "duration": 2.256
+  },
+  {
+    "text": "which was handling this information",
+    "start": 231.98,
+    "duration": 2.536
+  },
+  {
+    "text": "so that thing in the brain was basically\nthe activation of the frontal area.",
+    "start": 234.54,
+    "duration": 6.2
+  },
+  {
+    "text": "The front part of your brain\nis responsible",
+    "start": 242.26,
+    "duration": 2.976
+  },
+  {
+    "text": "for higher cognitive functions as a human.",
+    "start": 245.26,
+    "duration": 2.88
+  },
+  {
+    "text": "The frontal part,\nit seems that it works as a filter",
+    "start": 248.98,
+    "duration": 4.44
+  },
+  {
+    "text": "trying to let information come in\nonly from the right flicker",
+    "start": 254.46,
+    "duration": 4.376
+  },
+  {
+    "text": "that you are paying attention to",
+    "start": 258.86,
+    "duration": 1.64
+  },
+  {
+    "text": "and trying to inhibit the information\ncoming from the ignored one.",
+    "start": 261.22,
+    "duration": 3.96
+  },
+  {
+    "text": "The filtering ability of the brain\nis indeed a key for attention,",
+    "start": 267.22,
+    "duration": 5.296
+  },
+  {
+    "text": "which is missing in some people,",
+    "start": 272.54,
+    "duration": 2.776
+  },
+  {
+    "text": "for example in people with ADHD.",
+    "start": 275.34,
+    "duration": 2.48
+  },
+  {
+    "text": "So a person with ADHD\ncannot inhibit these distractors,",
+    "start": 278.46,
+    "duration": 5.016
+  },
+  {
+    "text": "and that's why they can't focus\nfor a long time on a single task.",
+    "start": 283.5,
+    "duration": 4.76
+  },
+  {
+    "text": "But what if this person",
+    "start": 289.42,
+    "duration": 1.536
+  },
+  {
+    "text": "could play a specific computer game",
+    "start": 290.98,
+    "duration": 3.536
+  },
+  {
+    "text": "with his brain connected to the computer,",
+    "start": 294.54,
+    "duration": 2.88
+  },
+  {
+    "text": "and then train his own brain",
+    "start": 298.26,
+    "duration": 2.12
+  },
+  {
+    "text": "to inhibit these distractors?",
+    "start": 301.18,
+    "duration": 2.44
+  },
+  {
+    "text": "Well, ADHD is just one example.",
+    "start": 305.5,
+    "duration": 2.48
+  },
+  {
+    "text": "We can use these cognitive\nbrain-machine interfaces",
+    "start": 309.02,
+    "duration": 3.256
+  },
+  {
+    "text": "for many other cognitive fields.",
+    "start": 312.3,
+    "duration": 2.2
+  },
+  {
+    "text": "It was just a few years ago",
+    "start": 315.58,
+    "duration": 1.776
+  },
+  {
+    "text": "that my grandfather had a stroke,\nand he lost complete ability to speak.",
+    "start": 317.38,
+    "duration": 5.72
+  },
+  {
+    "text": "He could understand everybody,\nbut there was no way to respond,",
+    "start": 324.46,
+    "duration": 3.336
+  },
+  {
+    "text": "even not writing\nbecause he was illiterate.",
+    "start": 327.82,
+    "duration": 2.48
+  },
+  {
+    "text": "So he passed away in silence.",
+    "start": 331.82,
+    "duration": 2.52
+  },
+  {
+    "text": "I remember thinking at that time:",
+    "start": 336.62,
+    "duration": 2.336
+  },
+  {
+    "text": "What if we could have a computer",
+    "start": 338.98,
+    "duration": 3.896
+  },
+  {
+    "text": "which could speak for him?",
+    "start": 342.9,
+    "duration": 1.36
+  },
+  {
+    "text": "Now, after years that I am in this field,",
+    "start": 345.66,
+    "duration": 2.216
+  },
+  {
+    "text": "I can see that this might be possible.",
+    "start": 347.9,
+    "duration": 2.32
+  },
+  {
+    "text": "Imagine if we can find brainwave patterns",
+    "start": 352.06,
+    "duration": 2.856
+  },
+  {
+    "text": "when people think\nabout images or even letters,",
+    "start": 354.94,
+    "duration": 3.44
+  },
+  {
+    "text": "like the letter A generates\na different brainwave pattern",
+    "start": 359.54,
+    "duration": 2.936
+  },
+  {
+    "text": "than the letter B, and so on.",
+    "start": 362.5,
+    "duration": 1.72
+  },
+  {
+    "text": "Could a computer one day\ncommunicate for people who can't speak?",
+    "start": 364.78,
+    "duration": 3.68
+  },
+  {
+    "text": "What if a computer",
+    "start": 369.46,
+    "duration": 1.44
+  },
+  {
+    "text": "can help us understand\nthe thoughts of a person in a coma?",
+    "start": 371.78,
+    "duration": 4.56
+  },
+  {
+    "text": "We are not there yet,",
+    "start": 377.66,
+    "duration": 1.616
+  },
+  {
+    "text": "but pay close attention.",
+    "start": 379.3,
+    "duration": 2.736
+  },
+  {
+    "text": "We will be there soon.",
+    "start": 382.06,
+    "duration": 1.696
+  },
+  {
+    "text": "Thank you.",
+    "start": 383.78,
+    "duration": 1.496
+  },
+  {
+    "text": "(Applause)",
+    "start": 385.3,
+    "duration": 5.632
+  }
+]

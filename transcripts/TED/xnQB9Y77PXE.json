@@ -1,0 +1,627 @@
+[
+  {
+    "text": "Do you remember your first kiss?",
+    "start": 12.706,
+    "duration": 1.856
+  },
+  {
+    "text": "Or that time you burned\nthe roof of your mouth",
+    "start": 15.548,
+    "duration": 2.213
+  },
+  {
+    "text": "on a hot slice of pizza?",
+    "start": 17.785,
+    "duration": 1.199
+  },
+  {
+    "text": "What about playing tag\nor duck, duck, goose as a child?",
+    "start": 19.532,
+    "duration": 2.853
+  },
+  {
+    "text": "These are all instances where\nwe're using touch to understand something.",
+    "start": 22.863,
+    "duration": 3.577
+  },
+  {
+    "text": "And it's the basis of haptic design.",
+    "start": 26.974,
+    "duration": 1.892
+  },
+  {
+    "text": "\"Haptic\" means of or relating to\nthe sense of touch.",
+    "start": 29.434,
+    "duration": 2.794
+  },
+  {
+    "text": "And we've all been using that\nour entire lives.",
+    "start": 32.252,
+    "duration": 2.73
+  },
+  {
+    "text": "I was working on my computer\nwhen my friend,",
+    "start": 35.791,
+    "duration": 2.493
+  },
+  {
+    "text": "seeing me hunched over typing,\nwalked over behind me.",
+    "start": 38.308,
+    "duration": 2.928
+  },
+  {
+    "text": "She put her left thumb\ninto the left side of my lower back,",
+    "start": 41.617,
+    "duration": 2.896
+  },
+  {
+    "text": "while reaching her right index finger\naround to the front of my right shoulder.",
+    "start": 44.537,
+    "duration": 3.754
+  },
+  {
+    "text": "Instinctively, I sat up straight.",
+    "start": 48.315,
+    "duration": 1.84
+  },
+  {
+    "text": "In one quick and gentle gesture,",
+    "start": 50.179,
+    "duration": 2.192
+  },
+  {
+    "text": "she had communicated\nhow to improve my posture.",
+    "start": 52.395,
+    "duration": 2.299
+  },
+  {
+    "text": "The paper I was working on\nat that very moment",
+    "start": 55.561,
+    "duration": 2.169
+  },
+  {
+    "text": "centered around developing new ways\nto teach movement using technology.",
+    "start": 57.754,
+    "duration": 3.412
+  },
+  {
+    "text": "I wanted to create a suit\nthat could teach a person kung fu.",
+    "start": 61.579,
+    "duration": 3.196
+  },
+  {
+    "text": "(Laughter)",
+    "start": 65.434,
+    "duration": 1.802
+  },
+  {
+    "text": "But I had no idea how\nto communicate movement",
+    "start": 67.26,
+    "duration": 2.119
+  },
+  {
+    "text": "without an instructor being in the room.",
+    "start": 69.403,
+    "duration": 1.998
+  },
+  {
+    "text": "And in that moment,\nit became crystal clear: touch.",
+    "start": 72.187,
+    "duration": 3.735
+  },
+  {
+    "text": "If I had vibrating motors\nwhere she had placed each of her fingers,",
+    "start": 76.657,
+    "duration": 3.499
+  },
+  {
+    "text": "paired with motion-capture data\nof my current and optimal posture,",
+    "start": 80.18,
+    "duration": 4.366
+  },
+  {
+    "text": "I could simulate the entire experience",
+    "start": 84.57,
+    "duration": 1.903
+  },
+  {
+    "text": "without an instructor\nneeding to be in the room.",
+    "start": 86.497,
+    "duration": 2.474
+  },
+  {
+    "text": "But there was still one important part\nof the puzzle that was missing.",
+    "start": 88.995,
+    "duration": 3.708
+  },
+  {
+    "text": "If I want you to raise your wrist\ntwo inches off of your lap,",
+    "start": 92.727,
+    "duration": 2.873
+  },
+  {
+    "text": "using vibration,",
+    "start": 95.624,
+    "duration": 1.713
+  },
+  {
+    "text": "how do I tell you to do that?",
+    "start": 97.361,
+    "duration": 1.524
+  },
+  {
+    "text": "Do I put a motor at the top of your wrist,\nso you know to lift up?",
+    "start": 100.237,
+    "duration": 3.278
+  },
+  {
+    "text": "Or do I put one\nat the bottom of your wrist,",
+    "start": 103.539,
+    "duration": 2.095
+  },
+  {
+    "text": "so it feels like you're being pushed up?",
+    "start": 105.658,
+    "duration": 1.928
+  },
+  {
+    "text": "There were no readily available answers",
+    "start": 107.61,
+    "duration": 1.912
+  },
+  {
+    "text": "because there was no commonly\nagreed-upon haptic language",
+    "start": 109.546,
+    "duration": 2.675
+  },
+  {
+    "text": "to communicate information with.",
+    "start": 112.245,
+    "duration": 1.546
+  },
+  {
+    "text": "So my cofounders and I\nset out to create that language.",
+    "start": 114.188,
+    "duration": 2.793
+  },
+  {
+    "text": "And the first device we built\nwas not a kung fu suit.",
+    "start": 117.987,
+    "duration": 3.167
+  },
+  {
+    "text": "(Laughter)",
+    "start": 121.178,
+    "duration": 1.206
+  },
+  {
+    "text": "But in a way, it was even more impressive",
+    "start": 122.408,
+    "duration": 2.36
+  },
+  {
+    "text": "because of its simplicity and usefulness.",
+    "start": 124.792,
+    "duration": 2.062
+  },
+  {
+    "text": "We started with the use case\nof navigation,",
+    "start": 127.394,
+    "duration": 2.405
+  },
+  {
+    "text": "which is a simplified form of movement.",
+    "start": 129.823,
+    "duration": 2.056
+  },
+  {
+    "text": "We then created Wayband,",
+    "start": 132.687,
+    "duration": 1.659
+  },
+  {
+    "text": "a wrist-wearable device that could\norient a user toward a destination,",
+    "start": 135.561,
+    "duration": 3.829
+  },
+  {
+    "text": "using vibrating cues.",
+    "start": 139.414,
+    "duration": 1.868
+  },
+  {
+    "text": "We would ask people to spin around",
+    "start": 142.235,
+    "duration": 1.73
+  },
+  {
+    "text": "and to stop in a way that they felt\nwas the right way to go.",
+    "start": 145.054,
+    "duration": 3.427
+  },
+  {
+    "text": "Informally, we tried this\nwith hundreds of people,",
+    "start": 149.061,
+    "duration": 2.373
+  },
+  {
+    "text": "and most could figure it out\nwithin about 15 seconds.",
+    "start": 151.458,
+    "duration": 2.959
+  },
+  {
+    "text": "It was that intuitive.",
+    "start": 154.441,
+    "duration": 1.467
+  },
+  {
+    "text": "Initially, we were just trying to get\npeople out of their phones",
+    "start": 156.847,
+    "duration": 3.082
+  },
+  {
+    "text": "and back into the real world.",
+    "start": 159.953,
+    "duration": 1.799
+  },
+  {
+    "text": "But the more we experimented,",
+    "start": 161.776,
+    "duration": 1.96
+  },
+  {
+    "text": "the more we realized that those\nwho stood to benefit most from our work",
+    "start": 163.76,
+    "duration": 4.167
+  },
+  {
+    "text": "were people who had little or no sight.",
+    "start": 167.951,
+    "duration": 2.6
+  },
+  {
+    "text": "When we first approached\na blind organization, they told us,",
+    "start": 171.387,
+    "duration": 2.865
+  },
+  {
+    "text": "\"Don't build a blind device.",
+    "start": 174.276,
+    "duration": 1.866
+  },
+  {
+    "text": "Build a device that everyone can use",
+    "start": 176.68,
+    "duration": 2.0
+  },
+  {
+    "text": "but that's optimized\nfor the blind experience.\"",
+    "start": 178.704,
+    "duration": 2.338
+  },
+  {
+    "text": "We created our company WearWorks\nwith three guiding principles:",
+    "start": 181.505,
+    "duration": 3.543
+  },
+  {
+    "text": "make cool stuff,",
+    "start": 186.792,
+    "duration": 1.15
+  },
+  {
+    "text": "create the greatest impact we can\nin our lifetimes",
+    "start": 188.49,
+    "duration": 2.928
+  },
+  {
+    "text": "and reimagine an entire world\ndesigned for touch.",
+    "start": 191.442,
+    "duration": 3.059
+  },
+  {
+    "text": "And on November 5, 2017,",
+    "start": 195.62,
+    "duration": 2.723
+  },
+  {
+    "text": "Wayband helped a person who was blind",
+    "start": 199.446,
+    "duration": 2.912
+  },
+  {
+    "text": "run the first 15 miles\nof the New York City Marathon",
+    "start": 202.382,
+    "duration": 2.782
+  },
+  {
+    "text": "without any sighted assistance.",
+    "start": 205.188,
+    "duration": 1.953
+  },
+  {
+    "text": "(Applause)",
+    "start": 207.165,
+    "duration": 6.58
+  },
+  {
+    "text": "It didn't get him through the entire race\ndue to the heavy rain,",
+    "start": 215.744,
+    "duration": 3.017
+  },
+  {
+    "text": "but that didn't matter.",
+    "start": 218.785,
+    "duration": 1.19
+  },
+  {
+    "text": "(Laughter)",
+    "start": 219.999,
+    "duration": 1.007
+  },
+  {
+    "text": "We had proved the point:",
+    "start": 221.03,
+    "duration": 1.214
+  },
+  {
+    "text": "that it was possible to navigate\na complex route using only touch.",
+    "start": 222.268,
+    "duration": 3.555
+  },
+  {
+    "text": "So, why touch?",
+    "start": 225.847,
+    "duration": 1.435
+  },
+  {
+    "text": "The skin has an innate sensitivity",
+    "start": 227.903,
+    "duration": 1.691
+  },
+  {
+    "text": "akin to the eyes' ability\nto recognize millions of colors",
+    "start": 229.618,
+    "duration": 3.467
+  },
+  {
+    "text": "or the ears' ability to recognize\ncomplex pitch and tone.",
+    "start": 233.109,
+    "duration": 3.254
+  },
+  {
+    "text": "Yet, as a communications channel,",
+    "start": 236.387,
+    "duration": 1.627
+  },
+  {
+    "text": "it's been largely relegated to\nMorse code-like cell phone notifications.",
+    "start": 238.038,
+    "duration": 3.634
+  },
+  {
+    "text": "If you were to suddenly receive\na kiss or a punch,",
+    "start": 241.696,
+    "duration": 3.072
+  },
+  {
+    "text": "your reaction would be\ninstinctive and immediate.",
+    "start": 244.792,
+    "duration": 2.983
+  },
+  {
+    "text": "Meanwhile, your brain would be playing\ncatch-up on the back end",
+    "start": 248.378,
+    "duration": 2.995
+  },
+  {
+    "text": "to understand the details\nof what just occurred.",
+    "start": 251.397,
+    "duration": 2.293
+  },
+  {
+    "text": "And compared to instincts,\nconscious thought is pretty slow.",
+    "start": 253.714,
+    "duration": 3.175
+  },
+  {
+    "text": "But it's a lightning bolt",
+    "start": 257.706,
+    "duration": 1.263
+  },
+  {
+    "text": "compared to the snail's pace\nof language acquisition.",
+    "start": 258.993,
+    "duration": 2.5
+  },
+  {
+    "text": "I spent a considerable amount of time",
+    "start": 262.008,
+    "duration": 2.363
+  },
+  {
+    "text": "learning Spanish, Japanese,\nGerman and currently Swedish,",
+    "start": 264.395,
+    "duration": 5.706
+  },
+  {
+    "text": "with varying degrees of failure.",
+    "start": 270.125,
+    "duration": 1.707
+  },
+  {
+    "text": "(Laughter)",
+    "start": 271.856,
+    "duration": 2.236
+  },
+  {
+    "text": "But within those failures were kernels\nof how different languages are organized.",
+    "start": 275.482,
+    "duration": 4.153
+  },
+  {
+    "text": "That gave our team insight",
+    "start": 279.659,
+    "duration": 1.707
+  },
+  {
+    "text": "into how to use the linguistic order\nof well-established languages",
+    "start": 281.39,
+    "duration": 3.738
+  },
+  {
+    "text": "as inspiration for\nan entirely new haptic language,",
+    "start": 285.152,
+    "duration": 3.362
+  },
+  {
+    "text": "one based purely on touch.",
+    "start": 288.538,
+    "duration": 1.733
+  },
+  {
+    "text": "It also showed us when using language\nmechanics wasn't the best way",
+    "start": 290.95,
+    "duration": 3.569
+  },
+  {
+    "text": "to deliver information.",
+    "start": 294.543,
+    "duration": 1.389
+  },
+  {
+    "text": "In the same way a smile is a smile\nacross every culture,",
+    "start": 296.823,
+    "duration": 3.492
+  },
+  {
+    "text": "what if there was some\nunderlying mechanism of touch",
+    "start": 300.339,
+    "duration": 2.437
+  },
+  {
+    "text": "that transcended linguistic\nand cultural boundaries?",
+    "start": 302.8,
+    "duration": 2.619
+  },
+  {
+    "text": "A universal language, of sorts.",
+    "start": 306.235,
+    "duration": 1.933
+  },
+  {
+    "text": "You see, I could give you\nbuzz-buzz-buzz, buzz-buzz,",
+    "start": 308.646,
+    "duration": 4.422
+  },
+  {
+    "text": "and you would eventually learn",
+    "start": 313.092,
+    "duration": 1.451
+  },
+  {
+    "text": "that that particular\nvibration means \"stop.\"",
+    "start": 314.567,
+    "duration": 2.13
+  },
+  {
+    "text": "But as haptic designers,\nwe challenged ourselves.",
+    "start": 317.123,
+    "duration": 2.851
+  },
+  {
+    "text": "What would it be like to design \"stop?\"",
+    "start": 321.045,
+    "duration": 2.2
+  },
+  {
+    "text": "Well, based on context,",
+    "start": 324.299,
+    "duration": 1.239
+  },
+  {
+    "text": "most of us have the experience\nof being in a vehicle",
+    "start": 325.562,
+    "duration": 2.444
+  },
+  {
+    "text": "and having that vehicle stop suddenly,\nalong with our body's reaction to it.",
+    "start": 328.03,
+    "duration": 3.674
+  },
+  {
+    "text": "So if I wanted you to stop,",
+    "start": 332.545,
+    "duration": 1.729
+  },
+  {
+    "text": "I could send you\na vibration pattern, sure.",
+    "start": 334.298,
+    "duration": 2.017
+  },
+  {
+    "text": "Or, I could design a haptic experience",
+    "start": 336.339,
+    "duration": 2.76
+  },
+  {
+    "text": "that just made stopping\nfeel like it was the right thing to do.",
+    "start": 339.123,
+    "duration": 3.542
+  },
+  {
+    "text": "And that takes more than an arbitrary\nassignment of haptic cues to meanings.",
+    "start": 343.496,
+    "duration": 3.79
+  },
+  {
+    "text": "It takes a deep empathy.",
+    "start": 347.704,
+    "duration": 1.6
+  },
+  {
+    "text": "It also takes the ability to distill\nhuman experience into meaningful insights",
+    "start": 349.95,
+    "duration": 4.77
+  },
+  {
+    "text": "and then into haptic\ngestures and products.",
+    "start": 354.744,
+    "duration": 3.525
+  },
+  {
+    "text": "Haptic design is going to expand\nthe human ability",
+    "start": 359.133,
+    "duration": 2.761
+  },
+  {
+    "text": "to sense and respond to our environments,",
+    "start": 361.918,
+    "duration": 2.175
+  },
+  {
+    "text": "both physical and virtual.",
+    "start": 364.117,
+    "duration": 1.733
+  },
+  {
+    "text": "There's a new frontier: touch.",
+    "start": 366.292,
+    "duration": 2.514
+  },
+  {
+    "text": "And it has the power to change\nhow we all see the world around us.",
+    "start": 369.545,
+    "duration": 3.383
+  },
+  {
+    "text": "Thank you.",
+    "start": 373.325,
+    "duration": 1.182
+  },
+  {
+    "text": "(Applause)",
+    "start": 374.531,
+    "duration": 5.301
+  }
+]

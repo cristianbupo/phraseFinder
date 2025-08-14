@@ -1,0 +1,667 @@
+[
+  {
+    "text": "For the past 15 years I've been trying\nto change your mind.",
+    "start": 13.458,
+    "duration": 3.542
+  },
+  {
+    "text": "In my work I harness pop culture\nand emerging technology",
+    "start": 17.917,
+    "duration": 3.851
+  },
+  {
+    "text": "to shift cultural norms.",
+    "start": 21.792,
+    "duration": 1.458
+  },
+  {
+    "text": "I've made video games\nto promote human rights,",
+    "start": 23.833,
+    "duration": 3.685
+  },
+  {
+    "text": "I've made animations to raise awareness\nabout unfair immigration laws",
+    "start": 27.542,
+    "duration": 5.059
+  },
+  {
+    "text": "and I've even made location-based\naugmented reality apps",
+    "start": 32.625,
+    "duration": 4.226
+  },
+  {
+    "text": "to change perceptions around homelessness",
+    "start": 36.875,
+    "duration": 2.643
+  },
+  {
+    "text": "well before Pokémon Go.",
+    "start": 39.542,
+    "duration": 1.934
+  },
+  {
+    "text": "(Laughter)",
+    "start": 41.5,
+    "duration": 1.351
+  },
+  {
+    "text": "But then I began to wonder\nwhether a game or an app",
+    "start": 42.875,
+    "duration": 4.018
+  },
+  {
+    "text": "can really change attitudes and behaviors,",
+    "start": 46.917,
+    "duration": 2.476
+  },
+  {
+    "text": "and if so, can I measure that change?",
+    "start": 49.417,
+    "duration": 3.017
+  },
+  {
+    "text": "What's the science behind that process?",
+    "start": 52.458,
+    "duration": 2.976
+  },
+  {
+    "text": "So I shifted my focus\nfrom making media and technology",
+    "start": 55.458,
+    "duration": 3.726
+  },
+  {
+    "text": "to measuring their\nneurobiological effects.",
+    "start": 59.208,
+    "duration": 3.042
+  },
+  {
+    "text": "Here's what I discovered.",
+    "start": 63.458,
+    "duration": 1.851
+  },
+  {
+    "text": "The web, mobile devices,\nvirtual and augmented reality",
+    "start": 65.333,
+    "duration": 3.893
+  },
+  {
+    "text": "were rescripting our nervous systems.",
+    "start": 69.25,
+    "duration": 2.684
+  },
+  {
+    "text": "And they were literally changing\nthe structure of our brain.",
+    "start": 71.958,
+    "duration": 2.959
+  },
+  {
+    "text": "The very technologies I had been using\nto positively influence hearts and minds",
+    "start": 75.875,
+    "duration": 4.976
+  },
+  {
+    "text": "were actually eroding functions\nin the brain necessary for empathy",
+    "start": 80.875,
+    "duration": 4.393
+  },
+  {
+    "text": "and decision-making.",
+    "start": 85.292,
+    "duration": 1.851
+  },
+  {
+    "text": "In fact, our dependence\nupon the web and mobile devices",
+    "start": 87.167,
+    "duration": 4.142
+  },
+  {
+    "text": "might be taking over\nour cognitive and affective faculties,",
+    "start": 91.333,
+    "duration": 4.101
+  },
+  {
+    "text": "rendering us socially\nand emotionally incompetent,",
+    "start": 95.458,
+    "duration": 3.56
+  },
+  {
+    "text": "and I felt complicit\nin this dehumanization.",
+    "start": 99.042,
+    "duration": 3.291
+  },
+  {
+    "text": "I realized that before I could continue\nmaking media about social issues,",
+    "start": 103.292,
+    "duration": 4.642
+  },
+  {
+    "text": "I needed to reverse engineer\nthe harmful effects of technology.",
+    "start": 107.958,
+    "duration": 4.417
+  },
+  {
+    "text": "To tackle this I asked myself,",
+    "start": 112.917,
+    "duration": 2.767
+  },
+  {
+    "text": "\"How can I translate\nthe mechanisms of empathy,",
+    "start": 115.708,
+    "duration": 3.393
+  },
+  {
+    "text": "the cognitive, affective\nand motivational aspects,",
+    "start": 119.125,
+    "duration": 3.643
+  },
+  {
+    "text": "into an engine that simulates\nthe narrative ingredients",
+    "start": 122.792,
+    "duration": 3.226
+  },
+  {
+    "text": "that move us to act?\"",
+    "start": 126.042,
+    "duration": 1.291
+  },
+  {
+    "text": "To answer this, I had to build a machine.",
+    "start": 128.583,
+    "duration": 3.935
+  },
+  {
+    "text": "(Laughter)",
+    "start": 132.542,
+    "duration": 1.726
+  },
+  {
+    "text": "I've been developing\nan open-source biometric lab,",
+    "start": 134.292,
+    "duration": 2.892
+  },
+  {
+    "text": "an AI system which I call the Limbic Lab.",
+    "start": 137.208,
+    "duration": 3.476
+  },
+  {
+    "text": "The lab not only captures",
+    "start": 140.708,
+    "duration": 1.435
+  },
+  {
+    "text": "the brain and body's unconscious response\nto media and technology",
+    "start": 142.167,
+    "duration": 4.226
+  },
+  {
+    "text": "but also uses machine learning\nto adapt content",
+    "start": 146.417,
+    "duration": 2.976
+  },
+  {
+    "text": "based on these biological responses.",
+    "start": 149.417,
+    "duration": 2.208
+  },
+  {
+    "text": "My goal is to find out what combination\nof narrative ingredients",
+    "start": 152.667,
+    "duration": 3.517
+  },
+  {
+    "text": "are the most appealing and galvanizing",
+    "start": 156.208,
+    "duration": 2.143
+  },
+  {
+    "text": "to specific target audiences",
+    "start": 158.375,
+    "duration": 1.809
+  },
+  {
+    "text": "to enable social justice, cultural\nand educational organizations",
+    "start": 160.208,
+    "duration": 5.018
+  },
+  {
+    "text": "to create more effective media.",
+    "start": 165.25,
+    "duration": 2.643
+  },
+  {
+    "text": "The Limbic Lab consists of two components:",
+    "start": 167.917,
+    "duration": 2.851
+  },
+  {
+    "text": "a narrative engine and a media machine.",
+    "start": 170.792,
+    "duration": 2.541
+  },
+  {
+    "text": "While a subject is viewing\nor interacting with media content,",
+    "start": 174.375,
+    "duration": 4.226
+  },
+  {
+    "text": "the narrative engine takes in and syncs\nreal-time data from brain waves,",
+    "start": 178.625,
+    "duration": 4.184
+  },
+  {
+    "text": "biophysical data like heart rate,\nblood flow, body temperature",
+    "start": 182.833,
+    "duration": 3.56
+  },
+  {
+    "text": "and muscle contraction,",
+    "start": 186.417,
+    "duration": 1.684
+  },
+  {
+    "text": "as well as eye-tracking\nand facial expressions.",
+    "start": 188.125,
+    "duration": 2.958
+  },
+  {
+    "text": "Data is captured at key places\nwhere critical plot points,",
+    "start": 192.083,
+    "duration": 3.726
+  },
+  {
+    "text": "character interaction\nor unusual camera angles occur.",
+    "start": 195.833,
+    "duration": 3.417
+  },
+  {
+    "text": "Like the final scene\nin \"Game of Thrones, Red Wedding,\"",
+    "start": 200.292,
+    "duration": 2.726
+  },
+  {
+    "text": "when shockingly,",
+    "start": 203.042,
+    "duration": 2.309
+  },
+  {
+    "text": "everybody dies.",
+    "start": 205.375,
+    "duration": 1.559
+  },
+  {
+    "text": "(Laughter)",
+    "start": 206.958,
+    "duration": 1.25
+  },
+  {
+    "text": "Survey data on that\nperson's political beliefs,",
+    "start": 209.042,
+    "duration": 3.184
+  },
+  {
+    "text": "along with their psychographic\nand demographic data,",
+    "start": 212.25,
+    "duration": 3.143
+  },
+  {
+    "text": "are integrated into the system",
+    "start": 215.417,
+    "duration": 1.767
+  },
+  {
+    "text": "to gain a deeper understanding\nof the individual.",
+    "start": 217.208,
+    "duration": 2.709
+  },
+  {
+    "text": "Let me give you an example.",
+    "start": 220.833,
+    "duration": 1.542
+  },
+  {
+    "text": "Matching people's TV preferences\nwith their views on social justice issues",
+    "start": 223.708,
+    "duration": 4.851
+  },
+  {
+    "text": "reveals that Americans who rank\nimmigration among their top three concerns",
+    "start": 228.583,
+    "duration": 4.268
+  },
+  {
+    "text": "are more likely to be fans\nof \"The Walking Dead,\"",
+    "start": 232.875,
+    "duration": 2.792
+  },
+  {
+    "text": "and they often watch\nfor the adrenaline boost,",
+    "start": 236.958,
+    "duration": 2.81
+  },
+  {
+    "text": "which is measurable.",
+    "start": 239.792,
+    "duration": 1.291
+  },
+  {
+    "text": "A person's biological signature\nand their survey response",
+    "start": 241.792,
+    "duration": 3.934
+  },
+  {
+    "text": "combines into a database\nto create their unique media imprint.",
+    "start": 245.75,
+    "duration": 4.851
+  },
+  {
+    "text": "Then our predictive model\nfinds patterns between media imprints",
+    "start": 250.625,
+    "duration": 4.268
+  },
+  {
+    "text": "and tells me which narrative ingredients",
+    "start": 254.917,
+    "duration": 1.976
+  },
+  {
+    "text": "are more likely to lead\nto engagement in altruistic behavior",
+    "start": 256.917,
+    "duration": 3.767
+  },
+  {
+    "text": "rather than distress and apathy.",
+    "start": 260.708,
+    "duration": 2.685
+  },
+  {
+    "text": "The more imprints added to the database",
+    "start": 263.417,
+    "duration": 2.184
+  },
+  {
+    "text": "across mediums from episodic\ntelevision to games,",
+    "start": 265.625,
+    "duration": 3.226
+  },
+  {
+    "text": "the better the predictive models become.",
+    "start": 268.875,
+    "duration": 2.167
+  },
+  {
+    "text": "In short, I am mapping\nthe first media genome.",
+    "start": 272.417,
+    "duration": 3.851
+  },
+  {
+    "text": "(Applause and cheers)",
+    "start": 276.292,
+    "duration": 3.791
+  },
+  {
+    "text": "Whereas the human genome\nidentifies all genes involved",
+    "start": 284.083,
+    "duration": 3.185
+  },
+  {
+    "text": "in sequencing human DNA,",
+    "start": 287.292,
+    "duration": 1.833
+  },
+  {
+    "text": "the growing database of media imprints\nwill eventually allow me",
+    "start": 289.917,
+    "duration": 3.226
+  },
+  {
+    "text": "to determine the media DNA\nfor a specific person.",
+    "start": 293.167,
+    "duration": 4.125
+  },
+  {
+    "text": "Already the Limbic Lab's narrative engine",
+    "start": 298.25,
+    "duration": 2.833
+  },
+  {
+    "text": "helps content creators\nrefine their storytelling,",
+    "start": 302.333,
+    "duration": 2.601
+  },
+  {
+    "text": "so that it resonates with their target\naudiences on an individual level.",
+    "start": 304.958,
+    "duration": 4.0
+  },
+  {
+    "text": "The Limbic Lab's other component,",
+    "start": 311.042,
+    "duration": 2.184
+  },
+  {
+    "text": "the media machine,",
+    "start": 313.25,
+    "duration": 1.976
+  },
+  {
+    "text": "will assess how media elicits\nan emotional and physiological response,",
+    "start": 315.25,
+    "duration": 4.476
+  },
+  {
+    "text": "then pulls scenes from a content library",
+    "start": 319.75,
+    "duration": 2.434
+  },
+  {
+    "text": "targeted to person-specific media DNA.",
+    "start": 322.208,
+    "duration": 2.584
+  },
+  {
+    "text": "Applying artificial intelligence\nto biometric data",
+    "start": 326.042,
+    "duration": 3.892
+  },
+  {
+    "text": "creates a truly personalized experience.",
+    "start": 329.958,
+    "duration": 2.726
+  },
+  {
+    "text": "One that adapts content based\non real-time unconscious responses.",
+    "start": 332.708,
+    "duration": 5.084
+  },
+  {
+    "text": "Imagine if nonprofits and media makers\nwere able to measure how audiences feel",
+    "start": 338.625,
+    "duration": 6.059
+  },
+  {
+    "text": "as they experience it",
+    "start": 344.708,
+    "duration": 1.851
+  },
+  {
+    "text": "and alter content on the fly.",
+    "start": 346.583,
+    "duration": 2.393
+  },
+  {
+    "text": "I believe this is the future of media.",
+    "start": 349.0,
+    "duration": 3.458
+  },
+  {
+    "text": "To date, most media\nand social-change strategies",
+    "start": 353.333,
+    "duration": 2.601
+  },
+  {
+    "text": "have attempted to appeal\nto mass audiences,",
+    "start": 355.958,
+    "duration": 2.851
+  },
+  {
+    "text": "but the future is media\ncustomized for each person.",
+    "start": 358.833,
+    "duration": 3.5
+  },
+  {
+    "text": "As real-time measurement\nof media consumption",
+    "start": 363.458,
+    "duration": 2.685
+  },
+  {
+    "text": "and automated media production\nbecomes the norm,",
+    "start": 366.167,
+    "duration": 2.851
+  },
+  {
+    "text": "we will soon be consuming media\ntailored directly to our cravings",
+    "start": 369.042,
+    "duration": 4.059
+  },
+  {
+    "text": "using a blend of psychographics,\nbiometrics and AI.",
+    "start": 373.125,
+    "duration": 4.208
+  },
+  {
+    "text": "It's like personalized medicine\nbased on our DNA.",
+    "start": 378.25,
+    "duration": 3.559
+  },
+  {
+    "text": "I call it \"biomedia.\"",
+    "start": 381.833,
+    "duration": 2.167
+  },
+  {
+    "text": "I am currently testing\nthe Limbic Lab in a pilot study",
+    "start": 385.042,
+    "duration": 3.267
+  },
+  {
+    "text": "with the Norman Lear Center,",
+    "start": 388.333,
+    "duration": 2.018
+  },
+  {
+    "text": "which looks at the top 50\nepisodic television shows.",
+    "start": 390.375,
+    "duration": 3.726
+  },
+  {
+    "text": "But I am grappling\nwith an ethical dilemma.",
+    "start": 394.125,
+    "duration": 3.018
+  },
+  {
+    "text": "If I design a tool\nthat can be turned into a weapon,",
+    "start": 397.167,
+    "duration": 3.851
+  },
+  {
+    "text": "should I build it?",
+    "start": 401.042,
+    "duration": 1.291
+  },
+  {
+    "text": "By open-sourcing the lab\nto encourage access and inclusivity,",
+    "start": 403.75,
+    "duration": 3.643
+  },
+  {
+    "text": "I also run the risk\nof enabling powerful governments",
+    "start": 407.417,
+    "duration": 3.434
+  },
+  {
+    "text": "and profit-driven companies\nto appropriate the platform",
+    "start": 410.875,
+    "duration": 2.934
+  },
+  {
+    "text": "for fake news, marketing\nor other forms of mass persuasion.",
+    "start": 413.833,
+    "duration": 4.084
+  },
+  {
+    "text": "For me, therefore,\nit is critical to make my research",
+    "start": 419.375,
+    "duration": 3.351
+  },
+  {
+    "text": "as transparent to\nlay audiences as GMO labels.",
+    "start": 422.75,
+    "duration": 3.583
+  },
+  {
+    "text": "However, this is not enough.",
+    "start": 427.333,
+    "duration": 2.542
+  },
+  {
+    "text": "As creative technologists,",
+    "start": 431.208,
+    "duration": 1.643
+  },
+  {
+    "text": "we have a responsibility",
+    "start": 432.875,
+    "duration": 2.226
+  },
+  {
+    "text": "not only to reflect upon how present\ntechnology shapes our cultural values",
+    "start": 435.125,
+    "duration": 4.768
+  },
+  {
+    "text": "and social behavior,",
+    "start": 439.917,
+    "duration": 2.017
+  },
+  {
+    "text": "but also to actively challenge\nthe trajectory of future technology.",
+    "start": 441.958,
+    "duration": 4.935
+  },
+  {
+    "text": "It is my hope that we make\nan ethical commitment",
+    "start": 446.917,
+    "duration": 4.059
+  },
+  {
+    "text": "to harvesting the body's intelligence",
+    "start": 451.0,
+    "duration": 2.351
+  },
+  {
+    "text": "for the creation of authentic\nand just stories",
+    "start": 453.375,
+    "duration": 3.434
+  },
+  {
+    "text": "that transform media and technology",
+    "start": 456.833,
+    "duration": 2.393
+  },
+  {
+    "text": "from harmful weapons\ninto narrative medicine.",
+    "start": 459.25,
+    "duration": 3.476
+  },
+  {
+    "text": "Thank you.",
+    "start": 462.75,
+    "duration": 1.268
+  },
+  {
+    "text": "(Applause and cheers)",
+    "start": 464.042,
+    "duration": 2.208
+  }
+]

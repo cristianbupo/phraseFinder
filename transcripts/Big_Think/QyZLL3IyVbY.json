@@ -1,0 +1,612 @@
+[
+  {
+    "text": "well first thing is that we've collected",
+    "start": 4.319,
+    "duration": 4.681
+  },
+  {
+    "text": "a huge amount of data um and we've",
+    "start": 6.759,
+    "duration": 5.0
+  },
+  {
+    "text": "curated this data so it's uh it's data",
+    "start": 9.0,
+    "duration": 4.24
+  },
+  {
+    "text": "where we've gone typically to sort of",
+    "start": 11.759,
+    "duration": 3.88
+  },
+  {
+    "text": "primary sources of data um and made",
+    "start": 13.24,
+    "duration": 5.44
+  },
+  {
+    "text": "arrangements to get uh either the static",
+    "start": 15.639,
+    "duration": 5.361
+  },
+  {
+    "text": "data or a feed of data that comes in",
+    "start": 18.68,
+    "duration": 4.48
+  },
+  {
+    "text": "every minute every second every hour",
+    "start": 21.0,
+    "duration": 5.119
+  },
+  {
+    "text": "whatever um we we've organized this data",
+    "start": 23.16,
+    "duration": 5.16
+  },
+  {
+    "text": "uh so that it's sort of set up to be",
+    "start": 26.119,
+    "duration": 3.601
+  },
+  {
+    "text": "clean and computable so that's sort of",
+    "start": 28.32,
+    "duration": 3.439
+  },
+  {
+    "text": "the first component is all this data",
+    "start": 29.72,
+    "duration": 3.48
+  },
+  {
+    "text": "that exists in the system whether it's",
+    "start": 31.759,
+    "duration": 5.48
+  },
+  {
+    "text": "about chemicals or countries or Foods or",
+    "start": 33.2,
+    "duration": 7.64
+  },
+  {
+    "text": "uh or nuclear uh Isotopes or or whatever",
+    "start": 37.239,
+    "duration": 6.881
+  },
+  {
+    "text": "else or financial uh data about",
+    "start": 40.84,
+    "duration": 6.68
+  },
+  {
+    "text": "companies or whatever so all this data",
+    "start": 44.12,
+    "duration": 5.68
+  },
+  {
+    "text": "uh then sort of the second piece is",
+    "start": 47.52,
+    "duration": 4.48
+  },
+  {
+    "text": "given this data how do we figure things",
+    "start": 49.8,
+    "duration": 5.0
+  },
+  {
+    "text": "out um how do we compute things it's",
+    "start": 52.0,
+    "duration": 5.559
+  },
+  {
+    "text": "like you know if you ask a uh a suitable",
+    "start": 54.8,
+    "duration": 4.36
+  },
+  {
+    "text": "scientist you know can you figure out",
+    "start": 57.559,
+    "duration": 2.921
+  },
+  {
+    "text": "for me something like you know where",
+    "start": 59.16,
+    "duration": 3.559
+  },
+  {
+    "text": "will the Sun be at a particular time of",
+    "start": 60.48,
+    "duration": 3.959
+  },
+  {
+    "text": "uh of day at a particular place on the",
+    "start": 62.719,
+    "duration": 3.361
+  },
+  {
+    "text": "earth you know if they if they can do",
+    "start": 64.439,
+    "duration": 2.921
+  },
+  {
+    "text": "their physics correctly they'll",
+    "start": 66.08,
+    "duration": 2.48
+  },
+  {
+    "text": "eventually be able to figure out the",
+    "start": 67.36,
+    "duration": 4.32
+  },
+  {
+    "text": "answer or uh if you have um this",
+    "start": 68.56,
+    "duration": 6.08
+  },
+  {
+    "text": "particular level of some uh uh some",
+    "start": 71.68,
+    "duration": 6.24
+  },
+  {
+    "text": "substance in you know in blood what you",
+    "start": 74.64,
+    "duration": 4.88
+  },
+  {
+    "text": "know what percentile of the distribution",
+    "start": 77.92,
+    "duration": 3.48
+  },
+  {
+    "text": "does this correspond to or what does",
+    "start": 79.52,
+    "duration": 3.48
+  },
+  {
+    "text": "that mean for the probability of this or",
+    "start": 81.4,
+    "duration": 3.8
+  },
+  {
+    "text": "that thing so these are things which",
+    "start": 83.0,
+    "duration": 4.159
+  },
+  {
+    "text": "sort of in principle can be computed if",
+    "start": 85.2,
+    "duration": 4.08
+  },
+  {
+    "text": "you find the right expert uh what we've",
+    "start": 87.159,
+    "duration": 5.881
+  },
+  {
+    "text": "tried to do is to actually uh accumulate",
+    "start": 89.28,
+    "duration": 5.4
+  },
+  {
+    "text": "all of the all of the algorithms",
+    "start": 93.04,
+    "duration": 3.039
+  },
+  {
+    "text": "necessary to do those computations",
+    "start": 94.68,
+    "duration": 4.759
+  },
+  {
+    "text": "typically that's done by talking to uh",
+    "start": 96.079,
+    "duration": 6.121
+  },
+  {
+    "text": "the world's experts in these areas um",
+    "start": 99.439,
+    "duration": 5.04
+  },
+  {
+    "text": "and uh uh and encapsulating the",
+    "start": 102.2,
+    "duration": 4.4
+  },
+  {
+    "text": "knowledge that we get in in the form of",
+    "start": 104.479,
+    "duration": 4.521
+  },
+  {
+    "text": "algorithms well then another aspect of",
+    "start": 106.6,
+    "duration": 4.36
+  },
+  {
+    "text": "this is so so okay so we know all this",
+    "start": 109.0,
+    "duration": 3.84
+  },
+  {
+    "text": "stuff we can compute all these things",
+    "start": 110.96,
+    "duration": 3.72
+  },
+  {
+    "text": "how does a typical person who walks up",
+    "start": 112.84,
+    "duration": 2.919
+  },
+  {
+    "text": "to all from alpha how do they",
+    "start": 114.68,
+    "duration": 3.2
+  },
+  {
+    "text": "communicate with it so that's then",
+    "start": 115.759,
+    "duration": 4.921
+  },
+  {
+    "text": "another big challenge is uh to be able",
+    "start": 117.88,
+    "duration": 5.4
+  },
+  {
+    "text": "to take sort of the the natural language",
+    "start": 120.68,
+    "duration": 4.759
+  },
+  {
+    "text": "questions the kind of uh the first way",
+    "start": 123.28,
+    "duration": 3.759
+  },
+  {
+    "text": "that people would think of asking such",
+    "start": 125.439,
+    "duration": 3.481
+  },
+  {
+    "text": "and such a question and being able to",
+    "start": 127.039,
+    "duration": 3.84
+  },
+  {
+    "text": "automatically understand that and that's",
+    "start": 128.92,
+    "duration": 3.12
+  },
+  {
+    "text": "something that wasn't clear whether it",
+    "start": 130.879,
+    "duration": 2.481
+  },
+  {
+    "text": "was going to be possible people have",
+    "start": 132.04,
+    "duration": 3.04
+  },
+  {
+    "text": "been trying to do kind of natural",
+    "start": 133.36,
+    "duration": 3.56
+  },
+  {
+    "text": "language processing with computers for",
+    "start": 135.08,
+    "duration": 3.92
+  },
+  {
+    "text": "for decades and there's only been sort",
+    "start": 136.92,
+    "duration": 4.0
+  },
+  {
+    "text": "of slow progress in that in general",
+    "start": 139.0,
+    "duration": 3.2
+  },
+  {
+    "text": "turned out the problem we had to solve",
+    "start": 140.92,
+    "duration": 3.24
+  },
+  {
+    "text": "is sort of the reverse of the problem",
+    "start": 142.2,
+    "duration": 3.88
+  },
+  {
+    "text": "people usually have to solve people",
+    "start": 144.16,
+    "duration": 3.88
+  },
+  {
+    "text": "usually have to solve the problem of",
+    "start": 146.08,
+    "duration": 3.799
+  },
+  {
+    "text": "you're given you know thousands millions",
+    "start": 148.04,
+    "duration": 4.0
+  },
+  {
+    "text": "ions of pages of text go have the",
+    "start": 149.879,
+    "duration": 5.241
+  },
+  {
+    "text": "computer understand this our problem was",
+    "start": 152.04,
+    "duration": 5.24
+  },
+  {
+    "text": "we can compute a certain set of things",
+    "start": 155.12,
+    "duration": 4.0
+  },
+  {
+    "text": "and then we're given this very short",
+    "start": 157.28,
+    "duration": 3.879
+  },
+  {
+    "text": "sort of utterance that the human has fed",
+    "start": 159.12,
+    "duration": 4.479
+  },
+  {
+    "text": "us and we have to ask the question can",
+    "start": 161.159,
+    "duration": 4.921
+  },
+  {
+    "text": "we understand that utterance and map it",
+    "start": 163.599,
+    "duration": 4.481
+  },
+  {
+    "text": "into the things that we can compute so",
+    "start": 166.08,
+    "duration": 4.0
+  },
+  {
+    "text": "it's turned out uh somewhat to my",
+    "start": 168.08,
+    "duration": 4.04
+  },
+  {
+    "text": "surprise actually that we've been able",
+    "start": 170.08,
+    "duration": 4.32
+  },
+  {
+    "text": "using a bunch of ideas about sort of",
+    "start": 172.12,
+    "duration": 4.56
+  },
+  {
+    "text": "computation and Linguistics and so on um",
+    "start": 174.4,
+    "duration": 4.32
+  },
+  {
+    "text": "to make really great progress in in",
+    "start": 176.68,
+    "duration": 3.76
+  },
+  {
+    "text": "being able to let one sort of type in",
+    "start": 178.72,
+    "duration": 3.92
+  },
+  {
+    "text": "things in whatever form one first thinks",
+    "start": 180.44,
+    "duration": 3.64
+  },
+  {
+    "text": "of them and having the computer",
+    "start": 182.64,
+    "duration": 4.08
+  },
+  {
+    "text": "understand them and then finally uh one",
+    "start": 184.08,
+    "duration": 4.4
+  },
+  {
+    "text": "has to figure out so there are all these",
+    "start": 186.72,
+    "duration": 3.12
+  },
+  {
+    "text": "things we can compute we've understood",
+    "start": 188.48,
+    "duration": 3.28
+  },
+  {
+    "text": "the question that's been asked uh",
+    "start": 189.84,
+    "duration": 3.44
+  },
+  {
+    "text": "there's all sorts of things that we can",
+    "start": 191.76,
+    "duration": 3.839
+  },
+  {
+    "text": "give as the answer which parts of the",
+    "start": 193.28,
+    "duration": 3.679
+  },
+  {
+    "text": "things that we might give as the answer",
+    "start": 195.599,
+    "duration": 2.72
+  },
+  {
+    "text": "should we actually present how do we",
+    "start": 196.959,
+    "duration": 4.0
+  },
+  {
+    "text": "sort of uh present the right graphical",
+    "start": 198.319,
+    "duration": 6.161
+  },
+  {
+    "text": "tabula and so on uh results to actually",
+    "start": 200.959,
+    "duration": 5.321
+  },
+  {
+    "text": "communicate in an effective way with",
+    "start": 204.48,
+    "duration": 4.2
+  },
+  {
+    "text": "with humans who are who are using the",
+    "start": 206.28,
+    "duration": 7.0
+  },
+  {
+    "text": "system so you know all these pieces uh",
+    "start": 208.68,
+    "duration": 6.04
+  },
+  {
+    "text": "we managed to sort of pull them together",
+    "start": 213.28,
+    "duration": 3.12
+  },
+  {
+    "text": "and it's all sort of has to be connected",
+    "start": 214.72,
+    "duration": 4.719
+  },
+  {
+    "text": "to a sort of a big supercomputer type uh",
+    "start": 216.4,
+    "duration": 5.0
+  },
+  {
+    "text": "system sort of big crunchy software",
+    "start": 219.439,
+    "duration": 3.321
+  },
+  {
+    "text": "engineering necessary to actually",
+    "start": 221.4,
+    "duration": 4.399
+  },
+  {
+    "text": "deliver results uh quickly to people on",
+    "start": 222.76,
+    "duration": 5.08
+  },
+  {
+    "text": "the web and so on but sort of the the",
+    "start": 225.799,
+    "duration": 5.36
+  },
+  {
+    "text": "the main objective here is sort of uh",
+    "start": 227.84,
+    "duration": 5.599
+  },
+  {
+    "text": "collect all this knowledge from our",
+    "start": 231.159,
+    "duration": 4.481
+  },
+  {
+    "text": "civilization make it as much as possible",
+    "start": 233.439,
+    "duration": 4.761
+  },
+  {
+    "text": "computable get it to the point where",
+    "start": 235.64,
+    "duration": 4.28
+  },
+  {
+    "text": "sort of if there's a question that could",
+    "start": 238.2,
+    "duration": 4.319
+  },
+  {
+    "text": "be answered by some expert our system",
+    "start": 239.92,
+    "duration": 4.56
+  },
+  {
+    "text": "will be able to automatically answer",
+    "start": 242.519,
+    "duration": 4.041
+  },
+  {
+    "text": "that question so one's asking sort of a",
+    "start": 244.48,
+    "duration": 4.8
+  },
+  {
+    "text": "one might ask a a very specific question",
+    "start": 246.56,
+    "duration": 4.679
+  },
+  {
+    "text": "you know what will be the value of this",
+    "start": 249.28,
+    "duration": 4.599
+  },
+  {
+    "text": "particular I don't know annuity after",
+    "start": 251.239,
+    "duration": 4.2
+  },
+  {
+    "text": "this amount with these particular dollar",
+    "start": 253.879,
+    "duration": 4.08
+  },
+  {
+    "text": "values based on uh this thing about",
+    "start": 255.439,
+    "duration": 4.32
+  },
+  {
+    "text": "interest rates or whatever else it is",
+    "start": 257.959,
+    "duration": 3.361
+  },
+  {
+    "text": "it's very something very specific it's",
+    "start": 259.759,
+    "duration": 4.121
+  },
+  {
+    "text": "not sort of give me a general essay",
+    "start": 261.32,
+    "duration": 4.56
+  },
+  {
+    "text": "about such and such a topic it's I've",
+    "start": 263.88,
+    "duration": 4.08
+  },
+  {
+    "text": "got a specific question give me a",
+    "start": 265.88,
+    "duration": 5.56
+  },
+  {
+    "text": "specific answer",
+    "start": 267.96,
+    "duration": 3.48
+  }
+]

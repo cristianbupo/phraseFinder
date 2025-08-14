@@ -1,0 +1,412 @@
+[
+  {
+    "text": "As far as we know,",
+    "start": 11.95,
+    "duration": 1.568
+  },
+  {
+    "text": "there’s only one thing in our solar system\nsophisticated enough to study itself:",
+    "start": 13.518,
+    "duration": 5.919
+  },
+  {
+    "text": "the human brain.",
+    "start": 19.437,
+    "duration": 1.869
+  },
+  {
+    "text": "But this self-investigation \nis incredibly challenging;",
+    "start": 21.306,
+    "duration": 3.048
+  },
+  {
+    "text": "a living brain is shielded \nby a thick skull,",
+    "start": 24.354,
+    "duration": 3.079
+  },
+  {
+    "text": "swaddled in layers of protective tissue,",
+    "start": 27.433,
+    "duration": 2.822
+  },
+  {
+    "text": "and made up of billions of tiny,\nconnected cells.",
+    "start": 30.255,
+    "duration": 3.101
+  },
+  {
+    "text": "That’s why it’s so difficult to isolate, \nobserve, and understand diseases",
+    "start": 33.356,
+    "duration": 4.789
+  },
+  {
+    "text": "like Alzheimer’s.",
+    "start": 38.145,
+    "duration": 1.669
+  },
+  {
+    "text": "So how do we study living brains \nwithout harming their owners?",
+    "start": 39.814,
+    "duration": 4.318
+  },
+  {
+    "text": "We can use a trio of techniques \ncalled EEG,",
+    "start": 44.132,
+    "duration": 2.903
+  },
+  {
+    "text": "fMRI,",
+    "start": 47.035,
+    "duration": 1.289
+  },
+  {
+    "text": "and PET.",
+    "start": 48.324,
+    "duration": 1.459
+  },
+  {
+    "text": "Each measures something different \nand has its own strengths and weaknesses,",
+    "start": 49.783,
+    "duration": 3.822
+  },
+  {
+    "text": "and we’ll look at each in turn.",
+    "start": 53.605,
+    "duration": 2.29
+  },
+  {
+    "text": "First is EEG, or electroencephalography,",
+    "start": 55.895,
+    "duration": 3.898
+  },
+  {
+    "text": "which measures electrical \nactivity in your brain.",
+    "start": 59.793,
+    "duration": 3.329
+  },
+  {
+    "text": "As brain cells communicate, \nthey produce waves of electricity.",
+    "start": 63.122,
+    "duration": 4.44
+  },
+  {
+    "text": "Electrodes placed on the skull pick\nup these waves,",
+    "start": 67.562,
+    "duration": 3.393
+  },
+  {
+    "text": "and differences in the signals detected \nbetween electrodes",
+    "start": 70.955,
+    "duration": 3.68
+  },
+  {
+    "text": "provide information \nabout what’s happening.",
+    "start": 74.635,
+    "duration": 3.071
+  },
+  {
+    "text": "This technique was invented \nalmost 100 years ago,",
+    "start": 77.706,
+    "duration": 2.848
+  },
+  {
+    "text": "and it’s still used to diagnose conditions\nlike epilepsy and sleep disorders.",
+    "start": 80.554,
+    "duration": 4.871
+  },
+  {
+    "text": "It’s also used to investigate what areas \nof the brain are active",
+    "start": 85.425,
+    "duration": 3.221
+  },
+  {
+    "text": "during learning or paying attention.",
+    "start": 88.646,
+    "duration": 2.458
+  },
+  {
+    "text": "EEG is non-invasive,",
+    "start": 91.104,
+    "duration": 1.651
+  },
+  {
+    "text": "relatively inexpensive,",
+    "start": 92.755,
+    "duration": 1.691
+  },
+  {
+    "text": "and fast:",
+    "start": 94.446,
+    "duration": 1.618
+  },
+  {
+    "text": "it can measure changes that occur \nin just milliseconds.",
+    "start": 96.064,
+    "duration": 3.362
+  },
+  {
+    "text": "Unfortunately, it’s hard to determine",
+    "start": 99.426,
+    "duration": 2.396
+  },
+  {
+    "text": "exactly where any particular \npattern originates.",
+    "start": 101.822,
+    "duration": 3.362
+  },
+  {
+    "text": "Electrical signals are generated \nconstantly all over the brain",
+    "start": 105.184,
+    "duration": 3.591
+  },
+  {
+    "text": "and they interact with each other to\nproduce complex patterns.",
+    "start": 108.775,
+    "duration": 3.991
+  },
+  {
+    "text": "Using more electrodes or sophisticated \ndata-processing algorithms can help.",
+    "start": 112.766,
+    "duration": 4.3
+  },
+  {
+    "text": "But in the end, while EEG can tell you \nprecisely when certain activity occurs,",
+    "start": 117.066,
+    "duration": 6.3
+  },
+  {
+    "text": "it can’t tell you precisely where.",
+    "start": 123.366,
+    "duration": 3.028
+  },
+  {
+    "text": "To do that, you’d need another technique,",
+    "start": 126.394,
+    "duration": 2.21
+  },
+  {
+    "text": "such as functional magnetic \nresonance imaging, or fMRI.",
+    "start": 128.604,
+    "duration": 4.521
+  },
+  {
+    "text": "fMRI measures how quickly oxygen \nis consumed by brain cells.",
+    "start": 133.125,
+    "duration": 4.609
+  },
+  {
+    "text": "Active areas of the brain use\noxygen more quickly.",
+    "start": 137.734,
+    "duration": 3.427
+  },
+  {
+    "text": "So watching an fMRI scan while a person\ncompletes cognitive or behavioral tasks",
+    "start": 141.161,
+    "duration": 5.192
+  },
+  {
+    "text": "can provide information about which \nregions of the brain might be involved.",
+    "start": 146.353,
+    "duration": 4.422
+  },
+  {
+    "text": "That allows us to study everything\nfrom how we see faces",
+    "start": 150.775,
+    "duration": 2.869
+  },
+  {
+    "text": "to how we understand what we’re feeling.",
+    "start": 153.644,
+    "duration": 2.584
+  },
+  {
+    "text": "fMRI can pinpoint differences in brain\nactivity to within a few millimeters,",
+    "start": 156.228,
+    "duration": 5.375
+  },
+  {
+    "text": "but it’s thousands \nof times slower than EEG.",
+    "start": 161.603,
+    "duration": 3.172
+  },
+  {
+    "text": "Using the two techniques together",
+    "start": 164.775,
+    "duration": 1.729
+  },
+  {
+    "text": "can help show when,\nand where, neural activity is occurring.",
+    "start": 166.504,
+    "duration": 4.128
+  },
+  {
+    "text": "The third, even more precise, technique\nis called positron emission tomography",
+    "start": 170.632,
+    "duration": 5.513
+  },
+  {
+    "text": "and it measures radioactive elements \nintroduced into the brain.",
+    "start": 176.145,
+    "duration": 4.19
+  },
+  {
+    "text": "That sounds much scarier \nthan it actually is;",
+    "start": 180.335,
+    "duration": 3.139
+  },
+  {
+    "text": "PET scans, like fMRI and EEG, \nare completely safe.",
+    "start": 183.474,
+    "duration": 4.536
+  },
+  {
+    "text": "During a PET scan, a small amount\nof radioactive material called a tracer",
+    "start": 188.01,
+    "duration": 5.016
+  },
+  {
+    "text": "is injected into the bloodstream,",
+    "start": 193.026,
+    "duration": 2.23
+  },
+  {
+    "text": "and doctors monitor its\ncirculation through the brain.",
+    "start": 195.256,
+    "duration": 3.759
+  },
+  {
+    "text": "By modifying the tracer\nto bind to specific molecules,",
+    "start": 199.015,
+    "duration": 3.418
+  },
+  {
+    "text": "researchers can use PET to study \nthe complex chemistry in our brains.",
+    "start": 202.433,
+    "duration": 4.65
+  },
+  {
+    "text": "It’s useful for studying \nhow drugs affect the brain",
+    "start": 207.083,
+    "duration": 2.823
+  },
+  {
+    "text": "and detecting diseases like Alzheimer’s.",
+    "start": 209.906,
+    "duration": 2.957
+  },
+  {
+    "text": "But this technique has \nthe lowest time resolution of all",
+    "start": 212.863,
+    "duration": 3.162
+  },
+  {
+    "text": "because it takes minutes for the tracer \nto circulate and changes to show up.",
+    "start": 216.025,
+    "duration": 4.748
+  },
+  {
+    "text": "These techniques collectively \nhelp doctors and scientists",
+    "start": 220.773,
+    "duration": 3.792
+  },
+  {
+    "text": "connect what happens in the\nbrain with our behavior.",
+    "start": 224.565,
+    "duration": 3.344
+  },
+  {
+    "text": "But they’re also limited \nby how much we still don't know.",
+    "start": 227.909,
+    "duration": 3.256
+  },
+  {
+    "text": "For example, let's say researchers are\ninterested in studying how memory works.",
+    "start": 231.165,
+    "duration": 4.348
+  },
+  {
+    "text": "After asking 50 participants to memorize \na series of images while in MRI scanners,",
+    "start": 235.513,
+    "duration": 4.951
+  },
+  {
+    "text": "the researchers might analyze the results",
+    "start": 240.464,
+    "duration": 2.571
+  },
+  {
+    "text": "and discover a number \nof active brain regions.",
+    "start": 243.035,
+    "duration": 2.739
+  },
+  {
+    "text": "Making a link between memory \nand specific parts of the brain",
+    "start": 245.774,
+    "duration": 3.351
+  },
+  {
+    "text": "is an important step forward.",
+    "start": 249.125,
+    "duration": 1.916
+  },
+  {
+    "text": "But future research would be necessary",
+    "start": 251.041,
+    "duration": 1.725
+  },
+  {
+    "text": "to better understand \nwhat’s happening in each region,",
+    "start": 252.766,
+    "duration": 2.829
+  },
+  {
+    "text": "how they work together,",
+    "start": 255.595,
+    "duration": 1.429
+  },
+  {
+    "text": "and whether the activity is because \nof their involvement in memory",
+    "start": 257.024,
+    "duration": 3.202
+  },
+  {
+    "text": "or another process \noccurring simultaneously.",
+    "start": 260.226,
+    "duration": 3.578
+  },
+  {
+    "text": "More advanced imaging \nand analysis technology",
+    "start": 263.804,
+    "duration": 2.841
+  },
+  {
+    "text": "might one day provide \nmore accurate results",
+    "start": 266.645,
+    "duration": 3.002
+  },
+  {
+    "text": "and even distinguish",
+    "start": 269.647,
+    "duration": 1.077
+  },
+  {
+    "text": "the activity of individual neurons.",
+    "start": 270.724,
+    "duration": 2.49
+  },
+  {
+    "text": "Until then, our brains will\nkeep measuring, analyzing, and innovating",
+    "start": 273.214,
+    "duration": 4.271
+  },
+  {
+    "text": "in pursuit of that quest to understand",
+    "start": 277.485,
+    "duration": 1.99
+  },
+  {
+    "text": "one of the most remarkable things \nwe’ve ever encountered.",
+    "start": 279.475,
+    "duration": 3.2
+  }
+]

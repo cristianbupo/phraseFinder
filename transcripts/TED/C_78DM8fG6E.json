@@ -1,0 +1,3232 @@
+[
+  {
+    "text": "We started OpenAI seven years ago",
+    "start": 3.875,
+    "duration": 2.503
+  },
+  {
+    "text": "because we felt like something\nreally interesting was happening in AI",
+    "start": 6.378,
+    "duration": 3.712
+  },
+  {
+    "text": "and we wanted to help steer it\nin a positive direction.",
+    "start": 10.131,
+    "duration": 3.17
+  },
+  {
+    "text": "It's honestly just really amazing to see",
+    "start": 15.22,
+    "duration": 2.085
+  },
+  {
+    "text": "how far this whole field\nhas come since then.",
+    "start": 17.347,
+    "duration": 3.086
+  },
+  {
+    "text": "And it's really gratifying to hear\nfrom people like Raymond",
+    "start": 20.433,
+    "duration": 3.629
+  },
+  {
+    "text": "who are using the technology\nwe are building, and others,",
+    "start": 24.104,
+    "duration": 2.836
+  },
+  {
+    "text": "for so many wonderful things.",
+    "start": 26.982,
+    "duration": 2.127
+  },
+  {
+    "text": "We hear from people who are excited,",
+    "start": 29.15,
+    "duration": 2.503
+  },
+  {
+    "text": "we hear from people who are concerned,",
+    "start": 31.653,
+    "duration": 1.835
+  },
+  {
+    "text": "we hear from people who feel\nboth those emotions at once.",
+    "start": 33.53,
+    "duration": 2.961
+  },
+  {
+    "text": "And honestly, that's how we feel.",
+    "start": 36.533,
+    "duration": 2.252
+  },
+  {
+    "text": "Above all, it feels like we're entering\nan historic period right now",
+    "start": 40.245,
+    "duration": 4.087
+  },
+  {
+    "text": "where we as a world\nare going to define a technology",
+    "start": 44.374,
+    "duration": 4.421
+  },
+  {
+    "text": "that will be so important\nfor our society going forward.",
+    "start": 48.795,
+    "duration": 3.086
+  },
+  {
+    "text": "And I believe that we can\nmanage this for good.",
+    "start": 52.924,
+    "duration": 2.628
+  },
+  {
+    "text": "So today, I want to show you\nthe current state of that technology",
+    "start": 56.845,
+    "duration": 4.171
+  },
+  {
+    "text": "and some of the underlying\ndesign principles that we hold dear.",
+    "start": 61.016,
+    "duration": 3.086
+  },
+  {
+    "text": "So the first thing I'm going to show you",
+    "start": 69.983,
+    "duration": 1.918
+  },
+  {
+    "text": "is what it's like to build\na tool for an AI",
+    "start": 71.943,
+    "duration": 2.086
+  },
+  {
+    "text": "rather than building it for a human.",
+    "start": 74.029,
+    "duration": 1.876
+  },
+  {
+    "text": "So we have a new DALL-E model,\nwhich generates images,",
+    "start": 77.574,
+    "duration": 3.545
+  },
+  {
+    "text": "and we are exposing it as an app\nfor ChatGPT to use on your behalf.",
+    "start": 81.161,
+    "duration": 4.045
+  },
+  {
+    "text": "And you can do things like ask, you know,",
+    "start": 85.248,
+    "duration": 2.461
+  },
+  {
+    "text": "suggest a nice post-TED meal\nand draw a picture of it.",
+    "start": 87.751,
+    "duration": 6.631
+  },
+  {
+    "text": "(Laughter)",
+    "start": 95.216,
+    "duration": 1.419
+  },
+  {
+    "text": "Now you get all of the, sort of,\nideation and creative back-and-forth",
+    "start": 98.303,
+    "duration": 4.671
+  },
+  {
+    "text": "and taking care of the details for you\nthat you get out of ChatGPT.",
+    "start": 103.016,
+    "duration": 4.004
+  },
+  {
+    "text": "And here we go, it's not just\nthe idea for the meal,",
+    "start": 107.062,
+    "duration": 2.669
+  },
+  {
+    "text": "but a very, very detailed spread.",
+    "start": 109.773,
+    "duration": 3.587
+  },
+  {
+    "text": "So let's see what we're going to get.",
+    "start": 114.11,
+    "duration": 2.044
+  },
+  {
+    "text": "But ChatGPT doesn't just generate\nimages in this case --",
+    "start": 116.154,
+    "duration": 3.795
+  },
+  {
+    "text": "sorry, it doesn't generate text,\nit also generates an image.",
+    "start": 119.991,
+    "duration": 2.836
+  },
+  {
+    "text": "And that is something\nthat really expands the power",
+    "start": 122.827,
+    "duration": 2.419
+  },
+  {
+    "text": "of what it can do on your behalf\nin terms of carrying out your intent.",
+    "start": 125.246,
+    "duration": 3.504
+  },
+  {
+    "text": "And I'll point out,\nthis is all a live demo.",
+    "start": 128.75,
+    "duration": 2.085
+  },
+  {
+    "text": "This is all generated\nby the AI as we speak.",
+    "start": 130.835,
+    "duration": 2.169
+  },
+  {
+    "text": "So I actually don't even know\nwhat we're going to see.",
+    "start": 133.046,
+    "duration": 2.544
+  },
+  {
+    "text": "This looks wonderful.",
+    "start": 136.216,
+    "duration": 2.294
+  },
+  {
+    "text": "(Applause)",
+    "start": 138.51,
+    "duration": 3.712
+  },
+  {
+    "text": "I'm getting hungry just looking at it.",
+    "start": 142.514,
+    "duration": 1.877
+  },
+  {
+    "text": "Now we've extended ChatGPT\nwith other tools too,",
+    "start": 144.724,
+    "duration": 2.753
+  },
+  {
+    "text": "for example, memory.",
+    "start": 147.519,
+    "duration": 1.168
+  },
+  {
+    "text": "You can say \"save this for later.\"",
+    "start": 148.728,
+    "duration": 2.795
+  },
+  {
+    "text": "And the interesting thing\nabout these tools",
+    "start": 153.233,
+    "duration": 2.043
+  },
+  {
+    "text": "is they're very inspectable.",
+    "start": 155.318,
+    "duration": 1.377
+  },
+  {
+    "text": "So you get this little pop up here\nthat says \"use the DALL-E app.\"",
+    "start": 156.695,
+    "duration": 3.128
+  },
+  {
+    "text": "And by the way, this is coming to you, all\nChatGPT users, over upcoming months.",
+    "start": 159.823,
+    "duration": 3.712
+  },
+  {
+    "text": "And you can look under the hood\nand see that what it actually did",
+    "start": 163.535,
+    "duration": 3.086
+  },
+  {
+    "text": "was write a prompt\njust like a human could.",
+    "start": 166.621,
+    "duration": 2.169
+  },
+  {
+    "text": "And so you sort of have\nthis ability to inspect",
+    "start": 168.79,
+    "duration": 2.628
+  },
+  {
+    "text": "how the machine is using these tools,",
+    "start": 171.459,
+    "duration": 2.086
+  },
+  {
+    "text": "which allows us to provide\nfeedback to them.",
+    "start": 173.586,
+    "duration": 2.086
+  },
+  {
+    "text": "Now it's saved for later,",
+    "start": 175.714,
+    "duration": 1.209
+  },
+  {
+    "text": "and let me show you\nwhat it's like to use that information",
+    "start": 176.965,
+    "duration": 2.878
+  },
+  {
+    "text": "and to integrate\nwith other applications too.",
+    "start": 179.884,
+    "duration": 2.503
+  },
+  {
+    "text": "You can say,",
+    "start": 182.387,
+    "duration": 2.21
+  },
+  {
+    "text": "“Now make a shopping list\nfor the tasty thing",
+    "start": 184.639,
+    "duration": 5.506
+  },
+  {
+    "text": "I was suggesting earlier.”",
+    "start": 190.186,
+    "duration": 1.835
+  },
+  {
+    "text": "And make it a little tricky for the AI.",
+    "start": 192.021,
+    "duration": 2.128
+  },
+  {
+    "text": "\"And tweet it out for all\nthe TED viewers out there.\"",
+    "start": 196.276,
+    "duration": 4.337
+  },
+  {
+    "text": "(Laughter)",
+    "start": 200.655,
+    "duration": 2.252
+  },
+  {
+    "text": "So if you do make this wonderful,\nwonderful meal,",
+    "start": 202.949,
+    "duration": 2.461
+  },
+  {
+    "text": "I definitely want to know how it tastes.",
+    "start": 205.41,
+    "duration": 2.044
+  },
+  {
+    "text": "But you can see that ChatGPT\nis selecting all these different tools",
+    "start": 208.496,
+    "duration": 3.504
+  },
+  {
+    "text": "without me having to tell it explicitly\nwhich ones to use in any situation.",
+    "start": 212.0,
+    "duration": 4.379
+  },
+  {
+    "text": "And this, I think, shows a new way\nof thinking about the user interface.",
+    "start": 217.088,
+    "duration": 3.879
+  },
+  {
+    "text": "Like, we are so used to thinking of,\nwell, we have these apps,",
+    "start": 220.967,
+    "duration": 3.796
+  },
+  {
+    "text": "we click between them,\nwe copy/paste between them,",
+    "start": 224.763,
+    "duration": 2.335
+  },
+  {
+    "text": "and usually it's a great\nexperience within an app",
+    "start": 227.098,
+    "duration": 2.294
+  },
+  {
+    "text": "as long as you kind of know\nthe menus and know all the options.",
+    "start": 229.434,
+    "duration": 2.961
+  },
+  {
+    "text": "Yes, I would like you to.",
+    "start": 232.395,
+    "duration": 1.293
+  },
+  {
+    "text": "Yes, please.",
+    "start": 233.73,
+    "duration": 1.126
+  },
+  {
+    "text": "Always good to be polite.",
+    "start": 234.898,
+    "duration": 1.251
+  },
+  {
+    "text": "(Laughter)",
+    "start": 236.149,
+    "duration": 2.628
+  },
+  {
+    "text": "And by having this unified\nlanguage interface on top of tools,",
+    "start": 240.361,
+    "duration": 5.464
+  },
+  {
+    "text": "the AI is able to sort of take away\nall those details from you.",
+    "start": 245.867,
+    "duration": 4.63
+  },
+  {
+    "text": "So you don't have to be the one",
+    "start": 250.538,
+    "duration": 1.543
+  },
+  {
+    "text": "who spells out every single\nsort of little piece",
+    "start": 252.123,
+    "duration": 2.294
+  },
+  {
+    "text": "of what's supposed to happen.",
+    "start": 254.459,
+    "duration": 1.543
+  },
+  {
+    "text": "And as I said, this is a live demo,",
+    "start": 256.419,
+    "duration": 1.71
+  },
+  {
+    "text": "so sometimes the unexpected\nwill happen to us.",
+    "start": 258.129,
+    "duration": 3.379
+  },
+  {
+    "text": "But let's take a look at the Instacart\nshopping list while we're at it.",
+    "start": 261.549,
+    "duration": 3.42
+  },
+  {
+    "text": "And you can see we sent a list\nof ingredients to Instacart.",
+    "start": 265.386,
+    "duration": 3.254
+  },
+  {
+    "text": "Here's everything you need.",
+    "start": 269.349,
+    "duration": 1.543
+  },
+  {
+    "text": "And the thing that's really interesting",
+    "start": 270.892,
+    "duration": 1.877
+  },
+  {
+    "text": "is that the traditional UI\nis still very valuable, right?",
+    "start": 272.811,
+    "duration": 2.919
+  },
+  {
+    "text": "If you look at this,",
+    "start": 275.772,
+    "duration": 1.877
+  },
+  {
+    "text": "you still can click through it\nand sort of modify the actual quantities.",
+    "start": 277.69,
+    "duration": 4.296
+  },
+  {
+    "text": "And that's something that I think shows",
+    "start": 281.986,
+    "duration": 1.877
+  },
+  {
+    "text": "that they're not going away,\ntraditional UIs.",
+    "start": 283.863,
+    "duration": 3.253
+  },
+  {
+    "text": "It's just we have a new,\naugmented way to build them.",
+    "start": 287.158,
+    "duration": 2.795
+  },
+  {
+    "text": "And now we have a tweet\nthat's been drafted for our review,",
+    "start": 289.994,
+    "duration": 2.92
+  },
+  {
+    "text": "which is also a very important thing.",
+    "start": 292.956,
+    "duration": 1.793
+  },
+  {
+    "text": "We can click “run,” and there we are,\nwe’re the manager, we’re able to inspect,",
+    "start": 294.749,
+    "duration": 3.712
+  },
+  {
+    "text": "we're able to change the work\nof the AI if we want to.",
+    "start": 298.461,
+    "duration": 2.836
+  },
+  {
+    "text": "And so after this talk,\nyou will be able to access this yourself.",
+    "start": 302.924,
+    "duration": 5.964
+  },
+  {
+    "text": "And there we go.",
+    "start": 317.647,
+    "duration": 1.71
+  },
+  {
+    "text": "Cool.",
+    "start": 319.816,
+    "duration": 1.126
+  },
+  {
+    "text": "Thank you, everyone.",
+    "start": 322.485,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 323.653,
+    "duration": 3.003
+  },
+  {
+    "text": "So we’ll cut back to the slides.",
+    "start": 329.367,
+    "duration": 1.627
+  },
+  {
+    "text": "Now, the important thing\nabout how we build this,",
+    "start": 332.954,
+    "duration": 3.587
+  },
+  {
+    "text": "it's not just about building these tools.",
+    "start": 336.583,
+    "duration": 2.21
+  },
+  {
+    "text": "It's about teaching\nthe AI how to use them.",
+    "start": 338.793,
+    "duration": 2.252
+  },
+  {
+    "text": "Like, what do we even want it to do",
+    "start": 341.087,
+    "duration": 1.71
+  },
+  {
+    "text": "when we ask these very\nhigh-level questions?",
+    "start": 342.839,
+    "duration": 2.419
+  },
+  {
+    "text": "And to do this, we use an old idea.",
+    "start": 345.258,
+    "duration": 2.669
+  },
+  {
+    "text": "If you go back to Alan Turing's 1950 paper\non the Turing test, he says,",
+    "start": 348.261,
+    "duration": 3.337
+  },
+  {
+    "text": "you'll never program an answer to this.",
+    "start": 351.598,
+    "duration": 2.043
+  },
+  {
+    "text": "Instead, you can learn it.",
+    "start": 353.683,
+    "duration": 1.627
+  },
+  {
+    "text": "You could build a machine,\nlike a human child,",
+    "start": 355.351,
+    "duration": 2.169
+  },
+  {
+    "text": "and then teach it through feedback.",
+    "start": 357.52,
+    "duration": 2.127
+  },
+  {
+    "text": "Have a human teacher who provides\nrewards and punishments",
+    "start": 359.689,
+    "duration": 2.711
+  },
+  {
+    "text": "as it tries things out and does things\nthat are either good or bad.",
+    "start": 362.4,
+    "duration": 3.212
+  },
+  {
+    "text": "And this is exactly how we train ChatGPT.",
+    "start": 366.237,
+    "duration": 2.002
+  },
+  {
+    "text": "It's a two-step process.",
+    "start": 368.239,
+    "duration": 1.168
+  },
+  {
+    "text": "First, we produce what Turing\nwould have called a child machine",
+    "start": 369.449,
+    "duration": 3.086
+  },
+  {
+    "text": "through an unsupervised learning process.",
+    "start": 372.535,
+    "duration": 1.96
+  },
+  {
+    "text": "We just show it the whole world,\nthe whole internet",
+    "start": 374.495,
+    "duration": 2.461
+  },
+  {
+    "text": "and say, “Predict what comes next\nin text you’ve never seen before.”",
+    "start": 376.956,
+    "duration": 3.212
+  },
+  {
+    "text": "And this process imbues it\nwith all sorts of wonderful skills.",
+    "start": 380.168,
+    "duration": 3.044
+  },
+  {
+    "text": "For example, if you're shown\na math problem,",
+    "start": 383.212,
+    "duration": 2.086
+  },
+  {
+    "text": "the only way to actually\ncomplete that math problem,",
+    "start": 385.298,
+    "duration": 2.544
+  },
+  {
+    "text": "to say what comes next,",
+    "start": 387.884,
+    "duration": 1.334
+  },
+  {
+    "text": "that green nine up there,",
+    "start": 389.218,
+    "duration": 1.293
+  },
+  {
+    "text": "is to actually solve the math problem.",
+    "start": 390.511,
+    "duration": 2.294
+  },
+  {
+    "text": "But we actually have to do\na second step, too,",
+    "start": 394.432,
+    "duration": 2.169
+  },
+  {
+    "text": "which is to teach the AI\nwhat to do with those skills.",
+    "start": 396.601,
+    "duration": 2.544
+  },
+  {
+    "text": "And for this, we provide feedback.",
+    "start": 399.187,
+    "duration": 1.668
+  },
+  {
+    "text": "We have the AI try out multiple things,\ngive us multiple suggestions,",
+    "start": 400.855,
+    "duration": 3.253
+  },
+  {
+    "text": "and then a human rates them, says\n“This one’s better than that one.”",
+    "start": 404.15,
+    "duration": 3.212
+  },
+  {
+    "text": "And this reinforces not just the specific\nthing that the AI said,",
+    "start": 407.362,
+    "duration": 3.086
+  },
+  {
+    "text": "but very importantly, the whole process\nthat the AI used to produce that answer.",
+    "start": 410.448,
+    "duration": 3.795
+  },
+  {
+    "text": "And this allows it to generalize.",
+    "start": 414.243,
+    "duration": 1.585
+  },
+  {
+    "text": "It allows it to teach,\nto sort of infer your intent",
+    "start": 415.828,
+    "duration": 2.419
+  },
+  {
+    "text": "and apply it in scenarios\nthat it hasn't seen before,",
+    "start": 418.247,
+    "duration": 2.503
+  },
+  {
+    "text": "that it hasn't received feedback.",
+    "start": 420.75,
+    "duration": 1.585
+  },
+  {
+    "text": "Now, sometimes the things\nwe have to teach the AI",
+    "start": 422.669,
+    "duration": 2.46
+  },
+  {
+    "text": "are not what you'd expect.",
+    "start": 425.171,
+    "duration": 1.543
+  },
+  {
+    "text": "For example, when we first showed\nGPT-4 to Khan Academy,",
+    "start": 426.756,
+    "duration": 3.086
+  },
+  {
+    "text": "they said, \"Wow, this is so great,",
+    "start": 429.884,
+    "duration": 1.627
+  },
+  {
+    "text": "We're going to be able to teach\nstudents wonderful things.",
+    "start": 431.552,
+    "duration": 2.753
+  },
+  {
+    "text": "Only one problem, it doesn't\ndouble-check students' math.",
+    "start": 434.347,
+    "duration": 3.462
+  },
+  {
+    "text": "If there's some bad math in there,",
+    "start": 437.809,
+    "duration": 1.626
+  },
+  {
+    "text": "it will happily pretend that one plus one\nequals three and run with it.\"",
+    "start": 439.477,
+    "duration": 3.462
+  },
+  {
+    "text": "So we had to collect some feedback data.",
+    "start": 443.523,
+    "duration": 2.294
+  },
+  {
+    "text": "Sal Khan himself was very kind",
+    "start": 445.858,
+    "duration": 1.544
+  },
+  {
+    "text": "and offered 20 hours of his own time\nto provide feedback to the machine",
+    "start": 447.443,
+    "duration": 3.337
+  },
+  {
+    "text": "alongside our team.",
+    "start": 450.78,
+    "duration": 1.501
+  },
+  {
+    "text": "And over the course of a couple of months\nwe were able to teach the AI that,",
+    "start": 452.323,
+    "duration": 3.587
+  },
+  {
+    "text": "\"Hey, you really should\npush back on humans",
+    "start": 455.91,
+    "duration": 2.044
+  },
+  {
+    "text": "in this specific kind of scenario.\"",
+    "start": 457.954,
+    "duration": 2.044
+  },
+  {
+    "text": "And we've actually made lots and lots\nof improvements to the models this way.",
+    "start": 461.416,
+    "duration": 4.921
+  },
+  {
+    "text": "And when you push\nthat thumbs down in ChatGPT,",
+    "start": 466.379,
+    "duration": 2.544
+  },
+  {
+    "text": "that actually is kind of like sending up\na bat signal to our team to say,",
+    "start": 468.965,
+    "duration": 3.462
+  },
+  {
+    "text": "“Here’s an area of weakness\nwhere you should gather feedback.”",
+    "start": 472.427,
+    "duration": 2.919
+  },
+  {
+    "text": "And so when you do that,",
+    "start": 475.388,
+    "duration": 1.168
+  },
+  {
+    "text": "that's one way that we really\nlisten to our users",
+    "start": 476.597,
+    "duration": 2.294
+  },
+  {
+    "text": "and make sure we're building something\nthat's more useful for everyone.",
+    "start": 478.933,
+    "duration": 3.378
+  },
+  {
+    "text": "Now, providing high-quality\nfeedback is a hard thing.",
+    "start": 482.895,
+    "duration": 3.754
+  },
+  {
+    "text": "If you think about asking a kid\nto clean their room,",
+    "start": 487.025,
+    "duration": 2.46
+  },
+  {
+    "text": "if all you're doing\nis inspecting the floor,",
+    "start": 489.485,
+    "duration": 2.711
+  },
+  {
+    "text": "you don't know if you're just teaching\nthem to stuff all the toys in the closet.",
+    "start": 492.196,
+    "duration": 3.796
+  },
+  {
+    "text": "This is a nice DALL-E-generated\nimage, by the way.",
+    "start": 495.992,
+    "duration": 2.627
+  },
+  {
+    "text": "And the same sort\nof reasoning applies to AI.",
+    "start": 499.912,
+    "duration": 4.713
+  },
+  {
+    "text": "As we move to harder tasks,",
+    "start": 504.667,
+    "duration": 1.794
+  },
+  {
+    "text": "we will have to scale our ability\nto provide high-quality feedback.",
+    "start": 506.502,
+    "duration": 3.796
+  },
+  {
+    "text": "But for this, the AI itself\nis happy to help.",
+    "start": 510.882,
+    "duration": 3.879
+  },
+  {
+    "text": "It's happy to help us provide\neven better feedback",
+    "start": 514.761,
+    "duration": 2.335
+  },
+  {
+    "text": "and to scale our ability to supervise\nthe machine as time goes on.",
+    "start": 517.138,
+    "duration": 3.587
+  },
+  {
+    "text": "And let me show you what I mean.",
+    "start": 520.767,
+    "duration": 1.543
+  },
+  {
+    "text": "For example, you can ask GPT-4\na question like this,",
+    "start": 522.81,
+    "duration": 4.546
+  },
+  {
+    "text": "of how much time passed\nbetween these two foundational blogs",
+    "start": 527.356,
+    "duration": 3.295
+  },
+  {
+    "text": "on unsupervised learning",
+    "start": 530.693,
+    "duration": 1.668
+  },
+  {
+    "text": "and learning from human feedback.",
+    "start": 532.403,
+    "duration": 1.794
+  },
+  {
+    "text": "And the model says two months passed.",
+    "start": 534.197,
+    "duration": 2.46
+  },
+  {
+    "text": "But is it true?",
+    "start": 537.075,
+    "duration": 1.167
+  },
+  {
+    "text": "Like, these models\nare not 100-percent reliable,",
+    "start": 538.284,
+    "duration": 2.252
+  },
+  {
+    "text": "although they’re getting better\nevery time we provide some feedback.",
+    "start": 540.536,
+    "duration": 3.921
+  },
+  {
+    "text": "But we can actually use\nthe AI to fact-check.",
+    "start": 544.457,
+    "duration": 3.086
+  },
+  {
+    "text": "And it can actually check its own work.",
+    "start": 547.543,
+    "duration": 1.877
+  },
+  {
+    "text": "You can say, fact-check this for me.",
+    "start": 549.462,
+    "duration": 1.877
+  },
+  {
+    "text": "Now, in this case, I've actually\ngiven the AI a new tool.",
+    "start": 552.757,
+    "duration": 3.67
+  },
+  {
+    "text": "This one is a browsing tool",
+    "start": 556.427,
+    "duration": 1.71
+  },
+  {
+    "text": "where the model can issue search queries\nand click into web pages.",
+    "start": 558.137,
+    "duration": 3.879
+  },
+  {
+    "text": "And it actually writes out\nits whole chain of thought as it does it.",
+    "start": 562.016,
+    "duration": 3.253
+  },
+  {
+    "text": "It says, I’m just going to search for this\nand it actually does the search.",
+    "start": 565.269,
+    "duration": 3.587
+  },
+  {
+    "text": "It then it finds the publication date\nand the search results.",
+    "start": 568.856,
+    "duration": 3.128
+  },
+  {
+    "text": "It then is issuing another search query.",
+    "start": 572.026,
+    "duration": 1.919
+  },
+  {
+    "text": "It's going to click into the blog post.",
+    "start": 573.945,
+    "duration": 1.877
+  },
+  {
+    "text": "And all of this you could do,\nbut it’s a very tedious task.",
+    "start": 575.822,
+    "duration": 2.877
+  },
+  {
+    "text": "It's not a thing\nthat humans really want to do.",
+    "start": 578.741,
+    "duration": 2.211
+  },
+  {
+    "text": "It's much more fun\nto be in the driver's seat,",
+    "start": 580.952,
+    "duration": 2.169
+  },
+  {
+    "text": "to be in this manager's position\nwhere you can, if you want,",
+    "start": 583.162,
+    "duration": 2.836
+  },
+  {
+    "text": "triple-check the work.",
+    "start": 585.998,
+    "duration": 1.21
+  },
+  {
+    "text": "And out come citations",
+    "start": 587.208,
+    "duration": 1.501
+  },
+  {
+    "text": "so you can actually go",
+    "start": 588.709,
+    "duration": 1.168
+  },
+  {
+    "text": "and very easily verify any piece\nof this whole chain of reasoning.",
+    "start": 589.919,
+    "duration": 3.754
+  },
+  {
+    "text": "And it actually turns out\ntwo months was wrong.",
+    "start": 593.673,
+    "duration": 2.21
+  },
+  {
+    "text": "Two months and one week,",
+    "start": 595.883,
+    "duration": 2.169
+  },
+  {
+    "text": "that was correct.",
+    "start": 598.094,
+    "duration": 1.251
+  },
+  {
+    "text": "(Applause)",
+    "start": 600.888,
+    "duration": 3.837
+  },
+  {
+    "text": "And we'll cut back to the side.",
+    "start": 607.645,
+    "duration": 1.502
+  },
+  {
+    "text": "And so thing that's so interesting to me\nabout this whole process",
+    "start": 609.147,
+    "duration": 3.92
+  },
+  {
+    "text": "is that it’s this many-step collaboration\nbetween a human and an AI.",
+    "start": 613.067,
+    "duration": 3.962
+  },
+  {
+    "text": "Because a human, using\nthis fact-checking tool",
+    "start": 617.029,
+    "duration": 2.461
+  },
+  {
+    "text": "is doing it in order to produce data",
+    "start": 619.532,
+    "duration": 2.21
+  },
+  {
+    "text": "for another AI to become\nmore useful to a human.",
+    "start": 621.742,
+    "duration": 3.17
+  },
+  {
+    "text": "And I think this really shows\nthe shape of something",
+    "start": 625.454,
+    "duration": 2.545
+  },
+  {
+    "text": "that we should expect to be\nmuch more common in the future,",
+    "start": 628.04,
+    "duration": 3.087
+  },
+  {
+    "text": "where we have humans\nand machines kind of very carefully",
+    "start": 631.127,
+    "duration": 2.711
+  },
+  {
+    "text": "and delicately designed\nin how they fit into a problem",
+    "start": 633.88,
+    "duration": 3.503
+  },
+  {
+    "text": "and how we want\nto solve that problem.",
+    "start": 637.425,
+    "duration": 1.918
+  },
+  {
+    "text": "We make sure that the humans are providing\nthe management, the oversight,",
+    "start": 639.385,
+    "duration": 3.462
+  },
+  {
+    "text": "the feedback,",
+    "start": 642.847,
+    "duration": 1.168
+  },
+  {
+    "text": "and the machines are operating\nin a way that's inspectable",
+    "start": 644.015,
+    "duration": 2.752
+  },
+  {
+    "text": "and trustworthy.",
+    "start": 646.809,
+    "duration": 1.126
+  },
+  {
+    "text": "And together we're able to actually create\neven more trustworthy machines.",
+    "start": 647.977,
+    "duration": 3.503
+  },
+  {
+    "text": "And I think that over time,\nif we get this process right,",
+    "start": 651.522,
+    "duration": 2.711
+  },
+  {
+    "text": "we will be able to solve\nimpossible problems.",
+    "start": 654.233,
+    "duration": 2.127
+  },
+  {
+    "text": "And to give you a sense\nof just how impossible I'm talking,",
+    "start": 656.36,
+    "duration": 3.963
+  },
+  {
+    "text": "I think we're going to be able\nto rethink almost every aspect",
+    "start": 660.323,
+    "duration": 2.878
+  },
+  {
+    "text": "of how we interact with computers.",
+    "start": 663.242,
+    "duration": 2.378
+  },
+  {
+    "text": "For example, think about spreadsheets.",
+    "start": 665.62,
+    "duration": 2.502
+  },
+  {
+    "text": "They've been around in some form since,\nwe'll say, 40 years ago with VisiCalc.",
+    "start": 668.122,
+    "duration": 4.379
+  },
+  {
+    "text": "I don't think they've really\nchanged that much in that time.",
+    "start": 672.543,
+    "duration": 2.878
+  },
+  {
+    "text": "And here is a specific spreadsheet\nof all the AI papers on the arXiv",
+    "start": 676.214,
+    "duration": 5.922
+  },
+  {
+    "text": "for the past 30 years.",
+    "start": 682.178,
+    "duration": 1.168
+  },
+  {
+    "text": "There's about 167,000 of them.",
+    "start": 683.346,
+    "duration": 1.96
+  },
+  {
+    "text": "And you can see there the data right here.",
+    "start": 685.348,
+    "duration": 2.878
+  },
+  {
+    "text": "But let me show you the ChatGPT take\non how to analyze a data set like this.",
+    "start": 688.267,
+    "duration": 3.837
+  },
+  {
+    "text": "So we can give ChatGPT\naccess to yet another tool,",
+    "start": 697.318,
+    "duration": 3.837
+  },
+  {
+    "text": "this one a Python interpreter,",
+    "start": 701.197,
+    "duration": 1.46
+  },
+  {
+    "text": "so it’s able to run code,\njust like a data scientist would.",
+    "start": 702.657,
+    "duration": 4.004
+  },
+  {
+    "text": "And so you can just\nliterally upload a file",
+    "start": 706.661,
+    "duration": 2.335
+  },
+  {
+    "text": "and ask questions about it.",
+    "start": 708.996,
+    "duration": 1.335
+  },
+  {
+    "text": "And very helpfully, you know, it knows\nthe name of the file and it's like,",
+    "start": 710.373,
+    "duration": 3.545
+  },
+  {
+    "text": "\"Oh, this is CSV,\"\ncomma-separated value file,",
+    "start": 713.96,
+    "duration": 2.419
+  },
+  {
+    "text": "\"I'll parse it for you.\"",
+    "start": 716.42,
+    "duration": 1.335
+  },
+  {
+    "text": "The only information here\nis the name of the file,",
+    "start": 717.755,
+    "duration": 2.794
+  },
+  {
+    "text": "the column names like you saw\nand then the actual data.",
+    "start": 720.591,
+    "duration": 3.671
+  },
+  {
+    "text": "And from that it's able to infer\nwhat these columns actually mean.",
+    "start": 724.262,
+    "duration": 4.504
+  },
+  {
+    "text": "Like, that semantic information\nwasn't in there.",
+    "start": 728.766,
+    "duration": 2.294
+  },
+  {
+    "text": "It has to sort of, put together\nits world knowledge of knowing that,",
+    "start": 731.102,
+    "duration": 3.211
+  },
+  {
+    "text": "“Oh yeah, arXiv is a site\nthat people submit papers",
+    "start": 734.355,
+    "duration": 2.502
+  },
+  {
+    "text": "and therefore that's what these things are\nand that these are integer values",
+    "start": 736.857,
+    "duration": 3.587
+  },
+  {
+    "text": "and so therefore it's a number\nof authors in the paper,\"",
+    "start": 740.486,
+    "duration": 2.628
+  },
+  {
+    "text": "like all of that, that’s work\nfor a human to do,",
+    "start": 743.114,
+    "duration": 2.252
+  },
+  {
+    "text": "and the AI is happy to help with it.",
+    "start": 745.408,
+    "duration": 1.751
+  },
+  {
+    "text": "Now I don't even know what I want to ask.",
+    "start": 747.159,
+    "duration": 2.002
+  },
+  {
+    "text": "So fortunately, you can ask the machine,",
+    "start": 749.203,
+    "duration": 3.003
+  },
+  {
+    "text": "\"Can you make some exploratory graphs?\"",
+    "start": 752.248,
+    "duration": 1.877
+  },
+  {
+    "text": "And once again, this is a super high-level\ninstruction with lots of intent behind it.",
+    "start": 757.461,
+    "duration": 4.004
+  },
+  {
+    "text": "But I don't even know what I want.",
+    "start": 761.507,
+    "duration": 1.668
+  },
+  {
+    "text": "And the AI kind of has to infer\nwhat I might be interested in.",
+    "start": 763.175,
+    "duration": 2.92
+  },
+  {
+    "text": "And so it comes up\nwith some good ideas, I think.",
+    "start": 766.137,
+    "duration": 2.294
+  },
+  {
+    "text": "So a histogram of the number\nof authors per paper,",
+    "start": 768.472,
+    "duration": 2.336
+  },
+  {
+    "text": "time series of papers per year,\nword cloud of the paper titles.",
+    "start": 770.85,
+    "duration": 2.961
+  },
+  {
+    "text": "All of that, I think,\nwill be pretty interesting to see.",
+    "start": 773.853,
+    "duration": 2.627
+  },
+  {
+    "text": "And the great thing is,\nit can actually do it.",
+    "start": 776.522,
+    "duration": 2.169
+  },
+  {
+    "text": "Here we go, a nice bell curve.",
+    "start": 778.691,
+    "duration": 1.46
+  },
+  {
+    "text": "You see that three\nis kind of the most common.",
+    "start": 780.151,
+    "duration": 2.169
+  },
+  {
+    "text": "It's going to then make this nice plot\nof the papers per year.",
+    "start": 782.32,
+    "duration": 5.797
+  },
+  {
+    "text": "Something crazy\nis happening in 2023, though.",
+    "start": 788.117,
+    "duration": 2.294
+  },
+  {
+    "text": "Looks like we were on an exponential\nand it dropped off the cliff.",
+    "start": 790.411,
+    "duration": 3.128
+  },
+  {
+    "text": "What could be going on there?",
+    "start": 793.539,
+    "duration": 1.46
+  },
+  {
+    "text": "By the way, all this\nis Python code, you can inspect.",
+    "start": 794.999,
+    "duration": 2.753
+  },
+  {
+    "text": "And then we'll see word cloud.",
+    "start": 797.752,
+    "duration": 1.459
+  },
+  {
+    "text": "So you can see all these wonderful things\nthat appear in these titles.",
+    "start": 799.253,
+    "duration": 3.378
+  },
+  {
+    "text": "But I'm pretty unhappy\nabout this 2023 thing.",
+    "start": 803.09,
+    "duration": 2.127
+  },
+  {
+    "text": "It makes this year look really bad.",
+    "start": 805.634,
+    "duration": 1.711
+  },
+  {
+    "text": "Of course, the problem is\nthat the year is not over.",
+    "start": 807.345,
+    "duration": 2.877
+  },
+  {
+    "text": "So I'm going to push back on the machine.",
+    "start": 810.222,
+    "duration": 2.878
+  },
+  {
+    "text": "[Waitttt that's not fair!!!",
+    "start": 813.142,
+    "duration": 1.585
+  },
+  {
+    "text": "2023 isn't over.",
+    "start": 814.727,
+    "duration": 1.293
+  },
+  {
+    "text": "What percentage of papers in 2022\nwere even posted by April 13?]",
+    "start": 818.481,
+    "duration": 5.088
+  },
+  {
+    "text": "So April 13 was the cut-off\ndate I believe.",
+    "start": 824.695,
+    "duration": 2.294
+  },
+  {
+    "text": "Can you use that to make\na fair projection?",
+    "start": 827.656,
+    "duration": 4.922
+  },
+  {
+    "text": "So we'll see, this is\nthe kind of ambitious one.",
+    "start": 834.747,
+    "duration": 2.294
+  },
+  {
+    "text": "(Laughter)",
+    "start": 837.083,
+    "duration": 1.126
+  },
+  {
+    "text": "So you know,",
+    "start": 839.877,
+    "duration": 1.251
+  },
+  {
+    "text": "again, I feel like there was more I wanted\nout of the machine here.",
+    "start": 841.128,
+    "duration": 3.921
+  },
+  {
+    "text": "I really wanted it to notice this thing,",
+    "start": 845.049,
+    "duration": 2.502
+  },
+  {
+    "text": "maybe it's a little bit\nof an overreach for it",
+    "start": 847.593,
+    "duration": 3.128
+  },
+  {
+    "text": "to have sort of, inferred magically\nthat this is what I wanted.",
+    "start": 850.763,
+    "duration": 3.378
+  },
+  {
+    "text": "But I inject my intent,",
+    "start": 854.183,
+    "duration": 1.627
+  },
+  {
+    "text": "I provide this additional piece\nof, you know, guidance.",
+    "start": 855.81,
+    "duration": 4.754
+  },
+  {
+    "text": "And under the hood,",
+    "start": 860.564,
+    "duration": 1.168
+  },
+  {
+    "text": "the AI is just writing code again,\nso if you want to inspect what it's doing,",
+    "start": 861.774,
+    "duration": 3.629
+  },
+  {
+    "text": "it's very possible.",
+    "start": 865.403,
+    "duration": 1.251
+  },
+  {
+    "text": "And now, it does the correct projection.",
+    "start": 866.654,
+    "duration": 3.628
+  },
+  {
+    "text": "(Applause)",
+    "start": 870.282,
+    "duration": 5.005
+  },
+  {
+    "text": "If you noticed, it even updates the title.",
+    "start": 875.287,
+    "duration": 2.169
+  },
+  {
+    "text": "I didn't ask for that,\nbut it know what I want.",
+    "start": 877.498,
+    "duration": 2.336
+  },
+  {
+    "text": "Now we'll cut back to the slide again.",
+    "start": 881.794,
+    "duration": 2.544
+  },
+  {
+    "text": "This slide shows a parable\nof how I think we ...",
+    "start": 885.714,
+    "duration": 4.88
+  },
+  {
+    "text": "A vision of how we may end up\nusing this technology in the future.",
+    "start": 891.22,
+    "duration": 3.212
+  },
+  {
+    "text": "A person brought\nhis very sick dog to the vet,",
+    "start": 894.849,
+    "duration": 3.712
+  },
+  {
+    "text": "and the veterinarian made a bad call\nto say, “Let’s just wait and see.”",
+    "start": 898.561,
+    "duration": 3.336
+  },
+  {
+    "text": "And the dog would not\nbe here today had he listened.",
+    "start": 901.897,
+    "duration": 2.795
+  },
+  {
+    "text": "In the meanwhile,\nhe provided the blood test,",
+    "start": 905.401,
+    "duration": 2.252
+  },
+  {
+    "text": "like, the full medical records, to GPT-4,",
+    "start": 907.653,
+    "duration": 2.586
+  },
+  {
+    "text": "which said, \"I am not a vet,\nyou need to talk to a professional,",
+    "start": 910.281,
+    "duration": 3.17
+  },
+  {
+    "text": "here are some hypotheses.\"",
+    "start": 913.492,
+    "duration": 1.71
+  },
+  {
+    "text": "He brought that information\nto a second vet",
+    "start": 915.786,
+    "duration": 2.127
+  },
+  {
+    "text": "who used it to save the dog's life.",
+    "start": 917.913,
+    "duration": 1.835
+  },
+  {
+    "text": "Now, these systems, they're not perfect.",
+    "start": 921.292,
+    "duration": 2.252
+  },
+  {
+    "text": "You cannot overly rely on them.",
+    "start": 923.544,
+    "duration": 2.336
+  },
+  {
+    "text": "But this story, I think, shows",
+    "start": 925.88,
+    "duration": 3.712
+  },
+  {
+    "text": "that a human with a medical professional",
+    "start": 929.592,
+    "duration": 3.044
+  },
+  {
+    "text": "and with ChatGPT\nas a brainstorming partner",
+    "start": 932.678,
+    "duration": 2.461
+  },
+  {
+    "text": "was able to achieve an outcome\nthat would not have happened otherwise.",
+    "start": 935.181,
+    "duration": 3.295
+  },
+  {
+    "text": "I think this is something\nwe should all reflect on,",
+    "start": 938.476,
+    "duration": 2.419
+  },
+  {
+    "text": "think about as we consider\nhow to integrate these systems",
+    "start": 940.895,
+    "duration": 2.711
+  },
+  {
+    "text": "into our world.",
+    "start": 943.606,
+    "duration": 1.167
+  },
+  {
+    "text": "And one thing I believe really deeply,",
+    "start": 944.815,
+    "duration": 1.835
+  },
+  {
+    "text": "is that getting AI right is going\nto require participation from everyone.",
+    "start": 946.65,
+    "duration": 4.338
+  },
+  {
+    "text": "And that's for deciding\nhow we want it to slot in,",
+    "start": 950.988,
+    "duration": 2.377
+  },
+  {
+    "text": "that's for setting the rules of the road,",
+    "start": 953.365,
+    "duration": 1.961
+  },
+  {
+    "text": "for what an AI will and won't do.",
+    "start": 955.367,
+    "duration": 2.044
+  },
+  {
+    "text": "And if there's one thing\nto take away from this talk,",
+    "start": 957.453,
+    "duration": 2.502
+  },
+  {
+    "text": "it's that this technology\njust looks different.",
+    "start": 959.997,
+    "duration": 2.211
+  },
+  {
+    "text": "Just different from anything\npeople had anticipated.",
+    "start": 962.208,
+    "duration": 2.502
+  },
+  {
+    "text": "And so we all have to become literate.",
+    "start": 964.71,
+    "duration": 1.835
+  },
+  {
+    "text": "And that's, honestly, one\nof the reasons we released ChatGPT.",
+    "start": 966.587,
+    "duration": 2.961
+  },
+  {
+    "text": "Together, I believe that we can\nachieve the OpenAI mission",
+    "start": 969.548,
+    "duration": 3.128
+  },
+  {
+    "text": "of ensuring that artificial\ngeneral intelligence",
+    "start": 972.718,
+    "duration": 2.252
+  },
+  {
+    "text": "benefits all of humanity.",
+    "start": 974.97,
+    "duration": 1.877
+  },
+  {
+    "text": "Thank you.",
+    "start": 976.847,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 978.057,
+    "duration": 6.965
+  },
+  {
+    "text": "(Applause ends)",
+    "start": 993.322,
+    "duration": 1.168
+  },
+  {
+    "text": "Chris Anderson: Greg.",
+    "start": 994.532,
+    "duration": 1.334
+  },
+  {
+    "text": "Wow.",
+    "start": 996.242,
+    "duration": 1.167
+  },
+  {
+    "text": "I mean ...",
+    "start": 997.868,
+    "duration": 1.126
+  },
+  {
+    "text": "I suspect that within every mind out here",
+    "start": 999.662,
+    "duration": 3.753
+  },
+  {
+    "text": "there's a feeling of reeling.",
+    "start": 1003.457,
+    "duration": 2.503
+  },
+  {
+    "text": "Like, I suspect that a very large\nnumber of people viewing this,",
+    "start": 1006.001,
+    "duration": 3.379
+  },
+  {
+    "text": "you look at that and you think,\n“Oh my goodness,",
+    "start": 1009.421,
+    "duration": 2.419
+  },
+  {
+    "text": "pretty much every single thing\nabout the way I work, I need to rethink.\"",
+    "start": 1011.882,
+    "duration": 3.462
+  },
+  {
+    "text": "Like, there's just\nnew possibilities there.",
+    "start": 1015.386,
+    "duration": 2.002
+  },
+  {
+    "text": "Am I right?",
+    "start": 1017.388,
+    "duration": 1.168
+  },
+  {
+    "text": "Who thinks that they're having to rethink\nthe way that we do things?",
+    "start": 1018.597,
+    "duration": 3.337
+  },
+  {
+    "text": "Yeah, I mean, it's amazing,",
+    "start": 1021.976,
+    "duration": 1.543
+  },
+  {
+    "text": "but it's also really scary.",
+    "start": 1023.561,
+    "duration": 2.002
+  },
+  {
+    "text": "So let's talk, Greg, let's talk.",
+    "start": 1025.604,
+    "duration": 1.585
+  },
+  {
+    "text": "I mean, I guess\nmy first question actually is just",
+    "start": 1028.524,
+    "duration": 2.377
+  },
+  {
+    "text": "how the hell have you done this?",
+    "start": 1030.901,
+    "duration": 1.585
+  },
+  {
+    "text": "(Laughter)",
+    "start": 1032.486,
+    "duration": 1.251
+  },
+  {
+    "text": "OpenAI has a few hundred employees.",
+    "start": 1033.737,
+    "duration": 2.962
+  },
+  {
+    "text": "Google has thousands of employees\nworking on artificial intelligence.",
+    "start": 1036.74,
+    "duration": 4.755
+  },
+  {
+    "text": "Why is it you who's come up\nwith this technology",
+    "start": 1041.996,
+    "duration": 3.503
+  },
+  {
+    "text": "that shocked the world?",
+    "start": 1045.541,
+    "duration": 1.168
+  },
+  {
+    "text": "Greg Brockman: I mean, the truth is,",
+    "start": 1046.709,
+    "duration": 1.751
+  },
+  {
+    "text": "we're all building on shoulders\nof giants, right, there's no question.",
+    "start": 1048.502,
+    "duration": 3.295
+  },
+  {
+    "text": "If you look at the compute progress,",
+    "start": 1051.797,
+    "duration": 1.752
+  },
+  {
+    "text": "the algorithmic progress,\nthe data progress,",
+    "start": 1053.549,
+    "duration": 2.085
+  },
+  {
+    "text": "all of those are really industry-wide.",
+    "start": 1055.634,
+    "duration": 1.835
+  },
+  {
+    "text": "But I think within OpenAI,",
+    "start": 1057.469,
+    "duration": 1.252
+  },
+  {
+    "text": "we made a lot of very deliberate\nchoices from the early days.",
+    "start": 1058.762,
+    "duration": 2.878
+  },
+  {
+    "text": "And the first one was just\nto confront reality as it lays.",
+    "start": 1061.64,
+    "duration": 2.711
+  },
+  {
+    "text": "And that we just thought\nreally hard about like:",
+    "start": 1064.393,
+    "duration": 2.294
+  },
+  {
+    "text": "What is it going to take\nto make progress here?",
+    "start": 1066.687,
+    "duration": 2.21
+  },
+  {
+    "text": "We tried a lot of things that didn't work,\nso you only see the things that did.",
+    "start": 1068.939,
+    "duration": 3.754
+  },
+  {
+    "text": "And I think that the most important thing\nhas been to get teams of people",
+    "start": 1072.693,
+    "duration": 3.462
+  },
+  {
+    "text": "who are very different from each other\nto work together harmoniously.",
+    "start": 1076.196,
+    "duration": 3.254
+  },
+  {
+    "text": "CA: Can we have the water,\nby the way, just brought here?",
+    "start": 1079.45,
+    "duration": 2.711
+  },
+  {
+    "text": "I think we're going to need it,\nit's a dry-mouth topic.",
+    "start": 1082.202,
+    "duration": 3.17
+  },
+  {
+    "text": "But isn't there something also\njust about the fact",
+    "start": 1086.665,
+    "duration": 2.795
+  },
+  {
+    "text": "that you saw something\nin these language models",
+    "start": 1089.501,
+    "duration": 4.755
+  },
+  {
+    "text": "that meant that if you continue\nto invest in them and grow them,",
+    "start": 1094.256,
+    "duration": 3.921
+  },
+  {
+    "text": "that something\nat some point might emerge?",
+    "start": 1098.218,
+    "duration": 3.129
+  },
+  {
+    "text": "GB: Yes.",
+    "start": 1101.847,
+    "duration": 1.126
+  },
+  {
+    "text": "And I think that, I mean, honestly,",
+    "start": 1103.015,
+    "duration": 2.836
+  },
+  {
+    "text": "I think the story there\nis pretty illustrative, right?",
+    "start": 1105.893,
+    "duration": 2.544
+  },
+  {
+    "text": "I think that high level, deep learning,",
+    "start": 1108.437,
+    "duration": 2.002
+  },
+  {
+    "text": "like we always knew that was\nwhat we wanted to be,",
+    "start": 1110.481,
+    "duration": 2.335
+  },
+  {
+    "text": "was a deep learning lab,\nand exactly how to do it?",
+    "start": 1112.858,
+    "duration": 2.419
+  },
+  {
+    "text": "I think that in the early days,\nwe didn't know.",
+    "start": 1115.277,
+    "duration": 2.211
+  },
+  {
+    "text": "We tried a lot of things,",
+    "start": 1117.529,
+    "duration": 1.21
+  },
+  {
+    "text": "and one person was working\non training a model",
+    "start": 1118.739,
+    "duration": 2.336
+  },
+  {
+    "text": "to predict the next character\nin Amazon reviews,",
+    "start": 1121.075,
+    "duration": 2.877
+  },
+  {
+    "text": "and he got a result where --\nthis is a syntactic process,",
+    "start": 1123.994,
+    "duration": 4.755
+  },
+  {
+    "text": "you expect, you know, the model\nwill predict where the commas go,",
+    "start": 1128.749,
+    "duration": 3.086
+  },
+  {
+    "text": "where the nouns and verbs are.",
+    "start": 1131.835,
+    "duration": 1.627
+  },
+  {
+    "text": "But he actually got a state-of-the-art\nsentiment analysis classifier out of it.",
+    "start": 1133.504,
+    "duration": 4.337
+  },
+  {
+    "text": "This model could tell you\nif a review was positive or negative.",
+    "start": 1137.883,
+    "duration": 2.961
+  },
+  {
+    "text": "I mean, today we are just like,\ncome on, anyone can do that.",
+    "start": 1140.886,
+    "duration": 3.378
+  },
+  {
+    "text": "But this was the first time\nthat you saw this emergence,",
+    "start": 1144.306,
+    "duration": 3.087
+  },
+  {
+    "text": "this sort of semantics that emerged\nfrom this underlying syntactic process.",
+    "start": 1147.434,
+    "duration": 5.005
+  },
+  {
+    "text": "And there we knew,\nyou've got to scale this thing,",
+    "start": 1152.481,
+    "duration": 2.336
+  },
+  {
+    "text": "you've got to see where it goes.",
+    "start": 1154.858,
+    "duration": 1.544
+  },
+  {
+    "text": "CA: So I think this helps explain",
+    "start": 1156.402,
+    "duration": 1.626
+  },
+  {
+    "text": "the riddle that baffles\neveryone looking at this,",
+    "start": 1158.028,
+    "duration": 2.544
+  },
+  {
+    "text": "because these things are described\nas prediction machines.",
+    "start": 1160.572,
+    "duration": 2.753
+  },
+  {
+    "text": "And yet, what we're seeing\nout of them feels ...",
+    "start": 1163.367,
+    "duration": 2.669
+  },
+  {
+    "text": "it just feels impossible that that\ncould come from a prediction machine.",
+    "start": 1166.036,
+    "duration": 3.42
+  },
+  {
+    "text": "Just the stuff you showed us just now.",
+    "start": 1169.456,
+    "duration": 2.378
+  },
+  {
+    "text": "And the key idea of emergence\nis that when you get more of a thing,",
+    "start": 1171.875,
+    "duration": 3.838
+  },
+  {
+    "text": "suddenly different things emerge.",
+    "start": 1175.754,
+    "duration": 1.585
+  },
+  {
+    "text": "It happens all the time, ant colonies,\nsingle ants run around,",
+    "start": 1177.339,
+    "duration": 3.045
+  },
+  {
+    "text": "when you bring enough of them together,",
+    "start": 1180.384,
+    "duration": 1.877
+  },
+  {
+    "text": "you get these ant colonies that show\ncompletely emergent, different behavior.",
+    "start": 1182.302,
+    "duration": 3.629
+  },
+  {
+    "text": "Or a city where a few houses together,\nit's just houses together.",
+    "start": 1185.973,
+    "duration": 3.086
+  },
+  {
+    "text": "But as you grow the number of houses,",
+    "start": 1189.059,
+    "duration": 1.794
+  },
+  {
+    "text": "things emerge, like suburbs\nand cultural centers and traffic jams.",
+    "start": 1190.894,
+    "duration": 4.588
+  },
+  {
+    "text": "Give me one moment for you\nwhen you saw just something pop",
+    "start": 1197.276,
+    "duration": 3.211
+  },
+  {
+    "text": "that just blew your mind",
+    "start": 1200.529,
+    "duration": 1.668
+  },
+  {
+    "text": "that you just did not see coming.",
+    "start": 1202.197,
+    "duration": 1.627
+  },
+  {
+    "text": "GB: Yeah, well,",
+    "start": 1203.824,
+    "duration": 1.209
+  },
+  {
+    "text": "so you can try this in ChatGPT,\nif you add 40-digit numbers --",
+    "start": 1205.075,
+    "duration": 3.462
+  },
+  {
+    "text": "CA: 40-digit?",
+    "start": 1208.537,
+    "duration": 1.168
+  },
+  {
+    "text": "GB: 40-digit numbers,\nthe model will do it,",
+    "start": 1209.705,
+    "duration": 2.169
+  },
+  {
+    "text": "which means it's really learned\nan internal circuit for how to do it.",
+    "start": 1211.915,
+    "duration": 3.254
+  },
+  {
+    "text": "And the really interesting\nthing is actually,",
+    "start": 1215.21,
+    "duration": 2.127
+  },
+  {
+    "text": "if you have it add like a 40-digit number\nplus a 35-digit number,",
+    "start": 1217.337,
+    "duration": 3.212
+  },
+  {
+    "text": "it'll often get it wrong.",
+    "start": 1220.591,
+    "duration": 1.71
+  },
+  {
+    "text": "And so you can see that it's really\nlearning the process,",
+    "start": 1222.676,
+    "duration": 2.795
+  },
+  {
+    "text": "but it hasn't fully generalized, right?",
+    "start": 1225.471,
+    "duration": 1.876
+  },
+  {
+    "text": "It's like you can't memorize\nthe 40-digit addition table,",
+    "start": 1227.389,
+    "duration": 2.711
+  },
+  {
+    "text": "that's more atoms\nthan there are in the universe.",
+    "start": 1230.1,
+    "duration": 2.294
+  },
+  {
+    "text": "So it had to have learned\nsomething general,",
+    "start": 1232.394,
+    "duration": 2.086
+  },
+  {
+    "text": "but that it hasn't really\nfully yet learned that,",
+    "start": 1234.48,
+    "duration": 2.377
+  },
+  {
+    "text": "Oh, I can sort of generalize this\nto adding arbitrary numbers",
+    "start": 1236.899,
+    "duration": 2.961
+  },
+  {
+    "text": "of arbitrary lengths.",
+    "start": 1239.902,
+    "duration": 1.167
+  },
+  {
+    "text": "CA: So what's happened here",
+    "start": 1241.111,
+    "duration": 1.335
+  },
+  {
+    "text": "is that you've allowed it to scale up",
+    "start": 1242.488,
+    "duration": 1.793
+  },
+  {
+    "text": "and look at an incredible\nnumber of pieces of text.",
+    "start": 1244.281,
+    "duration": 2.419
+  },
+  {
+    "text": "And it is learning things",
+    "start": 1246.742,
+    "duration": 1.209
+  },
+  {
+    "text": "that you didn't know that it was\ngoing to be capable of learning.",
+    "start": 1247.951,
+    "duration": 3.379
+  },
+  {
+    "text": "GB Well, yeah, and it’s more nuanced, too.",
+    "start": 1251.371,
+    "duration": 2.002
+  },
+  {
+    "text": "So one science that we’re starting\nto really get good at",
+    "start": 1253.415,
+    "duration": 2.878
+  },
+  {
+    "text": "is predicting some of these\nemergent capabilities.",
+    "start": 1256.335,
+    "duration": 2.586
+  },
+  {
+    "text": "And to do that actually,",
+    "start": 1258.962,
+    "duration": 1.335
+  },
+  {
+    "text": "one of the things I think\nis very undersung in this field",
+    "start": 1260.339,
+    "duration": 2.711
+  },
+  {
+    "text": "is sort of engineering quality.",
+    "start": 1263.05,
+    "duration": 1.501
+  },
+  {
+    "text": "Like, we had to rebuild our entire stack.",
+    "start": 1264.551,
+    "duration": 2.044
+  },
+  {
+    "text": "When you think about building a rocket,",
+    "start": 1266.637,
+    "duration": 1.877
+  },
+  {
+    "text": "every tolerance has to be incredibly tiny.",
+    "start": 1268.555,
+    "duration": 2.211
+  },
+  {
+    "text": "Same is true in machine learning.",
+    "start": 1270.766,
+    "duration": 1.626
+  },
+  {
+    "text": "You have to get every single piece\nof the stack engineered properly,",
+    "start": 1272.434,
+    "duration": 3.212
+  },
+  {
+    "text": "and then you can start\ndoing these predictions.",
+    "start": 1275.646,
+    "duration": 2.21
+  },
+  {
+    "text": "There are all these incredibly\nsmooth scaling curves.",
+    "start": 1277.856,
+    "duration": 2.503
+  },
+  {
+    "text": "They tell you something deeply\nfundamental about intelligence.",
+    "start": 1280.359,
+    "duration": 2.919
+  },
+  {
+    "text": "If you look at our GPT-4 blog post,",
+    "start": 1283.32,
+    "duration": 1.71
+  },
+  {
+    "text": "you can see all of these curves in there.",
+    "start": 1285.03,
+    "duration": 1.96
+  },
+  {
+    "text": "And now we're starting\nto be able to predict.",
+    "start": 1286.99,
+    "duration": 2.127
+  },
+  {
+    "text": "So we were able to predict, for example,\nthe performance on coding problems.",
+    "start": 1289.117,
+    "duration": 3.713
+  },
+  {
+    "text": "We basically look at some models",
+    "start": 1292.871,
+    "duration": 1.585
+  },
+  {
+    "text": "that are 10,000 times\nor 1,000 times smaller.",
+    "start": 1294.456,
+    "duration": 2.461
+  },
+  {
+    "text": "And so there's something about this\nthat is actually smooth scaling,",
+    "start": 1296.959,
+    "duration": 3.211
+  },
+  {
+    "text": "even though it's still early days.",
+    "start": 1300.17,
+    "duration": 2.044
+  },
+  {
+    "text": "CA: So here is, one of the big fears then,",
+    "start": 1302.756,
+    "duration": 2.544
+  },
+  {
+    "text": "that arises from this.",
+    "start": 1305.3,
+    "duration": 1.252
+  },
+  {
+    "text": "If it’s fundamental\nto what’s happening here,",
+    "start": 1306.593,
+    "duration": 2.127
+  },
+  {
+    "text": "that as you scale up,",
+    "start": 1308.72,
+    "duration": 1.21
+  },
+  {
+    "text": "things emerge that",
+    "start": 1309.93,
+    "duration": 2.419
+  },
+  {
+    "text": "you can maybe predict\nin some level of confidence,",
+    "start": 1312.349,
+    "duration": 4.171
+  },
+  {
+    "text": "but it's capable of surprising you.",
+    "start": 1316.562,
+    "duration": 2.544
+  },
+  {
+    "text": "Why isn't there just a huge risk\nof something truly terrible emerging?",
+    "start": 1320.816,
+    "duration": 4.463
+  },
+  {
+    "text": "GB: Well, I think all of these\nare questions of degree",
+    "start": 1325.32,
+    "duration": 2.545
+  },
+  {
+    "text": "and scale and timing.",
+    "start": 1327.865,
+    "duration": 1.209
+  },
+  {
+    "text": "And I think one thing people miss, too,",
+    "start": 1329.116,
+    "duration": 1.877
+  },
+  {
+    "text": "is sort of the integration with the world\nis also this incredibly emergent,",
+    "start": 1330.993,
+    "duration": 3.587
+  },
+  {
+    "text": "sort of, very powerful thing too.",
+    "start": 1334.621,
+    "duration": 1.585
+  },
+  {
+    "text": "And so that's one of the reasons\nthat we think it's so important",
+    "start": 1336.248,
+    "duration": 3.045
+  },
+  {
+    "text": "to deploy incrementally.",
+    "start": 1339.293,
+    "duration": 1.167
+  },
+  {
+    "text": "And so I think that what we kind of see\nright now, if you look at this talk,",
+    "start": 1340.502,
+    "duration": 3.629
+  },
+  {
+    "text": "a lot of what I focus on is providing\nreally high-quality feedback.",
+    "start": 1344.131,
+    "duration": 3.17
+  },
+  {
+    "text": "Today, the tasks that we do,\nyou can inspect them, right?",
+    "start": 1347.301,
+    "duration": 2.711
+  },
+  {
+    "text": "It's very easy to look at that math\nproblem and be like, no, no, no,",
+    "start": 1350.012,
+    "duration": 3.211
+  },
+  {
+    "text": "machine, seven was the correct answer.",
+    "start": 1353.265,
+    "duration": 1.835
+  },
+  {
+    "text": "But even summarizing a book,\nlike, that's a hard thing to supervise.",
+    "start": 1355.1,
+    "duration": 3.212
+  },
+  {
+    "text": "Like, how do you know\nif this book summary is any good?",
+    "start": 1358.312,
+    "duration": 2.586
+  },
+  {
+    "text": "You have to read the whole book.",
+    "start": 1360.939,
+    "duration": 1.543
+  },
+  {
+    "text": "No one wants to do that.",
+    "start": 1362.482,
+    "duration": 1.168
+  },
+  {
+    "text": "(Laughter)",
+    "start": 1363.692,
+    "duration": 1.293
+  },
+  {
+    "text": "And so I think that the important thing\nwill be that we take this step by step.",
+    "start": 1364.985,
+    "duration": 4.296
+  },
+  {
+    "text": "And that we say, OK,\nas we move on to book summaries,",
+    "start": 1369.323,
+    "duration": 2.544
+  },
+  {
+    "text": "we have to supervise this task properly.",
+    "start": 1371.867,
+    "duration": 1.96
+  },
+  {
+    "text": "We have to build up\na track record with these machines",
+    "start": 1373.827,
+    "duration": 2.586
+  },
+  {
+    "text": "that they're able to actually\ncarry out our intent.",
+    "start": 1376.413,
+    "duration": 2.586
+  },
+  {
+    "text": "And I think we're going to have to produce\neven better, more efficient,",
+    "start": 1379.041,
+    "duration": 3.336
+  },
+  {
+    "text": "more reliable ways of scaling this,",
+    "start": 1382.419,
+    "duration": 1.71
+  },
+  {
+    "text": "sort of like making the machine\nbe aligned with you.",
+    "start": 1384.129,
+    "duration": 2.878
+  },
+  {
+    "text": "CA: So we're going to hear\nlater in this session,",
+    "start": 1387.049,
+    "duration": 2.294
+  },
+  {
+    "text": "there are critics who say that,",
+    "start": 1389.343,
+    "duration": 1.543
+  },
+  {
+    "text": "you know, there's no real\nunderstanding inside,",
+    "start": 1390.928,
+    "duration": 4.587
+  },
+  {
+    "text": "the system is going to always --",
+    "start": 1395.557,
+    "duration": 1.627
+  },
+  {
+    "text": "we're never going to know\nthat it's not generating errors,",
+    "start": 1397.225,
+    "duration": 3.212
+  },
+  {
+    "text": "that it doesn't have\ncommon sense and so forth.",
+    "start": 1400.479,
+    "duration": 2.21
+  },
+  {
+    "text": "Is it your belief, Greg,\nthat it is true at any one moment,",
+    "start": 1402.689,
+    "duration": 4.088
+  },
+  {
+    "text": "but that the expansion of the scale\nand the human feedback",
+    "start": 1406.818,
+    "duration": 3.629
+  },
+  {
+    "text": "that you talked about is basically\ngoing to take it on that journey",
+    "start": 1410.489,
+    "duration": 4.963
+  },
+  {
+    "text": "of actually getting to things\nlike truth and wisdom and so forth,",
+    "start": 1415.494,
+    "duration": 3.837
+  },
+  {
+    "text": "with a high degree of confidence.",
+    "start": 1419.331,
+    "duration": 1.627
+  },
+  {
+    "text": "Can you be sure of that?",
+    "start": 1420.999,
+    "duration": 1.335
+  },
+  {
+    "text": "GB: Yeah, well, I think that the OpenAI,\nI mean, the short answer is yes,",
+    "start": 1422.334,
+    "duration": 3.462
+  },
+  {
+    "text": "I believe that is where we're headed.",
+    "start": 1425.796,
+    "duration": 1.793
+  },
+  {
+    "text": "And I think that the OpenAI approach\nhere has always been just like,",
+    "start": 1427.631,
+    "duration": 3.211
+  },
+  {
+    "text": "let reality hit you in the face, right?",
+    "start": 1430.842,
+    "duration": 1.877
+  },
+  {
+    "text": "It's like this field is the field\nof broken promises,",
+    "start": 1432.719,
+    "duration": 2.503
+  },
+  {
+    "text": "of all these experts saying\nX is going to happen, Y is how it works.",
+    "start": 1435.263,
+    "duration": 3.212
+  },
+  {
+    "text": "People have been saying neural nets\naren't going to work for 70 years.",
+    "start": 1438.475,
+    "duration": 3.337
+  },
+  {
+    "text": "They haven't been right yet.",
+    "start": 1441.812,
+    "duration": 1.376
+  },
+  {
+    "text": "They might be right\nmaybe 70 years plus one",
+    "start": 1443.188,
+    "duration": 2.044
+  },
+  {
+    "text": "or something like that is what you need.",
+    "start": 1445.232,
+    "duration": 1.918
+  },
+  {
+    "text": "But I think that our approach\nhas always been,",
+    "start": 1447.192,
+    "duration": 2.169
+  },
+  {
+    "text": "you've got to push to the limits\nof this technology",
+    "start": 1449.361,
+    "duration": 2.419
+  },
+  {
+    "text": "to really see it in action,",
+    "start": 1451.822,
+    "duration": 1.293
+  },
+  {
+    "text": "because that tells you then, oh, here's\nhow we can move on to a new paradigm.",
+    "start": 1453.115,
+    "duration": 3.67
+  },
+  {
+    "text": "And we just haven't exhausted\nthe fruit here.",
+    "start": 1456.785,
+    "duration": 2.127
+  },
+  {
+    "text": "CA: I mean, it's quite\na controversial stance you've taken,",
+    "start": 1458.954,
+    "duration": 2.794
+  },
+  {
+    "text": "that the right way to do this\nis to put it out there in public",
+    "start": 1461.748,
+    "duration": 2.92
+  },
+  {
+    "text": "and then harness all this, you know,",
+    "start": 1464.71,
+    "duration": 1.751
+  },
+  {
+    "text": "instead of just your team giving feedback,",
+    "start": 1466.461,
+    "duration": 2.002
+  },
+  {
+    "text": "the world is now giving feedback.",
+    "start": 1468.463,
+    "duration": 2.461
+  },
+  {
+    "text": "But ...",
+    "start": 1470.924,
+    "duration": 1.168
+  },
+  {
+    "text": "If, you know, bad things\nare going to emerge,",
+    "start": 1473.135,
+    "duration": 3.753
+  },
+  {
+    "text": "it is out there.",
+    "start": 1476.93,
+    "duration": 1.168
+  },
+  {
+    "text": "So, you know, the original story\nthat I heard on OpenAI",
+    "start": 1478.14,
+    "duration": 2.919
+  },
+  {
+    "text": "when you were founded as a nonprofit,",
+    "start": 1481.101,
+    "duration": 1.793
+  },
+  {
+    "text": "well you were there as the great\nsort of check on the big companies",
+    "start": 1482.894,
+    "duration": 4.463
+  },
+  {
+    "text": "doing their unknown,\npossibly evil thing with AI.",
+    "start": 1487.399,
+    "duration": 3.837
+  },
+  {
+    "text": "And you were going to build models\nthat sort of, you know,",
+    "start": 1491.278,
+    "duration": 4.755
+  },
+  {
+    "text": "somehow held them accountable",
+    "start": 1496.033,
+    "duration": 1.418
+  },
+  {
+    "text": "and was capable of slowing\nthe field down, if need be.",
+    "start": 1497.492,
+    "duration": 4.38
+  },
+  {
+    "text": "Or at least that's kind of what I heard.",
+    "start": 1501.872,
+    "duration": 1.96
+  },
+  {
+    "text": "And yet, what's happened,\narguably, is the opposite.",
+    "start": 1503.832,
+    "duration": 2.461
+  },
+  {
+    "text": "That your release of GPT,\nespecially ChatGPT,",
+    "start": 1506.334,
+    "duration": 5.673
+  },
+  {
+    "text": "sent such shockwaves\nthrough the tech world",
+    "start": 1512.049,
+    "duration": 2.002
+  },
+  {
+    "text": "that now Google and Meta and so forth\nare all scrambling to catch up.",
+    "start": 1514.051,
+    "duration": 3.795
+  },
+  {
+    "text": "And some of their criticisms have been,",
+    "start": 1517.888,
+    "duration": 2.085
+  },
+  {
+    "text": "you are forcing us to put this out here\nwithout proper guardrails or we die.",
+    "start": 1520.015,
+    "duration": 4.963
+  },
+  {
+    "text": "You know, how do you, like,",
+    "start": 1525.02,
+    "duration": 2.794
+  },
+  {
+    "text": "make the case that what you have done\nis responsible here and not reckless.",
+    "start": 1527.814,
+    "duration": 3.754
+  },
+  {
+    "text": "GB: Yeah, we think about these\nquestions all the time.",
+    "start": 1531.568,
+    "duration": 3.128
+  },
+  {
+    "text": "Like, seriously all the time.",
+    "start": 1534.738,
+    "duration": 1.418
+  },
+  {
+    "text": "And I don't think we're always\ngoing to get it right.",
+    "start": 1536.198,
+    "duration": 2.711
+  },
+  {
+    "text": "But one thing I think\nhas been incredibly important,",
+    "start": 1538.909,
+    "duration": 2.46
+  },
+  {
+    "text": "from the very beginning,\nwhen we were thinking",
+    "start": 1541.411,
+    "duration": 2.169
+  },
+  {
+    "text": "about how to build\nartificial general intelligence,",
+    "start": 1543.58,
+    "duration": 2.419
+  },
+  {
+    "text": "actually have it benefit all of humanity,",
+    "start": 1545.999,
+    "duration": 2.002
+  },
+  {
+    "text": "like, how are you\nsupposed to do that, right?",
+    "start": 1548.001,
+    "duration": 2.127
+  },
+  {
+    "text": "And that default plan of being,\nwell, you build in secret,",
+    "start": 1550.17,
+    "duration": 2.711
+  },
+  {
+    "text": "you get this super powerful thing,",
+    "start": 1552.923,
+    "duration": 1.626
+  },
+  {
+    "text": "and then you figure out the safety of it\nand then you push “go,”",
+    "start": 1554.549,
+    "duration": 3.003
+  },
+  {
+    "text": "and you hope you got it right.",
+    "start": 1557.552,
+    "duration": 1.46
+  },
+  {
+    "text": "I don't know how to execute that plan.",
+    "start": 1559.012,
+    "duration": 1.835
+  },
+  {
+    "text": "Maybe someone else does.",
+    "start": 1560.889,
+    "duration": 1.168
+  },
+  {
+    "text": "But for me, that was always terrifying,\nit didn't feel right.",
+    "start": 1562.099,
+    "duration": 2.877
+  },
+  {
+    "text": "And so I think that this\nalternative approach",
+    "start": 1564.976,
+    "duration": 2.128
+  },
+  {
+    "text": "is the only other path that I see,",
+    "start": 1567.104,
+    "duration": 2.043
+  },
+  {
+    "text": "which is that you do let\nreality hit you in the face.",
+    "start": 1569.147,
+    "duration": 2.503
+  },
+  {
+    "text": "And I think you do give people\ntime to give input.",
+    "start": 1571.691,
+    "duration": 2.336
+  },
+  {
+    "text": "You do have, before these\nmachines are perfect,",
+    "start": 1574.027,
+    "duration": 2.211
+  },
+  {
+    "text": "before they are super powerful,\nthat you actually have the ability",
+    "start": 1576.279,
+    "duration": 3.128
+  },
+  {
+    "text": "to see them in action.",
+    "start": 1579.407,
+    "duration": 1.168
+  },
+  {
+    "text": "And we've seen it from GPT-3, right?",
+    "start": 1580.617,
+    "duration": 1.752
+  },
+  {
+    "text": "GPT-3, we really were afraid",
+    "start": 1582.369,
+    "duration": 1.376
+  },
+  {
+    "text": "that the number one thing\npeople were going to do with it",
+    "start": 1583.745,
+    "duration": 2.711
+  },
+  {
+    "text": "was generate misinformation,\ntry to tip elections.",
+    "start": 1586.456,
+    "duration": 2.336
+  },
+  {
+    "text": "Instead, the number one thing\nwas generating Viagra spam.",
+    "start": 1588.834,
+    "duration": 2.711
+  },
+  {
+    "text": "(Laughter)",
+    "start": 1591.545,
+    "duration": 3.169
+  },
+  {
+    "text": "CA: So Viagra spam is bad,\nbut there are things that are much worse.",
+    "start": 1596.007,
+    "duration": 3.212
+  },
+  {
+    "text": "Here's a thought experiment for you.",
+    "start": 1599.219,
+    "duration": 1.752
+  },
+  {
+    "text": "Suppose you're sitting in a room,",
+    "start": 1600.971,
+    "duration": 1.71
+  },
+  {
+    "text": "there's a box on the table.",
+    "start": 1602.681,
+    "duration": 1.668
+  },
+  {
+    "text": "You believe that in that box\nis something that,",
+    "start": 1604.349,
+    "duration": 3.003
+  },
+  {
+    "text": "there's a very strong chance\nit's something absolutely glorious",
+    "start": 1607.394,
+    "duration": 2.961
+  },
+  {
+    "text": "that's going to give beautiful gifts\nto your family and to everyone.",
+    "start": 1610.397,
+    "duration": 3.92
+  },
+  {
+    "text": "But there's actually also a one percent\nthing in the small print there",
+    "start": 1614.359,
+    "duration": 3.629
+  },
+  {
+    "text": "that says: “Pandora.”",
+    "start": 1618.029,
+    "duration": 1.877
+  },
+  {
+    "text": "And there's a chance",
+    "start": 1619.906,
+    "duration": 1.669
+  },
+  {
+    "text": "that this actually could unleash\nunimaginable evils on the world.",
+    "start": 1621.616,
+    "duration": 4.088
+  },
+  {
+    "text": "Do you open that box?",
+    "start": 1626.538,
+    "duration": 1.543
+  },
+  {
+    "text": "GB: Well, so, absolutely not.",
+    "start": 1628.123,
+    "duration": 1.46
+  },
+  {
+    "text": "I think you don't do it that way.",
+    "start": 1629.624,
+    "duration": 1.919
+  },
+  {
+    "text": "And honestly, like, I'll tell you a story\nthat I haven't actually told before,",
+    "start": 1632.21,
+    "duration": 3.796
+  },
+  {
+    "text": "which is that shortly\nafter we started OpenAI,",
+    "start": 1636.006,
+    "duration": 2.586
+  },
+  {
+    "text": "I remember I was in Puerto Rico\nfor an AI conference.",
+    "start": 1638.592,
+    "duration": 2.711
+  },
+  {
+    "text": "I'm sitting in the hotel room just\nlooking out over this wonderful water,",
+    "start": 1641.344,
+    "duration": 3.462
+  },
+  {
+    "text": "all these people having a good time.",
+    "start": 1644.806,
+    "duration": 1.752
+  },
+  {
+    "text": "And you think about it for a moment,",
+    "start": 1646.558,
+    "duration": 1.752
+  },
+  {
+    "text": "if you could choose for basically\nthat Pandora’s box",
+    "start": 1648.31,
+    "duration": 4.504
+  },
+  {
+    "text": "to be five years away",
+    "start": 1652.814,
+    "duration": 2.711
+  },
+  {
+    "text": "or 500 years away,",
+    "start": 1655.567,
+    "duration": 1.585
+  },
+  {
+    "text": "which would you pick, right?",
+    "start": 1657.194,
+    "duration": 1.501
+  },
+  {
+    "text": "On the one hand you're like,\nwell, maybe for you personally,",
+    "start": 1658.737,
+    "duration": 2.836
+  },
+  {
+    "text": "it's better to have it be five years away.",
+    "start": 1661.573,
+    "duration": 2.002
+  },
+  {
+    "text": "But if it gets to be 500 years away\nand people get more time to get it right,",
+    "start": 1663.617,
+    "duration": 3.628
+  },
+  {
+    "text": "which do you pick?",
+    "start": 1667.287,
+    "duration": 1.168
+  },
+  {
+    "text": "And you know, I just\nreally felt it in the moment.",
+    "start": 1668.496,
+    "duration": 2.336
+  },
+  {
+    "text": "I was like, of course\nyou do the 500 years.",
+    "start": 1670.874,
+    "duration": 2.002
+  },
+  {
+    "text": "My brother was in the military at the time",
+    "start": 1673.293,
+    "duration": 2.002
+  },
+  {
+    "text": "and like, he puts his life on the line\nin a much more real way",
+    "start": 1675.295,
+    "duration": 2.961
+  },
+  {
+    "text": "than any of us typing things in computers",
+    "start": 1678.256,
+    "duration": 2.628
+  },
+  {
+    "text": "and developing this\ntechnology at the time.",
+    "start": 1680.926,
+    "duration": 2.585
+  },
+  {
+    "text": "And so, yeah, I'm really sold\non the you've got to approach this right.",
+    "start": 1683.511,
+    "duration": 4.547
+  },
+  {
+    "text": "But I don't think that's quite\nplaying the field as it truly lies.",
+    "start": 1688.058,
+    "duration": 3.628
+  },
+  {
+    "text": "Like, if you look at the whole\nhistory of computing,",
+    "start": 1691.686,
+    "duration": 2.67
+  },
+  {
+    "text": "I really mean it when I say\nthat this is an industry-wide",
+    "start": 1694.397,
+    "duration": 4.463
+  },
+  {
+    "text": "or even just almost like",
+    "start": 1698.902,
+    "duration": 1.543
+  },
+  {
+    "text": "a human-development-\nof-technology-wide shift.",
+    "start": 1700.487,
+    "duration": 3.336
+  },
+  {
+    "text": "And the more that you sort of,\ndon't put together the pieces",
+    "start": 1703.865,
+    "duration": 4.088
+  },
+  {
+    "text": "that are there, right,",
+    "start": 1707.994,
+    "duration": 1.293
+  },
+  {
+    "text": "we're still making faster computers,",
+    "start": 1709.329,
+    "duration": 1.752
+  },
+  {
+    "text": "we're still improving the algorithms,\nall of these things, they are happening.",
+    "start": 1711.081,
+    "duration": 3.67
+  },
+  {
+    "text": "And if you don't put them together,\nyou get an overhang,",
+    "start": 1714.793,
+    "duration": 2.627
+  },
+  {
+    "text": "which means that if someone does,",
+    "start": 1717.42,
+    "duration": 1.627
+  },
+  {
+    "text": "or the moment that someone does manage\nto connect to the circuit,",
+    "start": 1719.089,
+    "duration": 3.086
+  },
+  {
+    "text": "then you suddenly have\nthis very powerful thing,",
+    "start": 1722.175,
+    "duration": 2.252
+  },
+  {
+    "text": "no one's had any time to adjust,",
+    "start": 1724.427,
+    "duration": 1.544
+  },
+  {
+    "text": "who knows what kind\nof safety precautions you get.",
+    "start": 1726.012,
+    "duration": 2.336
+  },
+  {
+    "text": "And so I think\nthat one thing I take away",
+    "start": 1728.39,
+    "duration": 1.918
+  },
+  {
+    "text": "is like, even you think about development\nof other sort of technologies,",
+    "start": 1730.308,
+    "duration": 3.837
+  },
+  {
+    "text": "think about nuclear weapons,",
+    "start": 1734.187,
+    "duration": 1.376
+  },
+  {
+    "text": "people talk about being\nlike a zero to one,",
+    "start": 1735.563,
+    "duration": 2.002
+  },
+  {
+    "text": "sort of, change in what humans could do.",
+    "start": 1737.565,
+    "duration": 2.628
+  },
+  {
+    "text": "But I actually think\nthat if you look at capability,",
+    "start": 1740.235,
+    "duration": 2.461
+  },
+  {
+    "text": "it's been quite smooth over time.",
+    "start": 1742.696,
+    "duration": 1.585
+  },
+  {
+    "text": "And so the history, I think,\nof every technology we've developed",
+    "start": 1744.281,
+    "duration": 3.67
+  },
+  {
+    "text": "has been, you've got\nto do it incrementally",
+    "start": 1747.993,
+    "duration": 2.002
+  },
+  {
+    "text": "and you've got to figure out\nhow to manage it",
+    "start": 1750.036,
+    "duration": 2.127
+  },
+  {
+    "text": "for each moment that you're increasing it.",
+    "start": 1752.163,
+    "duration": 2.461
+  },
+  {
+    "text": "CA: So what I'm hearing is that you ...",
+    "start": 1754.666,
+    "duration": 2.252
+  },
+  {
+    "text": "the model you want us to have",
+    "start": 1756.918,
+    "duration": 1.668
+  },
+  {
+    "text": "is that we have birthed\nthis extraordinary child",
+    "start": 1758.628,
+    "duration": 2.795
+  },
+  {
+    "text": "that may have superpowers",
+    "start": 1761.423,
+    "duration": 2.544
+  },
+  {
+    "text": "that take humanity to a whole new place.",
+    "start": 1764.009,
+    "duration": 2.544
+  },
+  {
+    "text": "It is our collective responsibility\nto provide the guardrails",
+    "start": 1766.594,
+    "duration": 5.005
+  },
+  {
+    "text": "for this child",
+    "start": 1771.641,
+    "duration": 1.21
+  },
+  {
+    "text": "to collectively teach it to be wise\nand not to tear us all down.",
+    "start": 1772.892,
+    "duration": 5.047
+  },
+  {
+    "text": "Is that basically the model?",
+    "start": 1777.939,
+    "duration": 1.377
+  },
+  {
+    "text": "GB: I think it's true.",
+    "start": 1779.357,
+    "duration": 1.168
+  },
+  {
+    "text": "And I think it's also important\nto say this may shift, right?",
+    "start": 1780.567,
+    "duration": 2.878
+  },
+  {
+    "text": "We've got to take each step\nas we encounter it.",
+    "start": 1783.445,
+    "duration": 3.253
+  },
+  {
+    "text": "And I think it's incredibly\nimportant today",
+    "start": 1786.74,
+    "duration": 2.002
+  },
+  {
+    "text": "that we all do get literate\nin this technology,",
+    "start": 1788.783,
+    "duration": 2.878
+  },
+  {
+    "text": "figure out how to provide the feedback,",
+    "start": 1791.661,
+    "duration": 1.919
+  },
+  {
+    "text": "decide what we want from it.",
+    "start": 1793.621,
+    "duration": 1.377
+  },
+  {
+    "text": "And my hope is that that will\ncontinue to be the best path,",
+    "start": 1794.998,
+    "duration": 3.128
+  },
+  {
+    "text": "but it's so good we're honestly\nhaving this debate",
+    "start": 1798.168,
+    "duration": 2.377
+  },
+  {
+    "text": "because we wouldn't otherwise\nif it weren't out there.",
+    "start": 1800.545,
+    "duration": 2.628
+  },
+  {
+    "text": "CA: Greg Brockman, thank you so much\nfor coming to TED and blowing our minds.",
+    "start": 1803.631,
+    "duration": 3.629
+  },
+  {
+    "text": "(Applause)",
+    "start": 1807.302,
+    "duration": 1.626
+  }
+]

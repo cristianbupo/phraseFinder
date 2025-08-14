@@ -1,0 +1,472 @@
+[
+  {
+    "text": "Computer algorithms today\nare performing incredible tasks",
+    "start": 13.28,
+    "duration": 3.856
+  },
+  {
+    "text": "with high accuracies, at a massive scale,\nusing human-like intelligence.",
+    "start": 17.16,
+    "duration": 4.736
+  },
+  {
+    "text": "And this intelligence of computers\nis often referred to as AI",
+    "start": 21.92,
+    "duration": 3.936
+  },
+  {
+    "text": "or artificial intelligence.",
+    "start": 25.88,
+    "duration": 1.856
+  },
+  {
+    "text": "AI is poised to make an incredible impact\non our lives in the future.",
+    "start": 27.76,
+    "duration": 4.2
+  },
+  {
+    "text": "Today, however,\nwe still face massive challenges",
+    "start": 32.88,
+    "duration": 3.936
+  },
+  {
+    "text": "in detecting and diagnosing\nseveral life-threatening illnesses,",
+    "start": 36.84,
+    "duration": 3.496
+  },
+  {
+    "text": "such as infectious diseases and cancer.",
+    "start": 40.36,
+    "duration": 2.36
+  },
+  {
+    "text": "Thousands of patients every year",
+    "start": 44.0,
+    "duration": 2.296
+  },
+  {
+    "text": "lose their lives\ndue to liver and oral cancer.",
+    "start": 46.32,
+    "duration": 2.8
+  },
+  {
+    "text": "Our best way to help these patients",
+    "start": 49.88,
+    "duration": 2.696
+  },
+  {
+    "text": "is to perform early detection\nand diagnoses of these diseases.",
+    "start": 52.6,
+    "duration": 4.32
+  },
+  {
+    "text": "So how do we detect these diseases today,\nand can artificial intelligence help?",
+    "start": 57.88,
+    "duration": 4.16
+  },
+  {
+    "text": "In patients who, unfortunately,\nare suspected of these diseases,",
+    "start": 63.92,
+    "duration": 3.656
+  },
+  {
+    "text": "an expert physician first orders",
+    "start": 67.6,
+    "duration": 2.656
+  },
+  {
+    "text": "very expensive\nmedical imaging technologies",
+    "start": 70.28,
+    "duration": 2.616
+  },
+  {
+    "text": "such as fluorescent imaging,\nCTs, MRIs, to be performed.",
+    "start": 72.92,
+    "duration": 4.096
+  },
+  {
+    "text": "Once those images are collected,",
+    "start": 77.04,
+    "duration": 2.296
+  },
+  {
+    "text": "another expert physician then diagnoses\nthose images and talks to the patient.",
+    "start": 79.36,
+    "duration": 4.52
+  },
+  {
+    "text": "As you can see, this is\na very resource-intensive process,",
+    "start": 84.52,
+    "duration": 3.456
+  },
+  {
+    "text": "requiring both expert physicians,\nexpensive medical imaging technologies,",
+    "start": 88.0,
+    "duration": 4.416
+  },
+  {
+    "text": "and is not considered practical\nfor the developing world.",
+    "start": 92.44,
+    "duration": 3.096
+  },
+  {
+    "text": "And in fact, in many\nindustrialized nations, as well.",
+    "start": 95.56,
+    "duration": 3.36
+  },
+  {
+    "text": "So, can we solve this problem\nusing artificial intelligence?",
+    "start": 99.76,
+    "duration": 2.88
+  },
+  {
+    "text": "Today, if I were to use traditional\nartificial intelligence architectures",
+    "start": 103.84,
+    "duration": 4.056
+  },
+  {
+    "text": "to solve this problem,",
+    "start": 107.92,
+    "duration": 1.216
+  },
+  {
+    "text": "I would require 10,000 --",
+    "start": 109.16,
+    "duration": 1.456
+  },
+  {
+    "text": "I repeat, on an order of 10,000\nof these very expensive medical images",
+    "start": 110.64,
+    "duration": 4.016
+  },
+  {
+    "text": "first to be generated.",
+    "start": 114.68,
+    "duration": 1.376
+  },
+  {
+    "text": "After that, I would then go\nto an expert physician,",
+    "start": 116.08,
+    "duration": 2.896
+  },
+  {
+    "text": "who would then analyze\nthose images for me.",
+    "start": 119.0,
+    "duration": 2.496
+  },
+  {
+    "text": "And using those two pieces of information,",
+    "start": 121.52,
+    "duration": 2.096
+  },
+  {
+    "text": "I can train a standard deep neural network\nor a deep learning network",
+    "start": 123.64,
+    "duration": 3.656
+  },
+  {
+    "text": "to provide patient's diagnosis.",
+    "start": 127.32,
+    "duration": 2.136
+  },
+  {
+    "text": "Similar to the first approach,",
+    "start": 129.48,
+    "duration": 1.736
+  },
+  {
+    "text": "traditional artificial\nintelligence approaches",
+    "start": 131.24,
+    "duration": 2.143
+  },
+  {
+    "text": "suffer from the same problem.",
+    "start": 133.407,
+    "duration": 1.449
+  },
+  {
+    "text": "Large amounts of data, expert physicians\nand expert medical imaging technologies.",
+    "start": 134.88,
+    "duration": 4.56
+  },
+  {
+    "text": "So, can we invent more scalable, effective",
+    "start": 140.32,
+    "duration": 4.296
+  },
+  {
+    "text": "and more valuable artificial\nintelligence architectures",
+    "start": 144.64,
+    "duration": 3.296
+  },
+  {
+    "text": "to solve these very important\nproblems facing us today?",
+    "start": 147.96,
+    "duration": 3.056
+  },
+  {
+    "text": "And this is exactly\nwhat my group at MIT Media Lab does.",
+    "start": 151.04,
+    "duration": 3.296
+  },
+  {
+    "text": "We have invented a variety\nof unorthodox AI architectures",
+    "start": 154.36,
+    "duration": 3.856
+  },
+  {
+    "text": "to solve some of the most important\nchallenges facing us today",
+    "start": 158.24,
+    "duration": 3.176
+  },
+  {
+    "text": "in medical imaging and clinical trials.",
+    "start": 161.44,
+    "duration": 2.2
+  },
+  {
+    "text": "In the example I shared\nwith you today, we had two goals.",
+    "start": 164.48,
+    "duration": 3.056
+  },
+  {
+    "text": "Our first goal was to reduce\nthe number of images",
+    "start": 167.56,
+    "duration": 2.976
+  },
+  {
+    "text": "required to train\nartificial intelligence algorithms.",
+    "start": 170.56,
+    "duration": 3.256
+  },
+  {
+    "text": "Our second goal -- we were more ambitious,",
+    "start": 173.84,
+    "duration": 2.096
+  },
+  {
+    "text": "we wanted to reduce the use\nof expensive medical imaging technologies",
+    "start": 175.96,
+    "duration": 3.736
+  },
+  {
+    "text": "to screen patients.",
+    "start": 179.72,
+    "duration": 1.216
+  },
+  {
+    "text": "So how did we do it?",
+    "start": 180.96,
+    "duration": 1.2
+  },
+  {
+    "text": "For our first goal,",
+    "start": 182.92,
+    "duration": 1.216
+  },
+  {
+    "text": "instead of starting\nwith tens and thousands",
+    "start": 184.16,
+    "duration": 2.056
+  },
+  {
+    "text": "of these very expensive medical images,\nlike traditional AI,",
+    "start": 186.24,
+    "duration": 3.016
+  },
+  {
+    "text": "we started with a single medical image.",
+    "start": 189.28,
+    "duration": 2.056
+  },
+  {
+    "text": "From this image, my team and I\nfigured out a very clever way",
+    "start": 191.36,
+    "duration": 3.776
+  },
+  {
+    "text": "to extract billions\nof information packets.",
+    "start": 195.16,
+    "duration": 2.736
+  },
+  {
+    "text": "These information packets\nincluded colors, pixels, geometry",
+    "start": 197.92,
+    "duration": 3.696
+  },
+  {
+    "text": "and rendering of the disease\non the medical image.",
+    "start": 201.64,
+    "duration": 2.536
+  },
+  {
+    "text": "In a sense, we converted one image\ninto billions of training data points,",
+    "start": 204.2,
+    "duration": 4.336
+  },
+  {
+    "text": "massively reducing the amount of data\nneeded for training.",
+    "start": 208.56,
+    "duration": 3.536
+  },
+  {
+    "text": "For our second goal,",
+    "start": 212.12,
+    "duration": 1.216
+  },
+  {
+    "text": "to reduce the use of expensive medical\nimaging technologies to screen patients,",
+    "start": 213.36,
+    "duration": 3.856
+  },
+  {
+    "text": "we started with a standard,\nwhite light photograph,",
+    "start": 217.24,
+    "duration": 2.856
+  },
+  {
+    "text": "acquired either from a DSLR camera\nor a mobile phone, for the patient.",
+    "start": 220.12,
+    "duration": 4.336
+  },
+  {
+    "text": "Then remember those\nbillions of information packets?",
+    "start": 224.48,
+    "duration": 2.456
+  },
+  {
+    "text": "We overlaid those from\nthe medical image onto this image,",
+    "start": 226.96,
+    "duration": 3.536
+  },
+  {
+    "text": "creating something\nthat we call a composite image.",
+    "start": 230.52,
+    "duration": 2.52
+  },
+  {
+    "text": "Much to our surprise,\nwe only required 50 --",
+    "start": 233.48,
+    "duration": 3.296
+  },
+  {
+    "text": "I repeat, only 50 --",
+    "start": 236.8,
+    "duration": 1.336
+  },
+  {
+    "text": "of these composite images to train\nour algorithms to high efficiencies.",
+    "start": 238.16,
+    "duration": 3.84
+  },
+  {
+    "text": "To summarize our approach,",
+    "start": 242.68,
+    "duration": 1.336
+  },
+  {
+    "text": "instead of using 10,000\nvery expensive medical images,",
+    "start": 244.04,
+    "duration": 3.176
+  },
+  {
+    "text": "we can now train the AI algorithms\nin an unorthodox way,",
+    "start": 247.24,
+    "duration": 3.016
+  },
+  {
+    "text": "using only 50 of these high-resolution,\nbut standard photographs,",
+    "start": 250.28,
+    "duration": 4.256
+  },
+  {
+    "text": "acquired from DSLR cameras\nand mobile phones,",
+    "start": 254.56,
+    "duration": 2.496
+  },
+  {
+    "text": "and provide diagnosis.",
+    "start": 257.08,
+    "duration": 1.536
+  },
+  {
+    "text": "More importantly,",
+    "start": 258.64,
+    "duration": 1.216
+  },
+  {
+    "text": "our algorithms can accept,\nin the future and even right now,",
+    "start": 259.88,
+    "duration": 3.136
+  },
+  {
+    "text": "some very simple, white light\nphotographs from the patient,",
+    "start": 263.04,
+    "duration": 2.816
+  },
+  {
+    "text": "instead of expensive\nmedical imaging technologies.",
+    "start": 265.88,
+    "duration": 2.44
+  },
+  {
+    "text": "I believe that we are poised\nto enter an era",
+    "start": 269.12,
+    "duration": 3.096
+  },
+  {
+    "text": "where artificial intelligence",
+    "start": 272.24,
+    "duration": 1.936
+  },
+  {
+    "text": "is going to make an incredible\nimpact on our future.",
+    "start": 274.2,
+    "duration": 2.536
+  },
+  {
+    "text": "And I think that thinking\nabout traditional AI,",
+    "start": 276.76,
+    "duration": 2.456
+  },
+  {
+    "text": "which is data-rich but application-poor,",
+    "start": 279.24,
+    "duration": 2.776
+  },
+  {
+    "text": "we should also continue thinking",
+    "start": 282.04,
+    "duration": 1.536
+  },
+  {
+    "text": "about unorthodox artificial\nintelligence architectures,",
+    "start": 283.6,
+    "duration": 3.016
+  },
+  {
+    "text": "which can accept small amounts of data",
+    "start": 286.64,
+    "duration": 1.936
+  },
+  {
+    "text": "and solve some of the most important\nproblems facing us today,",
+    "start": 288.6,
+    "duration": 2.936
+  },
+  {
+    "text": "especially in health care.",
+    "start": 291.56,
+    "duration": 1.256
+  },
+  {
+    "text": "Thank you very much.",
+    "start": 292.84,
+    "duration": 1.216
+  },
+  {
+    "text": "(Applause)",
+    "start": 294.08,
+    "duration": 3.84
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "text": "In the really old days, people had to write\ntheir code directly to work on the hardware.",
+    "start": 5.589,
+    "duration": 4.352
+  },
+  {
+    "text": "They wrote load and store instructions to\nget stuff in and out of memory and they played",
+    "start": 9.941,
+    "duration": 3.739
+  },
+  {
+    "text": "about with bits and bytes and stuff.",
+    "start": 13.68,
+    "duration": 2.939
+  },
+  {
+    "text": "You could do pretty good work with that, but\nit was very specialized.",
+    "start": 16.619,
+    "duration": 4.891
+  },
+  {
+    "text": "Then they figured out that you could build\nlanguages fit for humans for specific areas.",
+    "start": 21.51,
+    "duration": 6.95
+  },
+  {
+    "text": "Like they built FORTRAN for engineers and\nscientists and they built COBALT for businessmen.",
+    "start": 28.46,
+    "duration": 8.18
+  },
+  {
+    "text": "And then in the mid-'60s, a bunch of Norwegians,\nmostly Ole-Johan Dahl and Kristen Nygaard",
+    "start": 36.64,
+    "duration": 8.43
+  },
+  {
+    "text": "thought why can’t you get a language that\nsort of is fit for humans for all domains,",
+    "start": 45.07,
+    "duration": 5.72
+  },
+  {
+    "text": "not just linear algebra and business.",
+    "start": 50.79,
+    "duration": 3.109
+  },
+  {
+    "text": "And they built something called SIMULA.",
+    "start": 53.899,
+    "duration": 1.461
+  },
+  {
+    "text": "And that’s where they introduced the class\nas the thing you have in the program to represent",
+    "start": 55.36,
+    "duration": 6.289
+  },
+  {
+    "text": "a concept in your application world.",
+    "start": 61.649,
+    "duration": 3.001
+  },
+  {
+    "text": "So if you are a mathematician, a matrix will\nbecome a class, if you are a businessman,",
+    "start": 64.65,
+    "duration": 4.37
+  },
+  {
+    "text": "a personnel record might become a class, in\ntelecommunications a dial buffer might become",
+    "start": 69.02,
+    "duration": 6.93
+  },
+  {
+    "text": "a class—you can represent just about anything\nas a class.",
+    "start": 75.95,
+    "duration": 4.15
+  },
+  {
+    "text": "And they went a little bit further and represented\nrelationships between classes; any hierarchical",
+    "start": 80.1,
+    "duration": 5.62
+  },
+  {
+    "text": "relationship could be done as a bunch of classes.",
+    "start": 85.72,
+    "duration": 4.539
+  },
+  {
+    "text": "So you could say that a fire engine is a kind\nof a truck which is a kind of a car which",
+    "start": 90.259,
+    "duration": 7.011
+  },
+  {
+    "text": "is a kind of a vehicle and organize things\nlike that.",
+    "start": 97.27,
+    "duration": 3.979
+  },
+  {
+    "text": "This became know as object-oriented programming\nor also in some variance of it as data abstraction.",
+    "start": 101.249,
+    "duration": 8.1
+  },
+  {
+    "text": "And my idea was very simple: to take the ideas\nfrom SIMULA for general abstraction for the",
+    "start": 109.349,
+    "duration": 6.48
+  },
+  {
+    "text": "benefit of sort of humans representing things...\nso humans could get it with low level stuff,",
+    "start": 115.829,
+    "duration": 7.11
+  },
+  {
+    "text": "which at that time was the best language for\nthat was C, which was done at Bell Labs by",
+    "start": 122.939,
+    "duration": 5.871
+  },
+  {
+    "text": "Dennis Ritchie.",
+    "start": 128.81,
+    "duration": 3.35
+  },
+  {
+    "text": "And take those two ideas and bring them together\nso that you could do high-level abstraction,",
+    "start": 132.16,
+    "duration": 5.12
+  },
+  {
+    "text": "but efficiently enough and close enough to\nthe hardware for really demanding computing",
+    "start": 137.28,
+    "duration": 5.91
+  },
+  {
+    "text": "tasks.",
+    "start": 143.19,
+    "duration": 1.299
+  },
+  {
+    "text": "And that is where I came in.",
+    "start": 144.489,
+    "duration": 1.551
+  },
+  {
+    "text": "And so C++ has classes like SIMULA but they\nrun as fast as C code, so the combination",
+    "start": 146.04,
+    "duration": 7.74
+  },
+  {
+    "text": "becomes very useful.",
+    "start": 153.78,
+    "duration": 1.19
+  },
+  {
+    "text": "What makes C++ such a widely used language?",
+    "start": 154.97,
+    "duration": 4.17
+  },
+  {
+    "text": "If I have to characterize C++’s strength,\nit comes from the ability to have abstractions",
+    "start": 159.14,
+    "duration": 6.629
+  },
+  {
+    "text": "and have them so efficient that you can afford\nit in infrastructure.",
+    "start": 165.769,
+    "duration": 6.7
+  },
+  {
+    "text": "And you can access hardware directly as you\noften have to do with operating systems with",
+    "start": 172.469,
+    "duration": 8.091
+  },
+  {
+    "text": "real time control, little things like cell\nphones, and so the combination is something",
+    "start": 180.56,
+    "duration": 8.759
+  },
+  {
+    "text": "that is good for infrastructure in general.",
+    "start": 189.319,
+    "duration": 4.37
+  },
+  {
+    "text": "Another aspect that’s necessary for infrastructure\nis stability.",
+    "start": 193.689,
+    "duration": 5.701
+  },
+  {
+    "text": "When you build an infrastructure it could\nbe sort of the lowest level of IBM mainframes",
+    "start": 199.39,
+    "duration": 5.329
+  },
+  {
+    "text": "talking to the hardware for the higher level\nof software, which is a place they use C++.",
+    "start": 204.719,
+    "duration": 6.041
+  },
+  {
+    "text": "Or a fuel injector for a large marine diesel\nengine or a browser, it has to be stable for",
+    "start": 210.76,
+    "duration": 10.869
+  },
+  {
+    "text": "a decade or so because you can’t afford\nto fiddle with the stuff all the time.",
+    "start": 221.629,
+    "duration": 4.45
+  },
+  {
+    "text": "You can’t afford to rewrite it, I mean taking\none of those ships into harbor costs a lot",
+    "start": 226.079,
+    "duration": 5.27
+  },
+  {
+    "text": "of money.",
+    "start": 231.349,
+    "duration": 1.0
+  },
+  {
+    "text": "And so you need a language that’s not just\ngood at what it’s doing, you have to be",
+    "start": 232.349,
+    "duration": 4.54
+  },
+  {
+    "text": "able to rely on it being available for decades\non a variety of different hardware and to",
+    "start": 236.889,
+    "duration": 8.68
+  },
+  {
+    "text": "be used by programmers over a decade or two\nat least.",
+    "start": 245.569,
+    "duration": 4.14
+  },
+  {
+    "text": "C++ is not about three decades old.",
+    "start": 249.709,
+    "duration": 2.901
+  },
+  {
+    "text": "And if that’s not the case, you have to\nrewrite your code all the time.",
+    "start": 252.61,
+    "duration": 3.079
+  },
+  {
+    "text": "And that happens primarily with experimental\nlanguages and with proprietary commercial",
+    "start": 255.689,
+    "duration": 7.16
+  },
+  {
+    "text": "languages that change to finish—to meet\nfads.",
+    "start": 262.849,
+    "duration": 5.591
+  },
+  {
+    "text": "C++’s problem is the complexity part because\nwe haven’t been able to clean it up.",
+    "start": 268.44,
+    "duration": 6.0
+  },
+  {
+    "text": "There’s still code written in the 80’s\nthat are running and people don’t like their",
+    "start": 274.44,
+    "duration": 5.46
+  },
+  {
+    "text": "running codes to break.",
+    "start": 279.9,
+    "duration": 2.73
+  },
+  {
+    "text": "It could cost them millions or more.",
+    "start": 282.63,
+    "duration": 1.67
+  }
+]

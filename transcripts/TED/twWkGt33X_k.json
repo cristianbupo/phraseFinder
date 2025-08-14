@@ -1,0 +1,872 @@
+[
+  {
+    "text": "I work on helping computers\ncommunicate about the world around us.",
+    "start": 13.381,
+    "duration": 4.015
+  },
+  {
+    "text": "There are a lot of ways to do this,",
+    "start": 17.754,
+    "duration": 1.793
+  },
+  {
+    "text": "and I like to focus on helping computers",
+    "start": 19.571,
+    "duration": 2.592
+  },
+  {
+    "text": "to talk about what they see\nand understand.",
+    "start": 22.187,
+    "duration": 2.874
+  },
+  {
+    "text": "Given a scene like this,",
+    "start": 25.514,
+    "duration": 1.571
+  },
+  {
+    "text": "a modern computer-vision algorithm",
+    "start": 27.109,
+    "duration": 1.905
+  },
+  {
+    "text": "can tell you that there's a woman\nand there's a dog.",
+    "start": 29.038,
+    "duration": 3.095
+  },
+  {
+    "text": "It can tell you that the woman is smiling.",
+    "start": 32.157,
+    "duration": 2.706
+  },
+  {
+    "text": "It might even be able to tell you\nthat the dog is incredibly cute.",
+    "start": 34.887,
+    "duration": 3.873
+  },
+  {
+    "text": "I work on this problem",
+    "start": 38.784,
+    "duration": 1.349
+  },
+  {
+    "text": "thinking about how humans\nunderstand and process the world.",
+    "start": 40.157,
+    "duration": 4.212
+  },
+  {
+    "text": "The thoughts, memories and stories",
+    "start": 45.577,
+    "duration": 2.952
+  },
+  {
+    "text": "that a scene like this\nmight evoke for humans.",
+    "start": 48.553,
+    "duration": 2.818
+  },
+  {
+    "text": "All the interconnections\nof related situations.",
+    "start": 51.395,
+    "duration": 4.285
+  },
+  {
+    "text": "Maybe you've seen\na dog like this one before,",
+    "start": 55.704,
+    "duration": 3.126
+  },
+  {
+    "text": "or you've spent time\nrunning on a beach like this one,",
+    "start": 58.854,
+    "duration": 2.969
+  },
+  {
+    "text": "and that further evokes thoughts\nand memories of a past vacation,",
+    "start": 61.847,
+    "duration": 4.778
+  },
+  {
+    "text": "past times to the beach,",
+    "start": 66.649,
+    "duration": 1.92
+  },
+  {
+    "text": "times spent running around\nwith other dogs.",
+    "start": 68.593,
+    "duration": 2.603
+  },
+  {
+    "text": "One of my guiding principles\nis that by helping computers to understand",
+    "start": 71.688,
+    "duration": 5.207
+  },
+  {
+    "text": "what it's like to have these experiences,",
+    "start": 76.919,
+    "duration": 2.896
+  },
+  {
+    "text": "to understand what we share\nand believe and feel,",
+    "start": 79.839,
+    "duration": 5.176
+  },
+  {
+    "text": "then we're in a great position\nto start evolving computer technology",
+    "start": 86.094,
+    "duration": 4.31
+  },
+  {
+    "text": "in a way that's complementary\nwith our own experiences.",
+    "start": 90.428,
+    "duration": 4.587
+  },
+  {
+    "text": "So, digging more deeply into this,",
+    "start": 95.539,
+    "duration": 3.387
+  },
+  {
+    "text": "a few years ago I began working on helping\ncomputers to generate human-like stories",
+    "start": 98.95,
+    "duration": 5.905
+  },
+  {
+    "text": "from sequences of images.",
+    "start": 104.879,
+    "duration": 1.666
+  },
+  {
+    "text": "So, one day,",
+    "start": 107.427,
+    "duration": 1.904
+  },
+  {
+    "text": "I was working with my computer to ask it\nwhat it thought about a trip to Australia.",
+    "start": 109.355,
+    "duration": 4.622
+  },
+  {
+    "text": "It took a look at the pictures,\nand it saw a koala.",
+    "start": 114.768,
+    "duration": 2.92
+  },
+  {
+    "text": "It didn't know what the koala was,",
+    "start": 118.236,
+    "duration": 1.643
+  },
+  {
+    "text": "but it said it thought\nit was an interesting-looking creature.",
+    "start": 119.903,
+    "duration": 2.999
+  },
+  {
+    "text": "Then I shared with it a sequence of images\nabout a house burning down.",
+    "start": 124.053,
+    "duration": 4.004
+  },
+  {
+    "text": "It took a look at the images and it said,",
+    "start": 129.704,
+    "duration": 3.285
+  },
+  {
+    "text": "\"This is an amazing view!\nThis is spectacular!\"",
+    "start": 133.013,
+    "duration": 3.5
+  },
+  {
+    "text": "It sent chills down my spine.",
+    "start": 137.45,
+    "duration": 2.095
+  },
+  {
+    "text": "It saw a horrible, life-changing\nand life-destroying event",
+    "start": 140.983,
+    "duration": 4.572
+  },
+  {
+    "text": "and thought it was something positive.",
+    "start": 145.579,
+    "duration": 2.382
+  },
+  {
+    "text": "I realized that it recognized\nthe contrast,",
+    "start": 147.985,
+    "duration": 3.441
+  },
+  {
+    "text": "the reds, the yellows,",
+    "start": 151.45,
+    "duration": 2.699
+  },
+  {
+    "text": "and thought it was something\nworth remarking on positively.",
+    "start": 154.173,
+    "duration": 3.078
+  },
+  {
+    "text": "And part of why it was doing this",
+    "start": 157.928,
+    "duration": 1.615
+  },
+  {
+    "text": "was because most\nof the images I had given it",
+    "start": 159.577,
+    "duration": 2.945
+  },
+  {
+    "text": "were positive images.",
+    "start": 162.546,
+    "duration": 1.84
+  },
+  {
+    "text": "That's because people\ntend to share positive images",
+    "start": 164.903,
+    "duration": 3.658
+  },
+  {
+    "text": "when they talk about their experiences.",
+    "start": 168.585,
+    "duration": 2.19
+  },
+  {
+    "text": "When was the last time\nyou saw a selfie at a funeral?",
+    "start": 171.267,
+    "duration": 2.541
+  },
+  {
+    "text": "I realized that,\nas I worked on improving AI",
+    "start": 175.434,
+    "duration": 3.095
+  },
+  {
+    "text": "task by task, dataset by dataset,",
+    "start": 178.553,
+    "duration": 3.714
+  },
+  {
+    "text": "that I was creating massive gaps,",
+    "start": 182.291,
+    "duration": 2.897
+  },
+  {
+    "text": "holes and blind spots\nin what it could understand.",
+    "start": 185.212,
+    "duration": 3.999
+  },
+  {
+    "text": "And while doing so,",
+    "start": 190.307,
+    "duration": 1.334
+  },
+  {
+    "text": "I was encoding all kinds of biases.",
+    "start": 191.665,
+    "duration": 2.483
+  },
+  {
+    "text": "Biases that reflect a limited viewpoint,",
+    "start": 195.029,
+    "duration": 3.318
+  },
+  {
+    "text": "limited to a single dataset --",
+    "start": 198.371,
+    "duration": 2.261
+  },
+  {
+    "text": "biases that can reflect\nhuman biases found in the data,",
+    "start": 201.283,
+    "duration": 3.858
+  },
+  {
+    "text": "such as prejudice and stereotyping.",
+    "start": 205.165,
+    "duration": 3.104
+  },
+  {
+    "text": "I thought back to the evolution\nof the technology",
+    "start": 209.554,
+    "duration": 3.057
+  },
+  {
+    "text": "that brought me to where I was that day --",
+    "start": 212.635,
+    "duration": 2.502
+  },
+  {
+    "text": "how the first color images",
+    "start": 215.966,
+    "duration": 2.233
+  },
+  {
+    "text": "were calibrated against\na white woman's skin,",
+    "start": 218.223,
+    "duration": 3.048
+  },
+  {
+    "text": "meaning that color photography\nwas biased against black faces.",
+    "start": 221.665,
+    "duration": 4.145
+  },
+  {
+    "text": "And that same bias, that same blind spot",
+    "start": 226.514,
+    "duration": 2.925
+  },
+  {
+    "text": "continued well into the '90s.",
+    "start": 229.463,
+    "duration": 1.867
+  },
+  {
+    "text": "And the same blind spot\ncontinues even today",
+    "start": 231.701,
+    "duration": 3.154
+  },
+  {
+    "text": "in how well we can recognize\ndifferent people's faces",
+    "start": 234.879,
+    "duration": 3.698
+  },
+  {
+    "text": "in facial recognition technology.",
+    "start": 238.601,
+    "duration": 2.2
+  },
+  {
+    "text": "I though about the state of the art\nin research today,",
+    "start": 241.323,
+    "duration": 3.143
+  },
+  {
+    "text": "where we tend to limit our thinking\nto one dataset and one problem.",
+    "start": 244.49,
+    "duration": 4.514
+  },
+  {
+    "text": "And that in doing so, we were creating\nmore blind spots and biases",
+    "start": 249.688,
+    "duration": 4.881
+  },
+  {
+    "text": "that the AI could further amplify.",
+    "start": 254.593,
+    "duration": 2.277
+  },
+  {
+    "text": "I realized then\nthat we had to think deeply",
+    "start": 257.712,
+    "duration": 2.079
+  },
+  {
+    "text": "about how the technology we work on today\nlooks in five years, in 10 years.",
+    "start": 259.815,
+    "duration": 5.519
+  },
+  {
+    "text": "Humans evolve slowly,\nwith time to correct for issues",
+    "start": 265.99,
+    "duration": 3.142
+  },
+  {
+    "text": "in the interaction of humans\nand their environment.",
+    "start": 269.156,
+    "duration": 3.534
+  },
+  {
+    "text": "In contrast, artificial intelligence\nis evolving at an incredibly fast rate.",
+    "start": 273.276,
+    "duration": 5.429
+  },
+  {
+    "text": "And that means that it really matters",
+    "start": 279.013,
+    "duration": 1.773
+  },
+  {
+    "text": "that we think about this\ncarefully right now --",
+    "start": 280.81,
+    "duration": 2.317
+  },
+  {
+    "text": "that we reflect on our own blind spots,",
+    "start": 284.18,
+    "duration": 3.008
+  },
+  {
+    "text": "our own biases,",
+    "start": 287.212,
+    "duration": 2.317
+  },
+  {
+    "text": "and think about how that's informing\nthe technology we're creating",
+    "start": 289.553,
+    "duration": 3.857
+  },
+  {
+    "text": "and discuss what the technology of today\nwill mean for tomorrow.",
+    "start": 293.434,
+    "duration": 3.902
+  },
+  {
+    "text": "CEOs and scientists have weighed in\non what they think",
+    "start": 298.593,
+    "duration": 3.191
+  },
+  {
+    "text": "the artificial intelligence technology\nof the future will be.",
+    "start": 301.808,
+    "duration": 3.325
+  },
+  {
+    "text": "Stephen Hawking warns that",
+    "start": 305.157,
+    "duration": 1.618
+  },
+  {
+    "text": "\"Artificial intelligence\ncould end mankind.\"",
+    "start": 306.799,
+    "duration": 3.007
+  },
+  {
+    "text": "Elon Musk warns\nthat it's an existential risk",
+    "start": 310.307,
+    "duration": 2.683
+  },
+  {
+    "text": "and one of the greatest risks\nthat we face as a civilization.",
+    "start": 313.014,
+    "duration": 3.574
+  },
+  {
+    "text": "Bill Gates has made the point,",
+    "start": 317.665,
+    "duration": 1.452
+  },
+  {
+    "text": "\"I don't understand\nwhy people aren't more concerned.\"",
+    "start": 319.141,
+    "duration": 3.185
+  },
+  {
+    "text": "But these views --",
+    "start": 323.412,
+    "duration": 1.318
+  },
+  {
+    "text": "they're part of the story.",
+    "start": 325.618,
+    "duration": 1.734
+  },
+  {
+    "text": "The math, the models,",
+    "start": 328.079,
+    "duration": 2.42
+  },
+  {
+    "text": "the basic building blocks\nof artificial intelligence",
+    "start": 330.523,
+    "duration": 3.07
+  },
+  {
+    "text": "are something that we call access\nand all work with.",
+    "start": 333.617,
+    "duration": 3.135
+  },
+  {
+    "text": "We have open-source tools\nfor machine learning and intelligence",
+    "start": 336.776,
+    "duration": 3.785
+  },
+  {
+    "text": "that we can contribute to.",
+    "start": 340.585,
+    "duration": 1.734
+  },
+  {
+    "text": "And beyond that,\nwe can share our experience.",
+    "start": 342.919,
+    "duration": 3.34
+  },
+  {
+    "text": "We can share our experiences\nwith technology and how it concerns us",
+    "start": 346.76,
+    "duration": 3.468
+  },
+  {
+    "text": "and how it excites us.",
+    "start": 350.252,
+    "duration": 1.467
+  },
+  {
+    "text": "We can discuss what we love.",
+    "start": 352.251,
+    "duration": 1.867
+  },
+  {
+    "text": "We can communicate with foresight",
+    "start": 355.244,
+    "duration": 2.031
+  },
+  {
+    "text": "about the aspects of technology\nthat could be more beneficial",
+    "start": 357.299,
+    "duration": 4.857
+  },
+  {
+    "text": "or could be more problematic over time.",
+    "start": 362.18,
+    "duration": 2.6
+  },
+  {
+    "text": "If we all focus on opening up\nthe discussion on AI",
+    "start": 365.799,
+    "duration": 4.143
+  },
+  {
+    "text": "with foresight towards the future,",
+    "start": 369.966,
+    "duration": 1.809
+  },
+  {
+    "text": "this will help create a general\nconversation and awareness",
+    "start": 373.093,
+    "duration": 4.27
+  },
+  {
+    "text": "about what AI is now,",
+    "start": 377.387,
+    "duration": 2.513
+  },
+  {
+    "text": "what it can become",
+    "start": 381.212,
+    "duration": 2.001
+  },
+  {
+    "text": "and all the things that we need to do",
+    "start": 383.237,
+    "duration": 1.785
+  },
+  {
+    "text": "in order to enable that outcome\nthat best suits us.",
+    "start": 385.046,
+    "duration": 3.753
+  },
+  {
+    "text": "We already see and know this\nin the technology that we use today.",
+    "start": 389.49,
+    "duration": 3.674
+  },
+  {
+    "text": "We use smart phones\nand digital assistants and Roombas.",
+    "start": 393.767,
+    "duration": 3.88
+  },
+  {
+    "text": "Are they evil?",
+    "start": 398.457,
+    "duration": 1.15
+  },
+  {
+    "text": "Maybe sometimes.",
+    "start": 400.268,
+    "duration": 1.547
+  },
+  {
+    "text": "Are they beneficial?",
+    "start": 402.664,
+    "duration": 1.333
+  },
+  {
+    "text": "Yes, they're that, too.",
+    "start": 405.005,
+    "duration": 1.533
+  },
+  {
+    "text": "And they're not all the same.",
+    "start": 408.236,
+    "duration": 1.761
+  },
+  {
+    "text": "And there you already see\na light shining on what the future holds.",
+    "start": 410.489,
+    "duration": 3.54
+  },
+  {
+    "text": "The future continues on\nfrom what we build and create right now.",
+    "start": 414.942,
+    "duration": 3.619
+  },
+  {
+    "text": "We set into motion that domino effect",
+    "start": 419.165,
+    "duration": 2.642
+  },
+  {
+    "text": "that carves out AI's evolutionary path.",
+    "start": 421.831,
+    "duration": 2.6
+  },
+  {
+    "text": "In our time right now,\nwe shape the AI of tomorrow.",
+    "start": 425.173,
+    "duration": 2.871
+  },
+  {
+    "text": "Technology that immerses us\nin augmented realities",
+    "start": 428.566,
+    "duration": 3.699
+  },
+  {
+    "text": "bringing to life past worlds.",
+    "start": 432.289,
+    "duration": 2.566
+  },
+  {
+    "text": "Technology that helps people\nto share their experiences",
+    "start": 435.844,
+    "duration": 4.312
+  },
+  {
+    "text": "when they have difficulty communicating.",
+    "start": 440.18,
+    "duration": 2.262
+  },
+  {
+    "text": "Technology built on understanding\nthe streaming visual worlds",
+    "start": 443.323,
+    "duration": 4.532
+  },
+  {
+    "text": "used as technology for self-driving cars.",
+    "start": 447.879,
+    "duration": 3.079
+  },
+  {
+    "text": "Technology built on understanding images\nand generating language,",
+    "start": 452.49,
+    "duration": 3.413
+  },
+  {
+    "text": "evolving into technology that helps people\nwho are visually impaired",
+    "start": 455.927,
+    "duration": 4.063
+  },
+  {
+    "text": "be better able to access the visual world.",
+    "start": 460.014,
+    "duration": 2.8
+  },
+  {
+    "text": "And we also see how technology\ncan lead to problems.",
+    "start": 462.838,
+    "duration": 3.261
+  },
+  {
+    "text": "We have technology today",
+    "start": 466.885,
+    "duration": 1.428
+  },
+  {
+    "text": "that analyzes physical\ncharacteristics we're born with --",
+    "start": 468.337,
+    "duration": 3.835
+  },
+  {
+    "text": "such as the color of our skin\nor the look of our face --",
+    "start": 472.196,
+    "duration": 3.272
+  },
+  {
+    "text": "in order to determine whether or not\nwe might be criminals or terrorists.",
+    "start": 475.492,
+    "duration": 3.804
+  },
+  {
+    "text": "We have technology\nthat crunches through our data,",
+    "start": 479.688,
+    "duration": 2.905
+  },
+  {
+    "text": "even data relating\nto our gender or our race,",
+    "start": 482.617,
+    "duration": 2.896
+  },
+  {
+    "text": "in order to determine whether or not\nwe might get a loan.",
+    "start": 485.537,
+    "duration": 2.865
+  },
+  {
+    "text": "All that we see now",
+    "start": 489.494,
+    "duration": 1.579
+  },
+  {
+    "text": "is a snapshot in the evolution\nof artificial intelligence.",
+    "start": 491.097,
+    "duration": 3.617
+  },
+  {
+    "text": "Because where we are right now,",
+    "start": 495.763,
+    "duration": 1.778
+  },
+  {
+    "text": "is within a moment of that evolution.",
+    "start": 497.565,
+    "duration": 2.238
+  },
+  {
+    "text": "That means that what we do now\nwill affect what happens down the line",
+    "start": 500.69,
+    "duration": 3.802
+  },
+  {
+    "text": "and in the future.",
+    "start": 504.516,
+    "duration": 1.2
+  },
+  {
+    "text": "If we want AI to evolve\nin a way that helps humans,",
+    "start": 506.063,
+    "duration": 3.951
+  },
+  {
+    "text": "then we need to define\nthe goals and strategies",
+    "start": 510.038,
+    "duration": 2.801
+  },
+  {
+    "text": "that enable that path now.",
+    "start": 512.863,
+    "duration": 1.733
+  },
+  {
+    "text": "What I'd like to see is something\nthat fits well with humans,",
+    "start": 515.68,
+    "duration": 3.738
+  },
+  {
+    "text": "with our culture and with the environment.",
+    "start": 519.442,
+    "duration": 2.8
+  },
+  {
+    "text": "Technology that aids and assists\nthose of us with neurological conditions",
+    "start": 523.435,
+    "duration": 4.484
+  },
+  {
+    "text": "or other disabilities",
+    "start": 527.943,
+    "duration": 1.721
+  },
+  {
+    "text": "in order to make life\nequally challenging for everyone.",
+    "start": 529.688,
+    "duration": 3.216
+  },
+  {
+    "text": "Technology that works",
+    "start": 534.097,
+    "duration": 1.421
+  },
+  {
+    "text": "regardless of your demographics\nor the color of your skin.",
+    "start": 535.542,
+    "duration": 3.933
+  },
+  {
+    "text": "And so today, what I focus on\nis the technology for tomorrow",
+    "start": 540.383,
+    "duration": 4.742
+  },
+  {
+    "text": "and for 10 years from now.",
+    "start": 545.149,
+    "duration": 1.733
+  },
+  {
+    "text": "AI can turn out in many different ways.",
+    "start": 548.53,
+    "duration": 2.634
+  },
+  {
+    "text": "But in this case,",
+    "start": 551.688,
+    "duration": 1.225
+  },
+  {
+    "text": "it isn't a self-driving car\nwithout any destination.",
+    "start": 552.937,
+    "duration": 3.328
+  },
+  {
+    "text": "This is the car that we are driving.",
+    "start": 556.884,
+    "duration": 2.4
+  },
+  {
+    "text": "We choose when to speed up\nand when to slow down.",
+    "start": 559.953,
+    "duration": 3.595
+  },
+  {
+    "text": "We choose if we need to make a turn.",
+    "start": 563.572,
+    "duration": 2.4
+  },
+  {
+    "text": "We choose what the AI\nof the future will be.",
+    "start": 566.868,
+    "duration": 3.0
+  },
+  {
+    "text": "There's a vast playing field",
+    "start": 571.186,
+    "duration": 1.337
+  },
+  {
+    "text": "of all the things that artificial\nintelligence can become.",
+    "start": 572.547,
+    "duration": 2.965
+  },
+  {
+    "text": "It will become many things.",
+    "start": 576.064,
+    "duration": 1.8
+  },
+  {
+    "text": "And it's up to us now,",
+    "start": 579.694,
+    "duration": 1.732
+  },
+  {
+    "text": "in order to figure out\nwhat we need to put in place",
+    "start": 581.45,
+    "duration": 3.061
+  },
+  {
+    "text": "to make sure the outcomes\nof artificial intelligence",
+    "start": 584.535,
+    "duration": 3.807
+  },
+  {
+    "text": "are the ones that will be\nbetter for all of us.",
+    "start": 588.366,
+    "duration": 3.066
+  },
+  {
+    "text": "Thank you.",
+    "start": 591.456,
+    "duration": 1.15
+  },
+  {
+    "text": "(Applause)",
+    "start": 592.63,
+    "duration": 2.187
+  }
+]

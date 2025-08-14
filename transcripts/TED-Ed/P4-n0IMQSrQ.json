@@ -1,0 +1,317 @@
+[
+  {
+    "text": "The greatest challenge a vampire hunter \ncan take on",
+    "start": 7.741,
+    "duration": 3.3
+  },
+  {
+    "text": "is to bring sunlight \ninto a vampire's lair.",
+    "start": 11.041,
+    "duration": 3.59
+  },
+  {
+    "text": "You’ve stealthily descended into the \ndarkness of a vampire cave,",
+    "start": 14.631,
+    "duration": 4.29
+  },
+  {
+    "text": "setting a sequence of mirrors as you go.",
+    "start": 18.921,
+    "duration": 3.378
+  },
+  {
+    "text": "When the sun reaches \nthe right angle in the sky,",
+    "start": 22.299,
+    "duration": 2.92
+  },
+  {
+    "text": "a focused beam of light will ricochet \nalong the mirrors,",
+    "start": 25.219,
+    "duration": 3.7
+  },
+  {
+    "text": "strike your diffuser,",
+    "start": 28.919,
+    "duration": 1.54
+  },
+  {
+    "text": "and illuminate the great chamber \nwhere the vampires sleep.",
+    "start": 30.459,
+    "duration": 4.04
+  },
+  {
+    "text": "You set the final mirror",
+    "start": 34.499,
+    "duration": 1.6
+  },
+  {
+    "text": "and sneak through an opening \nin the corner of the great chamber.",
+    "start": 36.099,
+    "duration": 3.91
+  },
+  {
+    "text": "The diffuser must be wall-mounted,",
+    "start": 40.009,
+    "duration": 2.16
+  },
+  {
+    "text": "but the walls are crowded with coffins,",
+    "start": 42.169,
+    "duration": 2.58
+  },
+  {
+    "text": "which you don’t dare disturb.",
+    "start": 44.749,
+    "duration": 2.05
+  },
+  {
+    "text": "The only open spots are in the other \nthree corners of the room.",
+    "start": 46.799,
+    "duration": 4.75
+  },
+  {
+    "text": "The light will enter through the southwest\ncorner at a 45 degree angle",
+    "start": 51.549,
+    "duration": 4.616
+  },
+  {
+    "text": "and bounce off the perfectly smooth \nmetallic walls",
+    "start": 56.165,
+    "duration": 3.45
+  },
+  {
+    "text": "until it hits one of the \nother three corners.",
+    "start": 59.615,
+    "duration": 2.99
+  },
+  {
+    "text": "But which corner will it hit?",
+    "start": 62.605,
+    "duration": 1.74
+  },
+  {
+    "text": "You know the room is a rectangle 49 meters\nwide and 78 meters long.",
+    "start": 64.345,
+    "duration": 6.5
+  },
+  {
+    "text": "You could probably find the answer",
+    "start": 70.845,
+    "duration": 1.895
+  },
+  {
+    "text": "by drawing a scale model of the room \nand tracing the path of the light,",
+    "start": 72.74,
+    "duration": 4.33
+  },
+  {
+    "text": "but the sun will be in its \nplace in just minutes,",
+    "start": 77.07,
+    "duration": 2.733
+  },
+  {
+    "text": "and you’ve got no time to spare.",
+    "start": 79.803,
+    "duration": 2.71
+  },
+  {
+    "text": "Fortunately, there’s a different way\nto solve this puzzle",
+    "start": 82.513,
+    "duration": 2.97
+  },
+  {
+    "text": "that’s both simple and elegant.",
+    "start": 85.483,
+    "duration": 2.62
+  },
+  {
+    "text": "So in which corner should \nyou place the diffuser",
+    "start": 88.103,
+    "duration": 3.16
+  },
+  {
+    "text": "to flood the vampire lair with sunlight?",
+    "start": 91.263,
+    "duration": 2.95
+  },
+  {
+    "text": "Pause the video if you want to figure\nit out for yourself.",
+    "start": 94.213,
+    "duration": 2.72
+  },
+  {
+    "text": "Answer in 2",
+    "start": 96.933,
+    "duration": 2.0
+  },
+  {
+    "text": "Answer in 1",
+    "start": 98.933,
+    "duration": 2.34
+  },
+  {
+    "text": "You could tackle this problem \nby examining smaller rooms,",
+    "start": 102.025,
+    "duration": 3.36
+  },
+  {
+    "text": "and you’d find a lot \nof interesting patterns.",
+    "start": 105.385,
+    "duration": 2.83
+  },
+  {
+    "text": "But there’s one insight that can unravel \nthis riddle in almost no time at all.",
+    "start": 108.215,
+    "duration": 5.27
+  },
+  {
+    "text": "Let’s draw the chamber \non a coordinate grid,",
+    "start": 113.485,
+    "duration": 2.521
+  },
+  {
+    "text": "with the Southwest corner \nat the point (0,0).",
+    "start": 116.006,
+    "duration": 3.05
+  },
+  {
+    "text": "The light passes through grid points",
+    "start": 119.056,
+    "duration": 1.79
+  },
+  {
+    "text": "with coordinates that are either \nboth even or both odd.",
+    "start": 120.846,
+    "duration": 4.41
+  },
+  {
+    "text": "This is true even after it bounces off \none or more walls.",
+    "start": 125.256,
+    "duration": 4.925
+  },
+  {
+    "text": "Another way of thinking about it is this:",
+    "start": 130.181,
+    "duration": 2.473
+  },
+  {
+    "text": "since the light travels at a \n45 degree angle,",
+    "start": 132.654,
+    "duration": 3.38
+  },
+  {
+    "text": "it always crosses the diagonal \nof a unit square.",
+    "start": 136.034,
+    "duration": 3.73
+  },
+  {
+    "text": "Traveling 1 meter horizontally \nchanges the x coordinate",
+    "start": 139.764,
+    "duration": 3.63
+  },
+  {
+    "text": "from even to odd or vice versa.",
+    "start": 143.394,
+    "duration": 2.93
+  },
+  {
+    "text": "Traveling 1 meter vertically \nchanges the y coordinate",
+    "start": 146.324,
+    "duration": 3.12
+  },
+  {
+    "text": "from even to odd or vice versa.",
+    "start": 149.444,
+    "duration": 2.55
+  },
+  {
+    "text": "Traveling diagonally – as the light \ndoes here – does both at once,",
+    "start": 151.994,
+    "duration": 4.95
+  },
+  {
+    "text": "so the x and y coordinates of any points \nthe light passes through",
+    "start": 156.944,
+    "duration": 4.39
+  },
+  {
+    "text": "must be both even, or both odd.",
+    "start": 161.334,
+    "duration": 3.408
+  },
+  {
+    "text": "This observation is more \npowerful than it seems.",
+    "start": 164.742,
+    "duration": 3.358
+  },
+  {
+    "text": "In particular, it means that we have a \nway to identify the kinds of points",
+    "start": 168.1,
+    "duration": 4.21
+  },
+  {
+    "text": "the light won’t ever go through",
+    "start": 172.31,
+    "duration": 2.162
+  },
+  {
+    "text": "If one of the coordinates is even \nand the other is odd,",
+    "start": 174.472,
+    "duration": 3.22
+  },
+  {
+    "text": "the light will miss them.",
+    "start": 177.692,
+    "duration": 1.42
+  },
+  {
+    "text": "That means it’ll miss the top \ntwo corners of the room,",
+    "start": 179.112,
+    "duration": 3.36
+  },
+  {
+    "text": "since those points have one even \nand one odd coordinate.",
+    "start": 182.472,
+    "duration": 3.94
+  },
+  {
+    "text": "The Southeast corner is the \nonly option for the diffuser.",
+    "start": 186.412,
+    "duration": 4.32
+  },
+  {
+    "text": "And indeed, when that precious \nbeam of sunlight enters the hall,",
+    "start": 190.732,
+    "duration": 3.71
+  },
+  {
+    "text": "it bounces between the walls",
+    "start": 194.442,
+    "duration": 1.53
+  },
+  {
+    "text": "and strikes the Southeast corner, spot on.",
+    "start": 195.972,
+    "duration": 3.37
+  },
+  {
+    "text": "The vampires, sensing the intrusion,",
+    "start": 199.342,
+    "duration": 2.29
+  },
+  {
+    "text": "burst from their coffins \nand turn to dust in the light.",
+    "start": 201.632,
+    "duration": 3.65
+  },
+  {
+    "text": "It was a “high stakes” test,",
+    "start": 205.282,
+    "duration": 2.4
+  },
+  {
+    "text": "and you passed with flying colors.",
+    "start": 207.682,
+    "duration": 3.45
+  }
+]

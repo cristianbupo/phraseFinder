@@ -1,0 +1,1487 @@
+[
+  {
+    "text": "Now, I haven't met most of you\nor really any of you,",
+    "start": 4.209,
+    "duration": 3.295
+  },
+  {
+    "text": "but I feel a really good vibe in the room.",
+    "start": 7.504,
+    "duration": 2.085
+  },
+  {
+    "text": "(Laughter)",
+    "start": 9.631,
+    "duration": 1.209
+  },
+  {
+    "text": "And so I think I'd like\nto treat you all to a meal.",
+    "start": 10.882,
+    "duration": 2.503
+  },
+  {
+    "text": "What do you think?",
+    "start": 13.426,
+    "duration": 1.252
+  },
+  {
+    "text": "Yes? Great, so many new friends.",
+    "start": 14.678,
+    "duration": 1.877
+  },
+  {
+    "text": "So we're going to go to this cafe,",
+    "start": 17.681,
+    "duration": 1.668
+  },
+  {
+    "text": "they serve sandwiches.",
+    "start": 19.349,
+    "duration": 1.501
+  },
+  {
+    "text": "And the sandwiches are really delicious.",
+    "start": 20.85,
+    "duration": 2.002
+  },
+  {
+    "text": "But I have to tell you that sometimes\nthey make people really, really sick.",
+    "start": 22.852,
+    "duration": 4.422
+  },
+  {
+    "text": "(Laughter)",
+    "start": 27.774,
+    "duration": 1.335
+  },
+  {
+    "text": "And we don't know why.",
+    "start": 29.109,
+    "duration": 1.251
+  },
+  {
+    "text": "Because the cafe won't tell us\nhow they make the sandwich,",
+    "start": 30.402,
+    "duration": 2.711
+  },
+  {
+    "text": "they won't tell us about the ingredients.",
+    "start": 33.154,
+    "duration": 2.044
+  },
+  {
+    "text": "And then the authorities\nhave no way to fix the problem.",
+    "start": 35.198,
+    "duration": 3.128
+  },
+  {
+    "text": "But the offer still stands.",
+    "start": 38.702,
+    "duration": 1.293
+  },
+  {
+    "text": "So who wants to get a sandwich?",
+    "start": 39.995,
+    "duration": 1.543
+  },
+  {
+    "text": "(Laughter)",
+    "start": 41.538,
+    "duration": 1.168
+  },
+  {
+    "text": "Some brave souls, we can talk after.",
+    "start": 42.747,
+    "duration": 1.752
+  },
+  {
+    "text": "But for the rest of you, I understand.",
+    "start": 45.0,
+    "duration": 2.168
+  },
+  {
+    "text": "You don't have enough information",
+    "start": 47.21,
+    "duration": 1.585
+  },
+  {
+    "text": "to make good choices about your safety",
+    "start": 48.795,
+    "duration": 1.835
+  },
+  {
+    "text": "or even fix the issue.",
+    "start": 50.672,
+    "duration": 1.835
+  },
+  {
+    "text": "Now, before I further the anxiety here,\nI'm not actually trying to make you sick,",
+    "start": 52.507,
+    "duration": 3.879
+  },
+  {
+    "text": "but this is an analogy to how we're\ncurrently making algorithmic systems,",
+    "start": 56.428,
+    "duration": 3.545
+  },
+  {
+    "text": "also known as artificial\nintelligence or AI.",
+    "start": 59.973,
+    "duration": 3.003
+  },
+  {
+    "text": "Now, for those who haven't thought\nabout the relationship",
+    "start": 64.06,
+    "duration": 2.753
+  },
+  {
+    "text": "between AI and sandwiches,\ndon't worry about it,",
+    "start": 66.813,
+    "duration": 2.586
+  },
+  {
+    "text": "I'm here for you, I'm going to explain.",
+    "start": 69.441,
+    "duration": 2.294
+  },
+  {
+    "text": "You see, AI systems,\nthey provide benefit to society.",
+    "start": 71.776,
+    "duration": 3.754
+  },
+  {
+    "text": "They feed us,",
+    "start": 75.53,
+    "duration": 1.251
+  },
+  {
+    "text": "but they're also inconsistently\nmaking us sick.",
+    "start": 76.823,
+    "duration": 3.67
+  },
+  {
+    "text": "And we don't have access\nto the ingredients that go into the AI.",
+    "start": 80.535,
+    "duration": 4.505
+  },
+  {
+    "text": "And so we can't actually\naddress the issues.",
+    "start": 85.04,
+    "duration": 2.46
+  },
+  {
+    "text": "We also can't stop eating AI",
+    "start": 88.418,
+    "duration": 1.793
+  },
+  {
+    "text": "like we can just stop\neating a shady sandwich",
+    "start": 90.211,
+    "duration": 2.128
+  },
+  {
+    "text": "because it's everywhere,",
+    "start": 92.339,
+    "duration": 1.209
+  },
+  {
+    "text": "and we often don't even know\nthat we're encountering a system",
+    "start": 93.59,
+    "duration": 2.878
+  },
+  {
+    "text": "that's algorithmically based.",
+    "start": 96.509,
+    "duration": 1.794
+  },
+  {
+    "text": "So today, I'm going to tell you\nabout some of the AI trends that I see.",
+    "start": 98.345,
+    "duration": 3.878
+  },
+  {
+    "text": "I'm going to draw on my experience\nbuilding these systems",
+    "start": 102.223,
+    "duration": 2.711
+  },
+  {
+    "text": "over the last two decades\nto tell you about the tools",
+    "start": 104.934,
+    "duration": 2.545
+  },
+  {
+    "text": "that I and others have built\nto look into these AI ingredients.",
+    "start": 107.52,
+    "duration": 3.879
+  },
+  {
+    "text": "And finally, I'm going to leave you\nwith three principles",
+    "start": 111.441,
+    "duration": 2.711
+  },
+  {
+    "text": "that I think will give us\na healthier relationship",
+    "start": 114.152,
+    "duration": 2.336
+  },
+  {
+    "text": "to the companies\nthat build artificial intelligence.",
+    "start": 116.488,
+    "duration": 2.836
+  },
+  {
+    "text": "I'm going to start with the question,\nhow did we get here?",
+    "start": 120.241,
+    "duration": 2.878
+  },
+  {
+    "text": "AI is not new.",
+    "start": 123.745,
+    "duration": 2.169
+  },
+  {
+    "text": "We have been living\nalongside AI for two decades.",
+    "start": 126.665,
+    "duration": 3.378
+  },
+  {
+    "text": "Every time that you apply\nfor something online,",
+    "start": 130.418,
+    "duration": 2.294
+  },
+  {
+    "text": "you open a bank account\nor you go through passport control,",
+    "start": 132.712,
+    "duration": 3.42
+  },
+  {
+    "text": "you're encountering an algorithmic system.",
+    "start": 136.132,
+    "duration": 2.044
+  },
+  {
+    "text": "We've also been living with the negative\nrepercussions of AI for 20 years,",
+    "start": 139.01,
+    "duration": 4.088
+  },
+  {
+    "text": "and this is how it makes us sick.",
+    "start": 143.139,
+    "duration": 1.752
+  },
+  {
+    "text": "These systems get deployed\non broad populations,",
+    "start": 145.266,
+    "duration": 2.92
+  },
+  {
+    "text": "and then certain subsets end up getting\nnegatively disparately impacted,",
+    "start": 148.228,
+    "duration": 4.921
+  },
+  {
+    "text": "usually on the basis of race\nor gender or other characteristics.",
+    "start": 153.191,
+    "duration": 3.504
+  },
+  {
+    "text": "We need to be able to understand\nthe ingredients to these systems",
+    "start": 157.862,
+    "duration": 3.087
+  },
+  {
+    "text": "so that we can address the issues.",
+    "start": 160.99,
+    "duration": 2.086
+  },
+  {
+    "text": "So what are the ingredients\nto an AI system?",
+    "start": 163.827,
+    "duration": 3.086
+  },
+  {
+    "text": "Well, data fuels the AI.",
+    "start": 166.955,
+    "duration": 2.294
+  },
+  {
+    "text": "The AI is going to look\nlike the data that you gave it.",
+    "start": 169.29,
+    "duration": 2.962
+  },
+  {
+    "text": "So for example,",
+    "start": 172.752,
+    "duration": 1.293
+  },
+  {
+    "text": "if I want to make a risk-assessment\nsystem for diabetes,",
+    "start": 174.087,
+    "duration": 4.129
+  },
+  {
+    "text": "my training data set might be\nadults in a certain region.",
+    "start": 178.258,
+    "duration": 4.337
+  },
+  {
+    "text": "And so I'll build that system,",
+    "start": 182.929,
+    "duration": 1.46
+  },
+  {
+    "text": "it'll work really well for those\nadults in that region.",
+    "start": 184.389,
+    "duration": 2.627
+  },
+  {
+    "text": "But it does not work\nfor adults in other regions",
+    "start": 187.016,
+    "duration": 2.294
+  },
+  {
+    "text": "or maybe at all for children.",
+    "start": 189.31,
+    "duration": 1.419
+  },
+  {
+    "text": "So you can imagine if we deploy this\nfor all those populations,",
+    "start": 190.77,
+    "duration": 3.003
+  },
+  {
+    "text": "there are going to be\na lot of people who are harmed.",
+    "start": 193.815,
+    "duration": 2.502
+  },
+  {
+    "text": "We need to be able to understand\nthe quality of the data before we use it.",
+    "start": 196.317,
+    "duration": 4.422
+  },
+  {
+    "text": "But I'm sorry to tell you\nthat we currently live",
+    "start": 202.157,
+    "duration": 2.252
+  },
+  {
+    "text": "in what I call the Wild West of data.",
+    "start": 204.451,
+    "duration": 2.502
+  },
+  {
+    "text": "It's really hard to assess\nquality of data before you use it.",
+    "start": 206.995,
+    "duration": 4.171
+  },
+  {
+    "text": "There are no global standards\nfor data quality assessment,",
+    "start": 211.166,
+    "duration": 2.877
+  },
+  {
+    "text": "and there are very few data regulations\naround how you can use data",
+    "start": 214.085,
+    "duration": 3.295
+  },
+  {
+    "text": "and what types of data you can use.",
+    "start": 217.422,
+    "duration": 2.377
+  },
+  {
+    "text": "This is kind of like\nin the food safety realm.",
+    "start": 220.967,
+    "duration": 2.294
+  },
+  {
+    "text": "If we couldn't understand\nwhere the ingredients were sourced,",
+    "start": 223.303,
+    "duration": 3.545
+  },
+  {
+    "text": "we also had no idea whether\nthey were safe for us to consume.",
+    "start": 226.89,
+    "duration": 3.003
+  },
+  {
+    "text": "We also tend to stitch data together,",
+    "start": 230.643,
+    "duration": 2.253
+  },
+  {
+    "text": "and every time we stitch\nthis data together,",
+    "start": 232.937,
+    "duration": 2.086
+  },
+  {
+    "text": "which we might find on the internet,\nscrape, we might generate it,",
+    "start": 235.023,
+    "duration": 3.128
+  },
+  {
+    "text": "we could source it.",
+    "start": 238.151,
+    "duration": 1.376
+  },
+  {
+    "text": "We lose information\nabout the quality of the data.",
+    "start": 239.527,
+    "duration": 3.128
+  },
+  {
+    "text": "And the folks who are building the models",
+    "start": 243.156,
+    "duration": 1.96
+  },
+  {
+    "text": "are not the ones that found the data.",
+    "start": 245.116,
+    "duration": 1.919
+  },
+  {
+    "text": "So there's further\ninformation that's lost.",
+    "start": 247.076,
+    "duration": 2.336
+  },
+  {
+    "text": "Now, I've been asking myself\na lot of questions",
+    "start": 250.497,
+    "duration": 2.21
+  },
+  {
+    "text": "about how can we understand\nthe data quality before we use it.",
+    "start": 252.749,
+    "duration": 3.754
+  },
+  {
+    "text": "And this emerges from two decades\nof building these kinds of systems.",
+    "start": 256.544,
+    "duration": 4.672
+  },
+  {
+    "text": "The way I was trained to build systems\nis similar to how people do it today.",
+    "start": 261.216,
+    "duration": 3.92
+  },
+  {
+    "text": "You build for the middle\nof the distribution.",
+    "start": 265.178,
+    "duration": 2.21
+  },
+  {
+    "text": "That's your normal user.",
+    "start": 267.43,
+    "duration": 1.919
+  },
+  {
+    "text": "So for me, a lot of my training data sets",
+    "start": 269.39,
+    "duration": 1.961
+  },
+  {
+    "text": "would include information about people\nfrom the Western world who speak English,",
+    "start": 271.392,
+    "duration": 4.213
+  },
+  {
+    "text": "who have certain\nnormative characteristics.",
+    "start": 275.605,
+    "duration": 2.336
+  },
+  {
+    "text": "And it took me an embarrassingly\nlong amount of time",
+    "start": 277.982,
+    "duration": 2.461
+  },
+  {
+    "text": "to realize that I was not my own user.",
+    "start": 280.443,
+    "duration": 2.503
+  },
+  {
+    "text": "So I identify as non-binary,\nas mixed race,",
+    "start": 283.696,
+    "duration": 2.628
+  },
+  {
+    "text": "I wear a hearing aid",
+    "start": 286.324,
+    "duration": 1.668
+  },
+  {
+    "text": "and I just wasn't represented\nin the data sets that I was using.",
+    "start": 287.992,
+    "duration": 3.587
+  },
+  {
+    "text": "And so I was building systems\nthat literally didn't work for me.",
+    "start": 291.621,
+    "duration": 3.378
+  },
+  {
+    "text": "And for example, I once built a system\nthat repeatedly told me",
+    "start": 295.041,
+    "duration": 3.462
+  },
+  {
+    "text": "that I was a white Eastern-European lady.",
+    "start": 298.503,
+    "duration": 3.67
+  },
+  {
+    "text": "This did a real number on my identity.",
+    "start": 302.966,
+    "duration": 2.043
+  },
+  {
+    "text": "(Laughter)",
+    "start": 305.051,
+    "duration": 1.919
+  },
+  {
+    "text": "But perhaps even more worrying,",
+    "start": 306.97,
+    "duration": 1.793
+  },
+  {
+    "text": "this was a system\nto be deployed in health care,",
+    "start": 308.805,
+    "duration": 2.961
+  },
+  {
+    "text": "where your background can determine\nthings like risk scores for diseases.",
+    "start": 311.808,
+    "duration": 4.296
+  },
+  {
+    "text": "And so I started to wonder,",
+    "start": 317.605,
+    "duration": 1.627
+  },
+  {
+    "text": "can I build tools and work\nwith others to do this",
+    "start": 319.274,
+    "duration": 2.794
+  },
+  {
+    "text": "so that I can look inside\nof a dataset before I use it?",
+    "start": 322.068,
+    "duration": 2.836
+  },
+  {
+    "text": "In 2018, I was part of a fellowship\nat Harvard and MIT,",
+    "start": 325.655,
+    "duration": 3.629
+  },
+  {
+    "text": "and I, with some colleagues,\ndecided to try to address this problem.",
+    "start": 329.284,
+    "duration": 4.379
+  },
+  {
+    "text": "And so we launched\nthe Data Nutrition Project,",
+    "start": 333.705,
+    "duration": 2.836
+  },
+  {
+    "text": "which is a research group\nand also a nonprofit",
+    "start": 336.541,
+    "duration": 2.919
+  },
+  {
+    "text": "that builds nutrition\nlabels for datasets.",
+    "start": 339.502,
+    "duration": 2.711
+  },
+  {
+    "text": "So similar to food nutrition labels,",
+    "start": 343.381,
+    "duration": 2.628
+  },
+  {
+    "text": "the idea here is that you can look inside\nof a data set before you use it.",
+    "start": 346.05,
+    "duration": 3.504
+  },
+  {
+    "text": "You can understand the ingredients,",
+    "start": 349.554,
+    "duration": 1.71
+  },
+  {
+    "text": "see whether it's healthy\nfor the things that you want to do.",
+    "start": 351.264,
+    "duration": 2.878
+  },
+  {
+    "text": "Now this is a cartoonified\nversion of the label.",
+    "start": 354.142,
+    "duration": 2.669
+  },
+  {
+    "text": "The top part tells you\nabout the completion of the label itself.",
+    "start": 356.811,
+    "duration": 4.213
+  },
+  {
+    "text": "And underneath that you have\ninformation about the data,",
+    "start": 361.065,
+    "duration": 2.628
+  },
+  {
+    "text": "the description, the keywords, the tags,",
+    "start": 363.693,
+    "duration": 2.044
+  },
+  {
+    "text": "and importantly, on the right hand side,",
+    "start": 365.778,
+    "duration": 1.919
+  },
+  {
+    "text": "how you should\nand should not use the data.",
+    "start": 367.697,
+    "duration": 2.586
+  },
+  {
+    "text": "If you could scroll on this cartoon,",
+    "start": 370.7,
+    "duration": 1.793
+  },
+  {
+    "text": "you would see information\nabout risks and mitigation strategies",
+    "start": 372.493,
+    "duration": 3.003
+  },
+  {
+    "text": "across a number of vectors.",
+    "start": 375.496,
+    "duration": 1.544
+  },
+  {
+    "text": "And we launched this\nwith two audiences in mind.",
+    "start": 377.707,
+    "duration": 2.836
+  },
+  {
+    "text": "The first audience are folks\nwho are building AI.",
+    "start": 380.543,
+    "duration": 3.545
+  },
+  {
+    "text": "So they’re choosing datasets.",
+    "start": 384.13,
+    "duration": 1.418
+  },
+  {
+    "text": "We want to help them make a better choice.",
+    "start": 385.59,
+    "duration": 2.294
+  },
+  {
+    "text": "The second audience are folks\nwho are building datasets.",
+    "start": 387.926,
+    "duration": 3.128
+  },
+  {
+    "text": "And it turns out",
+    "start": 391.095,
+    "duration": 1.168
+  },
+  {
+    "text": "that when you tell someone\nthey have to put a label on something,",
+    "start": 392.305,
+    "duration": 3.086
+  },
+  {
+    "text": "they think about the\ningredients beforehand.",
+    "start": 395.391,
+    "duration": 2.086
+  },
+  {
+    "text": "The analogy here might be,",
+    "start": 398.102,
+    "duration": 1.544
+  },
+  {
+    "text": "if I want to make a sandwich\nand say that it’s gluten-free,",
+    "start": 399.687,
+    "duration": 2.878
+  },
+  {
+    "text": "I have to think about all the components\nas I make the sandwich,",
+    "start": 402.607,
+    "duration": 3.045
+  },
+  {
+    "text": "the bread and the ingredients, the sauces.",
+    "start": 405.652,
+    "duration": 2.21
+  },
+  {
+    "text": "I can't just put it on a sandwich\nand put it in front of you",
+    "start": 407.904,
+    "duration": 2.836
+  },
+  {
+    "text": "and tell you it's gluten-free.",
+    "start": 410.74,
+    "duration": 1.96
+  },
+  {
+    "text": "We're really proud\nof the work that we've done.",
+    "start": 412.7,
+    "duration": 2.253
+  },
+  {
+    "text": "We launched this as a design\nand then a prototype",
+    "start": 414.994,
+    "duration": 2.336
+  },
+  {
+    "text": "and ultimately a tool for others\nto make their own labels.",
+    "start": 417.33,
+    "duration": 3.92
+  },
+  {
+    "text": "And we've worked with experts\nat places like Microsoft Research,",
+    "start": 421.709,
+    "duration": 3.045
+  },
+  {
+    "text": "the United Nations and professors globally",
+    "start": 424.754,
+    "duration": 3.045
+  },
+  {
+    "text": "to integrate the label and the methodology",
+    "start": 427.84,
+    "duration": 2.002
+  },
+  {
+    "text": "into their work flows\nand into their curricula.",
+    "start": 429.884,
+    "duration": 2.628
+  },
+  {
+    "text": "But we know it only goes so far.",
+    "start": 433.096,
+    "duration": 1.877
+  },
+  {
+    "text": "And that's because it's actually\nreally hard to get a label",
+    "start": 435.014,
+    "duration": 2.92
+  },
+  {
+    "text": "on every single dataset.",
+    "start": 437.976,
+    "duration": 2.293
+  },
+  {
+    "text": "And this comes down to the question",
+    "start": 440.311,
+    "duration": 1.71
+  },
+  {
+    "text": "of why would you put a label\non a dataset to begin with?",
+    "start": 442.063,
+    "duration": 3.086
+  },
+  {
+    "text": "Well, the first reason\nis not rocket science.",
+    "start": 445.525,
+    "duration": 2.169
+  },
+  {
+    "text": "It's that you have to.",
+    "start": 447.735,
+    "duration": 1.835
+  },
+  {
+    "text": "And this is, quite frankly,\nwhy food nutrition labels exist.",
+    "start": 449.57,
+    "duration": 2.878
+  },
+  {
+    "text": "It's because if they didn't put them\non the boxes, it would be illegal.",
+    "start": 452.49,
+    "duration": 3.42
+  },
+  {
+    "text": "However, we don't really\nhave AI regulation.",
+    "start": 456.703,
+    "duration": 2.377
+  },
+  {
+    "text": "We don't have much regulation\naround the use of data.",
+    "start": 459.122,
+    "duration": 2.627
+  },
+  {
+    "text": "Now there is some on the horizon.",
+    "start": 462.208,
+    "duration": 1.96
+  },
+  {
+    "text": "For example, the EU AI Act\njust passed this week.",
+    "start": 464.168,
+    "duration": 3.42
+  },
+  {
+    "text": "And although there are no requirements\naround making the training data available,",
+    "start": 468.381,
+    "duration": 4.63
+  },
+  {
+    "text": "they do have provisions for creating\ntransparency labeling",
+    "start": 473.052,
+    "duration": 4.254
+  },
+  {
+    "text": "like the dataset nutrition label,\ndata sheets, data statements.",
+    "start": 477.348,
+    "duration": 3.879
+  },
+  {
+    "text": "There are many in the space.",
+    "start": 481.269,
+    "duration": 1.376
+  },
+  {
+    "text": "We think this is a really good first step.",
+    "start": 482.645,
+    "duration": 2.044
+  },
+  {
+    "text": "The second reason that you might have\na label on a dataset",
+    "start": 485.606,
+    "duration": 2.753
+  },
+  {
+    "text": "is because it is a best practice\nor a cultural norm.",
+    "start": 488.401,
+    "duration": 3.92
+  },
+  {
+    "text": "The example here might be\nhow we're starting to see",
+    "start": 493.364,
+    "duration": 2.544
+  },
+  {
+    "text": "more and more food packaging\nand menus at restaurants",
+    "start": 495.95,
+    "duration": 3.337
+  },
+  {
+    "text": "include information\nabout whether there's gluten.",
+    "start": 499.328,
+    "duration": 2.92
+  },
+  {
+    "text": "This is not required by law,",
+    "start": 502.248,
+    "duration": 1.794
+  },
+  {
+    "text": "although if you do say it,\nit had better be true.",
+    "start": 504.042,
+    "duration": 2.627
+  },
+  {
+    "text": "And the reason that people\nare adding this to their menus",
+    "start": 507.211,
+    "duration": 2.711
+  },
+  {
+    "text": "and their food packaging",
+    "start": 509.922,
+    "duration": 1.168
+  },
+  {
+    "text": "is because there's an increased\nawareness of the sensitivity",
+    "start": 511.09,
+    "duration": 2.878
+  },
+  {
+    "text": "and kind of the seriousness\nof that kind of an allergy or condition.",
+    "start": 513.968,
+    "duration": 3.754
+  },
+  {
+    "text": "So we're also seeing\nsome movement in this area.",
+    "start": 519.057,
+    "duration": 2.961
+  },
+  {
+    "text": "Folks who are building datasets\nare starting to put nutrition labels,",
+    "start": 522.06,
+    "duration": 3.503
+  },
+  {
+    "text": "data sheets on their datasets.",
+    "start": 525.605,
+    "duration": 1.793
+  },
+  {
+    "text": "And people who are using data\nare starting to request the information.",
+    "start": 527.398,
+    "duration": 3.337
+  },
+  {
+    "text": "This is really heartening.",
+    "start": 530.735,
+    "duration": 1.293
+  },
+  {
+    "text": "And you might say, \"Kasia,\nwhy are you up here?",
+    "start": 532.028,
+    "duration": 2.21
+  },
+  {
+    "text": "Everything seems to be going well,\nseems to be getting better.\"",
+    "start": 534.28,
+    "duration": 3.003
+  },
+  {
+    "text": "In some ways it is.",
+    "start": 537.7,
+    "duration": 1.21
+  },
+  {
+    "text": "But I'm also here to tell you\nthat our relationship to data",
+    "start": 538.951,
+    "duration": 2.795
+  },
+  {
+    "text": "is getting worse.",
+    "start": 541.746,
+    "duration": 1.46
+  },
+  {
+    "text": "Now the last few years have seen\na supercharged interest",
+    "start": 543.664,
+    "duration": 3.337
+  },
+  {
+    "text": "in gathering datasets.",
+    "start": 547.001,
+    "duration": 1.919
+  },
+  {
+    "text": "Companies are scraping the web.",
+    "start": 549.504,
+    "duration": 1.876
+  },
+  {
+    "text": "They're transcribing millions of hours\nof YouTube videos into text.",
+    "start": 551.38,
+    "duration": 4.004
+  },
+  {
+    "text": "By some estimates, they'll run out\nof information on the internet by 2026.",
+    "start": 555.885,
+    "duration": 3.879
+  },
+  {
+    "text": "They're even considering buying\npublishing houses",
+    "start": 560.515,
+    "duration": 2.502
+  },
+  {
+    "text": "so they can get access\nto printed text and books.",
+    "start": 563.017,
+    "duration": 2.753
+  },
+  {
+    "text": "So why are they gathering\nthis information?",
+    "start": 567.98,
+    "duration": 2.503
+  },
+  {
+    "text": "Well, they need more\nand more information",
+    "start": 570.483,
+    "duration": 1.918
+  },
+  {
+    "text": "to train a new technique\ncalled generative AI.",
+    "start": 572.443,
+    "duration": 2.67
+  },
+  {
+    "text": "I want to tell you about the size\nof these datasets.",
+    "start": 575.154,
+    "duration": 2.461
+  },
+  {
+    "text": "If you look at GPT-3,\nwhich is a model that launched in 2020,",
+    "start": 578.533,
+    "duration": 3.378
+  },
+  {
+    "text": "the training dataset included\n300 billion words, or parts of words.",
+    "start": 581.953,
+    "duration": 5.547
+  },
+  {
+    "text": "Now for context, the English language\ncontains less than a million words.",
+    "start": 587.542,
+    "duration": 3.878
+  },
+  {
+    "text": "Just three years later, DBRX was launched,",
+    "start": 592.505,
+    "duration": 3.003
+  },
+  {
+    "text": "which was trained on eight trillion words.",
+    "start": 595.508,
+    "duration": 3.086
+  },
+  {
+    "text": "So 300 billion to eight\ntrillion in three years.",
+    "start": 598.636,
+    "duration": 3.212
+  },
+  {
+    "text": "And the datasets are getting bigger.",
+    "start": 601.848,
+    "duration": 2.252
+  },
+  {
+    "text": "Now with each successive model launch,",
+    "start": 604.6,
+    "duration": 2.211
+  },
+  {
+    "text": "the datasets are actually\nless and less transparent.",
+    "start": 606.853,
+    "duration": 3.044
+  },
+  {
+    "text": "And even we have access\nto the information,",
+    "start": 609.939,
+    "duration": 2.169
+  },
+  {
+    "text": "it's so big, it's so hard to look inside\nwithout any kind of transparency tooling.",
+    "start": 612.108,
+    "duration": 4.838
+  },
+  {
+    "text": "And the generative AI itself\nis also causing some worries.",
+    "start": 618.865,
+    "duration": 4.212
+  },
+  {
+    "text": "And you've probably encountered\nthis technique through ChatGPT.",
+    "start": 623.077,
+    "duration": 3.712
+  },
+  {
+    "text": "I don't need to know\nwhat you do on the internet,",
+    "start": 626.831,
+    "duration": 2.336
+  },
+  {
+    "text": "that's between you and the internet,",
+    "start": 629.167,
+    "duration": 1.751
+  },
+  {
+    "text": "but you probably know, just like I do,",
+    "start": 630.918,
+    "duration": 1.835
+  },
+  {
+    "text": "how easy it is to create\ninformation using ChatGPT",
+    "start": 632.795,
+    "duration": 2.378
+  },
+  {
+    "text": "and other generative AI technologies",
+    "start": 635.214,
+    "duration": 1.752
+  },
+  {
+    "text": "and to put that out onto the web.",
+    "start": 636.966,
+    "duration": 1.919
+  },
+  {
+    "text": "And so we're looking at a situation",
+    "start": 638.885,
+    "duration": 1.71
+  },
+  {
+    "text": "in which we're going to encounter\nlots of information",
+    "start": 640.636,
+    "duration": 2.503
+  },
+  {
+    "text": "that's algorithmically generated\nbut we won't know it",
+    "start": 643.139,
+    "duration": 2.502
+  },
+  {
+    "text": "and we won't know whether it's true.",
+    "start": 645.683,
+    "duration": 1.752
+  },
+  {
+    "text": "And this increases the scale\nof the potential risks and harms from AI.",
+    "start": 647.476,
+    "duration": 3.796
+  },
+  {
+    "text": "Not only that, I'm sorry,",
+    "start": 651.981,
+    "duration": 1.46
+  },
+  {
+    "text": "but the models themselves\nare getting controlled",
+    "start": 653.482,
+    "duration": 2.878
+  },
+  {
+    "text": "by a smaller and smaller number\nof private actors in US tech firms.",
+    "start": 656.36,
+    "duration": 4.171
+  },
+  {
+    "text": "So this is the models that were\nlaunched last year, in 2023.",
+    "start": 660.531,
+    "duration": 4.046
+  },
+  {
+    "text": "And you can see most of them are pink,\nmeaning they came out of industry.",
+    "start": 664.577,
+    "duration": 3.462
+  },
+  {
+    "text": "And if you look at this over time,\nmore and more are coming out of industry",
+    "start": 668.08,
+    "duration": 3.587
+  },
+  {
+    "text": "and fewer and fewer are coming out\nof all the other sectors combined,",
+    "start": 671.709,
+    "duration": 3.253
+  },
+  {
+    "text": "including academia and government,",
+    "start": 674.962,
+    "duration": 1.71
+  },
+  {
+    "text": "where technology is often\nlaunched in a way",
+    "start": 676.672,
+    "duration": 2.044
+  },
+  {
+    "text": "that's more easy to be scrutinized.",
+    "start": 678.758,
+    "duration": 2.169
+  },
+  {
+    "text": "So if we go back to our cafe analogy,",
+    "start": 680.927,
+    "duration": 1.793
+  },
+  {
+    "text": "this is like you have\na small number of private actors",
+    "start": 682.762,
+    "duration": 2.878
+  },
+  {
+    "text": "who own all the ingredients,",
+    "start": 685.681,
+    "duration": 1.877
+  },
+  {
+    "text": "they make all the sandwiches globally,",
+    "start": 687.6,
+    "duration": 2.961
+  },
+  {
+    "text": "and there's not a lot of regulation.",
+    "start": 690.561,
+    "duration": 1.96
+  },
+  {
+    "text": "And so at this point\nyou're probably scared",
+    "start": 693.064,
+    "duration": 2.002
+  },
+  {
+    "text": "and maybe feeling a little uncomfortable.",
+    "start": 695.107,
+    "duration": 1.961
+  },
+  {
+    "text": "Which is ironic because a few minutes ago,\nI was going to get you all sandwiches",
+    "start": 697.109,
+    "duration": 3.796
+  },
+  {
+    "text": "and you said yes.",
+    "start": 700.905,
+    "duration": 1.168
+  },
+  {
+    "text": "This is why you should not accept\nfood from strangers.",
+    "start": 702.114,
+    "duration": 2.586
+  },
+  {
+    "text": "But I wouldn't be up here\nif I weren't also optimistic.",
+    "start": 704.742,
+    "duration": 2.878
+  },
+  {
+    "text": "And that's because I think\nwe have momentum",
+    "start": 707.62,
+    "duration": 2.044
+  },
+  {
+    "text": "behind the regulation\nand the culture changes.",
+    "start": 709.705,
+    "duration": 2.503
+  },
+  {
+    "text": "Especially if we align ourselves\nwith three basic principles",
+    "start": 712.833,
+    "duration": 2.837
+  },
+  {
+    "text": "about how corporations\nshould engage with data.",
+    "start": 715.67,
+    "duration": 2.544
+  },
+  {
+    "text": "The first principle is that companies\nthat gather data should tell us",
+    "start": 718.547,
+    "duration": 3.713
+  },
+  {
+    "text": "what they're gathering.",
+    "start": 722.301,
+    "duration": 1.418
+  },
+  {
+    "text": "This would allow us to ask questions\nlike, is it copyrighted material?",
+    "start": 724.47,
+    "duration": 3.545
+  },
+  {
+    "text": "Is that information private?",
+    "start": 728.057,
+    "duration": 1.919
+  },
+  {
+    "text": "Could you please stop?",
+    "start": 729.976,
+    "duration": 1.543
+  },
+  {
+    "text": "It also opens up the data\nto scientific inquiry.",
+    "start": 731.56,
+    "duration": 2.962
+  },
+  {
+    "text": "The second principle is that companies\nthat are gathering our data should tell us",
+    "start": 735.731,
+    "duration": 3.921
+  },
+  {
+    "text": "what they're going to do with it\nbefore they do anything with it.",
+    "start": 739.694,
+    "duration": 3.253
+  },
+  {
+    "text": "And by requiring that companies\ntell us their plan,",
+    "start": 743.572,
+    "duration": 2.878
+  },
+  {
+    "text": "this means that they have to have a plan,",
+    "start": 746.45,
+    "duration": 2.294
+  },
+  {
+    "text": "which would be a great first step.",
+    "start": 748.744,
+    "duration": 1.877
+  },
+  {
+    "text": "It also probably would lead\nto the minimization of data capture,",
+    "start": 751.706,
+    "duration": 3.336
+  },
+  {
+    "text": "because they wouldn't be able\nto capture data",
+    "start": 755.042,
+    "duration": 2.169
+  },
+  {
+    "text": "if they didn't know what they were\nalready going to do with it.",
+    "start": 757.253,
+    "duration": 2.961
+  },
+  {
+    "text": "And finally, principle three,",
+    "start": 760.256,
+    "duration": 1.626
+  },
+  {
+    "text": "companies that build AI\nshould tell us about the data",
+    "start": 761.882,
+    "duration": 2.628
+  },
+  {
+    "text": "that they use to train the AI.",
+    "start": 764.552,
+    "duration": 1.96
+  },
+  {
+    "text": "And this is where\ndataset nutrition labels",
+    "start": 767.179,
+    "duration": 2.294
+  },
+  {
+    "text": "and other transparency labeling\ncomes into play.",
+    "start": 769.515,
+    "duration": 2.294
+  },
+  {
+    "text": "You know, in the case where the data\nitself won't be made available,",
+    "start": 772.893,
+    "duration": 3.212
+  },
+  {
+    "text": "which is most of the time, probably,",
+    "start": 776.147,
+    "duration": 2.294
+  },
+  {
+    "text": "the labeling is critical for us\nto be able to investigate the ingredients",
+    "start": 778.482,
+    "duration": 3.546
+  },
+  {
+    "text": "and start to find solutions.",
+    "start": 782.028,
+    "duration": 1.793
+  },
+  {
+    "text": "So I want to leave you with the good news,",
+    "start": 785.698,
+    "duration": 2.044
+  },
+  {
+    "text": "and that is that the data\nnutrition projects and other projects",
+    "start": 787.742,
+    "duration": 3.003
+  },
+  {
+    "text": "are just a small part of a global movement",
+    "start": 790.786,
+    "duration": 3.337
+  },
+  {
+    "text": "towards AI accountability.",
+    "start": 794.165,
+    "duration": 1.877
+  },
+  {
+    "text": "Dataset Nutrition Label\nand other projects are just a first step.",
+    "start": 796.792,
+    "duration": 4.088
+  },
+  {
+    "text": "Regulation's on the horizon,",
+    "start": 801.714,
+    "duration": 1.752
+  },
+  {
+    "text": "the cultural norms are shifting,",
+    "start": 803.507,
+    "duration": 1.544
+  },
+  {
+    "text": "especially if we align\nwith these three basic principles",
+    "start": 805.051,
+    "duration": 2.961
+  },
+  {
+    "text": "that companies should tell us\nwhat they're gathering,",
+    "start": 808.012,
+    "duration": 2.544
+  },
+  {
+    "text": "tell us what they're going to do with it\nbefore they do anything with it,",
+    "start": 810.598,
+    "duration": 3.462
+  },
+  {
+    "text": "and that companies that are building AI",
+    "start": 814.101,
+    "duration": 1.919
+  },
+  {
+    "text": "should explain the data\nthat they're using to build the system.",
+    "start": 816.062,
+    "duration": 3.336
+  },
+  {
+    "text": "We need to hold\nthese organizations accountable",
+    "start": 820.191,
+    "duration": 2.21
+  },
+  {
+    "text": "for the AI that they're building",
+    "start": 822.443,
+    "duration": 2.002
+  },
+  {
+    "text": "by asking them, just like we do\nwith the food industry,",
+    "start": 824.487,
+    "duration": 2.627
+  },
+  {
+    "text": "what's inside and how did you make it?",
+    "start": 827.156,
+    "duration": 2.294
+  },
+  {
+    "text": "Only then can we mitigate\nthe issues before they occur,",
+    "start": 830.201,
+    "duration": 3.128
+  },
+  {
+    "text": "as opposed to after they occur.",
+    "start": 833.371,
+    "duration": 1.918
+  },
+  {
+    "text": "And in doing so, create\nan integrated algorithmic internet",
+    "start": 835.664,
+    "duration": 3.879
+  },
+  {
+    "text": "that is healthier for everyone.",
+    "start": 839.585,
+    "duration": 2.669
+  },
+  {
+    "text": "Thank you.",
+    "start": 842.546,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 843.714,
+    "duration": 2.836
+  }
+]

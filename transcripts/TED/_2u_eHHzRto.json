@@ -1,0 +1,1382 @@
+[
+  {
+    "text": "Algorithms are everywhere.",
+    "start": 12.795,
+    "duration": 1.596
+  },
+  {
+    "text": "They sort and separate\nthe winners from the losers.",
+    "start": 15.931,
+    "duration": 3.125
+  },
+  {
+    "text": "The winners get the job",
+    "start": 19.839,
+    "duration": 2.264
+  },
+  {
+    "text": "or a good credit card offer.",
+    "start": 22.127,
+    "duration": 1.743
+  },
+  {
+    "text": "The losers don't even get an interview",
+    "start": 23.894,
+    "duration": 2.651
+  },
+  {
+    "text": "or they pay more for insurance.",
+    "start": 27.41,
+    "duration": 1.777
+  },
+  {
+    "text": "We're being scored with secret formulas\nthat we don't understand",
+    "start": 30.017,
+    "duration": 3.549
+  },
+  {
+    "text": "that often don't have systems of appeal.",
+    "start": 34.495,
+    "duration": 3.217
+  },
+  {
+    "text": "That begs the question:",
+    "start": 39.06,
+    "duration": 1.296
+  },
+  {
+    "text": "What if the algorithms are wrong?",
+    "start": 40.38,
+    "duration": 2.913
+  },
+  {
+    "text": "To build an algorithm you need two things:",
+    "start": 44.92,
+    "duration": 2.04
+  },
+  {
+    "text": "you need data, what happened in the past,",
+    "start": 46.984,
+    "duration": 1.981
+  },
+  {
+    "text": "and a definition of success,",
+    "start": 48.989,
+    "duration": 1.561
+  },
+  {
+    "text": "the thing you're looking for\nand often hoping for.",
+    "start": 50.574,
+    "duration": 2.457
+  },
+  {
+    "text": "You train an algorithm\nby looking, figuring out.",
+    "start": 53.055,
+    "duration": 5.037
+  },
+  {
+    "text": "The algorithm figures out\nwhat is associated with success.",
+    "start": 58.116,
+    "duration": 3.419
+  },
+  {
+    "text": "What situation leads to success?",
+    "start": 61.559,
+    "duration": 2.463
+  },
+  {
+    "text": "Actually, everyone uses algorithms.",
+    "start": 64.701,
+    "duration": 1.762
+  },
+  {
+    "text": "They just don't formalize them\nin written code.",
+    "start": 66.487,
+    "duration": 2.718
+  },
+  {
+    "text": "Let me give you an example.",
+    "start": 69.229,
+    "duration": 1.348
+  },
+  {
+    "text": "I use an algorithm every day\nto make a meal for my family.",
+    "start": 70.601,
+    "duration": 3.316
+  },
+  {
+    "text": "The data I use",
+    "start": 73.941,
+    "duration": 1.476
+  },
+  {
+    "text": "is the ingredients in my kitchen,",
+    "start": 76.214,
+    "duration": 1.659
+  },
+  {
+    "text": "the time I have,",
+    "start": 77.897,
+    "duration": 1.527
+  },
+  {
+    "text": "the ambition I have,",
+    "start": 79.448,
+    "duration": 1.233
+  },
+  {
+    "text": "and I curate that data.",
+    "start": 80.705,
+    "duration": 1.709
+  },
+  {
+    "text": "I don't count those little packages\nof ramen noodles as food.",
+    "start": 82.438,
+    "duration": 4.251
+  },
+  {
+    "text": "(Laughter)",
+    "start": 86.713,
+    "duration": 1.869
+  },
+  {
+    "text": "My definition of success is:",
+    "start": 88.606,
+    "duration": 1.845
+  },
+  {
+    "text": "a meal is successful\nif my kids eat vegetables.",
+    "start": 90.475,
+    "duration": 2.659
+  },
+  {
+    "text": "It's very different\nfrom if my youngest son were in charge.",
+    "start": 94.001,
+    "duration": 2.854
+  },
+  {
+    "text": "He'd say success is if\nhe gets to eat lots of Nutella.",
+    "start": 96.879,
+    "duration": 2.788
+  },
+  {
+    "text": "But I get to choose success.",
+    "start": 100.999,
+    "duration": 2.226
+  },
+  {
+    "text": "I am in charge. My opinion matters.",
+    "start": 103.249,
+    "duration": 2.707
+  },
+  {
+    "text": "That's the first rule of algorithms.",
+    "start": 105.98,
+    "duration": 2.675
+  },
+  {
+    "text": "Algorithms are opinions embedded in code.",
+    "start": 108.679,
+    "duration": 3.18
+  },
+  {
+    "text": "It's really different from what you think\nmost people think of algorithms.",
+    "start": 113.382,
+    "duration": 3.663
+  },
+  {
+    "text": "They think algorithms are objective\nand true and scientific.",
+    "start": 117.069,
+    "duration": 4.504
+  },
+  {
+    "text": "That's a marketing trick.",
+    "start": 122.207,
+    "duration": 1.699
+  },
+  {
+    "text": "It's also a marketing trick",
+    "start": 125.089,
+    "duration": 2.125
+  },
+  {
+    "text": "to intimidate you with algorithms,",
+    "start": 127.238,
+    "duration": 3.154
+  },
+  {
+    "text": "to make you trust and fear algorithms",
+    "start": 130.416,
+    "duration": 3.661
+  },
+  {
+    "text": "because you trust and fear mathematics.",
+    "start": 134.101,
+    "duration": 2.018
+  },
+  {
+    "text": "A lot can go wrong when we put\nblind faith in big data.",
+    "start": 137.387,
+    "duration": 4.83
+  },
+  {
+    "text": "This is Kiri Soares.\nShe's a high school principal in Brooklyn.",
+    "start": 143.504,
+    "duration": 3.373
+  },
+  {
+    "text": "In 2011, she told me\nher teachers were being scored",
+    "start": 146.901,
+    "duration": 2.586
+  },
+  {
+    "text": "with a complex, secret algorithm",
+    "start": 149.511,
+    "duration": 2.727
+  },
+  {
+    "text": "called the \"value-added model.\"",
+    "start": 152.262,
+    "duration": 1.489
+  },
+  {
+    "text": "I told her, \"Well, figure out\nwhat the formula is, show it to me.",
+    "start": 154.325,
+    "duration": 3.092
+  },
+  {
+    "text": "I'm going to explain it to you.\"",
+    "start": 157.441,
+    "duration": 1.541
+  },
+  {
+    "text": "She said, \"Well, I tried\nto get the formula,",
+    "start": 159.006,
+    "duration": 2.141
+  },
+  {
+    "text": "but my Department of Education contact\ntold me it was math",
+    "start": 161.171,
+    "duration": 2.772
+  },
+  {
+    "text": "and I wouldn't understand it.\"",
+    "start": 163.967,
+    "duration": 1.546
+  },
+  {
+    "text": "It gets worse.",
+    "start": 167.086,
+    "duration": 1.338
+  },
+  {
+    "text": "The New York Post filed\na Freedom of Information Act request,",
+    "start": 168.448,
+    "duration": 3.53
+  },
+  {
+    "text": "got all the teachers' names\nand all their scores",
+    "start": 172.002,
+    "duration": 2.959
+  },
+  {
+    "text": "and they published them\nas an act of teacher-shaming.",
+    "start": 174.985,
+    "duration": 2.782
+  },
+  {
+    "text": "When I tried to get the formulas,\nthe source code, through the same means,",
+    "start": 178.904,
+    "duration": 3.86
+  },
+  {
+    "text": "I was told I couldn't.",
+    "start": 182.788,
+    "duration": 2.149
+  },
+  {
+    "text": "I was denied.",
+    "start": 184.961,
+    "duration": 1.236
+  },
+  {
+    "text": "I later found out",
+    "start": 186.221,
+    "duration": 1.174
+  },
+  {
+    "text": "that nobody in New York City\nhad access to that formula.",
+    "start": 187.419,
+    "duration": 2.866
+  },
+  {
+    "text": "No one understood it.",
+    "start": 190.309,
+    "duration": 1.305
+  },
+  {
+    "text": "Then someone really smart\ngot involved, Gary Rubinstein.",
+    "start": 193.749,
+    "duration": 3.224
+  },
+  {
+    "text": "He found 665 teachers\nfrom that New York Post data",
+    "start": 196.997,
+    "duration": 3.621
+  },
+  {
+    "text": "that actually had two scores.",
+    "start": 200.642,
+    "duration": 1.866
+  },
+  {
+    "text": "That could happen if they were teaching",
+    "start": 202.532,
+    "duration": 1.881
+  },
+  {
+    "text": "seventh grade math and eighth grade math.",
+    "start": 204.437,
+    "duration": 2.439
+  },
+  {
+    "text": "He decided to plot them.",
+    "start": 206.9,
+    "duration": 1.538
+  },
+  {
+    "text": "Each dot represents a teacher.",
+    "start": 208.462,
+    "duration": 1.993
+  },
+  {
+    "text": "(Laughter)",
+    "start": 210.924,
+    "duration": 2.379
+  },
+  {
+    "text": "What is that?",
+    "start": 213.327,
+    "duration": 1.521
+  },
+  {
+    "text": "(Laughter)",
+    "start": 214.872,
+    "duration": 1.277
+  },
+  {
+    "text": "That should never have been used\nfor individual assessment.",
+    "start": 216.173,
+    "duration": 3.446
+  },
+  {
+    "text": "It's almost a random number generator.",
+    "start": 219.643,
+    "duration": 1.926
+  },
+  {
+    "text": "(Applause)",
+    "start": 221.593,
+    "duration": 2.946
+  },
+  {
+    "text": "But it was.",
+    "start": 224.563,
+    "duration": 1.162
+  },
+  {
+    "text": "This is Sarah Wysocki.",
+    "start": 225.749,
+    "duration": 1.176
+  },
+  {
+    "text": "She got fired, along\nwith 205 other teachers,",
+    "start": 226.949,
+    "duration": 2.175
+  },
+  {
+    "text": "from the Washington, DC school district,",
+    "start": 229.148,
+    "duration": 2.662
+  },
+  {
+    "text": "even though she had great\nrecommendations from her principal",
+    "start": 231.834,
+    "duration": 2.909
+  },
+  {
+    "text": "and the parents of her kids.",
+    "start": 234.767,
+    "duration": 1.428
+  },
+  {
+    "text": "I know what a lot\nof you guys are thinking,",
+    "start": 237.21,
+    "duration": 2.032
+  },
+  {
+    "text": "especially the data scientists,\nthe AI experts here.",
+    "start": 239.266,
+    "duration": 2.487
+  },
+  {
+    "text": "You're thinking, \"Well, I would never make\nan algorithm that inconsistent.\"",
+    "start": 241.777,
+    "duration": 4.226
+  },
+  {
+    "text": "But algorithms can go wrong,",
+    "start": 246.673,
+    "duration": 1.683
+  },
+  {
+    "text": "even have deeply destructive effects\nwith good intentions.",
+    "start": 248.38,
+    "duration": 4.598
+  },
+  {
+    "text": "And whereas an airplane\nthat's designed badly",
+    "start": 254.351,
+    "duration": 2.379
+  },
+  {
+    "text": "crashes to the earth and everyone sees it,",
+    "start": 256.754,
+    "duration": 2.001
+  },
+  {
+    "text": "an algorithm designed badly",
+    "start": 258.779,
+    "duration": 1.85
+  },
+  {
+    "text": "can go on for a long time,\nsilently wreaking havoc.",
+    "start": 262.065,
+    "duration": 3.865
+  },
+  {
+    "text": "This is Roger Ailes.",
+    "start": 267.568,
+    "duration": 1.57
+  },
+  {
+    "text": "(Laughter)",
+    "start": 269.162,
+    "duration": 2.0
+  },
+  {
+    "text": "He founded Fox News in 1996.",
+    "start": 272.344,
+    "duration": 2.388
+  },
+  {
+    "text": "More than 20 women complained\nabout sexual harassment.",
+    "start": 275.256,
+    "duration": 2.581
+  },
+  {
+    "text": "They said they weren't allowed\nto succeed at Fox News.",
+    "start": 277.861,
+    "duration": 3.235
+  },
+  {
+    "text": "He was ousted last year,\nbut we've seen recently",
+    "start": 281.12,
+    "duration": 2.52
+  },
+  {
+    "text": "that the problems have persisted.",
+    "start": 283.664,
+    "duration": 2.67
+  },
+  {
+    "text": "That begs the question:",
+    "start": 287.474,
+    "duration": 1.4
+  },
+  {
+    "text": "What should Fox News do\nto turn over another leaf?",
+    "start": 288.898,
+    "duration": 2.884
+  },
+  {
+    "text": "Well, what if they replaced\ntheir hiring process",
+    "start": 293.065,
+    "duration": 3.041
+  },
+  {
+    "text": "with a machine-learning algorithm?",
+    "start": 296.13,
+    "duration": 1.654
+  },
+  {
+    "text": "That sounds good, right?",
+    "start": 297.808,
+    "duration": 1.595
+  },
+  {
+    "text": "Think about it.",
+    "start": 299.427,
+    "duration": 1.3
+  },
+  {
+    "text": "The data, what would the data be?",
+    "start": 300.751,
+    "duration": 2.105
+  },
+  {
+    "text": "A reasonable choice would be the last\n21 years of applications to Fox News.",
+    "start": 302.88,
+    "duration": 4.947
+  },
+  {
+    "text": "Reasonable.",
+    "start": 307.851,
+    "duration": 1.502
+  },
+  {
+    "text": "What about the definition of success?",
+    "start": 309.377,
+    "duration": 1.938
+  },
+  {
+    "text": "Reasonable choice would be,",
+    "start": 311.741,
+    "duration": 1.324
+  },
+  {
+    "text": "well, who is successful at Fox News?",
+    "start": 313.089,
+    "duration": 1.778
+  },
+  {
+    "text": "I guess someone who, say,\nstayed there for four years",
+    "start": 314.891,
+    "duration": 3.58
+  },
+  {
+    "text": "and was promoted at least once.",
+    "start": 318.495,
+    "duration": 1.654
+  },
+  {
+    "text": "Sounds reasonable.",
+    "start": 320.636,
+    "duration": 1.561
+  },
+  {
+    "text": "And then the algorithm would be trained.",
+    "start": 322.221,
+    "duration": 2.354
+  },
+  {
+    "text": "It would be trained to look for people\nto learn what led to success,",
+    "start": 324.599,
+    "duration": 3.877
+  },
+  {
+    "text": "what kind of applications\nhistorically led to success",
+    "start": 329.039,
+    "duration": 4.318
+  },
+  {
+    "text": "by that definition.",
+    "start": 333.381,
+    "duration": 1.294
+  },
+  {
+    "text": "Now think about what would happen",
+    "start": 336.02,
+    "duration": 1.775
+  },
+  {
+    "text": "if we applied that\nto a current pool of applicants.",
+    "start": 337.819,
+    "duration": 2.555
+  },
+  {
+    "text": "It would filter out women",
+    "start": 340.939,
+    "duration": 1.629
+  },
+  {
+    "text": "because they do not look like people\nwho were successful in the past.",
+    "start": 343.483,
+    "duration": 3.93
+  },
+  {
+    "text": "Algorithms don't make things fair",
+    "start": 351.572,
+    "duration": 2.537
+  },
+  {
+    "text": "if you just blithely,\nblindly apply algorithms.",
+    "start": 354.133,
+    "duration": 2.694
+  },
+  {
+    "text": "They don't make things fair.",
+    "start": 356.851,
+    "duration": 1.482
+  },
+  {
+    "text": "They repeat our past practices,",
+    "start": 358.357,
+    "duration": 2.128
+  },
+  {
+    "text": "our patterns.",
+    "start": 360.509,
+    "duration": 1.183
+  },
+  {
+    "text": "They automate the status quo.",
+    "start": 361.716,
+    "duration": 1.939
+  },
+  {
+    "text": "That would be great\nif we had a perfect world,",
+    "start": 364.538,
+    "duration": 2.389
+  },
+  {
+    "text": "but we don't.",
+    "start": 367.725,
+    "duration": 1.312
+  },
+  {
+    "text": "And I'll add that most companies\ndon't have embarrassing lawsuits,",
+    "start": 369.061,
+    "duration": 4.102
+  },
+  {
+    "text": "but the data scientists in those companies",
+    "start": 374.266,
+    "duration": 2.588
+  },
+  {
+    "text": "are told to follow the data,",
+    "start": 376.878,
+    "duration": 2.189
+  },
+  {
+    "text": "to focus on accuracy.",
+    "start": 379.091,
+    "duration": 2.143
+  },
+  {
+    "text": "Think about what that means.",
+    "start": 382.093,
+    "duration": 1.381
+  },
+  {
+    "text": "Because we all have bias,\nit means they could be codifying sexism",
+    "start": 383.498,
+    "duration": 4.027
+  },
+  {
+    "text": "or any other kind of bigotry.",
+    "start": 387.549,
+    "duration": 1.836
+  },
+  {
+    "text": "Thought experiment,",
+    "start": 391.308,
+    "duration": 1.421
+  },
+  {
+    "text": "because I like them:",
+    "start": 392.753,
+    "duration": 1.509
+  },
+  {
+    "text": "an entirely segregated society --",
+    "start": 395.394,
+    "duration": 2.975
+  },
+  {
+    "text": "racially segregated, all towns,\nall neighborhoods",
+    "start": 400.067,
+    "duration": 3.328
+  },
+  {
+    "text": "and where we send the police\nonly to the minority neighborhoods",
+    "start": 403.419,
+    "duration": 3.037
+  },
+  {
+    "text": "to look for crime.",
+    "start": 406.48,
+    "duration": 1.193
+  },
+  {
+    "text": "The arrest data would be very biased.",
+    "start": 408.271,
+    "duration": 2.219
+  },
+  {
+    "text": "What if, on top of that,\nwe found the data scientists",
+    "start": 411.671,
+    "duration": 2.575
+  },
+  {
+    "text": "and paid the data scientists to predict\nwhere the next crime would occur?",
+    "start": 414.27,
+    "duration": 4.161
+  },
+  {
+    "text": "Minority neighborhood.",
+    "start": 419.095,
+    "duration": 1.487
+  },
+  {
+    "text": "Or to predict who the next\ncriminal would be?",
+    "start": 421.105,
+    "duration": 3.125
+  },
+  {
+    "text": "A minority.",
+    "start": 424.708,
+    "duration": 1.395
+  },
+  {
+    "text": "The data scientists would brag\nabout how great and how accurate",
+    "start": 427.769,
+    "duration": 3.541
+  },
+  {
+    "text": "their model would be,",
+    "start": 431.334,
+    "duration": 1.297
+  },
+  {
+    "text": "and they'd be right.",
+    "start": 432.655,
+    "duration": 1.299
+  },
+  {
+    "text": "Now, reality isn't that drastic,\nbut we do have severe segregations",
+    "start": 435.771,
+    "duration": 4.615
+  },
+  {
+    "text": "in many cities and towns,",
+    "start": 440.41,
+    "duration": 1.287
+  },
+  {
+    "text": "and we have plenty of evidence",
+    "start": 441.721,
+    "duration": 1.893
+  },
+  {
+    "text": "of biased policing\nand justice system data.",
+    "start": 443.638,
+    "duration": 2.688
+  },
+  {
+    "text": "And we actually do predict hotspots,",
+    "start": 447.452,
+    "duration": 2.815
+  },
+  {
+    "text": "places where crimes will occur.",
+    "start": 450.291,
+    "duration": 1.53
+  },
+  {
+    "text": "And we do predict, in fact,\nthe individual criminality,",
+    "start": 452.221,
+    "duration": 3.866
+  },
+  {
+    "text": "the criminality of individuals.",
+    "start": 456.111,
+    "duration": 1.77
+  },
+  {
+    "text": "The news organization ProPublica\nrecently looked into",
+    "start": 458.792,
+    "duration": 3.963
+  },
+  {
+    "text": "one of those \"recidivism risk\" algorithms,",
+    "start": 462.779,
+    "duration": 2.024
+  },
+  {
+    "text": "as they're called,",
+    "start": 464.827,
+    "duration": 1.163
+  },
+  {
+    "text": "being used in Florida\nduring sentencing by judges.",
+    "start": 466.014,
+    "duration": 3.194
+  },
+  {
+    "text": "Bernard, on the left, the black man,\nwas scored a 10 out of 10.",
+    "start": 470.231,
+    "duration": 3.585
+  },
+  {
+    "text": "Dylan, on the right, 3 out of 10.",
+    "start": 474.999,
+    "duration": 2.007
+  },
+  {
+    "text": "10 out of 10, high risk.\n3 out of 10, low risk.",
+    "start": 477.03,
+    "duration": 2.501
+  },
+  {
+    "text": "They were both brought in\nfor drug possession.",
+    "start": 480.418,
+    "duration": 2.385
+  },
+  {
+    "text": "They both had records,",
+    "start": 482.827,
+    "duration": 1.154
+  },
+  {
+    "text": "but Dylan had a felony",
+    "start": 484.005,
+    "duration": 2.806
+  },
+  {
+    "text": "but Bernard didn't.",
+    "start": 486.835,
+    "duration": 1.176
+  },
+  {
+    "text": "This matters, because\nthe higher score you are,",
+    "start": 489.638,
+    "duration": 3.066
+  },
+  {
+    "text": "the more likely you're being given\na longer sentence.",
+    "start": 492.728,
+    "duration": 3.473
+  },
+  {
+    "text": "What's going on?",
+    "start": 498.114,
+    "duration": 1.294
+  },
+  {
+    "text": "Data laundering.",
+    "start": 500.346,
+    "duration": 1.332
+  },
+  {
+    "text": "It's a process by which\ntechnologists hide ugly truths",
+    "start": 502.75,
+    "duration": 4.427
+  },
+  {
+    "text": "inside black box algorithms",
+    "start": 507.201,
+    "duration": 1.821
+  },
+  {
+    "text": "and call them objective;",
+    "start": 509.046,
+    "duration": 1.29
+  },
+  {
+    "text": "call them meritocratic.",
+    "start": 511.14,
+    "duration": 1.568
+  },
+  {
+    "text": "When they're secret,\nimportant and destructive,",
+    "start": 514.938,
+    "duration": 2.385
+  },
+  {
+    "text": "I've coined a term for these algorithms:",
+    "start": 517.347,
+    "duration": 2.487
+  },
+  {
+    "text": "\"weapons of math destruction.\"",
+    "start": 519.858,
+    "duration": 1.999
+  },
+  {
+    "text": "(Laughter)",
+    "start": 521.881,
+    "duration": 1.564
+  },
+  {
+    "text": "(Applause)",
+    "start": 523.469,
+    "duration": 3.054
+  },
+  {
+    "text": "They're everywhere,\nand it's not a mistake.",
+    "start": 526.547,
+    "duration": 2.354
+  },
+  {
+    "text": "These are private companies\nbuilding private algorithms",
+    "start": 529.515,
+    "duration": 3.723
+  },
+  {
+    "text": "for private ends.",
+    "start": 533.262,
+    "duration": 1.392
+  },
+  {
+    "text": "Even the ones I talked about\nfor teachers and the public police,",
+    "start": 535.034,
+    "duration": 3.214
+  },
+  {
+    "text": "those were built by private companies",
+    "start": 538.272,
+    "duration": 1.869
+  },
+  {
+    "text": "and sold to the government institutions.",
+    "start": 540.165,
+    "duration": 2.231
+  },
+  {
+    "text": "They call it their \"secret sauce\" --",
+    "start": 542.42,
+    "duration": 1.873
+  },
+  {
+    "text": "that's why they can't tell us about it.",
+    "start": 544.317,
+    "duration": 2.128
+  },
+  {
+    "text": "It's also private power.",
+    "start": 546.469,
+    "duration": 2.22
+  },
+  {
+    "text": "They are profiting for wielding\nthe authority of the inscrutable.",
+    "start": 549.744,
+    "duration": 4.695
+  },
+  {
+    "text": "Now you might think,\nsince all this stuff is private",
+    "start": 556.934,
+    "duration": 2.934
+  },
+  {
+    "text": "and there's competition,",
+    "start": 559.892,
+    "duration": 1.158
+  },
+  {
+    "text": "maybe the free market\nwill solve this problem.",
+    "start": 561.074,
+    "duration": 2.306
+  },
+  {
+    "text": "It won't.",
+    "start": 563.404,
+    "duration": 1.249
+  },
+  {
+    "text": "There's a lot of money\nto be made in unfairness.",
+    "start": 564.677,
+    "duration": 3.12
+  },
+  {
+    "text": "Also, we're not economic rational agents.",
+    "start": 568.947,
+    "duration": 3.369
+  },
+  {
+    "text": "We all are biased.",
+    "start": 572.851,
+    "duration": 1.292
+  },
+  {
+    "text": "We're all racist and bigoted\nin ways that we wish we weren't,",
+    "start": 574.78,
+    "duration": 3.377
+  },
+  {
+    "text": "in ways that we don't even know.",
+    "start": 578.181,
+    "duration": 2.019
+  },
+  {
+    "text": "We know this, though, in aggregate,",
+    "start": 581.172,
+    "duration": 3.081
+  },
+  {
+    "text": "because sociologists\nhave consistently demonstrated this",
+    "start": 584.277,
+    "duration": 3.22
+  },
+  {
+    "text": "with these experiments they build,",
+    "start": 587.521,
+    "duration": 1.665
+  },
+  {
+    "text": "where they send a bunch\nof applications to jobs out,",
+    "start": 589.21,
+    "duration": 2.568
+  },
+  {
+    "text": "equally qualified but some\nhave white-sounding names",
+    "start": 591.802,
+    "duration": 2.501
+  },
+  {
+    "text": "and some have black-sounding names,",
+    "start": 594.327,
+    "duration": 1.706
+  },
+  {
+    "text": "and it's always disappointing,\nthe results -- always.",
+    "start": 596.057,
+    "duration": 2.694
+  },
+  {
+    "text": "So we are the ones that are biased,",
+    "start": 599.33,
+    "duration": 1.771
+  },
+  {
+    "text": "and we are injecting those biases\ninto the algorithms",
+    "start": 601.125,
+    "duration": 3.429
+  },
+  {
+    "text": "by choosing what data to collect,",
+    "start": 604.578,
+    "duration": 1.812
+  },
+  {
+    "text": "like I chose not to think\nabout ramen noodles --",
+    "start": 606.414,
+    "duration": 2.743
+  },
+  {
+    "text": "I decided it was irrelevant.",
+    "start": 609.181,
+    "duration": 1.625
+  },
+  {
+    "text": "But by trusting the data that's actually\npicking up on past practices",
+    "start": 610.83,
+    "duration": 5.684
+  },
+  {
+    "text": "and by choosing the definition of success,",
+    "start": 616.538,
+    "duration": 2.014
+  },
+  {
+    "text": "how can we expect the algorithms\nto emerge unscathed?",
+    "start": 618.576,
+    "duration": 3.983
+  },
+  {
+    "text": "We can't. We have to check them.",
+    "start": 622.583,
+    "duration": 2.356
+  },
+  {
+    "text": "We have to check them for fairness.",
+    "start": 625.985,
+    "duration": 1.709
+  },
+  {
+    "text": "The good news is,\nwe can check them for fairness.",
+    "start": 627.718,
+    "duration": 2.711
+  },
+  {
+    "text": "Algorithms can be interrogated,",
+    "start": 630.453,
+    "duration": 3.352
+  },
+  {
+    "text": "and they will tell us\nthe truth every time.",
+    "start": 633.829,
+    "duration": 2.034
+  },
+  {
+    "text": "And we can fix them.\nWe can make them better.",
+    "start": 635.887,
+    "duration": 2.493
+  },
+  {
+    "text": "I call this an algorithmic audit,",
+    "start": 638.404,
+    "duration": 2.375
+  },
+  {
+    "text": "and I'll walk you through it.",
+    "start": 640.803,
+    "duration": 1.679
+  },
+  {
+    "text": "First, data integrity check.",
+    "start": 642.506,
+    "duration": 2.196
+  },
+  {
+    "text": "For the recidivism risk\nalgorithm I talked about,",
+    "start": 645.952,
+    "duration": 2.657
+  },
+  {
+    "text": "a data integrity check would mean\nwe'd have to come to terms with the fact",
+    "start": 649.402,
+    "duration": 3.573
+  },
+  {
+    "text": "that in the US, whites and blacks\nsmoke pot at the same rate",
+    "start": 652.999,
+    "duration": 3.526
+  },
+  {
+    "text": "but blacks are far more likely\nto be arrested --",
+    "start": 656.549,
+    "duration": 2.485
+  },
+  {
+    "text": "four or five times more likely,\ndepending on the area.",
+    "start": 659.058,
+    "duration": 3.184
+  },
+  {
+    "text": "What is that bias looking like\nin other crime categories,",
+    "start": 663.137,
+    "duration": 2.826
+  },
+  {
+    "text": "and how do we account for it?",
+    "start": 665.987,
+    "duration": 1.451
+  },
+  {
+    "text": "Second, we should think about\nthe definition of success,",
+    "start": 667.982,
+    "duration": 3.039
+  },
+  {
+    "text": "audit that.",
+    "start": 671.045,
+    "duration": 1.381
+  },
+  {
+    "text": "Remember -- with the hiring\nalgorithm? We talked about it.",
+    "start": 672.45,
+    "duration": 2.752
+  },
+  {
+    "text": "Someone who stays for four years\nand is promoted once?",
+    "start": 675.226,
+    "duration": 3.165
+  },
+  {
+    "text": "Well, that is a successful employee,",
+    "start": 678.415,
+    "duration": 1.769
+  },
+  {
+    "text": "but it's also an employee\nthat is supported by their culture.",
+    "start": 680.208,
+    "duration": 3.079
+  },
+  {
+    "text": "That said, also it can be quite biased.",
+    "start": 683.909,
+    "duration": 1.926
+  },
+  {
+    "text": "We need to separate those two things.",
+    "start": 685.859,
+    "duration": 2.065
+  },
+  {
+    "text": "We should look to\nthe blind orchestra audition",
+    "start": 687.948,
+    "duration": 2.426
+  },
+  {
+    "text": "as an example.",
+    "start": 690.398,
+    "duration": 1.196
+  },
+  {
+    "text": "That's where the people auditioning\nare behind a sheet.",
+    "start": 691.618,
+    "duration": 2.756
+  },
+  {
+    "text": "What I want to think about there",
+    "start": 694.766,
+    "duration": 1.931
+  },
+  {
+    "text": "is the people who are listening\nhave decided what's important",
+    "start": 696.721,
+    "duration": 3.417
+  },
+  {
+    "text": "and they've decided what's not important,",
+    "start": 700.162,
+    "duration": 2.029
+  },
+  {
+    "text": "and they're not getting\ndistracted by that.",
+    "start": 702.215,
+    "duration": 2.059
+  },
+  {
+    "text": "When the blind orchestra\nauditions started,",
+    "start": 704.781,
+    "duration": 2.749
+  },
+  {
+    "text": "the number of women in orchestras\nwent up by a factor of five.",
+    "start": 707.554,
+    "duration": 3.444
+  },
+  {
+    "text": "Next, we have to consider accuracy.",
+    "start": 712.073,
+    "duration": 2.015
+  },
+  {
+    "text": "This is where the value-added model\nfor teachers would fail immediately.",
+    "start": 715.053,
+    "duration": 3.734
+  },
+  {
+    "text": "No algorithm is perfect, of course,",
+    "start": 719.398,
+    "duration": 2.162
+  },
+  {
+    "text": "so we have to consider\nthe errors of every algorithm.",
+    "start": 722.44,
+    "duration": 3.605
+  },
+  {
+    "text": "How often are there errors,\nand for whom does this model fail?",
+    "start": 726.656,
+    "duration": 4.359
+  },
+  {
+    "text": "What is the cost of that failure?",
+    "start": 731.67,
+    "duration": 1.718
+  },
+  {
+    "text": "And finally, we have to consider",
+    "start": 734.254,
+    "duration": 2.207
+  },
+  {
+    "text": "the long-term effects of algorithms,",
+    "start": 737.793,
+    "duration": 2.186
+  },
+  {
+    "text": "the feedback loops that are engendering.",
+    "start": 740.686,
+    "duration": 2.207
+  },
+  {
+    "text": "That sounds abstract,",
+    "start": 743.406,
+    "duration": 1.236
+  },
+  {
+    "text": "but imagine if Facebook engineers\nhad considered that",
+    "start": 744.666,
+    "duration": 2.664
+  },
+  {
+    "text": "before they decided to show us\nonly things that our friends had posted.",
+    "start": 748.09,
+    "duration": 4.855
+  },
+  {
+    "text": "I have two more messages,\none for the data scientists out there.",
+    "start": 753.581,
+    "duration": 3.234
+  },
+  {
+    "text": "Data scientists: we should\nnot be the arbiters of truth.",
+    "start": 757.27,
+    "duration": 3.409
+  },
+  {
+    "text": "We should be translators\nof ethical discussions that happen",
+    "start": 761.34,
+    "duration": 3.783
+  },
+  {
+    "text": "in larger society.",
+    "start": 765.147,
+    "duration": 1.294
+  },
+  {
+    "text": "(Applause)",
+    "start": 767.399,
+    "duration": 2.133
+  },
+  {
+    "text": "And the rest of you,",
+    "start": 769.556,
+    "duration": 1.556
+  },
+  {
+    "text": "the non-data scientists:",
+    "start": 771.831,
+    "duration": 1.396
+  },
+  {
+    "text": "this is not a math test.",
+    "start": 773.251,
+    "duration": 1.498
+  },
+  {
+    "text": "This is a political fight.",
+    "start": 775.452,
+    "duration": 1.348
+  },
+  {
+    "text": "We need to demand accountability\nfor our algorithmic overlords.",
+    "start": 778.407,
+    "duration": 3.907
+  },
+  {
+    "text": "(Applause)",
+    "start": 783.938,
+    "duration": 1.499
+  },
+  {
+    "text": "The era of blind faith\nin big data must end.",
+    "start": 785.461,
+    "duration": 4.225
+  },
+  {
+    "text": "Thank you very much.",
+    "start": 789.71,
+    "duration": 1.167
+  },
+  {
+    "text": "(Applause)",
+    "start": 790.901,
+    "duration": 5.303
+  }
+]

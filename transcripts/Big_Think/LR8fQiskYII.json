@@ -1,0 +1,277 @@
+[
+  {
+    "text": "Back when I was getting started, lo these\nmany decades ago, the answers would've been",
+    "start": 29.949,
+    "duration": 4.961
+  },
+  {
+    "text": "Fortran, Cobalt, Basic, Lisp, and maybe APL,\nand those were very formative languages back",
+    "start": 34.91,
+    "duration": 11.87
+  },
+  {
+    "text": "then and people learned a lot from those,\nbut these days, it might be more important",
+    "start": 46.78,
+    "duration": 4.98
+  },
+  {
+    "text": "for you to know JavaScript, even if the only\nreason you know that is that you know whether",
+    "start": 51.76,
+    "duration": 7.719
+  },
+  {
+    "text": "or not to click the \"enable JavaScript\" button\nin your browser.",
+    "start": 59.479,
+    "duration": 5.371
+  },
+  {
+    "text": "But JavaScript is a nice, lightweight, object-oriented\nlanguage and that's why it can fit in a browser",
+    "start": 64.85,
+    "duration": 9.5
+  },
+  {
+    "text": "and do these things such as run little programs\nthat help you input your data and then send",
+    "start": 74.35,
+    "duration": 7.479
+  },
+  {
+    "text": "it off to a web server somewhere.",
+    "start": 81.829,
+    "duration": 4.08
+  },
+  {
+    "text": "There are heavier-weight object-oriented languages\nand the elephant in the room is sort of Java,",
+    "start": 85.909,
+    "duration": 7.75
+  },
+  {
+    "text": "you can't really make a list of modern languages\nwithout talking about it.",
+    "start": 93.659,
+    "duration": 4.45
+  },
+  {
+    "text": "Java is sort of the Cobalt of the 21st century,\nI think.",
+    "start": 98.109,
+    "duration": 6.521
+  },
+  {
+    "text": "It's kind of heavyweight, verbose, and everyone\nloves to hate it, though not everyone will",
+    "start": 104.63,
+    "duration": 8.769
+  },
+  {
+    "text": "admit that.",
+    "start": 113.399,
+    "duration": 1.22
+  },
+  {
+    "text": "But managers kind of like it because it looks\nlike you're getting a lot done, you know,",
+    "start": 114.619,
+    "duration": 7.99
+  },
+  {
+    "text": "if 100 lines of Java code accomplish a task,\nthen it looks like you've written 100 lines,",
+    "start": 122.609,
+    "duration": 5.04
+  },
+  {
+    "text": "even though in a different language, it might\nonly take 5 lines.",
+    "start": 127.649,
+    "duration": 3.371
+  },
+  {
+    "text": "You know, it's like, you know, you can eat\na 1-pound steak or you can eat, you know,",
+    "start": 131.02,
+    "duration": 6.86
+  },
+  {
+    "text": "100 pounds of shoe leather and you feel a\ngreater sense of accomplishment after the",
+    "start": 137.88,
+    "duration": 3.13
+  },
+  {
+    "text": "shoe leather, but, you know, maybe they're\nsome downsides.",
+    "start": 141.01,
+    "duration": 7.16
+  },
+  {
+    "text": "Oh, what other languages?",
+    "start": 148.17,
+    "duration": 19.76
+  },
+  {
+    "text": "I think going in a different direction, coming\nmore from academia, we have a language like",
+    "start": 167.93,
+    "duration": 6.05
+  },
+  {
+    "text": "Haskell, which we call a functional programming\nlanguage.",
+    "start": 173.98,
+    "duration": 6.099
+  },
+  {
+    "text": "That means function in a mathematical sense,\nnot in the sense the other languages are dysfunctional.",
+    "start": 180.079,
+    "duration": 9.371
+  },
+  {
+    "text": "But a function mathematically has an input\nand an output and it maps to, you know, with",
+    "start": 189.45,
+    "duration": 9.11
+  },
+  {
+    "text": "a great deal of mathematical certainty what\nthose are.",
+    "start": 198.56,
+    "duration": 12.349
+  },
+  {
+    "text": "Haskell is one of those languages that mathematician-type-minded\npeople love; it's sort of a language for geniuses,",
+    "start": 210.909,
+    "duration": 8.031
+  },
+  {
+    "text": "by geniuses.",
+    "start": 218.94,
+    "duration": 2.2
+  },
+  {
+    "text": "So you should probably know about it, if only\nto be able to say, \"Well, is this kind of",
+    "start": 221.14,
+    "duration": 5.23
+  },
+  {
+    "text": "like Haskell?\"",
+    "start": 226.37,
+    "duration": 1.099
+  },
+  {
+    "text": "And if so, then you know you have to hire\nsome really smart people to program in it.",
+    "start": 227.469,
+    "duration": 6.711
+  },
+  {
+    "text": "Haskell is sort of a modern kind of Lisp in\nthat sense.",
+    "start": 234.18,
+    "duration": 5.88
+  },
+  {
+    "text": "What else?",
+    "start": 240.06,
+    "duration": 2.0
+  },
+  {
+    "text": "Well, we can't leave off modern languages\nwithout talking about C. The C language, that’s",
+    "start": 242.06,
+    "duration": 8.17
+  },
+  {
+    "text": "just spelled with the letter C, is actually\nabout 40 years old, but people have tried",
+    "start": 250.23,
+    "duration": 6.84
+  },
+  {
+    "text": "to replace C with other languages that are\nlike it and have by and large not succeeded",
+    "start": 257.07,
+    "duration": 5.3
+  },
+  {
+    "text": "because C is a very minimalistic language\nand very close to the metal, as we say, on",
+    "start": 262.37,
+    "duration": 6.35
+  },
+  {
+    "text": "a machine, and lets you get down and do very\nfine grain stuff, very efficiently, but it's",
+    "start": 268.72,
+    "duration": 7.14
+  },
+  {
+    "text": "a lot of hard work.",
+    "start": 275.86,
+    "duration": 1.58
+  },
+  {
+    "text": "But once you've done that work, you can run\nit pretty much everywhere.",
+    "start": 277.44,
+    "duration": 4.37
+  },
+  {
+    "text": "So almost all the other languages that you\nsee, Java, Perl, whatever, actually if you",
+    "start": 281.81,
+    "duration": 6.54
+  },
+  {
+    "text": "look down underneath, they're actually implemented\nin C, or in a closely related language.",
+    "start": 288.35,
+    "duration": 5.71
+  },
+  {
+    "text": "So that continues to be a very fundamental\nlanguage, if only because everyone is trying",
+    "start": 294.06,
+    "duration": 6.08
+  },
+  {
+    "text": "to reinvent it and not succeeding in doing\nso.",
+    "start": 300.14,
+    "duration": 4.67
+  },
+  {
+    "text": "And finally, for a fifth language, well, you'd\nprobably want to pick one of the scripting",
+    "start": 304.81,
+    "duration": 4.46
+  },
+  {
+    "text": "languages.",
+    "start": 309.27,
+    "duration": 2.39
+  },
+  {
+    "text": "There's several to choose from, there's Python,\nthere's Ruby, but of course, I am prejudiced",
+    "start": 311.66,
+    "duration": 5.23
+  },
+  {
+    "text": "in favor of Perl, because I think it has the\nliveliest community and because we have intentionally",
+    "start": 316.89,
+    "duration": 10.36
+  },
+  {
+    "text": "been redesigning it lately to leapfrog all\nthe other languages.",
+    "start": 327.25,
+    "duration": 6.02
+  },
+  {
+    "text": "For the last number of years, we've been redesigning\nit to out all the warts that we've noticed",
+    "start": 333.27,
+    "duration": 7.33
+  },
+  {
+    "text": "over time.",
+    "start": 340.6,
+    "duration": 1.0
+  },
+  {
+    "text": "And we figured it was just our one chance\nto break backward compatibility, break the",
+    "start": 341.6,
+    "duration": 6.86
+  },
+  {
+    "text": "things that need breaking, keep all the things\nthat make Perl, Perl, keep it a joy to use,",
+    "start": 348.46,
+    "duration": 7.58
+  },
+  {
+    "text": "and with this redesign, make it a language\nthat will be able to be useful and enjoyable",
+    "start": 356.04,
+    "duration": 6.82
+  },
+  {
+    "text": "for decades.",
+    "start": 362.86,
+    "duration": 2.31
+  },
+  {
+    "text": "And so I'd recommend Perl, but I'm known to\nbe prejudiced in the matter.",
+    "start": 365.17,
+    "duration": 4.38
+  }
+]

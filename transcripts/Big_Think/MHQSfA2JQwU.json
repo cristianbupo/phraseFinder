@@ -1,0 +1,512 @@
+[
+  {
+    "text": "my interests in in cloud computing",
+    "start": 0.12,
+    "duration": 7.199
+  },
+  {
+    "text": "relate to kind of this uh um data analys",
+    "start": 2.399,
+    "duration": 7.001
+  },
+  {
+    "text": "data analysis data Discovery problem of",
+    "start": 7.319,
+    "duration": 3.841
+  },
+  {
+    "text": "being able to scan through very large",
+    "start": 9.4,
+    "duration": 4.6
+  },
+  {
+    "text": "volumes of DNA sequences a lot of the",
+    "start": 11.16,
+    "duration": 4.16
+  },
+  {
+    "text": "technologies that were developed for",
+    "start": 14.0,
+    "duration": 3.24
+  },
+  {
+    "text": "cloud computing were actually entirely",
+    "start": 15.32,
+    "duration": 3.64
+  },
+  {
+    "text": "invented in other disciplines so in",
+    "start": 17.24,
+    "duration": 3.879
+  },
+  {
+    "text": "particular large scale internet",
+    "start": 18.96,
+    "duration": 4.36
+  },
+  {
+    "text": "companies like Google and Facebook and",
+    "start": 21.119,
+    "duration": 4.4
+  },
+  {
+    "text": "Twitter have have developed these",
+    "start": 23.32,
+    "duration": 4.4
+  },
+  {
+    "text": "Technologies out of necessity so one of",
+    "start": 25.519,
+    "duration": 4.24
+  },
+  {
+    "text": "the key technologies that I that I that",
+    "start": 27.72,
+    "duration": 4.32
+  },
+  {
+    "text": "I that I utilized that I look to is a",
+    "start": 29.759,
+    "duration": 3.921
+  },
+  {
+    "text": "technology called map reduce that was",
+    "start": 32.04,
+    "duration": 4.24
+  },
+  {
+    "text": "invented at Google and for a long time",
+    "start": 33.68,
+    "duration": 4.719
+  },
+  {
+    "text": "this was their secret sauce if you will",
+    "start": 36.28,
+    "duration": 4.119
+  },
+  {
+    "text": "for being able to do these very large",
+    "start": 38.399,
+    "duration": 4.961
+  },
+  {
+    "text": "studies of uh of many trillions of web",
+    "start": 40.399,
+    "duration": 5.121
+  },
+  {
+    "text": "pages scanning through trillions of web",
+    "start": 43.36,
+    "duration": 4.28
+  },
+  {
+    "text": "pages is not so different than scanning",
+    "start": 45.52,
+    "duration": 4.039
+  },
+  {
+    "text": "through trillions of DNA sequences a lot",
+    "start": 47.64,
+    "duration": 4.04
+  },
+  {
+    "text": "of the a lot of the approaches that you",
+    "start": 49.559,
+    "duration": 3.881
+  },
+  {
+    "text": "would use for that those studies are are",
+    "start": 51.68,
+    "duration": 3.8
+  },
+  {
+    "text": "exactly the same so i' I've borrowed",
+    "start": 53.44,
+    "duration": 4.48
+  },
+  {
+    "text": "heavily from uh kind of that sort of",
+    "start": 55.48,
+    "duration": 4.16
+  },
+  {
+    "text": "community the text mining database",
+    "start": 57.92,
+    "duration": 2.959
+  },
+  {
+    "text": "community",
+    "start": 59.64,
+    "duration": 2.759
+  },
+  {
+    "text": "and then any sort of discipline where",
+    "start": 60.879,
+    "duration": 3.521
+  },
+  {
+    "text": "there's there tends to be large volumes",
+    "start": 62.399,
+    "duration": 5.201
+  },
+  {
+    "text": "of data these Technologies are are",
+    "start": 64.4,
+    "duration": 6.039
+  },
+  {
+    "text": "rapidly uh gaining traction just because",
+    "start": 67.6,
+    "duration": 4.879
+  },
+  {
+    "text": "they are so powerful the first main",
+    "start": 70.439,
+    "duration": 4.441
+  },
+  {
+    "text": "technical challenge is is if we have",
+    "start": 72.479,
+    "duration": 3.881
+  },
+  {
+    "text": "many thousands of genomes we want to",
+    "start": 74.88,
+    "duration": 3.16
+  },
+  {
+    "text": "study how can we load all that",
+    "start": 76.36,
+    "duration": 4.28
+  },
+  {
+    "text": "information into the cloud right the the",
+    "start": 78.04,
+    "duration": 4.64
+  },
+  {
+    "text": "the the way you would want to do that is",
+    "start": 80.64,
+    "duration": 3.439
+  },
+  {
+    "text": "you know through your web browser",
+    "start": 82.68,
+    "duration": 3.92
+  },
+  {
+    "text": "through your computer but the the the",
+    "start": 84.079,
+    "duration": 5.281
+  },
+  {
+    "text": "internet capacity is only is only so big",
+    "start": 86.6,
+    "duration": 4.6
+  },
+  {
+    "text": "and if you have to ship you know this",
+    "start": 89.36,
+    "duration": 4.88
+  },
+  {
+    "text": "conceptual pile of two of two miles of",
+    "start": 91.2,
+    "duration": 5.199
+  },
+  {
+    "text": "DVDs shipping that around on the",
+    "start": 94.24,
+    "duration": 5.48
+  },
+  {
+    "text": "internet takes takes uh takes too long",
+    "start": 96.399,
+    "duration": 6.321
+  },
+  {
+    "text": "there are some uh ways to overcome this",
+    "start": 99.72,
+    "duration": 4.679
+  },
+  {
+    "text": "it's a a little bit funny to think about",
+    "start": 102.72,
+    "duration": 3.28
+  },
+  {
+    "text": "it but but in some ways the most",
+    "start": 104.399,
+    "duration": 3.481
+  },
+  {
+    "text": "practical way to ship very large data",
+    "start": 106.0,
+    "duration": 5.079
+  },
+  {
+    "text": "sets is to use FedEx or UPS or some sort",
+    "start": 107.88,
+    "duration": 5.08
+  },
+  {
+    "text": "of physical shipment of hard drives",
+    "start": 111.079,
+    "duration": 3.68
+  },
+  {
+    "text": "through the mail it's not a you know",
+    "start": 112.96,
+    "duration": 3.32
+  },
+  {
+    "text": "it's not the sexy application that you",
+    "start": 114.759,
+    "duration": 3.72
+  },
+  {
+    "text": "would want for an internet company but",
+    "start": 116.28,
+    "duration": 5.119
+  },
+  {
+    "text": "that's a that's a practical way to do it",
+    "start": 118.479,
+    "duration": 5.401
+  },
+  {
+    "text": "so that's the main technical barrier and",
+    "start": 121.399,
+    "duration": 5.08
+  },
+  {
+    "text": "then uh storing data in the cloud opens",
+    "start": 123.88,
+    "duration": 5.84
+  },
+  {
+    "text": "up a lot of uh other challenges in",
+    "start": 126.479,
+    "duration": 4.881
+  },
+  {
+    "text": "particular there's a lot of privacy",
+    "start": 129.72,
+    "duration": 3.84
+  },
+  {
+    "text": "concerns about making sure that that",
+    "start": 131.36,
+    "duration": 5.8
+  },
+  {
+    "text": "data is is really well guarded uh your",
+    "start": 133.56,
+    "duration": 6.039
+  },
+  {
+    "text": "your genome is your has a lot of",
+    "start": 137.16,
+    "duration": 5.24
+  },
+  {
+    "text": "information about uh who you are what",
+    "start": 139.599,
+    "duration": 5.64
+  },
+  {
+    "text": "sort of diseases you're suceptible to",
+    "start": 142.4,
+    "duration": 4.559
+  },
+  {
+    "text": "could say a lot about your family about",
+    "start": 145.239,
+    "duration": 3.681
+  },
+  {
+    "text": "your children about your ancestors you",
+    "start": 146.959,
+    "duration": 3.801
+  },
+  {
+    "text": "know it's it's precious information that",
+    "start": 148.92,
+    "duration": 4.44
+  },
+  {
+    "text": "we that we definitely don't want to um",
+    "start": 150.76,
+    "duration": 4.92
+  },
+  {
+    "text": "expose without without giving it some",
+    "start": 153.36,
+    "duration": 4.72
+  },
+  {
+    "text": "consideration so the concern is is if if",
+    "start": 155.68,
+    "duration": 4.44
+  },
+  {
+    "text": "all of this genetic information is in is",
+    "start": 158.08,
+    "duration": 4.32
+  },
+  {
+    "text": "in the cloud and you're not careful",
+    "start": 160.12,
+    "duration": 4.72
+  },
+  {
+    "text": "about how that data is protected it",
+    "start": 162.4,
+    "duration": 4.72
+  },
+  {
+    "text": "could leak out it could uh you know you",
+    "start": 164.84,
+    "duration": 4.039
+  },
+  {
+    "text": "know could accidentally be exposed to",
+    "start": 167.12,
+    "duration": 4.16
+  },
+  {
+    "text": "other people and then also if big",
+    "start": 168.879,
+    "duration": 4.401
+  },
+  {
+    "text": "archives are made that has collected",
+    "start": 171.28,
+    "duration": 3.92
+  },
+  {
+    "text": "many thousands of people this could",
+    "start": 173.28,
+    "duration": 4.64
+  },
+  {
+    "text": "suddenly become an attractive Target So",
+    "start": 175.2,
+    "duration": 4.64
+  },
+  {
+    "text": "today we're a little bit guarded in the",
+    "start": 177.92,
+    "duration": 3.48
+  },
+  {
+    "text": "sense that this genetic information is",
+    "start": 179.84,
+    "duration": 4.28
+  },
+  {
+    "text": "decentralized in many different Labs so",
+    "start": 181.4,
+    "duration": 4.6
+  },
+  {
+    "text": "that if there's a breach at one lab it's",
+    "start": 184.12,
+    "duration": 3.96
+  },
+  {
+    "text": "it's relatively localized if everything",
+    "start": 186.0,
+    "duration": 4.159
+  },
+  {
+    "text": "gets aggregated together becomes a",
+    "start": 188.08,
+    "duration": 3.84
+  },
+  {
+    "text": "little bit more risky because it becomes",
+    "start": 190.159,
+    "duration": 3.881
+  },
+  {
+    "text": "a little bit more attractive as a Target",
+    "start": 191.92,
+    "duration": 4.599
+  },
+  {
+    "text": "I think these challenges can be overcome",
+    "start": 194.04,
+    "duration": 4.559
+  },
+  {
+    "text": "uh the the encryption Technologies the",
+    "start": 196.519,
+    "duration": 5.121
+  },
+  {
+    "text": "authentication Technologies they exist",
+    "start": 198.599,
+    "duration": 5.401
+  },
+  {
+    "text": "they they certainly exist and there are",
+    "start": 201.64,
+    "duration": 4.72
+  },
+  {
+    "text": "companies that that run with the highest",
+    "start": 204.0,
+    "duration": 4.68
+  },
+  {
+    "text": "level of security at at Amazon Cloud and",
+    "start": 206.36,
+    "duration": 4.439
+  },
+  {
+    "text": "other Cloud resources is it is certainly",
+    "start": 208.68,
+    "duration": 4.32
+  },
+  {
+    "text": "possible to do so but we we just got to",
+    "start": 210.799,
+    "duration": 3.8
+  },
+  {
+    "text": "be so certain that we get it right on",
+    "start": 213.0,
+    "duration": 3.4
+  },
+  {
+    "text": "the first try right we don't want to",
+    "start": 214.599,
+    "duration": 3.521
+  },
+  {
+    "text": "create this big database that has all",
+    "start": 216.4,
+    "duration": 4.039
+  },
+  {
+    "text": "this genetic information and then",
+    "start": 218.12,
+    "duration": 5.64
+  },
+  {
+    "text": "accidentally uh uh leave it vulnerable",
+    "start": 220.439,
+    "duration": 4.481
+  },
+  {
+    "text": "so we just have to be really careful",
+    "start": 223.76,
+    "duration": 4.64
+  },
+  {
+    "text": "about how that's engineer",
+    "start": 224.92,
+    "duration": 3.48
+  }
+]

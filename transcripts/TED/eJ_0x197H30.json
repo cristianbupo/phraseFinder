@@ -1,0 +1,527 @@
+[
+  {
+    "text": "[SHAPE YOUR FUTURE]",
+    "start": 14.204,
+    "duration": 2.0
+  },
+  {
+    "text": "(Slam)\nOw!",
+    "start": 16.996,
+    "duration": 1.25
+  },
+  {
+    "text": "As anyone who’s stubbed a toe in the dark",
+    "start": 19.579,
+    "duration": 2.334
+  },
+  {
+    "text": "or spent an hour\nsearching for their keys knows",
+    "start": 21.954,
+    "duration": 2.584
+  },
+  {
+    "text": "we're often limited\nby what we can or cannot see.",
+    "start": 24.579,
+    "duration": 3.834
+  },
+  {
+    "text": "In fact, even our own bodies\ncan be black boxes.",
+    "start": 28.454,
+    "duration": 3.709
+  },
+  {
+    "text": "Today, I want to take you\nthrough a vision of health care",
+    "start": 32.204,
+    "duration": 2.709
+  },
+  {
+    "text": "that scientists and engineers,\nmyself included, are building.",
+    "start": 34.954,
+    "duration": 3.084
+  },
+  {
+    "text": "We are creating a diagnostic lab\ninside your body",
+    "start": 38.079,
+    "duration": 3.167
+  },
+  {
+    "text": "that can provide a continuous\nanalysis of your health",
+    "start": 41.288,
+    "duration": 2.666
+  },
+  {
+    "text": "so that we can better see\nwhat's happening in patients.",
+    "start": 43.996,
+    "duration": 2.583
+  },
+  {
+    "text": "Currently, if someone is sick,",
+    "start": 46.579,
+    "duration": 1.708
+  },
+  {
+    "text": "we may diagnose them by using a biopsy",
+    "start": 48.329,
+    "duration": 2.375
+  },
+  {
+    "text": "to bring disease tissue\noutside the body where we can see it.",
+    "start": 50.746,
+    "duration": 3.875
+  },
+  {
+    "text": "We do this if we suspect, for instance,\nthat a growth might be cancerous.",
+    "start": 54.662,
+    "duration": 3.5
+  },
+  {
+    "text": "Unfortunately, this approach\ncan't work all the time",
+    "start": 58.204,
+    "duration": 2.917
+  },
+  {
+    "text": "because of two major problems.",
+    "start": 61.162,
+    "duration": 1.875
+  },
+  {
+    "text": "First, some tissues,\nlike brains or spinal cords,",
+    "start": 63.079,
+    "duration": 3.208
+  },
+  {
+    "text": "can't be routinely biopsied.",
+    "start": 66.329,
+    "duration": 1.875
+  },
+  {
+    "text": "And second, doctors often don't know\nwhich tissue is causing the problem,",
+    "start": 68.246,
+    "duration": 3.5
+  },
+  {
+    "text": "so they don't know what to biopsy.",
+    "start": 71.787,
+    "duration": 1.792
+  },
+  {
+    "text": "So far, we've dealt with these issues\nusing external medical tests,",
+    "start": 73.621,
+    "duration": 4.0
+  },
+  {
+    "text": "like MRIs or blood tests.",
+    "start": 77.663,
+    "duration": 2.041
+  },
+  {
+    "text": "These provide a broad overview\nof the health of a patient,",
+    "start": 79.746,
+    "duration": 3.167
+  },
+  {
+    "text": "but they can't see\nthe molecular and cellular changes",
+    "start": 82.954,
+    "duration": 3.25
+  },
+  {
+    "text": "that occur within tissues,",
+    "start": 86.246,
+    "duration": 1.458
+  },
+  {
+    "text": "and they certainly\ncan't provide enough information",
+    "start": 87.746,
+    "duration": 2.458
+  },
+  {
+    "text": "to proactively treat patients\nbefore symptoms develop.",
+    "start": 90.246,
+    "duration": 3.25
+  },
+  {
+    "text": "This is unfortunate",
+    "start": 93.538,
+    "duration": 1.25
+  },
+  {
+    "text": "because it's these invisible changes\nthat ultimately cause disease.",
+    "start": 94.829,
+    "duration": 3.459
+  },
+  {
+    "text": "Our inability to measure these changes",
+    "start": 98.329,
+    "duration": 2.084
+  },
+  {
+    "text": "results in a disparity\nbetween what we can see on a test",
+    "start": 100.454,
+    "duration": 3.0
+  },
+  {
+    "text": "and what we know is happening in patients.",
+    "start": 103.496,
+    "duration": 2.25
+  },
+  {
+    "text": "Let's take multiple sclerosis\nas an example.",
+    "start": 105.788,
+    "duration": 3.041
+  },
+  {
+    "text": "In MS, which is an autoimmune disease,",
+    "start": 108.871,
+    "duration": 2.75
+  },
+  {
+    "text": "the immune system\nattacks two specific tissues:",
+    "start": 111.663,
+    "duration": 2.625
+  },
+  {
+    "text": "the brain and the spinal cord,",
+    "start": 114.329,
+    "duration": 1.917
+  },
+  {
+    "text": "resulting in damage\nand in some cases, paralysis.",
+    "start": 116.288,
+    "duration": 3.416
+  },
+  {
+    "text": "Now, we obviously can't catch MS\nby routinely biopsying people's brains,",
+    "start": 119.746,
+    "duration": 4.333
+  },
+  {
+    "text": "where there would be abundant\nand active disease-inducing cells.",
+    "start": 124.121,
+    "duration": 3.583
+  },
+  {
+    "text": "And we can't catch it using a blood test",
+    "start": 127.746,
+    "duration": 2.0
+  },
+  {
+    "text": "because the MS-inducing cells\nare so rare and inactive in the blood",
+    "start": 129.788,
+    "duration": 3.833
+  },
+  {
+    "text": "that we simply can't see them.",
+    "start": 133.663,
+    "duration": 1.583
+  },
+  {
+    "text": "Even brain imaging technologies like MRI\ncan't provide the information we need",
+    "start": 135.288,
+    "duration": 4.083
+  },
+  {
+    "text": "to be proactive about MS.",
+    "start": 139.413,
+    "duration": 1.833
+  },
+  {
+    "text": "So we need to rethink how we see.",
+    "start": 141.288,
+    "duration": 2.875
+  },
+  {
+    "text": "My coworkers at the University of Michigan\nand I decided to do just that.",
+    "start": 144.204,
+    "duration": 3.792
+  },
+  {
+    "text": "Instead of taking an outside-in\napproach to diagnostics,",
+    "start": 148.038,
+    "duration": 3.166
+  },
+  {
+    "text": "we're taking an inside-out approach.",
+    "start": 151.246,
+    "duration": 2.0
+  },
+  {
+    "text": "We are creating implantable sites",
+    "start": 153.288,
+    "duration": 2.041
+  },
+  {
+    "text": "that have similarities\nto other sites in the body,",
+    "start": 155.371,
+    "duration": 2.375
+  },
+  {
+    "text": "and will improve our vision\nby giving us real-time access",
+    "start": 157.788,
+    "duration": 3.875
+  },
+  {
+    "text": "to molecular and cellular information\nabout diseased tissues.",
+    "start": 161.704,
+    "duration": 4.042
+  },
+  {
+    "text": "These insights will enable us\nto predict the onset of disease",
+    "start": 165.788,
+    "duration": 3.166
+  },
+  {
+    "text": "and even identify therapies\nlikely to work in an individual patient.",
+    "start": 168.996,
+    "duration": 4.125
+  },
+  {
+    "text": "So what does this\ninside-out approach look like?",
+    "start": 173.163,
+    "duration": 3.25
+  },
+  {
+    "text": "Step one is to engineer new tissues\njust under the skin.",
+    "start": 176.454,
+    "duration": 4.167
+  },
+  {
+    "text": "These tissues have similarities\nto other inaccessible sites in the body,",
+    "start": 180.663,
+    "duration": 4.541
+  },
+  {
+    "text": "like the brain or the lungs.",
+    "start": 185.246,
+    "duration": 1.958
+  },
+  {
+    "text": "By implanting a porous plastic disk\nmade of FDA-approved biomaterials,",
+    "start": 187.246,
+    "duration": 5.083
+  },
+  {
+    "text": "I can harness the body's natural responses\nto allow cells to migrate into the disk,",
+    "start": 192.371,
+    "duration": 5.5
+  },
+  {
+    "text": "survive at the site and form a tissue.",
+    "start": 197.913,
+    "duration": 2.375
+  },
+  {
+    "text": "Eventually, we're left\nwith an engineered tissue",
+    "start": 200.329,
+    "duration": 2.75
+  },
+  {
+    "text": "with integrated immune cells,",
+    "start": 203.121,
+    "duration": 1.667
+  },
+  {
+    "text": "just the cells we need for diagnosis.",
+    "start": 204.829,
+    "duration": 2.25
+  },
+  {
+    "text": "Although these tissues are complex\nand chronically inflamed,",
+    "start": 207.121,
+    "duration": 3.25
+  },
+  {
+    "text": "they're also innocuous",
+    "start": 210.413,
+    "duration": 1.375
+  },
+  {
+    "text": "and after a few weeks,\nnearly imperceptible.",
+    "start": 211.829,
+    "duration": 2.667
+  },
+  {
+    "text": "Our engineered tissues contain information\nnot present in the blood,",
+    "start": 214.538,
+    "duration": 4.0
+  },
+  {
+    "text": "and they can help bridge the gap",
+    "start": 218.579,
+    "duration": 1.584
+  },
+  {
+    "text": "between what we can see\non a traditional test",
+    "start": 220.204,
+    "duration": 2.125
+  },
+  {
+    "text": "and cellular changes\nwe know occur in disease.",
+    "start": 222.371,
+    "duration": 3.667
+  },
+  {
+    "text": "Step two is to read this signal.",
+    "start": 226.079,
+    "duration": 2.375
+  },
+  {
+    "text": "Currently, I could take a biopsy\nof my engineered site and analyze it",
+    "start": 228.496,
+    "duration": 4.083
+  },
+  {
+    "text": "because I made them accessible\njust under the skin.",
+    "start": 232.621,
+    "duration": 3.292
+  },
+  {
+    "text": "But it would certainly be better",
+    "start": 235.954,
+    "duration": 1.75
+  },
+  {
+    "text": "if we could incorporate\nand read a sensor noninvasively.",
+    "start": 237.746,
+    "duration": 3.292
+  },
+  {
+    "text": "Within the next decade,",
+    "start": 241.079,
+    "duration": 1.417
+  },
+  {
+    "text": "rapidly converging technologies\ncould enable diagnosis at such an implant",
+    "start": 242.538,
+    "duration": 4.458
+  },
+  {
+    "text": "by harnessing simple detectors,",
+    "start": 247.038,
+    "duration": 1.916
+  },
+  {
+    "text": "like a blood pressure cuff\nor smartwatch does now.",
+    "start": 248.996,
+    "duration": 2.833
+  },
+  {
+    "text": "The mechanisms for diagnosing\nand monitoring disease",
+    "start": 251.871,
+    "duration": 3.417
+  },
+  {
+    "text": "could be as simple as opening an app,\nlike Candy Crush on your phone.",
+    "start": 255.329,
+    "duration": 3.875
+  },
+  {
+    "text": "Step three is to harness\nthe huge array of knowledge",
+    "start": 259.246,
+    "duration": 2.958
+  },
+  {
+    "text": "in fields like engineering\nand material science",
+    "start": 262.246,
+    "duration": 2.417
+  },
+  {
+    "text": "to improve these implants\nand our ability to read their data.",
+    "start": 264.704,
+    "duration": 3.084
+  },
+  {
+    "text": "Eventually, tens, if not hundreds\nof individual engineered tissues",
+    "start": 267.829,
+    "duration": 4.042
+  },
+  {
+    "text": "with integrated sensors",
+    "start": 271.913,
+    "duration": 1.458
+  },
+  {
+    "text": "may be implantable\nwith a single application.",
+    "start": 273.413,
+    "duration": 2.625
+  },
+  {
+    "text": "Now, this approach to diagnosis\nis unconventional, to be sure,",
+    "start": 276.079,
+    "duration": 4.292
+  },
+  {
+    "text": "but it is robust.",
+    "start": 280.413,
+    "duration": 1.5
+  },
+  {
+    "text": "So far, my colleagues and I have used it",
+    "start": 281.954,
+    "duration": 2.292
+  },
+  {
+    "text": "to diagnose models of metastatic cancer,",
+    "start": 284.288,
+    "duration": 2.458
+  },
+  {
+    "text": "type 1 diabetes, multiple sclerosis\nand organ transplant rejection.",
+    "start": 286.788,
+    "duration": 4.75
+  },
+  {
+    "text": "But this is just the beginning\nof what we can see.",
+    "start": 291.579,
+    "duration": 2.5
+  },
+  {
+    "text": "With continuous improvements,",
+    "start": 294.121,
+    "duration": 1.708
+  },
+  {
+    "text": "we will be able to truly create",
+    "start": 295.871,
+    "duration": 1.875
+  },
+  {
+    "text": "a diagnostic lab inside your body",
+    "start": 297.788,
+    "duration": 2.5
+  },
+  {
+    "text": "that provides a continuous\nanalysis of your health.",
+    "start": 300.329,
+    "duration": 2.5
+  },
+  {
+    "text": "By changing how we see\nwhat's going wrong in patients,",
+    "start": 302.871,
+    "duration": 2.792
+  },
+  {
+    "text": "we will be able to diagnose\nand treat diseases better",
+    "start": 305.704,
+    "duration": 3.125
+  },
+  {
+    "text": "and faster than ever before.",
+    "start": 308.871,
+    "duration": 2.167
+  },
+  {
+    "text": "If you're willing to rethink how you see,",
+    "start": 311.079,
+    "duration": 2.959
+  },
+  {
+    "text": "you may be surprised what comes into view.",
+    "start": 314.079,
+    "duration": 2.834
+  },
+  {
+    "text": "Thank you.",
+    "start": 316.954,
+    "duration": 1.25
+  }
+]

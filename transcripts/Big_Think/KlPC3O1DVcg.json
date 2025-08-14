@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Question: What is the \ndifference between C and C++? ",
+    "start": 1.61,
+    "duration": 1.179
+  },
+  {
+    "text": "Bjarne Stroustrup: C has the basic mechanisms \nfor expressing computations. It has iterations,  ",
+    "start": 2.789,
+    "duration": 5.661
+  },
+  {
+    "text": "it has data types, it has functions \nand that’s it. It doesn’t get into  ",
+    "start": 8.45,
+    "duration": 4.65
+  },
+  {
+    "text": "the game of expressing abstractions. So if \nI want a matrix in C, I would have to say,  ",
+    "start": 13.1,
+    "duration": 7.8
+  },
+  {
+    "text": "I want an array and then I want a whole bunch \nof arrays and when I want to get the third  ",
+    "start": 20.9,
+    "duration": 4.95
+  },
+  {
+    "text": "element I have to program my way down to the third \nelement of the fourth row or something like that.",
+    "start": 25.85,
+    "duration": 4.95
+  },
+  {
+    "text": "In C++ you can define something, call it a \nmatrix, you define a subscript operator. If  ",
+    "start": 30.8,
+    "duration": 8.07
+  },
+  {
+    "text": "you don’t want rectangular matrixes \nyou can get pentadiagonal matrices,  ",
+    "start": 38.87,
+    "duration": 4.38
+  },
+  {
+    "text": "triangular matrices that’s the kind of stuff that \npeople... the expert in that field are interested  ",
+    "start": 43.25,
+    "duration": 6.63
+  },
+  {
+    "text": "in. And you build that set of concepts and then \nyou program it directly. It’s easier to program,  ",
+    "start": 49.88,
+    "duration": 6.87
+  },
+  {
+    "text": "it’s easier to debug and sometimes it’s even \neasier to optimize for performance when you  ",
+    "start": 56.75,
+    "duration": 5.76
+  },
+  {
+    "text": "are expressing the notions at the higher level, at \nthe level where an expert in the field operates,  ",
+    "start": 62.51,
+    "duration": 7.38
+  },
+  {
+    "text": "rather than trying to have the expert in the \nfield, say the physicist, also be an expert in  ",
+    "start": 69.89,
+    "duration": 5.46
+  },
+  {
+    "text": "dealing with the hardware, with the computer. \nThere are fields still where you have to have a  ",
+    "start": 75.35,
+    "duration": 6.3
+  },
+  {
+    "text": "physicist and a computer scientist to get the work \ndone, but we would like to minimize those because  ",
+    "start": 81.65,
+    "duration": 5.67
+  },
+  {
+    "text": "the skill sets are not the same. So you want to \nlift from the hardware towards the human level.",
+    "start": 87.32,
+    "duration": 7.47
+  },
+  {
+    "text": "Question: Is C obsolete?",
+    "start": 98.1,
+    "duration": 1.361
+  },
+  {
+    "text": "Bjarne Stroustrup: This is somewhat \ncontroversial. I think it is obsolete.  ",
+    "start": 99.461,
+    "duration": 3.399
+  },
+  {
+    "text": "I think the languages should have been merged \ninto one, so that C would have been a subset  ",
+    "start": 102.86,
+    "duration": 5.7
+  },
+  {
+    "text": "of C++ instead of nearly a subset of C++. \nAnd then people could have used whatever  ",
+    "start": 108.56,
+    "duration": 5.55
+  },
+  {
+    "text": "parts of the C++ tool set they needed. As it is \nnow, there are still enough incompatibilities  ",
+    "start": 114.11,
+    "duration": 6.36
+  },
+  {
+    "text": "that you have to remember which language \nyou’re writing in, and I don’t think that  ",
+    "start": 120.47,
+    "duration": 5.97
+  },
+  {
+    "text": "is necessary. It appears to be a historical \nnecessity, but it is not a technical necessity.",
+    "start": 126.44,
+    "duration": 5.85
+  },
+  {
+    "text": "I’ve argued for compatibility, \nvery strong compatibility,  ",
+    "start": 132.29,
+    "duration": 4.17
+  },
+  {
+    "text": "all the time. I mean, I started \nworking on C++ three doors down  ",
+    "start": 136.46,
+    "duration": 6.54
+  },
+  {
+    "text": "from Dennis Ritchie and we were talking \nevery day. The competition and tension  ",
+    "start": 143.0,
+    "duration": 6.09
+  },
+  {
+    "text": "that has been between C and C++ over the \ndecades certainly didn’t come from home.",
+    "start": 149.09,
+    "duration": 4.8
+  },
+  {
+    "text": "Dennis Ritchie wrote that first book that Brian \nCarnahan, now I’ll have dinner with Brian next  ",
+    "start": 156.05,
+    "duration": 6.84
+  },
+  {
+    "text": "week. We’re still very good friends as we’ve \nalways been, but sometimes the programmers  ",
+    "start": 162.89,
+    "duration": 5.73
+  },
+  {
+    "text": "of the languages don’t quite see it that \nway. It should have been one language.",
+    "start": 168.62,
+    "duration": 5.34
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "text": "well I can I can certainly",
+    "start": 4.68,
+    "duration": 3.52
+  },
+  {
+    "text": "try",
+    "start": 6.6,
+    "duration": 5.52
+  },
+  {
+    "text": "um computer programming is really uh a",
+    "start": 8.2,
+    "duration": 7.48
+  },
+  {
+    "text": "lot like uh writing a recipe",
+    "start": 12.12,
+    "duration": 6.079
+  },
+  {
+    "text": "um if you've read a recipe you know what",
+    "start": 15.68,
+    "duration": 4.64
+  },
+  {
+    "text": "what the structure of a recipe is it",
+    "start": 18.199,
+    "duration": 4.361
+  },
+  {
+    "text": "it's got some things up at the top uh",
+    "start": 20.32,
+    "duration": 4.52
+  },
+  {
+    "text": "that are the your ingredients and below",
+    "start": 22.56,
+    "duration": 4.36
+  },
+  {
+    "text": "that uh the directions for how to deal",
+    "start": 24.84,
+    "duration": 4.04
+  },
+  {
+    "text": "with those ingredients well a very",
+    "start": 26.92,
+    "duration": 3.519
+  },
+  {
+    "text": "similar thing happens in a computer",
+    "start": 28.88,
+    "duration": 4.4
+  },
+  {
+    "text": "program uh you have uh you you list out",
+    "start": 30.439,
+    "duration": 4.041
+  },
+  {
+    "text": "the the various things that you're going",
+    "start": 33.28,
+    "duration": 3.48
+  },
+  {
+    "text": "to be dealing with typically and then",
+    "start": 34.48,
+    "duration": 4.64
+  },
+  {
+    "text": "you have some instructions that say what",
+    "start": 36.76,
+    "duration": 3.88
+  },
+  {
+    "text": "to do with those",
+    "start": 39.12,
+    "duration": 3.959
+  },
+  {
+    "text": "ingredients so if you can understand a",
+    "start": 40.64,
+    "duration": 6.52
+  },
+  {
+    "text": "recipe and follow it in um in your",
+    "start": 43.079,
+    "duration": 7.561
+  },
+  {
+    "text": "kitchen then uh you could uh program on",
+    "start": 47.16,
+    "duration": 6.64
+  },
+  {
+    "text": "that level um but you can you can take",
+    "start": 50.64,
+    "duration": 5.88
+  },
+  {
+    "text": "it a lot farther than that um you know",
+    "start": 53.8,
+    "duration": 4.52
+  },
+  {
+    "text": "many of you I'm sure have seen the the",
+    "start": 56.52,
+    "duration": 5.519
+  },
+  {
+    "text": "Iron Chef show uh I love to watch that",
+    "start": 58.32,
+    "duration": 5.839
+  },
+  {
+    "text": "um especially if they're given uh",
+    "start": 62.039,
+    "duration": 6.08
+  },
+  {
+    "text": "strange ingredients uh and uh uh I'm not",
+    "start": 64.159,
+    "duration": 5.561
+  },
+  {
+    "text": "sure I would like trout ice cream either",
+    "start": 68.119,
+    "duration": 3.801
+  },
+  {
+    "text": "but uh one of the things that happens",
+    "start": 69.72,
+    "duration": 5.0
+  },
+  {
+    "text": "there if you if you follow along is that",
+    "start": 71.92,
+    "duration": 5.239
+  },
+  {
+    "text": "the uh the Iron Chef or or whoever the",
+    "start": 74.72,
+    "duration": 4.56
+  },
+  {
+    "text": "chef is uh doesn't actually do all the",
+    "start": 77.159,
+    "duration": 5.241
+  },
+  {
+    "text": "work they um have what are called Sue",
+    "start": 79.28,
+    "duration": 6.56
+  },
+  {
+    "text": "chefs that they uh Farm out sub uh",
+    "start": 82.4,
+    "duration": 5.719
+  },
+  {
+    "text": "subdivide the jobs to and they'll do the",
+    "start": 85.84,
+    "duration": 4.48
+  },
+  {
+    "text": "the kind of busy work and programming is",
+    "start": 88.119,
+    "duration": 5.401
+  },
+  {
+    "text": "kind of like that too um you are the the",
+    "start": 90.32,
+    "duration": 5.72
+  },
+  {
+    "text": "head chef but there are bits and pieces",
+    "start": 93.52,
+    "duration": 4.2
+  },
+  {
+    "text": "of the computer out there that will do",
+    "start": 96.04,
+    "duration": 4.56
+  },
+  {
+    "text": "things for you now it's not quite like",
+    "start": 97.72,
+    "duration": 5.84
+  },
+  {
+    "text": "Iron Chef because um Iron Chef you have",
+    "start": 100.6,
+    "duration": 4.839
+  },
+  {
+    "text": "some fairly intelligent Su chefs who who",
+    "start": 103.56,
+    "duration": 4.08
+  },
+  {
+    "text": "know how to cuddle an egg or or chop up",
+    "start": 105.439,
+    "duration": 7.04
+  },
+  {
+    "text": "a fish but um your computer tends to be",
+    "start": 107.64,
+    "duration": 6.72
+  },
+  {
+    "text": "more like a bunch of really efficient",
+    "start": 112.479,
+    "duration": 3.28
+  },
+  {
+    "text": "robots but they're",
+    "start": 114.36,
+    "duration": 4.32
+  },
+  {
+    "text": "very uh Stupid robots and very",
+    "start": 115.759,
+    "duration": 5.36
+  },
+  {
+    "text": "literal-minded so you have to at at some",
+    "start": 118.68,
+    "duration": 5.479
+  },
+  {
+    "text": "level you know tell them exactly what to",
+    "start": 121.119,
+    "duration": 7.441
+  },
+  {
+    "text": "do and um but once you've told them that",
+    "start": 124.159,
+    "duration": 5.88
+  },
+  {
+    "text": "you can just point to the the robot and",
+    "start": 128.56,
+    "duration": 2.8
+  },
+  {
+    "text": "it'll do the same thing over and over",
+    "start": 130.039,
+    "duration": 3.961
+  },
+  {
+    "text": "and over again uh and do it exactly the",
+    "start": 131.36,
+    "duration": 4.64
+  },
+  {
+    "text": "same and computers are like that that's",
+    "start": 134.0,
+    "duration": 3.64
+  },
+  {
+    "text": "how they are valuable they sort of take",
+    "start": 136.0,
+    "duration": 4.2
+  },
+  {
+    "text": "over all the boring bits of our",
+    "start": 137.64,
+    "duration": 4.679
+  },
+  {
+    "text": "thinking and then you can kind of take",
+    "start": 140.2,
+    "duration": 6.24
+  },
+  {
+    "text": "it beyond that um uh instead of just",
+    "start": 142.319,
+    "duration": 5.801
+  },
+  {
+    "text": "thinking of yourself as the chef that's",
+    "start": 146.44,
+    "duration": 4.12
+  },
+  {
+    "text": "in control sometimes you want to program",
+    "start": 148.12,
+    "duration": 4.36
+  },
+  {
+    "text": "more like you're thinking about how the",
+    "start": 150.56,
+    "duration": 3.36
+  },
+  {
+    "text": "the food actually goes through the",
+    "start": 152.48,
+    "duration": 4.0
+  },
+  {
+    "text": "process and maybe even take it up a",
+    "start": 153.92,
+    "duration": 4.44
+  },
+  {
+    "text": "notch and say Here's a factory that",
+    "start": 156.48,
+    "duration": 3.88
+  },
+  {
+    "text": "produces some food item Twinkies or",
+    "start": 158.36,
+    "duration": 4.44
+  },
+  {
+    "text": "whatever and you have raw ingredients",
+    "start": 160.36,
+    "duration": 4.48
+  },
+  {
+    "text": "coming in it's assuming you think",
+    "start": 162.8,
+    "duration": 4.2
+  },
+  {
+    "text": "Twinkies are food uh you have raw",
+    "start": 164.84,
+    "duration": 6.72
+  },
+  {
+    "text": "ingredients coming in and um they go on",
+    "start": 167.0,
+    "duration": 6.4
+  },
+  {
+    "text": "various conveyor belts and get chopped",
+    "start": 171.56,
+    "duration": 4.12
+  },
+  {
+    "text": "up in in various ways and they get",
+    "start": 173.4,
+    "duration": 5.88
+  },
+  {
+    "text": "recombined and uh there's this flow of",
+    "start": 175.68,
+    "duration": 5.639
+  },
+  {
+    "text": "of the material through the factory and",
+    "start": 179.28,
+    "duration": 5.0
+  },
+  {
+    "text": "eventually it comes back out uh with",
+    "start": 181.319,
+    "duration": 6.081
+  },
+  {
+    "text": "with a some sort of a a product that uh",
+    "start": 184.28,
+    "duration": 6.959
+  },
+  {
+    "text": "we considered to be food um so there's",
+    "start": 187.4,
+    "duration": 5.28
+  },
+  {
+    "text": "programming languages that work like",
+    "start": 191.239,
+    "duration": 3.401
+  },
+  {
+    "text": "that too that that are more about you",
+    "start": 192.68,
+    "duration": 3.88
+  },
+  {
+    "text": "just talk about how the data runs around",
+    "start": 194.64,
+    "duration": 4.879
+  },
+  {
+    "text": "in the in the uh program for instance",
+    "start": 196.56,
+    "duration": 5.52
+  },
+  {
+    "text": "your Excel spreadsheet um you're putting",
+    "start": 199.519,
+    "duration": 4.0
+  },
+  {
+    "text": "data into little cells and you have",
+    "start": 202.08,
+    "duration": 4.2
+  },
+  {
+    "text": "other cells that say well just take take",
+    "start": 203.519,
+    "duration": 4.08
+  },
+  {
+    "text": "make a little conveyor belt of these",
+    "start": 206.28,
+    "duration": 3.159
+  },
+  {
+    "text": "cells and add them up in this cell",
+    "start": 207.599,
+    "duration": 3.401
+  },
+  {
+    "text": "you're doing programming even if you",
+    "start": 209.439,
+    "duration": 3.601
+  },
+  {
+    "text": "think you're just writing Excel",
+    "start": 211.0,
+    "duration": 4.72
+  },
+  {
+    "text": "macros um so that's like a little little",
+    "start": 213.04,
+    "duration": 6.52
+  },
+  {
+    "text": "Factory on your on your desktop there um",
+    "start": 215.72,
+    "duration": 7.239
+  },
+  {
+    "text": "now going beyond that um there's various",
+    "start": 219.56,
+    "duration": 6.399
+  },
+  {
+    "text": "ways that you can um get into you know",
+    "start": 222.959,
+    "duration": 7.321
+  },
+  {
+    "text": "sort of more High flutin Concepts um",
+    "start": 225.959,
+    "duration": 5.92
+  },
+  {
+    "text": "that uh you would learn if you were",
+    "start": 230.28,
+    "duration": 5.2
+  },
+  {
+    "text": "taking a computer science degree um the",
+    "start": 231.879,
+    "duration": 6.881
+  },
+  {
+    "text": "the whole uh idea of programming on this",
+    "start": 235.48,
+    "duration": 5.8
+  },
+  {
+    "text": "level is you're saying one thing some",
+    "start": 238.76,
+    "duration": 4.44
+  },
+  {
+    "text": "abstract thing and and that controls a",
+    "start": 241.28,
+    "duration": 7.48
+  },
+  {
+    "text": "bunch of other things and um so the next",
+    "start": 243.2,
+    "duration": 7.679
+  },
+  {
+    "text": "step that happens is that instead of",
+    "start": 248.76,
+    "duration": 3.839
+  },
+  {
+    "text": "just thinking about",
+    "start": 250.879,
+    "duration": 4.761
+  },
+  {
+    "text": "data as uh the pieces of things you're",
+    "start": 252.599,
+    "duration": 6.441
+  },
+  {
+    "text": "working with you know strings text you",
+    "start": 255.64,
+    "duration": 5.719
+  },
+  {
+    "text": "know your phone numbers whatever um you",
+    "start": 259.04,
+    "duration": 4.4
+  },
+  {
+    "text": "start thinking about those those bits of",
+    "start": 261.359,
+    "duration": 4.721
+  },
+  {
+    "text": "recipe and those recipes can also be",
+    "start": 263.44,
+    "duration": 4.56
+  },
+  {
+    "text": "considered data and can be sent around",
+    "start": 266.08,
+    "duration": 4.16
+  },
+  {
+    "text": "on the conveyor belt in your factory",
+    "start": 268.0,
+    "duration": 4.44
+  },
+  {
+    "text": "so it's like little little conveyor that",
+    "start": 270.24,
+    "duration": 4.08
+  },
+  {
+    "text": "you might have in your Cafe you put put",
+    "start": 272.44,
+    "duration": 4.08
+  },
+  {
+    "text": "little things up there that order things",
+    "start": 274.32,
+    "duration": 6.52
+  },
+  {
+    "text": "up so um when you start talking about uh",
+    "start": 276.52,
+    "duration": 6.92
+  },
+  {
+    "text": "actions uh and abstracting them then you",
+    "start": 280.84,
+    "duration": 3.799
+  },
+  {
+    "text": "can start talking about doing them",
+    "start": 283.44,
+    "duration": 3.84
+  },
+  {
+    "text": "multiple times and and looping and this",
+    "start": 284.639,
+    "duration": 4.161
+  },
+  {
+    "text": "action may do this action which may do",
+    "start": 287.28,
+    "duration": 3.24
+  },
+  {
+    "text": "the action which might come back and do",
+    "start": 288.8,
+    "duration": 5.119
+  },
+  {
+    "text": "the thing and you get a a recursive sort",
+    "start": 290.52,
+    "duration": 6.2
+  },
+  {
+    "text": "of fractal pattern and",
+    "start": 293.919,
+    "duration": 6.961
+  },
+  {
+    "text": "so uh this this is these are the basis",
+    "start": 296.72,
+    "duration": 6.72
+  },
+  {
+    "text": "of uh of the more mathematical views of",
+    "start": 300.88,
+    "duration": 6.039
+  },
+  {
+    "text": "programming but",
+    "start": 303.44,
+    "duration": 6.08
+  },
+  {
+    "text": "um you know you don't have to do all",
+    "start": 306.919,
+    "duration": 4.041
+  },
+  {
+    "text": "that at the beginning you can just start",
+    "start": 309.52,
+    "duration": 4.0
+  },
+  {
+    "text": "off with the simple recipe ID and add",
+    "start": 310.96,
+    "duration": 5.239
+  },
+  {
+    "text": "things on as you go and learn as you go",
+    "start": 313.52,
+    "duration": 3.6
+  },
+  {
+    "text": "and",
+    "start": 316.199,
+    "duration": 5.481
+  },
+  {
+    "text": "uh then you'll do fine",
+    "start": 317.12,
+    "duration": 4.56
+  }
+]

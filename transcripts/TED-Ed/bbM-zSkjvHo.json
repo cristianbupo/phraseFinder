@@ -1,0 +1,447 @@
+[
+  {
+    "text": "Ethic, Hedge, and Octavia \nstand on the edge of a bottomless ravine.",
+    "start": 21.937,
+    "duration": 4.675
+  },
+  {
+    "text": "It’s the only thing between \nthem and the tower",
+    "start": 26.612,
+    "duration": 2.69
+  },
+  {
+    "text": "that houses the second \nof three powerful artifacts.",
+    "start": 29.302,
+    "duration": 3.648
+  },
+  {
+    "text": "They’ve got a brief window of time \nto get across before the guards return.",
+    "start": 32.95,
+    "duration": 4.98
+  },
+  {
+    "text": "With Hedge’s fuel gauge on empty \nhe won’t be able to fly Ethic across,",
+    "start": 37.93,
+    "duration": 4.705
+  },
+  {
+    "text": "so the only option is to make a bridge.",
+    "start": 42.635,
+    "duration": 3.63
+  },
+  {
+    "text": "Fortunately, the floating stacks of stones\nnearby are bridge components—",
+    "start": 46.265,
+    "duration": 4.655
+  },
+  {
+    "text": "invented by Octavia herself— \ncalled hover-blocks.",
+    "start": 50.92,
+    "duration": 4.026
+  },
+  {
+    "text": "Activate a pile with a burst of energy,",
+    "start": 54.946,
+    "duration": 2.552
+  },
+  {
+    "text": "and they’ll self-assemble \nto span the ravine as Ethic walks across.",
+    "start": 57.498,
+    "duration": 4.516
+  },
+  {
+    "text": "But there is, of course, a catch.",
+    "start": 62.014,
+    "duration": 3.578
+  },
+  {
+    "text": "The hover-blocks are only stable \nwhen they’re perfectly palindromic.",
+    "start": 65.592,
+    "duration": 4.659
+  },
+  {
+    "text": "Meaning they have to form \na sequence",
+    "start": 70.251,
+    "duration": 2.26
+  },
+  {
+    "text": "that’s the same when viewed \nforwards and backwards.",
+    "start": 72.511,
+    "duration": 4.263
+  },
+  {
+    "text": "The stacks start in random orders,",
+    "start": 76.774,
+    "duration": 2.17
+  },
+  {
+    "text": "but will always put themselves\ninto a palindromic configuration",
+    "start": 78.944,
+    "duration": 3.66
+  },
+  {
+    "text": "if they can.",
+    "start": 82.604,
+    "duration": 1.29
+  },
+  {
+    "text": "If they get to a point \nwhere a palindrome isn’t possible,",
+    "start": 83.894,
+    "duration": 2.88
+  },
+  {
+    "text": "the bridge will collapse,",
+    "start": 86.774,
+    "duration": 1.551
+  },
+  {
+    "text": "and whoever’s on it \nwill fall into the ravine.",
+    "start": 88.325,
+    "duration": 3.489
+  },
+  {
+    "text": "Let’s look at an example.",
+    "start": 91.814,
+    "duration": 1.638
+  },
+  {
+    "text": "This stack would make itself stable.",
+    "start": 93.452,
+    "duration": 2.46
+  },
+  {
+    "text": "First the A blocks \nhold themselves in place.",
+    "start": 95.912,
+    "duration": 3.0
+  },
+  {
+    "text": "Then the B’s.",
+    "start": 98.912,
+    "duration": 1.07
+  },
+  {
+    "text": "And finally the C \nwould nestle right between the B’s.",
+    "start": 99.982,
+    "duration": 3.69
+  },
+  {
+    "text": "However, suppose there was one more A.",
+    "start": 103.672,
+    "duration": 3.45
+  },
+  {
+    "text": "First two A blocks form up, then two B’s,",
+    "start": 107.122,
+    "duration": 3.12
+  },
+  {
+    "text": "but now the remaining C and A \nhave nowhere to go,",
+    "start": 110.242,
+    "duration": 3.37
+  },
+  {
+    "text": "so the whole thing falls apart.",
+    "start": 113.612,
+    "duration": 2.46
+  },
+  {
+    "text": "The Node of Power enables Hedge \nto energize a single stack of blocks.",
+    "start": 116.072,
+    "duration": 4.67
+  },
+  {
+    "text": "What instructions can Ethic give Hedge \nto allow him to efficiently find",
+    "start": 120.742,
+    "duration": 4.334
+  },
+  {
+    "text": "and power a stable palindromic stack?",
+    "start": 125.076,
+    "duration": 3.051
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 128.127,
+    "duration": 9.97
+  },
+  {
+    "text": "Examples of palindromes include ANNA, \nRACECAR, and MADAM IM ADAM.",
+    "start": 138.097,
+    "duration": 5.461
+  },
+  {
+    "text": "Counting the number of times \na given letter appears in a palindrome",
+    "start": 143.558,
+    "duration": 3.73
+  },
+  {
+    "text": "will reveal a helpful pattern.",
+    "start": 147.288,
+    "duration": 2.532
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 149.82,
+    "duration": 4.831
+  },
+  {
+    "text": "Let’s first look at a naïve solution \nto this problem.",
+    "start": 154.651,
+    "duration": 3.49
+  },
+  {
+    "text": "A naïve solution is a simple, \nbrute-force approach that isn’t optimized—",
+    "start": 158.141,
+    "duration": 4.708
+  },
+  {
+    "text": "but will get the job done.",
+    "start": 162.849,
+    "duration": 1.98
+  },
+  {
+    "text": "Naïve solutions are helpful ways \nto analyze problems,",
+    "start": 164.829,
+    "duration": 3.491
+  },
+  {
+    "text": "and work as stepping stones \nto better solutions.",
+    "start": 168.32,
+    "duration": 3.434
+  },
+  {
+    "text": "In this case, a naïve solution\nis to approach a pile of blocks,",
+    "start": 171.754,
+    "duration": 3.77
+  },
+  {
+    "text": "try all the arrangements,",
+    "start": 175.524,
+    "duration": 1.5
+  },
+  {
+    "text": "and see if one is a palindrome \nby reading it forward and then backwards.",
+    "start": 177.024,
+    "duration": 4.727
+  },
+  {
+    "text": "The problem with this approach",
+    "start": 181.751,
+    "duration": 1.48
+  },
+  {
+    "text": "is that it would take \na tremendous amount of time.",
+    "start": 183.231,
+    "duration": 2.493
+  },
+  {
+    "text": "If Hedge tried one combination \nevery second,",
+    "start": 185.724,
+    "duration": 2.85
+  },
+  {
+    "text": "a stack of just 10 different blocks \nwould take him 42 days to exhaust.",
+    "start": 188.574,
+    "duration": 5.198
+  },
+  {
+    "text": "That’s because the total time \nis a function of the factorial",
+    "start": 193.772,
+    "duration": 3.83
+  },
+  {
+    "text": "of the number of blocks there are.",
+    "start": 197.602,
+    "duration": 2.142
+  },
+  {
+    "text": "10 blocks \nhave over 3 million combinations.",
+    "start": 199.744,
+    "duration": 3.6
+  },
+  {
+    "text": "What this naïve solution shows \nis that we need a much faster way",
+    "start": 203.344,
+    "duration": 4.28
+  },
+  {
+    "text": "to tell whether a pile of blocks \ncan form a palindrome.",
+    "start": 207.624,
+    "duration": 3.593
+  },
+  {
+    "text": "To start, it may be intuitively clear \nthat a pile of all different blocks",
+    "start": 211.217,
+    "duration": 4.716
+  },
+  {
+    "text": "will never form one.",
+    "start": 215.933,
+    "duration": 1.42
+  },
+  {
+    "text": "Why?",
+    "start": 217.353,
+    "duration": 0.79
+  },
+  {
+    "text": "The first and last blocks \ncan’t be the same if there are no repeats.",
+    "start": 218.143,
+    "duration": 5.281
+  },
+  {
+    "text": "So when can a given sequence \nbecome a palindrome?",
+    "start": 223.424,
+    "duration": 5.012
+  },
+  {
+    "text": "One way to figure that out \nis to analyze a few existing palindromes.",
+    "start": 228.436,
+    "duration": 4.48
+  },
+  {
+    "text": "In ANNA, \nthere are 2 A’s and 2 N’s.",
+    "start": 232.916,
+    "duration": 3.254
+  },
+  {
+    "text": "RACECAR \nhas 2 R’s, 2 A’s, 2 C’s, and 1 E.",
+    "start": 236.17,
+    "duration": 4.886
+  },
+  {
+    "text": "And MADAM IM ADAM \nhas 4 M’s, 4 A’s, 2 D’s, and 1 I.",
+    "start": 241.056,
+    "duration": 6.73
+  },
+  {
+    "text": "The pattern here \nis that most of the letters occur",
+    "start": 247.786,
+    "duration": 3.14
+  },
+  {
+    "text": "an even number of times,",
+    "start": 250.926,
+    "duration": 1.774
+  },
+  {
+    "text": "and there’s at most 1 \nthat occurs just once.",
+    "start": 252.7,
+    "duration": 3.28
+  },
+  {
+    "text": "Is that it?",
+    "start": 255.98,
+    "duration": 1.11
+  },
+  {
+    "text": "What if RACECAR had 3 E’s instead of 1?",
+    "start": 257.09,
+    "duration": 3.26
+  },
+  {
+    "text": "We could tack the new E’s onto the ends \nand still get a palindrome,",
+    "start": 260.35,
+    "duration": 3.71
+  },
+  {
+    "text": "so 3 is ok.",
+    "start": 264.06,
+    "duration": 1.84
+  },
+  {
+    "text": "But make that 3 E’s and 3 C’s, \nand there’s nowhere for the last C to go.",
+    "start": 265.9,
+    "duration": 6.064
+  },
+  {
+    "text": "So the most generalized insight is that",
+    "start": 271.964,
+    "duration": 2.72
+  },
+  {
+    "text": "at most one letter can appear \nan odd number of times,",
+    "start": 274.684,
+    "duration": 4.096
+  },
+  {
+    "text": "but the rest have to be even.",
+    "start": 278.78,
+    "duration": 3.066
+  },
+  {
+    "text": "Hedge can count the letters in each stack \nand organize them into a dictionary,",
+    "start": 281.846,
+    "duration": 4.314
+  },
+  {
+    "text": "which is a tidy way \nof storing information.",
+    "start": 286.16,
+    "duration": 2.725
+  },
+  {
+    "text": "A loop could then go through and count \nhow many times odd numbers appear.",
+    "start": 288.885,
+    "duration": 4.579
+  },
+  {
+    "text": "If there are less than 2 odd characters, \nthe stack can be made into a palindrome.",
+    "start": 293.464,
+    "duration": 5.5
+  },
+  {
+    "text": "This approach is much, much faster \nthan the naïve solution.",
+    "start": 298.964,
+    "duration": 3.72
+  },
+  {
+    "text": "Instead of factorial time, \nit takes linear time.",
+    "start": 302.684,
+    "duration": 3.42
+  },
+  {
+    "text": "That’s where the time increases",
+    "start": 306.104,
+    "duration": 1.57
+  },
+  {
+    "text": "in proportion to \nthe number of blocks there are.",
+    "start": 307.674,
+    "duration": 2.71
+  },
+  {
+    "text": "Now write a loop for Hedge \nto approach the piles individually,",
+    "start": 310.384,
+    "duration": 3.99
+  },
+  {
+    "text": "and stop when he finds a good one, \nand you’ll be ready to go.",
+    "start": 314.374,
+    "duration": 4.155
+  },
+  {
+    "text": "Here’s what happens:",
+    "start": 318.529,
+    "duration": 1.389
+  },
+  {
+    "text": "Hedge is fast, but there are so many piles\nit takes a long time.",
+    "start": 319.918,
+    "duration": 4.046
+  },
+  {
+    "text": "Too long.",
+    "start": 323.964,
+    "duration": 1.356
+  },
+  {
+    "text": "Ethic and Hedge are safe.",
+    "start": 377.897,
+    "duration": 1.68
+  },
+  {
+    "text": "But Octavia is not so lucky.",
+    "start": 379.577,
+    "duration": 2.423
+  }
+]

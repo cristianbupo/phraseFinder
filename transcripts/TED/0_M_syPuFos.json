@@ -1,0 +1,2747 @@
+[
+  {
+    "text": "Chris Anderson: Demis,\nso good to have you here.",
+    "start": 4.376,
+    "duration": 2.335
+  },
+  {
+    "text": "Demis Hassabis: It's fantastic\nto be here, thanks, Chris.",
+    "start": 6.711,
+    "duration": 2.711
+  },
+  {
+    "text": "Now, you told Time Magazine,",
+    "start": 9.422,
+    "duration": 2.128
+  },
+  {
+    "text": "\"I want to understand the big questions,",
+    "start": 11.591,
+    "duration": 2.044
+  },
+  {
+    "text": "the really big ones that you normally\ngo into philosophy or physics",
+    "start": 13.635,
+    "duration": 3.295
+  },
+  {
+    "text": "if you're interested in them.",
+    "start": 16.972,
+    "duration": 1.793
+  },
+  {
+    "text": "I thought building AI",
+    "start": 18.807,
+    "duration": 2.502
+  },
+  {
+    "text": "would be the fastest route\nto answer some of those questions.\"",
+    "start": 21.351,
+    "duration": 3.42
+  },
+  {
+    "text": "Why did you think that?",
+    "start": 25.73,
+    "duration": 1.46
+  },
+  {
+    "text": "DH: (Laughs)",
+    "start": 27.232,
+    "duration": 1.293
+  },
+  {
+    "text": "Well, I guess when I was a kid,",
+    "start": 28.567,
+    "duration": 2.21
+  },
+  {
+    "text": "my favorite subject was physics,",
+    "start": 30.819,
+    "duration": 1.877
+  },
+  {
+    "text": "and I was interested\nin all the big questions,",
+    "start": 32.696,
+    "duration": 2.752
+  },
+  {
+    "text": "fundamental nature of reality,",
+    "start": 35.49,
+    "duration": 1.96
+  },
+  {
+    "text": "what is consciousness,",
+    "start": 37.492,
+    "duration": 1.335
+  },
+  {
+    "text": "you know, all the big ones.",
+    "start": 38.827,
+    "duration": 1.752
+  },
+  {
+    "text": "And usually you go into physics,\nif you're interested in that.",
+    "start": 40.579,
+    "duration": 2.961
+  },
+  {
+    "text": "But I read a lot of the great physicists,",
+    "start": 43.54,
+    "duration": 1.96
+  },
+  {
+    "text": "some of my all-time scientific heroes\nlike Feynman and so on.",
+    "start": 45.542,
+    "duration": 2.961
+  },
+  {
+    "text": "And I realized, in the last,\nsort of 20, 30 years,",
+    "start": 48.503,
+    "duration": 2.377
+  },
+  {
+    "text": "we haven't made much progress",
+    "start": 50.88,
+    "duration": 1.669
+  },
+  {
+    "text": "in understanding some\nof these fundamental laws.",
+    "start": 52.591,
+    "duration": 2.335
+  },
+  {
+    "text": "So I thought, why not build\nthe ultimate tool to help us,",
+    "start": 54.926,
+    "duration": 4.672
+  },
+  {
+    "text": "which is artificial intelligence.",
+    "start": 59.639,
+    "duration": 1.71
+  },
+  {
+    "text": "And at the same time,",
+    "start": 61.391,
+    "duration": 1.668
+  },
+  {
+    "text": "we could also maybe\nbetter understand ourselves",
+    "start": 63.101,
+    "duration": 2.211
+  },
+  {
+    "text": "and the brain better, by doing that too.",
+    "start": 65.312,
+    "duration": 1.918
+  },
+  {
+    "text": "So not only was it incredible tool,",
+    "start": 67.272,
+    "duration": 1.71
+  },
+  {
+    "text": "it was also useful for some\nof the big questions itself.",
+    "start": 68.982,
+    "duration": 3.17
+  },
+  {
+    "text": "CA: Super interesting.",
+    "start": 72.152,
+    "duration": 1.209
+  },
+  {
+    "text": "So obviously AI can do so many things,",
+    "start": 73.403,
+    "duration": 2.669
+  },
+  {
+    "text": "but I think for this conversation,",
+    "start": 76.072,
+    "duration": 1.669
+  },
+  {
+    "text": "I'd love to focus in on this theme\nof what it might do",
+    "start": 77.782,
+    "duration": 3.754
+  },
+  {
+    "text": "to unlock the really big questions,\nthe giant scientific breakthroughs,",
+    "start": 81.536,
+    "duration": 4.004
+  },
+  {
+    "text": "because it's been such a theme\ndriving you and your company.",
+    "start": 85.582,
+    "duration": 3.462
+  },
+  {
+    "text": "DH: So I mean, one\nof the big things AI can do,",
+    "start": 89.044,
+    "duration": 2.794
+  },
+  {
+    "text": "and I've always thought about,",
+    "start": 91.88,
+    "duration": 1.46
+  },
+  {
+    "text": "is we're getting, you know,\neven back 20, 30 years ago,",
+    "start": 93.34,
+    "duration": 3.295
+  },
+  {
+    "text": "the beginning of the internet era\nand computer era,",
+    "start": 96.676,
+    "duration": 3.087
+  },
+  {
+    "text": "the amount of data that was being produced",
+    "start": 99.804,
+    "duration": 3.17
+  },
+  {
+    "text": "and also scientific data,",
+    "start": 103.016,
+    "duration": 1.877
+  },
+  {
+    "text": "just too much for the human mind\nto comprehend in many cases.",
+    "start": 104.934,
+    "duration": 3.671
+  },
+  {
+    "text": "And I think one of the uses\nof AI is to find patterns and insights",
+    "start": 108.605,
+    "duration": 4.046
+  },
+  {
+    "text": "in huge amounts of data\nand then surface that",
+    "start": 112.692,
+    "duration": 2.169
+  },
+  {
+    "text": "to the human scientists to make sense of",
+    "start": 114.861,
+    "duration": 2.461
+  },
+  {
+    "text": "and make new hypotheses and conjectures.",
+    "start": 117.364,
+    "duration": 2.294
+  },
+  {
+    "text": "So it seems to me very compatible\nwith the scientific method.",
+    "start": 119.699,
+    "duration": 3.504
+  },
+  {
+    "text": "CA: Right.",
+    "start": 123.203,
+    "duration": 1.334
+  },
+  {
+    "text": "But game play has played a huge role\nin your own journey",
+    "start": 124.579,
+    "duration": 3.128
+  },
+  {
+    "text": "in figuring this thing out.",
+    "start": 127.749,
+    "duration": 1.293
+  },
+  {
+    "text": "Who is this young lad on the left there?",
+    "start": 129.793,
+    "duration": 2.961
+  },
+  {
+    "text": "Who is that?",
+    "start": 132.796,
+    "duration": 1.167
+  },
+  {
+    "text": "DH: So that was me, I think I must have\nbeen about around nine years old.",
+    "start": 133.963,
+    "duration": 3.504
+  },
+  {
+    "text": "I'm captaining the England Under 11 team,",
+    "start": 137.467,
+    "duration": 3.045
+  },
+  {
+    "text": "and we're playing\nin a Four Nations tournament,",
+    "start": 140.553,
+    "duration": 2.461
+  },
+  {
+    "text": "that's why we're all in red.",
+    "start": 143.056,
+    "duration": 1.376
+  },
+  {
+    "text": "I think we're playing France, Scotland\nand Wales, I think it was.",
+    "start": 144.432,
+    "duration": 3.087
+  },
+  {
+    "text": "CA: That is so weird,\nbecause that happened to me too.",
+    "start": 147.519,
+    "duration": 4.546
+  },
+  {
+    "text": "In my dreams.",
+    "start": 152.107,
+    "duration": 1.167
+  },
+  {
+    "text": "(Laughter)",
+    "start": 153.274,
+    "duration": 1.168
+  },
+  {
+    "text": "And it wasn't just chess,",
+    "start": 154.818,
+    "duration": 3.378
+  },
+  {
+    "text": "you loved all kinds of games.",
+    "start": 158.238,
+    "duration": 1.418
+  },
+  {
+    "text": "DH: I loved all kinds of games, yeah.",
+    "start": 159.656,
+    "duration": 1.793
+  },
+  {
+    "text": "CA: And when you launched DeepMind,",
+    "start": 161.449,
+    "duration": 1.71
+  },
+  {
+    "text": "pretty quickly, you started\nhaving it tackle game play.",
+    "start": 163.159,
+    "duration": 4.088
+  },
+  {
+    "text": "Why?",
+    "start": 167.288,
+    "duration": 1.21
+  },
+  {
+    "text": "DH: Well, look, I mean, games\nactually got me into AI in the first place",
+    "start": 168.498,
+    "duration": 3.42
+  },
+  {
+    "text": "because while we were doing things like,",
+    "start": 171.918,
+    "duration": 2.294
+  },
+  {
+    "text": "we used to go on training camps\nwith the England team and so on.",
+    "start": 174.254,
+    "duration": 3.044
+  },
+  {
+    "text": "And actually back then,",
+    "start": 177.298,
+    "duration": 1.669
+  },
+  {
+    "text": "I guess it was in the mid '80s,",
+    "start": 178.967,
+    "duration": 2.711
+  },
+  {
+    "text": "we would use the very\nearly chess computers,",
+    "start": 181.678,
+    "duration": 2.169
+  },
+  {
+    "text": "if you remember them, to train against,",
+    "start": 183.888,
+    "duration": 2.419
+  },
+  {
+    "text": "as well as playing against each other.",
+    "start": 186.349,
+    "duration": 1.835
+  },
+  {
+    "text": "And they were big lumps of plastic,",
+    "start": 188.184,
+    "duration": 1.877
+  },
+  {
+    "text": "you know, physical boards\nthat you used to,",
+    "start": 190.103,
+    "duration": 2.002
+  },
+  {
+    "text": "some of you remember, used to actually\npress the squares down",
+    "start": 192.105,
+    "duration": 3.086
+  },
+  {
+    "text": "and there were LED lights, came on.",
+    "start": 195.233,
+    "duration": 1.752
+  },
+  {
+    "text": "And I remember actually,\nnot just thinking about the chess,",
+    "start": 197.026,
+    "duration": 2.795
+  },
+  {
+    "text": "I was actually just fascinated\nby the fact that this lump of plastic,",
+    "start": 199.821,
+    "duration": 3.545
+  },
+  {
+    "text": "someone had programmed it to be smart",
+    "start": 203.408,
+    "duration": 3.378
+  },
+  {
+    "text": "and actually play chess\nto a really high standard.",
+    "start": 206.828,
+    "duration": 2.669
+  },
+  {
+    "text": "And I was just amazed by that.",
+    "start": 209.497,
+    "duration": 1.877
+  },
+  {
+    "text": "And that got me thinking about thinking.",
+    "start": 211.374,
+    "duration": 2.461
+  },
+  {
+    "text": "And how does the brain come up\nwith these thought processes,",
+    "start": 213.877,
+    "duration": 3.461
+  },
+  {
+    "text": "these ideas,",
+    "start": 217.38,
+    "duration": 1.168
+  },
+  {
+    "text": "and then maybe how we could\nmimic that with computers.",
+    "start": 218.548,
+    "duration": 3.337
+  },
+  {
+    "text": "So yeah, it's been a whole theme\nfor my whole life, really.",
+    "start": 222.218,
+    "duration": 3.921
+  },
+  {
+    "text": "CA: But you raised all this money\nto launch DeepMind,",
+    "start": 226.139,
+    "duration": 3.17
+  },
+  {
+    "text": "and pretty soon you were\nusing it to do, for example, this.",
+    "start": 229.35,
+    "duration": 4.922
+  },
+  {
+    "text": "I mean, this is an odd use of it.",
+    "start": 235.19,
+    "duration": 1.96
+  },
+  {
+    "text": "What was going on here?",
+    "start": 237.192,
+    "duration": 1.209
+  },
+  {
+    "text": "DH: Well, we started off with games\nat the beginning of DeepMind.",
+    "start": 238.443,
+    "duration": 3.086
+  },
+  {
+    "text": "This was back in 2010,\nso this is from about 10 years ago,",
+    "start": 241.529,
+    "duration": 2.711
+  },
+  {
+    "text": "it was our first big breakthrough.",
+    "start": 244.24,
+    "duration": 1.71
+  },
+  {
+    "text": "Because we started off with classic\nAtari games from the 1970s,",
+    "start": 245.992,
+    "duration": 3.253
+  },
+  {
+    "text": "the simplest kind of computer\ngames there are out there.",
+    "start": 249.287,
+    "duration": 3.504
+  },
+  {
+    "text": "And one of the reasons we used games\nis they're very convenient",
+    "start": 252.832,
+    "duration": 2.962
+  },
+  {
+    "text": "to test out your ideas\nand your algorithms.",
+    "start": 255.835,
+    "duration": 3.796
+  },
+  {
+    "text": "They're really fast to test.",
+    "start": 259.672,
+    "duration": 1.544
+  },
+  {
+    "text": "And also, as your systems\nget more powerful,",
+    "start": 261.674,
+    "duration": 2.711
+  },
+  {
+    "text": "you can choose harder and harder games.",
+    "start": 264.385,
+    "duration": 2.336
+  },
+  {
+    "text": "And this was actually the first time ever\nthat our machine surprised us,",
+    "start": 266.721,
+    "duration": 4.004
+  },
+  {
+    "text": "the first of many times,",
+    "start": 270.767,
+    "duration": 1.293
+  },
+  {
+    "text": "which, it figured out\nin this game called Breakout,",
+    "start": 272.06,
+    "duration": 2.419
+  },
+  {
+    "text": "that you could send the ball\nround the back of the wall,",
+    "start": 274.479,
+    "duration": 2.627
+  },
+  {
+    "text": "and actually, it would be much safer way\nto knock out all the tiles of the wall.",
+    "start": 277.148,
+    "duration": 3.796
+  },
+  {
+    "text": "It's a classic Atari game there.",
+    "start": 280.944,
+    "duration": 1.543
+  },
+  {
+    "text": "And that was our first real aha moment.",
+    "start": 282.529,
+    "duration": 1.876
+  },
+  {
+    "text": "CA: So this thing was not programmed\nto have any strategy.",
+    "start": 284.405,
+    "duration": 2.962
+  },
+  {
+    "text": "It was just told, try\nand figure out a way of winning.",
+    "start": 287.408,
+    "duration": 3.671
+  },
+  {
+    "text": "You just move the bat at the bottom\nand see if you can find a way of winning.",
+    "start": 291.12,
+    "duration": 3.713
+  },
+  {
+    "text": "DH: It was a real revolution at the time.",
+    "start": 294.833,
+    "duration": 2.002
+  },
+  {
+    "text": "So this was in 2012, 2013",
+    "start": 296.835,
+    "duration": 1.376
+  },
+  {
+    "text": "where we coined these terms\n\"deep reinforcement learning.\"",
+    "start": 298.211,
+    "duration": 3.337
+  },
+  {
+    "text": "And the key thing about them\nis that those systems were learning",
+    "start": 301.548,
+    "duration": 3.044
+  },
+  {
+    "text": "directly from the pixels,\nthe raw pixels on the screen,",
+    "start": 304.634,
+    "duration": 2.586
+  },
+  {
+    "text": "but they weren't being told anything else.",
+    "start": 307.262,
+    "duration": 2.085
+  },
+  {
+    "text": "So they were being told,\nmaximize the score,",
+    "start": 309.389,
+    "duration": 2.169
+  },
+  {
+    "text": "here are the pixels on the screen,",
+    "start": 311.558,
+    "duration": 1.668
+  },
+  {
+    "text": "30,000 pixels.",
+    "start": 313.268,
+    "duration": 2.085
+  },
+  {
+    "text": "The system has to make sense\non its own from first principles",
+    "start": 315.395,
+    "duration": 3.42
+  },
+  {
+    "text": "what’s going on, what it’s controlling,",
+    "start": 318.857,
+    "duration": 1.876
+  },
+  {
+    "text": "how to get points.",
+    "start": 320.733,
+    "duration": 1.168
+  },
+  {
+    "text": "And that's the other nice thing\nabout using games to begin with.",
+    "start": 321.901,
+    "duration": 3.003
+  },
+  {
+    "text": "They have clear objectives,\nto win, to get scores.",
+    "start": 324.946,
+    "duration": 2.377
+  },
+  {
+    "text": "So you can kind of measure very easily\nthat your systems are improving.",
+    "start": 327.323,
+    "duration": 3.587
+  },
+  {
+    "text": "CA: But there was a direct line\nfrom that to this moment",
+    "start": 330.91,
+    "duration": 2.628
+  },
+  {
+    "text": "a few years later,",
+    "start": 333.58,
+    "duration": 1.459
+  },
+  {
+    "text": "where country of South Korea\nand many other parts of Asia",
+    "start": 335.081,
+    "duration": 4.129
+  },
+  {
+    "text": "and in fact the world\nwent crazy over -- over what?",
+    "start": 339.252,
+    "duration": 3.045
+  },
+  {
+    "text": "DH: Yeah, so this was\nthe pinnacle of -- this is in 2016 --",
+    "start": 342.589,
+    "duration": 3.712
+  },
+  {
+    "text": "the pinnacle of our games-playing work,",
+    "start": 346.342,
+    "duration": 2.586
+  },
+  {
+    "text": "where, so we'd done Atari,",
+    "start": 348.97,
+    "duration": 1.793
+  },
+  {
+    "text": "we'd done some more complicated games.",
+    "start": 350.763,
+    "duration": 2.169
+  },
+  {
+    "text": "And then we reached the pinnacle,\nwhich was the game of Go,",
+    "start": 352.974,
+    "duration": 3.295
+  },
+  {
+    "text": "which is what they play in Asia\ninstead of chess,",
+    "start": 356.311,
+    "duration": 2.961
+  },
+  {
+    "text": "but it's actually more complex than chess.",
+    "start": 359.272,
+    "duration": 2.085
+  },
+  {
+    "text": "And the actual brute force algorithms",
+    "start": 361.357,
+    "duration": 4.171
+  },
+  {
+    "text": "that were used to kind of crack chess\nwere not possible with Go",
+    "start": 365.528,
+    "duration": 4.671
+  },
+  {
+    "text": "because it's a much more\npattern-based game,",
+    "start": 370.241,
+    "duration": 2.419
+  },
+  {
+    "text": "much more intuitive game.",
+    "start": 372.702,
+    "duration": 1.293
+  },
+  {
+    "text": "So even though Deep Blue beat\nGarry Kasparov in the '90s,",
+    "start": 374.037,
+    "duration": 3.503
+  },
+  {
+    "text": "it took another 20 years\nfor our program, AlphaGo,",
+    "start": 377.582,
+    "duration": 4.129
+  },
+  {
+    "text": "to beat the world champion at Go.",
+    "start": 381.753,
+    "duration": 1.71
+  },
+  {
+    "text": "And we always thought,",
+    "start": 383.504,
+    "duration": 1.168
+  },
+  {
+    "text": "myself and the people working\non this project for many years,",
+    "start": 384.714,
+    "duration": 2.878
+  },
+  {
+    "text": "if you could build a system\nthat could beat the world champion at Go,",
+    "start": 387.634,
+    "duration": 3.92
+  },
+  {
+    "text": "it would have had to have done\nsomething very interesting.",
+    "start": 391.596,
+    "duration": 2.711
+  },
+  {
+    "text": "And in this case,\nwhat we did with AlphaGo,",
+    "start": 394.349,
+    "duration": 2.043
+  },
+  {
+    "text": "is it basically learned for itself,",
+    "start": 396.392,
+    "duration": 1.71
+  },
+  {
+    "text": "by playing millions and millions\nof games against itself,",
+    "start": 398.102,
+    "duration": 2.711
+  },
+  {
+    "text": "ideas about Go, the right strategies.",
+    "start": 400.813,
+    "duration": 1.794
+  },
+  {
+    "text": "And in fact invented\nits own new strategies",
+    "start": 402.607,
+    "duration": 2.461
+  },
+  {
+    "text": "that the Go world had never seen before,",
+    "start": 405.068,
+    "duration": 2.002
+  },
+  {
+    "text": "even though we've played Go for more than,",
+    "start": 407.07,
+    "duration": 2.627
+  },
+  {
+    "text": "you know, 2,000 years,",
+    "start": 409.697,
+    "duration": 1.46
+  },
+  {
+    "text": "it's the oldest board game in existence.",
+    "start": 411.199,
+    "duration": 2.753
+  },
+  {
+    "text": "So, you know, it was pretty astounding.",
+    "start": 414.327,
+    "duration": 1.918
+  },
+  {
+    "text": "Not only did it win the match,",
+    "start": 416.245,
+    "duration": 1.627
+  },
+  {
+    "text": "it also came up with brand new strategies.",
+    "start": 417.872,
+    "duration": 2.836
+  },
+  {
+    "text": "CA: And you continued this\nwith a new strategy",
+    "start": 421.125,
+    "duration": 2.169
+  },
+  {
+    "text": "of not even really teaching it\nanything about Go,",
+    "start": 423.336,
+    "duration": 2.294
+  },
+  {
+    "text": "but just setting up systems",
+    "start": 425.63,
+    "duration": 1.877
+  },
+  {
+    "text": "that just from first principles would play",
+    "start": 427.548,
+    "duration": 3.254
+  },
+  {
+    "text": "so that they could teach themselves\nfrom scratch, Go or chess.",
+    "start": 430.802,
+    "duration": 5.088
+  },
+  {
+    "text": "Talk about AlphaZero and the amazing\nthing that happened in chess then.",
+    "start": 435.932,
+    "duration": 5.714
+  },
+  {
+    "text": "DH: So following this,\nwe started with AlphaGo",
+    "start": 441.646,
+    "duration": 3.045
+  },
+  {
+    "text": "by giving it all of the human games\nthat are being played on the internet.",
+    "start": 444.691,
+    "duration": 3.92
+  },
+  {
+    "text": "So it started that as a basic\nstarting point for its knowledge.",
+    "start": 448.611,
+    "duration": 3.587
+  },
+  {
+    "text": "And then we wanted to see what would\nhappen if we started from scratch,",
+    "start": 452.24,
+    "duration": 3.587
+  },
+  {
+    "text": "from literally random play.",
+    "start": 455.868,
+    "duration": 1.669
+  },
+  {
+    "text": "So this is what AlphaZero was.",
+    "start": 457.537,
+    "duration": 1.501
+  },
+  {
+    "text": "That's why it's the zero in the name,",
+    "start": 459.038,
+    "duration": 1.835
+  },
+  {
+    "text": "because it started\nwith zero prior knowledge",
+    "start": 460.873,
+    "duration": 3.17
+  },
+  {
+    "text": "And the reason we did that\nis because then we would build a system",
+    "start": 464.085,
+    "duration": 3.128
+  },
+  {
+    "text": "that was more general.",
+    "start": 467.213,
+    "duration": 1.251
+  },
+  {
+    "text": "So AlphaGo could only play Go,",
+    "start": 468.464,
+    "duration": 1.919
+  },
+  {
+    "text": "but AlphaZero could play\nany two-player game,",
+    "start": 470.425,
+    "duration": 2.836
+  },
+  {
+    "text": "and it did it by playing\ninitially randomly",
+    "start": 473.302,
+    "duration": 4.088
+  },
+  {
+    "text": "and then slowly, incrementally improving.",
+    "start": 477.432,
+    "duration": 1.96
+  },
+  {
+    "text": "Well, not very slowly, actually,\nwithin the course of 24 hours,",
+    "start": 479.434,
+    "duration": 2.961
+  },
+  {
+    "text": "going from random to better\nthan world-champion level.",
+    "start": 482.395,
+    "duration": 3.045
+  },
+  {
+    "text": "CA: And so this is so amazing to me.",
+    "start": 486.315,
+    "duration": 1.752
+  },
+  {
+    "text": "So I'm more familiar\nwith chess than with Go.",
+    "start": 488.067,
+    "duration": 2.127
+  },
+  {
+    "text": "And for decades,",
+    "start": 490.194,
+    "duration": 1.335
+  },
+  {
+    "text": "thousands and thousands\nof AI experts worked on building",
+    "start": 491.571,
+    "duration": 3.462
+  },
+  {
+    "text": "incredible chess computers.",
+    "start": 495.033,
+    "duration": 1.334
+  },
+  {
+    "text": "Eventually, they got better than humans.",
+    "start": 496.367,
+    "duration": 2.544
+  },
+  {
+    "text": "You had a moment a few years ago,",
+    "start": 498.953,
+    "duration": 2.211
+  },
+  {
+    "text": "where in nine hours,",
+    "start": 501.205,
+    "duration": 2.628
+  },
+  {
+    "text": "AlphaZero taught itself to play chess\nbetter than any of those systems ever did.",
+    "start": 503.875,
+    "duration": 6.59
+  },
+  {
+    "text": "Talk about that.",
+    "start": 510.923,
+    "duration": 1.252
+  },
+  {
+    "text": "DH: It was a pretty incredible\nmoment, actually.",
+    "start": 512.175,
+    "duration": 2.294
+  },
+  {
+    "text": "So we set it going on chess.",
+    "start": 514.51,
+    "duration": 2.211
+  },
+  {
+    "text": "And as you said, there's this rich\nhistory of chess and AI",
+    "start": 518.056,
+    "duration": 2.752
+  },
+  {
+    "text": "where there are these expert systems\nthat have been programmed",
+    "start": 520.808,
+    "duration": 2.92
+  },
+  {
+    "text": "with these chess ideas, chess algorithms.",
+    "start": 523.77,
+    "duration": 2.294
+  },
+  {
+    "text": "And you have this amazing, you know,",
+    "start": 526.105,
+    "duration": 2.044
+  },
+  {
+    "text": "I remember this day very clearly,\nwhere you sort of sit down with the system",
+    "start": 528.191,
+    "duration": 3.837
+  },
+  {
+    "text": "starting off random,\nyou know, in the morning,",
+    "start": 532.07,
+    "duration": 2.919
+  },
+  {
+    "text": "you go for a cup of coffee, you come back.",
+    "start": 535.031,
+    "duration": 2.002
+  },
+  {
+    "text": "I can still just about beat it\nby lunchtime, maybe just about.",
+    "start": 537.075,
+    "duration": 3.503
+  },
+  {
+    "text": "And then you let it go\nfor another four hours.",
+    "start": 540.62,
+    "duration": 2.21
+  },
+  {
+    "text": "And by dinner,",
+    "start": 542.83,
+    "duration": 1.168
+  },
+  {
+    "text": "it's the greatest chess-playing entity\nthat's ever existed.",
+    "start": 543.998,
+    "duration": 2.795
+  },
+  {
+    "text": "And, you know, it's quite amazing,",
+    "start": 546.834,
+    "duration": 1.669
+  },
+  {
+    "text": "like, looking at that live on something\nthat you know well,",
+    "start": 548.503,
+    "duration": 3.211
+  },
+  {
+    "text": "you know, like chess, and you're expert in",
+    "start": 551.714,
+    "duration": 2.044
+  },
+  {
+    "text": "and actually just seeing that\nin front of your eyes.",
+    "start": 553.8,
+    "duration": 2.46
+  },
+  {
+    "text": "And then you extrapolate to what it could\nthen do in science or something else,",
+    "start": 556.26,
+    "duration": 3.963
+  },
+  {
+    "text": "which of course, games\nwere only a means to an end.",
+    "start": 560.264,
+    "duration": 2.878
+  },
+  {
+    "text": "They were never the end in themselves.",
+    "start": 563.184,
+    "duration": 1.835
+  },
+  {
+    "text": "They were just the training\nground for our ideas",
+    "start": 565.019,
+    "duration": 2.461
+  },
+  {
+    "text": "and to make quick progress\nin a matter of, you know,",
+    "start": 567.522,
+    "duration": 2.877
+  },
+  {
+    "text": "less than five years actually went\nfrom Atari to Go.",
+    "start": 570.441,
+    "duration": 4.046
+  },
+  {
+    "text": "CA: I mean, this is why\npeople are in awe of AI",
+    "start": 574.529,
+    "duration": 3.295
+  },
+  {
+    "text": "and also kind of terrified by it.",
+    "start": 577.865,
+    "duration": 2.127
+  },
+  {
+    "text": "I mean, it's not just\nincremental improvement.",
+    "start": 580.034,
+    "duration": 2.169
+  },
+  {
+    "text": "The fact that in a few hours\nyou can achieve",
+    "start": 582.245,
+    "duration": 2.919
+  },
+  {
+    "text": "what millions of humans over centuries\nhave not been able to achieve.",
+    "start": 585.206,
+    "duration": 4.796
+  },
+  {
+    "text": "That gives you pause for thought.",
+    "start": 590.044,
+    "duration": 2.586
+  },
+  {
+    "text": "DH: It does, I mean,\nit's a hugely powerful technology.",
+    "start": 593.214,
+    "duration": 2.836
+  },
+  {
+    "text": "It's going to be\nincredibly transformative.",
+    "start": 596.092,
+    "duration": 2.044
+  },
+  {
+    "text": "And we have to be very thoughtful\nabout how we use that capability.",
+    "start": 598.136,
+    "duration": 4.004
+  },
+  {
+    "text": "CA: So talk about this use of it\nbecause this is again,",
+    "start": 602.181,
+    "duration": 2.586
+  },
+  {
+    "text": "this is another extension\nof the work you've done,",
+    "start": 604.767,
+    "duration": 3.754
+  },
+  {
+    "text": "where now you're turning it to something\nincredibly useful for the world.",
+    "start": 608.563,
+    "duration": 4.129
+  },
+  {
+    "text": "What are all the letters on the left,\nand what’s on the right?",
+    "start": 612.733,
+    "duration": 2.92
+  },
+  {
+    "text": "DH: This was always\nmy aim with AI from a kid,",
+    "start": 615.695,
+    "duration": 4.129
+  },
+  {
+    "text": "which is to use it to accelerate\nscientific discovery.",
+    "start": 619.866,
+    "duration": 3.169
+  },
+  {
+    "text": "And actually, ever since doing\nmy undergrad at Cambridge,",
+    "start": 623.035,
+    "duration": 2.962
+  },
+  {
+    "text": "I had this problem in mind one day for AI,",
+    "start": 626.038,
+    "duration": 2.545
+  },
+  {
+    "text": "it's called the protein-folding problem.",
+    "start": 628.624,
+    "duration": 1.919
+  },
+  {
+    "text": "And it's kind of like a 50-year\ngrand challenge in biology.",
+    "start": 630.543,
+    "duration": 2.794
+  },
+  {
+    "text": "And it's very simple to explain.",
+    "start": 633.337,
+    "duration": 1.919
+  },
+  {
+    "text": "Proteins are essential to life.",
+    "start": 635.256,
+    "duration": 2.461
+  },
+  {
+    "text": "They're the building blocks of life.",
+    "start": 638.009,
+    "duration": 1.751
+  },
+  {
+    "text": "Everything in your body\ndepends on proteins.",
+    "start": 639.76,
+    "duration": 2.086
+  },
+  {
+    "text": "A protein is sort of described\nby its amino acid sequence,",
+    "start": 641.846,
+    "duration": 5.38
+  },
+  {
+    "text": "which you can think of\nas roughly the genetic sequence",
+    "start": 647.226,
+    "duration": 2.544
+  },
+  {
+    "text": "describing the protein,\nso that are the letters.",
+    "start": 649.812,
+    "duration": 2.252
+  },
+  {
+    "text": "CA: And each of those letters represents\nin itself a complex molecule?",
+    "start": 652.064,
+    "duration": 3.295
+  },
+  {
+    "text": "DH: That's right, each of those\nletters is an amino acid.",
+    "start": 655.401,
+    "duration": 2.711
+  },
+  {
+    "text": "And you can think of them\nas a kind of string of beads",
+    "start": 658.112,
+    "duration": 2.544
+  },
+  {
+    "text": "there at the bottom, left, right?",
+    "start": 660.698,
+    "duration": 1.919
+  },
+  {
+    "text": "But in nature, in your body\nor in an animal,",
+    "start": 662.658,
+    "duration": 3.42
+  },
+  {
+    "text": "this string, a sequence,",
+    "start": 666.078,
+    "duration": 1.794
+  },
+  {
+    "text": "turns into this beautiful\nshape on the right.",
+    "start": 667.914,
+    "duration": 2.544
+  },
+  {
+    "text": "That's the protein.",
+    "start": 670.458,
+    "duration": 1.209
+  },
+  {
+    "text": "Those letters describe that shape.",
+    "start": 671.709,
+    "duration": 2.586
+  },
+  {
+    "text": "And that's what it looks like in nature.",
+    "start": 674.295,
+    "duration": 2.294
+  },
+  {
+    "text": "And the important thing\nabout that 3D structure is",
+    "start": 676.589,
+    "duration": 2.502
+  },
+  {
+    "text": "the 3D structure of the protein\ngoes a long way to telling you",
+    "start": 679.133,
+    "duration": 3.17
+  },
+  {
+    "text": "what its function is\nin the body, what it does.",
+    "start": 682.345,
+    "duration": 2.21
+  },
+  {
+    "text": "And so the protein-folding problem is:",
+    "start": 684.597,
+    "duration": 2.252
+  },
+  {
+    "text": "Can you directly predict the 3D structure\njust from the amino acid sequence?",
+    "start": 686.891,
+    "duration": 4.963
+  },
+  {
+    "text": "So literally if you give\nthe machine, the AI system,",
+    "start": 691.854,
+    "duration": 2.544
+  },
+  {
+    "text": "the letters on the left,",
+    "start": 694.44,
+    "duration": 1.502
+  },
+  {
+    "text": "can it produce the 3D\nstructure on the right?",
+    "start": 695.983,
+    "duration": 2.253
+  },
+  {
+    "text": "And that's what AlphaFold does,\nour program does.",
+    "start": 698.277,
+    "duration": 2.336
+  },
+  {
+    "text": "CA: It's not calculating it\nfrom the letters,",
+    "start": 700.613,
+    "duration": 2.169
+  },
+  {
+    "text": "it's looking at patterns of other\nfolded proteins that are known about",
+    "start": 702.823,
+    "duration": 4.922
+  },
+  {
+    "text": "and somehow learning from those patterns",
+    "start": 707.745,
+    "duration": 2.628
+  },
+  {
+    "text": "that this may be the way to do this?",
+    "start": 710.414,
+    "duration": 1.752
+  },
+  {
+    "text": "DH: So when we started this project,\nactually straight after AlphaGo,",
+    "start": 712.166,
+    "duration": 3.295
+  },
+  {
+    "text": "I thought we were ready.",
+    "start": 715.503,
+    "duration": 1.168
+  },
+  {
+    "text": "Once we'd cracked Go,",
+    "start": 716.712,
+    "duration": 1.168
+  },
+  {
+    "text": "I felt we were finally ready\nafter, you know,",
+    "start": 717.88,
+    "duration": 2.711
+  },
+  {
+    "text": "almost 20 years of working on this stuff",
+    "start": 720.591,
+    "duration": 1.919
+  },
+  {
+    "text": "to actually tackle\nsome scientific problems,",
+    "start": 722.551,
+    "duration": 2.586
+  },
+  {
+    "text": "including protein folding.",
+    "start": 725.179,
+    "duration": 1.335
+  },
+  {
+    "text": "And what we start with is painstakingly,",
+    "start": 726.514,
+    "duration": 3.044
+  },
+  {
+    "text": "over the last 40-plus years,",
+    "start": 729.6,
+    "duration": 1.794
+  },
+  {
+    "text": "experimental biologists\nhave pieced together",
+    "start": 731.435,
+    "duration": 3.42
+  },
+  {
+    "text": "around 150,000 protein structures",
+    "start": 734.855,
+    "duration": 2.67
+  },
+  {
+    "text": "using very complicated, you know,\nX-ray crystallography techniques",
+    "start": 737.566,
+    "duration": 3.671
+  },
+  {
+    "text": "and other complicated\nexperimental techniques.",
+    "start": 741.237,
+    "duration": 2.794
+  },
+  {
+    "text": "And the rule of thumb is",
+    "start": 744.031,
+    "duration": 2.086
+  },
+  {
+    "text": "that it takes one PhD student\ntheir whole PhD,",
+    "start": 746.117,
+    "duration": 3.628
+  },
+  {
+    "text": "so four or five years,\nto uncover one structure.",
+    "start": 749.787,
+    "duration": 3.42
+  },
+  {
+    "text": "But there are 200 million\nproteins known to nature.",
+    "start": 753.207,
+    "duration": 2.961
+  },
+  {
+    "text": "So you could just, you know,\ntake forever to do that.",
+    "start": 756.21,
+    "duration": 3.17
+  },
+  {
+    "text": "And so we managed to actually fold,\nusing AlphaFold, in one year,",
+    "start": 759.422,
+    "duration": 4.337
+  },
+  {
+    "text": "all those 200 million proteins\nknown to science.",
+    "start": 763.801,
+    "duration": 2.419
+  },
+  {
+    "text": "So that's a billion years\nof PhD time saved.",
+    "start": 766.262,
+    "duration": 2.711
+  },
+  {
+    "text": "(Applause)",
+    "start": 769.015,
+    "duration": 3.837
+  },
+  {
+    "text": "CA: So it's amazing to me\njust how reliably it works.",
+    "start": 772.893,
+    "duration": 2.503
+  },
+  {
+    "text": "I mean, this shows, you know,",
+    "start": 775.396,
+    "duration": 2.669
+  },
+  {
+    "text": "here's the model\nand you do the experiment.",
+    "start": 778.107,
+    "duration": 2.044
+  },
+  {
+    "text": "And sure enough, the protein\nturns out the same way.",
+    "start": 780.151,
+    "duration": 3.044
+  },
+  {
+    "text": "Times 200 million.",
+    "start": 783.195,
+    "duration": 1.21
+  },
+  {
+    "text": "DH: And the more deeply\nyou go into proteins,",
+    "start": 784.447,
+    "duration": 2.669
+  },
+  {
+    "text": "you just start appreciating\nhow exquisite they are.",
+    "start": 787.158,
+    "duration": 2.711
+  },
+  {
+    "text": "I mean, look at how beautiful\nthese proteins are.",
+    "start": 789.91,
+    "duration": 2.294
+  },
+  {
+    "text": "And each of these things\ndo a special function in nature.",
+    "start": 792.246,
+    "duration": 2.711
+  },
+  {
+    "text": "And they're almost like works of art.",
+    "start": 794.957,
+    "duration": 1.794
+  },
+  {
+    "text": "And it's still astounds me today\nthat AlphaFold can predict,",
+    "start": 796.751,
+    "duration": 2.836
+  },
+  {
+    "text": "the green is the ground truth,\nand the blue is the prediction,",
+    "start": 799.587,
+    "duration": 2.961
+  },
+  {
+    "text": "how well it can predict, is to within\nthe width of an atom on average,",
+    "start": 802.548,
+    "duration": 4.254
+  },
+  {
+    "text": "is how accurate the prediction is,",
+    "start": 806.802,
+    "duration": 2.044
+  },
+  {
+    "text": "which is what is needed\nfor biologists to use it,",
+    "start": 808.888,
+    "duration": 2.627
+  },
+  {
+    "text": "and for drug design\nand for disease understanding,",
+    "start": 811.557,
+    "duration": 2.836
+  },
+  {
+    "text": "which is what AlphaFold unlocks.",
+    "start": 814.435,
+    "duration": 2.502
+  },
+  {
+    "text": "CA: You made a surprising decision,",
+    "start": 816.979,
+    "duration": 1.71
+  },
+  {
+    "text": "which was to give away the actual results\nof your 200 million proteins.",
+    "start": 818.731,
+    "duration": 5.964
+  },
+  {
+    "text": "DH: We open-sourced AlphaFold\nand gave everything away",
+    "start": 824.737,
+    "duration": 3.003
+  },
+  {
+    "text": "on a huge database\nwith our wonderful colleagues,",
+    "start": 827.782,
+    "duration": 2.294
+  },
+  {
+    "text": "the European Bioinformatics Institute.",
+    "start": 830.117,
+    "duration": 1.835
+  },
+  {
+    "text": "(Applause)",
+    "start": 831.952,
+    "duration": 3.17
+  },
+  {
+    "text": "CA: I mean, you're part of Google.",
+    "start": 835.122,
+    "duration": 2.378
+  },
+  {
+    "text": "Was there a phone call saying,\n\"Uh, Demis, what did you just do?\"",
+    "start": 837.541,
+    "duration": 3.963
+  },
+  {
+    "text": "DH: You know, I'm lucky\nwe have very supportive,",
+    "start": 841.879,
+    "duration": 2.753
+  },
+  {
+    "text": "Google's really supportive of science",
+    "start": 844.673,
+    "duration": 1.794
+  },
+  {
+    "text": "and understand the benefits\nthis can bring to the world.",
+    "start": 846.509,
+    "duration": 4.337
+  },
+  {
+    "text": "And, you know, the argument here",
+    "start": 850.888,
+    "duration": 1.543
+  },
+  {
+    "text": "was that we could only ever\nhave even scratched the surface",
+    "start": 852.473,
+    "duration": 3.211
+  },
+  {
+    "text": "of the potential of what\nwe could do with this.",
+    "start": 855.726,
+    "duration": 2.211
+  },
+  {
+    "text": "This, you know, maybe like a millionth",
+    "start": 857.937,
+    "duration": 1.877
+  },
+  {
+    "text": "of what the scientific\ncommunity is doing with it.",
+    "start": 859.814,
+    "duration": 2.377
+  },
+  {
+    "text": "There's over a million and a half\nbiologists around the world",
+    "start": 862.233,
+    "duration": 3.336
+  },
+  {
+    "text": "have used AlphaFold and its predictions.",
+    "start": 865.569,
+    "duration": 1.919
+  },
+  {
+    "text": "We think that's almost\nevery biologist in the world",
+    "start": 867.53,
+    "duration": 2.419
+  },
+  {
+    "text": "is making use of this now,\nevery pharma company.",
+    "start": 869.949,
+    "duration": 2.252
+  },
+  {
+    "text": "So we'll never know probably\nwhat the full impact of it all is.",
+    "start": 872.243,
+    "duration": 3.086
+  },
+  {
+    "text": "CA: But you're continuing\nthis work in a new company",
+    "start": 875.329,
+    "duration": 2.461
+  },
+  {
+    "text": "that's spinning out of Google\ncalled Isomorph.",
+    "start": 877.832,
+    "duration": 2.544
+  },
+  {
+    "text": "DH: Isomorphic.",
+    "start": 880.376,
+    "duration": 1.251
+  },
+  {
+    "text": "CA: Isomorphic.",
+    "start": 881.627,
+    "duration": 1.376
+  },
+  {
+    "text": "Give us just a sense of the vision there.",
+    "start": 883.879,
+    "duration": 2.002
+  },
+  {
+    "text": "What's the vision?",
+    "start": 885.881,
+    "duration": 1.168
+  },
+  {
+    "text": "DH: AlphaFold is a sort\nof fundamental biology tool.",
+    "start": 887.091,
+    "duration": 2.961
+  },
+  {
+    "text": "Like, what are these 3D structures,",
+    "start": 890.094,
+    "duration": 2.627
+  },
+  {
+    "text": "and then what might they do in nature?",
+    "start": 892.763,
+    "duration": 2.795
+  },
+  {
+    "text": "And then if you, you know,",
+    "start": 895.975,
+    "duration": 1.334
+  },
+  {
+    "text": "the reason I thought about this\nand was so excited about this,",
+    "start": 897.309,
+    "duration": 2.962
+  },
+  {
+    "text": "is that this is the beginnings\nof understanding disease",
+    "start": 900.271,
+    "duration": 3.545
+  },
+  {
+    "text": "and also maybe helpful\nfor designing drugs.",
+    "start": 903.816,
+    "duration": 3.086
+  },
+  {
+    "text": "So if you know the shape of the protein,",
+    "start": 906.944,
+    "duration": 2.503
+  },
+  {
+    "text": "and then you can kind of figure out",
+    "start": 909.488,
+    "duration": 2.378
+  },
+  {
+    "text": "which part of the surface of the protein",
+    "start": 911.907,
+    "duration": 1.919
+  },
+  {
+    "text": "you're going to target\nwith your drug compound.",
+    "start": 913.826,
+    "duration": 2.377
+  },
+  {
+    "text": "And Isomorphic is extending\nthis work we did in AlphaFold",
+    "start": 916.245,
+    "duration": 3.67
+  },
+  {
+    "text": "into the chemistry space,",
+    "start": 919.957,
+    "duration": 1.585
+  },
+  {
+    "text": "where we can design chemical compounds",
+    "start": 921.542,
+    "duration": 3.003
+  },
+  {
+    "text": "that will bind exactly\nto the right spot on the protein",
+    "start": 924.587,
+    "duration": 2.878
+  },
+  {
+    "text": "and also, importantly,\nto nothing else in the body.",
+    "start": 927.465,
+    "duration": 3.086
+  },
+  {
+    "text": "So it doesn't have any side effects\nand it's not toxic and so on.",
+    "start": 930.593,
+    "duration": 4.296
+  },
+  {
+    "text": "And we're building many other AI models,",
+    "start": 934.93,
+    "duration": 2.169
+  },
+  {
+    "text": "sort of sister models to AlphaFold",
+    "start": 937.141,
+    "duration": 2.336
+  },
+  {
+    "text": "to help predict,",
+    "start": 939.477,
+    "duration": 1.71
+  },
+  {
+    "text": "make predictions in chemistry space.",
+    "start": 941.228,
+    "duration": 2.294
+  },
+  {
+    "text": "CA: So we can expect to see",
+    "start": 943.564,
+    "duration": 1.293
+  },
+  {
+    "text": "some pretty dramatic\nhealth medicine breakthroughs",
+    "start": 944.899,
+    "duration": 3.128
+  },
+  {
+    "text": "in the coming few years.",
+    "start": 948.027,
+    "duration": 1.209
+  },
+  {
+    "text": "DH: I think we'll be able\nto get down drug discovery",
+    "start": 949.278,
+    "duration": 2.711
+  },
+  {
+    "text": "from years to maybe months.",
+    "start": 951.989,
+    "duration": 2.127
+  },
+  {
+    "text": "CA: OK. Demis, I'd like\nto change direction a bit.",
+    "start": 954.158,
+    "duration": 2.919
+  },
+  {
+    "text": "Our mutual friend, Liv Boeree,\ngave a talk last year at TEDAI",
+    "start": 958.329,
+    "duration": 3.962
+  },
+  {
+    "text": "that she called the “Moloch Trap.”",
+    "start": 962.291,
+    "duration": 2.044
+  },
+  {
+    "text": "The Moloch Trap is a situation",
+    "start": 964.835,
+    "duration": 1.877
+  },
+  {
+    "text": "where organizations,",
+    "start": 966.754,
+    "duration": 2.836
+  },
+  {
+    "text": "companies in a competitive situation\ncan be driven to do things",
+    "start": 969.632,
+    "duration": 5.13
+  },
+  {
+    "text": "that no individual running those companies\nwould by themselves do.",
+    "start": 974.762,
+    "duration": 4.629
+  },
+  {
+    "text": "I was really struck by this talk,",
+    "start": 979.391,
+    "duration": 2.294
+  },
+  {
+    "text": "and it's felt, as a sort of\nlayperson observer,",
+    "start": 981.685,
+    "duration": 3.587
+  },
+  {
+    "text": "that the Moloch Trap has been shockingly\nin effect in the last couple of years.",
+    "start": 985.272,
+    "duration": 5.089
+  },
+  {
+    "text": "So here you are with DeepMind,",
+    "start": 990.402,
+    "duration": 2.044
+  },
+  {
+    "text": "sort of pursuing these amazing\nmedical breakthroughs",
+    "start": 992.488,
+    "duration": 3.17
+  },
+  {
+    "text": "and scientific breakthroughs,",
+    "start": 995.699,
+    "duration": 1.418
+  },
+  {
+    "text": "and then suddenly,\nkind of out of left field,",
+    "start": 997.117,
+    "duration": 4.004
+  },
+  {
+    "text": "OpenAI with Microsoft releases ChatGPT.",
+    "start": 1001.163,
+    "duration": 5.381
+  },
+  {
+    "text": "And the world goes crazy\nand suddenly goes, “Holy crap, AI is ...”",
+    "start": 1006.585,
+    "duration": 3.879
+  },
+  {
+    "text": "you know, everyone can use it.",
+    "start": 1010.464,
+    "duration": 2.586
+  },
+  {
+    "text": "And there’s a sort of,\nit felt like the Moloch Trap in action.",
+    "start": 1014.26,
+    "duration": 4.045
+  },
+  {
+    "text": "I think Microsoft CEO\nSatya Nadella actually said,",
+    "start": 1018.347,
+    "duration": 5.13
+  },
+  {
+    "text": "\"Google is the 800-pound gorilla\nin the search space.",
+    "start": 1023.477,
+    "duration": 4.838
+  },
+  {
+    "text": "We wanted to make Google dance.\"",
+    "start": 1028.357,
+    "duration": 2.836
+  },
+  {
+    "text": "How ...?",
+    "start": 1032.319,
+    "duration": 1.293
+  },
+  {
+    "text": "And it did, Google did dance.",
+    "start": 1034.613,
+    "duration": 1.877
+  },
+  {
+    "text": "There was a dramatic response.",
+    "start": 1036.49,
+    "duration": 1.96
+  },
+  {
+    "text": "Your role was changed,",
+    "start": 1038.993,
+    "duration": 1.167
+  },
+  {
+    "text": "you took over the whole Google AI effort.",
+    "start": 1040.16,
+    "duration": 3.879
+  },
+  {
+    "text": "Products were rushed out.",
+    "start": 1044.456,
+    "duration": 1.627
+  },
+  {
+    "text": "You know, Gemini, some part amazing,\npart embarrassing.",
+    "start": 1047.251,
+    "duration": 3.003
+  },
+  {
+    "text": "I’m not going to ask you about Gemini\nbecause you’ve addressed it elsewhere.",
+    "start": 1050.296,
+    "duration": 3.628
+  },
+  {
+    "text": "But it feels like this was\nthe Moloch Trap happening,",
+    "start": 1053.924,
+    "duration": 3.295
+  },
+  {
+    "text": "that you and others\nwere pushed to do stuff",
+    "start": 1057.261,
+    "duration": 2.753
+  },
+  {
+    "text": "that you wouldn't have done without\nthis sort of catalyzing competitive thing.",
+    "start": 1060.055,
+    "duration": 5.047
+  },
+  {
+    "text": "Meta did something similar as well.",
+    "start": 1065.102,
+    "duration": 2.169
+  },
+  {
+    "text": "They rushed out\nan open-source version of AI,",
+    "start": 1067.313,
+    "duration": 3.336
+  },
+  {
+    "text": "which is arguably\na reckless act in itself.",
+    "start": 1070.691,
+    "duration": 3.295
+  },
+  {
+    "text": "This seems terrifying to me.",
+    "start": 1075.613,
+    "duration": 1.459
+  },
+  {
+    "text": "Is it terrifying?",
+    "start": 1077.072,
+    "duration": 1.835
+  },
+  {
+    "text": "DH: Look, it's a complicated\ntopic, of course.",
+    "start": 1079.617,
+    "duration": 2.252
+  },
+  {
+    "text": "And, first of all, I mean,\nthere are many things to say about it.",
+    "start": 1081.869,
+    "duration": 3.879
+  },
+  {
+    "text": "First of all, we were working\non many large language models.",
+    "start": 1085.789,
+    "duration": 4.421
+  },
+  {
+    "text": "And in fact, obviously, Google research\nactually invented Transformers,",
+    "start": 1090.252,
+    "duration": 3.337
+  },
+  {
+    "text": "as you know,",
+    "start": 1093.589,
+    "duration": 1.168
+  },
+  {
+    "text": "which was the architecture\nthat allowed all this to be possible,",
+    "start": 1094.798,
+    "duration": 3.045
+  },
+  {
+    "text": "five, six years ago.",
+    "start": 1097.885,
+    "duration": 1.251
+  },
+  {
+    "text": "And so we had many\nlarge models internally.",
+    "start": 1099.178,
+    "duration": 2.669
+  },
+  {
+    "text": "The thing was, I think what the ChatGPT\nmoment did that changed was,",
+    "start": 1101.847,
+    "duration": 3.879
+  },
+  {
+    "text": "and fair play to them to do that,\nwas they demonstrated,",
+    "start": 1105.768,
+    "duration": 3.128
+  },
+  {
+    "text": "I think somewhat surprisingly\nto themselves as well,",
+    "start": 1108.937,
+    "duration": 2.795
+  },
+  {
+    "text": "that the public were ready to,",
+    "start": 1111.732,
+    "duration": 2.502
+  },
+  {
+    "text": "you know, the general public\nwere ready to embrace these systems",
+    "start": 1114.276,
+    "duration": 3.003
+  },
+  {
+    "text": "and actually find value in these systems.",
+    "start": 1117.279,
+    "duration": 1.96
+  },
+  {
+    "text": "Impressive though they are, I guess,\nwhen we're working on these systems,",
+    "start": 1119.281,
+    "duration": 3.962
+  },
+  {
+    "text": "mostly you're focusing on the flaws\nand the things they don't do",
+    "start": 1123.243,
+    "duration": 3.003
+  },
+  {
+    "text": "and hallucinations and things\nyou're all familiar with now.",
+    "start": 1126.288,
+    "duration": 2.836
+  },
+  {
+    "text": "We're thinking, you know,",
+    "start": 1129.124,
+    "duration": 1.377
+  },
+  {
+    "text": "would anyone really find that useful\ngiven that it does this and that?",
+    "start": 1130.501,
+    "duration": 3.587
+  },
+  {
+    "text": "And we would want them\nto improve those things first,",
+    "start": 1134.129,
+    "duration": 2.503
+  },
+  {
+    "text": "before putting them out.",
+    "start": 1136.674,
+    "duration": 1.418
+  },
+  {
+    "text": "But interestingly, it turned out\nthat even with those flaws,",
+    "start": 1138.133,
+    "duration": 3.754
+  },
+  {
+    "text": "many tens of millions of people\nstill find them very useful.",
+    "start": 1141.929,
+    "duration": 2.919
+  },
+  {
+    "text": "And so that was an interesting update\non maybe the convergence of products",
+    "start": 1144.848,
+    "duration": 4.922
+  },
+  {
+    "text": "and the science that actually,",
+    "start": 1149.77,
+    "duration": 3.712
+  },
+  {
+    "text": "all of these amazing things\nwe've been doing in the lab, so to speak,",
+    "start": 1153.524,
+    "duration": 3.253
+  },
+  {
+    "text": "are actually ready for prime time\nfor general use,",
+    "start": 1156.819,
+    "duration": 3.003
+  },
+  {
+    "text": "beyond the rarefied world of science.",
+    "start": 1159.822,
+    "duration": 2.002
+  },
+  {
+    "text": "And I think that's pretty\nexciting in many ways.",
+    "start": 1161.824,
+    "duration": 2.627
+  },
+  {
+    "text": "CA: So at the moment, we've got\nthis exciting array of products",
+    "start": 1164.91,
+    "duration": 2.961
+  },
+  {
+    "text": "which we're all enjoying.",
+    "start": 1167.913,
+    "duration": 1.21
+  },
+  {
+    "text": "And, you know, all this generative\nAI stuff is amazing.",
+    "start": 1169.164,
+    "duration": 2.586
+  },
+  {
+    "text": "But let's roll the clock forward a bit.",
+    "start": 1171.75,
+    "duration": 2.086
+  },
+  {
+    "text": "Microsoft and OpenAI\nare reported to be building",
+    "start": 1174.503,
+    "duration": 3.962
+  },
+  {
+    "text": "or investing like 100 billion dollars",
+    "start": 1178.507,
+    "duration": 2.336
+  },
+  {
+    "text": "into an absolute monster\ndatabase supercomputer",
+    "start": 1180.884,
+    "duration": 5.005
+  },
+  {
+    "text": "that can offer compute\nat orders of magnitude",
+    "start": 1185.889,
+    "duration": 3.212
+  },
+  {
+    "text": "more than anything we have today.",
+    "start": 1189.143,
+    "duration": 2.544
+  },
+  {
+    "text": "It takes like five gigawatts\nof energy to drive this, it's estimated.",
+    "start": 1192.104,
+    "duration": 3.92
+  },
+  {
+    "text": "That's the energy of New York City\nto drive a data center.",
+    "start": 1196.066,
+    "duration": 4.254
+  },
+  {
+    "text": "So we're pumping all this energy\ninto this giant, vast brain.",
+    "start": 1200.612,
+    "duration": 3.42
+  },
+  {
+    "text": "Google, I presume is going to match\nthis type of investment, right?",
+    "start": 1204.658,
+    "duration": 4.046
+  },
+  {
+    "text": "DH: Well, I mean, we don't talk\nabout our specific numbers,",
+    "start": 1209.037,
+    "duration": 2.795
+  },
+  {
+    "text": "but you know, I think we're investing\nmore than that over time.",
+    "start": 1211.874,
+    "duration": 3.336
+  },
+  {
+    "text": "So, and that's one of the reasons",
+    "start": 1215.252,
+    "duration": 1.96
+  },
+  {
+    "text": "we teamed up with Google back in 2014,",
+    "start": 1217.212,
+    "duration": 2.169
+  },
+  {
+    "text": "is kind of we knew\nthat in order to get to AGI,",
+    "start": 1219.381,
+    "duration": 3.921
+  },
+  {
+    "text": "we would need a lot of compute.",
+    "start": 1223.343,
+    "duration": 1.502
+  },
+  {
+    "text": "And that's what's transpired.",
+    "start": 1224.887,
+    "duration": 1.501
+  },
+  {
+    "text": "And Google, you know, had\nand still has the most computers.",
+    "start": 1226.43,
+    "duration": 3.42
+  },
+  {
+    "text": "CA: So Earth is building\nthese giant computers",
+    "start": 1230.309,
+    "duration": 2.961
+  },
+  {
+    "text": "that are going to basically,\nthese giant brains,",
+    "start": 1233.27,
+    "duration": 2.294
+  },
+  {
+    "text": "that are going to power\nso much of the future economy.",
+    "start": 1235.564,
+    "duration": 2.878
+  },
+  {
+    "text": "And it's all by companies\nthat are in competition with each other.",
+    "start": 1238.484,
+    "duration": 3.878
+  },
+  {
+    "text": "How will we avoid the situation\nwhere someone is getting a lead,",
+    "start": 1242.362,
+    "duration": 5.589
+  },
+  {
+    "text": "someone else has got 100 billion dollars\ninvested in their thing.",
+    "start": 1247.993,
+    "duration": 4.213
+  },
+  {
+    "text": "Isn't someone going to go, \"Wait a sec.",
+    "start": 1252.206,
+    "duration": 2.085
+  },
+  {
+    "text": "If we used reinforcement learning here",
+    "start": 1254.333,
+    "duration": 3.378
+  },
+  {
+    "text": "to maybe have the AI tweak its own code",
+    "start": 1257.753,
+    "duration": 2.919
+  },
+  {
+    "text": "and rewrite itself\nand make it so [powerful],",
+    "start": 1260.714,
+    "duration": 2.252
+  },
+  {
+    "text": "we might be able to catch up\nin nine hours over the weekend",
+    "start": 1263.008,
+    "duration": 3.212
+  },
+  {
+    "text": "with what they're doing.",
+    "start": 1266.22,
+    "duration": 1.167
+  },
+  {
+    "text": "Roll the dice, dammit, we have no choice.",
+    "start": 1267.429,
+    "duration": 1.96
+  },
+  {
+    "text": "Otherwise we're going to lose\na fortune for our shareholders.\"",
+    "start": 1269.431,
+    "duration": 2.92
+  },
+  {
+    "text": "How are we going to avoid that?",
+    "start": 1272.351,
+    "duration": 1.835
+  },
+  {
+    "text": "DH: Yeah, well, we must avoid that,\nof course, clearly.",
+    "start": 1274.228,
+    "duration": 2.627
+  },
+  {
+    "text": "And my view is that as we\nget closer to AGI,",
+    "start": 1276.855,
+    "duration": 3.587
+  },
+  {
+    "text": "we need to collaborate more.",
+    "start": 1280.442,
+    "duration": 2.378
+  },
+  {
+    "text": "And the good news is that most\nof the scientists involved in these labs",
+    "start": 1282.82,
+    "duration": 4.879
+  },
+  {
+    "text": "know each other very well.",
+    "start": 1287.741,
+    "duration": 1.376
+  },
+  {
+    "text": "And we talk to each other a lot\nat conferences and other things.",
+    "start": 1289.117,
+    "duration": 3.546
+  },
+  {
+    "text": "And this technology is still\nrelatively nascent.",
+    "start": 1292.704,
+    "duration": 2.503
+  },
+  {
+    "text": "So probably it's OK\nwhat's happening at the moment.",
+    "start": 1295.249,
+    "duration": 2.419
+  },
+  {
+    "text": "But as we get closer to AGI,\nI think as a society,",
+    "start": 1297.709,
+    "duration": 4.421
+  },
+  {
+    "text": "we need to start thinking about the types\nof architectures that get built.",
+    "start": 1302.172,
+    "duration": 4.713
+  },
+  {
+    "text": "So I'm very optimistic, of course,",
+    "start": 1306.927,
+    "duration": 1.793
+  },
+  {
+    "text": "that's why I spent my whole life\nworking on AI and working towards AGI.",
+    "start": 1308.762,
+    "duration": 4.838
+  },
+  {
+    "text": "But I suspect there are many ways to build\nthe architecture safely, robustly,",
+    "start": 1313.6,
+    "duration": 6.507
+  },
+  {
+    "text": "reliably and in an understandable way.",
+    "start": 1320.148,
+    "duration": 3.17
+  },
+  {
+    "text": "And I think there are almost certainly\ngoing to be ways of building architectures",
+    "start": 1323.318,
+    "duration": 3.837
+  },
+  {
+    "text": "that are unsafe or risky in some form.",
+    "start": 1327.155,
+    "duration": 1.836
+  },
+  {
+    "text": "So I see a sort of,",
+    "start": 1329.032,
+    "duration": 2.127
+  },
+  {
+    "text": "a kind of bottleneck\nthat we have to get humanity through,",
+    "start": 1331.201,
+    "duration": 3.087
+  },
+  {
+    "text": "which is building safe architectures\nas the first types of AGI systems.",
+    "start": 1334.329,
+    "duration": 6.34
+  },
+  {
+    "text": "And then after that,\nwe can have a sort of,",
+    "start": 1340.711,
+    "duration": 2.502
+  },
+  {
+    "text": "a flourishing of many\ndifferent types of systems",
+    "start": 1343.255,
+    "duration": 2.753
+  },
+  {
+    "text": "that are perhaps sharded\noff those safe architectures",
+    "start": 1346.049,
+    "duration": 3.712
+  },
+  {
+    "text": "that ideally have some\nmathematical guarantees",
+    "start": 1349.761,
+    "duration": 3.337
+  },
+  {
+    "text": "or at least some practical guarantees\naround what they do.",
+    "start": 1353.14,
+    "duration": 3.003
+  },
+  {
+    "text": "CA: Do governments have\nan essential role here",
+    "start": 1356.143,
+    "duration": 2.252
+  },
+  {
+    "text": "to define what a level\nplaying field looks like",
+    "start": 1358.437,
+    "duration": 2.21
+  },
+  {
+    "text": "and what is absolutely taboo?",
+    "start": 1360.647,
+    "duration": 1.418
+  },
+  {
+    "text": "DH: Yeah, I think it's not just about --",
+    "start": 1362.107,
+    "duration": 1.919
+  },
+  {
+    "text": "actually I think government\nand civil society",
+    "start": 1364.067,
+    "duration": 2.127
+  },
+  {
+    "text": "and academia and all parts of society\nhave a critical role to play here",
+    "start": 1366.194,
+    "duration": 3.379
+  },
+  {
+    "text": "to shape, along with industry labs,",
+    "start": 1369.573,
+    "duration": 2.878
+  },
+  {
+    "text": "what that should look like\nas we get closer to AGI",
+    "start": 1372.451,
+    "duration": 2.711
+  },
+  {
+    "text": "and the cooperation needed\nand the collaboration needed,",
+    "start": 1375.203,
+    "duration": 3.546
+  },
+  {
+    "text": "to prevent that kind of runaway\nrace dynamic happening.",
+    "start": 1378.749,
+    "duration": 2.669
+  },
+  {
+    "text": "CA: OK, well, it sounds\nlike you remain optimistic.",
+    "start": 1381.752,
+    "duration": 2.419
+  },
+  {
+    "text": "What's this image here?",
+    "start": 1384.171,
+    "duration": 1.168
+  },
+  {
+    "text": "DH: That's one of my\nfavorite images, actually.",
+    "start": 1385.38,
+    "duration": 2.461
+  },
+  {
+    "text": "I call it, like, the tree\nof all knowledge.",
+    "start": 1387.841,
+    "duration": 2.044
+  },
+  {
+    "text": "So, you know, we've been talking\na lot about science,",
+    "start": 1389.885,
+    "duration": 2.544
+  },
+  {
+    "text": "and a lot of science can be boiled down to",
+    "start": 1392.471,
+    "duration": 3.128
+  },
+  {
+    "text": "if you imagine all the knowledge\nthat exists in the world",
+    "start": 1395.599,
+    "duration": 2.711
+  },
+  {
+    "text": "as a tree of knowledge,",
+    "start": 1398.31,
+    "duration": 1.543
+  },
+  {
+    "text": "and then maybe what we know today\nas a civilization is some, you know,",
+    "start": 1399.853,
+    "duration": 4.797
+  },
+  {
+    "text": "small subset of that.",
+    "start": 1404.691,
+    "duration": 1.418
+  },
+  {
+    "text": "And I see AI as this tool that allows us,",
+    "start": 1406.109,
+    "duration": 2.962
+  },
+  {
+    "text": "as scientists, to explore,\npotentially, the entire tree one day.",
+    "start": 1409.071,
+    "duration": 3.92
+  },
+  {
+    "text": "And we have this idea\nof root node problems",
+    "start": 1413.033,
+    "duration": 3.503
+  },
+  {
+    "text": "that, like AlphaFold,\nthe protein-folding problem,",
+    "start": 1416.578,
+    "duration": 2.336
+  },
+  {
+    "text": "where if you could crack them,",
+    "start": 1418.956,
+    "duration": 1.459
+  },
+  {
+    "text": "it unlocks an entire new branch\nof discovery or new research.",
+    "start": 1420.415,
+    "duration": 4.713
+  },
+  {
+    "text": "And that's what we try\nand focus on at DeepMind",
+    "start": 1425.629,
+    "duration": 2.252
+  },
+  {
+    "text": "and Google DeepMind to crack those.",
+    "start": 1427.923,
+    "duration": 2.377
+  },
+  {
+    "text": "And if we get this right,\nthen I think we could be, you know,",
+    "start": 1430.3,
+    "duration": 3.545
+  },
+  {
+    "text": "in this incredible new era\nof radical abundance,",
+    "start": 1433.887,
+    "duration": 2.711
+  },
+  {
+    "text": "curing all diseases,",
+    "start": 1436.64,
+    "duration": 1.543
+  },
+  {
+    "text": "spreading consciousness to the stars.",
+    "start": 1438.225,
+    "duration": 2.21
+  },
+  {
+    "text": "You know, maximum human flourishing.",
+    "start": 1441.144,
+    "duration": 1.919
+  },
+  {
+    "text": "CA: We're out of time,",
+    "start": 1443.063,
+    "duration": 1.168
+  },
+  {
+    "text": "but what's the last example\nof like, in your dreams,",
+    "start": 1444.272,
+    "duration": 2.461
+  },
+  {
+    "text": "this dream question\nthat you think there is a shot",
+    "start": 1446.733,
+    "duration": 2.962
+  },
+  {
+    "text": "that in your lifetime AI might take us to?",
+    "start": 1449.736,
+    "duration": 2.67
+  },
+  {
+    "text": "DH: I mean, once AGI is built,",
+    "start": 1452.447,
+    "duration": 2.294
+  },
+  {
+    "text": "what I'd like to use it for\nis to try and use it to understand",
+    "start": 1454.783,
+    "duration": 3.295
+  },
+  {
+    "text": "the fundamental nature of reality.",
+    "start": 1458.12,
+    "duration": 2.252
+  },
+  {
+    "text": "So do experiments at the Planck scale.",
+    "start": 1460.372,
+    "duration": 2.836
+  },
+  {
+    "text": "You know, the smallest\npossible scale, theoretical scale,",
+    "start": 1463.25,
+    "duration": 3.295
+  },
+  {
+    "text": "which is almost like\nthe resolution of reality.",
+    "start": 1466.586,
+    "duration": 2.253
+  },
+  {
+    "text": "CA: You know, I was brought up religious.",
+    "start": 1469.798,
+    "duration": 2.002
+  },
+  {
+    "text": "And in the Bible, there’s a story\nabout the tree of knowledge",
+    "start": 1471.8,
+    "duration": 2.878
+  },
+  {
+    "text": "that doesn't work out very well.",
+    "start": 1474.72,
+    "duration": 1.543
+  },
+  {
+    "text": "(Laughter)",
+    "start": 1476.304,
+    "duration": 1.544
+  },
+  {
+    "text": "Is there any scenario",
+    "start": 1477.848,
+    "duration": 3.628
+  },
+  {
+    "text": "where we discover knowledge\nthat the universe says,",
+    "start": 1481.518,
+    "duration": 5.297
+  },
+  {
+    "text": "\"Humans, you may not know that.\"",
+    "start": 1486.815,
+    "duration": 2.753
+  },
+  {
+    "text": "DH: Potentially.",
+    "start": 1489.943,
+    "duration": 1.21
+  },
+  {
+    "text": "I mean, there might be\nsome unknowable things.",
+    "start": 1491.153,
+    "duration": 2.21
+  },
+  {
+    "text": "But I think scientific method\nis the greatest sort of invention",
+    "start": 1493.363,
+    "duration": 5.089
+  },
+  {
+    "text": "humans have ever come up with.",
+    "start": 1498.493,
+    "duration": 1.46
+  },
+  {
+    "text": "You know, the enlightenment\nand scientific discovery.",
+    "start": 1499.995,
+    "duration": 3.545
+  },
+  {
+    "text": "That's what's built this incredible\nmodern civilization around us",
+    "start": 1503.582,
+    "duration": 3.336
+  },
+  {
+    "text": "and all the tools that we use.",
+    "start": 1506.96,
+    "duration": 2.002
+  },
+  {
+    "text": "So I think it's the best technique we have",
+    "start": 1508.962,
+    "duration": 2.669
+  },
+  {
+    "text": "for understanding the enormity\nof the universe around us.",
+    "start": 1511.673,
+    "duration": 3.545
+  },
+  {
+    "text": "CA: Well, Demis, you've already\nchanged the world.",
+    "start": 1515.677,
+    "duration": 2.378
+  },
+  {
+    "text": "I think probably everyone here\nwill be cheering you on",
+    "start": 1518.055,
+    "duration": 3.211
+  },
+  {
+    "text": "in your efforts to ensure\nthat we continue to accelerate",
+    "start": 1521.266,
+    "duration": 3.086
+  },
+  {
+    "text": "in the right direction.",
+    "start": 1524.352,
+    "duration": 1.252
+  },
+  {
+    "text": "DH: Thank you.",
+    "start": 1525.645,
+    "duration": 1.168
+  },
+  {
+    "text": "CA: Demis Hassabis.",
+    "start": 1526.813,
+    "duration": 1.21
+  },
+  {
+    "text": "(Applause)",
+    "start": 1528.065,
+    "duration": 5.338
+  }
+]

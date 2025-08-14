@@ -1,0 +1,1042 @@
+[
+  {
+    "text": "A year ago, I was in front of Carmen,",
+    "start": 4.167,
+    "duration": 4.004
+  },
+  {
+    "text": "a 90-year-old woman from Barcelona.",
+    "start": 8.213,
+    "duration": 2.502
+  },
+  {
+    "text": "I asked her, \"Carmen,\nwhat is your earliest memory?\"",
+    "start": 11.299,
+    "duration": 4.38
+  },
+  {
+    "text": "Now, for someone who has almost\nseen a century unfold,",
+    "start": 16.179,
+    "duration": 3.545
+  },
+  {
+    "text": "this can be a difficult question.",
+    "start": 19.724,
+    "duration": 1.627
+  },
+  {
+    "text": "I was half expecting her to say,",
+    "start": 21.393,
+    "duration": 2.627
+  },
+  {
+    "text": "\"Son, my earliest memory\nis of you asking me this question.\"",
+    "start": 24.02,
+    "duration": 3.712
+  },
+  {
+    "text": "(Laughter)",
+    "start": 27.774,
+    "duration": 1.21
+  },
+  {
+    "text": "But the truth was that it was from 1941.",
+    "start": 29.025,
+    "duration": 3.796
+  },
+  {
+    "text": "She was six years old, and her mother\nwould pay another family",
+    "start": 33.405,
+    "duration": 3.461
+  },
+  {
+    "text": "so they could enter their house\nand go up to their balcony.",
+    "start": 36.908,
+    "duration": 4.463
+  },
+  {
+    "text": "What was particular about that balcony\nwas that it was facing La Modelo prison.",
+    "start": 41.788,
+    "duration": 4.671
+  },
+  {
+    "text": "During that time,",
+    "start": 46.501,
+    "duration": 1.335
+  },
+  {
+    "text": "during the Spanish dictatorship in Spain,",
+    "start": 47.877,
+    "duration": 2.169
+  },
+  {
+    "text": "it was a political prison",
+    "start": 50.088,
+    "duration": 1.585
+  },
+  {
+    "text": "and her father, a doctor\nfor the antifascist front,",
+    "start": 51.715,
+    "duration": 2.836
+  },
+  {
+    "text": "was a prisoner there.",
+    "start": 54.593,
+    "duration": 1.292
+  },
+  {
+    "text": "So the only way they could see each other",
+    "start": 55.927,
+    "duration": 3.837
+  },
+  {
+    "text": "was from that balcony\nto the window of the prison.",
+    "start": 59.764,
+    "duration": 3.629
+  },
+  {
+    "text": "And that was her earliest memory of him.",
+    "start": 63.977,
+    "duration": 2.836
+  },
+  {
+    "text": "Between bars, through that street.",
+    "start": 67.188,
+    "duration": 3.003
+  },
+  {
+    "text": "I asked her, \"Carmen, would you like\nto have an image of that memory?\"",
+    "start": 71.026,
+    "duration": 4.879
+  },
+  {
+    "text": "And she said, \"Yes, of course.",
+    "start": 76.364,
+    "duration": 1.46
+  },
+  {
+    "text": "I would love to show to my family\nwhat I experienced,",
+    "start": 77.866,
+    "duration": 3.503
+  },
+  {
+    "text": "the things that I went through",
+    "start": 81.411,
+    "duration": 2.169
+  },
+  {
+    "text": "so they can remember\nwhere we all come from.\"",
+    "start": 83.622,
+    "duration": 2.502
+  },
+  {
+    "text": "And this is how we started\nthis experiment,",
+    "start": 86.583,
+    "duration": 2.294
+  },
+  {
+    "text": "trying to transform a memory\ninto an image,",
+    "start": 88.918,
+    "duration": 3.17
+  },
+  {
+    "text": "in this case using generative AI.",
+    "start": 92.13,
+    "duration": 2.503
+  },
+  {
+    "text": "We started by creating\na description of the memory,",
+    "start": 95.008,
+    "duration": 3.17
+  },
+  {
+    "text": "a prompt, to say so.",
+    "start": 98.219,
+    "duration": 1.335
+  },
+  {
+    "text": "And then Carmen generated tens of images.",
+    "start": 99.596,
+    "duration": 3.003
+  },
+  {
+    "text": "You could see her going\nthrough all of them.",
+    "start": 102.641,
+    "duration": 2.168
+  },
+  {
+    "text": "But it was not until she saw\nthese two images",
+    "start": 105.31,
+    "duration": 2.961
+  },
+  {
+    "text": "that something clicked in her.",
+    "start": 108.313,
+    "duration": 2.669
+  },
+  {
+    "text": "She pointed at the image and said,",
+    "start": 111.024,
+    "duration": 1.752
+  },
+  {
+    "text": "\"Yes, this is me\nand my mother on the balcony.",
+    "start": 112.817,
+    "duration": 2.253
+  },
+  {
+    "text": "I can see the haircut.\"",
+    "start": 115.111,
+    "duration": 1.46
+  },
+  {
+    "text": "It was as if she had found\nsomething long lost.",
+    "start": 117.238,
+    "duration": 3.796
+  },
+  {
+    "text": "From there we did something else.",
+    "start": 123.078,
+    "duration": 1.96
+  },
+  {
+    "text": "We used that image as a starting point\nto generate a video,",
+    "start": 125.08,
+    "duration": 3.67
+  },
+  {
+    "text": "but this time,",
+    "start": 128.792,
+    "duration": 1.626
+  },
+  {
+    "text": "not only showing her and her mother,",
+    "start": 130.46,
+    "duration": 1.752
+  },
+  {
+    "text": "but also showing her father\nlooking back at them",
+    "start": 132.212,
+    "duration": 2.335
+  },
+  {
+    "text": "from the other side of the street.",
+    "start": 134.547,
+    "duration": 1.836
+  },
+  {
+    "text": "When she saw it,\nthere was a long silence.",
+    "start": 137.05,
+    "duration": 3.17
+  },
+  {
+    "text": "And later she told me\nthat it had been a long time",
+    "start": 140.845,
+    "duration": 2.92
+  },
+  {
+    "text": "since she had seen an image of her father.",
+    "start": 143.765,
+    "duration": 3.503
+  },
+  {
+    "text": "And as you can see,",
+    "start": 148.436,
+    "duration": 1.919
+  },
+  {
+    "text": "these are not factual\nrecreations of the past.",
+    "start": 150.397,
+    "duration": 3.128
+  },
+  {
+    "text": "This feels a bit more like dreams, right?",
+    "start": 153.525,
+    "duration": 2.46
+  },
+  {
+    "text": "And in fact, they are.",
+    "start": 155.985,
+    "duration": 1.502
+  },
+  {
+    "text": "They are visualizations\nbased [on] memories",
+    "start": 157.487,
+    "duration": 3.128
+  },
+  {
+    "text": "with their imperfections and undefinition.",
+    "start": 160.615,
+    "duration": 3.337
+  },
+  {
+    "text": "That's how we discovered\nthat blurry, undefined images",
+    "start": 163.993,
+    "duration": 4.296
+  },
+  {
+    "text": "work much better than hyper-realistic ones",
+    "start": 168.331,
+    "duration": 2.503
+  },
+  {
+    "text": "when we are trying\nto reconstruct memories.",
+    "start": 170.875,
+    "duration": 2.503
+  },
+  {
+    "text": "That's why early generative AI models",
+    "start": 173.42,
+    "duration": 2.46
+  },
+  {
+    "text": "work much better\nthan the ultimate state-of-the-art ones.",
+    "start": 175.88,
+    "duration": 3.254
+  },
+  {
+    "text": "It's not the factual\naccuracy that moves us",
+    "start": 179.134,
+    "duration": 4.045
+  },
+  {
+    "text": "but the emotional truth that we find\nembedded into some of these systems.",
+    "start": 183.221,
+    "duration": 5.088
+  },
+  {
+    "text": "And we call this project\nSynthetic Memories.",
+    "start": 188.81,
+    "duration": 2.461
+  },
+  {
+    "text": "It's one of the several projects\nwe are doing at Domestic Data Streamers,",
+    "start": 191.312,
+    "duration": 4.088
+  },
+  {
+    "text": "a team of researchers,\ndesigners and engineers",
+    "start": 195.442,
+    "duration": 2.419
+  },
+  {
+    "text": "exploring the impact that generative\nAI can have in society,",
+    "start": 197.902,
+    "duration": 3.128
+  },
+  {
+    "text": "going from media literacy\nto cultural heritage",
+    "start": 201.072,
+    "duration": 3.587
+  },
+  {
+    "text": "and of course, memories.",
+    "start": 204.701,
+    "duration": 1.668
+  },
+  {
+    "text": "Now, memories are the architects\nof our identity, right?",
+    "start": 207.036,
+    "duration": 4.964
+  },
+  {
+    "text": "Memories remind us who we are.",
+    "start": 212.041,
+    "duration": 2.92
+  },
+  {
+    "text": "And visual memories are very important.",
+    "start": 215.378,
+    "duration": 1.96
+  },
+  {
+    "text": "We all have a picture of someone we love",
+    "start": 217.38,
+    "duration": 2.294
+  },
+  {
+    "text": "in our wallet, in our phones,",
+    "start": 219.716,
+    "duration": 2.794
+  },
+  {
+    "text": "in our homes.",
+    "start": 222.51,
+    "duration": 1.293
+  },
+  {
+    "text": "Visual memories shape our sense of self,",
+    "start": 224.596,
+    "duration": 2.46
+  },
+  {
+    "text": "and they can shape our sense\nof belonging to a specific place.",
+    "start": 227.098,
+    "duration": 3.253
+  },
+  {
+    "text": "They can teach us things from the past.",
+    "start": 230.393,
+    "duration": 2.169
+  },
+  {
+    "text": "And because of that,",
+    "start": 233.062,
+    "duration": 2.128
+  },
+  {
+    "text": "they can actually make us\nunderstand in a deeper level",
+    "start": 235.231,
+    "duration": 5.464
+  },
+  {
+    "text": "how we react to things.",
+    "start": 240.737,
+    "duration": 1.334
+  },
+  {
+    "text": "And like organic memories,",
+    "start": 242.113,
+    "duration": 1.835
+  },
+  {
+    "text": "which are formed and stored\nin the human brain,",
+    "start": 243.99,
+    "duration": 3.504
+  },
+  {
+    "text": "synthetic memories are visual memories\nfrom a person's past",
+    "start": 247.535,
+    "duration": 3.712
+  },
+  {
+    "text": "which have been never documented or lost,",
+    "start": 251.247,
+    "duration": 2.92
+  },
+  {
+    "text": "and that we can now, using gen-AI,",
+    "start": 254.209,
+    "duration": 2.252
+  },
+  {
+    "text": "transform from a text or an oral\ndescription into an image.",
+    "start": 256.503,
+    "duration": 4.504
+  },
+  {
+    "text": "Now, there are many reasons\nwhy we can lose visual memories",
+    "start": 261.007,
+    "duration": 3.962
+  },
+  {
+    "text": "and memories itself,",
+    "start": 264.969,
+    "duration": 1.21
+  },
+  {
+    "text": "but the most common one\nis the one that comes with aging",
+    "start": 266.179,
+    "duration": 2.961
+  },
+  {
+    "text": "and diseases like Alzheimer's\nor Parkinson's.",
+    "start": 269.14,
+    "duration": 3.253
+  },
+  {
+    "text": "I myself have lived\nthrough that in my family,",
+    "start": 272.393,
+    "duration": 3.17
+  },
+  {
+    "text": "and I guess many of you\nhave had similar experiences.",
+    "start": 275.563,
+    "duration": 3.128
+  },
+  {
+    "text": "It's a terrible disease as you not only\nsee the memories fade away,",
+    "start": 278.733,
+    "duration": 5.047
+  },
+  {
+    "text": "but also the character and the identity\nof someone that you love.",
+    "start": 283.822,
+    "duration": 3.67
+  },
+  {
+    "text": "So two years ago,",
+    "start": 287.951,
+    "duration": 1.334
+  },
+  {
+    "text": "we started to create these meetups",
+    "start": 289.327,
+    "duration": 3.462
+  },
+  {
+    "text": "to meet people from very\ndifferent disciplines,",
+    "start": 292.831,
+    "duration": 2.794
+  },
+  {
+    "text": "trying to figure out how synthetic\nmemories could be used",
+    "start": 295.667,
+    "duration": 3.211
+  },
+  {
+    "text": "in different social setups.",
+    "start": 298.878,
+    "duration": 2.044
+  },
+  {
+    "text": "And then I met David,\na social worker in a nursing home.",
+    "start": 300.922,
+    "duration": 3.629
+  },
+  {
+    "text": "He was taking care of a group\nof Alzheimer’s patients",
+    "start": 304.551,
+    "duration": 3.128
+  },
+  {
+    "text": "and he was using a therapy\ncalled reminiscence therapy.",
+    "start": 307.72,
+    "duration": 4.338
+  },
+  {
+    "text": "Now, reminiscence therapy\nis a kind of therapy that uses music",
+    "start": 312.1,
+    "duration": 3.879
+  },
+  {
+    "text": "and old photographs from a person's past",
+    "start": 315.979,
+    "duration": 3.837
+  },
+  {
+    "text": "to trigger these very visceral,\nemotional memories.",
+    "start": 319.858,
+    "duration": 3.795
+  },
+  {
+    "text": "Think of it as kind of lubricating\nan old rusty lock,",
+    "start": 323.945,
+    "duration": 3.629
+  },
+  {
+    "text": "making it much easier to open the doors\nof certain forgotten rooms",
+    "start": 327.615,
+    "duration": 3.963
+  },
+  {
+    "text": "that we have in our head.",
+    "start": 331.578,
+    "duration": 1.459
+  },
+  {
+    "text": "And it has been proven to,\nfor certain people,",
+    "start": 333.079,
+    "duration": 3.378
+  },
+  {
+    "text": "help very much in the prevention\nof depression, of cognitive decay,",
+    "start": 336.457,
+    "duration": 4.046
+  },
+  {
+    "text": "and in some cases,\neven improve cognitive abilities.",
+    "start": 340.545,
+    "duration": 3.086
+  },
+  {
+    "text": "So we designed a pilot experiment",
+    "start": 343.631,
+    "duration": 2.92
+  },
+  {
+    "text": "using synthetic memories\nwithin reminiscence therapy.",
+    "start": 346.593,
+    "duration": 3.169
+  },
+  {
+    "text": "And for over two months,",
+    "start": 350.138,
+    "duration": 1.168
+  },
+  {
+    "text": "12 patients did both individual\nsessions and group therapy.",
+    "start": 351.347,
+    "duration": 3.337
+  },
+  {
+    "text": "And we could see a direct relation\nbetween the level of engagement",
+    "start": 354.726,
+    "duration": 3.461
+  },
+  {
+    "text": "and their cognitive abilities,",
+    "start": 358.229,
+    "duration": 1.502
+  },
+  {
+    "text": "pointing out that this could not only\nbe a new way of doing therapy,",
+    "start": 359.772,
+    "duration": 4.13
+  },
+  {
+    "text": "but also it could be another way\nto detect early signs of cognitive decay.",
+    "start": 363.943,
+    "duration": 6.966
+  },
+  {
+    "text": "Now, this image was generated with Nuria,",
+    "start": 371.951,
+    "duration": 4.421
+  },
+  {
+    "text": "a 96-year-old woman from a nursing home.",
+    "start": 376.372,
+    "duration": 3.796
+  },
+  {
+    "text": "And she was telling me about one\nof her favorite memories of her husband",
+    "start": 380.209,
+    "duration": 5.506
+  },
+  {
+    "text": "was during Sundays,",
+    "start": 385.757,
+    "duration": 1.168
+  },
+  {
+    "text": "he used to read the newspaper\nin the living room.",
+    "start": 386.966,
+    "duration": 2.711
+  },
+  {
+    "text": "And she will always play this old,\njumpy gramophone with some music",
+    "start": 390.094,
+    "duration": 3.629
+  },
+  {
+    "text": "just to annoy him.",
+    "start": 393.723,
+    "duration": 1.376
+  },
+  {
+    "text": "When she saw the image,\nshe was so happy her eyes [lit] up,",
+    "start": 396.225,
+    "duration": 5.715
+  },
+  {
+    "text": "but after a while,\nshe looked at me and she said,",
+    "start": 401.981,
+    "duration": 2.711
+  },
+  {
+    "text": "\"But Pau, we have a problem here.",
+    "start": 404.734,
+    "duration": 2.586
+  },
+  {
+    "text": "This man over here is not my husband.\"",
+    "start": 407.362,
+    "duration": 2.46
+  },
+  {
+    "text": "And I said, \"How come?\"",
+    "start": 410.281,
+    "duration": 1.502
+  },
+  {
+    "text": "And she said, half laughing,",
+    "start": 411.824,
+    "duration": 2.086
+  },
+  {
+    "text": "“Well, my husband was much more ugly.”",
+    "start": 413.91,
+    "duration": 2.753
+  },
+  {
+    "text": "(Laughter)",
+    "start": 416.704,
+    "duration": 1.377
+  },
+  {
+    "text": "[Proving] once again\nthat love is not just blind,",
+    "start": 418.122,
+    "duration": 2.545
+  },
+  {
+    "text": "but also nearsighted.",
+    "start": 420.667,
+    "duration": 1.501
+  },
+  {
+    "text": "(Laughter)",
+    "start": 422.21,
+    "duration": 1.376
+  },
+  {
+    "text": "As you can see, this is far\nfrom being a cure of Alzheimer’s,",
+    "start": 424.17,
+    "duration": 2.878
+  },
+  {
+    "text": "but it could be a way of making\nthe journey a bit less daunting.",
+    "start": 427.048,
+    "duration": 3.754
+  },
+  {
+    "text": "Another patient told me",
+    "start": 430.843,
+    "duration": 1.293
+  },
+  {
+    "text": "\"It feels a bit like finding\nyour glasses on your head",
+    "start": 432.136,
+    "duration": 3.587
+  },
+  {
+    "text": "after searching for them everywhere.\"",
+    "start": 435.723,
+    "duration": 2.253
+  },
+  {
+    "text": "It's small but very significant relief.",
+    "start": 437.976,
+    "duration": 2.669
+  },
+  {
+    "text": "And from a medical perspective,",
+    "start": 440.687,
+    "duration": 2.127
+  },
+  {
+    "text": "it could be a new way to temporarily\nenhance cognitive abilities,",
+    "start": 442.855,
+    "duration": 3.42
+  },
+  {
+    "text": "making it much easier for family members",
+    "start": 446.317,
+    "duration": 3.17
+  },
+  {
+    "text": "and caregivers in moments\nof distress or disconnection.",
+    "start": 449.529,
+    "duration": 3.67
+  },
+  {
+    "text": "So the pilot experiment\nwas promising enough",
+    "start": 453.616,
+    "duration": 4.254
+  },
+  {
+    "text": "to partner up with the AGE-WELL\nnetwork here in Canada,",
+    "start": 457.87,
+    "duration": 2.837
+  },
+  {
+    "text": "together with researchers\nfrom the University of Toronto",
+    "start": 460.707,
+    "duration": 2.961
+  },
+  {
+    "text": "and the University of British Columbia.",
+    "start": 463.71,
+    "duration": 2.127
+  },
+  {
+    "text": "And during this summer,",
+    "start": 465.837,
+    "duration": 1.168
+  },
+  {
+    "text": "we will be exploring and designing\nan ethical framework",
+    "start": 467.046,
+    "duration": 2.836
+  },
+  {
+    "text": "to protect both family\nmembers and patients,",
+    "start": 469.924,
+    "duration": 2.336
+  },
+  {
+    "text": "as well as comparing this therapy\nto other therapeutic interventions",
+    "start": 472.301,
+    "duration": 3.421
+  },
+  {
+    "text": "and exploring how we can make it\ntruly accessible",
+    "start": 475.722,
+    "duration": 2.335
+  },
+  {
+    "text": "for both families and institutions\nall over the world.",
+    "start": 478.099,
+    "duration": 3.67
+  },
+  {
+    "text": "But as you can imagine,\nsynthetic memories",
+    "start": 482.27,
+    "duration": 3.462
+  },
+  {
+    "text": "and this project can go\nbeyond the research on dementia.",
+    "start": 485.773,
+    "duration": 3.212
+  },
+  {
+    "text": "There are many other reasons\nwhy we can lose visual memories.",
+    "start": 489.027,
+    "duration": 4.379
+  },
+  {
+    "text": "There is the loss that comes\nfrom sudden displacement due to war,",
+    "start": 493.406,
+    "duration": 5.005
+  },
+  {
+    "text": "political persecution,\nor natural disasters.",
+    "start": 498.453,
+    "duration": 3.003
+  },
+  {
+    "text": "Situations in which our photo albums,",
+    "start": 501.497,
+    "duration": 2.92
+  },
+  {
+    "text": "hard drives, phones, diaries can be lost,",
+    "start": 504.417,
+    "duration": 3.295
+  },
+  {
+    "text": "damaged or just left behind.",
+    "start": 507.754,
+    "duration": 2.085
+  },
+  {
+    "text": "Synthetic memories is a way",
+    "start": 510.298,
+    "duration": 2.502
+  },
+  {
+    "text": "to recover a part of this past heritage\nthat have been lost",
+    "start": 512.8,
+    "duration": 4.088
+  },
+  {
+    "text": "and that right now is at risk\nof being forgotten.",
+    "start": 516.929,
+    "duration": 3.379
+  },
+  {
+    "text": "It's a new way of reconstructing a past\nthat has been hidden to our eyes.",
+    "start": 520.308,
+    "duration": 5.338
+  },
+  {
+    "text": "Now, soon we will open\nthe first public office",
+    "start": 526.689,
+    "duration": 4.046
+  },
+  {
+    "text": "for visual memory reconstruction\nin the city of Barcelona,",
+    "start": 530.735,
+    "duration": 3.42
+  },
+  {
+    "text": "with the support of the city council.",
+    "start": 534.155,
+    "duration": 1.793
+  },
+  {
+    "text": "The idea is to make\na city-scale experiment,",
+    "start": 535.99,
+    "duration": 3.253
+  },
+  {
+    "text": "a place where any citizen will be able\nto generate their own memories,",
+    "start": 539.243,
+    "duration": 5.589
+  },
+  {
+    "text": "to reconstruct a part of their past\ntogether in community,",
+    "start": 544.874,
+    "duration": 4.213
+  },
+  {
+    "text": "understanding which are\nthe subjectivities of the past",
+    "start": 549.128,
+    "duration": 2.836
+  },
+  {
+    "text": "from different communities.",
+    "start": 551.964,
+    "duration": 1.836
+  },
+  {
+    "text": "This image was sent to me not long ago\nby David, the social worker,",
+    "start": 555.009,
+    "duration": 6.381
+  },
+  {
+    "text": "and he did it with a dementia patient",
+    "start": 561.432,
+    "duration": 2.419
+  },
+  {
+    "text": "that for very long time had not\nspoken with his daughter.",
+    "start": 563.893,
+    "duration": 4.046
+  },
+  {
+    "text": "They were in kind of bad terms,",
+    "start": 569.19,
+    "duration": 1.96
+  },
+  {
+    "text": "and he told David that he was\nterrified about horses,",
+    "start": 571.192,
+    "duration": 4.463
+  },
+  {
+    "text": "but because his daughter loved them,",
+    "start": 575.655,
+    "duration": 2.002
+  },
+  {
+    "text": "he would bring her to ride\nevery week during her childhood.",
+    "start": 577.698,
+    "duration": 3.963
+  },
+  {
+    "text": "And he asked David to generate this image\nof both of them riding",
+    "start": 581.702,
+    "duration": 4.13
+  },
+  {
+    "text": "in this kind of dreamy landscape.",
+    "start": 585.873,
+    "duration": 2.253
+  },
+  {
+    "text": "This was not a memory,\nthis never happened.",
+    "start": 588.126,
+    "duration": 2.377
+  },
+  {
+    "text": "It was a remembrance.",
+    "start": 590.962,
+    "duration": 1.168
+  },
+  {
+    "text": "It was a way that he wanted\nto remember his daughter.",
+    "start": 592.13,
+    "duration": 4.587
+  },
+  {
+    "text": "With his permission,",
+    "start": 597.593,
+    "duration": 1.168
+  },
+  {
+    "text": "David sent this image to his daughter,",
+    "start": 598.803,
+    "duration": 2.461
+  },
+  {
+    "text": "who, because of that,",
+    "start": 601.305,
+    "duration": 1.168
+  },
+  {
+    "text": "after almost ten years\nwithout speaking to each other,",
+    "start": 602.515,
+    "duration": 2.586
+  },
+  {
+    "text": "came back to Barcelona\nto speak back to him.",
+    "start": 605.101,
+    "duration": 2.502
+  },
+  {
+    "text": "Afterwards, she told David\nthat when she saw the image,",
+    "start": 608.02,
+    "duration": 5.047
+  },
+  {
+    "text": "she realized that her father\nstill had good memories of her.",
+    "start": 613.067,
+    "duration": 3.921
+  },
+  {
+    "text": "An image can work as a witness\nto the world, we know that,",
+    "start": 618.03,
+    "duration": 4.588
+  },
+  {
+    "text": "but it can also change the way we see it.",
+    "start": 622.66,
+    "duration": 2.711
+  },
+  {
+    "text": "We have now tools that can help us\nunderstand a time that was not ours.",
+    "start": 625.371,
+    "duration": 5.047
+  },
+  {
+    "text": "Experiences from others that have\nnever been shown in images",
+    "start": 630.459,
+    "duration": 4.13
+  },
+  {
+    "text": "and bridge realities\nthat were hidden to our eyes.",
+    "start": 634.63,
+    "duration": 3.212
+  },
+  {
+    "text": "Montserrat Roig, a beloved Catalan writer,",
+    "start": 638.467,
+    "duration": 3.212
+  },
+  {
+    "text": "once wrote (speaking in Spanish).",
+    "start": 641.679,
+    "duration": 4.838
+  },
+  {
+    "text": "\"If there is an act of love,\nthat is to remember.\"",
+    "start": 647.31,
+    "duration": 4.212
+  },
+  {
+    "text": "And that is truly my hope.",
+    "start": 651.522,
+    "duration": 1.877
+  },
+  {
+    "text": "That we all get the opportunity to love",
+    "start": 653.441,
+    "duration": 3.044
+  },
+  {
+    "text": "and be loved in that way.",
+    "start": 656.527,
+    "duration": 2.252
+  },
+  {
+    "text": "Thank you very much.",
+    "start": 658.821,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 659.989,
+    "duration": 3.67
+  }
+]

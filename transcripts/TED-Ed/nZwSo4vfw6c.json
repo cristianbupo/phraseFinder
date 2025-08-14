@@ -1,0 +1,387 @@
+[
+  {
+    "text": "You'd have a hard time finding\nKönigsberg on any modern maps,",
+    "start": 8.671,
+    "duration": 4.963
+  },
+  {
+    "text": "but one particular quirk in its geography",
+    "start": 13.843,
+    "duration": 3.503
+  },
+  {
+    "text": "has made it one of the most famous cities\nin mathematics.",
+    "start": 17.346,
+    "duration": 3.963
+  },
+  {
+    "text": "The medieval German city lay on both sides\nof the Pregel River.",
+    "start": 21.893,
+    "duration": 4.254
+  },
+  {
+    "text": "At the center were two large islands.",
+    "start": 26.147,
+    "duration": 2.628
+  },
+  {
+    "text": "The two islands were connected \nto each other and to the river banks",
+    "start": 28.816,
+    "duration": 4.296
+  },
+  {
+    "text": "by seven bridges.",
+    "start": 33.112,
+    "duration": 1.627
+  },
+  {
+    "text": "Carl Gottlieb Ehler, a mathematician who\nlater became the mayor of a nearby town,",
+    "start": 35.74,
+    "duration": 5.339
+  },
+  {
+    "text": "grew obsessed with these islands\nand bridges.",
+    "start": 41.079,
+    "duration": 2.919
+  },
+  {
+    "text": "He kept coming back to a single question:",
+    "start": 44.165,
+    "duration": 2.753
+  },
+  {
+    "text": "Which route would allow someone\nto cross all seven bridges",
+    "start": 46.918,
+    "duration": 4.045
+  },
+  {
+    "text": "without crossing any of them\nmore than once?",
+    "start": 51.047,
+    "duration": 3.336
+  },
+  {
+    "text": "Think about it for a moment.",
+    "start": 54.842,
+    "duration": 1.46
+  },
+  {
+    "text": "7",
+    "start": 56.719,
+    "duration": 1.001
+  },
+  {
+    "text": "6",
+    "start": 57.72,
+    "duration": 1.043
+  },
+  {
+    "text": "5",
+    "start": 58.763,
+    "duration": 1.001
+  },
+  {
+    "text": "4",
+    "start": 59.764,
+    "duration": 1.001
+  },
+  {
+    "text": "3",
+    "start": 60.765,
+    "duration": 1.001
+  },
+  {
+    "text": "2",
+    "start": 61.766,
+    "duration": 1.001
+  },
+  {
+    "text": "1",
+    "start": 62.767,
+    "duration": 1.001
+  },
+  {
+    "text": "Give up?",
+    "start": 63.768,
+    "duration": 1.001
+  },
+  {
+    "text": "You should.",
+    "start": 64.769,
+    "duration": 1.043
+  },
+  {
+    "text": "It's not possible.",
+    "start": 65.895,
+    "duration": 1.293
+  },
+  {
+    "text": "But attempting to explain why\nled famous mathematician Leonhard Euler",
+    "start": 67.188,
+    "duration": 5.297
+  },
+  {
+    "text": "to invent a new field of mathematics.",
+    "start": 72.61,
+    "duration": 3.003
+  },
+  {
+    "text": "Carl wrote to Euler for help\nwith the problem.",
+    "start": 75.696,
+    "duration": 2.92
+  },
+  {
+    "text": "Euler first dismissed the question as\nhaving nothing to do with math.",
+    "start": 78.616,
+    "duration": 4.296
+  },
+  {
+    "text": "But the more he wrestled with it,",
+    "start": 83.162,
+    "duration": 1.877
+  },
+  {
+    "text": "the more it seemed there might\nbe something there after all.",
+    "start": 85.039,
+    "duration": 3.504
+  },
+  {
+    "text": "The answer he came up with\nhad to do with a type of geometry",
+    "start": 89.085,
+    "duration": 3.754
+  },
+  {
+    "text": "that did not quite exist yet,\nwhat he called the Geometry of Position,",
+    "start": 92.839,
+    "duration": 5.338
+  },
+  {
+    "text": "now known as Graph Theory.",
+    "start": 98.302,
+    "duration": 2.378
+  },
+  {
+    "text": "Euler's first insight",
+    "start": 101.889,
+    "duration": 1.543
+  },
+  {
+    "text": "was that the route taken between entering\nan island or a riverbank and leaving it",
+    "start": 103.432,
+    "duration": 5.089
+  },
+  {
+    "text": "didn't actually matter.",
+    "start": 108.604,
+    "duration": 1.669
+  },
+  {
+    "text": "Thus, the map could be simplified with\neach of the four landmasses",
+    "start": 110.273,
+    "duration": 4.129
+  },
+  {
+    "text": "represented as a single point,",
+    "start": 114.402,
+    "duration": 2.127
+  },
+  {
+    "text": "what we now call a node,",
+    "start": 116.529,
+    "duration": 2.21
+  },
+  {
+    "text": "with lines, or edges, between them\nto represent the bridges.",
+    "start": 118.99,
+    "duration": 4.379
+  },
+  {
+    "text": "And this simplified graph allows us\nto easily count the degrees of each node.",
+    "start": 123.661,
+    "duration": 5.547
+  },
+  {
+    "text": "That's the number of bridges \neach land mass touches.",
+    "start": 129.292,
+    "duration": 3.42
+  },
+  {
+    "text": "Why do the degrees matter?",
+    "start": 132.837,
+    "duration": 1.543
+  },
+  {
+    "text": "Well, according to the rules \nof the challenge,",
+    "start": 134.38,
+    "duration": 2.419
+  },
+  {
+    "text": "once travelers arrive onto a landmass\nby one bridge,",
+    "start": 136.799,
+    "duration": 3.712
+  },
+  {
+    "text": "they would have to leave it \nvia a different bridge.",
+    "start": 140.511,
+    "duration": 2.92
+  },
+  {
+    "text": "In other words, the bridges leading\nto and from each node on any route",
+    "start": 143.431,
+    "duration": 4.713
+  },
+  {
+    "text": "must occur in distinct pairs,",
+    "start": 148.144,
+    "duration": 2.294
+  },
+  {
+    "text": "meaning that the number of bridges\ntouching each landmass visited",
+    "start": 150.438,
+    "duration": 3.67
+  },
+  {
+    "text": "must be even.",
+    "start": 154.233,
+    "duration": 1.335
+  },
+  {
+    "text": "The only possible exceptions would be\nthe locations of the beginning",
+    "start": 156.068,
+    "duration": 3.879
+  },
+  {
+    "text": "and end of the walk.",
+    "start": 159.947,
+    "duration": 1.71
+  },
+  {
+    "text": "Looking at the graph, it becomes apparent\nthat all four nodes have an odd degree.",
+    "start": 161.908,
+    "duration": 4.921
+  },
+  {
+    "text": "So no matter which path is chosen,",
+    "start": 166.996,
+    "duration": 2.127
+  },
+  {
+    "text": "at some point,\na bridge will have to be crossed twice.",
+    "start": 169.123,
+    "duration": 3.796
+  },
+  {
+    "text": "Euler used this proof to formulate\na general theory",
+    "start": 174.045,
+    "duration": 3.587
+  },
+  {
+    "text": "that applies to all graphs with two\nor more nodes.",
+    "start": 177.632,
+    "duration": 3.67
+  },
+  {
+    "text": "A Eulerian path \nthat visits each edge only once",
+    "start": 181.594,
+    "duration": 4.212
+  },
+  {
+    "text": "is only possible in one of two scenarios.",
+    "start": 185.806,
+    "duration": 3.045
+  },
+  {
+    "text": "The first is when there are exactly\ntwo nodes of odd degree,",
+    "start": 189.227,
+    "duration": 4.337
+  },
+  {
+    "text": "meaning all the rest are even.",
+    "start": 193.564,
+    "duration": 2.211
+  },
+  {
+    "text": "There, the starting point is one\nof the odd nodes,",
+    "start": 196.108,
+    "duration": 3.212
+  },
+  {
+    "text": "and the end point is the other.",
+    "start": 199.32,
+    "duration": 1.877
+  },
+  {
+    "text": "The second is when all the nodes\nare of even degree.",
+    "start": 202.365,
+    "duration": 3.42
+  },
+  {
+    "text": "Then, the Eulerian path will start\nand stop in the same location,",
+    "start": 206.077,
+    "duration": 4.421
+  },
+  {
+    "text": "which also makes it something called\na Eulerian circuit.",
+    "start": 210.623,
+    "duration": 3.211
+  },
+  {
+    "text": "So how might you create a Eulerian path\nin Königsberg?",
+    "start": 214.543,
+    "duration": 3.504
+  },
+  {
+    "text": "It's simple.",
+    "start": 218.047,
+    "duration": 1.001
+  },
+  {
+    "text": "Just remove any one bridge.",
+    "start": 219.048,
+    "duration": 2.169
+  },
+  {
+    "text": "And it turns out, history created\na Eulerian path of its own.",
+    "start": 221.384,
+    "duration": 4.045
+  },
+  {
+    "text": "During World War II, the Soviet Air Force\ndestroyed two of the city's bridges,",
+    "start": 225.763,
+    "duration": 4.755
+  },
+  {
+    "text": "making a Eulerian path easily possible.",
+    "start": 230.518,
+    "duration": 2.794
+  },
+  {
+    "text": "Though, to be fair, that probably\nwasn't their intention.",
+    "start": 233.479,
+    "duration": 3.295
+  },
+  {
+    "text": "These bombings pretty much wiped\nKönigsberg off the map,",
+    "start": 237.024,
+    "duration": 3.462
+  },
+  {
+    "text": "and it was later rebuilt \nas the Russian city of Kaliningrad.",
+    "start": 240.611,
+    "duration": 3.962
+  },
+  {
+    "text": "So while Königsberg and her seven bridges\nmay not be around anymore,",
+    "start": 244.824,
+    "duration": 4.171
+  },
+  {
+    "text": "they will be remembered throughout\nhistory by the seemingly trivial riddle",
+    "start": 249.078,
+    "duration": 4.213
+  },
+  {
+    "text": "which led to the emergence of \na whole new field of mathematics.",
+    "start": 253.291,
+    "duration": 4.295
+  }
+]

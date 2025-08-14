@@ -1,0 +1,1407 @@
+[
+  {
+    "text": "ETHAN MOLLICK: The\nthing about using",
+    "start": 0.0,
+    "duration": 1.5
+  },
+  {
+    "text": "generative AI, like ChatGPT is\nthe first way you try and use",
+    "start": 1.5,
+    "duration": 3.86
+  },
+  {
+    "text": "it is almost always going to\nlead you into frustration.",
+    "start": 5.36,
+    "duration": 2.473
+  },
+  {
+    "text": "So the first thing people do\nis they treat it like Google.",
+    "start": 7.833,
+    "duration": 2.417
+  },
+  {
+    "text": "They try and Google something\nand find out a fact,",
+    "start": 10.25,
+    "duration": 2.762
+  },
+  {
+    "text": "and actually, it makes\nup a lot of facts.",
+    "start": 13.012,
+    "duration": 1.708
+  },
+  {
+    "text": "And it's not a search engine.",
+    "start": 14.72,
+    "duration": 1.23
+  },
+  {
+    "text": "Very unsatisfying.",
+    "start": 15.95,
+    "duration": 0.81
+  },
+  {
+    "text": "People often walk away.",
+    "start": 16.76,
+    "duration": 1.05
+  },
+  {
+    "text": "Maybe, they try and ask the\nsystem to have a personality.",
+    "start": 17.81,
+    "duration": 4.11
+  },
+  {
+    "text": "They'll banter with it.",
+    "start": 21.92,
+    "duration": 1.02
+  },
+  {
+    "text": "They expect it to be\nlike Amazon's Alexa,",
+    "start": 22.94,
+    "duration": 2.13
+  },
+  {
+    "text": "and it doesn't have\na real personality.",
+    "start": 25.07,
+    "duration": 1.92
+  },
+  {
+    "text": "And they walk away disappointed.",
+    "start": 26.99,
+    "duration": 1.56
+  },
+  {
+    "text": "Maybe after that, they start\ntrying something maybe related",
+    "start": 28.55,
+    "duration": 1.74
+  },
+  {
+    "text": "to their job.",
+    "start": 30.29,
+    "duration": 0.54
+  },
+  {
+    "text": "Maybe they ask for\nsomething really specific.",
+    "start": 30.83,
+    "duration": 1.875
+  },
+  {
+    "text": "And they get a paragraph\nthat's OK but not very good,",
+    "start": 32.705,
+    "duration": 2.415
+  },
+  {
+    "text": "and they're kind of\nlike disappointed.",
+    "start": 35.12,
+    "duration": 0.9
+  },
+  {
+    "text": "Maybe they walk away then.",
+    "start": 36.02,
+    "duration": 1.17
+  },
+  {
+    "text": "All of these things are\nactually misleading.",
+    "start": 37.19,
+    "duration": 2.7
+  },
+  {
+    "text": "They're not the way you\nactually want to use the system.",
+    "start": 39.89,
+    "duration": 2.49
+  },
+  {
+    "text": "To use the system,\nyou have to treat it",
+    "start": 42.38,
+    "duration": 1.77
+  },
+  {
+    "text": "like a person in some ways.",
+    "start": 44.15,
+    "duration": 1.44
+  },
+  {
+    "text": "Like an infinitely\nhelpful intern",
+    "start": 45.59,
+    "duration": 3.69
+  },
+  {
+    "text": "that also happens to lie\nsometimes and get confused",
+    "start": 49.28,
+    "duration": 2.46
+  },
+  {
+    "text": "and really wants to please you.",
+    "start": 51.74,
+    "duration": 1.317
+  },
+  {
+    "text": "And if you start thinking\nabout it that way,",
+    "start": 53.057,
+    "duration": 1.833
+  },
+  {
+    "text": "it unlocks a whole\nrealm of possibilities",
+    "start": 54.89,
+    "duration": 1.74
+  },
+  {
+    "text": "about how to use the system\nto make your life better.",
+    "start": 56.63,
+    "duration": 2.28
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 58.91,
+    "duration": 2.23
+  },
+  {
+    "text": "So what can this\nthing do for you?",
+    "start": 61.14,
+    "duration": 1.9
+  },
+  {
+    "text": "Let's do a couple of examples.",
+    "start": 63.04,
+    "duration": 1.25
+  },
+  {
+    "text": "Let's say we want to do\nsome market research.",
+    "start": 64.29,
+    "duration": 2.2
+  },
+  {
+    "text": "Common kind of thing to do\nis let's just tell it look up",
+    "start": 66.49,
+    "duration": 3.16
+  },
+  {
+    "text": "the market for running shoes.",
+    "start": 69.65,
+    "duration": 4.62
+  },
+  {
+    "text": "Give me a chart of\nthe major players",
+    "start": 74.27,
+    "duration": 5.1
+  },
+  {
+    "text": "and their advantages\nand their market sizes.",
+    "start": 79.37,
+    "duration": 5.76
+  },
+  {
+    "text": "And this is now using Bing.",
+    "start": 85.13,
+    "duration": 2.4
+  },
+  {
+    "text": "So Bing is a version\nof ChatGPT-4, which",
+    "start": 87.53,
+    "duration": 3.99
+  },
+  {
+    "text": "is the most advanced model.",
+    "start": 91.52,
+    "duration": 1.29
+  },
+  {
+    "text": "But it only works that way\nin creative mode, which",
+    "start": 92.81,
+    "duration": 1.74
+  },
+  {
+    "text": "you see I've selected here.",
+    "start": 94.55,
+    "duration": 1.05
+  },
+  {
+    "text": "And the advantage of Bing is\nit's connected to the internet,",
+    "start": 95.6,
+    "duration": 2.23
+  },
+  {
+    "text": "so it's actually\nlooking up results.",
+    "start": 97.83,
+    "duration": 1.37
+  },
+  {
+    "text": "Now, you can see\nthat it's actually",
+    "start": 99.2,
+    "duration": 1.17
+  },
+  {
+    "text": "creating the entire chart that\nI might have wanted to have",
+    "start": 100.37,
+    "duration": 2.46
+  },
+  {
+    "text": "for my market sizing here.",
+    "start": 102.83,
+    "duration": 1.11
+  },
+  {
+    "text": "And not just that, it's\ngiving sources and information",
+    "start": 103.94,
+    "duration": 2.22
+  },
+  {
+    "text": "for each of these things.",
+    "start": 106.16,
+    "duration": 1.042
+  },
+  {
+    "text": "Because the system doesn't\nactually know what's true",
+    "start": 107.202,
+    "duration": 2.558
+  },
+  {
+    "text": "and what isn't, you do want\nto fact check everything",
+    "start": 109.76,
+    "duration": 2.7
+  },
+  {
+    "text": "that you see.",
+    "start": 112.46,
+    "duration": 0.57
+  },
+  {
+    "text": "What I would do is check\neach of these sources,",
+    "start": 113.03,
+    "duration": 2.04
+  },
+  {
+    "text": "and this is where Bing makes\nit nice because I can actually",
+    "start": 115.07,
+    "duration": 2.19
+  },
+  {
+    "text": "click the links and see\nwhat the sources are.",
+    "start": 117.26,
+    "duration": 2.01
+  },
+  {
+    "text": "Fact checking though takes\nme a lot less time than",
+    "start": 119.27,
+    "duration": 2.232
+  },
+  {
+    "text": "if I was trying to write\nthis all from scratch.",
+    "start": 121.502,
+    "duration": 1.958
+  },
+  {
+    "text": "So we're getting a whole\nreport here about the future",
+    "start": 123.46,
+    "duration": 2.24
+  },
+  {
+    "text": "of shoe brands with all kinds of\nreally neat insights and stuff",
+    "start": 125.7,
+    "duration": 2.91
+  },
+  {
+    "text": "you can work from.",
+    "start": 128.61,
+    "duration": 0.75
+  },
+  {
+    "text": "I would never just\nsend this to someone,",
+    "start": 129.36,
+    "duration": 1.559
+  },
+  {
+    "text": "but as a starting place,\nit's probably saving",
+    "start": 130.919,
+    "duration": 1.891
+  },
+  {
+    "text": "me hours of work right now.",
+    "start": 132.81,
+    "duration": 1.47
+  },
+  {
+    "text": "That's the way to start\nthinking about using the system.",
+    "start": 134.28,
+    "duration": 3.18
+  },
+  {
+    "text": "Hallucination is a fancy word\nfor the AI makes something up",
+    "start": 137.46,
+    "duration": 3.66
+  },
+  {
+    "text": "with complete confidence.",
+    "start": 141.12,
+    "duration": 1.26
+  },
+  {
+    "text": "It doesn't know things.",
+    "start": 142.38,
+    "duration": 1.063
+  },
+  {
+    "text": "It will tell you stuff, and\nits goal is to make you happy.",
+    "start": 143.443,
+    "duration": 2.417
+  },
+  {
+    "text": "So it's going to tell\nyou all kinds of things.",
+    "start": 145.86,
+    "duration": 1.917
+  },
+  {
+    "text": "It also makes stuff\nup if you ask it",
+    "start": 147.777,
+    "duration": 1.713
+  },
+  {
+    "text": "to explain its own reasoning.",
+    "start": 149.49,
+    "duration": 1.208
+  },
+  {
+    "text": "It doesn't have reasoning.",
+    "start": 150.698,
+    "duration": 1.162
+  },
+  {
+    "text": "It'll just make up an answer\nthat sounds good based",
+    "start": 151.86,
+    "duration": 2.157
+  },
+  {
+    "text": "on the answer it gave you.",
+    "start": 154.017,
+    "duration": 1.083
+  },
+  {
+    "text": "So it's easy to get this thing\nto lie, and a lot of people",
+    "start": 155.1,
+    "duration": 2.47
+  },
+  {
+    "text": "do that.",
+    "start": 157.57,
+    "duration": 0.5
+  },
+  {
+    "text": "And then they're like,\noh, this is useless.",
+    "start": 158.07,
+    "duration": 1.792
+  },
+  {
+    "text": "But if you're not trying\nto maximize lying,",
+    "start": 159.862,
+    "duration": 1.94
+  },
+  {
+    "text": "and you learn what\nthese rules are,",
+    "start": 161.802,
+    "duration": 1.458
+  },
+  {
+    "text": "it's very easy to\nhave it produce",
+    "start": 163.26,
+    "duration": 1.375
+  },
+  {
+    "text": "mostly accurate answers.",
+    "start": 164.635,
+    "duration": 1.055
+  },
+  {
+    "text": "You still want to\ncheck your results.",
+    "start": 165.69,
+    "duration": 1.542
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 167.232,
+    "duration": 2.548
+  },
+  {
+    "text": "So there's a mindset\nyou want to have",
+    "start": 169.78,
+    "duration": 1.892
+  },
+  {
+    "text": "when you're working with\nthese generative AI systems,",
+    "start": 171.672,
+    "duration": 2.208
+  },
+  {
+    "text": "and that mindset is\nbased around the idea",
+    "start": 173.88,
+    "duration": 2.28
+  },
+  {
+    "text": "that it's an interaction.",
+    "start": 176.16,
+    "duration": 1.14
+  },
+  {
+    "text": "You've brought an alien\nmind to the table.",
+    "start": 177.3,
+    "duration": 1.95
+  },
+  {
+    "text": "How are we going to interact\nwith that alien mind",
+    "start": 179.25,
+    "duration": 1.44
+  },
+  {
+    "text": "to get the most\nresults out of it?",
+    "start": 180.69,
+    "duration": 1.53
+  },
+  {
+    "text": "So let's say we want to\nmake an argument on behalf",
+    "start": 182.22,
+    "duration": 2.25
+  },
+  {
+    "text": "of continuing a hybrid work\npolicy at our workplace,",
+    "start": 184.47,
+    "duration": 2.61
+  },
+  {
+    "text": "and I'm going to use Bing here.",
+    "start": 187.08,
+    "duration": 1.308
+  },
+  {
+    "text": "So the first thing\nI often want to do",
+    "start": 188.388,
+    "duration": 1.542
+  },
+  {
+    "text": "is get the system\nto learn some stuff.",
+    "start": 189.93,
+    "duration": 1.74
+  },
+  {
+    "text": "You want to provide context\nto it about who it is",
+    "start": 191.67,
+    "duration": 2.56
+  },
+  {
+    "text": "and what it's trying\nto accomplish.",
+    "start": 194.23,
+    "duration": 1.487
+  },
+  {
+    "text": "How do we provide context?",
+    "start": 195.717,
+    "duration": 1.083
+  },
+  {
+    "text": "So a few different ways.",
+    "start": 196.8,
+    "duration": 1.0
+  },
+  {
+    "text": "We can tell it who it\nis, and we can also",
+    "start": 197.8,
+    "duration": 1.79
+  },
+  {
+    "text": "give it a context of knowledge.",
+    "start": 199.59,
+    "duration": 1.84
+  },
+  {
+    "text": "So let's first ask it\nto get some information.",
+    "start": 201.43,
+    "duration": 3.32
+  },
+  {
+    "text": "Look up why hybrid work\nis good and the arguments",
+    "start": 204.75,
+    "duration": 7.41
+  },
+  {
+    "text": "for hybrid work.",
+    "start": 212.16,
+    "duration": 1.33
+  },
+  {
+    "text": "We're kind of seeding\nit with context",
+    "start": 213.49,
+    "duration": 1.542
+  },
+  {
+    "text": "that we want it to understand.",
+    "start": 215.032,
+    "duration": 1.25
+  },
+  {
+    "text": "Now, the next thing I'm going\nto do is give it a persona.",
+    "start": 216.282,
+    "duration": 2.473
+  },
+  {
+    "text": "I'm going to say who it is.",
+    "start": 218.755,
+    "duration": 1.125
+  },
+  {
+    "text": "So I'm going to say you are\nthe manager at a Fortune 500",
+    "start": 219.88,
+    "duration": 6.65
+  },
+  {
+    "text": "company, and you want to write\na memo to the senior leadership",
+    "start": 226.53,
+    "duration": 7.2
+  },
+  {
+    "text": "team about why\nhybrid work is good.",
+    "start": 233.73,
+    "duration": 6.245
+  },
+  {
+    "text": "So now we're going\nto see what happens.",
+    "start": 239.975,
+    "duration": 1.625
+  },
+  {
+    "text": "If I don't like\nthis answer, and it",
+    "start": 241.6,
+    "duration": 1.29
+  },
+  {
+    "text": "looks like it's going\nto be OK so far,",
+    "start": 242.89,
+    "duration": 1.26
+  },
+  {
+    "text": "I would actually just\nstop the response.",
+    "start": 244.15,
+    "duration": 1.92
+  },
+  {
+    "text": "Either ask it again or do a\nclean sweep and start over.",
+    "start": 246.07,
+    "duration": 2.58
+  },
+  {
+    "text": "One of the ways you're iterating\nis on the whole conversation.",
+    "start": 248.65,
+    "duration": 2.22
+  },
+  {
+    "text": "You get to a dead end?",
+    "start": 250.87,
+    "duration": 0.917
+  },
+  {
+    "text": "Just restart.",
+    "start": 251.787,
+    "duration": 0.673
+  },
+  {
+    "text": "It's memorizing stuff.",
+    "start": 252.46,
+    "duration": 1.08
+  },
+  {
+    "text": "It's getting stuck on a path.",
+    "start": 253.54,
+    "duration": 1.38
+  },
+  {
+    "text": "That path could continue.",
+    "start": 254.92,
+    "duration": 1.2
+  },
+  {
+    "text": "Now, you can see this actually\nis a pretty high-quality memo",
+    "start": 256.12,
+    "duration": 2.558
+  },
+  {
+    "text": "piece it's already doing.",
+    "start": 258.678,
+    "duration": 1.042
+  },
+  {
+    "text": "Dear senior leaders,\nI'm writing with you",
+    "start": 259.72,
+    "duration": 1.92
+  },
+  {
+    "text": "with my own perspective.",
+    "start": 261.64,
+    "duration": 1.0
+  },
+  {
+    "text": "It's pretty good, but I would\nbe reading this over carefully",
+    "start": 262.64,
+    "duration": 2.57
+  },
+  {
+    "text": "and saying, OK, are\nthe facts correct?",
+    "start": 265.21,
+    "duration": 1.98
+  },
+  {
+    "text": "And I may want to\nmake some corrections.",
+    "start": 267.19,
+    "duration": 1.89
+  },
+  {
+    "text": "I think some more\nspecificity might help.",
+    "start": 269.08,
+    "duration": 1.75
+  },
+  {
+    "text": "I would say, we are a\nmanufacturer of batteries.",
+    "start": 270.83,
+    "duration": 6.68
+  },
+  {
+    "text": "Redo it with that information.",
+    "start": 277.51,
+    "duration": 4.39
+  },
+  {
+    "text": "So now I want some specificity.",
+    "start": 281.9,
+    "duration": 1.348
+  },
+  {
+    "text": "We'll see if it's better.",
+    "start": 283.248,
+    "duration": 1.042
+  },
+  {
+    "text": "It might be better.",
+    "start": 284.29,
+    "duration": 0.54
+  },
+  {
+    "text": "It might be worse.",
+    "start": 284.83,
+    "duration": 0.78
+  },
+  {
+    "text": "The point is it's almost\ncostless for me to do this.",
+    "start": 285.61,
+    "duration": 2.37
+  },
+  {
+    "text": "While if I sat down to write\na memo to senior management,",
+    "start": 287.98,
+    "duration": 2.1
+  },
+  {
+    "text": "it would take forever.",
+    "start": 290.08,
+    "duration": 0.917
+  },
+  {
+    "text": "Even if I don't use a\nsingle bit of the text here,",
+    "start": 290.997,
+    "duration": 2.443
+  },
+  {
+    "text": "it still has pushed me to\nthink about topics I wouldn't",
+    "start": 293.44,
+    "duration": 2.31
+  },
+  {
+    "text": "have thought about otherwise.",
+    "start": 295.75,
+    "duration": 1.18
+  },
+  {
+    "text": "I'm going to end up\nbeing more creative.",
+    "start": 296.93,
+    "duration": 1.35
+  },
+  {
+    "text": "I'm going to have less\nproblems in the way here.",
+    "start": 298.28,
+    "duration": 2.243
+  },
+  {
+    "text": "And you'll now\nnotice it's talking",
+    "start": 300.523,
+    "duration": 1.417
+  },
+  {
+    "text": "about the whole idea-- it's now\nstarting to weave this battery",
+    "start": 301.94,
+    "duration": 2.583
+  },
+  {
+    "text": "perspective into this.",
+    "start": 304.523,
+    "duration": 1.497
+  },
+  {
+    "text": "I might want to go\none step further.",
+    "start": 306.02,
+    "duration": 1.78
+  },
+  {
+    "text": "I'm going to stop this\nhere, but I could say, now,",
+    "start": 307.8,
+    "duration": 2.72
+  },
+  {
+    "text": "tell me the arguments\nI would likely",
+    "start": 310.52,
+    "duration": 7.22
+  },
+  {
+    "text": "hear against this point in a\nmeeting and how to answer them.",
+    "start": 317.74,
+    "duration": 10.29
+  },
+  {
+    "text": "And so now we'll go\none step further.",
+    "start": 328.03,
+    "duration": 1.792
+  },
+  {
+    "text": "Let's figure out what\nthe counter arguments are",
+    "start": 329.822,
+    "duration": 1.958
+  },
+  {
+    "text": "and what that would happen here.",
+    "start": 331.78,
+    "duration": 1.333
+  },
+  {
+    "text": "So here are some possible\narguments, and it's saying--",
+    "start": 333.113,
+    "duration": 2.987
+  },
+  {
+    "text": "it's giving the\nargument and the answer.",
+    "start": 336.1,
+    "duration": 2.178
+  },
+  {
+    "text": "So now we're prepping\nfor this whole thing.",
+    "start": 338.278,
+    "duration": 1.792
+  },
+  {
+    "text": "And by the way, I've got\na fictional case here,",
+    "start": 340.07,
+    "duration": 1.92
+  },
+  {
+    "text": "but I could give the\nnames of the people.",
+    "start": 341.99,
+    "duration": 1.28
+  },
+  {
+    "text": "It would look them\nup, and then tell me",
+    "start": 343.27,
+    "duration": 1.65
+  },
+  {
+    "text": "about the individuals\ninvolved and who would likely",
+    "start": 344.92,
+    "duration": 1.92
+  },
+  {
+    "text": "make that argument.",
+    "start": 346.84,
+    "duration": 0.81
+  },
+  {
+    "text": "Not everything here\nis going to be right,",
+    "start": 347.65,
+    "duration": 1.708
+  },
+  {
+    "text": "but we're working through a\nprocess of working with this.",
+    "start": 349.358,
+    "duration": 2.662
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 352.02,
+    "duration": 0.713
+  },
+  {
+    "text": "There's a whole bunch\nof different kinds",
+    "start": 352.733,
+    "duration": 1.667
+  },
+  {
+    "text": "of ethical implications.",
+    "start": 354.4,
+    "duration": 1.05
+  },
+  {
+    "text": "On one hand, it's trained\non the entire internet,",
+    "start": 355.45,
+    "duration": 2.23
+  },
+  {
+    "text": "which is a mix of amazing and\nsort of cesspool of nonsense.",
+    "start": 357.68,
+    "duration": 3.972
+  },
+  {
+    "text": "People aren't being paid\nfor the training data.",
+    "start": 361.652,
+    "duration": 1.958
+  },
+  {
+    "text": "Everything we've ever\nwritten is feeding the model.",
+    "start": 363.61,
+    "duration": 1.89
+  },
+  {
+    "text": "How do you feel about\nthat is an open question,",
+    "start": 365.5,
+    "duration": 2.13
+  },
+  {
+    "text": "and legally we're not 100%\nsure of how that all works.",
+    "start": 367.63,
+    "duration": 2.478
+  },
+  {
+    "text": "The second ethical level up\nis that the models probably",
+    "start": 370.108,
+    "duration": 2.292
+  },
+  {
+    "text": "learned various\nbiases about the world",
+    "start": 372.4,
+    "duration": 1.65
+  },
+  {
+    "text": "as a result of all of this.",
+    "start": 374.05,
+    "duration": 1.18
+  },
+  {
+    "text": "So if you ask it to talk a\nstory about an entrepreneur,",
+    "start": 375.23,
+    "duration": 2.855
+  },
+  {
+    "text": "it's most likely to talk\nabout a male entrepreneur.",
+    "start": 378.085,
+    "duration": 2.125
+  },
+  {
+    "text": "And you see those kind\nof biases sneak in,",
+    "start": 380.21,
+    "duration": 1.56
+  },
+  {
+    "text": "and they can be very subtle\nand difficult to detect.",
+    "start": 381.77,
+    "duration": 2.167
+  },
+  {
+    "text": "The third level is, on top\nof all of this, companies",
+    "start": 383.937,
+    "duration": 3.353
+  },
+  {
+    "text": "like OpenAI have worked pretty\nhard to create guardrails.",
+    "start": 387.29,
+    "duration": 2.523
+  },
+  {
+    "text": "That's why the system\nwon't do certain things,",
+    "start": 389.813,
+    "duration": 1.917
+  },
+  {
+    "text": "or sometimes will\nrefuse to do things,",
+    "start": 391.73,
+    "duration": 1.71
+  },
+  {
+    "text": "because it will not let you\nmake an offensive statement",
+    "start": 393.44,
+    "duration": 3.117
+  },
+  {
+    "text": "or it'll try to prevent\nyou from doing that.",
+    "start": 396.557,
+    "duration": 1.833
+  },
+  {
+    "text": "Some people chafe against\nthose restrictions,",
+    "start": 398.39,
+    "duration": 2.07
+  },
+  {
+    "text": "but that's an attempt to\nmake the thing be ethical.",
+    "start": 400.46,
+    "duration": 2.358
+  },
+  {
+    "text": "And then there's a\nfinal level, which",
+    "start": 402.818,
+    "duration": 1.542
+  },
+  {
+    "text": "is called alignment, which is\nthe idea that as these AIs get",
+    "start": 404.36,
+    "duration": 2.55
+  },
+  {
+    "text": "more powerful, are\nthey doing things",
+    "start": 406.91,
+    "duration": 1.98
+  },
+  {
+    "text": "that help humankind as a whole\nor hurt humankind as a whole?",
+    "start": 408.89,
+    "duration": 2.85
+  },
+  {
+    "text": "There's a lot of levels\nof ethics to deal with.",
+    "start": 411.74,
+    "duration": 2.04
+  },
+  {
+    "text": "The truth is that when\nyou're using the system,",
+    "start": 413.78,
+    "duration": 2.19
+  },
+  {
+    "text": "it's hard to separate\nout what's happening.",
+    "start": 415.97,
+    "duration": 2.22
+  },
+  {
+    "text": "And you have to make a\nchoice about whether you're",
+    "start": 418.19,
+    "duration": 2.31
+  },
+  {
+    "text": "going to embrace this\nor not, but there's",
+    "start": 420.5,
+    "duration": 2.82
+  },
+  {
+    "text": "a lot of complex ethical\ndiscussions happening.",
+    "start": 423.32,
+    "duration": 2.525
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 425.845,
+    "duration": 2.425
+  },
+  {
+    "text": "So let's create a product.",
+    "start": 428.27,
+    "duration": 1.95
+  },
+  {
+    "text": "Let's do a watch.",
+    "start": 430.22,
+    "duration": 1.14
+  },
+  {
+    "text": "We want to create a new watch,\nso let's say, first thing,",
+    "start": 431.36,
+    "duration": 3.36
+  },
+  {
+    "text": "Bing look up the trends in\nmechanical watches for 2023",
+    "start": 434.72,
+    "duration": 9.39
+  },
+  {
+    "text": "and list some.",
+    "start": 444.11,
+    "duration": 1.86
+  },
+  {
+    "text": "So it'll do that for us now.",
+    "start": 445.97,
+    "duration": 2.16
+  },
+  {
+    "text": "So again, we're giving context.",
+    "start": 448.13,
+    "duration": 1.44
+  },
+  {
+    "text": "Because the process has\na lot of randomness,",
+    "start": 449.57,
+    "duration": 1.89
+  },
+  {
+    "text": "by asking the AI to\ngo step by step--",
+    "start": 451.46,
+    "duration": 1.917
+  },
+  {
+    "text": "and you can even just\nsay step one, do this.",
+    "start": 453.377,
+    "duration": 1.833
+  },
+  {
+    "text": "Step two, do this.",
+    "start": 455.21,
+    "duration": 0.78
+  },
+  {
+    "text": "Step three, do that.",
+    "start": 455.99,
+    "duration": 1.41
+  },
+  {
+    "text": "That is the most\neffective way to prompt.",
+    "start": 457.4,
+    "duration": 2.095
+  },
+  {
+    "text": "So it's talking about\nsome watches that",
+    "start": 459.495,
+    "duration": 1.625
+  },
+  {
+    "text": "fit various trends,\nso we could say,",
+    "start": 461.12,
+    "duration": 2.1
+  },
+  {
+    "text": "create personas for five\ndifferent buyers of watches.",
+    "start": 463.22,
+    "duration": 9.06
+  },
+  {
+    "text": "Make a table describing them\nand what they are looking for.",
+    "start": 472.28,
+    "duration": 8.02
+  },
+  {
+    "text": "So now you can see we've got\nBeth, Carl, Dana, and Eric",
+    "start": 480.3,
+    "duration": 2.51
+  },
+  {
+    "text": "and their budget for watches\nand their motivations.",
+    "start": 482.81,
+    "duration": 2.55
+  },
+  {
+    "text": "Let's say, conduct a fake\nto a focus group with people",
+    "start": 485.36,
+    "duration": 6.99
+  },
+  {
+    "text": "in the Carol category.",
+    "start": 492.35,
+    "duration": 2.533
+  },
+  {
+    "text": "And again, we're\ntaking it step by step,",
+    "start": 494.883,
+    "duration": 1.667
+  },
+  {
+    "text": "and the Carols like\nthis one better.",
+    "start": 496.55,
+    "duration": 1.83
+  },
+  {
+    "text": "I like that it's a\ncollective set of Carols that",
+    "start": 498.38,
+    "duration": 1.62
+  },
+  {
+    "text": "are working on this problem.",
+    "start": 500.0,
+    "duration": 1.167
+  },
+  {
+    "text": "And then we can say, OK,\nnow, describe the watch--",
+    "start": 501.167,
+    "duration": 6.003
+  },
+  {
+    "text": "a prototype watch that\nwould make Carol happy",
+    "start": 507.17,
+    "duration": 8.999
+  },
+  {
+    "text": "and pass that\ndetailed description",
+    "start": 516.169,
+    "duration": 6.87
+  },
+  {
+    "text": "to Dolly, which is the image\nmaker, to show me a picture.",
+    "start": 523.039,
+    "duration": 5.821
+  },
+  {
+    "text": "We could also say\nwhile we're doing",
+    "start": 528.86,
+    "duration": 1.56
+  },
+  {
+    "text": "this, come up with the\nproposal for a website--",
+    "start": 530.42,
+    "duration": 6.57
+  },
+  {
+    "text": "oh, it's not bad-- selling\nthis watch to Carol.",
+    "start": 536.99,
+    "duration": 5.58
+  },
+  {
+    "text": "And so these are\nnot bad pictures.",
+    "start": 542.57,
+    "duration": 2.25
+  },
+  {
+    "text": "And so let's do that here.",
+    "start": 544.82,
+    "duration": 1.608
+  },
+  {
+    "text": "So now it's going\nto write a proposal",
+    "start": 546.428,
+    "duration": 1.542
+  },
+  {
+    "text": "that we might want to give\nto our website designer.",
+    "start": 547.97,
+    "duration": 3.027
+  },
+  {
+    "text": "It's creating a whole\ntimepiece thing called",
+    "start": 550.997,
+    "duration": 1.833
+  },
+  {
+    "text": "Vintage Timepieces,\nand here's what",
+    "start": 552.83,
+    "duration": 1.713
+  },
+  {
+    "text": "we're going to do with this.",
+    "start": 554.543,
+    "duration": 1.167
+  },
+  {
+    "text": "We're going to take\nthis information, which",
+    "start": 555.71,
+    "duration": 1.98
+  },
+  {
+    "text": "it's giving us, and we're\ngoing to paste it into GPT-4",
+    "start": 557.69,
+    "duration": 2.55
+  },
+  {
+    "text": "and ask GPT-4 to create\nus the home page.",
+    "start": 560.24,
+    "duration": 2.34
+  },
+  {
+    "text": "So we'll just take this here,\nand I'll copy this over.",
+    "start": 562.58,
+    "duration": 3.48
+  },
+  {
+    "text": "The context window\non Bing, it only",
+    "start": 566.06,
+    "duration": 2.91
+  },
+  {
+    "text": "takes a little bit of space, and\nso it's not as good for coding.",
+    "start": 568.97,
+    "duration": 3.63
+  },
+  {
+    "text": "So we don't need the internet\nanymore, so we will say--",
+    "start": 572.6,
+    "duration": 4.61
+  },
+  {
+    "text": "we will ask it to\ncreate this website.",
+    "start": 577.21,
+    "duration": 4.08
+  },
+  {
+    "text": "Create the HTML and CSS.",
+    "start": 581.29,
+    "duration": 5.97
+  },
+  {
+    "text": "So now it's going to\ncreate the website for us,",
+    "start": 587.26,
+    "duration": 2.19
+  },
+  {
+    "text": "and we can just\nliterally paste this in.",
+    "start": 589.45,
+    "duration": 2.13
+  },
+  {
+    "text": "And here we go, it's\nalready coding up for us.",
+    "start": 591.58,
+    "duration": 4.02
+  },
+  {
+    "text": "Nice way of skipping\nwebsite design.",
+    "start": 595.6,
+    "duration": 1.812
+  },
+  {
+    "text": "If you don't know how to use\nthis, by the way, just ask it.",
+    "start": 597.412,
+    "duration": 2.458
+  },
+  {
+    "text": "It'll tell you how to create\na web page and how to host it",
+    "start": 599.87,
+    "duration": 2.03
+  },
+  {
+    "text": "and where to host it and\ndo all that work for you.",
+    "start": 601.9,
+    "duration": 2.38
+  },
+  {
+    "text": "So all of this is\nnovel, and we've",
+    "start": 604.28,
+    "duration": 2.15
+  },
+  {
+    "text": "created a product in three or\nfour minutes with a web page",
+    "start": 606.43,
+    "duration": 3.06
+  },
+  {
+    "text": "and done fake market\nresearch on it.",
+    "start": 609.49,
+    "duration": 1.65
+  },
+  {
+    "text": "It's pretty cool.",
+    "start": 611.14,
+    "duration": 1.215
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 612.355,
+    "duration": 1.305
+  },
+  {
+    "text": "To be very honest,\nalmost everyone",
+    "start": 613.66,
+    "duration": 2.1
+  },
+  {
+    "text": "I know who has\nused these systems,",
+    "start": 615.76,
+    "duration": 3.03
+  },
+  {
+    "text": "you bounce off it until\nit clicks for you,",
+    "start": 618.79,
+    "duration": 4.02
+  },
+  {
+    "text": "and then you have a very\nsleepless night or two.",
+    "start": 622.81,
+    "duration": 2.1
+  },
+  {
+    "text": "And I don't have an answer\nfor the sleepless night.",
+    "start": 624.91,
+    "duration": 2.52
+  },
+  {
+    "text": "I think you kind of--",
+    "start": 627.43,
+    "duration": 1.11
+  },
+  {
+    "text": "that seems to be what happens.",
+    "start": 628.54,
+    "duration": 1.77
+  },
+  {
+    "text": "You're like, oh, actually,\nthis isn't a toy.",
+    "start": 630.31,
+    "duration": 2.64
+  },
+  {
+    "text": "This actually does matter.",
+    "start": 632.95,
+    "duration": 1.51
+  },
+  {
+    "text": "This is actually\ngoing to affect my job",
+    "start": 634.46,
+    "duration": 2.03
+  },
+  {
+    "text": "or jobs of people I know.",
+    "start": 636.49,
+    "duration": 1.243
+  },
+  {
+    "text": "And then you're like,\nwhat does it mean?",
+    "start": 637.733,
+    "duration": 1.667
+  },
+  {
+    "text": "And we don't have an answer.",
+    "start": 639.4,
+    "duration": 0.72
+  },
+  {
+    "text": "So what you do is\nyou double down,",
+    "start": 640.12,
+    "duration": 1.417
+  },
+  {
+    "text": "and you learn how\nto use these tools.",
+    "start": 641.537,
+    "duration": 1.563
+  },
+  {
+    "text": "And then you think about what\ncapabilities does that give me",
+    "start": 643.1,
+    "duration": 2.28
+  },
+  {
+    "text": "that I didn't have before?",
+    "start": 645.38,
+    "duration": 1.083
+  },
+  {
+    "text": "What parts of my job that are\nboring and awful can I offload?",
+    "start": 646.463,
+    "duration": 2.997
+  },
+  {
+    "text": "What things are tedious that\nI don't have to do anymore?",
+    "start": 649.46,
+    "duration": 2.71
+  },
+  {
+    "text": "And that model can get\nyou through that period.",
+    "start": 652.17,
+    "duration": 2.66
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 654.83,
+    "duration": 3.35
+  }
+]

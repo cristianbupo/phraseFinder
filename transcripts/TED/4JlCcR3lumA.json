@@ -1,0 +1,1317 @@
+[
+  {
+    "text": "This is something you won't like.",
+    "start": 4.26,
+    "duration": 2.56
+  },
+  {
+    "text": "But here everyone is a liar.",
+    "start": 6.82,
+    "duration": 3.4
+  },
+  {
+    "text": "Don't take it too personally.",
+    "start": 12.54,
+    "duration": 1.88
+  },
+  {
+    "text": "What I mean is that lying is very common",
+    "start": 14.46,
+    "duration": 3.32
+  },
+  {
+    "text": "and it is now well-established\nthat we lie on a daily basis.",
+    "start": 17.78,
+    "duration": 4.48
+  },
+  {
+    "text": "Indeed, scientists have estimated\nthat we tell around two lies per day,",
+    "start": 22.3,
+    "duration": 4.92
+  },
+  {
+    "text": "although, of course, it's not that easy\nto establish those numbers with certainty.",
+    "start": 27.26,
+    "duration": 3.88
+  },
+  {
+    "text": "And, well, I introduce myself.",
+    "start": 32.18,
+    "duration": 2.04
+  },
+  {
+    "text": "I'm Riccardo, I'm a psychologist\nand a PhD candidate,",
+    "start": 34.26,
+    "duration": 4.28
+  },
+  {
+    "text": "and for my research project I study\nhow good are people at detecting lies.",
+    "start": 38.58,
+    "duration": 5.4
+  },
+  {
+    "text": "Seems cool, right? But I'm not joking.",
+    "start": 44.02,
+    "duration": 2.04
+  },
+  {
+    "text": "And you might wonder\nwhy a psychologist was then invited",
+    "start": 47.18,
+    "duration": 4.64
+  },
+  {
+    "text": "to give a TED Talk about AI.",
+    "start": 51.82,
+    "duration": 2.08
+  },
+  {
+    "text": "And well, I'm here today",
+    "start": 55.66,
+    "duration": 1.4
+  },
+  {
+    "text": "because I'm about to tell you\nhow AI could be used to detect lies.",
+    "start": 57.1,
+    "duration": 6.0
+  },
+  {
+    "text": "And you will be very surprised\nby the answer.",
+    "start": 63.14,
+    "duration": 2.24
+  },
+  {
+    "text": "But first of all,\nwhen is it relevant to detect lies?",
+    "start": 66.5,
+    "duration": 4.04
+  },
+  {
+    "text": "A first clear example\nthat comes to my mind",
+    "start": 72.42,
+    "duration": 2.8
+  },
+  {
+    "text": "is in the criminal investigation field.",
+    "start": 75.26,
+    "duration": 2.04
+  },
+  {
+    "text": "Imagine you are a police officer\nand you want to interview a suspect.",
+    "start": 78.34,
+    "duration": 4.92
+  },
+  {
+    "text": "And the suspect is providing\nsome information to you.",
+    "start": 83.3,
+    "duration": 3.52
+  },
+  {
+    "text": "And this information is actually leading\nto the next steps of the investigation.",
+    "start": 86.82,
+    "duration": 4.08
+  },
+  {
+    "text": "We certainly want to understand\nif the suspect is reliable",
+    "start": 91.94,
+    "duration": 4.4
+  },
+  {
+    "text": "or if they are trying to deceive us.",
+    "start": 96.38,
+    "duration": 2.28
+  },
+  {
+    "text": "Then another example comes to my mind,",
+    "start": 100.74,
+    "duration": 2.68
+  },
+  {
+    "text": "and I think this really affects all of us.",
+    "start": 103.46,
+    "duration": 2.0
+  },
+  {
+    "text": "So please raise your hands",
+    "start": 106.22,
+    "duration": 2.04
+  },
+  {
+    "text": "if you would like to know\nif your partner cheated on you.",
+    "start": 108.3,
+    "duration": 3.84
+  },
+  {
+    "text": "(Laughter)",
+    "start": 112.18,
+    "duration": 1.08
+  },
+  {
+    "text": "And don't be shy because I know.",
+    "start": 113.3,
+    "duration": 1.92
+  },
+  {
+    "text": "(Laughter)",
+    "start": 115.26,
+    "duration": 1.36
+  },
+  {
+    "text": "Yeah. You see?",
+    "start": 116.62,
+    "duration": 1.24
+  },
+  {
+    "text": "It's very relevant.",
+    "start": 119.58,
+    "duration": 1.72
+  },
+  {
+    "text": "However, I have to have to say\nthat we as humans",
+    "start": 122.34,
+    "duration": 2.84
+  },
+  {
+    "text": "are very bad at detecting lies.",
+    "start": 125.22,
+    "duration": 2.24
+  },
+  {
+    "text": "In fact, many studies\nhave already confirmed",
+    "start": 128.42,
+    "duration": 2.8
+  },
+  {
+    "text": "that when people are asked to judge",
+    "start": 131.26,
+    "duration": 2.84
+  },
+  {
+    "text": "if someone is lying or not",
+    "start": 134.14,
+    "duration": 1.76
+  },
+  {
+    "text": "without knowing much\nabout that person or the context,",
+    "start": 135.9,
+    "duration": 3.76
+  },
+  {
+    "text": "people's accuracy is no better\nthan the chance level,",
+    "start": 139.66,
+    "duration": 3.8
+  },
+  {
+    "text": "about the same as flipping a coin.",
+    "start": 143.5,
+    "duration": 1.72
+  },
+  {
+    "text": "You might also wonder",
+    "start": 147.3,
+    "duration": 1.36
+  },
+  {
+    "text": "if experts, such as police officers,\nprosecutors, experts",
+    "start": 148.66,
+    "duration": 5.12
+  },
+  {
+    "text": "and even psychologists",
+    "start": 153.78,
+    "duration": 1.48
+  },
+  {
+    "text": "are better at detecting lies.",
+    "start": 155.3,
+    "duration": 1.76
+  },
+  {
+    "text": "And the answer is complex,",
+    "start": 157.86,
+    "duration": 1.52
+  },
+  {
+    "text": "because experience alone\ndoesn't seem to be enough",
+    "start": 159.42,
+    "duration": 3.76
+  },
+  {
+    "text": "to help detect lies accurately.",
+    "start": 163.22,
+    "duration": 2.4
+  },
+  {
+    "text": "It might help, but it's not enough.",
+    "start": 165.62,
+    "duration": 2.2
+  },
+  {
+    "text": "To give you some numbers.",
+    "start": 169.78,
+    "duration": 1.6
+  },
+  {
+    "text": "In a well-known meta-analysis\nthat previous scholars did in 2006,",
+    "start": 171.42,
+    "duration": 5.04
+  },
+  {
+    "text": "they found that naive judges' accuracy",
+    "start": 176.5,
+    "duration": 2.76
+  },
+  {
+    "text": "was on average around 54 percent.",
+    "start": 179.3,
+    "duration": 3.32
+  },
+  {
+    "text": "Experts perform only slightly better,",
+    "start": 183.9,
+    "duration": 3.28
+  },
+  {
+    "text": "with an accuracy rate around 55 percent.",
+    "start": 187.22,
+    "duration": 3.88
+  },
+  {
+    "text": "(Laughter)",
+    "start": 191.14,
+    "duration": 1.64
+  },
+  {
+    "text": "Not that impressive, right?",
+    "start": 192.78,
+    "duration": 1.44
+  },
+  {
+    "text": "And ...",
+    "start": 195.66,
+    "duration": 1.24
+  },
+  {
+    "text": "Those numbers actually come\nfrom the analysis",
+    "start": 198.14,
+    "duration": 2.88
+  },
+  {
+    "text": "of the results of 108 studies,",
+    "start": 201.06,
+    "duration": 2.88
+  },
+  {
+    "text": "meaning that these findings\nare quite robust.",
+    "start": 203.94,
+    "duration": 2.68
+  },
+  {
+    "text": "And of course, the debate is also\nmuch more complicated than this",
+    "start": 206.62,
+    "duration": 3.84
+  },
+  {
+    "text": "and also more nuanced.",
+    "start": 210.5,
+    "duration": 1.56
+  },
+  {
+    "text": "But here the main take-home message",
+    "start": 212.1,
+    "duration": 2.36
+  },
+  {
+    "text": "is that humans are not good\nat detecting lies.",
+    "start": 214.5,
+    "duration": 3.68
+  },
+  {
+    "text": "What if we are creating an AI tool",
+    "start": 218.94,
+    "duration": 4.2
+  },
+  {
+    "text": "where everyone can detect\nif someone else is lying?",
+    "start": 223.18,
+    "duration": 2.92
+  },
+  {
+    "text": "This is not possible yet,\nso please don't panic.",
+    "start": 228.1,
+    "duration": 2.64
+  },
+  {
+    "text": "(Laughter)",
+    "start": 230.74,
+    "duration": 1.88
+  },
+  {
+    "text": "But this is what we tried to do\nin a recent study",
+    "start": 232.62,
+    "duration": 3.08
+  },
+  {
+    "text": "that I did together\nwith my brilliant colleagues",
+    "start": 235.7,
+    "duration": 2.4
+  },
+  {
+    "text": "whom I need to thank.",
+    "start": 238.14,
+    "duration": 1.72
+  },
+  {
+    "text": "And actually, to let you understand\nwhat we did in our study,",
+    "start": 239.86,
+    "duration": 6.76
+  },
+  {
+    "text": "I need to first introduce you\nto some technical concepts",
+    "start": 246.62,
+    "duration": 4.44
+  },
+  {
+    "text": "and to the main characters of this story:",
+    "start": 251.1,
+    "duration": 3.08
+  },
+  {
+    "text": "Large language models.",
+    "start": 255.3,
+    "duration": 2.48
+  },
+  {
+    "text": "Large language models are AI systems",
+    "start": 257.78,
+    "duration": 2.36
+  },
+  {
+    "text": "designed to generate outputs\nin natural language",
+    "start": 260.18,
+    "duration": 3.16
+  },
+  {
+    "text": "in a way that almost mimics\nhuman communication.",
+    "start": 263.38,
+    "duration": 2.88
+  },
+  {
+    "text": "If you are wondering how we teach\nthese AI systems to detect lies,",
+    "start": 267.34,
+    "duration": 3.84
+  },
+  {
+    "text": "here is where something called\nfine-tuning comes in.",
+    "start": 271.22,
+    "duration": 3.6
+  },
+  {
+    "text": "But let's use a metaphor.",
+    "start": 274.82,
+    "duration": 2.08
+  },
+  {
+    "text": "Imagine large language models\nbeing as students",
+    "start": 276.9,
+    "duration": 3.36
+  },
+  {
+    "text": "who have gone through years of school,",
+    "start": 280.3,
+    "duration": 2.36
+  },
+  {
+    "text": "learning a little bit about everything,",
+    "start": 282.66,
+    "duration": 2.16
+  },
+  {
+    "text": "such as language, concepts, facts.",
+    "start": 284.82,
+    "duration": 4.08
+  },
+  {
+    "text": "But when it's time for them to specialize,",
+    "start": 288.9,
+    "duration": 2.84
+  },
+  {
+    "text": "like in law school or in medical school,",
+    "start": 291.74,
+    "duration": 2.48
+  },
+  {
+    "text": "they need more focused training.",
+    "start": 294.22,
+    "duration": 1.56
+  },
+  {
+    "text": "Fine-tuning is that extra education.",
+    "start": 296.9,
+    "duration": 2.44
+  },
+  {
+    "text": "And of course, large language models\ndon't learn as humans do.",
+    "start": 300.46,
+    "duration": 3.24
+  },
+  {
+    "text": "But this is just to give you\nthe main idea.",
+    "start": 303.7,
+    "duration": 2.32
+  },
+  {
+    "text": "Then, as for training students,\nyou need books, lectures, examples,",
+    "start": 307.74,
+    "duration": 7.0
+  },
+  {
+    "text": "for training large language models\nyou need datasets.",
+    "start": 314.74,
+    "duration": 3.48
+  },
+  {
+    "text": "And for our study\nwe considered three datasets,",
+    "start": 319.18,
+    "duration": 4.24
+  },
+  {
+    "text": "one about personal opinions,",
+    "start": 323.46,
+    "duration": 2.44
+  },
+  {
+    "text": "one about past autobiographical memories",
+    "start": 325.9,
+    "duration": 2.84
+  },
+  {
+    "text": "and one about future intentions.",
+    "start": 328.74,
+    "duration": 2.72
+  },
+  {
+    "text": "These datasets were already available\nfrom previous studies",
+    "start": 331.5,
+    "duration": 3.0
+  },
+  {
+    "text": "and contained both truthful\nand deceptive statements.",
+    "start": 334.54,
+    "duration": 3.04
+  },
+  {
+    "text": "Typically, you collect\nthese types of statements",
+    "start": 339.14,
+    "duration": 2.24
+  },
+  {
+    "text": "by asking participants to tell the truth\nor to lie about something.",
+    "start": 341.42,
+    "duration": 4.28
+  },
+  {
+    "text": "For example, if I was a participant\nin the truthful condition,",
+    "start": 345.7,
+    "duration": 3.68
+  },
+  {
+    "text": "and the task was",
+    "start": 349.42,
+    "duration": 1.68
+  },
+  {
+    "text": "\"tell me about your past holidays,\"",
+    "start": 351.14,
+    "duration": 2.32
+  },
+  {
+    "text": "then I will tell the researcher\nabout my previous holidays in Vietnam,",
+    "start": 353.5,
+    "duration": 4.6
+  },
+  {
+    "text": "and here we have a slide to prove it.",
+    "start": 358.14,
+    "duration": 1.96
+  },
+  {
+    "text": "For the deceptive condition",
+    "start": 361.34,
+    "duration": 1.8
+  },
+  {
+    "text": "they will randomly pick some of you\nwho have never been to Vietnam,",
+    "start": 363.18,
+    "duration": 3.64
+  },
+  {
+    "text": "and they will ask you to make up a story",
+    "start": 366.82,
+    "duration": 2.24
+  },
+  {
+    "text": "and convince someone else\nthat you've really been to Vietnam.",
+    "start": 369.1,
+    "duration": 3.2
+  },
+  {
+    "text": "And this is how it typically works.",
+    "start": 372.34,
+    "duration": 1.96
+  },
+  {
+    "text": "And as in all university courses,\nyou might know this,",
+    "start": 376.5,
+    "duration": 4.48
+  },
+  {
+    "text": "after lectures you have exams.",
+    "start": 381.02,
+    "duration": 2.44
+  },
+  {
+    "text": "And likewise after training our AI models,",
+    "start": 383.5,
+    "duration": 3.84
+  },
+  {
+    "text": "we would like to test them.",
+    "start": 387.38,
+    "duration": 1.36
+  },
+  {
+    "text": "And the procedure that we followed,",
+    "start": 389.5,
+    "duration": 1.92
+  },
+  {
+    "text": "that is actually the typical one,\nis the following.",
+    "start": 391.46,
+    "duration": 3.2
+  },
+  {
+    "text": "So we picked some statements\nrandomly from each dataset",
+    "start": 394.66,
+    "duration": 4.96
+  },
+  {
+    "text": "and we took them apart.",
+    "start": 399.62,
+    "duration": 1.48
+  },
+  {
+    "text": "So the model never saw these statements\nduring the training phase.",
+    "start": 401.14,
+    "duration": 3.76
+  },
+  {
+    "text": "And only after the training was completed,",
+    "start": 404.9,
+    "duration": 2.96
+  },
+  {
+    "text": "we used them as a test, as the final exam.",
+    "start": 407.86,
+    "duration": 2.88
+  },
+  {
+    "text": "But who was our student then?",
+    "start": 412.54,
+    "duration": 2.24
+  },
+  {
+    "text": "In this case, it was\na large language model",
+    "start": 415.66,
+    "duration": 2.6
+  },
+  {
+    "text": "developed by Google",
+    "start": 418.3,
+    "duration": 1.4
+  },
+  {
+    "text": "and called FLAN-T5.",
+    "start": 419.7,
+    "duration": 1.92
+  },
+  {
+    "text": "Flanny, for friends.",
+    "start": 421.62,
+    "duration": 1.84
+  },
+  {
+    "text": "And now that we have all the pieces\nof the process together,",
+    "start": 423.5,
+    "duration": 4.4
+  },
+  {
+    "text": "we can actually dig deep into our study.",
+    "start": 427.9,
+    "duration": 2.44
+  },
+  {
+    "text": "Our study was composed\nby three main experiments.",
+    "start": 432.1,
+    "duration": 4.48
+  },
+  {
+    "text": "For the first experiment,\nwe fine-tuned our model, our FLAN-T5,",
+    "start": 437.5,
+    "duration": 5.12
+  },
+  {
+    "text": "on each single dataset separately.",
+    "start": 442.62,
+    "duration": 2.92
+  },
+  {
+    "text": "For the second experiment,",
+    "start": 447.7,
+    "duration": 1.92
+  },
+  {
+    "text": "we fine-tuned our model\non two pairs of datasets together,",
+    "start": 449.62,
+    "duration": 4.68
+  },
+  {
+    "text": "and we tested it\non the third remaining one,",
+    "start": 454.34,
+    "duration": 2.92
+  },
+  {
+    "text": "and we used all three\npossible combinations.",
+    "start": 457.3,
+    "duration": 2.52
+  },
+  {
+    "text": "For the last final experiment,",
+    "start": 461.38,
+    "duration": 2.12
+  },
+  {
+    "text": "we fine-tuned the model\non a new, larger training test set",
+    "start": 463.54,
+    "duration": 3.76
+  },
+  {
+    "text": "that we obtained by combining\nall the three datasets together.",
+    "start": 467.34,
+    "duration": 3.16
+  },
+  {
+    "text": "The results were quite interesting",
+    "start": 472.38,
+    "duration": 2.88
+  },
+  {
+    "text": "because what we found\nwas that in the first experiment,",
+    "start": 475.3,
+    "duration": 4.0
+  },
+  {
+    "text": "FLAN-T5 achieved an accuracy range\nbetween 70 percent and 80 percent.",
+    "start": 479.34,
+    "duration": 6.08
+  },
+  {
+    "text": "However, in the second experiment,",
+    "start": 486.46,
+    "duration": 2.88
+  },
+  {
+    "text": "FLAN-T5 dropped its accuracy\nto almost 50 percent.",
+    "start": 489.38,
+    "duration": 4.64
+  },
+  {
+    "text": "And then, surprisingly,\nin the third experiment,",
+    "start": 495.38,
+    "duration": 3.08
+  },
+  {
+    "text": "FLAN-T5 rose back to almost 80 percent.",
+    "start": 498.5,
+    "duration": 3.8
+  },
+  {
+    "text": "But what does this mean?",
+    "start": 503.78,
+    "duration": 2.32
+  },
+  {
+    "text": "What can we learn from these results?",
+    "start": 506.14,
+    "duration": 3.68
+  },
+  {
+    "text": "From experiment one and three",
+    "start": 511.1,
+    "duration": 2.36
+  },
+  {
+    "text": "we learn that language models",
+    "start": 513.5,
+    "duration": 2.28
+  },
+  {
+    "text": "can effectively classify\nstatements as deceptive,",
+    "start": 515.78,
+    "duration": 4.24
+  },
+  {
+    "text": "outperforming human benchmarks",
+    "start": 520.06,
+    "duration": 2.12
+  },
+  {
+    "text": "and aligning with previous\nmachine learning",
+    "start": 522.22,
+    "duration": 2.24
+  },
+  {
+    "text": "and deep learning models",
+    "start": 524.5,
+    "duration": 1.28
+  },
+  {
+    "text": "that previous studies trained\non the same datasets.",
+    "start": 525.78,
+    "duration": 2.44
+  },
+  {
+    "text": "However, from the second experiment,",
+    "start": 529.54,
+    "duration": 2.52
+  },
+  {
+    "text": "we see that language models struggle",
+    "start": 532.1,
+    "duration": 2.92
+  },
+  {
+    "text": "in generalizing this knowledge,\nthis learning across different contexts.",
+    "start": 535.06,
+    "duration": 4.4
+  },
+  {
+    "text": "And this is apparently because",
+    "start": 540.38,
+    "duration": 2.96
+  },
+  {
+    "text": "there is no one single\nuniversal rule of deception",
+    "start": 543.38,
+    "duration": 3.12
+  },
+  {
+    "text": "that we can easily apply in every context,",
+    "start": 546.54,
+    "duration": 3.4
+  },
+  {
+    "text": "but linguistic cues of deception\nare context-dependent.",
+    "start": 549.94,
+    "duration": 3.92
+  },
+  {
+    "text": "And from the third experiment,",
+    "start": 555.82,
+    "duration": 2.52
+  },
+  {
+    "text": "we learned that actually language models",
+    "start": 558.38,
+    "duration": 2.64
+  },
+  {
+    "text": "can generalize well\nacross different contexts,",
+    "start": 561.06,
+    "duration": 3.28
+  },
+  {
+    "text": "if only they have been\npreviously exposed to examples",
+    "start": 564.38,
+    "duration": 4.16
+  },
+  {
+    "text": "during the training phase.",
+    "start": 568.58,
+    "duration": 2.08
+  },
+  {
+    "text": "And I think this sounds as good news.",
+    "start": 570.66,
+    "duration": 2.36
+  },
+  {
+    "text": "But while this means that language models\ncan be effectively applied",
+    "start": 574.66,
+    "duration": 6.4
+  },
+  {
+    "text": "for real-life applications\nin lie detection,",
+    "start": 581.1,
+    "duration": 3.0
+  },
+  {
+    "text": "more replication is needed\nbecause a single study is never enough",
+    "start": 584.14,
+    "duration": 4.04
+  },
+  {
+    "text": "so that from tomorrow we can all have\nthese AI systems on our smartphones,",
+    "start": 588.22,
+    "duration": 4.64
+  },
+  {
+    "text": "and start detecting other people's lies.",
+    "start": 592.86,
+    "duration": 2.4
+  },
+  {
+    "text": "But as a scientist,\nI have a vivid imagination",
+    "start": 596.74,
+    "duration": 2.88
+  },
+  {
+    "text": "and I would like to dream big.",
+    "start": 599.62,
+    "duration": 1.88
+  },
+  {
+    "text": "And also I would like to bring you with me\nin this futuristic journey for a while.",
+    "start": 601.54,
+    "duration": 4.2
+  },
+  {
+    "text": "So please imagine with me\nliving in a world",
+    "start": 605.74,
+    "duration": 3.44
+  },
+  {
+    "text": "where this lie detection technology\nis well-integrated in our life,",
+    "start": 609.22,
+    "duration": 4.2
+  },
+  {
+    "text": "making everything from national security\nto social media a little bit safer.",
+    "start": 613.46,
+    "duration": 4.84
+  },
+  {
+    "text": "And imagine having this AI system\nthat could actually spot fake opinions.",
+    "start": 619.18,
+    "duration": 4.84
+  },
+  {
+    "text": "From tomorrow, we could say",
+    "start": 624.06,
+    "duration": 2.6
+  },
+  {
+    "text": "when a politician\nis actually saying one thing",
+    "start": 626.66,
+    "duration": 3.32
+  },
+  {
+    "text": "and truly believes something else.",
+    "start": 630.02,
+    "duration": 1.88
+  },
+  {
+    "text": "(Laughter)",
+    "start": 631.9,
+    "duration": 1.28
+  },
+  {
+    "text": "And what about the security board context",
+    "start": 634.78,
+    "duration": 2.6
+  },
+  {
+    "text": "where people are asked\nabout their intentions and reasons",
+    "start": 637.42,
+    "duration": 3.24
+  },
+  {
+    "text": "for why they are crossing borders\nor boarding planes.",
+    "start": 640.66,
+    "duration": 5.36
+  },
+  {
+    "text": "Well, with these systems,",
+    "start": 646.9,
+    "duration": 1.44
+  },
+  {
+    "text": "we could actually spot\nmalicious intentions",
+    "start": 648.38,
+    "duration": 2.76
+  },
+  {
+    "text": "before they even happen.",
+    "start": 651.18,
+    "duration": 1.32
+  },
+  {
+    "text": "And what about the recruiting process?",
+    "start": 654.78,
+    "duration": 2.4
+  },
+  {
+    "text": "(Laughter)",
+    "start": 657.9,
+    "duration": 1.28
+  },
+  {
+    "text": "We heard about this already.",
+    "start": 659.22,
+    "duration": 2.08
+  },
+  {
+    "text": "But actually, companies\ncould employ this AI",
+    "start": 661.34,
+    "duration": 3.36
+  },
+  {
+    "text": "to distinguish those\nwho are really passionate about the role",
+    "start": 664.7,
+    "duration": 3.76
+  },
+  {
+    "text": "from those who are just trying\nto say the right things to get the job.",
+    "start": 668.5,
+    "duration": 3.32
+  },
+  {
+    "text": "And finally, we have social media.",
+    "start": 673.58,
+    "duration": 1.92
+  },
+  {
+    "text": "Scammers trying to deceive you\nor to steal your identity.",
+    "start": 676.18,
+    "duration": 3.56
+  },
+  {
+    "text": "All gone.",
+    "start": 679.74,
+    "duration": 2.08
+  },
+  {
+    "text": "And someone else may claim\nsomething about fake news,",
+    "start": 681.82,
+    "duration": 2.52
+  },
+  {
+    "text": "and well, perfectly, language model\ncould automatically read the news,",
+    "start": 684.38,
+    "duration": 4.12
+  },
+  {
+    "text": "flag them as deceptive or fake,",
+    "start": 688.54,
+    "duration": 3.16
+  },
+  {
+    "text": "and we could even provide users\nwith a credibility score",
+    "start": 691.7,
+    "duration": 3.96
+  },
+  {
+    "text": "for the information they read.",
+    "start": 695.66,
+    "duration": 1.56
+  },
+  {
+    "text": "It sounds like a brilliant future, right?",
+    "start": 698.46,
+    "duration": 2.4
+  },
+  {
+    "text": "(Laughter)",
+    "start": 702.06,
+    "duration": 1.72
+  },
+  {
+    "text": "Yes, but ...",
+    "start": 704.58,
+    "duration": 1.24
+  },
+  {
+    "text": "all great progress comes with risks.",
+    "start": 707.06,
+    "duration": 2.68
+  },
+  {
+    "text": "As much as I'm excited about this future,",
+    "start": 711.3,
+    "duration": 3.2
+  },
+  {
+    "text": "I think we need to be careful.",
+    "start": 714.54,
+    "duration": 2.24
+  },
+  {
+    "text": "If we are not cautious, in my view,",
+    "start": 718.3,
+    "duration": 2.88
+  },
+  {
+    "text": "we could end up in a world",
+    "start": 721.22,
+    "duration": 1.68
+  },
+  {
+    "text": "where people might just\nblindly believe AI outputs.",
+    "start": 722.9,
+    "duration": 3.2
+  },
+  {
+    "text": "And I'm afraid this means\nthat people will just be more likely",
+    "start": 727.7,
+    "duration": 4.0
+  },
+  {
+    "text": "to accuse others of lying\njust because an AI says so.",
+    "start": 731.7,
+    "duration": 3.88
+  },
+  {
+    "text": "And I'm not the only one with this view",
+    "start": 737.54,
+    "duration": 2.4
+  },
+  {
+    "text": "because another study already proved it.",
+    "start": 739.94,
+    "duration": 2.4
+  },
+  {
+    "text": "In addition, if we totally rely\non this lie detection technology",
+    "start": 744.62,
+    "duration": 4.56
+  },
+  {
+    "text": "to say someone else is lying or not,",
+    "start": 749.22,
+    "duration": 2.68
+  },
+  {
+    "text": "we risk losing another\nimportant key value in society.",
+    "start": 751.9,
+    "duration": 3.52
+  },
+  {
+    "text": "We lose trust.",
+    "start": 756.5,
+    "duration": 1.24
+  },
+  {
+    "text": "We won't need to trust people anymore,",
+    "start": 758.74,
+    "duration": 1.84
+  },
+  {
+    "text": "because what we will do\nis just ask an AI to double check for us.",
+    "start": 760.58,
+    "duration": 4.16
+  },
+  {
+    "text": "But are we really willing\nto blindly believe AI",
+    "start": 767.38,
+    "duration": 3.88
+  },
+  {
+    "text": "and give up our critical thinking?",
+    "start": 771.3,
+    "duration": 2.24
+  },
+  {
+    "text": "I think that's the future\nwe need to avoid.",
+    "start": 775.02,
+    "duration": 2.16
+  },
+  {
+    "text": "With hope for the future\nis more interpretability.",
+    "start": 780.22,
+    "duration": 3.84
+  },
+  {
+    "text": "And I'm about to tell you what I mean.",
+    "start": 784.1,
+    "duration": 2.08
+  },
+  {
+    "text": "Similar to when we look at reviews online,",
+    "start": 786.22,
+    "duration": 2.92
+  },
+  {
+    "text": "and we can both look\nat the total number of stars at places,",
+    "start": 789.18,
+    "duration": 3.92
+  },
+  {
+    "text": "but also we can look more in detail\nat the positive and negative reviews,",
+    "start": 793.14,
+    "duration": 4.92
+  },
+  {
+    "text": "and try to understand\nwhat are the positive sides,",
+    "start": 798.1,
+    "duration": 2.64
+  },
+  {
+    "text": "but also what might have gone wrong,",
+    "start": 800.74,
+    "duration": 2.92
+  },
+  {
+    "text": "to eventually create\nour own and personal idea",
+    "start": 803.66,
+    "duration": 3.6
+  },
+  {
+    "text": "if that is the place where we want to go,",
+    "start": 807.3,
+    "duration": 2.36
+  },
+  {
+    "text": "where we want to be.",
+    "start": 809.66,
+    "duration": 1.24
+  },
+  {
+    "text": "Likewise, imagine a world\nwhere AI doesn't just offer conclusions,",
+    "start": 812.02,
+    "duration": 4.52
+  },
+  {
+    "text": "but also provides clear\nand understandable explanations",
+    "start": 816.58,
+    "duration": 3.6
+  },
+  {
+    "text": "behind its decisions.",
+    "start": 820.22,
+    "duration": 1.52
+  },
+  {
+    "text": "And I envision a future",
+    "start": 823.14,
+    "duration": 2.2
+  },
+  {
+    "text": "where this lie detection technology",
+    "start": 825.38,
+    "duration": 2.24
+  },
+  {
+    "text": "wouldn't just provide us\nwith a simple judgment,",
+    "start": 827.62,
+    "duration": 3.48
+  },
+  {
+    "text": "but also with clear explanations\nfor why it thinks someone else is lying.",
+    "start": 831.14,
+    "duration": 3.96
+  },
+  {
+    "text": "And I would like a future where, yes,",
+    "start": 837.66,
+    "duration": 2.96
+  },
+  {
+    "text": "this lie detection technology\nis integrated in our life,",
+    "start": 840.62,
+    "duration": 3.36
+  },
+  {
+    "text": "or also AI technology in general,",
+    "start": 844.02,
+    "duration": 3.92
+  },
+  {
+    "text": "but still, at the same time,",
+    "start": 847.94,
+    "duration": 2.48
+  },
+  {
+    "text": "we are able to think critically",
+    "start": 850.46,
+    "duration": 2.68
+  },
+  {
+    "text": "and decide when we want\nto trust in AI judgment",
+    "start": 853.18,
+    "duration": 3.52
+  },
+  {
+    "text": "or when we want to question it.",
+    "start": 856.7,
+    "duration": 1.76
+  },
+  {
+    "text": "To conclude,",
+    "start": 860.66,
+    "duration": 1.84
+  },
+  {
+    "text": "I think the future of using AI\nfor lie detection",
+    "start": 862.54,
+    "duration": 4.32
+  },
+  {
+    "text": "is not just about\ntechnological advancement,",
+    "start": 866.86,
+    "duration": 3.92
+  },
+  {
+    "text": "but about enhancing our understanding\nand fostering trust.",
+    "start": 870.78,
+    "duration": 3.88
+  },
+  {
+    "text": "It's about developing tools\nthat don't replace human judgment",
+    "start": 875.94,
+    "duration": 3.76
+  },
+  {
+    "text": "but empower it,",
+    "start": 879.7,
+    "duration": 1.72
+  },
+  {
+    "text": "ensuring that we remain at the helm.",
+    "start": 881.46,
+    "duration": 2.24
+  },
+  {
+    "text": "Don't step into a future\nwith blind reliance on technology.",
+    "start": 885.22,
+    "duration": 3.64
+  },
+  {
+    "text": "Let's commit to deep understanding\nand ethical use,",
+    "start": 889.94,
+    "duration": 3.88
+  },
+  {
+    "text": "and we'll pursue the truth.",
+    "start": 893.82,
+    "duration": 1.52
+  },
+  {
+    "text": "(Applause)",
+    "start": 896.62,
+    "duration": 1.08
+  },
+  {
+    "text": "Thank you.",
+    "start": 897.7,
+    "duration": 1.24
+  }
+]

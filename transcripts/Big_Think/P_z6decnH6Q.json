@@ -1,0 +1,202 @@
+[
+  {
+    "text": "I’m optimistic that we can create an awesome\nfuture with technology as long as we win the",
+    "start": 5.66,
+    "duration": 5.38
+  },
+  {
+    "text": "race between the growing power of the tech\nand the growing wisdom with which we manage",
+    "start": 11.04,
+    "duration": 4.12
+  },
+  {
+    "text": "the tech.",
+    "start": 15.16,
+    "duration": 2.13
+  },
+  {
+    "text": "This is actually getting harder because of\nnerdy technical developments in the AI field.",
+    "start": 17.29,
+    "duration": 5.579
+  },
+  {
+    "text": "It used to be, when we wrote state-of-the-art\nAI—like for example IBM’s Deep Blue computer",
+    "start": 22.869,
+    "duration": 5.431
+  },
+  {
+    "text": "who defeated Gary Kasparov in chess a couple\nof decades ago—that all the intelligence",
+    "start": 28.3,
+    "duration": 4.29
+  },
+  {
+    "text": "was basically programmed in by humans who\nknew how to play chess and then the computer",
+    "start": 32.59,
+    "duration": 4.98
+  },
+  {
+    "text": "won the game just because it could think faster\nand remember more.",
+    "start": 37.57,
+    "duration": 3.16
+  },
+  {
+    "text": "But we understood the software well.",
+    "start": 40.73,
+    "duration": 3.63
+  },
+  {
+    "text": "Understanding what your AI system does is\none of those pieces of wisdom you have to",
+    "start": 44.36,
+    "duration": 3.97
+  },
+  {
+    "text": "have to be able to really trust it.",
+    "start": 48.33,
+    "duration": 2.409
+  },
+  {
+    "text": "The reason we have so many problems today\nwith systems getting hacked or crashing because",
+    "start": 50.739,
+    "duration": 6.011
+  },
+  {
+    "text": "of bugs is exactly because we didn’t understand\nthe systems as well as we should have.",
+    "start": 56.75,
+    "duration": 5.94
+  },
+  {
+    "text": "Now what’s happening is fascinating, today’s\nbiggest AI breakthroughs are a completely",
+    "start": 62.69,
+    "duration": 5.7
+  },
+  {
+    "text": "different kind where rather than the intelligence\nbeing largely programmed in an easy-to-understand",
+    "start": 68.39,
+    "duration": 5.72
+  },
+  {
+    "text": "code, you put in almost nothing except a little\nlearning rule by which a simulated arc of",
+    "start": 74.11,
+    "duration": 6.899
+  },
+  {
+    "text": "neurons can take a lot of data and figure\nout how to get stuff done.",
+    "start": 81.009,
+    "duration": 4.881
+  },
+  {
+    "text": "This deep learning suddenly becomes able to\ndo things often even better than the programmers",
+    "start": 85.89,
+    "duration": 6.66
+  },
+  {
+    "text": "were ever able to do.",
+    "start": 92.55,
+    "duration": 1.46
+  },
+  {
+    "text": "You can train a machine to play computer games\nwith almost no hard-coded stuff at all.",
+    "start": 94.01,
+    "duration": 7.47
+  },
+  {
+    "text": "You don’t tell it what a game is, what the\nthings are on the screen, or even that there",
+    "start": 101.48,
+    "duration": 5.13
+  },
+  {
+    "text": "is such a thing as a screen—you just feed\nin a bunch of data about the colors of the",
+    "start": 106.61,
+    "duration": 3.72
+  },
+  {
+    "text": "pixels and tell it, “Hey go ahead and maximize\nthat number in the upper left corner,” and",
+    "start": 110.33,
+    "duration": 5.061
+  },
+  {
+    "text": "gradually you come back and it’s playing\nsome game much better than I could.",
+    "start": 115.391,
+    "duration": 5.279
+  },
+  {
+    "text": "The challenge with this, even though it’s\nvery powerful, this is very much “blackbox”",
+    "start": 120.67,
+    "duration": 4.54
+  },
+  {
+    "text": "now where, yeah it does all that great stuff—and\nwe don’t understand how.",
+    "start": 125.21,
+    "duration": 3.85
+  },
+  {
+    "text": "So suppose I get sentenced to ten years in\nprison by a Robojudge in the future and I",
+    "start": 129.06,
+    "duration": 7.13
+  },
+  {
+    "text": "ask, “Why?”",
+    "start": 136.19,
+    "duration": 1.0
+  },
+  {
+    "text": "And I’m told, “I WAS TRAINED ON SEVEN\nTERABYTES OF DATA, AND THIS WAS THE DECISION,”",
+    "start": 137.19,
+    "duration": 6.16
+  },
+  {
+    "text": "It’s not that satisfying for me.",
+    "start": 143.35,
+    "duration": 2.85
+  },
+  {
+    "text": "Or suppose the machine that’s in charge\nof our electric power grid suddenly malfunctions",
+    "start": 146.2,
+    "duration": 7.09
+  },
+  {
+    "text": "and someone says, “Well, we have no idea\nwhy.",
+    "start": 153.29,
+    "duration": 1.89
+  },
+  {
+    "text": "We trained it on a lot of data and it worked,”\nthat doesn’t instill the kind of trust that",
+    "start": 155.18,
+    "duration": 4.88
+  },
+  {
+    "text": "we want to put into systems.",
+    "start": 160.06,
+    "duration": 2.0
+  },
+  {
+    "text": "When you get the blue screen of death when\nyour Windows machine crashes or the spinning",
+    "start": 162.06,
+    "duration": 4.8
+  },
+  {
+    "text": "wheel of doom because your Mac crashes, “annoying”\nis probably the main emotion we have, but",
+    "start": 166.86,
+    "duration": 7.34
+  },
+  {
+    "text": "“annoying” isn’t the emotion we have\nif it’s myself flying an airplane and it",
+    "start": 174.2,
+    "duration": 4.13
+  },
+  {
+    "text": "crashes, or the software controlling the nuclear\narsenal of the U.S., or something like that.",
+    "start": 178.33,
+    "duration": 5.65
+  },
+  {
+    "text": "And as AI gets more and more out into the\nworld we absolutely need to transform today’s",
+    "start": 183.98,
+    "duration": 5.91
+  },
+  {
+    "text": "packable and buggy AI systems into AI systems\nthat we can really trust.",
+    "start": 189.89,
+    "duration": 4.73
+  }
+]

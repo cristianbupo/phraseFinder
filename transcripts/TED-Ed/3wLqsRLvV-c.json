@@ -1,0 +1,392 @@
+[
+  {
+    "text": "What is consciousness?",
+    "start": 6.627,
+    "duration": 2.044
+  },
+  {
+    "text": "Can an artificial machine really think?",
+    "start": 8.755,
+    "duration": 2.544
+  },
+  {
+    "text": "Does the mind just consist of neurons\nin the brain,",
+    "start": 11.591,
+    "duration": 3.336
+  },
+  {
+    "text": "or is there some intangible spark\nat its core?",
+    "start": 14.927,
+    "duration": 3.42
+  },
+  {
+    "text": "For many, these have been\nvital considerations",
+    "start": 18.514,
+    "duration": 2.795
+  },
+  {
+    "text": "for the future of artificial intelligence.",
+    "start": 21.309,
+    "duration": 2.669
+  },
+  {
+    "text": "But British computer scientist Alan Turing\ndecided to disregard all these questions",
+    "start": 24.103,
+    "duration": 5.339
+  },
+  {
+    "text": "in favor of a much simpler one:",
+    "start": 29.525,
+    "duration": 2.127
+  },
+  {
+    "text": "can a computer talk like a human?",
+    "start": 31.903,
+    "duration": 2.335
+  },
+  {
+    "text": "This question led to an idea for measuring\naritificial intelligence",
+    "start": 35.031,
+    "duration": 4.212
+  },
+  {
+    "text": "that would famously come to be known\nas the Turing test.",
+    "start": 39.243,
+    "duration": 3.504
+  },
+  {
+    "text": "In the 1950 paper, \"Computing Machinery\nand Intelligence,\"",
+    "start": 43.039,
+    "duration": 4.171
+  },
+  {
+    "text": "Turing proposed the following game.",
+    "start": 47.21,
+    "duration": 2.252
+  },
+  {
+    "text": "A human judge has a text conversation\nwith unseen players",
+    "start": 49.587,
+    "duration": 4.213
+  },
+  {
+    "text": "and evaluates their responses.",
+    "start": 53.8,
+    "duration": 2.043
+  },
+  {
+    "text": "To pass the test, a computer must\nbe able to replace one of the players",
+    "start": 56.344,
+    "duration": 4.296
+  },
+  {
+    "text": "without substantially \nchanging the results.",
+    "start": 60.64,
+    "duration": 2.627
+  },
+  {
+    "text": "In other words, a computer would be\nconsidered intelligent",
+    "start": 63.601,
+    "duration": 3.378
+  },
+  {
+    "text": "if its conversation couldn't be easily\ndistinguished from a human's.",
+    "start": 67.063,
+    "duration": 4.421
+  },
+  {
+    "text": "Turing predicted that by the year 2000,",
+    "start": 72.276,
+    "duration": 2.336
+  },
+  {
+    "text": "machines with 100 megabytes of memory\nwould be able to easily pass his test.",
+    "start": 74.612,
+    "duration": 5.422
+  },
+  {
+    "text": "But he may have jumped the gun.",
+    "start": 80.451,
+    "duration": 1.919
+  },
+  {
+    "text": "Even though today's computers\nhave far more memory than that,",
+    "start": 82.537,
+    "duration": 3.295
+  },
+  {
+    "text": "few have succeeded,",
+    "start": 85.998,
+    "duration": 1.544
+  },
+  {
+    "text": "and those that have done well",
+    "start": 87.542,
+    "duration": 1.876
+  },
+  {
+    "text": "focused more on finding clever ways\nto fool judges",
+    "start": 89.502,
+    "duration": 3.545
+  },
+  {
+    "text": "than using overwhelming computing power.",
+    "start": 93.047,
+    "duration": 2.586
+  },
+  {
+    "text": "Though it was never subjected\nto a real test,",
+    "start": 96.634,
+    "duration": 2.461
+  },
+  {
+    "text": "the first program with \nsome claim to success was called ELIZA.",
+    "start": 99.095,
+    "duration": 4.254
+  },
+  {
+    "text": "With only a fairly short \nand simple script,",
+    "start": 103.599,
+    "duration": 2.795
+  },
+  {
+    "text": "it managed to mislead many people\nby mimicking a psychologist,",
+    "start": 106.394,
+    "duration": 3.92
+  },
+  {
+    "text": "encouraging them to talk more",
+    "start": 110.314,
+    "duration": 1.961
+  },
+  {
+    "text": "and reflecting their own questions\nback at them.",
+    "start": 112.316,
+    "duration": 2.837
+  },
+  {
+    "text": "Another early script PARRY\ntook the opposite approach",
+    "start": 115.57,
+    "duration": 3.795
+  },
+  {
+    "text": "by imitating a paranoid schizophrenic",
+    "start": 119.365,
+    "duration": 2.669
+  },
+  {
+    "text": "who kept steering the conversation\nback to his own preprogrammed obsessions.",
+    "start": 122.034,
+    "duration": 5.339
+  },
+  {
+    "text": "Their success in fooling people\nhighlighted one weakness of the test.",
+    "start": 128.166,
+    "duration": 4.629
+  },
+  {
+    "text": "Humans regularly attribute intelligence\nto a whole range of things",
+    "start": 133.004,
+    "duration": 4.546
+  },
+  {
+    "text": "that are not actually intelligent.",
+    "start": 137.55,
+    "duration": 2.044
+  },
+  {
+    "text": "Nonetheless, annual competitions\nlike the Loebner Prize,",
+    "start": 140.761,
+    "duration": 3.587
+  },
+  {
+    "text": "have made the test more formal",
+    "start": 144.348,
+    "duration": 1.836
+  },
+  {
+    "text": "with judges knowing ahead of time",
+    "start": 146.309,
+    "duration": 2.043
+  },
+  {
+    "text": "that some of their conversation partners \nare machines.",
+    "start": 148.352,
+    "duration": 3.128
+  },
+  {
+    "text": "But while the quality has improved,",
+    "start": 151.814,
+    "duration": 2.002
+  },
+  {
+    "text": "many chatbot programmers have used\nsimilar strategies to ELIZA and PARRY.",
+    "start": 153.816,
+    "duration": 5.005
+  },
+  {
+    "text": "1997's winner Catherine",
+    "start": 159.03,
+    "duration": 2.21
+  },
+  {
+    "text": "could carry on amazingly focused \nand intelligent conversation,",
+    "start": 161.24,
+    "duration": 3.963
+  },
+  {
+    "text": "but mostly if the judge wanted\nto talk about Bill Clinton.",
+    "start": 165.244,
+    "duration": 3.337
+  },
+  {
+    "text": "And the more recent winner\nEugene Goostman",
+    "start": 168.873,
+    "duration": 2.794
+  },
+  {
+    "text": "was given the persona\nof a 13-year-old Ukrainian boy,",
+    "start": 171.792,
+    "duration": 3.754
+  },
+  {
+    "text": "so judges interpreted its nonsequiturs\nand awkward grammar",
+    "start": 175.546,
+    "duration": 4.046
+  },
+  {
+    "text": "as language and culture barriers.",
+    "start": 179.675,
+    "duration": 2.419
+  },
+  {
+    "text": "Meanwhile, other programs like Cleverbot\nhave taken a different approach",
+    "start": 182.637,
+    "duration": 4.212
+  },
+  {
+    "text": "by statistically analyzing huge databases\nof real conversations",
+    "start": 186.849,
+    "duration": 4.922
+  },
+  {
+    "text": "to determine the best responses.",
+    "start": 191.854,
+    "duration": 2.002
+  },
+  {
+    "text": "Some also store memories \nof previous conversations",
+    "start": 194.065,
+    "duration": 3.461
+  },
+  {
+    "text": "in order to improve over time.",
+    "start": 197.568,
+    "duration": 2.086
+  },
+  {
+    "text": "But while Cleverbot's individual responses\ncan sound incredibly human,",
+    "start": 200.696,
+    "duration": 4.171
+  },
+  {
+    "text": "its lack of a consistent personality",
+    "start": 205.076,
+    "duration": 2.21
+  },
+  {
+    "text": "and inability to deal \nwith brand new topics",
+    "start": 207.286,
+    "duration": 3.003
+  },
+  {
+    "text": "are a dead giveaway.",
+    "start": 210.331,
+    "duration": 1.543
+  },
+  {
+    "text": "Who in Turing's day could have predicted\nthat today's computers",
+    "start": 212.625,
+    "duration": 3.67
+  },
+  {
+    "text": "would be able to pilot spacecraft,",
+    "start": 216.295,
+    "duration": 2.086
+  },
+  {
+    "text": "perform delicate surgeries,",
+    "start": 218.464,
+    "duration": 2.085
+  },
+  {
+    "text": "and solve massive equations,",
+    "start": 220.549,
+    "duration": 2.253
+  },
+  {
+    "text": "but still struggle with \nthe most basic small talk?",
+    "start": 223.094,
+    "duration": 2.669
+  },
+  {
+    "text": "Human language turns out to be\nan amazingly complex phenomenon",
+    "start": 226.055,
+    "duration": 3.712
+  },
+  {
+    "text": "that can't be captured by even\nthe largest dictionary.",
+    "start": 229.767,
+    "duration": 3.128
+  },
+  {
+    "text": "Chatbots can be baffled by simple pauses,\nlike \"umm...\"",
+    "start": 233.229,
+    "duration": 4.212
+  },
+  {
+    "text": "or questions with no correct answer.",
+    "start": 237.692,
+    "duration": 2.085
+  },
+  {
+    "text": "And a simple conversational sentence,",
+    "start": 240.319,
+    "duration": 1.919
+  },
+  {
+    "text": "like, \"I took the juice out of the fridge\nand gave it to him,",
+    "start": 242.238,
+    "duration": 3.253
+  },
+  {
+    "text": "but forgot to check the date,\"",
+    "start": 245.574,
+    "duration": 1.794
+  },
+  {
+    "text": "requires a wealth of underlying knowledge\nand intuition to parse.",
+    "start": 247.368,
+    "duration": 4.713
+  },
+  {
+    "text": "It turns out that simulating \na human conversation",
+    "start": 252.581,
+    "duration": 2.92
+  },
+  {
+    "text": "takes more than just increasing\nmemory and processing power,",
+    "start": 255.543,
+    "duration": 3.545
+  },
+  {
+    "text": "and as we get closer to Turing's goal,",
+    "start": 259.088,
+    "duration": 2.544
+  },
+  {
+    "text": "we may have to deal with all those big\nquestions about consciousness after all.",
+    "start": 261.716,
+    "duration": 4.754
+  }
+]

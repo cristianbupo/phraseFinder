@@ -1,0 +1,422 @@
+[
+  {
+    "text": "Imagine a future where nobody dies—",
+    "start": 7.063,
+    "duration": 2.88
+  },
+  {
+    "text": "instead, our minds are uploaded \nto a digital world.",
+    "start": 9.943,
+    "duration": 4.0
+  },
+  {
+    "text": "They might live on in a realistic,\nsimulated environment with avatar bodies,",
+    "start": 13.943,
+    "duration": 4.53
+  },
+  {
+    "text": "and could still call in and contribute \nto the biological world.",
+    "start": 18.473,
+    "duration": 4.68
+  },
+  {
+    "text": "Mind uploading has powerful appeal—",
+    "start": 23.153,
+    "duration": 3.091
+  },
+  {
+    "text": "but what would it actually take to scan a \nperson’s brain and upload their mind?",
+    "start": 26.244,
+    "duration": 5.43
+  },
+  {
+    "text": "The main challenges are scanning a brain \nin enough detail to capture the mind",
+    "start": 31.674,
+    "duration": 4.552
+  },
+  {
+    "text": "and perfectly recreating \nthat detail artificially.",
+    "start": 36.226,
+    "duration": 4.408
+  },
+  {
+    "text": "But first, we have to know what to scan.",
+    "start": 40.634,
+    "duration": 2.68
+  },
+  {
+    "text": "The human brain contains \nabout 86 billion neurons,",
+    "start": 43.314,
+    "duration": 3.37
+  },
+  {
+    "text": "connected by at least a \nhundred trillion synapses.",
+    "start": 46.684,
+    "duration": 3.63
+  },
+  {
+    "text": "The pattern of connectivity \namong the brain’s neurons,",
+    "start": 50.314,
+    "duration": 3.07
+  },
+  {
+    "text": "that is, all of the neurons and \nall their connections to each other,",
+    "start": 53.384,
+    "duration": 4.12
+  },
+  {
+    "text": "is called the connectome.",
+    "start": 57.504,
+    "duration": 2.199
+  },
+  {
+    "text": "We haven’t yet mapped \nthe connectome,",
+    "start": 59.703,
+    "duration": 2.21
+  },
+  {
+    "text": "and there’s also a lot more \nto neural signaling.",
+    "start": 61.913,
+    "duration": 3.02
+  },
+  {
+    "text": "There are hundreds, possibly thousands \nof different kinds of connections,",
+    "start": 64.933,
+    "duration": 3.73
+  },
+  {
+    "text": "or synapses.",
+    "start": 68.663,
+    "duration": 1.6
+  },
+  {
+    "text": "Each functions in a slightly \ndifferent way.",
+    "start": 70.263,
+    "duration": 2.64
+  },
+  {
+    "text": "Some work faster, some slower.",
+    "start": 72.903,
+    "duration": 2.04
+  },
+  {
+    "text": "Some grow or shrink rapidly in \nthe process of learning;",
+    "start": 74.943,
+    "duration": 3.77
+  },
+  {
+    "text": "some are more stable over time.",
+    "start": 78.713,
+    "duration": 2.19
+  },
+  {
+    "text": "And beyond the trillions of precise, \n1-to-1 connections between neurons,",
+    "start": 80.903,
+    "duration": 4.69
+  },
+  {
+    "text": "some neurons also spray out \nneurotransmitters",
+    "start": 85.593,
+    "duration": 3.363
+  },
+  {
+    "text": "that affect many other neurons at once.",
+    "start": 88.956,
+    "duration": 2.77
+  },
+  {
+    "text": "All of these different kinds of \ninteractions",
+    "start": 91.726,
+    "duration": 2.24
+  },
+  {
+    "text": "would need to be mapped in order to \ncopy a person’s mind.",
+    "start": 93.966,
+    "duration": 3.91
+  },
+  {
+    "text": "There are also a lot of influences on \nneural signaling",
+    "start": 97.876,
+    "duration": 2.99
+  },
+  {
+    "text": "that are poorly understood \nor undiscovered.",
+    "start": 100.866,
+    "duration": 3.34
+  },
+  {
+    "text": "To name just one example,",
+    "start": 104.206,
+    "duration": 1.57
+  },
+  {
+    "text": "patterns of activity between neurons",
+    "start": 105.776,
+    "duration": 2.31
+  },
+  {
+    "text": "are likely influenced by a type \nof cell called glia.",
+    "start": 108.086,
+    "duration": 4.07
+  },
+  {
+    "text": "Glia surround neurons and, \naccording to some scientists,",
+    "start": 112.156,
+    "duration": 3.697
+  },
+  {
+    "text": "may even outnumber them \nby as many as ten to one.",
+    "start": 115.853,
+    "duration": 3.65
+  },
+  {
+    "text": "Glia were once thought to be purely \nfor structural support,",
+    "start": 119.503,
+    "duration": 3.63
+  },
+  {
+    "text": "and their functions are still \npoorly understood,",
+    "start": 123.133,
+    "duration": 2.85
+  },
+  {
+    "text": "but at least some of them can generate \ntheir own signals",
+    "start": 125.983,
+    "duration": 3.15
+  },
+  {
+    "text": "that influence information processing.",
+    "start": 129.133,
+    "duration": 2.62
+  },
+  {
+    "text": "Our understanding of the brain isn’t good \nenough to determine",
+    "start": 131.753,
+    "duration": 3.14
+  },
+  {
+    "text": "what we’d need to scan in order \nto replicate the mind,",
+    "start": 134.893,
+    "duration": 3.04
+  },
+  {
+    "text": "but assuming our knowledge does \nadvance to that point,",
+    "start": 137.933,
+    "duration": 3.01
+  },
+  {
+    "text": "how would we scan it?",
+    "start": 140.943,
+    "duration": 1.43
+  },
+  {
+    "text": "Currently, we can accurately scan a living\nhuman brain",
+    "start": 142.373,
+    "duration": 3.49
+  },
+  {
+    "text": "with resolutions of about half a \nmillimeter",
+    "start": 145.863,
+    "duration": 2.56
+  },
+  {
+    "text": "using our best non-invasive \nscanning method, MRI.",
+    "start": 148.423,
+    "duration": 3.82
+  },
+  {
+    "text": "To detect a synapse, we’ll need to scan \nat a resolution of about a micron—",
+    "start": 152.243,
+    "duration": 5.49
+  },
+  {
+    "text": "a thousandth of a millimeter.",
+    "start": 157.733,
+    "duration": 1.96
+  },
+  {
+    "text": "To distinguish the kind of synapse and \nprecisely how strong each synapse is,",
+    "start": 159.693,
+    "duration": 5.0
+  },
+  {
+    "text": "we’ll need even better resolution.",
+    "start": 164.693,
+    "duration": 2.381
+  },
+  {
+    "text": "MRI depends on powerful magnetic fields.",
+    "start": 167.074,
+    "duration": 2.97
+  },
+  {
+    "text": "Scanning at the resolution required",
+    "start": 170.044,
+    "duration": 1.88
+  },
+  {
+    "text": "to determine the details of \nindividual synapses",
+    "start": 171.924,
+    "duration": 3.19
+  },
+  {
+    "text": "would requires a field strength high \nenough to cook a person’s tissues.",
+    "start": 175.114,
+    "duration": 4.62
+  },
+  {
+    "text": "So this kind of leap in resolution",
+    "start": 179.734,
+    "duration": 2.032
+  },
+  {
+    "text": "would require fundamentally \nnew scanning technology.",
+    "start": 181.766,
+    "duration": 3.29
+  },
+  {
+    "text": "It would be more feasible to scan a dead\nbrain using an electron microscope,",
+    "start": 185.056,
+    "duration": 4.58
+  },
+  {
+    "text": "but even that technology is nowhere \nnear good enough–",
+    "start": 189.636,
+    "duration": 3.6
+  },
+  {
+    "text": "and requires killing the subject first.",
+    "start": 193.236,
+    "duration": 3.29
+  },
+  {
+    "text": "Assuming we eventually understand the \nbrain well enough to know what to scan",
+    "start": 196.526,
+    "duration": 4.15
+  },
+  {
+    "text": "and develop the technology to safely \nscan at that resolution,",
+    "start": 200.676,
+    "duration": 3.45
+  },
+  {
+    "text": "the next challenge would be to recreate \nthat information digitally.",
+    "start": 204.126,
+    "duration": 4.41
+  },
+  {
+    "text": "The main obstacles to doing so are \ncomputing power and storage space,",
+    "start": 208.536,
+    "duration": 4.73
+  },
+  {
+    "text": "both of which are improving every year.",
+    "start": 213.266,
+    "duration": 2.498
+  },
+  {
+    "text": "We’re actually much closer to attaining \nthis technological capacity",
+    "start": 215.764,
+    "duration": 3.76
+  },
+  {
+    "text": "than we are to understanding or scanning \nour own minds.",
+    "start": 219.524,
+    "duration": 4.27
+  },
+  {
+    "text": "Artificial neural networks already run \nour internet search engines,",
+    "start": 223.794,
+    "duration": 4.04
+  },
+  {
+    "text": "digital assistants, self-driving cars, \nWall Street trading algorithms,",
+    "start": 227.834,
+    "duration": 4.584
+  },
+  {
+    "text": "and smart phones.",
+    "start": 232.418,
+    "duration": 1.374
+  },
+  {
+    "text": "Nobody has yet built an artificial network\nwith 86 billion neurons,",
+    "start": 233.792,
+    "duration": 4.11
+  },
+  {
+    "text": "but as computing technology improves,",
+    "start": 237.902,
+    "duration": 2.43
+  },
+  {
+    "text": "it may be possible to keep track \nof such massive data sets.",
+    "start": 240.332,
+    "duration": 4.38
+  },
+  {
+    "text": "At every step in the scanning and \nuploading process,",
+    "start": 244.712,
+    "duration": 3.458
+  },
+  {
+    "text": "we’d have to be certain we were capturing \nall the necessary information accurately—",
+    "start": 248.17,
+    "duration": 4.67
+  },
+  {
+    "text": "or there’s no telling what ruined \nversion of a mind might emerge.",
+    "start": 252.84,
+    "duration": 5.457
+  },
+  {
+    "text": "While mind uploading is \ntheoretically possible,",
+    "start": 258.297,
+    "duration": 2.786
+  },
+  {
+    "text": "we’re likely hundreds of years away",
+    "start": 261.083,
+    "duration": 1.85
+  },
+  {
+    "text": "from the technology\nand scientific understanding",
+    "start": 262.933,
+    "duration": 2.89
+  },
+  {
+    "text": "that would make it a reality.",
+    "start": 265.823,
+    "duration": 1.45
+  },
+  {
+    "text": "And that reality would come with ethical \nand philosophical considerations:",
+    "start": 267.273,
+    "duration": 4.25
+  },
+  {
+    "text": "who would have access to mind uploading?",
+    "start": 271.523,
+    "duration": 2.81
+  },
+  {
+    "text": "What rights would be accorded to \nuploaded minds?",
+    "start": 274.333,
+    "duration": 2.88
+  },
+  {
+    "text": "How could this technology be abused?",
+    "start": 277.213,
+    "duration": 2.76
+  },
+  {
+    "text": "Even if we can eventually upload \nour minds,",
+    "start": 279.636,
+    "duration": 2.8
+  },
+  {
+    "text": "whether we should remains \nan open question.",
+    "start": 282.436,
+    "duration": 3.11
+  }
+]

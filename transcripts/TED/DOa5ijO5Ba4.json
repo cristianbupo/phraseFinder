@@ -1,0 +1,4257 @@
+[
+  {
+    "text": "Corey Hajim: Today, our guest\nis Dan Schulman, CEO of PayPal.",
+    "start": 12.897,
+    "duration": 4.633
+  },
+  {
+    "text": "When most of us think of PayPal,\nwe think of buying something online",
+    "start": 17.563,
+    "duration": 3.734
+  },
+  {
+    "text": "or paying a friend back\nfor a drink using Venmo.",
+    "start": 21.33,
+    "duration": 3.367
+  },
+  {
+    "text": "But PayPal has also become\na major financial services player,",
+    "start": 24.73,
+    "duration": 4.533
+  },
+  {
+    "text": "often acting as an alternative\nto a traditional bank.",
+    "start": 29.297,
+    "duration": 3.5
+  },
+  {
+    "text": "During this pandemic,",
+    "start": 33.463,
+    "duration": 1.567
+  },
+  {
+    "text": "PayPal has supported small businesses\naround the world by providing loans,",
+    "start": 35.03,
+    "duration": 5.067
+  },
+  {
+    "text": "waiving fees",
+    "start": 40.13,
+    "duration": 1.3
+  },
+  {
+    "text": "and increasing cash back programs.",
+    "start": 41.463,
+    "duration": 2.767
+  },
+  {
+    "text": "It has also worked with the US government",
+    "start": 44.263,
+    "duration": 2.0
+  },
+  {
+    "text": "on its Paycheck Protection Program,",
+    "start": 46.263,
+    "duration": 2.534
+  },
+  {
+    "text": "as well as distributing stimulus checks.",
+    "start": 48.83,
+    "duration": 3.333
+  },
+  {
+    "text": "It has enabled an outpouring\nof generosity online as well.",
+    "start": 52.197,
+    "duration": 4.633
+  },
+  {
+    "text": "The trend towards digital payments,",
+    "start": 57.763,
+    "duration": 2.1
+  },
+  {
+    "text": "or what we might now want\nto think of as \"contactless payments,\"",
+    "start": 59.897,
+    "duration": 3.566
+  },
+  {
+    "text": "has massively accelerated,",
+    "start": 63.463,
+    "duration": 2.367
+  },
+  {
+    "text": "and it's changing forever\nhow we think about commerce.",
+    "start": 65.83,
+    "duration": 3.067
+  },
+  {
+    "text": "So I'm really excited\nto have Dan here with us.",
+    "start": 68.93,
+    "duration": 2.733
+  },
+  {
+    "text": "Thank you so much, Dan.",
+    "start": 71.697,
+    "duration": 1.733
+  },
+  {
+    "text": "Dan Schulman: Thanks for having me, Corey.\nPleasure to be here with you.",
+    "start": 75.03,
+    "duration": 3.533
+  },
+  {
+    "text": "CH: Glad to see you.",
+    "start": 78.963,
+    "duration": 2.1
+  },
+  {
+    "text": "So let's dive right in.",
+    "start": 81.663,
+    "duration": 2.667
+  },
+  {
+    "text": "Within a few months\nof this pandemic's arrival,",
+    "start": 84.363,
+    "duration": 3.634
+  },
+  {
+    "text": "more than 30 million people\nhave filed for unemployment",
+    "start": 87.997,
+    "duration": 2.9
+  },
+  {
+    "text": "in the United States alone.",
+    "start": 90.93,
+    "duration": 2.2
+  },
+  {
+    "text": "These are certainly unusual circumstances,",
+    "start": 93.163,
+    "duration": 2.7
+  },
+  {
+    "text": "but it seems clear we were running\nvery close to the edge,",
+    "start": 95.897,
+    "duration": 3.733
+  },
+  {
+    "text": "and now so many businesses\nand their employees",
+    "start": 99.663,
+    "duration": 2.567
+  },
+  {
+    "text": "are facing huge financial challenges.",
+    "start": 102.263,
+    "duration": 3.3
+  },
+  {
+    "text": "How worried are you?",
+    "start": 105.563,
+    "duration": 1.534
+  },
+  {
+    "text": "DS: Well, I think the crisis\nhas exposed three things.",
+    "start": 108.797,
+    "duration": 5.4
+  },
+  {
+    "text": "Obviously, it's a health crisis",
+    "start": 114.23,
+    "duration": 2.733
+  },
+  {
+    "text": "for so many people.",
+    "start": 116.997,
+    "duration": 2.0
+  },
+  {
+    "text": "Second thing is,\nthat health crisis has ricocheted,",
+    "start": 119.497,
+    "duration": 3.533
+  },
+  {
+    "text": "and the world is now\nin an economic crisis.",
+    "start": 123.063,
+    "duration": 5.034
+  },
+  {
+    "text": "And the third crisis\nthat we don't talk so much about",
+    "start": 128.097,
+    "duration": 2.6
+  },
+  {
+    "text": "but I think is impacting the way",
+    "start": 130.73,
+    "duration": 2.067
+  },
+  {
+    "text": "that we're going to live\nour lives going forward",
+    "start": 132.83,
+    "duration": 3.3
+  },
+  {
+    "text": "is: this is a psychological\ncrisis as well.",
+    "start": 136.163,
+    "duration": 3.567
+  },
+  {
+    "text": "People are reexamining\ntheir place in the world,",
+    "start": 140.397,
+    "duration": 4.466
+  },
+  {
+    "text": "what's happening in the world,",
+    "start": 144.863,
+    "duration": 1.767
+  },
+  {
+    "text": "how they're going to live their lives,",
+    "start": 146.663,
+    "duration": 2.567
+  },
+  {
+    "text": "both in the pandemic and postpandemic.",
+    "start": 149.263,
+    "duration": 2.734
+  },
+  {
+    "text": "And so I think this is something\nthat each of those phases",
+    "start": 152.03,
+    "duration": 5.233
+  },
+  {
+    "text": "will need to be dealt with.",
+    "start": 157.297,
+    "duration": 2.433
+  },
+  {
+    "text": "But you said this,",
+    "start": 160.363,
+    "duration": 1.3
+  },
+  {
+    "text": "and I completely agree with you:",
+    "start": 161.663,
+    "duration": 2.534
+  },
+  {
+    "text": "there was an economic crisis happening",
+    "start": 164.23,
+    "duration": 3.9
+  },
+  {
+    "text": "well before the pandemic exposed this.",
+    "start": 168.163,
+    "duration": 3.267
+  },
+  {
+    "text": "It's kind of like\nthe water level came down",
+    "start": 171.463,
+    "duration": 2.8
+  },
+  {
+    "text": "and exposed what was already there.",
+    "start": 174.297,
+    "duration": 3.333
+  },
+  {
+    "text": "You had, for instance, in the US,",
+    "start": 177.663,
+    "duration": 3.467
+  },
+  {
+    "text": "185 million adults in the US",
+    "start": 181.163,
+    "duration": 4.9
+  },
+  {
+    "text": "struggling to make ends meet\nat the end of the month.",
+    "start": 186.063,
+    "duration": 4.034
+  },
+  {
+    "text": "You have over 70 million adults that are\nreally outside of the financial system,",
+    "start": 190.13,
+    "duration": 5.767
+  },
+  {
+    "text": "spending over 140 billion dollars\non high interest rates,",
+    "start": 195.93,
+    "duration": 5.833
+  },
+  {
+    "text": "unnecessary fees",
+    "start": 201.797,
+    "duration": 2.3
+  },
+  {
+    "text": "and struggling as well.",
+    "start": 204.097,
+    "duration": 1.466
+  },
+  {
+    "text": "And so I think\nwhat this has really done --",
+    "start": 205.597,
+    "duration": 5.0
+  },
+  {
+    "text": "because you can't ignore 20,\n25 percent unemployment rates --",
+    "start": 210.63,
+    "duration": 4.333
+  },
+  {
+    "text": "it's exposed this crisis",
+    "start": 214.997,
+    "duration": 2.4
+  },
+  {
+    "text": "and forced a lot of people into, maybe,\nactions that they might not have taken",
+    "start": 217.43,
+    "duration": 5.467
+  },
+  {
+    "text": "without this crisis happening.",
+    "start": 222.93,
+    "duration": 1.8
+  },
+  {
+    "text": "CH: Yeah, I think that's right.",
+    "start": 226.497,
+    "duration": 1.533
+  },
+  {
+    "text": "There are so many challenges\nand so many opportunities,",
+    "start": 228.063,
+    "duration": 2.634
+  },
+  {
+    "text": "and I think you've spoken\nof this opportunity",
+    "start": 230.73,
+    "duration": 4.7
+  },
+  {
+    "text": "of digital transactions\nbeing helpful to people,",
+    "start": 235.43,
+    "duration": 3.9
+  },
+  {
+    "text": "and obviously the trend, as you've said,",
+    "start": 239.363,
+    "duration": 3.0
+  },
+  {
+    "text": "has massively accelerated and pushed us\ninto this world even further.",
+    "start": 242.363,
+    "duration": 4.767
+  },
+  {
+    "text": "So I'm curious:",
+    "start": 247.163,
+    "duration": 1.734
+  },
+  {
+    "text": "What does the world\nlook like without cash?",
+    "start": 248.93,
+    "duration": 3.267
+  },
+  {
+    "text": "Or less cash?",
+    "start": 252.23,
+    "duration": 1.167
+  },
+  {
+    "text": "What are the advantages\nand what are the challenges",
+    "start": 253.43,
+    "duration": 2.467
+  },
+  {
+    "text": "of making that transition?",
+    "start": 255.897,
+    "duration": 1.733
+  },
+  {
+    "text": "DS: I think some of the trends that are\nemerging coming out of this pandemic",
+    "start": 258.897,
+    "duration": 5.233
+  },
+  {
+    "text": "or coming into it\nand as we look forward is,",
+    "start": 264.13,
+    "duration": 3.567
+  },
+  {
+    "text": "clearly, this has been a discontinuous\nchange in the trend line",
+    "start": 267.73,
+    "duration": 6.933
+  },
+  {
+    "text": "as we move from physical to digital.",
+    "start": 274.697,
+    "duration": 3.166
+  },
+  {
+    "text": "I think we've accelerated\nmany forms of digital capabilities",
+    "start": 277.897,
+    "duration": 6.533
+  },
+  {
+    "text": "by three to five years.",
+    "start": 284.463,
+    "duration": 2.5
+  },
+  {
+    "text": "And that can be from digital payments",
+    "start": 286.963,
+    "duration": 3.834
+  },
+  {
+    "text": "to telemedicine",
+    "start": 290.83,
+    "duration": 2.8
+  },
+  {
+    "text": "to really changing the face of retail",
+    "start": 293.663,
+    "duration": 4.7
+  },
+  {
+    "text": "and how we think about retailing,",
+    "start": 298.397,
+    "duration": 2.133
+  },
+  {
+    "text": "changing the face of entertainment,",
+    "start": 300.563,
+    "duration": 3.634
+  },
+  {
+    "text": "even changing the way governments\nthink about managing and moving money",
+    "start": 304.23,
+    "duration": 4.933
+  },
+  {
+    "text": "and really thinking about\ndigital currencies going forward.",
+    "start": 309.163,
+    "duration": 4.1
+  },
+  {
+    "text": "And so I think there are\na tremendous number of changes",
+    "start": 313.297,
+    "duration": 4.633
+  },
+  {
+    "text": "that will occur",
+    "start": 317.93,
+    "duration": 1.6
+  },
+  {
+    "text": "during this pandemic and coming out of it.",
+    "start": 319.53,
+    "duration": 2.833
+  },
+  {
+    "text": "Digital payments is obviously\none of the big ones that will happen.",
+    "start": 322.397,
+    "duration": 3.2
+  },
+  {
+    "text": "I mean, cash has been around\nfor quite some time,",
+    "start": 325.63,
+    "duration": 3.3
+  },
+  {
+    "text": "thousands of years.",
+    "start": 328.93,
+    "duration": 2.133
+  },
+  {
+    "text": "I would not be so bold\nas to predict its full demise.",
+    "start": 331.063,
+    "duration": 4.234
+  },
+  {
+    "text": "Many people have been wrong doing that.",
+    "start": 335.33,
+    "duration": 3.333
+  },
+  {
+    "text": "But there is no question right now",
+    "start": 338.663,
+    "duration": 3.334
+  },
+  {
+    "text": "that you will see an acceleration\nof the demise of cash.",
+    "start": 342.03,
+    "duration": 4.267
+  },
+  {
+    "text": "Last year, you had\nover 18 trillion dollars of cash",
+    "start": 346.33,
+    "duration": 4.267
+  },
+  {
+    "text": "spent at retail.",
+    "start": 350.63,
+    "duration": 1.967
+  },
+  {
+    "text": "Eighty-five percent\nof the world's transactions today",
+    "start": 352.597,
+    "duration": 3.066
+  },
+  {
+    "text": "are done in cash still.",
+    "start": 355.697,
+    "duration": 2.2
+  },
+  {
+    "text": "But the really big change right now",
+    "start": 358.463,
+    "duration": 4.134
+  },
+  {
+    "text": "towards digital payments,",
+    "start": 362.597,
+    "duration": 1.666
+  },
+  {
+    "text": "and that's both the advent\nand the acceleration of commerce",
+    "start": 364.297,
+    "duration": 5.6
+  },
+  {
+    "text": "that's happening,",
+    "start": 369.897,
+    "duration": 1.166
+  },
+  {
+    "text": "as well as the shift to in-store\ncontactless payments, as you said,",
+    "start": 371.097,
+    "duration": 5.266
+  },
+  {
+    "text": "and the real impetus for that\nis health reasons.",
+    "start": 376.397,
+    "duration": 5.066
+  },
+  {
+    "text": "People do not want to hand over money.",
+    "start": 381.497,
+    "duration": 2.466
+  },
+  {
+    "text": "They do not want to touch screens.",
+    "start": 383.997,
+    "duration": 2.833
+  },
+  {
+    "text": "They don't want to pick up a pen\nand sign at the point of sale.",
+    "start": 386.863,
+    "duration": 3.467
+  },
+  {
+    "text": "And so there is a demand",
+    "start": 390.33,
+    "duration": 4.167
+  },
+  {
+    "text": "for contactless payments\nand digital payments",
+    "start": 394.53,
+    "duration": 3.367
+  },
+  {
+    "text": "to keep social distancing\nrequirements in place,",
+    "start": 397.93,
+    "duration": 4.567
+  },
+  {
+    "text": "to protect the health of cashiers,",
+    "start": 402.53,
+    "duration": 2.4
+  },
+  {
+    "text": "to protect the health of consumers.",
+    "start": 404.93,
+    "duration": 2.767
+  },
+  {
+    "text": "And I think we are going to see,\nwe are already seeing in our business,",
+    "start": 407.697,
+    "duration": 6.7
+  },
+  {
+    "text": "a surge in digital payments\nacross the world.",
+    "start": 414.397,
+    "duration": 3.966
+  },
+  {
+    "text": "CH: It seems like a great opportunity,",
+    "start": 419.963,
+    "duration": 2.034
+  },
+  {
+    "text": "but how do we make sure\nthat this transition is inclusive?",
+    "start": 422.03,
+    "duration": 4.033
+  },
+  {
+    "text": "I mean, you've talked about\nhow so many people are underserved",
+    "start": 426.063,
+    "duration": 3.8
+  },
+  {
+    "text": "by the traditional banking industry.",
+    "start": 429.897,
+    "duration": 2.666
+  },
+  {
+    "text": "How do we make sure that those people",
+    "start": 432.597,
+    "duration": 2.6
+  },
+  {
+    "text": "have that opportunity?",
+    "start": 435.23,
+    "duration": 1.767
+  },
+  {
+    "text": "And it feels like a smartphone",
+    "start": 437.03,
+    "duration": 1.933
+  },
+  {
+    "text": "becomes an essential item.",
+    "start": 438.963,
+    "duration": 2.234
+  },
+  {
+    "text": "How do we address that?",
+    "start": 441.197,
+    "duration": 2.0
+  },
+  {
+    "text": "DS: Yeah.",
+    "start": 444.163,
+    "duration": 1.3
+  },
+  {
+    "text": "I do think that a mobile\nis really a key to unlocking this.",
+    "start": 445.497,
+    "duration": 6.866
+  },
+  {
+    "text": "I've often said that, really,",
+    "start": 452.797,
+    "duration": 2.933
+  },
+  {
+    "text": "one of the big moon shots\nfor the financial services industry",
+    "start": 455.763,
+    "duration": 4.8
+  },
+  {
+    "text": "is this idea of not just\nfinancial inclusion.",
+    "start": 460.597,
+    "duration": 3.1
+  },
+  {
+    "text": "Most people define financial inclusion",
+    "start": 463.73,
+    "duration": 2.567
+  },
+  {
+    "text": "by somebody having\naccess to a bank account,",
+    "start": 466.297,
+    "duration": 3.466
+  },
+  {
+    "text": "but just having access to a bank account\nis not nearly enough.",
+    "start": 469.797,
+    "duration": 3.366
+  },
+  {
+    "text": "I think what we need to aim for",
+    "start": 473.197,
+    "duration": 2.6
+  },
+  {
+    "text": "is how do we think about financial health?",
+    "start": 475.83,
+    "duration": 2.567
+  },
+  {
+    "text": "How do we make sure\nthat people have the ability",
+    "start": 478.43,
+    "duration": 3.167
+  },
+  {
+    "text": "to have some wherewithal",
+    "start": 481.597,
+    "duration": 3.233
+  },
+  {
+    "text": "to create savings to withstand some kind\nof financial shock to the system?",
+    "start": 484.863,
+    "duration": 6.734
+  },
+  {
+    "text": "I do think that mobile phones",
+    "start": 491.63,
+    "duration": 3.5
+  },
+  {
+    "text": "will be the way that this occurs",
+    "start": 495.163,
+    "duration": 3.034
+  },
+  {
+    "text": "and will be very inclusive going forward.",
+    "start": 498.197,
+    "duration": 2.966
+  },
+  {
+    "text": "There are going to be something like\nsix billion smartphones in the world",
+    "start": 501.197,
+    "duration": 5.566
+  },
+  {
+    "text": "over the next several years.",
+    "start": 506.763,
+    "duration": 2.0
+  },
+  {
+    "text": "The cost of a smartphone is plummeting.",
+    "start": 508.797,
+    "duration": 3.166
+  },
+  {
+    "text": "I think in India now you can buy\na smartphone for under 25 dollars.",
+    "start": 511.963,
+    "duration": 4.7
+  },
+  {
+    "text": "So you're going to have ubiquity\nof smartphones across the world,",
+    "start": 516.697,
+    "duration": 4.833
+  },
+  {
+    "text": "and, in fact, what's very interesting\nis, in lower-income populations,",
+    "start": 521.563,
+    "duration": 4.9
+  },
+  {
+    "text": "there is a greater penetration\nof smartphones than in higher income",
+    "start": 526.497,
+    "duration": 5.466
+  },
+  {
+    "text": "because the smartphone\nis the only device that somebody has.",
+    "start": 531.997,
+    "duration": 4.733
+  },
+  {
+    "text": "Higher-income individuals\nmay have desktops or iPads,",
+    "start": 536.763,
+    "duration": 5.5
+  },
+  {
+    "text": "that kind of thing,",
+    "start": 542.297,
+    "duration": 1.166
+  },
+  {
+    "text": "but lower income can afford one device,",
+    "start": 543.497,
+    "duration": 2.266
+  },
+  {
+    "text": "and they choose it to be a smartphone",
+    "start": 545.797,
+    "duration": 1.866
+  },
+  {
+    "text": "because they can get and live their life\nthrough that one device.",
+    "start": 547.663,
+    "duration": 4.267
+  },
+  {
+    "text": "And think about that one device.",
+    "start": 551.93,
+    "duration": 2.167
+  },
+  {
+    "text": "Really, you have all the power\nof a bank branch",
+    "start": 554.097,
+    "duration": 4.3
+  },
+  {
+    "text": "in the palm of your hands.",
+    "start": 558.43,
+    "duration": 1.9
+  },
+  {
+    "text": "And when you can start\nto create distribution of services,",
+    "start": 560.33,
+    "duration": 6.167
+  },
+  {
+    "text": "financial services,",
+    "start": 566.497,
+    "duration": 1.5
+  },
+  {
+    "text": "through a smartphone,",
+    "start": 568.03,
+    "duration": 2.0
+  },
+  {
+    "text": "you then are able\nto manage and move money",
+    "start": 570.063,
+    "duration": 3.8
+  },
+  {
+    "text": "in ways that we couldn't do traditionally.",
+    "start": 573.897,
+    "duration": 3.366
+  },
+  {
+    "text": "In the physical world,",
+    "start": 578.13,
+    "duration": 1.9
+  },
+  {
+    "text": "if you get a check,",
+    "start": 580.063,
+    "duration": 1.2
+  },
+  {
+    "text": "you need to then go\nto a cash checking place to cash it.",
+    "start": 581.297,
+    "duration": 3.833
+  },
+  {
+    "text": "You stand in line for 30 minutes.",
+    "start": 585.163,
+    "duration": 2.867
+  },
+  {
+    "text": "They then charge you anywhere\nbetween two and five percent",
+    "start": 588.03,
+    "duration": 3.533
+  },
+  {
+    "text": "to just change the format of currency",
+    "start": 591.563,
+    "duration": 4.167
+  },
+  {
+    "text": "from a check to cash.",
+    "start": 595.763,
+    "duration": 1.8
+  },
+  {
+    "text": "And then you have cash\nand you want to pay a bill.",
+    "start": 597.597,
+    "duration": 2.333
+  },
+  {
+    "text": "You need to stand in line again",
+    "start": 599.963,
+    "duration": 1.934
+  },
+  {
+    "text": "at a bill pay,",
+    "start": 601.897,
+    "duration": 1.266
+  },
+  {
+    "text": "and then you have to pay maybe 10 dollars",
+    "start": 603.197,
+    "duration": 2.866
+  },
+  {
+    "text": "for an individual bill as a fee.",
+    "start": 606.097,
+    "duration": 3.333
+  },
+  {
+    "text": "If you do that via a smartphone,",
+    "start": 609.463,
+    "duration": 2.867
+  },
+  {
+    "text": "I believe that not only do you save\na tremendous amount of time,",
+    "start": 612.363,
+    "duration": 3.7
+  },
+  {
+    "text": "because if you're outside\nthe financial system,",
+    "start": 616.097,
+    "duration": 2.233
+  },
+  {
+    "text": "managing and moving money\nis practically a part-time job",
+    "start": 618.363,
+    "duration": 3.967
+  },
+  {
+    "text": "to go and do that,",
+    "start": 622.363,
+    "duration": 1.234
+  },
+  {
+    "text": "so not only do you save time\nand return time to individuals,",
+    "start": 623.597,
+    "duration": 3.666
+  },
+  {
+    "text": "but you can cut the cost of transactions",
+    "start": 627.263,
+    "duration": 3.567
+  },
+  {
+    "text": "by anywhere between 50 and 75 percent.",
+    "start": 630.863,
+    "duration": 3.8
+  },
+  {
+    "text": "And remember that $140 billion\nnumber that I gave you?",
+    "start": 634.697,
+    "duration": 3.933
+  },
+  {
+    "text": "And that's just in the US.",
+    "start": 638.663,
+    "duration": 2.534
+  },
+  {
+    "text": "Imagine if you could cut that in half",
+    "start": 641.23,
+    "duration": 2.833
+  },
+  {
+    "text": "and return that to the most\nvulnerable populations",
+    "start": 644.097,
+    "duration": 4.4
+  },
+  {
+    "text": "that need it most.",
+    "start": 648.53,
+    "duration": 1.7
+  },
+  {
+    "text": "So I think there's tremendous promise",
+    "start": 650.263,
+    "duration": 3.134
+  },
+  {
+    "text": "in the use of technology",
+    "start": 653.43,
+    "duration": 2.067
+  },
+  {
+    "text": "to help provide both inclusion",
+    "start": 655.53,
+    "duration": 2.267
+  },
+  {
+    "text": "and make sure there aren't\ndigital haves and have-nots,",
+    "start": 657.83,
+    "duration": 3.5
+  },
+  {
+    "text": "but also to start on this journey\ntowards financial health.",
+    "start": 661.363,
+    "duration": 3.234
+  },
+  {
+    "text": "CH: Yeah, I think a lot\nof people don't realize",
+    "start": 666.197,
+    "duration": 2.233
+  },
+  {
+    "text": "that you don't need a bank\naccount or even a credit card",
+    "start": 668.463,
+    "duration": 2.867
+  },
+  {
+    "text": "to open a PayPal account,",
+    "start": 671.33,
+    "duration": 3.533
+  },
+  {
+    "text": "which is super-interesting.",
+    "start": 674.897,
+    "duration": 2.566
+  },
+  {
+    "text": "I mean, do you see a time\nwhere traditional banks don't exist",
+    "start": 677.497,
+    "duration": 3.333
+  },
+  {
+    "text": "or at least play a much smaller role\nin the financial services industry?",
+    "start": 680.863,
+    "duration": 4.967
+  },
+  {
+    "text": "DS: Well, I think the entire\nfinancial services industry",
+    "start": 686.397,
+    "duration": 3.0
+  },
+  {
+    "text": "is evolving right now,",
+    "start": 689.43,
+    "duration": 2.867
+  },
+  {
+    "text": "and so I think banks\nwill always play a role,",
+    "start": 692.33,
+    "duration": 4.533
+  },
+  {
+    "text": "or as far into the future as I can see,",
+    "start": 696.863,
+    "duration": 4.434
+  },
+  {
+    "text": "but it will evolve.",
+    "start": 701.33,
+    "duration": 1.267
+  },
+  {
+    "text": "I mean, think about basic credit cards.",
+    "start": 702.63,
+    "duration": 4.533
+  },
+  {
+    "text": "Today, you think about a credit card,",
+    "start": 707.197,
+    "duration": 2.0
+  },
+  {
+    "text": "and you think about it\npredominantly as a form factor,",
+    "start": 709.23,
+    "duration": 3.267
+  },
+  {
+    "text": "something that you pull\nout of your pocket.",
+    "start": 712.53,
+    "duration": 2.033
+  },
+  {
+    "text": "Sometimes there's status associated with\nwhat you're pulling out of your pocket,",
+    "start": 714.563,
+    "duration": 4.867
+  },
+  {
+    "text": "depending on the color\nof that credit card.",
+    "start": 719.43,
+    "duration": 4.2
+  },
+  {
+    "text": "But really I think those\nform factors start to go away",
+    "start": 723.663,
+    "duration": 3.934
+  },
+  {
+    "text": "and become embedded in digital wallets.",
+    "start": 727.63,
+    "duration": 3.167
+  },
+  {
+    "text": "So credit will always\nbe an important element.",
+    "start": 730.797,
+    "duration": 3.766
+  },
+  {
+    "text": "You know, most people in the world,",
+    "start": 734.563,
+    "duration": 2.067
+  },
+  {
+    "text": "it isn't that their cash outlays\nexceed their cash intake.",
+    "start": 736.663,
+    "duration": 6.734
+  },
+  {
+    "text": "It's just that they're not\nevenly distributed.",
+    "start": 743.397,
+    "duration": 3.4
+  },
+  {
+    "text": "So there are times where your\ncash outflows exceed your cash intake,",
+    "start": 746.83,
+    "duration": 4.233
+  },
+  {
+    "text": "and there, you need some form of credit\nto make up that difference.",
+    "start": 751.063,
+    "duration": 5.134
+  },
+  {
+    "text": "And so I think forms of credit\nwill always be an important element.",
+    "start": 756.23,
+    "duration": 6.167
+  },
+  {
+    "text": "But the way that you extend credit\nwill change going forward,",
+    "start": 762.43,
+    "duration": 5.067
+  },
+  {
+    "text": "the way that you think\nabout scoring people",
+    "start": 767.53,
+    "duration": 3.033
+  },
+  {
+    "text": "in terms of can they handle credit.",
+    "start": 770.597,
+    "duration": 3.066
+  },
+  {
+    "text": "You know, traditionally,\nin more developed countries,",
+    "start": 773.697,
+    "duration": 3.833
+  },
+  {
+    "text": "you use what's called\nFICO scores or bureau scores,",
+    "start": 777.563,
+    "duration": 4.367
+  },
+  {
+    "text": "but those ignore so many\nof the financial transactions",
+    "start": 781.963,
+    "duration": 4.367
+  },
+  {
+    "text": "that people who are outside\nthe financial system do,",
+    "start": 786.363,
+    "duration": 2.834
+  },
+  {
+    "text": "like paying rent\nor paying their bills on time.",
+    "start": 789.197,
+    "duration": 3.433
+  },
+  {
+    "text": "And with the data and information\nand machine learning around that --",
+    "start": 792.663,
+    "duration": 6.167
+  },
+  {
+    "text": "and we need to be careful\nthat there aren't biases",
+    "start": 798.863,
+    "duration": 2.4
+  },
+  {
+    "text": "built into those algorithms --",
+    "start": 801.263,
+    "duration": 2.767
+  },
+  {
+    "text": "we can start to do things\nthat could never be done before.",
+    "start": 804.03,
+    "duration": 3.5
+  },
+  {
+    "text": "I'll just give you one quick example.",
+    "start": 807.563,
+    "duration": 2.567
+  },
+  {
+    "text": "We're one of the largest providers\nof working capital to small businesses",
+    "start": 810.13,
+    "duration": 4.967
+  },
+  {
+    "text": "in the world.",
+    "start": 815.097,
+    "duration": 1.566
+  },
+  {
+    "text": "We're probably one of the top five\nin the United States.",
+    "start": 816.663,
+    "duration": 3.634
+  },
+  {
+    "text": "So we've done over 14, 15 billion dollars",
+    "start": 820.33,
+    "duration": 3.833
+  },
+  {
+    "text": "of lending of working capital\nto small businesses.",
+    "start": 824.197,
+    "duration": 2.966
+  },
+  {
+    "text": "Seventy percent of that\ngoes to the 30 percent of counties",
+    "start": 827.563,
+    "duration": 4.9
+  },
+  {
+    "text": "where 10 or more banks\nhave closed branches.",
+    "start": 832.497,
+    "duration": 4.133
+  },
+  {
+    "text": "And where do banks close branches?",
+    "start": 836.663,
+    "duration": 1.834
+  },
+  {
+    "text": "Banks close branches in neighborhoods",
+    "start": 838.53,
+    "duration": 2.867
+  },
+  {
+    "text": "where the median income\nis below the national average,",
+    "start": 841.397,
+    "duration": 3.466
+  },
+  {
+    "text": "which makes sense because\nfor a branch to be profitable,",
+    "start": 844.897,
+    "duration": 3.566
+  },
+  {
+    "text": "they need a certain amount of deposits",
+    "start": 848.463,
+    "duration": 2.7
+  },
+  {
+    "text": "for that branch to actually be profitable.",
+    "start": 851.163,
+    "duration": 2.067
+  },
+  {
+    "text": "And so, in lower income neighborhoods,",
+    "start": 853.263,
+    "duration": 2.634
+  },
+  {
+    "text": "branches are starting to close.",
+    "start": 855.93,
+    "duration": 2.133
+  },
+  {
+    "text": "So why are 70 percent of our loans\nin those lower income neighborhoods?",
+    "start": 858.63,
+    "duration": 3.833
+  },
+  {
+    "text": "It's because we do machine learning.",
+    "start": 862.497,
+    "duration": 1.766
+  },
+  {
+    "text": "We don't even look at FICO scores\nor bureau scores.",
+    "start": 864.297,
+    "duration": 3.7
+  },
+  {
+    "text": "We look at a number\nof different data elements.",
+    "start": 867.997,
+    "duration": 3.266
+  },
+  {
+    "text": "And so we can lend into\nthose lower income neighborhoods",
+    "start": 871.297,
+    "duration": 3.933
+  },
+  {
+    "text": "where nobody else can,",
+    "start": 875.263,
+    "duration": 1.867
+  },
+  {
+    "text": "and when we do that,",
+    "start": 877.163,
+    "duration": 1.967
+  },
+  {
+    "text": "the average sale of a small business\ngoes up by 22 percent.",
+    "start": 879.13,
+    "duration": 5.833
+  },
+  {
+    "text": "And imagine the impact that has\non communities and neighborhoods",
+    "start": 884.963,
+    "duration": 4.1
+  },
+  {
+    "text": "where they can finally get\nthe working capital",
+    "start": 889.063,
+    "duration": 2.667
+  },
+  {
+    "text": "to expand those small businesses.",
+    "start": 891.763,
+    "duration": 1.967
+  },
+  {
+    "text": "And I think that's a perfect example",
+    "start": 893.763,
+    "duration": 2.1
+  },
+  {
+    "text": "of the promise of what technology\nand financial services",
+    "start": 895.863,
+    "duration": 3.9
+  },
+  {
+    "text": "married together can do.",
+    "start": 899.797,
+    "duration": 1.7
+  },
+  {
+    "text": "CH: I think it's so interesting.",
+    "start": 903.397,
+    "duration": 2.233
+  },
+  {
+    "text": "I'm curious.",
+    "start": 905.663,
+    "duration": 1.434
+  },
+  {
+    "text": "The tech industry has been criticized\nfor amassing power over society,",
+    "start": 907.13,
+    "duration": 6.267
+  },
+  {
+    "text": "not that the banking industry\nisn't criticized.",
+    "start": 913.43,
+    "duration": 3.233
+  },
+  {
+    "text": "But what do you say about people\nwho might be worried about",
+    "start": 916.697,
+    "duration": 4.433
+  },
+  {
+    "text": "tech companies taking on\neven more influence and control",
+    "start": 921.163,
+    "duration": 3.6
+  },
+  {
+    "text": "over what's happening in their lives?",
+    "start": 924.797,
+    "duration": 1.966
+  },
+  {
+    "text": "DS: Yeah.",
+    "start": 927.363,
+    "duration": 1.567
+  },
+  {
+    "text": "Well, I think what's so important\nfor any company and tech companies",
+    "start": 928.963,
+    "duration": 6.967
+  },
+  {
+    "text": "is to respect the boundaries",
+    "start": 935.93,
+    "duration": 5.767
+  },
+  {
+    "text": "in terms of what consumers expect\nfrom a company that serves them.",
+    "start": 941.73,
+    "duration": 3.933
+  },
+  {
+    "text": "I think the most important brand attribute\nthat a company can have is trust,",
+    "start": 946.497,
+    "duration": 6.866
+  },
+  {
+    "text": "and trust comes from the understanding",
+    "start": 953.397,
+    "duration": 3.866
+  },
+  {
+    "text": "that a company respects your privacy",
+    "start": 957.297,
+    "duration": 3.933
+  },
+  {
+    "text": "and will not sell\nyour data or information,",
+    "start": 961.23,
+    "duration": 4.7
+  },
+  {
+    "text": "that it can perform transactions\nin a secure manner",
+    "start": 965.93,
+    "duration": 5.933
+  },
+  {
+    "text": "so that your transactions are protected.",
+    "start": 971.897,
+    "duration": 3.966
+  },
+  {
+    "text": "And I think those\nare kind of foundational,",
+    "start": 975.897,
+    "duration": 3.766
+  },
+  {
+    "text": "and I think any company\nneeds to respect that.",
+    "start": 979.663,
+    "duration": 4.234
+  },
+  {
+    "text": "They need to assure that consumers",
+    "start": 983.93,
+    "duration": 4.467
+  },
+  {
+    "text": "have the privacy that they desire",
+    "start": 988.43,
+    "duration": 3.7
+  },
+  {
+    "text": "and the safety and security\nthat is required",
+    "start": 992.163,
+    "duration": 3.4
+  },
+  {
+    "text": "to serve them the right way.",
+    "start": 995.597,
+    "duration": 1.666
+  },
+  {
+    "text": "CH: And obviously, you've gained\na lot of trust with the US government.",
+    "start": 998.797,
+    "duration": 5.166
+  },
+  {
+    "text": "Maybe we could talk a little bit\nabout how you've been working with them",
+    "start": 1003.963,
+    "duration": 4.067
+  },
+  {
+    "text": "to distribute some money\nthrough the Paycheck Protection Program.",
+    "start": 1008.03,
+    "duration": 4.6
+  },
+  {
+    "text": "And I was curious,",
+    "start": 1012.663,
+    "duration": 1.2
+  },
+  {
+    "text": "I've been reading about it,\nand it sounds like",
+    "start": 1013.863,
+    "duration": 3.334
+  },
+  {
+    "text": "30 million-ish small businesses\nin the United States",
+    "start": 1017.197,
+    "duration": 2.966
+  },
+  {
+    "text": "are able to get those funds,",
+    "start": 1020.197,
+    "duration": 3.033
+  },
+  {
+    "text": "but only six million\nhave received the loans.",
+    "start": 1023.263,
+    "duration": 2.767
+  },
+  {
+    "text": "What do you think's happened?",
+    "start": 1026.03,
+    "duration": 1.467
+  },
+  {
+    "text": "DS: Yep.",
+    "start": 1028.497,
+    "duration": 1.2
+  },
+  {
+    "text": "Well, I think initially, the government --\nand I give them a lot of credit --",
+    "start": 1029.73,
+    "duration": 5.567
+  },
+  {
+    "text": "they responded quite quickly",
+    "start": 1035.33,
+    "duration": 2.667
+  },
+  {
+    "text": "with a 3 trillion dollar stimulus package.",
+    "start": 1038.03,
+    "duration": 4.1
+  },
+  {
+    "text": "These are massive numbers\nthat were happening",
+    "start": 1042.163,
+    "duration": 2.867
+  },
+  {
+    "text": "in very condensed time frames.",
+    "start": 1045.063,
+    "duration": 3.134
+  },
+  {
+    "text": "We were working with various agencies,",
+    "start": 1048.197,
+    "duration": 3.433
+  },
+  {
+    "text": "very closely with the Treasury Department,",
+    "start": 1051.663,
+    "duration": 3.9
+  },
+  {
+    "text": "in terms of distribution of the stimulus.",
+    "start": 1055.597,
+    "duration": 4.733
+  },
+  {
+    "text": "And they were working literally\nnight and day on this.",
+    "start": 1060.33,
+    "duration": 5.433
+  },
+  {
+    "text": "The Small Business Administration\nwas working night and day.",
+    "start": 1065.797,
+    "duration": 3.533
+  },
+  {
+    "text": "But these are volumes",
+    "start": 1069.363,
+    "duration": 2.5
+  },
+  {
+    "text": "that have never been seen before\nrunning through these systems,",
+    "start": 1071.863,
+    "duration": 4.267
+  },
+  {
+    "text": "and the first tranche of those loans",
+    "start": 1076.13,
+    "duration": 4.567
+  },
+  {
+    "text": "was very difficult.",
+    "start": 1080.697,
+    "duration": 1.2
+  },
+  {
+    "text": "There were a lot of technical difficulties\nin getting those out to small businesses.",
+    "start": 1081.93,
+    "duration": 6.9
+  },
+  {
+    "text": "And that first tranche was not enough,",
+    "start": 1088.83,
+    "duration": 3.1
+  },
+  {
+    "text": "and it was quickly used,",
+    "start": 1091.93,
+    "duration": 4.3
+  },
+  {
+    "text": "and there are still\na host of small businesses",
+    "start": 1096.263,
+    "duration": 3.834
+  },
+  {
+    "text": "that needed money.",
+    "start": 1100.097,
+    "duration": 1.8
+  },
+  {
+    "text": "The second tranche that came out",
+    "start": 1101.93,
+    "duration": 2.267
+  },
+  {
+    "text": "is still actually in effect.",
+    "start": 1104.23,
+    "duration": 1.533
+  },
+  {
+    "text": "It has not been used up,",
+    "start": 1105.797,
+    "duration": 1.9
+  },
+  {
+    "text": "and we are continuing to lend on that.",
+    "start": 1107.73,
+    "duration": 3.0
+  },
+  {
+    "text": "We've been able to lend\nto some 50,000 small businesses.",
+    "start": 1110.763,
+    "duration": 5.867
+  },
+  {
+    "text": "We've lent out about 1.7 billion dollars,",
+    "start": 1116.663,
+    "duration": 3.134
+  },
+  {
+    "text": "and our loan size,",
+    "start": 1119.83,
+    "duration": 3.0
+  },
+  {
+    "text": "which really I'm proud of,",
+    "start": 1122.83,
+    "duration": 1.567
+  },
+  {
+    "text": "is about 31,000 dollars.",
+    "start": 1124.43,
+    "duration": 2.9
+  },
+  {
+    "text": "The average that a bank does\nis between 100 and 125,000 dollars.",
+    "start": 1127.363,
+    "duration": 4.167
+  },
+  {
+    "text": "So we are lending\nto these true small businesses",
+    "start": 1131.53,
+    "duration": 5.033
+  },
+  {
+    "text": "on Main Street,",
+    "start": 1136.563,
+    "duration": 2.167
+  },
+  {
+    "text": "and I'm proud that we've\nbeen able to go do that,",
+    "start": 1138.73,
+    "duration": 5.467
+  },
+  {
+    "text": "and I think we should give credit\nto the US government",
+    "start": 1144.197,
+    "duration": 4.1
+  },
+  {
+    "text": "and governments around the world",
+    "start": 1148.297,
+    "duration": 2.2
+  },
+  {
+    "text": "that are taking this quite seriously",
+    "start": 1150.53,
+    "duration": 2.833
+  },
+  {
+    "text": "and putting a tremendous amount,\na percentage of their GDP,",
+    "start": 1153.397,
+    "duration": 4.5
+  },
+  {
+    "text": "towards the rescue of small businesses",
+    "start": 1157.93,
+    "duration": 3.433
+  },
+  {
+    "text": "and towards trying\nto take care of consumers",
+    "start": 1161.363,
+    "duration": 2.634
+  },
+  {
+    "text": "that find themselves\nin really difficult straits right now.",
+    "start": 1164.03,
+    "duration": 4.767
+  },
+  {
+    "text": "And we've been trying to,",
+    "start": 1168.83,
+    "duration": 1.4
+  },
+  {
+    "text": "instead of people mailing out checks,\nwhich is ridiculous in today's world --",
+    "start": 1170.263,
+    "duration": 5.467
+  },
+  {
+    "text": "people aren't living where they think\nthey're going to be living,",
+    "start": 1175.763,
+    "duration": 3.1
+  },
+  {
+    "text": "they're with their parents or with friends\nor in a different location,",
+    "start": 1178.863,
+    "duration": 3.6
+  },
+  {
+    "text": "and mailing a check",
+    "start": 1182.497,
+    "duration": 1.2
+  },
+  {
+    "text": "and then having to take a check\nand go somewhere,",
+    "start": 1183.73,
+    "duration": 2.933
+  },
+  {
+    "text": "which you can't even go\nif you're sheltered in place,",
+    "start": 1186.697,
+    "duration": 2.5
+  },
+  {
+    "text": "to cash it,",
+    "start": 1189.23,
+    "duration": 1.167
+  },
+  {
+    "text": "doing that electronically\njust makes a ton more sense --",
+    "start": 1190.397,
+    "duration": 2.733
+  },
+  {
+    "text": "and we've been working\nwith the IRS and Treasury",
+    "start": 1193.163,
+    "duration": 2.767
+  },
+  {
+    "text": "and other government agencies\nto distribute that electronically.",
+    "start": 1195.93,
+    "duration": 3.733
+  },
+  {
+    "text": "CH: Yeah, that makes a lot of sense.",
+    "start": 1201.43,
+    "duration": 1.8
+  },
+  {
+    "text": "It's a massive, massive project",
+    "start": 1203.263,
+    "duration": 3.034
+  },
+  {
+    "text": "for all of us.",
+    "start": 1206.33,
+    "duration": 1.8
+  },
+  {
+    "text": "Whitney is here with some questions\nfrom our community.",
+    "start": 1208.163,
+    "duration": 3.3
+  },
+  {
+    "text": "DS: Hello, Whitney.",
+    "start": 1212.063,
+    "duration": 1.467
+  },
+  {
+    "text": "Whitney Pennington Rodgers:\nHello Dan. How are you?",
+    "start": 1213.563,
+    "duration": 2.467
+  },
+  {
+    "text": "So the community has\nsome interesting questions",
+    "start": 1216.03,
+    "duration": 2.233
+  },
+  {
+    "text": "following up on what you\nwere talking about earlier about security.",
+    "start": 1218.263,
+    "duration": 3.2
+  },
+  {
+    "text": "We have a question from Marc --",
+    "start": 1221.497,
+    "duration": 1.666
+  },
+  {
+    "text": "and I apologize in advance\nif I mispronounce your name, Marc --",
+    "start": 1223.197,
+    "duration": 2.966
+  },
+  {
+    "text": "Marc Vanlerberghe:",
+    "start": 1226.197,
+    "duration": 1.2
+  },
+  {
+    "text": "\"The move to digital cash\ncould be one more step",
+    "start": 1227.397,
+    "duration": 2.333
+  },
+  {
+    "text": "towards creating the perfect\nsurveillance state.",
+    "start": 1229.763,
+    "duration": 2.267
+  },
+  {
+    "text": "How do we avoid this from happening?\"",
+    "start": 1232.063,
+    "duration": 1.8
+  },
+  {
+    "text": "DS: Yeah, well, this is what\nI was talking about, Marc, before.",
+    "start": 1235.063,
+    "duration": 3.0
+  },
+  {
+    "text": "I mean, I think this idea of trust",
+    "start": 1238.097,
+    "duration": 5.433
+  },
+  {
+    "text": "is incredibly important.",
+    "start": 1243.53,
+    "duration": 2.767
+  },
+  {
+    "text": "I think the only companies\nthat will be successful --",
+    "start": 1246.33,
+    "duration": 4.767
+  },
+  {
+    "text": "and I think we hold a lot of this\nin our own hands as consumers, by the way;",
+    "start": 1251.13,
+    "duration": 4.467
+  },
+  {
+    "text": "we need to be aware of data\nand information that we're giving",
+    "start": 1255.597,
+    "duration": 3.6
+  },
+  {
+    "text": "and to what companies\nwe're doing that with --",
+    "start": 1259.197,
+    "duration": 2.966
+  },
+  {
+    "text": "but I think the companies\nthat will be successful",
+    "start": 1262.163,
+    "duration": 3.5
+  },
+  {
+    "text": "are those that have\na high degree of trust,",
+    "start": 1265.697,
+    "duration": 2.733
+  },
+  {
+    "text": "and trust happens\nby protecting your privacy",
+    "start": 1268.43,
+    "duration": 4.5
+  },
+  {
+    "text": "but also very much assuring\nthat your transactions in a digital world",
+    "start": 1272.93,
+    "duration": 4.967
+  },
+  {
+    "text": "are safe and secure.",
+    "start": 1277.93,
+    "duration": 1.7
+  },
+  {
+    "text": "I mean, the idea of cybersecurity",
+    "start": 1279.663,
+    "duration": 4.167
+  },
+  {
+    "text": "has always been important,",
+    "start": 1283.863,
+    "duration": 1.7
+  },
+  {
+    "text": "but is ever more important\nas we move from physical to digital,",
+    "start": 1285.563,
+    "duration": 5.134
+  },
+  {
+    "text": "and that's where\nlarge data sets are important,",
+    "start": 1290.73,
+    "duration": 3.633
+  },
+  {
+    "text": "because a consumer's identity\nis stolen every two seconds.",
+    "start": 1294.397,
+    "duration": 5.433
+  },
+  {
+    "text": "Every two seconds, some consumer\nhas their identity stolen.",
+    "start": 1299.83,
+    "duration": 3.1
+  },
+  {
+    "text": "And so we have to be, for instance,",
+    "start": 1302.963,
+    "duration": 2.5
+  },
+  {
+    "text": "we have to be sure\nthat even when you sign in",
+    "start": 1305.463,
+    "duration": 4.2
+  },
+  {
+    "text": "with your credentials,",
+    "start": 1309.697,
+    "duration": 2.2
+  },
+  {
+    "text": "they're actually real credentials.",
+    "start": 1311.897,
+    "duration": 2.366
+  },
+  {
+    "text": "We have to look at 30 to 100\ndifferent elements of that transaction",
+    "start": 1314.297,
+    "duration": 5.533
+  },
+  {
+    "text": "to make sure it's really you",
+    "start": 1319.863,
+    "duration": 2.134
+  },
+  {
+    "text": "before we let that money\nout of your account.",
+    "start": 1322.03,
+    "duration": 2.667
+  },
+  {
+    "text": "And so there is a combination\nof making sure you have enough data",
+    "start": 1324.73,
+    "duration": 5.033
+  },
+  {
+    "text": "to protect somebody",
+    "start": 1329.763,
+    "duration": 2.134
+  },
+  {
+    "text": "but also assure that your privacy\nis held sacrosanct,",
+    "start": 1331.93,
+    "duration": 4.833
+  },
+  {
+    "text": "and I think that is a balancing act\nand one that needs to happen",
+    "start": 1336.797,
+    "duration": 5.133
+  },
+  {
+    "text": "in order for us to do this successfully.",
+    "start": 1341.963,
+    "duration": 3.067
+  },
+  {
+    "text": "WPR: Great, and actually sort of going\nfrom digital cash to digital currency,",
+    "start": 1346.697,
+    "duration": 3.9
+  },
+  {
+    "text": "we have another question\nfrom Simone Ross in our community",
+    "start": 1350.63,
+    "duration": 4.1
+  },
+  {
+    "text": "about the opportunity that exists\nfor digital currency.",
+    "start": 1354.763,
+    "duration": 3.634
+  },
+  {
+    "text": "She mentioned that PayPal\npulled out of Libra.",
+    "start": 1358.43,
+    "duration": 2.767
+  },
+  {
+    "text": "What would it take for a truly inclusive\ndigital currency to take hold here?",
+    "start": 1361.23,
+    "duration": 5.333
+  },
+  {
+    "text": "DS: Yeah.",
+    "start": 1367.397,
+    "duration": 1.3
+  },
+  {
+    "text": "I think there is a tremendous\namount of promise",
+    "start": 1368.697,
+    "duration": 4.866
+  },
+  {
+    "text": "as we think about digital currencies.",
+    "start": 1373.597,
+    "duration": 3.966
+  },
+  {
+    "text": "Our pulling out of Libra",
+    "start": 1377.597,
+    "duration": 2.333
+  },
+  {
+    "text": "had nothing to do with our firm conviction",
+    "start": 1379.93,
+    "duration": 5.8
+  },
+  {
+    "text": "that blockchain and other forms\nof maybe stable coin currencies",
+    "start": 1385.73,
+    "duration": 7.0
+  },
+  {
+    "text": "are extremely important",
+    "start": 1393.93,
+    "duration": 1.7
+  },
+  {
+    "text": "and can be very, very helpful,",
+    "start": 1395.663,
+    "duration": 2.534
+  },
+  {
+    "text": "especially in different\nparts of the world.",
+    "start": 1398.197,
+    "duration": 2.066
+  },
+  {
+    "text": "As we think about stability\nin different parts of the world",
+    "start": 1400.263,
+    "duration": 4.6
+  },
+  {
+    "text": "where currencies\ncan fluctuate up and down,",
+    "start": 1404.897,
+    "duration": 3.233
+  },
+  {
+    "text": "to have a more stable currency\nwhere somebody can know,",
+    "start": 1408.163,
+    "duration": 5.067
+  },
+  {
+    "text": "if they have that,",
+    "start": 1413.263,
+    "duration": 1.6
+  },
+  {
+    "text": "that it's going to be worth x amount,",
+    "start": 1414.863,
+    "duration": 1.8
+  },
+  {
+    "text": "and that they can transact,",
+    "start": 1416.663,
+    "duration": 1.867
+  },
+  {
+    "text": "either with other individuals\naround the world",
+    "start": 1418.53,
+    "duration": 2.733
+  },
+  {
+    "text": "or, importantly,\nat merchants around the world.",
+    "start": 1421.297,
+    "duration": 4.033
+  },
+  {
+    "text": "And we are looking at all forms\nof digital currencies right now,",
+    "start": 1425.897,
+    "duration": 6.933
+  },
+  {
+    "text": "working hand in hand\nwith a number of different governments,",
+    "start": 1433.397,
+    "duration": 2.933
+  },
+  {
+    "text": "and I think we should all think about\nhow technology is going to evolve",
+    "start": 1436.363,
+    "duration": 5.8
+  },
+  {
+    "text": "and how currencies will evolve\nas a result of that.",
+    "start": 1442.163,
+    "duration": 3.3
+  },
+  {
+    "text": "And I think this crisis\nhas really opened the eyes",
+    "start": 1445.497,
+    "duration": 7.0
+  },
+  {
+    "text": "of many governments around the world",
+    "start": 1452.497,
+    "duration": 2.5
+  },
+  {
+    "text": "as to the need for different tool sets",
+    "start": 1454.997,
+    "duration": 5.2
+  },
+  {
+    "text": "to create stimulus",
+    "start": 1460.23,
+    "duration": 1.5
+  },
+  {
+    "text": "and to efficiently and quickly\nand effectively distribute funds",
+    "start": 1461.763,
+    "duration": 6.1
+  },
+  {
+    "text": "to their citizens.",
+    "start": 1467.897,
+    "duration": 1.766
+  },
+  {
+    "text": "WPR: Great. Well, I'll be back shortly\nwith more questions,",
+    "start": 1471.463,
+    "duration": 2.767
+  },
+  {
+    "text": "and I'd just love to remind the community\nthat you can ask questions",
+    "start": 1474.263,
+    "duration": 3.2
+  },
+  {
+    "text": "on the \"Ask question\" feature.",
+    "start": 1477.497,
+    "duration": 1.466
+  },
+  {
+    "text": "Be sure to use the pull-down tab\nto select Episode 2,",
+    "start": 1478.963,
+    "duration": 2.6
+  },
+  {
+    "text": "so those questions come.",
+    "start": 1481.563,
+    "duration": 1.167
+  },
+  {
+    "text": "Thank you.",
+    "start": 1482.763,
+    "duration": 1.134
+  },
+  {
+    "text": "DS: Thanks, Whitney.",
+    "start": 1483.93,
+    "duration": 1.367
+  },
+  {
+    "text": "CH: Thanks, Whitney.",
+    "start": 1485.33,
+    "duration": 2.1
+  },
+  {
+    "text": "Dan, I want to go back to something\nwe touched on in the beginning",
+    "start": 1487.43,
+    "duration": 3.467
+  },
+  {
+    "text": "about financial wellness.",
+    "start": 1490.897,
+    "duration": 2.6
+  },
+  {
+    "text": "PayPal has done something unique",
+    "start": 1493.997,
+    "duration": 2.066
+  },
+  {
+    "text": "in terms of calculating\nhow much to pay people",
+    "start": 1496.097,
+    "duration": 5.533
+  },
+  {
+    "text": "and how much you should spend on benefits.",
+    "start": 1501.663,
+    "duration": 2.767
+  },
+  {
+    "text": "Traditionally, wages\nare set by the market,",
+    "start": 1504.463,
+    "duration": 2.2
+  },
+  {
+    "text": "but you've found that paying\nas much or even more than other companies",
+    "start": 1506.697,
+    "duration": 3.866
+  },
+  {
+    "text": "wasn't always enough.",
+    "start": 1510.597,
+    "duration": 1.2
+  },
+  {
+    "text": "Can you tell us about that moment?",
+    "start": 1511.797,
+    "duration": 1.933
+  },
+  {
+    "text": "DS: Yeah.",
+    "start": 1515.23,
+    "duration": 1.4
+  },
+  {
+    "text": "So I said, kind of, in our opening,\nin one of my opening statements,",
+    "start": 1517.43,
+    "duration": 5.667
+  },
+  {
+    "text": "that two-thirds of Americans\nstruggle to make ends meet",
+    "start": 1523.097,
+    "duration": 5.466
+  },
+  {
+    "text": "at the end of the month.",
+    "start": 1528.597,
+    "duration": 2.266
+  },
+  {
+    "text": "They are financially stressed,",
+    "start": 1531.53,
+    "duration": 4.833
+  },
+  {
+    "text": "and it kind of wreaks havoc in their life.",
+    "start": 1536.363,
+    "duration": 3.2
+  },
+  {
+    "text": "I did a study to look at PayPal employees.",
+    "start": 1540.13,
+    "duration": 5.933
+  },
+  {
+    "text": "We did a research study,",
+    "start": 1546.097,
+    "duration": 2.566
+  },
+  {
+    "text": "and I did it because I thought I was going\nto get back this great information",
+    "start": 1548.697,
+    "duration": 3.7
+  },
+  {
+    "text": "that I was going to talk about\nat an employee meeting",
+    "start": 1552.43,
+    "duration": 3.5
+  },
+  {
+    "text": "about how well we pay,",
+    "start": 1555.963,
+    "duration": 1.267
+  },
+  {
+    "text": "because we pay, to your point,",
+    "start": 1557.263,
+    "duration": 2.434
+  },
+  {
+    "text": "at or above market",
+    "start": 1559.697,
+    "duration": 1.933
+  },
+  {
+    "text": "in every single location around the world.",
+    "start": 1561.663,
+    "duration": 2.767
+  },
+  {
+    "text": "And what I found is, unfortunately,\nlike the rest of the world,",
+    "start": 1565.23,
+    "duration": 4.8
+  },
+  {
+    "text": "even though we paid at market\nor above market,",
+    "start": 1570.063,
+    "duration": 3.2
+  },
+  {
+    "text": "60 percent of our operations personnel,",
+    "start": 1573.297,
+    "duration": 4.933
+  },
+  {
+    "text": "our entry-level employees,\nour hourly workers,",
+    "start": 1578.23,
+    "duration": 3.433
+  },
+  {
+    "text": "face the same thing.",
+    "start": 1581.663,
+    "duration": 1.2
+  },
+  {
+    "text": "They struggle to make ends meet.",
+    "start": 1582.863,
+    "duration": 1.934
+  },
+  {
+    "text": "And that was simply unacceptable for me.",
+    "start": 1584.83,
+    "duration": 3.167
+  },
+  {
+    "text": "I think the world is changing",
+    "start": 1588.03,
+    "duration": 4.433
+  },
+  {
+    "text": "in terms of the responsibility\nof corporations,",
+    "start": 1592.463,
+    "duration": 3.367
+  },
+  {
+    "text": "the responsibility of CEOs.",
+    "start": 1595.863,
+    "duration": 3.0
+  },
+  {
+    "text": "We have a lot of different stakeholders\nthat we try to satisfy,",
+    "start": 1598.863,
+    "duration": 4.467
+  },
+  {
+    "text": "from regulators to shareholders\nto customers to employees.",
+    "start": 1603.33,
+    "duration": 4.9
+  },
+  {
+    "text": "But I think the number one\nresponsibility that we have",
+    "start": 1608.23,
+    "duration": 4.167
+  },
+  {
+    "text": "is the health -- financial health --\nof our employees,",
+    "start": 1612.43,
+    "duration": 3.7
+  },
+  {
+    "text": "because nothing could be\nmore important to a company",
+    "start": 1616.163,
+    "duration": 3.667
+  },
+  {
+    "text": "than to have financially secure,\npassionate employees working for you,",
+    "start": 1619.863,
+    "duration": 5.2
+  },
+  {
+    "text": "because nobody is going to serve customers",
+    "start": 1625.097,
+    "duration": 3.2
+  },
+  {
+    "text": "better than employees\nwho feel a part of something",
+    "start": 1628.297,
+    "duration": 4.1
+  },
+  {
+    "text": "and feel financially secure and glad\nto be a part of that company.",
+    "start": 1632.397,
+    "duration": 4.466
+  },
+  {
+    "text": "And so then the real question becomes:\nHow do you measure that?",
+    "start": 1636.863,
+    "duration": 4.467
+  },
+  {
+    "text": "Because a lot of people think\nabout living wages or a minimum wage.",
+    "start": 1641.363,
+    "duration": 3.9
+  },
+  {
+    "text": "And we thought that was insufficient,",
+    "start": 1645.297,
+    "duration": 3.133
+  },
+  {
+    "text": "and we came up with a measurement\nwe called \"net disposable income,\"",
+    "start": 1648.463,
+    "duration": 5.5
+  },
+  {
+    "text": "which is, basically:",
+    "start": 1653.997,
+    "duration": 1.166
+  },
+  {
+    "text": "After you pay taxes and\nyour basically essential living expenses,",
+    "start": 1655.163,
+    "duration": 6.034
+  },
+  {
+    "text": "how much money do you have\nleft over for discretionary things",
+    "start": 1661.197,
+    "duration": 5.9
+  },
+  {
+    "text": "or to save?",
+    "start": 1667.097,
+    "duration": 1.8
+  },
+  {
+    "text": "And here's the really unfortunate thing --\nand I'm not proud of this,",
+    "start": 1668.93,
+    "duration": 3.267
+  },
+  {
+    "text": "but remember, we were paying\nat market or above,",
+    "start": 1672.23,
+    "duration": 2.633
+  },
+  {
+    "text": "so I thought the market would\ntake care of this, right, by doing that --",
+    "start": 1674.897,
+    "duration": 4.333
+  },
+  {
+    "text": "we found that for that population,",
+    "start": 1679.263,
+    "duration": 3.467
+  },
+  {
+    "text": "they had four to six percent\nNDI, net disposable income,",
+    "start": 1682.763,
+    "duration": 4.9
+  },
+  {
+    "text": "after paying taxes\nand essential living expenses.",
+    "start": 1687.663,
+    "duration": 3.667
+  },
+  {
+    "text": "That is not enough.",
+    "start": 1691.363,
+    "duration": 1.167
+  },
+  {
+    "text": "You are going to struggle\nto make ends meet.",
+    "start": 1692.563,
+    "duration": 2.667
+  },
+  {
+    "text": "And by the way, NDI changes\nlocation to location to location",
+    "start": 1695.263,
+    "duration": 4.167
+  },
+  {
+    "text": "around the globe, right?",
+    "start": 1699.43,
+    "duration": 1.5
+  },
+  {
+    "text": "There's a different NDI in Manila,\na different NDI in Omaha, Nebraska,",
+    "start": 1700.963,
+    "duration": 5.4
+  },
+  {
+    "text": "than there is in New York City, etc.",
+    "start": 1706.397,
+    "duration": 2.9
+  },
+  {
+    "text": "And so we basically\nsaid to ourselves,",
+    "start": 1709.33,
+    "duration": 3.533
+  },
+  {
+    "text": "we need to take\nNDI to 20 percent.",
+    "start": 1712.863,
+    "duration": 4.334
+  },
+  {
+    "text": "Because at 20 percent --",
+    "start": 1717.23,
+    "duration": 1.867
+  },
+  {
+    "text": "and that's a huge shift,\nfrom four to six to 20 percent --",
+    "start": 1719.13,
+    "duration": 3.5
+  },
+  {
+    "text": "but at 20 percent,\nyou actually have the ability to save",
+    "start": 1722.663,
+    "duration": 6.2
+  },
+  {
+    "text": "and to put money away and to take care\nof discretionary expenses.",
+    "start": 1728.863,
+    "duration": 4.834
+  },
+  {
+    "text": "And so we did a pretty\nmassive reorientation",
+    "start": 1733.73,
+    "duration": 5.633
+  },
+  {
+    "text": "of our compensation systems.",
+    "start": 1739.363,
+    "duration": 2.2
+  },
+  {
+    "text": "We lowered the cost\nof benefits by 58 percent,",
+    "start": 1742.263,
+    "duration": 6.034
+  },
+  {
+    "text": "because benefits\nare like a regressive tax,",
+    "start": 1748.33,
+    "duration": 3.267
+  },
+  {
+    "text": "you pay the same amount\nno matter what your salary is.",
+    "start": 1751.63,
+    "duration": 3.033
+  },
+  {
+    "text": "And so we had a lot of employees\nwho weren't taking health care benefits,",
+    "start": 1754.697,
+    "duration": 4.666
+  },
+  {
+    "text": "because it cost too much\nto be able to do that.",
+    "start": 1759.397,
+    "duration": 2.366
+  },
+  {
+    "text": "So we lowered it by 58 percent.",
+    "start": 1761.797,
+    "duration": 2.566
+  },
+  {
+    "text": "We made every single employee\nof PayPal a shareholder",
+    "start": 1764.397,
+    "duration": 4.066
+  },
+  {
+    "text": "and an owner of the business,",
+    "start": 1768.497,
+    "duration": 2.0
+  },
+  {
+    "text": "and we gave them pretty big grants",
+    "start": 1770.53,
+    "duration": 2.3
+  },
+  {
+    "text": "so that they could be a part\nof the success of PayPal going forward.",
+    "start": 1772.863,
+    "duration": 5.267
+  },
+  {
+    "text": "We raised salaries where we needed\nto go and do that.",
+    "start": 1778.13,
+    "duration": 3.4
+  },
+  {
+    "text": "And then we wrapped all of that\ninto a financial education program,",
+    "start": 1781.53,
+    "duration": 3.633
+  },
+  {
+    "text": "because people had never\ngotten equity before,",
+    "start": 1785.197,
+    "duration": 3.166
+  },
+  {
+    "text": "they were trying to think through,",
+    "start": 1788.397,
+    "duration": 1.666
+  },
+  {
+    "text": "\"How do I save now that I've got\nincremental dollars to go and do that?\"",
+    "start": 1790.063,
+    "duration": 4.334
+  },
+  {
+    "text": "And that cost us quite a bit\nof money to go and do that,",
+    "start": 1794.43,
+    "duration": 6.633
+  },
+  {
+    "text": "but I really feel,",
+    "start": 1801.063,
+    "duration": 1.534
+  },
+  {
+    "text": "just like how we spend a lot of money\nto take care of customers,",
+    "start": 1802.63,
+    "duration": 3.333
+  },
+  {
+    "text": "as you mentioned up front, in COVID-19,",
+    "start": 1805.963,
+    "duration": 3.634
+  },
+  {
+    "text": "that companies need to stand\nfor more than just making money,",
+    "start": 1809.63,
+    "duration": 6.3
+  },
+  {
+    "text": "for more than just maximizing\nour profits next quarter.",
+    "start": 1815.963,
+    "duration": 4.334
+  },
+  {
+    "text": "I firmly, firmly believe",
+    "start": 1820.33,
+    "duration": 3.7
+  },
+  {
+    "text": "that the costs associated\nwith taking care of our employees,",
+    "start": 1824.063,
+    "duration": 3.934
+  },
+  {
+    "text": "taking care of our customers,",
+    "start": 1828.03,
+    "duration": 2.167
+  },
+  {
+    "text": "will benefit us in the long run",
+    "start": 1830.23,
+    "duration": 2.733
+  },
+  {
+    "text": "multiplefold over the costs\nassociated with doing that.",
+    "start": 1832.963,
+    "duration": 3.134
+  },
+  {
+    "text": "And we're already beginning\nto see some of the impact of that.",
+    "start": 1836.13,
+    "duration": 5.2
+  },
+  {
+    "text": "And so, I think every CEO, every company,",
+    "start": 1841.363,
+    "duration": 7.0
+  },
+  {
+    "text": "needs to really now start to think about,",
+    "start": 1848.363,
+    "duration": 3.0
+  },
+  {
+    "text": "especially maybe\nas a result of this crisis,",
+    "start": 1851.397,
+    "duration": 3.033
+  },
+  {
+    "text": "but as I mentioned,\nwe had a crisis before this,",
+    "start": 1854.463,
+    "duration": 2.9
+  },
+  {
+    "text": "how do we put our employees first,\ntake care of them?",
+    "start": 1857.397,
+    "duration": 4.233
+  },
+  {
+    "text": "Because if you do that,\nyou'll take care of customers,",
+    "start": 1861.663,
+    "duration": 2.967
+  },
+  {
+    "text": "and if you take care of customers,",
+    "start": 1864.663,
+    "duration": 1.634
+  },
+  {
+    "text": "you'll take care of\nshareholders, inevitably.",
+    "start": 1866.33,
+    "duration": 2.167
+  },
+  {
+    "text": "And so this has been a huge part of it",
+    "start": 1868.497,
+    "duration": 5.8
+  },
+  {
+    "text": "about for the last year or so.",
+    "start": 1874.297,
+    "duration": 2.1
+  },
+  {
+    "text": "CH: It's so interesting,",
+    "start": 1878.463,
+    "duration": 1.267
+  },
+  {
+    "text": "and it brings up\nso many questions, I think,",
+    "start": 1879.763,
+    "duration": 3.0
+  },
+  {
+    "text": "for me and probably our community as well.",
+    "start": 1882.763,
+    "duration": 2.7
+  },
+  {
+    "text": "I mean, PayPal is a hugely\nprofitable tech business,",
+    "start": 1885.497,
+    "duration": 5.866
+  },
+  {
+    "text": "huge free cash flow and big margins.",
+    "start": 1891.363,
+    "duration": 3.7
+  },
+  {
+    "text": "Do you think this model is something\nthat every company can do,",
+    "start": 1895.097,
+    "duration": 3.266
+  },
+  {
+    "text": "whether it's a tech company,\na manufacture, a meatpacking business?",
+    "start": 1898.397,
+    "duration": 6.966
+  },
+  {
+    "text": "I mean, is this what everyone\nshould be focused on?",
+    "start": 1905.397,
+    "duration": 3.4
+  },
+  {
+    "text": "DS: Well, I think that --\nand I don't want to moralize",
+    "start": 1909.863,
+    "duration": 4.7
+  },
+  {
+    "text": "or tell other companies\nwhat they should do --",
+    "start": 1914.597,
+    "duration": 3.933
+  },
+  {
+    "text": "but to me, I think\neveryone should understand",
+    "start": 1918.563,
+    "duration": 4.267
+  },
+  {
+    "text": "the financial health of their employees.",
+    "start": 1922.863,
+    "duration": 2.3
+  },
+  {
+    "text": "That's a baseline thing to go do.",
+    "start": 1925.197,
+    "duration": 3.033
+  },
+  {
+    "text": "What you do post-that",
+    "start": 1928.263,
+    "duration": 2.434
+  },
+  {
+    "text": "is up to maybe your\nfinancial strength as a company",
+    "start": 1930.697,
+    "duration": 5.866
+  },
+  {
+    "text": "or where you put your order of priorities.",
+    "start": 1936.597,
+    "duration": 4.466
+  },
+  {
+    "text": "But what I've found is,",
+    "start": 1941.097,
+    "duration": 2.0
+  },
+  {
+    "text": "I thought the market could tell you that,",
+    "start": 1944.097,
+    "duration": 3.633
+  },
+  {
+    "text": "and this is why I say, in many ways --",
+    "start": 1947.73,
+    "duration": 3.9
+  },
+  {
+    "text": "you know, I'm a big believer\nin capitalism.",
+    "start": 1951.663,
+    "duration": 2.167
+  },
+  {
+    "text": "I think it's, in many ways,",
+    "start": 1953.863,
+    "duration": 3.867
+  },
+  {
+    "text": "the best economic system\nthat I know of.",
+    "start": 1957.763,
+    "duration": 4.0
+  },
+  {
+    "text": "But, like everything, it needs an upgrade.",
+    "start": 1961.797,
+    "duration": 2.2
+  },
+  {
+    "text": "It needs tuning,",
+    "start": 1963.997,
+    "duration": 2.566
+  },
+  {
+    "text": "and at least for\nthese vulnerable populations,",
+    "start": 1966.597,
+    "duration": 4.633
+  },
+  {
+    "text": "just because you pay at market",
+    "start": 1971.263,
+    "duration": 2.767
+  },
+  {
+    "text": "doesn't mean that they have\nfinancial health or financial wellness.",
+    "start": 1974.03,
+    "duration": 4.433
+  },
+  {
+    "text": "And I think everyone should know",
+    "start": 1978.463,
+    "duration": 4.5
+  },
+  {
+    "text": "whether or not their employees have\nthe wherewithal to be able to save",
+    "start": 1982.997,
+    "duration": 4.266
+  },
+  {
+    "text": "to withstand financial shocks,",
+    "start": 1987.297,
+    "duration": 2.633
+  },
+  {
+    "text": "and then really understand, like,\nwhat can you do about it?",
+    "start": 1989.963,
+    "duration": 4.467
+  },
+  {
+    "text": "I think this NDI measure",
+    "start": 1994.43,
+    "duration": 2.8
+  },
+  {
+    "text": "is a really interesting one.",
+    "start": 1997.263,
+    "duration": 1.867
+  },
+  {
+    "text": "It takes some time to go do it,",
+    "start": 1999.13,
+    "duration": 1.833
+  },
+  {
+    "text": "because you have to be quite thorough",
+    "start": 2000.997,
+    "duration": 2.7
+  },
+  {
+    "text": "and you have to really understand\nliving expenses by location",
+    "start": 2003.73,
+    "duration": 5.467
+  },
+  {
+    "text": "and what tax jurisdictions there are.",
+    "start": 2009.23,
+    "duration": 3.2
+  },
+  {
+    "text": "But you need to create an NDI",
+    "start": 2012.463,
+    "duration": 4.2
+  },
+  {
+    "text": "that's to a certain level",
+    "start": 2016.663,
+    "duration": 2.167
+  },
+  {
+    "text": "where people aren't struggling\nto make ends meet.",
+    "start": 2018.863,
+    "duration": 2.334
+  },
+  {
+    "text": "Because if people are struggling\nto make ends meet,",
+    "start": 2021.23,
+    "duration": 2.4
+  },
+  {
+    "text": "they are not as productive at work.",
+    "start": 2023.663,
+    "duration": 1.767
+  },
+  {
+    "text": "They're worried about, like,\nwhat am I going to do with my kids?",
+    "start": 2025.463,
+    "duration": 3.067
+  },
+  {
+    "text": "My kid just got sick.\nI don't have health insurance.",
+    "start": 2028.53,
+    "duration": 2.567
+  },
+  {
+    "text": "I think there's a spiral that occurs.",
+    "start": 2031.13,
+    "duration": 3.233
+  },
+  {
+    "text": "You think you're actually saving money",
+    "start": 2034.397,
+    "duration": 2.566
+  },
+  {
+    "text": "by paying less,",
+    "start": 2036.963,
+    "duration": 1.534
+  },
+  {
+    "text": "but the reality is,",
+    "start": 2038.53,
+    "duration": 2.033
+  },
+  {
+    "text": "at least in my belief system,",
+    "start": 2040.597,
+    "duration": 2.433
+  },
+  {
+    "text": "you take care of your employees,",
+    "start": 2043.03,
+    "duration": 2.467
+  },
+  {
+    "text": "and other things naturally flow from that.",
+    "start": 2045.497,
+    "duration": 3.2
+  },
+  {
+    "text": "They are more productive.",
+    "start": 2048.73,
+    "duration": 2.4
+  },
+  {
+    "text": "They love being a part of that company.",
+    "start": 2051.13,
+    "duration": 3.967
+  },
+  {
+    "text": "They take care of customers better.",
+    "start": 2055.13,
+    "duration": 2.167
+  },
+  {
+    "text": "And all of those things",
+    "start": 2057.33,
+    "duration": 2.033
+  },
+  {
+    "text": "inevitably accrue\nto the benefit of a company",
+    "start": 2059.363,
+    "duration": 5.234
+  },
+  {
+    "text": "in terms of how it's trying\nto serve its ultimate end market.",
+    "start": 2064.63,
+    "duration": 3.433
+  },
+  {
+    "text": "But it starts with your employees.",
+    "start": 2068.097,
+    "duration": 2.366
+  },
+  {
+    "text": "CH: So obviously you believe\nin this \"capitalism needs an upgrade,\"",
+    "start": 2071.897,
+    "duration": 5.2
+  },
+  {
+    "text": "and I think NDI is something\nso many companies should adopt.",
+    "start": 2077.13,
+    "duration": 3.967
+  },
+  {
+    "text": "But do you think this happens\nthrough benevolent corporate activity?",
+    "start": 2081.13,
+    "duration": 5.333
+  },
+  {
+    "text": "I'm channeling my inner Bernie Bro here,",
+    "start": 2086.497,
+    "duration": 2.666
+  },
+  {
+    "text": "but I think a lot of people\nwould be skeptical",
+    "start": 2089.197,
+    "duration": 2.166
+  },
+  {
+    "text": "that we should trust companies\nto do better at this point.",
+    "start": 2091.397,
+    "duration": 3.7
+  },
+  {
+    "text": "Should the government step in\nto raise minimum wages,",
+    "start": 2095.097,
+    "duration": 4.133
+  },
+  {
+    "text": "do other things to protect workers\nin a more structured way?",
+    "start": 2099.263,
+    "duration": 3.234
+  },
+  {
+    "text": "DS: Look, I think the government\nclearly has a role to play,",
+    "start": 2103.997,
+    "duration": 4.4
+  },
+  {
+    "text": "and I think the private and public sectors",
+    "start": 2108.43,
+    "duration": 4.967
+  },
+  {
+    "text": "need to work closer together",
+    "start": 2113.43,
+    "duration": 2.967
+  },
+  {
+    "text": "to address so many of the issues",
+    "start": 2116.43,
+    "duration": 4.433
+  },
+  {
+    "text": "that we face in our societies\nacross the world,",
+    "start": 2120.897,
+    "duration": 5.0
+  },
+  {
+    "text": "whether that be income inequality,",
+    "start": 2125.93,
+    "duration": 3.3
+  },
+  {
+    "text": "environmental issues,",
+    "start": 2129.263,
+    "duration": 3.234
+  },
+  {
+    "text": "health,",
+    "start": 2132.53,
+    "duration": 1.633
+  },
+  {
+    "text": "protections, that kind of thing,",
+    "start": 2134.197,
+    "duration": 1.8
+  },
+  {
+    "text": "privacy.",
+    "start": 2136.03,
+    "duration": 1.833
+  },
+  {
+    "text": "But the way that I think about this is,",
+    "start": 2138.497,
+    "duration": 5.466
+  },
+  {
+    "text": "it's very difficult for governments\nto regulate around this,",
+    "start": 2143.997,
+    "duration": 3.066
+  },
+  {
+    "text": "because there are so many\ndifferent ways of thinking about it.",
+    "start": 2147.097,
+    "duration": 3.666
+  },
+  {
+    "text": "If I were another CEO,",
+    "start": 2151.763,
+    "duration": 3.434
+  },
+  {
+    "text": "and this is like,",
+    "start": 2155.23,
+    "duration": 1.4
+  },
+  {
+    "text": "it's actually in your best interest",
+    "start": 2156.663,
+    "duration": 3.667
+  },
+  {
+    "text": "to go and do this",
+    "start": 2160.363,
+    "duration": 1.867
+  },
+  {
+    "text": "because it's a competitive advantage.",
+    "start": 2162.263,
+    "duration": 2.834
+  },
+  {
+    "text": "Like, we attract, I think,",
+    "start": 2165.13,
+    "duration": 3.6
+  },
+  {
+    "text": "some of the best talent in the world",
+    "start": 2168.763,
+    "duration": 3.734
+  },
+  {
+    "text": "to PayPal,",
+    "start": 2172.53,
+    "duration": 1.867
+  },
+  {
+    "text": "because we have a mission\nthat people believe in,",
+    "start": 2174.43,
+    "duration": 2.9
+  },
+  {
+    "text": "that we actually are trying to make\nsome sort of positive difference.",
+    "start": 2177.363,
+    "duration": 3.334
+  },
+  {
+    "text": "I'm not saying we're\nthe be-all and end-all,",
+    "start": 2180.73,
+    "duration": 2.9
+  },
+  {
+    "text": "but I don't think people\nshould shirk their responsibilities",
+    "start": 2183.663,
+    "duration": 3.134
+  },
+  {
+    "text": "of at least making a small difference",
+    "start": 2186.83,
+    "duration": 2.833
+  },
+  {
+    "text": "going forward.",
+    "start": 2189.697,
+    "duration": 1.433
+  },
+  {
+    "text": "If enough companies did that,\nif enough governments did that,",
+    "start": 2191.163,
+    "duration": 3.067
+  },
+  {
+    "text": "it would make a real difference",
+    "start": 2194.263,
+    "duration": 2.134
+  },
+  {
+    "text": "in the world.",
+    "start": 2196.397,
+    "duration": 1.433
+  },
+  {
+    "text": "And then the second thing is,",
+    "start": 2197.863,
+    "duration": 1.567
+  },
+  {
+    "text": "you have to have values that support that.",
+    "start": 2199.463,
+    "duration": 2.4
+  },
+  {
+    "text": "And those values are incredibly important.",
+    "start": 2201.863,
+    "duration": 2.1
+  },
+  {
+    "text": "Those values should be\nall about inclusion.",
+    "start": 2203.997,
+    "duration": 2.9
+  },
+  {
+    "text": "They should be about\nhaving a diverse workforce.",
+    "start": 2206.93,
+    "duration": 3.433
+  },
+  {
+    "text": "They should be about financial wellness.",
+    "start": 2210.397,
+    "duration": 3.266
+  },
+  {
+    "text": "And when you do that,",
+    "start": 2213.663,
+    "duration": 1.934
+  },
+  {
+    "text": "and you attract the very best talent,",
+    "start": 2215.63,
+    "duration": 2.633
+  },
+  {
+    "text": "then by definition,",
+    "start": 2218.263,
+    "duration": 2.267
+  },
+  {
+    "text": "I think the single biggest\ncompetitive advantage for any company",
+    "start": 2220.563,
+    "duration": 5.467
+  },
+  {
+    "text": "is their workforce.",
+    "start": 2226.063,
+    "duration": 1.834
+  },
+  {
+    "text": "Strategies are great.",
+    "start": 2227.93,
+    "duration": 3.133
+  },
+  {
+    "text": "A whole number of things are great.",
+    "start": 2231.097,
+    "duration": 1.733
+  },
+  {
+    "text": "You have a great workforce",
+    "start": 2232.863,
+    "duration": 2.067
+  },
+  {
+    "text": "that's passionate about what they're doing",
+    "start": 2234.963,
+    "duration": 2.034
+  },
+  {
+    "text": "and is financially secure,",
+    "start": 2236.997,
+    "duration": 1.6
+  },
+  {
+    "text": "and they will do amazing things.",
+    "start": 2238.63,
+    "duration": 2.4
+  },
+  {
+    "text": "And I think it's that kind\nof competitive advantage",
+    "start": 2241.063,
+    "duration": 3.367
+  },
+  {
+    "text": "that will spur companies.",
+    "start": 2244.463,
+    "duration": 1.934
+  },
+  {
+    "text": "So there needs to be",
+    "start": 2246.397,
+    "duration": 2.2
+  },
+  {
+    "text": "a set of CEOs and companies",
+    "start": 2250.063,
+    "duration": 5.067
+  },
+  {
+    "text": "that start to move in this direction,",
+    "start": 2255.163,
+    "duration": 1.934
+  },
+  {
+    "text": "and I believe you're beginning\nto see more do this.",
+    "start": 2257.13,
+    "duration": 4.767
+  },
+  {
+    "text": "And once that happens,",
+    "start": 2261.897,
+    "duration": 1.5
+  },
+  {
+    "text": "it starts to tip everything,",
+    "start": 2263.43,
+    "duration": 1.9
+  },
+  {
+    "text": "and I think more and more need to do it",
+    "start": 2265.33,
+    "duration": 3.433
+  },
+  {
+    "text": "to maintain their competitive positioning.",
+    "start": 2268.763,
+    "duration": 3.167
+  },
+  {
+    "text": "And that may seem like a self-serving way\nwhy people are doing it,",
+    "start": 2271.963,
+    "duration": 4.467
+  },
+  {
+    "text": "but honestly,",
+    "start": 2276.463,
+    "duration": 1.467
+  },
+  {
+    "text": "I don't care whether they're doing\nit out of the goodness of their heart",
+    "start": 2277.963,
+    "duration": 3.5
+  },
+  {
+    "text": "or they're doing it\nbecause it's competitively a disadvantage",
+    "start": 2281.497,
+    "duration": 3.433
+  },
+  {
+    "text": "if they don't.",
+    "start": 2284.963,
+    "duration": 1.334
+  },
+  {
+    "text": "Creating financial health\nfor our employees is the goal,",
+    "start": 2286.33,
+    "duration": 4.733
+  },
+  {
+    "text": "and we've got to get that done.",
+    "start": 2291.097,
+    "duration": 1.633
+  },
+  {
+    "text": "CH: Yeah. I mean, it sounds like\nyou think of this as a win-win,",
+    "start": 2294.83,
+    "duration": 5.233
+  },
+  {
+    "text": "but it also sounds like you're willing\nto maybe think about your employees first",
+    "start": 2300.097,
+    "duration": 5.6
+  },
+  {
+    "text": "and sell it to your shareholders later.",
+    "start": 2305.697,
+    "duration": 3.266
+  },
+  {
+    "text": "Whitney is -- oh sorry, go ahead.",
+    "start": 2308.997,
+    "duration": 3.266
+  },
+  {
+    "text": "DS: No, no, no -- I was just going to say,",
+    "start": 2312.297,
+    "duration": 2.033
+  },
+  {
+    "text": "I actually do believe that,",
+    "start": 2314.363,
+    "duration": 1.834
+  },
+  {
+    "text": "and I think the idea\nof a multistakeholder capitalism,",
+    "start": 2316.23,
+    "duration": 7.0
+  },
+  {
+    "text": "that is a time for today,",
+    "start": 2323.23,
+    "duration": 2.533
+  },
+  {
+    "text": "and we cannot just think",
+    "start": 2325.763,
+    "duration": 5.767
+  },
+  {
+    "text": "that we have one stakeholder\nthat we need to satisfy.",
+    "start": 2331.563,
+    "duration": 3.367
+  },
+  {
+    "text": "We live in our communities,\nwe live in this world.",
+    "start": 2334.963,
+    "duration": 5.667
+  },
+  {
+    "text": "To have people struggling\nday in and day out",
+    "start": 2340.663,
+    "duration": 3.234
+  },
+  {
+    "text": "is not good for any company, and ...",
+    "start": 2343.93,
+    "duration": 4.333
+  },
+  {
+    "text": "We can only do x amount,",
+    "start": 2348.297,
+    "duration": 1.766
+  },
+  {
+    "text": "but we can actually create\nfinancial health for our employees,",
+    "start": 2350.097,
+    "duration": 4.733
+  },
+  {
+    "text": "and we should.",
+    "start": 2354.863,
+    "duration": 1.2
+  },
+  {
+    "text": "WPR: Great. So we have so many questions\ncoming in from the community.",
+    "start": 2357.997,
+    "duration": 3.333
+  },
+  {
+    "text": "One here is from Lara Pearson,",
+    "start": 2361.33,
+    "duration": 2.367
+  },
+  {
+    "text": "basically about whether PayPal\nwould consider become a B Corporation.",
+    "start": 2363.697,
+    "duration": 3.466
+  },
+  {
+    "text": "\"Are you familiar with\nthe B Corp movement,",
+    "start": 2367.197,
+    "duration": 2.033
+  },
+  {
+    "text": "environmentally and socially responsible,\nmultiple-bottom-line for profits?",
+    "start": 2369.263,
+    "duration": 3.6
+  },
+  {
+    "text": "Presuming so, has PayPal considered\nor would it consider",
+    "start": 2372.897,
+    "duration": 2.666
+  },
+  {
+    "text": "becoming a certified B Corporation?\"",
+    "start": 2375.597,
+    "duration": 1.866
+  },
+  {
+    "text": "DS: Yep. I'm familiar with B Corp.",
+    "start": 2378.063,
+    "duration": 3.367
+  },
+  {
+    "text": "We have no intention to move",
+    "start": 2381.463,
+    "duration": 3.034
+  },
+  {
+    "text": "to becoming a B Corporation.",
+    "start": 2384.497,
+    "duration": 3.2
+  },
+  {
+    "text": "I think the values\nand what we are trying to do",
+    "start": 2387.73,
+    "duration": 5.733
+  },
+  {
+    "text": "are very aligned with assuring\na multistakeholder point of view,",
+    "start": 2393.497,
+    "duration": 5.3
+  },
+  {
+    "text": "but what I really want",
+    "start": 2398.83,
+    "duration": 2.7
+  },
+  {
+    "text": "is for this to be a movement",
+    "start": 2401.563,
+    "duration": 1.767
+  },
+  {
+    "text": "across major corporations\nacross the world.",
+    "start": 2403.363,
+    "duration": 6.9
+  },
+  {
+    "text": "And you're not going to have\nmajor corporations around the world",
+    "start": 2410.297,
+    "duration": 3.133
+  },
+  {
+    "text": "moving into B Corp.",
+    "start": 2413.43,
+    "duration": 1.833
+  },
+  {
+    "text": "There's a lot of other\nside issues involved",
+    "start": 2415.263,
+    "duration": 6.567
+  },
+  {
+    "text": "with being a B Corporation",
+    "start": 2421.83,
+    "duration": 1.733
+  },
+  {
+    "text": "as opposed to just\na publicly listed company,",
+    "start": 2423.597,
+    "duration": 4.5
+  },
+  {
+    "text": "and so that's going to be\na long way before that happens.",
+    "start": 2428.097,
+    "duration": 4.966
+  },
+  {
+    "text": "And so what I'm\nreally trying to do is",
+    "start": 2433.097,
+    "duration": 3.366
+  },
+  {
+    "text": "encourage and demonstrate",
+    "start": 2436.463,
+    "duration": 5.367
+  },
+  {
+    "text": "that being multistakeholder,",
+    "start": 2441.863,
+    "duration": 2.667
+  },
+  {
+    "text": "that putting employees first,",
+    "start": 2444.563,
+    "duration": 2.1
+  },
+  {
+    "text": "creates competitive advantage.",
+    "start": 2446.663,
+    "duration": 2.5
+  },
+  {
+    "text": "And I think I'm not the only CEO\nwho's feeling that, by the way.",
+    "start": 2449.197,
+    "duration": 6.9
+  },
+  {
+    "text": "I think people like Satya Nadella\nfrom Microsoft are doing a great job,",
+    "start": 2456.13,
+    "duration": 3.567
+  },
+  {
+    "text": "Marc Benioff from Salesforce.",
+    "start": 2459.697,
+    "duration": 5.033
+  },
+  {
+    "text": "I could go through quite a list of names.",
+    "start": 2464.763,
+    "duration": 3.334
+  },
+  {
+    "text": "But the list is not long enough yet,",
+    "start": 2468.13,
+    "duration": 2.633
+  },
+  {
+    "text": "but I think there's some\nquite important names",
+    "start": 2470.763,
+    "duration": 5.434
+  },
+  {
+    "text": "and individuals around the world",
+    "start": 2476.197,
+    "duration": 1.566
+  },
+  {
+    "text": "who are now talking about\nmultistakeholder capitalism,",
+    "start": 2477.797,
+    "duration": 6.633
+  },
+  {
+    "text": "and I think that's an important element\nas we think about our economies",
+    "start": 2484.43,
+    "duration": 4.467
+  },
+  {
+    "text": "and way of life looking forward.",
+    "start": 2488.93,
+    "duration": 3.8
+  },
+  {
+    "text": "WPR: And there was so much interest also\nin your net disposable income program",
+    "start": 2494.763,
+    "duration": 4.434
+  },
+  {
+    "text": "and a lot of questions around that,",
+    "start": 2499.23,
+    "duration": 1.733
+  },
+  {
+    "text": "and one which I think is\nalong these same lines from Juan Enriquez",
+    "start": 2500.997,
+    "duration": 3.566
+  },
+  {
+    "text": "asking about a rational way\nto address extreme income disparities.",
+    "start": 2504.597,
+    "duration": 3.366
+  },
+  {
+    "text": "And perhaps you could expand\nbeyond this program,",
+    "start": 2507.997,
+    "duration": 2.9
+  },
+  {
+    "text": "just sort of ways\nthat we might think about this",
+    "start": 2510.897,
+    "duration": 2.666
+  },
+  {
+    "text": "in a smarter way moving forward.",
+    "start": 2513.563,
+    "duration": 2.667
+  },
+  {
+    "text": "DS: Yeah.",
+    "start": 2517.397,
+    "duration": 2.966
+  },
+  {
+    "text": "Well, there's no easy solution,\nor it would have been done.",
+    "start": 2522.063,
+    "duration": 6.8
+  },
+  {
+    "text": "So I think there are a couple things\nthat I think about",
+    "start": 2528.897,
+    "duration": 3.2
+  },
+  {
+    "text": "that may not fully address\nextreme income disparities.",
+    "start": 2532.13,
+    "duration": 4.0
+  },
+  {
+    "text": "Again, I try to think pragmatically\nabout these things,",
+    "start": 2536.13,
+    "duration": 6.867
+  },
+  {
+    "text": "and, like, what can we really do\nto start to address this?",
+    "start": 2543.03,
+    "duration": 3.867
+  },
+  {
+    "text": "And again, I think about,",
+    "start": 2546.897,
+    "duration": 1.7
+  },
+  {
+    "text": "if we could take one step\nand then another step,",
+    "start": 2548.63,
+    "duration": 3.0
+  },
+  {
+    "text": "then you're starting your journey,",
+    "start": 2551.663,
+    "duration": 3.1
+  },
+  {
+    "text": "and without getting overwhelmed\nby how far away the end state is.",
+    "start": 2554.763,
+    "duration": 6.4
+  },
+  {
+    "text": "So one, I think companies\nneed to take care of their employees,",
+    "start": 2561.197,
+    "duration": 3.8
+  },
+  {
+    "text": "and I think that will\nimmediately help to address",
+    "start": 2564.997,
+    "duration": 2.766
+  },
+  {
+    "text": "some of these income disparities.",
+    "start": 2567.763,
+    "duration": 2.367
+  },
+  {
+    "text": "Number two, I do think that,",
+    "start": 2570.163,
+    "duration": 4.6
+  },
+  {
+    "text": "ironically, if you have less money,",
+    "start": 2574.797,
+    "duration": 6.966
+  },
+  {
+    "text": "it costs you more to manage and move it,",
+    "start": 2581.797,
+    "duration": 3.966
+  },
+  {
+    "text": "which, think about that:",
+    "start": 2585.797,
+    "duration": 3.433
+  },
+  {
+    "text": "the less money you have,\nif you're outside the financial system,",
+    "start": 2589.263,
+    "duration": 3.1
+  },
+  {
+    "text": "the more you spend to manage\nand move your money.",
+    "start": 2592.363,
+    "duration": 3.8
+  },
+  {
+    "text": "And I think that technology",
+    "start": 2596.197,
+    "duration": 6.133
+  },
+  {
+    "text": "is at least a foundational way\nfor us to think about",
+    "start": 2602.33,
+    "duration": 3.667
+  },
+  {
+    "text": "how do we cut the basic costs\nof managing and moving money",
+    "start": 2606.03,
+    "duration": 5.9
+  },
+  {
+    "text": "by 50 to 70 percent,",
+    "start": 2611.963,
+    "duration": 1.734
+  },
+  {
+    "text": "like [check-cashing],",
+    "start": 2613.73,
+    "duration": 2.0
+  },
+  {
+    "text": "sending remittances,",
+    "start": 2615.763,
+    "duration": 1.7
+  },
+  {
+    "text": "which are such a huge,\nimportant part of the world's economy.",
+    "start": 2617.463,
+    "duration": 5.8
+  },
+  {
+    "text": "You know, you do it a traditional way,",
+    "start": 2623.297,
+    "duration": 2.6
+  },
+  {
+    "text": "you go into a store",
+    "start": 2625.93,
+    "duration": 2.5
+  },
+  {
+    "text": "and send the remittance to another store\nand somebody goes and picks it up.",
+    "start": 2628.463,
+    "duration": 3.567
+  },
+  {
+    "text": "First of all, incredibly time-consuming,",
+    "start": 2632.063,
+    "duration": 2.3
+  },
+  {
+    "text": "and it can cost between\neight and 12 percent",
+    "start": 2634.397,
+    "duration": 3.066
+  },
+  {
+    "text": "of that remittance amount\nthat you're sending.",
+    "start": 2637.463,
+    "duration": 2.767
+  },
+  {
+    "text": "So if you're sending a hundred dollars,",
+    "start": 2640.23,
+    "duration": 2.1
+  },
+  {
+    "text": "the recipient who so desperately needs it",
+    "start": 2642.363,
+    "duration": 3.234
+  },
+  {
+    "text": "is getting 88 to 90 dollars.",
+    "start": 2645.63,
+    "duration": 2.7
+  },
+  {
+    "text": "If you do that electronically,\ndigital wallet to digital wallet,",
+    "start": 2648.363,
+    "duration": 4.334
+  },
+  {
+    "text": "that can be like three percent,",
+    "start": 2652.73,
+    "duration": 1.9
+  },
+  {
+    "text": "so you can get 97 dollars from that.",
+    "start": 2654.663,
+    "duration": 2.567
+  },
+  {
+    "text": "And so I think there are ways\nof addressing the costs.",
+    "start": 2657.263,
+    "duration": 6.467
+  },
+  {
+    "text": "As I mentioned,",
+    "start": 2663.763,
+    "duration": 1.267
+  },
+  {
+    "text": "there is so much money\nspent on unnecessary fees",
+    "start": 2665.063,
+    "duration": 5.0
+  },
+  {
+    "text": "and high interest rates,",
+    "start": 2670.097,
+    "duration": 1.566
+  },
+  {
+    "text": "and if we can drop that\nby 20 percent, 30 percent,",
+    "start": 2671.663,
+    "duration": 3.267
+  },
+  {
+    "text": "the amount of money we can return\nto vulnerable populations is quite large",
+    "start": 2674.963,
+    "duration": 4.9
+  },
+  {
+    "text": "and will start to make a difference.",
+    "start": 2679.897,
+    "duration": 2.166
+  },
+  {
+    "text": "WPR: That's great.",
+    "start": 2683.397,
+    "duration": 1.166
+  },
+  {
+    "text": "We have a ton of questions\nfrom the audience,",
+    "start": 2684.597,
+    "duration": 2.1
+  },
+  {
+    "text": "just one more before we turn things\nback over to Corey",
+    "start": 2686.73,
+    "duration": 2.567
+  },
+  {
+    "text": "with her final questions.",
+    "start": 2689.33,
+    "duration": 1.3
+  },
+  {
+    "text": "This one is from Anna Tunkel,",
+    "start": 2690.63,
+    "duration": 1.467
+  },
+  {
+    "text": "which is just, I think, as we are rounding\nto the end of the interview here,",
+    "start": 2692.097,
+    "duration": 4.2
+  },
+  {
+    "text": "\"What are you most optimistic about,",
+    "start": 2696.33,
+    "duration": 2.567
+  },
+  {
+    "text": "and what do you see\nas the biggest opportunities",
+    "start": 2698.897,
+    "duration": 3.033
+  },
+  {
+    "text": "for 'Building Back Better' after COVID?\"",
+    "start": 2701.963,
+    "duration": 2.267
+  },
+  {
+    "text": "DS: Well, I mean,",
+    "start": 2706.263,
+    "duration": 1.167
+  },
+  {
+    "text": "one thing I'm actually optimistic about --",
+    "start": 2707.463,
+    "duration": 4.767
+  },
+  {
+    "text": "and I've always been a believer\nin the human spirit",
+    "start": 2712.23,
+    "duration": 5.633
+  },
+  {
+    "text": "and the power of an individual\nto make a difference.",
+    "start": 2717.897,
+    "duration": 6.1
+  },
+  {
+    "text": "I know that sounds very cliché,\nbut I truly believe it,",
+    "start": 2724.963,
+    "duration": 4.367
+  },
+  {
+    "text": "and I think every one of us\ncan make a difference.",
+    "start": 2729.363,
+    "duration": 2.367
+  },
+  {
+    "text": "But here's what I'm seeing.",
+    "start": 2731.763,
+    "duration": 1.334
+  },
+  {
+    "text": "I'm beginning to see that\nat a much larger scale",
+    "start": 2733.13,
+    "duration": 4.1
+  },
+  {
+    "text": "than I've ever seen before.",
+    "start": 2737.263,
+    "duration": 1.567
+  },
+  {
+    "text": "You know, we have different platforms,",
+    "start": 2738.863,
+    "duration": 1.8
+  },
+  {
+    "text": "either the PayPal platform\nor the Venmo platform,",
+    "start": 2740.697,
+    "duration": 2.333
+  },
+  {
+    "text": "Venmo here in the US,\nPayPal across the world.",
+    "start": 2743.063,
+    "duration": 3.7
+  },
+  {
+    "text": "The amount of giving that's happening\nthrough those platforms,",
+    "start": 2746.797,
+    "duration": 5.266
+  },
+  {
+    "text": "whether it be to local businesses,",
+    "start": 2752.063,
+    "duration": 2.467
+  },
+  {
+    "text": "to artists, to musicians,",
+    "start": 2754.563,
+    "duration": 3.367
+  },
+  {
+    "text": "to bartenders,",
+    "start": 2757.963,
+    "duration": 1.834
+  },
+  {
+    "text": "to places of worship, to schools,",
+    "start": 2759.83,
+    "duration": 3.6
+  },
+  {
+    "text": "to NGOs, to charities",
+    "start": 2763.43,
+    "duration": 2.967
+  },
+  {
+    "text": "has exploded on the platform, exploded.",
+    "start": 2766.43,
+    "duration": 3.433
+  },
+  {
+    "text": "We have helped to raise\non the PayPal platform",
+    "start": 2769.897,
+    "duration": 4.833
+  },
+  {
+    "text": "since COVID-19 struck",
+    "start": 2774.763,
+    "duration": 2.467
+  },
+  {
+    "text": "2.8 billion dollars\nfor NGOs and charities --",
+    "start": 2777.263,
+    "duration": 5.267
+  },
+  {
+    "text": "2.8 billion.",
+    "start": 2782.563,
+    "duration": 1.4
+  },
+  {
+    "text": "That's incredible,",
+    "start": 2783.997,
+    "duration": 2.133
+  },
+  {
+    "text": "the amount of generosity\nthat is pouring out",
+    "start": 2786.163,
+    "duration": 3.334
+  },
+  {
+    "text": "from the global community around this.",
+    "start": 2789.53,
+    "duration": 2.6
+  },
+  {
+    "text": "And we're just seeing people\nrandomly pay it forward.",
+    "start": 2792.163,
+    "duration": 6.334
+  },
+  {
+    "text": "Somebody gives 20 dollars to a bartender,",
+    "start": 2798.53,
+    "duration": 4.133
+  },
+  {
+    "text": "and that bartender takes\n10 dollars of that",
+    "start": 2802.663,
+    "duration": 2.3
+  },
+  {
+    "text": "and gives it to somebody else.",
+    "start": 2804.997,
+    "duration": 1.633
+  },
+  {
+    "text": "And we're watching that over our platform,",
+    "start": 2806.63,
+    "duration": 4.067
+  },
+  {
+    "text": "and that gives me a sense of optimism.",
+    "start": 2810.697,
+    "duration": 3.366
+  },
+  {
+    "text": "I also feel like this period of time",
+    "start": 2814.063,
+    "duration": 5.0
+  },
+  {
+    "text": "has exposed a number of things\nthat were happening",
+    "start": 2819.097,
+    "duration": 4.366
+  },
+  {
+    "text": "but were invisible,",
+    "start": 2823.497,
+    "duration": 1.733
+  },
+  {
+    "text": "and I think when things become visible,",
+    "start": 2825.23,
+    "duration": 3.467
+  },
+  {
+    "text": "that's when you can start to address them,",
+    "start": 2828.697,
+    "duration": 2.533
+  },
+  {
+    "text": "and I think there's a lot of attention",
+    "start": 2831.263,
+    "duration": 2.5
+  },
+  {
+    "text": "on some issues that\nshould have had attention before,",
+    "start": 2833.797,
+    "duration": 5.0
+  },
+  {
+    "text": "but vulnerable populations\ndon't have as loud a voice as others,",
+    "start": 2838.83,
+    "duration": 4.367
+  },
+  {
+    "text": "and now that voice is being heard,\nbecause you can't ignore it.",
+    "start": 2843.23,
+    "duration": 5.667
+  },
+  {
+    "text": "And hopefully, that will create progress",
+    "start": 2848.93,
+    "duration": 4.967
+  },
+  {
+    "text": "against some of these\nstructural inequalities",
+    "start": 2853.897,
+    "duration": 3.2
+  },
+  {
+    "text": "that have been there for a long time.",
+    "start": 2857.13,
+    "duration": 3.0
+  },
+  {
+    "text": "WPR: That's wonderful.",
+    "start": 2862.763,
+    "duration": 1.8
+  },
+  {
+    "text": "And there's so much interest online.",
+    "start": 2864.597,
+    "duration": 2.6
+  },
+  {
+    "text": "You have some other questions\nto ask as well.",
+    "start": 2867.23,
+    "duration": 4.367
+  },
+  {
+    "text": "CH: So I think we have one more\nfrom our community",
+    "start": 2871.63,
+    "duration": 2.833
+  },
+  {
+    "text": "from Jacqueline Ashby.",
+    "start": 2874.497,
+    "duration": 2.466
+  },
+  {
+    "text": "Anna sort of stole my last question,",
+    "start": 2876.997,
+    "duration": 2.433
+  },
+  {
+    "text": "which was to restore\nour faith in humanity.",
+    "start": 2879.463,
+    "duration": 4.2
+  },
+  {
+    "text": "But, there's so much interest\ncoming in about NDI.",
+    "start": 2883.697,
+    "duration": 2.466
+  },
+  {
+    "text": "Is there a way for people to learn more,",
+    "start": 2886.197,
+    "duration": 2.366
+  },
+  {
+    "text": "for you to share your study\nand your methodology?",
+    "start": 2888.597,
+    "duration": 3.2
+  },
+  {
+    "text": "DS: Happy to do so.",
+    "start": 2892.63,
+    "duration": 1.5
+  },
+  {
+    "text": "There is nothing proprietary about it.",
+    "start": 2894.13,
+    "duration": 2.533
+  },
+  {
+    "text": "We would love for this to be --",
+    "start": 2896.697,
+    "duration": 4.166
+  },
+  {
+    "text": "look, and this may not be\nthe be-all and end-all measurement.",
+    "start": 2900.897,
+    "duration": 4.333
+  },
+  {
+    "text": "It's the best one we could come up with,",
+    "start": 2905.23,
+    "duration": 2.7
+  },
+  {
+    "text": "but if working within the community,",
+    "start": 2907.963,
+    "duration": 2.667
+  },
+  {
+    "text": "we can evolve it and think about\nmaybe things that it missed",
+    "start": 2910.63,
+    "duration": 5.133
+  },
+  {
+    "text": "or maybe things that could be done better,",
+    "start": 2915.797,
+    "duration": 3.833
+  },
+  {
+    "text": "that would be fantastic.",
+    "start": 2919.63,
+    "duration": 1.2
+  },
+  {
+    "text": "I don't know the best way of doing that.",
+    "start": 2920.863,
+    "duration": 2.967
+  },
+  {
+    "text": "I'll leave that to Corey and Whitney\nto help me think that through,",
+    "start": 2923.863,
+    "duration": 4.734
+  },
+  {
+    "text": "but of course we'd be willing to share it.",
+    "start": 2928.63,
+    "duration": 2.267
+  },
+  {
+    "text": "There is nothing about that\nthat I don't want to share.",
+    "start": 2930.93,
+    "duration": 3.967
+  },
+  {
+    "text": "CH: Sounds like a good TED Talk.",
+    "start": 2935.563,
+    "duration": 2.167
+  },
+  {
+    "text": "Thank you so much, Dan. This has been\na super-interesting conversation.",
+    "start": 2940.663,
+    "duration": 4.434
+  },
+  {
+    "text": "I think we could talk for another hour,",
+    "start": 2945.097,
+    "duration": 2.933
+  },
+  {
+    "text": "but thank you so much for being here.",
+    "start": 2948.063,
+    "duration": 2.4
+  },
+  {
+    "text": "DS: Thank you, Corey. Thank you, Whitney.\nThank you, everybody.",
+    "start": 2951.43,
+    "duration": 2.967
+  },
+  {
+    "text": "WPR: Thank you, Dan. Thank you.",
+    "start": 2954.43,
+    "duration": 1.6
+  }
+]

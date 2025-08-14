@@ -1,0 +1,1757 @@
+[
+  {
+    "text": "Transcriber: Leslie Gauthier\nReviewer: Krystian Aparta",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "So data and analytics are dramatically\nchanging our everyday lives.",
+    "start": 12.513,
+    "duration": 4.494
+  },
+  {
+    "text": "Not just online,",
+    "start": 17.566,
+    "duration": 1.173
+  },
+  {
+    "text": "not just in some distant future,",
+    "start": 18.763,
+    "duration": 2.334
+  },
+  {
+    "text": "but in the physical world,",
+    "start": 21.121,
+    "duration": 1.322
+  },
+  {
+    "text": "and in very real and tangible ways.",
+    "start": 22.467,
+    "duration": 2.769
+  },
+  {
+    "text": "I spent the past 11 years\nof my life as a geek at MIT,",
+    "start": 25.897,
+    "duration": 4.205
+  },
+  {
+    "text": "working in big data labs",
+    "start": 30.126,
+    "duration": 1.406
+  },
+  {
+    "text": "that seek to use data science\nto study the physical world",
+    "start": 31.556,
+    "duration": 3.776
+  },
+  {
+    "text": "and try to solve society's great problems.",
+    "start": 35.356,
+    "duration": 2.174
+  },
+  {
+    "text": "The field of big data seeks to analyze\nmassive pools of data",
+    "start": 38.985,
+    "duration": 3.936
+  },
+  {
+    "text": "using computational tools\nto find patterns and trends.",
+    "start": 42.945,
+    "duration": 3.92
+  },
+  {
+    "text": "Data can be a really\nextraordinary storyteller,",
+    "start": 47.561,
+    "duration": 3.015
+  },
+  {
+    "text": "unveiling the hidden narratives\nof things in our everyday lives",
+    "start": 50.6,
+    "duration": 2.97
+  },
+  {
+    "text": "that we never would have seen.",
+    "start": 53.594,
+    "duration": 1.466
+  },
+  {
+    "text": "I find the personal stories of inanimate\nthings brought to life",
+    "start": 55.439,
+    "duration": 3.797
+  },
+  {
+    "text": "to be extraordinarily compelling.",
+    "start": 59.26,
+    "duration": 1.672
+  },
+  {
+    "text": "I want to highlight, first,\ntwo projects from my time at MIT",
+    "start": 61.853,
+    "duration": 3.0
+  },
+  {
+    "text": "that I think highlight\nthis phenomenon really well.",
+    "start": 64.877,
+    "duration": 2.553
+  },
+  {
+    "text": "The first is called Trash Track,",
+    "start": 68.074,
+    "duration": 2.065
+  },
+  {
+    "text": "and in this project, we sought to better\nunderstand the waste-management system,",
+    "start": 70.163,
+    "duration": 3.977
+  },
+  {
+    "text": "to answer the question",
+    "start": 74.164,
+    "duration": 1.69
+  },
+  {
+    "text": "\"Where does your trash go\nwhen you throw it away?\"",
+    "start": 75.878,
+    "duration": 2.439
+  },
+  {
+    "text": "Your old coffee cup or that flip phone",
+    "start": 78.341,
+    "duration": 2.51
+  },
+  {
+    "text": "that you carried around\nin the early 2000s,",
+    "start": 80.875,
+    "duration": 2.429
+  },
+  {
+    "text": "or a bagel or this morning's paper --",
+    "start": 83.328,
+    "duration": 3.247
+  },
+  {
+    "text": "where do these things go?",
+    "start": 86.599,
+    "duration": 1.564
+  },
+  {
+    "text": "This data didn't exist,\nso we had to create it.",
+    "start": 88.652,
+    "duration": 2.881
+  },
+  {
+    "text": "We answered and then\nvisualized this question",
+    "start": 92.251,
+    "duration": 3.168
+  },
+  {
+    "text": "by installing small sensors\ninto pieces of trash",
+    "start": 95.443,
+    "duration": 3.497
+  },
+  {
+    "text": "and then throwing them\ninto the waste system.",
+    "start": 98.964,
+    "duration": 2.096
+  },
+  {
+    "text": "And what you're seeing here is the data.",
+    "start": 101.601,
+    "duration": 2.799
+  },
+  {
+    "text": "Every line, every node that you see",
+    "start": 104.903,
+    "duration": 2.776
+  },
+  {
+    "text": "is a single piece of trash\nmoving through the city of Seattle,",
+    "start": 107.703,
+    "duration": 3.472
+  },
+  {
+    "text": "and then across the state,",
+    "start": 111.199,
+    "duration": 2.306
+  },
+  {
+    "text": "and then across the country,",
+    "start": 113.529,
+    "duration": 1.651
+  },
+  {
+    "text": "as weeks and months go by.",
+    "start": 115.204,
+    "duration": 1.742
+  },
+  {
+    "text": "And it's important to visualize this data,",
+    "start": 117.606,
+    "duration": 2.065
+  },
+  {
+    "text": "because none of you\nare, probably, sitting here thinking,",
+    "start": 119.695,
+    "duration": 2.672
+  },
+  {
+    "text": "\"Yeah, that looks right.\"",
+    "start": 122.391,
+    "duration": 1.258
+  },
+  {
+    "text": "(Laughter)",
+    "start": 123.673,
+    "duration": 1.878
+  },
+  {
+    "text": "\"That's working like it should, right?\"",
+    "start": 125.575,
+    "duration": 1.858
+  },
+  {
+    "text": "Because, no --",
+    "start": 127.457,
+    "duration": 1.162
+  },
+  {
+    "text": "(Laughter)",
+    "start": 128.643,
+    "duration": 1.47
+  },
+  {
+    "text": "What the data shows us\nis a highly inefficient system",
+    "start": 130.582,
+    "duration": 4.033
+  },
+  {
+    "text": "whose inherent brokenness\nI don't think we really would have seen",
+    "start": 134.639,
+    "duration": 3.845
+  },
+  {
+    "text": "had the sensors not done\nthe journalism for us.",
+    "start": 138.508,
+    "duration": 2.881
+  },
+  {
+    "text": "A second project\nthat I'd have to highlight",
+    "start": 142.597,
+    "duration": 2.65
+  },
+  {
+    "text": "has to do with creating robots\nthat dive into sewers",
+    "start": 145.271,
+    "duration": 4.658
+  },
+  {
+    "text": "and sample wastewater.",
+    "start": 149.953,
+    "duration": 1.621
+  },
+  {
+    "text": "I know that sewage kind of gets a bad rap,",
+    "start": 152.306,
+    "duration": 2.695
+  },
+  {
+    "text": "but it's actually kind of awesome,",
+    "start": 155.025,
+    "duration": 1.845
+  },
+  {
+    "text": "because it can tell us\nan incredible amount",
+    "start": 156.894,
+    "duration": 2.001
+  },
+  {
+    "text": "about the health of our communities.",
+    "start": 158.919,
+    "duration": 1.74
+  },
+  {
+    "text": "This technology was spun out\nby a group call Biobot Analytics,",
+    "start": 160.683,
+    "duration": 3.251
+  },
+  {
+    "text": "who's creating a cutting-edge technology",
+    "start": 163.958,
+    "duration": 2.572
+  },
+  {
+    "text": "to turn our sewers into modern-day\nhealth observatories.",
+    "start": 166.554,
+    "duration": 4.163
+  },
+  {
+    "text": "Their goal is to study opioids\nwithin the sewage",
+    "start": 170.741,
+    "duration": 3.356
+  },
+  {
+    "text": "to better understand\nconsumption in cities.",
+    "start": 174.121,
+    "duration": 2.635
+  },
+  {
+    "text": "And this data is key,",
+    "start": 176.78,
+    "duration": 1.938
+  },
+  {
+    "text": "because it really helps cities understand\nwhere people are using,",
+    "start": 178.742,
+    "duration": 3.094
+  },
+  {
+    "text": "how to allocate resources",
+    "start": 181.86,
+    "duration": 1.874
+  },
+  {
+    "text": "and the effectiveness\nof programming over time.",
+    "start": 183.758,
+    "duration": 3.041
+  },
+  {
+    "text": "Once again, the technology\nthat's built into this machine",
+    "start": 187.502,
+    "duration": 2.917
+  },
+  {
+    "text": "is pulling back the curtain",
+    "start": 190.443,
+    "duration": 1.841
+  },
+  {
+    "text": "and showing us something about our cities\nthat we never would have seen without it.",
+    "start": 192.308,
+    "duration": 4.06
+  },
+  {
+    "text": "So it turns out, as we see,",
+    "start": 196.392,
+    "duration": 2.534
+  },
+  {
+    "text": "that big data is really everywhere --",
+    "start": 198.95,
+    "duration": 2.522
+  },
+  {
+    "text": "even in your toilet.",
+    "start": 201.496,
+    "duration": 1.243
+  },
+  {
+    "text": "And so now that we've talked\nabout trash and sewage,",
+    "start": 203.318,
+    "duration": 3.588
+  },
+  {
+    "text": "let's move on ...",
+    "start": 206.93,
+    "duration": 1.371
+  },
+  {
+    "text": "to food.",
+    "start": 208.325,
+    "duration": 1.208
+  },
+  {
+    "text": "(Laughter)",
+    "start": 209.557,
+    "duration": 1.151
+  },
+  {
+    "text": "A year ago, I left MIT\nto pursue a passion in food,",
+    "start": 210.732,
+    "duration": 3.656
+  },
+  {
+    "text": "and in 2017,",
+    "start": 214.412,
+    "duration": 1.241
+  },
+  {
+    "text": "started a company with my husband,\ncalled Family Dinner.",
+    "start": 215.677,
+    "duration": 2.933
+  },
+  {
+    "text": "The goal of our company\nis to create community around local food",
+    "start": 218.634,
+    "duration": 4.113
+  },
+  {
+    "text": "and the people who grow it.",
+    "start": 222.771,
+    "duration": 1.945
+  },
+  {
+    "text": "To make this happen,\nwe're using data analytics,",
+    "start": 224.74,
+    "duration": 2.537
+  },
+  {
+    "text": "automation and technology",
+    "start": 227.301,
+    "duration": 2.233
+  },
+  {
+    "text": "to build a distributed\nnetwork of local farms",
+    "start": 229.558,
+    "duration": 2.738
+  },
+  {
+    "text": "and to make improvements\non the food system.",
+    "start": 232.32,
+    "duration": 2.262
+  },
+  {
+    "text": "So what we see here",
+    "start": 235.187,
+    "duration": 1.652
+  },
+  {
+    "text": "is that the broad techniques\nand the mission of what we're trying to do",
+    "start": 236.863,
+    "duration": 3.484
+  },
+  {
+    "text": "is really not dissimilar\nfrom the work at the MIT labs.",
+    "start": 240.371,
+    "duration": 3.102
+  },
+  {
+    "text": "Which brings us to a critical question:",
+    "start": 244.309,
+    "duration": 2.676
+  },
+  {
+    "text": "Why exactly would someone\nleave a very promising career",
+    "start": 247.009,
+    "duration": 4.02
+  },
+  {
+    "text": "at one of the top\nurban science labs in the world",
+    "start": 251.053,
+    "duration": 4.193
+  },
+  {
+    "text": "to drive carrots around\nin her mom's Acura?",
+    "start": 255.27,
+    "duration": 2.653
+  },
+  {
+    "text": "(Laughter)",
+    "start": 257.947,
+    "duration": 1.74
+  },
+  {
+    "text": "It's a great car.",
+    "start": 260.241,
+    "duration": 1.196
+  },
+  {
+    "text": "Because I believe\nthat the story of local food",
+    "start": 262.496,
+    "duration": 2.764
+  },
+  {
+    "text": "needs to be understood, told and elevated,",
+    "start": 265.284,
+    "duration": 3.492
+  },
+  {
+    "text": "and in many ways,",
+    "start": 268.8,
+    "duration": 1.151
+  },
+  {
+    "text": "I think that nerds like us\nare really uniquely poised to tell it.",
+    "start": 269.975,
+    "duration": 3.78
+  },
+  {
+    "text": "So where are we starting?",
+    "start": 274.304,
+    "duration": 1.53
+  },
+  {
+    "text": "What's our starting point?",
+    "start": 275.858,
+    "duration": 1.503
+  },
+  {
+    "text": "The current national food system\nis optimized for one thing only,",
+    "start": 277.775,
+    "duration": 4.493
+  },
+  {
+    "text": "and that's corporate profit, right?",
+    "start": 282.292,
+    "duration": 2.468
+  },
+  {
+    "text": "And think about that.",
+    "start": 284.784,
+    "duration": 1.25
+  },
+  {
+    "text": "The most compelling reason\nfor food companies to exist",
+    "start": 286.058,
+    "duration": 3.383
+  },
+  {
+    "text": "is not to feed hungry people,",
+    "start": 289.465,
+    "duration": 1.954
+  },
+  {
+    "text": "it's not to make delicious-tasting food.",
+    "start": 291.443,
+    "duration": 1.916
+  },
+  {
+    "text": "It's profit.",
+    "start": 293.922,
+    "duration": 1.15
+  },
+  {
+    "text": "And that has detrimental effects\nat all levels of our food system.",
+    "start": 295.706,
+    "duration": 3.497
+  },
+  {
+    "text": "The antibiotics and pesticides\nthat are being put into our food",
+    "start": 299.778,
+    "duration": 3.008
+  },
+  {
+    "text": "are detrimental to our health.",
+    "start": 302.81,
+    "duration": 2.014
+  },
+  {
+    "text": "Price pressure is forcing\nsmall farms out of business.",
+    "start": 304.848,
+    "duration": 3.138
+  },
+  {
+    "text": "In fact, a lot of the things\nthat you think about farms",
+    "start": 308.01,
+    "duration": 2.618
+  },
+  {
+    "text": "no longer exist.",
+    "start": 310.652,
+    "duration": 1.156
+  },
+  {
+    "text": "Farms don't look like farms,\nthey look like factories.",
+    "start": 311.832,
+    "duration": 3.342
+  },
+  {
+    "text": "And at the end of the day,",
+    "start": 315.198,
+    "duration": 1.239
+  },
+  {
+    "text": "the quality of the food\nthat we're eating really suffers, too.",
+    "start": 316.461,
+    "duration": 3.006
+  },
+  {
+    "text": "A factory-farm tomato\nmay kind of look like a regular tomato:",
+    "start": 319.935,
+    "duration": 3.936
+  },
+  {
+    "text": "bright red exterior ...",
+    "start": 323.895,
+    "duration": 1.661
+  },
+  {
+    "text": "But when you bite into it,",
+    "start": 325.58,
+    "duration": 1.416
+  },
+  {
+    "text": "the taste and texture\njust leave you wanting.",
+    "start": 327.02,
+    "duration": 2.55
+  },
+  {
+    "text": "And we know that perhaps\nthe greatest tragedy in all of this",
+    "start": 330.651,
+    "duration": 3.153
+  },
+  {
+    "text": "is that between 30 and 40 percent\nof this food is just wasted ...",
+    "start": 333.828,
+    "duration": 4.032
+  },
+  {
+    "text": "thrown away.",
+    "start": 338.727,
+    "duration": 1.382
+  },
+  {
+    "text": "That is 1.6 billion tons.",
+    "start": 340.133,
+    "duration": 2.675
+  },
+  {
+    "text": "I can't even wrap my head\naround that number.",
+    "start": 342.832,
+    "duration": 2.428
+  },
+  {
+    "text": "1.6 billion tons.",
+    "start": 345.284,
+    "duration": 2.277
+  },
+  {
+    "text": "That's 1.2 trillion dollars a year",
+    "start": 347.585,
+    "duration": 3.889
+  },
+  {
+    "text": "in wasted food.",
+    "start": 351.498,
+    "duration": 1.273
+  },
+  {
+    "text": "That is the cost of on-demand eating",
+    "start": 353.526,
+    "duration": 2.108
+  },
+  {
+    "text": "and convenience",
+    "start": 355.658,
+    "duration": 1.151
+  },
+  {
+    "text": "and the broken food system.",
+    "start": 356.833,
+    "duration": 1.767
+  },
+  {
+    "text": "Now, where's this waste happening?",
+    "start": 359.22,
+    "duration": 1.659
+  },
+  {
+    "text": "Where's all this waste coming from?",
+    "start": 360.903,
+    "duration": 2.041
+  },
+  {
+    "text": "Well, we know that it happens in the field",
+    "start": 362.968,
+    "duration": 2.0
+  },
+  {
+    "text": "when you don't pick\nthe sexiest-looking potatoes.",
+    "start": 364.992,
+    "duration": 2.373
+  },
+  {
+    "text": "We know that it happens in transit,",
+    "start": 367.389,
+    "duration": 2.246
+  },
+  {
+    "text": "at the warehouses,",
+    "start": 369.659,
+    "duration": 1.364
+  },
+  {
+    "text": "in the grocery stores.",
+    "start": 371.047,
+    "duration": 1.652
+  },
+  {
+    "text": "And finally, on our own kitchen counters,",
+    "start": 372.723,
+    "duration": 2.432
+  },
+  {
+    "text": "when we determine that that spotty,\nbrown banana no longer looks so yummy.",
+    "start": 375.179,
+    "duration": 4.479
+  },
+  {
+    "text": "All that waste, all that effort.",
+    "start": 380.238,
+    "duration": 2.095
+  },
+  {
+    "text": "Food is planted,",
+    "start": 382.871,
+    "duration": 1.604
+  },
+  {
+    "text": "grown, harvested, shipped,",
+    "start": 384.499,
+    "duration": 2.548
+  },
+  {
+    "text": "and then just thrown away.",
+    "start": 387.071,
+    "duration": 2.388
+  },
+  {
+    "text": "We think that there has to be\na better way.",
+    "start": 390.68,
+    "duration": 2.372
+  },
+  {
+    "text": "And so how to we improve upon this?",
+    "start": 394.295,
+    "duration": 1.707
+  },
+  {
+    "text": "How do we make a better system?",
+    "start": 396.026,
+    "duration": 2.145
+  },
+  {
+    "text": "In order to do this,",
+    "start": 398.601,
+    "duration": 1.238
+  },
+  {
+    "text": "we understand that we need\nto eliminate waste",
+    "start": 399.863,
+    "duration": 2.596
+  },
+  {
+    "text": "in the food supply chain.",
+    "start": 402.483,
+    "duration": 1.646
+  },
+  {
+    "text": "We need to get data\nin the hands of farmers,",
+    "start": 404.652,
+    "duration": 2.31
+  },
+  {
+    "text": "so that they can make better predictions.",
+    "start": 406.986,
+    "duration": 1.954
+  },
+  {
+    "text": "So they can, you know,\nkind of compete with the big guy.",
+    "start": 408.964,
+    "duration": 3.014
+  },
+  {
+    "text": "And then finally,",
+    "start": 412.002,
+    "duration": 1.207
+  },
+  {
+    "text": "we need to prize, as a company,",
+    "start": 413.233,
+    "duration": 2.149
+  },
+  {
+    "text": "quality and taste above everything,",
+    "start": 415.406,
+    "duration": 2.826
+  },
+  {
+    "text": "so that people really value\nthe delicious food on their plates.",
+    "start": 418.256,
+    "duration": 3.13
+  },
+  {
+    "text": "This, we believe, is the better system.",
+    "start": 422.493,
+    "duration": 2.532
+  },
+  {
+    "text": "This is the better way.",
+    "start": 425.049,
+    "duration": 1.463
+  },
+  {
+    "text": "And the path to that better way\nis paved with data.",
+    "start": 426.83,
+    "duration": 3.485
+  },
+  {
+    "text": "To highlight all of this,\nI want to tell the tale of two tomatoes.",
+    "start": 431.292,
+    "duration": 3.65
+  },
+  {
+    "text": "We'll talk about them one by one.",
+    "start": 435.791,
+    "duration": 1.9
+  },
+  {
+    "text": "A tomato in itself contains\na beautiful snapshot",
+    "start": 438.12,
+    "duration": 3.183
+  },
+  {
+    "text": "of everything you might want to know\nabout the life cycle of that fruit:",
+    "start": 441.327,
+    "duration": 3.786
+  },
+  {
+    "text": "where it was grown,\nwhat it was treated with,",
+    "start": 445.137,
+    "duration": 2.151
+  },
+  {
+    "text": "nutritional value,",
+    "start": 447.312,
+    "duration": 1.319
+  },
+  {
+    "text": "miles traveled to get to your plate,",
+    "start": 448.655,
+    "duration": 1.76
+  },
+  {
+    "text": "CO2 emissions along the way.",
+    "start": 450.439,
+    "duration": 2.086
+  },
+  {
+    "text": "All of that information,",
+    "start": 452.549,
+    "duration": 1.62
+  },
+  {
+    "text": "all those little chapters\nin one small fruit.",
+    "start": 454.193,
+    "duration": 2.618
+  },
+  {
+    "text": "It's very exciting.",
+    "start": 457.215,
+    "duration": 1.161
+  },
+  {
+    "text": "This is tomato number one.",
+    "start": 458.814,
+    "duration": 2.465
+  },
+  {
+    "text": "This is the guy that you'll find\nin sub shops, supermarkets",
+    "start": 461.303,
+    "duration": 3.444
+  },
+  {
+    "text": "and fast-food joints around the world.",
+    "start": 464.771,
+    "duration": 1.963
+  },
+  {
+    "text": "It's got a really long\nand complicated backstory.",
+    "start": 467.137,
+    "duration": 3.24
+  },
+  {
+    "text": "It's been treated with a cocktail\nof, like, a dozen pesticides",
+    "start": 470.968,
+    "duration": 4.392
+  },
+  {
+    "text": "and it has traveled at least\n1,600 miles to get to your house.",
+    "start": 475.384,
+    "duration": 4.23
+  },
+  {
+    "text": "And the image here is green,",
+    "start": 480.316,
+    "duration": 1.715
+  },
+  {
+    "text": "because these tomatoes are picked\nwhen green and hard as a rock,",
+    "start": 482.055,
+    "duration": 3.617
+  },
+  {
+    "text": "and then they are gassed along the way",
+    "start": 485.696,
+    "duration": 2.361
+  },
+  {
+    "text": "so that when they arrive\nat the destination,",
+    "start": 488.081,
+    "duration": 2.157
+  },
+  {
+    "text": "they look bright and shiny\nand red and ripe.",
+    "start": 490.262,
+    "duration": 2.936
+  },
+  {
+    "text": "All of that effort,",
+    "start": 494.284,
+    "duration": 1.929
+  },
+  {
+    "text": "all of that agricultural\ninnovation and technology",
+    "start": 496.237,
+    "duration": 3.341
+  },
+  {
+    "text": "to create a product\nthat is entirely without taste.",
+    "start": 499.602,
+    "duration": 4.004
+  },
+  {
+    "text": "And onto the second tomato in our tale.",
+    "start": 504.388,
+    "duration": 2.195
+  },
+  {
+    "text": "This is the local version of the fruit.",
+    "start": 506.607,
+    "duration": 2.316
+  },
+  {
+    "text": "Its story is much, much shorter.",
+    "start": 508.947,
+    "duration": 2.108
+  },
+  {
+    "text": "This guy was grown by Luke Mahoney\nand his family at Brookford Farm",
+    "start": 511.794,
+    "duration": 3.95
+  },
+  {
+    "text": "in Canterbury, New Hampshire.",
+    "start": 515.768,
+    "duration": 1.684
+  },
+  {
+    "text": "It's got a pretty boring backstory.",
+    "start": 518.028,
+    "duration": 2.018
+  },
+  {
+    "text": "It was planted,",
+    "start": 520.567,
+    "duration": 1.505
+  },
+  {
+    "text": "sat in the sun",
+    "start": 522.096,
+    "duration": 1.452
+  },
+  {
+    "text": "and then it was picked.",
+    "start": 523.572,
+    "duration": 1.291
+  },
+  {
+    "text": "(Laughter)",
+    "start": 524.887,
+    "duration": 1.221
+  },
+  {
+    "text": "That's it.",
+    "start": 526.457,
+    "duration": 1.158
+  },
+  {
+    "text": "Like, you wouldn't want to --",
+    "start": 527.639,
+    "duration": 1.46
+  },
+  {
+    "text": "yeah, there's not much more to that.",
+    "start": 529.123,
+    "duration": 1.766
+  },
+  {
+    "text": "And it traveled maybe 70 miles\nto get your plate.",
+    "start": 530.913,
+    "duration": 3.616
+  },
+  {
+    "text": "But the difference is dramatic.",
+    "start": 534.553,
+    "duration": 1.833
+  },
+  {
+    "text": "I want you think about the last time\nyou ate a fresh, summer tomato.",
+    "start": 536.797,
+    "duration": 3.293
+  },
+  {
+    "text": "And I know we're all\ncovered in our jackets,",
+    "start": 540.114,
+    "duration": 2.049
+  },
+  {
+    "text": "but think about it.",
+    "start": 542.187,
+    "duration": 1.151
+  },
+  {
+    "text": "The last time you ate\na tomato from the garden.",
+    "start": 543.362,
+    "duration": 2.192
+  },
+  {
+    "text": "It's warm from the sun,",
+    "start": 545.578,
+    "duration": 1.729
+  },
+  {
+    "text": "it's richly red,",
+    "start": 547.331,
+    "duration": 1.173
+  },
+  {
+    "text": "maybe it smells like dirt.",
+    "start": 548.528,
+    "duration": 1.804
+  },
+  {
+    "text": "There's something nostalgic\nand almost magical in that experience.",
+    "start": 550.356,
+    "duration": 3.253
+  },
+  {
+    "text": "The taste and the flavor are incomparable.",
+    "start": 554.175,
+    "duration": 3.091
+  },
+  {
+    "text": "And we really don't have to travel\nsuper far to get it.",
+    "start": 557.991,
+    "duration": 3.448
+  },
+  {
+    "text": "Now this story extends up the food chain,",
+    "start": 562.812,
+    "duration": 2.564
+  },
+  {
+    "text": "from the fruits and the vegetables\nthat are on our plate",
+    "start": 565.4,
+    "duration": 2.714
+  },
+  {
+    "text": "to the animals and the animal\nproducts that we consume.",
+    "start": 568.138,
+    "duration": 2.816
+  },
+  {
+    "text": "What goes into raising them,",
+    "start": 571.545,
+    "duration": 1.697
+  },
+  {
+    "text": "and more importantly,\nwhat doesn't go into raising them,",
+    "start": 573.266,
+    "duration": 3.97
+  },
+  {
+    "text": "is critically important.",
+    "start": 577.26,
+    "duration": 1.441
+  },
+  {
+    "text": "Luke and his family have 60 cows.",
+    "start": 580.006,
+    "duration": 2.065
+  },
+  {
+    "text": "They use traditional methods.",
+    "start": 582.744,
+    "duration": 1.382
+  },
+  {
+    "text": "They do it the old way:",
+    "start": 584.15,
+    "duration": 1.623
+  },
+  {
+    "text": "pasture-raised,",
+    "start": 585.797,
+    "duration": 1.418
+  },
+  {
+    "text": "no hormones, no antibiotics,",
+    "start": 587.239,
+    "duration": 2.302
+  },
+  {
+    "text": "hay for days.",
+    "start": 589.565,
+    "duration": 1.305
+  },
+  {
+    "text": "And what they're doing here\nis just treating cows like they're cows,",
+    "start": 591.707,
+    "duration": 4.056
+  },
+  {
+    "text": "not like they're in a science experiment.",
+    "start": 595.787,
+    "duration": 2.268
+  },
+  {
+    "text": "He's raising animals the way\nthat his grandfather",
+    "start": 598.079,
+    "duration": 2.642
+  },
+  {
+    "text": "and his grandfather would have.",
+    "start": 600.745,
+    "duration": 1.841
+  },
+  {
+    "text": "And at the end, it's just better.",
+    "start": 602.61,
+    "duration": 2.13
+  },
+  {
+    "text": "It's better for the animals;",
+    "start": 604.764,
+    "duration": 1.334
+  },
+  {
+    "text": "it's better for the environment.",
+    "start": 606.122,
+    "duration": 1.533
+  },
+  {
+    "text": "Luke is not optimizing\nfor profit or price,",
+    "start": 607.679,
+    "duration": 2.363
+  },
+  {
+    "text": "but for taste and for humanity.",
+    "start": 610.066,
+    "duration": 2.142
+  },
+  {
+    "text": "And what you're thinking is,\n\"There's already a solution to this.",
+    "start": 613.257,
+    "duration": 3.267
+  },
+  {
+    "text": "It's the farmer's markets.\"",
+    "start": 616.548,
+    "duration": 1.69
+  },
+  {
+    "text": "The ones that many of you visit",
+    "start": 618.262,
+    "duration": 1.485
+  },
+  {
+    "text": "and the ones that I really enjoy.",
+    "start": 619.771,
+    "duration": 1.829
+  },
+  {
+    "text": "They are a wonderful, but,\nin many ways, suboptimal solution.",
+    "start": 622.279,
+    "duration": 3.468
+  },
+  {
+    "text": "For us as the consumers,\nit's kind of great, right?",
+    "start": 626.294,
+    "duration": 2.508
+  },
+  {
+    "text": "You go,",
+    "start": 628.826,
+    "duration": 1.231
+  },
+  {
+    "text": "there's this beautiful bounty of food,",
+    "start": 630.081,
+    "duration": 1.929
+  },
+  {
+    "text": "you get the warm and fuzzies\nfor supporting a local farm",
+    "start": 632.034,
+    "duration": 3.249
+  },
+  {
+    "text": "and you get the experience of trying\nsomething new and trying diverse products.",
+    "start": 635.307,
+    "duration": 4.229
+  },
+  {
+    "text": "And inevitably, there's some guy\nplaying the ukulele",
+    "start": 639.56,
+    "duration": 2.482
+  },
+  {
+    "text": "somewhere in the background.",
+    "start": 642.066,
+    "duration": 1.349
+  },
+  {
+    "text": "(Laughter)",
+    "start": 643.439,
+    "duration": 1.0
+  },
+  {
+    "text": "But for the farmers,\nthis presents a lot of risk, right?",
+    "start": 645.518,
+    "duration": 3.62
+  },
+  {
+    "text": "You wake up at four.",
+    "start": 649.162,
+    "duration": 1.151
+  },
+  {
+    "text": "You pack your truck, you hire a team,",
+    "start": 650.337,
+    "duration": 2.006
+  },
+  {
+    "text": "you get to your stall,",
+    "start": 652.367,
+    "duration": 1.168
+  },
+  {
+    "text": "but you have no guarantees",
+    "start": 653.559,
+    "duration": 1.968
+  },
+  {
+    "text": "that you're going to move\nyour product that day.",
+    "start": 655.551,
+    "duration": 2.346
+  },
+  {
+    "text": "There's too many variables in New England.",
+    "start": 657.921,
+    "duration": 2.025
+  },
+  {
+    "text": "For example, the weather,",
+    "start": 659.97,
+    "duration": 2.264
+  },
+  {
+    "text": "which is just, like,\na little bit unpredictable here.",
+    "start": 662.258,
+    "duration": 2.77
+  },
+  {
+    "text": "The weather is one of the many X factors",
+    "start": 665.68,
+    "duration": 1.976
+  },
+  {
+    "text": "that determine whether or not\na market will be worth it for the farmers.",
+    "start": 667.68,
+    "duration": 4.261
+  },
+  {
+    "text": "Every time, they roll the dice.",
+    "start": 673.101,
+    "duration": 2.011
+  },
+  {
+    "text": "And there's another option.",
+    "start": 675.647,
+    "duration": 1.857
+  },
+  {
+    "text": "Here, we're talking about CSAs:",
+    "start": 677.528,
+    "duration": 2.156
+  },
+  {
+    "text": "community-supported agriculture.",
+    "start": 679.708,
+    "duration": 2.252
+  },
+  {
+    "text": "In this model, customers pay up front,",
+    "start": 681.984,
+    "duration": 2.516
+  },
+  {
+    "text": "bearing the financial risk for the farms.",
+    "start": 684.524,
+    "duration": 2.207
+  },
+  {
+    "text": "Farmers grow what they can",
+    "start": 686.755,
+    "duration": 1.669
+  },
+  {
+    "text": "and the customers enjoy that bounty.",
+    "start": 688.448,
+    "duration": 2.342
+  },
+  {
+    "text": "This also has a couple issues.",
+    "start": 691.176,
+    "duration": 1.687
+  },
+  {
+    "text": "It's great for the farmer,",
+    "start": 692.887,
+    "duration": 1.343
+  },
+  {
+    "text": "because they're ensuring\nthat they'll sell what they buy,",
+    "start": 694.254,
+    "duration": 2.668
+  },
+  {
+    "text": "but for us,",
+    "start": 696.946,
+    "duration": 1.25
+  },
+  {
+    "text": "we still have to go\nand pick up that share,",
+    "start": 698.22,
+    "duration": 2.031
+  },
+  {
+    "text": "and we know that a lot of farms\ncan't grow a huge diversity of products,",
+    "start": 700.275,
+    "duration": 3.393
+  },
+  {
+    "text": "so sometimes, you're stuck with a mountain\nof any one particular thing.",
+    "start": 703.692,
+    "duration": 3.605
+  },
+  {
+    "text": "Maybe this has happened to some of you.",
+    "start": 707.845,
+    "duration": 1.878
+  },
+  {
+    "text": "And what do you do with 25 pounds\nof rutabaga in the dead of winter?",
+    "start": 710.217,
+    "duration": 4.109
+  },
+  {
+    "text": "I still don't know.",
+    "start": 714.35,
+    "duration": 1.366
+  },
+  {
+    "text": "So back to the question.",
+    "start": 717.346,
+    "duration": 1.809
+  },
+  {
+    "text": "How do we fix this?",
+    "start": 719.179,
+    "duration": 1.605
+  },
+  {
+    "text": "What we're hoping to do\nand what we're hoping to build",
+    "start": 720.808,
+    "duration": 2.582
+  },
+  {
+    "text": "is just a better way to CSA.",
+    "start": 723.414,
+    "duration": 1.99
+  },
+  {
+    "text": "And there are three core innovations\nthat make this thing hum.",
+    "start": 726.274,
+    "duration": 4.624
+  },
+  {
+    "text": "The first of which",
+    "start": 731.448,
+    "duration": 1.17
+  },
+  {
+    "text": "is a subscription-based\ne-commerce platform,",
+    "start": 732.642,
+    "duration": 2.906
+  },
+  {
+    "text": "which helps us create\na consistent demand for our farmers",
+    "start": 735.572,
+    "duration": 2.804
+  },
+  {
+    "text": "throughout the year.",
+    "start": 738.4,
+    "duration": 1.497
+  },
+  {
+    "text": "The subscription part here is key.",
+    "start": 739.921,
+    "duration": 2.018
+  },
+  {
+    "text": "Orders process weekly,",
+    "start": 741.963,
+    "duration": 1.602
+  },
+  {
+    "text": "customers opt out instead of opt in --",
+    "start": 743.589,
+    "duration": 2.422
+  },
+  {
+    "text": "that means we've got kind of the same\nnumber of orders week to week.",
+    "start": 746.035,
+    "duration": 3.267
+  },
+  {
+    "text": "Second, this means\nthat if farmers can sell online,",
+    "start": 749.619,
+    "duration": 3.927
+  },
+  {
+    "text": "they're no longer limited to the geography\ndirectly around their farm",
+    "start": 753.57,
+    "duration": 3.585
+  },
+  {
+    "text": "or to the number of markets\nthat they can sell.",
+    "start": 757.179,
+    "duration": 2.346
+  },
+  {
+    "text": "We've blown the doors\noff of that for them.",
+    "start": 759.549,
+    "duration": 2.319
+  },
+  {
+    "text": "Second: demand forecasting.",
+    "start": 762.791,
+    "duration": 1.993
+  },
+  {
+    "text": "We're using analytics to allow\nourselves to look into the future",
+    "start": 764.808,
+    "duration": 3.001
+  },
+  {
+    "text": "and forecast demand.",
+    "start": 767.833,
+    "duration": 1.578
+  },
+  {
+    "text": "This lets farmers know\nhow much to harvest in the near-term,",
+    "start": 769.435,
+    "duration": 3.238
+  },
+  {
+    "text": "but also what to plant going forward.",
+    "start": 772.697,
+    "duration": 2.165
+  },
+  {
+    "text": "If 200 orders process on Monday,",
+    "start": 775.537,
+    "duration": 2.639
+  },
+  {
+    "text": "then we buy to meet that exact demand.",
+    "start": 778.2,
+    "duration": 2.095
+  },
+  {
+    "text": "200 heads of broccoli,",
+    "start": 780.617,
+    "duration": 1.318
+  },
+  {
+    "text": "200 pieces of salmon, \net cetera, et cetera.",
+    "start": 781.959,
+    "duration": 2.357
+  },
+  {
+    "text": "This automation in ordering",
+    "start": 784.98,
+    "duration": 1.477
+  },
+  {
+    "text": "means that here, we are eliminating\nthe waste in the food system",
+    "start": 786.481,
+    "duration": 4.134
+  },
+  {
+    "text": "that bothers us all so much,",
+    "start": 790.639,
+    "duration": 1.982
+  },
+  {
+    "text": "because we are ensuring that the supply\nmeets the exact demand.",
+    "start": 792.645,
+    "duration": 4.128
+  },
+  {
+    "text": "It also allows us to look\ninto the future with the farmers",
+    "start": 797.616,
+    "duration": 2.715
+  },
+  {
+    "text": "and do crop planning.",
+    "start": 800.355,
+    "duration": 1.309
+  },
+  {
+    "text": "So if we can say to them,\nin June of this year,",
+    "start": 801.688,
+    "duration": 2.246
+  },
+  {
+    "text": "\"I'm going to need 400 pounds of asparagus",
+    "start": 803.958,
+    "duration": 2.529
+  },
+  {
+    "text": "and 500 pounds of berries every week,\"",
+    "start": 806.511,
+    "duration": 2.558
+  },
+  {
+    "text": "they can plant that accordingly,",
+    "start": 809.093,
+    "duration": 1.865
+  },
+  {
+    "text": "knowing with confidence\nthat they will sell",
+    "start": 810.982,
+    "duration": 2.028
+  },
+  {
+    "text": "everything that they have grown.",
+    "start": 813.034,
+    "duration": 1.545
+  },
+  {
+    "text": "And finally, we use\na route-optimization software",
+    "start": 814.603,
+    "duration": 2.643
+  },
+  {
+    "text": "to help us solve the problem\nof the traveling salesman.",
+    "start": 817.27,
+    "duration": 2.803
+  },
+  {
+    "text": "We get a fleet of workers to come in\nand help us go the last mile,",
+    "start": 820.097,
+    "duration": 3.617
+  },
+  {
+    "text": "bringing all these goodies\ndirectly to your door.",
+    "start": 823.738,
+    "duration": 2.56
+  },
+  {
+    "text": "Without data science",
+    "start": 826.322,
+    "duration": 1.378
+  },
+  {
+    "text": "and a super-capable, wonderful team,",
+    "start": 827.724,
+    "duration": 2.591
+  },
+  {
+    "text": "none of this would be possible.",
+    "start": 830.339,
+    "duration": 1.705
+  },
+  {
+    "text": "So maybe you've seen",
+    "start": 832.8,
+    "duration": 1.65
+  },
+  {
+    "text": "that we've got some sort of fiery,\npassionate core beliefs.",
+    "start": 834.474,
+    "duration": 3.353
+  },
+  {
+    "text": "Yes, we're trying to build\na sustainable business,",
+    "start": 837.851,
+    "duration": 2.647
+  },
+  {
+    "text": "but our eye is not only on profit,",
+    "start": 840.522,
+    "duration": 2.095
+  },
+  {
+    "text": "it's on building a better,\nholistic system of food.",
+    "start": 842.641,
+    "duration": 2.809
+  },
+  {
+    "text": "And here's what we value.",
+    "start": 846.421,
+    "duration": 1.373
+  },
+  {
+    "text": "People first.",
+    "start": 848.29,
+    "duration": 1.4
+  },
+  {
+    "text": "We're trying to build\ncommunity around food,",
+    "start": 849.714,
+    "duration": 2.049
+  },
+  {
+    "text": "the people who love it\nand the people who grow it.",
+    "start": 851.787,
+    "duration": 2.529
+  },
+  {
+    "text": "We built this company\nto support small farms.",
+    "start": 854.34,
+    "duration": 2.634
+  },
+  {
+    "text": "Zero waste.",
+    "start": 857.9,
+    "duration": 1.19
+  },
+  {
+    "text": "We all hate wasting food,\nit just feels wrong --",
+    "start": 859.114,
+    "duration": 2.618
+  },
+  {
+    "text": "even that weirdo banana",
+    "start": 861.756,
+    "duration": 1.322
+  },
+  {
+    "text": "that's been sitting around\non your coffee table for too long.",
+    "start": 863.102,
+    "duration": 2.957
+  },
+  {
+    "text": "And lastly, taste.",
+    "start": 866.083,
+    "duration": 1.879
+  },
+  {
+    "text": "If it doesn't taste good,",
+    "start": 868.451,
+    "duration": 1.381
+  },
+  {
+    "text": "if it's not that, like,\nperfect summer tomato,",
+    "start": 869.856,
+    "duration": 3.017
+  },
+  {
+    "text": "why bother?",
+    "start": 872.897,
+    "duration": 1.15
+  },
+  {
+    "text": "So what we've done\nis worked with all these local farms",
+    "start": 874.803,
+    "duration": 2.584
+  },
+  {
+    "text": "to bring their things in",
+    "start": 877.411,
+    "duration": 1.382
+  },
+  {
+    "text": "and then to drop them\ndirectly at your door,",
+    "start": 878.817,
+    "duration": 2.24
+  },
+  {
+    "text": "so that we're connecting you right to them",
+    "start": 881.081,
+    "duration": 2.032
+  },
+  {
+    "text": "and making, again, a more holistic system.",
+    "start": 883.137,
+    "duration": 2.441
+  },
+  {
+    "text": "This is our vision of the future.",
+    "start": 886.252,
+    "duration": 2.113
+  },
+  {
+    "text": "To extend this model beyond Boston,\nbeyond New England",
+    "start": 888.389,
+    "duration": 3.468
+  },
+  {
+    "text": "and across the country.",
+    "start": 891.881,
+    "duration": 1.739
+  },
+  {
+    "text": "To create a nationwide\ndistributed network of local farms",
+    "start": 893.644,
+    "duration": 4.09
+  },
+  {
+    "text": "and to connect all these farmers",
+    "start": 897.758,
+    "duration": 1.799
+  },
+  {
+    "text": "with the people like you\nwho will love their food.",
+    "start": 899.581,
+    "duration": 2.586
+  },
+  {
+    "text": "We believe, at the end of the day,",
+    "start": 903.602,
+    "duration": 1.684
+  },
+  {
+    "text": "that really insisting on eating local food\nis a revolutionary act.",
+    "start": 905.31,
+    "duration": 4.443
+  },
+  {
+    "text": "And we invite you to join us.",
+    "start": 910.213,
+    "duration": 1.528
+  },
+  {
+    "text": "And who knows?",
+    "start": 912.311,
+    "duration": 1.293
+  },
+  {
+    "text": "You may even make\nsome friends along the way.",
+    "start": 913.628,
+    "duration": 3.009
+  },
+  {
+    "text": "Thank you very much.",
+    "start": 917.611,
+    "duration": 1.15
+  },
+  {
+    "text": "(Applause)",
+    "start": 918.785,
+    "duration": 1.15
+  }
+]

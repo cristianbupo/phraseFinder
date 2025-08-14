@@ -1,0 +1,547 @@
+[
+  {
+    "text": "Ethic and Hedge are on the ground floor \nof a massive tower.",
+    "start": 31.587,
+    "duration": 5.701
+  },
+  {
+    "text": "Barriers of energy separate them \nfrom their quest’s second goal:",
+    "start": 37.288,
+    "duration": 4.657
+  },
+  {
+    "text": "the Node of Creation.",
+    "start": 41.945,
+    "duration": 2.0
+  },
+  {
+    "text": "To reach it, Ethic must use \nthree energy streams to climb the tower.",
+    "start": 52.667,
+    "duration": 4.742
+  },
+  {
+    "text": "As soon as she steps forward a timer \nwill begin counting down from 60 seconds.",
+    "start": 57.409,
+    "duration": 5.95
+  },
+  {
+    "text": "At the back of the room \nthere’s a basin made of invisible towers",
+    "start": 67.359,
+    "duration": 4.3
+  },
+  {
+    "text": "that can hold energy between them.",
+    "start": 71.659,
+    "duration": 3.076
+  },
+  {
+    "text": "After one minute, a torrent of energy \nwill pour down from above,",
+    "start": 74.735,
+    "duration": 4.13
+  },
+  {
+    "text": "filling one unit at a time,",
+    "start": 78.865,
+    "duration": 2.15
+  },
+  {
+    "text": "with a force field preventing it \nfrom spilling out the front or back.",
+    "start": 81.015,
+    "duration": 4.48
+  },
+  {
+    "text": "During the 60 calm seconds,",
+    "start": 85.495,
+    "duration": 2.13
+  },
+  {
+    "text": "Ethic and Hedge must decide exactly \nhow many units of energy will fall.",
+    "start": 87.625,
+    "duration": 5.098
+  },
+  {
+    "text": "For each of the three challenges,",
+    "start": 92.723,
+    "duration": 1.7
+  },
+  {
+    "text": "they must choose the amount \nthat will fill the basin exactly.",
+    "start": 94.423,
+    "duration": 3.665
+  },
+  {
+    "text": "If they do so, the energy will propel them\nfurther upwards.",
+    "start": 98.088,
+    "duration": 3.85
+  },
+  {
+    "text": "But if they get the amount at all wrong, \nthe energy lift will fail,",
+    "start": 101.938,
+    "duration": 4.62
+  },
+  {
+    "text": "dropping them.",
+    "start": 106.558,
+    "duration": 1.49
+  },
+  {
+    "text": "Diagrams on the walls \nillustrate some examples.",
+    "start": 108.048,
+    "duration": 3.3
+  },
+  {
+    "text": "This configuration \nwill capture exactly 2 units of energy.",
+    "start": 111.348,
+    "duration": 4.27
+  },
+  {
+    "text": "This configuration will capture 4—\n3 here, and 1 here.",
+    "start": 115.618,
+    "duration": 5.117
+  },
+  {
+    "text": "And this one will also capture 4,",
+    "start": 120.735,
+    "duration": 2.54
+  },
+  {
+    "text": "because any energy on the right \nwould spill out.",
+    "start": 123.275,
+    "duration": 3.413
+  },
+  {
+    "text": "The energy will rain down in such a way",
+    "start": 126.688,
+    "duration": 2.22
+  },
+  {
+    "text": "that it’ll only overflow \nif there’s no space that could hold it.",
+    "start": 128.908,
+    "duration": 4.63
+  },
+  {
+    "text": "Hedge can make one tower of blocks visible\nat a time and count how tall it is,",
+    "start": 133.538,
+    "duration": 5.327
+  },
+  {
+    "text": "but he can’t look at \nthe whole structure all at once.",
+    "start": 138.865,
+    "duration": 3.86
+  },
+  {
+    "text": "How does Ethic program Hedge \nto figure out",
+    "start": 142.725,
+    "duration": 2.805
+  },
+  {
+    "text": "exactly how much energy \neach basin can hold?",
+    "start": 145.53,
+    "duration": 3.81
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 149.34,
+    "duration": 9.465
+  },
+  {
+    "text": "Here’s one way of thinking about \nwhat’s happening:",
+    "start": 158.805,
+    "duration": 2.83
+  },
+  {
+    "text": "each unoccupied cell will hold energy",
+    "start": 161.635,
+    "duration": 2.915
+  },
+  {
+    "text": "if and only if there is a wall \neventually to its left,",
+    "start": 164.55,
+    "duration": 4.24
+  },
+  {
+    "text": "and a wall eventually to its right.",
+    "start": 168.79,
+    "duration": 2.727
+  },
+  {
+    "text": "But it would take a long time for Hedge \nto check this for each individual cell.",
+    "start": 171.517,
+    "duration": 4.805
+  },
+  {
+    "text": "So what if he were to consider \na whole column of blocks at a time?",
+    "start": 176.322,
+    "duration": 4.863
+  },
+  {
+    "text": "How many units of energy \ncan this hold, for instance?",
+    "start": 181.185,
+    "duration": 3.84
+  },
+  {
+    "text": "Pause now to figure it out for yourself.",
+    "start": 185.025,
+    "duration": 5.364
+  },
+  {
+    "text": "Let’s analyze the problem \nby looking at our example.",
+    "start": 190.389,
+    "duration": 3.37
+  },
+  {
+    "text": "There are 5 columns of blocks here.",
+    "start": 193.759,
+    "duration": 2.155
+  },
+  {
+    "text": "The leftmost one can’t hold any energy, \nbecause there’s nothing higher than it.",
+    "start": 195.914,
+    "duration": 4.57
+  },
+  {
+    "text": "The 2nd stack can have 3 units above it,",
+    "start": 200.484,
+    "duration": 2.634
+  },
+  {
+    "text": "as they would be trapped \nbetween these two 4 block stacks.",
+    "start": 203.118,
+    "duration": 4.126
+  },
+  {
+    "text": "We get 3 units by taking the height \nwhere the energy would level off— 4,",
+    "start": 207.244,
+    "duration": 4.942
+  },
+  {
+    "text": "and subtracting the height of the stack— \nso that’s 4 minus 1.",
+    "start": 212.186,
+    "duration": 4.16
+  },
+  {
+    "text": "The 3rd stack is similar— 4 to the left,\n4 to the right, and it’s 3 high,",
+    "start": 216.346,
+    "duration": 5.462
+  },
+  {
+    "text": "so it’ll hold 4 minus 3 equals 1 unit.",
+    "start": 221.808,
+    "duration": 4.729
+  },
+  {
+    "text": "The 4th stack and 5th stacks have \nnothing higher than them to the right,",
+    "start": 226.537,
+    "duration": 4.42
+  },
+  {
+    "text": "so they can’t hold any energy.",
+    "start": 230.957,
+    "duration": 2.47
+  },
+  {
+    "text": "We can adapt this idea into an algorithm.",
+    "start": 233.427,
+    "duration": 3.818
+  },
+  {
+    "text": "Considering one column at a time \nas the point of reference,",
+    "start": 237.245,
+    "duration": 3.78
+  },
+  {
+    "text": "Hedge can look to the left stack by stack \nto find the height of the tallest one,",
+    "start": 241.025,
+    "duration": 4.411
+  },
+  {
+    "text": "look to the right to find the height \nof the tallest one,",
+    "start": 245.436,
+    "duration": 2.72
+  },
+  {
+    "text": "and take the smaller of the two \nas the height the energy can fill up to.",
+    "start": 248.156,
+    "duration": 4.677
+  },
+  {
+    "text": "If the result is higher than the column \nin question,",
+    "start": 252.833,
+    "duration": 3.13
+  },
+  {
+    "text": "subtract the height \nof the original column,",
+    "start": 255.963,
+    "duration": 2.574
+  },
+  {
+    "text": "and the result will be the number of units\nthat column can hold.",
+    "start": 258.537,
+    "duration": 5.097
+  },
+  {
+    "text": "If it's equal to or below the level \nof the column in question,",
+    "start": 263.634,
+    "duration": 3.56
+  },
+  {
+    "text": "the energy would spill off.",
+    "start": 267.194,
+    "duration": 2.203
+  },
+  {
+    "text": "Hedge can apply that \nto an entire basin with a loop",
+    "start": 269.397,
+    "duration": 3.52
+  },
+  {
+    "text": "that starts on the left-most column \nand moves right, one column at a time.",
+    "start": 272.917,
+    "duration": 5.745
+  },
+  {
+    "text": "For each column, he’ll run the same steps—\nlook all the way left for the tallest,",
+    "start": 278.662,
+    "duration": 5.009
+  },
+  {
+    "text": "do the same to the right, \ntake the lower height of the two,",
+    "start": 283.671,
+    "duration": 3.56
+  },
+  {
+    "text": "subtract the original column height,",
+    "start": 287.231,
+    "duration": 2.087
+  },
+  {
+    "text": "and increase the grand total \nif that number is positive.",
+    "start": 289.318,
+    "duration": 3.86
+  },
+  {
+    "text": "His loop will repeat \nas many times as there are columns.",
+    "start": 293.178,
+    "duration": 3.67
+  },
+  {
+    "text": "That will work, but it’ll take a long time\nfor a large basin.",
+    "start": 296.848,
+    "duration": 3.95
+  },
+  {
+    "text": "At every step Hedge repeats the action \nof looking left and looking right.",
+    "start": 300.798,
+    "duration": 4.53
+  },
+  {
+    "text": "If there are N stacks, \nhe’ll look at all N stacks N times.",
+    "start": 305.328,
+    "duration": 4.952
+  },
+  {
+    "text": "Is there a faster way?",
+    "start": 310.28,
+    "duration": 1.98
+  },
+  {
+    "text": "Here’s one time saver: \nbefore doing anything else,",
+    "start": 312.26,
+    "duration": 3.348
+  },
+  {
+    "text": "Hedge can start on the left,",
+    "start": 315.608,
+    "duration": 1.86
+  },
+  {
+    "text": "and keep a running tally \nof what the highest stack is.",
+    "start": 317.468,
+    "duration": 3.87
+  },
+  {
+    "text": "Here that would be 2, 2 again,\nsince the first was higher,",
+    "start": 321.338,
+    "duration": 3.76
+  },
+  {
+    "text": "then 4, 4, 4.",
+    "start": 325.098,
+    "duration": 2.75
+  },
+  {
+    "text": "He can then find \nthe highest right-most stacks",
+    "start": 327.848,
+    "duration": 2.78
+  },
+  {
+    "text": "by doing the same going right-to-left: \n1, 3, 4, 4, 4.",
+    "start": 330.628,
+    "duration": 6.254
+  },
+  {
+    "text": "In the end he’ll have a table \nlike this in his memory.",
+    "start": 336.882,
+    "duration": 3.84
+  },
+  {
+    "text": "Now, Hedge can take one more pass \nto calculate how much energy there will be",
+    "start": 340.722,
+    "duration": 5.239
+  },
+  {
+    "text": "above every stack \nwith the same equation from before:",
+    "start": 345.961,
+    "duration": 4.04
+  },
+  {
+    "text": "take the smaller of the stored left \nand right values,",
+    "start": 350.001,
+    "duration": 3.637
+  },
+  {
+    "text": "and subtract the height \nof the current tower.",
+    "start": 353.638,
+    "duration": 3.07
+  },
+  {
+    "text": "Instead of looking at N stacks N times, \nhe’ll look at N stacks just 3 times—",
+    "start": 356.708,
+    "duration": 5.585
+  },
+  {
+    "text": "which is what’s called linear time.",
+    "start": 362.293,
+    "duration": 2.28
+  },
+  {
+    "text": "There are ways to optimize \nthe solution even further,",
+    "start": 364.573,
+    "duration": 3.241
+  },
+  {
+    "text": "but this is good enough for our heroes.",
+    "start": 367.814,
+    "duration": 2.75
+  },
+  {
+    "text": "Ethic and Hedge work as one.",
+    "start": 370.564,
+    "duration": 1.77
+  },
+  {
+    "text": "The first cascade is a breeze, \nand they rise up the tower.",
+    "start": 374.992,
+    "duration": 3.844
+  },
+  {
+    "text": "The second is a little tougher.",
+    "start": 381.573,
+    "duration": 2.01
+  },
+  {
+    "text": "The third is huge, \nwith dozens of stacks of blocks.",
+    "start": 393.051,
+    "duration": 3.86
+  },
+  {
+    "text": "The timer ticks down towards zero, \nbut Ethic’s program is fast.",
+    "start": 396.911,
+    "duration": 4.433
+  },
+  {
+    "text": "She gets the wheel in position \njust in time,",
+    "start": 401.344,
+    "duration": 2.964
+  },
+  {
+    "text": "and the energy lifts them \nto the Node of Creation.",
+    "start": 409.015,
+    "duration": 2.92
+  },
+  {
+    "text": "Like the first, it reveals a vision: \nmemories of years gone by.",
+    "start": 415.64,
+    "duration": 5.427
+  },
+  {
+    "text": "The world machine changed everything,",
+    "start": 421.067,
+    "duration": 2.12
+  },
+  {
+    "text": "and Ethic, in her position \nas chief robotics engineer,",
+    "start": 423.187,
+    "duration": 3.669
+  },
+  {
+    "text": "grew troubled by what she saw.",
+    "start": 426.856,
+    "duration": 2.05
+  },
+  {
+    "text": "When the Bradbarrier went up \nto keep the people in,",
+    "start": 428.906,
+    "duration": 3.04
+  },
+  {
+    "text": "she knew something was seriously wrong.",
+    "start": 431.946,
+    "duration": 2.64
+  },
+  {
+    "text": "So she created three artifacts",
+    "start": 434.586,
+    "duration": 2.09
+  },
+  {
+    "text": "with the ability to restore people’s \npower, creativity, and memory,",
+    "start": 436.676,
+    "duration": 4.545
+  },
+  {
+    "text": "and smuggled them to three communities.",
+    "start": 441.221,
+    "duration": 2.91
+  },
+  {
+    "text": "Before she could tell people \nhow to use them,",
+    "start": 444.131,
+    "duration": 2.318
+  },
+  {
+    "text": "the government discovered her efforts \nand sent bots to arrest her",
+    "start": 446.449,
+    "duration": 3.51
+  },
+  {
+    "text": "and the other programmers.",
+    "start": 449.959,
+    "duration": 1.93
+  },
+  {
+    "text": "The last thing Ethic \nused the world machine to create",
+    "start": 451.889,
+    "duration": 3.32
+  },
+  {
+    "text": "was a robot that would protect \nthe ancient device",
+    "start": 455.209,
+    "duration": 2.79
+  },
+  {
+    "text": "from the forces of ignorance \nby enclosing it in a giant maze.",
+    "start": 457.999,
+    "duration": 4.33
+  },
+  {
+    "text": "She named her creation Hedge.",
+    "start": 462.329,
+    "duration": 2.414
+  },
+  {
+    "text": "Without warning, the energy lift flickers,\nthen fizzles out.",
+    "start": 471.801,
+    "duration": 3.83
+  }
+]

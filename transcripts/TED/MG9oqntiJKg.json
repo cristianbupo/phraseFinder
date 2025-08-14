@@ -1,0 +1,1207 @@
+[
+  {
+    "text": "The incredible progress in AI\nover the past five years",
+    "start": 4.368,
+    "duration": 3.37
+  },
+  {
+    "text": "can be summarized in one word:",
+    "start": 7.738,
+    "duration": 2.269
+  },
+  {
+    "text": "scale.",
+    "start": 10.041,
+    "duration": 1.267
+  },
+  {
+    "text": "Yes, there have been algorithmic advances,",
+    "start": 12.043,
+    "duration": 2.736
+  },
+  {
+    "text": "but the frontier models of today",
+    "start": 14.779,
+    "duration": 3.003
+  },
+  {
+    "text": "are still based on the same\ntransformer architecture",
+    "start": 17.782,
+    "duration": 2.569
+  },
+  {
+    "text": "that was introduced in 2017,",
+    "start": 20.384,
+    "duration": 2.67
+  },
+  {
+    "text": "and they are trained in a very similar way\nto the models that were trained in 2019.",
+    "start": 23.087,
+    "duration": 4.137
+  },
+  {
+    "text": "The main difference\nis the scale of the data and compute",
+    "start": 28.592,
+    "duration": 4.038
+  },
+  {
+    "text": "that goes into these models.",
+    "start": 32.663,
+    "duration": 1.702
+  },
+  {
+    "text": "In 2019, GPT-2 cost\nabout 5,000 dollars to train.",
+    "start": 36.2,
+    "duration": 4.304
+  },
+  {
+    "text": "Every year since then,\nfor the past five years,",
+    "start": 41.705,
+    "duration": 3.304
+  },
+  {
+    "text": "the models have gotten bigger,",
+    "start": 45.042,
+    "duration": 2.002
+  },
+  {
+    "text": "trained for longer on more data.",
+    "start": 47.078,
+    "duration": 2.102
+  },
+  {
+    "text": "And every year they've gotten better.",
+    "start": 50.014,
+    "duration": 1.868
+  },
+  {
+    "text": "But today's frontier models can cost\nhundreds of millions of dollars to train,",
+    "start": 52.917,
+    "duration": 5.505
+  },
+  {
+    "text": "and there are reasonable\nconcerns among some",
+    "start": 58.456,
+    "duration": 2.969
+  },
+  {
+    "text": "that AI will soon plateau or hit a wall.",
+    "start": 61.459,
+    "duration": 3.57
+  },
+  {
+    "text": "After all, are we really\ngoing to train models",
+    "start": 66.33,
+    "duration": 2.369
+  },
+  {
+    "text": "that cost hundreds of billions of dollars?",
+    "start": 68.699,
+    "duration": 3.237
+  },
+  {
+    "text": "What about trillions of dollars?",
+    "start": 71.969,
+    "duration": 2.636
+  },
+  {
+    "text": "At some point,\nthe scaling paradigm breaks down.",
+    "start": 74.638,
+    "duration": 2.937
+  },
+  {
+    "text": "This is, in my opinion,\na reasonable concern,",
+    "start": 79.076,
+    "duration": 2.369
+  },
+  {
+    "text": "and in fact it's one that I used to share.",
+    "start": 81.445,
+    "duration": 2.336
+  },
+  {
+    "text": "But today I am more confident than ever\nthat AI will not plateau.",
+    "start": 83.781,
+    "duration": 4.938
+  },
+  {
+    "text": "And in fact, I believe\nthat we will see AI progress accelerate",
+    "start": 88.752,
+    "duration": 3.437
+  },
+  {
+    "text": "in the coming months.",
+    "start": 92.223,
+    "duration": 1.468
+  },
+  {
+    "text": "To explain why I want to tell a story\nfrom my time as a PhD student.",
+    "start": 93.724,
+    "duration": 4.571
+  },
+  {
+    "text": "I started my PhD in 2012,",
+    "start": 98.329,
+    "duration": 2.702
+  },
+  {
+    "text": "and I was lucky to be able to work",
+    "start": 101.031,
+    "duration": 2.269
+  },
+  {
+    "text": "on the most exciting projects\nI could imagine,",
+    "start": 103.334,
+    "duration": 2.335
+  },
+  {
+    "text": "developing AIs that could learn,\non their own, how to play poker.",
+    "start": 107.238,
+    "duration": 4.604
+  },
+  {
+    "text": "Now I had played a lot of poker\nwhen I was in high school and college,",
+    "start": 112.943,
+    "duration": 3.337
+  },
+  {
+    "text": "so for me, this was basically\nmy childhood dream job.",
+    "start": 116.28,
+    "duration": 2.669
+  },
+  {
+    "text": "Now contrary to its reputation,",
+    "start": 118.949,
+    "duration": 2.736
+  },
+  {
+    "text": "poker is not just a game of luck,",
+    "start": 121.719,
+    "duration": 2.335
+  },
+  {
+    "text": "it's also a game of deep strategy.",
+    "start": 124.088,
+    "duration": 1.668
+  },
+  {
+    "text": "You can kind of think of it\nlike chess with a deck of cards.",
+    "start": 127.091,
+    "duration": 2.836
+  },
+  {
+    "text": "When I started my PhD,",
+    "start": 131.428,
+    "duration": 1.268
+  },
+  {
+    "text": "there had already been\nseveral years of research",
+    "start": 132.696,
+    "duration": 2.269
+  },
+  {
+    "text": "on how to make AIs that play poker.",
+    "start": 134.999,
+    "duration": 2.435
+  },
+  {
+    "text": "And the general feeling\namong the research community",
+    "start": 137.468,
+    "duration": 2.669
+  },
+  {
+    "text": "[was] that we had\nfigured out the paradigm,",
+    "start": 140.171,
+    "duration": 2.002
+  },
+  {
+    "text": "and now all we needed to do was scale it.",
+    "start": 142.173,
+    "duration": 2.168
+  },
+  {
+    "text": "So every year we would train\nlarger poker AIs",
+    "start": 145.709,
+    "duration": 4.572
+  },
+  {
+    "text": "for longer on more data.",
+    "start": 150.281,
+    "duration": 2.535
+  },
+  {
+    "text": "And every year they would get better.",
+    "start": 152.85,
+    "duration": 2.135
+  },
+  {
+    "text": "Just like today's\nfrontier language models.",
+    "start": 154.985,
+    "duration": 2.269
+  },
+  {
+    "text": "By 2015, they got so good",
+    "start": 158.622,
+    "duration": 2.202
+  },
+  {
+    "text": "that we thought they might be able\nto rival the top human experts.",
+    "start": 160.824,
+    "duration": 3.337
+  },
+  {
+    "text": "So we challenged four\nof the world's top poker players",
+    "start": 165.262,
+    "duration": 3.137
+  },
+  {
+    "text": "to an 80,000-hand poker competition",
+    "start": 168.432,
+    "duration": 2.336
+  },
+  {
+    "text": "with 120,000 dollars in prize money\nto incentivize them to play their best.",
+    "start": 170.801,
+    "duration": 4.004
+  },
+  {
+    "text": "And unfortunately, our bot lost",
+    "start": 175.873,
+    "duration": 2.869
+  },
+  {
+    "text": "by a wide margin.",
+    "start": 178.742,
+    "duration": 1.969
+  },
+  {
+    "text": "In fact, it was clear even on day one\nthat our bot was outmatched.",
+    "start": 180.744,
+    "duration": 3.17
+  },
+  {
+    "text": "But during this competition\nI noticed something interesting.",
+    "start": 185.549,
+    "duration": 2.836
+  },
+  {
+    "text": "You see, leading up to this competition,",
+    "start": 189.053,
+    "duration": 2.035
+  },
+  {
+    "text": "our bot had played\nalmost a trillion hands of poker",
+    "start": 191.121,
+    "duration": 3.771
+  },
+  {
+    "text": "over thousands of CPUs\nfor about three months.",
+    "start": 194.925,
+    "duration": 4.104
+  },
+  {
+    "text": "But when it came time to actually\nplay against these human experts,",
+    "start": 200.698,
+    "duration": 3.203
+  },
+  {
+    "text": "the bot acted instantly.",
+    "start": 203.934,
+    "duration": 2.169
+  },
+  {
+    "text": "It took about ten milliseconds\nto make a decision,",
+    "start": 206.136,
+    "duration": 2.336
+  },
+  {
+    "text": "no matter how difficult it was.",
+    "start": 208.505,
+    "duration": 1.502
+  },
+  {
+    "text": "Meanwhile, the human experts\nhad only played",
+    "start": 211.408,
+    "duration": 2.736
+  },
+  {
+    "text": "maybe 10 million hands of poker\nin their lifetimes.",
+    "start": 214.178,
+    "duration": 2.436
+  },
+  {
+    "text": "But when they were faced\nwith a difficult decision,",
+    "start": 217.615,
+    "duration": 2.435
+  },
+  {
+    "text": "they would take the time to think.",
+    "start": 220.084,
+    "duration": 1.668
+  },
+  {
+    "text": "If it was an easy decision,",
+    "start": 223.254,
+    "duration": 1.334
+  },
+  {
+    "text": "they might only think\nfor a couple of seconds.",
+    "start": 224.622,
+    "duration": 2.202
+  },
+  {
+    "text": "If it was a difficult decision,\nthey might think for a few minutes,",
+    "start": 226.824,
+    "duration": 3.403
+  },
+  {
+    "text": "but they would take advantage\nof the time that they had",
+    "start": 230.261,
+    "duration": 2.602
+  },
+  {
+    "text": "to think through their decisions.",
+    "start": 232.863,
+    "duration": 1.602
+  },
+  {
+    "text": "In Daniel Kahneman's book,\n\"Thinking Fast and Slow,\"",
+    "start": 234.498,
+    "duration": 2.469
+  },
+  {
+    "text": "he describes this as the difference",
+    "start": 237.001,
+    "duration": 1.735
+  },
+  {
+    "text": "between System 1 thinking\nand System 2 thinking.",
+    "start": 238.736,
+    "duration": 3.436
+  },
+  {
+    "text": "System 1 thinking is the faster,\nmore intuitive kind of thinking",
+    "start": 242.206,
+    "duration": 4.037
+  },
+  {
+    "text": "that you might use, for example,",
+    "start": 246.243,
+    "duration": 1.702
+  },
+  {
+    "text": "to recognize a friendly face\nor laugh at a funny joke.",
+    "start": 247.945,
+    "duration": 3.77
+  },
+  {
+    "text": "System 2 thinking is the slower,\nmore methodical thinking",
+    "start": 252.416,
+    "duration": 3.57
+  },
+  {
+    "text": "that you might use\nfor things like planning a vacation,",
+    "start": 255.986,
+    "duration": 2.77
+  },
+  {
+    "text": "or writing an essay\nor solving a hard math problem.",
+    "start": 258.789,
+    "duration": 3.337
+  },
+  {
+    "text": "After this competition,",
+    "start": 262.96,
+    "duration": 1.301
+  },
+  {
+    "text": "I wondered whether this System 2 thinking\nmight be what’s missing from our bot",
+    "start": 264.295,
+    "duration": 4.671
+  },
+  {
+    "text": "and might explain the difference",
+    "start": 268.999,
+    "duration": 1.602
+  },
+  {
+    "text": "in the performance\nbetween our bot and the human experts.",
+    "start": 270.634,
+    "duration": 2.97
+  },
+  {
+    "text": "So I ran some experiments",
+    "start": 273.637,
+    "duration": 1.268
+  },
+  {
+    "text": "to see just how much of a difference\nthis System 2 thinking makes in poker.",
+    "start": 274.905,
+    "duration": 4.805
+  },
+  {
+    "text": "And the results that I got blew me away.",
+    "start": 280.678,
+    "duration": 2.268
+  },
+  {
+    "text": "It turned out that having the bot think\nfor just 20 seconds in a hand of poker",
+    "start": 283.781,
+    "duration": 6.439
+  },
+  {
+    "text": "got the same boost in performance\nas scaling up the model by 100,000x",
+    "start": 290.254,
+    "duration": 5.906
+  },
+  {
+    "text": "and training it for 100,000 times longer.",
+    "start": 296.16,
+    "duration": 2.502
+  },
+  {
+    "text": "Let me say that again.",
+    "start": 299.596,
+    "duration": 1.268
+  },
+  {
+    "text": "Spending 20s thinking in a hand of poker\ngot the same boost in performance",
+    "start": 300.864,
+    "duration": 5.473
+  },
+  {
+    "text": "as scaling up the size of the model\nand the training by 100,000x.",
+    "start": 306.37,
+    "duration": 4.805
+  },
+  {
+    "text": "When I got this result,\nI literally thought it was a bug.",
+    "start": 311.208,
+    "duration": 3.437
+  },
+  {
+    "text": "For the first three years of my PhD,",
+    "start": 314.678,
+    "duration": 1.869
+  },
+  {
+    "text": "I had managed to scale up\nthese models by 100x.",
+    "start": 316.58,
+    "duration": 3.437
+  },
+  {
+    "text": "I was proud of that work.",
+    "start": 321.051,
+    "duration": 1.869
+  },
+  {
+    "text": "I had written multiple papers\non how to do that scaling.",
+    "start": 322.953,
+    "duration": 2.669
+  },
+  {
+    "text": "But I knew pretty quickly\nthat all of that would be a footnote",
+    "start": 326.623,
+    "duration": 4.138
+  },
+  {
+    "text": "compared to just scaling up\nSystem 2 thinking.",
+    "start": 330.794,
+    "duration": 2.469
+  },
+  {
+    "text": "So based on these results,",
+    "start": 334.465,
+    "duration": 1.601
+  },
+  {
+    "text": "we redesigned the poker AI\nfrom the ground up.",
+    "start": 336.1,
+    "duration": 2.369
+  },
+  {
+    "text": "Now we were focused\non scaling up System 2 thinking",
+    "start": 339.303,
+    "duration": 2.469
+  },
+  {
+    "text": "in addition to System 1.",
+    "start": 341.805,
+    "duration": 2.102
+  },
+  {
+    "text": "And in 2017, we again challenged\nfour of the world's top poker pros",
+    "start": 343.907,
+    "duration": 4.038
+  },
+  {
+    "text": "to a 120,000-hand poker competition,",
+    "start": 347.945,
+    "duration": 2.068
+  },
+  {
+    "text": "this time with 200,000 dollars\nin prize money.",
+    "start": 350.047,
+    "duration": 2.202
+  },
+  {
+    "text": "And this time we beat all of them\nby a huge margin.",
+    "start": 353.083,
+    "duration": 3.037
+  },
+  {
+    "text": "This was a huge surprise\nto everybody involved.",
+    "start": 357.488,
+    "duration": 3.236
+  },
+  {
+    "text": "It was a huge surprise\nto the poker community,",
+    "start": 360.758,
+    "duration": 2.469
+  },
+  {
+    "text": "it was a huge surprise\nto the AI community,",
+    "start": 363.26,
+    "duration": 2.136
+  },
+  {
+    "text": "and honestly, even a huge surprise to us.",
+    "start": 365.429,
+    "duration": 2.336
+  },
+  {
+    "text": "I literally did not think it was possible",
+    "start": 368.665,
+    "duration": 2.703
+  },
+  {
+    "text": "to win by the kind of margin\nthat we won by.",
+    "start": 371.368,
+    "duration": 2.536
+  },
+  {
+    "text": "In fact, I think what really highlights\njust how surprising this result was",
+    "start": 373.904,
+    "duration": 3.837
+  },
+  {
+    "text": "is that when we announced the competition,",
+    "start": 377.741,
+    "duration": 2.069
+  },
+  {
+    "text": "the poker community\ndecided to do what they do best",
+    "start": 379.843,
+    "duration": 2.703
+  },
+  {
+    "text": "and gamble on who would win.",
+    "start": 382.579,
+    "duration": 1.602
+  },
+  {
+    "text": "(Laughter)",
+    "start": 384.214,
+    "duration": 1.635
+  },
+  {
+    "text": "When we started,\nwhen we announced the competition,",
+    "start": 385.883,
+    "duration": 2.435
+  },
+  {
+    "text": "the betting odds were\nabout four to one against us.",
+    "start": 388.318,
+    "duration": 2.87
+  },
+  {
+    "text": "After the first three days\nof the competition,",
+    "start": 391.221,
+    "duration": 2.169
+  },
+  {
+    "text": "when we had won for the first three days,",
+    "start": 393.424,
+    "duration": 2.002
+  },
+  {
+    "text": "the betting odds\nwere still about fifty-fifty.",
+    "start": 395.459,
+    "duration": 2.169
+  },
+  {
+    "text": "But by the eighth day of the competition,",
+    "start": 397.661,
+    "duration": 1.969
+  },
+  {
+    "text": "you could no longer gamble\non which side would win.",
+    "start": 399.663,
+    "duration": 2.436
+  },
+  {
+    "text": "You could only gamble on which human\nwould lose the least by the end.",
+    "start": 402.132,
+    "duration": 3.27
+  },
+  {
+    "text": "This pattern of AI benefiting\nby thinking for longer",
+    "start": 405.402,
+    "duration": 3.337
+  },
+  {
+    "text": "is not unique to poker,",
+    "start": 408.739,
+    "duration": 1.401
+  },
+  {
+    "text": "and in fact, we've seen it\nin multiple other games as well.",
+    "start": 410.174,
+    "duration": 2.802
+  },
+  {
+    "text": "For example, in 1997,",
+    "start": 413.01,
+    "duration": 2.469
+  },
+  {
+    "text": "IBM created Deep Blue,\nan AI that plays chess,",
+    "start": 415.512,
+    "duration": 3.604
+  },
+  {
+    "text": "and they challenged the world champion\nGarry Kasparov to a tournament,",
+    "start": 419.116,
+    "duration": 3.303
+  },
+  {
+    "text": "and beat him in a landmark\nachievement for AI.",
+    "start": 422.453,
+    "duration": 3.269
+  },
+  {
+    "text": "But Deep Blue didn't act instantly.",
+    "start": 425.756,
+    "duration": 1.935
+  },
+  {
+    "text": "Deep Blue thought for a couple of minutes\nbefore making each move.",
+    "start": 427.724,
+    "duration": 4.238
+  },
+  {
+    "text": "Similarly, in 2016,\nDeepMind created AlphaGo,",
+    "start": 431.995,
+    "duration": 3.871
+  },
+  {
+    "text": "an AI that plays the game of go,",
+    "start": 435.866,
+    "duration": 1.602
+  },
+  {
+    "text": "which is even more complicated\nthan the game of chess.",
+    "start": 437.501,
+    "duration": 2.569
+  },
+  {
+    "text": "And they too challenged\na world champion, Lee Sedol,",
+    "start": 440.07,
+    "duration": 2.503
+  },
+  {
+    "text": "and beat him in a landmark\nachievement for AI.",
+    "start": 442.573,
+    "duration": 2.269
+  },
+  {
+    "text": "But AlphaGo also didn't act instantly.",
+    "start": 445.843,
+    "duration": 3.37
+  },
+  {
+    "text": "AlphaGo took the time\nto think for a couple of minutes",
+    "start": 449.246,
+    "duration": 2.736
+  },
+  {
+    "text": "before making each move.",
+    "start": 452.015,
+    "duration": 1.969
+  },
+  {
+    "text": "In fact, the authors of AlphaGo\nlater published a paper",
+    "start": 453.984,
+    "duration": 3.237
+  },
+  {
+    "text": "where they measured\njust how much of a difference",
+    "start": 457.254,
+    "duration": 2.336
+  },
+  {
+    "text": "this thinking time makes\nfor the strongest version of AlphaGo.",
+    "start": 459.623,
+    "duration": 3.637
+  },
+  {
+    "text": "And what they found is",
+    "start": 463.293,
+    "duration": 1.302
+  },
+  {
+    "text": "that when AlphaGo had the time\nto think for a couple of minutes,",
+    "start": 464.628,
+    "duration": 4.137
+  },
+  {
+    "text": "it would beat any human alive\nby a huge margin.",
+    "start": 468.799,
+    "duration": 2.769
+  },
+  {
+    "text": "But when it had to act instantly,\nit would do much worse than top humans.",
+    "start": 472.703,
+    "duration": 4.971
+  },
+  {
+    "text": "In 2021, there was a paper\nthat was published",
+    "start": 478.809,
+    "duration": 2.969
+  },
+  {
+    "text": "that tried to measure",
+    "start": 481.778,
+    "duration": 1.268
+  },
+  {
+    "text": "just how much of a difference\nthis thinking time made",
+    "start": 483.08,
+    "duration": 2.536
+  },
+  {
+    "text": "a bit more scientifically.",
+    "start": 485.616,
+    "duration": 1.268
+  },
+  {
+    "text": "In it, the authors found\nthat in these games,",
+    "start": 486.917,
+    "duration": 2.936
+  },
+  {
+    "text": "scaling up thinking time by 10x",
+    "start": 489.887,
+    "duration": 2.969
+  },
+  {
+    "text": "was roughly the equivalent of scaling up\nthe model size and training by 10x.",
+    "start": 492.89,
+    "duration": 5.538
+  },
+  {
+    "text": "So you have this very clear,\nclean relationship",
+    "start": 499.496,
+    "duration": 3.203
+  },
+  {
+    "text": "between scaling up System 2 thinking time",
+    "start": 502.699,
+    "duration": 2.903
+  },
+  {
+    "text": "and scaling up System 1 training.",
+    "start": 505.636,
+    "duration": 2.802
+  },
+  {
+    "text": "Now why does this matter?",
+    "start": 508.472,
+    "duration": 1.601
+  },
+  {
+    "text": "Well, remember I mentioned\nat the start of this talk",
+    "start": 511.008,
+    "duration": 2.469
+  },
+  {
+    "text": "that today's frontier models cost\nhundreds of millions of dollars to train,",
+    "start": 513.51,
+    "duration": 4.271
+  },
+  {
+    "text": "but the cost of querying them,",
+    "start": 517.781,
+    "duration": 1.735
+  },
+  {
+    "text": "the cost of asking a question\nand getting an answer",
+    "start": 519.55,
+    "duration": 2.602
+  },
+  {
+    "text": "is fractions of a penny.",
+    "start": 522.152,
+    "duration": 1.769
+  },
+  {
+    "text": "So this result says that if you want\nan even better model,",
+    "start": 523.954,
+    "duration": 4.871
+  },
+  {
+    "text": "there are two ways you could do it.",
+    "start": 528.825,
+    "duration": 1.769
+  },
+  {
+    "text": "One is to keep doing",
+    "start": 530.627,
+    "duration": 1.735
+  },
+  {
+    "text": "what we've been doing\nfor the past five years,",
+    "start": 532.362,
+    "duration": 2.169
+  },
+  {
+    "text": "and scaling up System 1 training,",
+    "start": 534.531,
+    "duration": 2.903
+  },
+  {
+    "text": "go from spending hundreds\nof millions of dollars on a model",
+    "start": 537.467,
+    "duration": 3.337
+  },
+  {
+    "text": "to billions of dollars on a model.",
+    "start": 540.837,
+    "duration": 2.436
+  },
+  {
+    "text": "The other is to scale up System 2 thinking",
+    "start": 543.307,
+    "duration": 3.903
+  },
+  {
+    "text": "and go from spending a penny per query\nto 10 cents per query.",
+    "start": 547.244,
+    "duration": 4.705
+  },
+  {
+    "text": "At a certain point,\nthat trade-off becomes well worth it.",
+    "start": 551.949,
+    "duration": 3.036
+  },
+  {
+    "text": "Now of course, all of these results\nare in the domain of games,",
+    "start": 554.985,
+    "duration": 3.87
+  },
+  {
+    "text": "and there was a reasonable question",
+    "start": 558.889,
+    "duration": 2.169
+  },
+  {
+    "text": "about whether these results\ncould be extended",
+    "start": 561.091,
+    "duration": 2.135
+  },
+  {
+    "text": "to a more complicated setting,\nlike language.",
+    "start": 563.26,
+    "duration": 2.769
+  },
+  {
+    "text": "But recently, my colleagues and I\nat OpenAI released o1,",
+    "start": 566.029,
+    "duration": 4.572
+  },
+  {
+    "text": "a new series of language models\nthat think before responding.",
+    "start": 570.634,
+    "duration": 4.338
+  },
+  {
+    "text": "If it's an easy question,\no1 might only think for a few seconds.",
+    "start": 575.005,
+    "duration": 3.503
+  },
+  {
+    "text": "If it's a difficult decision,\nit might think for a few minutes.",
+    "start": 578.542,
+    "duration": 4.438
+  },
+  {
+    "text": "But just like the AIs\nfor chess, go and poker,",
+    "start": 583.013,
+    "duration": 3.604
+  },
+  {
+    "text": "o1 benefits by being able\nto think for longer.",
+    "start": 586.617,
+    "duration": 3.737
+  },
+  {
+    "text": "This opens up a completely new\ndimension for scaling.",
+    "start": 590.387,
+    "duration": 3.637
+  },
+  {
+    "text": "We're no longer constrained\nto just scaling up System 1 training.",
+    "start": 594.057,
+    "duration": 3.337
+  },
+  {
+    "text": "Now we can scale up\nSystem 2 thinking as well.",
+    "start": 597.427,
+    "duration": 3.17
+  },
+  {
+    "text": "And the beautiful thing\nabout scaling up in this direction",
+    "start": 600.631,
+    "duration": 2.902
+  },
+  {
+    "text": "is that it's largely untapped.",
+    "start": 603.533,
+    "duration": 1.869
+  },
+  {
+    "text": "Remember I mentioned",
+    "start": 605.402,
+    "duration": 1.602
+  },
+  {
+    "text": "that the frontier models of today\ncost less than a penny to query.",
+    "start": 607.037,
+    "duration": 3.971
+  },
+  {
+    "text": "Now when I mention this to people,",
+    "start": 611.041,
+    "duration": 3.07
+  },
+  {
+    "text": "a frequent response that I get",
+    "start": 614.111,
+    "duration": 1.902
+  },
+  {
+    "text": "is that people might not be willing\nto wait around for a few minutes",
+    "start": 616.046,
+    "duration": 4.104
+  },
+  {
+    "text": "to get a response from a model,",
+    "start": 620.183,
+    "duration": 2.303
+  },
+  {
+    "text": "or pay a few dollars\nto get an answer to their question.",
+    "start": 622.486,
+    "duration": 3.436
+  },
+  {
+    "text": "And it's true that o1 takes longer",
+    "start": 625.956,
+    "duration": 3.103
+  },
+  {
+    "text": "and costs more than other models\nthat are out there.",
+    "start": 629.092,
+    "duration": 3.203
+  },
+  {
+    "text": "But I would argue",
+    "start": 632.329,
+    "duration": 1.268
+  },
+  {
+    "text": "that for some of the most important\nproblems that we care about,",
+    "start": 633.63,
+    "duration": 3.003
+  },
+  {
+    "text": "that cost is well worth it.",
+    "start": 636.667,
+    "duration": 1.368
+  },
+  {
+    "text": "So let's do an experiment and see.",
+    "start": 638.035,
+    "duration": 1.768
+  },
+  {
+    "text": "Raise your hand if you would be willing\nto pay more than a dollar",
+    "start": 640.737,
+    "duration": 4.505
+  },
+  {
+    "text": "for a new cancer treatment.",
+    "start": 645.242,
+    "duration": 1.768
+  },
+  {
+    "text": "Alright. Basically everybody\nin the audience.",
+    "start": 647.044,
+    "duration": 2.135
+  },
+  {
+    "text": "Keep your hand up.",
+    "start": 649.212,
+    "duration": 1.268
+  },
+  {
+    "text": "How about 1,000 dollars?",
+    "start": 650.514,
+    "duration": 1.535
+  },
+  {
+    "text": "How about a million dollars?",
+    "start": 652.949,
+    "duration": 2.77
+  },
+  {
+    "text": "What about for more\nefficient solar panels?",
+    "start": 655.752,
+    "duration": 3.003
+  },
+  {
+    "text": "Or for a proof of the Riemann hypothesis?",
+    "start": 659.456,
+    "duration": 3.203
+  },
+  {
+    "text": "The common conception\nof AI today is chatbots,",
+    "start": 662.659,
+    "duration": 3.137
+  },
+  {
+    "text": "but it doesn't have to be that way.",
+    "start": 665.829,
+    "duration": 1.935
+  },
+  {
+    "text": "This isn't a revolution\nthat's 10 years away",
+    "start": 668.632,
+    "duration": 2.135
+  },
+  {
+    "text": "or even two years away.",
+    "start": 670.801,
+    "duration": 1.301
+  },
+  {
+    "text": "It's a revolution that's happening now.",
+    "start": 672.135,
+    "duration": 2.469
+  },
+  {
+    "text": "My colleagues and I\nhave already released o1 preview,",
+    "start": 674.638,
+    "duration": 2.536
+  },
+  {
+    "text": "and I have had people come to me and say",
+    "start": 677.207,
+    "duration": 1.935
+  },
+  {
+    "text": "that it has saved them\ndays' worth of work,",
+    "start": 679.176,
+    "duration": 2.035
+  },
+  {
+    "text": "including researchers at top universities.",
+    "start": 681.244,
+    "duration": 2.102
+  },
+  {
+    "text": "And that's just the preview.",
+    "start": 683.38,
+    "duration": 1.735
+  },
+  {
+    "text": "I mentioned at the start of this talk\nthat the history of AI progress",
+    "start": 685.115,
+    "duration": 4.571
+  },
+  {
+    "text": "over the past five years",
+    "start": 689.72,
+    "duration": 1.368
+  },
+  {
+    "text": "can be summarized in one word:",
+    "start": 691.121,
+    "duration": 2.202
+  },
+  {
+    "text": "scale.",
+    "start": 693.323,
+    "duration": 1.435
+  },
+  {
+    "text": "So far, that has meant scaling up\nthe System 1 training of these models.",
+    "start": 694.791,
+    "duration": 4.939
+  },
+  {
+    "text": "Now we have a new paradigm,",
+    "start": 699.763,
+    "duration": 2.302
+  },
+  {
+    "text": "one where we can scale up\nSystem 2 thinking as well.",
+    "start": 702.099,
+    "duration": 3.069
+  },
+  {
+    "text": "And we are just at the very beginning\nof scaling up in this direction.",
+    "start": 705.202,
+    "duration": 3.77
+  },
+  {
+    "text": "Now",
+    "start": 709.005,
+    "duration": 1.469
+  },
+  {
+    "text": "I know that there are some people",
+    "start": 710.507,
+    "duration": 2.169
+  },
+  {
+    "text": "who will still say that AI\nis going to plateau or hit a wall.",
+    "start": 712.709,
+    "duration": 4.638
+  },
+  {
+    "text": "And to them I say,",
+    "start": 718.415,
+    "duration": 2.402
+  },
+  {
+    "text": "want to bet?",
+    "start": 720.817,
+    "duration": 1.268
+  },
+  {
+    "text": "(Laughter)",
+    "start": 722.119,
+    "duration": 1.267
+  },
+  {
+    "text": "Thank you.",
+    "start": 723.42,
+    "duration": 1.268
+  },
+  {
+    "text": "(Applause)",
+    "start": 724.721,
+    "duration": 4.371
+  }
+]

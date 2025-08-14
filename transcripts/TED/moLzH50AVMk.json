@@ -1,0 +1,597 @@
+[
+  {
+    "text": "[In January 2020,",
+    "start": 12.602,
+    "duration": 1.151
+  },
+  {
+    "text": "Christian Happi and Pardis Sabeti\npresented an Audacious idea]",
+    "start": 13.777,
+    "duration": 3.032
+  },
+  {
+    "text": "[Sentinel: An early warning system\nto detect and track the next pandemic]",
+    "start": 18.934,
+    "duration": 4.308
+  },
+  {
+    "text": "[Here's how it would work ...]",
+    "start": 25.223,
+    "duration": 1.761
+  },
+  {
+    "text": "Christian Happi: Sentinel is a proactive\nearly warning system to preempt pandemics.",
+    "start": 28.455,
+    "duration": 6.625
+  },
+  {
+    "text": "It is built on three major pillars.",
+    "start": 35.104,
+    "duration": 2.396
+  },
+  {
+    "text": "Pardis Sabeti: The first pillar is Detect.",
+    "start": 37.524,
+    "duration": 2.028
+  },
+  {
+    "text": "Christian and I have been studying\ninfectious diseases together",
+    "start": 39.576,
+    "duration": 2.981
+  },
+  {
+    "text": "around the world for two decades.",
+    "start": 42.581,
+    "duration": 1.964
+  },
+  {
+    "text": "We have been using genome sequencing.",
+    "start": 44.569,
+    "duration": 2.204
+  },
+  {
+    "text": "Reading out the complete\ngenetic information of a microbe,",
+    "start": 46.797,
+    "duration": 2.937
+  },
+  {
+    "text": "it allows us to identify viruses,\neven those we've never seen before,",
+    "start": 49.758,
+    "duration": 4.337
+  },
+  {
+    "text": "track them as they spread",
+    "start": 54.119,
+    "duration": 1.401
+  },
+  {
+    "text": "and watch for new mutations.",
+    "start": 55.544,
+    "duration": 1.884
+  },
+  {
+    "text": "And now with the powerful\ngene-editing technology CRISPR,",
+    "start": 57.452,
+    "duration": 3.297
+  },
+  {
+    "text": "we can use this genetic information",
+    "start": 60.773,
+    "duration": 2.17
+  },
+  {
+    "text": "to rapidly design exquisitely sensitive\ndiagnostic tests for any microbe.",
+    "start": 62.967,
+    "duration": 5.126
+  },
+  {
+    "text": "CH: One of these tools is called SHERLOCK.",
+    "start": 68.557,
+    "duration": 2.519
+  },
+  {
+    "text": "It can be used to test known viruses\non simple paper strips.",
+    "start": 71.1,
+    "duration": 5.367
+  },
+  {
+    "text": "It is very inexpensive,",
+    "start": 76.885,
+    "duration": 1.711
+  },
+  {
+    "text": "and frontline health workers\ncan use SHERLOCK",
+    "start": 78.62,
+    "duration": 3.014
+  },
+  {
+    "text": "to detect the most common\nor the most threatening viruses",
+    "start": 81.658,
+    "duration": 4.569
+  },
+  {
+    "text": "within an hour.",
+    "start": 86.251,
+    "duration": 1.39
+  },
+  {
+    "text": "PS: The other tool is CARMEN.",
+    "start": 88.109,
+    "duration": 1.58
+  },
+  {
+    "text": "It requires a lab, but it can test\nfor hundreds of viruses simultaneously.",
+    "start": 89.713,
+    "duration": 4.332
+  },
+  {
+    "text": "So hospital lab staff\ncan test patient samples",
+    "start": 94.069,
+    "duration": 2.708
+  },
+  {
+    "text": "for a broad range of viruses",
+    "start": 96.801,
+    "duration": 1.502
+  },
+  {
+    "text": "within a day.",
+    "start": 98.327,
+    "duration": 1.514
+  },
+  {
+    "text": "Our second pillar is Connect.",
+    "start": 99.865,
+    "duration": 2.691
+  },
+  {
+    "text": "Connect everyone\nand share this information",
+    "start": 102.58,
+    "duration": 2.436
+  },
+  {
+    "text": "across the public health community.",
+    "start": 105.04,
+    "duration": 1.934
+  },
+  {
+    "text": "In most outbreaks,",
+    "start": 107.752,
+    "duration": 1.341
+  },
+  {
+    "text": "hospital staff share case information\nthrough paper, Excel -- if at all.",
+    "start": 109.117,
+    "duration": 4.443
+  },
+  {
+    "text": "This makes tracking an outbreak\nthrough space and time",
+    "start": 114.115,
+    "duration": 2.568
+  },
+  {
+    "text": "and coordinating a response",
+    "start": 116.707,
+    "duration": 1.33
+  },
+  {
+    "text": "extremely difficult.",
+    "start": 118.061,
+    "duration": 1.435
+  },
+  {
+    "text": "So we're developing a cloud-based system\nand mobile applications",
+    "start": 119.877,
+    "duration": 3.105
+  },
+  {
+    "text": "that connect community health workers,",
+    "start": 123.006,
+    "duration": 1.979
+  },
+  {
+    "text": "clinicians, public health\nteams -- everyone --",
+    "start": 125.009,
+    "duration": 3.244
+  },
+  {
+    "text": "and allows them to upload data,",
+    "start": 128.277,
+    "duration": 2.178
+  },
+  {
+    "text": "perform analysis, share insights",
+    "start": 130.479,
+    "duration": 2.736
+  },
+  {
+    "text": "and coordinate a response and action plan",
+    "start": 133.239,
+    "duration": 2.079
+  },
+  {
+    "text": "in real time.",
+    "start": 135.342,
+    "duration": 1.498
+  },
+  {
+    "text": "CH: Our third pillar is Empower.",
+    "start": 136.864,
+    "duration": 3.023
+  },
+  {
+    "text": "An outbreak surveillance\nsystem can only succeed",
+    "start": 140.462,
+    "duration": 2.612
+  },
+  {
+    "text": "if we empower frontline health workers\nthat are already out there",
+    "start": 143.098,
+    "duration": 4.021
+  },
+  {
+    "text": "taking care of communities.",
+    "start": 147.143,
+    "duration": 1.69
+  },
+  {
+    "text": "It requires a lot of training.",
+    "start": 148.857,
+    "duration": 2.18
+  },
+  {
+    "text": "Pardis and I are very much aware of that.",
+    "start": 151.061,
+    "duration": 2.47
+  },
+  {
+    "text": "We've spent the past 10 years",
+    "start": 153.555,
+    "duration": 1.867
+  },
+  {
+    "text": "training hundreds of young\nAfrican scientists and clinicians.",
+    "start": 155.446,
+    "duration": 3.967
+  },
+  {
+    "text": "Over the next five years, we will train\nan additional 1,000 health workers",
+    "start": 159.437,
+    "duration": 4.11
+  },
+  {
+    "text": "to use Sentinel detection tools",
+    "start": 163.571,
+    "duration": 2.326
+  },
+  {
+    "text": "and empower them\nto train their colleagues.",
+    "start": 165.921,
+    "duration": 2.873
+  },
+  {
+    "text": "This way, we will improve\nthe original health care system",
+    "start": 168.818,
+    "duration": 3.514
+  },
+  {
+    "text": "and integrate surveillance\ninto medical practice.",
+    "start": 172.356,
+    "duration": 4.182
+  },
+  {
+    "text": "[Since presenting their Audacious\nplan at TED, the world has changed ...]",
+    "start": 177.488,
+    "duration": 3.88
+  },
+  {
+    "text": "Briar Goldberg: So here we are.\nWe're recording this.",
+    "start": 182.773,
+    "duration": 2.519
+  },
+  {
+    "text": "It's April 7th, 2020,",
+    "start": 185.316,
+    "duration": 2.444
+  },
+  {
+    "text": "and obviously, we are in the throes\nof this crazy global pandemic",
+    "start": 187.784,
+    "duration": 5.083
+  },
+  {
+    "text": "caused by this new coronavirus.",
+    "start": 192.891,
+    "duration": 1.762
+  },
+  {
+    "text": "So you two have been working\ntogether forever,",
+    "start": 194.677,
+    "duration": 2.934
+  },
+  {
+    "text": "and you really came together\npretty aggressively",
+    "start": 197.635,
+    "duration": 2.819
+  },
+  {
+    "text": "with the Ebola crisis back in 2014.",
+    "start": 200.478,
+    "duration": 2.875
+  },
+  {
+    "text": "What does it feel like\nfrom your perspective?",
+    "start": 203.377,
+    "duration": 2.196
+  },
+  {
+    "text": "CH: Pretty much six years\nafter the Ebola outbreak,",
+    "start": 205.597,
+    "duration": 3.367
+  },
+  {
+    "text": "we're really facing another crisis,",
+    "start": 208.988,
+    "duration": 2.088
+  },
+  {
+    "text": "and we still pretty much, like,\nwe never learned from the previous crisis.",
+    "start": 211.1,
+    "duration": 5.928
+  },
+  {
+    "text": "And that, really, for me,\nis heartbreaking.",
+    "start": 217.052,
+    "duration": 2.361
+  },
+  {
+    "text": "PS: I think that this pandemic\nhas shown us how unprepared we are",
+    "start": 219.437,
+    "duration": 6.598
+  },
+  {
+    "text": "everywhere in the world.",
+    "start": 226.059,
+    "duration": 1.168
+  },
+  {
+    "text": "Christian and our partners together\nhad diagnostics at our hospital sites",
+    "start": 227.251,
+    "duration": 4.733
+  },
+  {
+    "text": "in Nigeria, Sierra Leone\nand Senegal in early February.",
+    "start": 232.008,
+    "duration": 3.237
+  },
+  {
+    "text": "Most states in the United States\ndidn't have it until far later.",
+    "start": 235.269,
+    "duration": 5.52
+  },
+  {
+    "text": "It tells us that\nwe are all in this together,",
+    "start": 240.813,
+    "duration": 2.979
+  },
+  {
+    "text": "and we are all very much behind the curve.",
+    "start": 243.816,
+    "duration": 2.126
+  },
+  {
+    "text": "BG: So, this Sentinel system is amazing,",
+    "start": 245.966,
+    "duration": 3.908
+  },
+  {
+    "text": "but I know that the question\nthat's on everybody's mind is:",
+    "start": 249.898,
+    "duration": 2.817
+  },
+  {
+    "text": "How is that playing into the here and now?",
+    "start": 252.739,
+    "duration": 2.028
+  },
+  {
+    "text": "PS: You know, we describe Sentinel\nas a pandemic preemption system,",
+    "start": 254.791,
+    "duration": 3.259
+  },
+  {
+    "text": "and here we are in a pandemic.",
+    "start": 258.074,
+    "duration": 1.446
+  },
+  {
+    "text": "But what's great is that, actually,\nthe same tools you need",
+    "start": 259.544,
+    "duration": 2.784
+  },
+  {
+    "text": "to preempt a pandemic",
+    "start": 262.352,
+    "duration": 1.154
+  },
+  {
+    "text": "are the ones that you need\nto respond to one.",
+    "start": 263.53,
+    "duration": 2.109
+  },
+  {
+    "text": "And so all of the technologies\nthat we have laid out --",
+    "start": 265.663,
+    "duration": 3.065
+  },
+  {
+    "text": "the point-of-care testing,\nthe multiplex testing,",
+    "start": 268.752,
+    "duration": 2.625
+  },
+  {
+    "text": "the discovery and tracking\nof the virus as it's changing,",
+    "start": 271.401,
+    "duration": 3.41
+  },
+  {
+    "text": "and the overlay of the mobile\napplications to dashboard --",
+    "start": 274.835,
+    "duration": 3.4
+  },
+  {
+    "text": "are all critical.",
+    "start": 278.259,
+    "duration": 1.159
+  },
+  {
+    "text": "CH: For us, it is a war.",
+    "start": 279.442,
+    "duration": 2.132
+  },
+  {
+    "text": "We are basically committed\nfor 24 hours' turnaround time",
+    "start": 281.598,
+    "duration": 3.341
+  },
+  {
+    "text": "in order to give results,",
+    "start": 284.963,
+    "duration": 1.945
+  },
+  {
+    "text": "and that requires for us\nto work around the clock nonstop.",
+    "start": 286.932,
+    "duration": 4.187
+  },
+  {
+    "text": "So it's a pretty challenging moment.",
+    "start": 291.143,
+    "duration": 2.209
+  },
+  {
+    "text": "We are away from family.",
+    "start": 293.376,
+    "duration": 1.174
+  },
+  {
+    "text": "At least I have the privilege\nto see family today,",
+    "start": 294.574,
+    "duration": 2.376
+  },
+  {
+    "text": "and then I'm sure tomorrow\nI'm heading back in the trenches.",
+    "start": 296.974,
+    "duration": 2.96
+  },
+  {
+    "text": "In my lab, we sequenced\nthe first COVID-19 genome",
+    "start": 299.958,
+    "duration": 3.164
+  },
+  {
+    "text": "on the African continent,",
+    "start": 303.146,
+    "duration": 1.239
+  },
+  {
+    "text": "and that really was done within 48 hours.",
+    "start": 304.409,
+    "duration": 2.031
+  },
+  {
+    "text": "This is revolutionary\ncoming from Africa",
+    "start": 306.464,
+    "duration": 3.067
+  },
+  {
+    "text": "and then making this information\navailable for the global health community",
+    "start": 309.555,
+    "duration": 3.555
+  },
+  {
+    "text": "to see what the virus\nwithin Africa looks like.",
+    "start": 313.134,
+    "duration": 2.238
+  },
+  {
+    "text": "I believe that with\ntechnologies and knowledge",
+    "start": 315.396,
+    "duration": 2.656
+  },
+  {
+    "text": "and then sharing information,",
+    "start": 318.076,
+    "duration": 2.109
+  },
+  {
+    "text": "we can do better and then we can overcome.",
+    "start": 320.209,
+    "duration": 2.168
+  },
+  {
+    "text": "PS: The whole idea of Sentinel",
+    "start": 322.401,
+    "duration": 2.122
+  },
+  {
+    "text": "is that we all stand guard\nover each other.",
+    "start": 324.547,
+    "duration": 2.148
+  },
+  {
+    "text": "We all watch.",
+    "start": 326.719,
+    "duration": 1.156
+  },
+  {
+    "text": "Each one of us is a sentinel.",
+    "start": 327.899,
+    "duration": 1.46
+  },
+  {
+    "text": "Each one of us, being able to monitor\nwhat is making us sick,",
+    "start": 329.383,
+    "duration": 3.909
+  },
+  {
+    "text": "can share that with\nthe rest of our community.",
+    "start": 333.316,
+    "duration": 2.601
+  },
+  {
+    "text": "And I think that is what\nI profoundly want,",
+    "start": 335.941,
+    "duration": 3.025
+  },
+  {
+    "text": "is for us to all stand guard",
+    "start": 338.99,
+    "duration": 2.305
+  },
+  {
+    "text": "and watch over each other.",
+    "start": 341.319,
+    "duration": 1.536
+  },
+  {
+    "text": "[Dr. Pardis Sabeti\nand Dr. Christian Happi]",
+    "start": 343.269,
+    "duration": 2.337
+  },
+  {
+    "text": "[Ingenious scientists.",
+    "start": 346.998,
+    "duration": 1.155
+  },
+  {
+    "text": "Courageous partners.",
+    "start": 348.177,
+    "duration": 1.756
+  },
+  {
+    "text": "Global heroes.]",
+    "start": 349.957,
+    "duration": 1.693
+  }
+]

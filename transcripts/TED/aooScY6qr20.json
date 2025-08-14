@@ -1,0 +1,932 @@
+[
+  {
+    "text": "So we built a virus-resistant organism.",
+    "start": 3.708,
+    "duration": 3.504
+  },
+  {
+    "text": "Why?",
+    "start": 7.254,
+    "duration": 1.251
+  },
+  {
+    "text": "It's not about disease, or not directly.",
+    "start": 8.547,
+    "duration": 3.42
+  },
+  {
+    "text": "It's about building\nthe clean factories of the future.",
+    "start": 12.008,
+    "duration": 3.17
+  },
+  {
+    "text": "Let me explain by taking a big step back.",
+    "start": 16.429,
+    "duration": 2.711
+  },
+  {
+    "text": "All life runs on DNA.",
+    "start": 20.433,
+    "duration": 2.002
+  },
+  {
+    "text": "DNA codes for proteins,\nand proteins run life.",
+    "start": 23.311,
+    "duration": 4.338
+  },
+  {
+    "text": "DNA is composed of four bases:",
+    "start": 29.067,
+    "duration": 3.504
+  },
+  {
+    "text": "A, T, G and C.",
+    "start": 32.571,
+    "duration": 1.876
+  },
+  {
+    "text": "And triplets of these bases,\nknown as codons,",
+    "start": 35.407,
+    "duration": 3.837
+  },
+  {
+    "text": "encode each of the amino acid\nbuilding blocks in proteins.",
+    "start": 39.244,
+    "duration": 3.962
+  },
+  {
+    "text": "The genetic code is a rulebook",
+    "start": 43.915,
+    "duration": 2.544
+  },
+  {
+    "text": "that defines which codon\nencodes which amino acid.",
+    "start": 46.501,
+    "duration": 4.63
+  },
+  {
+    "text": "So, for example,",
+    "start": 51.172,
+    "duration": 2.545
+  },
+  {
+    "text": "the triplet codon TCG\nencodes the amino acid serine.",
+    "start": 53.758,
+    "duration": 5.089
+  },
+  {
+    "text": "And the order of triplet codons in DNA",
+    "start": 60.181,
+    "duration": 3.337
+  },
+  {
+    "text": "encodes the order of amino acid\nbuilding blocks in a protein.",
+    "start": 63.56,
+    "duration": 4.379
+  },
+  {
+    "text": "There are 64 triplet codons in DNA",
+    "start": 67.939,
+    "duration": 3.671
+  },
+  {
+    "text": "and just 20 common amino acids.",
+    "start": 71.61,
+    "duration": 3.503
+  },
+  {
+    "text": "And this means that most amino acids",
+    "start": 75.113,
+    "duration": 2.169
+  },
+  {
+    "text": "are encoded by more than \none triplet codon.",
+    "start": 77.282,
+    "duration": 3.503
+  },
+  {
+    "text": "So, for example, the amino acid serine",
+    "start": 80.785,
+    "duration": 3.003
+  },
+  {
+    "text": "is encoded by six different\ntriplet codons.",
+    "start": 83.788,
+    "duration": 3.879
+  },
+  {
+    "text": "And triplet codons\nthat encode the same amino acid",
+    "start": 87.709,
+    "duration": 2.336
+  },
+  {
+    "text": "are defined as synonymous codons.",
+    "start": 90.086,
+    "duration": 2.67
+  },
+  {
+    "text": "The DNA code used for life\nis near universal.",
+    "start": 93.632,
+    "duration": 3.336
+  },
+  {
+    "text": "All forms of life and viruses\nuse essentially the same genetic code.",
+    "start": 98.178,
+    "duration": 5.422
+  },
+  {
+    "text": "And that's a trait that we can exploit.",
+    "start": 104.684,
+    "duration": 2.378
+  },
+  {
+    "text": "Here's what we did.",
+    "start": 108.396,
+    "duration": 1.252
+  },
+  {
+    "text": "We asked whether life needs\nmultiple synonymous codons",
+    "start": 110.482,
+    "duration": 3.753
+  },
+  {
+    "text": "to encode a single amino acid.",
+    "start": 114.235,
+    "duration": 2.461
+  },
+  {
+    "text": "For example, does life need\nsix different codons,",
+    "start": 116.696,
+    "duration": 3.379
+  },
+  {
+    "text": "which all code for the amino acid serine?",
+    "start": 120.075,
+    "duration": 3.253
+  },
+  {
+    "text": "We took the four-million-character\nDNA of E. coli, its genome,",
+    "start": 124.871,
+    "duration": 5.464
+  },
+  {
+    "text": "and completely rewrote\nthe code of this microbe",
+    "start": 130.377,
+    "duration": 2.794
+  },
+  {
+    "text": "in a very specific way",
+    "start": 133.213,
+    "duration": 2.294
+  },
+  {
+    "text": "by replacing targeted codons in its genome",
+    "start": 135.548,
+    "duration": 3.42
+  },
+  {
+    "text": "with synonymous codons\nthat encode the same amino acid.",
+    "start": 139.01,
+    "duration": 3.671
+  },
+  {
+    "text": "So for example,",
+    "start": 143.515,
+    "duration": 2.46
+  },
+  {
+    "text": "we replaced the TCG and TCA codons,",
+    "start": 146.017,
+    "duration": 3.42
+  },
+  {
+    "text": "which encode the amino acid serine,",
+    "start": 149.437,
+    "duration": 2.628
+  },
+  {
+    "text": "with AGT and AGC codons,",
+    "start": 152.065,
+    "duration": 2.794
+  },
+  {
+    "text": "which also encode the amino acid serine.",
+    "start": 154.859,
+    "duration": 3.087
+  },
+  {
+    "text": "By doing this across the whole\nfour-million-base genome,",
+    "start": 158.571,
+    "duration": 3.796
+  },
+  {
+    "text": "we completely removed the targeted codons\nfrom the genetic code of E. coli.",
+    "start": 162.367,
+    "duration": 4.588
+  },
+  {
+    "text": "Overall, we compressed the genetic code\nfrom using 64 codons to using 61 codons.",
+    "start": 168.206,
+    "duration": 6.882
+  },
+  {
+    "text": "How did we do it?",
+    "start": 176.631,
+    "duration": 2.044
+  },
+  {
+    "text": "We first took the four-million-character\ncode in a computer",
+    "start": 178.717,
+    "duration": 4.045
+  },
+  {
+    "text": "and used a find-and-replace operation",
+    "start": 182.804,
+    "duration": 2.377
+  },
+  {
+    "text": "to replace targeted codons\nwith their synonyms.",
+    "start": 185.223,
+    "duration": 3.003
+  },
+  {
+    "text": "This created our new genome design,",
+    "start": 188.935,
+    "duration": 2.92
+  },
+  {
+    "text": "which contained more than 18,000 changes\nwith respect to the original genome.",
+    "start": 191.855,
+    "duration": 5.213
+  },
+  {
+    "text": "We then asked whether\nwe could build an organism",
+    "start": 198.236,
+    "duration": 2.836
+  },
+  {
+    "text": "that runs on our synthetic genome design.",
+    "start": 201.072,
+    "duration": 2.503
+  },
+  {
+    "text": "We built the synthetic genome\nstarting from short pieces of DNA.",
+    "start": 204.492,
+    "duration": 3.837
+  },
+  {
+    "text": "These were made by chemistry\nin a test tube,",
+    "start": 209.205,
+    "duration": 2.586
+  },
+  {
+    "text": "something that would have been\nprohibitively expensive to do",
+    "start": 211.833,
+    "duration": 2.836
+  },
+  {
+    "text": "on this scale just a decade or two ago.",
+    "start": 214.711,
+    "duration": 2.544
+  },
+  {
+    "text": "We then assembled\nthese short pieces of DNA",
+    "start": 218.506,
+    "duration": 2.253
+  },
+  {
+    "text": "into longer stretches of DNA,",
+    "start": 220.8,
+    "duration": 2.378
+  },
+  {
+    "text": "which we then used to step-by-step replace",
+    "start": 223.219,
+    "duration": 3.254
+  },
+  {
+    "text": "all four million bases\nof the E. coli genome.",
+    "start": 226.514,
+    "duration": 3.879
+  },
+  {
+    "text": "This created the largest\nsynthetic genome ever made.",
+    "start": 231.227,
+    "duration": 3.546
+  },
+  {
+    "text": "And the resulting cell was alive.",
+    "start": 235.774,
+    "duration": 2.711
+  },
+  {
+    "text": "Think about that.",
+    "start": 239.819,
+    "duration": 1.293
+  },
+  {
+    "text": "We streamlined the genetic code,\nand yet the cell lived.",
+    "start": 241.112,
+    "duration": 4.38
+  },
+  {
+    "text": "We can create life\nwith a compressed genetic code.",
+    "start": 245.492,
+    "duration": 3.837
+  },
+  {
+    "text": "Now because our organism\nwith a compressed genetic code",
+    "start": 250.246,
+    "duration": 3.629
+  },
+  {
+    "text": "doesn't use all 64 triplet codons\nto make proteins,",
+    "start": 253.917,
+    "duration": 4.379
+  },
+  {
+    "text": "we could remove some\nof the machinery from the cell",
+    "start": 258.338,
+    "duration": 3.086
+  },
+  {
+    "text": "that normally reads\nthe near-universal genetic code.",
+    "start": 261.466,
+    "duration": 3.754
+  },
+  {
+    "text": "Specifically, we could remove components\nof the translational machinery,",
+    "start": 266.763,
+    "duration": 4.296
+  },
+  {
+    "text": "specific tRNAs,",
+    "start": 271.1,
+    "duration": 1.752
+  },
+  {
+    "text": "that normally read the codons\nthat we've removed from the genome.",
+    "start": 272.894,
+    "duration": 3.295
+  },
+  {
+    "text": "Now, the key point here\nis that we've created a cell",
+    "start": 277.732,
+    "duration": 3.712
+  },
+  {
+    "text": "that no longer reads all the codons\nin the near-universal genetic code.",
+    "start": 281.444,
+    "duration": 5.381
+  },
+  {
+    "text": "Now viruses infect cells.",
+    "start": 287.909,
+    "duration": 2.294
+  },
+  {
+    "text": "These might be the cells of our bodies",
+    "start": 291.079,
+    "duration": 2.085
+  },
+  {
+    "text": "or single-celled microbes like E.coli.",
+    "start": 293.206,
+    "duration": 2.377
+  },
+  {
+    "text": "They commonly have their own DNA,",
+    "start": 296.668,
+    "duration": 2.586
+  },
+  {
+    "text": "which uses the near-universal genetic code",
+    "start": 299.295,
+    "duration": 3.003
+  },
+  {
+    "text": "to encode the proteins necessary\nto make copies of the virus.",
+    "start": 302.34,
+    "duration": 4.63
+  },
+  {
+    "text": "But viruses don't have the machinery\nto read the genetic code in their DNA,",
+    "start": 307.011,
+    "duration": 4.672
+  },
+  {
+    "text": "and instead they rely on the host cell,\nthe machinery of the host cell,",
+    "start": 311.724,
+    "duration": 5.714
+  },
+  {
+    "text": "to read the genetic code in their DNA",
+    "start": 317.438,
+    "duration": 2.294
+  },
+  {
+    "text": "and make copies of the virus.",
+    "start": 319.732,
+    "duration": 1.794
+  },
+  {
+    "text": "It's these copies of the virus\nthat go on to infect other cells.",
+    "start": 322.443,
+    "duration": 3.712
+  },
+  {
+    "text": "And this is how viruses spread.",
+    "start": 326.155,
+    "duration": 2.086
+  },
+  {
+    "text": "But viruses are unable to make copies\nof themselves in our new organism",
+    "start": 329.284,
+    "duration": 3.962
+  },
+  {
+    "text": "because our new organism\ndoesn't have the machinery",
+    "start": 333.246,
+    "duration": 3.045
+  },
+  {
+    "text": "to read all the codons\nin the DNA of the virus.",
+    "start": 336.332,
+    "duration": 3.796
+  },
+  {
+    "text": "The code in the DNA used in the virus",
+    "start": 340.169,
+    "duration": 2.586
+  },
+  {
+    "text": "and the host cell's machinery\nto read that code are incompatible.",
+    "start": 342.797,
+    "duration": 4.129
+  },
+  {
+    "text": "Therefore, the virus doesn’t spread\nin the new organism,",
+    "start": 347.802,
+    "duration": 3.67
+  },
+  {
+    "text": "and the new organism\nis resistant to viruses.",
+    "start": 351.514,
+    "duration": 3.629
+  },
+  {
+    "text": "In fact, we showed that our new organism\nwas resistant to a wide range of viruses,",
+    "start": 355.184,
+    "duration": 5.423
+  },
+  {
+    "text": "suggesting that rewriting the genetic code",
+    "start": 360.607,
+    "duration": 2.961
+  },
+  {
+    "text": "provides a route to creating\nbroadly virus-resistant life.",
+    "start": 363.568,
+    "duration": 4.338
+  },
+  {
+    "text": "By extending the approaches\nwe've developed to other organisms,",
+    "start": 368.781,
+    "duration": 3.295
+  },
+  {
+    "text": "it may be possible to create\nvirus-resistant crops and animals",
+    "start": 372.076,
+    "duration": 4.38
+  },
+  {
+    "text": "with important applications\nin agriculture and beyond.",
+    "start": 376.497,
+    "duration": 3.129
+  },
+  {
+    "text": "But our advances also provide a foundation",
+    "start": 380.543,
+    "duration": 2.336
+  },
+  {
+    "text": "for turning cells into\nthe clean factories of the future.",
+    "start": 382.921,
+    "duration": 4.004
+  },
+  {
+    "text": "How?",
+    "start": 387.967,
+    "duration": 1.251
+  },
+  {
+    "text": "So to explain,\nlet me take another step back",
+    "start": 389.928,
+    "duration": 2.419
+  },
+  {
+    "text": "to how organisms read\ntheir genetic code to make proteins.",
+    "start": 392.388,
+    "duration": 3.504
+  },
+  {
+    "text": "Recall that the order\nof triplet codons in DNA",
+    "start": 396.935,
+    "duration": 3.128
+  },
+  {
+    "text": "encodes the order of amino acid\nbuilding blocks in a protein.",
+    "start": 400.063,
+    "duration": 3.42
+  },
+  {
+    "text": "And it's the translational\nmachinery of cells",
+    "start": 404.609,
+    "duration": 2.753
+  },
+  {
+    "text": "that reads the triplet codons",
+    "start": 407.362,
+    "duration": 2.002
+  },
+  {
+    "text": "and builds the corresponding\nsequence of amino acids.",
+    "start": 409.364,
+    "duration": 3.378
+  },
+  {
+    "text": "The translational machinery\nof natural cells --",
+    "start": 414.077,
+    "duration": 2.377
+  },
+  {
+    "text": "including ribosomes,",
+    "start": 416.454,
+    "duration": 1.627
+  },
+  {
+    "text": "aminoacyl-tRNA synthetase\nenzymes and tRNAs --",
+    "start": 418.122,
+    "duration": 3.504
+  },
+  {
+    "text": "is a unique and special system\nfor making proteins",
+    "start": 421.668,
+    "duration": 3.795
+  },
+  {
+    "text": "in which the 20 common amino acids\nare strung together in a chain.",
+    "start": 425.505,
+    "duration": 4.212
+  },
+  {
+    "text": "Now, proteins are amazing,",
+    "start": 430.718,
+    "duration": 2.378
+  },
+  {
+    "text": "but they're just one example",
+    "start": 433.137,
+    "duration": 2.086
+  },
+  {
+    "text": "from a vast class of molecules\nknown as polymers,",
+    "start": 435.264,
+    "duration": 4.088
+  },
+  {
+    "text": "which includes plastics,\nmaterials and drugs.",
+    "start": 439.394,
+    "duration": 3.169
+  },
+  {
+    "text": "And the polymer or linear polymer\nis really any molecule",
+    "start": 443.731,
+    "duration": 3.003
+  },
+  {
+    "text": "in which simpler chemical building blocks\nare strung together in a chain.",
+    "start": 446.734,
+    "duration": 3.462
+  },
+  {
+    "text": "We wanted to unlock the potential\nof the translational machinery",
+    "start": 451.948,
+    "duration": 3.295
+  },
+  {
+    "text": "for making plastics, materials and drugs",
+    "start": 455.243,
+    "duration": 3.336
+  },
+  {
+    "text": "that simply can't be made\nin any other way,",
+    "start": 458.579,
+    "duration": 3.295
+  },
+  {
+    "text": "or that could be made\nmore cleanly and efficiently",
+    "start": 461.916,
+    "duration": 3.295
+  },
+  {
+    "text": "using engineered versions\nof the cell's translational machinery.",
+    "start": 465.253,
+    "duration": 3.879
+  },
+  {
+    "text": "The building blocks for these polymers",
+    "start": 469.841,
+    "duration": 1.835
+  },
+  {
+    "text": "go well beyond the 20 common amino acids\nused to make proteins.",
+    "start": 471.718,
+    "duration": 4.17
+  },
+  {
+    "text": "It's been impossible\nto unlock the potential",
+    "start": 477.432,
+    "duration": 2.085
+  },
+  {
+    "text": "of the translational machinery\nfor making plastics, materials and drugs",
+    "start": 479.559,
+    "duration": 3.462
+  },
+  {
+    "text": "for two reasons.",
+    "start": 483.062,
+    "duration": 1.377
+  },
+  {
+    "text": "First, all 64 triplet codons\nin natural cells",
+    "start": 485.189,
+    "duration": 4.38
+  },
+  {
+    "text": "are used for making natural proteins,",
+    "start": 489.569,
+    "duration": 2.919
+  },
+  {
+    "text": "and there are simply no codons available\nto encode the synthesis of new polymers.",
+    "start": 492.488,
+    "duration": 4.296
+  },
+  {
+    "text": "Second, the natural\ntranslational machinery",
+    "start": 497.952,
+    "duration": 3.504
+  },
+  {
+    "text": "specifically uses natural amino acids",
+    "start": 501.497,
+    "duration": 2.836
+  },
+  {
+    "text": "and simply can't use\nthe chemical building blocks",
+    "start": 504.375,
+    "duration": 2.419
+  },
+  {
+    "text": "required to make new polymers.",
+    "start": 506.836,
+    "duration": 2.044
+  },
+  {
+    "text": "However, a virus-resistant organism",
+    "start": 510.298,
+    "duration": 4.212
+  },
+  {
+    "text": "doesn't use all 64 triplet codons\nto make proteins",
+    "start": 514.552,
+    "duration": 3.795
+  },
+  {
+    "text": "and doesn't contain the machinery\nto read the codons",
+    "start": 518.389,
+    "duration": 3.17
+  },
+  {
+    "text": "that have been deleted from its genome.",
+    "start": 521.601,
+    "duration": 2.335
+  },
+  {
+    "text": "And this cell provides the starting point\nfor genetically-encoded polymer synthesis.",
+    "start": 523.978,
+    "duration": 5.13
+  },
+  {
+    "text": "To realize genetically-encoded\npolymer synthesis",
+    "start": 530.943,
+    "duration": 2.67
+  },
+  {
+    "text": "in our virus-resistant organism,",
+    "start": 533.613,
+    "duration": 2.294
+  },
+  {
+    "text": "we added synthetic DNA\ncontaining the triplet codons",
+    "start": 535.907,
+    "duration": 3.545
+  },
+  {
+    "text": "we'd removed from the genome of the cell",
+    "start": 539.452,
+    "duration": 3.086
+  },
+  {
+    "text": "and engineered translational machinery\nto read these codons",
+    "start": 542.538,
+    "duration": 3.212
+  },
+  {
+    "text": "and reassign them to new chemical\nbuilding blocks for new polymers.",
+    "start": 545.792,
+    "duration": 4.129
+  },
+  {
+    "text": "This system can be programmed\nto make diverse synthetic polymers.",
+    "start": 551.172,
+    "duration": 4.212
+  },
+  {
+    "text": "By changing the order\nof the triplet codons",
+    "start": 555.426,
+    "duration": 2.294
+  },
+  {
+    "text": "in the synthetic DNA,",
+    "start": 557.762,
+    "duration": 1.585
+  },
+  {
+    "text": "we can change the order\nof the chemical building blocks",
+    "start": 559.388,
+    "duration": 2.628
+  },
+  {
+    "text": "that we program\ninto the resulting polymer.",
+    "start": 562.058,
+    "duration": 2.127
+  },
+  {
+    "text": "And by changing the identity\nof the engineered translational machinery",
+    "start": 565.186,
+    "duration": 3.795
+  },
+  {
+    "text": "that we add to the cell,",
+    "start": 568.981,
+    "duration": 1.544
+  },
+  {
+    "text": "we can change the identity\nof the chemical building blocks",
+    "start": 570.525,
+    "duration": 2.752
+  },
+  {
+    "text": "from which we compose the polymer.",
+    "start": 573.277,
+    "duration": 1.752
+  },
+  {
+    "text": "Overall, we've created a cellular factory",
+    "start": 576.155,
+    "duration": 3.045
+  },
+  {
+    "text": "that we can reliably\nand predictably program",
+    "start": 579.2,
+    "duration": 2.836
+  },
+  {
+    "text": "to make synthetic polymers.",
+    "start": 582.036,
+    "duration": 2.503
+  },
+  {
+    "text": "Using our approach,\nwe've already been able to program cells",
+    "start": 584.58,
+    "duration": 2.836
+  },
+  {
+    "text": "to make new molecules,",
+    "start": 587.458,
+    "duration": 1.794
+  },
+  {
+    "text": "including molecules\nfrom an important class of drugs",
+    "start": 589.293,
+    "duration": 2.92
+  },
+  {
+    "text": "known as depsipeptide macrocycles.",
+    "start": 592.255,
+    "duration": 2.085
+  },
+  {
+    "text": "Molecules in this class\ninclude antibiotics,",
+    "start": 595.133,
+    "duration": 2.794
+  },
+  {
+    "text": "immunosuppressives\nand anti-tumor compounds.",
+    "start": 597.969,
+    "duration": 2.919
+  },
+  {
+    "text": "We've also been able to program cells\nto make completely synthetic polymers",
+    "start": 601.848,
+    "duration": 4.379
+  },
+  {
+    "text": "containing the chemical linkages found",
+    "start": 606.269,
+    "duration": 1.835
+  },
+  {
+    "text": "in several classes\nof biodegradable plastics.",
+    "start": 608.146,
+    "duration": 2.752
+  },
+  {
+    "text": "As we build new polymer molecules\nusing our cellular factories,",
+    "start": 612.4,
+    "duration": 4.212
+  },
+  {
+    "text": "we have the opportunity\nto consider from the beginning",
+    "start": 616.612,
+    "duration": 3.337
+  },
+  {
+    "text": "how we might also use\nengineered biological cells",
+    "start": 619.949,
+    "duration": 3.712
+  },
+  {
+    "text": "to break these polymers down",
+    "start": 623.661,
+    "duration": 1.502
+  },
+  {
+    "text": "into their constituent\nchemical building blocks",
+    "start": 625.163,
+    "duration": 2.794
+  },
+  {
+    "text": "that could be recycled\nand used for new encoded polymers.",
+    "start": 627.999,
+    "duration": 4.045
+  },
+  {
+    "text": "We envision a circular bioeconomy",
+    "start": 633.129,
+    "duration": 2.294
+  },
+  {
+    "text": "in which our new genetically-encoded\nplastics and materials",
+    "start": 635.464,
+    "duration": 4.004
+  },
+  {
+    "text": "are manufactured\nand ultimately broken down",
+    "start": 639.51,
+    "duration": 3.587
+  },
+  {
+    "text": "using low-energy cellular processes,",
+    "start": 643.139,
+    "duration": 2.794
+  },
+  {
+    "text": "taking advantage of existing\nbioreactors and fermenters.",
+    "start": 645.975,
+    "duration": 3.462
+  },
+  {
+    "text": "By taking inspiration from nature\nand reimagining what life can become,",
+    "start": 650.855,
+    "duration": 6.131
+  },
+  {
+    "text": "we have the opportunity to build\nthe sustainable industries of the future.",
+    "start": 656.986,
+    "duration": 5.214
+  },
+  {
+    "text": "Thank you.",
+    "start": 663.451,
+    "duration": 1.293
+  },
+  {
+    "text": "(Applause)",
+    "start": 664.744,
+    "duration": 1.251
+  }
+]

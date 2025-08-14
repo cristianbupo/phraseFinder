@@ -1,0 +1,397 @@
+[
+  {
+    "text": "This is a thought experiment.",
+    "start": 7.246,
+    "duration": 2.042
+  },
+  {
+    "text": "Let's say at some point\nin the not so distant future,",
+    "start": 9.288,
+    "duration": 2.625
+  },
+  {
+    "text": "you're barreling down the highway\nin your self-driving car,",
+    "start": 11.913,
+    "duration": 3.583
+  },
+  {
+    "text": "and you find yourself boxed in\non all sides by other cars.",
+    "start": 15.496,
+    "duration": 4.292
+  },
+  {
+    "text": "Suddenly, a large, heavy object\nfalls off the truck in front of you.",
+    "start": 19.788,
+    "duration": 4.416
+  },
+  {
+    "text": "Your car can't stop in time\nto avoid the collision,",
+    "start": 24.204,
+    "duration": 3.167
+  },
+  {
+    "text": "so it needs to make a decision:",
+    "start": 27.371,
+    "duration": 2.042
+  },
+  {
+    "text": "go straight and hit the object,",
+    "start": 29.413,
+    "duration": 2.25
+  },
+  {
+    "text": "swerve left into an SUV,",
+    "start": 31.663,
+    "duration": 2.291
+  },
+  {
+    "text": "or swerve right into a motorcycle.",
+    "start": 33.954,
+    "duration": 3.0
+  },
+  {
+    "text": "Should it prioritize your safety\nby hitting the motorcycle,",
+    "start": 36.954,
+    "duration": 3.5
+  },
+  {
+    "text": "minimize danger to others by not swerving,",
+    "start": 40.454,
+    "duration": 2.792
+  },
+  {
+    "text": "even if it means hitting the large object\nand sacrificing your life,",
+    "start": 43.246,
+    "duration": 4.083
+  },
+  {
+    "text": "or take the middle ground\nby hitting the SUV,",
+    "start": 47.329,
+    "duration": 2.75
+  },
+  {
+    "text": "which has a high passenger safety rating?",
+    "start": 50.079,
+    "duration": 3.0
+  },
+  {
+    "text": "So what should the self-driving car do?",
+    "start": 53.079,
+    "duration": 3.208
+  },
+  {
+    "text": "If we were driving that boxed in car\nin manual mode,",
+    "start": 56.287,
+    "duration": 3.209
+  },
+  {
+    "text": "whichever way we'd react\nwould be understood as just that,",
+    "start": 59.496,
+    "duration": 3.541
+  },
+  {
+    "text": "a reaction,",
+    "start": 63.037,
+    "duration": 1.292
+  },
+  {
+    "text": "not a deliberate decision.",
+    "start": 64.329,
+    "duration": 2.25
+  },
+  {
+    "text": "It would be an instinctual panicked move\nwith no forethought or malice.",
+    "start": 66.579,
+    "duration": 4.292
+  },
+  {
+    "text": "But if a programmer were to instruct\nthe car to make the same move,",
+    "start": 70.871,
+    "duration": 3.625
+  },
+  {
+    "text": "given conditions it may \nsense in the future,",
+    "start": 74.496,
+    "duration": 2.833
+  },
+  {
+    "text": "well, that looks more\nlike premeditated homicide.",
+    "start": 77.329,
+    "duration": 4.292
+  },
+  {
+    "text": "Now, to be fair,",
+    "start": 81.621,
+    "duration": 1.0
+  },
+  {
+    "text": "self-driving cars are predicted \nto dramatically reduce traffic accidents",
+    "start": 82.621,
+    "duration": 4.083
+  },
+  {
+    "text": "and fatalities",
+    "start": 86.704,
+    "duration": 1.25
+  },
+  {
+    "text": "by removing human error \nfrom the driving equation.",
+    "start": 87.954,
+    "duration": 3.167
+  },
+  {
+    "text": "Plus, there may be all sorts \nof other benefits:",
+    "start": 91.121,
+    "duration": 2.375
+  },
+  {
+    "text": "eased road congestion,",
+    "start": 93.496,
+    "duration": 1.667
+  },
+  {
+    "text": "decreased harmful emissions,",
+    "start": 95.163,
+    "duration": 1.541
+  },
+  {
+    "text": "and minimized unproductive\nand stressful driving time.",
+    "start": 96.704,
+    "duration": 4.625
+  },
+  {
+    "text": "But accidents can and will still happen,",
+    "start": 101.329,
+    "duration": 2.167
+  },
+  {
+    "text": "and when they do,",
+    "start": 103.496,
+    "duration": 1.167
+  },
+  {
+    "text": "their outcomes may be determined\nmonths or years in advance",
+    "start": 104.663,
+    "duration": 4.5
+  },
+  {
+    "text": "by programmers or policy makers.",
+    "start": 109.163,
+    "duration": 2.583
+  },
+  {
+    "text": "And they'll have \nsome difficult decisions to make.",
+    "start": 111.746,
+    "duration": 2.5
+  },
+  {
+    "text": "It's tempting to offer up general \ndecision-making principles,",
+    "start": 114.246,
+    "duration": 2.958
+  },
+  {
+    "text": "like minimize harm,",
+    "start": 117.204,
+    "duration": 1.875
+  },
+  {
+    "text": "but even that quickly leads \nto morally murky decisions.",
+    "start": 119.079,
+    "duration": 3.375
+  },
+  {
+    "text": "For example,",
+    "start": 122.454,
+    "duration": 1.167
+  },
+  {
+    "text": "let's say we have the same initial set up,",
+    "start": 123.621,
+    "duration": 2.0
+  },
+  {
+    "text": "but now there's a motorcyclist \nwearing a helmet to your left",
+    "start": 125.621,
+    "duration": 2.875
+  },
+  {
+    "text": "and another one without \na helmet to your right.",
+    "start": 128.496,
+    "duration": 2.792
+  },
+  {
+    "text": "Which one should \nyour robot car crash into?",
+    "start": 131.288,
+    "duration": 3.083
+  },
+  {
+    "text": "If you say the biker with the helmet\nbecause she's more likely to survive,",
+    "start": 134.371,
+    "duration": 4.083
+  },
+  {
+    "text": "then aren't you penalizing \nthe responsible motorist?",
+    "start": 138.454,
+    "duration": 2.917
+  },
+  {
+    "text": "If, instead, you save the biker \nwithout the helmet",
+    "start": 141.371,
+    "duration": 2.75
+  },
+  {
+    "text": "because he's acting irresponsibly,",
+    "start": 144.121,
+    "duration": 2.0
+  },
+  {
+    "text": "then you've gone way beyond the initial\ndesign principle about minimizing harm,",
+    "start": 146.121,
+    "duration": 4.875
+  },
+  {
+    "text": "and the robot car is now \nmeting out street justice.",
+    "start": 150.996,
+    "duration": 3.875
+  },
+  {
+    "text": "The ethical considerations \nget more complicated here.",
+    "start": 154.871,
+    "duration": 3.542
+  },
+  {
+    "text": "In both of our scenarios,",
+    "start": 158.413,
+    "duration": 1.375
+  },
+  {
+    "text": "the underlying design is functioning\nas a targeting algorithm of sorts.",
+    "start": 159.788,
+    "duration": 4.5
+  },
+  {
+    "text": "In other words,",
+    "start": 164.288,
+    "duration": 1.0
+  },
+  {
+    "text": "it's systematically favoring \nor discriminating",
+    "start": 165.288,
+    "duration": 2.5
+  },
+  {
+    "text": "against a certain type \nof object to crash into.",
+    "start": 167.788,
+    "duration": 3.5
+  },
+  {
+    "text": "And the owners of the target vehicles",
+    "start": 171.288,
+    "duration": 2.333
+  },
+  {
+    "text": "will suffer the negative consequences\nof this algorithm",
+    "start": 173.621,
+    "duration": 3.042
+  },
+  {
+    "text": "through no fault of their own.",
+    "start": 176.663,
+    "duration": 2.083
+  },
+  {
+    "text": "Our new technologies are opening up\nmany other novel ethical dilemmas.",
+    "start": 178.746,
+    "duration": 4.667
+  },
+  {
+    "text": "For instance, if you had to \nchoose between",
+    "start": 183.413,
+    "duration": 2.083
+  },
+  {
+    "text": "a car that would always save\nas many lives as possible in an accident,",
+    "start": 185.496,
+    "duration": 4.042
+  },
+  {
+    "text": "or one that would save you at any cost,",
+    "start": 189.538,
+    "duration": 3.041
+  },
+  {
+    "text": "which would you buy?",
+    "start": 192.579,
+    "duration": 1.667
+  },
+  {
+    "text": "What happens if the cars start analyzing\nand factoring in",
+    "start": 194.246,
+    "duration": 3.333
+  },
+  {
+    "text": "the passengers of the cars\nand the particulars of their lives?",
+    "start": 197.579,
+    "duration": 3.459
+  },
+  {
+    "text": "Could it be the case \nthat a random decision",
+    "start": 201.038,
+    "duration": 2.166
+  },
+  {
+    "text": "is still better than a predetermined one\ndesigned to minimize harm?",
+    "start": 203.204,
+    "duration": 4.917
+  },
+  {
+    "text": "And who should be making \nall of these decisions anyhow?",
+    "start": 208.121,
+    "duration": 2.667
+  },
+  {
+    "text": "Programmers? Companies?\nGovernments?",
+    "start": 210.829,
+    "duration": 2.709
+  },
+  {
+    "text": "Reality may not play out exactly\nlike our thought experiments,",
+    "start": 214.121,
+    "duration": 3.458
+  },
+  {
+    "text": "but that's not the point.",
+    "start": 217.579,
+    "duration": 1.667
+  },
+  {
+    "text": "They're designed to isolate \nand stress test our intuitions on ethics,",
+    "start": 219.246,
+    "duration": 4.333
+  },
+  {
+    "text": "just like science experiments do\nfor the physical world.",
+    "start": 223.579,
+    "duration": 3.0
+  },
+  {
+    "text": "Spotting these moral hairpin turns now",
+    "start": 226.579,
+    "duration": 3.375
+  },
+  {
+    "text": "will help us maneuver the unfamiliar road\nof technology ethics,",
+    "start": 229.954,
+    "duration": 3.584
+  },
+  {
+    "text": "and allow us to cruise confidently\nand conscientiously",
+    "start": 233.538,
+    "duration": 3.75
+  },
+  {
+    "text": "into our brave new future.",
+    "start": 237.288,
+    "duration": 2.375
+  }
+]

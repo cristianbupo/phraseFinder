@@ -1,0 +1,2542 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.0,
+    "duration": 1.88
+  },
+  {
+    "text": "BRIAN KENNY: On\nJanuary 17, 1967,",
+    "start": 1.88,
+    "duration": 2.97
+  },
+  {
+    "text": "aviation history was\nmade when Boeing unveiled",
+    "start": 4.85,
+    "duration": 3.12
+  },
+  {
+    "text": "the very first Boeing 737\naircraft at King County",
+    "start": 7.97,
+    "duration": 4.05
+  },
+  {
+    "text": "International Airport\noutside of Seattle.",
+    "start": 12.02,
+    "duration": 2.4
+  },
+  {
+    "text": "Baby Boeing, as it was called,\nhad a greater seating capacity",
+    "start": 14.42,
+    "duration": 3.57
+  },
+  {
+    "text": "than any plane in its class and\nsported wing-mounted engines",
+    "start": 17.99,
+    "duration": 3.78
+  },
+  {
+    "text": "that provided a more\nbalanced center of gravity.",
+    "start": 21.77,
+    "duration": 2.67
+  },
+  {
+    "text": "The team at Boeing thought they\nhad a winner on their hands,",
+    "start": 24.44,
+    "duration": 2.61
+  },
+  {
+    "text": "and they were right.",
+    "start": 27.05,
+    "duration": 1.11
+  },
+  {
+    "text": "The Boeing 737 is the top\nselling commercial aircraft",
+    "start": 28.16,
+    "duration": 3.42
+  },
+  {
+    "text": "of all time and\nholds its own entry",
+    "start": 31.58,
+    "duration": 2.52
+  },
+  {
+    "text": "in the Guinness Book\nof World Records.",
+    "start": 34.1,
+    "duration": 1.68
+  },
+  {
+    "text": "It's operated by more than\n5,000 airlines and over 200",
+    "start": 35.78,
+    "duration": 3.39
+  },
+  {
+    "text": "countries, and at\nany given moment,",
+    "start": 39.17,
+    "duration": 2.17
+  },
+  {
+    "text": "there are roughly 1,200\n737 airliners in the sky.",
+    "start": 41.34,
+    "duration": 3.92
+  },
+  {
+    "text": "In over three\ndecades of operation,",
+    "start": 45.26,
+    "duration": 2.28
+  },
+  {
+    "text": "the plane was involved\nin 19 fatal accidents,",
+    "start": 47.54,
+    "duration": 3.24
+  },
+  {
+    "text": "which equates to\nabout 1 accident",
+    "start": 50.78,
+    "duration": 2.04
+  },
+  {
+    "text": "for every 4 million departures.",
+    "start": 52.82,
+    "duration": 2.49
+  },
+  {
+    "text": "So when a brand new Boeing\n737 MAX fell from the sky",
+    "start": 55.31,
+    "duration": 4.32
+  },
+  {
+    "text": "in October of 2018, killing\nall 195 souls on board,",
+    "start": 59.63,
+    "duration": 5.079
+  },
+  {
+    "text": "the aviation world took notice.",
+    "start": 64.709,
+    "duration": 2.071
+  },
+  {
+    "text": "Today on Cold Call, we\nwelcome Professor Bill George",
+    "start": 66.78,
+    "duration": 3.42
+  },
+  {
+    "text": "to discuss his case\nentitled What Went Wrong",
+    "start": 70.2,
+    "duration": 2.85
+  },
+  {
+    "text": "With Boeing's 737 MAX.",
+    "start": 73.05,
+    "duration": 2.4
+  },
+  {
+    "text": "I'm your host Brian\nKenny, and you're",
+    "start": 75.45,
+    "duration": 1.86
+  },
+  {
+    "text": "listening to Cold Call on\nthe HBR Presents Network.",
+    "start": 77.31,
+    "duration": 5.47
+  },
+  {
+    "text": "Bill George is an\nexpert on leadership,",
+    "start": 82.78,
+    "duration": 2.01
+  },
+  {
+    "text": "a topic he teaches and\nwrites about extensively,",
+    "start": 84.79,
+    "duration": 2.83
+  },
+  {
+    "text": "including numerous books,\narticles, and business cases.",
+    "start": 87.62,
+    "duration": 3.02
+  },
+  {
+    "text": "He's also the former\nChairman and Chief Executive",
+    "start": 90.64,
+    "duration": 2.67
+  },
+  {
+    "text": "Officer of Medtronic, and he's a\nrepeat guest here on Cold Call.",
+    "start": 93.31,
+    "duration": 3.197
+  },
+  {
+    "text": "Bill, we're so happy\nto have you back.",
+    "start": 96.507,
+    "duration": 1.583
+  },
+  {
+    "text": "Thanks for joining us today.",
+    "start": 98.09,
+    "duration": 1.35
+  },
+  {
+    "text": "BILL GEORGE: Thanks for\nhaving me back, Brian.",
+    "start": 99.44,
+    "duration": 1.49
+  },
+  {
+    "text": "BRIAN KENNY: We always\nlove your cases.",
+    "start": 100.93,
+    "duration": 1.625
+  },
+  {
+    "text": "They're super relatable.",
+    "start": 102.555,
+    "duration": 1.015
+  },
+  {
+    "text": "Sometimes they're looking\nat historic figures,",
+    "start": 103.57,
+    "duration": 1.98
+  },
+  {
+    "text": "like Martin Luther\nKing Jr. We had",
+    "start": 105.55,
+    "duration": 1.65
+  },
+  {
+    "text": "a conversation about that case.",
+    "start": 107.2,
+    "duration": 1.323
+  },
+  {
+    "text": "And then sometimes they're\nmore sort of ripped",
+    "start": 108.523,
+    "duration": 1.917
+  },
+  {
+    "text": "from the headlines, and this\nfalls into that category.",
+    "start": 110.44,
+    "duration": 3.27
+  },
+  {
+    "text": "I think these incidents are\npretty fresh on people's minds.",
+    "start": 113.71,
+    "duration": 2.89
+  },
+  {
+    "text": "We're going to dig into some of\nthe cultural issues at Boeing.",
+    "start": 116.6,
+    "duration": 3.2
+  },
+  {
+    "text": "And I think people\nwill really like",
+    "start": 119.8,
+    "duration": 1.71
+  },
+  {
+    "text": "to hear your thoughts on where\nthere might have been lapses",
+    "start": 121.51,
+    "duration": 2.64
+  },
+  {
+    "text": "in judgment or leadership.",
+    "start": 124.15,
+    "duration": 1.2
+  },
+  {
+    "text": "Let me ask you to\nstart by telling us",
+    "start": 125.35,
+    "duration": 2.1
+  },
+  {
+    "text": "what's your cold call\nto start the case when",
+    "start": 127.45,
+    "duration": 1.98
+  },
+  {
+    "text": "you walk into the classroom\nor when you tune in on Zoom?",
+    "start": 129.43,
+    "duration": 2.4
+  },
+  {
+    "text": "I guess these days is\nhow we're doing it.",
+    "start": 131.83,
+    "duration": 1.98
+  },
+  {
+    "text": "BILL GEORGE: Brian,\nhere's how I start.",
+    "start": 133.81,
+    "duration": 1.68
+  },
+  {
+    "text": "It's now March 9, 2019.",
+    "start": 135.49,
+    "duration": 3.75
+  },
+  {
+    "text": "You're Dennis Muilenburg,\nthe CEO of Boeing.",
+    "start": 139.24,
+    "duration": 3.22
+  },
+  {
+    "text": "You're asleep in your\napartment in Chicago",
+    "start": 142.46,
+    "duration": 2.47
+  },
+  {
+    "text": "while your family's back in\nSaint Louis at your home.",
+    "start": 144.93,
+    "duration": 2.96
+  },
+  {
+    "text": "You get a call from your chief\nsafety officer at Boeing,",
+    "start": 147.89,
+    "duration": 3.27
+  },
+  {
+    "text": "Dennis, we've had bad news,\na second Boeing 737 MAX",
+    "start": 151.16,
+    "duration": 5.37
+  },
+  {
+    "text": "has crashed outside Addis\nAbaba Airport in Ethiopia",
+    "start": 156.53,
+    "duration": 4.38
+  },
+  {
+    "text": "just a few minutes\nafter takeoff.",
+    "start": 160.91,
+    "duration": 2.28
+  },
+  {
+    "text": "We just don't know\nanything at this stage.",
+    "start": 163.19,
+    "duration": 3.083
+  },
+  {
+    "text": "You're Dennis Muilenburg.",
+    "start": 166.273,
+    "duration": 1.042
+  },
+  {
+    "text": "I want you to walk in his shoes.",
+    "start": 167.315,
+    "duration": 2.415
+  },
+  {
+    "text": "What are you going\nto do right now?",
+    "start": 169.73,
+    "duration": 2.19
+  },
+  {
+    "text": "BRIAN KENNY: That's a\ntough, tough question,",
+    "start": 171.92,
+    "duration": 2.1
+  },
+  {
+    "text": "but it's the kind of thing that\nthese leaders have had to face.",
+    "start": 174.02,
+    "duration": 2.73
+  },
+  {
+    "text": "Tell me, you've written so\nmany cases on leadership,",
+    "start": 176.75,
+    "duration": 2.85
+  },
+  {
+    "text": "why did this one strike you\nas one that was worthwhile?",
+    "start": 179.6,
+    "duration": 3.33
+  },
+  {
+    "text": "And how does it relate to the\nthings that you write about",
+    "start": 182.93,
+    "duration": 2.4
+  },
+  {
+    "text": "and teach as a scholar?",
+    "start": 185.33,
+    "duration": 1.59
+  },
+  {
+    "text": "BILL GEORGE: Well, I think this\ncaptures both the crucibles",
+    "start": 186.92,
+    "duration": 3.33
+  },
+  {
+    "text": "that the CEO and all\nthe executives at Boeing",
+    "start": 190.25,
+    "duration": 2.64
+  },
+  {
+    "text": "felt about these two planes\ncrashing from the air",
+    "start": 192.89,
+    "duration": 2.91
+  },
+  {
+    "text": "and how they led\nthrough this crisis.",
+    "start": 195.8,
+    "duration": 2.97
+  },
+  {
+    "text": "And this really\nillustrates leading",
+    "start": 198.77,
+    "duration": 2.55
+  },
+  {
+    "text": "in crisis, which a lot of\nus are facing these days.",
+    "start": 201.32,
+    "duration": 3.72
+  },
+  {
+    "text": "But it's an understanding\nof all the pressures",
+    "start": 205.04,
+    "duration": 2.7
+  },
+  {
+    "text": "that come to bear\nbecause you have not only",
+    "start": 207.74,
+    "duration": 2.31
+  },
+  {
+    "text": "the internal pressure, you\nhave the customer pressures,",
+    "start": 210.05,
+    "duration": 2.64
+  },
+  {
+    "text": "you have the\ngovernment pressure,",
+    "start": 212.69,
+    "duration": 1.43
+  },
+  {
+    "text": "or the FAA, you have\nthe media pressures,",
+    "start": 214.12,
+    "duration": 2.53
+  },
+  {
+    "text": "you have investor pressures.",
+    "start": 216.65,
+    "duration": 1.65
+  },
+  {
+    "text": "You probably have pressures\nfrom your board of directors who",
+    "start": 218.3,
+    "duration": 1.95
+  },
+  {
+    "text": "want to know what's happened.",
+    "start": 220.25,
+    "duration": 0.87
+  },
+  {
+    "text": "And all these\nthings come to bear,",
+    "start": 221.12,
+    "duration": 1.62
+  },
+  {
+    "text": "and it's the real\ntest of a leader",
+    "start": 222.74,
+    "duration": 1.98
+  },
+  {
+    "text": "is how you respond in crisis.",
+    "start": 224.72,
+    "duration": 2.49
+  },
+  {
+    "text": "That's what I was trying to\ncapture and really examine",
+    "start": 227.21,
+    "duration": 2.73
+  },
+  {
+    "text": "how this leader dealt\nwith this crisis.",
+    "start": 229.94,
+    "duration": 2.103
+  },
+  {
+    "text": "BRIAN KENNY: Give us a\nsense, before we really",
+    "start": 232.043,
+    "duration": 1.917
+  },
+  {
+    "text": "dive into the details, what are\nthe sort of key learning points",
+    "start": 233.96,
+    "duration": 3.39
+  },
+  {
+    "text": "that emerge out of these cases?",
+    "start": 237.35,
+    "duration": 2.04
+  },
+  {
+    "text": "BILL GEORGE: I\nasked the students",
+    "start": 239.39,
+    "duration": 1.41
+  },
+  {
+    "text": "after they described\nhow they would",
+    "start": 240.8,
+    "duration": 1.8
+  },
+  {
+    "text": "deal with this situation, what's\nthe root cause of this problem?",
+    "start": 242.6,
+    "duration": 4.41
+  },
+  {
+    "text": "That's at the\nstart of the class.",
+    "start": 247.01,
+    "duration": 1.84
+  },
+  {
+    "text": "The other learning\nthat comes out",
+    "start": 248.85,
+    "duration": 1.64
+  },
+  {
+    "text": "of it is a lot of times\ncrises have very long roots.",
+    "start": 250.49,
+    "duration": 4.0
+  },
+  {
+    "text": "And if you only deal\nin the immediacy of it,",
+    "start": 254.49,
+    "duration": 2.45
+  },
+  {
+    "text": "you don't kind of understand\nthe depth and complexity",
+    "start": 256.94,
+    "duration": 3.36
+  },
+  {
+    "text": "of the problem.",
+    "start": 260.3,
+    "duration": 0.9
+  },
+  {
+    "text": "And the third learning\npoint is to understand",
+    "start": 261.2,
+    "duration": 2.85
+  },
+  {
+    "text": "what pressure CEOs are under\nfrom external forces as well",
+    "start": 264.05,
+    "duration": 4.14
+  },
+  {
+    "text": "as internal forces,\nand how they have",
+    "start": 268.19,
+    "duration": 2.07
+  },
+  {
+    "text": "to not only balance but\nintegrate and satisfy and deal",
+    "start": 270.26,
+    "duration": 4.32
+  },
+  {
+    "text": "with each of these forces.",
+    "start": 274.58,
+    "duration": 1.71
+  },
+  {
+    "text": "And the pressures are quite\ndifferent from a supplier,",
+    "start": 276.29,
+    "duration": 3.27
+  },
+  {
+    "text": "a customer, an FAA, or frankly,\nMuilenburg had testified",
+    "start": 279.56,
+    "duration": 4.31
+  },
+  {
+    "text": "before Congress, and\nthe pressures you get",
+    "start": 283.87,
+    "duration": 1.75
+  },
+  {
+    "text": "in testifying before Congress.",
+    "start": 285.62,
+    "duration": 1.25
+  },
+  {
+    "text": "That was an extremely\nembarrassing situation",
+    "start": 286.87,
+    "duration": 2.14
+  },
+  {
+    "text": "because the families of the\nvictims of these crashes",
+    "start": 289.01,
+    "duration": 3.3
+  },
+  {
+    "text": "came with pictures\nof their loved ones",
+    "start": 292.31,
+    "duration": 2.04
+  },
+  {
+    "text": "on a board that was about 16\ninches high and 8 inches wide.",
+    "start": 294.35,
+    "duration": 4.48
+  },
+  {
+    "text": "And they held these\npictures up behind him,",
+    "start": 298.83,
+    "duration": 2.12
+  },
+  {
+    "text": "and at a certain point in\ntime, a dramatic point,",
+    "start": 300.95,
+    "duration": 2.1
+  },
+  {
+    "text": "they all held them up\nand the congressman",
+    "start": 303.05,
+    "duration": 1.74
+  },
+  {
+    "text": "asked him to turn\naround and look,",
+    "start": 304.79,
+    "duration": 1.2
+  },
+  {
+    "text": "and asked him how\nhe was feeling.",
+    "start": 305.99,
+    "duration": 1.26
+  },
+  {
+    "text": "BRIAN KENNY: Pressure packed.",
+    "start": 307.25,
+    "duration": 0.96
+  },
+  {
+    "text": "BILL GEORGE: It's a high\npressure job, I'll say that.",
+    "start": 308.21,
+    "duration": 2.208
+  },
+  {
+    "text": "And I think few\npeople understand",
+    "start": 310.418,
+    "duration": 1.542
+  },
+  {
+    "text": "the multiple pressures\nCEOs are under.",
+    "start": 311.96,
+    "duration": 2.97
+  },
+  {
+    "text": "And they wonder, why do they\nbehave in the ways they do?",
+    "start": 314.93,
+    "duration": 2.603
+  },
+  {
+    "text": "BRIAN KENNY: You talked\nabout the Ethiopian Airlines",
+    "start": 317.533,
+    "duration": 2.167
+  },
+  {
+    "text": "disaster.",
+    "start": 319.7,
+    "duration": 0.57
+  },
+  {
+    "text": "I teased in the intro\nthe Lion Air flight",
+    "start": 320.27,
+    "duration": 2.58
+  },
+  {
+    "text": "that crashed in 2018, and\nthat was the first 737",
+    "start": 322.85,
+    "duration": 3.9
+  },
+  {
+    "text": "Air MAX to go down.",
+    "start": 326.75,
+    "duration": 1.293
+  },
+  {
+    "text": "I wonder if you could maybe talk\na little bit about that flight,",
+    "start": 328.043,
+    "duration": 2.667
+  },
+  {
+    "text": "but I also want to talk\nabout Boeing and its history.",
+    "start": 330.71,
+    "duration": 3.27
+  },
+  {
+    "text": "They've been around for a long\ntime, sort of a storied history",
+    "start": 333.98,
+    "duration": 3.48
+  },
+  {
+    "text": "in aviation.",
+    "start": 337.46,
+    "duration": 0.78
+  },
+  {
+    "text": "So tell us what happened\nwith Lion Air first,",
+    "start": 338.24,
+    "duration": 2.28
+  },
+  {
+    "text": "maybe as a starting point.",
+    "start": 340.52,
+    "duration": 1.41
+  },
+  {
+    "text": "BILL GEORGE: The\ninteresting thing",
+    "start": 341.93,
+    "duration": 1.417
+  },
+  {
+    "text": "about that is how\nBoeing responded.",
+    "start": 343.347,
+    "duration": 1.973
+  },
+  {
+    "text": "There was no statement\nfrom the CEO.",
+    "start": 345.32,
+    "duration": 2.55
+  },
+  {
+    "text": "Instead, there was a statement\nfrom the Public Relations",
+    "start": 347.87,
+    "duration": 2.58
+  },
+  {
+    "text": "Department saying we are\nvery sad this happened,",
+    "start": 350.45,
+    "duration": 3.66
+  },
+  {
+    "text": "and we are deferring\nall inquiries",
+    "start": 354.11,
+    "duration": 2.49
+  },
+  {
+    "text": "to the National Transportation\nSafety Board that's",
+    "start": 356.6,
+    "duration": 3.15
+  },
+  {
+    "text": "going to investigate it.",
+    "start": 359.75,
+    "duration": 1.32
+  },
+  {
+    "text": "Basically, not stepping up to\nany level of responsibility.",
+    "start": 361.07,
+    "duration": 3.79
+  },
+  {
+    "text": "And then about a week,\n10 days later, Boeing",
+    "start": 364.86,
+    "duration": 3.5
+  },
+  {
+    "text": "published a statement\nsaying the 737 MAX",
+    "start": 368.36,
+    "duration": 2.82
+  },
+  {
+    "text": "is the safest aircraft\nthat's ever been flown.",
+    "start": 371.18,
+    "duration": 3.12
+  },
+  {
+    "text": "Boy, that's a risky\nstatement when you",
+    "start": 374.3,
+    "duration": 1.98
+  },
+  {
+    "text": "don't have all the information.",
+    "start": 376.28,
+    "duration": 1.588
+  },
+  {
+    "text": "The pressures people are under.",
+    "start": 377.868,
+    "duration": 1.292
+  },
+  {
+    "text": "You don't know what happened.",
+    "start": 379.16,
+    "duration": 1.473
+  },
+  {
+    "text": "There was a clear\napplication they",
+    "start": 380.633,
+    "duration": 1.417
+  },
+  {
+    "text": "were trying to blame\nit on the pilots,",
+    "start": 382.05,
+    "duration": 1.89
+  },
+  {
+    "text": "but you really don't\nknow what happened,",
+    "start": 383.94,
+    "duration": 2.28
+  },
+  {
+    "text": "and you're making these\nvery strong statements.",
+    "start": 386.22,
+    "duration": 3.37
+  },
+  {
+    "text": "And they aren't coming\nfrom a person, the CEO.",
+    "start": 389.59,
+    "duration": 2.55
+  },
+  {
+    "text": "They're coming from\na press department.",
+    "start": 392.14,
+    "duration": 1.82
+  },
+  {
+    "text": "And I think that's\nsignificant to examine.",
+    "start": 393.96,
+    "duration": 2.67
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 396.63,
+    "duration": 0.75
+  },
+  {
+    "text": "BILL GEORGE: They did\nnot shut the claims down.",
+    "start": 397.38,
+    "duration": 2.28
+  },
+  {
+    "text": "They let the others do the\ninvestigation for them,",
+    "start": 399.66,
+    "duration": 3.03
+  },
+  {
+    "text": "and then eventually they\nstarted their own investigation,",
+    "start": 402.69,
+    "duration": 2.46
+  },
+  {
+    "text": "but planes continued to fly.",
+    "start": 405.15,
+    "duration": 1.77
+  },
+  {
+    "text": "BRIAN KENNY: In your\nopinion, is this consistent",
+    "start": 406.92,
+    "duration": 2.34
+  },
+  {
+    "text": "with the culture at Boeing?",
+    "start": 409.26,
+    "duration": 1.89
+  },
+  {
+    "text": "Talk a little bit about\nthe origins of Boeing",
+    "start": 411.15,
+    "duration": 2.13
+  },
+  {
+    "text": "and the culture that was there,\nlet's say, prior to the merger",
+    "start": 413.28,
+    "duration": 3.39
+  },
+  {
+    "text": "with McDonnell Douglas.",
+    "start": 416.67,
+    "duration": 1.32
+  },
+  {
+    "text": "BILL GEORGE: Well, Boeing\nfounded by William Boeing",
+    "start": 417.99,
+    "duration": 2.73
+  },
+  {
+    "text": "was really the premier aviation\ncompany for the last 110 years.",
+    "start": 420.72,
+    "duration": 6.46
+  },
+  {
+    "text": "And it's an amazing company.",
+    "start": 427.18,
+    "duration": 1.86
+  },
+  {
+    "text": "I've visited many\ntimes out in Seattle,",
+    "start": 429.04,
+    "duration": 1.97
+  },
+  {
+    "text": "and it's an amazing company.",
+    "start": 431.01,
+    "duration": 1.3
+  },
+  {
+    "text": "And they have these\nhuge bays where",
+    "start": 432.31,
+    "duration": 1.88
+  },
+  {
+    "text": "they produce the planes\nin Renton, Washington.",
+    "start": 434.19,
+    "duration": 2.34
+  },
+  {
+    "text": "Of course, they're the ones\nthat produced the original 707.",
+    "start": 436.53,
+    "duration": 3.75
+  },
+  {
+    "text": "They produced the\n727, and then they",
+    "start": 440.28,
+    "duration": 2.7
+  },
+  {
+    "text": "had a huge bonanza with the\n747, which, of course, is",
+    "start": 442.98,
+    "duration": 3.35
+  },
+  {
+    "text": "a gargantuan airplane.",
+    "start": 446.33,
+    "duration": 1.42
+  },
+  {
+    "text": "Holds up to 450 passengers.",
+    "start": 447.75,
+    "duration": 1.8
+  },
+  {
+    "text": "So they were the\npremier company,",
+    "start": 449.55,
+    "duration": 1.5
+  },
+  {
+    "text": "and they were an\nengineers company.",
+    "start": 451.05,
+    "duration": 1.75
+  },
+  {
+    "text": "They were a company\nwhere every engineer",
+    "start": 452.8,
+    "duration": 1.7
+  },
+  {
+    "text": "would fight to get a job there.",
+    "start": 454.5,
+    "duration": 1.89
+  },
+  {
+    "text": "You mentioned McDonnell Douglas.",
+    "start": 456.39,
+    "duration": 1.56
+  },
+  {
+    "text": "There are pretty clear\nindications in the case",
+    "start": 457.95,
+    "duration": 2.58
+  },
+  {
+    "text": "and in all my studies\nthat when they",
+    "start": 460.53,
+    "duration": 2.13
+  },
+  {
+    "text": "acquired McDonnell Douglas,\nwho was the premier fighter jet",
+    "start": 462.66,
+    "duration": 4.06
+  },
+  {
+    "text": "pilot--",
+    "start": 466.72,
+    "duration": 0.5
+  },
+  {
+    "text": "I used to work with them\nwhen I was in the Pentagon",
+    "start": 467.22,
+    "duration": 2.25
+  },
+  {
+    "text": "in the '60s.",
+    "start": 469.47,
+    "duration": 1.05
+  },
+  {
+    "text": "The F-4, a very, very\npopular aircraft.",
+    "start": 470.52,
+    "duration": 3.72
+  },
+  {
+    "text": "The culture changed, and it\nbecame much more, if you will,",
+    "start": 474.24,
+    "duration": 3.39
+  },
+  {
+    "text": "cost-oriented and less\nsafety and design-oriented.",
+    "start": 477.63,
+    "duration": 4.36
+  },
+  {
+    "text": "We've seen this happen in a\nnumber of American companies.",
+    "start": 481.99,
+    "duration": 2.48
+  },
+  {
+    "text": "It happened to General\nMotors in the 20th century.",
+    "start": 484.47,
+    "duration": 3.24
+  },
+  {
+    "text": "General Electric, too, started\nfocusing less on engineering,",
+    "start": 487.71,
+    "duration": 3.36
+  },
+  {
+    "text": "more on cost reduction.",
+    "start": 491.07,
+    "duration": 1.29
+  },
+  {
+    "text": "And so Boeing did that.",
+    "start": 492.36,
+    "duration": 1.59
+  },
+  {
+    "text": "And it also had a rather\ndifficult succession of CEOs.",
+    "start": 493.95,
+    "duration": 5.7
+  },
+  {
+    "text": "Phil Condit was the CEO\nand had to resign over",
+    "start": 499.65,
+    "duration": 4.5
+  },
+  {
+    "text": "an ethical scandal.",
+    "start": 504.15,
+    "duration": 1.44
+  },
+  {
+    "text": "He actually moved the\nheadquarters from Seattle",
+    "start": 505.59,
+    "duration": 2.07
+  },
+  {
+    "text": "to Chicago for something\nlike $60 million",
+    "start": 507.66,
+    "duration": 3.48
+  },
+  {
+    "text": "in subsidies spread\nover 20 years.",
+    "start": 511.14,
+    "duration": 2.159
+  },
+  {
+    "text": "Personally, I felt at the time\nit was a terrible mistake,",
+    "start": 513.299,
+    "duration": 2.821
+  },
+  {
+    "text": "and I think history has\nproven it was, indeed,",
+    "start": 516.12,
+    "duration": 2.64
+  },
+  {
+    "text": "a very poor decision because\nyou separate yourself now",
+    "start": 518.76,
+    "duration": 3.69
+  },
+  {
+    "text": "from the people\nrunning the company,",
+    "start": 522.45,
+    "duration": 1.53
+  },
+  {
+    "text": "from the engineers, the\nmarketers, the people engaged",
+    "start": 523.98,
+    "duration": 3.15
+  },
+  {
+    "text": "every day in the business,\nthe production people.",
+    "start": 527.13,
+    "duration": 2.093
+  },
+  {
+    "text": "You can't walk out\nin the factory.",
+    "start": 529.223,
+    "duration": 1.417
+  },
+  {
+    "text": "They have no\ninterest in Chicago.",
+    "start": 530.64,
+    "duration": 1.5
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 532.14,
+    "duration": 0.48
+  },
+  {
+    "text": "BILL GEORGE: Harry\nStonecipher came in.",
+    "start": 532.62,
+    "duration": 1.5
+  },
+  {
+    "text": "He actually was called\nout of retirement",
+    "start": 534.12,
+    "duration": 1.68
+  },
+  {
+    "text": "when Condit was\nterminated, and he actually",
+    "start": 535.8,
+    "duration": 2.61
+  },
+  {
+    "text": "did quite a good job reviving\nthe commercial aircraft",
+    "start": 538.41,
+    "duration": 2.52
+  },
+  {
+    "text": "business because they\nwere losing out to Airbus",
+    "start": 540.93,
+    "duration": 2.28
+  },
+  {
+    "text": "and always complaining\nabout Airbus' subsidies.",
+    "start": 543.21,
+    "duration": 2.31
+  },
+  {
+    "text": "But Stonecipher was a\ncost guy, and he openly",
+    "start": 545.52,
+    "duration": 3.27
+  },
+  {
+    "text": "said we're going\nto cut the cost.",
+    "start": 548.79,
+    "duration": 1.59
+  },
+  {
+    "text": "This has got to be a more\nbusiness-oriented company, less",
+    "start": 550.38,
+    "duration": 2.67
+  },
+  {
+    "text": "of an engineer's company.",
+    "start": 553.05,
+    "duration": 1.89
+  },
+  {
+    "text": "Stonecipher also, unfortunately,\nwas caught in a sexual scandal",
+    "start": 554.94,
+    "duration": 4.44
+  },
+  {
+    "text": "and had to resign.",
+    "start": 559.38,
+    "duration": 0.81
+  },
+  {
+    "text": "BRIAN KENNY: That's\na tough stretch.",
+    "start": 560.19,
+    "duration": 1.5
+  },
+  {
+    "text": "BILL GEORGE: And they\nhad the obvious candidate",
+    "start": 561.69,
+    "duration": 2.07
+  },
+  {
+    "text": "to become Stonecipher's\nsuccessor right there",
+    "start": 563.76,
+    "duration": 3.03
+  },
+  {
+    "text": "in place who had revived the\ncommercial aviation business,",
+    "start": 566.79,
+    "duration": 3.84
+  },
+  {
+    "text": "a man named Alan Mulally.",
+    "start": 570.63,
+    "duration": 1.53
+  },
+  {
+    "text": "But Mulally was passed over for\nJim McNerney, who at the time",
+    "start": 572.16,
+    "duration": 4.41
+  },
+  {
+    "text": "was CEO of 3M.",
+    "start": 576.57,
+    "duration": 1.067
+  },
+  {
+    "text": "He had been at General Electric.",
+    "start": 577.637,
+    "duration": 1.333
+  },
+  {
+    "text": "Very famous executive.",
+    "start": 578.97,
+    "duration": 1.44
+  },
+  {
+    "text": "Had only been at\n3M for three years.",
+    "start": 580.41,
+    "duration": 1.513
+  },
+  {
+    "text": "He even got a call from the\nPresident of the United States",
+    "start": 581.923,
+    "duration": 2.417
+  },
+  {
+    "text": "urging him to take the Boeing\njob in the national interest.",
+    "start": 584.34,
+    "duration": 3.16
+  },
+  {
+    "text": "So they've had quite\na succession of CEOs.",
+    "start": 587.5,
+    "duration": 2.51
+  },
+  {
+    "text": "And Muilenburg comes in\nlater on in 2013 as COO,",
+    "start": 590.01,
+    "duration": 3.93
+  },
+  {
+    "text": "but he really didn't become\nCEO or in charge in 2016",
+    "start": 593.94,
+    "duration": 3.42
+  },
+  {
+    "text": "when McNerney retired.",
+    "start": 597.36,
+    "duration": 1.06
+  },
+  {
+    "text": "BRIAN KENNY: So let me\njust jump in for a second",
+    "start": 598.42,
+    "duration": 2.0
+  },
+  {
+    "text": "because I'm hearing words\nlike cost cutting, downsizing,",
+    "start": 600.42,
+    "duration": 3.0
+  },
+  {
+    "text": "whatever sort of\neuphemisms we want to use.",
+    "start": 603.42,
+    "duration": 2.58
+  },
+  {
+    "text": "Cost cutting and\naircraft manufacturing,",
+    "start": 606.0,
+    "duration": 2.73
+  },
+  {
+    "text": "there seems to be\na tension there.",
+    "start": 608.73,
+    "duration": 2.32
+  },
+  {
+    "text": "And I'm wondering if\nwhat we started to see",
+    "start": 611.05,
+    "duration": 1.82
+  },
+  {
+    "text": "was a change in\nemphasis in the way",
+    "start": 612.87,
+    "duration": 2.565
+  },
+  {
+    "text": "that they went about\ndesigning and developing",
+    "start": 615.435,
+    "duration": 1.875
+  },
+  {
+    "text": "aircraft that may have\ncaused them to not",
+    "start": 617.31,
+    "duration": 2.01
+  },
+  {
+    "text": "be as thorough as they\nwere in the earlier days",
+    "start": 619.32,
+    "duration": 2.28
+  },
+  {
+    "text": "when they first\ndeveloped the 737.",
+    "start": 621.6,
+    "duration": 2.22
+  },
+  {
+    "text": "Is that fair to say?",
+    "start": 623.82,
+    "duration": 1.3
+  },
+  {
+    "text": "BILL GEORGE: It's always hard\nto prove that if you're not",
+    "start": 625.12,
+    "duration": 1.55
+  },
+  {
+    "text": "working there,\nbut that certainly",
+    "start": 626.67,
+    "duration": 1.375
+  },
+  {
+    "text": "is the impression one has.",
+    "start": 628.045,
+    "duration": 1.655
+  },
+  {
+    "text": "BRIAN KENNY: So there's huge\ncost pressure in the industry.",
+    "start": 629.7,
+    "duration": 2.49
+  },
+  {
+    "text": "We know that.",
+    "start": 632.19,
+    "duration": 1.14
+  },
+  {
+    "text": "Why does Boeing make the\ndecision to redesign, or rather",
+    "start": 633.33,
+    "duration": 3.66
+  },
+  {
+    "text": "modify, I guess, might be\nthe right word, the 737",
+    "start": 636.99,
+    "duration": 3.12
+  },
+  {
+    "text": "rather than just designing\nan entirely new aircraft?",
+    "start": 640.11,
+    "duration": 2.82
+  },
+  {
+    "text": "BILL GEORGE: Now you've got to--",
+    "start": 642.93,
+    "duration": 1.41
+  },
+  {
+    "text": "bingo.",
+    "start": 644.34,
+    "duration": 1.32
+  },
+  {
+    "text": "That's the root\ncause of the case.",
+    "start": 645.66,
+    "duration": 1.63
+  },
+  {
+    "text": "It takes people a\nwhile to get there.",
+    "start": 647.29,
+    "duration": 1.58
+  },
+  {
+    "text": "You got there a little\nbit faster, Brian.",
+    "start": 648.87,
+    "duration": 2.64
+  },
+  {
+    "text": "That's the key question.",
+    "start": 651.51,
+    "duration": 1.44
+  },
+  {
+    "text": "They were losing out to Airbus,\nand American Airlines was about",
+    "start": 652.95,
+    "duration": 3.87
+  },
+  {
+    "text": "ready to shift away from them.",
+    "start": 656.82,
+    "duration": 1.48
+  },
+  {
+    "text": "So they put together a\nmodification in the 737",
+    "start": 658.3,
+    "duration": 2.84
+  },
+  {
+    "text": "that could hold American\nAirlines business.",
+    "start": 661.14,
+    "duration": 2.46
+  },
+  {
+    "text": "Point of fact, it was late, and\nit took five 5, 5 and 1/2 years",
+    "start": 663.6,
+    "duration": 3.36
+  },
+  {
+    "text": "to get there.",
+    "start": 666.96,
+    "duration": 0.85
+  },
+  {
+    "text": "But they did everything to avoid\nthe type certification that you",
+    "start": 667.81,
+    "duration": 4.1
+  },
+  {
+    "text": "referenced back in 1968.",
+    "start": 671.91,
+    "duration": 2.49
+  },
+  {
+    "text": "Think about all the advances\nin technology and aviation.",
+    "start": 674.4,
+    "duration": 3.99
+  },
+  {
+    "text": "They had to stay within\nthis type certification.",
+    "start": 678.39,
+    "duration": 2.28
+  },
+  {
+    "text": "That meant they couldn't\nmake any changes.",
+    "start": 680.67,
+    "duration": 1.17
+  },
+  {
+    "text": "They couldn't make it higher.",
+    "start": 681.84,
+    "duration": 1.35
+  },
+  {
+    "text": "They couldn't add things.",
+    "start": 683.19,
+    "duration": 1.2
+  },
+  {
+    "text": "They couldn't change\ntheir training manuals.",
+    "start": 684.39,
+    "duration": 1.86
+  },
+  {
+    "text": "And so they really couldn't\ndescribe the differences",
+    "start": 686.25,
+    "duration": 2.37
+  },
+  {
+    "text": "to the pilots that\nwere flying it,",
+    "start": 688.62,
+    "duration": 1.71
+  },
+  {
+    "text": "or even train them\non those differences",
+    "start": 690.33,
+    "duration": 2.55
+  },
+  {
+    "text": "to stay within this\ntype certification.",
+    "start": 692.88,
+    "duration": 2.19
+  },
+  {
+    "text": "So that was the start of\neverything in the case,",
+    "start": 695.07,
+    "duration": 2.97
+  },
+  {
+    "text": "I believe, that predetermined\nevery design decision",
+    "start": 698.04,
+    "duration": 3.21
+  },
+  {
+    "text": "was based on not designing\na whole new aircraft, which",
+    "start": 701.25,
+    "duration": 3.27
+  },
+  {
+    "text": "might have taken 5 to 9 years.",
+    "start": 704.52,
+    "duration": 1.828
+  },
+  {
+    "text": "BRIAN KENNY: So is that\nthe key issue there then?",
+    "start": 706.348,
+    "duration": 2.042
+  },
+  {
+    "text": "Because I'm wondering\nwhat the benefits",
+    "start": 708.39,
+    "duration": 1.625
+  },
+  {
+    "text": "are of constraining\nyourself in this way",
+    "start": 710.015,
+    "duration": 2.375
+  },
+  {
+    "text": "by using a modification approach\nrather than a completely",
+    "start": 712.39,
+    "duration": 2.54
+  },
+  {
+    "text": "new design.",
+    "start": 714.93,
+    "duration": 0.72
+  },
+  {
+    "text": "Are they saving money\nor time or both?",
+    "start": 715.65,
+    "duration": 1.878
+  },
+  {
+    "text": "BILL GEORGE: Speed.",
+    "start": 717.528,
+    "duration": 0.792
+  },
+  {
+    "text": "Get there fast.",
+    "start": 718.32,
+    "duration": 0.99
+  },
+  {
+    "text": "Yeah, money.",
+    "start": 719.31,
+    "duration": 0.66
+  },
+  {
+    "text": "Don't spend the kind of\nmoney you did on the 787,",
+    "start": 719.97,
+    "duration": 2.49
+  },
+  {
+    "text": "get there fast, and\nhold the customer.",
+    "start": 722.46,
+    "duration": 2.8
+  },
+  {
+    "text": "They are responding to the\nshort-term competition,",
+    "start": 725.26,
+    "duration": 2.66
+  },
+  {
+    "text": "and frankly made a lot\nof short-term decisions",
+    "start": 727.92,
+    "duration": 2.46
+  },
+  {
+    "text": "that proved to be fatal.",
+    "start": 730.38,
+    "duration": 1.59
+  },
+  {
+    "text": "I was in the safety\nbusiness at Medtronic,",
+    "start": 731.97,
+    "duration": 2.46
+  },
+  {
+    "text": "and we knew that one\nfailed defibrillator",
+    "start": 734.43,
+    "duration": 2.67
+  },
+  {
+    "text": "could cost someone their life.",
+    "start": 737.1,
+    "duration": 1.638
+  },
+  {
+    "text": "And if we had a\nsoftware problem that",
+    "start": 738.738,
+    "duration": 1.542
+  },
+  {
+    "text": "went across all of\nour defibrillators,",
+    "start": 740.28,
+    "duration": 1.69
+  },
+  {
+    "text": "they'd all have to be pulled\nout of people's bodies",
+    "start": 741.97,
+    "duration": 2.28
+  },
+  {
+    "text": "or corrected.",
+    "start": 744.25,
+    "duration": 1.08
+  },
+  {
+    "text": "Safety was paramount.",
+    "start": 745.33,
+    "duration": 1.56
+  },
+  {
+    "text": "To me, there can be--",
+    "start": 746.89,
+    "duration": 2.1
+  },
+  {
+    "text": "you're talking about a plane\nthat's flying with 150,",
+    "start": 748.99,
+    "duration": 3.8
+  },
+  {
+    "text": "200 people in the\nair, and maybe 300.",
+    "start": 752.79,
+    "duration": 2.89
+  },
+  {
+    "text": "You can have no\ncompromise on safety.",
+    "start": 755.68,
+    "duration": 2.73
+  },
+  {
+    "text": "There is no such\nthing as a trade-off",
+    "start": 758.41,
+    "duration": 2.61
+  },
+  {
+    "text": "between cost and safety.",
+    "start": 761.02,
+    "duration": 2.31
+  },
+  {
+    "text": "Safety has to be\nparamount in everything",
+    "start": 763.33,
+    "duration": 2.46
+  },
+  {
+    "text": "you do because the\ncost of a failure--",
+    "start": 765.79,
+    "duration": 1.99
+  },
+  {
+    "text": "I'm not even going to\ntalk to the cost of this--",
+    "start": 767.78,
+    "duration": 2.0
+  },
+  {
+    "text": "just the cost of one\nplane going down so far",
+    "start": 769.78,
+    "duration": 3.06
+  },
+  {
+    "text": "exceeds any savings you get in\ndesigning the aircraft that you",
+    "start": 772.84,
+    "duration": 4.77
+  },
+  {
+    "text": "wouldn't ever want to\nconsider compromising.",
+    "start": 777.61,
+    "duration": 2.49
+  },
+  {
+    "text": "But these things\nare very subtle.",
+    "start": 780.1,
+    "duration": 1.908
+  },
+  {
+    "text": "See, there's no one\nthat goes out and says,",
+    "start": 782.008,
+    "duration": 1.792
+  },
+  {
+    "text": "we're putting cost over safety.",
+    "start": 783.8,
+    "duration": 1.76
+  },
+  {
+    "text": "General Motors had that\nproblem back in the '90s.",
+    "start": 785.56,
+    "duration": 2.25
+  },
+  {
+    "text": "No one's saying that.",
+    "start": 787.81,
+    "duration": 1.86
+  },
+  {
+    "text": "It's a slippery slope\nthat people get to,",
+    "start": 789.67,
+    "duration": 2.52
+  },
+  {
+    "text": "and that's important for\nstudents in the class",
+    "start": 792.19,
+    "duration": 2.07
+  },
+  {
+    "text": "to understand, how do you\nget on a slippery slope",
+    "start": 794.26,
+    "duration": 2.91
+  },
+  {
+    "text": "where all of a sudden\ndecisions are being",
+    "start": 797.17,
+    "duration": 1.71
+  },
+  {
+    "text": "made that put cost over safety?",
+    "start": 798.88,
+    "duration": 2.97
+  },
+  {
+    "text": "You do that, you're going\nto have a fatal crash, which",
+    "start": 801.85,
+    "duration": 3.15
+  },
+  {
+    "text": "Boeing did.",
+    "start": 805.0,
+    "duration": 0.92
+  },
+  {
+    "text": "BRIAN KENNY: What were some of\nthe design changes they made?",
+    "start": 805.92,
+    "duration": 2.5
+  },
+  {
+    "text": "BILL GEORGE: Well, they had\nto move the engines because it",
+    "start": 808.42,
+    "duration": 2.417
+  },
+  {
+    "text": "was a heavier plane, but then\nthey couldn't raise the height",
+    "start": 810.837,
+    "duration": 2.863
+  },
+  {
+    "text": "like they normally would.",
+    "start": 813.7,
+    "duration": 1.193
+  },
+  {
+    "text": "So the engines were\ngoing to be too low,",
+    "start": 814.893,
+    "duration": 1.667
+  },
+  {
+    "text": "or the profile was too low.",
+    "start": 816.56,
+    "duration": 1.7
+  },
+  {
+    "text": "They ran into real\nproblems early on,",
+    "start": 818.26,
+    "duration": 2.43
+  },
+  {
+    "text": "and they had to redesign part\nof the electronic systems.",
+    "start": 820.69,
+    "duration": 4.17
+  },
+  {
+    "text": "And so they put in a system\ncalled the MCAS system.",
+    "start": 824.86,
+    "duration": 3.91
+  },
+  {
+    "text": "And that was a software fix\nto correct this problem.",
+    "start": 828.77,
+    "duration": 3.56
+  },
+  {
+    "text": "And what the MCAS\ndid is it had sensors",
+    "start": 832.33,
+    "duration": 2.7
+  },
+  {
+    "text": "that if the sensor sensed\nsomething was going wrong,",
+    "start": 835.03,
+    "duration": 2.82
+  },
+  {
+    "text": "it would take over\nflying the aircraft.",
+    "start": 837.85,
+    "duration": 1.71
+  },
+  {
+    "text": "It would actually take\nit away from the pilots.",
+    "start": 839.56,
+    "duration": 2.91
+  },
+  {
+    "text": "It's like having\na self-driving car",
+    "start": 842.47,
+    "duration": 1.62
+  },
+  {
+    "text": "and you can't regain control.",
+    "start": 844.09,
+    "duration": 1.96
+  },
+  {
+    "text": "And so the pilots\nhad lost control,",
+    "start": 846.05,
+    "duration": 2.45
+  },
+  {
+    "text": "but no one told them this.",
+    "start": 848.5,
+    "duration": 1.54
+  },
+  {
+    "text": "So if you're trying to pitch\nit up and it's going down,",
+    "start": 850.04,
+    "duration": 2.84
+  },
+  {
+    "text": "and you pitch it up\nand it goes down more",
+    "start": 852.88,
+    "duration": 2.13
+  },
+  {
+    "text": "because you don't have\ncontrol, and that's",
+    "start": 855.01,
+    "duration": 2.25
+  },
+  {
+    "text": "exactly what happened\nin these two crashes.",
+    "start": 857.26,
+    "duration": 2.19
+  },
+  {
+    "text": "They had the same\npattern problem.",
+    "start": 859.45,
+    "duration": 2.25
+  },
+  {
+    "text": "Meanwhile, they couldn't\ntrain the pilots",
+    "start": 861.7,
+    "duration": 1.83
+  },
+  {
+    "text": "on what this was all about.",
+    "start": 863.53,
+    "duration": 1.53
+  },
+  {
+    "text": "See, it's what I call in\nthe classroom-- talked",
+    "start": 865.06,
+    "duration": 2.19
+  },
+  {
+    "text": "about Murphy's law\nof compound error.",
+    "start": 867.25,
+    "duration": 2.25
+  },
+  {
+    "text": "When you have one\nthing go wrong,",
+    "start": 869.5,
+    "duration": 1.83
+  },
+  {
+    "text": "if you don't fix the\nroot cause, then you're",
+    "start": 871.33,
+    "duration": 2.46
+  },
+  {
+    "text": "going to have compounded\nseries of problems",
+    "start": 873.79,
+    "duration": 2.22
+  },
+  {
+    "text": "because you make decisions based\non that first flawed decision,",
+    "start": 876.01,
+    "duration": 2.85
+  },
+  {
+    "text": "and it can lead to a\nvery negative situation.",
+    "start": 878.86,
+    "duration": 2.633
+  },
+  {
+    "text": "BRIAN KENNY: I\nwould assume, Bill,",
+    "start": 881.493,
+    "duration": 1.417
+  },
+  {
+    "text": "that they must have tested\nthese planes as they",
+    "start": 882.91,
+    "duration": 2.55
+  },
+  {
+    "text": "were building them.",
+    "start": 885.46,
+    "duration": 0.99
+  },
+  {
+    "text": "And the FAA plays some role,\ndon't they, in approving",
+    "start": 886.45,
+    "duration": 3.09
+  },
+  {
+    "text": "the planes when they're done?",
+    "start": 889.54,
+    "duration": 1.26
+  },
+  {
+    "text": "Where was the FAA\nthroughout this process?",
+    "start": 890.8,
+    "duration": 2.52
+  },
+  {
+    "text": "BILL GEORGE: The\nFAA's budgets were",
+    "start": 893.32,
+    "duration": 1.56
+  },
+  {
+    "text": "being cut back severely during\nthe early stages of this.",
+    "start": 894.88,
+    "duration": 3.73
+  },
+  {
+    "text": "And so Boeing agreed to put\nsome of its people into the FAA,",
+    "start": 898.61,
+    "duration": 3.56
+  },
+  {
+    "text": "so in effect you had\nBoeing presenting",
+    "start": 902.17,
+    "duration": 2.04
+  },
+  {
+    "text": "the product for approval\nand Boeing paid engineers",
+    "start": 904.21,
+    "duration": 3.87
+  },
+  {
+    "text": "reviewing it as FAA officials.",
+    "start": 908.08,
+    "duration": 2.94
+  },
+  {
+    "text": "There was no fraud or sham here.",
+    "start": 911.02,
+    "duration": 2.13
+  },
+  {
+    "text": "It was very out in the open.",
+    "start": 913.15,
+    "duration": 1.21
+  },
+  {
+    "text": "It was a huge mistake.",
+    "start": 914.36,
+    "duration": 1.43
+  },
+  {
+    "text": "BRIAN KENNY: You talked a\nlot about the changes in CEOs",
+    "start": 915.79,
+    "duration": 2.37
+  },
+  {
+    "text": "that they went through.",
+    "start": 918.16,
+    "duration": 0.63
+  },
+  {
+    "text": "It sounds like it\nwas a revolving",
+    "start": 918.79,
+    "duration": 1.375
+  },
+  {
+    "text": "door and maybe not with the\nmost qualified people stepping",
+    "start": 920.165,
+    "duration": 3.365
+  },
+  {
+    "text": "into that role.",
+    "start": 923.53,
+    "duration": 0.81
+  },
+  {
+    "text": "What would you say, in your\nexperience working with CEOs",
+    "start": 924.34,
+    "duration": 3.99
+  },
+  {
+    "text": "in all industries, what\nwould the role of the CEO",
+    "start": 928.33,
+    "duration": 3.0
+  },
+  {
+    "text": "be in a situation like this?",
+    "start": 931.33,
+    "duration": 1.442
+  },
+  {
+    "text": "How should they behave?",
+    "start": 932.772,
+    "duration": 0.958
+  },
+  {
+    "text": "Should they be advocating\nfor the engineers",
+    "start": 933.73,
+    "duration": 1.987
+  },
+  {
+    "text": "and their employees?",
+    "start": 935.717,
+    "duration": 0.833
+  },
+  {
+    "text": "Should they be advocating\nfor the customer?",
+    "start": 936.55,
+    "duration": 2.19
+  },
+  {
+    "text": "What should they be doing?",
+    "start": 938.74,
+    "duration": 1.245
+  },
+  {
+    "text": "BILL GEORGE: Well, I\nwould say, first of all,",
+    "start": 939.985,
+    "duration": 1.875
+  },
+  {
+    "text": "I would disagree with one thing.",
+    "start": 941.86,
+    "duration": 1.44
+  },
+  {
+    "text": "I think they were qualified.",
+    "start": 943.3,
+    "duration": 1.35
+  },
+  {
+    "text": "Jim McNerney was fully\nqualified to come in there.",
+    "start": 944.65,
+    "duration": 2.31
+  },
+  {
+    "text": "He had run the GE\njet engine business.",
+    "start": 946.96,
+    "duration": 2.76
+  },
+  {
+    "text": "Dennis Muilenburg\nwas fully qualified.",
+    "start": 949.72,
+    "duration": 1.95
+  },
+  {
+    "text": "He'd been with the company\n22 years as an engineer.",
+    "start": 951.67,
+    "duration": 2.28
+  },
+  {
+    "text": "But he came in very\nlate in the game.",
+    "start": 953.95,
+    "duration": 1.93
+  },
+  {
+    "text": "So what do you do when your\nCEO in 2016 and the planes",
+    "start": 955.88,
+    "duration": 3.5
+  },
+  {
+    "text": "are flying?",
+    "start": 959.38,
+    "duration": 1.56
+  },
+  {
+    "text": "You just don't go shut\nyour production line down",
+    "start": 960.94,
+    "duration": 2.28
+  },
+  {
+    "text": "and abandon your customers.",
+    "start": 963.22,
+    "duration": 1.9
+  },
+  {
+    "text": "It could have been done after\nthe first Lion Air crash.",
+    "start": 965.12,
+    "duration": 2.51
+  },
+  {
+    "text": "In fact, should have been\ndone with the benefit of 20-20",
+    "start": 967.63,
+    "duration": 2.53
+  },
+  {
+    "text": "hindsight.",
+    "start": 970.16,
+    "duration": 0.5
+  },
+  {
+    "text": "When you have that first\ncrash, that's a good place",
+    "start": 970.66,
+    "duration": 2.13
+  },
+  {
+    "text": "to shut everything down.",
+    "start": 972.79,
+    "duration": 1.56
+  },
+  {
+    "text": "Yet, in my experience,\nnot saying something",
+    "start": 974.35,
+    "duration": 2.73
+  },
+  {
+    "text": "leads to real\nproblems in a crisis.",
+    "start": 977.08,
+    "duration": 2.05
+  },
+  {
+    "text": "People want to hear\nfrom a human being.",
+    "start": 979.13,
+    "duration": 1.64
+  },
+  {
+    "text": "They want to hear from the CEO.",
+    "start": 980.77,
+    "duration": 1.422
+  },
+  {
+    "text": "So the role of the CEO, first\nof all, is to be a spokesman.",
+    "start": 982.192,
+    "duration": 2.458
+  },
+  {
+    "text": "You remember, Brian, the famous\nTylenol case with Jim Burke.",
+    "start": 984.65,
+    "duration": 3.36
+  },
+  {
+    "text": "And he was out there every day.",
+    "start": 988.01,
+    "duration": 1.388
+  },
+  {
+    "text": "He didn't have the information.",
+    "start": 989.398,
+    "duration": 1.292
+  },
+  {
+    "text": "He didn't know who had put\ncyanide in the Tylenol.",
+    "start": 990.69,
+    "duration": 2.662
+  },
+  {
+    "text": "He had no information, but he\nwent out and reassured people",
+    "start": 993.352,
+    "duration": 2.458
+  },
+  {
+    "text": "we're doing everything.",
+    "start": 995.81,
+    "duration": 1.422
+  },
+  {
+    "text": "He didn't say it's impossible\nthis could happen again",
+    "start": 997.232,
+    "duration": 2.208
+  },
+  {
+    "text": "because he was scared to\ndeath it might happen again.",
+    "start": 999.44,
+    "duration": 2.22
+  },
+  {
+    "text": "You got to be out there\non the firing line.",
+    "start": 1001.66,
+    "duration": 2.67
+  },
+  {
+    "text": "I remember in the case\nof the British Petroleum,",
+    "start": 1004.33,
+    "duration": 2.28
+  },
+  {
+    "text": "when they had that huge blow\nup in the Gulf of Mexico",
+    "start": 1006.61,
+    "duration": 3.03
+  },
+  {
+    "text": "and it's leaking and took\nover 90 days to shut it down,",
+    "start": 1009.64,
+    "duration": 3.21
+  },
+  {
+    "text": "Tony Hayward didn't go down\nthere for six weeks, the CEO.",
+    "start": 1012.85,
+    "duration": 3.45
+  },
+  {
+    "text": "After six weeks, he goes there,\nand they asked Mr. Hayward,",
+    "start": 1016.3,
+    "duration": 4.05
+  },
+  {
+    "text": "what are you going\nto say about this?",
+    "start": 1020.35,
+    "duration": 1.56
+  },
+  {
+    "text": "And he said, actually, I just\nwish this whole situation",
+    "start": 1021.91,
+    "duration": 2.59
+  },
+  {
+    "text": "to be over.",
+    "start": 1024.5,
+    "duration": 0.5
+  },
+  {
+    "text": "I'd like my life back.",
+    "start": 1025.0,
+    "duration": 1.65
+  },
+  {
+    "text": "And someone said,\nMr. Hayward, you",
+    "start": 1026.65,
+    "duration": 2.219
+  },
+  {
+    "text": "know that these 11\nemployees of yours",
+    "start": 1028.869,
+    "duration": 2.191
+  },
+  {
+    "text": "are not getting their life back.",
+    "start": 1031.06,
+    "duration": 1.769
+  },
+  {
+    "text": "But that kind of inability to\nrespond in a crisis, I think,",
+    "start": 1032.829,
+    "duration": 3.211
+  },
+  {
+    "text": "many CEOs are not well trained.",
+    "start": 1036.04,
+    "duration": 2.13
+  },
+  {
+    "text": "You can be an engineer at Boeing\nfor 25 years and get to be CEO,",
+    "start": 1038.17,
+    "duration": 2.885
+  },
+  {
+    "text": "but it doesn't mean\nyou're well trained",
+    "start": 1041.055,
+    "duration": 1.625
+  },
+  {
+    "text": "to deal in the public eye.",
+    "start": 1042.68,
+    "duration": 1.389
+  },
+  {
+    "text": "So I think CEOs today\nmust be out in front",
+    "start": 1044.069,
+    "duration": 3.471
+  },
+  {
+    "text": "on very important issues because\nyou're going to be challenged.",
+    "start": 1047.54,
+    "duration": 3.03
+  },
+  {
+    "text": "That's a big learning from\nthe case of how important it",
+    "start": 1050.57,
+    "duration": 3.27
+  },
+  {
+    "text": "is to be prepared to do that.",
+    "start": 1053.84,
+    "duration": 1.74
+  },
+  {
+    "text": "BRIAN KENNY: Bill, this has\nbeen a fascinating conversation.",
+    "start": 1055.58,
+    "duration": 2.5
+  },
+  {
+    "text": "It's a great case\nand a disturbing one",
+    "start": 1058.08,
+    "duration": 1.583
+  },
+  {
+    "text": "because you hope that these\nproblems have been resolved,",
+    "start": 1059.663,
+    "duration": 2.334
+  },
+  {
+    "text": "but I guess you don't\nreally know for sure.",
+    "start": 1061.997,
+    "duration": 1.833
+  },
+  {
+    "text": "Tell us if there's one thing\nyou want listeners to take away",
+    "start": 1063.83,
+    "duration": 2.79
+  },
+  {
+    "text": "from this case,\nwhat would it be?",
+    "start": 1066.62,
+    "duration": 1.89
+  },
+  {
+    "text": "BILL GEORGE: The importance\nof leadership in a crisis",
+    "start": 1068.51,
+    "duration": 2.88
+  },
+  {
+    "text": "and why, as the leader, you\nneed to be out in front.",
+    "start": 1071.39,
+    "duration": 3.33
+  },
+  {
+    "text": "If there's a problem, you should\nbe out there, first of all,",
+    "start": 1074.72,
+    "duration": 3.24
+  },
+  {
+    "text": "apologizing and\nsaying how sorry you",
+    "start": 1077.96,
+    "duration": 2.22
+  },
+  {
+    "text": "are on behalf of your\norganization for what happened.",
+    "start": 1080.18,
+    "duration": 2.64
+  },
+  {
+    "text": "Even if you don't know\nif you're culpable,",
+    "start": 1082.82,
+    "duration": 2.07
+  },
+  {
+    "text": "express empathy,\nbecause in the media--",
+    "start": 1084.89,
+    "duration": 3.65
+  },
+  {
+    "text": "media is not about facts,\nit's about feelings.",
+    "start": 1088.54,
+    "duration": 3.82
+  },
+  {
+    "text": "How do people feel?",
+    "start": 1092.36,
+    "duration": 1.11
+  },
+  {
+    "text": "Do you care about them?",
+    "start": 1093.47,
+    "duration": 1.47
+  },
+  {
+    "text": "And we had a great debate in\nthe case discussion about is it",
+    "start": 1094.94,
+    "duration": 4.35
+  },
+  {
+    "text": "leadership or culture.",
+    "start": 1099.29,
+    "duration": 1.35
+  },
+  {
+    "text": "Well, it's both.",
+    "start": 1100.64,
+    "duration": 1.2
+  },
+  {
+    "text": "But if the culture is\nnot right, the leader",
+    "start": 1101.84,
+    "duration": 2.01
+  },
+  {
+    "text": "has to change that culture.",
+    "start": 1103.85,
+    "duration": 2.53
+  },
+  {
+    "text": "And that's a tough job,\nbut that's so important,",
+    "start": 1106.38,
+    "duration": 3.47
+  },
+  {
+    "text": "that leaders take that role on\nso they have the internal role",
+    "start": 1109.85,
+    "duration": 3.09
+  },
+  {
+    "text": "and the external role.",
+    "start": 1112.94,
+    "duration": 1.29
+  },
+  {
+    "text": "BRIAN KENNY: We've talked\nbefore about crucible moments,",
+    "start": 1114.23,
+    "duration": 1.86
+  },
+  {
+    "text": "and this is something you've\nwritten quite a bit about.",
+    "start": 1116.09,
+    "duration": 2.292
+  },
+  {
+    "text": "And sounds like\nthis is exactly what",
+    "start": 1118.382,
+    "duration": 1.731
+  },
+  {
+    "text": "a crucible moment is, right?",
+    "start": 1120.113,
+    "duration": 1.167
+  },
+  {
+    "text": "By definition.",
+    "start": 1121.28,
+    "duration": 1.05
+  },
+  {
+    "text": "BILL GEORGE: It sure is.",
+    "start": 1122.33,
+    "duration": 1.02
+  },
+  {
+    "text": "And this is the test because\nyou have no preparation for it.",
+    "start": 1123.35,
+    "duration": 2.813
+  },
+  {
+    "text": "You can go through all the\ncrisis training you want,",
+    "start": 1126.163,
+    "duration": 2.167
+  },
+  {
+    "text": "but no one is going to actually\nput you in that situation.",
+    "start": 1128.33,
+    "duration": 3.49
+  },
+  {
+    "text": "So that's why I think the\nHarvard Business School",
+    "start": 1131.82,
+    "duration": 2.708
+  },
+  {
+    "text": "training is so important.",
+    "start": 1134.528,
+    "duration": 1.042
+  },
+  {
+    "text": "We have had a lot of people in\nthis particular course who've",
+    "start": 1135.57,
+    "duration": 2.51
+  },
+  {
+    "text": "become CEOs, and this is a\ngreat preparation for them",
+    "start": 1138.08,
+    "duration": 4.11
+  },
+  {
+    "text": "to realize, oh,\nmy gosh, these are",
+    "start": 1142.19,
+    "duration": 2.2
+  },
+  {
+    "text": "the kind of things that\ncould happen to me, too.",
+    "start": 1144.39,
+    "duration": 2.0
+  },
+  {
+    "text": "I better be emotionally\nand mentally prepared",
+    "start": 1146.39,
+    "duration": 2.34
+  },
+  {
+    "text": "even if I'm going to\nhave to work on the fly",
+    "start": 1148.73,
+    "duration": 2.31
+  },
+  {
+    "text": "and decide what to do because\nthe situation is constantly",
+    "start": 1151.04,
+    "duration": 2.49
+  },
+  {
+    "text": "changing, the fact-based\nsituation's changing.",
+    "start": 1153.53,
+    "duration": 2.7
+  },
+  {
+    "text": "Like I said, this\nis a real test.",
+    "start": 1156.23,
+    "duration": 1.56
+  },
+  {
+    "text": "BRIAN KENNY: Bill,\nit's a great case.",
+    "start": 1157.79,
+    "duration": 0.96
+  },
+  {
+    "text": "Thank you for writing\nit, and thank you",
+    "start": 1158.75,
+    "duration": 1.2
+  },
+  {
+    "text": "for coming on to\ndiscuss it with us.",
+    "start": 1159.95,
+    "duration": 1.593
+  },
+  {
+    "text": "BILL GEORGE: Anytime, Brian.",
+    "start": 1161.543,
+    "duration": 1.167
+  },
+  {
+    "text": "Thank you.",
+    "start": 1162.71,
+    "duration": 0.96
+  },
+  {
+    "text": "BRIAN KENNY: If you\nenjoy Cold Call,",
+    "start": 1163.67,
+    "duration": 1.5
+  },
+  {
+    "text": "you should check out our other\npodcasts from Harvard Business",
+    "start": 1165.17,
+    "duration": 2.542
+  },
+  {
+    "text": "School, including\nAfter Hours, Skydeck,",
+    "start": 1167.712,
+    "duration": 2.258
+  },
+  {
+    "text": "and Managing the Future of Work.",
+    "start": 1169.97,
+    "duration": 1.53
+  },
+  {
+    "text": "Find them on Apple Podcasts\nor wherever you listen.",
+    "start": 1171.5,
+    "duration": 3.03
+  },
+  {
+    "text": "Thanks, again, for joining us.",
+    "start": 1174.53,
+    "duration": 1.5
+  },
+  {
+    "text": "I'm your host Brian\nKenny, and you've",
+    "start": 1176.03,
+    "duration": 1.74
+  },
+  {
+    "text": "been listening to Cold Call,\nan official podcast of Harvard",
+    "start": 1177.77,
+    "duration": 3.09
+  },
+  {
+    "text": "Business School brought to you\nby the HBR Presents Network.",
+    "start": 1180.86,
+    "duration": 2.97
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1183.83,
+    "duration": 3.35
+  }
+]

@@ -1,0 +1,1472 @@
+[
+  {
+    "text": "Transcriber: Joseph Geni\nReviewer: Camille Martínez",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Can you hear me OK?",
+    "start": 15.219,
+    "duration": 1.16
+  },
+  {
+    "text": "Audience: Yes.",
+    "start": 16.403,
+    "duration": 1.166
+  },
+  {
+    "text": "Jim Hudspeth: OK. Well, if you can,\nit's really amazing,",
+    "start": 17.935,
+    "duration": 2.659
+  },
+  {
+    "text": "because my voice is changing\nthe air pressure where you sit",
+    "start": 20.618,
+    "duration": 4.15
+  },
+  {
+    "text": "by just a few billionths\nof the atmospheric level,",
+    "start": 24.792,
+    "duration": 3.281
+  },
+  {
+    "text": "yet we take it for granted",
+    "start": 28.097,
+    "duration": 1.535
+  },
+  {
+    "text": "that your ears can capture\nthat infinitesimal signal",
+    "start": 29.656,
+    "duration": 3.375
+  },
+  {
+    "text": "and use it to signal to the brain\nthe full range of auditory experiences:",
+    "start": 33.055,
+    "duration": 4.5
+  },
+  {
+    "text": "the human voice, music, the natural world.",
+    "start": 37.579,
+    "duration": 3.87
+  },
+  {
+    "text": "How does your ear do that?",
+    "start": 42.349,
+    "duration": 1.656
+  },
+  {
+    "text": "And the answer to that is:",
+    "start": 44.029,
+    "duration": 1.758
+  },
+  {
+    "text": "through the cells that are the real hero\nof this presentation --",
+    "start": 45.811,
+    "duration": 3.501
+  },
+  {
+    "text": "the ear's sensory receptors,",
+    "start": 49.336,
+    "duration": 2.197
+  },
+  {
+    "text": "which are called \"hair cells.\"",
+    "start": 51.557,
+    "duration": 2.085
+  },
+  {
+    "text": "Now, these hair cells\nare unfortunately named,",
+    "start": 53.987,
+    "duration": 3.665
+  },
+  {
+    "text": "because they have nothing at all\nto do with the kind of hair",
+    "start": 57.676,
+    "duration": 2.849
+  },
+  {
+    "text": "of which I have less and less.",
+    "start": 60.549,
+    "duration": 1.677
+  },
+  {
+    "text": "These cells were originally named that\nby early microscopists,",
+    "start": 62.25,
+    "duration": 4.947
+  },
+  {
+    "text": "who noticed that emanating\nfrom one end of the cell",
+    "start": 67.221,
+    "duration": 3.4
+  },
+  {
+    "text": "was a little cluster of bristles.",
+    "start": 70.645,
+    "duration": 2.215
+  },
+  {
+    "text": "With modern electron microscopy,\nwe can see much better",
+    "start": 73.227,
+    "duration": 3.447
+  },
+  {
+    "text": "the nature of the special feature\nthat gives the hair cell its name.",
+    "start": 76.698,
+    "duration": 3.814
+  },
+  {
+    "text": "That's the hair bundle.",
+    "start": 80.536,
+    "duration": 1.624
+  },
+  {
+    "text": "It's this cluster of 20 to several\nhundred fine cylindrical rods",
+    "start": 82.184,
+    "duration": 6.344
+  },
+  {
+    "text": "that stand upright\nat the top end of the cell.",
+    "start": 88.552,
+    "duration": 2.883
+  },
+  {
+    "text": "And this apparatus is what is responsible\nfor your hearing me right this instant.",
+    "start": 91.874,
+    "duration": 5.678
+  },
+  {
+    "text": "Now, I must say that I am\nsomewhat in love with these cells.",
+    "start": 98.283,
+    "duration": 3.103
+  },
+  {
+    "text": "I've spent 45 years in their company --",
+    "start": 101.41,
+    "duration": 2.992
+  },
+  {
+    "text": "(Laughter)",
+    "start": 104.426,
+    "duration": 1.018
+  },
+  {
+    "text": "and part of the reason\nis that they're really beautiful.",
+    "start": 105.468,
+    "duration": 2.625
+  },
+  {
+    "text": "There's an aesthetic component to it.",
+    "start": 108.117,
+    "duration": 1.934
+  },
+  {
+    "text": "Here, for example, are the cells",
+    "start": 110.075,
+    "duration": 2.089
+  },
+  {
+    "text": "with which an ordinary chicken\nconducts its hearing.",
+    "start": 112.188,
+    "duration": 3.229
+  },
+  {
+    "text": "These are the cells\nthat a bat uses for its sonar.",
+    "start": 115.441,
+    "duration": 3.169
+  },
+  {
+    "text": "We use these large hair cells from a frog\nfor many of our experiments.",
+    "start": 119.142,
+    "duration": 4.455
+  },
+  {
+    "text": "Hair cells are found all the way down\nto the most primitive of fishes,",
+    "start": 123.621,
+    "duration": 4.095
+  },
+  {
+    "text": "and those of reptiles often have\nthis really beautiful,",
+    "start": 127.74,
+    "duration": 3.404
+  },
+  {
+    "text": "almost crystalline, order.",
+    "start": 131.168,
+    "duration": 1.868
+  },
+  {
+    "text": "But above and beyond its beauty,",
+    "start": 133.468,
+    "duration": 1.941
+  },
+  {
+    "text": "the hair bundle is an antenna.",
+    "start": 135.433,
+    "duration": 2.738
+  },
+  {
+    "text": "It's a machine for converting\nsound vibrations into electrical responses",
+    "start": 138.195,
+    "duration": 5.719
+  },
+  {
+    "text": "that the brain can then interpret.",
+    "start": 143.938,
+    "duration": 1.824
+  },
+  {
+    "text": "At the top of each hair bundle,\nas you can see in this image,",
+    "start": 146.707,
+    "duration": 3.316
+  },
+  {
+    "text": "there's a fine filament\nconnecting each of the little hairs,",
+    "start": 150.047,
+    "duration": 3.414
+  },
+  {
+    "text": "the stereocilia.",
+    "start": 153.485,
+    "duration": 1.676
+  },
+  {
+    "text": "It's here marked with\na little red triangle.",
+    "start": 155.185,
+    "duration": 2.831
+  },
+  {
+    "text": "And this filament has at its base\na couple of ion channels,",
+    "start": 158.04,
+    "duration": 3.759
+  },
+  {
+    "text": "which are proteins that span the membrane.",
+    "start": 161.823,
+    "duration": 2.688
+  },
+  {
+    "text": "And here's how it works.",
+    "start": 164.535,
+    "duration": 1.359
+  },
+  {
+    "text": "This rat trap represents an ion channel.",
+    "start": 167.053,
+    "duration": 3.347
+  },
+  {
+    "text": "It has a pore that passes\npotassium ions and calcium ions.",
+    "start": 170.424,
+    "duration": 3.986
+  },
+  {
+    "text": "It has a little molecular gate\nthat can be open, or it can be closed.",
+    "start": 174.434,
+    "duration": 4.413
+  },
+  {
+    "text": "And its status is set by this elastic band\nwhich represents that protein filament.",
+    "start": 178.871,
+    "duration": 5.529
+  },
+  {
+    "text": "Now, imagine that this arm\nrepresents one stereocilium",
+    "start": 185.242,
+    "duration": 3.875
+  },
+  {
+    "text": "and this arm represents\nthe adjacent, shorter one",
+    "start": 189.141,
+    "duration": 3.082
+  },
+  {
+    "text": "with the elastic band between them.",
+    "start": 192.247,
+    "duration": 2.299
+  },
+  {
+    "text": "When sound energy impinges\nupon the hair bundle,",
+    "start": 194.57,
+    "duration": 3.086
+  },
+  {
+    "text": "it pushes it in the direction\ntowards its taller edge.",
+    "start": 197.68,
+    "duration": 3.159
+  },
+  {
+    "text": "The sliding of the stereocilia\nputs tension in the link",
+    "start": 200.863,
+    "duration": 2.798
+  },
+  {
+    "text": "until the channels open\nand ions rush into the cell.",
+    "start": 203.685,
+    "duration": 3.067
+  },
+  {
+    "text": "When the hair bundle is pushed\nin the opposite direction,",
+    "start": 207.255,
+    "duration": 2.707
+  },
+  {
+    "text": "the channels close.",
+    "start": 209.986,
+    "duration": 1.41
+  },
+  {
+    "text": "And, most importantly,",
+    "start": 211.42,
+    "duration": 1.427
+  },
+  {
+    "text": "a back-and-forth motion\nof the hair bundle,",
+    "start": 212.871,
+    "duration": 2.297
+  },
+  {
+    "text": "as ensues during the application\nof acoustic waves,",
+    "start": 215.192,
+    "duration": 4.593
+  },
+  {
+    "text": "alternately opens and closes the channel,",
+    "start": 219.809,
+    "duration": 2.521
+  },
+  {
+    "text": "and each opening admits millions\nand millions of ions into the cell.",
+    "start": 222.354,
+    "duration": 4.193
+  },
+  {
+    "text": "Those ions constitute\nan electrical current",
+    "start": 227.128,
+    "duration": 2.496
+  },
+  {
+    "text": "that excites the cell.",
+    "start": 229.648,
+    "duration": 1.481
+  },
+  {
+    "text": "The excitation is passed to a nerve fiber,",
+    "start": 231.453,
+    "duration": 2.428
+  },
+  {
+    "text": "and then propagates into the brain.",
+    "start": 233.905,
+    "duration": 2.195
+  },
+  {
+    "text": "Notice that the intensity of the sound",
+    "start": 237.084,
+    "duration": 2.008
+  },
+  {
+    "text": "is represented by\nthe magnitude of this response.",
+    "start": 239.116,
+    "duration": 2.721
+  },
+  {
+    "text": "A louder sound pushes\nthe hair bundle farther,",
+    "start": 241.861,
+    "duration": 2.883
+  },
+  {
+    "text": "opens the channel longer,",
+    "start": 244.768,
+    "duration": 1.483
+  },
+  {
+    "text": "lets more ions in",
+    "start": 246.275,
+    "duration": 1.505
+  },
+  {
+    "text": "and gives rise to a bigger response.",
+    "start": 247.804,
+    "duration": 2.576
+  },
+  {
+    "text": "Now, this mode of operation\nhas the advantage of great speed.",
+    "start": 252.944,
+    "duration": 3.767
+  },
+  {
+    "text": "Some of our senses, such as vision,",
+    "start": 256.735,
+    "duration": 2.494
+  },
+  {
+    "text": "use chemical reactions that take time.",
+    "start": 259.253,
+    "duration": 2.765
+  },
+  {
+    "text": "And as a consequence of that,",
+    "start": 262.042,
+    "duration": 1.41
+  },
+  {
+    "text": "if I show you a series of pictures\nat intervals of 20 or 30 per second,",
+    "start": 263.476,
+    "duration": 4.33
+  },
+  {
+    "text": "you get the sense of a continuous image.",
+    "start": 267.83,
+    "duration": 2.387
+  },
+  {
+    "text": "Because it doesn't use reactions,",
+    "start": 270.714,
+    "duration": 2.07
+  },
+  {
+    "text": "the hair cell is fully 1,000 times\nfaster than our other senses.",
+    "start": 272.808,
+    "duration": 4.363
+  },
+  {
+    "text": "We can hear sounds at frequencies\nas great as 20,000 cycles per second,",
+    "start": 277.195,
+    "duration": 4.899
+  },
+  {
+    "text": "and some animals have ever faster ears.",
+    "start": 282.118,
+    "duration": 2.561
+  },
+  {
+    "text": "The ears of bats and whales, for example,\ncan respond to their sonar pulses",
+    "start": 284.703,
+    "duration": 4.802
+  },
+  {
+    "text": "at 150,000 cycles a second.",
+    "start": 289.529,
+    "duration": 3.352
+  },
+  {
+    "text": "But this speed doesn't entirely explain\nwhy the ear performs so well.",
+    "start": 293.905,
+    "duration": 5.583
+  },
+  {
+    "text": "And it turns out that our hearing\nbenefits from an amplifier,",
+    "start": 299.512,
+    "duration": 4.3
+  },
+  {
+    "text": "something called the \"active process.\"",
+    "start": 303.836,
+    "duration": 2.263
+  },
+  {
+    "text": "The active process enhances our hearing",
+    "start": 307.004,
+    "duration": 2.929
+  },
+  {
+    "text": "and makes possible all the remarkable\nfeatures that I've already mentioned.",
+    "start": 309.957,
+    "duration": 4.037
+  },
+  {
+    "text": "Let me tell you how it works.",
+    "start": 315.034,
+    "duration": 1.679
+  },
+  {
+    "text": "First of all, the active process\namplifies sound,",
+    "start": 317.658,
+    "duration": 3.584
+  },
+  {
+    "text": "so you can hear, at threshold,\nsounds that move the hair bundle",
+    "start": 321.266,
+    "duration": 5.039
+  },
+  {
+    "text": "by a distance of only about\nthree-tenths of a nanometer.",
+    "start": 326.329,
+    "duration": 2.694
+  },
+  {
+    "text": "That's the diameter of one water molecule.",
+    "start": 329.047,
+    "duration": 2.529
+  },
+  {
+    "text": "It's really astonishing.",
+    "start": 331.6,
+    "duration": 1.38
+  },
+  {
+    "text": "The system can also operate",
+    "start": 333.883,
+    "duration": 4.183
+  },
+  {
+    "text": "over an enormously wide dynamic range.",
+    "start": 338.09,
+    "duration": 3.02
+  },
+  {
+    "text": "Why do we need this amplification?",
+    "start": 341.927,
+    "duration": 1.934
+  },
+  {
+    "text": "The amplification,\nin ancient times, was useful",
+    "start": 343.885,
+    "duration": 3.114
+  },
+  {
+    "text": "because it was valuable for us to hear\nthe tiger before the tiger could hear us.",
+    "start": 347.023,
+    "duration": 4.906
+  },
+  {
+    "text": "And these days, it's essential\nas a distant early warning system.",
+    "start": 351.953,
+    "duration": 4.992
+  },
+  {
+    "text": "It's valuable to be able\nto hear fire alarms",
+    "start": 356.969,
+    "duration": 2.863
+  },
+  {
+    "text": "or contemporary dangerous such as speeding\nfire engines or police cars or the like.",
+    "start": 359.856,
+    "duration": 5.916
+  },
+  {
+    "text": "When the amplification fails,\nour hearing's sensitivity plummets,",
+    "start": 366.542,
+    "duration": 5.364
+  },
+  {
+    "text": "and an individual may then need\nan electronic hearing aid",
+    "start": 371.93,
+    "duration": 4.291
+  },
+  {
+    "text": "to supplant the damaged biological one.",
+    "start": 376.245,
+    "duration": 2.713
+  },
+  {
+    "text": "This active process also enhances\nour frequency selectivity.",
+    "start": 379.559,
+    "duration": 4.062
+  },
+  {
+    "text": "Even an untrained individual\ncan distinguish two tones",
+    "start": 384.022,
+    "duration": 3.249
+  },
+  {
+    "text": "that differ by only\ntwo-tenths of a percent,",
+    "start": 387.295,
+    "duration": 2.793
+  },
+  {
+    "text": "which is one-thirtieth of the difference\nbetween two piano notes,",
+    "start": 390.112,
+    "duration": 4.293
+  },
+  {
+    "text": "and a trained musician can do even better.",
+    "start": 394.429,
+    "duration": 2.338
+  },
+  {
+    "text": "This fine discrimination is useful",
+    "start": 397.27,
+    "duration": 2.312
+  },
+  {
+    "text": "in our ability to distinguish\ndifferent voices",
+    "start": 399.606,
+    "duration": 2.53
+  },
+  {
+    "text": "and to understand the nuances of speech.",
+    "start": 402.16,
+    "duration": 2.615
+  },
+  {
+    "text": "And, again, if the active\nprocess deteriorates,",
+    "start": 404.799,
+    "duration": 2.883
+  },
+  {
+    "text": "it becomes harder to carry out\nverbal communication.",
+    "start": 407.706,
+    "duration": 2.86
+  },
+  {
+    "text": "Finally, the active process is valuable\nin setting the very broad range",
+    "start": 411.423,
+    "duration": 4.377
+  },
+  {
+    "text": "of sound intensities\nthat our ears can tolerate,",
+    "start": 415.824,
+    "duration": 3.426
+  },
+  {
+    "text": "from the very faintest sound\nthat you can hear, such as a dropped pen,",
+    "start": 419.274,
+    "duration": 3.799
+  },
+  {
+    "text": "to the loudest sound that you can stand --",
+    "start": 423.097,
+    "duration": 2.215
+  },
+  {
+    "text": "say, a jackhammer or a jet plane.",
+    "start": 425.336,
+    "duration": 2.367
+  },
+  {
+    "text": "The amplitude of sounds\nspans a range of one millionfold,",
+    "start": 427.727,
+    "duration": 5.083
+  },
+  {
+    "text": "which is more than is encompassed\nby any other sense",
+    "start": 432.834,
+    "duration": 2.669
+  },
+  {
+    "text": "or by any man-made device\nof which I'm aware.",
+    "start": 435.527,
+    "duration": 2.8
+  },
+  {
+    "text": "And again, if this system deteriorates,",
+    "start": 438.831,
+    "duration": 2.554
+  },
+  {
+    "text": "an affected individual\nmay have a hard time",
+    "start": 441.409,
+    "duration": 2.742
+  },
+  {
+    "text": "hearing the very faintest sounds",
+    "start": 444.175,
+    "duration": 1.848
+  },
+  {
+    "text": "or tolerating the very loudest ones.",
+    "start": 446.047,
+    "duration": 3.179
+  },
+  {
+    "text": "Now, to understand\nhow the hair cell does its thing,",
+    "start": 450.122,
+    "duration": 2.691
+  },
+  {
+    "text": "one has to situate it within\nits environment within the ear.",
+    "start": 452.837,
+    "duration": 3.478
+  },
+  {
+    "text": "We learn in school\nthat the organ of hearing",
+    "start": 456.792,
+    "duration": 2.352
+  },
+  {
+    "text": "is the coiled, snail-shaped cochlea.",
+    "start": 459.168,
+    "duration": 2.752
+  },
+  {
+    "text": "It's an organ about\nthe size of a chickpea.",
+    "start": 461.944,
+    "duration": 2.327
+  },
+  {
+    "text": "It's embedded in the bone\non either side of the skull.",
+    "start": 464.295,
+    "duration": 3.284
+  },
+  {
+    "text": "We also learn that an optical prism",
+    "start": 468.211,
+    "duration": 2.826
+  },
+  {
+    "text": "can separate white light\ninto its constituent frequencies,",
+    "start": 471.061,
+    "duration": 4.121
+  },
+  {
+    "text": "which we see as distinct colors.",
+    "start": 475.206,
+    "duration": 2.438
+  },
+  {
+    "text": "In an analogous way,",
+    "start": 478.129,
+    "duration": 1.671
+  },
+  {
+    "text": "the cochlea acts as sort of\nan acoustic prism",
+    "start": 479.824,
+    "duration": 3.441
+  },
+  {
+    "text": "that splits apart complex sounds\ninto their component frequencies.",
+    "start": 483.289,
+    "duration": 4.377
+  },
+  {
+    "text": "So when a piano is sounded,",
+    "start": 488.139,
+    "duration": 2.074
+  },
+  {
+    "text": "different notes blend\ntogether into a chord.",
+    "start": 490.237,
+    "duration": 3.236
+  },
+  {
+    "text": "The cochlea undoes that process.",
+    "start": 493.497,
+    "duration": 1.85
+  },
+  {
+    "text": "It separates them and represents\neach at a different position.",
+    "start": 495.371,
+    "duration": 3.568
+  },
+  {
+    "text": "In this picture, you can see\nwhere three notes --",
+    "start": 499.282,
+    "duration": 2.322
+  },
+  {
+    "text": "middle C and the two\nextreme notes on a piano --",
+    "start": 501.628,
+    "duration": 2.815
+  },
+  {
+    "text": "are represented in the cochlea.",
+    "start": 504.467,
+    "duration": 1.746
+  },
+  {
+    "text": "The lowest frequencies go all the way up\nto the top of the cochlea.",
+    "start": 506.61,
+    "duration": 3.84
+  },
+  {
+    "text": "The highest frequencies,\ndown to 20,000 Hz,",
+    "start": 510.474,
+    "duration": 2.831
+  },
+  {
+    "text": "go all the way to the bottom\nof the cochlea,",
+    "start": 513.329,
+    "duration": 2.539
+  },
+  {
+    "text": "and every other frequency\nis represented somewhere in between.",
+    "start": 515.892,
+    "duration": 3.834
+  },
+  {
+    "text": "And, as this diagram shows,",
+    "start": 520.171,
+    "duration": 1.806
+  },
+  {
+    "text": "successive musical tones are represented\na few tens of hair cells apart",
+    "start": 522.001,
+    "duration": 4.95
+  },
+  {
+    "text": "along the cochlear surface.",
+    "start": 526.975,
+    "duration": 1.852
+  },
+  {
+    "text": "Now, this separation of frequencies",
+    "start": 529.442,
+    "duration": 1.877
+  },
+  {
+    "text": "is really key in our ability\nto identify different sounds,",
+    "start": 531.343,
+    "duration": 3.796
+  },
+  {
+    "text": "because very musical instrument,",
+    "start": 535.163,
+    "duration": 1.611
+  },
+  {
+    "text": "every voice,",
+    "start": 536.798,
+    "duration": 1.217
+  },
+  {
+    "text": "emits a distinct constellation of tones.",
+    "start": 538.039,
+    "duration": 3.074
+  },
+  {
+    "text": "The cochlea separates those frequencies,",
+    "start": 541.523,
+    "duration": 2.702
+  },
+  {
+    "text": "and the 16,000 hair cells\nthen report to the brain",
+    "start": 544.249,
+    "duration": 3.782
+  },
+  {
+    "text": "how much of each frequency is present.",
+    "start": 548.055,
+    "duration": 1.81
+  },
+  {
+    "text": "The brain can then compare\nall the nerve signals",
+    "start": 550.213,
+    "duration": 3.007
+  },
+  {
+    "text": "and decide what particular\ntone is being heard.",
+    "start": 553.244,
+    "duration": 3.173
+  },
+  {
+    "text": "But this doesn't explain everything\nthat I want to explain.",
+    "start": 557.623,
+    "duration": 4.189
+  },
+  {
+    "text": "Where's the magic?",
+    "start": 561.836,
+    "duration": 1.153
+  },
+  {
+    "text": "I told you already about the great things\nthat the hair cell can do.",
+    "start": 563.013,
+    "duration": 3.894
+  },
+  {
+    "text": "How does it carry out the active process",
+    "start": 567.463,
+    "duration": 2.407
+  },
+  {
+    "text": "and do all the remarkable features\nthat I mentioned at the outset?",
+    "start": 569.894,
+    "duration": 3.669
+  },
+  {
+    "text": "The answer is instability.",
+    "start": 573.587,
+    "duration": 1.999
+  },
+  {
+    "text": "We used to think that the hair bundle\nwas a passive object,",
+    "start": 576.046,
+    "duration": 3.134
+  },
+  {
+    "text": "it just sat there, except\nwhen it was stimulated.",
+    "start": 579.204,
+    "duration": 3.281
+  },
+  {
+    "text": "But in fact, it's an active machine.",
+    "start": 582.509,
+    "duration": 2.22
+  },
+  {
+    "text": "It's constantly using internal energy\nto do mechanical work",
+    "start": 584.753,
+    "duration": 3.741
+  },
+  {
+    "text": "and enhance our hearing.",
+    "start": 588.518,
+    "duration": 1.739
+  },
+  {
+    "text": "So even at rest,\nin the absence of any input,",
+    "start": 590.281,
+    "duration": 3.331
+  },
+  {
+    "text": "an active hair bundle\nis constantly trembling.",
+    "start": 593.636,
+    "duration": 2.237
+  },
+  {
+    "text": "It's constantly twitching back and forth.",
+    "start": 595.897,
+    "duration": 2.224
+  },
+  {
+    "text": "But when even a weak sound\nis applied to it,",
+    "start": 598.145,
+    "duration": 2.419
+  },
+  {
+    "text": "it latches on to that sound\nand begins to move very neatly",
+    "start": 600.588,
+    "duration": 3.137
+  },
+  {
+    "text": "in a one-to-one way with it,",
+    "start": 603.749,
+    "duration": 1.593
+  },
+  {
+    "text": "and by so doing, it amplifies the signal\nabout a thousand times.",
+    "start": 605.366,
+    "duration": 4.455
+  },
+  {
+    "text": "This same instability also enhances\nour frequency selectivity,",
+    "start": 610.984,
+    "duration": 4.756
+  },
+  {
+    "text": "for a given hair cell\ntends to oscillate best",
+    "start": 615.764,
+    "duration": 2.717
+  },
+  {
+    "text": "at the frequency at which\nit normally trembles",
+    "start": 618.505,
+    "duration": 2.85
+  },
+  {
+    "text": "when it's not being stimulated.",
+    "start": 621.379,
+    "duration": 1.885
+  },
+  {
+    "text": "So, this apparatus not only\ngives us our remarkably acute hearing,",
+    "start": 625.216,
+    "duration": 5.382
+  },
+  {
+    "text": "but also gives us\nthe very sharp tuning.",
+    "start": 630.622,
+    "duration": 2.787
+  },
+  {
+    "text": "I want to offer you a short demonstration",
+    "start": 637.139,
+    "duration": 2.55
+  },
+  {
+    "text": "of something related to this.",
+    "start": 639.713,
+    "duration": 1.719
+  },
+  {
+    "text": "I'll ask the people who\nare running the sound system",
+    "start": 641.456,
+    "duration": 3.057
+  },
+  {
+    "text": "to turn up its sensitivity\nat one specific frequency.",
+    "start": 644.537,
+    "duration": 3.55
+  },
+  {
+    "text": "So just as a hair cell is tuned\nto one frequency,",
+    "start": 648.111,
+    "duration": 3.62
+  },
+  {
+    "text": "the amplifier will now enhance\na particular frequency in my voice.",
+    "start": 651.755,
+    "duration": 4.661
+  },
+  {
+    "text": "Notice how specific tones emerge\nmore clearly from the background.",
+    "start": 656.44,
+    "duration": 5.034
+  },
+  {
+    "text": "This is exactly what hair cells do.",
+    "start": 662.157,
+    "duration": 2.66
+  },
+  {
+    "text": "Each hair cell amplifies and reports\none specific frequency",
+    "start": 664.841,
+    "duration": 4.608
+  },
+  {
+    "text": "and ignores all the others.",
+    "start": 669.473,
+    "duration": 1.887
+  },
+  {
+    "text": "And the whole set of hair cells,\nas a group, can then report to the brain",
+    "start": 671.384,
+    "duration": 4.079
+  },
+  {
+    "text": "exactly what frequencies\nare present in a given sound,",
+    "start": 675.487,
+    "duration": 3.057
+  },
+  {
+    "text": "and the brain can determine\nwhat melody is being heard",
+    "start": 678.568,
+    "duration": 2.727
+  },
+  {
+    "text": "or what speech is being intended.",
+    "start": 681.319,
+    "duration": 2.479
+  },
+  {
+    "text": "Now, an amplifier such as\nthe public address system",
+    "start": 685.775,
+    "duration": 3.361
+  },
+  {
+    "text": "can also cause problems.",
+    "start": 689.16,
+    "duration": 1.891
+  },
+  {
+    "text": "If the amplification is turned up too far,",
+    "start": 691.075,
+    "duration": 2.238
+  },
+  {
+    "text": "it goes unstable and begins to howl",
+    "start": 693.337,
+    "duration": 2.479
+  },
+  {
+    "text": "or emit sounds.",
+    "start": 695.84,
+    "duration": 1.306
+  },
+  {
+    "text": "And one wonders why the active process\ndoesn't do the same thing.",
+    "start": 697.17,
+    "duration": 3.183
+  },
+  {
+    "text": "Why don't our ears beam out sounds?",
+    "start": 700.377,
+    "duration": 2.601
+  },
+  {
+    "text": "And the answer is that they do.",
+    "start": 703.396,
+    "duration": 1.823
+  },
+  {
+    "text": "In a suitably quiet environment,\n70 percent of normal people",
+    "start": 705.577,
+    "duration": 4.419
+  },
+  {
+    "text": "will have one or more sounds\ncoming out of their ears.",
+    "start": 710.02,
+    "duration": 3.463
+  },
+  {
+    "text": "(Laughter)",
+    "start": 714.008,
+    "duration": 1.35
+  },
+  {
+    "text": "I'll give you an example of this.",
+    "start": 715.382,
+    "duration": 2.014
+  },
+  {
+    "text": "You will hear two emissions\nat high frequencies",
+    "start": 719.811,
+    "duration": 3.184
+  },
+  {
+    "text": "coming from a normal human ear.",
+    "start": 723.019,
+    "duration": 1.774
+  },
+  {
+    "text": "You may also be able to discern\nbackground noise,",
+    "start": 724.817,
+    "duration": 2.899
+  },
+  {
+    "text": "like the microphone's hiss,",
+    "start": 727.74,
+    "duration": 1.362
+  },
+  {
+    "text": "the gurgling of a stomach,\nthe heartbeat, the rustling of clothes.",
+    "start": 729.126,
+    "duration": 3.8
+  },
+  {
+    "text": "(Hums, microphone hiss, \ndampened taps, clothes rustling)",
+    "start": 734.951,
+    "duration": 6.925
+  },
+  {
+    "text": "This is typical.",
+    "start": 749.941,
+    "duration": 1.152
+  },
+  {
+    "text": "Most ears emit just a handful of tones,",
+    "start": 751.117,
+    "duration": 1.912
+  },
+  {
+    "text": "but some can emit as many as 30.",
+    "start": 753.053,
+    "duration": 2.192
+  },
+  {
+    "text": "Every ear is unique, so my right ear\nis different from my left,",
+    "start": 755.634,
+    "duration": 3.282
+  },
+  {
+    "text": "my ear is different from your ear,",
+    "start": 758.94,
+    "duration": 2.038
+  },
+  {
+    "text": "but unless an ear is damaged,",
+    "start": 761.002,
+    "duration": 1.448
+  },
+  {
+    "text": "it continues to emit\nthe same spectrum of frequencies",
+    "start": 762.474,
+    "duration": 3.536
+  },
+  {
+    "text": "over a period of years or even decades.",
+    "start": 766.034,
+    "duration": 2.488
+  },
+  {
+    "text": "So what's going on?",
+    "start": 769.031,
+    "duration": 1.748
+  },
+  {
+    "text": "It turns out that the ear\ncan control its own sensitivity,",
+    "start": 770.803,
+    "duration": 5.092
+  },
+  {
+    "text": "its own amplification.",
+    "start": 775.919,
+    "duration": 1.74
+  },
+  {
+    "text": "So if you're in a very loud environment,\nlike a sporting event",
+    "start": 777.683,
+    "duration": 3.28
+  },
+  {
+    "text": "or a musical concert,",
+    "start": 780.987,
+    "duration": 1.689
+  },
+  {
+    "text": "you don't need any amplification,",
+    "start": 782.7,
+    "duration": 1.772
+  },
+  {
+    "text": "and the system is turned down all the way.",
+    "start": 784.496,
+    "duration": 2.19
+  },
+  {
+    "text": "If you are in a room like this auditorium,",
+    "start": 787.177,
+    "duration": 2.225
+  },
+  {
+    "text": "you might have a little bit\nof amplification,",
+    "start": 789.426,
+    "duration": 2.143
+  },
+  {
+    "text": "but of course the public address system\ndoes most of the work for you.",
+    "start": 791.593,
+    "duration": 3.616
+  },
+  {
+    "text": "And finally, if you go into\na really quiet room",
+    "start": 795.233,
+    "duration": 2.25
+  },
+  {
+    "text": "where you can hear a pin drop,",
+    "start": 797.507,
+    "duration": 1.455
+  },
+  {
+    "text": "the system is turned up\nalmost all the way.",
+    "start": 798.986,
+    "duration": 2.416
+  },
+  {
+    "text": "But if you go into an ultraquiet room\nsuch as a sound chamber,",
+    "start": 801.839,
+    "duration": 3.488
+  },
+  {
+    "text": "the system turns itself up to 11,",
+    "start": 805.351,
+    "duration": 2.407
+  },
+  {
+    "text": "it goes unstable",
+    "start": 807.782,
+    "duration": 1.381
+  },
+  {
+    "text": "and it begins to emit sound.",
+    "start": 809.187,
+    "duration": 2.309
+  },
+  {
+    "text": "And these emissions constitute\na really strong demonstration",
+    "start": 811.52,
+    "duration": 3.196
+  },
+  {
+    "text": "of just how active the hair cell can be.",
+    "start": 814.74,
+    "duration": 3.055
+  },
+  {
+    "text": "So in the last minute, I want to turn\nto another question that might come up,",
+    "start": 819.141,
+    "duration": 4.536
+  },
+  {
+    "text": "which is: Where do we go from here?",
+    "start": 823.701,
+    "duration": 1.725
+  },
+  {
+    "text": "And I would say that there\nare three issues",
+    "start": 825.45,
+    "duration": 2.042
+  },
+  {
+    "text": "that I would really like\nto address in the future.",
+    "start": 827.516,
+    "duration": 2.777
+  },
+  {
+    "text": "The first is: What is the molecular motor",
+    "start": 830.317,
+    "duration": 2.383
+  },
+  {
+    "text": "that's responsible for\nthe hair cell's amplification?",
+    "start": 832.724,
+    "duration": 3.276
+  },
+  {
+    "text": "Somehow, nature has stumbled\nacross a system",
+    "start": 836.024,
+    "duration": 3.069
+  },
+  {
+    "text": "that can oscillate or amplify\nat 20,000 cycles per second,",
+    "start": 839.117,
+    "duration": 5.221
+  },
+  {
+    "text": "or even more.",
+    "start": 844.362,
+    "duration": 1.324
+  },
+  {
+    "text": "That's much faster than any other\nbiological oscillation,",
+    "start": 846.078,
+    "duration": 3.183
+  },
+  {
+    "text": "and we would like to understand\nwhere it comes from.",
+    "start": 849.285,
+    "duration": 2.689
+  },
+  {
+    "text": "The second issue is how the hair cell's\namplification is adjusted",
+    "start": 852.538,
+    "duration": 3.838
+  },
+  {
+    "text": "to deal with the acoustic circumstances.",
+    "start": 856.4,
+    "duration": 2.202
+  },
+  {
+    "text": "Who turns the knob to increase\nor decrease the amplification",
+    "start": 859.051,
+    "duration": 4.069
+  },
+  {
+    "text": "in a quiet or in a loud environment?",
+    "start": 863.144,
+    "duration": 2.52
+  },
+  {
+    "text": "And the third issue is one\nthat concerns all of us,",
+    "start": 866.665,
+    "duration": 2.684
+  },
+  {
+    "text": "which is what we can do\nabout the deterioration of our hearing.",
+    "start": 869.373,
+    "duration": 4.721
+  },
+  {
+    "text": "Thirty million Americans,",
+    "start": 874.118,
+    "duration": 1.353
+  },
+  {
+    "text": "and more than 400 million\npeople worldwide,",
+    "start": 875.495,
+    "duration": 2.802
+  },
+  {
+    "text": "have significant problems on a daily basis",
+    "start": 878.321,
+    "duration": 2.563
+  },
+  {
+    "text": "with understanding speech\nin a noisy environment",
+    "start": 880.908,
+    "duration": 2.688
+  },
+  {
+    "text": "or over the telephone.",
+    "start": 883.62,
+    "duration": 1.417
+  },
+  {
+    "text": "Many have even worse deficits.",
+    "start": 885.553,
+    "duration": 2.176
+  },
+  {
+    "text": "Moreover, these deficits\ntend to get worse with time,",
+    "start": 887.753,
+    "duration": 2.976
+  },
+  {
+    "text": "because when human hair cells die,",
+    "start": 890.753,
+    "duration": 1.977
+  },
+  {
+    "text": "they're not replaced by cell division.",
+    "start": 892.754,
+    "duration": 2.871
+  },
+  {
+    "text": "But we know that nonmammalian animals\ncan replace their cells,",
+    "start": 896.045,
+    "duration": 3.948
+  },
+  {
+    "text": "and those creatures' cells are dying\nand being replaced throughout life,",
+    "start": 900.017,
+    "duration": 3.406
+  },
+  {
+    "text": "so the animals maintain normal hearing.",
+    "start": 903.447,
+    "duration": 2.375
+  },
+  {
+    "text": "Here's an example\nfrom a little zebra fish.",
+    "start": 906.587,
+    "duration": 2.409
+  },
+  {
+    "text": "The cell at the top\nwill undergo a division",
+    "start": 909.02,
+    "duration": 2.625
+  },
+  {
+    "text": "to produce two new hair cells.",
+    "start": 911.669,
+    "duration": 2.56
+  },
+  {
+    "text": "They dance for a little bit,",
+    "start": 914.253,
+    "duration": 2.182
+  },
+  {
+    "text": "and then settle down and go to work.",
+    "start": 916.459,
+    "duration": 2.13
+  },
+  {
+    "text": "So we believe that if we can decode\nthe molecular signals that are used",
+    "start": 919.126,
+    "duration": 3.549
+  },
+  {
+    "text": "by these other animals\nto regenerate their hair cells,",
+    "start": 922.699,
+    "duration": 3.475
+  },
+  {
+    "text": "we'll be able to do\nthe same thing for humans.",
+    "start": 926.198,
+    "duration": 2.491
+  },
+  {
+    "text": "And our group and many other groups\nare now engaged in research",
+    "start": 929.048,
+    "duration": 3.489
+  },
+  {
+    "text": "trying to resurrect\nthese amazing hair cells.",
+    "start": 932.561,
+    "duration": 2.659
+  },
+  {
+    "text": "Thank you for your attention.",
+    "start": 935.998,
+    "duration": 1.484
+  },
+  {
+    "text": "(Applause)",
+    "start": 937.506,
+    "duration": 3.113
+  }
+]

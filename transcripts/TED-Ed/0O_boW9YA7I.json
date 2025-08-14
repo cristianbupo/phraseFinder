@@ -1,0 +1,382 @@
+[
+  {
+    "text": "When Nicolas Bourbaki applied \nto the American Mathematical Society",
+    "start": 6.93,
+    "duration": 4.606
+  },
+  {
+    "text": "in the 1950s,",
+    "start": 11.536,
+    "duration": 1.39
+  },
+  {
+    "text": "he was already one of the most influential\nmathematicians of his time.",
+    "start": 12.926,
+    "duration": 4.16
+  },
+  {
+    "text": "He’d published articles \nin international journals",
+    "start": 17.086,
+    "duration": 2.68
+  },
+  {
+    "text": "and his textbooks were required reading.",
+    "start": 19.766,
+    "duration": 2.68
+  },
+  {
+    "text": "Yet his application was firmly rejected \nfor one simple reason—",
+    "start": 22.446,
+    "duration": 4.961
+  },
+  {
+    "text": "Nicolas Bourbaki did not exist.",
+    "start": 27.407,
+    "duration": 3.58
+  },
+  {
+    "text": "Two decades earlier, \nmathematics was in disarray.",
+    "start": 30.987,
+    "duration": 3.61
+  },
+  {
+    "text": "Many established mathematicians had lost \ntheir lives in the first World War,",
+    "start": 34.597,
+    "duration": 4.648
+  },
+  {
+    "text": "and the field had become fragmented.",
+    "start": 39.245,
+    "duration": 2.24
+  },
+  {
+    "text": "Different branches used disparate \nmethodology to pursue their own goals.",
+    "start": 41.485,
+    "duration": 4.455
+  },
+  {
+    "text": "And the lack of a shared \nmathematical language",
+    "start": 45.94,
+    "duration": 2.69
+  },
+  {
+    "text": "made it difficult to share \nor expand their work.",
+    "start": 48.63,
+    "duration": 3.49
+  },
+  {
+    "text": "In 1934, a group of French mathematicians \nwere particularly fed up.",
+    "start": 52.12,
+    "duration": 5.336
+  },
+  {
+    "text": "While studying at the prestigious \nÉcole normale supérieure,",
+    "start": 57.456,
+    "duration": 3.42
+  },
+  {
+    "text": "they found the textbook \nfor their calculus class so disjointed",
+    "start": 60.876,
+    "duration": 4.133
+  },
+  {
+    "text": "that they decided to write a better one.",
+    "start": 65.009,
+    "duration": 2.93
+  },
+  {
+    "text": "The small group \nquickly took on new members,",
+    "start": 67.939,
+    "duration": 2.53
+  },
+  {
+    "text": "and as the project grew, \nso did their ambition.",
+    "start": 70.469,
+    "duration": 3.32
+  },
+  {
+    "text": "The result was \nthe \"Éléments de mathématique,\"",
+    "start": 73.789,
+    "duration": 2.71
+  },
+  {
+    "text": "a treatise that sought to create \na consistent logical framework",
+    "start": 76.499,
+    "duration": 3.81
+  },
+  {
+    "text": "unifying every branch of mathematics.",
+    "start": 80.309,
+    "duration": 2.54
+  },
+  {
+    "text": "The text began \nwith a set of simple axioms—",
+    "start": 82.849,
+    "duration": 3.198
+  },
+  {
+    "text": "laws and assumptions it would use \nto build its argument.",
+    "start": 86.047,
+    "duration": 3.74
+  },
+  {
+    "text": "From there, its authors derived \nmore and more complex theorems",
+    "start": 89.787,
+    "duration": 3.82
+  },
+  {
+    "text": "that corresponded with work \nbeing done across the field.",
+    "start": 93.607,
+    "duration": 3.8
+  },
+  {
+    "text": "But to truly reveal common ground,",
+    "start": 97.407,
+    "duration": 2.22
+  },
+  {
+    "text": "the group needed to identify \nconsistent rules",
+    "start": 99.627,
+    "duration": 3.16
+  },
+  {
+    "text": "that applied to a wide range of problems.",
+    "start": 102.787,
+    "duration": 3.17
+  },
+  {
+    "text": "To accomplish this, they gave new, \nclear definitions",
+    "start": 105.957,
+    "duration": 3.43
+  },
+  {
+    "text": "to some of the most important \nmathematical objects,",
+    "start": 109.387,
+    "duration": 3.092
+  },
+  {
+    "text": "including the function.",
+    "start": 112.479,
+    "duration": 2.22
+  },
+  {
+    "text": "It’s reasonable to think of functions \nas machines",
+    "start": 114.699,
+    "duration": 3.03
+  },
+  {
+    "text": "that accept inputs and produce an output.",
+    "start": 117.729,
+    "duration": 3.26
+  },
+  {
+    "text": "But if we think of functions \nas bridges between two groups,",
+    "start": 120.989,
+    "duration": 3.9
+  },
+  {
+    "text": "we can start to make claims about \nthe logical relationships between them.",
+    "start": 124.889,
+    "duration": 4.116
+  },
+  {
+    "text": "For example, consider a group of numbers\nand a group of letters.",
+    "start": 129.005,
+    "duration": 4.119
+  },
+  {
+    "text": "We could define a function where \nevery numerical input corresponds",
+    "start": 133.124,
+    "duration": 4.0
+  },
+  {
+    "text": "to the same alphabetical output,",
+    "start": 137.124,
+    "duration": 2.44
+  },
+  {
+    "text": "but this doesn’t establish \na particularly interesting relationship.",
+    "start": 139.564,
+    "duration": 4.0
+  },
+  {
+    "text": "Alternatively, we could define a function \nwhere every numerical input",
+    "start": 143.564,
+    "duration": 4.261
+  },
+  {
+    "text": "corresponds to a different \nalphabetical output.",
+    "start": 147.825,
+    "duration": 3.44
+  },
+  {
+    "text": "This second function sets up \na logical relationship",
+    "start": 151.265,
+    "duration": 3.44
+  },
+  {
+    "text": "where performing a process on the input \nhas corresponding effects",
+    "start": 154.705,
+    "duration": 4.102
+  },
+  {
+    "text": "on its mapped output.",
+    "start": 158.807,
+    "duration": 2.05
+  },
+  {
+    "text": "The group began to define functions by how\nthey mapped elements across domains.",
+    "start": 160.857,
+    "duration": 5.453
+  },
+  {
+    "text": "If a function’s output came \nfrom a unique input,",
+    "start": 166.31,
+    "duration": 3.395
+  },
+  {
+    "text": "they defined it as injective.",
+    "start": 169.705,
+    "duration": 2.72
+  },
+  {
+    "text": "If every output can be mapped \nonto at least one input,",
+    "start": 172.425,
+    "duration": 4.0
+  },
+  {
+    "text": "the function was surjective.",
+    "start": 176.425,
+    "duration": 1.85
+  },
+  {
+    "text": "And in bijective functions, each element \nhad perfect one to one correspondence.",
+    "start": 178.275,
+    "duration": 5.75
+  },
+  {
+    "text": "This allowed mathematicians to establish \nlogic that could be translated",
+    "start": 184.025,
+    "duration": 4.502
+  },
+  {
+    "text": "across the function’s domains \nin both directions.",
+    "start": 188.527,
+    "duration": 4.32
+  },
+  {
+    "text": "Their systematic approach \nto abstract principles",
+    "start": 192.847,
+    "duration": 3.07
+  },
+  {
+    "text": "was in stark contrast to the popular \nbelief that math was an intuitive science,",
+    "start": 195.917,
+    "duration": 5.177
+  },
+  {
+    "text": "and an over-dependence on logic \nconstrained creativity.",
+    "start": 201.094,
+    "duration": 4.198
+  },
+  {
+    "text": "But this rebellious band of scholars \ngleefully ignored conventional wisdom.",
+    "start": 205.292,
+    "duration": 4.626
+  },
+  {
+    "text": "They were revolutionizing the field, \nand they wanted to mark the occasion",
+    "start": 209.918,
+    "duration": 4.171
+  },
+  {
+    "text": "with their biggest stunt yet.",
+    "start": 214.089,
+    "duration": 2.36
+  },
+  {
+    "text": "They decided to publish \n\"Éléments de mathématique\"",
+    "start": 216.449,
+    "duration": 2.65
+  },
+  {
+    "text": "and all their subsequent work \nunder a collective pseudonym:",
+    "start": 219.099,
+    "duration": 4.164
+  },
+  {
+    "text": "Nicolas Bourbaki.",
+    "start": 223.263,
+    "duration": 2.292
+  },
+  {
+    "text": "Over the next two decades, Bourbaki’s \npublications became standard references.",
+    "start": 225.555,
+    "duration": 5.405
+  },
+  {
+    "text": "And the group’s members took their prank \nas seriously as their work.",
+    "start": 230.96,
+    "duration": 5.097
+  },
+  {
+    "text": "Their invented mathematician claimed \nto be a reclusive Russian genius",
+    "start": 236.057,
+    "duration": 4.737
+  },
+  {
+    "text": "who would only meet \nwith his selected collaborators.",
+    "start": 240.794,
+    "duration": 3.3
+  },
+  {
+    "text": "They sent telegrams in Bourbaki’s name, \nannounced his daughter’s wedding,",
+    "start": 244.094,
+    "duration": 4.304
+  },
+  {
+    "text": "and publicly insulted anyone \nwho doubted his existence.",
+    "start": 248.398,
+    "duration": 4.219
+  },
+  {
+    "text": "In 1968, when they could \nno longer maintain the ruse,",
+    "start": 252.617,
+    "duration": 4.0
+  },
+  {
+    "text": "the group ended their joke \nthe only way they could.",
+    "start": 256.617,
+    "duration": 3.43
+  },
+  {
+    "text": "They printed Bourbaki’s obituary,\ncomplete with mathematical puns.",
+    "start": 260.047,
+    "duration": 5.606
+  },
+  {
+    "text": "Despite his apparent death, the group \nbearing Bourbaki’s name lives on today.",
+    "start": 265.653,
+    "duration": 5.084
+  },
+  {
+    "text": "Though he’s not associated \nwith any single major discovery,",
+    "start": 270.737,
+    "duration": 3.57
+  },
+  {
+    "text": "Bourbaki’s influence informs \nmuch current research.",
+    "start": 274.307,
+    "duration": 3.33
+  },
+  {
+    "text": "And the modern emphasis on formal proofs\nowes a great deal to his rigorous methods.",
+    "start": 277.637,
+    "duration": 5.771
+  },
+  {
+    "text": "Nicolas Bourbaki may have been imaginary— \nbut his legacy is very real.",
+    "start": 283.408,
+    "duration": 5.83
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "text": "Statistics are persuasive.",
+    "start": 6.636,
+    "duration": 2.441
+  },
+  {
+    "text": "So much so that people, organizations,\nand whole countries",
+    "start": 9.077,
+    "duration": 3.464
+  },
+  {
+    "text": "base some of their most important \ndecisions on organized data.",
+    "start": 12.541,
+    "duration": 5.206
+  },
+  {
+    "text": "But there's a problem with that.",
+    "start": 17.747,
+    "duration": 1.737
+  },
+  {
+    "text": "Any set of statistics might have something\nlurking inside it,",
+    "start": 19.484,
+    "duration": 3.817
+  },
+  {
+    "text": "something that can turn the results\ncompletely upside down.",
+    "start": 23.301,
+    "duration": 3.95
+  },
+  {
+    "text": "For example, imagine you need to choose\nbetween two hospitals",
+    "start": 27.251,
+    "duration": 3.669
+  },
+  {
+    "text": "for an elderly relative's surgery.",
+    "start": 30.92,
+    "duration": 2.817
+  },
+  {
+    "text": "Out of each hospital's \nlast 1000 patient's,",
+    "start": 33.737,
+    "duration": 2.697
+  },
+  {
+    "text": "900 survived at Hospital A,",
+    "start": 36.434,
+    "duration": 3.178
+  },
+  {
+    "text": "while only 800 survived at Hospital B.",
+    "start": 39.612,
+    "duration": 3.409
+  },
+  {
+    "text": "So it looks like Hospital A \nis the better choice.",
+    "start": 43.021,
+    "duration": 3.149
+  },
+  {
+    "text": "But before you make your decision,",
+    "start": 46.17,
+    "duration": 1.673
+  },
+  {
+    "text": "remember that not all patients\narrive at the hospital",
+    "start": 47.843,
+    "duration": 3.568
+  },
+  {
+    "text": "with the same level of health.",
+    "start": 51.411,
+    "duration": 2.4
+  },
+  {
+    "text": "And if we divide each hospital's\nlast 1000 patients",
+    "start": 53.811,
+    "duration": 2.892
+  },
+  {
+    "text": "into those who arrived in good health\nand those who arrived in poor health,",
+    "start": 56.703,
+    "duration": 4.429
+  },
+  {
+    "text": "the picture starts to look very different.",
+    "start": 61.132,
+    "duration": 2.64
+  },
+  {
+    "text": "Hospital A had only 100 patients\nwho arrived in poor health,",
+    "start": 63.772,
+    "duration": 4.077
+  },
+  {
+    "text": "of which 30 survived.",
+    "start": 67.849,
+    "duration": 2.476
+  },
+  {
+    "text": "But Hospital B had 400,\nand they were able to save 210.",
+    "start": 70.325,
+    "duration": 4.527
+  },
+  {
+    "text": "So Hospital B is the better choice",
+    "start": 74.852,
+    "duration": 2.317
+  },
+  {
+    "text": "for patients who arrive \nat hospital in poor health,",
+    "start": 77.169,
+    "duration": 3.572
+  },
+  {
+    "text": "with a survival rate of 52.5%.",
+    "start": 80.741,
+    "duration": 3.785
+  },
+  {
+    "text": "And what if your relative's health\nis good when she arrives at the hospital?",
+    "start": 84.526,
+    "duration": 3.919
+  },
+  {
+    "text": "Strangely enough, Hospital B is still\nthe better choice,",
+    "start": 88.445,
+    "duration": 3.826
+  },
+  {
+    "text": "with a survival rate of over 98%.",
+    "start": 92.271,
+    "duration": 3.405
+  },
+  {
+    "text": "So how can Hospital A have a better\noverall survival rate",
+    "start": 95.676,
+    "duration": 3.057
+  },
+  {
+    "text": "if Hospital B has better survival rates\nfor patients in each of the two groups?",
+    "start": 98.733,
+    "duration": 6.097
+  },
+  {
+    "text": "What we've stumbled upon is a case\nof Simpson's paradox,",
+    "start": 104.83,
+    "duration": 3.759
+  },
+  {
+    "text": "where the same set of data can appear\nto show opposite trends",
+    "start": 108.589,
+    "duration": 3.31
+  },
+  {
+    "text": "depending on how it's grouped.",
+    "start": 111.899,
+    "duration": 2.765
+  },
+  {
+    "text": "This often occurs when aggregated data\nhides a conditional variable,",
+    "start": 114.664,
+    "duration": 4.08
+  },
+  {
+    "text": "sometimes known as a lurking variable,",
+    "start": 118.744,
+    "duration": 2.633
+  },
+  {
+    "text": "which is a hidden additional factor\nthat significantly influences results.",
+    "start": 121.377,
+    "duration": 5.207
+  },
+  {
+    "text": "Here, the hidden factor is the relative\nproportion of patients",
+    "start": 126.584,
+    "duration": 3.439
+  },
+  {
+    "text": "who arrive in good or poor health.",
+    "start": 130.023,
+    "duration": 3.241
+  },
+  {
+    "text": "Simpson's paradox isn't just\na hypothetical scenario.",
+    "start": 133.264,
+    "duration": 3.28
+  },
+  {
+    "text": "It pops up from time \nto time in the real world,",
+    "start": 136.544,
+    "duration": 2.38
+  },
+  {
+    "text": "sometimes in important contexts.",
+    "start": 138.924,
+    "duration": 3.208
+  },
+  {
+    "text": "One study in the UK appeared to show",
+    "start": 142.132,
+    "duration": 1.998
+  },
+  {
+    "text": "that smokers had a higher survival rate\nthan nonsmokers",
+    "start": 144.13,
+    "duration": 3.47
+  },
+  {
+    "text": "over a twenty-year time period.",
+    "start": 147.6,
+    "duration": 2.246
+  },
+  {
+    "text": "That is, until dividing the participants\nby age group",
+    "start": 149.846,
+    "duration": 3.461
+  },
+  {
+    "text": "showed that the nonsmokers \nwere significantly older on average,",
+    "start": 153.307,
+    "duration": 4.516
+  },
+  {
+    "text": "and thus, more likely\nto die during the trial period,",
+    "start": 157.823,
+    "duration": 3.107
+  },
+  {
+    "text": "precisely because they were living longer\nin general.",
+    "start": 160.93,
+    "duration": 3.508
+  },
+  {
+    "text": "Here, the age groups \nare the lurking variable,",
+    "start": 164.438,
+    "duration": 2.848
+  },
+  {
+    "text": "and are vital to correctly \ninterpret the data.",
+    "start": 167.286,
+    "duration": 2.89
+  },
+  {
+    "text": "In another example,",
+    "start": 170.176,
+    "duration": 1.383
+  },
+  {
+    "text": "an analysis of Florida's \ndeath penalty cases",
+    "start": 171.559,
+    "duration": 2.722
+  },
+  {
+    "text": "seemed to reveal \nno racial disparity in sentencing",
+    "start": 174.281,
+    "duration": 3.984
+  },
+  {
+    "text": "between black and white defendants\nconvicted of murder.",
+    "start": 178.265,
+    "duration": 3.316
+  },
+  {
+    "text": "But dividing the cases by the race\nof the victim told a different story.",
+    "start": 181.581,
+    "duration": 4.815
+  },
+  {
+    "text": "In either situation,",
+    "start": 186.396,
+    "duration": 1.573
+  },
+  {
+    "text": "black defendants were more likely\nto be sentenced to death.",
+    "start": 187.969,
+    "duration": 3.122
+  },
+  {
+    "text": "The slightly higher overall sentencing \nrate for white defendants",
+    "start": 191.091,
+    "duration": 3.975
+  },
+  {
+    "text": "was due to the fact \nthat cases with white victims",
+    "start": 195.066,
+    "duration": 3.626
+  },
+  {
+    "text": "were more likely \nto elicit a death sentence",
+    "start": 198.692,
+    "duration": 2.667
+  },
+  {
+    "text": "than cases where the victim was black,",
+    "start": 201.359,
+    "duration": 2.732
+  },
+  {
+    "text": "and most murders occurred between\npeople of the same race.",
+    "start": 204.091,
+    "duration": 4.392
+  },
+  {
+    "text": "So how do we avoid \nfalling for the paradox?",
+    "start": 208.483,
+    "duration": 2.836
+  },
+  {
+    "text": "Unfortunately, \nthere's no one-size-fits-all answer.",
+    "start": 211.319,
+    "duration": 3.367
+  },
+  {
+    "text": "Data can be grouped and divided\nin any number of ways,",
+    "start": 214.686,
+    "duration": 3.818
+  },
+  {
+    "text": "and overall numbers may sometimes\ngive a more accurate picture",
+    "start": 218.504,
+    "duration": 3.602
+  },
+  {
+    "text": "than data divided into misleading\nor arbitrary categories.",
+    "start": 222.106,
+    "duration": 4.532
+  },
+  {
+    "text": "All we can do is carefully study the\nactual situations the statistics describe",
+    "start": 226.638,
+    "duration": 5.451
+  },
+  {
+    "text": "and consider whether lurking variables\nmay be present.",
+    "start": 232.089,
+    "duration": 3.888
+  },
+  {
+    "text": "Otherwise, we leave ourselves\nvulnerable to those who would use data",
+    "start": 235.977,
+    "duration": 3.401
+  },
+  {
+    "text": "to manipulate others\nand promote their own agendas.",
+    "start": 239.378,
+    "duration": 3.271
+  }
+]

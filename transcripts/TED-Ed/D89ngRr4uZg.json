@@ -1,0 +1,372 @@
+[
+  {
+    "text": "In 2009, two researchers ran \na simple experiment.",
+    "start": 7.745,
+    "duration": 4.135
+  },
+  {
+    "text": "They took everything we know \nabout our solar system",
+    "start": 11.88,
+    "duration": 3.175
+  },
+  {
+    "text": "and calculated where every planet would be\nup to 5 billion years in the future.",
+    "start": 15.055,
+    "duration": 6.052
+  },
+  {
+    "text": "To do so they ran over 2,000 \nnumerical simulations",
+    "start": 21.107,
+    "duration": 4.0
+  },
+  {
+    "text": "with the same exact initial conditions\nexcept for one difference:",
+    "start": 25.107,
+    "duration": 4.722
+  },
+  {
+    "text": "the distance between Mercury and the Sun,\nmodified by less than a millimeter",
+    "start": 29.829,
+    "duration": 5.307
+  },
+  {
+    "text": "from one simulation to the next.",
+    "start": 35.136,
+    "duration": 2.66
+  },
+  {
+    "text": "Shockingly, in about 1 percent \nof their simulations,",
+    "start": 37.796,
+    "duration": 3.278
+  },
+  {
+    "text": "Mercury’s orbit changed so drastically \nthat it could plunge into the Sun",
+    "start": 41.074,
+    "duration": 5.346
+  },
+  {
+    "text": "or collide with Venus.",
+    "start": 46.42,
+    "duration": 2.36
+  },
+  {
+    "text": "Worse yet,",
+    "start": 48.78,
+    "duration": 0.72
+  },
+  {
+    "text": "in one simulation it destabilized\nthe entire inner solar system.",
+    "start": 49.5,
+    "duration": 5.483
+  },
+  {
+    "text": "This was no error; \nthe astonishing variety in results",
+    "start": 54.983,
+    "duration": 4.0
+  },
+  {
+    "text": "reveals the truth that our solar system \nmay be much less stable than it seems.",
+    "start": 58.983,
+    "duration": 6.075
+  },
+  {
+    "text": "Astrophysicists refer to this astonishing\nproperty of gravitational systems",
+    "start": 65.058,
+    "duration": 5.181
+  },
+  {
+    "text": "as the n-body problem.",
+    "start": 70.239,
+    "duration": 2.18
+  },
+  {
+    "text": "While we have equations \nthat can completely predict",
+    "start": 72.419,
+    "duration": 2.82
+  },
+  {
+    "text": "the motions of two gravitating masses,",
+    "start": 75.239,
+    "duration": 2.71
+  },
+  {
+    "text": "our analytical tools fall short \nwhen faced with more populated systems.",
+    "start": 77.949,
+    "duration": 5.651
+  },
+  {
+    "text": "It’s actually impossible to write down\nall the terms of a general formula",
+    "start": 83.6,
+    "duration": 5.261
+  },
+  {
+    "text": "that can exactly describe the motion\nof three or more gravitating objects.",
+    "start": 88.861,
+    "duration": 5.91
+  },
+  {
+    "text": "Why? The issue lies in how many unknown\nvariables an n-body system contains.",
+    "start": 94.771,
+    "duration": 7.105
+  },
+  {
+    "text": "Thanks to Isaac Newton, \nwe can write a set of equations",
+    "start": 101.876,
+    "duration": 3.31
+  },
+  {
+    "text": "to describe the gravitational force \nacting between bodies.",
+    "start": 105.186,
+    "duration": 4.0
+  },
+  {
+    "text": "However, when trying to find a general \nsolution for the unknown variables",
+    "start": 109.186,
+    "duration": 4.677
+  },
+  {
+    "text": "in these equations,",
+    "start": 113.863,
+    "duration": 1.29
+  },
+  {
+    "text": "we’re faced with \na mathematical constraint:",
+    "start": 115.153,
+    "duration": 2.849
+  },
+  {
+    "text": "for each unknown, \nthere must be at least one equation",
+    "start": 118.002,
+    "duration": 3.831
+  },
+  {
+    "text": "that independently describes it.",
+    "start": 121.833,
+    "duration": 2.21
+  },
+  {
+    "text": "Initially, a two-body system appears \nto have more unknown variables",
+    "start": 124.043,
+    "duration": 4.891
+  },
+  {
+    "text": "for position and velocity \nthan equations of motion.",
+    "start": 128.934,
+    "duration": 3.79
+  },
+  {
+    "text": "However, there’s a trick:",
+    "start": 132.724,
+    "duration": 1.956
+  },
+  {
+    "text": "consider the relative position \nand velocity of the two bodies",
+    "start": 134.68,
+    "duration": 4.235
+  },
+  {
+    "text": "with respect to the center \nof gravity of the system.",
+    "start": 138.915,
+    "duration": 3.71
+  },
+  {
+    "text": "This reduces the number of unknowns\nand leaves us with a solvable system.",
+    "start": 142.625,
+    "duration": 4.728
+  },
+  {
+    "text": "With three or more orbiting objects \nin the picture, everything gets messier.",
+    "start": 147.353,
+    "duration": 5.726
+  },
+  {
+    "text": "Even with the same mathematical trick \nof considering relative motions,",
+    "start": 153.079,
+    "duration": 4.382
+  },
+  {
+    "text": "we’re left with more unknowns \nthan equations describing them.",
+    "start": 157.461,
+    "duration": 4.627
+  },
+  {
+    "text": "There are simply too many variables\nfor this system of equations",
+    "start": 162.088,
+    "duration": 4.252
+  },
+  {
+    "text": "to be untangled into a general solution.",
+    "start": 166.34,
+    "duration": 3.27
+  },
+  {
+    "text": "But what does it actually look like \nfor objects in our universe",
+    "start": 169.61,
+    "duration": 3.91
+  },
+  {
+    "text": "to move according to analytically \nunsolvable equations of motion?",
+    "start": 173.52,
+    "duration": 5.111
+  },
+  {
+    "text": "A system of three stars—\nlike Alpha Centauri—",
+    "start": 178.631,
+    "duration": 3.25
+  },
+  {
+    "text": "could come crashing\ninto one another or, more likely,",
+    "start": 181.881,
+    "duration": 3.478
+  },
+  {
+    "text": "some might get flung out of orbit \nafter a long time of apparent stability.",
+    "start": 185.359,
+    "duration": 5.112
+  },
+  {
+    "text": "Other than a few highly improbable \nstable configurations,",
+    "start": 190.471,
+    "duration": 4.0
+  },
+  {
+    "text": "almost every possible case \nis unpredictable on long timescales.",
+    "start": 194.471,
+    "duration": 6.1
+  },
+  {
+    "text": "Each has an astronomically large range\nof potential outcomes,",
+    "start": 200.571,
+    "duration": 4.197
+  },
+  {
+    "text": "dependent on the tiniest of differences\nin position and velocity.",
+    "start": 204.768,
+    "duration": 4.808
+  },
+  {
+    "text": "This behaviour is known \nas chaotic by physicists,",
+    "start": 209.576,
+    "duration": 4.166
+  },
+  {
+    "text": "and is an important characteristic \nof n-body systems.",
+    "start": 213.742,
+    "duration": 3.73
+  },
+  {
+    "text": "Such a system is still deterministic—\nmeaning there’s nothing random about it.",
+    "start": 217.472,
+    "duration": 4.729
+  },
+  {
+    "text": "If multiple systems start \nfrom the exact same conditions,",
+    "start": 222.201,
+    "duration": 3.59
+  },
+  {
+    "text": "they’ll always reach the same result.",
+    "start": 225.791,
+    "duration": 2.45
+  },
+  {
+    "text": "But give one a little shove at the start,\nand all bets are off.",
+    "start": 228.241,
+    "duration": 5.739
+  },
+  {
+    "text": "That’s clearly relevant \nfor human space missions,",
+    "start": 233.98,
+    "duration": 3.26
+  },
+  {
+    "text": "when complicated orbits need \nto be calculated with great precision.",
+    "start": 237.24,
+    "duration": 5.249
+  },
+  {
+    "text": "Thankfully, continuous advancements\nin computer simulations",
+    "start": 242.489,
+    "duration": 4.0
+  },
+  {
+    "text": "offer a number of ways\nto avoid catastrophe.",
+    "start": 246.489,
+    "duration": 2.89
+  },
+  {
+    "text": "By approximating the solutions \nwith increasingly powerful processors,",
+    "start": 249.379,
+    "duration": 4.316
+  },
+  {
+    "text": "we can more confidently predict the motion\nof n-body systems on long time-scales.",
+    "start": 253.695,
+    "duration": 5.87
+  },
+  {
+    "text": "And if one body in a group \nof three is so light",
+    "start": 259.565,
+    "duration": 3.19
+  },
+  {
+    "text": "it exerts no significant force \non the other two,",
+    "start": 262.755,
+    "duration": 3.13
+  },
+  {
+    "text": "the system behaves, with very good \napproximation, as a two-body system.",
+    "start": 265.885,
+    "duration": 4.842
+  },
+  {
+    "text": "This approach is known \nas the “restricted three-body problem.”",
+    "start": 270.727,
+    "duration": 4.0
+  },
+  {
+    "text": "It proves extremely useful \nin describing, for example,",
+    "start": 274.727,
+    "duration": 3.37
+  },
+  {
+    "text": "an asteroid in the Earth-Sun \ngravitational field,",
+    "start": 278.097,
+    "duration": 3.51
+  },
+  {
+    "text": "or a small planet in the field \nof a black hole and a star.",
+    "start": 281.607,
+    "duration": 5.093
+  },
+  {
+    "text": "As for our solar system, \nyou’ll be happy to hear",
+    "start": 286.7,
+    "duration": 2.78
+  },
+  {
+    "text": "that we can have reasonable confidence\nin its stability",
+    "start": 289.48,
+    "duration": 3.17
+  },
+  {
+    "text": "for at least the next \nseveral hundred million years.",
+    "start": 292.65,
+    "duration": 3.68
+  },
+  {
+    "text": "Though if another star,",
+    "start": 296.33,
+    "duration": 1.69
+  },
+  {
+    "text": "launched from across the galaxy, \nis on its way to us,",
+    "start": 298.02,
+    "duration": 3.98
+  },
+  {
+    "text": "all bets are off.",
+    "start": 302.0,
+    "duration": 1.85
+  }
+]

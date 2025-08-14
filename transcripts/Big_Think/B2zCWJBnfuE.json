@@ -1,0 +1,792 @@
+[
+  {
+    "text": "There's kind of an illusion with\ngenerative AI. \"This promises to be the viral",
+    "start": 0.48,
+    "duration": 4.96
+  },
+  {
+    "text": "sensation that could completely",
+    "start": 5.44,
+    "duration": 1.78
+  },
+  {
+    "text": "reset how we do things.\"",
+    "start": 7.6,
+    "duration": 1.54
+  },
+  {
+    "text": "According to all the headlines, it's on\nthe brink of solving all business problems",
+    "start": 9.575,
+    "duration": 3.52
+  },
+  {
+    "text": "automatically",
+    "start": 13.095,
+    "duration": 0.5
+  },
+  {
+    "text": "with the slight side effect of displacing\nhuge amounts of the workforce.",
+    "start": 14.055,
+    "duration": 3.38
+  },
+  {
+    "text": "It seems so amazing. It's potentially\na panacea.",
+    "start": 18.19,
+    "duration": 2.82
+  },
+  {
+    "text": "No.",
+    "start": 22.19,
+    "duration": 0.5
+  },
+  {
+    "text": "It's hyperbole. It's hype.",
+    "start": 23.63,
+    "duration": 1.525
+  },
+  {
+    "text": "What we get with generative AI\nis extremely",
+    "start": 26.115,
+    "duration": 2.5
+  },
+  {
+    "text": "impressive,",
+    "start": 28.995,
+    "duration": 0.5
+  },
+  {
+    "text": "but it's not going to run the world.",
+    "start": 29.875,
+    "duration": 1.94
+  },
+  {
+    "text": "It does have the ability to\ncreate efficiencies,",
+    "start": 32.46,
+    "duration": 2.26
+  },
+  {
+    "text": "but it's more limited.",
+    "start": 35.26,
+    "duration": 0.98
+  },
+  {
+    "text": "Whereas predictive AI, which is older,",
+    "start": 36.94,
+    "duration": 3.14
+  },
+  {
+    "text": "very much still has great amounts of\nuntapped value.",
+    "start": 41.045,
+    "duration": 2.98
+  },
+  {
+    "text": "I'm Eric Siegel. I'm the co-founder and CEO\nof Goodr AI,",
+    "start": 45.205,
+    "duration": 3.86
+  },
+  {
+    "text": "the founder of the Machine Learning Week\nconference series, and the author of \"The",
+    "start": 49.525,
+    "duration": 4.815
+  },
+  {
+    "text": "AI Playbook:",
+    "start": 54.34,
+    "duration": 0.74
+  },
+  {
+    "text": "Mastering the Rare Art of Machine Learning",
+    "start": 55.7,
+    "duration": 2.82
+  },
+  {
+    "text": "Deployment.\"",
+    "start": 60.675,
+    "duration": 0.5
+  },
+  {
+    "text": "I became fascinated with the concept of\nartificial intelligence as a kid in the late",
+    "start": 65.075,
+    "duration": 4.795
+  },
+  {
+    "text": "seventies and then in the early eighties.",
+    "start": 69.87,
+    "duration": 2.42
+  },
+  {
+    "text": "Eventually,",
+    "start": 72.75,
+    "duration": 0.5
+  },
+  {
+    "text": "my education led me to machine learning,\nand I've been in the field since nineteen",
+    "start": 73.95,
+    "duration": 4.795
+  },
+  {
+    "text": "ninety-one.",
+    "start": 78.745,
+    "duration": 0.74
+  },
+  {
+    "text": "\"Whoa,",
+    "start": 80.025,
+    "duration": 0.5
+  },
+  {
+    "text": "Kasparov, after the move c4,",
+    "start": 81.225,
+    "duration": 2.74
+  },
+  {
+    "text": "has resigned.\"",
+    "start": 84.345,
+    "duration": 0.9
+  },
+  {
+    "text": "Now I was sort of semi-horrified with the\nAI hype for a few",
+    "start": 85.945,
+    "duration": 4.625
+  },
+  {
+    "text": "decades, and it just got a lot worse in\nrecent years because of generative",
+    "start": 90.57,
+    "duration": 4.8
+  },
+  {
+    "text": "AI. It's going to feed that frenzy because\nit's so",
+    "start": 95.37,
+    "duration": 2.725
+  },
+  {
+    "text": "seemingly human-like.",
+    "start": 98.475,
+    "duration": 1.46
+  },
+  {
+    "text": "Generative AI, something like chatGPT,",
+    "start": 100.635,
+    "duration": 2.58
+  },
+  {
+    "text": "a large language model, it is capable",
+    "start": 103.595,
+    "duration": 2.175
+  },
+  {
+    "text": "of communicating about any topic",
+    "start": 106.23,
+    "duration": 2.34
+  },
+  {
+    "text": "and often giving responses that seem to\nunderstand what you're saying.",
+    "start": 108.87,
+    "duration": 4.715
+  },
+  {
+    "text": "And I grant that on some level,",
+    "start": 113.585,
+    "duration": 2.26
+  },
+  {
+    "text": "it has captured",
+    "start": 116.145,
+    "duration": 1.06
+  },
+  {
+    "text": "understanding and the meaning of words and\nphrases and sentences and paragraphs.",
+    "start": 117.585,
+    "duration": 3.54
+  },
+  {
+    "text": "But I believe",
+    "start": 121.81,
+    "duration": 1.14
+  },
+  {
+    "text": "that the difference between what it can do\nand what humans can do is going to",
+    "start": 123.25,
+    "duration": 4.56
+  },
+  {
+    "text": "become increasingly apparent.",
+    "start": 127.81,
+    "duration": 1.78
+  },
+  {
+    "text": "Generative AI is sort of correct often",
+    "start": 133.685,
+    "duration": 2.98
+  },
+  {
+    "text": "only as a side effect. When people say\n\"hallucinate,\" they're like, \"Well, look. It",
+    "start": 137.1,
+    "duration": 3.84
+  },
+  {
+    "text": "just makes things up.\"",
+    "start": 140.94,
+    "duration": 1.14
+  },
+  {
+    "text": "What impresses me",
+    "start": 142.46,
+    "duration": 1.22
+  },
+  {
+    "text": "is that it actually gets things right\nsometimes because it's only working on that",
+    "start": 144.225,
+    "duration": 3.84
+  },
+  {
+    "text": "low level of detail, the per-word level,\nwhich results in that sort of seemingly",
+    "start": 148.065,
+    "duration": 4.465
+  },
+  {
+    "text": "human-like capability.",
+    "start": 152.53,
+    "duration": 1.14
+  },
+  {
+    "text": "There's a big difference between that\nimpressive capability",
+    "start": 154.69,
+    "duration": 2.58
+  },
+  {
+    "text": "and the potential value. It's certainly\nvaluable for writing first drafts.",
+    "start": 157.81,
+    "duration": 3.94
+  },
+  {
+    "text": "So it'll produce a first draft of a letter\nyou need to write or a syllabus or",
+    "start": 162.375,
+    "duration": 4.32
+  },
+  {
+    "text": "something like that. But you can't trust\nit blindly. You have to proofread",
+    "start": 166.695,
+    "duration": 4.4
+  },
+  {
+    "text": "everything that it gives you.",
+    "start": 171.095,
+    "duration": 1.365
+  },
+  {
+    "text": "That actually, in a way, makes it less",
+    "start": 173.0,
+    "duration": 2.34
+  },
+  {
+    "text": "potentially",
+    "start": 175.8,
+    "duration": 0.5
+  },
+  {
+    "text": "autonomous.",
+    "start": 176.92,
+    "duration": 0.5
+  },
+  {
+    "text": "The whole point of computers is to\nautomate. Right? It does things really fast. And",
+    "start": 180.645,
+    "duration": 4.08
+  },
+  {
+    "text": "to the degree that we can actually trust\nit well enough to do things automatically,",
+    "start": 184.725,
+    "duration": 4.305
+  },
+  {
+    "text": "that ultimately helps the economy. It\nhelps the efficiencies of the world.",
+    "start": 189.65,
+    "duration": 3.46
+  },
+  {
+    "text": "Predictive AI, that's the technology you\nturn to when you want to improve your",
+    "start": 193.89,
+    "duration": 4.875
+  },
+  {
+    "text": "existing largest scale operation.",
+    "start": 198.765,
+    "duration": 2.1
+  },
+  {
+    "text": "It does have the potential to enjoy the\nbenefits of autonomy.",
+    "start": 201.325,
+    "duration": 3.22
+  },
+  {
+    "text": "So predictive AI or enterprise machine\nlearning, that's the technology that learns",
+    "start": 205.95,
+    "duration": 4.4
+  },
+  {
+    "text": "from data to predict in order to improve",
+    "start": 210.35,
+    "duration": 2.58
+  },
+  {
+    "text": "any and all of the millions of decisions\nthat make up large-scale enterprise",
+    "start": 213.285,
+    "duration": 4.18
+  },
+  {
+    "text": "operations.",
+    "start": 217.765,
+    "duration": 0.5
+  },
+  {
+    "text": "And these are the things that make the\nworld go round. So predict who's going to buy in",
+    "start": 218.885,
+    "duration": 4.085
+  },
+  {
+    "text": "order to decide who to contact with\nmarketing, which transaction is most likely to",
+    "start": 222.97,
+    "duration": 3.84
+  },
+  {
+    "text": "be fraudulent to decide which transactions\nto block or",
+    "start": 226.81,
+    "duration": 2.815
+  },
+  {
+    "text": "audit, which train wheel is most likely to\nfail in order to decide which one to",
+    "start": 230.165,
+    "duration": 3.04
+  },
+  {
+    "text": "inspect. It's not just train wheels. The\nNew York Fire Department does that to",
+    "start": 233.205,
+    "duration": 3.295
+  },
+  {
+    "text": "predict which buildings are at most risk\nof fire to triage and prioritize",
+    "start": 236.5,
+    "duration": 3.68
+  },
+  {
+    "text": "inspections,",
+    "start": 240.18,
+    "duration": 0.5
+  },
+  {
+    "text": "or which healthcare patient should we\ntake another look at before discharging",
+    "start": 241.14,
+    "duration": 4.705
+  },
+  {
+    "text": "because they're predicted very likely to\nbe readmitted to the hospital?",
+    "start": 245.845,
+    "duration": 3.14
+  },
+  {
+    "text": "All of these predictive applications",
+    "start": 249.525,
+    "duration": 1.675
+  },
+  {
+    "text": "are a form of prioritization",
+    "start": 251.82,
+    "duration": 1.3
+  },
+  {
+    "text": "or triage,",
+    "start": 253.42,
+    "duration": 0.74
+  },
+  {
+    "text": "and the computer is systematically making\nthose decisions over and over again real",
+    "start": 254.94,
+    "duration": 4.48
+  },
+  {
+    "text": "fast, fully autonomous.",
+    "start": 259.42,
+    "duration": 1.505
+  },
+  {
+    "text": "So we have data. We give it to machine\nlearning, which is the underlying",
+    "start": 262.025,
+    "duration": 4.72
+  },
+  {
+    "text": "technology.",
+    "start": 266.745,
+    "duration": 0.5
+  },
+  {
+    "text": "It generates models that predict, and\nthose predictions improve all the large-scale",
+    "start": 267.64,
+    "duration": 3.52
+  },
+  {
+    "text": "operations that we conduct.",
+    "start": 271.16,
+    "duration": 1.22
+  },
+  {
+    "text": "Predictive AI is so applicable",
+    "start": 274.36,
+    "duration": 2.02
+  },
+  {
+    "text": "across industries.",
+    "start": 276.805,
+    "duration": 0.82
+  },
+  {
+    "text": "Let's take the delivery industry. UPS is\none of the biggest three delivery",
+    "start": 278.245,
+    "duration": 4.64
+  },
+  {
+    "text": "companies in the United States, and\nthey actually",
+    "start": 282.885,
+    "duration": 2.9
+  },
+  {
+    "text": "streamlined the efficiency of\ntheir deliveries",
+    "start": 286.6,
+    "duration": 2.42
+  },
+  {
+    "text": "by predicting",
+    "start": 289.48,
+    "duration": 0.82
+  },
+  {
+    "text": "tomorrow's deliveries.",
+    "start": 290.6,
+    "duration": 1.06
+  },
+  {
+    "text": "That makes such a big difference",
+    "start": 294.015,
+    "duration": 1.78
+  },
+  {
+    "text": "that in combination with another system\nthat actually prescribes the driving",
+    "start": 296.095,
+    "duration": 4.08
+  },
+  {
+    "text": "directions,",
+    "start": 300.175,
+    "duration": 0.5
+  },
+  {
+    "text": "to this day, UPS enjoys",
+    "start": 301.135,
+    "duration": 1.7
+  },
+  {
+    "text": "savings of three hundred and fifty million\ndollars a year and hundreds of thousands",
+    "start": 303.18,
+    "duration": 4.4
+  },
+  {
+    "text": "of metric tons of emissions.",
+    "start": 307.58,
+    "duration": 1.86
+  },
+  {
+    "text": "So this is how it works. When they have to\nstart planning and then loading the",
+    "start": 309.82,
+    "duration": 4.565
+  },
+  {
+    "text": "trucks in the late afternoon or early\nevening so that it'll be ready the next",
+    "start": 314.385,
+    "duration": 4.16
+  },
+  {
+    "text": "morning, they have incomplete information.",
+    "start": 318.545,
+    "duration": 2.395
+  },
+  {
+    "text": "What they don't know is some of the\npackages that are still coming in later that",
+    "start": 321.88,
+    "duration": 4.16
+  },
+  {
+    "text": "night. So what they do is they augment the\nknown information, which is that they",
+    "start": 326.04,
+    "duration": 3.785
+  },
+  {
+    "text": "already have a bunch of packages in hand\nthat they know are meant to go out tomorrow",
+    "start": 329.825,
+    "duration": 3.6
+  },
+  {
+    "text": "morning for their final deliveries.",
+    "start": 333.425,
+    "duration": 1.54
+  },
+  {
+    "text": "And they'll augment that with tentatively",
+    "start": 335.63,
+    "duration": 2.26
+  },
+  {
+    "text": "presumed",
+    "start": 338.27,
+    "duration": 0.5
+  },
+  {
+    "text": "predicted deliveries",
+    "start": 339.31,
+    "duration": 1.06
+  },
+  {
+    "text": "by applying a predictive model for each\npotential delivery address and saying, \"Hey,",
+    "start": 340.83,
+    "duration": 4.055
+  },
+  {
+    "text": "what are the chances that there'll be a\ndelivery there tomorrow?\"",
+    "start": 344.885,
+    "duration": 2.66
+  },
+  {
+    "text": "Now they have a more complete",
+    "start": 348.085,
+    "duration": 1.46
+  },
+  {
+    "text": "picture of all the deliveries needed\nfor tomorrow.",
+    "start": 349.925,
+    "duration": 2.74
+  },
+  {
+    "text": "They can do a better job planning and\nloading the packages overnight so that when",
+    "start": 353.27,
+    "duration": 4.56
+  },
+  {
+    "text": "the trucks go out in the morning, they'll\nhave relatively optimal routes that don't",
+    "start": 357.83,
+    "duration": 4.32
+  },
+  {
+    "text": "take too many miles of driving, too\nmuch gasoline,",
+    "start": 362.15,
+    "duration": 2.485
+  },
+  {
+    "text": "too much time of the drivers.",
+    "start": 365.095,
+    "duration": 1.38
+  },
+  {
+    "text": "Now some of those predictions will be\nwrong, but they're confident enough that the",
+    "start": 367.015,
+    "duration": 3.865
+  },
+  {
+    "text": "completeness now actually overweighs",
+    "start": 370.88,
+    "duration": 2.5
+  },
+  {
+    "text": "some of that uncertainty.",
+    "start": 373.76,
+    "duration": 1.46
+  },
+  {
+    "text": "This is what you need to do if you want to\nimprove existing large-scale operations.",
+    "start": 375.6,
+    "duration": 4.655
+  },
+  {
+    "text": "You need to work with",
+    "start": 380.255,
+    "duration": 1.22
+  },
+  {
+    "text": "probability.",
+    "start": 381.855,
+    "duration": 0.5
+  },
+  {
+    "text": "Assign a number. How likely is\nthis outcome?",
+    "start": 383.055,
+    "duration": 2.26
+  },
+  {
+    "text": "Here's the thing.",
+    "start": 385.935,
+    "duration": 1.14
+  },
+  {
+    "text": "It doesn't make a difference how good the\nnumber crunching is unless you act on it.",
+    "start": 387.4,
+    "duration": 3.6
+  },
+  {
+    "text": "It's not intrinsically valuable. The value\nonly comes if you actually",
+    "start": 391.0,
+    "duration": 4.155
+  },
+  {
+    "text": "deploy it and change your\nexisting operations.",
+    "start": 395.615,
+    "duration": 3.38
+  },
+  {
+    "text": "We have this incredible",
+    "start": 406.48,
+    "duration": 1.22
+  },
+  {
+    "text": "seemingly human-like capability of\ngenerative AI,",
+    "start": 408.24,
+    "duration": 3.06
+  },
+  {
+    "text": "which in one sense, I think is the most\namazing thing I've ever seen.",
+    "start": 411.715,
+    "duration": 4.56
+  },
+  {
+    "text": "But",
+    "start": 416.275,
+    "duration": 0.5
+  },
+  {
+    "text": "underlying the excitement is the idea that\nwe are moving",
+    "start": 417.075,
+    "duration": 3.3
+  },
+  {
+    "text": "steadily towards and potentially very near",
+    "start": 420.92,
+    "duration": 2.82
+  },
+  {
+    "text": "AGI,",
+    "start": 424.36,
+    "duration": 0.5
+  },
+  {
+    "text": "Artificial General Intelligence,",
+    "start": 425.16,
+    "duration": 1.62
+  },
+  {
+    "text": "which is a computer that can do anything a\nperson can do. It's this feeling",
+    "start": 427.24,
+    "duration": 4.905
+  },
+  {
+    "text": "of a computer, kind of, coming alive,\nlike Frankenstein,",
+    "start": 432.145,
+    "duration": 2.98
+  },
+  {
+    "text": "which we see over and over again in\nscience fiction movies.",
+    "start": 435.665,
+    "duration": 2.9
+  },
+  {
+    "text": "In the real world,",
+    "start": 439.4,
+    "duration": 1.22
+  },
+  {
+    "text": "I do not believe we're going to fully\nreplicate humans anytime soon or that",
+    "start": 441.16,
+    "duration": 4.96
+  },
+  {
+    "text": "we're actively making progress in that\ndirection. That is a recipe",
+    "start": 446.12,
+    "duration": 3.825
+  },
+  {
+    "text": "for mismanaged expectations,",
+    "start": 450.325,
+    "duration": 1.54
+  },
+  {
+    "text": "otherwise known as hype.",
+    "start": 452.485,
+    "duration": 1.38
+  },
+  {
+    "text": "The antidote to hype is simple.",
+    "start": 454.245,
+    "duration": 2.5
+  },
+  {
+    "text": "Focus on concrete value.",
+    "start": 457.23,
+    "duration": 1.54
+  },
+  {
+    "text": "Discover whether you're using generative\nAI or predictive AI.",
+    "start": 459.23,
+    "duration": 3.38
+  },
+  {
+    "text": "Determine a very",
+    "start": 462.99,
+    "duration": 1.22
+  },
+  {
+    "text": "specific,",
+    "start": 464.67,
+    "duration": 0.5
+  },
+  {
+    "text": "concrete,",
+    "start": 465.63,
+    "duration": 0.5
+  },
+  {
+    "text": "credible use case of exactly how\nthis technology",
+    "start": 466.825,
+    "duration": 3.22
+  },
+  {
+    "text": "is going to improve some kind of operation\nin the enterprise",
+    "start": 470.425,
+    "duration": 3.38
+  },
+  {
+    "text": "and deliver value.",
+    "start": 474.36,
+    "duration": 1.14
+  },
+  {
+    "text": "If you want to just sort of explore how\nclose is it to the human mind and why you",
+    "start": 475.88,
+    "duration": 4.16
+  },
+  {
+    "text": "think it might be getting there, that's\nkind of a philosophical conversation,",
+    "start": 480.04,
+    "duration": 2.98
+  },
+  {
+    "text": "and that's great. But if you're talking\nabout, sort of, improving efficiencies of",
+    "start": 483.4,
+    "duration": 3.185
+  },
+  {
+    "text": "operations that make the world go around,\nI think we should be a lot more practical",
+    "start": 486.585,
+    "duration": 4.02
+  },
+  {
+    "text": "and less pie in the sky.",
+    "start": 491.065,
+    "duration": 1.86
+  }
+]

@@ -1,0 +1,1042 @@
+[
+  {
+    "text": "Since 2001, I have been working\non what we would now call",
+    "start": 4.334,
+    "duration": 3.503
+  },
+  {
+    "text": "the problem of aligning artificial\ngeneral intelligence:",
+    "start": 7.879,
+    "duration": 3.629
+  },
+  {
+    "text": "how to shape the preferences and behavior",
+    "start": 11.55,
+    "duration": 2.085
+  },
+  {
+    "text": "of a powerful artificial mind\nsuch that it does not kill everyone.",
+    "start": 13.677,
+    "duration": 4.838
+  },
+  {
+    "text": "I more or less founded the field\ntwo decades ago,",
+    "start": 19.224,
+    "duration": 3.128
+  },
+  {
+    "text": "when nobody else considered it\nrewarding enough to work on.",
+    "start": 22.352,
+    "duration": 2.794
+  },
+  {
+    "text": "I tried to get this very important\nproject started early",
+    "start": 25.146,
+    "duration": 2.711
+  },
+  {
+    "text": "so we'd be in less\nof a drastic rush later.",
+    "start": 27.899,
+    "duration": 2.544
+  },
+  {
+    "text": "I consider myself to have failed.",
+    "start": 31.069,
+    "duration": 2.044
+  },
+  {
+    "text": "(Laughter)",
+    "start": 33.154,
+    "duration": 1.001
+  },
+  {
+    "text": "Nobody understands how modern\nAI systems do what they do.",
+    "start": 34.197,
+    "duration": 3.337
+  },
+  {
+    "text": "They are giant, inscrutable matrices\nof floating point numbers",
+    "start": 37.576,
+    "duration": 2.961
+  },
+  {
+    "text": "that we nudge in the direction\nof better performance",
+    "start": 40.579,
+    "duration": 2.46
+  },
+  {
+    "text": "until they inexplicably start working.",
+    "start": 43.039,
+    "duration": 2.044
+  },
+  {
+    "text": "At some point, the companies\nrushing headlong to scale AI",
+    "start": 45.083,
+    "duration": 3.378
+  },
+  {
+    "text": "will cough out something\nthat's smarter than humanity.",
+    "start": 48.461,
+    "duration": 2.67
+  },
+  {
+    "text": "Nobody knows how to calculate\nwhen that will happen.",
+    "start": 51.131,
+    "duration": 2.544
+  },
+  {
+    "text": "My wild guess is that it will happen\nafter zero to two more breakthroughs",
+    "start": 53.675,
+    "duration": 3.712
+  },
+  {
+    "text": "the size of transformers.",
+    "start": 57.429,
+    "duration": 1.71
+  },
+  {
+    "text": "What happens if we build\nsomething smarter than us",
+    "start": 59.139,
+    "duration": 2.335
+  },
+  {
+    "text": "that we understand that poorly?",
+    "start": 61.516,
+    "duration": 2.377
+  },
+  {
+    "text": "Some people find it obvious\nthat building something smarter than us",
+    "start": 63.935,
+    "duration": 3.17
+  },
+  {
+    "text": "that we don't understand might go badly.",
+    "start": 67.105,
+    "duration": 2.294
+  },
+  {
+    "text": "Others come in with a very wide range\nof hopeful thoughts",
+    "start": 69.441,
+    "duration": 3.879
+  },
+  {
+    "text": "about how it might possibly go well.",
+    "start": 73.361,
+    "duration": 2.044
+  },
+  {
+    "text": "Even if I had 20 minutes for this talk\nand months to prepare it,",
+    "start": 76.281,
+    "duration": 3.337
+  },
+  {
+    "text": "I would not be able to refute\nall the ways people find to imagine",
+    "start": 79.659,
+    "duration": 3.087
+  },
+  {
+    "text": "that things might go well.",
+    "start": 82.746,
+    "duration": 1.71
+  },
+  {
+    "text": "But I will say that there is no\nstandard scientific consensus",
+    "start": 84.456,
+    "duration": 4.546
+  },
+  {
+    "text": "for how things will go well.",
+    "start": 89.044,
+    "duration": 1.668
+  },
+  {
+    "text": "There is no hope\nthat has been widely persuasive",
+    "start": 90.712,
+    "duration": 2.252
+  },
+  {
+    "text": "and stood up to skeptical examination.",
+    "start": 93.006,
+    "duration": 1.877
+  },
+  {
+    "text": "There is nothing resembling a real\nengineering plan for us surviving",
+    "start": 95.592,
+    "duration": 4.421
+  },
+  {
+    "text": "that I could critique.",
+    "start": 100.013,
+    "duration": 1.71
+  },
+  {
+    "text": "This is not a good place\nin which to find ourselves.",
+    "start": 101.765,
+    "duration": 2.752
+  },
+  {
+    "text": "If I had more time,",
+    "start": 104.517,
+    "duration": 1.21
+  },
+  {
+    "text": "I'd try to tell you\nabout the predictable reasons",
+    "start": 105.727,
+    "duration": 2.294
+  },
+  {
+    "text": "why the current paradigm will not work",
+    "start": 108.063,
+    "duration": 1.96
+  },
+  {
+    "text": "to build a superintelligence\nthat likes you",
+    "start": 110.065,
+    "duration": 2.46
+  },
+  {
+    "text": "or is friends with you,\nor that just follows orders.",
+    "start": 112.567,
+    "duration": 3.378
+  },
+  {
+    "text": "Why, if you press \"thumbs up\"\nwhen humans think that things went right",
+    "start": 116.613,
+    "duration": 4.379
+  },
+  {
+    "text": "or \"thumbs down\" when another AI system\nthinks that they went wrong,",
+    "start": 121.034,
+    "duration": 3.712
+  },
+  {
+    "text": "you do not get a mind\nthat wants nice things",
+    "start": 124.788,
+    "duration": 3.503
+  },
+  {
+    "text": "in a way that generalizes well\noutside the training distribution",
+    "start": 128.291,
+    "duration": 4.004
+  },
+  {
+    "text": "to where the AI is smarter\nthan the trainers.",
+    "start": 132.337,
+    "duration": 2.461
+  },
+  {
+    "text": "You can search for \"Yudkowsky\nlist of lethalities\" for more.",
+    "start": 135.674,
+    "duration": 5.13
+  },
+  {
+    "text": "(Laughter)",
+    "start": 140.804,
+    "duration": 1.793
+  },
+  {
+    "text": "But to worry, you do not\nneed to believe me",
+    "start": 142.597,
+    "duration": 2.169
+  },
+  {
+    "text": "about exact predictions\nof exact disasters.",
+    "start": 144.808,
+    "duration": 2.878
+  },
+  {
+    "text": "You just need to expect that things\nare not going to work great",
+    "start": 147.727,
+    "duration": 2.962
+  },
+  {
+    "text": "on the first really serious,\nreally critical try",
+    "start": 150.73,
+    "duration": 3.045
+  },
+  {
+    "text": "because an AI system\nsmart enough to be truly dangerous",
+    "start": 153.817,
+    "duration": 3.503
+  },
+  {
+    "text": "was meaningfully different\nfrom AI systems stupider than that.",
+    "start": 157.362,
+    "duration": 3.503
+  },
+  {
+    "text": "My prediction is that this ends up with us\nfacing down something smarter than us",
+    "start": 160.907,
+    "duration": 5.005
+  },
+  {
+    "text": "that does not want what we want,",
+    "start": 165.954,
+    "duration": 1.752
+  },
+  {
+    "text": "that does not want anything we recognize\nas valuable or meaningful.",
+    "start": 167.706,
+    "duration": 4.17
+  },
+  {
+    "text": "I cannot predict exactly how a conflict\nbetween humanity and a smarter AI would go",
+    "start": 172.252,
+    "duration": 4.588
+  },
+  {
+    "text": "for the same reason I can't predict\nexactly how you would lose a chess game",
+    "start": 176.881,
+    "duration": 3.838
+  },
+  {
+    "text": "to one of the current top\nAI chess programs, let's say Stockfish.",
+    "start": 180.76,
+    "duration": 3.671
+  },
+  {
+    "text": "If I could predict exactly\nwhere Stockfish could move,",
+    "start": 184.973,
+    "duration": 3.545
+  },
+  {
+    "text": "I could play chess that well myself.",
+    "start": 188.56,
+    "duration": 2.544
+  },
+  {
+    "text": "I can't predict exactly\nhow you'll lose to Stockfish,",
+    "start": 191.146,
+    "duration": 2.502
+  },
+  {
+    "text": "but I can predict who wins the game.",
+    "start": 193.648,
+    "duration": 2.044
+  },
+  {
+    "text": "I do not expect something actually smart\nto attack us with marching robot armies",
+    "start": 196.401,
+    "duration": 4.421
+  },
+  {
+    "text": "with glowing red eyes",
+    "start": 200.864,
+    "duration": 1.543
+  },
+  {
+    "text": "where there could be a fun movie\nabout us fighting them.",
+    "start": 202.407,
+    "duration": 3.086
+  },
+  {
+    "text": "I expect an actually smarter\nand uncaring entity",
+    "start": 205.535,
+    "duration": 2.502
+  },
+  {
+    "text": "will figure out strategies\nand technologies",
+    "start": 208.079,
+    "duration": 2.002
+  },
+  {
+    "text": "that can kill us quickly\nand reliably and then kill us.",
+    "start": 210.123,
+    "duration": 3.545
+  },
+  {
+    "text": "I am not saying that the problem\nof aligning superintelligence",
+    "start": 214.461,
+    "duration": 2.919
+  },
+  {
+    "text": "is unsolvable in principle.",
+    "start": 217.422,
+    "duration": 1.71
+  },
+  {
+    "text": "I expect we could figure it out\nwith unlimited time and unlimited retries,",
+    "start": 219.174,
+    "duration": 4.879
+  },
+  {
+    "text": "which the usual process of science\nassumes that we have.",
+    "start": 224.095,
+    "duration": 3.796
+  },
+  {
+    "text": "The problem here is the part\nwhere we don't get to say,",
+    "start": 228.308,
+    "duration": 2.836
+  },
+  {
+    "text": "“Ha ha, whoops, that sure didn’t work.",
+    "start": 231.186,
+    "duration": 2.294
+  },
+  {
+    "text": "That clever idea that used to work\non earlier systems",
+    "start": 233.521,
+    "duration": 3.837
+  },
+  {
+    "text": "sure broke down when the AI\ngot smarter, smarter than us.”",
+    "start": 237.358,
+    "duration": 3.504
+  },
+  {
+    "text": "We do not get to learn\nfrom our mistakes and try again",
+    "start": 241.571,
+    "duration": 2.544
+  },
+  {
+    "text": "because everyone is already dead.",
+    "start": 244.157,
+    "duration": 1.96
+  },
+  {
+    "text": "It is a large ask",
+    "start": 247.076,
+    "duration": 2.586
+  },
+  {
+    "text": "to get an unprecedented scientific\nand engineering challenge",
+    "start": 249.704,
+    "duration": 3.003
+  },
+  {
+    "text": "correct on the first critical try.",
+    "start": 252.707,
+    "duration": 2.002
+  },
+  {
+    "text": "Humanity is not approaching\nthis issue with remotely",
+    "start": 255.084,
+    "duration": 3.045
+  },
+  {
+    "text": "the level of seriousness\nthat would be required.",
+    "start": 258.171,
+    "duration": 2.711
+  },
+  {
+    "text": "Some of the people leading these efforts",
+    "start": 260.924,
+    "duration": 1.918
+  },
+  {
+    "text": "have spent the last decade not denying",
+    "start": 262.884,
+    "duration": 2.502
+  },
+  {
+    "text": "that creating a superintelligence\nmight kill everyone,",
+    "start": 265.386,
+    "duration": 2.92
+  },
+  {
+    "text": "but joking about it.",
+    "start": 268.306,
+    "duration": 1.376
+  },
+  {
+    "text": "We are very far behind.",
+    "start": 270.183,
+    "duration": 1.877
+  },
+  {
+    "text": "This is not a gap\nwe can overcome in six months,",
+    "start": 272.101,
+    "duration": 2.294
+  },
+  {
+    "text": "given a six-month moratorium.",
+    "start": 274.437,
+    "duration": 1.919
+  },
+  {
+    "text": "If we actually try\nto do this in real life,",
+    "start": 276.689,
+    "duration": 2.503
+  },
+  {
+    "text": "we are all going to die.",
+    "start": 279.234,
+    "duration": 1.668
+  },
+  {
+    "text": "People say to me at this point,\nwhat's your ask?",
+    "start": 281.402,
+    "duration": 2.586
+  },
+  {
+    "text": "I do not have any realistic plan,",
+    "start": 284.697,
+    "duration": 1.627
+  },
+  {
+    "text": "which is why I spent the last two decades",
+    "start": 286.324,
+    "duration": 1.96
+  },
+  {
+    "text": "trying and failing to end up\nanywhere but here.",
+    "start": 288.326,
+    "duration": 2.586
+  },
+  {
+    "text": "My best bad take is that we need\nan international coalition",
+    "start": 291.913,
+    "duration": 3.67
+  },
+  {
+    "text": "banning large AI training runs,",
+    "start": 295.625,
+    "duration": 2.252
+  },
+  {
+    "text": "including extreme\nand extraordinary measures",
+    "start": 297.877,
+    "duration": 3.379
+  },
+  {
+    "text": "to have that ban be actually\nand universally effective,",
+    "start": 301.256,
+    "duration": 3.253
+  },
+  {
+    "text": "like tracking all GPU sales,",
+    "start": 304.509,
+    "duration": 2.377
+  },
+  {
+    "text": "monitoring all the data centers,",
+    "start": 306.928,
+    "duration": 2.127
+  },
+  {
+    "text": "being willing to risk\na shooting conflict between nations",
+    "start": 309.055,
+    "duration": 2.711
+  },
+  {
+    "text": "in order to destroy\nan unmonitored data center",
+    "start": 311.808,
+    "duration": 2.711
+  },
+  {
+    "text": "in a non-signatory country.",
+    "start": 314.561,
+    "duration": 1.793
+  },
+  {
+    "text": "I say this, not expecting\nthat to actually happen.",
+    "start": 317.48,
+    "duration": 3.17
+  },
+  {
+    "text": "I say this expecting that we all just die.",
+    "start": 321.109,
+    "duration": 2.919
+  },
+  {
+    "text": "But it is not my place\nto just decide on my own",
+    "start": 324.779,
+    "duration": 3.295
+  },
+  {
+    "text": "that humanity will choose to die,",
+    "start": 328.074,
+    "duration": 2.211
+  },
+  {
+    "text": "to the point of not bothering \nto warn anyone.",
+    "start": 330.326,
+    "duration": 2.461
+  },
+  {
+    "text": "I have heard that people\noutside the tech industry",
+    "start": 333.204,
+    "duration": 2.336
+  },
+  {
+    "text": "are getting this point\nfaster than people inside it.",
+    "start": 335.582,
+    "duration": 2.627
+  },
+  {
+    "text": "Maybe humanity wakes up one morning\nand decides to live.",
+    "start": 338.251,
+    "duration": 3.712
+  },
+  {
+    "text": "Thank you for coming to my brief TED talk.",
+    "start": 343.006,
+    "duration": 2.043
+  },
+  {
+    "text": "(Laughter)",
+    "start": 345.049,
+    "duration": 1.585
+  },
+  {
+    "text": "(Applause and cheers)",
+    "start": 346.676,
+    "duration": 6.965
+  },
+  {
+    "text": "Chris Anderson: So, Eliezer, thank you\nfor coming and giving that.",
+    "start": 356.102,
+    "duration": 4.421
+  },
+  {
+    "text": "It seems like what you're raising\nthe alarm about is that like,",
+    "start": 360.523,
+    "duration": 3.962
+  },
+  {
+    "text": "for this to happen, for an AI\nto basically destroy humanity,",
+    "start": 364.527,
+    "duration": 3.962
+  },
+  {
+    "text": "it has to break out, escape controls\nof the internet and, you know,",
+    "start": 368.489,
+    "duration": 5.172
+  },
+  {
+    "text": "start commanding actual\nreal-world resources.",
+    "start": 373.661,
+    "duration": 2.92
+  },
+  {
+    "text": "You say you can't predict\nhow that will happen,",
+    "start": 376.581,
+    "duration": 2.21
+  },
+  {
+    "text": "but just paint one or two possibilities.",
+    "start": 378.833,
+    "duration": 3.462
+  },
+  {
+    "text": "Eliezer Yudkowsky:\nOK, so why is this hard?",
+    "start": 382.337,
+    "duration": 2.794
+  },
+  {
+    "text": "First, because you can't predict exactly\nwhere a smarter chess program will move.",
+    "start": 385.131,
+    "duration": 3.837
+  },
+  {
+    "text": "Maybe even more importantly than that,",
+    "start": 388.968,
+    "duration": 1.877
+  },
+  {
+    "text": "imagine sending the design\nfor an air conditioner",
+    "start": 390.887,
+    "duration": 2.794
+  },
+  {
+    "text": "back to the 11th century.",
+    "start": 393.723,
+    "duration": 1.877
+  },
+  {
+    "text": "Even if they -- if it’s enough\ndetail for them to build it,",
+    "start": 395.642,
+    "duration": 3.128
+  },
+  {
+    "text": "they will be surprised\nwhen cold air comes out",
+    "start": 398.811,
+    "duration": 2.753
+  },
+  {
+    "text": "because the air conditioner will use\nthe temperature-pressure relation",
+    "start": 401.564,
+    "duration": 3.67
+  },
+  {
+    "text": "and they don't know\nabout that law of nature.",
+    "start": 405.276,
+    "duration": 2.461
+  },
+  {
+    "text": "So if you want me to sketch\nwhat a superintelligence might do,",
+    "start": 407.779,
+    "duration": 4.629
+  },
+  {
+    "text": "I can go deeper and deeper into places",
+    "start": 412.45,
+    "duration": 2.336
+  },
+  {
+    "text": "where we think there are predictable\ntechnological advancements",
+    "start": 414.827,
+    "duration": 2.962
+  },
+  {
+    "text": "that we haven't figured out yet.",
+    "start": 417.789,
+    "duration": 1.626
+  },
+  {
+    "text": "And as I go deeper, it will get\nharder and harder to follow.",
+    "start": 419.415,
+    "duration": 2.836
+  },
+  {
+    "text": "It could be super persuasive.",
+    "start": 422.251,
+    "duration": 1.961
+  },
+  {
+    "text": "That's relatively easy to understand.",
+    "start": 424.253,
+    "duration": 1.877
+  },
+  {
+    "text": "We do not understand exactly\nhow the brain works,",
+    "start": 426.13,
+    "duration": 2.545
+  },
+  {
+    "text": "so it's a great place to exploit\nlaws of nature that we do not know about.",
+    "start": 428.716,
+    "duration": 3.504
+  },
+  {
+    "text": "Rules of the environment,",
+    "start": 432.261,
+    "duration": 1.502
+  },
+  {
+    "text": "invent new technologies beyond that.",
+    "start": 433.805,
+    "duration": 2.669
+  },
+  {
+    "text": "Can you build a synthetic virus\nthat gives humans a cold",
+    "start": 436.808,
+    "duration": 3.879
+  },
+  {
+    "text": "and then a bit of neurological change\nand they're easier to persuade?",
+    "start": 440.728,
+    "duration": 4.213
+  },
+  {
+    "text": "Can you build your own synthetic biology,",
+    "start": 444.941,
+    "duration": 3.336
+  },
+  {
+    "text": "synthetic cyborgs?",
+    "start": 448.319,
+    "duration": 1.585
+  },
+  {
+    "text": "Can you blow straight past that",
+    "start": 449.946,
+    "duration": 2.044
+  },
+  {
+    "text": "to covalently bonded\nequivalents of biology,",
+    "start": 451.99,
+    "duration": 4.004
+  },
+  {
+    "text": "where instead of proteins that fold up\nand are held together by static cling,",
+    "start": 456.035,
+    "duration": 3.754
+  },
+  {
+    "text": "you've got things that go down\nmuch sharper potential energy gradients",
+    "start": 459.789,
+    "duration": 3.378
+  },
+  {
+    "text": "and are bonded together?",
+    "start": 463.209,
+    "duration": 1.376
+  },
+  {
+    "text": "People have done advanced design work\nabout this sort of thing",
+    "start": 464.585,
+    "duration": 3.546
+  },
+  {
+    "text": "for artificial red blood cells\nthat could hold 100 times as much oxygen",
+    "start": 468.172,
+    "duration": 3.879
+  },
+  {
+    "text": "if they were using tiny\nsapphire vessels to store the oxygen.",
+    "start": 472.093,
+    "duration": 3.754
+  },
+  {
+    "text": "There's lots and lots\nof room above biology,",
+    "start": 475.888,
+    "duration": 2.586
+  },
+  {
+    "text": "but it gets harder and harder\nto understand.",
+    "start": 478.474,
+    "duration": 2.211
+  },
+  {
+    "text": "CA: So what I hear you saying",
+    "start": 481.519,
+    "duration": 1.543
+  },
+  {
+    "text": "is that these terrifying\npossibilities there",
+    "start": 483.104,
+    "duration": 2.294
+  },
+  {
+    "text": "but your real guess is that AIs will work\nout something more devious than that.",
+    "start": 485.44,
+    "duration": 5.13
+  },
+  {
+    "text": "Is that really a likely\npathway in your mind?",
+    "start": 490.57,
+    "duration": 3.837
+  },
+  {
+    "text": "EY: Which part?",
+    "start": 494.407,
+    "duration": 1.168
+  },
+  {
+    "text": "That they're smarter\nthan I am? Absolutely.",
+    "start": 495.616,
+    "duration": 2.002
+  },
+  {
+    "text": "CA: Not that they're smarter,",
+    "start": 497.66,
+    "duration": 1.418
+  },
+  {
+    "text": "but why would they want\nto go in that direction?",
+    "start": 499.078,
+    "duration": 3.045
+  },
+  {
+    "text": "Like, AIs don't have our feelings of\nsort of envy and jealousy and anger",
+    "start": 502.123,
+    "duration": 5.422
+  },
+  {
+    "text": "and so forth.",
+    "start": 507.587,
+    "duration": 1.168
+  },
+  {
+    "text": "So why might they go in that direction?",
+    "start": 508.755,
+    "duration": 2.46
+  },
+  {
+    "text": "EY: Because it's convergently implied\nby almost any of the strange,",
+    "start": 511.215,
+    "duration": 4.296
+  },
+  {
+    "text": "inscrutable things that they\nmight end up wanting",
+    "start": 515.511,
+    "duration": 3.379
+  },
+  {
+    "text": "as a result of gradient descent",
+    "start": 518.931,
+    "duration": 1.71
+  },
+  {
+    "text": "on these \"thumbs up\"\nand \"thumbs down\" things internally.",
+    "start": 520.683,
+    "duration": 2.711
+  },
+  {
+    "text": "If all you want is to make tiny\nlittle molecular squiggles",
+    "start": 524.604,
+    "duration": 3.92
+  },
+  {
+    "text": "or that's like, one component\nof what you want,",
+    "start": 528.566,
+    "duration": 2.461
+  },
+  {
+    "text": "but it's a component that never saturates,\nyou just want more and more of it,",
+    "start": 531.069,
+    "duration": 3.628
+  },
+  {
+    "text": "the same way that we would want\nmore and more galaxies filled with life",
+    "start": 534.697,
+    "duration": 3.337
+  },
+  {
+    "text": "and people living happily ever after.",
+    "start": 538.034,
+    "duration": 1.793
+  },
+  {
+    "text": "Anything that just keeps going,",
+    "start": 539.869,
+    "duration": 1.627
+  },
+  {
+    "text": "you just want to use more\nand more material for that,",
+    "start": 541.537,
+    "duration": 3.045
+  },
+  {
+    "text": "that could kill everyone\non Earth as a side effect.",
+    "start": 544.624,
+    "duration": 2.669
+  },
+  {
+    "text": "It could kill us because it doesn't want\nus making other superintelligences",
+    "start": 547.293,
+    "duration": 3.545
+  },
+  {
+    "text": "to compete with it.",
+    "start": 550.88,
+    "duration": 1.168
+  },
+  {
+    "text": "It could kill us because it's using up\nall the chemical energy on earth",
+    "start": 552.048,
+    "duration": 4.379
+  },
+  {
+    "text": "and we contain some\nchemical potential energy.",
+    "start": 556.469,
+    "duration": 2.586
+  },
+  {
+    "text": "CA: So some people in the AI world worry\nthat your views are strong enough",
+    "start": 559.055,
+    "duration": 6.256
+  },
+  {
+    "text": "and they would say extreme enough",
+    "start": 565.311,
+    "duration": 1.585
+  },
+  {
+    "text": "that you're willing to advocate\nextreme responses to it.",
+    "start": 566.896,
+    "duration": 3.17
+  },
+  {
+    "text": "And therefore, they worry\nthat you could be, you know,",
+    "start": 570.066,
+    "duration": 3.462
+  },
+  {
+    "text": "in one sense, a very destructive figure.",
+    "start": 573.528,
+    "duration": 1.918
+  },
+  {
+    "text": "Do you draw the line yourself\nin terms of the measures",
+    "start": 575.488,
+    "duration": 3.17
+  },
+  {
+    "text": "that we should take\nto stop this happening?",
+    "start": 578.699,
+    "duration": 2.753
+  },
+  {
+    "text": "Or is actually anything\njustifiable to stop",
+    "start": 581.494,
+    "duration": 3.253
+  },
+  {
+    "text": "the scenarios you're talking\nabout happening?",
+    "start": 584.747,
+    "duration": 2.211
+  },
+  {
+    "text": "EY: I don't think that \"anything\" works.",
+    "start": 587.834,
+    "duration": 3.253
+  },
+  {
+    "text": "I think that this takes state actors",
+    "start": 591.087,
+    "duration": 4.379
+  },
+  {
+    "text": "and international agreements",
+    "start": 595.508,
+    "duration": 2.753
+  },
+  {
+    "text": "and all international agreements\nby their nature,",
+    "start": 598.302,
+    "duration": 3.254
+  },
+  {
+    "text": "tend to ultimately be backed by force",
+    "start": 601.556,
+    "duration": 1.876
+  },
+  {
+    "text": "on the signatory countries\nand on the non-signatory countries,",
+    "start": 603.474,
+    "duration": 3.379
+  },
+  {
+    "text": "which is a more extreme measure.",
+    "start": 606.894,
+    "duration": 1.794
+  },
+  {
+    "text": "I have not proposed that individuals\nrun out and use violence,",
+    "start": 609.856,
+    "duration": 2.961
+  },
+  {
+    "text": "and I think that the killer argument\nfor that is that it would not work.",
+    "start": 612.859,
+    "duration": 4.337
+  },
+  {
+    "text": "CA: Well, you are definitely not\nthe only person to propose",
+    "start": 618.489,
+    "duration": 2.961
+  },
+  {
+    "text": "that what we need is some kind\nof international reckoning here",
+    "start": 621.45,
+    "duration": 4.004
+  },
+  {
+    "text": "on how to manage this going forward.",
+    "start": 625.496,
+    "duration": 2.044
+  },
+  {
+    "text": "Thank you so much\nfor coming here to TED, Eliezer.",
+    "start": 627.54,
+    "duration": 2.419
+  },
+  {
+    "text": "(Applause)",
+    "start": 630.001,
+    "duration": 2.085
+  }
+]

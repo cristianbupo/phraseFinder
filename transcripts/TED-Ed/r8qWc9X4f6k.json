@@ -1,0 +1,407 @@
+[
+  {
+    "text": "Let's say there's a disaster that sends\nhumanity back to the Stone Age.",
+    "start": 7.183,
+    "duration": 5.143
+  },
+  {
+    "text": "Can our knowledge and history survive?",
+    "start": 12.326,
+    "duration": 3.078
+  },
+  {
+    "text": "The printed page will decompose.",
+    "start": 15.404,
+    "duration": 2.009
+  },
+  {
+    "text": "Hard drive storage will deteriorate.",
+    "start": 17.413,
+    "duration": 2.341
+  },
+  {
+    "text": "Even stones will eventually crumble.",
+    "start": 19.754,
+    "duration": 3.14
+  },
+  {
+    "text": "But we might have something inside us that\ncan outlast these physical limitations:",
+    "start": 22.894,
+    "duration": 5.36
+  },
+  {
+    "text": "deoxyribonucleic acid.",
+    "start": 28.254,
+    "duration": 2.63
+  },
+  {
+    "text": "DNA already stores \nour biological information.",
+    "start": 30.884,
+    "duration": 3.85
+  },
+  {
+    "text": "From eye color to skin tone,\nit programs our entire bodies.",
+    "start": 34.734,
+    "duration": 5.12
+  },
+  {
+    "text": "DNA is made of four organic bases:",
+    "start": 39.854,
+    "duration": 2.9
+  },
+  {
+    "text": "adenine,",
+    "start": 42.754,
+    "duration": 0.911
+  },
+  {
+    "text": "guanine,",
+    "start": 43.665,
+    "duration": 0.724
+  },
+  {
+    "text": "cytosine,",
+    "start": 44.389,
+    "duration": 0.806
+  },
+  {
+    "text": "and thymine,",
+    "start": 45.195,
+    "duration": 1.371
+  },
+  {
+    "text": "or A, G, C, and T.",
+    "start": 46.566,
+    "duration": 2.8
+  },
+  {
+    "text": "The specific sequence of these bases\ninto groups of three, known as codons,",
+    "start": 49.366,
+    "duration": 4.719
+  },
+  {
+    "text": "gives our cells instructions to make\neach of the proteins in our bodies.",
+    "start": 54.085,
+    "duration": 5.46
+  },
+  {
+    "text": "But this code can \nbe used for other things, too,",
+    "start": 59.545,
+    "duration": 2.94
+  },
+  {
+    "text": "like secret messages.",
+    "start": 62.485,
+    "duration": 2.251
+  },
+  {
+    "text": "In 1999, scientists in New York\ncreated an alphabet",
+    "start": 64.736,
+    "duration": 3.96
+  },
+  {
+    "text": "in which each of the 64 \npossible DNA codons",
+    "start": 68.696,
+    "duration": 3.94
+  },
+  {
+    "text": "substituted for a specific letter,\nnumber, or grammar symbol.",
+    "start": 72.636,
+    "duration": 5.511
+  },
+  {
+    "text": "They spliced a 22-character message\ninto a long strand of DNA",
+    "start": 78.147,
+    "duration": 5.139
+  },
+  {
+    "text": "and surrounded it with specific\ngenetic markers.",
+    "start": 83.286,
+    "duration": 3.72
+  },
+  {
+    "text": "They then hid the DNA over a period\nin a type-written letter",
+    "start": 87.006,
+    "duration": 4.621
+  },
+  {
+    "text": "with only a small smudge\nto give the location away.",
+    "start": 91.627,
+    "duration": 4.12
+  },
+  {
+    "text": "They mailed the letter back to themselves.",
+    "start": 95.747,
+    "duration": 2.33
+  },
+  {
+    "text": "Then they examined the letter\nlooking for the DNA strand.",
+    "start": 98.077,
+    "duration": 3.601
+  },
+  {
+    "text": "Once the DNA strand was located,\nthey found the genetic markers.",
+    "start": 101.678,
+    "duration": 3.879
+  },
+  {
+    "text": "Then, they sequenced the DNA\nand successfully decoded the message.",
+    "start": 105.557,
+    "duration": 4.842
+  },
+  {
+    "text": "It soon became obvious \nthat DNA cryptography",
+    "start": 110.399,
+    "duration": 2.688
+  },
+  {
+    "text": "could code for much more\nthan simple text.",
+    "start": 113.087,
+    "duration": 3.791
+  },
+  {
+    "text": "By translating the 1's and 0's\nof binary code into DNA codons,",
+    "start": 116.878,
+    "duration": 4.741
+  },
+  {
+    "text": "digital data could be programmed\ninto synthetic DNA,",
+    "start": 121.619,
+    "duration": 3.999
+  },
+  {
+    "text": "then decoded back into its original form.",
+    "start": 125.618,
+    "duration": 3.843
+  },
+  {
+    "text": "In 2012, UK scientists encoded\n739 kilobytes of computer files",
+    "start": 129.461,
+    "duration": 5.697
+  },
+  {
+    "text": "into DNA strands,",
+    "start": 135.158,
+    "duration": 2.218
+  },
+  {
+    "text": "including all 154 Shakespeare sonnets",
+    "start": 137.376,
+    "duration": 3.631
+  },
+  {
+    "text": "and an excerpt from Martin \nLuther King's \"I Have a Dream\" speech.",
+    "start": 141.007,
+    "duration": 4.012
+  },
+  {
+    "text": "And four years later, researchers at\nMicrosoft and the University of Washington",
+    "start": 145.019,
+    "duration": 4.66
+  },
+  {
+    "text": "broke that record.",
+    "start": 149.679,
+    "duration": 2.401
+  },
+  {
+    "text": "They used binary coding to capture\na whopping 200 megabytes of data,",
+    "start": 152.08,
+    "duration": 5.51
+  },
+  {
+    "text": "including the Universal Declaration \nof Human Rights",
+    "start": 157.59,
+    "duration": 2.911
+  },
+  {
+    "text": "and a high-def OK Go music video,",
+    "start": 160.501,
+    "duration": 3.169
+  },
+  {
+    "text": "all in strings of DNA.",
+    "start": 163.67,
+    "duration": 2.7
+  },
+  {
+    "text": "As far as storage capacity goes,",
+    "start": 166.37,
+    "duration": 2.581
+  },
+  {
+    "text": "DNA stands out because of the surprising\namount of information it can hold",
+    "start": 168.951,
+    "duration": 4.409
+  },
+  {
+    "text": "in so little space.",
+    "start": 173.36,
+    "duration": 2.281
+  },
+  {
+    "text": "The current theoretical limit \nof DNA'S storage capacity is so high",
+    "start": 175.641,
+    "duration": 4.15
+  },
+  {
+    "text": "that you could fit 100 million HD movies\non a pencil eraser.",
+    "start": 179.791,
+    "duration": 5.45
+  },
+  {
+    "text": "It's even conceivable that one day\nwe could fit all of the information",
+    "start": 185.241,
+    "duration": 4.081
+  },
+  {
+    "text": "currently on the Internet",
+    "start": 189.322,
+    "duration": 1.479
+  },
+  {
+    "text": "into the space of a shoe box.",
+    "start": 190.801,
+    "duration": 2.921
+  },
+  {
+    "text": "Also, computers and the magnetic tape and\ndiscs that their information is stored on",
+    "start": 193.722,
+    "duration": 5.169
+  },
+  {
+    "text": "only last for a few decades, at most,\nbefore degrading and becoming unreliable.",
+    "start": 198.891,
+    "duration": 7.129
+  },
+  {
+    "text": "Meanwhile, DNA \nhas a half-life of 500 years,",
+    "start": 206.02,
+    "duration": 4.433
+  },
+  {
+    "text": "meaning that's how long it takes\nfor half of its bonds to break.",
+    "start": 210.453,
+    "duration": 4.22
+  },
+  {
+    "text": "And if left in a cold \nand dark environment,",
+    "start": 214.673,
+    "duration": 3.22
+  },
+  {
+    "text": "DNA could potentially last\nfor hundreds of thousands of years.",
+    "start": 217.893,
+    "duration": 5.428
+  },
+  {
+    "text": "And if that isn't long enough,",
+    "start": 223.321,
+    "duration": 1.603
+  },
+  {
+    "text": "scientists experimented with having\nsynthetic DNA auto-reproduce.",
+    "start": 224.924,
+    "duration": 5.829
+  },
+  {
+    "text": "After creating their own strands of DNA",
+    "start": 230.753,
+    "duration": 2.36
+  },
+  {
+    "text": "that spelled out the lyrics to\nthe children's song \"It's a Small World,\"",
+    "start": 233.113,
+    "duration": 3.741
+  },
+  {
+    "text": "they placed them into the genome of\na microbe nicknamed Conan the Bacterium.",
+    "start": 236.854,
+    "duration": 5.836
+  },
+  {
+    "text": "Conan belongs to a species \nwhich can survive in a vacuum,",
+    "start": 242.69,
+    "duration": 4.104
+  },
+  {
+    "text": "or without water, for six years,",
+    "start": 246.794,
+    "duration": 2.6
+  },
+  {
+    "text": "or come out unscathed after being\nexposed to a dose of radiation",
+    "start": 249.394,
+    "duration": 4.78
+  },
+  {
+    "text": "1,000 times that which would kill a human.",
+    "start": 254.174,
+    "duration": 4.689
+  },
+  {
+    "text": "According to the experiment,",
+    "start": 258.863,
+    "duration": 1.251
+  },
+  {
+    "text": "the bacterium was able to reproduce at\nleast 100 generations without data loss.",
+    "start": 260.114,
+    "duration": 6.9
+  },
+  {
+    "text": "Theoretically, if the organism\nhad redundant copies of the information",
+    "start": 267.014,
+    "duration": 4.3
+  },
+  {
+    "text": "that could be used to automatically\ncorrect mistakes,",
+    "start": 271.314,
+    "duration": 3.011
+  },
+  {
+    "text": "the information could stay\npreserved even longer.",
+    "start": 274.325,
+    "duration": 4.561
+  },
+  {
+    "text": "So one day, you might be able to create\na living, growing, knowledge archive",
+    "start": 278.886,
+    "duration": 5.069
+  },
+  {
+    "text": "in your own backyard,",
+    "start": 283.955,
+    "duration": 2.35
+  },
+  {
+    "text": "and its seeds might carry\nyour family's history,",
+    "start": 286.305,
+    "duration": 2.701
+  },
+  {
+    "text": "a detailed breakdown \nof the world's political upheavals,",
+    "start": 289.006,
+    "duration": 3.469
+  },
+  {
+    "text": "or the sum of humanity's knowledge\ninto forests and across continents.",
+    "start": 292.475,
+    "duration": 6.172
+  },
+  {
+    "text": "Perhaps even into the \nfar reaches of space.",
+    "start": 298.647,
+    "duration": 3.7
+  },
+  {
+    "text": "Though we might one day disappear,\nperhaps our legacy can still live on,",
+    "start": 302.347,
+    "duration": 4.421
+  },
+  {
+    "text": "if anyone would think to find it.",
+    "start": 306.768,
+    "duration": 2.659
+  }
+]

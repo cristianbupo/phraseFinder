@@ -1,0 +1,3967 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.05,
+    "duration": 12.43
+  },
+  {
+    "text": "thank you",
+    "start": 9.98,
+    "duration": 4.48
+  },
+  {
+    "text": "hi and welcome to the new world of work",
+    "start": 12.48,
+    "duration": 4.02
+  },
+  {
+    "text": "I'm Audie Ignatius editor-in-chief of",
+    "start": 14.46,
+    "duration": 4.98
+  },
+  {
+    "text": "Harvard Business review and each week on",
+    "start": 16.5,
+    "duration": 4.98
+  },
+  {
+    "text": "this show I bring in a guest and we talk",
+    "start": 19.44,
+    "duration": 3.839
+  },
+  {
+    "text": "about some of the challenges in today's",
+    "start": 21.48,
+    "duration": 4.5
+  },
+  {
+    "text": "workplace Our Guest today is a major",
+    "start": 23.279,
+    "duration": 4.401
+  },
+  {
+    "text": "retailer and we're going to talk about",
+    "start": 25.98,
+    "duration": 5.219
+  },
+  {
+    "text": "supply chain challenges uh pandemic",
+    "start": 27.68,
+    "duration": 6.64
+  },
+  {
+    "text": "challenges and how a big brand has has",
+    "start": 31.199,
+    "duration": 5.04
+  },
+  {
+    "text": "kept afloat through all of this but",
+    "start": 34.32,
+    "duration": 3.48
+  },
+  {
+    "text": "first I want to read a word from our",
+    "start": 36.239,
+    "duration": 3.181
+  },
+  {
+    "text": "sponsor",
+    "start": 37.8,
+    "duration": 3.96
+  },
+  {
+    "text": "where some see barriers Unisys sees",
+    "start": 39.42,
+    "duration": 4.319
+  },
+  {
+    "text": "breakthroughs Unisys pushes what's",
+    "start": 41.76,
+    "duration": 4.139
+  },
+  {
+    "text": "possible across digital workplace app",
+    "start": 43.739,
+    "duration": 5.701
+  },
+  {
+    "text": "modernization cloud and Beyond Unisys",
+    "start": 45.899,
+    "duration": 6.66
+  },
+  {
+    "text": "keep breaking through",
+    "start": 49.44,
+    "duration": 4.68
+  },
+  {
+    "text": "all right and also before I start I want",
+    "start": 52.559,
+    "duration": 4.14
+  },
+  {
+    "text": "to um tell people if you like this kind",
+    "start": 54.12,
+    "duration": 3.84
+  },
+  {
+    "text": "of content",
+    "start": 56.699,
+    "duration": 3.901
+  },
+  {
+    "text": "um check out our Flagship podcast the",
+    "start": 57.96,
+    "duration": 5.759
+  },
+  {
+    "text": "hbr ideacast you can see uh you can get",
+    "start": 60.6,
+    "duration": 5.76
+  },
+  {
+    "text": "idea cast wherever uh you get your",
+    "start": 63.719,
+    "duration": 4.801
+  },
+  {
+    "text": "podcast so it is now my pleasure to",
+    "start": 66.36,
+    "duration": 4.799
+  },
+  {
+    "text": "introduce Our Guest this is Janet Hayes",
+    "start": 68.52,
+    "duration": 5.76
+  },
+  {
+    "text": "who is the CEO of Crate and Barrel she",
+    "start": 71.159,
+    "duration": 4.921
+  },
+  {
+    "text": "spent more than 25 years leading",
+    "start": 74.28,
+    "duration": 3.48
+  },
+  {
+    "text": "digitally LED and customer-centric",
+    "start": 76.08,
+    "duration": 3.84
+  },
+  {
+    "text": "organizations she became Creighton",
+    "start": 77.76,
+    "duration": 3.899
+  },
+  {
+    "text": "Barrel CEO about two and a half years",
+    "start": 79.92,
+    "duration": 3.96
+  },
+  {
+    "text": "ago before that she held senior",
+    "start": 81.659,
+    "duration": 4.921
+  },
+  {
+    "text": "positions at William Sonoma Pottery Barn",
+    "start": 83.88,
+    "duration": 5.82
+  },
+  {
+    "text": "Nike and the Gap she has a lot to say",
+    "start": 86.58,
+    "duration": 4.56
+  },
+  {
+    "text": "about the transformation of retail",
+    "start": 89.7,
+    "duration": 3.059
+  },
+  {
+    "text": "businesses and about how she's handled",
+    "start": 91.14,
+    "duration": 3.42
+  },
+  {
+    "text": "the disruptions of the past couple of",
+    "start": 92.759,
+    "duration": 4.68
+  },
+  {
+    "text": "years so Janet welcome to the show Good",
+    "start": 94.56,
+    "duration": 4.86
+  },
+  {
+    "text": "morning thank you for having me I've",
+    "start": 97.439,
+    "duration": 6.061
+  },
+  {
+    "text": "been a long time fan user reader and I'm",
+    "start": 99.42,
+    "duration": 5.58
+  },
+  {
+    "text": "honored to be here this morning thank",
+    "start": 103.5,
+    "duration": 4.32
+  },
+  {
+    "text": "you long time first time I love that I'm",
+    "start": 105.0,
+    "duration": 3.96
+  },
+  {
+    "text": "sorry",
+    "start": 107.82,
+    "duration": 4.259
+  },
+  {
+    "text": "um so so let's let's start by getting to",
+    "start": 108.96,
+    "duration": 4.86
+  },
+  {
+    "text": "know a little bit about about you and",
+    "start": 112.079,
+    "duration": 3.36
+  },
+  {
+    "text": "and you know the path that has brought",
+    "start": 113.82,
+    "duration": 3.18
+  },
+  {
+    "text": "you to the CEO role can you talk a",
+    "start": 115.439,
+    "duration": 3.14
+  },
+  {
+    "text": "little bit about the journey that has",
+    "start": 117.0,
+    "duration": 3.84
+  },
+  {
+    "text": "led you to work for you know some of",
+    "start": 118.579,
+    "duration": 3.641
+  },
+  {
+    "text": "these very very interesting retail",
+    "start": 120.84,
+    "duration": 3.599
+  },
+  {
+    "text": "brands yeah you know",
+    "start": 122.22,
+    "duration": 4.2
+  },
+  {
+    "text": "you know retail my whole life you know",
+    "start": 124.439,
+    "duration": 4.02
+  },
+  {
+    "text": "the the day that I turned 16 and got my",
+    "start": 126.42,
+    "duration": 3.899
+  },
+  {
+    "text": "driver's license my mom said what job",
+    "start": 128.459,
+    "duration": 4.441
+  },
+  {
+    "text": "will you get to go along with that and",
+    "start": 130.319,
+    "duration": 4.801
+  },
+  {
+    "text": "and it began and it began the journey",
+    "start": 132.9,
+    "duration": 5.22
+  },
+  {
+    "text": "that I have been on you know I I um when",
+    "start": 135.12,
+    "duration": 5.4
+  },
+  {
+    "text": "I was in college I studied to be a",
+    "start": 138.12,
+    "duration": 3.839
+  },
+  {
+    "text": "teacher I really wanted to be a teacher",
+    "start": 140.52,
+    "duration": 3.48
+  },
+  {
+    "text": "in about 30 days before",
+    "start": 141.959,
+    "duration": 4.261
+  },
+  {
+    "text": "I was going to graduate I thought I",
+    "start": 144.0,
+    "duration": 4.319
+  },
+  {
+    "text": "really I really don't want to do this",
+    "start": 146.22,
+    "duration": 5.58
+  },
+  {
+    "text": "you know I want to go to where my",
+    "start": 148.319,
+    "duration": 5.101
+  },
+  {
+    "text": "passion is what I'm interested in what",
+    "start": 151.8,
+    "duration": 3.78
+  },
+  {
+    "text": "I'm curious about and there weren't a",
+    "start": 153.42,
+    "duration": 4.02
+  },
+  {
+    "text": "lot of role models in front of me at",
+    "start": 155.58,
+    "duration": 4.44
+  },
+  {
+    "text": "that time to for me to understand that",
+    "start": 157.44,
+    "duration": 5.84
+  },
+  {
+    "text": "retail could be a career and how many",
+    "start": 160.02,
+    "duration": 5.219
+  },
+  {
+    "text": "literally different Industries are",
+    "start": 163.28,
+    "duration": 5.98
+  },
+  {
+    "text": "almost inside of a retail model so",
+    "start": 165.239,
+    "duration": 6.841
+  },
+  {
+    "text": "um I began right out of college and took",
+    "start": 169.26,
+    "duration": 5.4
+  },
+  {
+    "text": "off from there and I found myself",
+    "start": 172.08,
+    "duration": 6.739
+  },
+  {
+    "text": "looking back really joining",
+    "start": 174.66,
+    "duration": 8.299
+  },
+  {
+    "text": "multi-brand retailers and learned",
+    "start": 178.819,
+    "duration": 7.121
+  },
+  {
+    "text": "wholesale I've learned retail I learned",
+    "start": 182.959,
+    "duration": 7.481
+  },
+  {
+    "text": "vertical uh B2B and as I've gone through",
+    "start": 185.94,
+    "duration": 6.24
+  },
+  {
+    "text": "the retailers and brands that I've",
+    "start": 190.44,
+    "duration": 2.879
+  },
+  {
+    "text": "worked for",
+    "start": 192.18,
+    "duration": 4.199
+  },
+  {
+    "text": "one thing is remain constant in all of",
+    "start": 193.319,
+    "duration": 5.401
+  },
+  {
+    "text": "them and in common is that they really",
+    "start": 196.379,
+    "duration": 4.381
+  },
+  {
+    "text": "were focused on the customer and I'm",
+    "start": 198.72,
+    "duration": 3.96
+  },
+  {
+    "text": "passionate about that",
+    "start": 200.76,
+    "duration": 4.08
+  },
+  {
+    "text": "so now if you're watching this um I urge",
+    "start": 202.68,
+    "duration": 3.6
+  },
+  {
+    "text": "you to put in your own questions for",
+    "start": 204.84,
+    "duration": 3.36
+  },
+  {
+    "text": "Janet uh in the chat I'll try to get to",
+    "start": 206.28,
+    "duration": 4.86
+  },
+  {
+    "text": "as many as I can later in the show",
+    "start": 208.2,
+    "duration": 4.38
+  },
+  {
+    "text": "um all right so let's fast forward so",
+    "start": 211.14,
+    "duration": 3.42
+  },
+  {
+    "text": "two and a half years ago roughly you",
+    "start": 212.58,
+    "duration": 4.5
+  },
+  {
+    "text": "became CEO of Crate and Barrel this is",
+    "start": 214.56,
+    "duration": 4.62
+  },
+  {
+    "text": "in the middle of the pandemic or you",
+    "start": 217.08,
+    "duration": 3.6
+  },
+  {
+    "text": "certainly you know waiting you know",
+    "start": 219.18,
+    "duration": 3.839
+  },
+  {
+    "text": "getting ready you know learning the job",
+    "start": 220.68,
+    "duration": 5.22
+  },
+  {
+    "text": "during the pandemic talk about that to",
+    "start": 223.019,
+    "duration": 4.261
+  },
+  {
+    "text": "the extent that that was a challenge to",
+    "start": 225.9,
+    "duration": 2.78
+  },
+  {
+    "text": "the extent that that was an opportunity",
+    "start": 227.28,
+    "duration": 4.8
+  },
+  {
+    "text": "yeah so I joined Creighton Bell Holdings",
+    "start": 228.68,
+    "duration": 7.059
+  },
+  {
+    "text": "in August of 2020 and I'll say maybe the",
+    "start": 232.08,
+    "duration": 6.78
+  },
+  {
+    "text": "only thing harder than being a new CEO",
+    "start": 235.739,
+    "duration": 5.22
+  },
+  {
+    "text": "and in the middle of the pandemic is",
+    "start": 238.86,
+    "duration": 4.14
+  },
+  {
+    "text": "getting a new CEO in the middle of the",
+    "start": 240.959,
+    "duration": 4.801
+  },
+  {
+    "text": "pandemic so I walked into an empty",
+    "start": 243.0,
+    "duration": 6.54
+  },
+  {
+    "text": "building in August of 2020 and there was",
+    "start": 245.76,
+    "duration": 6.24
+  },
+  {
+    "text": "a board meeting on my second day so",
+    "start": 249.54,
+    "duration": 4.919
+  },
+  {
+    "text": "logged into the board meeting and had a",
+    "start": 252.0,
+    "duration": 3.84
+  },
+  {
+    "text": "few a few people in the room but",
+    "start": 254.459,
+    "duration": 3.541
+  },
+  {
+    "text": "remember this is at the time where it",
+    "start": 255.84,
+    "duration": 4.56
+  },
+  {
+    "text": "was it was full lockdown but the",
+    "start": 258.0,
+    "duration": 5.52
+  },
+  {
+    "text": "visibility on just that second day that",
+    "start": 260.4,
+    "duration": 5.76
+  },
+  {
+    "text": "I was able to listen to a board meeting",
+    "start": 263.52,
+    "duration": 5.34
+  },
+  {
+    "text": "for two days and I saw",
+    "start": 266.16,
+    "duration": 7.34
+  },
+  {
+    "text": "my team role modeling uh resilience",
+    "start": 268.86,
+    "duration": 7.92
+  },
+  {
+    "text": "adaptability flexibility",
+    "start": 273.5,
+    "duration": 6.759
+  },
+  {
+    "text": "um just just fantastic leadership in the",
+    "start": 276.78,
+    "duration": 6.479
+  },
+  {
+    "text": "middle of a crisis I knew that the",
+    "start": 280.259,
+    "duration": 4.921
+  },
+  {
+    "text": "reasons I came here were going to be",
+    "start": 283.259,
+    "duration": 4.761
+  },
+  {
+    "text": "validated it was a collection of strong",
+    "start": 285.18,
+    "duration": 5.76
+  },
+  {
+    "text": "brands with a foundation that just",
+    "start": 288.02,
+    "duration": 5.98
+  },
+  {
+    "text": "needed a little energetic culture and",
+    "start": 290.94,
+    "duration": 5.16
+  },
+  {
+    "text": "and we were able to take it from there",
+    "start": 294.0,
+    "duration": 5.16
+  },
+  {
+    "text": "but walking in on that first day and",
+    "start": 296.1,
+    "duration": 6.18
+  },
+  {
+    "text": "seeing the opportunities validated right",
+    "start": 299.16,
+    "duration": 6.479
+  },
+  {
+    "text": "in front of me was a great first step to",
+    "start": 302.28,
+    "duration": 5.4
+  },
+  {
+    "text": "there you know in in the 90 days that",
+    "start": 305.639,
+    "duration": 6.0
+  },
+  {
+    "text": "followed I look back at my notes and my",
+    "start": 307.68,
+    "duration": 6.12
+  },
+  {
+    "text": "notes are so clear",
+    "start": 311.639,
+    "duration": 4.28
+  },
+  {
+    "text": "and my notes are",
+    "start": 313.8,
+    "duration": 5.52
+  },
+  {
+    "text": "written with so much purpose",
+    "start": 315.919,
+    "duration": 6.461
+  },
+  {
+    "text": "and I often reference those notes to go",
+    "start": 319.32,
+    "duration": 7.02
+  },
+  {
+    "text": "back and say you know before I had any",
+    "start": 322.38,
+    "duration": 7.56
+  },
+  {
+    "text": "um real heaviness of what we had to take",
+    "start": 326.34,
+    "duration": 6.799
+  },
+  {
+    "text": "on you can build a really clear purpose",
+    "start": 329.94,
+    "duration": 6.18
+  },
+  {
+    "text": "in those first 90 days so I I go back to",
+    "start": 333.139,
+    "duration": 4.921
+  },
+  {
+    "text": "those notes quite often and look at them",
+    "start": 336.12,
+    "duration": 4.799
+  },
+  {
+    "text": "and I took a lot of notes on the",
+    "start": 338.06,
+    "duration": 4.9
+  },
+  {
+    "text": "resilience and adaptability of the team",
+    "start": 340.919,
+    "duration": 4.321
+  },
+  {
+    "text": "here was just incredible to it it's what",
+    "start": 342.96,
+    "duration": 4.38
+  },
+  {
+    "text": "you want to see coming into it coming",
+    "start": 345.24,
+    "duration": 3.72
+  },
+  {
+    "text": "into a brand and coming into a company",
+    "start": 347.34,
+    "duration": 3.48
+  },
+  {
+    "text": "like that so I want to talk more about",
+    "start": 348.96,
+    "duration": 3.84
+  },
+  {
+    "text": "those first 90 days so so many of us",
+    "start": 350.82,
+    "duration": 3.9
+  },
+  {
+    "text": "have you know have suddenly become the",
+    "start": 352.8,
+    "duration": 4.44
+  },
+  {
+    "text": "boss maybe coming in from the outside or",
+    "start": 354.72,
+    "duration": 3.9
+  },
+  {
+    "text": "we've had a boss who's come in from the",
+    "start": 357.24,
+    "duration": 3.66
+  },
+  {
+    "text": "outside what's your advice to somebody",
+    "start": 358.62,
+    "duration": 4.799
+  },
+  {
+    "text": "in that position you know what maybe",
+    "start": 360.9,
+    "duration": 4.62
+  },
+  {
+    "text": "even the first 30 days I mean what do",
+    "start": 363.419,
+    "duration": 4.261
+  },
+  {
+    "text": "you what do you need to do to earn the",
+    "start": 365.52,
+    "duration": 4.14
+  },
+  {
+    "text": "respect to figure out what the company",
+    "start": 367.68,
+    "duration": 3.78
+  },
+  {
+    "text": "does and what's your advice for those",
+    "start": 369.66,
+    "duration": 3.599
+  },
+  {
+    "text": "those first that first month or two yeah",
+    "start": 371.46,
+    "duration": 3.6
+  },
+  {
+    "text": "well I think you I think you said the",
+    "start": 373.259,
+    "duration": 3.841
+  },
+  {
+    "text": "word right there respect you know I I",
+    "start": 375.06,
+    "duration": 4.199
+  },
+  {
+    "text": "walked in with a tremendous amount of",
+    "start": 377.1,
+    "duration": 3.78
+  },
+  {
+    "text": "respect for Crate and Barrel Holdings",
+    "start": 379.259,
+    "duration": 4.741
+  },
+  {
+    "text": "and a tremendous amount of spec for the",
+    "start": 380.88,
+    "duration": 5.28
+  },
+  {
+    "text": "customer that they held in the first 30",
+    "start": 384.0,
+    "duration": 5.1
+  },
+  {
+    "text": "days listen listen with respect listen",
+    "start": 386.16,
+    "duration": 8.22
+  },
+  {
+    "text": "with curiosity you go down and just ask",
+    "start": 389.1,
+    "duration": 7.62
+  },
+  {
+    "text": "questions really listen and I and I",
+    "start": 394.38,
+    "duration": 4.5
+  },
+  {
+    "text": "really tried to connect with people and",
+    "start": 396.72,
+    "duration": 3.9
+  },
+  {
+    "text": "again very difficult in an empty",
+    "start": 398.88,
+    "duration": 3.92
+  },
+  {
+    "text": "building trying to do it through screens",
+    "start": 400.62,
+    "duration": 4.919
+  },
+  {
+    "text": "but that's how our world is now and you",
+    "start": 402.8,
+    "duration": 3.94
+  },
+  {
+    "text": "have to figure out how to get through",
+    "start": 405.539,
+    "duration": 2.641
+  },
+  {
+    "text": "the screen and you have to figure out",
+    "start": 406.74,
+    "duration": 3.899
+  },
+  {
+    "text": "how to connect you know I I definitely",
+    "start": 408.18,
+    "duration": 5.34
+  },
+  {
+    "text": "LED with empathy during those first 30",
+    "start": 410.639,
+    "duration": 5.34
+  },
+  {
+    "text": "60 90 days and I still continue to try",
+    "start": 413.52,
+    "duration": 5.04
+  },
+  {
+    "text": "and practice that every day this this",
+    "start": 415.979,
+    "duration": 5.461
+  },
+  {
+    "text": "team these people you know all of us had",
+    "start": 418.56,
+    "duration": 5.82
+  },
+  {
+    "text": "been through a lot so even what you come",
+    "start": 421.44,
+    "duration": 5.699
+  },
+  {
+    "text": "in thinking that you know the world had",
+    "start": 424.38,
+    "duration": 5.759
+  },
+  {
+    "text": "changed dramatically people's lives had",
+    "start": 427.139,
+    "duration": 4.5
+  },
+  {
+    "text": "changed dramatically we had a",
+    "start": 430.139,
+    "duration": 4.141
+  },
+  {
+    "text": "re-centering on what was important to us",
+    "start": 431.639,
+    "duration": 5.161
+  },
+  {
+    "text": "during that time so you know I had to",
+    "start": 434.28,
+    "duration": 4.68
+  },
+  {
+    "text": "let some of the things go that I knew",
+    "start": 436.8,
+    "duration": 3.78
+  },
+  {
+    "text": "had worked in the past because the",
+    "start": 438.96,
+    "duration": 4.139
+  },
+  {
+    "text": "circumstances had changed so really",
+    "start": 440.58,
+    "duration": 4.8
+  },
+  {
+    "text": "listening really respecting what people",
+    "start": 443.099,
+    "duration": 4.801
+  },
+  {
+    "text": "had gone through and really connecting",
+    "start": 445.38,
+    "duration": 5.039
+  },
+  {
+    "text": "in those first 30 and 60 days I I think",
+    "start": 447.9,
+    "duration": 4.859
+  },
+  {
+    "text": "that's a practice that that will all",
+    "start": 450.419,
+    "duration": 3.84
+  },
+  {
+    "text": "carry with me",
+    "start": 452.759,
+    "duration": 3.66
+  },
+  {
+    "text": "yeah that sounds great um now again if",
+    "start": 454.259,
+    "duration": 4.141
+  },
+  {
+    "text": "you're watching this uh I'm talking to",
+    "start": 456.419,
+    "duration": 3.9
+  },
+  {
+    "text": "Janet Hayes who's the CEO of Creighton",
+    "start": 458.4,
+    "duration": 4.139
+  },
+  {
+    "text": "Barrel love to hear from you tell us",
+    "start": 460.319,
+    "duration": 4.081
+  },
+  {
+    "text": "where you are post your own questions",
+    "start": 462.539,
+    "duration": 4.201
+  },
+  {
+    "text": "for Janet that I'll try to get to later",
+    "start": 464.4,
+    "duration": 5.04
+  },
+  {
+    "text": "um all right so so we talked about you",
+    "start": 466.74,
+    "duration": 4.14
+  },
+  {
+    "text": "know becoming CEO in the middle of a",
+    "start": 469.44,
+    "duration": 4.86
+  },
+  {
+    "text": "pandemic so you know the supply chain",
+    "start": 470.88,
+    "duration": 6.3
+  },
+  {
+    "text": "problems were bad then probably got",
+    "start": 474.3,
+    "duration": 5.22
+  },
+  {
+    "text": "worse for a while a lot of it pandemic",
+    "start": 477.18,
+    "duration": 5.76
+  },
+  {
+    "text": "related you know I I can't imagine how",
+    "start": 479.52,
+    "duration": 5.579
+  },
+  {
+    "text": "you coped with that but I'd love to hear",
+    "start": 482.94,
+    "duration": 4.259
+  },
+  {
+    "text": "sort of what was your experience with",
+    "start": 485.099,
+    "duration": 4.021
+  },
+  {
+    "text": "kind of the supply chain challenges of",
+    "start": 487.199,
+    "duration": 6.481
+  },
+  {
+    "text": "2020 2021 2022. yeah well we are still",
+    "start": 489.12,
+    "duration": 6.419
+  },
+  {
+    "text": "not out of the woods in the in the",
+    "start": 493.68,
+    "duration": 3.0
+  },
+  {
+    "text": "supply chain",
+    "start": 495.539,
+    "duration": 5.1
+  },
+  {
+    "text": "um problems and for us we we chose day",
+    "start": 496.68,
+    "duration": 6.6
+  },
+  {
+    "text": "one stay focused on the customer there",
+    "start": 500.639,
+    "duration": 4.801
+  },
+  {
+    "text": "was a lot going on but we needed to stay",
+    "start": 503.28,
+    "duration": 4.919
+  },
+  {
+    "text": "focused on the customer and with that we",
+    "start": 505.44,
+    "duration": 5.34
+  },
+  {
+    "text": "started to use words like value and",
+    "start": 508.199,
+    "duration": 4.861
+  },
+  {
+    "text": "purpose and quality",
+    "start": 510.78,
+    "duration": 6.179
+  },
+  {
+    "text": "um and we realized that the the real the",
+    "start": 513.06,
+    "duration": 6.419
+  },
+  {
+    "text": "equation was changing very very fast for",
+    "start": 516.959,
+    "duration": 4.02
+  },
+  {
+    "text": "the customer",
+    "start": 519.479,
+    "duration": 2.821
+  },
+  {
+    "text": "um you know they they began to",
+    "start": 520.979,
+    "duration": 3.48
+  },
+  {
+    "text": "understand that maybe they weren't going",
+    "start": 522.3,
+    "duration": 4.86
+  },
+  {
+    "text": "to get things fast anymore but what they",
+    "start": 524.459,
+    "duration": 4.5
+  },
+  {
+    "text": "wanted was reliability what they wanted",
+    "start": 527.16,
+    "duration": 3.6
+  },
+  {
+    "text": "was trust and what they wanted was",
+    "start": 528.959,
+    "duration": 4.621
+  },
+  {
+    "text": "quality so we took those words and used",
+    "start": 530.76,
+    "duration": 4.74
+  },
+  {
+    "text": "them as decisions and and how we were",
+    "start": 533.58,
+    "duration": 5.42
+  },
+  {
+    "text": "looking at the supply chain I",
+    "start": 535.5,
+    "duration": 3.5
+  },
+  {
+    "text": "thought that that",
+    "start": 539.16,
+    "duration": 5.58
+  },
+  {
+    "text": "the supply chain is is bigger than what",
+    "start": 541.38,
+    "duration": 6.3
+  },
+  {
+    "text": "you own bigger than your backyard it it",
+    "start": 544.74,
+    "duration": 5.159
+  },
+  {
+    "text": "forced us to take a bigger look at the",
+    "start": 547.68,
+    "duration": 3.839
+  },
+  {
+    "text": "supply chain",
+    "start": 549.899,
+    "duration": 4.44
+  },
+  {
+    "text": "um and whether it's commodity pricing or",
+    "start": 551.519,
+    "duration": 4.38
+  },
+  {
+    "text": "or",
+    "start": 554.339,
+    "duration": 4.381
+  },
+  {
+    "text": "um you know just how fragile really the",
+    "start": 555.899,
+    "duration": 4.921
+  },
+  {
+    "text": "supply chain was was a big learning for",
+    "start": 558.72,
+    "duration": 5.04
+  },
+  {
+    "text": "for all of us the role of Technology",
+    "start": 560.82,
+    "duration": 5.639
+  },
+  {
+    "text": "became critical for us and became a",
+    "start": 563.76,
+    "duration": 4.98
+  },
+  {
+    "text": "focus for us during this crisis being",
+    "start": 566.459,
+    "duration": 4.261
+  },
+  {
+    "text": "able to see where things are the",
+    "start": 568.74,
+    "duration": 3.96
+  },
+  {
+    "text": "accuracy of it",
+    "start": 570.72,
+    "duration": 6.179
+  },
+  {
+    "text": "um the the visibility for for my teams",
+    "start": 572.7,
+    "duration": 6.6
+  },
+  {
+    "text": "to be able to see everything they needed",
+    "start": 576.899,
+    "duration": 4.141
+  },
+  {
+    "text": "to see to make the right decisions for",
+    "start": 579.3,
+    "duration": 4.44
+  },
+  {
+    "text": "the customers we learned a lot of",
+    "start": 581.04,
+    "duration": 5.22
+  },
+  {
+    "text": "valuable lessons to this but we're not",
+    "start": 583.74,
+    "duration": 4.44
+  },
+  {
+    "text": "out of the woods yet but what I will say",
+    "start": 586.26,
+    "duration": 3.06
+  },
+  {
+    "text": "is",
+    "start": 588.18,
+    "duration": 2.94
+  },
+  {
+    "text": "um it has taught us the value of",
+    "start": 589.32,
+    "duration": 4.86
+  },
+  {
+    "text": "communication the value of our customer",
+    "start": 591.12,
+    "duration": 6.06
+  },
+  {
+    "text": "and really communication with our",
+    "start": 594.18,
+    "duration": 5.64
+  },
+  {
+    "text": "customer and focusing on that quality",
+    "start": 597.18,
+    "duration": 4.62
+  },
+  {
+    "text": "so so more on that I'm interested",
+    "start": 599.82,
+    "duration": 4.139
+  },
+  {
+    "text": "whether you know so some of the whether",
+    "start": 601.8,
+    "duration": 3.539
+  },
+  {
+    "text": "you've had to adapt whether you're",
+    "start": 603.959,
+    "duration": 4.261
+  },
+  {
+    "text": "trying to Source materials you know",
+    "start": 605.339,
+    "duration": 5.101
+  },
+  {
+    "text": "closer to the to the sale point where",
+    "start": 608.22,
+    "duration": 3.9
+  },
+  {
+    "text": "the where where you're if you're not",
+    "start": 610.44,
+    "duration": 4.32
+  },
+  {
+    "text": "buying from certain places now you know",
+    "start": 612.12,
+    "duration": 3.96
+  },
+  {
+    "text": "whether you whether you've shifted",
+    "start": 614.76,
+    "duration": 3.66
+  },
+  {
+    "text": "Supply did it you know any any anything",
+    "start": 616.08,
+    "duration": 4.74
+  },
+  {
+    "text": "you can say about some of the the",
+    "start": 618.42,
+    "duration": 5.9
+  },
+  {
+    "text": "concrete shifts that you've had to make",
+    "start": 620.82,
+    "duration": 3.5
+  },
+  {
+    "text": "he was was pretty",
+    "start": 624.72,
+    "duration": 3.179
+  },
+  {
+    "text": "um solid",
+    "start": 626.64,
+    "duration": 3.3
+  },
+  {
+    "text": "um when we walked in but yes we did have",
+    "start": 627.899,
+    "duration": 4.44
+  },
+  {
+    "text": "to adapt and I think you know the",
+    "start": 629.94,
+    "duration": 4.019
+  },
+  {
+    "text": "relationships that we have with",
+    "start": 632.339,
+    "duration": 3.721
+  },
+  {
+    "text": "long-standing vendors really helped us",
+    "start": 633.959,
+    "duration": 5.461
+  },
+  {
+    "text": "through a lot of a lot of the crisis um",
+    "start": 636.06,
+    "duration": 5.279
+  },
+  {
+    "text": "being able to trust each other and and",
+    "start": 639.42,
+    "duration": 4.26
+  },
+  {
+    "text": "understand and again give empathy on you",
+    "start": 641.339,
+    "duration": 3.421
+  },
+  {
+    "text": "know they were having a hard time",
+    "start": 643.68,
+    "duration": 3.0
+  },
+  {
+    "text": "sourcing materials getting materials",
+    "start": 644.76,
+    "duration": 3.96
+  },
+  {
+    "text": "getting their workers in we understood",
+    "start": 646.68,
+    "duration": 3.659
+  },
+  {
+    "text": "that we were able to communicate that",
+    "start": 648.72,
+    "duration": 4.26
+  },
+  {
+    "text": "through to our to our customers I think",
+    "start": 650.339,
+    "duration": 4.921
+  },
+  {
+    "text": "we strengthened up our care team here",
+    "start": 652.98,
+    "duration": 5.76
+  },
+  {
+    "text": "and the communication to our customers",
+    "start": 655.26,
+    "duration": 6.06
+  },
+  {
+    "text": "um we you know we you we felt the",
+    "start": 658.74,
+    "duration": 5.099
+  },
+  {
+    "text": "effects of it you know overseas and we",
+    "start": 661.32,
+    "duration": 4.44
+  },
+  {
+    "text": "felt the effects of it here domestically",
+    "start": 663.839,
+    "duration": 4.981
+  },
+  {
+    "text": "there there wasn't really any supplier",
+    "start": 665.76,
+    "duration": 5.04
+  },
+  {
+    "text": "that was immune to what was happening",
+    "start": 668.82,
+    "duration": 4.079
+  },
+  {
+    "text": "with the with the supply chain prices",
+    "start": 670.8,
+    "duration": 4.62
+  },
+  {
+    "text": "what it did do is is strengthen up our",
+    "start": 672.899,
+    "duration": 4.801
+  },
+  {
+    "text": "planning for the future and and you know",
+    "start": 675.42,
+    "duration": 4.5
+  },
+  {
+    "text": "highlight the opportunities that we have",
+    "start": 677.7,
+    "duration": 5.34
+  },
+  {
+    "text": "to again strengthen our foundation we've",
+    "start": 679.92,
+    "duration": 5.64
+  },
+  {
+    "text": "experienced just tremendous growth",
+    "start": 683.04,
+    "duration": 4.62
+  },
+  {
+    "text": "during this time",
+    "start": 685.56,
+    "duration": 3.839
+  },
+  {
+    "text": "um tremendous growth particularly in the",
+    "start": 687.66,
+    "duration": 5.22
+  },
+  {
+    "text": "home sector uh where people were at",
+    "start": 689.399,
+    "duration": 5.341
+  },
+  {
+    "text": "um and redefining what was important to",
+    "start": 692.88,
+    "duration": 4.5
+  },
+  {
+    "text": "them we were able to take that data very",
+    "start": 694.74,
+    "duration": 4.08
+  },
+  {
+    "text": "quickly",
+    "start": 697.38,
+    "duration": 4.68
+  },
+  {
+    "text": "um and say uh you know they've they've",
+    "start": 698.82,
+    "duration": 5.639
+  },
+  {
+    "text": "maybe moved from Urban locations to",
+    "start": 702.06,
+    "duration": 4.74
+  },
+  {
+    "text": "Suburban locations picked up more space",
+    "start": 704.459,
+    "duration": 4.161
+  },
+  {
+    "text": "in their house they're ordering more",
+    "start": 706.8,
+    "duration": 4.32
+  },
+  {
+    "text": "sectionals than sofas there's eight",
+    "start": 708.62,
+    "duration": 4.3
+  },
+  {
+    "text": "dining table eight dining chairs going",
+    "start": 711.12,
+    "duration": 4.08
+  },
+  {
+    "text": "around their table rather than six their",
+    "start": 712.92,
+    "duration": 4.979
+  },
+  {
+    "text": "families are coming back home how can we",
+    "start": 715.2,
+    "duration": 4.86
+  },
+  {
+    "text": "adjust to that so we adjusted our",
+    "start": 717.899,
+    "duration": 3.841
+  },
+  {
+    "text": "assortments",
+    "start": 720.06,
+    "duration": 3.24
+  },
+  {
+    "text": "um produced pretty quick quickly we were",
+    "start": 721.74,
+    "duration": 3.0
+  },
+  {
+    "text": "able to Pivot and readjust our",
+    "start": 723.3,
+    "duration": 4.4
+  },
+  {
+    "text": "assortments we did again focus on",
+    "start": 724.74,
+    "duration": 6.18
+  },
+  {
+    "text": "quality and value what is the value",
+    "start": 727.7,
+    "duration": 5.56
+  },
+  {
+    "text": "equation that the customer would be able",
+    "start": 730.92,
+    "duration": 5.159
+  },
+  {
+    "text": "to withstand during this very difficult",
+    "start": 733.26,
+    "duration": 5.9
+  },
+  {
+    "text": "time so lots of really good",
+    "start": 736.079,
+    "duration": 5.581
+  },
+  {
+    "text": "Focus back here on the team on what's",
+    "start": 739.16,
+    "duration": 3.88
+  },
+  {
+    "text": "important for us and what's important",
+    "start": 741.66,
+    "duration": 2.7
+  },
+  {
+    "text": "for the customer",
+    "start": 743.04,
+    "duration": 3.0
+  },
+  {
+    "text": "so that's interesting so you're sort of",
+    "start": 744.36,
+    "duration": 3.419
+  },
+  {
+    "text": "a leading indicator in terms of how",
+    "start": 746.04,
+    "duration": 3.539
+  },
+  {
+    "text": "people are living and how they're sort",
+    "start": 747.779,
+    "duration": 3.3
+  },
+  {
+    "text": "of changing how they how they live and",
+    "start": 749.579,
+    "duration": 4.021
+  },
+  {
+    "text": "work so that's interesting that you saw",
+    "start": 751.079,
+    "duration": 4.921
+  },
+  {
+    "text": "you were selling different products as",
+    "start": 753.6,
+    "duration": 4.08
+  },
+  {
+    "text": "people were adapting their their",
+    "start": 756.0,
+    "duration": 4.56
+  },
+  {
+    "text": "lifestyle to life under pandemic so are",
+    "start": 757.68,
+    "duration": 4.38
+  },
+  {
+    "text": "you seeing are we coming out of that are",
+    "start": 760.56,
+    "duration": 4.32
+  },
+  {
+    "text": "you saying you know whatever spiked is",
+    "start": 762.06,
+    "duration": 4.32
+  },
+  {
+    "text": "coming back down or something else is",
+    "start": 764.88,
+    "duration": 3.899
+  },
+  {
+    "text": "spiking as we you know evolve to in the",
+    "start": 766.38,
+    "duration": 4.019
+  },
+  {
+    "text": "next stage yeah we're seeing some",
+    "start": 768.779,
+    "duration": 3.721
+  },
+  {
+    "text": "changes happen I think",
+    "start": 770.399,
+    "duration": 4.261
+  },
+  {
+    "text": "um over the last I mean it was so fun",
+    "start": 772.5,
+    "duration": 4.98
+  },
+  {
+    "text": "during the during that time to see all",
+    "start": 774.66,
+    "duration": 5.22
+  },
+  {
+    "text": "the data come in and and see it was",
+    "start": 777.48,
+    "duration": 4.02
+  },
+  {
+    "text": "almost voyeuristic what was happening in",
+    "start": 779.88,
+    "duration": 3.72
+  },
+  {
+    "text": "in the homes and we can see where people",
+    "start": 781.5,
+    "duration": 4.079
+  },
+  {
+    "text": "were moving state by state and where",
+    "start": 783.6,
+    "duration": 3.359
+  },
+  {
+    "text": "they were where the fast growth was",
+    "start": 785.579,
+    "duration": 3.781
+  },
+  {
+    "text": "coming from on the states but we are",
+    "start": 786.959,
+    "duration": 4.021
+  },
+  {
+    "text": "seeing a change now I think you know",
+    "start": 789.36,
+    "duration": 3.96
+  },
+  {
+    "text": "people have definitely feathered their",
+    "start": 790.98,
+    "duration": 5.22
+  },
+  {
+    "text": "nest and and they're looking for we",
+    "start": 793.32,
+    "duration": 5.94
+  },
+  {
+    "text": "think probably less pieces less",
+    "start": 796.2,
+    "duration": 6.06
+  },
+  {
+    "text": "purchases in the future but ones that",
+    "start": 799.26,
+    "duration": 5.28
+  },
+  {
+    "text": "are made with more intention decisions",
+    "start": 802.26,
+    "duration": 5.16
+  },
+  {
+    "text": "made with more intention more purpose",
+    "start": 804.54,
+    "duration": 4.26
+  },
+  {
+    "text": "um we definitely know that they're",
+    "start": 807.42,
+    "duration": 3.0
+  },
+  {
+    "text": "they're telling us they want things that",
+    "start": 808.8,
+    "duration": 4.14
+  },
+  {
+    "text": "will last they want quality",
+    "start": 810.42,
+    "duration": 5.039
+  },
+  {
+    "text": "um and and they really are doing their",
+    "start": 812.94,
+    "duration": 4.079
+  },
+  {
+    "text": "they're doing their shopping they're",
+    "start": 815.459,
+    "duration": 3.481
+  },
+  {
+    "text": "doing their decision and a lot of what",
+    "start": 817.019,
+    "duration": 4.44
+  },
+  {
+    "text": "we're seeing is based on on quality and",
+    "start": 818.94,
+    "duration": 4.5
+  },
+  {
+    "text": "and they want less but for it to last",
+    "start": 821.459,
+    "duration": 4.62
+  },
+  {
+    "text": "longer so we are seeing some changes in",
+    "start": 823.44,
+    "duration": 4.199
+  },
+  {
+    "text": "sizes",
+    "start": 826.079,
+    "duration": 4.5
+  },
+  {
+    "text": "um uh again sectionals versus sofas",
+    "start": 827.639,
+    "duration": 5.581
+  },
+  {
+    "text": "sizes of dining tables it's really it's",
+    "start": 830.579,
+    "duration": 4.26
+  },
+  {
+    "text": "interesting of course home office has",
+    "start": 833.22,
+    "duration": 2.94
+  },
+  {
+    "text": "slowed down",
+    "start": 834.839,
+    "duration": 3.421
+  },
+  {
+    "text": "um with some people going back into the",
+    "start": 836.16,
+    "duration": 4.32
+  },
+  {
+    "text": "office so we watch those Trends and",
+    "start": 838.26,
+    "duration": 4.379
+  },
+  {
+    "text": "react to them not only with our",
+    "start": 840.48,
+    "duration": 4.38
+  },
+  {
+    "text": "assortment but also with our inventory",
+    "start": 842.639,
+    "duration": 3.421
+  },
+  {
+    "text": "levels",
+    "start": 844.86,
+    "duration": 2.76
+  },
+  {
+    "text": "so we're starting to get some good",
+    "start": 846.06,
+    "duration": 3.6
+  },
+  {
+    "text": "questions coming in from uh the viewers",
+    "start": 847.62,
+    "duration": 3.54
+  },
+  {
+    "text": "and I want to go to one right now which",
+    "start": 849.66,
+    "duration": 2.52
+  },
+  {
+    "text": "is",
+    "start": 851.16,
+    "duration": 3.419
+  },
+  {
+    "text": "um this is uh from Shane who's in San",
+    "start": 852.18,
+    "duration": 5.58
+  },
+  {
+    "text": "Francisco who says you know who imagines",
+    "start": 854.579,
+    "duration": 5.76
+  },
+  {
+    "text": "that um your suppliers that you're",
+    "start": 857.76,
+    "duration": 4.139
+  },
+  {
+    "text": "facing cost increases from your",
+    "start": 860.339,
+    "duration": 2.94
+  },
+  {
+    "text": "suppliers during this inflationary",
+    "start": 861.899,
+    "duration": 3.12
+  },
+  {
+    "text": "period so the question is you know how",
+    "start": 863.279,
+    "duration": 3.961
+  },
+  {
+    "text": "have you handled the changes in in your",
+    "start": 865.019,
+    "duration": 4.021
+  },
+  {
+    "text": "costs and you know how are you passing",
+    "start": 867.24,
+    "duration": 4.62
+  },
+  {
+    "text": "them on to the consumer",
+    "start": 869.04,
+    "duration": 4.26
+  },
+  {
+    "text": "um again I'm going to go back to just",
+    "start": 871.86,
+    "duration": 3.539
+  },
+  {
+    "text": "touching on the value equation because",
+    "start": 873.3,
+    "duration": 4.08
+  },
+  {
+    "text": "the value equation doesn't only come in",
+    "start": 875.399,
+    "duration": 3.961
+  },
+  {
+    "text": "that first cost it kind of not only in",
+    "start": 877.38,
+    "duration": 4.199
+  },
+  {
+    "text": "the retail price it comes with how much",
+    "start": 879.36,
+    "duration": 4.14
+  },
+  {
+    "text": "is the delivery charge on top of it when",
+    "start": 881.579,
+    "duration": 5.041
+  },
+  {
+    "text": "you when you take in the value of",
+    "start": 883.5,
+    "duration": 5.639
+  },
+  {
+    "text": "you know of that that's in one part but",
+    "start": 886.62,
+    "duration": 4.68
+  },
+  {
+    "text": "then what are we offering with that",
+    "start": 889.139,
+    "duration": 3.841
+  },
+  {
+    "text": "we've really amped up our Design",
+    "start": 891.3,
+    "duration": 4.32
+  },
+  {
+    "text": "Services our help with the customer to",
+    "start": 892.98,
+    "duration": 5.7
+  },
+  {
+    "text": "make decisions our engagement in the",
+    "start": 895.62,
+    "duration": 5.82
+  },
+  {
+    "text": "store we've taken up our",
+    "start": 898.68,
+    "duration": 4.98
+  },
+  {
+    "text": "um content and inspiration on the site",
+    "start": 901.44,
+    "duration": 5.22
+  },
+  {
+    "text": "so we knew that those those prices were",
+    "start": 903.66,
+    "duration": 4.56
+  },
+  {
+    "text": "gonna some of them are gonna have to",
+    "start": 906.66,
+    "duration": 2.76
+  },
+  {
+    "text": "come through some of them we would",
+    "start": 908.22,
+    "duration": 3.96
+  },
+  {
+    "text": "absorb we really honestly went piece by",
+    "start": 909.42,
+    "duration": 4.68
+  },
+  {
+    "text": "piece and looked at it like that but",
+    "start": 912.18,
+    "duration": 4.2
+  },
+  {
+    "text": "more importantly we looked at the long",
+    "start": 914.1,
+    "duration": 4.979
+  },
+  {
+    "text": "the longer view of what the customer was",
+    "start": 916.38,
+    "duration": 5.04
+  },
+  {
+    "text": "experiencing it wasn't only about the",
+    "start": 919.079,
+    "duration": 4.021
+  },
+  {
+    "text": "price it was about the service and the",
+    "start": 921.42,
+    "duration": 3.539
+  },
+  {
+    "text": "experience we were offering and we",
+    "start": 923.1,
+    "duration": 4.739
+  },
+  {
+    "text": "really began to work on that service and",
+    "start": 924.959,
+    "duration": 5.461
+  },
+  {
+    "text": "that inspiration and offered it as a",
+    "start": 927.839,
+    "duration": 4.981
+  },
+  {
+    "text": "full equation so you know I think it",
+    "start": 930.42,
+    "duration": 3.779
+  },
+  {
+    "text": "would have been short-sighted if we only",
+    "start": 932.82,
+    "duration": 4.019
+  },
+  {
+    "text": "dealt with it on a price and said this",
+    "start": 934.199,
+    "duration": 4.44
+  },
+  {
+    "text": "is exactly what we did we needed to look",
+    "start": 936.839,
+    "duration": 3.961
+  },
+  {
+    "text": "at the whole journey and the whole value",
+    "start": 938.639,
+    "duration": 4.14
+  },
+  {
+    "text": "that we were that we were offering to",
+    "start": 940.8,
+    "duration": 3.839
+  },
+  {
+    "text": "the customer",
+    "start": 942.779,
+    "duration": 3.8
+  },
+  {
+    "text": "um sustainability concerns are probably",
+    "start": 944.639,
+    "duration": 5.041
+  },
+  {
+    "text": "you know very important in your business",
+    "start": 946.579,
+    "duration": 5.041
+  },
+  {
+    "text": "how do you how do you think about",
+    "start": 949.68,
+    "duration": 4.08
+  },
+  {
+    "text": "sustainability and how do you what do",
+    "start": 951.62,
+    "duration": 3.279
+  },
+  {
+    "text": "your customers want in terms of",
+    "start": 953.76,
+    "duration": 3.72
+  },
+  {
+    "text": "sustainability a passionate subject for",
+    "start": 954.899,
+    "duration": 4.5
+  },
+  {
+    "text": "me um this is one of the things I was",
+    "start": 957.48,
+    "duration": 5.099
+  },
+  {
+    "text": "most excited about when I became",
+    "start": 959.399,
+    "duration": 6.18
+  },
+  {
+    "text": "um CEO of Crate and Barrel Holdings you",
+    "start": 962.579,
+    "duration": 7.26
+  },
+  {
+    "text": "know this is a passionate subject for me",
+    "start": 965.579,
+    "duration": 6.301
+  },
+  {
+    "text": "um and certainly one for our customers",
+    "start": 969.839,
+    "duration": 3.661
+  },
+  {
+    "text": "and our customers are telling this every",
+    "start": 971.88,
+    "duration": 4.5
+  },
+  {
+    "text": "day this is this is a big decision point",
+    "start": 973.5,
+    "duration": 5.1
+  },
+  {
+    "text": "in who they purchase from and what they",
+    "start": 976.38,
+    "duration": 4.62
+  },
+  {
+    "text": "purchase so in the last two and a half",
+    "start": 978.6,
+    "duration": 4.859
+  },
+  {
+    "text": "years this team has done",
+    "start": 981.0,
+    "duration": 4.5
+  },
+  {
+    "text": "um just a huge amount of movement in",
+    "start": 983.459,
+    "duration": 4.32
+  },
+  {
+    "text": "sustainable practices and that's",
+    "start": 985.5,
+    "duration": 4.86
+  },
+  {
+    "text": "anything from FSC wood organic cotton",
+    "start": 987.779,
+    "duration": 5.521
+  },
+  {
+    "text": "just making the right choices we have",
+    "start": 990.36,
+    "duration": 5.279
+  },
+  {
+    "text": "ignited a culture here that is excited",
+    "start": 993.3,
+    "duration": 4.86
+  },
+  {
+    "text": "about making those choices I think in",
+    "start": 995.639,
+    "duration": 5.181
+  },
+  {
+    "text": "the past um we talked a lot about",
+    "start": 998.16,
+    "duration": 5.22
+  },
+  {
+    "text": "barriers to making those choices and",
+    "start": 1000.82,
+    "duration": 4.959
+  },
+  {
+    "text": "those are gone for us now now we say",
+    "start": 1003.38,
+    "duration": 4.92
+  },
+  {
+    "text": "make the right choice make it with do",
+    "start": 1005.779,
+    "duration": 4.86
+  },
+  {
+    "text": "the right thing it's put in the purpose",
+    "start": 1008.3,
+    "duration": 5.58
+  },
+  {
+    "text": "of our company that we will be building",
+    "start": 1010.639,
+    "duration": 5.221
+  },
+  {
+    "text": "products the right way taking them",
+    "start": 1013.88,
+    "duration": 4.1
+  },
+  {
+    "text": "through the supply chain the right way",
+    "start": 1015.86,
+    "duration": 5.7
+  },
+  {
+    "text": "educating and helping the customer make",
+    "start": 1017.98,
+    "duration": 5.859
+  },
+  {
+    "text": "the right decision all all the way",
+    "start": 1021.56,
+    "duration": 4.44
+  },
+  {
+    "text": "through the product life cycle we've",
+    "start": 1023.839,
+    "duration": 3.901
+  },
+  {
+    "text": "ingrained it in our culture and it's",
+    "start": 1026.0,
+    "duration": 3.66
+  },
+  {
+    "text": "really not only been informed by doing",
+    "start": 1027.74,
+    "duration": 4.319
+  },
+  {
+    "text": "the right thing and and the employees",
+    "start": 1029.66,
+    "duration": 4.56
+  },
+  {
+    "text": "want to do it but also informed by our",
+    "start": 1032.059,
+    "duration": 4.02
+  },
+  {
+    "text": "customer this is this is what they're",
+    "start": 1034.22,
+    "duration": 4.079
+  },
+  {
+    "text": "demanding and again I'll say you know",
+    "start": 1036.079,
+    "duration": 4.5
+  },
+  {
+    "text": "they're they're very I think signaling",
+    "start": 1038.299,
+    "duration": 4.681
+  },
+  {
+    "text": "to us that they're going to be buying",
+    "start": 1040.579,
+    "duration": 4.86
+  },
+  {
+    "text": "less they want more value or more",
+    "start": 1042.98,
+    "duration": 5.52
+  },
+  {
+    "text": "purpose in what they're buying",
+    "start": 1045.439,
+    "duration": 5.401
+  },
+  {
+    "text": "who how would you define your your",
+    "start": 1048.5,
+    "duration": 4.02
+  },
+  {
+    "text": "customer you know what I'm sure there",
+    "start": 1050.84,
+    "duration": 3.6
+  },
+  {
+    "text": "are many segments in Persona that you",
+    "start": 1052.52,
+    "duration": 3.6
+  },
+  {
+    "text": "think about but who is who is the",
+    "start": 1054.44,
+    "duration": 3.479
+  },
+  {
+    "text": "Creighton Barrel customer",
+    "start": 1056.12,
+    "duration": 4.08
+  },
+  {
+    "text": "well if we take it from the very top",
+    "start": 1057.919,
+    "duration": 4.38
+  },
+  {
+    "text": "Crate and Barrel Holdings has four",
+    "start": 1060.2,
+    "duration": 4.56
+  },
+  {
+    "text": "brands in inside of the company there's",
+    "start": 1062.299,
+    "duration": 4.26
+  },
+  {
+    "text": "The Crate and Barrel brand there's",
+    "start": 1064.76,
+    "duration": 5.52
+  },
+  {
+    "text": "Creighton kids brand there's CB2",
+    "start": 1066.559,
+    "duration": 6.0
+  },
+  {
+    "text": "um and there's Hudson Grace so we have a",
+    "start": 1070.28,
+    "duration": 5.1
+  },
+  {
+    "text": "variety of customers what I'll what I'll",
+    "start": 1072.559,
+    "duration": 5.461
+  },
+  {
+    "text": "say is the common denominator and our",
+    "start": 1075.38,
+    "duration": 4.62
+  },
+  {
+    "text": "customer is that",
+    "start": 1078.02,
+    "duration": 4.08
+  },
+  {
+    "text": "um again they they want purpose in what",
+    "start": 1080.0,
+    "duration": 4.679
+  },
+  {
+    "text": "they're buying they want inspiration uh",
+    "start": 1082.1,
+    "duration": 6.24
+  },
+  {
+    "text": "they want experience they demand quality",
+    "start": 1084.679,
+    "duration": 5.88
+  },
+  {
+    "text": "um and they're they're very Savvy in in",
+    "start": 1088.34,
+    "duration": 4.44
+  },
+  {
+    "text": "how they how they shop with us they see",
+    "start": 1090.559,
+    "duration": 4.141
+  },
+  {
+    "text": "the relationship",
+    "start": 1092.78,
+    "duration": 4.68
+  },
+  {
+    "text": "um of price versus value and this team",
+    "start": 1094.7,
+    "duration": 5.88
+  },
+  {
+    "text": "that that works here works hard every",
+    "start": 1097.46,
+    "duration": 5.4
+  },
+  {
+    "text": "day to bring that forward so I would say",
+    "start": 1100.58,
+    "duration": 3.839
+  },
+  {
+    "text": "that they are",
+    "start": 1102.86,
+    "duration": 3.84
+  },
+  {
+    "text": "um different by brand the The Crate and",
+    "start": 1104.419,
+    "duration": 4.14
+  },
+  {
+    "text": "Barrel customer has been with us for 60",
+    "start": 1106.7,
+    "duration": 4.68
+  },
+  {
+    "text": "years almost now we are celebrating our",
+    "start": 1108.559,
+    "duration": 5.041
+  },
+  {
+    "text": "60-year anniversary we have a tremendous",
+    "start": 1111.38,
+    "duration": 5.46
+  },
+  {
+    "text": "new influx of customers every year",
+    "start": 1113.6,
+    "duration": 5.28
+  },
+  {
+    "text": "um through a strong wedding registry",
+    "start": 1116.84,
+    "duration": 6.12
+  },
+  {
+    "text": "business which is really so much fun to",
+    "start": 1118.88,
+    "duration": 5.94
+  },
+  {
+    "text": "run Creighton kids we have new customers",
+    "start": 1122.96,
+    "duration": 5.339
+  },
+  {
+    "text": "in Creighton kids every year and that is",
+    "start": 1124.82,
+    "duration": 7.08
+  },
+  {
+    "text": "a customer that is very technology",
+    "start": 1128.299,
+    "duration": 6.26
+  },
+  {
+    "text": "forward very Savvy with digital",
+    "start": 1131.9,
+    "duration": 4.98
+  },
+  {
+    "text": "Commerce and so we run that in a",
+    "start": 1134.559,
+    "duration": 4.48
+  },
+  {
+    "text": "different model that's a mostly Digital",
+    "start": 1136.88,
+    "duration": 6.06
+  },
+  {
+    "text": "model CB2 is a very design-led design",
+    "start": 1139.039,
+    "duration": 7.321
+  },
+  {
+    "text": "driven a big trade business so but they",
+    "start": 1142.94,
+    "duration": 5.16
+  },
+  {
+    "text": "never they never come off of saying we",
+    "start": 1146.36,
+    "duration": 4.86
+  },
+  {
+    "text": "want quality with that design and Hudson",
+    "start": 1148.1,
+    "duration": 4.74
+  },
+  {
+    "text": "Grace you know that's a that's a whole",
+    "start": 1151.22,
+    "duration": 3.42
+  },
+  {
+    "text": "other customer one that's very in tune",
+    "start": 1152.84,
+    "duration": 4.62
+  },
+  {
+    "text": "with entertaining and gift giving but",
+    "start": 1154.64,
+    "duration": 4.919
+  },
+  {
+    "text": "again common denominator across all the",
+    "start": 1157.46,
+    "duration": 6.78
+  },
+  {
+    "text": "brands is quality value design Beauty",
+    "start": 1159.559,
+    "duration": 6.48
+  },
+  {
+    "text": "purpose",
+    "start": 1164.24,
+    "duration": 3.48
+  },
+  {
+    "text": "uh that's great well congratulations on",
+    "start": 1166.039,
+    "duration": 4.38
+  },
+  {
+    "text": "60. we uh Harvard University has just",
+    "start": 1167.72,
+    "duration": 4.5
+  },
+  {
+    "text": "turned 100.",
+    "start": 1170.419,
+    "duration": 4.5
+  },
+  {
+    "text": "um so well thank you most of the",
+    "start": 1172.22,
+    "duration": 4.92
+  },
+  {
+    "text": "companies we have written about have not",
+    "start": 1174.919,
+    "duration": 4.26
+  },
+  {
+    "text": "survived so 60 is a big milestone so",
+    "start": 1177.14,
+    "duration": 3.84
+  },
+  {
+    "text": "congratulations Milestone",
+    "start": 1179.179,
+    "duration": 3.061
+  },
+  {
+    "text": "um so I want to ask one more question",
+    "start": 1180.98,
+    "duration": 3.66
+  },
+  {
+    "text": "about supply chain and then move on to",
+    "start": 1182.24,
+    "duration": 5.04
+  },
+  {
+    "text": "more about kind of your your thoughts on",
+    "start": 1184.64,
+    "duration": 5.64
+  },
+  {
+    "text": "leadership but this is from gorvir from",
+    "start": 1187.28,
+    "duration": 6.18
+  },
+  {
+    "text": "barnala India and the question is you",
+    "start": 1190.28,
+    "duration": 6.06
+  },
+  {
+    "text": "know as you look at the global economy",
+    "start": 1193.46,
+    "duration": 4.56
+  },
+  {
+    "text": "um are there Trends are there warning",
+    "start": 1196.34,
+    "duration": 4.5
+  },
+  {
+    "text": "signs you see that that might suggest",
+    "start": 1198.02,
+    "duration": 5.1
+  },
+  {
+    "text": "something about future supply chain",
+    "start": 1200.84,
+    "duration": 5.28
+  },
+  {
+    "text": "bottlenecks",
+    "start": 1203.12,
+    "duration": 3.0
+  },
+  {
+    "text": "yeah again I I you know I think if",
+    "start": 1206.9,
+    "duration": 5.519
+  },
+  {
+    "text": "anything what we've learned over over",
+    "start": 1209.299,
+    "duration": 5.821
+  },
+  {
+    "text": "um the last couple years is in it it's",
+    "start": 1212.419,
+    "duration": 4.5
+  },
+  {
+    "text": "fragile you you we have to take care of",
+    "start": 1215.12,
+    "duration": 3.9
+  },
+  {
+    "text": "our relationships out there and invest",
+    "start": 1216.919,
+    "duration": 6.061
+  },
+  {
+    "text": "deeper in them we have to be agile",
+    "start": 1219.02,
+    "duration": 6.12
+  },
+  {
+    "text": "um much more agile we certainly learned",
+    "start": 1222.98,
+    "duration": 4.02
+  },
+  {
+    "text": "that as a company here we we need to be",
+    "start": 1225.14,
+    "duration": 4.98
+  },
+  {
+    "text": "able to move our move our product or our",
+    "start": 1227.0,
+    "duration": 4.2
+  },
+  {
+    "text": "sourcing",
+    "start": 1230.12,
+    "duration": 3.48
+  },
+  {
+    "text": "um quickly and I and I think you know I",
+    "start": 1231.2,
+    "duration": 4.4
+  },
+  {
+    "text": "think one of the the biggest",
+    "start": 1233.6,
+    "duration": 4.68
+  },
+  {
+    "text": "responsibilities of the companies going",
+    "start": 1235.6,
+    "duration": 6.64
+  },
+  {
+    "text": "forward is to have full visibility in",
+    "start": 1238.28,
+    "duration": 6.12
+  },
+  {
+    "text": "life cycle and chain of custody and I",
+    "start": 1242.24,
+    "duration": 3.78
+  },
+  {
+    "text": "think that's going to cause a lot of",
+    "start": 1244.4,
+    "duration": 3.06
+  },
+  {
+    "text": "disruption that's going to cause a lot",
+    "start": 1246.02,
+    "duration": 2.76
+  },
+  {
+    "text": "of work",
+    "start": 1247.46,
+    "duration": 3.06
+  },
+  {
+    "text": "um and that's gonna that's gonna be",
+    "start": 1248.78,
+    "duration": 4.32
+  },
+  {
+    "text": "important it's what I want to see it's",
+    "start": 1250.52,
+    "duration": 4.26
+  },
+  {
+    "text": "what our customer wants to see and is",
+    "start": 1253.1,
+    "duration": 4.14
+  },
+  {
+    "text": "what we need to work toward is really",
+    "start": 1254.78,
+    "duration": 5.7
+  },
+  {
+    "text": "getting full visibility into the entire",
+    "start": 1257.24,
+    "duration": 6.12
+  },
+  {
+    "text": "life cycle product yeah",
+    "start": 1260.48,
+    "duration": 4.38
+  },
+  {
+    "text": "so I want to I want to talk to you about",
+    "start": 1263.36,
+    "duration": 3.78
+  },
+  {
+    "text": "retail sort of more broadly and here's a",
+    "start": 1264.86,
+    "duration": 5.52
+  },
+  {
+    "text": "question from Nicole uh from Charleston",
+    "start": 1267.14,
+    "duration": 5.58
+  },
+  {
+    "text": "um so you you know you've been in the",
+    "start": 1270.38,
+    "duration": 4.14
+  },
+  {
+    "text": "retail business for you know for all",
+    "start": 1272.72,
+    "duration": 3.12
+  },
+  {
+    "text": "these years working for a lot of great",
+    "start": 1274.52,
+    "duration": 3.659
+  },
+  {
+    "text": "Brands you know what has surprised you",
+    "start": 1275.84,
+    "duration": 5.16
+  },
+  {
+    "text": "the most about how retail has evolved",
+    "start": 1278.179,
+    "duration": 5.841
+  },
+  {
+    "text": "over that period",
+    "start": 1281.0,
+    "duration": 3.02
+  },
+  {
+    "text": "I think what what excites me the most",
+    "start": 1288.26,
+    "duration": 4.02
+  },
+  {
+    "text": "about it is that",
+    "start": 1290.299,
+    "duration": 5.821
+  },
+  {
+    "text": "um years ago we would talk about",
+    "start": 1292.28,
+    "duration": 7.139
+  },
+  {
+    "text": "what we were planning as a retailer as a",
+    "start": 1296.12,
+    "duration": 5.939
+  },
+  {
+    "text": "company and now we're talking about how",
+    "start": 1299.419,
+    "duration": 6.0
+  },
+  {
+    "text": "quickly the customer is evolving and",
+    "start": 1302.059,
+    "duration": 6.661
+  },
+  {
+    "text": "what has changed for for a lot of",
+    "start": 1305.419,
+    "duration": 5.76
+  },
+  {
+    "text": "retailers is technology used to be",
+    "start": 1308.72,
+    "duration": 5.4
+  },
+  {
+    "text": "something that powered us technology",
+    "start": 1311.179,
+    "duration": 4.62
+  },
+  {
+    "text": "used to say you know it used to be",
+    "start": 1314.12,
+    "duration": 4.02
+  },
+  {
+    "text": "almost behind the curtain what does your",
+    "start": 1315.799,
+    "duration": 4.5
+  },
+  {
+    "text": "website run by or how does your POS",
+    "start": 1318.14,
+    "duration": 4.98
+  },
+  {
+    "text": "system work or can it what is you know",
+    "start": 1320.299,
+    "duration": 5.041
+  },
+  {
+    "text": "what is your supply chain",
+    "start": 1323.12,
+    "duration": 5.34
+  },
+  {
+    "text": "um powered by and now it's what's in our",
+    "start": 1325.34,
+    "duration": 7.26
+  },
+  {
+    "text": "customers hand technology has become the",
+    "start": 1328.46,
+    "duration": 6.959
+  },
+  {
+    "text": "center stage it is what the consumer is",
+    "start": 1332.6,
+    "duration": 4.559
+  },
+  {
+    "text": "demand technology has now become the",
+    "start": 1335.419,
+    "duration": 4.681
+  },
+  {
+    "text": "experience and so for me that's what's",
+    "start": 1337.159,
+    "duration": 4.561
+  },
+  {
+    "text": "exciting I would tell you I think that's",
+    "start": 1340.1,
+    "duration": 4.68
+  },
+  {
+    "text": "what's changed the most is we are now",
+    "start": 1341.72,
+    "duration": 5.819
+  },
+  {
+    "text": "being driven by experience",
+    "start": 1344.78,
+    "duration": 4.56
+  },
+  {
+    "text": "um and and while we'll say you could say",
+    "start": 1347.539,
+    "duration": 4.921
+  },
+  {
+    "text": "in some way shape or form retail brick",
+    "start": 1349.34,
+    "duration": 4.38
+  },
+  {
+    "text": "and mortar back in the day was the",
+    "start": 1352.46,
+    "duration": 2.699
+  },
+  {
+    "text": "experience and then we talk about what",
+    "start": 1353.72,
+    "duration": 4.02
+  },
+  {
+    "text": "experience you can have in digital those",
+    "start": 1355.159,
+    "duration": 4.681
+  },
+  {
+    "text": "two are not downplayed but it's about",
+    "start": 1357.74,
+    "duration": 4.98
+  },
+  {
+    "text": "the right model now and what technology",
+    "start": 1359.84,
+    "duration": 5.459
+  },
+  {
+    "text": "can bring for an experience and that's",
+    "start": 1362.72,
+    "duration": 4.8
+  },
+  {
+    "text": "that's a big change from where retail",
+    "start": 1365.299,
+    "duration": 3.661
+  },
+  {
+    "text": "used to be",
+    "start": 1367.52,
+    "duration": 3.6
+  },
+  {
+    "text": "so you've been in the top job now for",
+    "start": 1368.96,
+    "duration": 3.66
+  },
+  {
+    "text": "two and a half years",
+    "start": 1371.12,
+    "duration": 4.02
+  },
+  {
+    "text": "um you talked about your first 90 days",
+    "start": 1372.62,
+    "duration": 4.62
+  },
+  {
+    "text": "and and how you were trying to get",
+    "start": 1375.14,
+    "duration": 4.38
+  },
+  {
+    "text": "established and and you know show",
+    "start": 1377.24,
+    "duration": 5.04
+  },
+  {
+    "text": "empathy and and you know kind of hit the",
+    "start": 1379.52,
+    "duration": 4.44
+  },
+  {
+    "text": "ground running so now two and a half",
+    "start": 1382.28,
+    "duration": 3.18
+  },
+  {
+    "text": "years later what have you learned about",
+    "start": 1383.96,
+    "duration": 3.66
+  },
+  {
+    "text": "later leadership what does it take and",
+    "start": 1385.46,
+    "duration": 3.36
+  },
+  {
+    "text": "sometimes we hit we hit the ground",
+    "start": 1387.62,
+    "duration": 3.36
+  },
+  {
+    "text": "running but then you have to keep it",
+    "start": 1388.82,
+    "duration": 3.18
+  },
+  {
+    "text": "going",
+    "start": 1390.98,
+    "duration": 2.52
+  },
+  {
+    "text": "um you have to keep refreshing your",
+    "start": 1392.0,
+    "duration": 3.299
+  },
+  {
+    "text": "leadership style so what what would you",
+    "start": 1393.5,
+    "duration": 2.82
+  },
+  {
+    "text": "say about what you've learned about",
+    "start": 1395.299,
+    "duration": 3.541
+  },
+  {
+    "text": "leadership in this time",
+    "start": 1396.32,
+    "duration": 6.12
+  },
+  {
+    "text": "uh you know a lot a lot of it is is",
+    "start": 1398.84,
+    "duration": 7.92
+  },
+  {
+    "text": "building a big courageous Vision but",
+    "start": 1402.44,
+    "duration": 7.859
+  },
+  {
+    "text": "making it clear and simple one that your",
+    "start": 1406.76,
+    "duration": 7.5
+  },
+  {
+    "text": "team is inspired by to follow I would",
+    "start": 1410.299,
+    "duration": 7.021
+  },
+  {
+    "text": "say you've got to surround yourself with",
+    "start": 1414.26,
+    "duration": 5.899
+  },
+  {
+    "text": "talent and keep the culture energized",
+    "start": 1417.32,
+    "duration": 6.12
+  },
+  {
+    "text": "there's no room for ego in this job",
+    "start": 1420.159,
+    "duration": 5.681
+  },
+  {
+    "text": "there's no room for ego and and respect",
+    "start": 1423.44,
+    "duration": 5.28
+  },
+  {
+    "text": "is deserved it at every level and when",
+    "start": 1425.84,
+    "duration": 6.78
+  },
+  {
+    "text": "you can build that big bold Clear Vision",
+    "start": 1428.72,
+    "duration": 7.62
+  },
+  {
+    "text": "and keep your culture energized and",
+    "start": 1432.62,
+    "duration": 5.299
+  },
+  {
+    "text": "engaged",
+    "start": 1436.34,
+    "duration": 4.74
+  },
+  {
+    "text": "the only other the only other thing that",
+    "start": 1437.919,
+    "duration": 5.74
+  },
+  {
+    "text": "I think that is going to stop you is",
+    "start": 1441.08,
+    "duration": 4.44
+  },
+  {
+    "text": "yourself and that's why I say put your",
+    "start": 1443.659,
+    "duration": 4.321
+  },
+  {
+    "text": "ego down and and pull respect through",
+    "start": 1445.52,
+    "duration": 4.2
+  },
+  {
+    "text": "all levels",
+    "start": 1447.98,
+    "duration": 2.939
+  },
+  {
+    "text": "so I mentioned when you talk about",
+    "start": 1449.72,
+    "duration": 4.68
+  },
+  {
+    "text": "keeping the culture you know thriving",
+    "start": 1450.919,
+    "duration": 4.441
+  },
+  {
+    "text": "um",
+    "start": 1454.4,
+    "duration": 4.08
+  },
+  {
+    "text": "almost every week on the show",
+    "start": 1455.36,
+    "duration": 5.04
+  },
+  {
+    "text": "um at some point we talk about the",
+    "start": 1458.48,
+    "duration": 4.26
+  },
+  {
+    "text": "challenges of hybrid you know many",
+    "start": 1460.4,
+    "duration": 4.32
+  },
+  {
+    "text": "leaders are are quite flexible and",
+    "start": 1462.74,
+    "duration": 4.319
+  },
+  {
+    "text": "that's the key word flexibility but then",
+    "start": 1464.72,
+    "duration": 5.28
+  },
+  {
+    "text": "there's this culture question and uh",
+    "start": 1467.059,
+    "duration": 4.561
+  },
+  {
+    "text": "some of us are very comfortable with the",
+    "start": 1470.0,
+    "duration": 3.78
+  },
+  {
+    "text": "flexibility work-life balance that",
+    "start": 1471.62,
+    "duration": 5.46
+  },
+  {
+    "text": "hybrid allows but we worry that maybe",
+    "start": 1473.78,
+    "duration": 6.36
+  },
+  {
+    "text": "over time culture somehow or strong",
+    "start": 1477.08,
+    "duration": 5.579
+  },
+  {
+    "text": "culture may be sapped by the the lack of",
+    "start": 1480.14,
+    "duration": 4.38
+  },
+  {
+    "text": "you know physical presence how do you",
+    "start": 1482.659,
+    "duration": 3.421
+  },
+  {
+    "text": "how do you think about that and have you",
+    "start": 1484.52,
+    "duration": 3.659
+  },
+  {
+    "text": "worked out sort of what the what the",
+    "start": 1486.08,
+    "duration": 4.26
+  },
+  {
+    "text": "best approach is to handle all these",
+    "start": 1488.179,
+    "duration": 4.5
+  },
+  {
+    "text": "things properly yeah you know we're",
+    "start": 1490.34,
+    "duration": 4.62
+  },
+  {
+    "text": "we're still evolving I think you know I",
+    "start": 1492.679,
+    "duration": 5.101
+  },
+  {
+    "text": "want to give credit to the teams here",
+    "start": 1494.96,
+    "duration": 4.86
+  },
+  {
+    "text": "you know we've we've declared ourselves",
+    "start": 1497.78,
+    "duration": 4.019
+  },
+  {
+    "text": "a flexible workplace and I and I think",
+    "start": 1499.82,
+    "duration": 4.32
+  },
+  {
+    "text": "that word is is key which says we'll",
+    "start": 1501.799,
+    "duration": 3.961
+  },
+  {
+    "text": "change when we when we need to change",
+    "start": 1504.14,
+    "duration": 5.22
+  },
+  {
+    "text": "but right now we we value talent and",
+    "start": 1505.76,
+    "duration": 6.06
+  },
+  {
+    "text": "results and collaboration over over",
+    "start": 1509.36,
+    "duration": 4.08
+  },
+  {
+    "text": "location",
+    "start": 1511.82,
+    "duration": 4.08
+  },
+  {
+    "text": "um but I have I think what's working for",
+    "start": 1513.44,
+    "duration": 4.02
+  },
+  {
+    "text": "us here and it is working you know the",
+    "start": 1515.9,
+    "duration": 4.019
+  },
+  {
+    "text": "results are coming in and and I'm very",
+    "start": 1517.46,
+    "duration": 4.32
+  },
+  {
+    "text": "very happy and proud of where that's",
+    "start": 1519.919,
+    "duration": 3.901
+  },
+  {
+    "text": "heading but what's working for us is",
+    "start": 1521.78,
+    "duration": 4.74
+  },
+  {
+    "text": "I've empowered my leaders to make the",
+    "start": 1523.82,
+    "duration": 4.739
+  },
+  {
+    "text": "decision about how their area should run",
+    "start": 1526.52,
+    "duration": 4.86
+  },
+  {
+    "text": "I think you know I I don't I don't want",
+    "start": 1528.559,
+    "duration": 4.201
+  },
+  {
+    "text": "to discredit",
+    "start": 1531.38,
+    "duration": 3.96
+  },
+  {
+    "text": "you know we spend years asking our teams",
+    "start": 1532.76,
+    "duration": 5.94
+  },
+  {
+    "text": "to be resilient to to be adaptable to be",
+    "start": 1535.34,
+    "duration": 5.04
+  },
+  {
+    "text": "flexible and that's what they showed us",
+    "start": 1538.7,
+    "duration": 4.56
+  },
+  {
+    "text": "during the pandemic and then to say now",
+    "start": 1540.38,
+    "duration": 4.919
+  },
+  {
+    "text": "we're going back you know that's that's",
+    "start": 1543.26,
+    "duration": 4.5
+  },
+  {
+    "text": "that's not the right move we've got to",
+    "start": 1545.299,
+    "duration": 3.841
+  },
+  {
+    "text": "respect what they went through and and",
+    "start": 1547.76,
+    "duration": 3.6
+  },
+  {
+    "text": "they showed the change and for us in",
+    "start": 1549.14,
+    "duration": 4.32
+  },
+  {
+    "text": "this sector and in this company that one",
+    "start": 1551.36,
+    "duration": 4.319
+  },
+  {
+    "text": "we we had great results so I want to",
+    "start": 1553.46,
+    "duration": 4.8
+  },
+  {
+    "text": "learn from what we went through we still",
+    "start": 1555.679,
+    "duration": 3.841
+  },
+  {
+    "text": "change",
+    "start": 1558.26,
+    "duration": 3.779
+  },
+  {
+    "text": "every probably every couple weeks I'm",
+    "start": 1559.52,
+    "duration": 4.68
+  },
+  {
+    "text": "asking my leaders to say is it still",
+    "start": 1562.039,
+    "duration": 3.901
+  },
+  {
+    "text": "working for you do you need to change",
+    "start": 1564.2,
+    "duration": 6.3
+  },
+  {
+    "text": "each area is has really been able to",
+    "start": 1565.94,
+    "duration": 6.42
+  },
+  {
+    "text": "um work to where they are keeping their",
+    "start": 1570.5,
+    "duration": 4.5
+  },
+  {
+    "text": "culture connected so technology is is",
+    "start": 1572.36,
+    "duration": 4.439
+  },
+  {
+    "text": "more remote than they've ever been it's",
+    "start": 1575.0,
+    "duration": 4.02
+  },
+  {
+    "text": "more remote than they've ever been the",
+    "start": 1576.799,
+    "duration": 5.041
+  },
+  {
+    "text": "brand teams are in a few days a week",
+    "start": 1579.02,
+    "duration": 4.08
+  },
+  {
+    "text": "um you know it might be different for",
+    "start": 1581.84,
+    "duration": 4.199
+  },
+  {
+    "text": "finance so I'm really empowering my",
+    "start": 1583.1,
+    "duration": 5.34
+  },
+  {
+    "text": "leaders to make sure that they're",
+    "start": 1586.039,
+    "duration": 3.961
+  },
+  {
+    "text": "staying connected their areas are",
+    "start": 1588.44,
+    "duration": 3.119
+  },
+  {
+    "text": "staying connected cross-functional",
+    "start": 1590.0,
+    "duration": 2.659
+  },
+  {
+    "text": "communication",
+    "start": 1591.559,
+    "duration": 3.541
+  },
+  {
+    "text": "stays connected we have meetings and",
+    "start": 1592.659,
+    "duration": 4.12
+  },
+  {
+    "text": "once a quarter to say how are we doing",
+    "start": 1595.1,
+    "duration": 3.84
+  },
+  {
+    "text": "what do we need to change so the",
+    "start": 1596.779,
+    "duration": 4.441
+  },
+  {
+    "text": "communication is still open it's still",
+    "start": 1598.94,
+    "duration": 4.979
+  },
+  {
+    "text": "alive I love that this team is flexible",
+    "start": 1601.22,
+    "duration": 4.62
+  },
+  {
+    "text": "and how we're evolving and I think we",
+    "start": 1603.919,
+    "duration": 3.36
+  },
+  {
+    "text": "have to stay there we're not done",
+    "start": 1605.84,
+    "duration": 4.14
+  },
+  {
+    "text": "learning what this looks like but what's",
+    "start": 1607.279,
+    "duration": 5.4
+  },
+  {
+    "text": "happening is a different kind of",
+    "start": 1609.98,
+    "duration": 4.62
+  },
+  {
+    "text": "um collaboration a different kind of",
+    "start": 1612.679,
+    "duration": 4.74
+  },
+  {
+    "text": "effort is happening and we're innovating",
+    "start": 1614.6,
+    "duration": 6.42
+  },
+  {
+    "text": "as we go and I want to stay present and",
+    "start": 1617.419,
+    "duration": 5.76
+  },
+  {
+    "text": "give credit for where the results are",
+    "start": 1621.02,
+    "duration": 4.32
+  },
+  {
+    "text": "happening and fix it where it's not",
+    "start": 1623.179,
+    "duration": 4.021
+  },
+  {
+    "text": "yeah I think that's really helpful",
+    "start": 1625.34,
+    "duration": 3.54
+  },
+  {
+    "text": "um you know there's another topic and",
+    "start": 1627.2,
+    "duration": 4.079
+  },
+  {
+    "text": "we've a few questions have come in where",
+    "start": 1628.88,
+    "duration": 3.96
+  },
+  {
+    "text": "similarly people are looking to people",
+    "start": 1631.279,
+    "duration": 5.221
+  },
+  {
+    "text": "like you for you know Insider or answers",
+    "start": 1632.84,
+    "duration": 6.24
+  },
+  {
+    "text": "or or Trends or something like that and",
+    "start": 1636.5,
+    "duration": 5.22
+  },
+  {
+    "text": "that is the recession question",
+    "start": 1639.08,
+    "duration": 4.68
+  },
+  {
+    "text": "um you know we all sort of fear it's",
+    "start": 1641.72,
+    "duration": 3.54
+  },
+  {
+    "text": "around the corner but we're looking for",
+    "start": 1643.76,
+    "duration": 4.26
+  },
+  {
+    "text": "signs so you're in a particular position",
+    "start": 1645.26,
+    "duration": 5.46
+  },
+  {
+    "text": "um uh and you probably have signs that",
+    "start": 1648.02,
+    "duration": 4.5
+  },
+  {
+    "text": "you that you're reading you know where",
+    "start": 1650.72,
+    "duration": 3.9
+  },
+  {
+    "text": "where do you come down on the or what",
+    "start": 1652.52,
+    "duration": 4.8
+  },
+  {
+    "text": "are you seeing that that could be an",
+    "start": 1654.62,
+    "duration": 5.1
+  },
+  {
+    "text": "indicator of a looming recession or not",
+    "start": 1657.32,
+    "duration": 5.219
+  },
+  {
+    "text": "how are you feeling about that yeah I",
+    "start": 1659.72,
+    "duration": 5.459
+  },
+  {
+    "text": "mean you know as a leader I have to pull",
+    "start": 1662.539,
+    "duration": 5.461
+  },
+  {
+    "text": "my my my resources from a lot of",
+    "start": 1665.179,
+    "duration": 4.561
+  },
+  {
+    "text": "different places you know I've gone to",
+    "start": 1668.0,
+    "duration": 3.419
+  },
+  {
+    "text": "some professional organizations that",
+    "start": 1669.74,
+    "duration": 4.679
+  },
+  {
+    "text": "were in and spoken with CEOs",
+    "start": 1671.419,
+    "duration": 4.62
+  },
+  {
+    "text": "um there and",
+    "start": 1674.419,
+    "duration": 4.921
+  },
+  {
+    "text": "um you know I'm using some peer-to-peer",
+    "start": 1676.039,
+    "duration": 7.201
+  },
+  {
+    "text": "um information certainly doing a lot of",
+    "start": 1679.34,
+    "duration": 6.14
+  },
+  {
+    "text": "um reading but most importantly I'm I'm",
+    "start": 1683.24,
+    "duration": 4.559
+  },
+  {
+    "text": "watching all the economic factors but",
+    "start": 1685.48,
+    "duration": 4.0
+  },
+  {
+    "text": "I'm also watching how the customer is",
+    "start": 1687.799,
+    "duration": 3.661
+  },
+  {
+    "text": "changing in this so I do think we're",
+    "start": 1689.48,
+    "duration": 3.799
+  },
+  {
+    "text": "going to see a slow down here",
+    "start": 1691.46,
+    "duration": 4.98
+  },
+  {
+    "text": "we are planning for that I think the",
+    "start": 1693.279,
+    "duration": 5.321
+  },
+  {
+    "text": "most responsible thing to do is plan for",
+    "start": 1696.44,
+    "duration": 3.719
+  },
+  {
+    "text": "it and if we beat it",
+    "start": 1698.6,
+    "duration": 4.199
+  },
+  {
+    "text": "that's great uh you know we've we've",
+    "start": 1700.159,
+    "duration": 4.741
+  },
+  {
+    "text": "worked very hard over the last two and a",
+    "start": 1702.799,
+    "duration": 5.341
+  },
+  {
+    "text": "half years to re-position the brands to",
+    "start": 1704.9,
+    "duration": 6.3
+  },
+  {
+    "text": "strengthen the strategies to look at the",
+    "start": 1708.14,
+    "duration": 5.1
+  },
+  {
+    "text": "product assortment to make sure that we",
+    "start": 1711.2,
+    "duration": 5.599
+  },
+  {
+    "text": "have a supply chain that is is ready to",
+    "start": 1713.24,
+    "duration": 6.179
+  },
+  {
+    "text": "handle what will come I think you know",
+    "start": 1716.799,
+    "duration": 3.821
+  },
+  {
+    "text": "in the last",
+    "start": 1719.419,
+    "duration": 3.481
+  },
+  {
+    "text": "two years we've certainly been through a",
+    "start": 1720.62,
+    "duration": 4.4
+  },
+  {
+    "text": "change in in the retail model from",
+    "start": 1722.9,
+    "duration": 5.1
+  },
+  {
+    "text": "chasing inventory to I think you know",
+    "start": 1725.02,
+    "duration": 4.48
+  },
+  {
+    "text": "I'm reading all the all the public",
+    "start": 1728.0,
+    "duration": 3.36
+  },
+  {
+    "text": "acknowledgments too much inventory we've",
+    "start": 1729.5,
+    "duration": 3.96
+  },
+  {
+    "text": "got to get that down to me now it's",
+    "start": 1731.36,
+    "duration": 5.28
+  },
+  {
+    "text": "about quality it's about the quality of",
+    "start": 1733.46,
+    "duration": 4.38
+  },
+  {
+    "text": "what we're going to deliver if we're",
+    "start": 1736.64,
+    "duration": 2.7
+  },
+  {
+    "text": "going to deliver less",
+    "start": 1737.84,
+    "duration": 3.959
+  },
+  {
+    "text": "we need to stay strong and we need to",
+    "start": 1739.34,
+    "duration": 4.26
+  },
+  {
+    "text": "deliver it with quality and we need to",
+    "start": 1741.799,
+    "duration": 3.841
+  },
+  {
+    "text": "deliver it with purpose so we're we're",
+    "start": 1743.6,
+    "duration": 5.28
+  },
+  {
+    "text": "bracing for it uh we're planning for it",
+    "start": 1745.64,
+    "duration": 5.519
+  },
+  {
+    "text": "I think one of the things about",
+    "start": 1748.88,
+    "duration": 4.74
+  },
+  {
+    "text": "being a privately held company is we're",
+    "start": 1751.159,
+    "duration": 4.681
+  },
+  {
+    "text": "in it for a Long View",
+    "start": 1753.62,
+    "duration": 3.659
+  },
+  {
+    "text": "um much different than the pressure that",
+    "start": 1755.84,
+    "duration": 3.36
+  },
+  {
+    "text": "some of the public companies face",
+    "start": 1757.279,
+    "duration": 4.38
+  },
+  {
+    "text": "day over day or or hour over hour",
+    "start": 1759.2,
+    "duration": 4.38
+  },
+  {
+    "text": "quarter over quarter",
+    "start": 1761.659,
+    "duration": 4.321
+  },
+  {
+    "text": "um we are planning for the Long View and",
+    "start": 1763.58,
+    "duration": 4.079
+  },
+  {
+    "text": "that lets us focus on the customer that",
+    "start": 1765.98,
+    "duration": 3.9
+  },
+  {
+    "text": "lets us focus on quality and it lets us",
+    "start": 1767.659,
+    "duration": 3.9
+  },
+  {
+    "text": "focus on value and put the investments",
+    "start": 1769.88,
+    "duration": 3.899
+  },
+  {
+    "text": "in the right place and prioritize our",
+    "start": 1771.559,
+    "duration": 3.781
+  },
+  {
+    "text": "resources in the right place to be able",
+    "start": 1773.779,
+    "duration": 4.561
+  },
+  {
+    "text": "to successfully make it through what we",
+    "start": 1775.34,
+    "duration": 4.8
+  },
+  {
+    "text": "see could be a recession",
+    "start": 1778.34,
+    "duration": 4.68
+  },
+  {
+    "text": "uh I appreciate that and uh Jenna I know",
+    "start": 1780.14,
+    "duration": 4.38
+  },
+  {
+    "text": "you have a hard stop and have to rush",
+    "start": 1783.02,
+    "duration": 3.659
+  },
+  {
+    "text": "off to something else so um I want to",
+    "start": 1784.52,
+    "duration": 3.659
+  },
+  {
+    "text": "thank you for for being on the show it's",
+    "start": 1786.679,
+    "duration": 2.701
+  },
+  {
+    "text": "fascinating I wish we had more time",
+    "start": 1788.179,
+    "duration": 3.12
+  },
+  {
+    "text": "there were a lot more questions that had",
+    "start": 1789.38,
+    "duration": 3.48
+  },
+  {
+    "text": "come in from our viewers but thanks very",
+    "start": 1791.299,
+    "duration": 2.941
+  },
+  {
+    "text": "much for being on the new world work",
+    "start": 1792.86,
+    "duration": 3.36
+  },
+  {
+    "text": "thank you so much for having me really",
+    "start": 1794.24,
+    "duration": 4.2
+  },
+  {
+    "text": "appreciate it great",
+    "start": 1796.22,
+    "duration": 4.14
+  },
+  {
+    "text": "all right so uh before I talk about next",
+    "start": 1798.44,
+    "duration": 4.02
+  },
+  {
+    "text": "week's show I want to uh read a word",
+    "start": 1800.36,
+    "duration": 3.66
+  },
+  {
+    "text": "from our sponsor again",
+    "start": 1802.46,
+    "duration": 3.42
+  },
+  {
+    "text": "where some see barriers Unisys",
+    "start": 1804.02,
+    "duration": 3.899
+  },
+  {
+    "text": "breakthroughs Unisys pushes what's",
+    "start": 1805.88,
+    "duration": 4.32
+  },
+  {
+    "text": "possible across digital workplace app",
+    "start": 1807.919,
+    "duration": 5.701
+  },
+  {
+    "text": "modernization cloud and Beyond Unisys",
+    "start": 1810.2,
+    "duration": 5.76
+  },
+  {
+    "text": "keep breaking through",
+    "start": 1813.62,
+    "duration": 4.14
+  },
+  {
+    "text": "all right so we are going to take the",
+    "start": 1815.96,
+    "duration": 4.319
+  },
+  {
+    "text": "next couple of weeks off we are uh",
+    "start": 1817.76,
+    "duration": 4.019
+  },
+  {
+    "text": "really coming into the winter holiday",
+    "start": 1820.279,
+    "duration": 4.741
+  },
+  {
+    "text": "season in the U.S but we will be back on",
+    "start": 1821.779,
+    "duration": 4.681
+  },
+  {
+    "text": "January 5th",
+    "start": 1825.02,
+    "duration": 4.44
+  },
+  {
+    "text": "at 12 noon eastern time when my guests",
+    "start": 1826.46,
+    "duration": 5.599
+  },
+  {
+    "text": "will be the coach of the U.S men's",
+    "start": 1829.46,
+    "duration": 8.099
+  },
+  {
+    "text": "soccer football team uh Greg burhalter",
+    "start": 1832.059,
+    "duration": 7.72
+  },
+  {
+    "text": "so Greg would love to be in Doha right",
+    "start": 1837.559,
+    "duration": 4.98
+  },
+  {
+    "text": "now vying for the World Cup but he led a",
+    "start": 1839.779,
+    "duration": 4.62
+  },
+  {
+    "text": "very young American team through the",
+    "start": 1842.539,
+    "duration": 3.781
+  },
+  {
+    "text": "first round before leaving before losing",
+    "start": 1844.399,
+    "duration": 3.421
+  },
+  {
+    "text": "to the Netherlands Greg is an",
+    "start": 1846.32,
+    "duration": 3.66
+  },
+  {
+    "text": "inspirational leader he's generated his",
+    "start": 1847.82,
+    "duration": 3.78
+  },
+  {
+    "text": "share of controversy so we'll talk about",
+    "start": 1849.98,
+    "duration": 3.6
+  },
+  {
+    "text": "his leadership style and about his",
+    "start": 1851.6,
+    "duration": 4.38
+  },
+  {
+    "text": "Philosophy for leading teams so join us",
+    "start": 1853.58,
+    "duration": 4.44
+  },
+  {
+    "text": "then thank you for joining us today I'm",
+    "start": 1855.98,
+    "duration": 4.079
+  },
+  {
+    "text": "Audie Ignatius this is the new world of",
+    "start": 1858.02,
+    "duration": 3.18
+  },
+  {
+    "text": "work",
+    "start": 1860.059,
+    "duration": 3.381
+  },
+  {
+    "text": "foreign",
+    "start": 1861.2,
+    "duration": 2.24
+  }
+]

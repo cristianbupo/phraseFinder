@@ -1,0 +1,3797 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.0,
+    "duration": 2.88
+  },
+  {
+    "text": "ALLISON BEARD: Welcome\nto the HBR Ideacast",
+    "start": 10.58,
+    "duration": 1.77
+  },
+  {
+    "text": "from Harvard Business Review.",
+    "start": 12.35,
+    "duration": 1.29
+  },
+  {
+    "text": "I'm Alison Beard.",
+    "start": 13.64,
+    "duration": 0.915
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 14.555,
+    "duration": 3.099
+  },
+  {
+    "text": "How do you get someone to back\nyour ideas, buy your products,",
+    "start": 21.93,
+    "duration": 2.73
+  },
+  {
+    "text": "or behave in a different way,\nwhether it's a boss or a peer,",
+    "start": 24.66,
+    "duration": 3.39
+  },
+  {
+    "text": "customer or client,\nsupplier or investor,",
+    "start": 28.05,
+    "duration": 2.85
+  },
+  {
+    "text": "or maybe people failing to\nwear masks during a pandemic?",
+    "start": 30.9,
+    "duration": 3.72
+  },
+  {
+    "text": "How do you get them to see\nthings your way, especially",
+    "start": 34.62,
+    "duration": 2.67
+  },
+  {
+    "text": "if they initially disagree\nwith you, discount",
+    "start": 37.29,
+    "duration": 2.01
+  },
+  {
+    "text": "you, or even worse, don't\neven know you're there?",
+    "start": 39.3,
+    "duration": 3.09
+  },
+  {
+    "text": "Even with irrefutable data\nand emotional appeals,",
+    "start": 42.39,
+    "duration": 2.79
+  },
+  {
+    "text": "it can be really hard to\nchange another person's mind.",
+    "start": 45.18,
+    "duration": 2.58
+  },
+  {
+    "text": "Most of us get extremely stuck\nin our opinions, preferences,",
+    "start": 47.76,
+    "duration": 3.0
+  },
+  {
+    "text": "and habits.",
+    "start": 50.76,
+    "duration": 1.08
+  },
+  {
+    "text": "Today's guest argues that\nit's possible to push even",
+    "start": 51.84,
+    "duration": 2.61
+  },
+  {
+    "text": "the most resistant\npeople in new directions.",
+    "start": 54.45,
+    "duration": 2.4
+  },
+  {
+    "text": "He says that persuasion starts\nwith recognizing the reasons",
+    "start": 56.85,
+    "duration": 2.91
+  },
+  {
+    "text": "why affecting change\nis so very difficult",
+    "start": 59.76,
+    "duration": 2.56
+  },
+  {
+    "text": "and then developing strategies\nto overcome those obstacles.",
+    "start": 62.32,
+    "duration": 2.965
+  },
+  {
+    "text": "JONAH BERGER: Jonah Berger\nis a marketing professor",
+    "start": 65.285,
+    "duration": 2.125
+  },
+  {
+    "text": "at the University of\nPennsylvania's Wharton School",
+    "start": 67.41,
+    "duration": 2.28
+  },
+  {
+    "text": "and author of The Catalyst,\nHow to Change Anyone's Mind.",
+    "start": 69.69,
+    "duration": 3.6
+  },
+  {
+    "text": "And a quick note to\nlisteners, we spoke to Jonah",
+    "start": 73.29,
+    "duration": 2.4
+  },
+  {
+    "text": "a while back before the\npandemic and its fallout,",
+    "start": 75.69,
+    "duration": 2.7
+  },
+  {
+    "text": "but we checked in\nwith him for an update",
+    "start": 78.39,
+    "duration": 1.98
+  },
+  {
+    "text": "on how these ideas apply now.",
+    "start": 80.37,
+    "duration": 1.56
+  },
+  {
+    "text": "And you'll hear\nthat conversation",
+    "start": 81.93,
+    "duration": 1.38
+  },
+  {
+    "text": "at the end of the show.",
+    "start": 83.31,
+    "duration": 1.08
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 84.39,
+    "duration": 3.472
+  },
+  {
+    "text": "ALLISON BEARD: We\nknow that persuasion",
+    "start": 96.307,
+    "duration": 1.583
+  },
+  {
+    "text": "is so important in business,\npolitics, all areas of life",
+    "start": 97.89,
+    "duration": 3.63
+  },
+  {
+    "text": "really.",
+    "start": 101.52,
+    "duration": 1.05
+  },
+  {
+    "text": "Some people seem a lot\nbetter at it than others.",
+    "start": 102.57,
+    "duration": 3.04
+  },
+  {
+    "text": "So what's the number one\nmistake that most people",
+    "start": 105.61,
+    "duration": 3.2
+  },
+  {
+    "text": "make in this area?",
+    "start": 108.81,
+    "duration": 1.14
+  },
+  {
+    "text": "JONAH BERGER: Everyone has\nsomething they want to change.",
+    "start": 109.95,
+    "duration": 2.7
+  },
+  {
+    "text": "Employees want to change\ntheir bosses mind,",
+    "start": 112.65,
+    "duration": 1.8
+  },
+  {
+    "text": "and leaders want to\ntransform organizations.",
+    "start": 114.45,
+    "duration": 2.64
+  },
+  {
+    "text": "Marketers want to change the\ncustomer or client's mind.",
+    "start": 117.09,
+    "duration": 2.88
+  },
+  {
+    "text": "Sales folks want to do the same.",
+    "start": 119.97,
+    "duration": 1.872
+  },
+  {
+    "text": "Startups want to\nchange industries.",
+    "start": 121.842,
+    "duration": 1.458
+  },
+  {
+    "text": "Nonprofits want to\nchange the world.",
+    "start": 123.3,
+    "duration": 1.5
+  },
+  {
+    "text": "But change is really hard.",
+    "start": 124.8,
+    "duration": 1.53
+  },
+  {
+    "text": "Often we push and we push and\nwe push and nothing happens.",
+    "start": 126.33,
+    "duration": 3.318
+  },
+  {
+    "text": "We think about\nchanging minds, and we",
+    "start": 129.648,
+    "duration": 1.542
+  },
+  {
+    "text": "think about changing behavior.",
+    "start": 131.19,
+    "duration": 1.26
+  },
+  {
+    "text": "We think about\nchanging organizations.",
+    "start": 132.45,
+    "duration": 1.68
+  },
+  {
+    "text": "Often, we take a certain\nstyle of approach.",
+    "start": 134.13,
+    "duration": 2.94
+  },
+  {
+    "text": "We think if we just add more\ninformation, more reasons, more",
+    "start": 137.07,
+    "duration": 3.0
+  },
+  {
+    "text": "facts, more figures, just send\npeople one more PowerPoint",
+    "start": 140.07,
+    "duration": 3.15
+  },
+  {
+    "text": "deck, they'll come around.",
+    "start": 143.22,
+    "duration": 2.37
+  },
+  {
+    "text": "And that intuition makes a lot\nof sense in the physical world.",
+    "start": 145.59,
+    "duration": 3.45
+  },
+  {
+    "text": "If we're sitting in front\nof a chair, for example,",
+    "start": 149.04,
+    "duration": 2.1
+  },
+  {
+    "text": "and we want to move that chair,\na good way to move that chair",
+    "start": 151.14,
+    "duration": 2.67
+  },
+  {
+    "text": "is pushing, right?",
+    "start": 153.81,
+    "duration": 0.78
+  },
+  {
+    "text": "We push a little\nbit on the chair",
+    "start": 154.59,
+    "duration": 1.375
+  },
+  {
+    "text": "and it goes in the\ndirection we want it to go.",
+    "start": 155.965,
+    "duration": 1.985
+  },
+  {
+    "text": "But in the social world,\nthat doesn't necessarily",
+    "start": 157.95,
+    "duration": 2.37
+  },
+  {
+    "text": "work because, when\nwe push people,",
+    "start": 160.32,
+    "duration": 1.8
+  },
+  {
+    "text": "they often push back, asking\na subtly but importantly",
+    "start": 162.12,
+    "duration": 3.22
+  },
+  {
+    "text": "different question, why hasn't\nthat person changed already?",
+    "start": 165.34,
+    "duration": 2.97
+  },
+  {
+    "text": "What are the\nbarriers or obstacles",
+    "start": 168.31,
+    "duration": 1.7
+  },
+  {
+    "text": "that are getting in\nthe way of change?",
+    "start": 170.01,
+    "duration": 2.07
+  },
+  {
+    "text": "And how can we mitigate them?",
+    "start": 172.08,
+    "duration": 1.93
+  },
+  {
+    "text": "ALLISON BEARD: So why do\npeople have this instinct",
+    "start": 174.01,
+    "duration": 2.09
+  },
+  {
+    "text": "to push back even when\nthe thing being suggested",
+    "start": 176.1,
+    "duration": 4.17
+  },
+  {
+    "text": "might be good for them?",
+    "start": 180.27,
+    "duration": 1.41
+  },
+  {
+    "text": "JONAH BERGER: We all love to\nfeel like we're in control.",
+    "start": 181.68,
+    "duration": 3.12
+  },
+  {
+    "text": "We love to feel\nlike we're shaping",
+    "start": 184.8,
+    "duration": 1.74
+  },
+  {
+    "text": "and we're driving our own lives.",
+    "start": 186.54,
+    "duration": 1.62
+  },
+  {
+    "text": "We're making the choice.",
+    "start": 188.16,
+    "duration": 1.32
+  },
+  {
+    "text": "But unfortunately,\nwhen other people",
+    "start": 189.48,
+    "duration": 2.22
+  },
+  {
+    "text": "try to shape our\nopinions, we don't",
+    "start": 191.7,
+    "duration": 1.89
+  },
+  {
+    "text": "feel like we have control.",
+    "start": 193.59,
+    "duration": 2.1
+  },
+  {
+    "text": "Think about a few years back\nto the Tide Pod challenge.",
+    "start": 195.69,
+    "duration": 3.28
+  },
+  {
+    "text": "So if you remember a\nnumber of years ago,",
+    "start": 198.97,
+    "duration": 2.12
+  },
+  {
+    "text": "Tide Pod was having this issue.",
+    "start": 201.09,
+    "duration": 1.59
+  },
+  {
+    "text": "Proctor & Gamble was\nhaving this issue",
+    "start": 202.68,
+    "duration": 1.89
+  },
+  {
+    "text": "where Tide Pods, the things\nthat we all throw in the laundry",
+    "start": 204.57,
+    "duration": 3.15
+  },
+  {
+    "text": "to make laundry easier,\npeople were eating them.",
+    "start": 207.72,
+    "duration": 3.19
+  },
+  {
+    "text": "And so you think\nabout detergent,",
+    "start": 210.91,
+    "duration": 1.58
+  },
+  {
+    "text": "why would anyone eat detergent?",
+    "start": 212.49,
+    "duration": 1.41
+  },
+  {
+    "text": "But there was a funny\narticle on The Onion saying",
+    "start": 213.9,
+    "duration": 2.818
+  },
+  {
+    "text": "they looked good enough to eat.",
+    "start": 216.718,
+    "duration": 1.292
+  },
+  {
+    "text": "And soon, young people\nwere challenging each other",
+    "start": 218.01,
+    "duration": 2.61
+  },
+  {
+    "text": "to eat Tide Pods.",
+    "start": 220.62,
+    "duration": 1.2
+  },
+  {
+    "text": "And so there was all this\nchatter online about, oh,",
+    "start": 221.82,
+    "duration": 2.54
+  },
+  {
+    "text": "should we eat Tide Pods?",
+    "start": 224.36,
+    "duration": 1.0
+  },
+  {
+    "text": "Should we not?",
+    "start": 225.36,
+    "duration": 0.72
+  },
+  {
+    "text": "People shooting videos\nof themselves doing it.",
+    "start": 226.08,
+    "duration": 2.315
+  },
+  {
+    "text": "Lots of people\ngetting attention.",
+    "start": 228.395,
+    "duration": 1.375
+  },
+  {
+    "text": "ALLISON BEARD: Should\nwe eat poison or not?",
+    "start": 229.77,
+    "duration": 1.68
+  },
+  {
+    "text": "JONAH BERGER: Yeah.",
+    "start": 231.45,
+    "duration": 0.285
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 231.735,
+    "duration": 0.5
+  },
+  {
+    "text": "For this ridiculous,\nridiculous thing.",
+    "start": 232.235,
+    "duration": 2.285
+  },
+  {
+    "text": "And so imagine you're sitting\nin Procter & Gamble's shoes",
+    "start": 234.52,
+    "duration": 2.775
+  },
+  {
+    "text": "at the moment, right?",
+    "start": 237.295,
+    "duration": 0.875
+  },
+  {
+    "text": "You're probably\nsitting there going,",
+    "start": 238.17,
+    "duration": 0.9
+  },
+  {
+    "text": "why do we need to tell\npeople not to eat chemicals?",
+    "start": 239.07,
+    "duration": 2.462
+  },
+  {
+    "text": "But you're probably\nsaying, just in case,",
+    "start": 241.532,
+    "duration": 1.708
+  },
+  {
+    "text": "we'll put out an announcement.",
+    "start": 243.24,
+    "duration": 1.25
+  },
+  {
+    "text": "So Procter & Gamble does.",
+    "start": 244.49,
+    "duration": 1.142
+  },
+  {
+    "text": "They put out a very simple\nannouncement saying,",
+    "start": 245.632,
+    "duration": 1.958
+  },
+  {
+    "text": "don't eat Tide Pods.",
+    "start": 247.59,
+    "duration": 1.68
+  },
+  {
+    "text": "And in case that\nwasn't enough, they",
+    "start": 249.27,
+    "duration": 2.34
+  },
+  {
+    "text": "hired Rob Gronkowski, a\nfamous football player",
+    "start": 251.61,
+    "duration": 2.01
+  },
+  {
+    "text": "we think of as Gronk, to help.",
+    "start": 253.62,
+    "duration": 1.59
+  },
+  {
+    "text": "So he shoots this quick\nvideo for Tide online saying",
+    "start": 255.21,
+    "duration": 3.42
+  },
+  {
+    "text": "are Tide Pods ever safe to eat?",
+    "start": 258.63,
+    "duration": 1.47
+  },
+  {
+    "text": "No, no, no, no, no, no,\nno flashes on the screen.",
+    "start": 260.1,
+    "duration": 3.33
+  },
+  {
+    "text": "Now clearly, this\nshould have been enough.",
+    "start": 263.43,
+    "duration": 1.75
+  },
+  {
+    "text": "It shouldn't have been a\nproblem to begin with, right?",
+    "start": 265.18,
+    "duration": 2.33
+  },
+  {
+    "text": "People eating chemicals.",
+    "start": 267.51,
+    "duration": 2.37
+  },
+  {
+    "text": "But interestingly, if\nyou look at the data,",
+    "start": 269.88,
+    "duration": 1.848
+  },
+  {
+    "text": "something funny happened.",
+    "start": 271.728,
+    "duration": 1.042
+  },
+  {
+    "text": "So if you look at search\ndata for Tide Pods,",
+    "start": 272.77,
+    "duration": 3.74
+  },
+  {
+    "text": "it's creeping up as the Tide Pod\nchallenge gets some attention.",
+    "start": 276.51,
+    "duration": 3.78
+  },
+  {
+    "text": "And then Procter & Gamble and\nGronk make their announcement.",
+    "start": 280.29,
+    "duration": 2.76
+  },
+  {
+    "text": "And that's when all\nhell breaks loose.",
+    "start": 283.05,
+    "duration": 2.07
+  },
+  {
+    "text": "So you would think,\nor you would hope",
+    "start": 285.12,
+    "duration": 1.98
+  },
+  {
+    "text": "that that would lead people\nto stop eating Tide Pods.",
+    "start": 287.1,
+    "duration": 2.97
+  },
+  {
+    "text": "If anything, it should have\nno effect on Tide Pods,",
+    "start": 290.07,
+    "duration": 2.34
+  },
+  {
+    "text": "but the exact opposite happens.",
+    "start": 292.41,
+    "duration": 2.49
+  },
+  {
+    "text": "Search traffic shoots up\nby more than four-fold.",
+    "start": 294.9,
+    "duration": 3.03
+  },
+  {
+    "text": "Visits to poison control\nshoot up as well.",
+    "start": 297.93,
+    "duration": 2.4
+  },
+  {
+    "text": "And essentially, asking\npeople not to do something",
+    "start": 300.33,
+    "duration": 2.4
+  },
+  {
+    "text": "had backfired.",
+    "start": 302.73,
+    "duration": 1.44
+  },
+  {
+    "text": "ALLISON BEARD: And so how do\nyou get people to overcome",
+    "start": 304.17,
+    "duration": 3.18
+  },
+  {
+    "text": "this instinct to push\nback and say, no, I don't",
+    "start": 307.35,
+    "duration": 4.41
+  },
+  {
+    "text": "want to be told what to do?",
+    "start": 311.76,
+    "duration": 1.23
+  },
+  {
+    "text": "JONAH BERGER: Yeah, the\nfunniest and almost worst",
+    "start": 312.99,
+    "duration": 2.107
+  },
+  {
+    "text": "thing about reactants\nis it isn't just",
+    "start": 315.097,
+    "duration": 1.583
+  },
+  {
+    "text": "when we tell people\nnot to do something.",
+    "start": 316.68,
+    "duration": 1.667
+  },
+  {
+    "text": "The same thing happens when we\ntell people to do something,",
+    "start": 318.347,
+    "duration": 2.903
+  },
+  {
+    "text": "even if it was something they\nmay have wanted to do already.",
+    "start": 321.25,
+    "duration": 2.5
+  },
+  {
+    "text": "You think about a meeting\nwhere you're asking people",
+    "start": 323.75,
+    "duration": 2.56
+  },
+  {
+    "text": "to support a certain\ninitiative, they",
+    "start": 326.31,
+    "duration": 1.653
+  },
+  {
+    "text": "may have already even\nthought about supporting",
+    "start": 327.963,
+    "duration": 1.917
+  },
+  {
+    "text": "that initiative.",
+    "start": 329.88,
+    "duration": 0.667
+  },
+  {
+    "text": "But if you ask\nthem to support it,",
+    "start": 330.547,
+    "duration": 1.793
+  },
+  {
+    "text": "it impinges on that freedom\nand autonomy, right?",
+    "start": 332.34,
+    "duration": 2.0
+  },
+  {
+    "text": "They feel like now\nthe reason they're",
+    "start": 334.34,
+    "duration": 1.542
+  },
+  {
+    "text": "supporting it isn't\nbecause they wanted to.",
+    "start": 335.882,
+    "duration": 2.008
+  },
+  {
+    "text": "It was because you\ntold them to, which",
+    "start": 337.89,
+    "duration": 1.653
+  },
+  {
+    "text": "makes them have this\nknee-jerk reaction, well,",
+    "start": 339.543,
+    "duration": 1.917
+  },
+  {
+    "text": "maybe I shouldn't go along.",
+    "start": 341.46,
+    "duration": 2.68
+  },
+  {
+    "text": "And so one way to solve this\nproblem is to do something",
+    "start": 344.14,
+    "duration": 3.44
+  },
+  {
+    "text": "I call providing a menu, right?",
+    "start": 347.58,
+    "duration": 2.22
+  },
+  {
+    "text": "So imagine just in\nyour own personal life,",
+    "start": 349.8,
+    "duration": 1.825
+  },
+  {
+    "text": "for example, someone\nasks, what are you",
+    "start": 351.625,
+    "duration": 1.625
+  },
+  {
+    "text": "going to do this weekend?",
+    "start": 353.25,
+    "duration": 0.72
+  },
+  {
+    "text": "Or what do you want\nto do this weekend?",
+    "start": 353.97,
+    "duration": 1.35
+  },
+  {
+    "text": "You say, oh, let's\ngo see a movie.",
+    "start": 355.32,
+    "duration": 1.47
+  },
+  {
+    "text": "And then they go, oh, it's\ngoing to be too rainy outside.",
+    "start": 356.79,
+    "duration": 2.4
+  },
+  {
+    "text": "Or oh, why don't we do\nsomething else instead, right?",
+    "start": 359.19,
+    "duration": 3.48
+  },
+  {
+    "text": "They shoot it down.",
+    "start": 362.67,
+    "duration": 1.08
+  },
+  {
+    "text": "But if instead you give them\ntwo options, multiple options,",
+    "start": 363.75,
+    "duration": 3.03
+  },
+  {
+    "text": "it suddenly changes their\nrole because now, rather",
+    "start": 366.78,
+    "duration": 2.448
+  },
+  {
+    "text": "than sitting there\nthinking about all",
+    "start": 369.228,
+    "duration": 1.542
+  },
+  {
+    "text": "the reasons wrong with\nwhat you suggested,",
+    "start": 370.77,
+    "duration": 1.805
+  },
+  {
+    "text": "now they're thinking about\nwhich of the two options",
+    "start": 372.575,
+    "duration": 2.125
+  },
+  {
+    "text": "you suggested is a\nbetter fit for them.",
+    "start": 374.7,
+    "duration": 2.28
+  },
+  {
+    "text": "Consultants do this\nall the time, right?",
+    "start": 376.98,
+    "duration": 1.71
+  },
+  {
+    "text": "Consultants say, hey look, if I\npitch one thing to the client,",
+    "start": 378.69,
+    "duration": 2.618
+  },
+  {
+    "text": "the client will think\nabout all the reasons",
+    "start": 381.308,
+    "duration": 1.792
+  },
+  {
+    "text": "why they can't do it.",
+    "start": 383.1,
+    "duration": 1.14
+  },
+  {
+    "text": "If I pitch two, maybe even\nthree solutions to the client,",
+    "start": 384.24,
+    "duration": 2.91
+  },
+  {
+    "text": "now they're strategizing,\nOK, well, which one of these",
+    "start": 387.15,
+    "duration": 2.25
+  },
+  {
+    "text": "do I like better.",
+    "start": 389.4,
+    "duration": 0.722
+  },
+  {
+    "text": "And because they're focusing\non which one they like better,",
+    "start": 390.122,
+    "duration": 2.458
+  },
+  {
+    "text": "they're more likely to pick\none at the end of that meeting.",
+    "start": 392.58,
+    "duration": 2.73
+  },
+  {
+    "text": "ALLISON BEARD: So what are\nsome of the other big hurdles",
+    "start": 395.31,
+    "duration": 2.39
+  },
+  {
+    "text": "that we face when we're\ntrying to get someone",
+    "start": 397.7,
+    "duration": 1.95
+  },
+  {
+    "text": "to change, whether it's\nan opinion or the products",
+    "start": 399.65,
+    "duration": 2.67
+  },
+  {
+    "text": "and services we're using?",
+    "start": 402.32,
+    "duration": 1.9
+  },
+  {
+    "text": "JONAH BERGER: So there\nare five common barriers",
+    "start": 404.22,
+    "duration": 2.03
+  },
+  {
+    "text": "I found across situations.",
+    "start": 406.25,
+    "duration": 2.1
+  },
+  {
+    "text": "We talked about reactants.",
+    "start": 408.35,
+    "duration": 1.56
+  },
+  {
+    "text": "The next is endowment, which\nis we tend to be attached",
+    "start": 409.91,
+    "duration": 2.25
+  },
+  {
+    "text": "to things we're doing already.",
+    "start": 412.16,
+    "duration": 1.95
+  },
+  {
+    "text": "Then there's distance.",
+    "start": 414.11,
+    "duration": 1.41
+  },
+  {
+    "text": "Too far, if we ask for\nsomething that's too big an ask,",
+    "start": 415.52,
+    "duration": 2.46
+  },
+  {
+    "text": "people ignore it.",
+    "start": 417.98,
+    "duration": 1.11
+  },
+  {
+    "text": "And corroborating\nevidence, which is",
+    "start": 419.09,
+    "duration": 1.5
+  },
+  {
+    "text": "all about providing more proof.",
+    "start": 420.59,
+    "duration": 1.56
+  },
+  {
+    "text": "I think another big\nissue is uncertainty.",
+    "start": 422.15,
+    "duration": 2.43
+  },
+  {
+    "text": "Any time there's a change, any\ntime there's something new,",
+    "start": 424.58,
+    "duration": 3.4
+  },
+  {
+    "text": "any time we're asking people\nto do something different,",
+    "start": 427.98,
+    "duration": 2.685
+  },
+  {
+    "text": "there's a risk associated with\ndoing something different.",
+    "start": 430.665,
+    "duration": 2.375
+  },
+  {
+    "text": "Old things feel safe.",
+    "start": 433.04,
+    "duration": 1.35
+  },
+  {
+    "text": "Even if they're\nnot perfect, have",
+    "start": 434.39,
+    "duration": 1.385
+  },
+  {
+    "text": "problems associated\nwith them, we",
+    "start": 435.775,
+    "duration": 1.375
+  },
+  {
+    "text": "know what those\nproblems are, right?",
+    "start": 437.15,
+    "duration": 1.565
+  },
+  {
+    "text": "Whereas, new things\nwe don't even",
+    "start": 438.715,
+    "duration": 1.375
+  },
+  {
+    "text": "know what those problems are.",
+    "start": 440.09,
+    "duration": 1.54
+  },
+  {
+    "text": "And so often people\nfeel quite uncertain.",
+    "start": 441.63,
+    "duration": 2.455
+  },
+  {
+    "text": "If you think about\nit, new things",
+    "start": 444.085,
+    "duration": 1.375
+  },
+  {
+    "text": "often involve switching\ncosts as well, right?",
+    "start": 445.46,
+    "duration": 2.37
+  },
+  {
+    "text": "So think about buying a\nnew phone, for example.",
+    "start": 447.83,
+    "duration": 2.26
+  },
+  {
+    "text": "Costs money to buy\nthat new phone.",
+    "start": 450.09,
+    "duration": 1.91
+  },
+  {
+    "text": "That's a cost of switching.",
+    "start": 452.0,
+    "duration": 1.59
+  },
+  {
+    "text": "But there's often time\nand effort costs as well.",
+    "start": 453.59,
+    "duration": 2.708
+  },
+  {
+    "text": "So if you're pitching a\nnew project to your boss,",
+    "start": 456.298,
+    "duration": 2.042
+  },
+  {
+    "text": "for example, they're not only\nthinking they're, OK, well,",
+    "start": 458.34,
+    "duration": 2.375
+  },
+  {
+    "text": "how much will it\ncost to do this?",
+    "start": 460.715,
+    "duration": 1.425
+  },
+  {
+    "text": "But they're thinking, god, how\nmuch effort it's going to be?",
+    "start": 462.14,
+    "duration": 2.13
+  },
+  {
+    "text": "Who are we going to switch\noff another project?",
+    "start": 464.27,
+    "duration": 2.22
+  },
+  {
+    "text": "And all those\nswitching costs lead",
+    "start": 466.49,
+    "duration": 1.53
+  },
+  {
+    "text": "them to say, well, no thanks.",
+    "start": 468.02,
+    "duration": 2.19
+  },
+  {
+    "text": "And even worse, think about\nwhen the costs and the benefits",
+    "start": 470.21,
+    "duration": 2.76
+  },
+  {
+    "text": "occur, right?",
+    "start": 472.97,
+    "duration": 1.05
+  },
+  {
+    "text": "So the costs of change\nare often upfront,",
+    "start": 474.02,
+    "duration": 2.01
+  },
+  {
+    "text": "where the benefits are later.",
+    "start": 476.03,
+    "duration": 1.26
+  },
+  {
+    "text": "We're not going to\nknow for another month",
+    "start": 477.29,
+    "duration": 1.29
+  },
+  {
+    "text": "or two whether it's\nactually going to make money",
+    "start": 478.58,
+    "duration": 2.0
+  },
+  {
+    "text": "or actually going\nto be a good idea.",
+    "start": 480.58,
+    "duration": 1.52
+  },
+  {
+    "text": "And even worse, those\ncosts are certain.",
+    "start": 482.1,
+    "duration": 2.39
+  },
+  {
+    "text": "Whereas, the benefits\nare uncertain.",
+    "start": 484.49,
+    "duration": 1.92
+  },
+  {
+    "text": "And so that's what I'd call the\ncost benefit timing gap, right?",
+    "start": 486.41,
+    "duration": 3.21
+  },
+  {
+    "text": "Costs are now and\nthey're certain.",
+    "start": 489.62,
+    "duration": 1.83
+  },
+  {
+    "text": "Benefits are later,\nand they're uncertain.",
+    "start": 491.45,
+    "duration": 2.25
+  },
+  {
+    "text": "And so that cost\nbenefit gap is going",
+    "start": 493.7,
+    "duration": 2.13
+  },
+  {
+    "text": "to make it hard for\nchange to happen.",
+    "start": 495.83,
+    "duration": 1.837
+  },
+  {
+    "text": "ALLISON BEARD: So\nI'd love to give you",
+    "start": 497.667,
+    "duration": 1.583
+  },
+  {
+    "text": "a few scenarios of\npeople like our listeners",
+    "start": 499.25,
+    "duration": 5.22
+  },
+  {
+    "text": "who might be trying\nto persuade colleagues",
+    "start": 504.47,
+    "duration": 2.88
+  },
+  {
+    "text": "or customers to\nchange their behavior",
+    "start": 507.35,
+    "duration": 2.85
+  },
+  {
+    "text": "but coming up against these\nobstacles you're talking about.",
+    "start": 510.2,
+    "duration": 2.79
+  },
+  {
+    "text": "And you can give us advice\non how they should handle it.",
+    "start": 512.99,
+    "duration": 3.39
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 516.38,
+    "duration": 0.6
+  },
+  {
+    "text": "JONAH BERGER: I feel like\nthis is like an advice",
+    "start": 516.98,
+    "duration": 1.53
+  },
+  {
+    "text": "column in the newspaper.",
+    "start": 518.51,
+    "duration": 0.84
+  },
+  {
+    "text": "I'll do my best.",
+    "start": 519.35,
+    "duration": 0.689
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 520.039,
+    "duration": 0.601
+  },
+  {
+    "text": "ALLISON BEARD: Exactly.",
+    "start": 520.64,
+    "duration": 1.409
+  },
+  {
+    "text": "And so I think the\nfirst one deals",
+    "start": 522.049,
+    "duration": 2.881
+  },
+  {
+    "text": "with that uncertainty\nhurdle that you were just",
+    "start": 524.93,
+    "duration": 3.06
+  },
+  {
+    "text": "talking about.",
+    "start": 527.99,
+    "duration": 0.97
+  },
+  {
+    "text": "So you're a bank\nexecutive charged",
+    "start": 528.96,
+    "duration": 1.43
+  },
+  {
+    "text": "with getting existing\ncustomers to use a new app",
+    "start": 530.39,
+    "duration": 3.48
+  },
+  {
+    "text": "and making sure that it helps\nyou attract new customers.",
+    "start": 533.87,
+    "duration": 4.638
+  },
+  {
+    "text": "JONAH BERGER: Yeah.",
+    "start": 538.508,
+    "duration": 0.792
+  },
+  {
+    "text": "ALLISON BEARD: Go.",
+    "start": 539.3,
+    "duration": 0.75
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 540.05,
+    "duration": 0.543
+  },
+  {
+    "text": "JONAH BERGER: So it's funny.",
+    "start": 540.593,
+    "duration": 1.167
+  },
+  {
+    "text": "I did a very similar\nproject like this",
+    "start": 541.76,
+    "duration": 1.8
+  },
+  {
+    "text": "a few years ago for Yum Brands.",
+    "start": 543.56,
+    "duration": 2.13
+  },
+  {
+    "text": "So one of their food\nbrands, Taco Bell,",
+    "start": 545.69,
+    "duration": 3.3
+  },
+  {
+    "text": "was actually launching an app.",
+    "start": 548.99,
+    "duration": 1.56
+  },
+  {
+    "text": "And the app was doing OK.",
+    "start": 550.55,
+    "duration": 1.41
+  },
+  {
+    "text": "People were downloading it,\nbut they weren't using it.",
+    "start": 551.96,
+    "duration": 2.39
+  },
+  {
+    "text": "And so one thing we\nspent a lot of time on",
+    "start": 554.35,
+    "duration": 1.75
+  },
+  {
+    "text": "is thinking about why\nand how to change it.",
+    "start": 556.1,
+    "duration": 2.88
+  },
+  {
+    "text": "Is the issue that people\ndon't know the app exists,",
+    "start": 558.98,
+    "duration": 2.56
+  },
+  {
+    "text": "so it's an awareness problem?",
+    "start": 561.54,
+    "duration": 1.37
+  },
+  {
+    "text": "Do people know the app exists,\nbut don't think it's any good?",
+    "start": 562.91,
+    "duration": 2.85
+  },
+  {
+    "text": "Then we need to\nconvince them it's good.",
+    "start": 565.76,
+    "duration": 1.98
+  },
+  {
+    "text": "Do they think it's good, but\nthey don't want to download it?",
+    "start": 567.74,
+    "duration": 2.85
+  },
+  {
+    "text": "Why might that be?",
+    "start": 570.59,
+    "duration": 1.02
+  },
+  {
+    "text": "Are they downloading\nit but not using it?",
+    "start": 571.61,
+    "duration": 1.89
+  },
+  {
+    "text": "That's a different problem.",
+    "start": 573.5,
+    "duration": 1.27
+  },
+  {
+    "text": "And so I think the first\nthing we need to do",
+    "start": 574.77,
+    "duration": 1.28
+  },
+  {
+    "text": "is diagnose that problem, right?",
+    "start": 576.05,
+    "duration": 1.68
+  },
+  {
+    "text": "Why aren't people changing?",
+    "start": 577.73,
+    "duration": 2.13
+  },
+  {
+    "text": "Where is the bottleneck\nin that process?",
+    "start": 579.86,
+    "duration": 2.5
+  },
+  {
+    "text": "And then begin to think\nabout how to solve it.",
+    "start": 582.36,
+    "duration": 2.64
+  },
+  {
+    "text": "ALLISON BEARD: So let's say\nthat the bottleneck is people",
+    "start": 585.0,
+    "duration": 4.31
+  },
+  {
+    "text": "aren't downloading the app.",
+    "start": 589.31,
+    "duration": 2.27
+  },
+  {
+    "text": "JONAH BERGER: Yeah, so I think\none question I would say is,",
+    "start": 591.58,
+    "duration": 2.56
+  },
+  {
+    "text": "well, what are they doing\nat the moment, right?",
+    "start": 594.14,
+    "duration": 2.03
+  },
+  {
+    "text": "So are they happily\ngoing into the bank,",
+    "start": 596.17,
+    "duration": 3.3
+  },
+  {
+    "text": "but they don't realize\nthat app exists?",
+    "start": 599.47,
+    "duration": 2.31
+  },
+  {
+    "text": "Or they think, ah,\ngod, I'm not sure it's",
+    "start": 601.78,
+    "duration": 2.97
+  },
+  {
+    "text": "going to be trustworthy enough.",
+    "start": 604.75,
+    "duration": 2.13
+  },
+  {
+    "text": "What's going to happen\nwith my personal data?",
+    "start": 606.88,
+    "duration": 2.55
+  },
+  {
+    "text": "If that's what they're\nuncertain about,",
+    "start": 609.43,
+    "duration": 1.74
+  },
+  {
+    "text": "then the question is how can\nI resolve that uncertainty?",
+    "start": 611.17,
+    "duration": 2.67
+  },
+  {
+    "text": "ALLISON BEARD: Right.",
+    "start": 613.84,
+    "duration": 0.33
+  },
+  {
+    "text": "JONAH BERGER: How\ncan I make them",
+    "start": 614.17,
+    "duration": 1.375
+  },
+  {
+    "text": "feel more comfortable that\nit's actually not a problem?",
+    "start": 615.545,
+    "duration": 2.895
+  },
+  {
+    "text": "And so one thing I\nthink a lot about",
+    "start": 618.44,
+    "duration": 1.58
+  },
+  {
+    "text": "in those type of situations\nis almost like a test",
+    "start": 620.02,
+    "duration": 2.52
+  },
+  {
+    "text": "drive for cars, right?",
+    "start": 622.54,
+    "duration": 1.59
+  },
+  {
+    "text": "So if you think about it, if a\ncar company said, hey, great.",
+    "start": 624.13,
+    "duration": 2.61
+  },
+  {
+    "text": "You like our car.",
+    "start": 626.74,
+    "duration": 0.995
+  },
+  {
+    "text": "You think you\nmight like our car.",
+    "start": 627.735,
+    "duration": 1.375
+  },
+  {
+    "text": "That's wonderful.",
+    "start": 629.11,
+    "duration": 1.14
+  },
+  {
+    "text": "Pay $30,000, and then\nwe'll let you check it out.",
+    "start": 630.25,
+    "duration": 3.04
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 633.29,
+    "duration": 0.5
+  },
+  {
+    "text": "You'd say, what do you mean?",
+    "start": 633.79,
+    "duration": 1.167
+  },
+  {
+    "text": "I'm not paying $30,000 for\na car before I figure out",
+    "start": 634.957,
+    "duration": 2.403
+  },
+  {
+    "text": "whether I like it.",
+    "start": 637.36,
+    "duration": 0.75
+  },
+  {
+    "text": "I want to sit inside\nand drive it and do",
+    "start": 638.11,
+    "duration": 2.01
+  },
+  {
+    "text": "all those other things.",
+    "start": 640.12,
+    "duration": 1.035
+  },
+  {
+    "text": "That's exactly what a\ntest drive does, right?",
+    "start": 641.155,
+    "duration": 1.875
+  },
+  {
+    "text": "A test drive reduces\nthat barrier,",
+    "start": 643.03,
+    "duration": 2.07
+  },
+  {
+    "text": "that upfront cost of trial.",
+    "start": 645.1,
+    "duration": 2.49
+  },
+  {
+    "text": "And so I would ask the same\nthing with the app, right?",
+    "start": 647.59,
+    "duration": 2.34
+  },
+  {
+    "text": "What is that cost for\nthose individuals that",
+    "start": 649.93,
+    "duration": 2.4
+  },
+  {
+    "text": "are not downloading the app?",
+    "start": 652.33,
+    "duration": 1.47
+  },
+  {
+    "text": "Is it they're\nworried about trust?",
+    "start": 653.8,
+    "duration": 1.65
+  },
+  {
+    "text": "OK, how can you show them how\nsafe their data is going to be?",
+    "start": 655.45,
+    "duration": 4.08
+  },
+  {
+    "text": "Is it concerns about not\nfeeling they know how to use it?",
+    "start": 659.53,
+    "duration": 2.598
+  },
+  {
+    "text": "How can you resolve\nthat uncertainty?",
+    "start": 662.128,
+    "duration": 1.542
+  },
+  {
+    "text": "Maybe you have a white-glove\nconcierge service",
+    "start": 663.67,
+    "duration": 1.98
+  },
+  {
+    "text": "where they come in one day and\nyou have a day every month,",
+    "start": 665.65,
+    "duration": 3.21
+  },
+  {
+    "text": "almost like the Apple Store,\nwhere they do training,",
+    "start": 668.86,
+    "duration": 2.19
+  },
+  {
+    "text": "where you train people\non how to use the app.",
+    "start": 671.05,
+    "duration": 2.38
+  },
+  {
+    "text": "Notice that the problem is\ntrust versus the problem",
+    "start": 673.43,
+    "duration": 2.51
+  },
+  {
+    "text": "is knowledge about using it.",
+    "start": 675.94,
+    "duration": 1.44
+  },
+  {
+    "text": "Those are very\ndifferent problems that",
+    "start": 677.38,
+    "duration": 1.8
+  },
+  {
+    "text": "need very different solutions.",
+    "start": 679.18,
+    "duration": 1.567
+  },
+  {
+    "text": "ALLISON BEARD: Second\nscenario, you're",
+    "start": 680.747,
+    "duration": 1.583
+  },
+  {
+    "text": "working on a project\nwith a group,",
+    "start": 682.33,
+    "duration": 1.5
+  },
+  {
+    "text": "and you want to take\nit in one direction.",
+    "start": 683.83,
+    "duration": 2.19
+  },
+  {
+    "text": "But your teammate is convinced\nyou should go another.",
+    "start": 686.02,
+    "duration": 2.95
+  },
+  {
+    "text": "JONAH BERGER: So I think\nthat idea of reactants",
+    "start": 688.97,
+    "duration": 2.24
+  },
+  {
+    "text": "that we talked about\nbefore is going",
+    "start": 691.21,
+    "duration": 2.37
+  },
+  {
+    "text": "to be important here as well.",
+    "start": 693.58,
+    "duration": 1.72
+  },
+  {
+    "text": "Obviously, they have\nsomething they want.",
+    "start": 695.3,
+    "duration": 2.13
+  },
+  {
+    "text": "And so you just telling\nthem about what you want",
+    "start": 697.43,
+    "duration": 2.37
+  },
+  {
+    "text": "isn't going to be enough.",
+    "start": 699.8,
+    "duration": 1.47
+  },
+  {
+    "text": "And if anything, if\nyou seem like you're",
+    "start": 701.27,
+    "duration": 1.88
+  },
+  {
+    "text": "advocating for what you want,\nthey're going to push back.",
+    "start": 703.15,
+    "duration": 2.89
+  },
+  {
+    "text": "And so first is to just\nstart with understanding.",
+    "start": 706.04,
+    "duration": 3.14
+  },
+  {
+    "text": "I talk a lot about in the\nbook about shrinking distance.",
+    "start": 709.18,
+    "duration": 2.94
+  },
+  {
+    "text": "Sometimes we think\nabout a choice.",
+    "start": 712.12,
+    "duration": 3.05
+  },
+  {
+    "text": "Like in this case, do we go\nwith my option or someone else's",
+    "start": 715.17,
+    "duration": 2.5
+  },
+  {
+    "text": "option, almost like a\nfootball field, right?",
+    "start": 717.67,
+    "duration": 2.22
+  },
+  {
+    "text": "One end zone is my option.",
+    "start": 719.89,
+    "duration": 1.8
+  },
+  {
+    "text": "The other end zone\nis their option.",
+    "start": 721.69,
+    "duration": 1.53
+  },
+  {
+    "text": "And various people\nin the organization",
+    "start": 723.22,
+    "duration": 1.583
+  },
+  {
+    "text": "may be arrayed on\nthat continuum.",
+    "start": 724.803,
+    "duration": 2.437
+  },
+  {
+    "text": "And the problem is, if\nwe ask for too much, we",
+    "start": 727.24,
+    "duration": 2.16
+  },
+  {
+    "text": "ask that person\nto do our option,",
+    "start": 729.4,
+    "duration": 1.482
+  },
+  {
+    "text": "they're going to\nsay, well, no way.",
+    "start": 730.882,
+    "duration": 1.458
+  },
+  {
+    "text": "That's on the other side\nof the football field.",
+    "start": 732.34,
+    "duration": 2.04
+  },
+  {
+    "text": "That's in my region\nof rejection.",
+    "start": 734.38,
+    "duration": 1.433
+  },
+  {
+    "text": "I'm not even going\nto consider it.",
+    "start": 735.813,
+    "duration": 1.417
+  },
+  {
+    "text": "It's too far away\nfrom where I am now.",
+    "start": 737.23,
+    "duration": 2.5
+  },
+  {
+    "text": "I'm not going to move that far.",
+    "start": 739.73,
+    "duration": 1.82
+  },
+  {
+    "text": "In those situations, a\ncouple of things come up.",
+    "start": 741.55,
+    "duration": 2.61
+  },
+  {
+    "text": "First, often we have to start\nby asking for less, right?",
+    "start": 744.16,
+    "duration": 3.12
+  },
+  {
+    "text": "Rather than starting\nby saying, hey,",
+    "start": 747.28,
+    "duration": 1.5
+  },
+  {
+    "text": "completely switch to my side.",
+    "start": 748.78,
+    "duration": 1.71
+  },
+  {
+    "text": "Ask for something that's\na lot closer to where",
+    "start": 750.49,
+    "duration": 2.1
+  },
+  {
+    "text": "they are already, and get them\nto move just a little bit.",
+    "start": 752.59,
+    "duration": 2.76
+  },
+  {
+    "text": "This has to, I think,\nkey benefits, right?",
+    "start": 755.35,
+    "duration": 1.95
+  },
+  {
+    "text": "One it gets them to move a\nlittle bit in your direction,",
+    "start": 757.3,
+    "duration": 2.557
+  },
+  {
+    "text": "but then it also makes what\nyou're suggesting originally",
+    "start": 759.857,
+    "duration": 2.333
+  },
+  {
+    "text": "seem less far away.",
+    "start": 762.19,
+    "duration": 2.01
+  },
+  {
+    "text": "I talked to a\ndoctor, for example,",
+    "start": 764.2,
+    "duration": 1.65
+  },
+  {
+    "text": "that was trying to get someone\nto lose a bunch of weight.",
+    "start": 765.85,
+    "duration": 2.777
+  },
+  {
+    "text": "So it was an overweight trucker.",
+    "start": 768.627,
+    "duration": 1.333
+  },
+  {
+    "text": "The guy was drinking like three\nliters of Mountain Dew a day.",
+    "start": 769.96,
+    "duration": 2.85
+  },
+  {
+    "text": "He was on the road all the time.",
+    "start": 772.81,
+    "duration": 1.393
+  },
+  {
+    "text": "The knee-jerk reaction\nin that situation",
+    "start": 774.203,
+    "duration": 1.667
+  },
+  {
+    "text": "is tell him not to drink\nany Mountain Dew, right?",
+    "start": 775.87,
+    "duration": 2.042
+  },
+  {
+    "text": "It's got all this sugar in it.",
+    "start": 777.912,
+    "duration": 1.528
+  },
+  {
+    "text": "It's like eating a couple\nof Snickers bars a day.",
+    "start": 779.44,
+    "duration": 1.62
+  },
+  {
+    "text": "It's terrible for you.",
+    "start": 781.06,
+    "duration": 0.75
+  },
+  {
+    "text": "Just tell him to\nquit cold turkey.",
+    "start": 781.81,
+    "duration": 1.56
+  },
+  {
+    "text": "Same thing in the\noffice context, right?",
+    "start": 783.37,
+    "duration": 1.793
+  },
+  {
+    "text": "Tell your colleague\njust to switch",
+    "start": 785.163,
+    "duration": 1.417
+  },
+  {
+    "text": "to your side, which obviously\nisn't going to work, right?",
+    "start": 786.58,
+    "duration": 2.792
+  },
+  {
+    "text": "It's so far in their\nregion of rejection,",
+    "start": 789.372,
+    "duration": 1.708
+  },
+  {
+    "text": "they're just going to\nsay no way outright.",
+    "start": 791.08,
+    "duration": 2.523
+  },
+  {
+    "text": "So instead what she did\nis she asked for less.",
+    "start": 793.603,
+    "duration": 1.917
+  },
+  {
+    "text": "She said, hey, rather than\ndrinking three liters a day,",
+    "start": 795.52,
+    "duration": 2.292
+  },
+  {
+    "text": "drink two.",
+    "start": 797.812,
+    "duration": 0.501
+  },
+  {
+    "text": "And so he grumbled and said, oh,\nI don't know if I want to do it",
+    "start": 798.313,
+    "duration": 2.667
+  },
+  {
+    "text": "and said, OK, fine.",
+    "start": 800.98,
+    "duration": 0.87
+  },
+  {
+    "text": "And a few weeks later came back,\nand had gotten it down to two.",
+    "start": 801.85,
+    "duration": 3.66
+  },
+  {
+    "text": "Then when he got\ndown to two, she",
+    "start": 805.51,
+    "duration": 1.41
+  },
+  {
+    "text": "said, OK, now go down to one.",
+    "start": 806.92,
+    "duration": 1.533
+  },
+  {
+    "text": "And then when he came\nback a few months later,",
+    "start": 808.453,
+    "duration": 1.917
+  },
+  {
+    "text": "once he moved from one,\nmoved from one to zero.",
+    "start": 810.37,
+    "duration": 2.07
+  },
+  {
+    "text": "And it took a while, right,\ndidn't happen right away,",
+    "start": 812.44,
+    "duration": 2.225
+  },
+  {
+    "text": "didn't happen in\na day or a week.",
+    "start": 814.665,
+    "duration": 1.375
+  },
+  {
+    "text": "But this guy's\nlost over 25 pounds",
+    "start": 816.04,
+    "duration": 2.13
+  },
+  {
+    "text": "by doing this because it's not\njust about asking for less.",
+    "start": 818.17,
+    "duration": 2.73
+  },
+  {
+    "text": "It's about asking for less\nand then asking for more.",
+    "start": 820.9,
+    "duration": 3.27
+  },
+  {
+    "text": "ALLISON BEARD: So\nthird scenario,",
+    "start": 824.17,
+    "duration": 1.74
+  },
+  {
+    "text": "you want a raise or\npromotion and are",
+    "start": 825.91,
+    "duration": 2.248
+  },
+  {
+    "text": "trying to convince your\nboss that you deserve it.",
+    "start": 828.158,
+    "duration": 2.042
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 830.2,
+    "duration": 1.75
+  },
+  {
+    "text": "JONAH BERGER: Yeah, I\nthink a good one for this",
+    "start": 831.95,
+    "duration": 2.57
+  },
+  {
+    "text": "goes back to providing the menu\nthat we talked a little bit",
+    "start": 834.52,
+    "duration": 2.52
+  },
+  {
+    "text": "about before, right?",
+    "start": 837.04,
+    "duration": 1.23
+  },
+  {
+    "text": "If you give your\nboss one option,",
+    "start": 838.27,
+    "duration": 1.56
+  },
+  {
+    "text": "you say, I want to raise.",
+    "start": 839.83,
+    "duration": 1.32
+  },
+  {
+    "text": "The boss is going\nto think about no.",
+    "start": 841.15,
+    "duration": 1.77
+  },
+  {
+    "text": "So you can say something\nlike, hey boss, I'd",
+    "start": 842.92,
+    "duration": 3.3
+  },
+  {
+    "text": "either like a raise, or\nI'd like more days off.",
+    "start": 846.22,
+    "duration": 2.463
+  },
+  {
+    "text": "And by the way, I'd start\nwith something else,",
+    "start": 848.683,
+    "duration": 1.917
+  },
+  {
+    "text": "showing your value to the\norganization saying, hey,",
+    "start": 850.6,
+    "duration": 2.25
+  },
+  {
+    "text": "I've been here this long,\nblah, blah, blah, blah, blah.",
+    "start": 852.85,
+    "duration": 3.54
+  },
+  {
+    "text": "I'd appreciate something,\neither more compensation,",
+    "start": 856.39,
+    "duration": 4.11
+  },
+  {
+    "text": "a raise, or more days\noff or more equity",
+    "start": 860.5,
+    "duration": 2.94
+  },
+  {
+    "text": "or more control, something else.",
+    "start": 863.44,
+    "duration": 1.92
+  },
+  {
+    "text": "And what that does, again, is\nthat gives that person choice",
+    "start": 865.36,
+    "duration": 2.91
+  },
+  {
+    "text": "rather than feeling like\nyou've barged in their office",
+    "start": 868.27,
+    "duration": 2.25
+  },
+  {
+    "text": "and you've told them what to do.",
+    "start": 870.52,
+    "duration": 1.35
+  },
+  {
+    "text": "Because you're\nencouraging them to focus",
+    "start": 871.87,
+    "duration": 2.07
+  },
+  {
+    "text": "on two things you\nlike, they're less",
+    "start": 873.94,
+    "duration": 2.37
+  },
+  {
+    "text": "likely to think about that third\nthing, which is just saying no.",
+    "start": 876.31,
+    "duration": 3.92
+  },
+  {
+    "text": "ALLISON BEARD: So often when\nwe talk about influence,",
+    "start": 880.23,
+    "duration": 2.94
+  },
+  {
+    "text": "we hear it needs to appeal to\nboth the head and the heart.",
+    "start": 883.17,
+    "duration": 3.78
+  },
+  {
+    "text": "So you're presenting\ndata and you're",
+    "start": 886.95,
+    "duration": 1.83
+  },
+  {
+    "text": "appealing to people's emotions.",
+    "start": 888.78,
+    "duration": 2.38
+  },
+  {
+    "text": "How does this play in into\novercoming the hurdles you're",
+    "start": 891.16,
+    "duration": 3.35
+  },
+  {
+    "text": "talking about?",
+    "start": 894.51,
+    "duration": 1.78
+  },
+  {
+    "text": "JONAH BERGER: Yeah, I\nthink emotion is certainly",
+    "start": 896.29,
+    "duration": 2.88
+  },
+  {
+    "text": "one of the thing that's\nwrapped up in this idea.",
+    "start": 899.17,
+    "duration": 3.972
+  },
+  {
+    "text": "There's lots of\nresearch that shows",
+    "start": 903.142,
+    "duration": 1.458
+  },
+  {
+    "text": "that people value\nthings they're doing",
+    "start": 904.6,
+    "duration": 1.71
+  },
+  {
+    "text": "already more than new things.",
+    "start": 906.31,
+    "duration": 2.49
+  },
+  {
+    "text": "So a famous study, for\nexample, asked people, hey,",
+    "start": 908.8,
+    "duration": 3.06
+  },
+  {
+    "text": "look at this product.",
+    "start": 911.86,
+    "duration": 1.89
+  },
+  {
+    "text": "Imagine you own it.",
+    "start": 913.75,
+    "duration": 0.838
+  },
+  {
+    "text": "How much would you sell it for?",
+    "start": 914.588,
+    "duration": 1.292
+  },
+  {
+    "text": "They ask another set of people,\nimagine you don't own it.",
+    "start": 915.88,
+    "duration": 2.38
+  },
+  {
+    "text": "how much would you buy it for?",
+    "start": 918.26,
+    "duration": 1.25
+  },
+  {
+    "text": "Research finds, if you already\nhave it, it's the status quo,",
+    "start": 919.51,
+    "duration": 2.88
+  },
+  {
+    "text": "you're doing it already,\nyou value it a lot more.",
+    "start": 922.39,
+    "duration": 2.31
+  },
+  {
+    "text": "We're attached to old things.",
+    "start": 924.7,
+    "duration": 1.62
+  },
+  {
+    "text": "There's even some nice research\non home buyers and sellers,",
+    "start": 926.32,
+    "duration": 3.03
+  },
+  {
+    "text": "for example.",
+    "start": 929.35,
+    "duration": 0.85
+  },
+  {
+    "text": "The longer you've lived\nin a home, the more money",
+    "start": 930.2,
+    "duration": 2.63
+  },
+  {
+    "text": "you think it's worth,\neven controlling",
+    "start": 932.83,
+    "duration": 1.89
+  },
+  {
+    "text": "for its actual value.",
+    "start": 934.72,
+    "duration": 1.07
+  },
+  {
+    "text": "You become emotionally\nattached to it.",
+    "start": 935.79,
+    "duration": 1.895
+  },
+  {
+    "text": "But we're not only\nattached to the old.",
+    "start": 937.685,
+    "duration": 1.625
+  },
+  {
+    "text": "We're also scared of the new.",
+    "start": 939.31,
+    "duration": 2.02
+  },
+  {
+    "text": "There's a lot of work on\nneophobia, for example.",
+    "start": 941.33,
+    "duration": 2.352
+  },
+  {
+    "text": "It says, look, we're\nscared that this new thing",
+    "start": 943.682,
+    "duration": 1.958
+  },
+  {
+    "text": "is going to work out.",
+    "start": 945.64,
+    "duration": 1.142
+  },
+  {
+    "text": "We're anxious about\nwhether it's actually",
+    "start": 946.782,
+    "duration": 1.708
+  },
+  {
+    "text": "going to be successful.",
+    "start": 948.49,
+    "duration": 1.17
+  },
+  {
+    "text": "Any time we don't know\nwhat's going to happen,",
+    "start": 949.66,
+    "duration": 2.17
+  },
+  {
+    "text": "we tend to want to hit\nthe pause button, right?",
+    "start": 951.83,
+    "duration": 2.27
+  },
+  {
+    "text": "We're scared of new things.",
+    "start": 954.1,
+    "duration": 1.83
+  },
+  {
+    "text": "We're scared of stuff\nwe don't understand.",
+    "start": 955.93,
+    "duration": 2.01
+  },
+  {
+    "text": "We're scared of things that\nare different from what we're",
+    "start": 957.94,
+    "duration": 1.71
+  },
+  {
+    "text": "doing already, both\nthat they might be worse",
+    "start": 959.65,
+    "duration": 1.833
+  },
+  {
+    "text": "than what we're already\ndoing, but also they",
+    "start": 961.483,
+    "duration": 1.834
+  },
+  {
+    "text": "may not be better.",
+    "start": 963.317,
+    "duration": 0.803
+  },
+  {
+    "text": "And that anxiety,\nthat uncertainty,",
+    "start": 964.12,
+    "duration": 1.8
+  },
+  {
+    "text": "often stems action.",
+    "start": 965.92,
+    "duration": 1.193
+  },
+  {
+    "text": "ALLISON BEARD: Do\nthese techniques",
+    "start": 967.113,
+    "duration": 1.417
+  },
+  {
+    "text": "work differently\ndepending on who has",
+    "start": 968.53,
+    "duration": 2.88
+  },
+  {
+    "text": "more power in the situation?",
+    "start": 971.41,
+    "duration": 1.92
+  },
+  {
+    "text": "Can someone who's low on\nthe totem pole use them?",
+    "start": 973.33,
+    "duration": 4.95
+  },
+  {
+    "text": "And then does a\nboss even need to?",
+    "start": 978.28,
+    "duration": 1.707
+  },
+  {
+    "text": "JONAH BERGER: What's definitely\ntrue is that the higher up you",
+    "start": 979.987,
+    "duration": 2.583
+  },
+  {
+    "text": "are in an organization the more\npower you have the more ability",
+    "start": 982.57,
+    "duration": 3.33
+  },
+  {
+    "text": "you have to legislate\nsomething, the more ability",
+    "start": 985.9,
+    "duration": 2.07
+  },
+  {
+    "text": "you have to say this is\njust what we're doing.",
+    "start": 987.97,
+    "duration": 1.917
+  },
+  {
+    "text": "I don't care whether you\nwant to do this or not.",
+    "start": 989.887,
+    "duration": 2.103
+  },
+  {
+    "text": "What I say goes.",
+    "start": 991.99,
+    "duration": 1.53
+  },
+  {
+    "text": "I think, unfortunately, as\nmany bosses who are listening",
+    "start": 993.52,
+    "duration": 3.16
+  },
+  {
+    "text": "are probably well aware,\nthey may say that,",
+    "start": 996.68,
+    "duration": 2.278
+  },
+  {
+    "text": "but it doesn't mean\nthe rank and file move.",
+    "start": 998.958,
+    "duration": 1.792
+  },
+  {
+    "text": "What I think is nice about\nthese ideas is, whether you're",
+    "start": 1000.75,
+    "duration": 2.94
+  },
+  {
+    "text": "the lowest employee on the\ntotem pole in our organization",
+    "start": 1003.69,
+    "duration": 3.51
+  },
+  {
+    "text": "or you're the boss and\nyou can legislate things,",
+    "start": 1007.2,
+    "duration": 2.83
+  },
+  {
+    "text": "I think these tools are equally\nuseful because to really change",
+    "start": 1010.03,
+    "duration": 2.78
+  },
+  {
+    "text": "minds we have to\nunderstand those barriers.",
+    "start": 1012.81,
+    "duration": 1.938
+  },
+  {
+    "text": "We have to send the psychology\nthat's preventing change",
+    "start": 1014.748,
+    "duration": 2.292
+  },
+  {
+    "text": "and how to mitigate it.",
+    "start": 1017.04,
+    "duration": 1.32
+  },
+  {
+    "text": "ALLISON BEARD: So\nyour first two books",
+    "start": 1018.36,
+    "duration": 1.583
+  },
+  {
+    "text": "were about how ideas\nand products catch on,",
+    "start": 1019.943,
+    "duration": 2.077
+  },
+  {
+    "text": "how they become contagious, and\nhow invisible influences can",
+    "start": 1022.02,
+    "duration": 3.99
+  },
+  {
+    "text": "shape our decisions.",
+    "start": 1026.01,
+    "duration": 1.77
+  },
+  {
+    "text": "Is the idea between\nyour work on \"Catalyst\"",
+    "start": 1027.78,
+    "duration": 3.569
+  },
+  {
+    "text": "that they're also supposed\nto be so subtle that we",
+    "start": 1031.349,
+    "duration": 3.661
+  },
+  {
+    "text": "don't notice them?",
+    "start": 1035.01,
+    "duration": 0.9
+  },
+  {
+    "text": "And all of a sudden, everyone's\nbuying into our ideas,",
+    "start": 1035.91,
+    "duration": 2.79
+  },
+  {
+    "text": "and everyone wants to buy\nour products and services.",
+    "start": 1038.7,
+    "duration": 2.772
+  },
+  {
+    "text": "JONAH BERGER: I\nthink what's really",
+    "start": 1041.472,
+    "duration": 1.458
+  },
+  {
+    "text": "neat is, if you look\nat success stories",
+    "start": 1042.93,
+    "duration": 2.399
+  },
+  {
+    "text": "in a variety of industries, you\ntend to see the same patterns.",
+    "start": 1045.329,
+    "duration": 3.671
+  },
+  {
+    "text": "So for this book, yes, I\ninterviewed great bosses,",
+    "start": 1049.0,
+    "duration": 2.84
+  },
+  {
+    "text": "transformational leaders.",
+    "start": 1051.84,
+    "duration": 1.35
+  },
+  {
+    "text": "But I also talked about\nregular Joes and Janes",
+    "start": 1053.19,
+    "duration": 2.43
+  },
+  {
+    "text": "who got their boss to\nadopt a new project.",
+    "start": 1055.62,
+    "duration": 2.19
+  },
+  {
+    "text": "I talked to startup founders\nwho got their stuff to catch on.",
+    "start": 1057.81,
+    "duration": 3.46
+  },
+  {
+    "text": "I talked to hostage\nnegotiators who",
+    "start": 1061.27,
+    "duration": 1.817
+  },
+  {
+    "text": "figured out how to get people\nto come out with their hands up.",
+    "start": 1063.087,
+    "duration": 2.583
+  },
+  {
+    "text": "And across this diverse\nset of situations,",
+    "start": 1065.67,
+    "duration": 2.49
+  },
+  {
+    "text": "the same principles\ncome up again and again.",
+    "start": 1068.16,
+    "duration": 3.22
+  },
+  {
+    "text": "And I think some of us may\nbe aware of some of them.",
+    "start": 1071.38,
+    "duration": 2.27
+  },
+  {
+    "text": "We may have even\ndone something that",
+    "start": 1073.65,
+    "duration": 1.5
+  },
+  {
+    "text": "was successful in\none particular case.",
+    "start": 1075.15,
+    "duration": 1.98
+  },
+  {
+    "text": "But we often haven't\ncodified them",
+    "start": 1077.13,
+    "duration": 1.56
+  },
+  {
+    "text": "in a way that allows us\nto really apply them.",
+    "start": 1078.69,
+    "duration": 2.508
+  },
+  {
+    "text": "And so that's why\nI like a framework.",
+    "start": 1081.198,
+    "duration": 1.542
+  },
+  {
+    "text": "This book has a\nframework to it that I",
+    "start": 1082.74,
+    "duration": 2.363
+  },
+  {
+    "text": "think allows us\nto say, well look,",
+    "start": 1085.103,
+    "duration": 1.417
+  },
+  {
+    "text": "let me diagnose that problem.",
+    "start": 1086.52,
+    "duration": 1.585
+  },
+  {
+    "text": "Let me figure out what the\nbarriers-- which of these five",
+    "start": 1088.105,
+    "duration": 2.375
+  },
+  {
+    "text": "barriers are really getting\nin the way, and then",
+    "start": 1090.48,
+    "duration": 2.165
+  },
+  {
+    "text": "figure out which\nof the solutions",
+    "start": 1092.645,
+    "duration": 1.375
+  },
+  {
+    "text": "underneath those\nbarriers I can use.",
+    "start": 1094.02,
+    "duration": 1.505
+  },
+  {
+    "text": "ALLISON BEARD: Do\nyou risk people",
+    "start": 1095.525,
+    "duration": 1.375
+  },
+  {
+    "text": "figuring it out and feeling\nlike they're being manipulated?",
+    "start": 1096.9,
+    "duration": 3.75
+  },
+  {
+    "text": "JONAH BERGER: I think that's\ntrue of anything that we do.",
+    "start": 1100.65,
+    "duration": 2.71
+  },
+  {
+    "text": "And so I think some of these\ntools are a lot more subtle.",
+    "start": 1103.36,
+    "duration": 3.74
+  },
+  {
+    "text": "One of the ideas I talk\nabout is asking rather than",
+    "start": 1107.1,
+    "duration": 2.82
+  },
+  {
+    "text": "telling, right?",
+    "start": 1109.92,
+    "duration": 0.87
+  },
+  {
+    "text": "Rather than telling someone,\nhey, support my project",
+    "start": 1110.79,
+    "duration": 2.28
+  },
+  {
+    "text": "or do the thing I want,\nask them some questions.",
+    "start": 1113.07,
+    "duration": 2.367
+  },
+  {
+    "text": "I was talking to a guy\nwho was trying to get",
+    "start": 1115.437,
+    "duration": 1.833
+  },
+  {
+    "text": "students to study more, right?",
+    "start": 1117.27,
+    "duration": 1.443
+  },
+  {
+    "text": "He runs a test prep company.",
+    "start": 1118.713,
+    "duration": 1.167
+  },
+  {
+    "text": "He's trying to get\nstudents to study.",
+    "start": 1119.88,
+    "duration": 1.29
+  },
+  {
+    "text": "He finds if he\ntells them, hey, you",
+    "start": 1121.17,
+    "duration": 1.458
+  },
+  {
+    "text": "need to study more,\nthey say, no thanks.",
+    "start": 1122.628,
+    "duration": 1.722
+  },
+  {
+    "text": "Just like in that\nmeeting, if we say,",
+    "start": 1124.35,
+    "duration": 1.33
+  },
+  {
+    "text": "hey, we should do this project.",
+    "start": 1125.68,
+    "duration": 0.98
+  },
+  {
+    "text": "Everyone says, no, no.",
+    "start": 1126.66,
+    "duration": 0.99
+  },
+  {
+    "text": "They think about the\nreasons it's wrong.",
+    "start": 1127.65,
+    "duration": 1.5
+  },
+  {
+    "text": "So instead what he started doing\nis asking questions, right?",
+    "start": 1129.15,
+    "duration": 2.52
+  },
+  {
+    "text": "Well, why are you here at\nthis test prep company?",
+    "start": 1131.67,
+    "duration": 2.22
+  },
+  {
+    "text": "Where are you hoping\nto get into schools?",
+    "start": 1133.89,
+    "duration": 2.11
+  },
+  {
+    "text": "What grades do you\nneed in and test",
+    "start": 1136.0,
+    "duration": 1.565
+  },
+  {
+    "text": "scores do you need to\nget into those schools?",
+    "start": 1137.565,
+    "duration": 1.875
+  },
+  {
+    "text": "How do you get those scores?",
+    "start": 1139.44,
+    "duration": 1.38
+  },
+  {
+    "text": "And then eventually,\nhow many hours",
+    "start": 1140.82,
+    "duration": 1.538
+  },
+  {
+    "text": "you need to study to get there?",
+    "start": 1142.358,
+    "duration": 1.292
+  },
+  {
+    "text": "And so by asking\nthe right questions,",
+    "start": 1143.65,
+    "duration": 1.55
+  },
+  {
+    "text": "by guiding the\nseries of questions,",
+    "start": 1145.2,
+    "duration": 1.8
+  },
+  {
+    "text": "you're allowing people to\nput that stake in the ground",
+    "start": 1147.0,
+    "duration": 2.52
+  },
+  {
+    "text": "that then they're committing\nto the conclusion, right?",
+    "start": 1149.52,
+    "duration": 2.262
+  },
+  {
+    "text": "If we're a boss, we're trying\nto get people to work harder,",
+    "start": 1151.782,
+    "duration": 2.458
+  },
+  {
+    "text": "we can say, hey, we need to\nwork harder, put more hours in.",
+    "start": 1154.24,
+    "duration": 2.54
+  },
+  {
+    "text": "Everyone's going to say,\nI don't want to do that.",
+    "start": 1156.78,
+    "duration": 1.66
+  },
+  {
+    "text": "But if in a meeting we say,\nhey, what kind of organization",
+    "start": 1158.44,
+    "duration": 2.3
+  },
+  {
+    "text": "do we want to be,\na good organization",
+    "start": 1160.74,
+    "duration": 1.32
+  },
+  {
+    "text": "or a great organization?",
+    "start": 1162.06,
+    "duration": 1.15
+  },
+  {
+    "text": "We ask a question.",
+    "start": 1163.21,
+    "duration": 1.04
+  },
+  {
+    "text": "People aren't going to answer\nthat question saying we",
+    "start": 1164.25,
+    "duration": 1.86
+  },
+  {
+    "text": "want to be a good organization.",
+    "start": 1166.11,
+    "duration": 0.96
+  },
+  {
+    "text": "No, we want to be\na great company.",
+    "start": 1167.07,
+    "duration": 1.5
+  },
+  {
+    "text": "OK, well, what do we need\nto do to get there, right?",
+    "start": 1168.57,
+    "duration": 2.742
+  },
+  {
+    "text": "And by asking that\nquestion, you're",
+    "start": 1171.312,
+    "duration": 1.458
+  },
+  {
+    "text": "inviting people to participate.",
+    "start": 1172.77,
+    "duration": 1.59
+  },
+  {
+    "text": "They're not only coming\nup with solutions,",
+    "start": 1174.36,
+    "duration": 1.84
+  },
+  {
+    "text": "but they're coming\nup with solutions",
+    "start": 1176.2,
+    "duration": 0.8
+  },
+  {
+    "text": "that are their solutions,\nwhich is going to make it",
+    "start": 1177.0,
+    "duration": 2.19
+  },
+  {
+    "text": "a lot harder later\non for them to say",
+    "start": 1179.19,
+    "duration": 1.59
+  },
+  {
+    "text": "they don't like that\nsolution because they came up",
+    "start": 1180.78,
+    "duration": 2.083
+  },
+  {
+    "text": "with it, right?",
+    "start": 1182.863,
+    "duration": 0.767
+  },
+  {
+    "text": "And notice, you're not\nasking any questions.",
+    "start": 1183.63,
+    "duration": 2.43
+  },
+  {
+    "text": "You're not saying, hey guys,\nwhat do you want to do?",
+    "start": 1186.06,
+    "duration": 2.2
+  },
+  {
+    "text": "You're picking those\nset of questions",
+    "start": 1188.26,
+    "duration": 1.64
+  },
+  {
+    "text": "to guide the journey, similar\nto guided choices, right?",
+    "start": 1189.9,
+    "duration": 2.58
+  },
+  {
+    "text": "You're asking the right\nquestions to shape the path",
+    "start": 1192.48,
+    "duration": 2.46
+  },
+  {
+    "text": "and encourage him to get to\na conclusion that you want.",
+    "start": 1194.94,
+    "duration": 2.575
+  },
+  {
+    "text": "When they put that\nstake in the ground,",
+    "start": 1197.515,
+    "duration": 1.625
+  },
+  {
+    "text": "they're going to commit\nto it and they're",
+    "start": 1199.14,
+    "duration": 1.08
+  },
+  {
+    "text": "going be much more\nlikely to go along.",
+    "start": 1200.22,
+    "duration": 1.583
+  },
+  {
+    "text": "ALLISON BEARD: So\nlast question, let's",
+    "start": 1201.803,
+    "duration": 1.584
+  },
+  {
+    "text": "talk about the\nflip side of this.",
+    "start": 1203.387,
+    "duration": 1.393
+  },
+  {
+    "text": "What if you're the\nintractable one, you're rigid,",
+    "start": 1204.78,
+    "duration": 4.74
+  },
+  {
+    "text": "stuck in your ways, you\ndon't want to change?",
+    "start": 1209.52,
+    "duration": 1.95
+  },
+  {
+    "text": "How do you recognize\nthat and fix it?",
+    "start": 1211.47,
+    "duration": 2.37
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 1213.84,
+    "duration": 1.477
+  },
+  {
+    "text": "JONAH BERGER: I think I am the\nintractable one in my own life,",
+    "start": 1215.317,
+    "duration": 2.583
+  },
+  {
+    "text": "so I'm well aware of this.",
+    "start": 1217.9,
+    "duration": 1.71
+  },
+  {
+    "text": "Talk about the status quo bias.",
+    "start": 1219.61,
+    "duration": 1.49
+  },
+  {
+    "text": "I don't know.",
+    "start": 1221.1,
+    "duration": 0.61
+  },
+  {
+    "text": "A few years ago,\nI had an iPhone 4.",
+    "start": 1221.71,
+    "duration": 1.67
+  },
+  {
+    "text": "I'd had it for probably\nfour or five years.",
+    "start": 1223.38,
+    "duration": 3.36
+  },
+  {
+    "text": "Loved that thing to death.",
+    "start": 1226.74,
+    "duration": 1.65
+  },
+  {
+    "text": "I was running out of memory.",
+    "start": 1228.39,
+    "duration": 1.53
+  },
+  {
+    "text": "I needed to get a new phone.",
+    "start": 1229.92,
+    "duration": 1.26
+  },
+  {
+    "text": "I didn't.",
+    "start": 1231.18,
+    "duration": 0.69
+  },
+  {
+    "text": "I started deleting things\non my phone to create space.",
+    "start": 1231.87,
+    "duration": 2.01
+  },
+  {
+    "text": "ALLISON BEARD: Let me tell you.",
+    "start": 1233.88,
+    "duration": 0.42
+  },
+  {
+    "text": "This really resonates with me.",
+    "start": 1234.3,
+    "duration": 1.29
+  },
+  {
+    "text": "I was the last person\nin our organization",
+    "start": 1235.59,
+    "duration": 2.55
+  },
+  {
+    "text": "to have a BlackBerry.",
+    "start": 1238.14,
+    "duration": 1.41
+  },
+  {
+    "text": "JONAH BERGER: Oh, yeah.",
+    "start": 1239.55,
+    "duration": 0.96
+  },
+  {
+    "text": "It's amazing.",
+    "start": 1240.51,
+    "duration": 1.26
+  },
+  {
+    "text": "I went months of being able to\nbasically not use any features",
+    "start": 1241.77,
+    "duration": 4.29
+  },
+  {
+    "text": "on my phone because I liked it.",
+    "start": 1246.06,
+    "duration": 1.292
+  },
+  {
+    "text": "I even looked at the new\nphone, but it was too big,",
+    "start": 1247.352,
+    "duration": 2.125
+  },
+  {
+    "text": "so I didn't want it.",
+    "start": 1249.477,
+    "duration": 0.933
+  },
+  {
+    "text": "I wanted to--\nhopefully, maybe they'll",
+    "start": 1250.41,
+    "duration": 1.653
+  },
+  {
+    "text": "come out with a new\nversion that looks exactly",
+    "start": 1252.063,
+    "duration": 1.917
+  },
+  {
+    "text": "like my new phone.",
+    "start": 1253.98,
+    "duration": 1.2
+  },
+  {
+    "text": "It'll just have\nmore memory, right?",
+    "start": 1255.18,
+    "duration": 1.83
+  },
+  {
+    "text": "I even missed a flight.",
+    "start": 1257.01,
+    "duration": 1.135
+  },
+  {
+    "text": "I finally broke down.",
+    "start": 1258.145,
+    "duration": 0.875
+  },
+  {
+    "text": "I buy a new phone.",
+    "start": 1259.02,
+    "duration": 0.81
+  },
+  {
+    "text": "You think that'd\nbe the end of it.",
+    "start": 1259.83,
+    "duration": 1.417
+  },
+  {
+    "text": "I waited three more months\nbefore I actually used",
+    "start": 1261.247,
+    "duration": 2.51
+  },
+  {
+    "text": "that new phone because\nI kept hoping, right?",
+    "start": 1263.757,
+    "duration": 1.833
+  },
+  {
+    "text": "And so I, more\nthan anybody else,",
+    "start": 1265.59,
+    "duration": 1.63
+  },
+  {
+    "text": "I'm susceptible to\nstatus quo bias.",
+    "start": 1267.22,
+    "duration": 1.62
+  },
+  {
+    "text": "We all are.",
+    "start": 1268.84,
+    "duration": 0.567
+  },
+  {
+    "text": "I think sometimes putting a\nname to some of these things",
+    "start": 1269.407,
+    "duration": 2.333
+  },
+  {
+    "text": "helps us see.",
+    "start": 1271.74,
+    "duration": 0.96
+  },
+  {
+    "text": "It's not that I'm crazy\nor I'm stuck in my ways.",
+    "start": 1272.7,
+    "duration": 2.7
+  },
+  {
+    "text": "I'm actually, I'm\nsusceptible to this",
+    "start": 1275.4,
+    "duration": 1.71
+  },
+  {
+    "text": "because I have loss\naversion, right?",
+    "start": 1277.11,
+    "duration": 1.5
+  },
+  {
+    "text": "I'm attached to old things\nbecause the upsides aren't",
+    "start": 1278.61,
+    "duration": 2.55
+  },
+  {
+    "text": "worth as much as the downsides.",
+    "start": 1281.16,
+    "duration": 1.83
+  },
+  {
+    "text": "By understanding it, I\nthink we can not only",
+    "start": 1282.99,
+    "duration": 2.4
+  },
+  {
+    "text": "understand how to\nchange others minds",
+    "start": 1285.39,
+    "duration": 1.762
+  },
+  {
+    "text": "but how to change our\nown and our own behavior.",
+    "start": 1287.152,
+    "duration": 1.958
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1289.11,
+    "duration": 3.07
+  },
+  {
+    "text": "ALLISON BEARD: So as\nI said, we decided",
+    "start": 1292.18,
+    "duration": 1.82
+  },
+  {
+    "text": "to call Jonah again\nand talk about what",
+    "start": 1294.0,
+    "duration": 1.95
+  },
+  {
+    "text": "he's been seeing in\nrecent months now",
+    "start": 1295.95,
+    "duration": 2.52
+  },
+  {
+    "text": "that we're in a\npost-COVID world.",
+    "start": 1298.47,
+    "duration": 1.71
+  },
+  {
+    "text": "Jonah, thanks so much\nfor joining us again.",
+    "start": 1300.18,
+    "duration": 1.913
+  },
+  {
+    "text": "JONAH BERGER: Thanks\nfor having me back.",
+    "start": 1302.093,
+    "duration": 1.667
+  },
+  {
+    "text": "ALLISON BEARD: We\ncan't really address",
+    "start": 1303.76,
+    "duration": 1.583
+  },
+  {
+    "text": "this topic in a time of\nCOVID without talking",
+    "start": 1305.343,
+    "duration": 2.337
+  },
+  {
+    "text": "about public health.",
+    "start": 1307.68,
+    "duration": 2.35
+  },
+  {
+    "text": "How have you seen governments\neffectively and ineffectively",
+    "start": 1310.03,
+    "duration": 3.17
+  },
+  {
+    "text": "guide their citizens\nduring this pandemic?",
+    "start": 1313.2,
+    "duration": 2.805
+  },
+  {
+    "text": "JONAH BERGER: Yeah,\nunfortunately, most of it",
+    "start": 1316.005,
+    "duration": 1.875
+  },
+  {
+    "text": "has been quite\nineffective, right?",
+    "start": 1317.88,
+    "duration": 1.62
+  },
+  {
+    "text": "We've seen a lot of push\nmessaging from wear your mask",
+    "start": 1319.5,
+    "duration": 4.47
+  },
+  {
+    "text": "and stay home and\ndon't do this and do",
+    "start": 1323.97,
+    "duration": 3.0
+  },
+  {
+    "text": "that and a lot of telling\npeople what to do,",
+    "start": 1326.97,
+    "duration": 2.14
+  },
+  {
+    "text": "which, as we talked about,\ndoesn't really work.",
+    "start": 1329.11,
+    "duration": 2.51
+  },
+  {
+    "text": "It's been interesting\nto be talking",
+    "start": 1331.62,
+    "duration": 2.52
+  },
+  {
+    "text": "about these ideas\nat this time point",
+    "start": 1334.14,
+    "duration": 1.89
+  },
+  {
+    "text": "because I think\nnothing has shown",
+    "start": 1336.03,
+    "duration": 3.21
+  },
+  {
+    "text": "the challenges of reactants\nmore than recent events.",
+    "start": 1339.24,
+    "duration": 3.39
+  },
+  {
+    "text": "When you push people,\nthey push back.",
+    "start": 1342.63,
+    "duration": 1.62
+  },
+  {
+    "text": "Even if someone might have\nbeen willing to wear a mask",
+    "start": 1344.25,
+    "duration": 2.91
+  },
+  {
+    "text": "or stay at home or do something\nelse, because you told them to,",
+    "start": 1347.16,
+    "duration": 2.67
+  },
+  {
+    "text": "now they're less\ninterested in doing it.",
+    "start": 1349.83,
+    "duration": 2.05
+  },
+  {
+    "text": "And so what I've seen has\nbeen a lot more effective",
+    "start": 1351.88,
+    "duration": 2.84
+  },
+  {
+    "text": "is some of the things we\ntalked about more generally,",
+    "start": 1354.72,
+    "duration": 2.52
+  },
+  {
+    "text": "things like highlighting a gap\nbetween attitudes and actions.",
+    "start": 1357.24,
+    "duration": 2.79
+  },
+  {
+    "text": "I was talking to a colleague\nwho was worried about all",
+    "start": 1360.03,
+    "duration": 5.25
+  },
+  {
+    "text": "their folks at the office, and\nthey're slowly trickling back",
+    "start": 1365.28,
+    "duration": 2.523
+  },
+  {
+    "text": "in some way, shape, or form.",
+    "start": 1367.803,
+    "duration": 1.167
+  },
+  {
+    "text": "People aren't\nwearing masks enough.",
+    "start": 1368.97,
+    "duration": 1.458
+  },
+  {
+    "text": "And rather than telling\nthem, hey, why don't you",
+    "start": 1370.428,
+    "duration": 2.022
+  },
+  {
+    "text": "wear a mask at the office?",
+    "start": 1372.45,
+    "duration": 1.083
+  },
+  {
+    "text": "Why don't you say, hey,\nif you brought your parent",
+    "start": 1373.533,
+    "duration": 2.367
+  },
+  {
+    "text": "or grandparent to the\noffice, if you brought",
+    "start": 1375.9,
+    "duration": 1.47
+  },
+  {
+    "text": "your child to the office, would\nyou want everyone to be wearing",
+    "start": 1377.37,
+    "duration": 2.31
+  },
+  {
+    "text": "masks?",
+    "start": 1379.68,
+    "duration": 0.66
+  },
+  {
+    "text": "Probably.",
+    "start": 1380.34,
+    "duration": 1.38
+  },
+  {
+    "text": "OK, well then, why aren't you?",
+    "start": 1381.72,
+    "duration": 1.99
+  },
+  {
+    "text": "And so again, not\ntelling them what to do,",
+    "start": 1383.71,
+    "duration": 2.443
+  },
+  {
+    "text": "not pushing them\nin one direction,",
+    "start": 1386.153,
+    "duration": 1.417
+  },
+  {
+    "text": "but really identifying\nthe barriers to change",
+    "start": 1387.57,
+    "duration": 2.04
+  },
+  {
+    "text": "and mitigating them.",
+    "start": 1389.61,
+    "duration": 1.23
+  },
+  {
+    "text": "ALLISON BEARD: And\nwe all also are",
+    "start": 1390.84,
+    "duration": 1.74
+  },
+  {
+    "text": "in this new world\nof virtual work",
+    "start": 1392.58,
+    "duration": 2.46
+  },
+  {
+    "text": "that might last for\nsome time, especially",
+    "start": 1395.04,
+    "duration": 2.46
+  },
+  {
+    "text": "for knowledge workers.",
+    "start": 1397.5,
+    "duration": 1.08
+  },
+  {
+    "text": "Is persuasion more challenging\nwhen you aren't face",
+    "start": 1398.58,
+    "duration": 3.72
+  },
+  {
+    "text": "to face with someone?",
+    "start": 1402.3,
+    "duration": 1.89
+  },
+  {
+    "text": "JONAH BERGER: Yes and no.",
+    "start": 1404.19,
+    "duration": 1.39
+  },
+  {
+    "text": "I think, in some\nways, we think it's",
+    "start": 1405.58,
+    "duration": 1.94
+  },
+  {
+    "text": "all about standing up tall and\nspeaking slowly and looking",
+    "start": 1407.52,
+    "duration": 3.87
+  },
+  {
+    "text": "someone in the eye and being\nthat persuasive communicator.",
+    "start": 1411.39,
+    "duration": 3.45
+  },
+  {
+    "text": "And that stuff certainly helps.",
+    "start": 1414.84,
+    "duration": 2.07
+  },
+  {
+    "text": "What I think is nice about\nsome of the strategies",
+    "start": 1416.91,
+    "duration": 2.425
+  },
+  {
+    "text": "I talk about in the\nbook is they're not",
+    "start": 1419.335,
+    "duration": 1.625
+  },
+  {
+    "text": "dependent on face-to-face or\nbeing a great communicator.",
+    "start": 1420.96,
+    "duration": 2.88
+  },
+  {
+    "text": "They're about understanding the\nscience of persuasion and when",
+    "start": 1423.84,
+    "duration": 3.0
+  },
+  {
+    "text": "it works and when it doesn't.",
+    "start": 1426.84,
+    "duration": 1.66
+  },
+  {
+    "text": "And so whether you're talking\nto someone over the phone,",
+    "start": 1428.5,
+    "duration": 2.6
+  },
+  {
+    "text": "whether you're\nshooting them an email,",
+    "start": 1431.1,
+    "duration": 1.95
+  },
+  {
+    "text": "or whether you're on Zoom,\nthese techniques still can work.",
+    "start": 1433.05,
+    "duration": 4.022
+  },
+  {
+    "text": "You don't have to be the most\nconfident person in the room.",
+    "start": 1437.072,
+    "duration": 2.458
+  },
+  {
+    "text": "You just have to\nknow what to say",
+    "start": 1439.53,
+    "duration": 1.375
+  },
+  {
+    "text": "when you get your opportunity.",
+    "start": 1440.905,
+    "duration": 1.355
+  },
+  {
+    "text": "ALLISON BEARD: We are\nin a time of crisis now.",
+    "start": 1442.26,
+    "duration": 2.85
+  },
+  {
+    "text": "Everything's in flux.",
+    "start": 1445.11,
+    "duration": 1.59
+  },
+  {
+    "text": "Does persuasion\nbecome more difficult",
+    "start": 1446.7,
+    "duration": 3.22
+  },
+  {
+    "text": "during those types of periods?",
+    "start": 1449.92,
+    "duration": 1.795
+  },
+  {
+    "text": "JONAH BERGER: I\nthink what's neat",
+    "start": 1451.715,
+    "duration": 1.375
+  },
+  {
+    "text": "about this moment is, while\nthere is a lot going on",
+    "start": 1453.09,
+    "duration": 2.61
+  },
+  {
+    "text": "and it's certainly\nchallenging, it's also",
+    "start": 1455.7,
+    "duration": 2.01
+  },
+  {
+    "text": "a time of immense opportunity.",
+    "start": 1457.71,
+    "duration": 2.07
+  },
+  {
+    "text": "People don't like change.",
+    "start": 1459.78,
+    "duration": 1.21
+  },
+  {
+    "text": "They don't want\nto have to change.",
+    "start": 1460.99,
+    "duration": 1.07
+  },
+  {
+    "text": "They would prefer never\nto have to change.",
+    "start": 1462.06,
+    "duration": 1.75
+  },
+  {
+    "text": "Now, people have been\nforced to change.",
+    "start": 1463.81,
+    "duration": 1.91
+  },
+  {
+    "text": "They've been forced to\ndo things differently.",
+    "start": 1465.72,
+    "duration": 1.36
+  },
+  {
+    "text": "They've been forced\nto shop more online.",
+    "start": 1467.08,
+    "duration": 1.55
+  },
+  {
+    "text": "They've been forced\nto work from home.",
+    "start": 1468.63,
+    "duration": 1.5
+  },
+  {
+    "text": "They've been forced\nto go running",
+    "start": 1470.13,
+    "duration": 1.38
+  },
+  {
+    "text": "rather than go to the\ngym, whatever it might be.",
+    "start": 1471.51,
+    "duration": 2.59
+  },
+  {
+    "text": "And so, because they've\nbeen forced to change,",
+    "start": 1474.1,
+    "duration": 2.0
+  },
+  {
+    "text": "they're more open to new\nideas than they'd usually be.",
+    "start": 1476.1,
+    "duration": 2.76
+  },
+  {
+    "text": "I think a good analogy\nis like a snow globe.",
+    "start": 1478.86,
+    "duration": 3.21
+  },
+  {
+    "text": "When it sits on your\noffice or table at home,",
+    "start": 1482.07,
+    "duration": 3.407
+  },
+  {
+    "text": "the snow is settled and\nnothing's really changing.",
+    "start": 1485.477,
+    "duration": 2.083
+  },
+  {
+    "text": "You shake it up, and\nyou've got a minute or so",
+    "start": 1487.56,
+    "duration": 2.577
+  },
+  {
+    "text": "where everything's up in the air\nand things are moving around.",
+    "start": 1490.137,
+    "duration": 2.583
+  },
+  {
+    "text": "And you have an\nopportunity to move them",
+    "start": 1492.72,
+    "duration": 1.71
+  },
+  {
+    "text": "in one direction or another.",
+    "start": 1494.43,
+    "duration": 2.08
+  },
+  {
+    "text": "And so I think now\nis really a time for,",
+    "start": 1496.51,
+    "duration": 2.42
+  },
+  {
+    "text": "whether you're a\nmarketer, thinking about,",
+    "start": 1498.93,
+    "duration": 1.75
+  },
+  {
+    "text": "OK, how do I give consumers a\ntrial of my product or service?",
+    "start": 1500.68,
+    "duration": 3.62
+  },
+  {
+    "text": "Well, they would\nhave gone usually",
+    "start": 1504.3,
+    "duration": 1.44
+  },
+  {
+    "text": "with the main\nbrand in the space.",
+    "start": 1505.74,
+    "duration": 2.82
+  },
+  {
+    "text": "Now, they're more willing\nto try a challenger",
+    "start": 1508.56,
+    "duration": 1.92
+  },
+  {
+    "text": "brand because they're\ndoing new things.",
+    "start": 1510.48,
+    "duration": 2.138
+  },
+  {
+    "text": "If I'm an employee and I want\nto change my boss's mind, well,",
+    "start": 1512.618,
+    "duration": 2.542
+  },
+  {
+    "text": "how do I say, look, things\naren't great at the moment,",
+    "start": 1515.16,
+    "duration": 2.01
+  },
+  {
+    "text": "right?",
+    "start": 1517.17,
+    "duration": 0.6
+  },
+  {
+    "text": "Sales are down.",
+    "start": 1517.77,
+    "duration": 0.93
+  },
+  {
+    "text": "We've got a lot of challenges.",
+    "start": 1518.7,
+    "duration": 1.36
+  },
+  {
+    "text": "Yes, there's a lot going\non, but maybe now they're",
+    "start": 1520.06,
+    "duration": 2.36
+  },
+  {
+    "text": "more willing to do something\nnew because they have to do",
+    "start": 1522.42,
+    "duration": 2.49
+  },
+  {
+    "text": "some new things in general.",
+    "start": 1524.91,
+    "duration": 1.742
+  },
+  {
+    "text": "And so I think, while it\nis a challenging time,",
+    "start": 1526.652,
+    "duration": 1.958
+  },
+  {
+    "text": "if we take advantage\nof this opportunity,",
+    "start": 1528.61,
+    "duration": 1.61
+  },
+  {
+    "text": "we can really make\na lot of headway.",
+    "start": 1530.22,
+    "duration": 1.51
+  },
+  {
+    "text": "ALLISON BEARD: I\nthink we did learn",
+    "start": 1531.73,
+    "duration": 1.458
+  },
+  {
+    "text": "that people who are very\nresistant to certain things",
+    "start": 1533.188,
+    "duration": 3.122
+  },
+  {
+    "text": "can flip the switch very\nquickly if they need to.",
+    "start": 1536.31,
+    "duration": 3.58
+  },
+  {
+    "text": "I used to hate video\nmeetings, and now I",
+    "start": 1539.89,
+    "duration": 2.69
+  },
+  {
+    "text": "do them every single\nday of my life.",
+    "start": 1542.58,
+    "duration": 1.86
+  },
+  {
+    "text": "So you do realize\nthat there is a way",
+    "start": 1544.44,
+    "duration": 4.02
+  },
+  {
+    "text": "to break through hesitation,\nresistance, et cetera.",
+    "start": 1548.46,
+    "duration": 4.022
+  },
+  {
+    "text": "JONAH BERGER: And I\nthink, in some sense,",
+    "start": 1552.482,
+    "duration": 1.708
+  },
+  {
+    "text": "you learn that things\nmight not have been",
+    "start": 1554.19,
+    "duration": 1.708
+  },
+  {
+    "text": "as bad as you thought, right?",
+    "start": 1555.898,
+    "duration": 1.232
+  },
+  {
+    "text": "Yes, a new product\nor service might",
+    "start": 1557.13,
+    "duration": 1.65
+  },
+  {
+    "text": "have seemed scary or different,\nor you may have never have",
+    "start": 1558.78,
+    "duration": 2.94
+  },
+  {
+    "text": "wanted to work from home.",
+    "start": 1561.72,
+    "duration": 1.115
+  },
+  {
+    "text": "But you've been\nforced to try it.",
+    "start": 1562.835,
+    "duration": 1.375
+  },
+  {
+    "text": "You actually learn\nthat it's pretty good.",
+    "start": 1564.21,
+    "duration": 1.29
+  },
+  {
+    "text": "And afterwards, you\nmay stick with it.",
+    "start": 1565.5,
+    "duration": 1.89
+  },
+  {
+    "text": "ALLISON BEARD: Well,\nterrific, Jonah.",
+    "start": 1567.39,
+    "duration": 1.542
+  },
+  {
+    "text": "Thank you so much for joining\nus not once but twice.",
+    "start": 1568.932,
+    "duration": 2.208
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 1571.14,
+    "duration": 0.625
+  },
+  {
+    "text": "JONAH BERGER: Indeed.",
+    "start": 1571.765,
+    "duration": 0.875
+  },
+  {
+    "text": "Hopefully, we'll get\na chance to do it",
+    "start": 1572.64,
+    "duration": 1.38
+  },
+  {
+    "text": "a third time sometime soon.",
+    "start": 1574.02,
+    "duration": 1.2
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1575.22,
+    "duration": 2.292
+  },
+  {
+    "text": "ALLISON BEARD:\nThat's Jonah Berger,",
+    "start": 1577.512,
+    "duration": 1.458
+  },
+  {
+    "text": "a professor at the University\nof Pennsylvania's Wharton",
+    "start": 1578.97,
+    "duration": 2.34
+  },
+  {
+    "text": "School of Business and\nauthor of The Catalyst,",
+    "start": 1581.31,
+    "duration": 1.98
+  },
+  {
+    "text": "How to Change Anyone's Mind.",
+    "start": 1583.29,
+    "duration": 1.425
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1584.715,
+    "duration": 3.183
+  },
+  {
+    "text": "This episode was\nproduced by Mary Dooe.",
+    "start": 1596.13,
+    "duration": 1.86
+  },
+  {
+    "text": "We get technical help\nfrom Rob Eckhart.",
+    "start": 1597.99,
+    "duration": 2.01
+  },
+  {
+    "text": "Adam Buchholz is our\naudio product manager.",
+    "start": 1600.0,
+    "duration": 2.055
+  },
+  {
+    "text": "Thanks for listening\nto the HBR Ideacast.",
+    "start": 1607.91,
+    "duration": 2.53
+  },
+  {
+    "text": "I'm Alison Beard.",
+    "start": 1610.44,
+    "duration": 1.01
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1611.45,
+    "duration": 3.35
+  }
+]

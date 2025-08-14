@@ -1,0 +1,807 @@
+[
+  {
+    "text": "Alex Luebke: I'd like to invite you to go\non a fantastic voyage with me today,",
+    "start": 4.209,
+    "duration": 4.046
+  },
+  {
+    "text": "as we explore inside the human body.",
+    "start": 8.296,
+    "duration": 3.754
+  },
+  {
+    "text": "Inside each and every one of us\nholds mysteries and wonders",
+    "start": 12.092,
+    "duration": 4.254
+  },
+  {
+    "text": "that if unlocked, lead to better health,\nperformance and longevity.",
+    "start": 16.388,
+    "duration": 5.755
+  },
+  {
+    "text": "But seeing inside\nhas proven to be quite difficult.",
+    "start": 22.185,
+    "duration": 3.545
+  },
+  {
+    "text": "Since the beginning of the modern era,",
+    "start": 25.73,
+    "duration": 2.044
+  },
+  {
+    "text": "the only way to really look inside\nwas through rudimentary surgeries.",
+    "start": 27.774,
+    "duration": 4.338
+  },
+  {
+    "text": "Over the past 150 years or so,",
+    "start": 32.112,
+    "duration": 2.085
+  },
+  {
+    "text": "we've had great technologies\nthat allow us to look from the outside,",
+    "start": 34.197,
+    "duration": 3.379
+  },
+  {
+    "text": "like X-rays and MRIs.",
+    "start": 37.576,
+    "duration": 2.877
+  },
+  {
+    "text": "But what I propose\nand what I'd like us to explore today",
+    "start": 40.453,
+    "duration": 3.879
+  },
+  {
+    "text": "is looking at microrobotics\ninside the human body.",
+    "start": 44.374,
+    "duration": 4.588
+  },
+  {
+    "text": "As a first step on that journey,\nlet me introduce you to PillBot.",
+    "start": 49.004,
+    "duration": 4.379
+  },
+  {
+    "text": "PillBot is a small, wireless robot\nthat is remotely controlled,",
+    "start": 53.425,
+    "duration": 4.713
+  },
+  {
+    "text": "and it swims around in three dimensions\nin a water-filled human stomach.",
+    "start": 58.179,
+    "duration": 3.712
+  },
+  {
+    "text": "This robot has things\nyou would expect on a robot.",
+    "start": 62.726,
+    "duration": 2.335
+  },
+  {
+    "text": "It has a camera,\nso it gives you a live video feed.",
+    "start": 65.103,
+    "duration": 2.753
+  },
+  {
+    "text": "It has control circuitry.",
+    "start": 67.856,
+    "duration": 2.21
+  },
+  {
+    "text": "It has LED lights because inside\nthe human body it's quite dark.",
+    "start": 70.066,
+    "duration": 3.546
+  },
+  {
+    "text": "It has a wireless data link\nand it has a battery.",
+    "start": 73.612,
+    "duration": 3.628
+  },
+  {
+    "text": "Now the way this robot moves\nis it has three pump jet thrusters",
+    "start": 77.24,
+    "duration": 4.338
+  },
+  {
+    "text": "that squirt water\nin six different directions,",
+    "start": 81.578,
+    "duration": 2.961
+  },
+  {
+    "text": "that allow the pilot to fly around\nin three-dimensional space",
+    "start": 84.581,
+    "duration": 3.003
+  },
+  {
+    "text": "in a water volume.",
+    "start": 87.626,
+    "duration": 1.251
+  },
+  {
+    "text": "Over the past five years,\nwe've spent a lot of time",
+    "start": 90.545,
+    "duration": 3.003
+  },
+  {
+    "text": "to get the size of this robot\nsmaller and smaller.",
+    "start": 93.59,
+    "duration": 3.003
+  },
+  {
+    "text": "What we started with wasn't quite --",
+    "start": 99.054,
+    "duration": 1.793
+  },
+  {
+    "text": "(Laughter)",
+    "start": 100.889,
+    "duration": 1.251
+  },
+  {
+    "text": "Not quite swallowable.",
+    "start": 102.182,
+    "duration": 2.002
+  },
+  {
+    "text": "But we finally worked our way down",
+    "start": 105.143,
+    "duration": 1.793
+  },
+  {
+    "text": "and where we are these days",
+    "start": 106.978,
+    "duration": 2.169
+  },
+  {
+    "text": "is about the size\nof a small multivitamin capsule.",
+    "start": 109.147,
+    "duration": 4.254
+  },
+  {
+    "text": "(Applause)",
+    "start": 114.444,
+    "duration": 1.168
+  },
+  {
+    "text": "Thank you.",
+    "start": 115.612,
+    "duration": 1.251
+  },
+  {
+    "text": "Now we're going to fly this robot\naround for you for a little bit.",
+    "start": 118.365,
+    "duration": 3.169
+  },
+  {
+    "text": "But to do that, I would like to invite\nDoctor Vivek Kumbhari.",
+    "start": 121.534,
+    "duration": 3.337
+  },
+  {
+    "text": "He's the chairman of gastroenterology\nat the Mayo Clinic.",
+    "start": 124.871,
+    "duration": 3.253
+  },
+  {
+    "text": "And I'd like to have him\npilot this PillBot while I turn it on.",
+    "start": 128.166,
+    "duration": 2.961
+  },
+  {
+    "text": "(Applause)",
+    "start": 131.169,
+    "duration": 1.668
+  },
+  {
+    "text": "Vivek Kumbhari: Here is a common scenario\nI encounter in my clinic.",
+    "start": 135.757,
+    "duration": 3.378
+  },
+  {
+    "text": "A patient who's generally in good health",
+    "start": 139.177,
+    "duration": 2.961
+  },
+  {
+    "text": "comes to see me because\nthey have abdominal pain,",
+    "start": 142.18,
+    "duration": 3.378
+  },
+  {
+    "text": "and I suspect it's coming\nfrom the stomach.",
+    "start": 145.6,
+    "duration": 2.669
+  },
+  {
+    "text": "Now I need to understand precisely\nwhat the problem is,",
+    "start": 148.311,
+    "duration": 3.337
+  },
+  {
+    "text": "but I can't just pop my head in\nand take a look.",
+    "start": 151.648,
+    "duration": 2.294
+  },
+  {
+    "text": "So, and despite that patient\nsitting right in front of me,",
+    "start": 155.276,
+    "duration": 3.671
+  },
+  {
+    "text": "I need to ask them to go back home",
+    "start": 158.947,
+    "duration": 2.461
+  },
+  {
+    "text": "and come back to the hospital\non another occasion",
+    "start": 161.408,
+    "duration": 3.461
+  },
+  {
+    "text": "so I can put them to sleep with anesthesia",
+    "start": 164.869,
+    "duration": 3.045
+  },
+  {
+    "text": "so that they allow me to insert\nthis long tube with a camera at the tip,",
+    "start": 167.956,
+    "duration": 4.88
+  },
+  {
+    "text": "through the mouth and into the stomach.",
+    "start": 172.877,
+    "duration": 2.711
+  },
+  {
+    "text": "This is an endoscopy,",
+    "start": 175.63,
+    "duration": 1.919
+  },
+  {
+    "text": "and it's a relatively invasive\nand expensive procedure,",
+    "start": 177.59,
+    "duration": 3.712
+  },
+  {
+    "text": "and we are on a mission to do better.",
+    "start": 181.344,
+    "duration": 1.794
+  },
+  {
+    "text": "We'd like to transform this experience",
+    "start": 184.222,
+    "duration": 2.377
+  },
+  {
+    "text": "by dematerializing\nthe physical hospital into PillBot.",
+    "start": 186.641,
+    "duration": 3.921
+  },
+  {
+    "text": "As you can see here,\nwe have a capsule here,",
+    "start": 191.771,
+    "duration": 3.128
+  },
+  {
+    "text": "and I'm using a game controller\nto navigate PillBot.",
+    "start": 194.899,
+    "duration": 2.503
+  },
+  {
+    "text": "Although I could have also used\na tablet or a smartphone.",
+    "start": 197.402,
+    "duration": 3.754
+  },
+  {
+    "text": "You can move it around\nrather quickly here,",
+    "start": 202.323,
+    "duration": 2.086
+  },
+  {
+    "text": "and you can imagine\nthat using the tank this size,",
+    "start": 204.409,
+    "duration": 4.254
+  },
+  {
+    "text": "we're still able to navigate\nthe entire experience,",
+    "start": 208.705,
+    "duration": 3.128
+  },
+  {
+    "text": "which -- and this tank\nis significantly larger",
+    "start": 211.875,
+    "duration": 2.168
+  },
+  {
+    "text": "than the human stomach,",
+    "start": 214.085,
+    "duration": 1.251
+  },
+  {
+    "text": "or any internal human organ\nfor that matter.",
+    "start": 215.378,
+    "duration": 2.086
+  },
+  {
+    "text": "I'm going to pause here while Alex\nis working on optimizing the robot.",
+    "start": 218.715,
+    "duration": 3.754
+  },
+  {
+    "text": "AL: There we go.",
+    "start": 227.807,
+    "duration": 1.251
+  },
+  {
+    "text": "(Laughter)",
+    "start": 229.142,
+    "duration": 1.376
+  },
+  {
+    "text": "VK: So this is our goal.\nBe anywhere in the world.",
+    "start": 232.187,
+    "duration": 4.296
+  },
+  {
+    "text": "Whether you're at home,\nsitting on your couch,",
+    "start": 236.483,
+    "duration": 3.795
+  },
+  {
+    "text": "visiting space,\nor right here onstage at TED.",
+    "start": 240.278,
+    "duration": 3.462
+  },
+  {
+    "text": "What do you think, Alex?\nYou should go ahead and swallow a PillBot?",
+    "start": 245.492,
+    "duration": 3.336
+  },
+  {
+    "text": "(Applause and cheers)",
+    "start": 248.828,
+    "duration": 4.63
+  },
+  {
+    "text": "So, as you can see, in just a few seconds,\nPillBot entered the stomach.",
+    "start": 256.461,
+    "duration": 4.796
+  },
+  {
+    "text": "So we're in the stomach now,",
+    "start": 263.009,
+    "duration": 1.835
+  },
+  {
+    "text": "and I'm carefully navigating around,",
+    "start": 264.886,
+    "duration": 2.753
+  },
+  {
+    "text": "looking for any changes\nin surface architecture",
+    "start": 267.68,
+    "duration": 3.129
+  },
+  {
+    "text": "that might represent an ulcer\nor a cancer, or any other pathology.",
+    "start": 270.85,
+    "duration": 5.923
+  },
+  {
+    "text": "And I'm able to get very similar views",
+    "start": 278.233,
+    "duration": 2.294
+  },
+  {
+    "text": "as I would if I'd used\na conventional endoscope.",
+    "start": 280.527,
+    "duration": 3.712
+  },
+  {
+    "text": "Now I'm able to see the entire stomach",
+    "start": 284.239,
+    "duration": 2.252
+  },
+  {
+    "text": "and revisit sites\nthat piqued my curiosity.",
+    "start": 286.491,
+    "duration": 2.878
+  },
+  {
+    "text": "And what could further\nimprove this experience",
+    "start": 291.162,
+    "duration": 2.67
+  },
+  {
+    "text": "is if we used an augmented reality headset\nfor 3D visualization of a stomach,",
+    "start": 293.873,
+    "duration": 5.047
+  },
+  {
+    "text": "or artificial intelligence for detection\nand characterization of an abnormality.",
+    "start": 300.129,
+    "duration": 5.506
+  },
+  {
+    "text": "Now, fortunately for Alex,",
+    "start": 308.346,
+    "duration": 1.96
+  },
+  {
+    "text": "on this brief review,\neverything is looking normal here.",
+    "start": 310.348,
+    "duration": 3.295
+  },
+  {
+    "text": "(Laughter and applause)",
+    "start": 313.685,
+    "duration": 4.087
+  },
+  {
+    "text": "Though if there were a problem,",
+    "start": 318.439,
+    "duration": 1.585
+  },
+  {
+    "text": "being able to show\nand discuss with Alex in real time",
+    "start": 320.024,
+    "duration": 3.629
+  },
+  {
+    "text": "elevates his understanding of his health",
+    "start": 323.653,
+    "duration": 2.419
+  },
+  {
+    "text": "and is going to make him\nmore compliant with therapy.",
+    "start": 326.072,
+    "duration": 2.628
+  },
+  {
+    "text": "So now that we're done here,",
+    "start": 329.659,
+    "duration": 1.543
+  },
+  {
+    "text": "PillBot will take its natural course\nthrough and out the body.",
+    "start": 332.287,
+    "duration": 4.379
+  },
+  {
+    "text": "(Laughter)",
+    "start": 336.708,
+    "duration": 2.46
+  },
+  {
+    "text": "And fortunately for Alex,\nhe'll have no awareness of this,",
+    "start": 339.168,
+    "duration": 2.753
+  },
+  {
+    "text": "and he won't have to\nretrieve this capsule.",
+    "start": 341.963,
+    "duration": 2.294
+  },
+  {
+    "text": "(Laughter)",
+    "start": 344.299,
+    "duration": 1.96
+  },
+  {
+    "text": "Now this robot was designed\nfor the stomach,",
+    "start": 347.093,
+    "duration": 2.836
+  },
+  {
+    "text": "though the entire body\nneeds this capability.",
+    "start": 349.971,
+    "duration": 2.628
+  },
+  {
+    "text": "Parts of the body, such as the colon,\nthe heart and the brain",
+    "start": 354.017,
+    "duration": 5.714
+  },
+  {
+    "text": "should be made accessible\nwith specialized robots",
+    "start": 359.731,
+    "duration": 2.836
+  },
+  {
+    "text": "that are just as easy to use.",
+    "start": 362.567,
+    "duration": 2.252
+  },
+  {
+    "text": "I've dreamt of the day",
+    "start": 366.404,
+    "duration": 1.627
+  },
+  {
+    "text": "when I could explore the inside\nof the human body with robots,",
+    "start": 368.031,
+    "duration": 3.253
+  },
+  {
+    "text": "recognizing it would be\nan inflection point",
+    "start": 371.284,
+    "duration": 2.794
+  },
+  {
+    "text": "in my ability to help people\nlive longer and healthier lives.",
+    "start": 374.078,
+    "duration": 4.463
+  },
+  {
+    "text": "Back to you, Alex.",
+    "start": 378.583,
+    "duration": 1.251
+  },
+  {
+    "text": "(Applause)",
+    "start": 379.876,
+    "duration": 2.169
+  },
+  {
+    "text": "AL: That was yummy.",
+    "start": 387.508,
+    "duration": 1.627
+  },
+  {
+    "text": "(Laughter)",
+    "start": 389.177,
+    "duration": 1.626
+  },
+  {
+    "text": "And no, you don't feel anything\nwhen the robot moves around inside you.",
+    "start": 390.845,
+    "duration": 3.462
+  },
+  {
+    "text": "It's quite, quite simple.",
+    "start": 394.349,
+    "duration": 2.085
+  },
+  {
+    "text": "But think of that.",
+    "start": 396.476,
+    "duration": 1.251
+  },
+  {
+    "text": "How easy it was to get access\nto internal imagery anywhere.",
+    "start": 397.769,
+    "duration": 4.045
+  },
+  {
+    "text": "So that's going to allow us\nnot only internal imagery,",
+    "start": 401.814,
+    "duration": 3.295
+  },
+  {
+    "text": "but also the diagnosis and the treatment\nthat the doctor might be able to give.",
+    "start": 405.109,
+    "duration": 4.797
+  },
+  {
+    "text": "That's going to give us access\nto a vast amount of information",
+    "start": 409.906,
+    "duration": 3.253
+  },
+  {
+    "text": "that we can then use to train AI.",
+    "start": 413.159,
+    "duration": 3.545
+  },
+  {
+    "text": "And with AI, we're going to be able",
+    "start": 416.704,
+    "duration": 1.71
+  },
+  {
+    "text": "to have it automate\na whole variety of different functions,",
+    "start": 418.456,
+    "duration": 2.794
+  },
+  {
+    "text": "from performance improvement\nof the robot itself",
+    "start": 421.292,
+    "duration": 3.212
+  },
+  {
+    "text": "to autonomous control,",
+    "start": 424.545,
+    "duration": 1.335
+  },
+  {
+    "text": "where it actually flies around\nand maps out the entire interior surface",
+    "start": 425.922,
+    "duration": 3.336
+  },
+  {
+    "text": "of the stomach all on its own.",
+    "start": 429.3,
+    "duration": 2.127
+  },
+  {
+    "text": "That diagnosis and the treatment\nalso comes along with that.",
+    "start": 431.469,
+    "duration": 2.878
+  },
+  {
+    "text": "And we train AI\nto help learn how to do that.",
+    "start": 434.389,
+    "duration": 2.711
+  },
+  {
+    "text": "And eventually, interventions.",
+    "start": 437.141,
+    "duration": 2.002
+  },
+  {
+    "text": "Let's talk about a little bit\nwhere we want to go next.",
+    "start": 440.853,
+    "duration": 2.628
+  },
+  {
+    "text": "So the first thing we're going to do,\nwe'll add some accelerometers on there,",
+    "start": 443.481,
+    "duration": 3.67
+  },
+  {
+    "text": "so it actually helps\nwith that autonomous control.",
+    "start": 447.151,
+    "duration": 2.628
+  },
+  {
+    "text": "Also very interesting,\nwe can start adding different sensors.",
+    "start": 449.779,
+    "duration": 2.92
+  },
+  {
+    "text": "So wherever the robot is going,",
+    "start": 452.699,
+    "duration": 1.584
+  },
+  {
+    "text": "we can go ahead and measure the health\nof what it's looking at right there.",
+    "start": 454.283,
+    "duration": 4.588
+  },
+  {
+    "text": "And as far as doing\nlab-on-chip capabilities",
+    "start": 458.871,
+    "duration": 3.504
+  },
+  {
+    "text": "where you can actually\nanalyze the material",
+    "start": 462.417,
+    "duration": 2.794
+  },
+  {
+    "text": "right there in situ on the robot.",
+    "start": 465.253,
+    "duration": 2.627
+  },
+  {
+    "text": "Imagine now being able\nto put different tools onto this,",
+    "start": 467.922,
+    "duration": 3.796
+  },
+  {
+    "text": "where you can cut and you can cauterize",
+    "start": 471.759,
+    "duration": 1.961
+  },
+  {
+    "text": "or inject medicine.",
+    "start": 473.761,
+    "duration": 1.669
+  },
+  {
+    "text": "Well, now you have a pill surgeon.",
+    "start": 475.471,
+    "duration": 2.461
+  },
+  {
+    "text": "And of course, you can have\nclusters of these robots",
+    "start": 477.974,
+    "duration": 2.461
+  },
+  {
+    "text": "that work together in unison",
+    "start": 480.476,
+    "duration": 1.377
+  },
+  {
+    "text": "to do complex procedures\ninside the human body.",
+    "start": 481.894,
+    "duration": 3.504
+  },
+  {
+    "text": "To go even smaller, we actually have\ntechnology that exists today",
+    "start": 485.398,
+    "duration": 3.587
+  },
+  {
+    "text": "that allows us to make robots\nat the nanoscale,",
+    "start": 488.985,
+    "duration": 3.211
+  },
+  {
+    "text": "which now can bring robots\nanywhere in the human body,",
+    "start": 492.196,
+    "duration": 2.586
+  },
+  {
+    "text": "even into the human brain.",
+    "start": 494.782,
+    "duration": 2.086
+  },
+  {
+    "text": "And there's some phenomenal\npower sources that are available,",
+    "start": 496.868,
+    "duration": 2.961
+  },
+  {
+    "text": "coming online as well.",
+    "start": 499.829,
+    "duration": 2.461
+  },
+  {
+    "text": "While PillBot is just about\nto go through clinical trials,",
+    "start": 502.331,
+    "duration": 2.712
+  },
+  {
+    "text": "it'll be a couple of years\ntill it's on the market.",
+    "start": 505.084,
+    "duration": 2.419
+  },
+  {
+    "text": "There's a long way to go we still have",
+    "start": 507.545,
+    "duration": 1.835
+  },
+  {
+    "text": "to bring the full ability\nto do inner space exploration on us all.",
+    "start": 509.422,
+    "duration": 5.922
+  },
+  {
+    "text": "But it's a worthwhile journey to go on.",
+    "start": 515.386,
+    "duration": 3.379
+  },
+  {
+    "text": "Imagine being able to have\nall this information for you,",
+    "start": 518.806,
+    "duration": 3.42
+  },
+  {
+    "text": "for your health, for your family\nand for humanity.",
+    "start": 522.268,
+    "duration": 4.213
+  },
+  {
+    "text": "So I'd like to invite all of you\nto join us in being brave.",
+    "start": 526.481,
+    "duration": 4.421
+  },
+  {
+    "text": "And let's bring microrobots\ninside the human body.",
+    "start": 530.902,
+    "duration": 3.753
+  },
+  {
+    "text": "Thank you very much.",
+    "start": 534.655,
+    "duration": 1.419
+  },
+  {
+    "text": "(Applause and cheers)",
+    "start": 536.074,
+    "duration": 4.337
+  }
+]

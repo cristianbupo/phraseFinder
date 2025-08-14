@@ -1,0 +1,397 @@
+[
+  {
+    "text": "Ethic, Hedge, and Adila, the leader \nof the revolution,",
+    "start": 21.57,
+    "duration": 3.79
+  },
+  {
+    "text": "plot out how they can steal an artifact \ncalled the Node of Power.",
+    "start": 25.36,
+    "duration": 5.179
+  },
+  {
+    "text": "It’s being used to run a heavily fortified\ntrain that runs all around the country,",
+    "start": 30.539,
+    "duration": 5.557
+  },
+  {
+    "text": "providing supplies \nto settlements and facilities.",
+    "start": 36.096,
+    "duration": 3.73
+  },
+  {
+    "text": "This armored behemoth",
+    "start": 39.826,
+    "duration": 1.628
+  },
+  {
+    "text": "undergoes a complex and unpredictable\nunloading procedure—",
+    "start": 41.454,
+    "duration": 3.988
+  },
+  {
+    "text": "a procedure which is displayed, in detail,\non a screen within the engine car.",
+    "start": 45.442,
+    "duration": 5.384
+  },
+  {
+    "text": "Right means the train will go one \ncar length forward,",
+    "start": 50.826,
+    "duration": 3.56
+  },
+  {
+    "text": "and left means the train will go the \nsame distance backwards.",
+    "start": 54.386,
+    "duration": 4.001
+  },
+  {
+    "text": "While unloading, the train frequently \nmoves back and forth,",
+    "start": 58.387,
+    "duration": 3.842
+  },
+  {
+    "text": "so a typical sequence \nmight look like this.",
+    "start": 62.229,
+    "duration": 4.96
+  },
+  {
+    "text": "Also within the engine car is a button \nthat can only be pressed once.",
+    "start": 67.189,
+    "duration": 5.085
+  },
+  {
+    "text": "When pressed, it lets down the force \nfield over the artifact for 10 seconds.",
+    "start": 72.274,
+    "duration": 5.39
+  },
+  {
+    "text": "The engine car is tiny \nand designed for a robot.",
+    "start": 77.664,
+    "duration": 3.75
+  },
+  {
+    "text": "Of your team, only Hedge can fit.",
+    "start": 81.414,
+    "duration": 3.395
+  },
+  {
+    "text": "The members of the resistance have \npositioned a crane over the train tracks",
+    "start": 84.809,
+    "duration": 3.908
+  },
+  {
+    "text": "that can pluck the artifact \nonce it’s exposed.",
+    "start": 88.717,
+    "duration": 3.167
+  },
+  {
+    "text": "They’ll know when to lower \nthe crane by sight.",
+    "start": 91.884,
+    "duration": 2.995
+  },
+  {
+    "text": "But the only way Hedge can determine \nthe train’s position",
+    "start": 94.879,
+    "duration": 3.36
+  },
+  {
+    "text": "and know when to lower \nthe force field",
+    "start": 98.239,
+    "duration": 2.287
+  },
+  {
+    "text": "is by analyzing the unloading procedure,",
+    "start": 100.526,
+    "duration": 3.128
+  },
+  {
+    "text": "because he’ll be inside \nthe windowless engine car.",
+    "start": 103.654,
+    "duration": 3.968
+  },
+  {
+    "text": "Hedge can’t program himself though, so \nit’s up to Ethic to tell him what to do.",
+    "start": 107.622,
+    "duration": 5.376
+  },
+  {
+    "text": "The artifact is in the car \n10 positions behind",
+    "start": 112.998,
+    "duration": 3.62
+  },
+  {
+    "text": "the one that’s directly under the \ncrane at the start.",
+    "start": 116.618,
+    "duration": 3.163
+  },
+  {
+    "text": "What instructions can Ethic give Hedge",
+    "start": 119.781,
+    "duration": 2.704
+  },
+  {
+    "text": "so that he hits the button \nat just the right moment?",
+    "start": 122.485,
+    "duration": 3.748
+  },
+  {
+    "text": "Here’s a hint to get you started.",
+    "start": 133.506,
+    "duration": 3.55
+  },
+  {
+    "text": "The key to this problem, as with many \nprogramming challenges,",
+    "start": 137.056,
+    "duration": 3.857
+  },
+  {
+    "text": "is to reframe the information in a way \nthat a computer can work with.",
+    "start": 140.913,
+    "duration": 4.381
+  },
+  {
+    "text": "A computer doesn’t know \nwhat a train is, nor does it need to.",
+    "start": 145.294,
+    "duration": 4.62
+  },
+  {
+    "text": "It can, however, work with variables.",
+    "start": 149.914,
+    "duration": 3.11
+  },
+  {
+    "text": "Try making a variable that tracks \nthe train’s position.",
+    "start": 153.024,
+    "duration": 4.313
+  },
+  {
+    "text": "How will it change as the train moves?",
+    "start": 157.337,
+    "duration": 2.957
+  },
+  {
+    "text": "Let’s start by breaking this problem \ninto two objectives.",
+    "start": 166.362,
+    "duration": 3.65
+  },
+  {
+    "text": "The first is to know where the train will \nbe as it carries out its instructions.",
+    "start": 170.012,
+    "duration": 4.873
+  },
+  {
+    "text": "The second is to hit the button when \nthe train is in just the right position.",
+    "start": 174.885,
+    "duration": 5.184
+  },
+  {
+    "text": "For the first objective it’ll help to \nthink of the train as a big number line.",
+    "start": 180.069,
+    "duration": 4.669
+  },
+  {
+    "text": "Let’s make 0 the car with the node, \n1 the car in front of it, and so on.",
+    "start": 184.738,
+    "duration": 4.854
+  },
+  {
+    "text": "That means car 10 is under \nthe crane at the start.",
+    "start": 189.592,
+    "duration": 3.69
+  },
+  {
+    "text": "When the train moves one car right, \ncar 9 is under the crane.",
+    "start": 193.282,
+    "duration": 4.449
+  },
+  {
+    "text": "So a right arrow can be \nthought of as “subtract 1.”",
+    "start": 197.731,
+    "duration": 3.81
+  },
+  {
+    "text": "And when the train moves left \nfrom there,",
+    "start": 201.541,
+    "duration": 2.27
+  },
+  {
+    "text": "10 is back under the crane,",
+    "start": 203.811,
+    "duration": 1.84
+  },
+  {
+    "text": "making a left arrow the same as “add 1.\"",
+    "start": 205.651,
+    "duration": 3.757
+  },
+  {
+    "text": "Let’s set our train position variable \nto 10, since that’s where we start.",
+    "start": 209.408,
+    "duration": 4.455
+  },
+  {
+    "text": "We can now use a loop \nto read the instructions one at a time,",
+    "start": 213.863,
+    "duration": 4.33
+  },
+  {
+    "text": "adding or subtracting as we go, \nto track which car is under the crane.",
+    "start": 218.193,
+    "duration": 5.104
+  },
+  {
+    "text": "The nice thing about setting up \nthe variable this way",
+    "start": 223.297,
+    "duration": 2.75
+  },
+  {
+    "text": "is that it tells us how far the node \nis from the crane.",
+    "start": 226.047,
+    "duration": 3.316
+  },
+  {
+    "text": "So as soon as the variable hits 0, \nHedge should hit the button.",
+    "start": 229.363,
+    "duration": 4.064
+  },
+  {
+    "text": "And here’s what happens.",
+    "start": 233.427,
+    "duration": 1.81
+  },
+  {
+    "text": "Ethic gets into position on the crane \nwhile Hedge rushes off",
+    "start": 235.237,
+    "duration": 3.674
+  },
+  {
+    "text": "and slips into the engine car unnoticed, \njust before the train lurches to life.",
+    "start": 238.911,
+    "duration": 5.898
+  },
+  {
+    "text": "It rolls 3 cars back. 1 forward, \nanother 4 back.",
+    "start": 244.809,
+    "duration": 4.893
+  },
+  {
+    "text": "Then so far forward Ethic loses track \nbefore it reverses once more.",
+    "start": 249.702,
+    "duration": 5.819
+  },
+  {
+    "text": "When the artifact \nfinally rolls into position,",
+    "start": 255.521,
+    "duration": 3.021
+  },
+  {
+    "text": "Adila lowers the crane,\nhoping Ethic and Hedge got it right.",
+    "start": 258.542,
+    "duration": 3.79
+  },
+  {
+    "text": "At the last possible moment, \nthe force field sputters and falls.",
+    "start": 262.332,
+    "duration": 4.372
+  },
+  {
+    "text": "Ethic swoops in, and lifts the \nNode of Power to freedom.",
+    "start": 266.704,
+    "duration": 5.011
+  },
+  {
+    "text": "When Ethic gives the node \nto Hedge for safe keeping,",
+    "start": 271.715,
+    "duration": 2.91
+  },
+  {
+    "text": "something incredible happens.",
+    "start": 274.625,
+    "duration": 2.091
+  },
+  {
+    "text": "The artifact shimmers to life \nwith a vision of the past:",
+    "start": 276.716,
+    "duration": 3.85
+  },
+  {
+    "text": "When the crystal was unearthed, \nno one could make the console inside work.",
+    "start": 280.566,
+    "duration": 4.806
+  },
+  {
+    "text": "The government put out a call \nfor people to try their luck with it,",
+    "start": 285.372,
+    "duration": 3.25
+  },
+  {
+    "text": "one at a time.",
+    "start": 288.622,
+    "duration": 1.452
+  },
+  {
+    "text": "Ethic loved to figure out what made \nthings tick, so she signed up.",
+    "start": 290.074,
+    "duration": 4.323
+  },
+  {
+    "text": "Within moments at the console, \nsomething clicked into place,",
+    "start": 294.397,
+    "duration": 3.143
+  },
+  {
+    "text": "and she created her first robot.",
+    "start": 297.54,
+    "duration": 2.76
+  },
+  {
+    "text": "The government hired Ethic as \nchief robotics engineer on the spot.",
+    "start": 300.3,
+    "duration": 5.014
+  },
+  {
+    "text": "Within a year her creations ran almost \nevery aspect of society,",
+    "start": 305.314,
+    "duration": 4.17
+  },
+  {
+    "text": "and the nation and its people thrived,",
+    "start": 309.484,
+    "duration": 2.149
+  },
+  {
+    "text": "no longer needing to toil \nin the fields and factories.",
+    "start": 311.633,
+    "duration": 3.475
+  },
+  {
+    "text": "The vision ends, and Hedge detects \nthe second artifact in the 198forest,",
+    "start": 321.047,
+    "duration": 6.763
+  },
+  {
+    "text": "to the southeast.",
+    "start": 327.81,
+    "duration": 1.46
+  },
+  {
+    "text": "Luckily, the train is going there next,",
+    "start": 329.27,
+    "duration": 2.336
+  },
+  {
+    "text": "and has just enough reserve \nfuel for the trip.",
+    "start": 331.606,
+    "duration": 3.034
+  },
+  {
+    "text": "Ethic and Hedge smuggle themselves aboard",
+    "start": 334.64,
+    "duration": 2.557
+  },
+  {
+    "text": "and find a hiding spot \nfor the long journey ahead.",
+    "start": 337.197,
+    "duration": 3.558
+  }
+]

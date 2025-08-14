@@ -1,0 +1,632 @@
+[
+  {
+    "text": "yeah the way I think about attention is",
+    "start": 3.679,
+    "duration": 5.92
+  },
+  {
+    "text": "really as a problem of routing routing",
+    "start": 6.319,
+    "duration": 7.2
+  },
+  {
+    "text": "signals so actually we know a lot about",
+    "start": 9.599,
+    "duration": 7.081
+  },
+  {
+    "text": "how signals come in through your sensory",
+    "start": 13.519,
+    "duration": 5.281
+  },
+  {
+    "text": "apparatus through your ears and your",
+    "start": 16.68,
+    "duration": 4.8
+  },
+  {
+    "text": "eyes uh we know an awful lot about how",
+    "start": 18.8,
+    "duration": 7.0
+  },
+  {
+    "text": "the retina Works how the ca Works uh we",
+    "start": 21.48,
+    "duration": 5.92
+  },
+  {
+    "text": "understand how the signals travel up and",
+    "start": 25.8,
+    "duration": 4.399
+  },
+  {
+    "text": "eventually they percolate up to the",
+    "start": 27.4,
+    "duration": 4.4
+  },
+  {
+    "text": "cortex in the case of sound they",
+    "start": 30.199,
+    "duration": 3.481
+  },
+  {
+    "text": "percolate up to the auditory cortex and",
+    "start": 31.8,
+    "duration": 3.88
+  },
+  {
+    "text": "we know a lot about uh a fair amount",
+    "start": 33.68,
+    "duration": 4.0
+  },
+  {
+    "text": "about how they look once they uh get",
+    "start": 35.68,
+    "duration": 3.92
+  },
+  {
+    "text": "there and after that we kind of lose",
+    "start": 37.68,
+    "duration": 3.399
+  },
+  {
+    "text": "track of them and we can't really pick",
+    "start": 39.6,
+    "duration": 4.68
+  },
+  {
+    "text": "up the signal until they're coming out",
+    "start": 41.079,
+    "duration": 5.081
+  },
+  {
+    "text": "the other end we know a lot about",
+    "start": 44.28,
+    "duration": 3.72
+  },
+  {
+    "text": "Movement we we understand an awful lot",
+    "start": 46.16,
+    "duration": 4.36
+  },
+  {
+    "text": "about what happens when a nerve impulse",
+    "start": 48.0,
+    "duration": 4.039
+  },
+  {
+    "text": "gets to a muscle and how muscles",
+    "start": 50.52,
+    "duration": 2.96
+  },
+  {
+    "text": "contract that's been pretty well",
+    "start": 52.039,
+    "duration": 4.16
+  },
+  {
+    "text": "understood for 50 years or something",
+    "start": 53.48,
+    "duration": 5.16
+  },
+  {
+    "text": "even more than that so where we really",
+    "start": 56.199,
+    "duration": 6.36
+  },
+  {
+    "text": "lose track of them is when they uh enter",
+    "start": 58.64,
+    "duration": 5.799
+  },
+  {
+    "text": "into the early parts of the sensory",
+    "start": 62.559,
+    "duration": 3.801
+  },
+  {
+    "text": "cortex and when they're and we pick them",
+    "start": 64.439,
+    "duration": 3.961
+  },
+  {
+    "text": "up again sort of on the on the other",
+    "start": 66.36,
+    "duration": 6.72
+  },
+  {
+    "text": "side and so attention is one of the ways",
+    "start": 68.4,
+    "duration": 8.2
+  },
+  {
+    "text": "in which signals uh can find their",
+    "start": 73.08,
+    "duration": 5.44
+  },
+  {
+    "text": "destination if you like so think about",
+    "start": 76.6,
+    "duration": 5.08
+  },
+  {
+    "text": "it in terms of a really specific uh",
+    "start": 78.52,
+    "duration": 5.76
+  },
+  {
+    "text": "problem imagine that I ask you to raise",
+    "start": 81.68,
+    "duration": 5.88
+  },
+  {
+    "text": "your right hand when I say go okay so I",
+    "start": 84.28,
+    "duration": 5.28
+  },
+  {
+    "text": "say go you raise your right hand go",
+    "start": 87.56,
+    "duration": 3.12
+  },
+  {
+    "text": "raise your right right hand now let's",
+    "start": 89.56,
+    "duration": 3.599
+  },
+  {
+    "text": "change it uh and I say go raise your",
+    "start": 90.68,
+    "duration": 5.2
+  },
+  {
+    "text": "left hand go raise your left hand so",
+    "start": 93.159,
+    "duration": 5.0
+  },
+  {
+    "text": "somehow the same signal coming in",
+    "start": 95.88,
+    "duration": 4.96
+  },
+  {
+    "text": "through your ear is producing different",
+    "start": 98.159,
+    "duration": 4.401
+  },
+  {
+    "text": "activity at the other end somehow the",
+    "start": 100.84,
+    "duration": 3.959
+  },
+  {
+    "text": "signal on the sensory side had to be",
+    "start": 102.56,
+    "duration": 4.4
+  },
+  {
+    "text": "routed to either the muscles of your",
+    "start": 104.799,
+    "duration": 3.881
+  },
+  {
+    "text": "right hand or the muscles of your left",
+    "start": 106.96,
+    "duration": 5.36
+  },
+  {
+    "text": "hand now attention is a special case of",
+    "start": 108.68,
+    "duration": 5.84
+  },
+  {
+    "text": "that kind of General routing problem",
+    "start": 112.32,
+    "duration": 5.119
+  },
+  {
+    "text": "that the brain faces all the time",
+    "start": 114.52,
+    "duration": 6.639
+  },
+  {
+    "text": "because when you attend to let let's say",
+    "start": 117.439,
+    "duration": 7.36
+  },
+  {
+    "text": "your uh sounds rather than your visual",
+    "start": 121.159,
+    "duration": 6.161
+  },
+  {
+    "text": "input or when you attend to one",
+    "start": 124.799,
+    "duration": 6.361
+  },
+  {
+    "text": "particular auditory input out of uh many",
+    "start": 127.32,
+    "duration": 5.32
+  },
+  {
+    "text": "what you're doing is you're you're",
+    "start": 131.16,
+    "duration": 3.92
+  },
+  {
+    "text": "selecting some subset of the inputs in",
+    "start": 132.64,
+    "duration": 5.4
+  },
+  {
+    "text": "this case coming in uh to your ears and",
+    "start": 135.08,
+    "duration": 4.799
+  },
+  {
+    "text": "and subjecting them to further",
+    "start": 138.04,
+    "duration": 4.08
+  },
+  {
+    "text": "processing and you're you're taking",
+    "start": 139.879,
+    "duration": 4.041
+  },
+  {
+    "text": "those signals and routing them",
+    "start": 142.12,
+    "duration": 4.199
+  },
+  {
+    "text": "Downstream and doing stuff with them how",
+    "start": 143.92,
+    "duration": 4.84
+  },
+  {
+    "text": "that routing happens that's the aspect",
+    "start": 146.319,
+    "duration": 5.321
+  },
+  {
+    "text": "of attention that uh my lab focuses on",
+    "start": 148.76,
+    "duration": 5.64
+  },
+  {
+    "text": "so so the basic setup for the problem",
+    "start": 151.64,
+    "duration": 4.84
+  },
+  {
+    "text": "that I'm interested in is this imagine",
+    "start": 154.4,
+    "duration": 3.8
+  },
+  {
+    "text": "that you're at a cocktail party there",
+    "start": 156.48,
+    "duration": 4.28
+  },
+  {
+    "text": "are a bunch of conversations going on",
+    "start": 158.2,
+    "duration": 4.48
+  },
+  {
+    "text": "and you're talking to someone but",
+    "start": 160.76,
+    "duration": 3.559
+  },
+  {
+    "text": "there's all this distracting stuff going",
+    "start": 162.68,
+    "duration": 3.88
+  },
+  {
+    "text": "on the sidelines you can make a choice",
+    "start": 164.319,
+    "duration": 3.721
+  },
+  {
+    "text": "you can either focus on the person",
+    "start": 166.56,
+    "duration": 4.48
+  },
+  {
+    "text": "you're talking to and ignore the rest or",
+    "start": 168.04,
+    "duration": 4.559
+  },
+  {
+    "text": "as often happens you find that the",
+    "start": 171.04,
+    "duration": 3.4
+  },
+  {
+    "text": "conversation that you're engaged in is",
+    "start": 172.599,
+    "duration": 4.321
+  },
+  {
+    "text": "not as interesting and uh-huh uh-huh oh",
+    "start": 174.44,
+    "duration": 4.68
+  },
+  {
+    "text": "really H summer okay and you start",
+    "start": 176.92,
+    "duration": 4.0
+  },
+  {
+    "text": "focusing on the this conversation on the",
+    "start": 179.12,
+    "duration": 4.199
+  },
+  {
+    "text": "right your ability to focus in on this",
+    "start": 180.92,
+    "duration": 4.12
+  },
+  {
+    "text": "conversation while ignoring that",
+    "start": 183.319,
+    "duration": 4.2
+  },
+  {
+    "text": "conversation that is sort of the",
+    "start": 185.04,
+    "duration": 4.199
+  },
+  {
+    "text": "challenge understanding how we do that",
+    "start": 187.519,
+    "duration": 4.64
+  },
+  {
+    "text": "is the challenge of of my research and",
+    "start": 189.239,
+    "duration": 4.521
+  },
+  {
+    "text": "that that problem actually has two",
+    "start": 192.159,
+    "duration": 4.241
+  },
+  {
+    "text": "separate aspects so there's one aspect",
+    "start": 193.76,
+    "duration": 5.24
+  },
+  {
+    "text": "of that problem that is really a problem",
+    "start": 196.4,
+    "duration": 6.479
+  },
+  {
+    "text": "of computation it's it's a problem that",
+    "start": 199.0,
+    "duration": 7.36
+  },
+  {
+    "text": "is a challenge to basically any computer",
+    "start": 202.879,
+    "duration": 5.841
+  },
+  {
+    "text": "namely uh we have a whole bunch of",
+    "start": 206.36,
+    "duration": 4.84
+  },
+  {
+    "text": "different sounds and from a bunch of",
+    "start": 208.72,
+    "duration": 3.599
+  },
+  {
+    "text": "different sources and they're",
+    "start": 211.2,
+    "duration": 4.52
+  },
+  {
+    "text": "superimposed at the level of the ears",
+    "start": 212.319,
+    "duration": 5.2
+  },
+  {
+    "text": "and somehow they're they're added",
+    "start": 215.72,
+    "duration": 5.239
+  },
+  {
+    "text": "together and to us it's typically pretty",
+    "start": 217.519,
+    "duration": 5.401
+  },
+  {
+    "text": "effortless for us to separate out those",
+    "start": 220.959,
+    "duration": 3.36
+  },
+  {
+    "text": "different threads of the",
+    "start": 222.92,
+    "duration": 4.239
+  },
+  {
+    "text": "conversation uh but actually that's a",
+    "start": 224.319,
+    "duration": 6.92
+  },
+  {
+    "text": "surprisingly difficult task so uh",
+    "start": 227.159,
+    "duration": 6.601
+  },
+  {
+    "text": "computers maybe 10 years ago already",
+    "start": 231.239,
+    "duration": 4.881
+  },
+  {
+    "text": "were getting pretty good at doing uh",
+    "start": 233.76,
+    "duration": 6.72
+  },
+  {
+    "text": "speech recognition and in in uh",
+    "start": 236.12,
+    "duration": 7.119
+  },
+  {
+    "text": "controlled situations and quiet rooms",
+    "start": 240.48,
+    "duration": 4.8
+  },
+  {
+    "text": "computers were actually pretty good at",
+    "start": 243.239,
+    "duration": 6.401
+  },
+  {
+    "text": "recognizing even uh random speakers but",
+    "start": 245.28,
+    "duration": 5.879
+  },
+  {
+    "text": "when people uh actually started",
+    "start": 249.64,
+    "duration": 3.799
+  },
+  {
+    "text": "deploying these in real world settings",
+    "start": 251.159,
+    "duration": 4.16
+  },
+  {
+    "text": "where there's traffic noise and whatnot",
+    "start": 253.439,
+    "duration": 4.2
+  },
+  {
+    "text": "the computer algorithms broke down",
+    "start": 255.319,
+    "duration": 5.081
+  },
+  {
+    "text": "completely and it was sort of surprising",
+    "start": 257.639,
+    "duration": 4.681
+  },
+  {
+    "text": "at first because that's the aspect that",
+    "start": 260.4,
+    "duration": 5.12
+  },
+  {
+    "text": "we as humans seem to have uh not much",
+    "start": 262.32,
+    "duration": 6.56
+  },
+  {
+    "text": "trouble with at all so the the uh",
+    "start": 265.52,
+    "duration": 5.679
+  },
+  {
+    "text": "ability to take take apart the different",
+    "start": 268.88,
+    "duration": 4.319
+  },
+  {
+    "text": "components of an auditory scene that's",
+    "start": 271.199,
+    "duration": 3.921
+  },
+  {
+    "text": "what we've evolved for hundreds of",
+    "start": 273.199,
+    "duration": 4.84
+  },
+  {
+    "text": "millions of years to do really well um",
+    "start": 275.12,
+    "duration": 4.519
+  },
+  {
+    "text": "so that's one aspect of attention",
+    "start": 278.039,
+    "duration": 5.0
+  },
+  {
+    "text": "there's almost this sort of um uh aspect",
+    "start": 279.639,
+    "duration": 5.161
+  },
+  {
+    "text": "of it that happens before we're even",
+    "start": 283.039,
+    "duration": 4.241
+  },
+  {
+    "text": "aware of it where the auditory scene is",
+    "start": 284.8,
+    "duration": 4.76
+  },
+  {
+    "text": "broken down into the components the the",
+    "start": 287.28,
+    "duration": 5.199
+  },
+  {
+    "text": "other aspect which is uh the one that",
+    "start": 289.56,
+    "duration": 4.919
+  },
+  {
+    "text": "we're sort of more consciously aware of",
+    "start": 292.479,
+    "duration": 3.761
+  },
+  {
+    "text": "is the one where out of the many",
+    "start": 294.479,
+    "duration": 4.481
+  },
+  {
+    "text": "components of this conversation we or of",
+    "start": 296.24,
+    "duration": 5.48
+  },
+  {
+    "text": "this auditory we select one and that's",
+    "start": 298.96,
+    "duration": 6.64
+  },
+  {
+    "text": "the one we focus in on right so at this",
+    "start": 301.72,
+    "duration": 7.96
+  },
+  {
+    "text": "hypothetical cocktail party uh we have",
+    "start": 305.6,
+    "duration": 6.72
+  },
+  {
+    "text": "the choice of focusing on either the",
+    "start": 309.68,
+    "duration": 4.44
+  },
+  {
+    "text": "conversation we're engaged in or this",
+    "start": 312.32,
+    "duration": 5.599
+  },
+  {
+    "text": "one or that one",
+    "start": 314.12,
+    "duration": 3.799
+  }
+]

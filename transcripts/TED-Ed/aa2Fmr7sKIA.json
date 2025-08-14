@@ -1,0 +1,462 @@
+[
+  {
+    "text": "You’ve spent months creating\na basketball-playing robot,",
+    "start": 7.086,
+    "duration": 3.379
+  },
+  {
+    "text": "the Dunk-O-Matic,",
+    "start": 10.465,
+    "duration": 1.293
+  },
+  {
+    "text": "and you’re excited to demonstrate it\nat the prestigious Sportecha Conference.",
+    "start": 11.758,
+    "duration": 4.754
+  },
+  {
+    "text": "Until you read an advertisement:",
+    "start": 16.679,
+    "duration": 2.086
+  },
+  {
+    "text": "“See the Dunk-O-Matic face human players\nand automatically adjust its skill",
+    "start": 18.89,
+    "duration": 5.172
+  },
+  {
+    "text": "to create a fair game for every opponent!”",
+    "start": 24.062,
+    "duration": 3.42
+  },
+  {
+    "text": "That's not what you were told to create.",
+    "start": 27.607,
+    "duration": 2.586
+  },
+  {
+    "text": "You designed a robot that shoots baskets,",
+    "start": 30.318,
+    "duration": 2.502
+  },
+  {
+    "text": "sometimes successfully and sometimes not,\ntaking turns with a human opponent.",
+    "start": 32.904,
+    "duration": 5.213
+  },
+  {
+    "text": "No one said anything about teaching it\nto adjust its performance.",
+    "start": 38.493,
+    "duration": 3.712
+  },
+  {
+    "text": "Maybe the CEO skimmed an article\nabout AI and overpromised,",
+    "start": 42.288,
+    "duration": 4.338
+  },
+  {
+    "text": "setting you up for public embarrassment.",
+    "start": 46.626,
+    "duration": 2.544
+  },
+  {
+    "text": "Luckily, you installed a feature\nwhere given any probability q,",
+    "start": 49.629,
+    "duration": 4.629
+  },
+  {
+    "text": "you can adjust the robot to have that\nprobability of success on each attempt.",
+    "start": 54.383,
+    "duration": 5.089
+  },
+  {
+    "text": "You swiftly gather information,\nand jackpot:",
+    "start": 59.68,
+    "duration": 3.379
+  },
+  {
+    "text": "your team has a dossier on all\npotential demo participants,",
+    "start": 63.059,
+    "duration": 4.88
+  },
+  {
+    "text": "including the probability each has\nof making baskets.",
+    "start": 67.98,
+    "duration": 3.796
+  },
+  {
+    "text": "In each match, the human shoots first,\nthen the robot, then the human again,",
+    "start": 72.235,
+    "duration": 4.921
+  },
+  {
+    "text": "and so on until someone makes\nthe first successful basket and wins.",
+    "start": 77.156,
+    "duration": 4.672
+  },
+  {
+    "text": "You can remotely adjust the Dunk-O-Matic’s\nprobability between opponents.",
+    "start": 82.078,
+    "duration": 4.629
+  },
+  {
+    "text": "What should that probability\nbe for each opponent,",
+    "start": 86.916,
+    "duration": 3.212
+  },
+  {
+    "text": "so that the human has a 50% chance\nof winning each match?",
+    "start": 90.128,
+    "duration": 4.295
+  },
+  {
+    "text": "Pause here to figure it out yourself.\nAnswer in 3",
+    "start": 94.423,
+    "duration": 2.294
+  },
+  {
+    "text": "Answer in 2",
+    "start": 96.717,
+    "duration": 2.294
+  },
+  {
+    "text": "Answer in 1",
+    "start": 99.011,
+    "duration": 2.253
+  },
+  {
+    "text": "You might guess that q\nshould be equal to p.",
+    "start": 101.556,
+    "duration": 2.919
+  },
+  {
+    "text": "But that ignores the advantage\nof going first.",
+    "start": 104.684,
+    "duration": 3.17
+  },
+  {
+    "text": "Suppose p and q are both 100%.",
+    "start": 107.854,
+    "duration": 3.378
+  },
+  {
+    "text": "Even though the competitors\nare equally skilled,",
+    "start": 111.399,
+    "duration": 3.003
+  },
+  {
+    "text": "the first player always wins.",
+    "start": 114.402,
+    "duration": 2.419
+  },
+  {
+    "text": "So a deeper analysis is required.",
+    "start": 116.904,
+    "duration": 2.544
+  },
+  {
+    "text": "One approach involves adding up every\nchance the human has to win,",
+    "start": 119.991,
+    "duration": 5.255
+  },
+  {
+    "text": "using geometric series.",
+    "start": 125.246,
+    "duration": 2.21
+  },
+  {
+    "text": "A geometric series is an infinite\nsum of numbers,",
+    "start": 127.748,
+    "duration": 3.379
+  },
+  {
+    "text": "where each number is the previous number\nmultiplied by a common ratio.",
+    "start": 131.127,
+    "duration": 4.629
+  },
+  {
+    "text": "Two facts about geometric series\nare useful here.",
+    "start": 136.174,
+    "duration": 3.42
+  },
+  {
+    "text": "First, if the common ratio r\nof a geometric series",
+    "start": 140.136,
+    "duration": 3.962
+  },
+  {
+    "text": "has absolute value less than 1,",
+    "start": 144.098,
+    "duration": 2.669
+  },
+  {
+    "text": "the series has a finite total.",
+    "start": 146.934,
+    "duration": 2.169
+  },
+  {
+    "text": "And second, if the first number\nin the series is a,",
+    "start": 149.478,
+    "duration": 3.713
+  },
+  {
+    "text": "that total is: a divided by 1-minus-r.",
+    "start": 153.274,
+    "duration": 3.921
+  },
+  {
+    "text": "How does this help us calibrate our robot?",
+    "start": 157.862,
+    "duration": 2.961
+  },
+  {
+    "text": "Remember that the human has probability p\nof making a basket.",
+    "start": 160.907,
+    "duration": 4.671
+  },
+  {
+    "text": "Since they go first, they have probability\np of winning on the first try.",
+    "start": 165.828,
+    "duration": 5.047
+  },
+  {
+    "text": "What’s the probability that they win\non the second try?",
+    "start": 171.042,
+    "duration": 3.003
+  },
+  {
+    "text": "That attempt only happens\nif both players miss.",
+    "start": 174.253,
+    "duration": 3.587
+  },
+  {
+    "text": "The probability of a miss is 1 minus\nthe probability of a success,",
+    "start": 178.09,
+    "duration": 4.922
+  },
+  {
+    "text": "so the miss probabilities are\n1-minus-p and 1-minus-q.",
+    "start": 183.179,
+    "duration": 4.755
+  },
+  {
+    "text": "The chance of both happening\nis the product of those values.",
+    "start": 188.1,
+    "duration": 4.13
+  },
+  {
+    "text": "So the probability of two failures\nand then a human success",
+    "start": 192.313,
+    "duration": 4.004
+  },
+  {
+    "text": "is p times (1-minus-p) times (1-minus-q).",
+    "start": 196.4,
+    "duration": 3.921
+  },
+  {
+    "text": "Winning on the third try requires\nanother round of misses,",
+    "start": 200.696,
+    "duration": 4.088
+  },
+  {
+    "text": "so that chance is p multiplied\nby the double-miss probability twice.",
+    "start": 204.867,
+    "duration": 5.339
+  },
+  {
+    "text": "If we add all the possible probabilities\nof a human win,",
+    "start": 210.414,
+    "duration": 3.712
+  },
+  {
+    "text": "the total is the sum\nof a geometric series.",
+    "start": 214.126,
+    "duration": 3.42
+  },
+  {
+    "text": "Since the first number in the series is p,",
+    "start": 217.755,
+    "duration": 2.628
+  },
+  {
+    "text": "and the ratio is this product\nthat’s less than 1,",
+    "start": 220.383,
+    "duration": 3.378
+  },
+  {
+    "text": "the sum will be\n(p divided by 1) minus the ratio.",
+    "start": 224.053,
+    "duration": 4.463
+  },
+  {
+    "text": "We want this sum to be 1/2.",
+    "start": 228.766,
+    "duration": 2.628
+  },
+  {
+    "text": "Using some algebra to solve for q,",
+    "start": 231.519,
+    "duration": 2.627
+  },
+  {
+    "text": "we find that q should equal p\ndivided by 1-minus-p.",
+    "start": 234.188,
+    "duration": 4.505
+  },
+  {
+    "text": "If p is greater than 50%,\nq would need to be bigger than 1,",
+    "start": 238.943,
+    "duration": 4.713
+  },
+  {
+    "text": "which can’t happen.",
+    "start": 243.656,
+    "duration": 1.418
+  },
+  {
+    "text": "In that case, a fair game is impossible,",
+    "start": 245.324,
+    "duration": 3.087
+  },
+  {
+    "text": "because the human has a better-than-50%\nchance of winning immediately.",
+    "start": 248.411,
+    "duration": 4.379
+  },
+  {
+    "text": "The robot's total probability is also\nthe total of a geometric series.",
+    "start": 253.249,
+    "duration": 4.755
+  },
+  {
+    "text": "How does this series compare\nto the human’s?",
+    "start": 258.129,
+    "duration": 2.46
+  },
+  {
+    "text": "To win, the robot needs some number\nof double misses,",
+    "start": 260.84,
+    "duration": 3.712
+  },
+  {
+    "text": "then a human failure\nfollowed by a robot success.",
+    "start": 264.677,
+    "duration": 4.087
+  },
+  {
+    "text": "If q equals p over 1-minus-p,",
+    "start": 269.432,
+    "duration": 3.42
+  },
+  {
+    "text": "(1-minus-p) times q is p.",
+    "start": 272.852,
+    "duration": 2.961
+  },
+  {
+    "text": "For our choice of q, not only do these\nseries have the same sum,",
+    "start": 276.355,
+    "duration": 4.088
+  },
+  {
+    "text": "but they’re the same series!",
+    "start": 280.443,
+    "duration": 1.877
+  },
+  {
+    "text": "We could bypass geometric series\nby starting with this reasoning.",
+    "start": 283.195,
+    "duration": 4.088
+  },
+  {
+    "text": "The robot’s chances of winning in the\nfirst round is (1-minus-p) times q,",
+    "start": 287.533,
+    "duration": 5.214
+  },
+  {
+    "text": "and so if we want that chance to match\nthe human’s first-round chance,",
+    "start": 292.913,
+    "duration": 4.422
+  },
+  {
+    "text": "we want it to equal p,\nmaking q: p over 1-minus-p.",
+    "start": 297.418,
+    "duration": 5.005
+  },
+  {
+    "text": "More rounds may occur,\nbut before each round,",
+    "start": 302.84,
+    "duration": 3.003
+  },
+  {
+    "text": "the competitors are tied,\nso everything effectively restarts.",
+    "start": 305.843,
+    "duration": 4.63
+  },
+  {
+    "text": "If they have the same odds of winning\nin the first round,",
+    "start": 310.556,
+    "duration": 2.961
+  },
+  {
+    "text": "they also will in the second round,\nand so on.",
+    "start": 313.642,
+    "duration": 3.003
+  },
+  {
+    "text": "The demonstration goes perfectly,",
+    "start": 316.854,
+    "duration": 2.085
+  },
+  {
+    "text": "but while you didn't want\nto embarrass yourself,",
+    "start": 318.939,
+    "duration": 2.42
+  },
+  {
+    "text": "you also didn’t want\nto deceive the public.",
+    "start": 321.359,
+    "duration": 2.627
+  },
+  {
+    "text": "Taking the stage, you explain\nyour company’s false promises",
+    "start": 324.111,
+    "duration": 3.837
+  },
+  {
+    "text": "and your hastily ad-libbed solution.",
+    "start": 327.948,
+    "duration": 2.753
+  },
+  {
+    "text": "Thankfully, the ensuing bad press\nis directed at your employers,",
+    "start": 331.327,
+    "duration": 4.421
+  },
+  {
+    "text": "and it turns out the\npresentation volunteers",
+    "start": 335.915,
+    "duration": 2.544
+  },
+  {
+    "text": "own a more employee-friendly\nrobotics company.",
+    "start": 338.459,
+    "duration": 3.17
+  },
+  {
+    "text": "After some tedious intellectual\nproperty litigation,",
+    "start": 341.962,
+    "duration": 3.17
+  },
+  {
+    "text": "you find yourself at a healthier workplace",
+    "start": 345.132,
+    "duration": 2.544
+  },
+  {
+    "text": "with a regular spot on a\npickup basketball team.",
+    "start": 347.676,
+    "duration": 3.212
+  }
+]

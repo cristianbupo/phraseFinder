@@ -1,0 +1,807 @@
+[
+  {
+    "text": "Cancer.",
+    "start": 13.111,
+    "duration": 1.341
+  },
+  {
+    "text": "It's a devastating disease\nthat takes an enormous emotional toll.",
+    "start": 14.476,
+    "duration": 4.501
+  },
+  {
+    "text": "Not only on the patient,\nbut the patient's loved ones, as well.",
+    "start": 19.317,
+    "duration": 3.897
+  },
+  {
+    "text": "It is a battle that the human race\nhas been fighting for centuries.",
+    "start": 24.081,
+    "duration": 4.301
+  },
+  {
+    "text": "And while we've made some advancements,",
+    "start": 28.835,
+    "duration": 2.833
+  },
+  {
+    "text": "we still haven't beaten it.",
+    "start": 31.692,
+    "duration": 2.381
+  },
+  {
+    "text": "Two out of five people in the US\nwill develop cancer in their lifetime.",
+    "start": 35.033,
+    "duration": 5.272
+  },
+  {
+    "text": "Of those, 90 percent will succumb\nto the disease due to metastases.",
+    "start": 40.89,
+    "duration": 4.927
+  },
+  {
+    "text": "Metastasis is a spread of cancer\nfrom a primary site to a distal site,",
+    "start": 46.554,
+    "duration": 5.523
+  },
+  {
+    "text": "through the circulatory\nor the lymphatic system.",
+    "start": 52.101,
+    "duration": 3.119
+  },
+  {
+    "text": "For instance, a female patient\nwith breast cancer",
+    "start": 55.879,
+    "duration": 3.77
+  },
+  {
+    "text": "doesn't succumb to the disease simply\nbecause she has a mass on her breast.",
+    "start": 59.673,
+    "duration": 4.134
+  },
+  {
+    "text": "She succumbs to the disease\nbecause it spreads",
+    "start": 64.228,
+    "duration": 2.794
+  },
+  {
+    "text": "to the lungs, liver,\nlymph nodes, brain, bone,",
+    "start": 67.046,
+    "duration": 4.444
+  },
+  {
+    "text": "where it becomes unresectable\nor untreatable.",
+    "start": 71.514,
+    "duration": 3.198
+  },
+  {
+    "text": "Metastasis is a complicated process.",
+    "start": 75.927,
+    "duration": 2.849
+  },
+  {
+    "text": "One that I've studied\nfor several years now.",
+    "start": 78.8,
+    "duration": 2.626
+  },
+  {
+    "text": "And something that my team\nand I discovered recently",
+    "start": 81.879,
+    "duration": 3.452
+  },
+  {
+    "text": "was that cancer cells are able\nto communicate with each other",
+    "start": 85.355,
+    "duration": 3.754
+  },
+  {
+    "text": "and coordinate their movement,",
+    "start": 89.133,
+    "duration": 2.143
+  },
+  {
+    "text": "based on how closely packed they are\nin the tumor microenvironment.",
+    "start": 91.3,
+    "duration": 4.722
+  },
+  {
+    "text": "They communicate with each other\nthrough two signaling molecules",
+    "start": 96.887,
+    "duration": 3.483
+  },
+  {
+    "text": "called Interleukin-6 and Interleukin-8.",
+    "start": 100.394,
+    "duration": 2.67
+  },
+  {
+    "text": "Now, like anything else in nature,",
+    "start": 103.839,
+    "duration": 3.071
+  },
+  {
+    "text": "when things get a little too tight,\nthe signal is enhanced,",
+    "start": 106.934,
+    "duration": 4.643
+  },
+  {
+    "text": "causing the cancer cells\nto move away faster from the primary site",
+    "start": 111.601,
+    "duration": 4.516
+  },
+  {
+    "text": "and spread to a new site.",
+    "start": 116.141,
+    "duration": 2.245
+  },
+  {
+    "text": "So, if we block this signal,\nusing a drug cocktail that we developed,",
+    "start": 119.18,
+    "duration": 5.715
+  },
+  {
+    "text": "we can stop the communication\nbetween cancer cells",
+    "start": 124.919,
+    "duration": 3.674
+  },
+  {
+    "text": "and slow down the spread of cancer.",
+    "start": 128.617,
+    "duration": 2.682
+  },
+  {
+    "text": "Let me pause here for a second",
+    "start": 132.514,
+    "duration": 1.762
+  },
+  {
+    "text": "and take you back to when\nthis all began for me in 2010,",
+    "start": 134.3,
+    "duration": 4.801
+  },
+  {
+    "text": "when I was just a sophomore in college.",
+    "start": 139.125,
+    "duration": 2.705
+  },
+  {
+    "text": "I had just started working\nin Dr Danny Wirtz's lab",
+    "start": 142.346,
+    "duration": 3.406
+  },
+  {
+    "text": "at Johns Hopkins University.",
+    "start": 145.776,
+    "duration": 1.866
+  },
+  {
+    "text": "And I'll be honest: I was a young,\nnaive, Sri Lankan girl,",
+    "start": 148.347,
+    "duration": 5.325
+  },
+  {
+    "text": "(Laughter)",
+    "start": 153.696,
+    "duration": 1.159
+  },
+  {
+    "text": "who had no previous research experience.",
+    "start": 154.879,
+    "duration": 3.118
+  },
+  {
+    "text": "And I was tasked\nto look at how cancer cells move",
+    "start": 158.537,
+    "duration": 3.596
+  },
+  {
+    "text": "in a 3D collagen I matrix",
+    "start": 162.157,
+    "duration": 2.658
+  },
+  {
+    "text": "that recapsulated, in a dish,",
+    "start": 164.839,
+    "duration": 2.389
+  },
+  {
+    "text": "the conditions that cancer cells\nare exposed to in our bodies.",
+    "start": 167.252,
+    "duration": 4.2
+  },
+  {
+    "text": "This was new and exciting for me,",
+    "start": 172.117,
+    "duration": 1.786
+  },
+  {
+    "text": "because previous work had been done\non 2D, flat, plastic dishes",
+    "start": 173.927,
+    "duration": 5.023
+  },
+  {
+    "text": "that really weren't representative",
+    "start": 178.974,
+    "duration": 2.555
+  },
+  {
+    "text": "of what the cancer cells\nare exposed to in our bodies.",
+    "start": 181.553,
+    "duration": 3.667
+  },
+  {
+    "text": "Because, let's face it,",
+    "start": 185.665,
+    "duration": 2.286
+  },
+  {
+    "text": "the cancer cells in our bodies\naren't stuck onto plastic dishes.",
+    "start": 187.975,
+    "duration": 4.173
+  },
+  {
+    "text": "It was during this time\nthat I attended a seminar",
+    "start": 193.006,
+    "duration": 3.277
+  },
+  {
+    "text": "conducted by Dr Bonnie Bassler\nfrom Princeton University,",
+    "start": 196.307,
+    "duration": 4.04
+  },
+  {
+    "text": "where she talked about how bacteria cells\ncommunicate with each other,",
+    "start": 200.371,
+    "duration": 4.666
+  },
+  {
+    "text": "based on their population density,\nand perform a specific action.",
+    "start": 205.061,
+    "duration": 4.193
+  },
+  {
+    "text": "It was at this moment that a light bulb\nwent off in my head, and I thought,",
+    "start": 210.236,
+    "duration": 4.949
+  },
+  {
+    "text": "\"Wow, I see this\nin my cancer cells every day,",
+    "start": 215.209,
+    "duration": 3.532
+  },
+  {
+    "text": "when it comes to their movement.\"",
+    "start": 218.765,
+    "duration": 1.714
+  },
+  {
+    "text": "The idea for my project was thus born.",
+    "start": 220.908,
+    "duration": 2.682
+  },
+  {
+    "text": "I hypothesized that cancer cells\nare able to communicate with each other",
+    "start": 224.307,
+    "duration": 4.992
+  },
+  {
+    "text": "and coordinate their movement,",
+    "start": 229.323,
+    "duration": 2.19
+  },
+  {
+    "text": "based on how closely packed they are\nin the tumor microenvironment.",
+    "start": 231.537,
+    "duration": 4.286
+  },
+  {
+    "text": "I became obsessed with pursuing\nthis hypothesis.",
+    "start": 237.22,
+    "duration": 3.523
+  },
+  {
+    "text": "And fortunately, I work for someone",
+    "start": 241.243,
+    "duration": 2.787
+  },
+  {
+    "text": "who is open to running\nwith my crazy ideas.",
+    "start": 244.054,
+    "duration": 2.88
+  },
+  {
+    "text": "So, I threw myself into this project.",
+    "start": 247.466,
+    "duration": 2.658
+  },
+  {
+    "text": "However, I couldn't do it by myself.",
+    "start": 250.665,
+    "duration": 2.856
+  },
+  {
+    "text": "I needed help.",
+    "start": 253.958,
+    "duration": 1.15
+  },
+  {
+    "text": "I definitely needed help.",
+    "start": 255.442,
+    "duration": 1.611
+  },
+  {
+    "text": "So we recruited undergraduate\nstudents, graduate students,",
+    "start": 257.593,
+    "duration": 3.222
+  },
+  {
+    "text": "postdoctoral fellows and professors",
+    "start": 260.839,
+    "duration": 2.595
+  },
+  {
+    "text": "from different institutions\nand multiple disciplines",
+    "start": 263.458,
+    "duration": 3.889
+  },
+  {
+    "text": "to come together and work on this idea",
+    "start": 267.371,
+    "duration": 3.114
+  },
+  {
+    "text": "that I conceived\nas a sophomore in college.",
+    "start": 270.509,
+    "duration": 2.933
+  },
+  {
+    "text": "After years of conducting\nexperiments together",
+    "start": 273.935,
+    "duration": 3.303
+  },
+  {
+    "text": "and merging different ideas\nand perspectives,",
+    "start": 277.262,
+    "duration": 3.532
+  },
+  {
+    "text": "we discovered a new signaling pathway",
+    "start": 280.818,
+    "duration": 3.323
+  },
+  {
+    "text": "that controls how cancer cells\ncommunicate with each other and move,",
+    "start": 284.165,
+    "duration": 5.095
+  },
+  {
+    "text": "based on their cell density.",
+    "start": 289.284,
+    "duration": 1.866
+  },
+  {
+    "text": "Some of you might have heard this,",
+    "start": 292.331,
+    "duration": 1.684
+  },
+  {
+    "text": "because most of social media knows it\nas the Hasini effect.",
+    "start": 294.039,
+    "duration": 4.348
+  },
+  {
+    "text": "(Laughter)",
+    "start": 298.411,
+    "duration": 2.818
+  },
+  {
+    "text": "(Applause)",
+    "start": 301.253,
+    "duration": 6.181
+  },
+  {
+    "text": "And we weren't done yet.",
+    "start": 308.28,
+    "duration": 1.69
+  },
+  {
+    "text": "We then decided that we wanted\nto block this signaling pathway",
+    "start": 309.994,
+    "duration": 4.024
+  },
+  {
+    "text": "and see if we could slow down\nthe spread of cancer.",
+    "start": 314.042,
+    "duration": 2.96
+  },
+  {
+    "text": "Which we did, in preclinical\nanimal models.",
+    "start": 317.307,
+    "duration": 2.671
+  },
+  {
+    "text": "We came up with a drug cocktail\nconsisting of tocilizumab,",
+    "start": 320.458,
+    "duration": 4.071
+  },
+  {
+    "text": "which is currently used to treat\nrheumatoid arthritis,",
+    "start": 324.553,
+    "duration": 2.985
+  },
+  {
+    "text": "and reparixin, which is currently\nin clinical trials against breast cancer.",
+    "start": 327.562,
+    "duration": 4.878
+  },
+  {
+    "text": "And interestingly, what we found\nwas that this cocktail of drugs",
+    "start": 333.061,
+    "duration": 4.937
+  },
+  {
+    "text": "really had no effect on tumor growth,",
+    "start": 338.022,
+    "duration": 2.578
+  },
+  {
+    "text": "but directly targeted metastases.",
+    "start": 340.624,
+    "duration": 2.603
+  },
+  {
+    "text": "This was a significant finding,",
+    "start": 343.982,
+    "duration": 2.778
+  },
+  {
+    "text": "because currently, there aren't any\nFDA-approved therapeutics",
+    "start": 346.784,
+    "duration": 4.269
+  },
+  {
+    "text": "that directly target the spread of cancer.",
+    "start": 351.077,
+    "duration": 2.619
+  },
+  {
+    "text": "In fact, the spread of cancer, metastasis,",
+    "start": 354.149,
+    "duration": 3.487
+  },
+  {
+    "text": "is thought of as a byproduct\nof tumor growth.",
+    "start": 357.66,
+    "duration": 3.103
+  },
+  {
+    "text": "Where the idea is, if we can stop\nthe tumor from growing,",
+    "start": 361.168,
+    "duration": 3.794
+  },
+  {
+    "text": "we can stop the tumor from spreading.",
+    "start": 364.986,
+    "duration": 2.734
+  },
+  {
+    "text": "However, most of us know\nthat this is not true.",
+    "start": 367.744,
+    "duration": 4.126
+  },
+  {
+    "text": "We, on the other hand,\ncame up with the drug cocktail",
+    "start": 372.776,
+    "duration": 3.706
+  },
+  {
+    "text": "that targets metastasis\nnot by targeting tumor growth,",
+    "start": 376.506,
+    "duration": 4.079
+  },
+  {
+    "text": "but by targeting the complex\nmechanisms that govern it,",
+    "start": 380.609,
+    "duration": 3.667
+  },
+  {
+    "text": "through the targeting\nof the Hasini effect.",
+    "start": 384.3,
+    "duration": 3.147
+  },
+  {
+    "text": "(Laughter)",
+    "start": 387.471,
+    "duration": 1.15
+  },
+  {
+    "text": "This work was recently published\nin \"Nature Communications,\"",
+    "start": 389.244,
+    "duration": 4.271
+  },
+  {
+    "text": "and my team and I received an overwhelming\nresponse from around the world.",
+    "start": 393.539,
+    "duration": 5.0
+  },
+  {
+    "text": "Nobody on my team could have predicted\nthis sort of response.",
+    "start": 398.95,
+    "duration": 3.96
+  },
+  {
+    "text": "We seem to have struck a nerve.",
+    "start": 402.934,
+    "duration": 1.933
+  },
+  {
+    "text": "Looking back, I am extremely grateful\nfor the positive response that I received,",
+    "start": 405.267,
+    "duration": 5.506
+  },
+  {
+    "text": "not only from academia, but also patients,",
+    "start": 410.797,
+    "duration": 3.064
+  },
+  {
+    "text": "and people around the world\naffected by this terrible disease.",
+    "start": 413.885,
+    "duration": 3.932
+  },
+  {
+    "text": "As I reflect on this success\nI've encountered with the Hasini effect,",
+    "start": 418.807,
+    "duration": 5.096
+  },
+  {
+    "text": "I keep coming back to the people\nthat I was fortunate enough to work with.",
+    "start": 423.927,
+    "duration": 4.766
+  },
+  {
+    "text": "The undergraduate students",
+    "start": 429.678,
+    "duration": 1.636
+  },
+  {
+    "text": "who demonstrated superhuman powers\nthrough their hard work and dedication.",
+    "start": 431.338,
+    "duration": 5.106
+  },
+  {
+    "text": "The graduate students\nand the postdoctoral fellows,",
+    "start": 436.886,
+    "duration": 3.35
+  },
+  {
+    "text": "my fellow Avengers,\nwho taught me new techniques",
+    "start": 440.26,
+    "duration": 3.548
+  },
+  {
+    "text": "and always made sure I stayed on track.",
+    "start": 443.832,
+    "duration": 2.6
+  },
+  {
+    "text": "The professors, my Yodas\nand my Obi-Wan Kenobis,",
+    "start": 446.95,
+    "duration": 4.31
+  },
+  {
+    "text": "who brought their expertise into\nmaking this work into what it is today.",
+    "start": 451.284,
+    "duration": 5.136
+  },
+  {
+    "text": "The support staff, the friends and family,",
+    "start": 457.371,
+    "duration": 3.198
+  },
+  {
+    "text": "people who lifted our spirits,",
+    "start": 460.593,
+    "duration": 2.54
+  },
+  {
+    "text": "and never let us give up\non our ambitious endeavors.",
+    "start": 463.157,
+    "duration": 3.533
+  },
+  {
+    "text": "The best kind of sidekicks\nwe could have asked for.",
+    "start": 467.196,
+    "duration": 3.151
+  },
+  {
+    "text": "It took a village to help me\nstudy metastasis.",
+    "start": 470.966,
+    "duration": 3.067
+  },
+  {
+    "text": "And believe me, without my village,\nI wouldn't be here.",
+    "start": 474.347,
+    "duration": 3.713
+  },
+  {
+    "text": "Today, our team has grown,",
+    "start": 479.205,
+    "duration": 2.444
+  },
+  {
+    "text": "and we are using the Hasini effect\nto develop combination therapies",
+    "start": 481.673,
+    "duration": 4.658
+  },
+  {
+    "text": "that will effectively target\ntumor growth and metastases.",
+    "start": 486.355,
+    "duration": 4.079
+  },
+  {
+    "text": "We are engineering\nnew anticancer therapeutics,",
+    "start": 490.458,
+    "duration": 3.365
+  },
+  {
+    "text": "to limit toxicity and to reduce\ndrug resistance.",
+    "start": 493.847,
+    "duration": 3.635
+  },
+  {
+    "text": "And we are developing\ngroundbreaking systems",
+    "start": 497.958,
+    "duration": 3.302
+  },
+  {
+    "text": "that will help for the development\nof better human clinical trials.",
+    "start": 501.284,
+    "duration": 4.25
+  },
+  {
+    "text": "It blows my mind to think that all this,",
+    "start": 506.474,
+    "duration": 4.405
+  },
+  {
+    "text": "the incredible work that I'm pursuing --",
+    "start": 510.903,
+    "duration": 2.755
+  },
+  {
+    "text": "and the fact that I'm standing here,\ntalking to you today --",
+    "start": 513.682,
+    "duration": 3.151
+  },
+  {
+    "text": "all came from this tiny idea",
+    "start": 516.857,
+    "duration": 3.167
+  },
+  {
+    "text": "that I had when I was sitting\nat the back of a seminar",
+    "start": 520.048,
+    "duration": 2.96
+  },
+  {
+    "text": "when I was just 20 years old.",
+    "start": 523.032,
+    "duration": 1.933
+  },
+  {
+    "text": "I recognize that right now,\nI am on this incredible journey",
+    "start": 526.325,
+    "duration": 4.389
+  },
+  {
+    "text": "that allows me to pursue work\nthat I am extremely passionate about,",
+    "start": 530.738,
+    "duration": 4.26
+  },
+  {
+    "text": "and something that feeds\nmy curiosity on a daily basis.",
+    "start": 535.022,
+    "duration": 3.983
+  },
+  {
+    "text": "But I have to say,\nmy favorite part of all of this --",
+    "start": 539.879,
+    "duration": 5.099
+  },
+  {
+    "text": "other than, of course, being here,\ntalking to you, today --",
+    "start": 545.002,
+    "duration": 3.007
+  },
+  {
+    "text": "is the fact that I get to work\nwith a diverse group of people,",
+    "start": 548.033,
+    "duration": 4.933
+  },
+  {
+    "text": "who make my work stronger,\nbetter and just so much more fun.",
+    "start": 552.99,
+    "duration": 5.912
+  },
+  {
+    "text": "And because of this, I have to say",
+    "start": 559.694,
+    "duration": 2.698
+  },
+  {
+    "text": "that collaboration is my favorite\nsuperhuman power.",
+    "start": 562.416,
+    "duration": 3.682
+  },
+  {
+    "text": "And what I love about this power\nis that it's not unique to me.",
+    "start": 566.94,
+    "duration": 4.451
+  },
+  {
+    "text": "It's within all of us.",
+    "start": 571.415,
+    "duration": 1.634
+  },
+  {
+    "text": "My work shows that even cancer cells",
+    "start": 573.7,
+    "duration": 3.223
+  },
+  {
+    "text": "use collaboration to invade our bodies\nand spread their wrath.",
+    "start": 576.947,
+    "duration": 4.301
+  },
+  {
+    "text": "For us humans, it is a superpower\nthat has produced incredible discoveries",
+    "start": 581.958,
+    "duration": 5.198
+  },
+  {
+    "text": "in the medical and scientific field.",
+    "start": 587.18,
+    "duration": 2.4
+  },
+  {
+    "text": "And it is the superpower\nthat we can all turn to",
+    "start": 589.958,
+    "duration": 3.405
+  },
+  {
+    "text": "to inspire us to create\nsomething bigger than ourselves,",
+    "start": 593.387,
+    "duration": 3.69
+  },
+  {
+    "text": "that will help make\nthe world a better place.",
+    "start": 597.101,
+    "duration": 3.067
+  },
+  {
+    "text": "Collaboration is the superpower\nthat I turn to, to help me fight cancer.",
+    "start": 600.641,
+    "duration": 5.529
+  },
+  {
+    "text": "And I am confident\nthat with the right collaborations,",
+    "start": 606.702,
+    "duration": 3.96
+  },
+  {
+    "text": "we will beat this terrible disease.",
+    "start": 610.686,
+    "duration": 2.334
+  },
+  {
+    "text": "Thank you.",
+    "start": 613.678,
+    "duration": 1.151
+  },
+  {
+    "text": "(Applause)",
+    "start": 614.853,
+    "duration": 3.424
+  }
+]

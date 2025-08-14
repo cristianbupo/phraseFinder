@@ -1,0 +1,892 @@
+[
+  {
+    "text": "I'm going to tell you about the most\namazing machines in the world",
+    "start": 12.982,
+    "duration": 4.059
+  },
+  {
+    "text": "and what we can now do with them.",
+    "start": 17.065,
+    "duration": 1.768
+  },
+  {
+    "text": "Proteins,",
+    "start": 19.396,
+    "duration": 1.163
+  },
+  {
+    "text": "some of which you see inside a cell here,",
+    "start": 20.583,
+    "duration": 2.25
+  },
+  {
+    "text": "carry out essentially all the important\nfunctions in our bodies.",
+    "start": 22.857,
+    "duration": 3.459
+  },
+  {
+    "text": "Proteins digest your food,",
+    "start": 26.972,
+    "duration": 1.879
+  },
+  {
+    "text": "contract your muscles,",
+    "start": 28.875,
+    "duration": 1.706
+  },
+  {
+    "text": "fire your neurons",
+    "start": 30.605,
+    "duration": 1.577
+  },
+  {
+    "text": "and power your immune system.",
+    "start": 32.206,
+    "duration": 1.616
+  },
+  {
+    "text": "Everything that happens in biology --",
+    "start": 34.4,
+    "duration": 1.976
+  },
+  {
+    "text": "almost --",
+    "start": 36.4,
+    "duration": 1.151
+  },
+  {
+    "text": "happens because of proteins.",
+    "start": 37.575,
+    "duration": 1.412
+  },
+  {
+    "text": "Proteins are linear chains\nof building blocks called amino acids.",
+    "start": 39.698,
+    "duration": 4.075
+  },
+  {
+    "text": "Nature uses an alphabet of 20 amino acids,",
+    "start": 44.366,
+    "duration": 3.233
+  },
+  {
+    "text": "some of which have names\nyou may have heard of.",
+    "start": 47.623,
+    "duration": 2.275
+  },
+  {
+    "text": "In this picture, for scale,\neach bump is an atom.",
+    "start": 50.921,
+    "duration": 3.542
+  },
+  {
+    "text": "Chemical forces between the amino acids\ncause these long stringy molecules",
+    "start": 55.351,
+    "duration": 4.644
+  },
+  {
+    "text": "to fold up into unique,\nthree-dimensional structures.",
+    "start": 60.019,
+    "duration": 3.461
+  },
+  {
+    "text": "The folding process,",
+    "start": 63.937,
+    "duration": 1.34
+  },
+  {
+    "text": "while it looks random,",
+    "start": 65.301,
+    "duration": 1.434
+  },
+  {
+    "text": "is in fact very precise.",
+    "start": 66.759,
+    "duration": 1.963
+  },
+  {
+    "text": "Each protein folds\nto its characteristic shape each time,",
+    "start": 68.746,
+    "duration": 4.397
+  },
+  {
+    "text": "and the folding process\ntakes just a fraction of a second.",
+    "start": 73.167,
+    "duration": 3.388
+  },
+  {
+    "text": "And it's the shapes of proteins",
+    "start": 78.029,
+    "duration": 1.844
+  },
+  {
+    "text": "which enable them to carry out\ntheir remarkable biological functions.",
+    "start": 79.897,
+    "duration": 3.97
+  },
+  {
+    "text": "For example,",
+    "start": 84.52,
+    "duration": 1.151
+  },
+  {
+    "text": "hemoglobin has a shape\nin the lungs perfectly suited",
+    "start": 85.695,
+    "duration": 3.508
+  },
+  {
+    "text": "for binding a molecule of oxygen.",
+    "start": 89.227,
+    "duration": 1.987
+  },
+  {
+    "text": "When hemoglobin moves to your muscle,",
+    "start": 91.759,
+    "duration": 1.892
+  },
+  {
+    "text": "the shape changes slightly",
+    "start": 93.675,
+    "duration": 1.932
+  },
+  {
+    "text": "and the oxygen comes out.",
+    "start": 95.631,
+    "duration": 2.191
+  },
+  {
+    "text": "The shapes of proteins,",
+    "start": 99.494,
+    "duration": 1.366
+  },
+  {
+    "text": "and hence their remarkable functions,",
+    "start": 100.884,
+    "duration": 2.213
+  },
+  {
+    "text": "are completely specified by the sequence\nof amino acids in the protein chain.",
+    "start": 103.121,
+    "duration": 5.778
+  },
+  {
+    "text": "In this picture, each letter\non top is an amino acid.",
+    "start": 109.331,
+    "duration": 3.941
+  },
+  {
+    "text": "Where do these sequences come from?",
+    "start": 114.86,
+    "duration": 1.837
+  },
+  {
+    "text": "The genes in your genome\nspecify the amino acid sequences",
+    "start": 117.586,
+    "duration": 4.824
+  },
+  {
+    "text": "of your proteins.",
+    "start": 122.434,
+    "duration": 1.398
+  },
+  {
+    "text": "Each gene encodes the amino acid\nsequence of a single protein.",
+    "start": 123.856,
+    "duration": 3.738
+  },
+  {
+    "text": "The translation between\nthese amino acid sequences",
+    "start": 129.515,
+    "duration": 3.802
+  },
+  {
+    "text": "and the structures\nand functions of proteins",
+    "start": 133.341,
+    "duration": 2.458
+  },
+  {
+    "text": "is known as the protein folding problem.",
+    "start": 135.823,
+    "duration": 2.057
+  },
+  {
+    "text": "It's a very hard problem",
+    "start": 138.439,
+    "duration": 1.545
+  },
+  {
+    "text": "because there's so many different\nshapes a protein can adopt.",
+    "start": 140.008,
+    "duration": 3.18
+  },
+  {
+    "text": "Because of this complexity,",
+    "start": 144.073,
+    "duration": 1.645
+  },
+  {
+    "text": "humans have only been able\nto harness the power of proteins",
+    "start": 145.742,
+    "duration": 2.937
+  },
+  {
+    "text": "by making very small changes\nto the amino acid sequences",
+    "start": 148.703,
+    "duration": 3.468
+  },
+  {
+    "text": "of the proteins we've found in nature.",
+    "start": 152.195,
+    "duration": 2.091
+  },
+  {
+    "text": "This is similar to the process\nthat our Stone Age ancestors used",
+    "start": 154.835,
+    "duration": 3.858
+  },
+  {
+    "text": "to make tools and other implements\nfrom the sticks and stones",
+    "start": 158.717,
+    "duration": 3.359
+  },
+  {
+    "text": "that we found in the world around us.",
+    "start": 162.1,
+    "duration": 2.003
+  },
+  {
+    "text": "But humans did not learn to fly\nby modifying birds.",
+    "start": 165.226,
+    "duration": 5.024
+  },
+  {
+    "text": "(Laughter)",
+    "start": 170.79,
+    "duration": 2.017
+  },
+  {
+    "text": "Instead, scientists, inspired by birds,\nuncovered the principles of aerodynamics.",
+    "start": 172.831,
+    "duration": 6.31
+  },
+  {
+    "text": "Engineers then used those principles\nto design custom flying machines.",
+    "start": 179.165,
+    "duration": 4.395
+  },
+  {
+    "text": "In a similar way,",
+    "start": 184.195,
+    "duration": 1.245
+  },
+  {
+    "text": "we've been working for a number of years",
+    "start": 185.464,
+    "duration": 1.942
+  },
+  {
+    "text": "to uncover the fundamental\nprinciples of protein folding",
+    "start": 187.43,
+    "duration": 3.269
+  },
+  {
+    "text": "and encoding those principles\nin the computer program called Rosetta.",
+    "start": 190.723,
+    "duration": 4.059
+  },
+  {
+    "text": "We made a breakthrough in recent years.",
+    "start": 195.742,
+    "duration": 2.513
+  },
+  {
+    "text": "We can now design completely new proteins\nfrom scratch on the computer.",
+    "start": 199.029,
+    "duration": 4.459
+  },
+  {
+    "text": "Once we've designed the new protein,",
+    "start": 204.396,
+    "duration": 2.068
+  },
+  {
+    "text": "we encode its amino acid sequence\nin a synthetic gene.",
+    "start": 207.242,
+    "duration": 3.903
+  },
+  {
+    "text": "We have to make a synthetic gene",
+    "start": 211.656,
+    "duration": 1.888
+  },
+  {
+    "text": "because since the protein\nis completely new,",
+    "start": 213.568,
+    "duration": 2.251
+  },
+  {
+    "text": "there's no gene in any organism on earth\nwhich currently exists that encodes it.",
+    "start": 215.843,
+    "duration": 4.762
+  },
+  {
+    "text": "Our advances in understanding\nprotein folding",
+    "start": 221.697,
+    "duration": 4.187
+  },
+  {
+    "text": "and how to design proteins,",
+    "start": 225.908,
+    "duration": 1.722
+  },
+  {
+    "text": "coupled with the decreasing cost\nof gene synthesis",
+    "start": 227.654,
+    "duration": 3.628
+  },
+  {
+    "text": "and the Moore's law increase\nin computing power,",
+    "start": 231.306,
+    "duration": 3.499
+  },
+  {
+    "text": "now enable us to design\ntens of thousands of new proteins,",
+    "start": 234.829,
+    "duration": 4.736
+  },
+  {
+    "text": "with new shapes and new functions,",
+    "start": 239.589,
+    "duration": 2.339
+  },
+  {
+    "text": "on the computer,",
+    "start": 241.952,
+    "duration": 1.513
+  },
+  {
+    "text": "and encode each one of those\nin a synthetic gene.",
+    "start": 243.489,
+    "duration": 3.915
+  },
+  {
+    "text": "Once we have those synthetic genes,",
+    "start": 248.248,
+    "duration": 1.668
+  },
+  {
+    "text": "we put them into bacteria",
+    "start": 249.94,
+    "duration": 1.545
+  },
+  {
+    "text": "to program them to make\nthese brand-new proteins.",
+    "start": 251.509,
+    "duration": 3.305
+  },
+  {
+    "text": "We then extract the proteins",
+    "start": 255.197,
+    "duration": 2.073
+  },
+  {
+    "text": "and determine whether they function\nas we designed them to",
+    "start": 257.294,
+    "duration": 3.436
+  },
+  {
+    "text": "and whether they're safe.",
+    "start": 260.754,
+    "duration": 1.411
+  },
+  {
+    "text": "It's exciting to be able\nto make new proteins,",
+    "start": 263.867,
+    "duration": 2.465
+  },
+  {
+    "text": "because despite the diversity in nature,",
+    "start": 266.356,
+    "duration": 2.496
+  },
+  {
+    "text": "evolution has only sampled a tiny fraction\nof the total number of proteins possible.",
+    "start": 268.876,
+    "duration": 6.092
+  },
+  {
+    "text": "I told you that nature uses\nan alphabet of 20 amino acids,",
+    "start": 275.572,
+    "duration": 3.495
+  },
+  {
+    "text": "and a typical protein is a chain\nof about 100 amino acids,",
+    "start": 279.091,
+    "duration": 4.449
+  },
+  {
+    "text": "so the total number of possibilities\nis 20 times 20 times 20, 100 times,",
+    "start": 283.564,
+    "duration": 5.552
+  },
+  {
+    "text": "which is a number on the order\nof 10 to the 130th power,",
+    "start": 289.14,
+    "duration": 3.817
+  },
+  {
+    "text": "which is enormously more\nthan the total number of proteins",
+    "start": 292.981,
+    "duration": 3.812
+  },
+  {
+    "text": "which have existed\nsince life on earth began.",
+    "start": 296.817,
+    "duration": 2.416
+  },
+  {
+    "text": "And it's this unimaginably large space",
+    "start": 299.99,
+    "duration": 2.691
+  },
+  {
+    "text": "we can now explore\nusing computational protein design.",
+    "start": 302.705,
+    "duration": 3.53
+  },
+  {
+    "text": "Now the proteins that exist on earth",
+    "start": 307.747,
+    "duration": 2.369
+  },
+  {
+    "text": "evolved to solve the problems\nfaced by natural evolution.",
+    "start": 310.14,
+    "duration": 3.993
+  },
+  {
+    "text": "For example, replicating the genome.",
+    "start": 314.705,
+    "duration": 2.353
+  },
+  {
+    "text": "But we face new challenges today.",
+    "start": 318.128,
+    "duration": 2.284
+  },
+  {
+    "text": "We live longer, so new\ndiseases are important.",
+    "start": 320.436,
+    "duration": 2.737
+  },
+  {
+    "text": "We're heating up and polluting the planet,",
+    "start": 323.197,
+    "duration": 2.215
+  },
+  {
+    "text": "so we face a whole host\nof ecological challenges.",
+    "start": 325.436,
+    "duration": 3.558
+  },
+  {
+    "text": "If we had a million years to wait,",
+    "start": 329.977,
+    "duration": 1.808
+  },
+  {
+    "text": "new proteins might evolve\nto solve those challenges.",
+    "start": 331.809,
+    "duration": 3.208
+  },
+  {
+    "text": "But we don't have\nmillions of years to wait.",
+    "start": 335.787,
+    "duration": 2.059
+  },
+  {
+    "text": "Instead, with computational\nprotein design,",
+    "start": 338.488,
+    "duration": 2.871
+  },
+  {
+    "text": "we can design new proteins\nto address these challenges today.",
+    "start": 341.383,
+    "duration": 4.439
+  },
+  {
+    "text": "Our audacious idea is to bring\nbiology out of the Stone Age",
+    "start": 347.693,
+    "duration": 4.45
+  },
+  {
+    "text": "through technological revolution\nin protein design.",
+    "start": 352.167,
+    "duration": 2.975
+  },
+  {
+    "text": "We've already shown\nthat we can design new proteins",
+    "start": 356.113,
+    "duration": 2.864
+  },
+  {
+    "text": "with new shapes and functions.",
+    "start": 359.001,
+    "duration": 1.683
+  },
+  {
+    "text": "For example, vaccines work\nby stimulating your immune system",
+    "start": 361.174,
+    "duration": 4.308
+  },
+  {
+    "text": "to make a strong response\nagainst a pathogen.",
+    "start": 365.506,
+    "duration": 3.122
+  },
+  {
+    "text": "To make better vaccines,",
+    "start": 369.698,
+    "duration": 1.551
+  },
+  {
+    "text": "we've designed protein particles",
+    "start": 371.273,
+    "duration": 2.302
+  },
+  {
+    "text": "to which we can fuse\nproteins from pathogens,",
+    "start": 373.599,
+    "duration": 3.587
+  },
+  {
+    "text": "like this blue protein here,\nfrom the respiratory virus RSV.",
+    "start": 377.21,
+    "duration": 4.334
+  },
+  {
+    "text": "To make vaccine candidates",
+    "start": 382.131,
+    "duration": 1.73
+  },
+  {
+    "text": "that are literally bristling\nwith the viral protein,",
+    "start": 383.885,
+    "duration": 3.663
+  },
+  {
+    "text": "we find that such vaccine candidates",
+    "start": 387.572,
+    "duration": 2.57
+  },
+  {
+    "text": "produce a much stronger\nimmune response to the virus",
+    "start": 390.166,
+    "duration": 3.302
+  },
+  {
+    "text": "than any previous vaccines\nthat have been tested.",
+    "start": 393.492,
+    "duration": 2.703
+  },
+  {
+    "text": "This is important because RSV\nis currently one of the leading causes",
+    "start": 396.648,
+    "duration": 3.85
+  },
+  {
+    "text": "of infant mortality worldwide.",
+    "start": 400.522,
+    "duration": 2.229
+  },
+  {
+    "text": "We've also designed new proteins\nto break down gluten in your stomach",
+    "start": 404.414,
+    "duration": 3.963
+  },
+  {
+    "text": "for celiac disease",
+    "start": 408.401,
+    "duration": 1.597
+  },
+  {
+    "text": "and other proteins to stimulate\nyour immune system to fight cancer.",
+    "start": 410.022,
+    "duration": 4.376
+  },
+  {
+    "text": "These advances are the beginning\nof the protein design revolution.",
+    "start": 415.338,
+    "duration": 3.939
+  },
+  {
+    "text": "We've been inspired by a previous\ntechnological revolution:",
+    "start": 420.85,
+    "duration": 3.19
+  },
+  {
+    "text": "the digital revolution,",
+    "start": 424.064,
+    "duration": 1.345
+  },
+  {
+    "text": "which took place in large part\ndue to advances in one place,",
+    "start": 425.433,
+    "duration": 5.125
+  },
+  {
+    "text": "Bell Laboratories.",
+    "start": 430.582,
+    "duration": 1.272
+  },
+  {
+    "text": "Bell Labs was a place with an open,\ncollaborative environment,",
+    "start": 432.337,
+    "duration": 3.294
+  },
+  {
+    "text": "and was able to attract top talent\nfrom around the world.",
+    "start": 435.655,
+    "duration": 3.183
+  },
+  {
+    "text": "And this led to a remarkable\nstring of innovations --",
+    "start": 439.418,
+    "duration": 3.442
+  },
+  {
+    "text": "the transistor, the laser,\nsatellite communication",
+    "start": 442.884,
+    "duration": 4.191
+  },
+  {
+    "text": "and the foundations of the internet.",
+    "start": 447.099,
+    "duration": 1.726
+  },
+  {
+    "text": "Our goal is to build\nthe Bell Laboratories of protein design.",
+    "start": 449.761,
+    "duration": 3.841
+  },
+  {
+    "text": "We are seeking to attract\ntalented scientists from around the world",
+    "start": 454.076,
+    "duration": 3.515
+  },
+  {
+    "text": "to accelerate the protein\ndesign revolution,",
+    "start": 457.615,
+    "duration": 2.935
+  },
+  {
+    "text": "and we'll be focusing\non five grand challenges.",
+    "start": 460.574,
+    "duration": 4.088
+  },
+  {
+    "text": "First, by taking proteins from flu strains\nfrom around the world",
+    "start": 466.136,
+    "duration": 5.597
+  },
+  {
+    "text": "and putting them on top\nof the designed protein particles",
+    "start": 471.757,
+    "duration": 3.554
+  },
+  {
+    "text": "I showed you earlier,",
+    "start": 475.335,
+    "duration": 1.667
+  },
+  {
+    "text": "we aim to make a universal flu vaccine,",
+    "start": 477.026,
+    "duration": 3.39
+  },
+  {
+    "text": "one shot of which gives a lifetime\nof protection against the flu.",
+    "start": 480.44,
+    "duration": 3.951
+  },
+  {
+    "text": "The ability to design --",
+    "start": 485.356,
+    "duration": 1.612
+  },
+  {
+    "text": "(Applause)",
+    "start": 486.992,
+    "duration": 5.224
+  },
+  {
+    "text": "The ability to design\nnew vaccines on the computer",
+    "start": 492.24,
+    "duration": 3.068
+  },
+  {
+    "text": "is important both to protect\nagainst natural flu epidemics",
+    "start": 495.332,
+    "duration": 5.308
+  },
+  {
+    "text": "and, in addition, intentional\nacts of bioterrorism.",
+    "start": 500.664,
+    "duration": 3.48
+  },
+  {
+    "text": "Second, we're going far beyond\nnature's limited alphabet",
+    "start": 505.272,
+    "duration": 3.29
+  },
+  {
+    "text": "of just 20 amino acids",
+    "start": 508.586,
+    "duration": 1.711
+  },
+  {
+    "text": "to design new therapeutic candidates\nfor conditions such as chronic pain,",
+    "start": 510.321,
+    "duration": 4.735
+  },
+  {
+    "text": "using an alphabet\nof thousands of amino acids.",
+    "start": 515.08,
+    "duration": 2.631
+  },
+  {
+    "text": "Third, we're building\nadvanced delivery vehicles",
+    "start": 518.602,
+    "duration": 3.813
+  },
+  {
+    "text": "to target existing medications\nexactly where they need to go in the body.",
+    "start": 522.439,
+    "duration": 4.164
+  },
+  {
+    "text": "For example, chemotherapy to a tumor",
+    "start": 527.226,
+    "duration": 2.649
+  },
+  {
+    "text": "or gene therapies to the tissue\nwhere gene repair needs to take place.",
+    "start": 529.899,
+    "duration": 4.303
+  },
+  {
+    "text": "Fourth, we're designing smart therapeutics\nthat can do calculations within the body",
+    "start": 535.0,
+    "duration": 6.532
+  },
+  {
+    "text": "and go far beyond current medicines,",
+    "start": 541.556,
+    "duration": 2.214
+  },
+  {
+    "text": "which are really blunt instruments.",
+    "start": 543.794,
+    "duration": 2.264
+  },
+  {
+    "text": "For example, to target a small\nsubset of immune cells",
+    "start": 546.082,
+    "duration": 4.349
+  },
+  {
+    "text": "responsible for an autoimmune disorder,",
+    "start": 550.455,
+    "duration": 2.081
+  },
+  {
+    "text": "and distinguish them from the vast\nmajority of healthy immune cells.",
+    "start": 552.56,
+    "duration": 3.458
+  },
+  {
+    "text": "Finally, inspired by remarkable\nbiological materials",
+    "start": 556.899,
+    "duration": 3.412
+  },
+  {
+    "text": "such as silk, abalone shell,\ntooth and others,",
+    "start": 560.335,
+    "duration": 5.108
+  },
+  {
+    "text": "we're designing new\nprotein-based materials",
+    "start": 565.467,
+    "duration": 2.884
+  },
+  {
+    "text": "to address challenges in energy\nand ecological issues.",
+    "start": 568.375,
+    "duration": 4.163
+  },
+  {
+    "text": "To do all this,\nwe're growing our institute.",
+    "start": 573.558,
+    "duration": 2.845
+  },
+  {
+    "text": "We seek to attract energetic,\ntalented and diverse scientists",
+    "start": 576.768,
+    "duration": 5.599
+  },
+  {
+    "text": "from around the world,\nat all career stages,",
+    "start": 582.391,
+    "duration": 3.08
+  },
+  {
+    "text": "to join us.",
+    "start": 585.495,
+    "duration": 1.15
+  },
+  {
+    "text": "You can also participate\nin the protein design revolution",
+    "start": 587.304,
+    "duration": 3.303
+  },
+  {
+    "text": "through our online\nfolding and design game, \"Foldit.\"",
+    "start": 590.631,
+    "duration": 3.744
+  },
+  {
+    "text": "And through our distributed\ncomputing project, Rosetta@home,",
+    "start": 595.214,
+    "duration": 3.851
+  },
+  {
+    "text": "which you can join from your laptop\nor your Android smartphone.",
+    "start": 599.089,
+    "duration": 3.731
+  },
+  {
+    "text": "Making the world a better place\nthrough protein design is my life's work.",
+    "start": 604.547,
+    "duration": 3.967
+  },
+  {
+    "text": "I'm so excited about\nwhat we can do together.",
+    "start": 608.996,
+    "duration": 2.278
+  },
+  {
+    "text": "I hope you'll join us,",
+    "start": 611.583,
+    "duration": 1.47
+  },
+  {
+    "text": "and thank you.",
+    "start": 613.077,
+    "duration": 1.158
+  },
+  {
+    "text": "(Applause and cheers)",
+    "start": 614.259,
+    "duration": 4.455
+  }
+]

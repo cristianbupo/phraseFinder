@@ -1,0 +1,397 @@
+[
+  {
+    "text": "Imagine trying to use words \nto describe every scene in a film,",
+    "start": 6.777,
+    "duration": 4.638
+  },
+  {
+    "text": "every note in your favorite song,",
+    "start": 11.415,
+    "duration": 1.903
+  },
+  {
+    "text": "or every street in your town.",
+    "start": 13.318,
+    "duration": 2.717
+  },
+  {
+    "text": "Now imagine trying to do it using \nonly the numbers 1 and 0.",
+    "start": 16.035,
+    "duration": 4.824
+  },
+  {
+    "text": "Every time you use the Internet\nto watch a movie,",
+    "start": 20.859,
+    "duration": 2.895
+  },
+  {
+    "text": "listen to music,",
+    "start": 23.754,
+    "duration": 1.109
+  },
+  {
+    "text": "or check directions,",
+    "start": 24.863,
+    "duration": 1.486
+  },
+  {
+    "text": "that’s exactly what your device is doing,",
+    "start": 26.349,
+    "duration": 2.51
+  },
+  {
+    "text": "using the language of binary code.",
+    "start": 28.859,
+    "duration": 2.953
+  },
+  {
+    "text": "Computers use binary because \nit's a reliable way of storing data.",
+    "start": 31.812,
+    "duration": 4.69
+  },
+  {
+    "text": "For example, a computer's main\nmemory is made of transistors",
+    "start": 36.502,
+    "duration": 4.075
+  },
+  {
+    "text": "that switch between either high \nor low voltage levels,",
+    "start": 40.577,
+    "duration": 3.577
+  },
+  {
+    "text": "such as 5 volts and 0 volts.",
+    "start": 44.154,
+    "duration": 3.49
+  },
+  {
+    "text": "Voltages sometimes oscillate,\nbut since there are only two options,",
+    "start": 47.644,
+    "duration": 4.106
+  },
+  {
+    "text": "a value of 1 volt \nwould still be read as \"low.\"",
+    "start": 51.75,
+    "duration": 4.001
+  },
+  {
+    "text": "That reading is done by \nthe computer’s processor,",
+    "start": 55.751,
+    "duration": 2.529
+  },
+  {
+    "text": "which uses the transistors’ states \nto control other computer devices",
+    "start": 58.28,
+    "duration": 4.315
+  },
+  {
+    "text": "according to software instructions.",
+    "start": 62.595,
+    "duration": 2.196
+  },
+  {
+    "text": "The genius of this system \nis that a given binary sequence",
+    "start": 64.791,
+    "duration": 3.341
+  },
+  {
+    "text": "doesn't have a pre-determined meaning \non its own.",
+    "start": 68.132,
+    "duration": 3.388
+  },
+  {
+    "text": "Instead, each type of data\nis encoded in binary",
+    "start": 71.52,
+    "duration": 3.685
+  },
+  {
+    "text": "according to a separate \nset of rules.",
+    "start": 75.205,
+    "duration": 2.91
+  },
+  {
+    "text": "Let’s take numbers.",
+    "start": 78.115,
+    "duration": 1.382
+  },
+  {
+    "text": "In normal decimal notation, ",
+    "start": 79.497,
+    "duration": 1.682
+  },
+  {
+    "text": "each digit is multiplied by 10 raised \nto the value of its position,",
+    "start": 81.179,
+    "duration": 4.853
+  },
+  {
+    "text": "starting from zero on the right.",
+    "start": 86.032,
+    "duration": 2.451
+  },
+  {
+    "text": "So 84 in decimal form is 4x10⁰ + 8x10¹.",
+    "start": 88.483,
+    "duration": 6.557
+  },
+  {
+    "text": "Binary number notation works similarly,",
+    "start": 95.04,
+    "duration": 2.715
+  },
+  {
+    "text": "but with each position \nbased on 2 raised to some power.",
+    "start": 97.755,
+    "duration": 3.806
+  },
+  {
+    "text": "So 84 would be written as follows:",
+    "start": 101.561,
+    "duration": 4.012
+  },
+  {
+    "text": "Meanwhile, letters are interpreted \nbased on standard rules like UTF-8,",
+    "start": 105.573,
+    "duration": 4.803
+  },
+  {
+    "text": "which assigns each character to a specific\ngroup of 8-digit binary strings.",
+    "start": 110.376,
+    "duration": 5.107
+  },
+  {
+    "text": "In this case, 01010100 corresponds \nto the letter T.",
+    "start": 115.483,
+    "duration": 6.906
+  },
+  {
+    "text": "So, how can you know whether \na given instance of this sequence",
+    "start": 122.389,
+    "duration": 3.758
+  },
+  {
+    "text": "is supposed to mean T or 84?",
+    "start": 126.147,
+    "duration": 2.685
+  },
+  {
+    "text": "Well, you can’t from seeing \nthe string alone",
+    "start": 128.832,
+    "duration": 3.038
+  },
+  {
+    "text": "– just as you can’t tell what the sound\n\"da\" means from hearing it in isolation.",
+    "start": 131.87,
+    "duration": 4.572
+  },
+  {
+    "text": "You need context to tell whether you're\nhearing Russian, Spanish, or English.",
+    "start": 136.442,
+    "duration": 4.837
+  },
+  {
+    "text": "And you need similar context",
+    "start": 141.279,
+    "duration": 1.391
+  },
+  {
+    "text": "to tell whether you’re looking \nat binary numbers or binary text.",
+    "start": 142.67,
+    "duration": 4.115
+  },
+  {
+    "text": "Binary code is also used for \nfar more complex types of data.",
+    "start": 146.785,
+    "duration": 4.361
+  },
+  {
+    "text": "Each frame of this video, for instance,",
+    "start": 151.146,
+    "duration": 2.346
+  },
+  {
+    "text": "is made of hundreds \nof thousands of pixels.",
+    "start": 153.492,
+    "duration": 2.468
+  },
+  {
+    "text": "In color images,",
+    "start": 155.96,
+    "duration": 1.681
+  },
+  {
+    "text": "every pixel is represented \nby three binary sequences",
+    "start": 157.641,
+    "duration": 3.454
+  },
+  {
+    "text": "that correspond to the primary colors.",
+    "start": 161.095,
+    "duration": 2.606
+  },
+  {
+    "text": "Each sequence encodes a number",
+    "start": 163.701,
+    "duration": 1.786
+  },
+  {
+    "text": "that determines\nthe intensity of that particular color.",
+    "start": 165.487,
+    "duration": 3.184
+  },
+  {
+    "text": "Then, a video driver program transmits \nthis information",
+    "start": 168.671,
+    "duration": 3.929
+  },
+  {
+    "text": "to the millions of liquid crystals \nin your screen",
+    "start": 172.6,
+    "duration": 2.71
+  },
+  {
+    "text": "to make all the different hues \nyou see now.",
+    "start": 175.31,
+    "duration": 2.778
+  },
+  {
+    "text": "The sound in this video \nis also stored in binary,",
+    "start": 178.088,
+    "duration": 3.314
+  },
+  {
+    "text": "with the help of a technique \ncalled pulse code modulation.",
+    "start": 181.402,
+    "duration": 3.404
+  },
+  {
+    "text": "Continuous sound waves are digitized",
+    "start": 184.806,
+    "duration": 2.384
+  },
+  {
+    "text": "by taking \"snapshots\" of their \namplitudes every few milliseconds.",
+    "start": 187.19,
+    "duration": 4.392
+  },
+  {
+    "text": "These are recorded as numbers \nin the form of binary strings,",
+    "start": 191.582,
+    "duration": 3.665
+  },
+  {
+    "text": "with as many as 44,000\nfor every second of sound.",
+    "start": 195.247,
+    "duration": 3.913
+  },
+  {
+    "text": "When they’re read by \nyour computer’s audio software,",
+    "start": 199.16,
+    "duration": 2.61
+  },
+  {
+    "text": "the numbers determine how quickly \nthe coils in your speakers should vibrate",
+    "start": 201.77,
+    "duration": 4.354
+  },
+  {
+    "text": "to create sounds of different frequencies.",
+    "start": 206.124,
+    "duration": 2.841
+  },
+  {
+    "text": "All of this requires billions \nand billions of bits.",
+    "start": 208.965,
+    "duration": 3.695
+  },
+  {
+    "text": "But that amount can be reduced \nthrough clever compression formats.",
+    "start": 212.66,
+    "duration": 4.003
+  },
+  {
+    "text": "For example, if a picture has 30 adjacent \npixels of green space,",
+    "start": 216.663,
+    "duration": 4.508
+  },
+  {
+    "text": "they can be recorded as \"30 green\" instead\nof coding each pixel separately -",
+    "start": 221.171,
+    "duration": 4.848
+  },
+  {
+    "text": "a process known as run-length encoding.",
+    "start": 226.019,
+    "duration": 3.175
+  },
+  {
+    "text": "These compressed formats are themselves \nwritten in binary code.",
+    "start": 229.194,
+    "duration": 4.9
+  },
+  {
+    "text": "So is binary the end-all-be-all \nof computing?",
+    "start": 234.094,
+    "duration": 3.07
+  },
+  {
+    "text": "Not necessarily.",
+    "start": 237.164,
+    "duration": 1.385
+  },
+  {
+    "text": "There’s been research \ninto ternary computers,",
+    "start": 238.549,
+    "duration": 2.418
+  },
+  {
+    "text": "with circuits in three possible states,",
+    "start": 240.967,
+    "duration": 2.465
+  },
+  {
+    "text": "and even quantum computers,",
+    "start": 243.432,
+    "duration": 1.82
+  },
+  {
+    "text": "whose circuits can be\nin multiple states simultaneously.",
+    "start": 245.252,
+    "duration": 3.664
+  },
+  {
+    "text": "But so far, none of these has provided",
+    "start": 248.916,
+    "duration": 2.423
+  },
+  {
+    "text": "as much physical stability \nfor data storage and transmission.",
+    "start": 251.339,
+    "duration": 3.296
+  },
+  {
+    "text": "So for now, everything you see,",
+    "start": 254.635,
+    "duration": 2.444
+  },
+  {
+    "text": "hear,",
+    "start": 257.079,
+    "duration": 0.769
+  },
+  {
+    "text": "and read through your screen",
+    "start": 257.848,
+    "duration": 1.616
+  },
+  {
+    "text": "comes to you as the result \nof a simple \"true\" or \"false\" choice,",
+    "start": 259.464,
+    "duration": 3.633
+  },
+  {
+    "text": "made billions of times over.",
+    "start": 263.097,
+    "duration": 2.274
+  }
+]

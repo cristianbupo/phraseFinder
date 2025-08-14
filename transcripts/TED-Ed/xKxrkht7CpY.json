@@ -1,0 +1,432 @@
+[
+  {
+    "text": "The Earth intercepts a lot of solar power:",
+    "start": 8.152,
+    "duration": 3.345
+  },
+  {
+    "text": "173 thousand terawatts.",
+    "start": 11.497,
+    "duration": 3.082
+  },
+  {
+    "text": "That's ten thousand times more power\nthan the planet's population uses.",
+    "start": 14.579,
+    "duration": 4.721
+  },
+  {
+    "text": "So is it possible that one day",
+    "start": 19.3,
+    "duration": 1.65
+  },
+  {
+    "text": "the world could be completely \nreliant on solar energy?",
+    "start": 20.95,
+    "duration": 3.497
+  },
+  {
+    "text": "To answer that question,",
+    "start": 24.447,
+    "duration": 1.251
+  },
+  {
+    "text": "we first need to examine how solar panels\nconvert solar energy to electrical energy.",
+    "start": 25.698,
+    "duration": 6.261
+  },
+  {
+    "text": "Solar panels are made up of smaller units\ncalled solar cells.",
+    "start": 31.959,
+    "duration": 4.304
+  },
+  {
+    "text": "The most common solar cells\nare made from silicon,",
+    "start": 36.263,
+    "duration": 2.92
+  },
+  {
+    "text": "a semiconductor that is the second\nmost abundant element on Earth.",
+    "start": 39.183,
+    "duration": 4.114
+  },
+  {
+    "text": "In a solar cell,",
+    "start": 43.297,
+    "duration": 1.292
+  },
+  {
+    "text": "crystalline silicon is sandwiched\nbetween conductive layers.",
+    "start": 44.589,
+    "duration": 3.978
+  },
+  {
+    "text": "Each silicon atom is connected\nto its neighbors by four strong bonds,",
+    "start": 48.567,
+    "duration": 5.209
+  },
+  {
+    "text": "which keep the electrons in place\nso no current can flow.",
+    "start": 53.776,
+    "duration": 4.301
+  },
+  {
+    "text": "Here's the key:",
+    "start": 58.077,
+    "duration": 1.126
+  },
+  {
+    "text": "a silicon solar cell uses\ntwo different layers of silicon.",
+    "start": 59.203,
+    "duration": 4.683
+  },
+  {
+    "text": "An n-type silicon has extra electrons,",
+    "start": 63.886,
+    "duration": 3.15
+  },
+  {
+    "text": "and p-type silicon has extra spaces\nfor electrons, called holes.",
+    "start": 67.036,
+    "duration": 5.253
+  },
+  {
+    "text": "Where the two types of silicon meet,",
+    "start": 72.289,
+    "duration": 1.934
+  },
+  {
+    "text": "electrons can wander across \nthe p/n junction,",
+    "start": 74.223,
+    "duration": 3.699
+  },
+  {
+    "text": "leaving a positive charge on one side",
+    "start": 77.922,
+    "duration": 2.057
+  },
+  {
+    "text": "and creating negative charge on the other.",
+    "start": 79.979,
+    "duration": 3.084
+  },
+  {
+    "text": "You can think of light \nas the flow of tiny particles",
+    "start": 83.063,
+    "duration": 3.722
+  },
+  {
+    "text": "called photons,",
+    "start": 86.785,
+    "duration": 1.34
+  },
+  {
+    "text": "shooting out from the Sun.",
+    "start": 88.125,
+    "duration": 2.06
+  },
+  {
+    "text": "When one of these photons strikes\nthe silicon cell with enough energy,",
+    "start": 90.185,
+    "duration": 3.946
+  },
+  {
+    "text": "it can knock an electron from its bond,\nleaving a hole.",
+    "start": 94.131,
+    "duration": 4.398
+  },
+  {
+    "text": "The negatively charged electron and\nlocation of the positively charged hole",
+    "start": 98.529,
+    "duration": 4.792
+  },
+  {
+    "text": "are now free to move around.",
+    "start": 103.321,
+    "duration": 2.413
+  },
+  {
+    "text": "But because of the electric field\nat the p/n junction,",
+    "start": 105.734,
+    "duration": 3.018
+  },
+  {
+    "text": "they'll only go one way.",
+    "start": 108.752,
+    "duration": 2.603
+  },
+  {
+    "text": "The electron is drawn to the n-side,",
+    "start": 111.355,
+    "duration": 2.021
+  },
+  {
+    "text": "while the hole is drawn to the p-side.",
+    "start": 113.376,
+    "duration": 2.986
+  },
+  {
+    "text": "The mobile electrons are collected by\nthin metal fingers at the top of the cell.",
+    "start": 116.362,
+    "duration": 5.633
+  },
+  {
+    "text": "From there, they flow through \nan external circuit,",
+    "start": 121.995,
+    "duration": 2.755
+  },
+  {
+    "text": "doing electrical work,",
+    "start": 124.75,
+    "duration": 1.315
+  },
+  {
+    "text": "like powering a lightbulb,",
+    "start": 126.065,
+    "duration": 1.541
+  },
+  {
+    "text": "before returning through the conductive\naluminum sheet on the back.",
+    "start": 127.606,
+    "duration": 4.368
+  },
+  {
+    "text": "Each silicon cell only puts out\nhalf a volt,",
+    "start": 131.974,
+    "duration": 3.093
+  },
+  {
+    "text": "but you can string them \ntogether in modules to get more power.",
+    "start": 135.067,
+    "duration": 3.591
+  },
+  {
+    "text": "Twelve photovoltaic cells are enough\nto charge a cellphone,",
+    "start": 138.658,
+    "duration": 4.105
+  },
+  {
+    "text": "while it takes many modules \nto power an entire house.",
+    "start": 142.763,
+    "duration": 3.601
+  },
+  {
+    "text": "Electrons are the only moving parts\nin a solar cell,",
+    "start": 146.364,
+    "duration": 3.114
+  },
+  {
+    "text": "and they all go back where they came from.",
+    "start": 149.478,
+    "duration": 2.376
+  },
+  {
+    "text": "There's nothing to get worn out\nor used up,",
+    "start": 151.854,
+    "duration": 2.028
+  },
+  {
+    "text": "so solar cells can last for decades.",
+    "start": 153.882,
+    "duration": 3.175
+  },
+  {
+    "text": "So what's stopping us from being\ncompletely reliant on solar power?",
+    "start": 157.057,
+    "duration": 5.817
+  },
+  {
+    "text": "There are political factors at play,",
+    "start": 162.874,
+    "duration": 2.096
+  },
+  {
+    "text": "not to mention businesses that lobby\nto maintain the status quo.",
+    "start": 164.97,
+    "duration": 3.984
+  },
+  {
+    "text": "But for now, let's focus on the physical\nand logistical challenges,",
+    "start": 168.954,
+    "duration": 4.111
+  },
+  {
+    "text": "and the most obvious of those",
+    "start": 173.065,
+    "duration": 1.417
+  },
+  {
+    "text": "is that solar energy \nis unevenly distributed across the planet.",
+    "start": 174.482,
+    "duration": 4.37
+  },
+  {
+    "text": "Some areas are sunnier than others.",
+    "start": 178.852,
+    "duration": 2.367
+  },
+  {
+    "text": "It's also inconsistent.",
+    "start": 181.219,
+    "duration": 1.64
+  },
+  {
+    "text": "Less solar energy is available \non cloudy days or at night.",
+    "start": 182.859,
+    "duration": 4.369
+  },
+  {
+    "text": "So a total reliance would require",
+    "start": 187.228,
+    "duration": 2.41
+  },
+  {
+    "text": "efficient ways to get electricity \nfrom sunny spots to cloudy ones,",
+    "start": 189.638,
+    "duration": 4.464
+  },
+  {
+    "text": "and effective storage of energy.",
+    "start": 194.102,
+    "duration": 2.985
+  },
+  {
+    "text": "The efficiency of the cell itself\nis a challenge, too.",
+    "start": 197.087,
+    "duration": 3.306
+  },
+  {
+    "text": "If sunlight is reflected \ninstead of absorbed,",
+    "start": 200.393,
+    "duration": 3.051
+  },
+  {
+    "text": "or if dislodged electrons fall back into\na hole before going through the circuit,",
+    "start": 203.444,
+    "duration": 4.686
+  },
+  {
+    "text": "that photon's energy is lost.",
+    "start": 208.13,
+    "duration": 2.763
+  },
+  {
+    "text": "The most efficient solar cell yet",
+    "start": 210.893,
+    "duration": 2.348
+  },
+  {
+    "text": "still only converts 46% of \nthe available sunlight to electricity,",
+    "start": 213.241,
+    "duration": 5.393
+  },
+  {
+    "text": "and most commercial systems are currently\n15-20% efficient.",
+    "start": 218.634,
+    "duration": 5.008
+  },
+  {
+    "text": "In spite of these limitations,",
+    "start": 223.642,
+    "duration": 1.887
+  },
+  {
+    "text": "it actually would be possible",
+    "start": 225.529,
+    "duration": 1.675
+  },
+  {
+    "text": "to power the entire world \nwith today's solar technology.",
+    "start": 227.204,
+    "duration": 3.414
+  },
+  {
+    "text": "We'd need the funding \nto build the infrastructure",
+    "start": 230.618,
+    "duration": 2.366
+  },
+  {
+    "text": "and a good deal of space.",
+    "start": 232.984,
+    "duration": 1.987
+  },
+  {
+    "text": "Estimates range from tens \nto hundreds of thousands of square miles,",
+    "start": 234.971,
+    "duration": 4.469
+  },
+  {
+    "text": "which seems like a lot,",
+    "start": 239.44,
+    "duration": 1.536
+  },
+  {
+    "text": "but the Sahara Desert alone is over\n3 million square miles in area.",
+    "start": 240.976,
+    "duration": 5.336
+  },
+  {
+    "text": "Meanwhile, solar cells are getting\nbetter, cheaper,",
+    "start": 246.312,
+    "duration": 2.727
+  },
+  {
+    "text": "and are competing \nwith electricity from the grid.",
+    "start": 249.039,
+    "duration": 2.947
+  },
+  {
+    "text": "And innovations, like floating solar farms,\nmay change the landscape entirely.",
+    "start": 251.986,
+    "duration": 4.981
+  },
+  {
+    "text": "Thought experiments aside,",
+    "start": 256.967,
+    "duration": 1.989
+  },
+  {
+    "text": "there's the fact \nthat over a billion people",
+    "start": 258.956,
+    "duration": 2.062
+  },
+  {
+    "text": "don't have access \nto a reliable electric grid,",
+    "start": 261.018,
+    "duration": 3.463
+  },
+  {
+    "text": "especially in developing countries,",
+    "start": 264.481,
+    "duration": 2.086
+  },
+  {
+    "text": "many of which are sunny.",
+    "start": 266.567,
+    "duration": 2.275
+  },
+  {
+    "text": "So in places like that,",
+    "start": 268.842,
+    "duration": 1.254
+  },
+  {
+    "text": "solar energy is already much cheaper\nand safer than available alternatives,",
+    "start": 270.096,
+    "duration": 4.883
+  },
+  {
+    "text": "like kerosene.",
+    "start": 274.979,
+    "duration": 1.6
+  },
+  {
+    "text": "For say, Finland or Seattle, though,",
+    "start": 276.579,
+    "duration": 2.067
+  },
+  {
+    "text": "effective solar energy \nmay still be a little way off.",
+    "start": 278.646,
+    "duration": 3.395
+  }
+]

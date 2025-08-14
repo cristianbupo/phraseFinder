@@ -1,0 +1,362 @@
+[
+  {
+    "text": "You’re the realm’s greatest mathematician,",
+    "start": 7.163,
+    "duration": 2.5
+  },
+  {
+    "text": "but ever since you criticized\nthe emperor's tax laws,",
+    "start": 9.663,
+    "duration": 3.416
+  },
+  {
+    "text": "you’ve been locked in the dungeon \nwith only a marker to count the days.",
+    "start": 13.079,
+    "duration": 4.292
+  },
+  {
+    "text": "But one day you're suddenly brought\nbefore the emperor,",
+    "start": 17.954,
+    "duration": 3.084
+  },
+  {
+    "text": "who looks even angrier than usual.",
+    "start": 21.246,
+    "duration": 2.125
+  },
+  {
+    "text": "One of his 12 governors has been convicted\nof paying his taxes",
+    "start": 23.829,
+    "duration": 4.167
+  },
+  {
+    "text": "with a counterfeit coin,",
+    "start": 27.996,
+    "duration": 1.625
+  },
+  {
+    "text": "which has already made its way \ninto the Treasury.",
+    "start": 29.621,
+    "duration": 2.708
+  },
+  {
+    "text": "As the kingdom's greatest mathematician,",
+    "start": 32.912,
+    "duration": 2.125
+  },
+  {
+    "text": "you’ve been granted a chance to earn \nyour freedom by identifying the fake.",
+    "start": 35.037,
+    "duration": 4.875
+  },
+  {
+    "text": "Before you are the 12 identical looking\ncoins and a balance scale.",
+    "start": 40.621,
+    "duration": 4.458
+  },
+  {
+    "text": "You know that the false coin will be very\nslightly lighter or heavier than the rest.",
+    "start": 45.871,
+    "duration": 5.166
+  },
+  {
+    "text": "But the emperor’s not a patient man.",
+    "start": 51.579,
+    "duration": 2.458
+  },
+  {
+    "text": "You may only use the scale three times",
+    "start": 54.162,
+    "duration": 2.834
+  },
+  {
+    "text": "before you’ll be thrown \nback into the dungeon.",
+    "start": 56.996,
+    "duration": 2.708
+  },
+  {
+    "text": "You look around for\nanything else you can use,",
+    "start": 60.329,
+    "duration": 2.417
+  },
+  {
+    "text": "but there's nothing in the room,\njust the coins,",
+    "start": 62.746,
+    "duration": 2.958
+  },
+  {
+    "text": "the scale, and your trusty marker.",
+    "start": 65.704,
+    "duration": 2.625
+  },
+  {
+    "text": "How do you identify the counterfeit?",
+    "start": 68.663,
+    "duration": 1.791
+  },
+  {
+    "text": "Pause now to figure it out yourself!",
+    "start": 71.121,
+    "duration": 2.875
+  },
+  {
+    "text": "Answer in 3",
+    "start": 74.163,
+    "duration": 1.458
+  },
+  {
+    "text": "Answer in 2",
+    "start": 75.621,
+    "duration": 1.667
+  },
+  {
+    "text": "Answer in 1",
+    "start": 77.288,
+    "duration": 1.458
+  },
+  {
+    "text": "Obviously, you can't weigh each coin\nagainst all of the others,",
+    "start": 78.871,
+    "duration": 4.083
+  },
+  {
+    "text": "so you’ll have to weigh several coins\nat the same time",
+    "start": 82.954,
+    "duration": 3.0
+  },
+  {
+    "text": "by splitting the stack \ninto multiple piles,",
+    "start": 85.954,
+    "duration": 2.834
+  },
+  {
+    "text": "then narrowing down where\nthe false coin is.",
+    "start": 88.788,
+    "duration": 3.125
+  },
+  {
+    "text": "Start by dividing the 12 coins \ninto three equal piles of four.",
+    "start": 92.371,
+    "duration": 4.5
+  },
+  {
+    "text": "Placing two of these on the scale\ngives us two possible outcomes.",
+    "start": 97.329,
+    "duration": 3.959
+  },
+  {
+    "text": "If the two sides balance, \nall eight coins on the scale are real",
+    "start": 102.496,
+    "duration": 4.375
+  },
+  {
+    "text": "and the fake must be among \nthe remaining four.",
+    "start": 106.871,
+    "duration": 2.667
+  },
+  {
+    "text": "So how do you keep track of these results?\nThat’s where the marker comes in.",
+    "start": 110.121,
+    "duration": 3.917
+  },
+  {
+    "text": "Mark the eight authentic\ncoins with a zero.",
+    "start": 114.371,
+    "duration": 2.917
+  },
+  {
+    "text": "Now take three of them and weigh them\nagainst three unmarked coins.",
+    "start": 117.871,
+    "duration": 4.292
+  },
+  {
+    "text": "If they balance, the remaining unmarked\ncoin must be the fake.",
+    "start": 122.579,
+    "duration": 3.834
+  },
+  {
+    "text": "If they don’t, draw a plus \non the three unmarked coins",
+    "start": 126.913,
+    "duration": 4.25
+  },
+  {
+    "text": "if they’re heavier, \nor a minus if they’re lighter.",
+    "start": 131.163,
+    "duration": 3.125
+  },
+  {
+    "text": "Now take two of the newly marked coins\nand weigh them against each other.",
+    "start": 134.788,
+    "duration": 4.208
+  },
+  {
+    "text": "If they balance, the third coin is fake.",
+    "start": 139.413,
+    "duration": 2.583
+  },
+  {
+    "text": "Otherwise, look at their marks.",
+    "start": 142.371,
+    "duration": 1.958
+  },
+  {
+    "text": "If they are plus coins, \nthe heavier one is the impostor.",
+    "start": 144.329,
+    "duration": 3.625
+  },
+  {
+    "text": "If they are marked with minus,\nit's the lighter one.",
+    "start": 148.246,
+    "duration": 2.583
+  },
+  {
+    "text": "But what if the first two piles\nyou way don't balance?",
+    "start": 151.496,
+    "duration": 3.583
+  },
+  {
+    "text": "Mark the coins on the heavier side\nwith a plus",
+    "start": 155.954,
+    "duration": 3.167
+  },
+  {
+    "text": "and those on the lighter side \nwith a minus.",
+    "start": 159.121,
+    "duration": 2.708
+  },
+  {
+    "text": "You can also mark the remaining four\ncoins with zeros,",
+    "start": 162.663,
+    "duration": 3.625
+  },
+  {
+    "text": "since you know the fake one \nis already somewhere on the scale.",
+    "start": 166.663,
+    "duration": 3.875
+  },
+  {
+    "text": "Now you'll need to think strategically",
+    "start": 171.246,
+    "duration": 2.125
+  },
+  {
+    "text": "so you can remove all remaining ambiguity\nin just two more ways.",
+    "start": 173.371,
+    "duration": 4.458
+  },
+  {
+    "text": "To do this, you’ll need \nto reassemble the piles.",
+    "start": 178.163,
+    "duration": 3.083
+  },
+  {
+    "text": "One method is to replace three \nof the plus coins",
+    "start": 181.663,
+    "duration": 3.041
+  },
+  {
+    "text": "with three of the minus coins",
+    "start": 184.704,
+    "duration": 2.084
+  },
+  {
+    "text": "and replace those\nwith three of the zero coins.",
+    "start": 186.788,
+    "duration": 3.291
+  },
+  {
+    "text": "From here, you have three possibilities.",
+    "start": 190.663,
+    "duration": 2.291
+  },
+  {
+    "text": "If the previously heavier side \nof the scale is still heavier,",
+    "start": 193.746,
+    "duration": 3.5
+  },
+  {
+    "text": "that means either the remaining \nplus coin on that side",
+    "start": 197.454,
+    "duration": 3.334
+  },
+  {
+    "text": "is actually the heavier one,",
+    "start": 200.788,
+    "duration": 1.833
+  },
+  {
+    "text": "or the remaining minus coin on the \nlighter side is actually the lighter one.",
+    "start": 202.621,
+    "duration": 4.75
+  },
+  {
+    "text": "Choose either one of them and weigh it \nagainst one of the regular coins",
+    "start": 207.954,
+    "duration": 3.75
+  },
+  {
+    "text": "to see which is true.",
+    "start": 211.704,
+    "duration": 1.459
+  },
+  {
+    "text": "If the previously heavier side \nbecame lighter,",
+    "start": 213.454,
+    "duration": 2.834
+  },
+  {
+    "text": "that means one of the three minus coins\nyou moved is actually the lighter one.",
+    "start": 216.288,
+    "duration": 4.458
+  },
+  {
+    "text": "Weigh two of them against each other.",
+    "start": 221.204,
+    "duration": 2.25
+  },
+  {
+    "text": "If they balance, the third is counterfeit.",
+    "start": 223.663,
+    "duration": 2.5
+  },
+  {
+    "text": "If not, the lighter one is.",
+    "start": 226.371,
+    "duration": 2.583
+  },
+  {
+    "text": "Similarly, if the two sides balanced\nafter your substitution,",
+    "start": 229.538,
+    "duration": 3.916
+  },
+  {
+    "text": "then one of the three plus coins \nyou removed must be the heavier one.",
+    "start": 233.621,
+    "duration": 4.167
+  },
+  {
+    "text": "Weigh two of them against each other.",
+    "start": 238.246,
+    "duration": 2.083
+  },
+  {
+    "text": "If they balance, the third one is fake.",
+    "start": 240.329,
+    "duration": 2.792
+  },
+  {
+    "text": "If not, then it's the heavier one.",
+    "start": 243.246,
+    "duration": 2.042
+  },
+  {
+    "text": "The emperor nods approvingly\nat your finding,",
+    "start": 246.829,
+    "duration": 3.0
+  },
+  {
+    "text": "and the counterfeiting lord \ntakes your place in the dungeon.",
+    "start": 249.829,
+    "duration": 3.375
+  }
+]

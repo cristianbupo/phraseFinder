@@ -1,0 +1,377 @@
+[
+  {
+    "text": "The evil wizard MoldeVort \nhas been trying to kill you for years,",
+    "start": 6.964,
+    "duration": 4.609
+  },
+  {
+    "text": "and today it looks like \nhe’s going to succeed.",
+    "start": 11.573,
+    "duration": 2.94
+  },
+  {
+    "text": "But your friends are on their way, \nand if you can survive until they arrive,",
+    "start": 14.513,
+    "duration": 4.509
+  },
+  {
+    "text": "they should be able to help stop him.",
+    "start": 19.022,
+    "duration": 3.032
+  },
+  {
+    "text": "The evil wizard’s protective charms \nward off every spell you know,",
+    "start": 22.054,
+    "duration": 5.057
+  },
+  {
+    "text": "so in an act of desperation \nyou throw the only object in reach at him:",
+    "start": 27.111,
+    "duration": 5.089
+  },
+  {
+    "text": "Pythagoras’s cursed chessboard.",
+    "start": 32.2,
+    "duration": 3.5
+  },
+  {
+    "text": "It works, but with a catch.",
+    "start": 35.7,
+    "duration": 2.23
+  },
+  {
+    "text": "MoldeVort starts in one corner \nof the 5x5 board.",
+    "start": 37.93,
+    "duration": 4.11
+  },
+  {
+    "text": "You have a few minutes to choose \nfour distinct positive whole numbers.",
+    "start": 42.04,
+    "duration": 5.165
+  },
+  {
+    "text": "MoldeVort gets to say one of them, \nand if you can pick a square on the board",
+    "start": 47.205,
+    "duration": 4.734
+  },
+  {
+    "text": "whose center is exactly \nthat distance away,",
+    "start": 51.939,
+    "duration": 3.51
+  },
+  {
+    "text": "the curse will force him \nto move to that spot.",
+    "start": 55.449,
+    "duration": 3.49
+  },
+  {
+    "text": "Then he’ll have to choose \nany of the four numbers,",
+    "start": 58.939,
+    "duration": 3.18
+  },
+  {
+    "text": "and the process repeats until \nyou can’t keep him inside the board",
+    "start": 62.119,
+    "duration": 4.324
+  },
+  {
+    "text": "with legal moves.",
+    "start": 66.443,
+    "duration": 1.49
+  },
+  {
+    "text": "Then he’ll break free of the spell \nand almost certainly kill you.",
+    "start": 67.933,
+    "duration": 4.961
+  },
+  {
+    "text": "What four numbers can you choose \nto keep MoldeVort trapped by your spell",
+    "start": 72.894,
+    "duration": 5.312
+  },
+  {
+    "text": "long enough for help to arrive? \nAnd what’s your strategy?",
+    "start": 78.206,
+    "duration": 4.64
+  },
+  {
+    "text": "Pause the video to figure it out yourself.",
+    "start": 82.846,
+    "duration": 2.08
+  },
+  {
+    "text": "Answer in 3",
+    "start": 84.926,
+    "duration": 0.8
+  },
+  {
+    "text": "Answer in 2",
+    "start": 85.726,
+    "duration": 1.645
+  },
+  {
+    "text": "Answer in 1",
+    "start": 87.371,
+    "duration": 2.2
+  },
+  {
+    "text": "The trick here is to keep MoldeVort \nwhere you want him.",
+    "start": 89.571,
+    "duration": 3.27
+  },
+  {
+    "text": "And one way to figure out how to do that",
+    "start": 92.841,
+    "duration": 2.64
+  },
+  {
+    "text": "is to play out the game \nas MoldeVort would:",
+    "start": 95.481,
+    "duration": 3.27
+  },
+  {
+    "text": "always trying to escape.",
+    "start": 98.751,
+    "duration": 2.455
+  },
+  {
+    "text": "You’re dealing with a relatively \nsmall board,",
+    "start": 101.206,
+    "duration": 2.505
+  },
+  {
+    "text": "so the numbers can’t be too big.",
+    "start": 103.711,
+    "duration": 2.24
+  },
+  {
+    "text": "Let’s start by trying 1, 2, 3, 4 \nto see what happens.",
+    "start": 105.951,
+    "duration": 5.399
+  },
+  {
+    "text": "Moldevort could escape those numbers\nin just three moves.",
+    "start": 111.35,
+    "duration": 3.5
+  },
+  {
+    "text": "By saying 2, then 3,",
+    "start": 114.85,
+    "duration": 2.29
+  },
+  {
+    "text": "he would force you to let him into one\nof the middle points of the grid,",
+    "start": 117.14,
+    "duration": 3.83
+  },
+  {
+    "text": "and then a 4 would break him free.",
+    "start": 120.97,
+    "duration": 2.62
+  },
+  {
+    "text": "But that means you’ll need to allow\na number larger than 4,",
+    "start": 123.59,
+    "duration": 3.79
+  },
+  {
+    "text": "which is the distance from one end \nof a row to another.",
+    "start": 127.38,
+    "duration": 3.85
+  },
+  {
+    "text": "How is that even possible?",
+    "start": 131.23,
+    "duration": 2.27
+  },
+  {
+    "text": "Through diagonal moves.",
+    "start": 133.5,
+    "duration": 2.21
+  },
+  {
+    "text": "There are, in fact, points that are \ndistance 5 from each other,",
+    "start": 135.71,
+    "duration": 4.085
+  },
+  {
+    "text": "which we know thanks \nto the Pythagorean Theorem.",
+    "start": 139.795,
+    "duration": 3.38
+  },
+  {
+    "text": "That states that the squares \nof the sides of a right triangle",
+    "start": 143.175,
+    "duration": 3.69
+  },
+  {
+    "text": "add up to the square of its hypotenuse.",
+    "start": 146.865,
+    "duration": 3.12
+  },
+  {
+    "text": "One of the most famous \nPythagorean triples is 3, 4, 5,",
+    "start": 149.985,
+    "duration": 4.804
+  },
+  {
+    "text": "and that triangle is hiding all over \nyour chessboard.",
+    "start": 154.789,
+    "duration": 4.105
+  },
+  {
+    "text": "So if MoldeVort was here, and he said 5,\nyou could move him to these spaces.",
+    "start": 158.894,
+    "duration": 5.655
+  },
+  {
+    "text": "There’s another insight that will help.",
+    "start": 164.549,
+    "duration": 2.34
+  },
+  {
+    "text": "The board is very symmetrical: \nIf MoldeVort is in a corner,",
+    "start": 166.889,
+    "duration": 4.481
+  },
+  {
+    "text": "it doesn’t really matter \nto you which corner it is.",
+    "start": 171.37,
+    "duration": 3.54
+  },
+  {
+    "text": "So we can think of the corners \nas being functionally the same,",
+    "start": 174.91,
+    "duration": 3.81
+  },
+  {
+    "text": "and color them all blue.",
+    "start": 178.72,
+    "duration": 1.93
+  },
+  {
+    "text": "Similarly, the spaces neighboring \nthe corners behave the same as each other,",
+    "start": 180.65,
+    "duration": 4.332
+  },
+  {
+    "text": "and we’ll make them red.",
+    "start": 184.982,
+    "duration": 1.6
+  },
+  {
+    "text": "Finally, the midpoints of the sides \nare a third type.",
+    "start": 186.582,
+    "duration": 3.46
+  },
+  {
+    "text": "So instead of having to develop a strategy",
+    "start": 190.042,
+    "duration": 2.36
+  },
+  {
+    "text": "for each of the 16 spaces \non the outside of the board,",
+    "start": 192.402,
+    "duration": 3.67
+  },
+  {
+    "text": "we can reduce the problem to just three.",
+    "start": 196.072,
+    "duration": 2.85
+  },
+  {
+    "text": "Meanwhile, all the inside spaces \nare bad for us,",
+    "start": 198.922,
+    "duration": 3.67
+  },
+  {
+    "text": "because if MoldeVort ever reaches one,",
+    "start": 202.592,
+    "duration": 2.16
+  },
+  {
+    "text": "he’ll be able to say any number \nlarger than 3 and go free.",
+    "start": 204.752,
+    "duration": 4.454
+  },
+  {
+    "text": "Orange spaces are trouble too, \nsince any number except 1, 2, or 4",
+    "start": 209.206,
+    "duration": 5.311
+  },
+  {
+    "text": "would take him to an inside space \nor off the board.",
+    "start": 214.517,
+    "duration": 3.88
+  },
+  {
+    "text": "So orange is out and you’ll need \nto keep him on blue and red.",
+    "start": 218.397,
+    "duration": 5.277
+  },
+  {
+    "text": "That means 2 is bad,",
+    "start": 223.674,
+    "duration": 1.84
+  },
+  {
+    "text": "since it could take MoldeVort \nto orange on the first turn.",
+    "start": 225.514,
+    "duration": 3.95
+  },
+  {
+    "text": "But the four other smallest numbers, \n1, 3, 4, and 5, might work.",
+    "start": 229.464,
+    "duration": 6.063
+  },
+  {
+    "text": "Let’s try them and see what happens.",
+    "start": 235.527,
+    "duration": 2.39
+  },
+  {
+    "text": "If MoldeVort says 1, you can make \nhim go from blue to red or red to blue.",
+    "start": 237.917,
+    "duration": 5.275
+  },
+  {
+    "text": "And the same works if he says 3.",
+    "start": 243.192,
+    "duration": 2.44
+  },
+  {
+    "text": "Thanks to our diagonals, \nthis is even true if he says 5.",
+    "start": 245.632,
+    "duration": 4.666
+  },
+  {
+    "text": "If he says 4, you can keep him \non the color he’s already on",
+    "start": 250.298,
+    "duration": 4.185
+  },
+  {
+    "text": "by moving the length of a row or column.",
+    "start": 254.483,
+    "duration": 2.98
+  },
+  {
+    "text": "So these four numbers work!",
+    "start": 257.463,
+    "duration": 2.61
+  },
+  {
+    "text": "Even if your friends don’t get here \nright away,",
+    "start": 260.816,
+    "duration": 2.53
+  },
+  {
+    "text": "you’ll be able to keep \nthe world’s most evil wizard",
+    "start": 263.346,
+    "duration": 3.103
+  },
+  {
+    "text": "contained for as long as you need.",
+    "start": 266.449,
+    "duration": 2.248
+  }
+]

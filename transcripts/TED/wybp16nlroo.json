@@ -1,0 +1,702 @@
+[
+  {
+    "text": "Transcriber: ",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "From NASA's Jet Propulsion Lab\nin Pasadena, California,",
+    "start": 12.597,
+    "duration": 3.404
+  },
+  {
+    "text": "right behind me is mission control.",
+    "start": 16.034,
+    "duration": 2.436
+  },
+  {
+    "text": "I'm going to let you take a look,\nbecause on February 18th,",
+    "start": 18.503,
+    "duration": 3.937
+  },
+  {
+    "text": "we're going to attempt to land\nNASA's next rover to Mars.",
+    "start": 22.474,
+    "duration": 3.87
+  },
+  {
+    "text": "It's going to be the most sophisticated\nrover ever sent to the Red Planet.",
+    "start": 26.378,
+    "duration": 3.503
+  },
+  {
+    "text": "It's even going to have\na helicopter on it.",
+    "start": 29.881,
+    "duration": 2.503
+  },
+  {
+    "text": "So JPL is an amazing place,",
+    "start": 34.452,
+    "duration": 1.902
+  },
+  {
+    "text": "where people are creating robotic missions\nto explore the universe.",
+    "start": 36.388,
+    "duration": 3.436
+  },
+  {
+    "text": "They also create satellites\nthat orbit the Earth",
+    "start": 39.858,
+    "duration": 2.569
+  },
+  {
+    "text": "and help us understand\nthis planet that we live on.",
+    "start": 42.46,
+    "duration": 2.67
+  },
+  {
+    "text": "But today, I'm going to talk about\nsomething a little bit closer to home.",
+    "start": 45.163,
+    "duration": 3.57
+  },
+  {
+    "text": "It’s going to be about\na team of space engineers",
+    "start": 48.733,
+    "duration": 2.603
+  },
+  {
+    "text": "that invented a COVID-19\nventilator in just 37 days.",
+    "start": 51.369,
+    "duration": 5.039
+  },
+  {
+    "text": "And it all started when these two people",
+    "start": 56.441,
+    "duration": 2.269
+  },
+  {
+    "text": "bumped into each other\nat the JPL cafeteria.",
+    "start": 58.71,
+    "duration": 2.603
+  },
+  {
+    "text": "It was right before\nthe very first shutdown",
+    "start": 61.346,
+    "duration": 2.302
+  },
+  {
+    "text": "when the pandemic started.",
+    "start": 63.682,
+    "duration": 1.501
+  },
+  {
+    "text": "They started to talk about work,",
+    "start": 65.183,
+    "duration": 1.535
+  },
+  {
+    "text": "but then they started to talk about\nwhat COVID might do in the United States,",
+    "start": 66.751,
+    "duration": 3.637
+  },
+  {
+    "text": "and that there might be\na shortage of ventilators.",
+    "start": 70.422,
+    "duration": 2.369
+  },
+  {
+    "text": "And they started to ask the question,\na really powerful, important question:",
+    "start": 72.791,
+    "duration": 3.603
+  },
+  {
+    "text": "Is what I'm doing right this moment",
+    "start": 76.428,
+    "duration": 1.935
+  },
+  {
+    "text": "the most important thing\nthat I could be doing?",
+    "start": 78.396,
+    "duration": 2.603
+  },
+  {
+    "text": "Well, they went home,\neverything got shut down,",
+    "start": 81.032,
+    "duration": 2.336
+  },
+  {
+    "text": "but Dave couldn't get\nthat question out of his head.",
+    "start": 83.401,
+    "duration": 2.87
+  },
+  {
+    "text": "In fact, that weekend,\nhe assembled a team,",
+    "start": 86.304,
+    "duration": 2.736
+  },
+  {
+    "text": "he found some funding,",
+    "start": 89.074,
+    "duration": 1.401
+  },
+  {
+    "text": "and on Monday afternoon,",
+    "start": 90.475,
+    "duration": 1.468
+  },
+  {
+    "text": "they ended up having a doctor come to JPL",
+    "start": 91.977,
+    "duration": 2.535
+  },
+  {
+    "text": "who had been working on\nventilators for decades,",
+    "start": 94.512,
+    "duration": 2.67
+  },
+  {
+    "text": "told them all about ventilators --\nwhat worked, what didn't work,",
+    "start": 97.215,
+    "duration": 3.237
+  },
+  {
+    "text": "and what was really specific to COVID-19.",
+    "start": 100.485,
+    "duration": 3.337
+  },
+  {
+    "text": "Now, you can imagine that this group\nof engineers are asking themselves,",
+    "start": 103.855,
+    "duration": 3.771
+  },
+  {
+    "text": "\"Are we the right people\nto be making ventilators?\"",
+    "start": 107.659,
+    "duration": 3.003
+  },
+  {
+    "text": "Well, after talking with the doctor more,\nthey started to realize that yes,",
+    "start": 110.662,
+    "duration": 4.204
+  },
+  {
+    "text": "ventilators are things that are sensing\nand responding to bodies, human bodies.",
+    "start": 114.866,
+    "duration": 6.807
+  },
+  {
+    "text": "In our case, we create instruments\nthat sense and respond to other bodies,",
+    "start": 121.673,
+    "duration": 4.438
+  },
+  {
+    "text": "like Mars or Jupiter.",
+    "start": 126.144,
+    "duration": 2.603
+  },
+  {
+    "text": "Ventilators need to be able to work\nin really harsh environments.",
+    "start": 128.78,
+    "duration": 3.604
+  },
+  {
+    "text": "Well, we create things\nthat go to outer space.",
+    "start": 132.417,
+    "duration": 2.636
+  },
+  {
+    "text": "Ventilators also --\nthey just have to work,",
+    "start": 135.086,
+    "duration": 2.536
+  },
+  {
+    "text": "because if they don't work,\nsomeone might die.",
+    "start": 137.622,
+    "duration": 2.436
+  },
+  {
+    "text": "In our case, we send things\nto other planets,",
+    "start": 140.492,
+    "duration": 2.502
+  },
+  {
+    "text": "and when they get there,\nwe can't go there and fix them,",
+    "start": 142.994,
+    "duration": 2.67
+  },
+  {
+    "text": "so we have a culture of testing\nand testing to prove to ourselves",
+    "start": 145.697,
+    "duration": 3.77
+  },
+  {
+    "text": "that everything can work\nbefore we send them.",
+    "start": 149.467,
+    "duration": 2.603
+  },
+  {
+    "text": "Now, ventilators --\nthey're really complicated,",
+    "start": 152.771,
+    "duration": 3.436
+  },
+  {
+    "text": "and they are really expensive.",
+    "start": 156.241,
+    "duration": 2.135
+  },
+  {
+    "text": "There's lots of different parts,",
+    "start": 158.41,
+    "duration": 1.534
+  },
+  {
+    "text": "and they can do a lot\nof different types of things.",
+    "start": 159.978,
+    "duration": 2.469
+  },
+  {
+    "text": "So the team decided that\ninstead of doing a complicated ventilator,",
+    "start": 162.48,
+    "duration": 3.837
+  },
+  {
+    "text": "they were going to do something\nthat was specific just to COVID-19",
+    "start": 166.351,
+    "duration": 3.704
+  },
+  {
+    "text": "and that would make it\nless expensive, use less parts.",
+    "start": 170.088,
+    "duration": 3.804
+  },
+  {
+    "text": "And if a bunch of these\nwere in the hospital,",
+    "start": 173.925,
+    "duration": 2.169
+  },
+  {
+    "text": "the people that have COVID\ncould be using them,",
+    "start": 176.094,
+    "duration": 3.837
+  },
+  {
+    "text": "and we could save the really expensive,\nsophisticated ventilators",
+    "start": 179.964,
+    "duration": 4.305
+  },
+  {
+    "text": "for those people who really,\nreally needed them.",
+    "start": 184.302,
+    "duration": 2.436
+  },
+  {
+    "text": "And so what they ended up doing\nis that they made subcriteria.",
+    "start": 186.771,
+    "duration": 4.038
+  },
+  {
+    "text": "And the criteria was: do no harm --",
+    "start": 190.842,
+    "duration": 2.469
+  },
+  {
+    "text": "don't use any ventilator pieces",
+    "start": 193.344,
+    "duration": 2.303
+  },
+  {
+    "text": "that are in the supply chain\nof current ventilators;",
+    "start": 195.68,
+    "duration": 3.437
+  },
+  {
+    "text": "make sure that we use\nas few parts as really necessary;",
+    "start": 199.15,
+    "duration": 4.071
+  },
+  {
+    "text": "make sure that we can get those parts\nanywhere in the world,",
+    "start": 203.254,
+    "duration": 2.937
+  },
+  {
+    "text": "because we want people\nin lots of different countries",
+    "start": 206.224,
+    "duration": 2.503
+  },
+  {
+    "text": "to be able to make these same things;",
+    "start": 208.76,
+    "duration": 1.768
+  },
+  {
+    "text": "and then make it easy to use,",
+    "start": 210.562,
+    "duration": 1.401
+  },
+  {
+    "text": "because if it's not easy to use,\npeople just aren't going to use it.",
+    "start": 211.996,
+    "duration": 3.204
+  },
+  {
+    "text": "Well, I was sitting at home\nbecause I wasn't part of this project,",
+    "start": 215.233,
+    "duration": 3.17
+  },
+  {
+    "text": "and I'm just kind of working from home,",
+    "start": 218.436,
+    "duration": 1.869
+  },
+  {
+    "text": "and then I got this really unusual email\nby way of Dave Van Buren,",
+    "start": 220.305,
+    "duration": 4.738
+  },
+  {
+    "text": "asking me if I'd like to be\na team culturalist.",
+    "start": 225.076,
+    "duration": 4.405
+  },
+  {
+    "text": "I had never heard\nof a team culturalist before.",
+    "start": 229.514,
+    "duration": 2.202
+  },
+  {
+    "text": "I actually lead a team of\nartists and designers,",
+    "start": 231.75,
+    "duration": 2.268
+  },
+  {
+    "text": "and we help people\nthink through their thinking.",
+    "start": 234.018,
+    "duration": 2.603
+  },
+  {
+    "text": "But I thought, \"You know what?\nI'm going to do anything to help.",
+    "start": 236.654,
+    "duration": 3.037
+  },
+  {
+    "text": "Let me go in and be of help.\"",
+    "start": 239.724,
+    "duration": 1.402
+  },
+  {
+    "text": "And so this is JPL,\nit's a really big place,",
+    "start": 241.126,
+    "duration": 2.736
+  },
+  {
+    "text": "but they only let around\n200 people on lab,",
+    "start": 243.895,
+    "duration": 2.836
+  },
+  {
+    "text": "and only a few of those were\npeople working on the ventilator.",
+    "start": 246.765,
+    "duration": 3.036
+  },
+  {
+    "text": "But this -- this is what I came to\nwhen I first got there.",
+    "start": 249.801,
+    "duration": 3.303
+  },
+  {
+    "text": "There's flashing lights,\nhandwritten signs all over the place,",
+    "start": 253.104,
+    "duration": 2.936
+  },
+  {
+    "text": "a line on the ground\nand a sign-up sheet ...",
+    "start": 256.074,
+    "duration": 3.17
+  },
+  {
+    "text": "It was really strange.",
+    "start": 259.277,
+    "duration": 1.168
+  },
+  {
+    "text": "And I realized the people on the project\nwere in different rooms,",
+    "start": 260.445,
+    "duration": 3.103
+  },
+  {
+    "text": "and they couldn't see each other.",
+    "start": 263.581,
+    "duration": 1.602
+  },
+  {
+    "text": "So I scavenged cameras\nand computers and cables",
+    "start": 265.183,
+    "duration": 3.27
+  },
+  {
+    "text": "from all the computers of people\nthat are working at home",
+    "start": 268.453,
+    "duration": 2.703
+  },
+  {
+    "text": "to be able to set up a system\nso everyone could see each other.",
+    "start": 271.189,
+    "duration": 2.97
+  },
+  {
+    "text": "And in the process, I realized\nthat this is a really important moment.",
+    "start": 274.192,
+    "duration": 3.737
+  },
+  {
+    "text": "This is really a historically\nimportant moment,",
+    "start": 277.929,
+    "duration": 2.269
+  },
+  {
+    "text": "and so I need to be taking pictures\nof all these different moments.",
+    "start": 280.198,
+    "duration": 3.17
+  },
+  {
+    "text": "And so I was able to get pictures\nof all these special moments",
+    "start": 283.401,
+    "duration": 2.903
+  },
+  {
+    "text": "when things first started to work,\nbut also when things didn't work,",
+    "start": 286.337,
+    "duration": 3.204
+  },
+  {
+    "text": "and I was able to send them\nto the rest of the team,",
+    "start": 289.574,
+    "duration": 2.436
+  },
+  {
+    "text": "because, really, only about 20 percent\nof the team was at JPL.",
+    "start": 292.043,
+    "duration": 2.936
+  },
+  {
+    "text": "The rest were at home working",
+    "start": 294.979,
+    "duration": 1.468
+  },
+  {
+    "text": "and not really feeling connected\nto what was going on.",
+    "start": 296.481,
+    "duration": 2.969
+  },
+  {
+    "text": "So this was a really great way for them\nto feel like they were part of the team.",
+    "start": 299.484,
+    "duration": 3.804
+  },
+  {
+    "text": "Now, everything was going super fast.",
+    "start": 303.288,
+    "duration": 2.102
+  },
+  {
+    "text": "And, just an example, the chief\nengineer said, \"Hey,",
+    "start": 305.423,
+    "duration": 3.036
+  },
+  {
+    "text": "we need an interface for this ventilator",
+    "start": 308.493,
+    "duration": 2.069
+  },
+  {
+    "text": "that's going to be super easy\nfor doctors to use.",
+    "start": 310.595,
+    "duration": 2.302
+  },
+  {
+    "text": "And could you get it done\nby 6am tomorrow?\" (Laughs)",
+    "start": 312.931,
+    "duration": 4.404
+  },
+  {
+    "text": "And so our team called up a whole bunch\nof doctors all over the country at 8pm.",
+    "start": 317.368,
+    "duration": 4.505
+  },
+  {
+    "text": "We got together with them,\ngot done at 10pm,",
+    "start": 321.906,
+    "duration": 2.67
+  },
+  {
+    "text": "asking them a bunch of questions.",
+    "start": 324.609,
+    "duration": 1.602
+  },
+  {
+    "text": "And literally, a designer ended up\nspending all night working on this,",
+    "start": 326.211,
+    "duration": 3.436
+  },
+  {
+    "text": "and by 6am, he had an interface done.",
+    "start": 329.681,
+    "duration": 3.436
+  },
+  {
+    "text": "Now, this was just par for the course",
+    "start": 333.151,
+    "duration": 2.069
+  },
+  {
+    "text": "for what the engineers were going through,",
+    "start": 335.22,
+    "duration": 2.002
+  },
+  {
+    "text": "because they were trying to create\nsomething they'd never thought of before.",
+    "start": 337.255,
+    "duration": 3.604
+  },
+  {
+    "text": "They were trying to get\nall the parts to work,",
+    "start": 340.892,
+    "duration": 2.169
+  },
+  {
+    "text": "get the software to work with parts ...",
+    "start": 343.094,
+    "duration": 1.869
+  },
+  {
+    "text": "But the entire time, we were working\nwith various doctors.",
+    "start": 344.963,
+    "duration": 2.736
+  },
+  {
+    "text": "The person in the middle is Dr. Gurevitch.",
+    "start": 347.732,
+    "duration": 2.102
+  },
+  {
+    "text": "He's the person who first told the team\nabout what a ventilator was.",
+    "start": 349.868,
+    "duration": 4.27
+  },
+  {
+    "text": "The person in the computer next to him,\nhis name is Dr. Levin.",
+    "start": 354.172,
+    "duration": 3.27
+  },
+  {
+    "text": "He's at Mount Sinai Hospital in New York,",
+    "start": 357.475,
+    "duration": 2.703
+  },
+  {
+    "text": "and that was the epicenter\nof COVID at the very beginning.",
+    "start": 360.211,
+    "duration": 3.804
+  },
+  {
+    "text": "And he would literally\ncome out of the ICU in his [scrubs]",
+    "start": 364.048,
+    "duration": 3.437
+  },
+  {
+    "text": "and get on the webcam and start\nto critique what we're creating.",
+    "start": 367.518,
+    "duration": 3.637
+  },
+  {
+    "text": "So, 37 days after they first learned\nwhat a ventilator was,",
+    "start": 371.189,
+    "duration": 5.572
+  },
+  {
+    "text": "they stayed up the entire night,",
+    "start": 376.794,
+    "duration": 2.436
+  },
+  {
+    "text": "and in the morning,\nthey had finally finished",
+    "start": 379.23,
+    "duration": 2.603
+  },
+  {
+    "text": "their first working prototype\nof a ventilator.",
+    "start": 381.866,
+    "duration": 2.569
+  },
+  {
+    "text": "They had to hurry up and package it up,",
+    "start": 384.435,
+    "duration": 2.036
+  },
+  {
+    "text": "because then they were\ngoing to send it to New York,",
+    "start": 386.504,
+    "duration": 2.436
+  },
+  {
+    "text": "to Dr. Levin at Mount Sinai Hospital,",
+    "start": 388.973,
+    "duration": 2.236
+  },
+  {
+    "text": "where they tested it\non this human testing case",
+    "start": 391.209,
+    "duration": 3.103
+  },
+  {
+    "text": "where they were able to see\nwhether or not the ventilator worked,",
+    "start": 394.345,
+    "duration": 3.07
+  },
+  {
+    "text": "and it worked.",
+    "start": 397.448,
+    "duration": 1.135
+  },
+  {
+    "text": "Everyone was super excited,",
+    "start": 398.616,
+    "duration": 1.302
+  },
+  {
+    "text": "but they're even more excited today,",
+    "start": 399.918,
+    "duration": 1.801
+  },
+  {
+    "text": "because there are 27 organizations\nall around the world",
+    "start": 401.719,
+    "duration": 3.637
+  },
+  {
+    "text": "that are creating these things.",
+    "start": 405.39,
+    "duration": 1.668
+  },
+  {
+    "text": "They're in Nigeria, in Brazil,\nin India, in dozens of other countries.",
+    "start": 407.058,
+    "duration": 4.905
+  },
+  {
+    "text": "And it all started with that simple,\npowerful question:",
+    "start": 411.996,
+    "duration": 4.805
+  },
+  {
+    "text": "Is what I'm doing right now",
+    "start": 416.834,
+    "duration": 1.769
+  },
+  {
+    "text": "the most important thing\nI should be doing?",
+    "start": 418.636,
+    "duration": 3.203
+  }
+]

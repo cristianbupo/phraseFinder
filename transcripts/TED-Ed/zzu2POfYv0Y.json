@@ -1,0 +1,347 @@
+[
+  {
+    "text": "How does the difference between",
+    "start": 15.55,
+    "duration": 1.48
+  },
+  {
+    "text": "point 0000000398 and",
+    "start": 17.03,
+    "duration": 3.83
+  },
+  {
+    "text": "point 00000000398",
+    "start": 20.86,
+    "duration": 4.8
+  },
+  {
+    "text": "cause one to have red eyes after swimming?",
+    "start": 25.66,
+    "duration": 2.22
+  },
+  {
+    "text": "To answer this, we first need a way of",
+    "start": 27.88,
+    "duration": 2.1
+  },
+  {
+    "text": "dealing with rather small numbers,",
+    "start": 29.98,
+    "duration": 2.02
+  },
+  {
+    "text": "or in some cases extremely large numbers.",
+    "start": 32.0,
+    "duration": 2.0
+  },
+  {
+    "text": "This leads us\nto the concept of logarithms.",
+    "start": 34.0,
+    "duration": 2.31
+  },
+  {
+    "text": "Well, what are logarithms?",
+    "start": 36.31,
+    "duration": 1.67
+  },
+  {
+    "text": "Let's take the base number, b,",
+    "start": 37.98,
+    "duration": 2.053
+  },
+  {
+    "text": "and raise it to a power, p,",
+    "start": 40.033,
+    "duration": 1.503
+  },
+  {
+    "text": "like 2 to the 3rd power,",
+    "start": 41.536,
+    "duration": 1.464
+  },
+  {
+    "text": "and have it equal a number n.",
+    "start": 43.0,
+    "duration": 2.57
+  },
+  {
+    "text": "We get an exponential equation:\nb raised to the p power, equals n.",
+    "start": 45.57,
+    "duration": 3.7
+  },
+  {
+    "text": "In our example, that'd be 2 raised",
+    "start": 49.27,
+    "duration": 2.096
+  },
+  {
+    "text": "to the 3rd power, equals 8.",
+    "start": 51.366,
+    "duration": 1.826
+  },
+  {
+    "text": "The exponent p is said to be",
+    "start": 53.192,
+    "duration": 1.849
+  },
+  {
+    "text": "the logarithm of the number n.",
+    "start": 55.041,
+    "duration": 2.159
+  },
+  {
+    "text": "Most of the time this would be written:",
+    "start": 57.2,
+    "duration": 1.94
+  },
+  {
+    "text": "\"log, base b, of a number\nequals p, the power.\"",
+    "start": 59.14,
+    "duration": 4.4
+  },
+  {
+    "text": "This is starting to sound a bit confusing\nwith all the variables,",
+    "start": 63.54,
+    "duration": 3.053
+  },
+  {
+    "text": "so let's show this with an example.",
+    "start": 66.593,
+    "duration": 1.627
+  },
+  {
+    "text": "What is the value of",
+    "start": 68.22,
+    "duration": 1.113
+  },
+  {
+    "text": "log base 10 of 10,000?",
+    "start": 69.333,
+    "duration": 2.343
+  },
+  {
+    "text": "The same question could be asked\nusing exponents:",
+    "start": 71.676,
+    "duration": 2.324
+  },
+  {
+    "text": "\"10 raised to what power is 10,000?\"",
+    "start": 74.0,
+    "duration": 2.38
+  },
+  {
+    "text": "Well, 10 to the 4th is 10,000.",
+    "start": 76.38,
+    "duration": 2.286
+  },
+  {
+    "text": "So, log base 10 of 10,000",
+    "start": 78.666,
+    "duration": 1.666
+  },
+  {
+    "text": "must equal 4.",
+    "start": 80.332,
+    "duration": 1.958
+  },
+  {
+    "text": "This example can also be completed \nvery simply on a scientific calculator.",
+    "start": 82.29,
+    "duration": 4.02
+  },
+  {
+    "text": "Log base 10 is used so frequently",
+    "start": 86.31,
+    "duration": 2.136
+  },
+  {
+    "text": "in the sciences",
+    "start": 88.446,
+    "duration": 1.266
+  },
+  {
+    "text": "that it has the honor of having\nits own button on most calculators.",
+    "start": 89.712,
+    "duration": 5.078
+  },
+  {
+    "text": "If the calculator will figure out\nlogs for me,",
+    "start": 94.79,
+    "duration": 2.21
+  },
+  {
+    "text": "why study them?",
+    "start": 97.0,
+    "duration": 1.47
+  },
+  {
+    "text": "Just a quick reminder:",
+    "start": 98.47,
+    "duration": 1.286
+  },
+  {
+    "text": "the log button only computes\nlogarithms of base 10.",
+    "start": 99.756,
+    "duration": 3.776
+  },
+  {
+    "text": "What if you want to go into\ncomputer science",
+    "start": 103.532,
+    "duration": 2.072
+  },
+  {
+    "text": "and need to understand base 2?",
+    "start": 105.604,
+    "duration": 2.142
+  },
+  {
+    "text": "So what is log base 2 of 64?",
+    "start": 107.746,
+    "duration": 2.444
+  },
+  {
+    "text": "In other words,\n2 raised to what power is 64?",
+    "start": 110.19,
+    "duration": 3.8
+  },
+  {
+    "text": "Well, use your fingers.\n2, 4, 8, 16, 32, 64.",
+    "start": 113.99,
+    "duration": 5.12
+  },
+  {
+    "text": "So log base 2 of 64 must equal 6.",
+    "start": 119.11,
+    "duration": 4.4
+  },
+  {
+    "text": "So what does this have to do\nwith my eyes turning red",
+    "start": 123.51,
+    "duration": 2.86
+  },
+  {
+    "text": "in some swimming pools",
+    "start": 126.37,
+    "duration": 1.326
+  },
+  {
+    "text": "and not others?",
+    "start": 127.696,
+    "duration": 1.116
+  },
+  {
+    "text": "Well, it leads us into an interesting",
+    "start": 128.812,
+    "duration": 1.789
+  },
+  {
+    "text": "use of logarithms in chemistry:",
+    "start": 130.601,
+    "duration": 1.929
+  },
+  {
+    "text": "finding the pH of water samples.",
+    "start": 132.53,
+    "duration": 2.07
+  },
+  {
+    "text": "pH tells us how acidic\nor basic a sample is,",
+    "start": 134.6,
+    "duration": 3.0
+  },
+  {
+    "text": "and can be calculated with the formula: ",
+    "start": 137.6,
+    "duration": 2.0
+  },
+  {
+    "text": "pH equals negative log base 10 of \nthe hydrogen ion concentration, or H plus.",
+    "start": 139.6,
+    "duration": 6.03
+  },
+  {
+    "text": "We can find the pH of water samples",
+    "start": 145.63,
+    "duration": 2.35
+  },
+  {
+    "text": "with hydrogen ion concentration of \npoint 0000000398",
+    "start": 147.98,
+    "duration": 5.23
+  },
+  {
+    "text": "and point 00000000398",
+    "start": 153.21,
+    "duration": 5.41
+  },
+  {
+    "text": "quickly on a calculator.",
+    "start": 158.62,
+    "duration": 1.25
+  },
+  {
+    "text": "Punch: negative log\nof each of those numbers,",
+    "start": 159.87,
+    "duration": 2.116
+  },
+  {
+    "text": "and you'll see the pH's are 7.4 and 8.4.",
+    "start": 161.986,
+    "duration": 4.296
+  },
+  {
+    "text": "Since the tears in our eyes\nhave a pH of about 7.4,",
+    "start": 166.282,
+    "duration": 2.868
+  },
+  {
+    "text": "the H plus concentration of .0000000398",
+    "start": 169.15,
+    "duration": 4.27
+  },
+  {
+    "text": "will feel nice on your eyes,",
+    "start": 173.42,
+    "duration": 1.54
+  },
+  {
+    "text": "but the pH of 8.4\nwill make you feel itchy and red.",
+    "start": 174.96,
+    "duration": 4.3
+  },
+  {
+    "text": "It's easy to remember logarithms\n\"log base b of some number n equals p\"",
+    "start": 179.26,
+    "duration": 4.77
+  },
+  {
+    "text": "by repeating: \"The base raised\nto what power equals the number?\"",
+    "start": 184.03,
+    "duration": 3.703
+  },
+  {
+    "text": "\"The BASE raised to what POWER\nequals the NUMBER?\"",
+    "start": 187.733,
+    "duration": 4.773
+  },
+  {
+    "text": "So now we know\nlogarithms are very powerful",
+    "start": 192.506,
+    "duration": 2.384
+  },
+  {
+    "text": "when dealing with\nextremely small or large numbers.",
+    "start": 194.89,
+    "duration": 3.166
+  },
+  {
+    "text": "Logarithms can even be used",
+    "start": 198.056,
+    "duration": 1.636
+  },
+  {
+    "text": "instead of eyedrops after swimming.",
+    "start": 199.692,
+    "duration": 2.236
+  }
+]

@@ -1,0 +1,1417 @@
+[
+  {
+    "text": "So I'm excited to share a few spicy\nthoughts on artificial intelligence.",
+    "start": 3.708,
+    "duration": 6.257
+  },
+  {
+    "text": "But first, let's get philosophical",
+    "start": 10.799,
+    "duration": 3.044
+  },
+  {
+    "text": "by starting with this quote by Voltaire,",
+    "start": 13.843,
+    "duration": 2.545
+  },
+  {
+    "text": "an 18th century Enlightenment philosopher,",
+    "start": 16.388,
+    "duration": 2.252
+  },
+  {
+    "text": "who said, \"Common sense is not so common.\"",
+    "start": 18.682,
+    "duration": 2.961
+  },
+  {
+    "text": "Turns out this quote\ncouldn't be more relevant",
+    "start": 21.685,
+    "duration": 3.128
+  },
+  {
+    "text": "to artificial intelligence today.",
+    "start": 24.854,
+    "duration": 2.169
+  },
+  {
+    "text": "Despite that, AI\nis an undeniably powerful tool,",
+    "start": 27.065,
+    "duration": 3.921
+  },
+  {
+    "text": "beating the world-class \"Go\" champion,",
+    "start": 31.027,
+    "duration": 2.586
+  },
+  {
+    "text": "acing college admission tests\nand even passing the bar exam.",
+    "start": 33.613,
+    "duration": 4.088
+  },
+  {
+    "text": "I’m a computer scientist of 20 years,",
+    "start": 38.118,
+    "duration": 2.461
+  },
+  {
+    "text": "and I work on artificial intelligence.",
+    "start": 40.579,
+    "duration": 2.419
+  },
+  {
+    "text": "I am here to demystify AI.",
+    "start": 43.039,
+    "duration": 2.586
+  },
+  {
+    "text": "So AI today is like a Goliath.",
+    "start": 46.626,
+    "duration": 3.462
+  },
+  {
+    "text": "It is literally very, very large.",
+    "start": 50.13,
+    "duration": 3.003
+  },
+  {
+    "text": "It is speculated that the recent ones\nare trained on tens of thousands of GPUs",
+    "start": 53.508,
+    "duration": 5.839
+  },
+  {
+    "text": "and a trillion words.",
+    "start": 59.389,
+    "duration": 2.544
+  },
+  {
+    "text": "Such extreme-scale AI models,",
+    "start": 62.475,
+    "duration": 2.086
+  },
+  {
+    "text": "often referred to as \"large\nlanguage models,\"",
+    "start": 64.603,
+    "duration": 3.128
+  },
+  {
+    "text": "appear to demonstrate sparks of AGI,",
+    "start": 67.731,
+    "duration": 3.879
+  },
+  {
+    "text": "artificial general intelligence.",
+    "start": 71.61,
+    "duration": 2.627
+  },
+  {
+    "text": "Except when it makes\nsmall, silly mistakes,",
+    "start": 74.279,
+    "duration": 3.837
+  },
+  {
+    "text": "which it often does.",
+    "start": 78.158,
+    "duration": 1.585
+  },
+  {
+    "text": "Many believe that whatever\nmistakes AI makes today",
+    "start": 80.368,
+    "duration": 3.671
+  },
+  {
+    "text": "can be easily fixed with brute force,",
+    "start": 84.08,
+    "duration": 2.002
+  },
+  {
+    "text": "bigger scale and more resources.",
+    "start": 86.124,
+    "duration": 2.127
+  },
+  {
+    "text": "What possibly could go wrong?",
+    "start": 88.585,
+    "duration": 1.96
+  },
+  {
+    "text": "So there are three immediate challenges\nwe face already at the societal level.",
+    "start": 92.172,
+    "duration": 5.13
+  },
+  {
+    "text": "First, extreme-scale AI models\nare so expensive to train,",
+    "start": 97.886,
+    "duration": 6.173
+  },
+  {
+    "text": "and only a few tech companies\ncan afford to do so.",
+    "start": 104.059,
+    "duration": 3.461
+  },
+  {
+    "text": "So we already see\nthe concentration of power.",
+    "start": 108.104,
+    "duration": 3.796
+  },
+  {
+    "text": "But what's worse for AI safety,",
+    "start": 112.817,
+    "duration": 2.503
+  },
+  {
+    "text": "we are now at the mercy\nof those few tech companies",
+    "start": 115.32,
+    "duration": 3.795
+  },
+  {
+    "text": "because researchers\nin the larger community",
+    "start": 119.115,
+    "duration": 3.796
+  },
+  {
+    "text": "do not have the means to truly inspect\nand dissect these models.",
+    "start": 122.952,
+    "duration": 4.755
+  },
+  {
+    "text": "And let's not forget\ntheir massive carbon footprint",
+    "start": 128.416,
+    "duration": 3.837
+  },
+  {
+    "text": "and the environmental impact.",
+    "start": 132.295,
+    "duration": 1.919
+  },
+  {
+    "text": "And then there are these additional\nintellectual questions.",
+    "start": 134.881,
+    "duration": 3.253
+  },
+  {
+    "text": "Can AI, without robust common sense,\nbe truly safe for humanity?",
+    "start": 138.176,
+    "duration": 5.214
+  },
+  {
+    "text": "And is brute-force scale\nreally the only way",
+    "start": 144.307,
+    "duration": 4.463
+  },
+  {
+    "text": "and even the correct way to teach AI?",
+    "start": 148.812,
+    "duration": 2.919
+  },
+  {
+    "text": "So I’m often asked these days",
+    "start": 152.232,
+    "duration": 1.668
+  },
+  {
+    "text": "whether it's even feasible\nto do any meaningful research",
+    "start": 153.9,
+    "duration": 2.628
+  },
+  {
+    "text": "without extreme-scale compute.",
+    "start": 156.569,
+    "duration": 1.961
+  },
+  {
+    "text": "And I work at a university\nand nonprofit research institute,",
+    "start": 158.53,
+    "duration": 3.795
+  },
+  {
+    "text": "so I cannot afford a massive GPU farm\nto create enormous language models.",
+    "start": 162.367,
+    "duration": 5.63
+  },
+  {
+    "text": "Nevertheless, I believe\nthat there's so much we need to do",
+    "start": 168.707,
+    "duration": 4.462
+  },
+  {
+    "text": "and can do to make\nAI sustainable and humanistic.",
+    "start": 173.211,
+    "duration": 4.004
+  },
+  {
+    "text": "We need to make AI smaller,\nto democratize it.",
+    "start": 177.799,
+    "duration": 3.378
+  },
+  {
+    "text": "And we need to make AI safer\nby teaching human norms and values.",
+    "start": 181.177,
+    "duration": 4.255
+  },
+  {
+    "text": "Perhaps we can draw an analogy\nfrom \"David and Goliath,\"",
+    "start": 186.683,
+    "duration": 4.713
+  },
+  {
+    "text": "here, Goliath being\nthe extreme-scale language models,",
+    "start": 191.438,
+    "duration": 4.587
+  },
+  {
+    "text": "and seek inspiration from\nan old-time classic, \"The Art of War,\"",
+    "start": 196.067,
+    "duration": 5.089
+  },
+  {
+    "text": "which tells us, in my interpretation,",
+    "start": 201.156,
+    "duration": 2.419
+  },
+  {
+    "text": "know your enemy, choose your battles,\nand innovate your weapons.",
+    "start": 203.575,
+    "duration": 4.129
+  },
+  {
+    "text": "Let's start with the first,\nknow your enemy,",
+    "start": 208.163,
+    "duration": 2.669
+  },
+  {
+    "text": "which means we need\nto evaluate AI with scrutiny.",
+    "start": 210.874,
+    "duration": 4.129
+  },
+  {
+    "text": "AI is passing the bar exam.",
+    "start": 215.044,
+    "duration": 2.169
+  },
+  {
+    "text": "Does that mean that AI\nis robust at common sense?",
+    "start": 218.089,
+    "duration": 3.212
+  },
+  {
+    "text": "You might assume so, but you never know.",
+    "start": 221.342,
+    "duration": 2.795
+  },
+  {
+    "text": "So suppose I left five clothes\nto dry out in the sun,",
+    "start": 224.429,
+    "duration": 4.129
+  },
+  {
+    "text": "and it took them five hours\nto dry completely.",
+    "start": 228.6,
+    "duration": 3.003
+  },
+  {
+    "text": "How long would it take to dry 30 clothes?",
+    "start": 231.644,
+    "duration": 3.379
+  },
+  {
+    "text": "GPT-4, the newest, greatest\nAI system says 30 hours.",
+    "start": 235.315,
+    "duration": 4.337
+  },
+  {
+    "text": "Not good.",
+    "start": 239.694,
+    "duration": 1.502
+  },
+  {
+    "text": "A different one.",
+    "start": 241.196,
+    "duration": 1.167
+  },
+  {
+    "text": "I have 12-liter jug and six-liter jug,",
+    "start": 242.405,
+    "duration": 2.294
+  },
+  {
+    "text": "and I want to measure six liters.",
+    "start": 244.741,
+    "duration": 1.626
+  },
+  {
+    "text": "How do I do it?",
+    "start": 246.367,
+    "duration": 1.252
+  },
+  {
+    "text": "Just use the six liter jug, right?",
+    "start": 247.66,
+    "duration": 2.002
+  },
+  {
+    "text": "GPT-4 spits out some\nvery elaborate nonsense.",
+    "start": 249.996,
+    "duration": 3.754
+  },
+  {
+    "text": "(Laughter)",
+    "start": 253.792,
+    "duration": 2.919
+  },
+  {
+    "text": "Step one, fill the six-liter jug,",
+    "start": 257.212,
+    "duration": 2.252
+  },
+  {
+    "text": "step two, pour the water\nfrom six to 12-liter jug,",
+    "start": 259.506,
+    "duration": 3.044
+  },
+  {
+    "text": "step three, fill the six-liter jug again,",
+    "start": 262.55,
+    "duration": 3.087
+  },
+  {
+    "text": "step four, very carefully,\npour the water from six to 12-liter jug.",
+    "start": 265.637,
+    "duration": 4.421
+  },
+  {
+    "text": "And finally you have six liters\nof water in the six-liter jug",
+    "start": 270.099,
+    "duration": 4.839
+  },
+  {
+    "text": "that should be empty by now.",
+    "start": 274.979,
+    "duration": 1.46
+  },
+  {
+    "text": "(Laughter)",
+    "start": 276.439,
+    "duration": 1.377
+  },
+  {
+    "text": "OK, one more.",
+    "start": 277.857,
+    "duration": 1.126
+  },
+  {
+    "text": "Would I get a flat tire\nby bicycling over a bridge",
+    "start": 279.567,
+    "duration": 4.088
+  },
+  {
+    "text": "that is suspended over nails,\nscrews and broken glass?",
+    "start": 283.696,
+    "duration": 4.63
+  },
+  {
+    "text": "Yes, highly likely, GPT-4 says,",
+    "start": 288.368,
+    "duration": 3.086
+  },
+  {
+    "text": "presumably because it cannot\ncorrectly reason",
+    "start": 291.454,
+    "duration": 2.378
+  },
+  {
+    "text": "that if a bridge is suspended\nover the broken nails and broken glass,",
+    "start": 293.873,
+    "duration": 4.296
+  },
+  {
+    "text": "then the surface of the bridge\ndoesn't touch the sharp objects directly.",
+    "start": 298.211,
+    "duration": 4.129
+  },
+  {
+    "text": "OK, so how would you feel\nabout an AI lawyer that aced the bar exam",
+    "start": 302.34,
+    "duration": 6.089
+  },
+  {
+    "text": "yet randomly fails at such\nbasic common sense?",
+    "start": 308.429,
+    "duration": 3.546
+  },
+  {
+    "text": "AI today is unbelievably intelligent\nand then shockingly stupid.",
+    "start": 312.767,
+    "duration": 6.131
+  },
+  {
+    "text": "(Laughter)",
+    "start": 318.898,
+    "duration": 1.418
+  },
+  {
+    "text": "It is an unavoidable side effect\nof teaching AI through brute-force scale.",
+    "start": 320.316,
+    "duration": 5.673
+  },
+  {
+    "text": "Some scale optimists might say,\n“Don’t worry about this.",
+    "start": 326.447,
+    "duration": 3.17
+  },
+  {
+    "text": "All of these can be easily fixed\nby adding similar examples",
+    "start": 329.659,
+    "duration": 3.962
+  },
+  {
+    "text": "as yet more training data for AI.\"",
+    "start": 333.663,
+    "duration": 2.753
+  },
+  {
+    "text": "But the real question is this.",
+    "start": 336.916,
+    "duration": 2.044
+  },
+  {
+    "text": "Why should we even do that?",
+    "start": 339.46,
+    "duration": 1.377
+  },
+  {
+    "text": "You are able to get\nthe correct answers right away",
+    "start": 340.879,
+    "duration": 2.836
+  },
+  {
+    "text": "without having to train yourself\nwith similar examples.",
+    "start": 343.715,
+    "duration": 3.295
+  },
+  {
+    "text": "Children do not even read\na trillion words",
+    "start": 348.136,
+    "duration": 3.378
+  },
+  {
+    "text": "to acquire such a basic level\nof common sense.",
+    "start": 351.556,
+    "duration": 3.42
+  },
+  {
+    "text": "So this observation leads us\nto the next wisdom,",
+    "start": 354.976,
+    "duration": 3.17
+  },
+  {
+    "text": "choose your battles.",
+    "start": 358.146,
+    "duration": 1.71
+  },
+  {
+    "text": "So what fundamental questions\nshould we ask right now",
+    "start": 360.148,
+    "duration": 4.421
+  },
+  {
+    "text": "and tackle today",
+    "start": 364.569,
+    "duration": 1.918
+  },
+  {
+    "text": "in order to overcome\nthis status quo with extreme-scale AI?",
+    "start": 366.529,
+    "duration": 4.421
+  },
+  {
+    "text": "I'll say common sense\nis among the top priorities.",
+    "start": 371.534,
+    "duration": 3.545
+  },
+  {
+    "text": "So common sense has been\na long-standing challenge in AI.",
+    "start": 375.079,
+    "duration": 3.921
+  },
+  {
+    "text": "To explain why, let me draw\nan analogy to dark matter.",
+    "start": 379.667,
+    "duration": 4.088
+  },
+  {
+    "text": "So only five percent\nof the universe is normal matter",
+    "start": 383.796,
+    "duration": 2.878
+  },
+  {
+    "text": "that you can see and interact with,",
+    "start": 386.716,
+    "duration": 2.794
+  },
+  {
+    "text": "and the remaining 95 percent\nis dark matter and dark energy.",
+    "start": 389.552,
+    "duration": 4.463
+  },
+  {
+    "text": "Dark matter is completely invisible,",
+    "start": 394.39,
+    "duration": 1.835
+  },
+  {
+    "text": "but scientists speculate that it's there\nbecause it influences the visible world,",
+    "start": 396.225,
+    "duration": 4.63
+  },
+  {
+    "text": "even including the trajectory of light.",
+    "start": 400.897,
+    "duration": 2.627
+  },
+  {
+    "text": "So for language, the normal matter\nis the visible text,",
+    "start": 403.524,
+    "duration": 3.629
+  },
+  {
+    "text": "and the dark matter is the unspoken\nrules about how the world works,",
+    "start": 407.195,
+    "duration": 4.379
+  },
+  {
+    "text": "including naive physics\nand folk psychology,",
+    "start": 411.574,
+    "duration": 3.212
+  },
+  {
+    "text": "which influence the way\npeople use and interpret language.",
+    "start": 414.827,
+    "duration": 3.546
+  },
+  {
+    "text": "So why is this common sense\neven important?",
+    "start": 418.831,
+    "duration": 2.503
+  },
+  {
+    "text": "Well, in a famous thought experiment\nproposed by Nick Bostrom,",
+    "start": 422.46,
+    "duration": 5.464
+  },
+  {
+    "text": "AI was asked to produce\nand maximize the paper clips.",
+    "start": 427.924,
+    "duration": 5.881
+  },
+  {
+    "text": "And that AI decided to kill humans\nto utilize them as additional resources,",
+    "start": 433.805,
+    "duration": 5.964
+  },
+  {
+    "text": "to turn you into paper clips.",
+    "start": 439.769,
+    "duration": 2.461
+  },
+  {
+    "text": "Because AI didn't have the basic human\nunderstanding about human values.",
+    "start": 443.064,
+    "duration": 5.505
+  },
+  {
+    "text": "Now, writing a better\nobjective and equation",
+    "start": 449.07,
+    "duration": 3.295
+  },
+  {
+    "text": "that explicitly states:\n“Do not kill humans”",
+    "start": 452.365,
+    "duration": 2.919
+  },
+  {
+    "text": "will not work either",
+    "start": 455.284,
+    "duration": 1.21
+  },
+  {
+    "text": "because AI might go ahead\nand kill all the trees,",
+    "start": 456.494,
+    "duration": 3.629
+  },
+  {
+    "text": "thinking that's a perfectly\nOK thing to do.",
+    "start": 460.123,
+    "duration": 2.419
+  },
+  {
+    "text": "And in fact, there are\nendless other things",
+    "start": 462.583,
+    "duration": 2.002
+  },
+  {
+    "text": "that AI obviously shouldn’t do\nwhile maximizing paper clips,",
+    "start": 464.585,
+    "duration": 2.837
+  },
+  {
+    "text": "including: “Don’t spread the fake news,”\n“Don’t steal,” “Don’t lie,”",
+    "start": 467.463,
+    "duration": 4.255
+  },
+  {
+    "text": "which are all part of our common sense\nunderstanding about how the world works.",
+    "start": 471.759,
+    "duration": 3.796
+  },
+  {
+    "text": "However, the AI field for decades\nhas considered common sense",
+    "start": 475.93,
+    "duration": 4.88
+  },
+  {
+    "text": "as a nearly impossible challenge.",
+    "start": 480.81,
+    "duration": 2.753
+  },
+  {
+    "text": "So much so that when my students\nand colleagues and I",
+    "start": 483.563,
+    "duration": 3.837
+  },
+  {
+    "text": "started working on it several years ago,\nwe were very much discouraged.",
+    "start": 487.4,
+    "duration": 3.754
+  },
+  {
+    "text": "We’ve been told that it’s a research\ntopic of ’70s and ’80s;",
+    "start": 491.195,
+    "duration": 3.254
+  },
+  {
+    "text": "shouldn’t work on it\nbecause it will never work;",
+    "start": 494.49,
+    "duration": 2.419
+  },
+  {
+    "text": "in fact, don't even say the word\nto be taken seriously.",
+    "start": 496.951,
+    "duration": 3.378
+  },
+  {
+    "text": "Now fast forward to this year,",
+    "start": 500.329,
+    "duration": 2.128
+  },
+  {
+    "text": "I’m hearing: “Don’t work on it\nbecause ChatGPT has almost solved it.”",
+    "start": 502.498,
+    "duration": 4.296
+  },
+  {
+    "text": "And: “Just scale things up\nand magic will arise,",
+    "start": 506.836,
+    "duration": 2.461
+  },
+  {
+    "text": "and nothing else matters.”",
+    "start": 509.338,
+    "duration": 1.794
+  },
+  {
+    "text": "So my position is that giving\ntrue common sense",
+    "start": 511.174,
+    "duration": 3.545
+  },
+  {
+    "text": "human-like robots common sense\nto AI, is still moonshot.",
+    "start": 514.761,
+    "duration": 3.712
+  },
+  {
+    "text": "And you don’t reach to the Moon",
+    "start": 518.514,
+    "duration": 1.502
+  },
+  {
+    "text": "by making the tallest building\nin the world one inch taller at a time.",
+    "start": 520.016,
+    "duration": 4.212
+  },
+  {
+    "text": "Extreme-scale AI models",
+    "start": 524.27,
+    "duration": 1.46
+  },
+  {
+    "text": "do acquire an ever-more increasing amount\nof commonsense knowledge,",
+    "start": 525.772,
+    "duration": 3.169
+  },
+  {
+    "text": "I'll give you that.",
+    "start": 528.983,
+    "duration": 1.168
+  },
+  {
+    "text": "But remember, they still stumble\non such trivial problems",
+    "start": 530.193,
+    "duration": 4.254
+  },
+  {
+    "text": "that even children can do.",
+    "start": 534.489,
+    "duration": 2.419
+  },
+  {
+    "text": "So AI today is awfully inefficient.",
+    "start": 536.908,
+    "duration": 3.879
+  },
+  {
+    "text": "And what if there is an alternative path\nor path yet to be found?",
+    "start": 540.787,
+    "duration": 4.337
+  },
+  {
+    "text": "A path that can build on the advancements\nof the deep neural networks,",
+    "start": 545.166,
+    "duration": 4.171
+  },
+  {
+    "text": "but without going so extreme\nwith the scale.",
+    "start": 549.378,
+    "duration": 2.712
+  },
+  {
+    "text": "So this leads us to our final wisdom:",
+    "start": 552.465,
+    "duration": 3.17
+  },
+  {
+    "text": "innovate your weapons.",
+    "start": 555.635,
+    "duration": 1.71
+  },
+  {
+    "text": "In the modern-day AI context,",
+    "start": 557.345,
+    "duration": 1.668
+  },
+  {
+    "text": "that means innovate\nyour data and algorithms.",
+    "start": 559.055,
+    "duration": 3.086
+  },
+  {
+    "text": "OK, so there are, roughly speaking,\nthree types of data",
+    "start": 562.183,
+    "duration": 2.628
+  },
+  {
+    "text": "that modern AI is trained on:",
+    "start": 564.852,
+    "duration": 1.961
+  },
+  {
+    "text": "raw web data,",
+    "start": 566.813,
+    "duration": 1.376
+  },
+  {
+    "text": "crafted examples\ncustom developed for AI training,",
+    "start": 568.231,
+    "duration": 4.462
+  },
+  {
+    "text": "and then human judgments,",
+    "start": 572.735,
+    "duration": 2.044
+  },
+  {
+    "text": "also known as human\nfeedback on AI performance.",
+    "start": 574.821,
+    "duration": 3.211
+  },
+  {
+    "text": "If the AI is only trained\non the first type, raw web data,",
+    "start": 578.074,
+    "duration": 3.962
+  },
+  {
+    "text": "which is freely available,",
+    "start": 582.078,
+    "duration": 1.71
+  },
+  {
+    "text": "it's not good because this data\nis loaded with racism and sexism",
+    "start": 583.788,
+    "duration": 4.755
+  },
+  {
+    "text": "and misinformation.",
+    "start": 588.584,
+    "duration": 1.126
+  },
+  {
+    "text": "So no matter how much of it you use,\ngarbage in and garbage out.",
+    "start": 589.752,
+    "duration": 4.171
+  },
+  {
+    "text": "So the newest, greatest AI systems",
+    "start": 594.507,
+    "duration": 2.794
+  },
+  {
+    "text": "are now powered with the second\nand third types of data",
+    "start": 597.343,
+    "duration": 3.337
+  },
+  {
+    "text": "that are crafted and judged\nby human workers.",
+    "start": 600.68,
+    "duration": 3.378
+  },
+  {
+    "text": "It's analogous to writing specialized\ntextbooks for AI to study from",
+    "start": 604.35,
+    "duration": 5.422
+  },
+  {
+    "text": "and then hiring human tutors\nto give constant feedback to AI.",
+    "start": 609.814,
+    "duration": 4.421
+  },
+  {
+    "text": "These are proprietary data, by and large,",
+    "start": 615.027,
+    "duration": 2.461
+  },
+  {
+    "text": "speculated to cost\ntens of millions of dollars.",
+    "start": 617.488,
+    "duration": 3.42
+  },
+  {
+    "text": "We don't know what's in this,",
+    "start": 620.908,
+    "duration": 1.46
+  },
+  {
+    "text": "but it should be open\nand publicly available",
+    "start": 622.41,
+    "duration": 2.419
+  },
+  {
+    "text": "so that we can inspect and ensure\n[it supports] diverse norms and values.",
+    "start": 624.829,
+    "duration": 4.463
+  },
+  {
+    "text": "So for this reason,\nmy teams at UW and AI2",
+    "start": 629.876,
+    "duration": 2.711
+  },
+  {
+    "text": "have been working\non commonsense knowledge graphs",
+    "start": 632.628,
+    "duration": 2.461
+  },
+  {
+    "text": "as well as moral norm repositories",
+    "start": 635.089,
+    "duration": 2.086
+  },
+  {
+    "text": "to teach AI basic commonsense\nnorms and morals.",
+    "start": 637.216,
+    "duration": 3.504
+  },
+  {
+    "text": "Our data is fully open so that anybody\ncan inspect the content",
+    "start": 641.137,
+    "duration": 3.336
+  },
+  {
+    "text": "and make corrections as needed",
+    "start": 644.473,
+    "duration": 1.502
+  },
+  {
+    "text": "because transparency is the key\nfor such an important research topic.",
+    "start": 645.975,
+    "duration": 4.171
+  },
+  {
+    "text": "Now let's think about learning algorithms.",
+    "start": 650.646,
+    "duration": 2.545
+  },
+  {
+    "text": "No matter how amazing\nlarge language models are,",
+    "start": 653.733,
+    "duration": 4.629
+  },
+  {
+    "text": "by design",
+    "start": 658.404,
+    "duration": 1.126
+  },
+  {
+    "text": "they may not be the best suited to serve\nas reliable knowledge models.",
+    "start": 659.572,
+    "duration": 4.755
+  },
+  {
+    "text": "And these language models do acquire\na vast amount of knowledge,",
+    "start": 664.368,
+    "duration": 4.463
+  },
+  {
+    "text": "but they do so as a byproduct\nas opposed to direct learning objective.",
+    "start": 668.831,
+    "duration": 4.755
+  },
+  {
+    "text": "Resulting in unwanted side effects\nsuch as hallucinated effects",
+    "start": 674.503,
+    "duration": 4.296
+  },
+  {
+    "text": "and lack of common sense.",
+    "start": 678.841,
+    "duration": 2.002
+  },
+  {
+    "text": "Now, in contrast,",
+    "start": 680.843,
+    "duration": 1.21
+  },
+  {
+    "text": "human learning is never\nabout predicting which word comes next,",
+    "start": 682.053,
+    "duration": 3.17
+  },
+  {
+    "text": "but it's really about making\nsense of the world",
+    "start": 685.223,
+    "duration": 2.877
+  },
+  {
+    "text": "and learning how the world works.",
+    "start": 688.142,
+    "duration": 1.585
+  },
+  {
+    "text": "Maybe AI should be taught\nthat way as well.",
+    "start": 689.727,
+    "duration": 2.544
+  },
+  {
+    "text": "So as a quest toward more direct\ncommonsense knowledge acquisition,",
+    "start": 693.105,
+    "duration": 6.09
+  },
+  {
+    "text": "my team has been investigating\npotential new algorithms,",
+    "start": 699.195,
+    "duration": 3.879
+  },
+  {
+    "text": "including symbolic knowledge distillation",
+    "start": 703.115,
+    "duration": 2.628
+  },
+  {
+    "text": "that can take a very large\nlanguage model as shown here",
+    "start": 705.743,
+    "duration": 3.795
+  },
+  {
+    "text": "that I couldn't fit into the screen\nbecause it's too large,",
+    "start": 709.538,
+    "duration": 3.963
+  },
+  {
+    "text": "and crunch that down to much smaller\ncommonsense models",
+    "start": 713.501,
+    "duration": 4.671
+  },
+  {
+    "text": "using deep neural networks.",
+    "start": 718.214,
+    "duration": 2.252
+  },
+  {
+    "text": "And in doing so, we also generate,\nalgorithmically, human-inspectable,",
+    "start": 720.508,
+    "duration": 5.38
+  },
+  {
+    "text": "symbolic, commonsense\nknowledge representation,",
+    "start": 725.888,
+    "duration": 3.253
+  },
+  {
+    "text": "so that people can inspect\nand make corrections",
+    "start": 729.141,
+    "duration": 2.211
+  },
+  {
+    "text": "and even use it to train\nother neural commonsense models.",
+    "start": 731.394,
+    "duration": 3.545
+  },
+  {
+    "text": "More broadly,",
+    "start": 735.314,
+    "duration": 1.21
+  },
+  {
+    "text": "we have been tackling\nthis seemingly impossible giant puzzle",
+    "start": 736.565,
+    "duration": 4.63
+  },
+  {
+    "text": "of common sense, ranging from physical,",
+    "start": 741.237,
+    "duration": 2.669
+  },
+  {
+    "text": "social and visual common sense",
+    "start": 743.906,
+    "duration": 2.169
+  },
+  {
+    "text": "to theory of minds, norms and morals.",
+    "start": 746.117,
+    "duration": 2.419
+  },
+  {
+    "text": "Each individual piece\nmay seem quirky and incomplete,",
+    "start": 748.577,
+    "duration": 3.796
+  },
+  {
+    "text": "but when you step back,",
+    "start": 752.415,
+    "duration": 1.585
+  },
+  {
+    "text": "it's almost as if these pieces\nweave together into a tapestry",
+    "start": 754.041,
+    "duration": 4.421
+  },
+  {
+    "text": "that we call human experience\nand common sense.",
+    "start": 758.504,
+    "duration": 3.045
+  },
+  {
+    "text": "We're now entering a new era",
+    "start": 762.174,
+    "duration": 1.961
+  },
+  {
+    "text": "in which AI is almost like\na new intellectual species",
+    "start": 764.176,
+    "duration": 5.923
+  },
+  {
+    "text": "with unique strengths and weaknesses\ncompared to humans.",
+    "start": 770.099,
+    "duration": 3.837
+  },
+  {
+    "text": "In order to make this powerful AI",
+    "start": 774.478,
+    "duration": 3.546
+  },
+  {
+    "text": "sustainable and humanistic,",
+    "start": 778.065,
+    "duration": 2.336
+  },
+  {
+    "text": "we need to teach AI\ncommon sense, norms and values.",
+    "start": 780.401,
+    "duration": 4.129
+  },
+  {
+    "text": "Thank you.",
+    "start": 784.53,
+    "duration": 1.376
+  },
+  {
+    "text": "(Applause)",
+    "start": 785.906,
+    "duration": 6.966
+  },
+  {
+    "text": "Chris Anderson: Look at that.",
+    "start": 793.664,
+    "duration": 1.46
+  },
+  {
+    "text": "Yejin, please stay one sec.",
+    "start": 795.124,
+    "duration": 1.877
+  },
+  {
+    "text": "This is so interesting,",
+    "start": 798.002,
+    "duration": 1.418
+  },
+  {
+    "text": "this idea of common sense.",
+    "start": 799.462,
+    "duration": 2.002
+  },
+  {
+    "text": "We obviously all really want this\nfrom whatever's coming.",
+    "start": 801.505,
+    "duration": 3.712
+  },
+  {
+    "text": "But help me understand.",
+    "start": 805.926,
+    "duration": 1.168
+  },
+  {
+    "text": "Like, so we've had this model\nof a child learning.",
+    "start": 807.094,
+    "duration": 4.463
+  },
+  {
+    "text": "How does a child gain common sense",
+    "start": 811.599,
+    "duration": 3.044
+  },
+  {
+    "text": "apart from the accumulation of more input",
+    "start": 814.685,
+    "duration": 3.545
+  },
+  {
+    "text": "and some, you know, human feedback?",
+    "start": 818.23,
+    "duration": 3.045
+  },
+  {
+    "text": "What else is there?",
+    "start": 821.317,
+    "duration": 1.293
+  },
+  {
+    "text": "Yejin Choi: So fundamentally,\nthere are several things missing,",
+    "start": 822.61,
+    "duration": 3.003
+  },
+  {
+    "text": "but one of them is, for example,",
+    "start": 825.613,
+    "duration": 1.918
+  },
+  {
+    "text": "the ability to make hypothesis\nand make experiments,",
+    "start": 827.573,
+    "duration": 3.796
+  },
+  {
+    "text": "interact with the world\nand develop this hypothesis.",
+    "start": 831.369,
+    "duration": 4.713
+  },
+  {
+    "text": "We abstract away the concepts\nabout how the world works,",
+    "start": 836.123,
+    "duration": 3.671
+  },
+  {
+    "text": "and then that's how we truly learn,",
+    "start": 839.835,
+    "duration": 2.044
+  },
+  {
+    "text": "as opposed to today's language model.",
+    "start": 841.921,
+    "duration": 3.003
+  },
+  {
+    "text": "Some of them is really\nnot there quite yet.",
+    "start": 845.424,
+    "duration": 2.795
+  },
+  {
+    "text": "CA: You use the analogy\nthat we can’t get to the Moon",
+    "start": 849.303,
+    "duration": 2.669
+  },
+  {
+    "text": "by extending a building a foot at a time.",
+    "start": 852.014,
+    "duration": 2.544
+  },
+  {
+    "text": "But the experience\nthat most of us have had",
+    "start": 854.558,
+    "duration": 2.044
+  },
+  {
+    "text": "of these language models\nis not a foot at a time.",
+    "start": 856.602,
+    "duration": 2.336
+  },
+  {
+    "text": "It's like, the sort of,\nbreathtaking acceleration.",
+    "start": 858.938,
+    "duration": 2.669
+  },
+  {
+    "text": "Are you sure that given the pace\nat which those things are going,",
+    "start": 861.607,
+    "duration": 3.67
+  },
+  {
+    "text": "each next level seems\nto be bringing with it",
+    "start": 865.319,
+    "duration": 2.711
+  },
+  {
+    "text": "what feels kind of like wisdom\nand knowledge.",
+    "start": 868.072,
+    "duration": 4.671
+  },
+  {
+    "text": "YC: I totally agree that it's remarkable\nhow much this scaling things up",
+    "start": 872.785,
+    "duration": 5.297
+  },
+  {
+    "text": "really enhances the performance\nacross the board.",
+    "start": 878.124,
+    "duration": 3.67
+  },
+  {
+    "text": "So there's real learning happening",
+    "start": 882.086,
+    "duration": 2.544
+  },
+  {
+    "text": "due to the scale of the compute and data.",
+    "start": 884.63,
+    "duration": 4.797
+  },
+  {
+    "text": "However, there's a quality of learning\nthat is still not quite there.",
+    "start": 889.468,
+    "duration": 4.171
+  },
+  {
+    "text": "And the thing is,",
+    "start": 893.681,
+    "duration": 1.168
+  },
+  {
+    "text": "we don't yet know whether\nwe can fully get there or not",
+    "start": 894.849,
+    "duration": 3.712
+  },
+  {
+    "text": "just by scaling things up.",
+    "start": 898.561,
+    "duration": 2.335
+  },
+  {
+    "text": "And if we cannot, then there's\nthis question of what else?",
+    "start": 901.188,
+    "duration": 4.213
+  },
+  {
+    "text": "And then even if we could,",
+    "start": 905.401,
+    "duration": 1.877
+  },
+  {
+    "text": "do we like this idea of having very,\nvery extreme-scale AI models",
+    "start": 907.319,
+    "duration": 5.214
+  },
+  {
+    "text": "that only a few can create and own?",
+    "start": 912.575,
+    "duration": 4.337
+  },
+  {
+    "text": "CA: I mean, if OpenAI said, you know,\n\"We're interested in your work,",
+    "start": 918.456,
+    "duration": 4.587
+  },
+  {
+    "text": "we would like you to help\nimprove our model,\"",
+    "start": 923.043,
+    "duration": 2.837
+  },
+  {
+    "text": "can you see any way\nof combining what you're doing",
+    "start": 925.921,
+    "duration": 2.67
+  },
+  {
+    "text": "with what they have built?",
+    "start": 928.632,
+    "duration": 1.71
+  },
+  {
+    "text": "YC: Certainly what I envision",
+    "start": 930.926,
+    "duration": 2.336
+  },
+  {
+    "text": "will need to build on the advancements\nof deep neural networks.",
+    "start": 933.304,
+    "duration": 4.171
+  },
+  {
+    "text": "And it might be that there’s some\nscale Goldilocks Zone,",
+    "start": 937.516,
+    "duration": 4.213
+  },
+  {
+    "text": "such that ...",
+    "start": 941.77,
+    "duration": 1.168
+  },
+  {
+    "text": "I'm not imagining that the smaller\nis the better either, by the way.",
+    "start": 942.98,
+    "duration": 3.212
+  },
+  {
+    "text": "It's likely that there's right\namount of scale, but beyond that,",
+    "start": 946.233,
+    "duration": 4.421
+  },
+  {
+    "text": "the winning recipe\nmight be something else.",
+    "start": 950.696,
+    "duration": 2.294
+  },
+  {
+    "text": "So some synthesis of ideas\nwill be critical here.",
+    "start": 953.032,
+    "duration": 4.838
+  },
+  {
+    "text": "CA: Yejin Choi, thank you\nso much for your talk.",
+    "start": 958.579,
+    "duration": 2.294
+  },
+  {
+    "text": "(Applause)",
+    "start": 960.873,
+    "duration": 1.585
+  }
+]

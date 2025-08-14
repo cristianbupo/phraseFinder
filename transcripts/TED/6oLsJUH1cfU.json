@@ -1,0 +1,532 @@
+[
+  {
+    "text": "Like every passionate\nsoftware engineer out there,",
+    "start": 12.756,
+    "duration": 3.44
+  },
+  {
+    "text": "I closely follow technology\ncompanies in Silicon Valley,",
+    "start": 16.236,
+    "duration": 3.32
+  },
+  {
+    "text": "pretty much the same way soccer fans\nfollow their teams in Europe.",
+    "start": 19.596,
+    "duration": 3.12
+  },
+  {
+    "text": "I read articles on tech blogs",
+    "start": 23.636,
+    "duration": 2.2
+  },
+  {
+    "text": "and listen to podcasts on my phone.",
+    "start": 25.876,
+    "duration": 2.12
+  },
+  {
+    "text": "But after I finish the article,",
+    "start": 29.076,
+    "duration": 1.8
+  },
+  {
+    "text": "lock my phone and unplug the headphones,",
+    "start": 30.916,
+    "duration": 3.32
+  },
+  {
+    "text": "I'm back in sub-Saharan Africa,",
+    "start": 34.276,
+    "duration": 2.2
+  },
+  {
+    "text": "where the landscape is not quite the same.",
+    "start": 36.516,
+    "duration": 2.44
+  },
+  {
+    "text": "We have long and frequent power outages,",
+    "start": 40.156,
+    "duration": 2.64
+  },
+  {
+    "text": "low penetration of computers,",
+    "start": 43.716,
+    "duration": 2.04
+  },
+  {
+    "text": "slow internet connections",
+    "start": 45.796,
+    "duration": 1.92
+  },
+  {
+    "text": "and a lot of patients\nvisiting understaffed hospitals.",
+    "start": 47.756,
+    "duration": 4.24
+  },
+  {
+    "text": "Since the HIV epidemic,",
+    "start": 52.036,
+    "duration": 2.12
+  },
+  {
+    "text": "hospitals have been struggling\nto manage regular HIV treatment records",
+    "start": 54.196,
+    "duration": 5.64
+  },
+  {
+    "text": "for increasing volumes of patients.",
+    "start": 59.876,
+    "duration": 1.84
+  },
+  {
+    "text": "For such environments,",
+    "start": 62.716,
+    "duration": 1.72
+  },
+  {
+    "text": "importing technology systems\ndeveloped elsewhere has not worked,",
+    "start": 64.476,
+    "duration": 3.88
+  },
+  {
+    "text": "but in 2006, I joined Baobab Health,",
+    "start": 68.396,
+    "duration": 3.2
+  },
+  {
+    "text": "a team that uses locally based engineers",
+    "start": 71.636,
+    "duration": 3.52
+  },
+  {
+    "text": "to develop suitable interventions",
+    "start": 75.196,
+    "duration": 2.6
+  },
+  {
+    "text": "that are addressing\nhealth care challenges in Malawi.",
+    "start": 77.836,
+    "duration": 3.84
+  },
+  {
+    "text": "We designed an electronic\nhealth record system",
+    "start": 81.716,
+    "duration": 3.4
+  },
+  {
+    "text": "that is used by health care workers\nwhile seeing patients.",
+    "start": 85.156,
+    "duration": 3.32
+  },
+  {
+    "text": "And in the process we realized that we\nnot only had to design the software,",
+    "start": 88.516,
+    "duration": 4.56
+  },
+  {
+    "text": "we had to implement\nthe infrastructure as well.",
+    "start": 93.116,
+    "duration": 2.36
+  },
+  {
+    "text": "We don't have enough medical staff",
+    "start": 96.636,
+    "duration": 2.2
+  },
+  {
+    "text": "to comprehensively examine every patient,",
+    "start": 98.876,
+    "duration": 2.84
+  },
+  {
+    "text": "so we embedded clinical guidelines\nwithin the software",
+    "start": 101.756,
+    "duration": 3.04
+  },
+  {
+    "text": "to guide nurses and clerks",
+    "start": 104.836,
+    "duration": 2.16
+  },
+  {
+    "text": "who assist with handling\nsome of the workload.",
+    "start": 107.036,
+    "duration": 2.16
+  },
+  {
+    "text": "Everyone has a birthday,",
+    "start": 109.996,
+    "duration": 1.64
+  },
+  {
+    "text": "but not everyone knows their birthday,",
+    "start": 111.676,
+    "duration": 2.48
+  },
+  {
+    "text": "so we wrote algorithms\nto handle estimated birthdates",
+    "start": 114.196,
+    "duration": 3.8
+  },
+  {
+    "text": "as complete dates.",
+    "start": 118.036,
+    "duration": 1.28
+  },
+  {
+    "text": "How do we follow up\npatients living in slums",
+    "start": 120.196,
+    "duration": 3.92
+  },
+  {
+    "text": "with no street and house numbers?",
+    "start": 124.156,
+    "duration": 2.2
+  },
+  {
+    "text": "We used landmarks to approximate\ntheir physical addresses.",
+    "start": 127.196,
+    "duration": 3.88
+  },
+  {
+    "text": "Malawi had no IDs\nto uniquely identify patients,",
+    "start": 132.036,
+    "duration": 3.44
+  },
+  {
+    "text": "so we had to implement unique patient IDs",
+    "start": 136.476,
+    "duration": 3.12
+  },
+  {
+    "text": "to link patient records across clinics.",
+    "start": 139.636,
+    "duration": 2.24
+  },
+  {
+    "text": "The IDs are printed as barcodes",
+    "start": 142.916,
+    "duration": 2.44
+  },
+  {
+    "text": "on labels that are stuck\non personal health booklets",
+    "start": 146.196,
+    "duration": 2.84
+  },
+  {
+    "text": "kept by each patient.",
+    "start": 149.076,
+    "duration": 1.2
+  },
+  {
+    "text": "With this barcoded ID,",
+    "start": 150.996,
+    "duration": 1.96
+  },
+  {
+    "text": "a simple scan with a barcode reader",
+    "start": 152.996,
+    "duration": 2.4
+  },
+  {
+    "text": "quickly pulls up the patient's records.",
+    "start": 155.436,
+    "duration": 2.24
+  },
+  {
+    "text": "No need to rewrite their personal details",
+    "start": 158.436,
+    "duration": 2.28
+  },
+  {
+    "text": "on paper registers at every visit.",
+    "start": 160.756,
+    "duration": 2.4
+  },
+  {
+    "text": "And suddenly, queues became shorter.",
+    "start": 163.196,
+    "duration": 2.64
+  },
+  {
+    "text": "This meant patients, typically mothers\nwith little children on their backs,",
+    "start": 165.876,
+    "duration": 4.88
+  },
+  {
+    "text": "had to spend less time\nwaiting to be assisted.",
+    "start": 170.796,
+    "duration": 3.12
+  },
+  {
+    "text": "And if they lose their booklets,",
+    "start": 173.956,
+    "duration": 1.92
+  },
+  {
+    "text": "their records can still be pulled\nby searching with their names.",
+    "start": 175.916,
+    "duration": 3.16
+  },
+  {
+    "text": "Now, the way we pronounce\nand spell names varies tremendously.",
+    "start": 179.116,
+    "duration": 4.72
+  },
+  {
+    "text": "We freely mix R's and L's,",
+    "start": 184.356,
+    "duration": 2.28
+  },
+  {
+    "text": "English and vernacular\nversions of their names.",
+    "start": 187.076,
+    "duration": 2.84
+  },
+  {
+    "text": "Even soundex,",
+    "start": 190.676,
+    "duration": 1.4
+  },
+  {
+    "text": "a standard method for grouping words\nby how similar they sound,",
+    "start": 192.116,
+    "duration": 4.4
+  },
+  {
+    "text": "was not good enough.",
+    "start": 196.556,
+    "duration": 1.56
+  },
+  {
+    "text": "So we had to modify it",
+    "start": 198.156,
+    "duration": 1.68
+  },
+  {
+    "text": "to help us link and match\nexisting records.",
+    "start": 199.876,
+    "duration": 3.8
+  },
+  {
+    "text": "Before the iPhone,",
+    "start": 206.156,
+    "duration": 1.2
+  },
+  {
+    "text": "software engineers\ndeveloped for personal computers,",
+    "start": 208.036,
+    "duration": 3.8
+  },
+  {
+    "text": "but from our experience,",
+    "start": 211.876,
+    "duration": 1.24
+  },
+  {
+    "text": "we knew our power system\nis not reliable enough",
+    "start": 213.156,
+    "duration": 3.36
+  },
+  {
+    "text": "for personal computers.",
+    "start": 216.556,
+    "duration": 1.28
+  },
+  {
+    "text": "So we repurposed touch screen\npoint-of-sale terminals",
+    "start": 218.476,
+    "duration": 4.64
+  },
+  {
+    "text": "that are meant for retail shops",
+    "start": 223.156,
+    "duration": 1.68
+  },
+  {
+    "text": "to become clinical workstations.",
+    "start": 224.876,
+    "duration": 1.76
+  },
+  {
+    "text": "At the time, we imported\ninternet appliances called i-Openers",
+    "start": 227.916,
+    "duration": 4.16
+  },
+  {
+    "text": "that were manufactured\nduring the dot-com era",
+    "start": 232.956,
+    "duration": 3.0
+  },
+  {
+    "text": "by a failed US company.",
+    "start": 235.996,
+    "duration": 1.84
+  },
+  {
+    "text": "We modified their screens",
+    "start": 239.076,
+    "duration": 2.28
+  },
+  {
+    "text": "to add touch sensors",
+    "start": 241.396,
+    "duration": 1.36
+  },
+  {
+    "text": "and their power system\nto run from rechargeable batteries.",
+    "start": 242.796,
+    "duration": 3.32
+  },
+  {
+    "text": "When we started, we didn't find\na reliable network to transmit data,",
+    "start": 246.676,
+    "duration": 5.12
+  },
+  {
+    "text": "especially from rural hospitals.",
+    "start": 251.836,
+    "duration": 1.64
+  },
+  {
+    "text": "So we built our own towers,",
+    "start": 254.236,
+    "duration": 2.72
+  },
+  {
+    "text": "created a wireless network",
+    "start": 257.716,
+    "duration": 1.88
+  },
+  {
+    "text": "and linked clinics in Lilongwe,",
+    "start": 259.636,
+    "duration": 2.4
+  },
+  {
+    "text": "Malawi's capital.",
+    "start": 262.076,
+    "duration": 1.2
+  },
+  {
+    "text": "(Applause)",
+    "start": 264.596,
+    "duration": 2.88
+  },
+  {
+    "text": "With a team of engineers",
+    "start": 269.596,
+    "duration": 1.6
+  },
+  {
+    "text": "working within a hospital campus,",
+    "start": 272.196,
+    "duration": 2.28
+  },
+  {
+    "text": "we observed health care workers\nuse the system",
+    "start": 274.516,
+    "duration": 2.64
+  },
+  {
+    "text": "and iteratively\nbuild an information system",
+    "start": 277.196,
+    "duration": 3.2
+  },
+  {
+    "text": "that is now managing HIV records",
+    "start": 280.436,
+    "duration": 3.8
+  },
+  {
+    "text": "in all major public hospitals in Malawi.",
+    "start": 284.276,
+    "duration": 3.6
+  },
+  {
+    "text": "These are hospitals serving\nover 2,000 HIV patients, each clinic.",
+    "start": 287.916,
+    "duration": 5.2
+  },
+  {
+    "text": "Now, health care workers\nwho used to spend days",
+    "start": 294.676,
+    "duration": 2.84
+  },
+  {
+    "text": "to tally and prepare quarterly reports",
+    "start": 297.556,
+    "duration": 2.12
+  },
+  {
+    "text": "are producing the same reports\nwithin minutes,",
+    "start": 299.716,
+    "duration": 2.24
+  },
+  {
+    "text": "and health care experts\nfrom all over the world",
+    "start": 302.956,
+    "duration": 3.84
+  },
+  {
+    "text": "are now coming to Malawi\nto learn how we did it.",
+    "start": 306.836,
+    "duration": 3.04
+  },
+  {
+    "text": "(Applause)",
+    "start": 310.876,
+    "duration": 3.44
+  },
+  {
+    "text": "It is inspiring and fun",
+    "start": 314.356,
+    "duration": 2.56
+  },
+  {
+    "text": "to follow technology trends\nacross the globe,",
+    "start": 316.956,
+    "duration": 2.8
+  },
+  {
+    "text": "but to make them work",
+    "start": 319.796,
+    "duration": 2.08
+  },
+  {
+    "text": "in low-resourced environments",
+    "start": 321.916,
+    "duration": 2.16
+  },
+  {
+    "text": "like public hospitals\nin sub-Saharan Africa,",
+    "start": 324.116,
+    "duration": 3.16
+  },
+  {
+    "text": "we have had to become jacks-of-all-trades",
+    "start": 327.316,
+    "duration": 3.76
+  },
+  {
+    "text": "and build whole systems,\nincluding the infrastructure,",
+    "start": 331.116,
+    "duration": 3.52
+  },
+  {
+    "text": "from the ground up.",
+    "start": 334.676,
+    "duration": 1.24
+  },
+  {
+    "text": "Thank you.",
+    "start": 336.556,
+    "duration": 1.2
+  },
+  {
+    "text": "(Applause)",
+    "start": 337.796,
+    "duration": 5.0
+  }
+]

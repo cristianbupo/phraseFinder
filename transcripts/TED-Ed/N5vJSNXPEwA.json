@@ -1,0 +1,352 @@
+[
+  {
+    "text": "You and nine other individuals \nhave been captured",
+    "start": 10.714,
+    "duration": 3.128
+  },
+  {
+    "text": "by super intelligent alien overlords.",
+    "start": 13.842,
+    "duration": 3.653
+  },
+  {
+    "text": "The aliens think humans look quite tasty,",
+    "start": 17.495,
+    "duration": 3.312
+  },
+  {
+    "text": "but their civilization forbids eating\nhighly logical and cooperative beings.",
+    "start": 20.807,
+    "duration": 5.326
+  },
+  {
+    "text": "Unfortunately, they're not sure \nwhether you qualify,",
+    "start": 26.133,
+    "duration": 3.698
+  },
+  {
+    "text": "so they decide to give you all a test.",
+    "start": 29.831,
+    "duration": 2.922
+  },
+  {
+    "text": "Through its universal translator,",
+    "start": 32.753,
+    "duration": 1.645
+  },
+  {
+    "text": "the alien guarding you \ntells you the following:",
+    "start": 34.398,
+    "duration": 3.564
+  },
+  {
+    "text": "You will be placed in a single-file line\nfacing forward in size order",
+    "start": 37.962,
+    "duration": 5.461
+  },
+  {
+    "text": "so that each of you can see \neveryone lined up ahead of you.",
+    "start": 43.423,
+    "duration": 3.921
+  },
+  {
+    "text": "You will not be able to look behind you\nor step out of line.",
+    "start": 47.344,
+    "duration": 3.729
+  },
+  {
+    "text": "Each of you will have either a black\nor a white hat on your head",
+    "start": 51.073,
+    "duration": 4.231
+  },
+  {
+    "text": "assigned randomly,",
+    "start": 55.304,
+    "duration": 1.934
+  },
+  {
+    "text": "and I won't tell you \nhow many of each color there are.",
+    "start": 57.238,
+    "duration": 4.017
+  },
+  {
+    "text": "When I say to begin, each of you must\nguess the color of your hat",
+    "start": 61.255,
+    "duration": 3.819
+  },
+  {
+    "text": "starting with the person in the back\nand moving up the line.",
+    "start": 65.074,
+    "duration": 4.4
+  },
+  {
+    "text": "And don't even try saying words\nother than black or white",
+    "start": 69.474,
+    "duration": 3.048
+  },
+  {
+    "text": "or signaling some other way,\nlike intonation or volume;",
+    "start": 72.522,
+    "duration": 4.465
+  },
+  {
+    "text": "you'll all be eaten immediately.",
+    "start": 76.987,
+    "duration": 2.762
+  },
+  {
+    "text": "If at least nine of you guess correctly,\nyou'll all be spared.",
+    "start": 79.749,
+    "duration": 4.368
+  },
+  {
+    "text": "You have five minutes to discuss\nand come up with a plan,",
+    "start": 84.117,
+    "duration": 3.126
+  },
+  {
+    "text": "and then I'll line you up,\nassign your hats, and we'll begin.",
+    "start": 87.243,
+    "duration": 4.748
+  },
+  {
+    "text": "Can you think of a strategy guaranteed\nto save everyone?",
+    "start": 91.991,
+    "duration": 4.051
+  },
+  {
+    "text": "Pause the video now \nto figure it out for yourself.",
+    "start": 96.042,
+    "duration": 3.095
+  },
+  {
+    "text": "Answer in: 3",
+    "start": 99.137,
+    "duration": 1.017
+  },
+  {
+    "text": "Answer in: 2",
+    "start": 100.154,
+    "duration": 1.092
+  },
+  {
+    "text": "Answer in: 1",
+    "start": 101.246,
+    "duration": 1.865
+  },
+  {
+    "text": "The key is that the person \nat the back of the line",
+    "start": 103.111,
+    "duration": 2.829
+  },
+  {
+    "text": "who can see everyone else's hats\ncan use the words \"black\" or \"white\"",
+    "start": 105.94,
+    "duration": 4.554
+  },
+  {
+    "text": "to communicate some coded information.",
+    "start": 110.494,
+    "duration": 3.378
+  },
+  {
+    "text": "So what meaning can be \nassigned to those words",
+    "start": 113.872,
+    "duration": 2.668
+  },
+  {
+    "text": "that will allow everyone else \nto deduce their hat colors?",
+    "start": 116.54,
+    "duration": 4.202
+  },
+  {
+    "text": "It can't be the total number\nof black or white hats.",
+    "start": 120.742,
+    "duration": 3.367
+  },
+  {
+    "text": "There are more than two possible values,",
+    "start": 124.109,
+    "duration": 2.763
+  },
+  {
+    "text": "but what does have two possible values\nis that number's parity,",
+    "start": 126.872,
+    "duration": 5.016
+  },
+  {
+    "text": "that is whether it's odd or even.",
+    "start": 131.888,
+    "duration": 3.304
+  },
+  {
+    "text": "So the solution is to agree\nthat whoever goes first will,",
+    "start": 135.192,
+    "duration": 3.816
+  },
+  {
+    "text": "for example, say \"black\" if he sees\nan odd number of black hats",
+    "start": 139.008,
+    "duration": 4.347
+  },
+  {
+    "text": "and \"white\" if he sees \nan even number of black hats.",
+    "start": 143.355,
+    "duration": 4.432
+  },
+  {
+    "text": "Let's see how it would play out\nif the hats were distributed like this.",
+    "start": 147.787,
+    "duration": 4.624
+  },
+  {
+    "text": "The tallest captive sees three black\nhats in front of him,",
+    "start": 152.411,
+    "duration": 3.018
+  },
+  {
+    "text": "so he says \"black,\" telling everyone else\nhe sees an odd number of black hats.",
+    "start": 155.429,
+    "duration": 5.205
+  },
+  {
+    "text": "He gets his own hat color wrong,\nbut that's okay",
+    "start": 160.634,
+    "duration": 3.372
+  },
+  {
+    "text": "since you're collectively allowed \nto have one wrong answer.",
+    "start": 164.006,
+    "duration": 4.28
+  },
+  {
+    "text": "Prisoner two also sees an odd\nnumber of black hats,",
+    "start": 168.286,
+    "duration": 2.754
+  },
+  {
+    "text": "so she knows hers is white,\nand answers correctly.",
+    "start": 171.04,
+    "duration": 4.211
+  },
+  {
+    "text": "Prisoner three sees \nan even number of black hats,",
+    "start": 175.251,
+    "duration": 2.793
+  },
+  {
+    "text": "so he knows that his must be \none of the black hats",
+    "start": 178.044,
+    "duration": 3.212
+  },
+  {
+    "text": "the first two prisoners saw.",
+    "start": 181.256,
+    "duration": 2.345
+  },
+  {
+    "text": "Prisoner four hears that and knows",
+    "start": 183.601,
+    "duration": 1.736
+  },
+  {
+    "text": "that she should be looking for \nan even number of black hats",
+    "start": 185.337,
+    "duration": 3.241
+  },
+  {
+    "text": "since one was behind her.",
+    "start": 188.578,
+    "duration": 1.932
+  },
+  {
+    "text": "But she only sees one, so she deduces\nthat her hat is also black.",
+    "start": 190.51,
+    "duration": 5.655
+  },
+  {
+    "text": "Prisoners five through nine are each\nlooking for an odd number of black hats,",
+    "start": 196.165,
+    "duration": 4.334
+  },
+  {
+    "text": "which they see, so they figure out\nthat their hats are white.",
+    "start": 200.499,
+    "duration": 4.728
+  },
+  {
+    "text": "Now it all comes down to you\nat the front of the line.",
+    "start": 205.227,
+    "duration": 3.827
+  },
+  {
+    "text": "If the ninth prisoner saw \nan odd number of black hats,",
+    "start": 209.054,
+    "duration": 3.181
+  },
+  {
+    "text": "that can only mean one thing.",
+    "start": 212.235,
+    "duration": 2.791
+  },
+  {
+    "text": "You'll find that this strategy works\nfor any possible arrangement of the hats.",
+    "start": 215.026,
+    "duration": 4.372
+  },
+  {
+    "text": "The first prisoner has a 50% chance of\ngiving a wrong answer about his own hat,",
+    "start": 219.398,
+    "duration": 5.114
+  },
+  {
+    "text": "but the parity information he conveys",
+    "start": 224.512,
+    "duration": 2.309
+  },
+  {
+    "text": "allows everyone else \nto guess theirs with absolute certainty.",
+    "start": 226.821,
+    "duration": 5.199
+  },
+  {
+    "text": "Each begins by expecting to see an odd\nor even number of hats",
+    "start": 232.02,
+    "duration": 4.015
+  },
+  {
+    "text": "of the specified color.",
+    "start": 236.035,
+    "duration": 2.031
+  },
+  {
+    "text": "If what they count doesn't match,\nthat means their own hat is that color.",
+    "start": 238.066,
+    "duration": 4.436
+  },
+  {
+    "text": "And everytime this happens,",
+    "start": 242.502,
+    "duration": 1.634
+  },
+  {
+    "text": "the next person in line will switch\nthe parity they expect to see.",
+    "start": 244.136,
+    "duration": 4.747
+  },
+  {
+    "text": "So that's it, you're free to go.",
+    "start": 248.883,
+    "duration": 1.741
+  },
+  {
+    "text": "It looks like these aliens \nwill have to go hungry,",
+    "start": 250.624,
+    "duration": 2.408
+  },
+  {
+    "text": "or find some less logical \norganisms to abduct.",
+    "start": 253.032,
+    "duration": 3.429
+  }
+]

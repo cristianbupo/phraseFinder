@@ -1,0 +1,337 @@
+[
+  {
+    "text": "Have you ever sat in a doctor's office\nfor hours despite having",
+    "start": 6.329,
+    "duration": 3.292
+  },
+  {
+    "text": "an appointment at a specific time,",
+    "start": 9.621,
+    "duration": 1.75
+  },
+  {
+    "text": "has the hotel turned down your reservation\nbecause it's full?",
+    "start": 11.954,
+    "duration": 3.042
+  },
+  {
+    "text": "Or have you been bumped off a\nflight that you paid for?",
+    "start": 16.079,
+    "duration": 2.75
+  },
+  {
+    "text": "These are all symptoms of overbooking,",
+    "start": 19.996,
+    "duration": 2.458
+  },
+  {
+    "text": "a practice where businesses\nand institutions sell",
+    "start": 22.663,
+    "duration": 2.958
+  },
+  {
+    "text": "or book more than their full capacity.",
+    "start": 25.621,
+    "duration": 2.042
+  },
+  {
+    "text": "While often infuriating for the customer,",
+    "start": 28.829,
+    "duration": 2.167
+  },
+  {
+    "text": "overbooking happens because it increases\nprofits while also letting businesses",
+    "start": 31.163,
+    "duration": 4.124
+  },
+  {
+    "text": "optimize their resources. They know that\nnot everyone will show up to their",
+    "start": 35.287,
+    "duration": 4.584
+  },
+  {
+    "text": "appointments, reservations and flights,",
+    "start": 39.871,
+    "duration": 2.208
+  },
+  {
+    "text": "so they make more available than\nthey actually have to offer.",
+    "start": 42.204,
+    "duration": 2.917
+  },
+  {
+    "text": "Airlines are the classical example,\npartially because it happens so often,",
+    "start": 46.371,
+    "duration": 4.458
+  },
+  {
+    "text": "about 50000 people get bumped\noff their flights each year.",
+    "start": 51.162,
+    "duration": 3.625
+  },
+  {
+    "text": "That figure comes at little surprise\nto the airlines themselves,",
+    "start": 55.954,
+    "duration": 3.208
+  },
+  {
+    "text": "which used statistics to determine\nexactly how many tickets to sell.",
+    "start": 59.204,
+    "duration": 3.542
+  },
+  {
+    "text": "It's a delicate operation, sell too\nfew and they're wasting seats,",
+    "start": 63.954,
+    "duration": 4.542
+  },
+  {
+    "text": "sell too many and they pay penalties,\nmoney, free flights,",
+    "start": 69.288,
+    "duration": 4.875
+  },
+  {
+    "text": "hotel stays and annoyed customers.",
+    "start": 74.163,
+    "duration": 2.583
+  },
+  {
+    "text": "So here's a simplified version of\nhow their calculations work.",
+    "start": 77.496,
+    "duration": 3.042
+  },
+  {
+    "text": "Airlines have collected years worth\nof information about who does",
+    "start": 81.496,
+    "duration": 3.708
+  },
+  {
+    "text": "and doesn't show up for certain flights.",
+    "start": 85.204,
+    "duration": 2.084
+  },
+  {
+    "text": "They know, for example, that\non a particular route,",
+    "start": 88.163,
+    "duration": 2.625
+  },
+  {
+    "text": "the probability that each individual\ncustomer will show up",
+    "start": 90.788,
+    "duration": 3.0
+  },
+  {
+    "text": "on time is 90 percent. For\nthe sake of simplicity,",
+    "start": 93.788,
+    "duration": 4.458
+  },
+  {
+    "text": "will assume that every customer is\ntraveling individually rather than",
+    "start": 98.288,
+    "duration": 3.5
+  },
+  {
+    "text": "as families or groups, then if there\nare 180 seats on the plane",
+    "start": 101.788,
+    "duration": 5.625
+  },
+  {
+    "text": "and they sell 180 tickets,",
+    "start": 107.413,
+    "duration": 1.958
+  },
+  {
+    "text": "the most likely result is that\n162 passengers will board.",
+    "start": 109.704,
+    "duration": 4.25
+  },
+  {
+    "text": "But of course, you could also end up\nwith more passengers or fewer.",
+    "start": 114.621,
+    "duration": 4.167
+  },
+  {
+    "text": "The probability for each value is given by\nwhat's called a binomial distribution,",
+    "start": 119.954,
+    "duration": 4.375
+  },
+  {
+    "text": "which peaks at the most likely outcome.\nNow let's look at the revenue.",
+    "start": 124.663,
+    "duration": 4.416
+  },
+  {
+    "text": "The airline makes money from each\nticket buyer and loses money",
+    "start": 129.579,
+    "duration": 3.375
+  },
+  {
+    "text": "for each person who gets bumped.",
+    "start": 132.954,
+    "duration": 1.625
+  },
+  {
+    "text": "Let's say a ticket costs 250 dollars and\nisn't exchangeable for a later flight",
+    "start": 134.871,
+    "duration": 5.083
+  },
+  {
+    "text": "and the cost of bumping a passenger\nis 800 dollars.",
+    "start": 140.746,
+    "duration": 3.042
+  },
+  {
+    "text": "These numbers are just for the sake of\nexample. Actual amounts vary considerably.",
+    "start": 144.746,
+    "duration": 3.875
+  },
+  {
+    "text": "So here, if you don't sell any extra\ntickets, you make 45000 dollars.",
+    "start": 149.454,
+    "duration": 5.417
+  },
+  {
+    "text": "If you sell 15 extras and at least\n15 people are no shows,",
+    "start": 155.829,
+    "duration": 4.375
+  },
+  {
+    "text": "you make forty eight thousand\nseven hundred fifty dollars.",
+    "start": 160.413,
+    "duration": 3.0
+  },
+  {
+    "text": "That's the best case. In the worst case,\neveryone shows up,",
+    "start": 163.871,
+    "duration": 4.292
+  },
+  {
+    "text": "15 unlucky passengers get bumped and",
+    "start": 168.704,
+    "duration": 2.875
+  },
+  {
+    "text": "the revenue will only be thirty six\nthousand seven hundred fifty dollars,",
+    "start": 171.579,
+    "duration": 3.459
+  },
+  {
+    "text": "even less than if you only sold 180\ntickets in the first place.",
+    "start": 175.454,
+    "duration": 3.584
+  },
+  {
+    "text": "But what matters isn't just how good\nor bad a scenario is financially,",
+    "start": 179.538,
+    "duration": 4.166
+  },
+  {
+    "text": "but how likely it is to happen. So\nhow likely is each scenario?",
+    "start": 183.829,
+    "duration": 4.959
+  },
+  {
+    "text": "We can find out by using the binomial\ndistribution in this example,",
+    "start": 189.871,
+    "duration": 4.5
+  },
+  {
+    "text": "the probability of exactly 195 passengers\nboarding is almost zero percent.",
+    "start": 194.538,
+    "duration": 5.541
+  },
+  {
+    "text": "The probability of exactly 184 passengers\nboarding is one point one one percent",
+    "start": 200.996,
+    "duration": 5.792
+  },
+  {
+    "text": "and so on. Multiply these probabilities\nby the revenue for each case,",
+    "start": 206.788,
+    "duration": 5.375
+  },
+  {
+    "text": "add them all up and subtract the sum from\nthe earnings by 195 sold tickets",
+    "start": 212.663,
+    "duration": 5.166
+  },
+  {
+    "text": "and you get the expected revenue\nfor selling 195 tickets.",
+    "start": 218.163,
+    "duration": 4.166
+  },
+  {
+    "text": "By repeating this calculation for various\nnumbers of extra tickets,",
+    "start": 223.329,
+    "duration": 3.584
+  },
+  {
+    "text": "the airline can find the one likely to\nyield the highest revenue in this example.",
+    "start": 226.913,
+    "duration": 5.0
+  },
+  {
+    "text": "That's 198 tickets from which",
+    "start": 232.121,
+    "duration": 2.667
+  },
+  {
+    "text": "the airline will probably make forty eight\nthousand seven hundred seventy four",
+    "start": 234.788,
+    "duration": 4.041
+  },
+  {
+    "text": "dollars, almost 4000 more than\nwithout overbooking.",
+    "start": 238.829,
+    "duration": 3.667
+  },
+  {
+    "text": "And that's just for one flight.",
+    "start": 243.246,
+    "duration": 1.625
+  },
+  {
+    "text": "Multiply that by a million flights\nper airline per year.",
+    "start": 245.621,
+    "duration": 3.375
+  },
+  {
+    "text": "And overbooking adds up fast.",
+    "start": 249.371,
+    "duration": 1.833
+  },
+  {
+    "text": "Of course, the actual calculation is much\nmore complicated airlines apply many",
+    "start": 252.038,
+    "duration": 4.833
+  },
+  {
+    "text": "factors to create even more accurate\nmodels, but should they?",
+    "start": 256.871,
+    "duration": 4.0
+  },
+  {
+    "text": "Some argue that overbooking is unethical.",
+    "start": 261.579,
+    "duration": 2.459
+  },
+  {
+    "text": "You're charging two people\nfor the same resource.",
+    "start": 264.663,
+    "duration": 2.5
+  },
+  {
+    "text": "Of course, if you're 100 percent\nsure someone won't show up,",
+    "start": 267.996,
+    "duration": 3.083
+  },
+  {
+    "text": "it's fine to sell their seat. But what if\nyou're only 95 percent sure, 75 percent.",
+    "start": 271.079,
+    "duration": 6.667
+  },
+  {
+    "text": "Is there a number that separates being\nunethical from being practical?",
+    "start": 278.871,
+    "duration": 4.333
+  }
+]

@@ -1,0 +1,447 @@
+[
+  {
+    "text": "Many of the inanimate objects around you\nprobably seem perfectly still.",
+    "start": 6.842,
+    "duration": 4.826
+  },
+  {
+    "text": "But look deep into the atomic structure\nof any of them,",
+    "start": 11.668,
+    "duration": 3.995
+  },
+  {
+    "text": "and you'll see a world in constant flux.",
+    "start": 15.663,
+    "duration": 2.67
+  },
+  {
+    "text": "Stretching,",
+    "start": 18.333,
+    "duration": 0.805
+  },
+  {
+    "text": "contracting,",
+    "start": 19.138,
+    "duration": 0.929
+  },
+  {
+    "text": "springing,",
+    "start": 20.067,
+    "duration": 0.935
+  },
+  {
+    "text": "jittering,",
+    "start": 21.002,
+    "duration": 0.975
+  },
+  {
+    "text": "drifting atoms everywhere.",
+    "start": 21.977,
+    "duration": 3.181
+  },
+  {
+    "text": "And though that movement may seem chaotic,\nit's not random.",
+    "start": 25.158,
+    "duration": 3.197
+  },
+  {
+    "text": "Atoms that are bonded together,",
+    "start": 28.355,
+    "duration": 1.535
+  },
+  {
+    "text": "and that describes almost all substances,",
+    "start": 29.89,
+    "duration": 2.379
+  },
+  {
+    "text": "move according to a set of principles.",
+    "start": 32.269,
+    "duration": 2.612
+  },
+  {
+    "text": "For example, take molecules,\natoms held together by covalent bonds.",
+    "start": 34.881,
+    "duration": 4.895
+  },
+  {
+    "text": "There are three basic ways \nmolecules can move:",
+    "start": 39.776,
+    "duration": 2.546
+  },
+  {
+    "text": "rotation,",
+    "start": 42.322,
+    "duration": 0.892
+  },
+  {
+    "text": "translation,",
+    "start": 43.214,
+    "duration": 1.123
+  },
+  {
+    "text": "and vibration.",
+    "start": 44.337,
+    "duration": 1.549
+  },
+  {
+    "text": "Rotation and translation \nmove a molecule in space",
+    "start": 45.886,
+    "duration": 3.152
+  },
+  {
+    "text": "while its atoms stay \nthe same distance apart.",
+    "start": 49.038,
+    "duration": 3.128
+  },
+  {
+    "text": "Vibration, on the other hand, \nchanges those distances,",
+    "start": 52.166,
+    "duration": 3.442
+  },
+  {
+    "text": "actually altering the molecule's shape.",
+    "start": 55.608,
+    "duration": 2.642
+  },
+  {
+    "text": "For any molecule, you can count up\nthe number of different ways it can move.",
+    "start": 58.25,
+    "duration": 4.438
+  },
+  {
+    "text": "That corresponds to \nits degrees of freedom,",
+    "start": 62.688,
+    "duration": 2.616
+  },
+  {
+    "text": "which in the context of mechanics",
+    "start": 65.304,
+    "duration": 1.637
+  },
+  {
+    "text": "basically means the number of variables\nwe need to take into account",
+    "start": 66.941,
+    "duration": 3.509
+  },
+  {
+    "text": "to understand the full system.",
+    "start": 70.45,
+    "duration": 2.895
+  },
+  {
+    "text": "Three-dimensional space is defined by\nx, y, and z axes.",
+    "start": 73.345,
+    "duration": 4.674
+  },
+  {
+    "text": "Translation allows the molecule to move\nin the direction of any of them.",
+    "start": 78.019,
+    "duration": 5.015
+  },
+  {
+    "text": "That's three degrees of freedom.",
+    "start": 83.034,
+    "duration": 2.064
+  },
+  {
+    "text": "It can also rotate around \nany of these three axes.",
+    "start": 85.098,
+    "duration": 3.66
+  },
+  {
+    "text": "That's three more,",
+    "start": 88.758,
+    "duration": 1.232
+  },
+  {
+    "text": "unless it's a linear molecule, \nlike carbon dioxide.",
+    "start": 89.99,
+    "duration": 3.052
+  },
+  {
+    "text": "There, one of the rotations just spins\nthe molecule around its own axis,",
+    "start": 93.042,
+    "duration": 4.415
+  },
+  {
+    "text": "which doesn't count because it doesn't\nchange the position of the atoms.",
+    "start": 97.457,
+    "duration": 4.15
+  },
+  {
+    "text": "Vibration is where it gets a bit tricky.",
+    "start": 101.607,
+    "duration": 2.989
+  },
+  {
+    "text": "Let's take a simple molecule,\nlike hydrogen.",
+    "start": 104.596,
+    "duration": 2.383
+  },
+  {
+    "text": "The length of the bond that holds the two\natoms together is constantly changing",
+    "start": 106.979,
+    "duration": 4.703
+  },
+  {
+    "text": "as if the atoms were connected \nby a spring.",
+    "start": 111.682,
+    "duration": 2.797
+  },
+  {
+    "text": "That change in distance is tiny,\nless than a billionth of a meter.",
+    "start": 114.479,
+    "duration": 4.506
+  },
+  {
+    "text": "The more atoms and bonds a molecule has,\nthe more vibrational modes.",
+    "start": 118.985,
+    "duration": 4.806
+  },
+  {
+    "text": "For example, a water molecule \nhas three atoms:",
+    "start": 123.791,
+    "duration": 3.025
+  },
+  {
+    "text": "one oxygen and two hydrogens,\nand two bonds.",
+    "start": 126.816,
+    "duration": 3.348
+  },
+  {
+    "text": "That gives it three modes of vibration:",
+    "start": 130.164,
+    "duration": 2.312
+  },
+  {
+    "text": "symmetric stretching,",
+    "start": 132.476,
+    "duration": 1.348
+  },
+  {
+    "text": "asymmetric stretching,",
+    "start": 133.824,
+    "duration": 1.584
+  },
+  {
+    "text": "and bending.",
+    "start": 135.408,
+    "duration": 1.488
+  },
+  {
+    "text": "More complicated molecules have even\nfancier vibrational modes,",
+    "start": 136.896,
+    "duration": 4.246
+  },
+  {
+    "text": "like rocking,",
+    "start": 141.142,
+    "duration": 1.284
+  },
+  {
+    "text": "wagging,",
+    "start": 142.426,
+    "duration": 1.181
+  },
+  {
+    "text": "and twisting.",
+    "start": 143.607,
+    "duration": 1.588
+  },
+  {
+    "text": "If you know how many atoms a molecule has,\nyou can count its vibrational modes.",
+    "start": 145.195,
+    "duration": 4.659
+  },
+  {
+    "text": "Start with the total degrees of freedom,",
+    "start": 149.854,
+    "duration": 2.157
+  },
+  {
+    "text": "which is three times the number\nof atoms in the molecule.",
+    "start": 152.011,
+    "duration": 3.416
+  },
+  {
+    "text": "That's because each atom can move\nin three different directions.",
+    "start": 155.427,
+    "duration": 3.41
+  },
+  {
+    "text": "Three of the total correspond \nto translation",
+    "start": 158.837,
+    "duration": 2.556
+  },
+  {
+    "text": "when all the atoms \nare going in the same direction.",
+    "start": 161.393,
+    "duration": 3.24
+  },
+  {
+    "text": "And three, or two for linear molecules,\ncorrespond to rotations.",
+    "start": 164.633,
+    "duration": 4.797
+  },
+  {
+    "text": "All the rest, 3N-6\nor 3N-5 for linear molecules,",
+    "start": 169.43,
+    "duration": 4.569
+  },
+  {
+    "text": "are vibrations.",
+    "start": 173.999,
+    "duration": 2.128
+  },
+  {
+    "text": "So what's causing all this motion?",
+    "start": 176.127,
+    "duration": 1.834
+  },
+  {
+    "text": "Molecules move because they absorb\nenergy from their surroundings,",
+    "start": 177.961,
+    "duration": 4.092
+  },
+  {
+    "text": "mainly in the form of heat\nor electromagnetic radiation.",
+    "start": 182.053,
+    "duration": 3.695
+  },
+  {
+    "text": "When this energy gets transferred\nto the molecules,",
+    "start": 185.748,
+    "duration": 2.607
+  },
+  {
+    "text": "they vibrate,",
+    "start": 188.355,
+    "duration": 1.06
+  },
+  {
+    "text": "rotate,",
+    "start": 189.415,
+    "duration": 0.806
+  },
+  {
+    "text": "or translate faster.",
+    "start": 190.221,
+    "duration": 2.286
+  },
+  {
+    "text": "Faster motion increases the kinetic energy\nof the molecules and atoms.",
+    "start": 192.507,
+    "duration": 4.027
+  },
+  {
+    "text": "We define this as an increase \nin temperature and thermal energy.",
+    "start": 196.534,
+    "duration": 4.258
+  },
+  {
+    "text": "This is the phenomenon your microwave oven\nuses to heat your food.",
+    "start": 200.792,
+    "duration": 4.653
+  },
+  {
+    "text": "The oven emits microwave radiation,\nwhich is absorbed by the molecules,",
+    "start": 205.445,
+    "duration": 3.802
+  },
+  {
+    "text": "especially those of water.",
+    "start": 209.247,
+    "duration": 2.476
+  },
+  {
+    "text": "They move around faster and faster,",
+    "start": 211.723,
+    "duration": 1.936
+  },
+  {
+    "text": "bumping into each other and increasing\nthe food's temperature and thermal energy.",
+    "start": 213.659,
+    "duration": 4.442
+  },
+  {
+    "text": "The greenhouse effect is another example.",
+    "start": 218.101,
+    "duration": 2.412
+  },
+  {
+    "text": "Some of the solar radiation \nthat hits the Earth's surface",
+    "start": 220.513,
+    "duration": 2.737
+  },
+  {
+    "text": "is reflected back to the atmosphere.",
+    "start": 223.25,
+    "duration": 2.355
+  },
+  {
+    "text": "Greenhouse gases, like water vapor\nand carbon dioxide absorb this radiation",
+    "start": 225.605,
+    "duration": 5.401
+  },
+  {
+    "text": "and speed up.",
+    "start": 231.006,
+    "duration": 1.485
+  },
+  {
+    "text": "These hotter, faster-moving molecules\nemit infrared radiation in all directions,",
+    "start": 232.491,
+    "duration": 5.082
+  },
+  {
+    "text": "including back to Earth, warming it.",
+    "start": 237.573,
+    "duration": 2.773
+  },
+  {
+    "text": "Does all this molecular motion ever stop?",
+    "start": 240.346,
+    "duration": 2.992
+  },
+  {
+    "text": "You might think that would happen\nat absolute zero,",
+    "start": 243.338,
+    "duration": 2.602
+  },
+  {
+    "text": "the coldest possible temperature.",
+    "start": 245.94,
+    "duration": 1.875
+  },
+  {
+    "text": "No one's ever managed to cool\nanything down that much,",
+    "start": 247.815,
+    "duration": 2.862
+  },
+  {
+    "text": "but even if we could,",
+    "start": 250.677,
+    "duration": 1.321
+  },
+  {
+    "text": "molecules would still move due to\na quantum mechanical principle",
+    "start": 251.998,
+    "duration": 4.215
+  },
+  {
+    "text": "called zero-point energy.",
+    "start": 256.213,
+    "duration": 2.348
+  },
+  {
+    "text": "In other words, everything has been moving\nsince the universe's very first moments,",
+    "start": 258.561,
+    "duration": 4.186
+  },
+  {
+    "text": "and will keep going long, \nlong after we're gone.",
+    "start": 262.747,
+    "duration": 3.473
+  }
+]

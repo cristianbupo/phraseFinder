@@ -1,0 +1,5427 @@
+[
+  {
+    "text": "ADI IGNATIUS: I'm\nAdi Ignatius, editor",
+    "start": 10.846,
+    "duration": 1.944
+  },
+  {
+    "text": "in chief of Harvard Business\nReview, and welcome to HBR Now.",
+    "start": 12.79,
+    "duration": 3.66
+  },
+  {
+    "text": "This is the Harvard\nBusiness Review show,",
+    "start": 16.45,
+    "duration": 1.74
+  },
+  {
+    "text": "where we take in-depth looks\nat timely topics like COVID,",
+    "start": 18.19,
+    "duration": 3.81
+  },
+  {
+    "text": "racial inequality, the\nUS election and more.",
+    "start": 22.0,
+    "duration": 2.515
+  },
+  {
+    "text": "To put them into\ncontext, particularly,",
+    "start": 24.515,
+    "duration": 1.625
+  },
+  {
+    "text": "for a global business audience.",
+    "start": 26.14,
+    "duration": 2.58
+  },
+  {
+    "text": "My co-hosts are Joshua\nMacht, who heads product",
+    "start": 28.72,
+    "duration": 2.19
+  },
+  {
+    "text": "and innovation at HBS bar.",
+    "start": 30.91,
+    "duration": 1.499
+  },
+  {
+    "text": "And Octavia Goredema, author\nand career coach, and founder",
+    "start": 32.409,
+    "duration": 3.481
+  },
+  {
+    "text": "of the 2010 agency.",
+    "start": 35.89,
+    "duration": 1.92
+  },
+  {
+    "text": "Our special guest this\nweek, in a moment,",
+    "start": 37.81,
+    "duration": 1.71
+  },
+  {
+    "text": "will be Noubar Afeyan.",
+    "start": 39.52,
+    "duration": 1.41
+  },
+  {
+    "text": "Co-founder and chairman of\nModerna, one of the companies",
+    "start": 40.93,
+    "duration": 3.12
+  },
+  {
+    "text": "that has achieved the most\npromising results to date",
+    "start": 44.05,
+    "duration": 2.85
+  },
+  {
+    "text": "in the race for\nCOVID-19 vaccine.",
+    "start": 46.9,
+    "duration": 2.335
+  },
+  {
+    "text": "I'll bring him in,\nin a moment, to talk",
+    "start": 49.235,
+    "duration": 1.625
+  },
+  {
+    "text": "about the hunt for a\nlifesaving vaccine,",
+    "start": 50.86,
+    "duration": 1.77
+  },
+  {
+    "text": "about the business in\nscientific, and even",
+    "start": 52.63,
+    "duration": 1.98
+  },
+  {
+    "text": "political challenges\nthat the journal faces.",
+    "start": 54.61,
+    "duration": 2.91
+  },
+  {
+    "text": "And about what we can all\nexpect in terms of a rollout.",
+    "start": 57.52,
+    "duration": 3.36
+  },
+  {
+    "text": "Who's likely to get the\nvaccine first, and when?",
+    "start": 60.88,
+    "duration": 3.18
+  },
+  {
+    "text": "We invite all of\nyou who are watching",
+    "start": 64.06,
+    "duration": 1.74
+  },
+  {
+    "text": "to send in questions for\nNoubar as well, which",
+    "start": 65.8,
+    "duration": 2.07
+  },
+  {
+    "text": "you can type into the comments.",
+    "start": 67.87,
+    "duration": 2.25
+  },
+  {
+    "text": "But first, let's have a\nword from our sponsor.",
+    "start": 70.12,
+    "duration": 2.13
+  },
+  {
+    "text": "Our friends at Accenture.",
+    "start": 72.25,
+    "duration": 3.54
+  },
+  {
+    "text": "WOMAN (VOICEOVER):\nChange is all around us.",
+    "start": 75.79,
+    "duration": 3.96
+  },
+  {
+    "text": "Shaped by technology\nand human ingenuity,",
+    "start": 79.75,
+    "duration": 3.75
+  },
+  {
+    "text": "we can make it work for\nyou and your business.",
+    "start": 83.5,
+    "duration": 2.85
+  },
+  {
+    "text": "ADI IGNATIUS: And that brings\nus to that moment in the show",
+    "start": 90.172,
+    "duration": 2.458
+  },
+  {
+    "text": "where for, practically,\nno reason at all, we",
+    "start": 92.63,
+    "duration": 2.73
+  },
+  {
+    "text": "share a TikTok that captures\nthe moment we're all living in.",
+    "start": 95.36,
+    "duration": 2.88
+  },
+  {
+    "text": "So hit it engineer Dave.",
+    "start": 98.24,
+    "duration": 2.093
+  },
+  {
+    "text": "[VIDEO PLAYBACK]",
+    "start": 100.333,
+    "duration": 0.667
+  },
+  {
+    "text": "- 3, 2, 1.",
+    "start": 101.0,
+    "duration": 2.475
+  },
+  {
+    "text": "[CHEERING]",
+    "start": 103.475,
+    "duration": 2.475
+  },
+  {
+    "text": "- 3, 2, 1.",
+    "start": 105.95,
+    "duration": 1.98
+  },
+  {
+    "text": "[END PLAYBACK]",
+    "start": 113.375,
+    "duration": 0.99
+  },
+  {
+    "text": "JOSHUA MACHT: OK.",
+    "start": 114.365,
+    "duration": 1.015
+  },
+  {
+    "text": "Explain that one to me, Adi.",
+    "start": 115.38,
+    "duration": 1.5
+  },
+  {
+    "text": "ADI IGNATIUS: I think it's\njust-- it's a hurray 2020.",
+    "start": 116.88,
+    "duration": 3.93
+  },
+  {
+    "text": "This is our year.",
+    "start": 120.81,
+    "duration": 1.746
+  },
+  {
+    "text": "JOSHUA MACHT: OK.",
+    "start": 122.556,
+    "duration": 1.704
+  },
+  {
+    "text": "ADI IGNATIUS: So anyway,\nso let's the three of us",
+    "start": 124.26,
+    "duration": 3.09
+  },
+  {
+    "text": "set up the topic a little\nbit, before we get Noubar",
+    "start": 127.35,
+    "duration": 2.42
+  },
+  {
+    "text": "in for our feature interview.",
+    "start": 129.77,
+    "duration": 2.423
+  },
+  {
+    "text": "I'll tell you what's\non my mind, and I'm",
+    "start": 132.193,
+    "duration": 1.667
+  },
+  {
+    "text": "really alarmed by the\nlatest covered spikes.",
+    "start": 133.86,
+    "duration": 2.79
+  },
+  {
+    "text": "The US is having a really\nawful new record for cases.",
+    "start": 136.65,
+    "duration": 4.31
+  },
+  {
+    "text": "More than 80,000 new\ncases, two days in a row.",
+    "start": 140.96,
+    "duration": 2.927
+  },
+  {
+    "text": "Cold weather is going to\ndrive more people inside,",
+    "start": 143.887,
+    "duration": 2.083
+  },
+  {
+    "text": "which seems to be where\nthis thing spreads the most.",
+    "start": 145.97,
+    "duration": 2.667
+  },
+  {
+    "text": "And these aren't harmless cases.",
+    "start": 148.637,
+    "duration": 1.333
+  },
+  {
+    "text": "Hospitalizations are up\n40% over the past month.",
+    "start": 149.97,
+    "duration": 3.062
+  },
+  {
+    "text": "And while the death\nrate has been stable,",
+    "start": 153.032,
+    "duration": 1.708
+  },
+  {
+    "text": "it tends to lag behind\nthe increase in cases,",
+    "start": 154.74,
+    "duration": 2.41
+  },
+  {
+    "text": "meaning the news\ncould well get worse.",
+    "start": 157.15,
+    "duration": 2.52
+  },
+  {
+    "text": "So we're truly in a race\nbetween the dire consequences",
+    "start": 159.67,
+    "duration": 3.26
+  },
+  {
+    "text": "of further infection and the\narrival of a workable vaccine.",
+    "start": 162.93,
+    "duration": 3.9
+  },
+  {
+    "text": "To an extent, I understand\nthe American president",
+    "start": 166.83,
+    "duration": 2.07
+  },
+  {
+    "text": "when he complains that\nfor the news media",
+    "start": 168.9,
+    "duration": 1.77
+  },
+  {
+    "text": "it's COVID, COVID,\nCOVID all the time.",
+    "start": 170.67,
+    "duration": 2.435
+  },
+  {
+    "text": "Well, you can't wish\nthis thing away.",
+    "start": 173.105,
+    "duration": 1.778
+  },
+  {
+    "text": "It's still hard for\nus all to comprehend",
+    "start": 174.883,
+    "duration": 1.667
+  },
+  {
+    "text": "that we're living\nthrough some sort",
+    "start": 176.55,
+    "duration": 1.458
+  },
+  {
+    "text": "of dark, throwback nightmare.",
+    "start": 178.008,
+    "duration": 2.022
+  },
+  {
+    "text": "A modern day Dickensian\nglobal pandemic,",
+    "start": 180.03,
+    "duration": 2.22
+  },
+  {
+    "text": "that in its lethality, is\ntouching nearly every corner",
+    "start": 182.25,
+    "duration": 2.52
+  },
+  {
+    "text": "of the globe.",
+    "start": 184.77,
+    "duration": 0.877
+  },
+  {
+    "text": "But there also is hope, and\nwe'll talk about that today.",
+    "start": 185.647,
+    "duration": 2.333
+  },
+  {
+    "text": "Not that COVID will\nmagically disappear,",
+    "start": 187.98,
+    "duration": 2.56
+  },
+  {
+    "text": "but they will come\nup with a vaccine",
+    "start": 190.54,
+    "duration": 1.5
+  },
+  {
+    "text": "in record speed, let's hope.",
+    "start": 192.04,
+    "duration": 1.578
+  },
+  {
+    "text": "It will save millions of\nlives till they get this",
+    "start": 193.618,
+    "duration": 2.042
+  },
+  {
+    "text": "under control.",
+    "start": 195.66,
+    "duration": 1.65
+  },
+  {
+    "text": "Octavia, what's on your mind?",
+    "start": 197.31,
+    "duration": 1.502
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: Yeah.",
+    "start": 198.812,
+    "duration": 0.958
+  },
+  {
+    "text": "I couldn't agree more, Adi.",
+    "start": 199.77,
+    "duration": 1.615
+  },
+  {
+    "text": "And we have to cling\nback to that hope.",
+    "start": 201.385,
+    "duration": 1.925
+  },
+  {
+    "text": "Because 8.7 million cases\nin the United States,",
+    "start": 203.31,
+    "duration": 4.59
+  },
+  {
+    "text": "over 225,000 deaths,\nthis has been jarring.",
+    "start": 207.9,
+    "duration": 5.25
+  },
+  {
+    "text": "And on top of all of,\nthat front of mind for me,",
+    "start": 213.15,
+    "duration": 3.12
+  },
+  {
+    "text": "are that racial\ndisparities persist.",
+    "start": 216.27,
+    "duration": 2.67
+  },
+  {
+    "text": "When it comes to causes\nand deaths resulting",
+    "start": 218.94,
+    "duration": 2.4
+  },
+  {
+    "text": "from this pandemic,\npeople of color",
+    "start": 221.34,
+    "duration": 2.01
+  },
+  {
+    "text": "are getting sick and\ndying from COVID-19,",
+    "start": 223.35,
+    "duration": 3.47
+  },
+  {
+    "text": "at rates significantly\nhigher than our share",
+    "start": 226.82,
+    "duration": 3.58
+  },
+  {
+    "text": "of the population.",
+    "start": 230.4,
+    "duration": 1.66
+  },
+  {
+    "text": "So everything that\nwe're facing is",
+    "start": 232.06,
+    "duration": 2.66
+  },
+  {
+    "text": "compounded by those\ndeeper issues of health",
+    "start": 234.72,
+    "duration": 2.7
+  },
+  {
+    "text": "and economic inequity\nin our society.",
+    "start": 237.42,
+    "duration": 3.43
+  },
+  {
+    "text": "So I think you're exactly right.",
+    "start": 240.85,
+    "duration": 2.33
+  },
+  {
+    "text": "There's so much to do.",
+    "start": 243.18,
+    "duration": 2.1
+  },
+  {
+    "text": "So I'm clinging onto\nthat hope, right now.",
+    "start": 245.28,
+    "duration": 1.948
+  },
+  {
+    "text": "JOSHUA MACHT: Octavia.",
+    "start": 247.228,
+    "duration": 0.917
+  },
+  {
+    "text": "Adi.",
+    "start": 248.145,
+    "duration": 0.585
+  },
+  {
+    "text": "You're both bringing\nup things that there's",
+    "start": 248.73,
+    "duration": 2.13
+  },
+  {
+    "text": "no question on my mind,\nand I'm sure for a lot",
+    "start": 250.86,
+    "duration": 2.04
+  },
+  {
+    "text": "of people watching.",
+    "start": 252.9,
+    "duration": 1.231
+  },
+  {
+    "text": "I mean, at the same time I've\nbeen excited about this show,",
+    "start": 254.131,
+    "duration": 2.458
+  },
+  {
+    "text": "for a while.",
+    "start": 256.589,
+    "duration": 1.111
+  },
+  {
+    "text": "To talk to someone\nlike our guest,",
+    "start": 257.7,
+    "duration": 2.87
+  },
+  {
+    "text": "who is on the front lines of--",
+    "start": 260.57,
+    "duration": 2.56
+  },
+  {
+    "text": "this is just amazing--",
+    "start": 263.13,
+    "duration": 1.44
+  },
+  {
+    "text": "the speed to create something\nthat could potentially bring",
+    "start": 264.57,
+    "duration": 4.8
+  },
+  {
+    "text": "an end to so much suffering.",
+    "start": 269.37,
+    "duration": 2.19
+  },
+  {
+    "text": "The science behind\nit, the business issue",
+    "start": 271.56,
+    "duration": 2.65
+  },
+  {
+    "text": "is behind how this\nall came together,",
+    "start": 274.21,
+    "duration": 2.19
+  },
+  {
+    "text": "it is one of the most\nfascinating stories",
+    "start": 276.4,
+    "duration": 2.84
+  },
+  {
+    "text": "of our time.",
+    "start": 279.24,
+    "duration": 1.122
+  },
+  {
+    "text": "I think everything you're\ntalking about we definitely",
+    "start": 280.362,
+    "duration": 2.208
+  },
+  {
+    "text": "want to get out, along\nwith just when it",
+    "start": 282.57,
+    "duration": 2.22
+  },
+  {
+    "text": "comes to this vaccine, what\nare we even talking about?",
+    "start": 284.79,
+    "duration": 2.29
+  },
+  {
+    "text": "What does safe and\neffective really mean?",
+    "start": 287.08,
+    "duration": 3.08
+  },
+  {
+    "text": "How will the public accept it?",
+    "start": 290.16,
+    "duration": 3.09
+  },
+  {
+    "text": "What is going to unfold\nover the next year.",
+    "start": 293.25,
+    "duration": 2.262
+  },
+  {
+    "text": "Because it feels like\nboth of you, you know,",
+    "start": 295.512,
+    "duration": 1.833
+  },
+  {
+    "text": "were definitely in this\nmoment, this dark moment,",
+    "start": 297.345,
+    "duration": 2.985
+  },
+  {
+    "text": "where we're going\ninto this winter.",
+    "start": 300.33,
+    "duration": 1.59
+  },
+  {
+    "text": "On the other hand, I think\nwe all need something to say,",
+    "start": 301.92,
+    "duration": 3.56
+  },
+  {
+    "text": "we don't know how long\nthis turn is going to be.",
+    "start": 305.48,
+    "duration": 3.49
+  },
+  {
+    "text": "But are we getting somewhere?",
+    "start": 308.97,
+    "duration": 1.77
+  },
+  {
+    "text": "And maybe we learn a\nlittle bit more today",
+    "start": 310.74,
+    "duration": 2.46
+  },
+  {
+    "text": "about how that happens.",
+    "start": 313.2,
+    "duration": 1.213
+  },
+  {
+    "text": "I don't know about you guys.",
+    "start": 314.413,
+    "duration": 1.167
+  },
+  {
+    "text": "But I am super excited\nto get started.",
+    "start": 315.58,
+    "duration": 2.37
+  },
+  {
+    "text": "ADI IGNATIUS: All right.",
+    "start": 317.95,
+    "duration": 0.2
+  },
+  {
+    "text": "Well, let's do it.",
+    "start": 318.15,
+    "duration": 0.75
+  },
+  {
+    "text": "So it's my pleasure now\nto formally introduce",
+    "start": 318.9,
+    "duration": 2.31
+  },
+  {
+    "text": "our guest Noubar Afeyan.",
+    "start": 321.21,
+    "duration": 1.8
+  },
+  {
+    "text": "He's a biochemist by training,\nhaving earned a PhD at MIT",
+    "start": 323.01,
+    "duration": 3.93
+  },
+  {
+    "text": "in that field.",
+    "start": 326.94,
+    "duration": 1.11
+  },
+  {
+    "text": "He's an entrepreneur\nby vocation.",
+    "start": 328.05,
+    "duration": 2.19
+  },
+  {
+    "text": "20 years ago he created\nflagship pioneering",
+    "start": 330.24,
+    "duration": 3.03
+  },
+  {
+    "text": "to attract entrepreneurially\nminded scientists",
+    "start": 333.27,
+    "duration": 2.4
+  },
+  {
+    "text": "like himself to tackle\nseemingly intractable problems.",
+    "start": 335.67,
+    "duration": 3.72
+  },
+  {
+    "text": "Its portfolio includes\nModerna Therapeutics,",
+    "start": 339.39,
+    "duration": 3.11
+  },
+  {
+    "text": "whose experimental COVID-19\nvaccine candidate, made",
+    "start": 342.5,
+    "duration": 3.19
+  },
+  {
+    "text": "using the company's messenger\nRNA platform technology,",
+    "start": 345.69,
+    "duration": 3.84
+  },
+  {
+    "text": "is among the most promising\nentries in the race",
+    "start": 349.53,
+    "duration": 2.25
+  },
+  {
+    "text": "to develop a vaccine\nfor mass use.",
+    "start": 351.78,
+    "duration": 3.24
+  },
+  {
+    "text": "Noubar, as I said before,\nis Moderna's chairman.",
+    "start": 355.02,
+    "duration": 2.707
+  },
+  {
+    "text": "Interestingly, Harvard\nBusiness School",
+    "start": 357.727,
+    "duration": 1.583
+  },
+  {
+    "text": "has just written a case about\nModerna co-authored by Karim",
+    "start": 359.31,
+    "duration": 3.33
+  },
+  {
+    "text": "Lakhani and Marco Iansiti.",
+    "start": 362.64,
+    "duration": 1.65
+  },
+  {
+    "text": "So with that, welcome Noubar.",
+    "start": 364.29,
+    "duration": 2.28
+  },
+  {
+    "text": "NOUBAR AFEYAN: Welcome.",
+    "start": 366.57,
+    "duration": 1.04
+  },
+  {
+    "text": "Thanks for the welcome\nAdi and colleagues.",
+    "start": 367.61,
+    "duration": 1.75
+  },
+  {
+    "text": "And thanks for having me.",
+    "start": 369.36,
+    "duration": 1.575
+  },
+  {
+    "text": "ADI IGNATIUS: Well, so\nthere's a lot to talk about.",
+    "start": 370.935,
+    "duration": 2.125
+  },
+  {
+    "text": "So let me plunge right\nin at the beginning.",
+    "start": 373.06,
+    "duration": 2.63
+  },
+  {
+    "text": "And let's set the\nstage a little bit.",
+    "start": 375.69,
+    "duration": 1.62
+  },
+  {
+    "text": "You know, I saw that\nModerna last week",
+    "start": 377.31,
+    "duration": 1.583
+  },
+  {
+    "text": "announced that it has\ncompleted enrollment of 30,000",
+    "start": 378.893,
+    "duration": 2.887
+  },
+  {
+    "text": "people in a Phase III trial.",
+    "start": 381.78,
+    "duration": 2.28
+  },
+  {
+    "text": "What does-- help us\nlay people understand.",
+    "start": 384.06,
+    "duration": 2.46
+  },
+  {
+    "text": "What does that signify,\nand what comes next?",
+    "start": 386.52,
+    "duration": 3.58
+  },
+  {
+    "text": "NOUBAR AFEYAN: Well, getting\na vaccine or a therapeutic",
+    "start": 390.1,
+    "duration": 4.04
+  },
+  {
+    "text": "approved requires a\ncertain set of [INAUDIBLE]",
+    "start": 394.14,
+    "duration": 3.66
+  },
+  {
+    "text": "and regulatory processes.",
+    "start": 397.8,
+    "duration": 2.58
+  },
+  {
+    "text": "In the case of a vaccine,\nbecause of its intended use",
+    "start": 400.38,
+    "duration": 3.21
+  },
+  {
+    "text": "to a broad population\nof recipients,",
+    "start": 403.59,
+    "duration": 2.94
+  },
+  {
+    "text": "the number of people on\nwhich you have to do tests,",
+    "start": 406.53,
+    "duration": 2.88
+  },
+  {
+    "text": "both for safety\nand efficacy, tends",
+    "start": 409.41,
+    "duration": 2.61
+  },
+  {
+    "text": "to be an order of magnitude\nor two higher than what",
+    "start": 412.02,
+    "duration": 3.31
+  },
+  {
+    "text": "one might do for say\na cancer treatment",
+    "start": 415.33,
+    "duration": 2.72
+  },
+  {
+    "text": "or other such diseases.",
+    "start": 418.05,
+    "duration": 1.27
+  },
+  {
+    "text": "So 30,000 is the design kind of\nthat was specified and agreed",
+    "start": 419.32,
+    "duration": 5.21
+  },
+  {
+    "text": "upon with the FDA.",
+    "start": 424.53,
+    "duration": 1.44
+  },
+  {
+    "text": "Completing the\nenrollment, most of those",
+    "start": 425.97,
+    "duration": 2.46
+  },
+  {
+    "text": "have now received two\ndoses per participant.",
+    "start": 428.43,
+    "duration": 3.01
+  },
+  {
+    "text": "This is split 50-50\nbetween placebo,",
+    "start": 431.44,
+    "duration": 2.54
+  },
+  {
+    "text": "and the active one that receives\nthe vaccine is completely",
+    "start": 433.98,
+    "duration": 3.15
+  },
+  {
+    "text": "blinded.",
+    "start": 437.13,
+    "duration": 0.92
+  },
+  {
+    "text": "And so what it means is\nthat we are near complete",
+    "start": 438.05,
+    "duration": 4.18
+  },
+  {
+    "text": "not only with enrollment but\nalso with the second dose.",
+    "start": 442.23,
+    "duration": 2.85
+  },
+  {
+    "text": "And what awaits is then\nthe resulting effect",
+    "start": 445.08,
+    "duration": 4.29
+  },
+  {
+    "text": "of the vaccine, as\ncompared to placebo,",
+    "start": 449.37,
+    "duration": 3.27
+  },
+  {
+    "text": "on helping prevent disease,\nhelping mitigate disease,",
+    "start": 452.64,
+    "duration": 4.68
+  },
+  {
+    "text": "all the different\nfactors that we'll",
+    "start": 457.32,
+    "duration": 1.5
+  },
+  {
+    "text": "be looking for when we look\nat efficacy considerations.",
+    "start": 458.82,
+    "duration": 3.63
+  },
+  {
+    "text": "What comes next is a\npretty intense period",
+    "start": 462.45,
+    "duration": 3.63
+  },
+  {
+    "text": "where-- during which\ncases are accumulated.",
+    "start": 466.08,
+    "duration": 3.45
+  },
+  {
+    "text": "That is, participants\nin this trial actually",
+    "start": 469.53,
+    "duration": 3.57
+  },
+  {
+    "text": "who get infected with\nCOVID-19, there's",
+    "start": 473.1,
+    "duration": 3.9
+  },
+  {
+    "text": "a certain number\nof them that have",
+    "start": 477.0,
+    "duration": 1.44
+  },
+  {
+    "text": "to be impacted in order for\nus to then compare the placebo",
+    "start": 478.44,
+    "duration": 5.43
+  },
+  {
+    "text": "group to the active\ngroup and see",
+    "start": 483.87,
+    "duration": 1.95
+  },
+  {
+    "text": "whether there is a statistically\nsignificant benefit.",
+    "start": 485.82,
+    "duration": 4.02
+  },
+  {
+    "text": "The FDA has set as a\nguidepost the 50% level",
+    "start": 489.84,
+    "duration": 5.01
+  },
+  {
+    "text": "as to the effectiveness\nof the vaccine.",
+    "start": 494.85,
+    "duration": 3.24
+  },
+  {
+    "text": "That's a minimal point.",
+    "start": 498.09,
+    "duration": 1.5
+  },
+  {
+    "text": "It could certainly\nbe higher than that.",
+    "start": 499.59,
+    "duration": 2.34
+  },
+  {
+    "text": "And we await the data\nonce enough cases",
+    "start": 501.93,
+    "duration": 3.27
+  },
+  {
+    "text": "have been recorded.",
+    "start": 505.2,
+    "duration": 3.34
+  },
+  {
+    "text": "ADI IGNATIUS: So I mentioned\nthat Moderna and I think",
+    "start": 508.54,
+    "duration": 2.24
+  },
+  {
+    "text": "Pfizer are well on the\npath and developing",
+    "start": 510.78,
+    "duration": 2.61
+  },
+  {
+    "text": "an RNA-based vaccine.",
+    "start": 513.39,
+    "duration": 2.269
+  },
+  {
+    "text": "You know, others are developing\ndifferent approaches.",
+    "start": 515.659,
+    "duration": 2.441
+  },
+  {
+    "text": "How-- potential\nconsumers like myself,",
+    "start": 518.1,
+    "duration": 3.84
+  },
+  {
+    "text": "how are we supposed\nto comprehend and act",
+    "start": 521.94,
+    "duration": 2.46
+  },
+  {
+    "text": "on these different options\nas they become available?",
+    "start": 524.4,
+    "duration": 3.738
+  },
+  {
+    "text": "NOUBAR AFEYAN: Well, I\nmean it's a good question.",
+    "start": 528.138,
+    "duration": 2.042
+  },
+  {
+    "text": "Because we're in\nuncharted territory.",
+    "start": 530.18,
+    "duration": 1.92
+  },
+  {
+    "text": "And if you likened\nthis to the flu,",
+    "start": 532.1,
+    "duration": 3.03
+  },
+  {
+    "text": "most people don't know\nwhich flu vaccine they get.",
+    "start": 535.13,
+    "duration": 2.97
+  },
+  {
+    "text": "In fact, there are several.",
+    "start": 538.1,
+    "duration": 1.5
+  },
+  {
+    "text": "And they get what they get.",
+    "start": 539.6,
+    "duration": 1.62
+  },
+  {
+    "text": "And that's because this is a\npublic health kind of solution.",
+    "start": 541.22,
+    "duration": 4.5
+  },
+  {
+    "text": "And it's not that people\nare offered up a choice.",
+    "start": 545.72,
+    "duration": 3.31
+  },
+  {
+    "text": "So I think, in this\ncase, certainly",
+    "start": 549.03,
+    "duration": 2.18
+  },
+  {
+    "text": "in the original,\nthe initial period,",
+    "start": 551.21,
+    "duration": 2.82
+  },
+  {
+    "text": "certainly during emergency\nuse, my expectation would be",
+    "start": 554.03,
+    "duration": 3.39
+  },
+  {
+    "text": "that there really isn't the\nconsumer choice in the matter.",
+    "start": 557.42,
+    "duration": 2.73
+  },
+  {
+    "text": "There will be a limited\nsupply of vaccine.",
+    "start": 560.15,
+    "duration": 2.97
+  },
+  {
+    "text": "And we will-- and\nthe government,",
+    "start": 563.12,
+    "duration": 1.71
+  },
+  {
+    "text": "which will be in charge\nof distributing it",
+    "start": 564.83,
+    "duration": 1.95
+  },
+  {
+    "text": "both in the US and\nother countries,",
+    "start": 566.78,
+    "duration": 2.46
+  },
+  {
+    "text": "will in turn determine\nbasically how",
+    "start": 569.24,
+    "duration": 3.14
+  },
+  {
+    "text": "to reach the various, initially,\nmost vulnerable population",
+    "start": 572.38,
+    "duration": 5.08
+  },
+  {
+    "text": "and then, later on,\nhopefully everybody.",
+    "start": 577.46,
+    "duration": 2.77
+  },
+  {
+    "text": "So I would say the way to think\nabout it is based on data.",
+    "start": 580.23,
+    "duration": 4.04
+  },
+  {
+    "text": "Because it's one thing to\nthink about the technology",
+    "start": 584.27,
+    "duration": 2.97
+  },
+  {
+    "text": "underlying the vaccine.",
+    "start": 587.24,
+    "duration": 1.6
+  },
+  {
+    "text": "It's nothing to look at\nwhat proof points we have.",
+    "start": 588.84,
+    "duration": 2.45
+  },
+  {
+    "text": "And upon successful completion\nof a trial that actually does",
+    "start": 591.29,
+    "duration": 3.72
+  },
+  {
+    "text": "show safety and efficacy\nand then, of course,",
+    "start": 595.01,
+    "duration": 2.88
+  },
+  {
+    "text": "you look at the second\nlayer of information,",
+    "start": 597.89,
+    "duration": 2.34
+  },
+  {
+    "text": "there may be that\ncertain vaccines are",
+    "start": 600.23,
+    "duration": 1.62
+  },
+  {
+    "text": "better for older populations.",
+    "start": 601.85,
+    "duration": 1.98
+  },
+  {
+    "text": "We're certainly focused on that.",
+    "start": 603.83,
+    "duration": 1.68
+  },
+  {
+    "text": "Because we recognize\nthis disease",
+    "start": 605.51,
+    "duration": 1.86
+  },
+  {
+    "text": "is very much affecting\nolder populations.",
+    "start": 607.37,
+    "duration": 3.38
+  },
+  {
+    "text": "So we're doing special sub\nkind of category assessments.",
+    "start": 610.75,
+    "duration": 3.79
+  },
+  {
+    "text": "We've already done\nsome in Phase I.",
+    "start": 614.54,
+    "duration": 2.25
+  },
+  {
+    "text": "So I think over the\nfullness of time,",
+    "start": 616.79,
+    "duration": 2.225
+  },
+  {
+    "text": "more and more data\nwill come out.",
+    "start": 619.015,
+    "duration": 1.375
+  },
+  {
+    "text": "And that may inform\ndecision making.",
+    "start": 620.39,
+    "duration": 2.16
+  },
+  {
+    "text": "But for now, I think\nit's going to be based",
+    "start": 622.55,
+    "duration": 2.04
+  },
+  {
+    "text": "on supply and availability.",
+    "start": 624.59,
+    "duration": 1.957
+  },
+  {
+    "text": "ADI IGNATIUS: So I know you\nhave to wait for these tests",
+    "start": 626.547,
+    "duration": 2.333
+  },
+  {
+    "text": "to play out.",
+    "start": 628.88,
+    "duration": 0.54
+  },
+  {
+    "text": "But what does your\ngut say, in terms",
+    "start": 629.42,
+    "duration": 1.56
+  },
+  {
+    "text": "of when Moderna will have\na product that can be used,",
+    "start": 630.98,
+    "duration": 5.1
+  },
+  {
+    "text": "let's say, initially for\nthese most vulnerable groups",
+    "start": 636.08,
+    "duration": 4.44
+  },
+  {
+    "text": "and then more generally?",
+    "start": 640.52,
+    "duration": 1.23
+  },
+  {
+    "text": "And other people who are working\non a vaccine, what's your",
+    "start": 641.75,
+    "duration": 3.15
+  },
+  {
+    "text": "guess as to when someone like\nme, who's not in a risk--",
+    "start": 644.9,
+    "duration": 3.99
+  },
+  {
+    "text": "high risk group, will be\nable to have a vaccine?",
+    "start": 648.89,
+    "duration": 4.73
+  },
+  {
+    "text": "ADI IGNATIUS: Look, I think\nthat that's a difficult thing",
+    "start": 653.62,
+    "duration": 2.49
+  },
+  {
+    "text": "to speculate on with\ngreat precision.",
+    "start": 656.11,
+    "duration": 3.6
+  },
+  {
+    "text": "But what I can tell you is\nthat the public discourse",
+    "start": 659.71,
+    "duration": 2.94
+  },
+  {
+    "text": "that certainly Moderna, Pfizer,\nand others have engaged in,",
+    "start": 662.65,
+    "duration": 3.03
+  },
+  {
+    "text": "as well as Operation Warp Speed\nwho has been publicly talking",
+    "start": 665.68,
+    "duration": 3.99
+  },
+  {
+    "text": "about this, points to a\nlate November timeframe",
+    "start": 669.67,
+    "duration": 4.5
+  },
+  {
+    "text": "before which there will be\nenough safety data to now begin",
+    "start": 674.17,
+    "duration": 4.8
+  },
+  {
+    "text": "to adjudicate efficacy data.",
+    "start": 678.97,
+    "duration": 2.01
+  },
+  {
+    "text": "Because safety is a kind of\na barrier we need to hit.",
+    "start": 680.98,
+    "duration": 3.88
+  },
+  {
+    "text": "And that's two months.",
+    "start": 684.86,
+    "duration": 1.34
+  },
+  {
+    "text": "The FDA has said that they\nwant to see two months of data",
+    "start": 686.2,
+    "duration": 2.82
+  },
+  {
+    "text": "minimally for the kind of the\n50th percentile or patients",
+    "start": 689.02,
+    "duration": 4.8
+  },
+  {
+    "text": "or subject that join.",
+    "start": 693.82,
+    "duration": 1.23
+  },
+  {
+    "text": "So in other words,\nwhen half of the people",
+    "start": 695.05,
+    "duration": 2.31
+  },
+  {
+    "text": "have been given\ntheir second dose",
+    "start": 697.36,
+    "duration": 1.83
+  },
+  {
+    "text": "and we've waited two\nmonths, that's the gate.",
+    "start": 699.19,
+    "duration": 2.72
+  },
+  {
+    "text": "And that will happen\nduring the end of November.",
+    "start": 701.91,
+    "duration": 2.32
+  },
+  {
+    "text": "Certainly from Moderna,\nwe've said this publicly,",
+    "start": 704.23,
+    "duration": 2.36
+  },
+  {
+    "text": "and there may be other--",
+    "start": 706.59,
+    "duration": 1.24
+  },
+  {
+    "text": "Pfizer may be in a\nsimilar timeline.",
+    "start": 707.83,
+    "duration": 2.25
+  },
+  {
+    "text": "Then it's a question\nof, when are there",
+    "start": 710.08,
+    "duration": 2.37
+  },
+  {
+    "text": "enough events recorded to be\nable to make an adjudication?",
+    "start": 712.45,
+    "duration": 4.68
+  },
+  {
+    "text": "And we expect that that might\nbe by end of November or maybe",
+    "start": 717.13,
+    "duration": 5.89
+  },
+  {
+    "text": "a little sooner, which\nis a bit of a moot point.",
+    "start": 723.02,
+    "duration": 2.0
+  },
+  {
+    "text": "Because we have to wait\nfor safety or a bit later.",
+    "start": 725.02,
+    "duration": 2.54
+  },
+  {
+    "text": "So in the kind of\nNovember, early December",
+    "start": 727.56,
+    "duration": 1.75
+  },
+  {
+    "text": "timeframe, that's the\nbest guess we can make.",
+    "start": 729.31,
+    "duration": 3.04
+  },
+  {
+    "text": "But there are so many\nunknowns and variables",
+    "start": 732.35,
+    "duration": 2.44
+  },
+  {
+    "text": "that I think, especially in\na very expectant environment,",
+    "start": 734.79,
+    "duration": 4.63
+  },
+  {
+    "text": "we'd be hard pressed\nto try to add to that.",
+    "start": 739.42,
+    "duration": 2.95
+  },
+  {
+    "text": "So I think the best\nwe could say is,",
+    "start": 742.37,
+    "duration": 2.21
+  },
+  {
+    "text": "as we end up in late\nNovember, December, we should",
+    "start": 744.58,
+    "duration": 2.493
+  },
+  {
+    "text": "begin to get to [INAUDIBLE].",
+    "start": 747.073,
+    "duration": 1.167
+  },
+  {
+    "text": "Now, you asked, how does\nthat transmit all the way",
+    "start": 748.24,
+    "duration": 3.71
+  },
+  {
+    "text": "to kind of an average citizen?",
+    "start": 751.95,
+    "duration": 1.99
+  },
+  {
+    "text": "And that I think is going to be\na matter of probably a couple,",
+    "start": 753.94,
+    "duration": 4.26
+  },
+  {
+    "text": "three months before you get\nthrough the emergency use",
+    "start": 758.2,
+    "duration": 3.12
+  },
+  {
+    "text": "process and then a BLA,\nwhat's called the BLA, which",
+    "start": 761.32,
+    "duration": 3.36
+  },
+  {
+    "text": "is the formal FDA\napproval for mass use",
+    "start": 764.68,
+    "duration": 3.54
+  },
+  {
+    "text": "has to be adjudicated\non by the FDA.",
+    "start": 768.22,
+    "duration": 2.43
+  },
+  {
+    "text": "And then the supply\nbegins to increase.",
+    "start": 770.65,
+    "duration": 3.01
+  },
+  {
+    "text": "So probably we're looking\nat spring, late spring,",
+    "start": 773.66,
+    "duration": 3.23
+  },
+  {
+    "text": "by the time you have\nmore than adequate supply",
+    "start": 776.89,
+    "duration": 3.75
+  },
+  {
+    "text": "to begin to penetrate\na broad population, not",
+    "start": 780.64,
+    "duration": 3.27
+  },
+  {
+    "text": "just the early, most vulnerable,\nand health care workers.",
+    "start": 783.91,
+    "duration": 3.498
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah.",
+    "start": 787.408,
+    "duration": 0.792
+  },
+  {
+    "text": "So I want to ask you\none more question.",
+    "start": 788.2,
+    "duration": 1.625
+  },
+  {
+    "text": "Then I'll bring in Josh\nand Octavia who will ask,",
+    "start": 789.825,
+    "duration": 2.322
+  },
+  {
+    "text": "I'm sure, much harder questions.",
+    "start": 792.147,
+    "duration": 1.333
+  },
+  {
+    "text": "But, you know, I\ngot to ask, I mean,",
+    "start": 793.48,
+    "duration": 2.58
+  },
+  {
+    "text": "developing vaccines\nobviously is never easy.",
+    "start": 796.06,
+    "duration": 2.37
+  },
+  {
+    "text": "It's not usually\ndone so quickly.",
+    "start": 798.43,
+    "duration": 2.13
+  },
+  {
+    "text": "You know, you're under enormous\npressure for basic health",
+    "start": 800.56,
+    "duration": 3.24
+  },
+  {
+    "text": "safety reasons.",
+    "start": 803.8,
+    "duration": 0.725
+  },
+  {
+    "text": "But for political\nreasons, you've",
+    "start": 804.525,
+    "duration": 1.375
+  },
+  {
+    "text": "got an impatient government,\nwho is your purchaser,",
+    "start": 805.9,
+    "duration": 2.49
+  },
+  {
+    "text": "and commercial reasons,\ngood news on results",
+    "start": 808.39,
+    "duration": 2.79
+  },
+  {
+    "text": "can drive your stock price up.",
+    "start": 811.18,
+    "duration": 1.68
+  },
+  {
+    "text": "How do you handle all of\nthese conflicting pressures,",
+    "start": 812.86,
+    "duration": 2.98
+  },
+  {
+    "text": "as you do your job?",
+    "start": 815.84,
+    "duration": 2.59
+  },
+  {
+    "text": "NOUBAR AFEYAN: Well,\nlook, I would say,",
+    "start": 818.43,
+    "duration": 1.74
+  },
+  {
+    "text": "add to that the fact\nthat Moderna is a young,",
+    "start": 820.17,
+    "duration": 4.19
+  },
+  {
+    "text": "9, 10-year-old company.",
+    "start": 824.36,
+    "duration": 2.71
+  },
+  {
+    "text": "It's pursuing technology\nthat has no precedent,",
+    "start": 827.07,
+    "duration": 2.88
+  },
+  {
+    "text": "has no academic precedent,\nhas no industrial precedent,",
+    "start": 829.95,
+    "duration": 2.88
+  },
+  {
+    "text": "is brand new.",
+    "start": 832.83,
+    "duration": 1.98
+  },
+  {
+    "text": "And obviously, we're a\ncompany with no product, yet.",
+    "start": 834.81,
+    "duration": 3.48
+  },
+  {
+    "text": "We have many, many\nproducts in development.",
+    "start": 838.29,
+    "duration": 2.232
+  },
+  {
+    "text": "But none that are commercial.",
+    "start": 840.522,
+    "duration": 1.208
+  },
+  {
+    "text": "So yet more things to add to\nthe complexity and challenge.",
+    "start": 841.73,
+    "duration": 3.98
+  },
+  {
+    "text": "Look, the answer is having\na team, leadership team,",
+    "start": 845.71,
+    "duration": 4.38
+  },
+  {
+    "text": "led by the CEO Stephane Bancel,\nStephen Hoge, and others",
+    "start": 850.09,
+    "duration": 3.5
+  },
+  {
+    "text": "on the leadership team, who\nhave a balance of the maturity,",
+    "start": 853.59,
+    "duration": 5.55
+  },
+  {
+    "text": "the experience, the track\nrecord, particularly having",
+    "start": 859.14,
+    "duration": 4.32
+  },
+  {
+    "text": "run Moderna for\nmany, many years,",
+    "start": 863.46,
+    "duration": 2.34
+  },
+  {
+    "text": "so this is the-- it's\none thing to have",
+    "start": 865.8,
+    "duration": 2.1
+  },
+  {
+    "text": "theoretical kind of\nexperiences and another thing",
+    "start": 867.9,
+    "duration": 2.58
+  },
+  {
+    "text": "to actually have done it\nwithin the Moderna setting.",
+    "start": 870.48,
+    "duration": 2.85
+  },
+  {
+    "text": "This is a company that went\nfrom basically no products",
+    "start": 873.33,
+    "duration": 3.24
+  },
+  {
+    "text": "in the clinic to 20 different\nclinical programs ongoing,",
+    "start": 876.57,
+    "duration": 4.77
+  },
+  {
+    "text": "did by far the largest\ntransactions in this industry,",
+    "start": 881.34,
+    "duration": 3.76
+  },
+  {
+    "text": "whether it's financing\nor partnerships.",
+    "start": 885.1,
+    "duration": 2.16
+  },
+  {
+    "text": "And so we've been climbing up\na mountain for quite a while.",
+    "start": 887.26,
+    "duration": 4.89
+  },
+  {
+    "text": "We never expected\nthat when we thought",
+    "start": 892.15,
+    "duration": 2.15
+  },
+  {
+    "text": "we were getting close to\nwhere we were shooting for,",
+    "start": 894.3,
+    "duration": 2.92
+  },
+  {
+    "text": "there'd be a gigantic\nmountain that",
+    "start": 897.22,
+    "duration": 1.495
+  },
+  {
+    "text": "has touched upon us that\nwe've then, for public safety",
+    "start": 898.715,
+    "duration": 2.665
+  },
+  {
+    "text": "reasons, not really\nfor financial reasons,",
+    "start": 901.38,
+    "duration": 2.95
+  },
+  {
+    "text": "have to engage with.",
+    "start": 904.33,
+    "duration": 1.5
+  },
+  {
+    "text": "But I would say the leadership\nteam, the platform importantly,",
+    "start": 905.83,
+    "duration": 4.82
+  },
+  {
+    "text": "to me, it's really\nimportant to understand,",
+    "start": 910.65,
+    "duration": 1.93
+  },
+  {
+    "text": "most people think that biology\nand biotechnology doesn't",
+    "start": 912.58,
+    "duration": 3.08
+  },
+  {
+    "text": "lend itself to this kind\nof platform investment.",
+    "start": 915.66,
+    "duration": 2.97
+  },
+  {
+    "text": "Whereas, in Moderna's\ncase, it's an ideal example",
+    "start": 918.63,
+    "duration": 3.6
+  },
+  {
+    "text": "of a common investment\nthat has given",
+    "start": 922.23,
+    "duration": 2.16
+  },
+  {
+    "text": "rise to many, many products\nand modularity of design.",
+    "start": 924.39,
+    "duration": 4.26
+  },
+  {
+    "text": "So all of these things helped\nus [INAUDIBLE] quickly.",
+    "start": 928.65,
+    "duration": 3.29
+  },
+  {
+    "text": "But otherwise the pressures\nare, you kind of keep your focus",
+    "start": 931.94,
+    "duration": 3.61
+  },
+  {
+    "text": "on why you're doing this.",
+    "start": 935.55,
+    "duration": 2.7
+  },
+  {
+    "text": "It is to [DOG BARKING]\n[INAUDIBLE] of the suite of art",
+    "start": 938.25,
+    "duration": 3.21
+  },
+  {
+    "text": "of solutions people have\nas humanity to fight this.",
+    "start": 941.46,
+    "duration": 2.79
+  },
+  {
+    "text": "And that purpose\nkind of allows you",
+    "start": 944.25,
+    "duration": 2.07
+  },
+  {
+    "text": "to prioritize what is noise,\nwhat you have control over,",
+    "start": 946.32,
+    "duration": 4.32
+  },
+  {
+    "text": "and what you can\ncommunicate, and, you know,",
+    "start": 950.64,
+    "duration": 2.64
+  },
+  {
+    "text": "kind of do it day-by-day.",
+    "start": 953.28,
+    "duration": 1.665
+  },
+  {
+    "text": "ADI IGNATIUS: All right.",
+    "start": 954.945,
+    "duration": 1.0
+  },
+  {
+    "text": "Let's bring-- let's\nbring Josh and Octavia in",
+    "start": 955.945,
+    "duration": 1.895
+  },
+  {
+    "text": "and have at the witness.",
+    "start": 957.84,
+    "duration": 2.458
+  },
+  {
+    "text": "JOSHUA MACHT: Sure.",
+    "start": 960.298,
+    "duration": 0.792
+  },
+  {
+    "text": "Noubar, nice to see you.",
+    "start": 961.09,
+    "duration": 2.85
+  },
+  {
+    "text": "Take us back for a second.",
+    "start": 963.94,
+    "duration": 1.53
+  },
+  {
+    "text": "I'm curious how it is that\nyou're defining efficacy.",
+    "start": 965.47,
+    "duration": 3.23
+  },
+  {
+    "text": "What's the government\nguideline versus what's",
+    "start": 968.7,
+    "duration": 3.99
+  },
+  {
+    "text": "realistic for you, what you're\nshooting for internally?",
+    "start": 972.69,
+    "duration": 3.75
+  },
+  {
+    "text": "What does that really mean?",
+    "start": 976.44,
+    "duration": 2.21
+  },
+  {
+    "text": "NOUBAR AFEYAN: Well,\nlook, I can say",
+    "start": 978.65,
+    "duration": 2.07
+  },
+  {
+    "text": "what is public information,\njust as a public company.",
+    "start": 980.72,
+    "duration": 3.39
+  },
+  {
+    "text": "And what we have said is that\nthe governments guidelines",
+    "start": 984.11,
+    "duration": 2.8
+  },
+  {
+    "text": "are the 50% kind of efficacy.",
+    "start": 986.91,
+    "duration": 2.282
+  },
+  {
+    "text": "That is that you're\nactually having",
+    "start": 989.192,
+    "duration": 1.458
+  },
+  {
+    "text": "a differential effect\ncompared to placebo",
+    "start": 990.65,
+    "duration": 3.22
+  },
+  {
+    "text": "to the 50th percentile.",
+    "start": 993.87,
+    "duration": 1.99
+  },
+  {
+    "text": "100th percentile would be\nthat every single person who's",
+    "start": 995.86,
+    "duration": 2.54
+  },
+  {
+    "text": "in the active did not-- does\nnot contract an infection",
+    "start": 998.4,
+    "duration": 4.27
+  },
+  {
+    "text": "and the comparitive set\nin the placebo does.",
+    "start": 1002.67,
+    "duration": 3.64
+  },
+  {
+    "text": "In this case, 50% is already\na pretty significant impact.",
+    "start": 1006.31,
+    "duration": 5.61
+  },
+  {
+    "text": "You can look at what\nmasks do and what",
+    "start": 1011.92,
+    "duration": 2.34
+  },
+  {
+    "text": "other things do under the\nsame basic comparative basis.",
+    "start": 1014.26,
+    "duration": 4.78
+  },
+  {
+    "text": "And so that's one thing.",
+    "start": 1019.04,
+    "duration": 1.29
+  },
+  {
+    "text": "But if you just look at,\nwell, what might happen?",
+    "start": 1020.33,
+    "duration": 2.77
+  },
+  {
+    "text": "It's hard to guess.",
+    "start": 1023.1,
+    "duration": 2.06
+  },
+  {
+    "text": "But there are vaccines that\nare better than 95% effective.",
+    "start": 1025.16,
+    "duration": 4.36
+  },
+  {
+    "text": "There are some vaccines\nthat are 40%, 50% effective.",
+    "start": 1029.52,
+    "duration": 3.069
+  },
+  {
+    "text": "For example, the\nseasonal flu vaccine",
+    "start": 1032.589,
+    "duration": 1.951
+  },
+  {
+    "text": "can be often in the\n40% to 50%, 60% range.",
+    "start": 1034.54,
+    "duration": 3.42
+  },
+  {
+    "text": "And yet, we offer it for\nadministration to everybody.",
+    "start": 1037.96,
+    "duration": 4.57
+  },
+  {
+    "text": "And so I think we're still close\nto letting the science guide us",
+    "start": 1042.53,
+    "duration": 4.12
+  },
+  {
+    "text": "that we will know.",
+    "start": 1046.65,
+    "duration": 1.49
+  },
+  {
+    "text": "But the notion\nthat a 50% vaccine",
+    "start": 1048.14,
+    "duration": 2.87
+  },
+  {
+    "text": "isn't worth taking but a\n75% vaccine is I don't think",
+    "start": 1051.01,
+    "duration": 3.6
+  },
+  {
+    "text": "is consistent with the damage\nthis disease is doing broadly",
+    "start": 1054.61,
+    "duration": 3.92
+  },
+  {
+    "text": "and the impact it's having\nnot only on human health",
+    "start": 1058.53,
+    "duration": 2.47
+  },
+  {
+    "text": "but human activity and society.",
+    "start": 1061.0,
+    "duration": 2.4
+  },
+  {
+    "text": "I think all the\nthings it's doing",
+    "start": 1063.4,
+    "duration": 2.12
+  },
+  {
+    "text": "should cause us not to be kind\nof very picky about just how",
+    "start": 1065.52,
+    "duration": 6.22
+  },
+  {
+    "text": "well it may be able to do.",
+    "start": 1071.74,
+    "duration": 1.83
+  },
+  {
+    "text": "I think we have a\nreal [INAUDIBLE]..",
+    "start": 1073.57,
+    "duration": 2.19
+  },
+  {
+    "text": "And so we'll know soon enough.",
+    "start": 1075.76,
+    "duration": 1.62
+  },
+  {
+    "text": "I would not rule out that\nthe very first vaccines are",
+    "start": 1077.38,
+    "duration": 3.35
+  },
+  {
+    "text": "a lot better than\nwhat people expect,",
+    "start": 1080.73,
+    "duration": 2.5
+  },
+  {
+    "text": "nor do I want to create\nthat expectation.",
+    "start": 1083.23,
+    "duration": 2.19
+  },
+  {
+    "text": "It's just unknowable.",
+    "start": 1085.42,
+    "duration": 1.5
+  },
+  {
+    "text": "We will know.",
+    "start": 1086.92,
+    "duration": 1.253
+  },
+  {
+    "text": "And whatever we\nhave to deal with,",
+    "start": 1088.173,
+    "duration": 1.417
+  },
+  {
+    "text": "we will deploy as part of an\noverall [INAUDIBLE] solution.",
+    "start": 1089.59,
+    "duration": 3.03
+  },
+  {
+    "text": "JOSHUA MACHT: I\nmean the other part,",
+    "start": 1092.62,
+    "duration": 1.5
+  },
+  {
+    "text": "it's sort of amazing to think\nthat Moderna has kind of gone",
+    "start": 1094.12,
+    "duration": 2.52
+  },
+  {
+    "text": "as fast as they have.",
+    "start": 1096.64,
+    "duration": 1.74
+  },
+  {
+    "text": "If they-- and never, the company\nhas never developed a vaccine.",
+    "start": 1098.38,
+    "duration": 3.96
+  },
+  {
+    "text": "They're only a few\nthat really do.",
+    "start": 1102.34,
+    "duration": 1.5
+  },
+  {
+    "text": "And it's hard to\ndo it, almost feels",
+    "start": 1103.84,
+    "duration": 1.89
+  },
+  {
+    "text": "like winning the World\nSeries or something",
+    "start": 1105.73,
+    "duration": 2.58
+  },
+  {
+    "text": "in the first year,\nfirst time in the league",
+    "start": 1108.31,
+    "duration": 3.37
+  },
+  {
+    "text": "if you pull this off.",
+    "start": 1111.68,
+    "duration": 1.91
+  },
+  {
+    "text": "Coming out of nowhere, make\nsense of that for people",
+    "start": 1113.59,
+    "duration": 2.34
+  },
+  {
+    "text": "that it seems almost improbable\nthat you'd be able to do it.",
+    "start": 1115.93,
+    "duration": 5.06
+  },
+  {
+    "text": "NOUBAR AFEYAN: I mean, look,\nit is true that on the surface",
+    "start": 1120.99,
+    "duration": 4.22
+  },
+  {
+    "text": "this could be an\novernight success ten",
+    "start": 1125.21,
+    "duration": 2.195
+  },
+  {
+    "text": "years in the making.",
+    "start": 1127.405,
+    "duration": 2.085
+  },
+  {
+    "text": "And I think that it is founded\nupon a set of principles",
+    "start": 1129.49,
+    "duration": 5.59
+  },
+  {
+    "text": "and scaffolding, if\nyou will, that we",
+    "start": 1135.08,
+    "duration": 3.0
+  },
+  {
+    "text": "use to build our companies\nacross many, many companies.",
+    "start": 1138.08,
+    "duration": 3.3
+  },
+  {
+    "text": "I should say that\nModerna is part",
+    "start": 1141.38,
+    "duration": 1.375
+  },
+  {
+    "text": "of an ecosystem of companies\nthat today numbers about 40.",
+    "start": 1142.755,
+    "duration": 4.625
+  },
+  {
+    "text": "And historically, it's about\n100 different companies",
+    "start": 1147.38,
+    "duration": 2.22
+  },
+  {
+    "text": "that we have been involved\nwithin my firm Flagship",
+    "start": 1149.6,
+    "duration": 2.85
+  },
+  {
+    "text": "Pioneering in\nconceiving, creating,",
+    "start": 1152.45,
+    "duration": 2.55
+  },
+  {
+    "text": "and helping with the management\nteam optimize and develop.",
+    "start": 1155.0,
+    "duration": 3.49
+  },
+  {
+    "text": "And I think that--",
+    "start": 1158.49,
+    "duration": 1.103
+  },
+  {
+    "text": "I'd like to believe\nthat that has helped",
+    "start": 1159.593,
+    "duration": 1.667
+  },
+  {
+    "text": "it be more than just\na random start-up that",
+    "start": 1161.26,
+    "duration": 3.34
+  },
+  {
+    "text": "might hit the lottery.",
+    "start": 1164.6,
+    "duration": 1.33
+  },
+  {
+    "text": "I think that's one of\nthe key considerations.",
+    "start": 1165.93,
+    "duration": 3.35
+  },
+  {
+    "text": "But as well the nature\nof the science that we're",
+    "start": 1169.28,
+    "duration": 2.76
+  },
+  {
+    "text": "pursuing in the technology\nis intrinsically modular,",
+    "start": 1172.04,
+    "duration": 5.49
+  },
+  {
+    "text": "is intrinsically a\nkind of design-based,",
+    "start": 1177.53,
+    "duration": 3.99
+  },
+  {
+    "text": "as opposed to hit or miss kind\nof find the small molecule that",
+    "start": 1181.52,
+    "duration": 3.18
+  },
+  {
+    "text": "might have an effect.",
+    "start": 1184.7,
+    "duration": 1.39
+  },
+  {
+    "text": "So I can get into\nit in more detail.",
+    "start": 1186.09,
+    "duration": 1.58
+  },
+  {
+    "text": "But suffice it to say, those\nof you who are interested",
+    "start": 1187.67,
+    "duration": 2.25
+  },
+  {
+    "text": "should really look up\n[INAUDIBLE] technology.",
+    "start": 1189.92,
+    "duration": 3.0
+  },
+  {
+    "text": "This is the closest\nthing to software.",
+    "start": 1192.92,
+    "duration": 2.61
+  },
+  {
+    "text": "If you liken the human body\nto the hardware equivalent",
+    "start": 1195.53,
+    "duration": 3.75
+  },
+  {
+    "text": "of a computer,\nsoftware that allows",
+    "start": 1199.28,
+    "duration": 2.37
+  },
+  {
+    "text": "you to run a program that\nis inject into a patient",
+    "start": 1201.65,
+    "duration": 3.98
+  },
+  {
+    "text": "a piece of code,\nnothing more than code,",
+    "start": 1205.63,
+    "duration": 2.125
+  },
+  {
+    "text": "the same exact code,\ndifferent letter arrangement,",
+    "start": 1207.755,
+    "duration": 2.925
+  },
+  {
+    "text": "will make any protein you want.",
+    "start": 1210.68,
+    "duration": 2.03
+  },
+  {
+    "text": "In this case, we told it\nto make the spike protein.",
+    "start": 1212.71,
+    "duration": 2.68
+  },
+  {
+    "text": "And the rest, the human\nbody takes care of.",
+    "start": 1215.39,
+    "duration": 2.63
+  },
+  {
+    "text": "How?",
+    "start": 1218.02,
+    "duration": 0.67
+  },
+  {
+    "text": "Because if you can\nmake cells in the body",
+    "start": 1218.69,
+    "duration": 2.05
+  },
+  {
+    "text": "make this spike protein\nthat the virus uses",
+    "start": 1220.74,
+    "duration": 3.26
+  },
+  {
+    "text": "to do a lot of its damage\nand which is immunogenic,",
+    "start": 1224.0,
+    "duration": 2.58
+  },
+  {
+    "text": "we know that, then the\nbody's immune system",
+    "start": 1226.58,
+    "duration": 2.85
+  },
+  {
+    "text": "will go after the spike\nprotein without having",
+    "start": 1229.43,
+    "duration": 2.07
+  },
+  {
+    "text": "been exposed to the virus.",
+    "start": 1231.5,
+    "duration": 1.41
+  },
+  {
+    "text": "And you have an immune response.",
+    "start": 1232.91,
+    "duration": 1.57
+  },
+  {
+    "text": "So there are some things\nthat advantage our ability",
+    "start": 1234.48,
+    "duration": 4.07
+  },
+  {
+    "text": "to go quickly and\nbuild on what we have",
+    "start": 1238.55,
+    "duration": 2.91
+  },
+  {
+    "text": "learned from the last decade.",
+    "start": 1241.46,
+    "duration": 1.47
+  },
+  {
+    "text": "I should say that whle\nmessenger RNA has not",
+    "start": 1242.93,
+    "duration": 3.18
+  },
+  {
+    "text": "been the basis of\nany approved vaccine,",
+    "start": 1246.11,
+    "duration": 2.4
+  },
+  {
+    "text": "it has been in human trial\nfor 10 different vaccines",
+    "start": 1248.51,
+    "duration": 4.05
+  },
+  {
+    "text": "before COVID-19 came along.",
+    "start": 1252.56,
+    "duration": 3.39
+  },
+  {
+    "text": "And we definitely built upon\nthat background, as well as",
+    "start": 1255.95,
+    "duration": 4.29
+  },
+  {
+    "text": "NIH, I should also say,\nwho had been researching",
+    "start": 1260.24,
+    "duration": 4.89
+  },
+  {
+    "text": "this class of viruses,\nthese coronaviruses,",
+    "start": 1265.13,
+    "duration": 3.75
+  },
+  {
+    "text": "and, with us, had\nbeen developing",
+    "start": 1268.88,
+    "duration": 1.71
+  },
+  {
+    "text": "a MERS vaccine, which was\ngetting close to getting",
+    "start": 1270.59,
+    "duration": 2.52
+  },
+  {
+    "text": "into human trials.",
+    "start": 1273.11,
+    "duration": 1.19
+  },
+  {
+    "text": "And it's the same team\nand the same knowledge",
+    "start": 1274.3,
+    "duration": 2.77
+  },
+  {
+    "text": "that we repurposed for this.",
+    "start": 1277.07,
+    "duration": 1.59
+  },
+  {
+    "text": "So we were lucky in many\nways that all these precedent",
+    "start": 1278.66,
+    "duration": 3.75
+  },
+  {
+    "text": "conditions were there.",
+    "start": 1282.41,
+    "duration": 1.32
+  },
+  {
+    "text": "You have to be good\nto get lucky, I guess.",
+    "start": 1283.73,
+    "duration": 2.24
+  },
+  {
+    "text": "And I think we were in\na pretty good position",
+    "start": 1285.97,
+    "duration": 2.47
+  },
+  {
+    "text": "to be able to get--",
+    "start": 1288.44,
+    "duration": 0.99
+  },
+  {
+    "text": "now again luck for us is even\nbeing able to go this far.",
+    "start": 1289.43,
+    "duration": 4.595
+  },
+  {
+    "text": "To be honest with\nyou, I mean I--",
+    "start": 1294.025,
+    "duration": 1.375
+  },
+  {
+    "text": "we keep reminding each other\nthat what we've done so far",
+    "start": 1295.4,
+    "duration": 3.63
+  },
+  {
+    "text": "is highly unlikely.",
+    "start": 1299.03,
+    "duration": 1.44
+  },
+  {
+    "text": "And anything could stop us\nfrom getting to the next step.",
+    "start": 1300.47,
+    "duration": 3.51
+  },
+  {
+    "text": "But even getting\nthis far, I think",
+    "start": 1303.98,
+    "duration": 1.47
+  },
+  {
+    "text": "was built on a\nlot of prior work.",
+    "start": 1305.45,
+    "duration": 3.21
+  },
+  {
+    "text": "JOSHUA MACHT: Yeah, definitely.",
+    "start": 1308.66,
+    "duration": 1.675
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: So I just\nwant to remind everyone",
+    "start": 1310.335,
+    "duration": 2.125
+  },
+  {
+    "text": "watching that we'll be answering\nsome of your questions.",
+    "start": 1312.46,
+    "duration": 2.68
+  },
+  {
+    "text": "So please do keep posting\nthem in the comments.",
+    "start": 1315.14,
+    "duration": 2.69
+  },
+  {
+    "text": "And Noubar, thank you for\neverything you've shared.",
+    "start": 1317.83,
+    "duration": 3.63
+  },
+  {
+    "text": "As you know, I think\nminority communities",
+    "start": 1321.46,
+    "duration": 2.49
+  },
+  {
+    "text": "have been disproportionately\naffected by COVID-19.",
+    "start": 1323.95,
+    "duration": 3.8
+  },
+  {
+    "text": "And as you just outlined,\nthere are currently",
+    "start": 1327.75,
+    "duration": 2.29
+  },
+  {
+    "text": "30,000 participants enrolled\nin your Phase III study.",
+    "start": 1330.04,
+    "duration": 3.54
+  },
+  {
+    "text": "Can you tell us what steps\nwere taken during enrollment",
+    "start": 1333.58,
+    "duration": 3.24
+  },
+  {
+    "text": "to ensure adequate\nrepresentation of minority",
+    "start": 1336.82,
+    "duration": 2.43
+  },
+  {
+    "text": "groups?",
+    "start": 1339.25,
+    "duration": 1.047
+  },
+  {
+    "text": "NOUBAR AFEYAN: Sure,\nhappy to Octavia.",
+    "start": 1340.297,
+    "duration": 1.583
+  },
+  {
+    "text": "And look, this was an\nimportant issue for us,",
+    "start": 1341.88,
+    "duration": 2.66
+  },
+  {
+    "text": "maybe even more\nimportant given that this",
+    "start": 1344.54,
+    "duration": 1.91
+  },
+  {
+    "text": "was our first, very first large\ntrial or even Phase III trial.",
+    "start": 1346.45,
+    "duration": 4.44
+  },
+  {
+    "text": "We'd never been in a Phase\nIII trial as an organization",
+    "start": 1350.89,
+    "duration": 2.58
+  },
+  {
+    "text": "before.",
+    "start": 1353.47,
+    "duration": 0.77
+  },
+  {
+    "text": "And we initially kind\nof went about doing it",
+    "start": 1354.24,
+    "duration": 3.16
+  },
+  {
+    "text": "the way trials are generally\nrun in the biopharmaceutical",
+    "start": 1357.4,
+    "duration": 3.33
+  },
+  {
+    "text": "industry.",
+    "start": 1360.73,
+    "duration": 1.01
+  },
+  {
+    "text": "And what we found\nearly in our enrollment",
+    "start": 1361.74,
+    "duration": 2.17
+  },
+  {
+    "text": "in Phase III was\nactually, not only",
+    "start": 1363.91,
+    "duration": 1.98
+  },
+  {
+    "text": "was there not a representative--",
+    "start": 1365.89,
+    "duration": 1.89
+  },
+  {
+    "text": "a population that is\nrepresentative of the US",
+    "start": 1367.78,
+    "duration": 3.48
+  },
+  {
+    "text": "population, but that there\nwas a particular kind of lack",
+    "start": 1371.26,
+    "duration": 4.68
+  },
+  {
+    "text": "of enrollment, particularly\nfrom the Black population",
+    "start": 1375.94,
+    "duration": 2.94
+  },
+  {
+    "text": "that we felt alarmed by,\nand then went and asked,",
+    "start": 1378.88,
+    "duration": 3.18
+  },
+  {
+    "text": "what happens in another trials?",
+    "start": 1382.06,
+    "duration": 1.65
+  },
+  {
+    "text": "And we found that, in general\n5% to 7% of trial enrollments",
+    "start": 1383.71,
+    "duration": 5.25
+  },
+  {
+    "text": "often will be representative\nof that minority.",
+    "start": 1388.96,
+    "duration": 3.1
+  },
+  {
+    "text": "And in general, there's\na problem there.",
+    "start": 1392.06,
+    "duration": 1.715
+  },
+  {
+    "text": "So we had a choice to make.",
+    "start": 1393.775,
+    "duration": 1.125
+  },
+  {
+    "text": "We could either\nsay, you know what?",
+    "start": 1394.9,
+    "duration": 2.15
+  },
+  {
+    "text": "That's not our problem.",
+    "start": 1397.05,
+    "duration": 1.0
+  },
+  {
+    "text": "Let's move on.",
+    "start": 1398.05,
+    "duration": 0.8
+  },
+  {
+    "text": "And let's get this trial done.",
+    "start": 1398.85,
+    "duration": 1.64
+  },
+  {
+    "text": "Or we could do a rather painful\ndecision that the management",
+    "start": 1400.49,
+    "duration": 3.5
+  },
+  {
+    "text": "team put forward with\nits own initiative",
+    "start": 1403.99,
+    "duration": 2.94
+  },
+  {
+    "text": "and then with the board\nto say, should we actually",
+    "start": 1406.93,
+    "duration": 3.21
+  },
+  {
+    "text": "slow down enrollment in order\nto increase the representation",
+    "start": 1410.14,
+    "duration": 4.53
+  },
+  {
+    "text": "of minorities?",
+    "start": 1414.67,
+    "duration": 1.32
+  },
+  {
+    "text": "And should we further\ntell our shareholders",
+    "start": 1415.99,
+    "duration": 2.91
+  },
+  {
+    "text": "that we're doing that,\nat the expense of what",
+    "start": 1418.9,
+    "duration": 2.4
+  },
+  {
+    "text": "might seem to them as\ndelay, but what seems to us",
+    "start": 1421.3,
+    "duration": 2.69
+  },
+  {
+    "text": "as the responsible thing to do?",
+    "start": 1423.99,
+    "duration": 1.88
+  },
+  {
+    "text": "And I'm pleased to say\nthat, several weeks ago, we",
+    "start": 1425.87,
+    "duration": 3.01
+  },
+  {
+    "text": "did do that.",
+    "start": 1428.88,
+    "duration": 1.3
+  },
+  {
+    "text": "We slowed down enrollment from\nthe mainly white population",
+    "start": 1430.18,
+    "duration": 3.645
+  },
+  {
+    "text": "that have been volunteering\nfor these trials.",
+    "start": 1433.825,
+    "duration": 1.875
+  },
+  {
+    "text": "Of course, these\ntrials are being",
+    "start": 1435.7,
+    "duration": 1.38
+  },
+  {
+    "text": "done in many, many\ndifferent locations",
+    "start": 1437.08,
+    "duration": 1.95
+  },
+  {
+    "text": "where the virus was in a\nhot zone, because we wanted",
+    "start": 1439.03,
+    "duration": 2.85
+  },
+  {
+    "text": "to be able to maximize the\nchance of having affected",
+    "start": 1441.88,
+    "duration": 5.227
+  },
+  {
+    "text": "people in the trial.",
+    "start": 1447.107,
+    "duration": 0.833
+  },
+  {
+    "text": "Otherwise, we couldn't\nread as to the effect",
+    "start": 1447.94,
+    "duration": 2.52
+  },
+  {
+    "text": "of the vaccine and the placebo.",
+    "start": 1450.46,
+    "duration": 1.83
+  },
+  {
+    "text": "And I'm glad to say that,\nby the time we concluded",
+    "start": 1452.29,
+    "duration": 3.27
+  },
+  {
+    "text": "the trial, the numbers\nof broadly minorities",
+    "start": 1455.56,
+    "duration": 3.3
+  },
+  {
+    "text": "and diversity represented\nwere over 35%, I believe 37%.",
+    "start": 1458.86,
+    "duration": 4.07
+  },
+  {
+    "text": "There was over 10% represented\nfrom the Black population,",
+    "start": 1462.93,
+    "duration": 3.47
+  },
+  {
+    "text": "that was a doubling almost of\nwhere we were in the beginning.",
+    "start": 1466.4,
+    "duration": 3.44
+  },
+  {
+    "text": "And the Hispanic\npopulation ended up",
+    "start": 1469.84,
+    "duration": 1.83
+  },
+  {
+    "text": "being quite a large\npopulation as well.",
+    "start": 1471.67,
+    "duration": 2.14
+  },
+  {
+    "text": "So we took steps we could\ntake it responsibly.",
+    "start": 1473.81,
+    "duration": 3.48
+  },
+  {
+    "text": "And I know that others\nare doing likewise.",
+    "start": 1477.29,
+    "duration": 2.6
+  },
+  {
+    "text": "Some of the large pharma\ncompanies, for example,",
+    "start": 1479.89,
+    "duration": 2.22
+  },
+  {
+    "text": "either have increased\nthe size of this trial",
+    "start": 1482.11,
+    "duration": 2.73
+  },
+  {
+    "text": "to achieve a similar goal.",
+    "start": 1484.84,
+    "duration": 2.67
+  },
+  {
+    "text": "So I think we're all\ncognizant of this.",
+    "start": 1487.51,
+    "duration": 2.7
+  },
+  {
+    "text": "And we want to make this as\nrepresentative as possible.",
+    "start": 1490.21,
+    "duration": 2.375
+  },
+  {
+    "text": "And I think we\nhave a lot of work",
+    "start": 1492.585,
+    "duration": 1.375
+  },
+  {
+    "text": "to do as a country and\nthe health care system",
+    "start": 1493.96,
+    "duration": 2.82
+  },
+  {
+    "text": "to develop the enrollment\nprocedures that",
+    "start": 1496.78,
+    "duration": 4.77
+  },
+  {
+    "text": "will make these trials as\nrepresentative as possible.",
+    "start": 1501.55,
+    "duration": 3.723
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: Yes.",
+    "start": 1505.273,
+    "duration": 0.917
+  },
+  {
+    "text": "So let's talk a bit\nabout the distribution",
+    "start": 1506.19,
+    "duration": 3.29
+  },
+  {
+    "text": "process of a vaccine.",
+    "start": 1509.48,
+    "duration": 2.35
+  },
+  {
+    "text": "Who gets it first and why?",
+    "start": 1511.83,
+    "duration": 1.61
+  },
+  {
+    "text": "And who makes those\ntough decisions?",
+    "start": 1513.44,
+    "duration": 2.67
+  },
+  {
+    "text": "ADI IGNATIUS: Well, look,\nthis is a bit unprecedented.",
+    "start": 1516.11,
+    "duration": 2.34
+  },
+  {
+    "text": "But there have been prior\npandemics and prior situations,",
+    "start": 1518.45,
+    "duration": 3.87
+  },
+  {
+    "text": "not as large as this, that\nat least guide the way.",
+    "start": 1522.32,
+    "duration": 2.85
+  },
+  {
+    "text": "This is something that,\nin the current situation,",
+    "start": 1525.17,
+    "duration": 2.85
+  },
+  {
+    "text": "will be conducted through\nthe Operation Warp Speed,",
+    "start": 1528.02,
+    "duration": 3.97
+  },
+  {
+    "text": "this OWS entity\nthat's been created,",
+    "start": 1531.99,
+    "duration": 2.37
+  },
+  {
+    "text": "which is largely using\nthe military's logistics",
+    "start": 1534.36,
+    "duration": 3.29
+  },
+  {
+    "text": "capabilities to\nensure distribution",
+    "start": 1537.65,
+    "duration": 3.15
+  },
+  {
+    "text": "to a network of the providers\nand further distributors.",
+    "start": 1540.8,
+    "duration": 6.1
+  },
+  {
+    "text": "And all of this\nhas been laid out.",
+    "start": 1546.9,
+    "duration": 2.06
+  },
+  {
+    "text": "The decision as to who gets\nit will be largely a decision",
+    "start": 1548.96,
+    "duration": 3.57
+  },
+  {
+    "text": "that's made by the HHS, CDC.",
+    "start": 1552.53,
+    "duration": 3.39
+  },
+  {
+    "text": "The government will\nput forward their list",
+    "start": 1555.92,
+    "duration": 4.02
+  },
+  {
+    "text": "of priorities and the\norder in which they",
+    "start": 1559.94,
+    "duration": 2.28
+  },
+  {
+    "text": "expect under emergency\nuse that the vaccine will",
+    "start": 1562.22,
+    "duration": 2.7
+  },
+  {
+    "text": "be distributed.",
+    "start": 1564.92,
+    "duration": 1.02
+  },
+  {
+    "text": "And our responsibility will be\nmanufacturing, filling vials,",
+    "start": 1565.94,
+    "duration": 5.1
+  },
+  {
+    "text": "and handing over\nto OWS our supply.",
+    "start": 1571.04,
+    "duration": 3.45
+  },
+  {
+    "text": "After that, and I'll say\nparenthetically, thankfully,",
+    "start": 1574.49,
+    "duration": 3.15
+  },
+  {
+    "text": "we're not in that loop.",
+    "start": 1577.64,
+    "duration": 1.62
+  },
+  {
+    "text": "Because I wouldn't-- we\nwouldn't know how to adjudicate",
+    "start": 1579.26,
+    "duration": 3.87
+  },
+  {
+    "text": "who's getting it.",
+    "start": 1583.13,
+    "duration": 0.72
+  },
+  {
+    "text": "And I'm happy that\nthe government",
+    "start": 1583.85,
+    "duration": 1.59
+  },
+  {
+    "text": "is playing its proper role,\nas it is in other countries.",
+    "start": 1585.44,
+    "duration": 3.113
+  },
+  {
+    "text": "JOSHUA MACHT: So Noubar, I'm\nalso wondering if you can speak",
+    "start": 1591.87,
+    "duration": 4.64
+  },
+  {
+    "text": "to the difference between\nemergency use that we've talked",
+    "start": 1596.51,
+    "duration": 4.11
+  },
+  {
+    "text": "about, which is what most of\nthe companies seem to be shoot--",
+    "start": 1600.62,
+    "duration": 3.21
+  },
+  {
+    "text": "going for, versus what the\nFDA maybe is signaling around",
+    "start": 1603.83,
+    "duration": 5.13
+  },
+  {
+    "text": "expanded use and what that\nmight mean and why that--",
+    "start": 1608.96,
+    "duration": 3.69
+  },
+  {
+    "text": "what is that discussion\nreally all about?",
+    "start": 1612.65,
+    "duration": 3.6
+  },
+  {
+    "text": "NOUBAR AFEYAN: There is\nan ongoing discussion",
+    "start": 1616.25,
+    "duration": 2.9
+  },
+  {
+    "text": "which I think is still kind\nof early in its progress,",
+    "start": 1619.15,
+    "duration": 4.87
+  },
+  {
+    "text": "as to whether there's\nalternatives to emergency use",
+    "start": 1624.02,
+    "duration": 2.85
+  },
+  {
+    "text": "that could be used.",
+    "start": 1626.87,
+    "duration": 1.44
+  },
+  {
+    "text": "And this is a kind of--",
+    "start": 1628.31,
+    "duration": 1.91
+  },
+  {
+    "text": "those of you who are\naficionados can follow this,",
+    "start": 1630.22,
+    "duration": 2.15
+  },
+  {
+    "text": "because there's been a\nlot posted on Twitter",
+    "start": 1632.37,
+    "duration": 2.27
+  },
+  {
+    "text": "and other places\nabout these things",
+    "start": 1634.64,
+    "duration": 2.25
+  },
+  {
+    "text": "by experts and also\noften non-experts",
+    "start": 1636.89,
+    "duration": 2.31
+  },
+  {
+    "text": "but to talk about\nwhat an emergency use",
+    "start": 1639.2,
+    "duration": 3.39
+  },
+  {
+    "text": "authorization may do to the\ntreatment of placebo subjects.",
+    "start": 1642.59,
+    "duration": 6.09
+  },
+  {
+    "text": "Because once you have\na vaccine available,",
+    "start": 1648.68,
+    "duration": 2.79
+  },
+  {
+    "text": "is it ethically appropriate\nto keep the placebo",
+    "start": 1651.47,
+    "duration": 3.72
+  },
+  {
+    "text": "group not knowing whether\nit received vaccine or not?",
+    "start": 1655.19,
+    "duration": 3.87
+  },
+  {
+    "text": "And if you were actually\nto break that placebo,",
+    "start": 1659.06,
+    "duration": 5.25
+  },
+  {
+    "text": "then what effect will it have\non the ultimate assessment",
+    "start": 1664.31,
+    "duration": 3.54
+  },
+  {
+    "text": "of the trial when it comes time\nto a final biological license",
+    "start": 1667.85,
+    "duration": 4.14
+  },
+  {
+    "text": "application?",
+    "start": 1671.99,
+    "duration": 1.0
+  },
+  {
+    "text": "So these are technicalities\nthat are being discussed,",
+    "start": 1672.99,
+    "duration": 2.86
+  },
+  {
+    "text": "the threat on ethical issues.",
+    "start": 1675.85,
+    "duration": 2.38
+  },
+  {
+    "text": "And the FDA certainly\nhas been soliciting",
+    "start": 1678.23,
+    "duration": 2.46
+  },
+  {
+    "text": "input from different\nposts about what else",
+    "start": 1680.69,
+    "duration": 2.28
+  },
+  {
+    "text": "should be done, how else--\neverybody understands",
+    "start": 1682.97,
+    "duration": 2.73
+  },
+  {
+    "text": "that telling this country\nwith 1,000 dead every day",
+    "start": 1685.7,
+    "duration": 3.56
+  },
+  {
+    "text": "that it should wait another few\nweeks so that we can do-- kind",
+    "start": 1689.26,
+    "duration": 3.0
+  },
+  {
+    "text": "of keep placebo in its place\nand not issue emergency use",
+    "start": 1692.26,
+    "duration": 3.76
+  },
+  {
+    "text": "authorization if a\nvaccine or more than one",
+    "start": 1696.02,
+    "duration": 3.42
+  },
+  {
+    "text": "are efficacious and safe.",
+    "start": 1699.44,
+    "duration": 1.47
+  },
+  {
+    "text": "That's a pretty difficult\nthing to accept.",
+    "start": 1700.91,
+    "duration": 2.25
+  },
+  {
+    "text": "On the other hand, we\nshould do everything",
+    "start": 1703.16,
+    "duration": 1.8
+  },
+  {
+    "text": "we can to make sure that such\nemergency use does not corrupt",
+    "start": 1704.96,
+    "duration": 4.41
+  },
+  {
+    "text": "or delay or affect the ultimate\navailability of the vaccine",
+    "start": 1709.37,
+    "duration": 3.39
+  },
+  {
+    "text": "to everybody.",
+    "start": 1712.76,
+    "duration": 0.97
+  },
+  {
+    "text": "And it's there that\npeople are looking",
+    "start": 1713.73,
+    "duration": 1.67
+  },
+  {
+    "text": "for potential\nalternative routes.",
+    "start": 1715.4,
+    "duration": 2.27
+  },
+  {
+    "text": "The good news for us\nis that we will do what",
+    "start": 1717.67,
+    "duration": 2.32
+  },
+  {
+    "text": "the regulators advise us to do.",
+    "start": 1719.99,
+    "duration": 2.01
+  },
+  {
+    "text": "Our goal is to be ready to\ndo what they allow us to do.",
+    "start": 1722.0,
+    "duration": 3.596
+  },
+  {
+    "text": "JOSHUA MACHT: Sure.",
+    "start": 1725.596,
+    "duration": 0.804
+  },
+  {
+    "text": "ADI IGNATIUS: So let\nme, we're getting a lot",
+    "start": 1726.4,
+    "duration": 2.27
+  },
+  {
+    "text": "of questions from our viewers.",
+    "start": 1728.67,
+    "duration": 1.25
+  },
+  {
+    "text": "And let me turn\nto the first one.",
+    "start": 1729.92,
+    "duration": 2.37
+  },
+  {
+    "text": "This is from Mohamed\nin Pittsburgh.",
+    "start": 1732.29,
+    "duration": 2.81
+  },
+  {
+    "text": "And it's, how does Moderna\nthink about vaccine hesitancy?",
+    "start": 1735.1,
+    "duration": 4.69
+  },
+  {
+    "text": "And what can you\ndo to address it?",
+    "start": 1739.79,
+    "duration": 2.14
+  },
+  {
+    "text": "And the viewer says that\nhe's not just talking about",
+    "start": 1741.93,
+    "duration": 3.44
+  },
+  {
+    "text": "the anti-vaxxers but talking\nabout reasonable people who",
+    "start": 1745.37,
+    "duration": 2.7
+  },
+  {
+    "text": "have concerns about\ntopics raging--",
+    "start": 1748.07,
+    "duration": 2.07
+  },
+  {
+    "text": "ranging from this\nbeen novel technology",
+    "start": 1750.14,
+    "duration": 3.15
+  },
+  {
+    "text": "to accelerated development\ntimelines that maybe they're",
+    "start": 1753.29,
+    "duration": 3.0
+  },
+  {
+    "text": "suspicious about.",
+    "start": 1756.29,
+    "duration": 0.83
+  },
+  {
+    "text": "So how-- what role can\nModerna and the rest of us",
+    "start": 1757.12,
+    "duration": 2.89
+  },
+  {
+    "text": "play in addressing\nthis hesitancy?",
+    "start": 1760.01,
+    "duration": 5.66
+  },
+  {
+    "text": "NOUBAR AFEYAN: So Adi, it's\na very appropriate question",
+    "start": 1765.67,
+    "duration": 2.66
+  },
+  {
+    "text": "because it reveals the\ndegree to which product",
+    "start": 1768.33,
+    "duration": 4.53
+  },
+  {
+    "text": "development innovation\nin this type of endeavor",
+    "start": 1772.86,
+    "duration": 4.49
+  },
+  {
+    "text": "does not allow you, as a\ntechnologist or scientist,",
+    "start": 1777.35,
+    "duration": 3.52
+  },
+  {
+    "text": "to hide behind kind\nof just saying, well,",
+    "start": 1780.87,
+    "duration": 2.46
+  },
+  {
+    "text": "I'm just making the product and\nthe market will determine it.",
+    "start": 1783.33,
+    "duration": 3.07
+  },
+  {
+    "text": "Because ultimately, the market\nneeds information from you.",
+    "start": 1786.4,
+    "duration": 3.35
+  },
+  {
+    "text": "You can't stop your involvement\nin that information flow",
+    "start": 1789.75,
+    "duration": 4.19
+  },
+  {
+    "text": "by just providing\n[INAUDIBLE] product.",
+    "start": 1793.94,
+    "duration": 2.51
+  },
+  {
+    "text": "I want to explain.",
+    "start": 1796.45,
+    "duration": 1.22
+  },
+  {
+    "text": "We all have the responsibility\nto be transparent with how",
+    "start": 1797.67,
+    "duration": 4.8
+  },
+  {
+    "text": "we do these trials, provide\nas much data as possible",
+    "start": 1802.47,
+    "duration": 3.57
+  },
+  {
+    "text": "about what they mean, make\nsure that people at least know",
+    "start": 1806.04,
+    "duration": 3.87
+  },
+  {
+    "text": "that there's no\ndata that's missing,",
+    "start": 1809.91,
+    "duration": 2.4
+  },
+  {
+    "text": "or that there's other things\nabout shortcuts being taken.",
+    "start": 1812.31,
+    "duration": 3.818
+  },
+  {
+    "text": "I think people have\nevery right to question",
+    "start": 1816.128,
+    "duration": 1.792
+  },
+  {
+    "text": "whether a shortcut's\ntaken, but not the right",
+    "start": 1817.92,
+    "duration": 2.46
+  },
+  {
+    "text": "to believe they're taken just\nbecause we're going fast.",
+    "start": 1820.38,
+    "duration": 2.47
+  },
+  {
+    "text": "I think there are ways to\ngo fast in this [INAUDIBLE]",
+    "start": 1822.85,
+    "duration": 3.24
+  },
+  {
+    "text": "without taking a shortcut.",
+    "start": 1826.09,
+    "duration": 1.28
+  },
+  {
+    "text": "And so I think people have to\nkind of look at the evidence,",
+    "start": 1827.37,
+    "duration": 4.2
+  },
+  {
+    "text": "look at what people\nare reporting.",
+    "start": 1831.57,
+    "duration": 1.873
+  },
+  {
+    "text": "And then I think,\nultimately, it's",
+    "start": 1833.443,
+    "duration": 1.417
+  },
+  {
+    "text": "going to depend on the data.",
+    "start": 1834.86,
+    "duration": 1.66
+  },
+  {
+    "text": "Because the data will indicate\nwhat level of production",
+    "start": 1836.52,
+    "duration": 3.63
+  },
+  {
+    "text": "we can expect.",
+    "start": 1840.15,
+    "duration": 1.16
+  },
+  {
+    "text": "There'll be some adoption--\nthe concept of early adopters",
+    "start": 1841.31,
+    "duration": 3.25
+  },
+  {
+    "text": "comment to your audience.",
+    "start": 1844.56,
+    "duration": 2.04
+  },
+  {
+    "text": "In this case,\n[INAUDIBLE],, but it",
+    "start": 1846.6,
+    "duration": 2.71
+  },
+  {
+    "text": "will be emergency availability.",
+    "start": 1849.31,
+    "duration": 1.93
+  },
+  {
+    "text": "But guess what?",
+    "start": 1851.24,
+    "duration": 1.16
+  },
+  {
+    "text": "People who don't want to\ntake it will effectively",
+    "start": 1852.4,
+    "duration": 2.39
+  },
+  {
+    "text": "be doing what non-early adopters\ndo in other technologies.",
+    "start": 1854.79,
+    "duration": 4.656
+  },
+  {
+    "text": "Some people who will consider\nthis a wise [INAUDIBLE] will",
+    "start": 1859.446,
+    "duration": 3.589
+  },
+  {
+    "text": "take it--",
+    "start": 1863.035,
+    "duration": 1.425
+  },
+  {
+    "text": "they, themselves will\nbecome part of the data.",
+    "start": 1864.46,
+    "duration": 2.64
+  },
+  {
+    "text": "And the hope is that, based\non the level of threat,",
+    "start": 1867.1,
+    "duration": 4.033
+  },
+  {
+    "text": "based on the level\nof explanation,",
+    "start": 1871.133,
+    "duration": 1.417
+  },
+  {
+    "text": "and leaders leading by example,\nand explaining to people.",
+    "start": 1872.55,
+    "duration": 4.44
+  },
+  {
+    "text": "Not just shooting\nthemselves up with vaccine,",
+    "start": 1876.99,
+    "duration": 2.01
+  },
+  {
+    "text": "but explaining to people what's\nthe risk and reward, how can",
+    "start": 1879.0,
+    "duration": 3.69
+  },
+  {
+    "text": "[INAUDIBLE] on this.",
+    "start": 1882.69,
+    "duration": 1.45
+  },
+  {
+    "text": "I think the FDA, Anthony Fauci,\nand [INAUDIBLE] NIH, there's",
+    "start": 1884.14,
+    "duration": 5.42
+  },
+  {
+    "text": "just a lot of different\nvoices that will be heard.",
+    "start": 1889.56,
+    "duration": 4.47
+  },
+  {
+    "text": "And you know, people\nwill often ask me,",
+    "start": 1894.03,
+    "duration": 3.03
+  },
+  {
+    "text": "what are the\nsequence of steps it",
+    "start": 1897.06,
+    "duration": 1.885
+  },
+  {
+    "text": "will take to contract\nvaccine [INAUDIBLE],,",
+    "start": 1898.945,
+    "duration": 2.935
+  },
+  {
+    "text": "and I can't tell you that.",
+    "start": 1901.88,
+    "duration": 2.2
+  },
+  {
+    "text": "Because what's happening,\nunfortunately, in my mind,",
+    "start": 1904.08,
+    "duration": 3.36
+  },
+  {
+    "text": "is also inseparable from the\npolitics that's been happening",
+    "start": 1907.44,
+    "duration": 3.03
+  },
+  {
+    "text": "in the background.",
+    "start": 1910.47,
+    "duration": 0.96
+  },
+  {
+    "text": "I wish that this\npandemic occurred",
+    "start": 1911.43,
+    "duration": 2.46
+  },
+  {
+    "text": "in a non-election year.",
+    "start": 1913.89,
+    "duration": 2.48
+  },
+  {
+    "text": "[INAUDIBLE] has been\ninteresting if you [INAUDIBLE]..",
+    "start": 1916.37,
+    "duration": 2.275
+  },
+  {
+    "text": "Because we wouldn't be\nsubjected to quite the level",
+    "start": 1918.645,
+    "duration": 3.915
+  },
+  {
+    "text": "of rhetoric-- on both\nsides, by the way--",
+    "start": 1922.56,
+    "duration": 3.05
+  },
+  {
+    "text": "who have used the\nspeculation, the uncertainty,",
+    "start": 1925.61,
+    "duration": 5.48
+  },
+  {
+    "text": "the concern for people's\nhealth as an argument, which",
+    "start": 1931.09,
+    "duration": 4.04
+  },
+  {
+    "text": "now leaves behind the\naftereffect of people",
+    "start": 1935.13,
+    "duration": 3.96
+  },
+  {
+    "text": "having hesitance.",
+    "start": 1939.09,
+    "duration": 1.414
+  },
+  {
+    "text": "i think we're hesitant about a\nlot of things in this country.",
+    "start": 1940.504,
+    "duration": 3.422
+  },
+  {
+    "text": "[INAUDIBLE] equality is\na very important one.",
+    "start": 1943.926,
+    "duration": 3.824
+  },
+  {
+    "text": "[INAUDIBLE] everything\nhas caused people",
+    "start": 1947.75,
+    "duration": 3.0
+  },
+  {
+    "text": "to really feel [INAUDIBLE] as\nthey are, the solutions that",
+    "start": 1950.75,
+    "duration": 5.44
+  },
+  {
+    "text": "are being brought forward.",
+    "start": 1956.19,
+    "duration": 1.81
+  },
+  {
+    "text": "So we're in a\nperiod of hesitancy,",
+    "start": 1958.0,
+    "duration": 2.26
+  },
+  {
+    "text": "and I think that the only\nthing that can guide us",
+    "start": 1960.26,
+    "duration": 2.325
+  },
+  {
+    "text": "is [INAUDIBLE],, exchange of\nideas, transparency of data.",
+    "start": 1962.585,
+    "duration": 5.685
+  },
+  {
+    "text": "And then people will start\n[INAUDIBLE] when they",
+    "start": 1968.27,
+    "duration": 2.69
+  },
+  {
+    "text": "feel the risk is worth taking.",
+    "start": 1970.96,
+    "duration": 3.68
+  },
+  {
+    "text": "JOSHUA MACHT: So\nhere's another one",
+    "start": 1974.64,
+    "duration": 1.62
+  },
+  {
+    "text": "that I feel like, from Alec,\nfrom [INAUDIBLE] Beach,",
+    "start": 1976.26,
+    "duration": 3.75
+  },
+  {
+    "text": "Florida, who asks,\n\"is Moderna working",
+    "start": 1980.01,
+    "duration": 4.08
+  },
+  {
+    "text": "with other\npharmaceutical companies,",
+    "start": 1984.09,
+    "duration": 1.62
+  },
+  {
+    "text": "or is this a race to the top?\"",
+    "start": 1985.71,
+    "duration": 1.71
+  },
+  {
+    "text": "And I like this question because\nI do think there is so much--",
+    "start": 1987.42,
+    "duration": 4.08
+  },
+  {
+    "text": "we hear a lot about partnering\nin very different ways,",
+    "start": 1991.5,
+    "duration": 4.14
+  },
+  {
+    "text": "in the pharmaceutical\nindustry-- sharing proprietary",
+    "start": 1995.64,
+    "duration": 2.49
+  },
+  {
+    "text": "information, ingredients,\ndifferent way--",
+    "start": 1998.13,
+    "duration": 2.16
+  },
+  {
+    "text": "I mean really extraordinary\ncollaboration.",
+    "start": 2000.29,
+    "duration": 3.96
+  },
+  {
+    "text": "So I'm curious to hear\nyou answer this question,",
+    "start": 2004.25,
+    "duration": 2.205
+  },
+  {
+    "text": "and also to think about,\nis the industry really",
+    "start": 2006.455,
+    "duration": 2.775
+  },
+  {
+    "text": "changing in a significant\nway, or is this just",
+    "start": 2009.23,
+    "duration": 3.06
+  },
+  {
+    "text": "a moment in time?",
+    "start": 2012.29,
+    "duration": 0.81
+  },
+  {
+    "text": "NOUBAR AFEYAN: I think the\npeople who are claiming",
+    "start": 2016.46,
+    "duration": 2.235
+  },
+  {
+    "text": "the industry's changing\nfundamentally--",
+    "start": 2018.695,
+    "duration": 1.625
+  },
+  {
+    "text": "however much I'd\nlike to believe that,",
+    "start": 2020.32,
+    "duration": 2.43
+  },
+  {
+    "text": "having been innovating in this\nspace for the last 33 years--",
+    "start": 2022.75,
+    "duration": 4.36
+  },
+  {
+    "text": "I think it's a little\nbit overstated.",
+    "start": 2027.11,
+    "duration": 4.37
+  },
+  {
+    "text": "Indeed, people have\nfound dance partners",
+    "start": 2031.48,
+    "duration": 2.97
+  },
+  {
+    "text": "because they were lacking\neither manufacturing capacity--",
+    "start": 2034.45,
+    "duration": 3.48
+  },
+  {
+    "text": "so you know, strange\nbedfellows were made out",
+    "start": 2037.93,
+    "duration": 2.31
+  },
+  {
+    "text": "of needing to collaborate,\nto manufacture together,",
+    "start": 2040.24,
+    "duration": 2.85
+  },
+  {
+    "text": "or distribution.",
+    "start": 2043.09,
+    "duration": 1.5
+  },
+  {
+    "text": "Or a lot of large\ncompanies basically",
+    "start": 2044.59,
+    "duration": 2.28
+  },
+  {
+    "text": "gobbled up small company\ninnovations in order",
+    "start": 2046.87,
+    "duration": 3.151
+  },
+  {
+    "text": "to develop [INAUDIBLE].",
+    "start": 2050.021,
+    "duration": 0.958
+  },
+  {
+    "text": "They didn't have anything\nin their own arsenal",
+    "start": 2050.979,
+    "duration": 2.49
+  },
+  {
+    "text": "to throw at this.",
+    "start": 2053.469,
+    "duration": 1.081
+  },
+  {
+    "text": "So there have been partnerships.",
+    "start": 2054.55,
+    "duration": 1.839
+  },
+  {
+    "text": "But I don't think they're--",
+    "start": 2056.389,
+    "duration": 1.801
+  },
+  {
+    "text": "If you simply\naccelerate time, there",
+    "start": 2058.19,
+    "duration": 2.693
+  },
+  {
+    "text": "are as many as would\nhave happened in a longer",
+    "start": 2060.883,
+    "duration": 1.917
+  },
+  {
+    "text": "period of time,\nbecause we would have",
+    "start": 2062.8,
+    "duration": 1.542
+  },
+  {
+    "text": "all thought we had that long\nto develop a vaccine otherwise.",
+    "start": 2064.342,
+    "duration": 2.658
+  },
+  {
+    "text": "I don't observe there to\nbe highly unnatural things",
+    "start": 2067.0,
+    "duration": 3.21
+  },
+  {
+    "text": "happening.",
+    "start": 2070.21,
+    "duration": 0.779
+  },
+  {
+    "text": "I will say that the NIH has\ndone a very good job of, where",
+    "start": 2070.989,
+    "duration": 4.891
+  },
+  {
+    "text": "appropriate, insisting\non harmonization",
+    "start": 2075.88,
+    "duration": 3.42
+  },
+  {
+    "text": "across trials using\nsimilar assays,",
+    "start": 2079.3,
+    "duration": 2.82
+  },
+  {
+    "text": "or the same assays, the same\nway of actually adjudicating",
+    "start": 2082.12,
+    "duration": 3.69
+  },
+  {
+    "text": "things, so that the\ntrials can be compared.",
+    "start": 2085.81,
+    "duration": 2.849
+  },
+  {
+    "text": "And most of the participants\nwho are developing vaccines",
+    "start": 2088.659,
+    "duration": 3.27
+  },
+  {
+    "text": "have participated in that.",
+    "start": 2091.929,
+    "duration": 2.29
+  },
+  {
+    "text": "As for Moderna, we have ended\nup having both the opportunity,",
+    "start": 2094.219,
+    "duration": 4.131
+  },
+  {
+    "text": "and the necessity\nto go it alone,",
+    "start": 2098.35,
+    "duration": 2.1
+  },
+  {
+    "text": "in the sense that we have\nnot partnered with a larger",
+    "start": 2100.45,
+    "duration": 2.49
+  },
+  {
+    "text": "pharmaceutical company.",
+    "start": 2102.94,
+    "duration": 1.08
+  },
+  {
+    "text": "Not out of an\nintent not to do so,",
+    "start": 2104.02,
+    "duration": 3.63
+  },
+  {
+    "text": "but the opportunity\ndidn't present itself.",
+    "start": 2107.65,
+    "duration": 1.79
+  },
+  {
+    "text": "We were, I think, too far along\nin our own efforts by the time",
+    "start": 2109.44,
+    "duration": 3.82
+  },
+  {
+    "text": "people started wanting to have\ntheir own vaccine developed.",
+    "start": 2113.26,
+    "duration": 3.6
+  },
+  {
+    "text": "But I'll tell you-- and\nthis may sound surprising--",
+    "start": 2116.86,
+    "duration": 3.06
+  },
+  {
+    "text": "ironically, there are several\nmessenger-RNA vaccines",
+    "start": 2119.92,
+    "duration": 3.99
+  },
+  {
+    "text": "that are being developed.",
+    "start": 2123.91,
+    "duration": 1.56
+  },
+  {
+    "text": "Pfizer's is one,\nthere's another one",
+    "start": 2125.47,
+    "duration": 2.37
+  },
+  {
+    "text": "being developed, by another\ngroup in Germany, called",
+    "start": 2127.84,
+    "duration": 2.83
+  },
+  {
+    "text": "CureVac, as well as at Sanofi.",
+    "start": 2130.67,
+    "duration": 2.81
+  },
+  {
+    "text": "Each of those are effectively\nsimilar technologies",
+    "start": 2133.48,
+    "duration": 4.38
+  },
+  {
+    "text": "to what Moderna\npioneered and spent",
+    "start": 2137.86,
+    "duration": 2.16
+  },
+  {
+    "text": "the last 10 years developing.",
+    "start": 2140.02,
+    "duration": 1.77
+  },
+  {
+    "text": "None of those have been in\nvaccine trials ever before.",
+    "start": 2141.79,
+    "duration": 3.77
+  },
+  {
+    "text": "So I would based at the\n10 trials of vaccines",
+    "start": 2145.56,
+    "duration": 3.49
+  },
+  {
+    "text": "that Moderna has already engaged\nin with the messenger-RNA",
+    "start": 2149.05,
+    "duration": 3.33
+  },
+  {
+    "text": "technology absolutely\nhelped those who jumped",
+    "start": 2152.38,
+    "duration": 4.18
+  },
+  {
+    "text": "onto this with a COVID vaccine.",
+    "start": 2156.56,
+    "duration": 2.63
+  },
+  {
+    "text": "And that's another way.",
+    "start": 2159.19,
+    "duration": 1.12
+  },
+  {
+    "text": "Sometimes people forget that\ncollaboration within our system",
+    "start": 2160.31,
+    "duration": 5.48
+  },
+  {
+    "text": "happens by publications,\nand by patents,",
+    "start": 2165.79,
+    "duration": 3.08
+  },
+  {
+    "text": "to teach others how it is\nyou're doing what you're doing.",
+    "start": 2168.87,
+    "duration": 3.6
+  },
+  {
+    "text": "Now in the pandemic period, we--",
+    "start": 2172.47,
+    "duration": 2.65
+  },
+  {
+    "text": "probably our most\ncollaborative step at Moderna",
+    "start": 2175.12,
+    "duration": 1.99
+  },
+  {
+    "text": "has been that we declared, two\nweeks ago, that we will not",
+    "start": 2177.11,
+    "duration": 3.41
+  },
+  {
+    "text": "seek to enforce\npatents that we have",
+    "start": 2180.52,
+    "duration": 2.4
+  },
+  {
+    "text": "across so many aspects of a\nCOVID messager-RNA vaccine,",
+    "start": 2182.92,
+    "duration": 4.02
+  },
+  {
+    "text": "because of the\nsituation we're in.",
+    "start": 2186.94,
+    "duration": 1.8
+  },
+  {
+    "text": "So we've said publicly\nthat we are not",
+    "start": 2188.74,
+    "duration": 2.67
+  },
+  {
+    "text": "seeking to enforce that.",
+    "start": 2191.41,
+    "duration": 1.02
+  },
+  {
+    "text": "And so others will be able to\nuse the technologies that we",
+    "start": 2192.43,
+    "duration": 2.95
+  },
+  {
+    "text": "have published on for many years\nto their vaccine development,",
+    "start": 2195.38,
+    "duration": 4.04
+  },
+  {
+    "text": "and that's another form\nof indirect collaboration.",
+    "start": 2199.42,
+    "duration": 3.1
+  },
+  {
+    "text": "JOSHUA MACHT: Interesting.",
+    "start": 2202.52,
+    "duration": 1.4
+  },
+  {
+    "text": "So I'm sorry to say\nwe are out of time.",
+    "start": 2203.92,
+    "duration": 2.26
+  },
+  {
+    "text": "I want to thank Noubar\nAfeyan for being",
+    "start": 2206.18,
+    "duration": 2.0
+  },
+  {
+    "text": "our guest at this critical\nmoment in his company's effort.",
+    "start": 2208.18,
+    "duration": 3.31
+  },
+  {
+    "text": "So thank you very much, Noubar,\nfor being our guest today.",
+    "start": 2211.49,
+    "duration": 2.49
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: Thank you.",
+    "start": 2213.98,
+    "duration": 1.167
+  },
+  {
+    "text": "NOUBAR AFEYAN: Thank you.",
+    "start": 2215.147,
+    "duration": 1.978
+  },
+  {
+    "text": "JOSHUA MACHT: And I want to\nthank our sponsor, Accenture.",
+    "start": 2217.125,
+    "duration": 2.375
+  },
+  {
+    "text": "I want to thank\nall of our viewers,",
+    "start": 2219.5,
+    "duration": 1.8
+  },
+  {
+    "text": "including the many\nwho posed questions.",
+    "start": 2221.3,
+    "duration": 1.72
+  },
+  {
+    "text": "I'm sorry we couldn't get\nto more of them today.",
+    "start": 2223.02,
+    "duration": 2.25
+  },
+  {
+    "text": "Please join us next week--",
+    "start": 2225.27,
+    "duration": 1.34
+  },
+  {
+    "text": "that is election\nday, in the US of A.",
+    "start": 2226.61,
+    "duration": 2.55
+  },
+  {
+    "text": "We will be talking about the\nvote and what's at stake.",
+    "start": 2229.16,
+    "duration": 2.59
+  },
+  {
+    "text": "So thanks for watching HBR Now.",
+    "start": 2231.75,
+    "duration": 2.251
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 2234.001,
+    "duration": 2.455
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah.",
+    "start": 2255.561,
+    "duration": 0.792
+  },
+  {
+    "text": "We're back.",
+    "start": 2256.353,
+    "duration": 1.017
+  },
+  {
+    "text": "[INAUDIBLE] Folks,\ndon't come running in",
+    "start": 2257.37,
+    "duration": 3.63
+  },
+  {
+    "text": "and tell me to turn\noff the computer.",
+    "start": 2261.0,
+    "duration": 1.78
+  },
+  {
+    "text": "We know we're back.",
+    "start": 2262.78,
+    "duration": 0.915
+  },
+  {
+    "text": "JOSHUA MACHT: Yeah we're back.",
+    "start": 2263.695,
+    "duration": 1.955
+  },
+  {
+    "text": "We definitely could ask Noubar\na zillion more questions.",
+    "start": 2265.65,
+    "duration": 3.42
+  },
+  {
+    "text": "ADI IGNATIUS: Well, so Noubar,\nlet's get back to this.",
+    "start": 2269.07,
+    "duration": 2.41
+  },
+  {
+    "text": "I mean, the potential for\ngoing from, as you said,",
+    "start": 2271.48,
+    "duration": 3.29
+  },
+  {
+    "text": "no products, pretty much no\nrevenue, no employees, to--",
+    "start": 2274.77,
+    "duration": 5.25
+  },
+  {
+    "text": "I don't know the\nnumbers-- billions?",
+    "start": 2280.02,
+    "duration": 2.1
+  },
+  {
+    "text": "Tens of billions in revenue?",
+    "start": 2282.12,
+    "duration": 2.13
+  },
+  {
+    "text": "You know, overnight,\npractically, how do you",
+    "start": 2284.25,
+    "duration": 4.41
+  },
+  {
+    "text": "ramp up for this possibility?",
+    "start": 2288.66,
+    "duration": 3.908
+  },
+  {
+    "text": "NOUBAR AFEYAN: Carefully?",
+    "start": 2292.568,
+    "duration": 1.042
+  },
+  {
+    "text": "I'm just kidding.",
+    "start": 2293.61,
+    "duration": 1.26
+  },
+  {
+    "text": "You know, look-- it's hard to\ndescribe what we are trying",
+    "start": 2294.87,
+    "duration": 9.2
+  },
+  {
+    "text": "to kind of learn how to do.",
+    "start": 2304.07,
+    "duration": 4.41
+  },
+  {
+    "text": "Look, the team-- I want to\ndescribe the team that we have",
+    "start": 2308.48,
+    "duration": 3.87
+  },
+  {
+    "text": "with Stefan Bancel and\nDavid Meline most recently",
+    "start": 2312.35,
+    "duration": 3.0
+  },
+  {
+    "text": "was the CFO of Amgen who's now\njoined us as CFO of Moderna.",
+    "start": 2315.35,
+    "duration": 3.9
+  },
+  {
+    "text": "The head of manufacturing,\nCMC, at Novartis,",
+    "start": 2319.25,
+    "duration": 3.23
+  },
+  {
+    "text": "is the head of\nmanufacturing at Moderna.",
+    "start": 2322.48,
+    "duration": 3.13
+  },
+  {
+    "text": "So the way we've\ngone about doing",
+    "start": 2325.61,
+    "duration": 1.68
+  },
+  {
+    "text": "this is that we've brought\non board people with 20,",
+    "start": 2327.29,
+    "duration": 2.71
+  },
+  {
+    "text": "30 years experience in\ntheir corresponding roles--",
+    "start": 2330.0,
+    "duration": 4.04
+  },
+  {
+    "text": "some early on, some\nvery recently--",
+    "start": 2334.04,
+    "duration": 2.25
+  },
+  {
+    "text": "in order to meet the\nchallenge of scaling up.",
+    "start": 2336.29,
+    "duration": 4.05
+  },
+  {
+    "text": "Unlike a traditional\nkind of product,",
+    "start": 2340.34,
+    "duration": 2.34
+  },
+  {
+    "text": "where we have to actually\ndo the detailing,",
+    "start": 2342.68,
+    "duration": 3.06
+  },
+  {
+    "text": "and take television ads,\nand create [INAUDIBLE],,",
+    "start": 2345.74,
+    "duration": 3.24
+  },
+  {
+    "text": "this is one where, because the\nintermediary is government,",
+    "start": 2348.98,
+    "duration": 3.45
+  },
+  {
+    "text": "we think it's a little\nbit easier to do this.",
+    "start": 2352.43,
+    "duration": 3.16
+  },
+  {
+    "text": "And look-- we have obviously\nagreed upon some supply",
+    "start": 2355.59,
+    "duration": 5.75
+  },
+  {
+    "text": "contracts that we need\nto fulfill with the US",
+    "start": 2361.34,
+    "duration": 2.1
+  },
+  {
+    "text": "government--",
+    "start": 2363.44,
+    "duration": 1.56
+  },
+  {
+    "text": "increasingly, with some\nforeign governments as well.",
+    "start": 2365.0,
+    "duration": 3.16
+  },
+  {
+    "text": "And that will occupy--",
+    "start": 2368.16,
+    "duration": 1.34
+  },
+  {
+    "text": "or let's say, preoccupy us--",
+    "start": 2369.5,
+    "duration": 1.92
+  },
+  {
+    "text": "for the next six to nine months.",
+    "start": 2371.42,
+    "duration": 2.433
+  },
+  {
+    "text": "Going into the second\nhalf of next year,",
+    "start": 2373.853,
+    "duration": 1.667
+  },
+  {
+    "text": "I think there will be\nmore supply available.",
+    "start": 2375.52,
+    "duration": 2.85
+  },
+  {
+    "text": "And then it might become more\nof a kind of competitive, also",
+    "start": 2378.37,
+    "duration": 4.09
+  },
+  {
+    "text": "private sector kind of oriented\nactivity, as opposed to only to",
+    "start": 2382.46,
+    "duration": 4.05
+  },
+  {
+    "text": "governments.",
+    "start": 2386.51,
+    "duration": 0.99
+  },
+  {
+    "text": "And so we'll see.",
+    "start": 2387.5,
+    "duration": 1.47
+  },
+  {
+    "text": "We're hoping.",
+    "start": 2388.97,
+    "duration": 1.4
+  },
+  {
+    "text": "One of the things, by the way,\nI should have responded, Josh,",
+    "start": 2390.37,
+    "duration": 3.82
+  },
+  {
+    "text": "to your question, which\nI would omitted to do so,",
+    "start": 2394.19,
+    "duration": 3.62
+  },
+  {
+    "text": "is this notion of a race.",
+    "start": 2397.81,
+    "duration": 1.36
+  },
+  {
+    "text": "I mean we, from day one-- if you\nlook at everything we've said--",
+    "start": 2399.17,
+    "duration": 3.69
+  },
+  {
+    "text": "we, from day one,\nhave said, we need",
+    "start": 2402.86,
+    "duration": 2.13
+  },
+  {
+    "text": "to think of what we're\ndoing as basically",
+    "start": 2404.99,
+    "duration": 2.34
+  },
+  {
+    "text": "being within our own swim lane.",
+    "start": 2407.33,
+    "duration": 2.19
+  },
+  {
+    "text": "We are basically racing\nagainst the virus.",
+    "start": 2409.52,
+    "duration": 3.45
+  },
+  {
+    "text": "We are not racing\nagainst other people.",
+    "start": 2412.97,
+    "duration": 2.1
+  },
+  {
+    "text": "And however kind\nof nice business",
+    "start": 2415.07,
+    "duration": 2.34
+  },
+  {
+    "text": "that might seem to people,\nwe really, really are not.",
+    "start": 2417.41,
+    "duration": 4.55
+  },
+  {
+    "text": "So that's really\ngood because somebody",
+    "start": 2421.96,
+    "duration": 1.99
+  },
+  {
+    "text": "who finishes earlier\nthan later by a bit",
+    "start": 2423.95,
+    "duration": 4.11
+  },
+  {
+    "text": "isn't going to have\nany more sales.",
+    "start": 2428.06,
+    "duration": 2.11
+  },
+  {
+    "text": "This is not a market-based\ndemand equation.",
+    "start": 2430.17,
+    "duration": 3.74
+  },
+  {
+    "text": "This is basically the\ngovernment having pre-ordered,",
+    "start": 2433.91,
+    "duration": 3.0
+  },
+  {
+    "text": "and having the ability to order\neven more, from all of us.",
+    "start": 2436.91,
+    "duration": 3.52
+  },
+  {
+    "text": "So I think that getting\nit wrong is so much more",
+    "start": 2440.43,
+    "duration": 3.95
+  },
+  {
+    "text": "hurtful than getting it\nright a little bit sooner.",
+    "start": 2444.38,
+    "duration": 2.73
+  },
+  {
+    "text": "But for all the talk about\nrace, race, race, look--",
+    "start": 2447.11,
+    "duration": 3.27
+  },
+  {
+    "text": "I think this is a\nmedia-related thing.",
+    "start": 2450.38,
+    "duration": 2.46
+  },
+  {
+    "text": "This is a sensationalist thing.",
+    "start": 2452.84,
+    "duration": 2.04
+  },
+  {
+    "text": "It is not.",
+    "start": 2454.88,
+    "duration": 1.17
+  },
+  {
+    "text": "We are moving as fast as we can\nreasonably go, but no faster.",
+    "start": 2456.05,
+    "duration": 6.3
+  },
+  {
+    "text": "And we are within\nour-- so that's why,",
+    "start": 2462.35,
+    "duration": 2.31
+  },
+  {
+    "text": "just think about it--",
+    "start": 2464.66,
+    "duration": 0.958
+  },
+  {
+    "text": "we announced, as I\nmentioned earlier,",
+    "start": 2465.618,
+    "duration": 1.542
+  },
+  {
+    "text": "we're slowing down our trials\nin order to add diversity to it.",
+    "start": 2467.16,
+    "duration": 3.83
+  },
+  {
+    "text": "If we were racing to the finish\nline-- nobody made us do it.",
+    "start": 2470.99,
+    "duration": 4.15
+  },
+  {
+    "text": "We have made further\nannouncements",
+    "start": 2475.14,
+    "duration": 1.82
+  },
+  {
+    "text": "along the way that clearly\ncaused us to go slower",
+    "start": 2476.96,
+    "duration": 3.6
+  },
+  {
+    "text": "than we could have.",
+    "start": 2480.56,
+    "duration": 1.41
+  },
+  {
+    "text": "And even now, we're not trying\nto hit a particular date,",
+    "start": 2481.97,
+    "duration": 4.65
+  },
+  {
+    "text": "because we just want to make\nsure that the data's credible.",
+    "start": 2486.62,
+    "duration": 3.22
+  },
+  {
+    "text": "So those are the things\nthat we've been doing.",
+    "start": 2489.84,
+    "duration": 2.92
+  },
+  {
+    "text": "But as to revenue\ngrowth, et cetera,",
+    "start": 2492.76,
+    "duration": 2.54
+  },
+  {
+    "text": "we're going to have to--",
+    "start": 2495.3,
+    "duration": 2.27
+  },
+  {
+    "text": "I'm sure it can have been\ndone better by others,",
+    "start": 2497.57,
+    "duration": 3.96
+  },
+  {
+    "text": "would be my answer\nto your question.",
+    "start": 2501.53,
+    "duration": 1.95
+  },
+  {
+    "text": "I'm sure we will not do it well.",
+    "start": 2503.48,
+    "duration": 2.05
+  },
+  {
+    "text": "And the good news is, if\nwe have societal impact",
+    "start": 2505.53,
+    "duration": 3.53
+  },
+  {
+    "text": "and our shareholders\nare rewarded,",
+    "start": 2509.06,
+    "duration": 1.71
+  },
+  {
+    "text": "they'll never know\nhow much money",
+    "start": 2510.77,
+    "duration": 1.56
+  },
+  {
+    "text": "would have been rewarded if we\nwere even more effective at it.",
+    "start": 2512.33,
+    "duration": 3.39
+  },
+  {
+    "text": "Because that control\nexperiment, unlike our placebo,",
+    "start": 2515.72,
+    "duration": 3.12
+  },
+  {
+    "text": "will not be run.",
+    "start": 2518.84,
+    "duration": 2.12
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: So Noubar,\none of the audience questions",
+    "start": 2520.96,
+    "duration": 4.63
+  },
+  {
+    "text": "we'd received was lives from\nChristian, in Las Vegas--",
+    "start": 2525.59,
+    "duration": 3.6
+  },
+  {
+    "text": "he's an eighth grader.",
+    "start": 2529.19,
+    "duration": 1.69
+  },
+  {
+    "text": "And hear that, \"if it takes\nso long to create one vaccine,",
+    "start": 2530.88,
+    "duration": 4.37
+  },
+  {
+    "text": "how will you\naccount for mutation",
+    "start": 2535.25,
+    "duration": 3.06
+  },
+  {
+    "text": "that would require a new one?\"",
+    "start": 2538.31,
+    "duration": 1.5
+  },
+  {
+    "text": "Basically, are you ready\nto do this all over again?",
+    "start": 2539.81,
+    "duration": 1.215
+  },
+  {
+    "text": "NOUBAR AFEYAN: That's\na good question.",
+    "start": 2541.025,
+    "duration": 1.583
+  },
+  {
+    "text": "It's a very good question,\nand it has, actually, a couple",
+    "start": 2542.608,
+    "duration": 2.572
+  },
+  {
+    "text": "of different answers to it.",
+    "start": 2545.18,
+    "duration": 1.9
+  },
+  {
+    "text": "One is that for\nChristian to know",
+    "start": 2547.08,
+    "duration": 2.27
+  },
+  {
+    "text": "that a mutation in\none part of a virus",
+    "start": 2549.35,
+    "duration": 3.0
+  },
+  {
+    "text": "is not the same as a\nmutation in another.",
+    "start": 2552.35,
+    "duration": 2.4
+  },
+  {
+    "text": "That is, that there\ncould be mutations",
+    "start": 2554.75,
+    "duration": 3.22
+  },
+  {
+    "text": "that do not escape the\nimmune system's visibility",
+    "start": 2557.97,
+    "duration": 4.54
+  },
+  {
+    "text": "because it will be somewhere\nother than the spike protein.",
+    "start": 2562.51,
+    "duration": 2.447
+  },
+  {
+    "text": "And then there's mutations that\ncould be in the spike protein.",
+    "start": 2564.957,
+    "duration": 2.583
+  },
+  {
+    "text": "So first think that the entire\nvirus can be mutating, as",
+    "start": 2567.54,
+    "duration": 4.46
+  },
+  {
+    "text": "long as the spike protein, or\nthe parts of the spike protein",
+    "start": 2572.0,
+    "duration": 2.94
+  },
+  {
+    "text": "that we're using to\ncause an immune response,",
+    "start": 2574.94,
+    "duration": 2.57
+  },
+  {
+    "text": "it will not affect it.",
+    "start": 2577.51,
+    "duration": 0.97
+  },
+  {
+    "text": "That's point one.",
+    "start": 2578.48,
+    "duration": 1.08
+  },
+  {
+    "text": "Point two, there's\nreasons to believe",
+    "start": 2579.56,
+    "duration": 1.83
+  },
+  {
+    "text": "that the spike protein's\nability to mutate",
+    "start": 2581.39,
+    "duration": 2.52
+  },
+  {
+    "text": "is a bit tamed by\njust how important it",
+    "start": 2583.91,
+    "duration": 2.82
+  },
+  {
+    "text": "is to that virus\ndoing what it's doing.",
+    "start": 2586.73,
+    "duration": 2.46
+  },
+  {
+    "text": "Because when you\nthink about mutations,",
+    "start": 2589.19,
+    "duration": 2.156
+  },
+  {
+    "text": "mutations that help\nyou, if you're a virus--",
+    "start": 2591.346,
+    "duration": 3.114
+  },
+  {
+    "text": "become more\nineffective, or become",
+    "start": 2594.46,
+    "duration": 2.48
+  },
+  {
+    "text": "able to reproduce\nmore, et cetera--",
+    "start": 2596.94,
+    "duration": 2.34
+  },
+  {
+    "text": "those are the ones that survive\nselection and evolution.",
+    "start": 2599.28,
+    "duration": 3.75
+  },
+  {
+    "text": "The ones that hurt you in your\nability to get [INAUDIBLE]",
+    "start": 2603.03,
+    "duration": 3.27
+  },
+  {
+    "text": "are basically lost to evolution.",
+    "start": 2606.3,
+    "duration": 2.68
+  },
+  {
+    "text": "So you're looking for things--",
+    "start": 2608.98,
+    "duration": 1.83
+  },
+  {
+    "text": "so a lot of mutations will not\ngive the virus an advantage.",
+    "start": 2610.81,
+    "duration": 4.67
+  },
+  {
+    "text": "So therefore, the spike protein\nhas been, actually, relatively,",
+    "start": 2615.48,
+    "duration": 3.96
+  },
+  {
+    "text": "not the place where people\nhave seen a lot of mutation.",
+    "start": 2619.44,
+    "duration": 2.58
+  },
+  {
+    "text": "And then finally, yes--",
+    "start": 2622.02,
+    "duration": 1.47
+  },
+  {
+    "text": "our platform, quite\nunlike any other platform,",
+    "start": 2623.49,
+    "duration": 3.3
+  },
+  {
+    "text": "it's an integral part of RNA.",
+    "start": 2626.79,
+    "duration": 2.13
+  },
+  {
+    "text": "We could develop from scratch,\nanother vaccine, at least",
+    "start": 2628.92,
+    "duration": 5.64
+  },
+  {
+    "text": "as smart as we've done this\none, and probably much faster.",
+    "start": 2634.56,
+    "duration": 3.12
+  },
+  {
+    "text": "Because we wouldn't have\nto do the manufacturing",
+    "start": 2637.68,
+    "duration": 2.81
+  },
+  {
+    "text": "set-up, and the scale-up,\nand the qualification",
+    "start": 2640.49,
+    "duration": 2.59
+  },
+  {
+    "text": "runs, because we've\ndone all those.",
+    "start": 2643.08,
+    "duration": 1.56
+  },
+  {
+    "text": "So our changing the sequence,\nand then showing it's safe,",
+    "start": 2644.64,
+    "duration": 3.81
+  },
+  {
+    "text": "and trying on a\nfew hundred people,",
+    "start": 2648.45,
+    "duration": 1.76
+  },
+  {
+    "text": "is probably a few months of work\nat most, compared to the years,",
+    "start": 2650.21,
+    "duration": 4.3
+  },
+  {
+    "text": "and years it would take with\nprotein vaccines or attenuated,",
+    "start": 2654.51,
+    "duration": 4.38
+  },
+  {
+    "text": "killed virus vaccines,\nor DNA vaccines.",
+    "start": 2658.89,
+    "duration": 2.73
+  },
+  {
+    "text": "And these are much, much\nslower technologies.",
+    "start": 2661.62,
+    "duration": 3.65
+  },
+  {
+    "text": "ADI IGNATIUS: So before\nwe let Noubar go,",
+    "start": 2665.27,
+    "duration": 1.93
+  },
+  {
+    "text": "I kind of want to play\nthe Armenian card.",
+    "start": 2667.2,
+    "duration": 3.05
+  },
+  {
+    "text": "Noubar, you are an\nArmenian-American,",
+    "start": 2670.25,
+    "duration": 3.22
+  },
+  {
+    "text": "I'm half Armenian.",
+    "start": 2673.47,
+    "duration": 1.5
+  },
+  {
+    "text": "I love a quote that you said--",
+    "start": 2674.97,
+    "duration": 1.35
+  },
+  {
+    "text": "\"Armenians have one\nthing in common--",
+    "start": 2676.32,
+    "duration": 1.63
+  },
+  {
+    "text": "we're super survivors.\"",
+    "start": 2677.95,
+    "duration": 1.77
+  },
+  {
+    "text": "So I know that the hottest\nhotspot in the world today",
+    "start": 2679.72,
+    "duration": 5.09
+  },
+  {
+    "text": "might be Nagornao-Karabakh.",
+    "start": 2684.81,
+    "duration": 1.79
+  },
+  {
+    "text": "And you know, I won't\ngo into all the details",
+    "start": 2686.6,
+    "duration": 2.5
+  },
+  {
+    "text": "of what that is, and who's\nfighting whom, but you know,",
+    "start": 2689.1,
+    "duration": 3.07
+  },
+  {
+    "text": "I know you wrote a piece--",
+    "start": 2692.17,
+    "duration": 3.04
+  },
+  {
+    "text": "or you contributed\nto the New York Times",
+    "start": 2695.21,
+    "duration": 1.84
+  },
+  {
+    "text": "recently on the topic,\nand you follow it closely.",
+    "start": 2697.05,
+    "duration": 3.12
+  },
+  {
+    "text": "Do you have a sense of\nthe way out of that really",
+    "start": 2700.17,
+    "duration": 3.33
+  },
+  {
+    "text": "brutal crisis?",
+    "start": 2703.5,
+    "duration": 2.1
+  },
+  {
+    "text": "NOUBAR AFEYAN: Well thanks\nAdi for mentioning it.",
+    "start": 2705.6,
+    "duration": 2.65
+  },
+  {
+    "text": "It is the case that,\ngoing into 2020,",
+    "start": 2708.25,
+    "duration": 3.82
+  },
+  {
+    "text": "I never thought\nthat we'd be working",
+    "start": 2712.07,
+    "duration": 1.95
+  },
+  {
+    "text": "on a pandemic that's\nafflicting people and killing",
+    "start": 2714.02,
+    "duration": 3.3
+  },
+  {
+    "text": "lots of people.",
+    "start": 2717.32,
+    "duration": 1.1
+  },
+  {
+    "text": "And that's bad enough,\nincluding, in my case,",
+    "start": 2718.42,
+    "duration": 2.83
+  },
+  {
+    "text": "most of my family.",
+    "start": 2721.25,
+    "duration": 1.62
+  },
+  {
+    "text": "But to think that in\nthis 2020 time frame,",
+    "start": 2722.87,
+    "duration": 6.3
+  },
+  {
+    "text": "governments could decide, in\nthat region, to wage war--",
+    "start": 2729.17,
+    "duration": 4.25
+  },
+  {
+    "text": "to take advantage of the world's\ninattention and distraction",
+    "start": 2733.42,
+    "duration": 3.68
+  },
+  {
+    "text": "to COVID in the middle\nof the pandemic--",
+    "start": 2737.1,
+    "duration": 2.3
+  },
+  {
+    "text": "in the middle of the\npandemic afflicting",
+    "start": 2739.4,
+    "duration": 1.83
+  },
+  {
+    "text": "the population of the places\nthat have subjected to war",
+    "start": 2741.23,
+    "duration": 4.14
+  },
+  {
+    "text": "is unimaginable.",
+    "start": 2745.37,
+    "duration": 1.2
+  },
+  {
+    "text": "And yes, Armenians happen\nto be in an unfortunate",
+    "start": 2746.57,
+    "duration": 3.45
+  },
+  {
+    "text": "part of geography.",
+    "start": 2750.02,
+    "duration": 1.93
+  },
+  {
+    "text": "We were there a\nlong, long time ago,",
+    "start": 2751.95,
+    "duration": 2.31
+  },
+  {
+    "text": "so we didn't choose\nthe neighbors.",
+    "start": 2754.26,
+    "duration": 2.33
+  },
+  {
+    "text": "But it has been a\nhostile environment.",
+    "start": 2756.59,
+    "duration": 2.16
+  },
+  {
+    "text": "And you know, I am well\nbeyond my capabilities",
+    "start": 2758.75,
+    "duration": 5.67
+  },
+  {
+    "text": "to imagine a solution\nthat can be brought",
+    "start": 2764.42,
+    "duration": 3.12
+  },
+  {
+    "text": "about if people don't\nhave the tolerance that",
+    "start": 2767.54,
+    "duration": 4.08
+  },
+  {
+    "text": "is needed to coexist.",
+    "start": 2771.62,
+    "duration": 2.55
+  },
+  {
+    "text": "It is the case--",
+    "start": 2774.17,
+    "duration": 0.71
+  },
+  {
+    "text": "Adi, as you know, since you're\npart of that broad community--",
+    "start": 2774.88,
+    "duration": 3.83
+  },
+  {
+    "text": "that there are Armenians\nall around the world.",
+    "start": 2778.71,
+    "duration": 2.18
+  },
+  {
+    "text": "There's some 10 million of them.",
+    "start": 2780.89,
+    "duration": 1.38
+  },
+  {
+    "text": "Only 3 million live in\nArmenia, in [INAUDIBLE],,",
+    "start": 2782.27,
+    "duration": 3.752
+  },
+  {
+    "text": "the enclave that is the\nsubject of this current war.",
+    "start": 2786.022,
+    "duration": 4.978
+  },
+  {
+    "text": "And we've found a way to\nsurvive historical episodes,",
+    "start": 2791.0,
+    "duration": 4.89
+  },
+  {
+    "text": "including the genocide\nsome 100 years ago.",
+    "start": 2795.89,
+    "duration": 2.4
+  },
+  {
+    "text": "And to be living\nin the modern time,",
+    "start": 2798.29,
+    "duration": 2.76
+  },
+  {
+    "text": "working on these\nkinds of problems,",
+    "start": 2801.05,
+    "duration": 1.92
+  },
+  {
+    "text": "and seeing\ncompatriots, and people",
+    "start": 2802.97,
+    "duration": 2.32
+  },
+  {
+    "text": "that I know quite well being\nsent off to fight and die",
+    "start": 2805.29,
+    "duration": 3.8
+  },
+  {
+    "text": "with inanimate objects--",
+    "start": 2809.09,
+    "duration": 1.98
+  },
+  {
+    "text": "drones, missiles, airplanes--\nkind of off-matched 100 to one,",
+    "start": 2811.07,
+    "duration": 5.26
+  },
+  {
+    "text": "is heartbreaking.",
+    "start": 2816.33,
+    "duration": 2.26
+  },
+  {
+    "text": "And you know, maybe\nit'll increase my resolve",
+    "start": 2818.59,
+    "duration": 2.83
+  },
+  {
+    "text": "to do good where I can do good.",
+    "start": 2821.42,
+    "duration": 2.37
+  },
+  {
+    "text": "But it really has been an\nincredibly painful situation.",
+    "start": 2823.79,
+    "duration": 5.74
+  },
+  {
+    "text": "JOSHUA MACHT: So touching\nback to Moderna for a second.",
+    "start": 2829.53,
+    "duration": 3.62
+  },
+  {
+    "text": "Because you did mention\nwhat you thought--",
+    "start": 2833.15,
+    "duration": 2.27
+  },
+  {
+    "text": "you didn't think\nthis would be 2020.",
+    "start": 2835.42,
+    "duration": 2.5
+  },
+  {
+    "text": "I'm curious, because\nwith any young company,",
+    "start": 2837.92,
+    "duration": 2.61
+  },
+  {
+    "text": "nothing kind of happens the\nway founders necessarily",
+    "start": 2840.53,
+    "duration": 3.69
+  },
+  {
+    "text": "think it will unfold.",
+    "start": 2844.22,
+    "duration": 1.89
+  },
+  {
+    "text": "What was 2020-- what was\nthe game plan for Moderna?",
+    "start": 2846.11,
+    "duration": 3.56
+  },
+  {
+    "text": "What did you think\nwould be happening now?",
+    "start": 2849.67,
+    "duration": 1.75
+  },
+  {
+    "text": "NOUBAR AFEYAN: That's\na good question.",
+    "start": 2851.42,
+    "duration": 1.583
+  },
+  {
+    "text": "In fact, anybody who really\nwants to see it live,",
+    "start": 2853.003,
+    "duration": 3.427
+  },
+  {
+    "text": "you may know that in\nthe health care field",
+    "start": 2856.43,
+    "duration": 2.01
+  },
+  {
+    "text": "there's an annual conference\nthat JP Morgan puts on",
+    "start": 2858.44,
+    "duration": 2.28
+  },
+  {
+    "text": "in January.",
+    "start": 2860.72,
+    "duration": 0.88
+  },
+  {
+    "text": "It's been a mainstay.",
+    "start": 2861.6,
+    "duration": 0.875
+  },
+  {
+    "text": "I've been to it for some 30\nsequential years, presented",
+    "start": 2862.475,
+    "duration": 3.735
+  },
+  {
+    "text": "many times.",
+    "start": 2866.21,
+    "duration": 0.88
+  },
+  {
+    "text": "[INAUDIBLE] public companies.",
+    "start": 2867.09,
+    "duration": 2.0
+  },
+  {
+    "text": "And at that conference every\nyear, including this year,",
+    "start": 2869.09,
+    "duration": 3.51
+  },
+  {
+    "text": "Moderna presented its\noutlook, and its plans",
+    "start": 2872.6,
+    "duration": 2.82
+  },
+  {
+    "text": "for the year, which is online\nand it's worth watching.",
+    "start": 2875.42,
+    "duration": 4.08
+  },
+  {
+    "text": "We had some 15\nclinical programs.",
+    "start": 2879.5,
+    "duration": 3.75
+  },
+  {
+    "text": "The most advanced one we\nexpected to get through phase",
+    "start": 2883.25,
+    "duration": 2.7
+  },
+  {
+    "text": "two trials, which is in another\nvaccine for cytomegalovirus--",
+    "start": 2885.95,
+    "duration": 3.62
+  },
+  {
+    "text": "a huge, unmet need,\nmedically that there",
+    "start": 2889.57,
+    "duration": 4.12
+  },
+  {
+    "text": "is no vaccine for today.",
+    "start": 2893.69,
+    "duration": 1.12
+  },
+  {
+    "text": "And we have a very positive,\nkind of early results on.",
+    "start": 2894.81,
+    "duration": 3.5
+  },
+  {
+    "text": "And so that program, coupled\nwith a couple of other things",
+    "start": 2898.31,
+    "duration": 3.02
+  },
+  {
+    "text": "in the cardiovascular space.",
+    "start": 2901.33,
+    "duration": 1.33
+  },
+  {
+    "text": "Our partnership\nwith AstraZeneca,",
+    "start": 2902.66,
+    "duration": 1.92
+  },
+  {
+    "text": "where we're testing that\nVEGF mRNA for VEGF in most",
+    "start": 2904.58,
+    "duration": 5.26
+  },
+  {
+    "text": "[INAUDIBLE] conditions.",
+    "start": 2909.84,
+    "duration": 1.17
+  },
+  {
+    "text": "So we have several programs\nthat were advancing--",
+    "start": 2911.01,
+    "duration": 2.57
+  },
+  {
+    "text": "would advance in\n2020 through 2021--",
+    "start": 2913.58,
+    "duration": 3.27
+  },
+  {
+    "text": "for us to be poised to have\nour own products coming out",
+    "start": 2916.85,
+    "duration": 4.26
+  },
+  {
+    "text": "of clinical trials\nby 2022, beginning",
+    "start": 2921.11,
+    "duration": 3.18
+  },
+  {
+    "text": "to start the commercial\ntransition in 2022, 2023.",
+    "start": 2924.29,
+    "duration": 4.8
+  },
+  {
+    "text": "That's now moved\nup by three years--",
+    "start": 2929.09,
+    "duration": 2.25
+  },
+  {
+    "text": "two-and-a-half, three years--\nand we went from having",
+    "start": 2931.34,
+    "duration": 3.99
+  },
+  {
+    "text": "messenger-RNA in\n1,000, 2,000 people,",
+    "start": 2935.33,
+    "duration": 3.62
+  },
+  {
+    "text": "to now well over 30,000 people.",
+    "start": 2938.95,
+    "duration": 3.25
+  },
+  {
+    "text": "That's expanded\nour exposure base.",
+    "start": 2942.2,
+    "duration": 1.68
+  },
+  {
+    "text": "So a lot of things happened\nthat we're building on,",
+    "start": 2943.88,
+    "duration": 4.65
+  },
+  {
+    "text": "but certainly challenging\nto the natural course.",
+    "start": 2948.53,
+    "duration": 3.7
+  },
+  {
+    "text": "And look-- I could\nnot be more proud.",
+    "start": 2952.23,
+    "duration": 2.03
+  },
+  {
+    "text": "I cannot say this\nenough, from the team--",
+    "start": 2954.26,
+    "duration": 2.26
+  },
+  {
+    "text": "the leadership in particular,\nthe CEO Stefan Bancel,",
+    "start": 2956.52,
+    "duration": 3.44
+  },
+  {
+    "text": "who was doing a\nheroic job leading",
+    "start": 2959.96,
+    "duration": 3.02
+  },
+  {
+    "text": "this company for the\nlast nine years-- and HBS",
+    "start": 2962.98,
+    "duration": 2.39
+  },
+  {
+    "text": "grad, by the way.",
+    "start": 2965.37,
+    "duration": 2.12
+  },
+  {
+    "text": "And now is doing whatever\na heroic job would",
+    "start": 2967.49,
+    "duration": 3.48
+  },
+  {
+    "text": "have been to a\nnon-heroic job, he's",
+    "start": 2970.97,
+    "duration": 1.74
+  },
+  {
+    "text": "been doing to a heroic job in\nthe middle of this pandemic.",
+    "start": 2972.71,
+    "duration": 2.93
+  },
+  {
+    "text": "As have his colleagues\nthat I mentioned earlier.",
+    "start": 2975.64,
+    "duration": 2.918
+  },
+  {
+    "text": "And you know, that's the\nbest thing you could do.",
+    "start": 2978.558,
+    "duration": 2.042
+  },
+  {
+    "text": "When people say, people are\nthe most important thing",
+    "start": 2980.6,
+    "duration": 2.97
+  },
+  {
+    "text": "in these journeys, in\nthis kind of storm people",
+    "start": 2983.57,
+    "duration": 5.34
+  },
+  {
+    "text": "have yet a different\nlevel of importance.",
+    "start": 2988.91,
+    "duration": 2.155
+  },
+  {
+    "text": "JOSHUA MACHT: Wow.",
+    "start": 2991.065,
+    "duration": 0.885
+  },
+  {
+    "text": "Amazing.",
+    "start": 2991.95,
+    "duration": 1.47
+  },
+  {
+    "text": "All right.",
+    "start": 2993.42,
+    "duration": 0.5
+  },
+  {
+    "text": "Well we have taken a lot\nof your time, Noubar,",
+    "start": 2993.92,
+    "duration": 4.09
+  },
+  {
+    "text": "and we really appreciate it.",
+    "start": 2998.01,
+    "duration": 1.23
+  },
+  {
+    "text": "This is-- what an amazing\njourney you're on,",
+    "start": 2999.24,
+    "duration": 3.27
+  },
+  {
+    "text": "and thank you for\ngiving us your time.",
+    "start": 3002.51,
+    "duration": 1.79
+  },
+  {
+    "text": "Really great discussion.",
+    "start": 3004.3,
+    "duration": 1.0
+  },
+  {
+    "text": "Thanks, everybody,\nfor a great show.",
+    "start": 3005.3,
+    "duration": 1.57
+  },
+  {
+    "text": "INTERVIEWER: Thank you all.",
+    "start": 3006.87,
+    "duration": 1.49
+  },
+  {
+    "text": "Thank you very much.",
+    "start": 3008.36,
+    "duration": 1.87
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 3010.23,
+    "duration": 2.75
+  }
+]

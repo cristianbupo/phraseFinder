@@ -1,0 +1,282 @@
+[
+  {
+    "text": "So I've been asked periodically for a couple\nof decades whether I think artificial intelligence",
+    "start": 0.41,
+    "duration": 5.099
+  },
+  {
+    "text": "is possible.",
+    "start": 5.509,
+    "duration": 2.931
+  },
+  {
+    "text": "And I taught the artificial intelligence course\nat Columbia University.",
+    "start": 8.44,
+    "duration": 3.479
+  },
+  {
+    "text": "I've always been fascinated by the concept\nof intelligence.",
+    "start": 11.919,
+    "duration": 2.54
+  },
+  {
+    "text": "It's a subjective word.",
+    "start": 14.459,
+    "duration": 1.951
+  },
+  {
+    "text": "I've always been very skeptical.",
+    "start": 16.41,
+    "duration": 3.189
+  },
+  {
+    "text": "And I am only now newly a believer.",
+    "start": 19.599,
+    "duration": 4.26
+  },
+  {
+    "text": "Now this is subjective.",
+    "start": 23.859,
+    "duration": 1.361
+  },
+  {
+    "text": "This is sort of an aesthetic thing but my\nopinion is that IBM's Watson computer is able",
+    "start": 25.22,
+    "duration": 6.44
+  },
+  {
+    "text": "to answer questions, in my subjective view,\nthat qualifies as intelligence.",
+    "start": 31.66,
+    "duration": 5.8
+  },
+  {
+    "text": "I spent six years in graduate school working\non two things.",
+    "start": 37.46,
+    "duration": 4.439
+  },
+  {
+    "text": "One is machine learning and that's the core\nto prediction -- learning from data how to",
+    "start": 41.899,
+    "duration": 3.68
+  },
+  {
+    "text": "predict.",
+    "start": 45.579,
+    "duration": 1.0
+  },
+  {
+    "text": "That's also known as predictive modeling.",
+    "start": 46.579,
+    "duration": 1.98
+  },
+  {
+    "text": "And the other is natural language processing\nor computational linguistics.",
+    "start": 48.559,
+    "duration": 4.52
+  },
+  {
+    "text": "Working with human language because that really\nties into the way we think and what we're",
+    "start": 53.079,
+    "duration": 4.171
+  },
+  {
+    "text": "capable of doing and does turn out to be extremely\nhard for computers to do.",
+    "start": 57.25,
+    "duration": 7.91
+  },
+  {
+    "text": "Now playing the TV quiz show Jeopardy means\nyour answering questions -- quiz show questions.",
+    "start": 65.16,
+    "duration": 7.55
+  },
+  {
+    "text": "The questions on that game show are really\ncomplex grammatically.",
+    "start": 72.71,
+    "duration": 6.45
+  },
+  {
+    "text": "And it turns out that in order to answer them\nWatson looks at huge amounts of text, for",
+    "start": 79.16,
+    "duration": 5.97
+  },
+  {
+    "text": "example, a snapshot of all the English speaking\nWikipedia articles.",
+    "start": 85.13,
+    "duration": 4.12
+  },
+  {
+    "text": "And it has to process text not only to look\nat the question it's trying to answer but",
+    "start": 89.25,
+    "duration": 4.82
+  },
+  {
+    "text": "to retrieve the answers themselves.",
+    "start": 94.07,
+    "duration": 3.83
+  },
+  {
+    "text": "Now at the core of this it turns out it's\nusing predictive modeling.",
+    "start": 97.9,
+    "duration": 2.95
+  },
+  {
+    "text": "Now it's not predicting the future but it's\npredicting the answer to the question, you",
+    "start": 100.85,
+    "duration": 3.66
+  },
+  {
+    "text": "know.",
+    "start": 104.51,
+    "duration": 1.0
+  },
+  {
+    "text": "It's the same in that it's inferring an unknown\neven though someone else may already know",
+    "start": 105.51,
+    "duration": 4.7
+  },
+  {
+    "text": "the answer so there's no sort of future thing.",
+    "start": 110.21,
+    "duration": 2.77
+  },
+  {
+    "text": "But will this turn out to be the answer to\nthe question.",
+    "start": 112.98,
+    "duration": 2.67
+  },
+  {
+    "text": "The core technology is the same.",
+    "start": 115.65,
+    "duration": 2.34
+  },
+  {
+    "text": "In both cases it's learning from examples.",
+    "start": 117.99,
+    "duration": 1.79
+  },
+  {
+    "text": "In the case of Watson playing the TV show\nJeopardy it takes hundreds of thousands of",
+    "start": 119.78,
+    "duration": 5.26
+  },
+  {
+    "text": "previous Jeopardy questions from the TV show\nhaving gone on for decades and learns from",
+    "start": 125.04,
+    "duration": 5.81
+  },
+  {
+    "text": "them.",
+    "start": 130.85,
+    "duration": 1.0
+  },
+  {
+    "text": "And what it's learning to do is predict is\nthis candidate answer to this question likely",
+    "start": 131.85,
+    "duration": 4.85
+  },
+  {
+    "text": "to be the correct answer.",
+    "start": 136.7,
+    "duration": 1.79
+  },
+  {
+    "text": "So it's gonna come up with a whole bunch of\ncandidate answers, hundreds of candidate answers,",
+    "start": 138.49,
+    "duration": 4.57
+  },
+  {
+    "text": "for the one question at hand at any given\npoint in time.",
+    "start": 143.06,
+    "duration": 3.67
+  },
+  {
+    "text": "And then amongst all these candidate answers\nit's going to score each one.",
+    "start": 146.73,
+    "duration": 5.02
+  },
+  {
+    "text": "How likely is it to be the right answer.",
+    "start": 151.75,
+    "duration": 1.75
+  },
+  {
+    "text": "And, of course, the one that gets the highest\nscore as the highest vote of confidence -- that's",
+    "start": 153.5,
+    "duration": 4.46
+  },
+  {
+    "text": "ultimately the one answer it's gonna give.",
+    "start": 157.96,
+    "duration": 2.92
+  },
+  {
+    "text": "It's correct, I believe, about 90 or 92 percent\nof the time that it actually buzzes in to",
+    "start": 160.88,
+    "duration": 7.22
+  },
+  {
+    "text": "intentionally answer the question.",
+    "start": 168.1,
+    "duration": 2.31
+  },
+  {
+    "text": "You can go on YouTube and you can watch the\nepisode where they aired the, you know, the",
+    "start": 170.41,
+    "duration": 5.97
+  },
+  {
+    "text": "competition between the IBM's computer Watson\nand the all time two human champions of Jeopardy.",
+    "start": 176.38,
+    "duration": 7.64
+  },
+  {
+    "text": "And it just rattles off one answer after another.",
+    "start": 184.02,
+    "duration": 2.84
+  },
+  {
+    "text": "And it doesn't matter how many years you've\nbeen looking at -- in fact, maybe the more",
+    "start": 186.86,
+    "duration": 4.94
+  },
+  {
+    "text": "years you've studied the ability or inability\nof computers to work with human language,",
+    "start": 191.8,
+    "duration": 4.94
+  },
+  {
+    "text": "the more impressive it is.",
+    "start": 196.74,
+    "duration": 1.47
+  },
+  {
+    "text": "It's just rattling one answer after another.",
+    "start": 198.21,
+    "duration": 2.17
+  },
+  {
+    "text": "I never thought that in my lifetime I would\nhave cause to experience that the way I did",
+    "start": 200.38,
+    "duration": 7.4
+  },
+  {
+    "text": "which was, \"Wow, that's anthropomorphic.",
+    "start": 207.78,
+    "duration": 3.83
+  },
+  {
+    "text": "This computer seems like a person in that\nvery specific skill set.",
+    "start": 211.61,
+    "duration": 4.43
+  },
+  {
+    "text": "That's incredible.",
+    "start": 216.04,
+    "duration": 1.97
+  },
+  {
+    "text": "I'm gonna call that intelligent.\"",
+    "start": 218.01,
+    "duration": 1.27
+  }
+]

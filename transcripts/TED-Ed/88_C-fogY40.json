@@ -1,0 +1,402 @@
+[
+  {
+    "text": "If you line up the entire text \nof “Moby Dick,”",
+    "start": 6.329,
+    "duration": 3.209
+  },
+  {
+    "text": "which was published in 1851,",
+    "start": 9.538,
+    "duration": 2.416
+  },
+  {
+    "text": "into a giant rectangle,",
+    "start": 11.954,
+    "duration": 1.834
+  },
+  {
+    "text": "you may notice some peculiar patterns:",
+    "start": 13.788,
+    "duration": 2.666
+  },
+  {
+    "text": "like these words,",
+    "start": 16.454,
+    "duration": 1.375
+  },
+  {
+    "text": "which seem to predict the assassination\nof Martin Luther King.",
+    "start": 17.829,
+    "duration": 4.0
+  },
+  {
+    "text": "Or these references \nto the 1997 death of Princess Di.",
+    "start": 22.538,
+    "duration": 4.375
+  },
+  {
+    "text": "So, was Herman Melville a secret prophet?",
+    "start": 27.288,
+    "duration": 3.458
+  },
+  {
+    "text": "The answer is no,",
+    "start": 31.663,
+    "duration": 1.333
+  },
+  {
+    "text": "and we know that thanks to a mathematical\nprinciple called Ramsey theory.",
+    "start": 32.996,
+    "duration": 4.375
+  },
+  {
+    "text": "It's the reason we can find geometric\nshapes in the night sky,",
+    "start": 37.662,
+    "duration": 3.667
+  },
+  {
+    "text": "it's why we can know without checking",
+    "start": 41.329,
+    "duration": 2.042
+  },
+  {
+    "text": "that at least two people in London",
+    "start": 43.371,
+    "duration": 2.0
+  },
+  {
+    "text": "have exactly the same number \nof hairs on their head,",
+    "start": 45.371,
+    "duration": 3.708
+  },
+  {
+    "text": "and it explains why patterns can be found\nin just about any text...",
+    "start": 49.371,
+    "duration": 4.708
+  },
+  {
+    "text": "even Vanilla Ice lyrics.",
+    "start": 54.079,
+    "duration": 1.833
+  },
+  {
+    "text": "So what is Ramsey theory?",
+    "start": 56.412,
+    "duration": 1.917
+  },
+  {
+    "text": "Simply put, it states that given enough\nelements in a set or structure,",
+    "start": 58.704,
+    "duration": 4.708
+  },
+  {
+    "text": "some particular interesting pattern\namong them is guaranteed to emerge.",
+    "start": 63.412,
+    "duration": 5.167
+  },
+  {
+    "text": "As a simple example, let’s look \nat what’s called the Party Problem—",
+    "start": 69.413,
+    "duration": 3.416
+  },
+  {
+    "text": "a classic illustration of Ramsey theory.",
+    "start": 72.829,
+    "duration": 2.5
+  },
+  {
+    "text": "Suppose there are at least six people\nat a party.",
+    "start": 75.663,
+    "duration": 3.166
+  },
+  {
+    "text": "Amazingly enough, we can say for sure",
+    "start": 78.829,
+    "duration": 2.584
+  },
+  {
+    "text": "that some group of three of them\neither all know each other,",
+    "start": 81.413,
+    "duration": 3.958
+  },
+  {
+    "text": "or have never met before,",
+    "start": 85.371,
+    "duration": 1.625
+  },
+  {
+    "text": "without knowing a single thing about them.",
+    "start": 86.996,
+    "duration": 2.583
+  },
+  {
+    "text": "We can demonstrate that by graphing\nout all the possibilities.",
+    "start": 89.788,
+    "duration": 3.958
+  },
+  {
+    "text": "Each point represents a person,",
+    "start": 93.746,
+    "duration": 2.0
+  },
+  {
+    "text": "and a line indicates \nthat the pair know each other.",
+    "start": 95.746,
+    "duration": 2.708
+  },
+  {
+    "text": "Every pair only has two possibilities:\nthey either know each other or they don't.",
+    "start": 98.704,
+    "duration": 4.834
+  },
+  {
+    "text": "There are a lot of possibilities,",
+    "start": 103.746,
+    "duration": 2.333
+  },
+  {
+    "text": "but every single one has the property \nthat we're looking for.",
+    "start": 106.079,
+    "duration": 3.292
+  },
+  {
+    "text": "Six is the lowest number of guests\nwhere that's guaranteed to be the case,",
+    "start": 109.371,
+    "duration": 4.792
+  },
+  {
+    "text": "which we can express like this.",
+    "start": 114.163,
+    "duration": 2.166
+  },
+  {
+    "text": "Ramsey theory gives us a guarantee",
+    "start": 116.913,
+    "duration": 2.25
+  },
+  {
+    "text": "that such a minimum number exists\nfor certain patterns,",
+    "start": 119.163,
+    "duration": 3.791
+  },
+  {
+    "text": "but no easy way to find it.",
+    "start": 122.954,
+    "duration": 1.834
+  },
+  {
+    "text": "In this case, as the total number\nof guests grows higher,",
+    "start": 125.079,
+    "duration": 3.375
+  },
+  {
+    "text": "the combinations get out of control.",
+    "start": 128.454,
+    "duration": 2.375
+  },
+  {
+    "text": "For instance, say you're trying\nto find out the minimum size of a party",
+    "start": 131.163,
+    "duration": 3.875
+  },
+  {
+    "text": "where there's a group of five people\nwho all know each other or all don't.",
+    "start": 135.038,
+    "duration": 4.166
+  },
+  {
+    "text": "Despite five being a small number,",
+    "start": 139.621,
+    "duration": 2.083
+  },
+  {
+    "text": "the answer is virtually \nimpossible to discover",
+    "start": 141.704,
+    "duration": 2.834
+  },
+  {
+    "text": "through an exhaustive search like this.",
+    "start": 144.538,
+    "duration": 2.25
+  },
+  {
+    "text": "That's because of the sheer \nvolume of possibilities.",
+    "start": 147.079,
+    "duration": 3.125
+  },
+  {
+    "text": "A party with 48 guests",
+    "start": 150.496,
+    "duration": 1.917
+  },
+  {
+    "text": "has 2^(1128) possible configurations,",
+    "start": 152.413,
+    "duration": 6.166
+  },
+  {
+    "text": "more than the number of atoms \nin the universe.",
+    "start": 158.579,
+    "duration": 2.542
+  },
+  {
+    "text": "Even with the help of computers,",
+    "start": 161.371,
+    "duration": 1.875
+  },
+  {
+    "text": "the best we know is that the answer\nto this question",
+    "start": 163.246,
+    "duration": 2.833
+  },
+  {
+    "text": "is somewhere between 43 and 49 guests.",
+    "start": 166.079,
+    "duration": 4.125
+  },
+  {
+    "text": "What this shows us \nis that specific patterns",
+    "start": 170.579,
+    "duration": 2.5
+  },
+  {
+    "text": "with seemingly astronomical odds",
+    "start": 173.079,
+    "duration": 2.459
+  },
+  {
+    "text": "can emerge from a relatively small set.",
+    "start": 175.538,
+    "duration": 2.666
+  },
+  {
+    "text": "And with a very large set,\nthe possibilities are almost endless.",
+    "start": 178.454,
+    "duration": 4.209
+  },
+  {
+    "text": "Any four stars where no three \nlie in a straight line",
+    "start": 182.954,
+    "duration": 3.459
+  },
+  {
+    "text": "will form some quadrilateral shape.",
+    "start": 186.413,
+    "duration": 2.416
+  },
+  {
+    "text": "Expand that to the thousands \nof stars we can see in the sky,",
+    "start": 189.246,
+    "duration": 3.417
+  },
+  {
+    "text": "and it's no surprise that we can\nfind all sorts of familiar shapes,",
+    "start": 192.663,
+    "duration": 3.625
+  },
+  {
+    "text": "and even creatures if we look for them.",
+    "start": 196.288,
+    "duration": 2.291
+  },
+  {
+    "text": "So what are the chances of a text\nconcealing a prophecy?",
+    "start": 198.913,
+    "duration": 3.708
+  },
+  {
+    "text": "Well, when you factor\nin  the number of letters,",
+    "start": 202.871,
+    "duration": 2.625
+  },
+  {
+    "text": "the variety of possible related words,",
+    "start": 205.496,
+    "duration": 2.875
+  },
+  {
+    "text": "and all their abbreviations \nand alternate spellings,",
+    "start": 208.371,
+    "duration": 3.417
+  },
+  {
+    "text": "they're pretty high.",
+    "start": 211.788,
+    "duration": 1.333
+  },
+  {
+    "text": "You can try it yourself.",
+    "start": 213.538,
+    "duration": 1.25
+  },
+  {
+    "text": "Just pick a favorite text,",
+    "start": 214.788,
+    "duration": 1.541
+  },
+  {
+    "text": "arrange the letters in a grid,",
+    "start": 216.329,
+    "duration": 1.625
+  },
+  {
+    "text": "and see what you can find.",
+    "start": 217.954,
+    "duration": 1.542
+  },
+  {
+    "text": "The mathematician T.S. Motzkin \nonce remarked that,",
+    "start": 220.288,
+    "duration": 3.166
+  },
+  {
+    "text": "“while disorder is more probable \nin general,",
+    "start": 223.454,
+    "duration": 2.834
+  },
+  {
+    "text": "complete disorder is impossible.\"",
+    "start": 226.288,
+    "duration": 2.5
+  },
+  {
+    "text": "The sheer size of the universe guarantees\nthat some of its random elements",
+    "start": 229.246,
+    "duration": 4.542
+  },
+  {
+    "text": "will fall into specific arrangements,",
+    "start": 233.788,
+    "duration": 2.791
+  },
+  {
+    "text": "and because we evolved to notice patterns\nand pick out signals among the noise,",
+    "start": 236.704,
+    "duration": 5.125
+  },
+  {
+    "text": "we are often tempted to find intentional\nmeaning where there may not be any.",
+    "start": 241.829,
+    "duration": 4.667
+  },
+  {
+    "text": "So while we may be awed by hidden messages\nin everything from books,",
+    "start": 247.204,
+    "duration": 4.167
+  },
+  {
+    "text": "to pieces of toast,",
+    "start": 251.371,
+    "duration": 1.458
+  },
+  {
+    "text": "to the night sky,",
+    "start": 252.829,
+    "duration": 1.25
+  },
+  {
+    "text": "their real origin \nis usually our own minds.",
+    "start": 254.079,
+    "duration": 4.209
+  }
+]

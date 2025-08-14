@@ -1,0 +1,267 @@
+[
+  {
+    "text": "Meet Lucy.",
+    "start": 6.81,
+    "duration": 1.19
+  },
+  {
+    "text": "She was a math major in college,",
+    "start": 8.0,
+    "duration": 1.98
+  },
+  {
+    "text": "and aced all her courses in probability \nand statistics.",
+    "start": 9.98,
+    "duration": 4.13
+  },
+  {
+    "text": "Which do you think is more likely: that \nLucy is a portrait artist,",
+    "start": 14.11,
+    "duration": 4.352
+  },
+  {
+    "text": "or that Lucy is a portrait artist \nwho also plays poker?",
+    "start": 18.462,
+    "duration": 5.028
+  },
+  {
+    "text": "In studies of similar questions, up to 80 \npercent of participants",
+    "start": 23.49,
+    "duration": 4.016
+  },
+  {
+    "text": "chose the equivalent \nof the second statement:",
+    "start": 27.506,
+    "duration": 2.504
+  },
+  {
+    "text": "that Lucy is a portrait artist \nwho also plays poker.",
+    "start": 30.01,
+    "duration": 3.636
+  },
+  {
+    "text": "After all, nothing we know about Lucy \nsuggests an affinity for art,",
+    "start": 33.646,
+    "duration": 4.722
+  },
+  {
+    "text": "but statistics and probability \nare useful in poker.",
+    "start": 38.368,
+    "duration": 3.812
+  },
+  {
+    "text": "And yet, this is the wrong answer.",
+    "start": 42.18,
+    "duration": 2.558
+  },
+  {
+    "text": "Look at the options again.",
+    "start": 44.738,
+    "duration": 1.79
+  },
+  {
+    "text": "How do we know the first statement \nis more likely to be true?",
+    "start": 46.528,
+    "duration": 3.74
+  },
+  {
+    "text": "Because it’s a less specific version \nof the second statement.",
+    "start": 50.268,
+    "duration": 4.18
+  },
+  {
+    "text": "Saying that Lucy is a portrait artist \ndoesn’t make any claims",
+    "start": 54.448,
+    "duration": 3.67
+  },
+  {
+    "text": "about what else she might or might not do.",
+    "start": 58.118,
+    "duration": 3.5
+  },
+  {
+    "text": "But even though it’s far easier to imagine\nher playing poker than making art",
+    "start": 61.618,
+    "duration": 4.89
+  },
+  {
+    "text": "based on the background information,",
+    "start": 66.508,
+    "duration": 1.88
+  },
+  {
+    "text": "the second statement is only true if she \ndoes both of these things.",
+    "start": 68.388,
+    "duration": 4.685
+  },
+  {
+    "text": "However counterintuitive it seems \nto imagine Lucy as an artist,",
+    "start": 73.073,
+    "duration": 4.201
+  },
+  {
+    "text": "the second scenario adds another condition\non top of that, making it less likely.",
+    "start": 77.274,
+    "duration": 5.953
+  },
+  {
+    "text": "For any possible set of events, the \nlikelihood of A occurring",
+    "start": 83.227,
+    "duration": 4.529
+  },
+  {
+    "text": "will always be greater than the likelihood\nof A and B both occurring.",
+    "start": 87.756,
+    "duration": 5.722
+  },
+  {
+    "text": "If we took a random sample of a million \npeople who majored in math,",
+    "start": 93.478,
+    "duration": 3.89
+  },
+  {
+    "text": "the subset who are portrait artists might \nbe relatively small.",
+    "start": 97.368,
+    "duration": 4.152
+  },
+  {
+    "text": "But it will necessarily be bigger",
+    "start": 101.52,
+    "duration": 2.21
+  },
+  {
+    "text": "than the subset who are portrait artists \nand play poker.",
+    "start": 103.73,
+    "duration": 3.66
+  },
+  {
+    "text": "Anyone who belongs to the second group \nwill also belong to the first–",
+    "start": 107.39,
+    "duration": 3.61
+  },
+  {
+    "text": "but not vice versa.",
+    "start": 111.0,
+    "duration": 1.49
+  },
+  {
+    "text": "The more conditions there are, \nthe less likely an event becomes.",
+    "start": 112.49,
+    "duration": 5.11
+  },
+  {
+    "text": "So why do statements with more conditions\nsometimes seem more believable?",
+    "start": 117.6,
+    "duration": 4.619
+  },
+  {
+    "text": "This is a phenomenon known as \nthe conjunction fallacy.",
+    "start": 122.219,
+    "duration": 3.32
+  },
+  {
+    "text": "When we’re asked to make quick decisions, \nwe tend to look for shortcuts.",
+    "start": 125.539,
+    "duration": 3.8
+  },
+  {
+    "text": "In this case, we look for what seems \nplausible",
+    "start": 129.339,
+    "duration": 3.12
+  },
+  {
+    "text": "rather than what is statistically \nmost probable.",
+    "start": 132.459,
+    "duration": 3.01
+  },
+  {
+    "text": "On its own, Lucy being an artist doesn’t \nmatch the expectations",
+    "start": 135.469,
+    "duration": 4.431
+  },
+  {
+    "text": "formed by the preceding information.",
+    "start": 139.9,
+    "duration": 2.17
+  },
+  {
+    "text": "The additional detail about \nher playing poker",
+    "start": 142.07,
+    "duration": 2.74
+  },
+  {
+    "text": "gives us a narrative that resonates \nwith our intuitions—",
+    "start": 144.81,
+    "duration": 3.36
+  },
+  {
+    "text": "it makes it seem more plausible.",
+    "start": 148.17,
+    "duration": 2.17
+  },
+  {
+    "text": "And we choose the option that seems more\nrepresentative of the overall picture,",
+    "start": 150.34,
+    "duration": 4.341
+  },
+  {
+    "text": "regardless of its actual probability.",
+    "start": 154.681,
+    "duration": 2.95
+  },
+  {
+    "text": "This effect has been observed \nacross multiple studies,",
+    "start": 157.631,
+    "duration": 3.59
+  },
+  {
+    "text": "including ones with participants \nwho understood statistics well–",
+    "start": 161.221,
+    "duration": 3.68
+  },
+  {
+    "text": "from students betting on \nsequences of dice rolls,",
+    "start": 164.901,
+    "duration": 2.714
+  },
+  {
+    "text": "to foreign policy experts predicting \nthe likelihood of a diplomatic crisis.",
+    "start": 167.615,
+    "duration": 5.603
+  },
+  {
+    "text": "The conjunction fallacy isn’t just a \nproblem in hypothetical situations.",
+    "start": 173.218,
+    "duration": 4.338
+  },
+  {
+    "text": "Conspiracy theories and false news stories",
+    "start": 177.556,
+    "duration": 3.13
+  },
+  {
+    "text": "often rely on a version of the conjunction\nfallacy to seem credible–",
+    "start": 180.686,
+    "duration": 4.588
+  },
+  {
+    "text": "the more resonant details are added \nto an outlandish story,",
+    "start": 185.274,
+    "duration": 3.63
+  },
+  {
+    "text": "the more plausible it begins to seem.",
+    "start": 188.904,
+    "duration": 2.85
+  },
+  {
+    "text": "But ultimately, the likelihood \na story is true",
+    "start": 191.754,
+    "duration": 2.89
+  },
+  {
+    "text": "can never be greater than the probability \nthat its least likely component is true.",
+    "start": 194.644,
+    "duration": 5.15
+  }
+]

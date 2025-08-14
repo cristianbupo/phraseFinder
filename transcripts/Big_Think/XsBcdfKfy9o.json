@@ -1,0 +1,907 @@
+[
+  {
+    "text": "- We live in a society that\nwe learn to admire geniuses:",
+    "start": 4.324,
+    "duration": 3.476
+  },
+  {
+    "text": "We write about them.",
+    "start": 7.8,
+    "duration": 1.74
+  },
+  {
+    "text": "We read about them.",
+    "start": 9.54,
+    "duration": 1.08
+  },
+  {
+    "text": "We watch movies about them.",
+    "start": 10.62,
+    "duration": 1.86
+  },
+  {
+    "text": "And in general, the genius label sells.",
+    "start": 12.48,
+    "duration": 3.3
+  },
+  {
+    "text": "Typically, everyone whom\nwe label today \"genius\"",
+    "start": 15.78,
+    "duration": 3.18
+  },
+  {
+    "text": "has accomplished something remarkable",
+    "start": 18.96,
+    "duration": 2.82
+  },
+  {
+    "text": "by really standing out\nfrom among their peers",
+    "start": 21.78,
+    "duration": 3.18
+  },
+  {
+    "text": "in a way that really grabs our attention.",
+    "start": 24.96,
+    "duration": 3.3
+  },
+  {
+    "text": "They include scientists like Einstein,",
+    "start": 28.26,
+    "duration": 3.3
+  },
+  {
+    "text": "musicians and composers\nlike Beethoven and Mozart.",
+    "start": 31.56,
+    "duration": 4.68
+  },
+  {
+    "text": "But genius is something more-",
+    "start": 36.24,
+    "duration": 2.46
+  },
+  {
+    "text": "it's a story.",
+    "start": 38.7,
+    "duration": 1.56
+  },
+  {
+    "text": "We remember the people",
+    "start": 40.26,
+    "duration": 1.98
+  },
+  {
+    "text": "who happened to be at the\nright time at the right place,",
+    "start": 42.24,
+    "duration": 3.18
+  },
+  {
+    "text": "and hence, there was a way",
+    "start": 45.42,
+    "duration": 2.16
+  },
+  {
+    "text": "of recording their accomplishments.",
+    "start": 47.58,
+    "duration": 2.28
+  },
+  {
+    "text": "There are an exceptional\nnumber of hidden geniuses",
+    "start": 49.86,
+    "duration": 4.2
+  },
+  {
+    "text": "who either have not been at\nall recorded for posterity,",
+    "start": 54.06,
+    "duration": 4.32
+  },
+  {
+    "text": "or we know about their accomplishments,",
+    "start": 58.38,
+    "duration": 2.94
+  },
+  {
+    "text": "but we don't know enough\nfor them to enter the canon.",
+    "start": 61.32,
+    "duration": 2.64
+  },
+  {
+    "text": "Could we actually use data to predict",
+    "start": 63.96,
+    "duration": 3.84
+  },
+  {
+    "text": "who among the scientists\nwill actually be a genius?",
+    "start": 67.8,
+    "duration": 3.06
+  },
+  {
+    "text": "That's where network science comes in.",
+    "start": 70.86,
+    "duration": 2.58
+  },
+  {
+    "text": "So we are curious:",
+    "start": 78.12,
+    "duration": 2.46
+  },
+  {
+    "text": "What really determines the genius label?",
+    "start": 81.24,
+    "duration": 2.58
+  },
+  {
+    "text": "And when we compared all geniuses",
+    "start": 83.82,
+    "duration": 3.12
+  },
+  {
+    "text": "to their scientific peers,",
+    "start": 86.94,
+    "duration": 1.62
+  },
+  {
+    "text": "we realized that there are really two",
+    "start": 88.56,
+    "duration": 2.16
+  },
+  {
+    "text": "very different classes:",
+    "start": 90.72,
+    "duration": 1.32
+  },
+  {
+    "text": "Ordinary genius and peerless genius.",
+    "start": 92.04,
+    "duration": 3.0
+  },
+  {
+    "text": "For example, Einstein,",
+    "start": 95.04,
+    "duration": 1.56
+  },
+  {
+    "text": "who turns out to be a\ntruly peerless genius.",
+    "start": 96.6,
+    "duration": 2.88
+  },
+  {
+    "text": "When we looked at the scientist\nworking at the same time",
+    "start": 99.48,
+    "duration": 3.9
+  },
+  {
+    "text": "or roughly in the same areas\nof physics that he did,",
+    "start": 103.38,
+    "duration": 2.88
+  },
+  {
+    "text": "there was no one who would\nhave a comparable productivity",
+    "start": 106.26,
+    "duration": 3.84
+  },
+  {
+    "text": "or scientific impact to him.",
+    "start": 110.1,
+    "duration": 2.46
+  },
+  {
+    "text": "He was truly alone.",
+    "start": 112.56,
+    "duration": 2.1
+  },
+  {
+    "text": "When we looked at Stephen Hawking,",
+    "start": 114.66,
+    "duration": 2.22
+  },
+  {
+    "text": "we label him ordinary genius.",
+    "start": 116.88,
+    "duration": 2.22
+  },
+  {
+    "text": "To our surprise,",
+    "start": 119.1,
+    "duration": 1.98
+  },
+  {
+    "text": "we realized there were\nabout six other scientists",
+    "start": 121.08,
+    "duration": 3.24
+  },
+  {
+    "text": "who work roughly the same area,",
+    "start": 124.32,
+    "duration": 2.22
+  },
+  {
+    "text": "and had comparable, often bigger impact",
+    "start": 126.54,
+    "duration": 3.6
+  },
+  {
+    "text": "than Stephen Hawking had.",
+    "start": 130.14,
+    "duration": 1.26
+  },
+  {
+    "text": "Among them, actually, a woman\nscientist, Renata Kallosh.",
+    "start": 131.4,
+    "duration": 3.48
+  },
+  {
+    "text": "And it turned out,",
+    "start": 134.88,
+    "duration": 0.96
+  },
+  {
+    "text": "that there was absolutely\nno news about her anywhere.",
+    "start": 135.84,
+    "duration": 3.36
+  },
+  {
+    "text": "The only article that we\nfind that mentions her",
+    "start": 139.2,
+    "duration": 3.06
+  },
+  {
+    "text": "was in the context of her husband.",
+    "start": 142.26,
+    "duration": 1.86
+  },
+  {
+    "text": "That raises the question:",
+    "start": 144.12,
+    "duration": 1.86
+  },
+  {
+    "text": "Why is it Hawking the\ngenius, and not Renata?",
+    "start": 145.98,
+    "duration": 3.72
+  },
+  {
+    "text": "How does really the genius label emerge?",
+    "start": 149.7,
+    "duration": 2.82
+  },
+  {
+    "text": "It turns out, that the number of languages",
+    "start": 152.52,
+    "duration": 2.76
+  },
+  {
+    "text": "to which a person's Wikipedia\npage has been translated",
+    "start": 155.28,
+    "duration": 4.02
+  },
+  {
+    "text": "was the strongest predictor\nof the genius label.",
+    "start": 159.3,
+    "duration": 3.84
+  },
+  {
+    "text": "We learned that the genius\nlabel is a construct",
+    "start": 163.14,
+    "duration": 3.78
+  },
+  {
+    "text": "that the society assigns to\nexceptional accomplishment,",
+    "start": 166.92,
+    "duration": 3.54
+  },
+  {
+    "text": "but exceptional accomplishment\nis not sufficient",
+    "start": 170.46,
+    "duration": 3.48
+  },
+  {
+    "text": "to get the genius label-",
+    "start": 173.94,
+    "duration": 1.2
+  },
+  {
+    "text": "we always need something more.",
+    "start": 175.14,
+    "duration": 2.46
+  },
+  {
+    "text": "You need to be born at the right time.",
+    "start": 177.6,
+    "duration": 1.98
+  },
+  {
+    "text": "You need to be in the right circumstances.",
+    "start": 179.58,
+    "duration": 2.46
+  },
+  {
+    "text": "Throughout history, remarkable\nindividuals were always born",
+    "start": 182.04,
+    "duration": 4.8
+  },
+  {
+    "text": "in the vicinity of big cultural centers.",
+    "start": 186.84,
+    "duration": 2.88
+  },
+  {
+    "text": "And everything that is outside\nof the cultural centers",
+    "start": 189.72,
+    "duration": 3.18
+  },
+  {
+    "text": "was typically a desert of\nexceptional accomplishments.",
+    "start": 192.9,
+    "duration": 3.84
+  },
+  {
+    "text": "We have a very strong\nculture bias towards genius:",
+    "start": 197.28,
+    "duration": 4.14
+  },
+  {
+    "text": "typically associated with\nthe vast term \"canon,\"",
+    "start": 201.42,
+    "duration": 2.94
+  },
+  {
+    "text": "and hence, we're losing many,",
+    "start": 204.36,
+    "duration": 2.52
+  },
+  {
+    "text": "many exceptional accomplishments",
+    "start": 206.88,
+    "duration": 2.16
+  },
+  {
+    "text": "because none of these individuals\nare really born in vacuum;",
+    "start": 209.04,
+    "duration": 3.36
+  },
+  {
+    "text": "they're inspired by some\nand influence others.",
+    "start": 212.4,
+    "duration": 3.42
+  },
+  {
+    "text": "And by unveiling these connections,",
+    "start": 215.82,
+    "duration": 2.82
+  },
+  {
+    "text": "you are digging deeper and deeper",
+    "start": 218.64,
+    "duration": 2.1
+  },
+  {
+    "text": "into the cultural\naccomplishments of the society,",
+    "start": 220.74,
+    "duration": 2.7
+  },
+  {
+    "text": "and start discovering\nthese hidden geniuses.",
+    "start": 223.44,
+    "duration": 3.24
+  },
+  {
+    "text": "It doesn't require much\npattern recognition to realize",
+    "start": 227.82,
+    "duration": 3.54
+  },
+  {
+    "text": "that I'm past 50,",
+    "start": 231.36,
+    "duration": 1.14
+  },
+  {
+    "text": "which made me always wonder,",
+    "start": 232.5,
+    "duration": 1.68
+  },
+  {
+    "text": "\"Do I still have ahead of me\nmajor scientific discoveries?\"",
+    "start": 234.18,
+    "duration": 4.2
+  },
+  {
+    "text": "To paraphrase Einstein,",
+    "start": 238.38,
+    "duration": 2.1
+  },
+  {
+    "text": "\"A person who has never made a\nmajor contribution to science",
+    "start": 240.48,
+    "duration": 3.84
+  },
+  {
+    "text": "by the age of 30 will never do so.\"",
+    "start": 244.32,
+    "duration": 2.94
+  },
+  {
+    "text": "That led to a conception in science",
+    "start": 247.26,
+    "duration": 3.12
+  },
+  {
+    "text": "that you have to be young to be creative.",
+    "start": 250.38,
+    "duration": 2.22
+  },
+  {
+    "text": "So we were curious, \"Is this\nreally true for geniuses,",
+    "start": 252.6,
+    "duration": 4.32
+  },
+  {
+    "text": "or it is also true for\nordinary scientists?\"",
+    "start": 256.92,
+    "duration": 2.58
+  },
+  {
+    "text": "We ended up analyzing\nall scientists out there,",
+    "start": 259.5,
+    "duration": 3.24
+  },
+  {
+    "text": "and asking when did\nordinary scientists make",
+    "start": 262.74,
+    "duration": 3.06
+  },
+  {
+    "text": "his or her biggest discovery?",
+    "start": 265.8,
+    "duration": 1.62
+  },
+  {
+    "text": "Was it early in their career or late?",
+    "start": 267.42,
+    "duration": 1.98
+  },
+  {
+    "text": "And to our surprise,",
+    "start": 269.4,
+    "duration": 1.62
+  },
+  {
+    "text": "the data indicated that indeed it's true.",
+    "start": 271.02,
+    "duration": 2.34
+  },
+  {
+    "text": "Most scientists make\ntheir biggest discovery",
+    "start": 273.36,
+    "duration": 2.76
+  },
+  {
+    "text": "in the first 15 years of their career.",
+    "start": 276.12,
+    "duration": 2.46
+  },
+  {
+    "text": "And then after 30 years, the chance of:",
+    "start": 278.58,
+    "duration": 3.06
+  },
+  {
+    "text": "\"I would make a discovery\nthat would be bigger",
+    "start": 281.64,
+    "duration": 2.94
+  },
+  {
+    "text": "than what I did in my thirties,\"",
+    "start": 284.58,
+    "duration": 1.38
+  },
+  {
+    "text": "would be less than 1%.",
+    "start": 285.96,
+    "duration": 1.02
+  },
+  {
+    "text": "When we dig deeper into data,",
+    "start": 287.76,
+    "duration": 1.74
+  },
+  {
+    "text": "we realize that we also have\nto consider productivity.",
+    "start": 289.5,
+    "duration": 3.06
+  },
+  {
+    "text": "That is the reason why scientists appear",
+    "start": 292.56,
+    "duration": 3.66
+  },
+  {
+    "text": "to be publishing their\nhighest-impact work early",
+    "start": 296.22,
+    "duration": 2.82
+  },
+  {
+    "text": "in their career has to do with the fact",
+    "start": 299.04,
+    "duration": 2.16
+  },
+  {
+    "text": "that that's when they\npublish most of their papers.",
+    "start": 301.2,
+    "duration": 2.76
+  },
+  {
+    "text": "That is, scientists tend",
+    "start": 303.96,
+    "duration": 1.32
+  },
+  {
+    "text": "to have a much higher\nproductivity early in their career",
+    "start": 305.28,
+    "duration": 2.7
+  },
+  {
+    "text": "and with time, productivity wins.",
+    "start": 307.98,
+    "duration": 2.34
+  },
+  {
+    "text": "Consider, for example, Frank Wilczek,",
+    "start": 310.32,
+    "duration": 2.64
+  },
+  {
+    "text": "who got a Physics Nobel Prize",
+    "start": 312.96,
+    "duration": 1.32
+  },
+  {
+    "text": "for the very, very, very\nfirst paper that he ever wrote",
+    "start": 314.28,
+    "duration": 3.36
+  },
+  {
+    "text": "as a graduate student.",
+    "start": 317.64,
+    "duration": 1.02
+  },
+  {
+    "text": "But my real hero is not\nhim, but rather John Fenn.",
+    "start": 319.68,
+    "duration": 4.65
+  },
+  {
+    "text": "John Fenn was a chemist.",
+    "start": 324.33,
+    "duration": 1.65
+  },
+  {
+    "text": "He made the discovery\nfor which 15 years later,",
+    "start": 325.98,
+    "duration": 3.9
+  },
+  {
+    "text": "at the age of 80, he got\nthe Chemistry Nobel Prize.",
+    "start": 329.88,
+    "duration": 3.48
+  },
+  {
+    "text": "One night, my student came\nto me and said, \"What's next?",
+    "start": 335.46,
+    "duration": 2.94
+  },
+  {
+    "text": "What would you like to work on?\"",
+    "start": 338.4,
+    "duration": 1.56
+  },
+  {
+    "text": "And I said, \"Well, how about success?\"",
+    "start": 339.96,
+    "duration": 1.92
+  },
+  {
+    "text": "And we had a laugh,",
+    "start": 341.88,
+    "duration": 2.28
+  },
+  {
+    "text": "but then we looked at each other and said,",
+    "start": 344.16,
+    "duration": 1.74
+  },
+  {
+    "text": "\"Hmm, that's interesting.",
+    "start": 345.9,
+    "duration": 1.44
+  },
+  {
+    "text": "We should study success.\"",
+    "start": 347.34,
+    "duration": 2.1
+  },
+  {
+    "text": "We understood that as a scientist,",
+    "start": 349.44,
+    "duration": 2.64
+  },
+  {
+    "text": "we're embedded in a\nvery complicated network",
+    "start": 352.08,
+    "duration": 2.34
+  },
+  {
+    "text": "of relationships,",
+    "start": 354.42,
+    "duration": 1.32
+  },
+  {
+    "text": "connecting our papers to each other",
+    "start": 355.74,
+    "duration": 2.22
+  },
+  {
+    "text": "by citations, by co-authorship-",
+    "start": 357.96,
+    "duration": 1.98
+  },
+  {
+    "text": "and we immediately thought",
+    "start": 359.94,
+    "duration": 1.8
+  },
+  {
+    "text": "that the availability of all\nthis data may give us a clue",
+    "start": 361.74,
+    "duration": 5.22
+  },
+  {
+    "text": "about how scientific success emerges.",
+    "start": 366.96,
+    "duration": 2.88
+  },
+  {
+    "text": "What does success depend on?",
+    "start": 369.84,
+    "duration": 2.04
+  },
+  {
+    "text": "Productivity is one of them.",
+    "start": 371.88,
+    "duration": 1.92
+  },
+  {
+    "text": "How many papers did he or\nshe write during the career?",
+    "start": 373.8,
+    "duration": 3.3
+  },
+  {
+    "text": "The more you write, the more\nvisible you are a scientist,",
+    "start": 377.1,
+    "duration": 3.42
+  },
+  {
+    "text": "potentially the more impact you make.",
+    "start": 380.52,
+    "duration": 1.98
+  },
+  {
+    "text": "But also matters:",
+    "start": 382.5,
+    "duration": 1.8
+  },
+  {
+    "text": "What is the impact of\nthe most-cited paper?",
+    "start": 384.3,
+    "duration": 2.76
+  },
+  {
+    "text": "What is your biggest discovery?",
+    "start": 387.06,
+    "duration": 1.8
+  },
+  {
+    "text": "And how is it situated within your career?",
+    "start": 388.86,
+    "duration": 2.1
+  },
+  {
+    "text": "The question is:",
+    "start": 390.96,
+    "duration": 1.26
+  },
+  {
+    "text": "How does the quality\nof the idea that I pick",
+    "start": 392.22,
+    "duration": 3.24
+  },
+  {
+    "text": "and the ultimate success",
+    "start": 395.46,
+    "duration": 2.28
+  },
+  {
+    "text": "and my ability as a scientist\nconnect to each other?",
+    "start": 397.74,
+    "duration": 3.48
+  },
+  {
+    "text": "Your 'Q factor' tells me:",
+    "start": 401.22,
+    "duration": 2.28
+  },
+  {
+    "text": "\"How good am I of turning an\nidea into a research paper?\"",
+    "start": 403.5,
+    "duration": 4.14
+  },
+  {
+    "text": "And when we put the career",
+    "start": 407.64,
+    "duration": 1.86
+  },
+  {
+    "text": "of many, many scientists\ntogether, by comparing them,",
+    "start": 409.5,
+    "duration": 3.6
+  },
+  {
+    "text": "we were able to ask:",
+    "start": 413.1,
+    "duration": 2.34
+  },
+  {
+    "text": "How does the Q factor change?",
+    "start": 415.44,
+    "duration": 2.58
+  },
+  {
+    "text": "How is it different from\none scientist to the other?",
+    "start": 418.86,
+    "duration": 3.06
+  },
+  {
+    "text": "And what is the randomness\nof the idea that we pick?",
+    "start": 421.92,
+    "duration": 4.32
+  },
+  {
+    "text": "And the outcomes were very\nsurprising even to us.",
+    "start": 426.24,
+    "duration": 2.94
+  },
+  {
+    "text": "We would think that good\nscientists pick better ideas.",
+    "start": 429.18,
+    "duration": 3.54
+  },
+  {
+    "text": "What the math very clearly indicated,",
+    "start": 432.72,
+    "duration": 2.82
+  },
+  {
+    "text": "that we are not privy to better ideas",
+    "start": 435.54,
+    "duration": 2.64
+  },
+  {
+    "text": "just because we have more experience.",
+    "start": 438.18,
+    "duration": 2.1
+  },
+  {
+    "text": "This Q factor, our ability to\nturn ideas into discoveries,",
+    "start": 440.28,
+    "duration": 4.26
+  },
+  {
+    "text": "is really constant throughout\nthe scientist's career.",
+    "start": 444.54,
+    "duration": 3.3
+  },
+  {
+    "text": "That more or less, a scientist,\nwhen they start publishing,",
+    "start": 447.84,
+    "duration": 3.36
+  },
+  {
+    "text": "they come with a certain Q factor",
+    "start": 451.2,
+    "duration": 2.46
+  },
+  {
+    "text": "that stays with them for\nthe rest of their life.",
+    "start": 453.66,
+    "duration": 2.76
+  },
+  {
+    "text": "Turned out that the Q factor alone,",
+    "start": 456.42,
+    "duration": 2.76
+  },
+  {
+    "text": "that is really unique to you,\nwas the strongest predictor",
+    "start": 459.78,
+    "duration": 3.66
+  },
+  {
+    "text": "whether you will be really recognized",
+    "start": 463.44,
+    "duration": 2.22
+  },
+  {
+    "text": "as a important scientist.",
+    "start": 465.66,
+    "duration": 1.68
+  },
+  {
+    "text": "Productivity is the lowest predictor.",
+    "start": 467.94,
+    "duration": 2.7
+  },
+  {
+    "text": "If you just publish a lots of papers,",
+    "start": 470.64,
+    "duration": 2.04
+  },
+  {
+    "text": "that would not get you any closer",
+    "start": 472.68,
+    "duration": 1.56
+  },
+  {
+    "text": "to be recognized as a major scientist.",
+    "start": 474.24,
+    "duration": 2.22
+  },
+  {
+    "text": "The impact of those papers really matters,",
+    "start": 476.46,
+    "duration": 3.0
+  },
+  {
+    "text": "so does the impact of\nyour biggest discovery.",
+    "start": 479.46,
+    "duration": 2.82
+  },
+  {
+    "text": "Big data could help us to discover",
+    "start": 483.24,
+    "duration": 2.28
+  },
+  {
+    "text": "those that really had the accomplishment",
+    "start": 486.66,
+    "duration": 2.34
+  },
+  {
+    "text": "and deserve the genius level",
+    "start": 489.0,
+    "duration": 1.44
+  },
+  {
+    "text": "and put them in the right place-",
+    "start": 490.44,
+    "duration": 1.68
+  },
+  {
+    "text": "and education is needed",
+    "start": 492.72,
+    "duration": 2.04
+  },
+  {
+    "text": "to make sure that everybody\nwho has the talent",
+    "start": 494.76,
+    "duration": 3.36
+  },
+  {
+    "text": "can develop that talent",
+    "start": 498.12,
+    "duration": 1.68
+  },
+  {
+    "text": "so that they are contenders\nto the genius label.",
+    "start": 499.8,
+    "duration": 3.0
+  }
+]

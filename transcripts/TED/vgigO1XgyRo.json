@@ -1,0 +1,1057 @@
+[
+  {
+    "text": "How often are you frustrated\nby the time it takes",
+    "start": 4.02,
+    "duration": 5.52
+  },
+  {
+    "text": "to accurately get things\nin your mind into a computer?",
+    "start": 9.58,
+    "duration": 5.24
+  },
+  {
+    "text": "It is even worse for people like me,",
+    "start": 16.14,
+    "duration": 3.56
+  },
+  {
+    "text": "whose first language\nis not based on letters.",
+    "start": 19.7,
+    "duration": 4.2
+  },
+  {
+    "text": "I live and work in Australia,",
+    "start": 24.74,
+    "duration": 3.08
+  },
+  {
+    "text": "but I am originally from Taiwan.",
+    "start": 27.82,
+    "duration": 3.28
+  },
+  {
+    "text": "I moved to Sydney eight years ago",
+    "start": 32.18,
+    "duration": 3.28
+  },
+  {
+    "text": "and now run a university\nresearch center there.",
+    "start": 35.5,
+    "duration": 5.36
+  },
+  {
+    "text": "Most of us use keyboards every day",
+    "start": 42.3,
+    "duration": 3.84
+  },
+  {
+    "text": "to get things in our minds\ninto the computer.",
+    "start": 46.18,
+    "duration": 3.88
+  },
+  {
+    "text": "We have to learn to type.",
+    "start": 51.3,
+    "duration": 1.76
+  },
+  {
+    "text": "The fact that you have to learn\nto do some things",
+    "start": 53.74,
+    "duration": 4.32
+  },
+  {
+    "text": "shows how unnatural it is.",
+    "start": 58.1,
+    "duration": 3.4
+  },
+  {
+    "text": "The finger-driven touch screen\nhas been around for 60 years.",
+    "start": 62.74,
+    "duration": 5.64
+  },
+  {
+    "text": "It's convenient, but it is also slow.",
+    "start": 68.78,
+    "duration": 3.52
+  },
+  {
+    "text": "There are other ways\nto control computers --",
+    "start": 74.02,
+    "duration": 3.92
+  },
+  {
+    "text": "joystick or gestures --",
+    "start": 77.98,
+    "duration": 2.92
+  },
+  {
+    "text": "but they are not very useful\nin capturing the words in your mind.",
+    "start": 80.94,
+    "duration": 6.68
+  },
+  {
+    "text": "And it is words --",
+    "start": 88.26,
+    "duration": 2.68
+  },
+  {
+    "text": "they are critical to communication\nfor human beings.",
+    "start": 90.98,
+    "duration": 4.32
+  },
+  {
+    "text": "The problem is about to be over,",
+    "start": 96.98,
+    "duration": 4.36
+  },
+  {
+    "text": "because of AI.",
+    "start": 101.38,
+    "duration": 2.0
+  },
+  {
+    "text": "Today, I will show you",
+    "start": 103.98,
+    "duration": 2.36
+  },
+  {
+    "text": "how AI can turn the speech in your mind\ninto words on screen.",
+    "start": 106.34,
+    "duration": 7.0
+  },
+  {
+    "text": "Getting from the brain\nto the computer efficiently",
+    "start": 115.98,
+    "duration": 5.56
+  },
+  {
+    "text": "is a real bottleneck\nfor any computer application.",
+    "start": 121.58,
+    "duration": 3.92
+  },
+  {
+    "text": "It has been my passion for 25 years.",
+    "start": 126.46,
+    "duration": 3.52
+  },
+  {
+    "text": "Many of you, or most of you,",
+    "start": 131.86,
+    "duration": 2.16
+  },
+  {
+    "text": "have heard of \"brain-computer\ninterface,\" BCI.",
+    "start": 134.06,
+    "duration": 5.04
+  },
+  {
+    "text": "I have been working on BCI,",
+    "start": 140.1,
+    "duration": 2.4
+  },
+  {
+    "text": "for the direct communication\nbetween the brain and machine,",
+    "start": 142.5,
+    "duration": 5.08
+  },
+  {
+    "text": "since 2004.",
+    "start": 147.62,
+    "duration": 1.92
+  },
+  {
+    "text": "I developed a series\nof EEG headsets that do this.",
+    "start": 150.46,
+    "duration": 6.32
+  },
+  {
+    "text": "But they are not new.",
+    "start": 158.78,
+    "duration": 1.68
+  },
+  {
+    "text": "What is new is an interface\nthat works in a natural way,",
+    "start": 161.7,
+    "duration": 5.56
+  },
+  {
+    "text": "based on how our brain\nis working naturally.",
+    "start": 167.3,
+    "duration": 4.52
+  },
+  {
+    "text": "Imagine reading words\nwhen someone is thinking,",
+    "start": 173.14,
+    "duration": 5.52
+  },
+  {
+    "text": "translating the brain signals into words.",
+    "start": 178.7,
+    "duration": 3.64
+  },
+  {
+    "text": "Today, you will see this in action,",
+    "start": 183.22,
+    "duration": 3.32
+  },
+  {
+    "text": "and with no implants.",
+    "start": 186.58,
+    "duration": 2.08
+  },
+  {
+    "text": "We are using AI",
+    "start": 189.94,
+    "duration": 1.48
+  },
+  {
+    "text": "to decode the brain signals\non the top of your head",
+    "start": 191.46,
+    "duration": 4.2
+  },
+  {
+    "text": "and identify the biomarkers of speaking.",
+    "start": 195.66,
+    "duration": 3.96
+  },
+  {
+    "text": "That means that you can send the words\nin your mind into the computer",
+    "start": 200.26,
+    "duration": 6.2
+  },
+  {
+    "text": "with wearable technology.",
+    "start": 206.5,
+    "duration": 2.4
+  },
+  {
+    "text": "It's exciting,",
+    "start": 209.54,
+    "duration": 1.28
+  },
+  {
+    "text": "and I believe it will\nopen up the bottleneck",
+    "start": 210.82,
+    "duration": 4.6
+  },
+  {
+    "text": "of how we engage with computers.",
+    "start": 215.42,
+    "duration": 3.64
+  },
+  {
+    "text": "We are making exciting progress\nin decoding EEG to test this.",
+    "start": 220.94,
+    "duration": 5.88
+  },
+  {
+    "text": "It's natural.",
+    "start": 227.26,
+    "duration": 1.12
+  },
+  {
+    "text": "We have had very promising results",
+    "start": 228.98,
+    "duration": 3.6
+  },
+  {
+    "text": "in decoding EEG\nwhen someone is speaking aloud.",
+    "start": 232.62,
+    "duration": 4.2
+  },
+  {
+    "text": "The frontier we are working on now",
+    "start": 237.34,
+    "duration": 2.6
+  },
+  {
+    "text": "is to decode EEG when the speech\nis not spoken aloud,",
+    "start": 239.98,
+    "duration": 6.2
+  },
+  {
+    "text": "the words that flow in your mind\nwhen you are listening to others",
+    "start": 246.22,
+    "duration": 6.12
+  },
+  {
+    "text": "or when you are talking\nto yourself or thinking.",
+    "start": 252.38,
+    "duration": 4.84
+  },
+  {
+    "text": "We are well on the way\nto make it a reality.",
+    "start": 258.7,
+    "duration": 4.24
+  },
+  {
+    "text": "Who would like to see this in action?",
+    "start": 264.5,
+    "duration": 1.96
+  },
+  {
+    "text": "(Cheers and applause)",
+    "start": 266.78,
+    "duration": 6.92
+  },
+  {
+    "text": "Great, we are ready\nto demonstrate it to you.",
+    "start": 273.74,
+    "duration": 3.6
+  },
+  {
+    "text": "I am going to invite two of my team,\nCharles and Daniel,",
+    "start": 277.74,
+    "duration": 4.64
+  },
+  {
+    "text": "to show it to us again.",
+    "start": 282.42,
+    "duration": 2.36
+  },
+  {
+    "text": "This is the first world premiere for us,",
+    "start": 285.9,
+    "duration": 3.12
+  },
+  {
+    "text": "so I hope you can be patient with us.",
+    "start": 289.06,
+    "duration": 3.96
+  },
+  {
+    "text": "We are getting\naround 50 percent accuracy ...",
+    "start": 293.06,
+    "duration": 3.8
+  },
+  {
+    "text": "(Laughter)",
+    "start": 296.9,
+    "duration": 2.28
+  },
+  {
+    "text": "in decoding the brain signals into words",
+    "start": 299.22,
+    "duration": 3.96
+  },
+  {
+    "text": "when someone is speaking silently.",
+    "start": 303.22,
+    "duration": 3.68
+  },
+  {
+    "text": "Here shows how it will work.",
+    "start": 307.86,
+    "duration": 2.08
+  },
+  {
+    "text": "We have a collection of words\nthat we have trained our technology with.",
+    "start": 312.86,
+    "duration": 5.76
+  },
+  {
+    "text": "They are combined into sentences.",
+    "start": 320.26,
+    "duration": 2.64
+  },
+  {
+    "text": "Charles will select one sentence,",
+    "start": 324.18,
+    "duration": 2.76
+  },
+  {
+    "text": "and Daniel will read the sentence\nword by word, silently,",
+    "start": 326.94,
+    "duration": 5.24
+  },
+  {
+    "text": "and produce the brain signals\nthat will be picked up by our sensors.",
+    "start": 332.18,
+    "duration": 5.28
+  },
+  {
+    "text": "Our technology will decode\nthe brain signals into words.",
+    "start": 337.46,
+    "duration": 4.76
+  },
+  {
+    "text": "Charles, Daniel,\nare you ready to go ahead?",
+    "start": 342.94,
+    "duration": 2.76
+  },
+  {
+    "text": "This is the sentence",
+    "start": 348.46,
+    "duration": 3.8
+  },
+  {
+    "text": "that Daniel is going to read silently.",
+    "start": 352.3,
+    "duration": 3.56
+  },
+  {
+    "text": "(Applause)",
+    "start": 375.86,
+    "duration": 5.36
+  },
+  {
+    "text": "Sorry, please keep silent. (Laughter)",
+    "start": 381.98,
+    "duration": 2.8
+  },
+  {
+    "text": "Here are the --",
+    "start": 384.82,
+    "duration": 1.76
+  },
+  {
+    "text": "decoded words.",
+    "start": 387.94,
+    "duration": 1.52
+  },
+  {
+    "text": "They are likely the intended words.",
+    "start": 389.5,
+    "duration": 2.32
+  },
+  {
+    "text": "You can see the probability ranking",
+    "start": 392.54,
+    "duration": 2.52
+  },
+  {
+    "text": "of the decoded words by our technology.",
+    "start": 395.1,
+    "duration": 3.08
+  },
+  {
+    "text": "The pattern shows\nour predicted sentence ...",
+    "start": 400.54,
+    "duration": 3.88
+  },
+  {
+    "text": "is not so correct.",
+    "start": 405.82,
+    "duration": 1.68
+  },
+  {
+    "text": "(Laughter)",
+    "start": 407.54,
+    "duration": 3.08
+  },
+  {
+    "text": "Sorry, you see the other 50 percent,",
+    "start": 410.62,
+    "duration": 4.8
+  },
+  {
+    "text": "the system doesn't work.",
+    "start": 415.42,
+    "duration": 1.24
+  },
+  {
+    "text": "But actually, you still can see\nsome keywords where we got it.",
+    "start": 416.66,
+    "duration": 3.8
+  },
+  {
+    "text": "Let's invite Charles\nand Daniel to do it again,",
+    "start": 421.18,
+    "duration": 3.48
+  },
+  {
+    "text": "but please keep silent\nwhen he's reading silently.",
+    "start": 424.7,
+    "duration": 4.64
+  },
+  {
+    "text": "Here is the sentence,",
+    "start": 430.66,
+    "duration": 1.32
+  },
+  {
+    "text": "another sentence that Daniel\nwill read word by word, silently.",
+    "start": 432.02,
+    "duration": 4.24
+  },
+  {
+    "text": "(Laughs)",
+    "start": 436.98,
+    "duration": 1.16
+  },
+  {
+    "text": "Again, here are the decoded words.",
+    "start": 465.62,
+    "duration": 2.48
+  },
+  {
+    "text": "They are likely the intended words.",
+    "start": 468.1,
+    "duration": 2.52
+  },
+  {
+    "text": "The pattern shows our predictive sentence",
+    "start": 473.26,
+    "duration": 3.64
+  },
+  {
+    "text": "is very close to the ground-truth\nsentence this time.",
+    "start": 476.94,
+    "duration": 3.36
+  },
+  {
+    "text": "(Cheers and applause)",
+    "start": 480.3,
+    "duration": 6.92
+  },
+  {
+    "text": "Thank you, thank you.",
+    "start": 487.62,
+    "duration": 1.84
+  },
+  {
+    "text": "How does it work?",
+    "start": 490.34,
+    "duration": 1.56
+  },
+  {
+    "text": "We pick up the brain signals with sensors",
+    "start": 491.94,
+    "duration": 4.2
+  },
+  {
+    "text": "and amplify and filter them",
+    "start": 496.14,
+    "duration": 3.56
+  },
+  {
+    "text": "to reduce the noise\nand get the right biomarkers.",
+    "start": 499.7,
+    "duration": 4.04
+  },
+  {
+    "text": "We use AI for the task.",
+    "start": 504.46,
+    "duration": 2.88
+  },
+  {
+    "text": "We use deep learning\nto decode the brain signals",
+    "start": 507.38,
+    "duration": 4.08
+  },
+  {
+    "text": "into the intended words.",
+    "start": 511.46,
+    "duration": 2.24
+  },
+  {
+    "text": "And then we use the large language model",
+    "start": 513.74,
+    "duration": 3.6
+  },
+  {
+    "text": "to make the match of the decoded words",
+    "start": 517.38,
+    "duration": 3.28
+  },
+  {
+    "text": "and make up for the mistakes\nin EEG decoding.",
+    "start": 520.7,
+    "duration": 4.32
+  },
+  {
+    "text": "All of this is going on in the AI,",
+    "start": 526.38,
+    "duration": 3.52
+  },
+  {
+    "text": "but for the user,\nthe interaction is natural,",
+    "start": 529.94,
+    "duration": 3.72
+  },
+  {
+    "text": "through thoughts and natural language.",
+    "start": 533.7,
+    "duration": 3.48
+  },
+  {
+    "text": "We are very excited\nabout the advances that we are making",
+    "start": 537.9,
+    "duration": 4.96
+  },
+  {
+    "text": "in understanding words and sentences.",
+    "start": 542.86,
+    "duration": 2.68
+  },
+  {
+    "text": "Another thing that is\nvery natural to people",
+    "start": 547.42,
+    "duration": 4.32
+  },
+  {
+    "text": "is looking at something\nthat has their attention.",
+    "start": 551.78,
+    "duration": 4.8
+  },
+  {
+    "text": "Imagine if you could\nselect an item just by looking at it,",
+    "start": 556.58,
+    "duration": 6.52
+  },
+  {
+    "text": "not by picking it off the shelf",
+    "start": 563.14,
+    "duration": 2.8
+  },
+  {
+    "text": "or punching a code\ninto the vending machine.",
+    "start": 565.94,
+    "duration": 3.76
+  },
+  {
+    "text": "Two years ago,",
+    "start": 570.46,
+    "duration": 1.44
+  },
+  {
+    "text": "in a project about hands-free\ncontrol of robots,",
+    "start": 571.9,
+    "duration": 6.12
+  },
+  {
+    "text": "we were very excited about robot control",
+    "start": 578.06,
+    "duration": 4.36
+  },
+  {
+    "text": "via visual identification of the fingers.",
+    "start": 582.46,
+    "duration": 4.12
+  },
+  {
+    "text": "We are now beyond that.",
+    "start": 587.06,
+    "duration": 2.44
+  },
+  {
+    "text": "We need not any fingers.",
+    "start": 589.54,
+    "duration": 2.28
+  },
+  {
+    "text": "The AI is making it natural.",
+    "start": 591.86,
+    "duration": 2.92
+  },
+  {
+    "text": "There are four objects on the table.",
+    "start": 595.66,
+    "duration": 2.64
+  },
+  {
+    "text": "Toy car,",
+    "start": 599.3,
+    "duration": 1.96
+  },
+  {
+    "text": "toy animal,",
+    "start": 601.26,
+    "duration": 2.52
+  },
+  {
+    "text": "plastic flower and some food,",
+    "start": 603.82,
+    "duration": 3.56
+  },
+  {
+    "text": "which is also plastic,",
+    "start": 607.38,
+    "duration": 2.88
+  },
+  {
+    "text": "not left over from the breakfast\nthis morning.",
+    "start": 610.3,
+    "duration": 3.48
+  },
+  {
+    "text": "You can also see the four objects'\nphoto on the screen.",
+    "start": 614.66,
+    "duration": 5.4
+  },
+  {
+    "text": "Daniel is going to look at the photos,",
+    "start": 620.98,
+    "duration": 3.68
+  },
+  {
+    "text": "and select an item in his mind.",
+    "start": 624.7,
+    "duration": 3.56
+  },
+  {
+    "text": "If it is working as it should,",
+    "start": 628.86,
+    "duration": 2.92
+  },
+  {
+    "text": "you will see the selected item\npop up on screen.",
+    "start": 631.82,
+    "duration": 4.6
+  },
+  {
+    "text": "We use photos for this\nbecause they are very controllable.",
+    "start": 637.54,
+    "duration": 3.24
+  },
+  {
+    "text": "To show that this is not all\njust built into my presentation,",
+    "start": 641.9,
+    "duration": 6.32
+  },
+  {
+    "text": "Charles will pick up one item\nfor Daniel to select in mind.",
+    "start": 648.22,
+    "duration": 6.92
+  },
+  {
+    "text": "Please, Charles.",
+    "start": 655.46,
+    "duration": 1.24
+  },
+  {
+    "text": "It's a car.",
+    "start": 661.9,
+    "duration": 2.72
+  },
+  {
+    "text": "So, Daniel, select ...",
+    "start": 666.14,
+    "duration": 2.16
+  },
+  {
+    "text": "the car in his mind.",
+    "start": 671.06,
+    "duration": 1.44
+  },
+  {
+    "text": "(Laughter)",
+    "start": 678.26,
+    "duration": 2.36
+  },
+  {
+    "text": "Hamburger.",
+    "start": 680.66,
+    "duration": 1.2
+  },
+  {
+    "text": "(Laughter)",
+    "start": 681.86,
+    "duration": 1.0
+  },
+  {
+    "text": "It's incorrect.",
+    "start": 682.9,
+    "duration": 1.24
+  },
+  {
+    "text": "(Laughter)",
+    "start": 684.14,
+    "duration": 1.96
+  },
+  {
+    "text": "It's unlucky that the 30-percent\nerror rate came with us again.",
+    "start": 686.5,
+    "duration": 5.96
+  },
+  {
+    "text": "Let's invite Charles and Daniel\nto show it again.",
+    "start": 692.78,
+    "duration": 2.76
+  },
+  {
+    "text": "It's a duck, a lovely duck.",
+    "start": 700.42,
+    "duration": 3.72
+  },
+  {
+    "text": "(Laughter)",
+    "start": 704.14,
+    "duration": 2.28
+  },
+  {
+    "text": "OK. Good.",
+    "start": 711.78,
+    "duration": 1.32
+  },
+  {
+    "text": "(Cheers and applause)",
+    "start": 713.1,
+    "duration": 6.4
+  },
+  {
+    "text": "Thank you. Thank you.",
+    "start": 719.5,
+    "duration": 1.4
+  },
+  {
+    "text": "Daniel did this for his PhD.",
+    "start": 721.58,
+    "duration": 3.0
+  },
+  {
+    "text": "It's very impressive, isn't it?",
+    "start": 724.58,
+    "duration": 1.72
+  },
+  {
+    "text": "When Daniel selects an item in his mind,",
+    "start": 726.66,
+    "duration": 3.48
+  },
+  {
+    "text": "his brain recognizes and identifies\nthe object and triggers his EEGs.",
+    "start": 730.18,
+    "duration": 6.64
+  },
+  {
+    "text": "Our technology decodes the triggers.",
+    "start": 736.86,
+    "duration": 3.24
+  },
+  {
+    "text": "We are working on our way\nthrough the technical challenges.",
+    "start": 741.3,
+    "duration": 6.32
+  },
+  {
+    "text": "We will work on overcoming\nthe interference issue.",
+    "start": 748.66,
+    "duration": 3.96
+  },
+  {
+    "text": "That's why I asked\nfor the phones to be turned off.",
+    "start": 753.02,
+    "duration": 4.04
+  },
+  {
+    "text": "Different people have\ndifferent neural signatures,",
+    "start": 758.9,
+    "duration": 4.56
+  },
+  {
+    "text": "which are important to decoding accuracy.",
+    "start": 763.5,
+    "duration": 3.44
+  },
+  {
+    "text": "One reason I brought Daniel along here",
+    "start": 766.98,
+    "duration": 3.64
+  },
+  {
+    "text": "is because he can give off\ngreat neural signatures.",
+    "start": 770.66,
+    "duration": 5.0
+  },
+  {
+    "text": "(Laughter)",
+    "start": 775.7,
+    "duration": 3.24
+  },
+  {
+    "text": "(Applause)",
+    "start": 778.98,
+    "duration": 6.16
+  },
+  {
+    "text": "Yeah, he can give us\na great neural signature,",
+    "start": 785.18,
+    "duration": 2.76
+  },
+  {
+    "text": "as far as our technology is concerned.",
+    "start": 787.98,
+    "duration": 2.6
+  },
+  {
+    "text": "They are still cables here as well.",
+    "start": 791.74,
+    "duration": 3.12
+  },
+  {
+    "text": "It is not yet very portable.",
+    "start": 794.9,
+    "duration": 2.6
+  },
+  {
+    "text": "Probably one biggest barrier\nto people using this",
+    "start": 797.86,
+    "duration": 6.2
+  },
+  {
+    "text": "will be: “How do I turn it off?”",
+    "start": 804.1,
+    "duration": 2.96
+  },
+  {
+    "text": "Any one of you will have had\ntimes when you are happy",
+    "start": 807.62,
+    "duration": 5.6
+  },
+  {
+    "text": "that the people you are with\ndon't know what you are really thinking.",
+    "start": 813.26,
+    "duration": 4.28
+  },
+  {
+    "text": "(Laughter)",
+    "start": 817.58,
+    "duration": 1.28
+  },
+  {
+    "text": "There are serious privacy\nand ethical issues",
+    "start": 818.9,
+    "duration": 2.8
+  },
+  {
+    "text": "that will have to be dealt with.",
+    "start": 821.74,
+    "duration": 2.12
+  },
+  {
+    "text": "I am very passionate about how important\nthis technology can be.",
+    "start": 824.7,
+    "duration": 6.52
+  },
+  {
+    "text": "One exciting point is linking\nthe brain-computer interface",
+    "start": 831.58,
+    "duration": 4.96
+  },
+  {
+    "text": "to wearable computers.",
+    "start": 836.58,
+    "duration": 2.12
+  },
+  {
+    "text": "You already have a computer on your head.",
+    "start": 838.7,
+    "duration": 2.72
+  },
+  {
+    "text": "The brain will be a natural interface.",
+    "start": 841.78,
+    "duration": 3.24
+  },
+  {
+    "text": "It is not only\nabout controlling a computer.",
+    "start": 845.06,
+    "duration": 3.8
+  },
+  {
+    "text": "The natural BCI also provides",
+    "start": 849.78,
+    "duration": 3.92
+  },
+  {
+    "text": "another way for people\nto communicate with people.",
+    "start": 853.7,
+    "duration": 4.04
+  },
+  {
+    "text": "For example, it allows people\nwho are not able to speak",
+    "start": 858.7,
+    "duration": 5.4
+  },
+  {
+    "text": "to communicate with others,",
+    "start": 864.1,
+    "duration": 2.68
+  },
+  {
+    "text": "or such as when privacy\nor silence are required.",
+    "start": 866.78,
+    "duration": 6.52
+  },
+  {
+    "text": "If your idea of nature is a lovely forest,",
+    "start": 874.42,
+    "duration": 6.24
+  },
+  {
+    "text": "you could wonder\nhow natural this could be.",
+    "start": 880.66,
+    "duration": 4.68
+  },
+  {
+    "text": "My answer is, it's natural language,",
+    "start": 885.98,
+    "duration": 4.56
+  },
+  {
+    "text": "it's the natural thought process\nthat you are using.",
+    "start": 890.58,
+    "duration": 4.2
+  },
+  {
+    "text": "There are no unnatural\nimplants in your body.",
+    "start": 894.82,
+    "duration": 4.72
+  },
+  {
+    "text": "I am challenging you to think",
+    "start": 900.66,
+    "duration": 2.2
+  },
+  {
+    "text": "about what you regard\nas natural communication.",
+    "start": 902.9,
+    "duration": 5.24
+  },
+  {
+    "text": "Turning the speech\nin your mind into words.",
+    "start": 909.1,
+    "duration": 5.64
+  },
+  {
+    "text": "There is a standard way to finish up\nwhen talking with people --",
+    "start": 914.78,
+    "duration": 5.24
+  },
+  {
+    "text": "you say: “Just think about it.”",
+    "start": 920.06,
+    "duration": 4.04
+  },
+  {
+    "text": "I hope you are as excited as we are",
+    "start": 924.94,
+    "duration": 3.96
+  },
+  {
+    "text": "for the prospect of a future",
+    "start": 928.94,
+    "duration": 3.4
+  },
+  {
+    "text": "in which, when you just think\nabout something,",
+    "start": 932.38,
+    "duration": 4.2
+  },
+  {
+    "text": "the words in your mind appear on screen.",
+    "start": 936.62,
+    "duration": 4.48
+  },
+  {
+    "text": "Thank you.",
+    "start": 941.14,
+    "duration": 1.16
+  },
+  {
+    "text": "(Applause) ",
+    "start": 942.34,
+    "duration": 1.76
+  }
+]

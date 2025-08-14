@@ -1,0 +1,377 @@
+[
+  {
+    "text": "Your friend’s birthday is tomorrow,\nand he’s turning...",
+    "start": 6.878,
+    "duration": 2.961
+  },
+  {
+    "text": "well... the issue \nis that you’ve forgotten.",
+    "start": 9.839,
+    "duration": 2.252
+  },
+  {
+    "text": "He’s older than 1, but beyond that,\nhe looks timeless.",
+    "start": 12.383,
+    "duration": 3.045
+  },
+  {
+    "text": "You’d believe it if he was 2 or 200.",
+    "start": 15.428,
+    "duration": 2.878
+  },
+  {
+    "text": "The birthday boy is a giant,",
+    "start": 18.473,
+    "duration": 2.21
+  },
+  {
+    "text": "and you're afraid that if your\nforgetfulness becomes known,",
+    "start": 20.683,
+    "duration": 3.128
+  },
+  {
+    "text": "you'll become part of the feast.",
+    "start": 23.811,
+    "duration": 1.71
+  },
+  {
+    "text": "The baker has meticulously prepared\na small mountain range of a cake,",
+    "start": 25.772,
+    "duration": 3.878
+  },
+  {
+    "text": "and your job is to sculpt the giant’s age\nas the chocolate centerpiece.",
+    "start": 29.901,
+    "duration": 5.13
+  },
+  {
+    "text": "You would love to just count\nthe candles on the cake,",
+    "start": 35.156,
+    "duration": 2.502
+  },
+  {
+    "text": "but you're much too small\nto see the top of it.",
+    "start": 37.658,
+    "duration": 2.503
+  },
+  {
+    "text": "Then you remember: the baker made\nan interior tunnel",
+    "start": 40.286,
+    "duration": 3.378
+  },
+  {
+    "text": "to activate the candles from below.",
+    "start": 43.664,
+    "duration": 2.461
+  },
+  {
+    "text": "While the giant is asleep, \nyou can sneak in,",
+    "start": 46.25,
+    "duration": 2.962
+  },
+  {
+    "text": "count the candles and escape undetected.",
+    "start": 49.212,
+    "duration": 2.878
+  },
+  {
+    "text": "As night sets, you pull on a full bodysuit\nand brace yourself for vanilla cream.",
+    "start": 52.256,
+    "duration": 5.13
+  },
+  {
+    "text": "Anywhere in the tunnel, you can see \nwhether the candle above you is lit,",
+    "start": 57.72,
+    "duration": 4.129
+  },
+  {
+    "text": "and can switch it on or off.",
+    "start": 61.849,
+    "duration": 2.419
+  },
+  {
+    "text": "Some are currently on, and others off,\nin no discernible pattern.",
+    "start": 64.393,
+    "duration": 4.13
+  },
+  {
+    "text": "The tunnel is a single loop, and in the \ndark you can’t tell its shape or size.",
+    "start": 68.773,
+    "duration": 5.213
+  },
+  {
+    "text": "You aren’t carrying anything with you,\nand any marks you make will disappear.",
+    "start": 74.445,
+    "duration": 4.546
+  },
+  {
+    "text": "You need a strategy.",
+    "start": 78.991,
+    "duration": 1.46
+  },
+  {
+    "text": "How can you count the candles?",
+    "start": 80.451,
+    "duration": 2.67
+  },
+  {
+    "text": "Pause here to figure it out for yourself.\nAnswer in 3",
+    "start": 83.121,
+    "duration": 2.752
+  },
+  {
+    "text": "Answer in 2",
+    "start": 85.873,
+    "duration": 2.294
+  },
+  {
+    "text": "Answer in 1",
+    "start": 88.167,
+    "duration": 1.877
+  },
+  {
+    "text": "There are a few ways \nto solve this problem.",
+    "start": 90.461,
+    "duration": 2.419
+  },
+  {
+    "text": "Let's start with the most straightforward.",
+    "start": 92.922,
+    "duration": 2.085
+  },
+  {
+    "text": "There’s exactly one way to mark\na location in the tunnel:",
+    "start": 95.007,
+    "duration": 3.295
+  },
+  {
+    "text": "the state of the candle.",
+    "start": 98.386,
+    "duration": 1.626
+  },
+  {
+    "text": "You can mark the first candle you reach \nby lighting it or keeping it on.",
+    "start": 100.012,
+    "duration": 3.921
+  },
+  {
+    "text": "If you walk forward, you’ll eventually\nfind another lit candle—",
+    "start": 104.183,
+    "duration": 3.587
+  },
+  {
+    "text": "either a new one or you’re starting one.",
+    "start": 107.937,
+    "duration": 2.628
+  },
+  {
+    "text": "The question is: how could you know which?",
+    "start": 110.565,
+    "duration": 2.961
+  },
+  {
+    "text": "Here’s one approach: turn it off \nand backtrack to the start",
+    "start": 113.568,
+    "duration": 4.045
+  },
+  {
+    "text": "by passing the same number of candles \nyou passed on the way there.",
+    "start": 117.613,
+    "duration": 4.171
+  },
+  {
+    "text": "If the starting candle is now off,",
+    "start": 122.118,
+    "duration": 2.627
+  },
+  {
+    "text": "you’ve completed the loop\nand know the giant’s age!",
+    "start": 124.745,
+    "duration": 3.295
+  },
+  {
+    "text": "Otherwise, depart again, \ncontinuing until the next lit candle,",
+    "start": 128.332,
+    "duration": 4.505
+  },
+  {
+    "text": "testing if it’s your starting one \nand so on.",
+    "start": 132.837,
+    "duration": 2.794
+  },
+  {
+    "text": "This will work... eventually.",
+    "start": 135.965,
+    "duration": 1.919
+  },
+  {
+    "text": "But if the giant isn’t young,\nand many candles are on,",
+    "start": 137.884,
+    "duration": 3.628
+  },
+  {
+    "text": "you might have a marathon to run\nbetween now and sunrise.",
+    "start": 141.721,
+    "duration": 3.42
+  },
+  {
+    "text": "And you definitely don’t want to be \nin the cake when he starts digging in.",
+    "start": 145.6,
+    "duration": 4.212
+  },
+  {
+    "text": "So let’s look for a more \nefficient solution.",
+    "start": 149.937,
+    "duration": 2.503
+  },
+  {
+    "text": "How about testing a series of hypotheses\nabout the giant's age?",
+    "start": 153.149,
+    "duration": 4.838
+  },
+  {
+    "text": "Suppose you guess he’s turning 10.",
+    "start": 157.987,
+    "duration": 2.252
+  },
+  {
+    "text": "You could light the starting candle, \nwalk forward 10,",
+    "start": 160.406,
+    "duration": 3.086
+  },
+  {
+    "text": "switch or leave the destination \ncandle off, and return.",
+    "start": 163.492,
+    "duration": 4.046
+  },
+  {
+    "text": "If the starting candle’s still on,\n10 isn’t the answer.",
+    "start": 167.622,
+    "duration": 4.045
+  },
+  {
+    "text": "If it’s off, 10 could be right, \nbut you may have made multiple loops—",
+    "start": 171.918,
+    "duration": 4.838
+  },
+  {
+    "text": "so 10′s factors 5 and 2\nare also possibilities.",
+    "start": 176.756,
+    "duration": 4.504
+  },
+  {
+    "text": "Then you would have passed\na repeating pattern—",
+    "start": 181.677,
+    "duration": 2.461
+  },
+  {
+    "text": "but that could have just been\nthe starting arrangement.",
+    "start": 184.43,
+    "duration": 2.586
+  },
+  {
+    "text": "So what if you changed the candles\non the way?",
+    "start": 187.016,
+    "duration": 3.253
+  },
+  {
+    "text": "If you turned them all on while walking \nfrom candle 1 to 11,",
+    "start": 190.269,
+    "duration": 4.046
+  },
+  {
+    "text": "switch that off, then turn back,",
+    "start": 194.315,
+    "duration": 2.628
+  },
+  {
+    "text": "the first unlit candle you find \nwould tell you the exact candle count.",
+    "start": 197.151,
+    "duration": 4.755
+  },
+  {
+    "text": "And if you don't hit any\nextinguished candles,",
+    "start": 202.031,
+    "duration": 2.753
+  },
+  {
+    "text": "you'll know that the total\nmust be higher than 10.",
+    "start": 204.951,
+    "duration": 3.044
+  },
+  {
+    "text": "You could then pick a larger guess\nand try again.",
+    "start": 208.287,
+    "duration": 3.462
+  },
+  {
+    "text": "To be systematic, you could increase \nyour guess",
+    "start": 211.749,
+    "duration": 3.003
+  },
+  {
+    "text": "by the same number each time, say 4.",
+    "start": 214.752,
+    "duration": 2.92
+  },
+  {
+    "text": "If there were 99 candles,",
+    "start": 217.755,
+    "duration": 1.752
+  },
+  {
+    "text": "this method would take 24 roundtrips \nand involve visiting nearly 2,700 candles.",
+    "start": 219.715,
+    "duration": 6.59
+  },
+  {
+    "text": "But you don’t have to increase\nyour guess linearly.",
+    "start": 226.472,
+    "duration": 3.128
+  },
+  {
+    "text": "For instance, you could double it, \nfrom 10 to 20 to 40,",
+    "start": 229.85,
+    "duration": 4.213
+  },
+  {
+    "text": "and discover the true number \non your 5th trip after around 560 candles.",
+    "start": 234.063,
+    "duration": 5.547
+  },
+  {
+    "text": "Doubling allows you to reach\nhigh numbers quickly,",
+    "start": 239.986,
+    "duration": 3.211
+  },
+  {
+    "text": "while starting with small intervals \nin case there are only a few candles.",
+    "start": 243.197,
+    "duration": 4.588
+  },
+  {
+    "text": "After expecting a lengthy trek,",
+    "start": 248.327,
+    "duration": 2.169
+  },
+  {
+    "text": "you’re pleased to discover \nthe giant is only turning 12.",
+    "start": 250.538,
+    "duration": 4.171
+  },
+  {
+    "text": "You hurry to change into slightly\nmore inconspicuous clothing;",
+    "start": 255.459,
+    "duration": 3.462
+  },
+  {
+    "text": "chisel up some enormous chocolate numbers;\nand at the party, make your own wish:",
+    "start": 259.171,
+    "duration": 4.797
+  },
+  {
+    "text": "that you’re not downwind when your friend \nblows out his candles.",
+    "start": 263.968,
+    "duration": 3.378
+  }
+]

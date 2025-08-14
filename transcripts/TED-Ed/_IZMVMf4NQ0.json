@@ -1,0 +1,1002 @@
+[
+  {
+    "text": "At Pixar, we're all about telling stories,",
+    "start": 6.663,
+    "duration": 2.377
+  },
+  {
+    "text": "but one story that hasn't been told very much",
+    "start": 9.04,
+    "duration": 2.293
+  },
+  {
+    "text": "is the huge degree to which math is used",
+    "start": 11.333,
+    "duration": 2.669
+  },
+  {
+    "text": "in the production of our films.",
+    "start": 14.002,
+    "duration": 1.416
+  },
+  {
+    "text": "The math that you're learning in",
+    "start": 15.418,
+    "duration": 1.421
+  },
+  {
+    "text": "middle school and high school",
+    "start": 16.839,
+    "duration": 1.548
+  },
+  {
+    "text": "is used all the time at Pixar.",
+    "start": 18.387,
+    "duration": 2.121
+  },
+  {
+    "text": "So, let's start with a very simple example.",
+    "start": 20.508,
+    "duration": 2.587
+  },
+  {
+    "text": "Anybody recognize this guy? (Cheers)",
+    "start": 23.095,
+    "duration": 3.632
+  },
+  {
+    "text": "Yeah, so this is Woody from Toy Story,",
+    "start": 26.727,
+    "duration": 2.578
+  },
+  {
+    "text": "and let's ask Woody to, say, walk across the stage",
+    "start": 29.305,
+    "duration": 2.666
+  },
+  {
+    "text": "from, say, left to right, just like that.",
+    "start": 31.971,
+    "duration": 2.55
+  },
+  {
+    "text": "So, believe it or not, you just saw a ton of mathematics.",
+    "start": 34.521,
+    "duration": 4.367
+  },
+  {
+    "text": "Where is it?",
+    "start": 38.888,
+    "duration": 1.167
+  },
+  {
+    "text": "Well, to explain that,",
+    "start": 40.055,
+    "duration": 2.059
+  },
+  {
+    "text": "it's important to understand",
+    "start": 42.114,
+    "duration": 1.208
+  },
+  {
+    "text": "that artists and designers think in terms of",
+    "start": 43.322,
+    "duration": 1.754
+  },
+  {
+    "text": "shape and images",
+    "start": 45.076,
+    "duration": 1.753
+  },
+  {
+    "text": "but computers think in terms of numbers and equations.",
+    "start": 46.829,
+    "duration": 2.81
+  },
+  {
+    "text": "So, to bridge those two worlds",
+    "start": 49.639,
+    "duration": 1.583
+  },
+  {
+    "text": "we use a mathematical concept called",
+    "start": 51.222,
+    "duration": 1.666
+  },
+  {
+    "text": "coordinate geometry, right?",
+    "start": 52.888,
+    "duration": 1.864
+  },
+  {
+    "text": "That is, we lay down a coordinate system",
+    "start": 54.752,
+    "duration": 2.002
+  },
+  {
+    "text": "with x describing how far something is to the right",
+    "start": 56.754,
+    "duration": 3.417
+  },
+  {
+    "text": "and y describing how high something is.",
+    "start": 60.171,
+    "duration": 2.774
+  },
+  {
+    "text": "So, with these coordinates we can describe",
+    "start": 62.945,
+    "duration": 2.274
+  },
+  {
+    "text": "where Woody is at any instant in time.",
+    "start": 65.219,
+    "duration": 2.335
+  },
+  {
+    "text": "For instance, if we know the coordinates of",
+    "start": 67.554,
+    "duration": 2.167
+  },
+  {
+    "text": "the lower left corner of that image,",
+    "start": 69.721,
+    "duration": 2.082
+  },
+  {
+    "text": "then we know where the rest of the image is.",
+    "start": 71.803,
+    "duration": 1.969
+  },
+  {
+    "text": "And in that little sliding animation we saw a second ago,",
+    "start": 73.772,
+    "duration": 2.699
+  },
+  {
+    "text": "that motion we call translation,",
+    "start": 76.471,
+    "duration": 2.0
+  },
+  {
+    "text": "the x coordinate started with a value of one,",
+    "start": 78.471,
+    "duration": 3.002
+  },
+  {
+    "text": "and it ended with a value of about five.",
+    "start": 81.473,
+    "duration": 2.833
+  },
+  {
+    "text": "So, if we want to write that in mathematics,",
+    "start": 84.306,
+    "duration": 2.394
+  },
+  {
+    "text": "we see that the x at the end is four bigger",
+    "start": 86.7,
+    "duration": 3.438
+  },
+  {
+    "text": "than x at the start.",
+    "start": 90.138,
+    "duration": 1.915
+  },
+  {
+    "text": "So, in other words, the mathematics of translation",
+    "start": 92.053,
+    "duration": 3.029
+  },
+  {
+    "text": "is addition.",
+    "start": 95.082,
+    "duration": 1.418
+  },
+  {
+    "text": "Alright?",
+    "start": 96.5,
+    "duration": 1.335
+  },
+  {
+    "text": "How about scaling?",
+    "start": 97.835,
+    "duration": 1.137
+  },
+  {
+    "text": "That is making something bigger or smaller.",
+    "start": 98.972,
+    "duration": 2.331
+  },
+  {
+    "text": "Any guesses as to what the mathematics of scaling might be?",
+    "start": 101.303,
+    "duration": 2.835
+  },
+  {
+    "text": "Dilation, multiplication, exactly.",
+    "start": 104.138,
+    "duration": 4.084
+  },
+  {
+    "text": "If you're going to make something twice as big,",
+    "start": 108.222,
+    "duration": 1.667
+  },
+  {
+    "text": "you need to mulitply the x and the y coordinates",
+    "start": 109.889,
+    "duration": 2.416
+  },
+  {
+    "text": "all by two.",
+    "start": 112.305,
+    "duration": 1.639
+  },
+  {
+    "text": "So, this shows us that the mathematics of scaling",
+    "start": 113.944,
+    "duration": 2.248
+  },
+  {
+    "text": "is mulitiplication.",
+    "start": 116.192,
+    "duration": 1.329
+  },
+  {
+    "text": "Okay?",
+    "start": 117.521,
+    "duration": 1.033
+  },
+  {
+    "text": "How about this one?",
+    "start": 118.554,
+    "duration": 0.918
+  },
+  {
+    "text": "How about rotation? Alright, spinning around.",
+    "start": 119.472,
+    "duration": 3.25
+  },
+  {
+    "text": "The mathematics of rotation is trigonometry.",
+    "start": 122.722,
+    "duration": 3.349
+  },
+  {
+    "text": "So, here's an equation that expresses that.",
+    "start": 126.071,
+    "duration": 2.068
+  },
+  {
+    "text": "It looks a little scary at first.",
+    "start": 128.139,
+    "duration": 1.855
+  },
+  {
+    "text": "You'll probably get this in eighth or ninth grade.",
+    "start": 129.994,
+    "duration": 3.001
+  },
+  {
+    "text": "If you find yourselves sitting in trigonometry class",
+    "start": 132.995,
+    "duration": 3.005
+  },
+  {
+    "text": "wondering when you're ever going to need this stuff,",
+    "start": 136.0,
+    "duration": 2.759
+  },
+  {
+    "text": "just remember that any time you see anything rotate",
+    "start": 138.759,
+    "duration": 2.411
+  },
+  {
+    "text": "in one of our films,",
+    "start": 141.17,
+    "duration": 1.384
+  },
+  {
+    "text": "there's trigonometry at work underneath.",
+    "start": 142.554,
+    "duration": 2.252
+  },
+  {
+    "text": "I first fell in love with mathematics in seventh grade.",
+    "start": 144.806,
+    "duration": 2.37
+  },
+  {
+    "text": "Any seventh graders? A few of you? Yeah.",
+    "start": 147.176,
+    "duration": 2.546
+  },
+  {
+    "text": "My seventh grade science teacher showed me",
+    "start": 149.722,
+    "duration": 2.333
+  },
+  {
+    "text": "how to use trigonometry to compute",
+    "start": 152.055,
+    "duration": 1.665
+  },
+  {
+    "text": "how high the rockets that I was building was going.",
+    "start": 153.72,
+    "duration": 2.92
+  },
+  {
+    "text": "I just thought that was amazing,",
+    "start": 156.64,
+    "duration": 1.415
+  },
+  {
+    "text": "and I've been enamored with math ever since.",
+    "start": 158.055,
+    "duration": 3.085
+  },
+  {
+    "text": "So, this is kind of old mathematics.",
+    "start": 161.14,
+    "duration": 1.719
+  },
+  {
+    "text": "Mathematics that's been known and, you know,",
+    "start": 162.859,
+    "duration": 1.446
+  },
+  {
+    "text": "developed by the old dead Greek guys.",
+    "start": 164.305,
+    "duration": 2.835
+  },
+  {
+    "text": "And there's a myth out there that all the interesting",
+    "start": 167.14,
+    "duration": 2.081
+  },
+  {
+    "text": "mathematics has already been figured out,",
+    "start": 169.221,
+    "duration": 2.272
+  },
+  {
+    "text": "in fact all of mathematics has been figured out.",
+    "start": 171.493,
+    "duration": 2.836
+  },
+  {
+    "text": "But the real story is that new mathematics",
+    "start": 174.329,
+    "duration": 1.975
+  },
+  {
+    "text": "is being created all the time.",
+    "start": 176.304,
+    "duration": 1.82
+  },
+  {
+    "text": "And some of it is being created at Pixar.",
+    "start": 178.124,
+    "duration": 2.21
+  },
+  {
+    "text": "So, I'd like to give you an example of that.",
+    "start": 180.334,
+    "duration": 2.221
+  },
+  {
+    "text": "So, here are some characters",
+    "start": 182.555,
+    "duration": 1.617
+  },
+  {
+    "text": "from some of our early films:",
+    "start": 184.172,
+    "duration": 1.716
+  },
+  {
+    "text": "Finding Nemo, Monsters Inc. and Toy Story 2.",
+    "start": 185.888,
+    "duration": 4.546
+  },
+  {
+    "text": "Anybody know who the blue character in the upper left is?",
+    "start": 190.434,
+    "duration": 3.248
+  },
+  {
+    "text": "It's Dory. Okay, that was easy.",
+    "start": 193.682,
+    "duration": 1.957
+  },
+  {
+    "text": "Here's a little harder one.",
+    "start": 195.639,
+    "duration": 0.963
+  },
+  {
+    "text": "Anybody know who's the character in the lower right?",
+    "start": 196.602,
+    "duration": 3.251
+  },
+  {
+    "text": "Al McWhiggin from Al's Toy Barn, exactly.",
+    "start": 199.853,
+    "duration": 2.592
+  },
+  {
+    "text": "The thing to notice about these characters",
+    "start": 202.445,
+    "duration": 1.859
+  },
+  {
+    "text": "is they're really complicated.",
+    "start": 204.304,
+    "duration": 1.472
+  },
+  {
+    "text": "Those shapes are really complicated.",
+    "start": 205.776,
+    "duration": 2.002
+  },
+  {
+    "text": "In fact, the toy cleaner, I have an example,",
+    "start": 207.778,
+    "duration": 4.027
+  },
+  {
+    "text": "the toy cleaner there in the middle,",
+    "start": 211.805,
+    "duration": 2.272
+  },
+  {
+    "text": "here's his hand.",
+    "start": 214.077,
+    "duration": 1.669
+  },
+  {
+    "text": "You can imagine how fun it was to bring this",
+    "start": 215.746,
+    "duration": 2.003
+  },
+  {
+    "text": "through airport security.",
+    "start": 217.749,
+    "duration": 3.168
+  },
+  {
+    "text": "His hand is a really complicated shape.",
+    "start": 220.917,
+    "duration": 1.92
+  },
+  {
+    "text": "It's not just a bunch of spheres and cylinders stuck together, right?",
+    "start": 222.837,
+    "duration": 2.875
+  },
+  {
+    "text": "And not only is it complicated,",
+    "start": 225.712,
+    "duration": 1.879
+  },
+  {
+    "text": "but it has to move in complicated ways.",
+    "start": 227.591,
+    "duration": 2.136
+  },
+  {
+    "text": "So, I'd like to tell you how we do that,",
+    "start": 229.727,
+    "duration": 1.782
+  },
+  {
+    "text": "and to do that I need to tell you about midpoints.",
+    "start": 231.509,
+    "duration": 2.262
+  },
+  {
+    "text": "So, here's a couple of points, A and B,",
+    "start": 233.771,
+    "duration": 1.95
+  },
+  {
+    "text": "and the line segment between them.",
+    "start": 235.721,
+    "duration": 1.378
+  },
+  {
+    "text": "We're going to start out first in two dimensions.",
+    "start": 237.099,
+    "duration": 2.205
+  },
+  {
+    "text": "The midpoint, M, is the point",
+    "start": 239.304,
+    "duration": 1.718
+  },
+  {
+    "text": "that splits that line segment in the middle, right?",
+    "start": 241.022,
+    "duration": 2.367
+  },
+  {
+    "text": "So, that's the geometry.",
+    "start": 243.389,
+    "duration": 1.719
+  },
+  {
+    "text": "To make equations and numbers,",
+    "start": 245.108,
+    "duration": 1.363
+  },
+  {
+    "text": "we again introduce a coordinate system,",
+    "start": 246.471,
+    "duration": 2.058
+  },
+  {
+    "text": "and if we know the coordinates of A and B,",
+    "start": 248.529,
+    "duration": 1.943
+  },
+  {
+    "text": "we can easily compute the coordinates of M",
+    "start": 250.472,
+    "duration": 1.933
+  },
+  {
+    "text": "just by averaging.",
+    "start": 252.405,
+    "duration": 1.337
+  },
+  {
+    "text": "You now know enough to work at Pixar.",
+    "start": 253.742,
+    "duration": 2.503
+  },
+  {
+    "text": "Let me show you.",
+    "start": 256.245,
+    "duration": 1.333
+  },
+  {
+    "text": "So, I'm going to do something slightly terrifying",
+    "start": 257.578,
+    "duration": 1.963
+  },
+  {
+    "text": "and move to a live demo here.",
+    "start": 259.541,
+    "duration": 2.514
+  },
+  {
+    "text": "So, what I have is a four-point polygon here,",
+    "start": 262.055,
+    "duration": 3.917
+  },
+  {
+    "text": "and it's going to be my job",
+    "start": 265.972,
+    "duration": 1.116
+  },
+  {
+    "text": "to make a smooth curve out of this thing.",
+    "start": 267.088,
+    "duration": 2.044
+  },
+  {
+    "text": "And I'm going to do it just using the idea of midpoints.",
+    "start": 269.132,
+    "duration": 2.629
+  },
+  {
+    "text": "So, the first thing I'm going to do",
+    "start": 271.761,
+    "duration": 1.168
+  },
+  {
+    "text": "is an operation I'll call split,",
+    "start": 272.929,
+    "duration": 1.96
+  },
+  {
+    "text": "which adds midpoints to all those edges.",
+    "start": 274.889,
+    "duration": 2.208
+  },
+  {
+    "text": "So, I went from four points to eight points,",
+    "start": 277.097,
+    "duration": 2.124
+  },
+  {
+    "text": "but it's no smoother.",
+    "start": 279.221,
+    "duration": 1.297
+  },
+  {
+    "text": "I'm going to make it a little bit smoother",
+    "start": 280.518,
+    "duration": 1.204
+  },
+  {
+    "text": "by moving all of these points from where they are now",
+    "start": 281.722,
+    "duration": 2.969
+  },
+  {
+    "text": "to the midpoint of their clockwise neighbor.",
+    "start": 284.691,
+    "duration": 3.114
+  },
+  {
+    "text": "So, let me animate that for you.",
+    "start": 287.805,
+    "duration": 1.417
+  },
+  {
+    "text": "I'm going to call that the averaging step.",
+    "start": 289.222,
+    "duration": 1.917
+  },
+  {
+    "text": "So, now I've got eight points,",
+    "start": 291.139,
+    "duration": 1.417
+  },
+  {
+    "text": "they're a little bit smoother,",
+    "start": 292.556,
+    "duration": 1.083
+  },
+  {
+    "text": "my job is to make a smooth curve,",
+    "start": 293.639,
+    "duration": 1.686
+  },
+  {
+    "text": "so what do I do?",
+    "start": 295.325,
+    "duration": 1.565
+  },
+  {
+    "text": "Do it again. Split and average.",
+    "start": 296.89,
+    "duration": 2.187
+  },
+  {
+    "text": "So, now I've got sixteen points.",
+    "start": 299.077,
+    "duration": 1.92
+  },
+  {
+    "text": "I'm going to put those two steps,",
+    "start": 300.997,
+    "duration": 1.557
+  },
+  {
+    "text": "split and average, together into something",
+    "start": 302.554,
+    "duration": 1.615
+  },
+  {
+    "text": "I'll call subdivide,",
+    "start": 304.169,
+    "duration": 1.447
+  },
+  {
+    "text": "which just means split and then average.",
+    "start": 305.616,
+    "duration": 1.833
+  },
+  {
+    "text": "So, now I've got 32 points.",
+    "start": 307.449,
+    "duration": 1.813
+  },
+  {
+    "text": "If that's not smooth enough, I'll do more.",
+    "start": 309.262,
+    "duration": 1.438
+  },
+  {
+    "text": "I'll get 64 points.",
+    "start": 310.7,
+    "duration": 1.417
+  },
+  {
+    "text": "Do you see a smooth curve appearing here from",
+    "start": 312.117,
+    "duration": 1.854
+  },
+  {
+    "text": "those original points?",
+    "start": 313.971,
+    "duration": 1.667
+  },
+  {
+    "text": "And that's how we create the shapes",
+    "start": 315.638,
+    "duration": 1.479
+  },
+  {
+    "text": "of our charcters.",
+    "start": 317.117,
+    "duration": 2.105
+  },
+  {
+    "text": "But remember, I said a moment ago",
+    "start": 319.222,
+    "duration": 1.336
+  },
+  {
+    "text": "it's not enough just to know the static shape,",
+    "start": 320.558,
+    "duration": 2.587
+  },
+  {
+    "text": "the fixed shape.",
+    "start": 323.145,
+    "duration": 1.001
+  },
+  {
+    "text": "We need to animate it.",
+    "start": 324.146,
+    "duration": 1.387
+  },
+  {
+    "text": "And to animate these curves,",
+    "start": 325.533,
+    "duration": 1.744
+  },
+  {
+    "text": "the cool thing about subdivision.",
+    "start": 327.277,
+    "duration": 1.623
+  },
+  {
+    "text": "Did you see the aliens in Toy Story?",
+    "start": 328.9,
+    "duration": 2.753
+  },
+  {
+    "text": "You know that sound they make,",
+    "start": 331.653,
+    "duration": 0.881
+  },
+  {
+    "text": "\"Ooh\"? Ready?",
+    "start": 332.534,
+    "duration": 2.167
+  },
+  {
+    "text": "So, the way we animate these curves",
+    "start": 334.701,
+    "duration": 2.249
+  },
+  {
+    "text": "is simply by animating the original four points.",
+    "start": 336.95,
+    "duration": 4.129
+  },
+  {
+    "text": "\"Ooh.\"",
+    "start": 341.079,
+    "duration": 2.587
+  },
+  {
+    "text": "Alright, I think that's pretty cool,",
+    "start": 343.666,
+    "duration": 3.117
+  },
+  {
+    "text": "and if you don't, the door is there,",
+    "start": 346.783,
+    "duration": 2.303
+  },
+  {
+    "text": "it doesn't get any better than that, so.",
+    "start": 349.086,
+    "duration": 3.697
+  },
+  {
+    "text": "This idea of splitting and averaging",
+    "start": 352.783,
+    "duration": 1.834
+  },
+  {
+    "text": "also holds for surfaces.",
+    "start": 354.617,
+    "duration": 2.186
+  },
+  {
+    "text": "So, I'll split, and I'll average.",
+    "start": 356.803,
+    "duration": 3.419
+  },
+  {
+    "text": "I'll split, and I'll average.",
+    "start": 360.222,
+    "duration": 2.041
+  },
+  {
+    "text": "Put those together into subdivide,",
+    "start": 362.263,
+    "duration": 1.604
+  },
+  {
+    "text": "and this how we actually create the shapes",
+    "start": 363.867,
+    "duration": 1.749
+  },
+  {
+    "text": "of all of our surface characters in three dimensions.",
+    "start": 365.616,
+    "duration": 3.49
+  },
+  {
+    "text": "So, this idea of subdivision",
+    "start": 369.106,
+    "duration": 1.428
+  },
+  {
+    "text": "was first used in a short film in 1997",
+    "start": 370.534,
+    "duration": 2.7
+  },
+  {
+    "text": "called Geri's Game.",
+    "start": 373.234,
+    "duration": 1.587
+  },
+  {
+    "text": "And Geri actually made a cameo apperance",
+    "start": 374.821,
+    "duration": 1.961
+  },
+  {
+    "text": "in Toy Story 2 as the toy cleaner.",
+    "start": 376.782,
+    "duration": 2.418
+  },
+  {
+    "text": "Each of his hands",
+    "start": 379.2,
+    "duration": 1.127
+  },
+  {
+    "text": "was the first time we ever used subdivision.",
+    "start": 380.327,
+    "duration": 2.541
+  },
+  {
+    "text": "So, each hand was a subdivision surface,",
+    "start": 382.868,
+    "duration": 1.799
+  },
+  {
+    "text": "his face was a subdivision surface,",
+    "start": 384.667,
+    "duration": 1.839
+  },
+  {
+    "text": "so was his jacket.",
+    "start": 386.506,
+    "duration": 1.329
+  },
+  {
+    "text": "Here's Geri's hand before subdivision,",
+    "start": 387.835,
+    "duration": 1.948
+  },
+  {
+    "text": "and here's Geri's hand after subdivision,",
+    "start": 389.783,
+    "duration": 2.803
+  },
+  {
+    "text": "so subdivision just goes in and smooths out",
+    "start": 392.586,
+    "duration": 2.004
+  },
+  {
+    "text": "all those facets,",
+    "start": 394.59,
+    "duration": 1.252
+  },
+  {
+    "text": "and creates the beautiful surfaces",
+    "start": 395.842,
+    "duration": 1.834
+  },
+  {
+    "text": "that you see on the screen and in the theaters.",
+    "start": 397.676,
+    "duration": 2.44
+  },
+  {
+    "text": "Since that time, we've built all of our characters this way.",
+    "start": 400.116,
+    "duration": 3.066
+  },
+  {
+    "text": "So, here's Merida, the lead character from Brave.",
+    "start": 403.182,
+    "duration": 3.378
+  },
+  {
+    "text": "Her dress was a subdivision surface,",
+    "start": 406.56,
+    "duration": 1.753
+  },
+  {
+    "text": "her hands, her face.",
+    "start": 408.313,
+    "duration": 1.169
+  },
+  {
+    "text": "The faces and hands of all the clansman",
+    "start": 409.482,
+    "duration": 1.718
+  },
+  {
+    "text": "were subdivision surfaces.",
+    "start": 411.2,
+    "duration": 1.621
+  },
+  {
+    "text": "Today we've seen how addition, multiplication,",
+    "start": 412.821,
+    "duration": 2.245
+  },
+  {
+    "text": "trigonometry and geometry play a roll in our films.",
+    "start": 415.066,
+    "duration": 3.772
+  },
+  {
+    "text": "Given a little more time,",
+    "start": 418.838,
+    "duration": 1.237
+  },
+  {
+    "text": "I could show you how linear algebra,",
+    "start": 420.075,
+    "duration": 1.792
+  },
+  {
+    "text": "differential calculus, integral calculus",
+    "start": 421.867,
+    "duration": 2.795
+  },
+  {
+    "text": "also play a roll.",
+    "start": 424.662,
+    "duration": 1.371
+  },
+  {
+    "text": "The main thing I want you to go away with today is",
+    "start": 426.033,
+    "duration": 3.167
+  },
+  {
+    "text": "to just remember that all the math that you're learning",
+    "start": 429.2,
+    "duration": 2.917
+  },
+  {
+    "text": "in high school and actually up through sophomore college",
+    "start": 432.117,
+    "duration": 2.973
+  },
+  {
+    "text": "we use all the time, everyday, at Pixar. Thanks.",
+    "start": 435.09,
+    "duration": 4.835
+  }
+]

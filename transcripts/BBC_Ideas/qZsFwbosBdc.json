@@ -1,0 +1,512 @@
+[
+  {
+    "text": "If you're looking for love, romance,",
+    "start": 0.36,
+    "duration": 2.72
+  },
+  {
+    "text": "or even a friend with benefits\nonline, you're not alone.",
+    "start": 3.12,
+    "duration": 3.64
+  },
+  {
+    "text": "There are more than 11 million\nonline daters in the UK",
+    "start": 6.8,
+    "duration": 3.52
+  },
+  {
+    "text": "with millions more globally,",
+    "start": 10.36,
+    "duration": 2.2
+  },
+  {
+    "text": "but have you ever wondered\nwhat's really going on",
+    "start": 12.6,
+    "duration": 2.68
+  },
+  {
+    "text": "behind those glossy pics\nand witty bios?",
+    "start": 15.32,
+    "duration": 2.88
+  },
+  {
+    "text": "And how can you make sure\nthat your profile stands out",
+    "start": 18.24,
+    "duration": 2.72
+  },
+  {
+    "text": "amidst the endless choice?",
+    "start": 21.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Here's a short guide to making sure\nthose love algorithms",
+    "start": 23.04,
+    "duration": 2.84
+  },
+  {
+    "text": "are working in your favour,",
+    "start": 25.92,
+    "duration": 1.8
+  },
+  {
+    "text": "and how data science can help you\nfind your next match.",
+    "start": 27.76,
+    "duration": 2.76
+  },
+  {
+    "text": "Online dating\nisn't just about luck or fate.",
+    "start": 33.56,
+    "duration": 3.84
+  },
+  {
+    "text": "It's a sophisticated dance\nof data and algorithms.",
+    "start": 37.44,
+    "duration": 3.6
+  },
+  {
+    "text": "These apps are constantly\nharvesting our information -",
+    "start": 41.08,
+    "duration": 3.08
+  },
+  {
+    "text": "our likes, our dislikes,\neven what's in our pictures.",
+    "start": 44.2,
+    "duration": 3.52
+  },
+  {
+    "text": "At its worst, online dating\ncan seem frustrating, addictive,",
+    "start": 47.76,
+    "duration": 3.64
+  },
+  {
+    "text": "expensive, and even detrimental\nto your mental health.",
+    "start": 51.44,
+    "duration": 3.0
+  },
+  {
+    "text": "Yet millions of us still\nput our faith into the hands",
+    "start": 54.48,
+    "duration": 2.92
+  },
+  {
+    "text": "of these digital Cupids.",
+    "start": 57.44,
+    "duration": 1.76
+  },
+  {
+    "text": "But in reality,\nthey're intricate systems",
+    "start": 59.24,
+    "duration": 2.68
+  },
+  {
+    "text": "designed to analyse\nand predict human behaviour.",
+    "start": 61.96,
+    "duration": 3.2
+  },
+  {
+    "text": "An algorithm used in many\ndating apps, including Hinge,",
+    "start": 68.2,
+    "duration": 3.44
+  },
+  {
+    "text": "is the Nobel Prize winning\nGale-Shapley algorithm.",
+    "start": 71.68,
+    "duration": 3.56
+  },
+  {
+    "text": "Think of it like a big group\nof swipers.",
+    "start": 75.28,
+    "duration": 2.72
+  },
+  {
+    "text": "Based on who's liked who,\nthe algorithm wants to find matches",
+    "start": 78.04,
+    "duration": 3.32
+  },
+  {
+    "text": "where no-one can leave\ntheir current match",
+    "start": 81.4,
+    "duration": 2.24
+  },
+  {
+    "text": "to successfully trade up\nwith someone else.",
+    "start": 83.68,
+    "duration": 2.16
+  },
+  {
+    "text": "It's all about\nkeeping things stable.",
+    "start": 85.88,
+    "duration": 2.0
+  },
+  {
+    "text": "No-one jumping ship.",
+    "start": 87.92,
+    "duration": 1.96
+  },
+  {
+    "text": "So your algorithm-approved match",
+    "start": 89.92,
+    "duration": 2.32
+  },
+  {
+    "text": "might not be\nyour dream fantasy crush,",
+    "start": 92.28,
+    "duration": 3.0
+  },
+  {
+    "text": "but they could be\na really stable match,",
+    "start": 95.32,
+    "duration": 2.4
+  },
+  {
+    "text": "so it's worth keeping an open mind,",
+    "start": 97.76,
+    "duration": 1.96
+  },
+  {
+    "text": "and don't let Mr or Ms Right\nslip away with a hasty swipe.",
+    "start": 99.76,
+    "duration": 4.68
+  },
+  {
+    "text": "Ever get that feeling where\nyou're sure there's more out there,",
+    "start": 107.48,
+    "duration": 3.56
+  },
+  {
+    "text": "but it keeps recommending\nthe same types of profiles?",
+    "start": 111.08,
+    "duration": 3.68
+  },
+  {
+    "text": "That's collaborative filtering\nat work.",
+    "start": 114.8,
+    "duration": 2.24
+  },
+  {
+    "text": "It makes assumptions\nabout your preferences",
+    "start": 117.08,
+    "duration": 2.32
+  },
+  {
+    "text": "based on what others with similar\ntastes have chosen before you.",
+    "start": 119.44,
+    "duration": 3.32
+  },
+  {
+    "text": "For example, if someone before you\nchooses a lion and rejects a tiger,",
+    "start": 122.8,
+    "duration": 3.96
+  },
+  {
+    "text": "then when you also choose a lion,",
+    "start": 126.8,
+    "duration": 2.04
+  },
+  {
+    "text": "you might not see a tiger appear\nin your next choices.",
+    "start": 128.88,
+    "duration": 3.24
+  },
+  {
+    "text": "So while you think\nyou're seeing everyone,",
+    "start": 132.16,
+    "duration": 2.24
+  },
+  {
+    "text": "you're really only\nbeing shown the matches",
+    "start": 134.44,
+    "duration": 2.12
+  },
+  {
+    "text": "that the app thinks you'll like\nbased on your previous swipes",
+    "start": 136.6,
+    "duration": 3.16
+  },
+  {
+    "text": "and what others have chosen\nbefore you.",
+    "start": 139.8,
+    "duration": 2.44
+  },
+  {
+    "text": "As you continue to swipe,\nthe dating pool further narrows.",
+    "start": 142.28,
+    "duration": 3.36
+  },
+  {
+    "text": "If you're feeling stuck\nin a mismatched loop,",
+    "start": 145.68,
+    "duration": 2.84
+  },
+  {
+    "text": "you might have unwittingly\nbeen lumped in",
+    "start": 148.56,
+    "duration": 2.24
+  },
+  {
+    "text": "with a group who have a specific\nset of tastes that you don't share.",
+    "start": 150.84,
+    "duration": 4.88
+  },
+  {
+    "text": "Time for a digital makeover.",
+    "start": 155.76,
+    "duration": 2.04
+  },
+  {
+    "text": "There's no reset button\non the algorithm,",
+    "start": 157.84,
+    "duration": 2.76
+  },
+  {
+    "text": "but you could start a fresh profile",
+    "start": 160.64,
+    "duration": 2.72
+  },
+  {
+    "text": "and see if that leads you\nin a new direction.",
+    "start": 163.4,
+    "duration": 1.96
+  },
+  {
+    "text": "But it's not just who you see -\nwhen you swipe matters, too.",
+    "start": 168.4,
+    "duration": 3.88
+  },
+  {
+    "text": "Some dating sites purposefully\nprioritise profiles that are active",
+    "start": 172.32,
+    "duration": 3.8
+  },
+  {
+    "text": "and match you with profiles\nactive at the same time as you.",
+    "start": 176.16,
+    "duration": 3.24
+  },
+  {
+    "text": "Different dating apps\nhave different peak times.",
+    "start": 179.44,
+    "duration": 3.64
+  },
+  {
+    "text": "Catching people at these peak times\ncan boost your visibility",
+    "start": 183.12,
+    "duration": 3.6
+  },
+  {
+    "text": "and improve your chances\nof making a match.",
+    "start": 186.76,
+    "duration": 2.24
+  },
+  {
+    "text": "Think of it like fishing\nwhile the fish are biting.",
+    "start": 189.04,
+    "duration": 3.16
+  },
+  {
+    "text": "Let's say you do get matched.",
+    "start": 196.12,
+    "duration": 2.16
+  },
+  {
+    "text": "That's it, right?\nYou've found the one.",
+    "start": 198.32,
+    "duration": 2.76
+  },
+  {
+    "text": "Well not exactly.",
+    "start": 201.12,
+    "duration": 2.28
+  },
+  {
+    "text": "This is where the placebo effect\ncomes into play.",
+    "start": 203.44,
+    "duration": 3.28
+  },
+  {
+    "text": "Studies have shown that\nwhen you believe an algorithm",
+    "start": 206.76,
+    "duration": 2.56
+  },
+  {
+    "text": "has matched you, you tend to\nrate that person more highly,",
+    "start": 209.36,
+    "duration": 3.48
+  },
+  {
+    "text": "even if the algorithm\ndidn't actually do much.",
+    "start": 212.88,
+    "duration": 2.6
+  },
+  {
+    "text": "The mere suggestion\nthat you're a good match",
+    "start": 215.52,
+    "duration": 2.0
+  },
+  {
+    "text": "can influence your perception\nand behaviour.",
+    "start": 217.56,
+    "duration": 2.68
+  },
+  {
+    "text": "For instance, dating site OKCupid\nran an experiment",
+    "start": 220.28,
+    "duration": 3.76
+  },
+  {
+    "text": "where they told people\nwho were mathematically bad matches",
+    "start": 224.08,
+    "duration": 2.88
+  },
+  {
+    "text": "that they were great matches.",
+    "start": 227.0,
+    "duration": 2.16
+  },
+  {
+    "text": "They found that the simple\nsuggestion of compatibility",
+    "start": 229.2,
+    "duration": 3.52
+  },
+  {
+    "text": "caused people\nto like each other more.",
+    "start": 232.76,
+    "duration": 2.56
+  },
+  {
+    "text": "A lot of people believe",
+    "start": 238.36,
+    "duration": 1.32
+  },
+  {
+    "text": "that uploading\nthe perfect profile picture",
+    "start": 239.72,
+    "duration": 2.6
+  },
+  {
+    "text": "will increase their chances\nof finding the best match.",
+    "start": 242.36,
+    "duration": 3.28
+  },
+  {
+    "text": "And it will,\nbut not how you might think.",
+    "start": 245.68,
+    "duration": 3.08
+  },
+  {
+    "text": "Apps like Tinder can take\ninformation from your photos",
+    "start": 248.8,
+    "duration": 3.32
+  },
+  {
+    "text": "and feed that into the algorithm.",
+    "start": 252.16,
+    "duration": 2.0
+  },
+  {
+    "text": "It recognises themes like outdoors,\npets, being on a beach",
+    "start": 254.2,
+    "duration": 3.68
+  },
+  {
+    "text": "or at a party, and classifies you\nwith similar profile photos.",
+    "start": 257.92,
+    "duration": 5.04
+  },
+  {
+    "text": "So think twice about posting\nthat fancy-dress photo.",
+    "start": 263.0,
+    "duration": 3.16
+  },
+  {
+    "text": "It could be the making or breaking\nof a future match.",
+    "start": 266.2,
+    "duration": 3.56
+  },
+  {
+    "text": "In an effort to win\nat online dating,",
+    "start": 269.8,
+    "duration": 3.32
+  },
+  {
+    "text": "data journalist Amy Webb analysed",
+    "start": 273.16,
+    "duration": 1.96
+  },
+  {
+    "text": "the performance of hundreds\nof dating profiles and looked at",
+    "start": 275.16,
+    "duration": 3.36
+  },
+  {
+    "text": "what made some profiles\nmore successful than others.",
+    "start": 278.56,
+    "duration": 3.36
+  },
+  {
+    "text": "Amy's analysis showed that shorter,\nwell-written profiles",
+    "start": 281.96,
+    "duration": 3.68
+  },
+  {
+    "text": "using positive language\nand avoiding niche references",
+    "start": 285.68,
+    "duration": 2.88
+  },
+  {
+    "text": "were more approachable\nand increased engagement.",
+    "start": 288.6,
+    "duration": 3.4
+  },
+  {
+    "text": "Knowledge is power, especially\nin the world of online dating.",
+    "start": 292.04,
+    "duration": 4.36
+  },
+  {
+    "text": "Understanding how these algorithms\nwork can help you understand why",
+    "start": 296.44,
+    "duration": 3.72
+  },
+  {
+    "text": "you're seeing certain profiles\nand not others,",
+    "start": 300.2,
+    "duration": 3.12
+  },
+  {
+    "text": "and help you put things\nin perspective.",
+    "start": 303.36,
+    "duration": 2.16
+  },
+  {
+    "text": "Making more informed decisions\nabout your online presence",
+    "start": 305.56,
+    "duration": 4.16
+  },
+  {
+    "text": "will optimise your chances\nof finding a compatible partner.",
+    "start": 309.76,
+    "duration": 4.0
+  },
+  {
+    "text": "Remember, while algorithms can help,",
+    "start": 313.8,
+    "duration": 3.2
+  },
+  {
+    "text": "meeting someone face to face\nis probably the only way",
+    "start": 317.04,
+    "duration": 4.24
+  },
+  {
+    "text": "you'll truly be able to see\nif you're compatible.",
+    "start": 321.32,
+    "duration": 3.2
+  },
+  {
+    "text": "Happy dating!",
+    "start": 327.88,
+    "duration": 1.36
+  }
+]

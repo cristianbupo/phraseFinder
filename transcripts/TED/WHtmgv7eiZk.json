@@ -1,0 +1,572 @@
+[
+  {
+    "text": "Breast cancer is one of the leading\ncauses of cancer deaths globally.",
+    "start": 5.377,
+    "duration": 4.796
+  },
+  {
+    "text": "About one in eight US women\nwill develop invasive breast cancer",
+    "start": 10.215,
+    "duration": 4.129
+  },
+  {
+    "text": "over the course of their lifetime.",
+    "start": 14.344,
+    "duration": 1.877
+  },
+  {
+    "text": "And globally, millions of women\nsuffer from breast cancer every year.",
+    "start": 16.555,
+    "duration": 4.546
+  },
+  {
+    "text": "But it is quite treatable\nif detected early.",
+    "start": 22.185,
+    "duration": 2.753
+  },
+  {
+    "text": "Right now, actually,\nmammography is the gold standard",
+    "start": 25.897,
+    "duration": 3.671
+  },
+  {
+    "text": "for breast cancer diagnosis.",
+    "start": 29.609,
+    "duration": 1.585
+  },
+  {
+    "text": "But mammography has a 10 percent chance\nof missed detection.",
+    "start": 31.903,
+    "duration": 3.754
+  },
+  {
+    "text": "Thousands of lives could be lost each year",
+    "start": 36.449,
+    "duration": 3.254
+  },
+  {
+    "text": "because of this 10 percent.",
+    "start": 39.703,
+    "duration": 1.793
+  },
+  {
+    "text": "Today, I’m going to introduce\na new technology:",
+    "start": 43.623,
+    "duration": 3.671
+  },
+  {
+    "text": "photoacoustic imaging.",
+    "start": 47.877,
+    "duration": 1.669
+  },
+  {
+    "text": "As you can see,",
+    "start": 50.255,
+    "duration": 1.376
+  },
+  {
+    "text": "it provides a much clearer image,",
+    "start": 51.673,
+    "duration": 2.586
+  },
+  {
+    "text": "leading to a more accurate diagnosis.",
+    "start": 54.301,
+    "duration": 2.794
+  },
+  {
+    "text": "It will be affordable,\njust like an ultrasound scan.",
+    "start": 57.762,
+    "duration": 3.462
+  },
+  {
+    "text": "It's painless and fast,",
+    "start": 62.309,
+    "duration": 1.543
+  },
+  {
+    "text": "taking only 15 seconds\nto scan the entire breast in 3D.",
+    "start": 63.893,
+    "duration": 4.338
+  },
+  {
+    "text": "And immediate results\nwill be delivered to the patients.",
+    "start": 69.024,
+    "duration": 3.295
+  },
+  {
+    "text": "Beyond breast imaging,",
+    "start": 74.07,
+    "duration": 1.46
+  },
+  {
+    "text": "this technology will broadly transform\nhow we see inside our bodies --",
+    "start": 75.572,
+    "duration": 4.755
+  },
+  {
+    "text": "and, maybe one day, even allow us\nto diagnose cancer",
+    "start": 80.368,
+    "duration": 3.837
+  },
+  {
+    "text": "via a wearable watch-like device",
+    "start": 84.247,
+    "duration": 2.086
+  },
+  {
+    "text": "that monitors circulating tumor cells.",
+    "start": 86.374,
+    "duration": 2.795
+  },
+  {
+    "text": "So what is photoacoustic imaging?",
+    "start": 90.17,
+    "duration": 2.794
+  },
+  {
+    "text": "Based on a photoacoustic effect,",
+    "start": 94.007,
+    "duration": 2.085
+  },
+  {
+    "text": "it is a conversion of light energy\ninto sound energy.",
+    "start": 96.134,
+    "duration": 3.754
+  },
+  {
+    "text": "We shot a gentle laser pulse\nonto the tissue.",
+    "start": 101.139,
+    "duration": 2.836
+  },
+  {
+    "text": "The light is absorbed,\nraising its temperature a bit.",
+    "start": 104.768,
+    "duration": 3.628
+  },
+  {
+    "text": "The rise in temperature leads\nto a tiny fraction of volume expansion,",
+    "start": 109.189,
+    "duration": 5.38
+  },
+  {
+    "text": "which, in turn, generates acoustic waves.",
+    "start": 116.988,
+    "duration": 2.544
+  },
+  {
+    "text": "Sensors process those sound signals,",
+    "start": 120.909,
+    "duration": 2.919
+  },
+  {
+    "text": "resulting in a high-resolution image",
+    "start": 123.87,
+    "duration": 2.669
+  },
+  {
+    "text": "whose level of clarity\nand detail far surpasses",
+    "start": 126.581,
+    "duration": 3.587
+  },
+  {
+    "text": "what you've got with traditional\nCT scans or ultrasound.",
+    "start": 130.21,
+    "duration": 4.171
+  },
+  {
+    "text": "Now, about me.",
+    "start": 137.342,
+    "duration": 1.668
+  },
+  {
+    "text": "I started out in industrial optics,",
+    "start": 140.303,
+    "duration": 2.711
+  },
+  {
+    "text": "but changed direction",
+    "start": 143.056,
+    "duration": 1.501
+  },
+  {
+    "text": "after my grandparents died\nof cancer and stroke.",
+    "start": 144.557,
+    "duration": 3.003
+  },
+  {
+    "text": "I realized that we needed\nbetter imaging technology",
+    "start": 148.853,
+    "duration": 3.629
+  },
+  {
+    "text": "to aid early diagnosis",
+    "start": 152.482,
+    "duration": 1.793
+  },
+  {
+    "text": "and to provide a better\nunderstanding of the diseases.",
+    "start": 154.317,
+    "duration": 3.087
+  },
+  {
+    "text": "So I decided to devote myself\nto biomedical optical imaging.",
+    "start": 157.987,
+    "duration": 5.506
+  },
+  {
+    "text": "I now research and develop\nnext generation medical imaging",
+    "start": 164.327,
+    "duration": 3.504
+  },
+  {
+    "text": "with applications ranging\nfrom diagnosing cancer",
+    "start": 167.831,
+    "duration": 2.794
+  },
+  {
+    "text": "to mapping brain functions",
+    "start": 170.667,
+    "duration": 1.376
+  },
+  {
+    "text": "and navigating medical micro robots\nfor drug delivery.",
+    "start": 172.085,
+    "duration": 3.629
+  },
+  {
+    "text": "Here are some examples\nshowing what we can do.",
+    "start": 176.631,
+    "duration": 2.753
+  },
+  {
+    "text": "Take this mouse.",
+    "start": 180.009,
+    "duration": 1.293
+  },
+  {
+    "text": "The mouse has been virtually sliced\ninto 600 pieces from head to toe.",
+    "start": 181.928,
+    "duration": 4.838
+  },
+  {
+    "text": "It took only 12 seconds\nto complete the whole body scan.",
+    "start": 187.434,
+    "duration": 3.753
+  },
+  {
+    "text": "It looks a little like a mouse carpaccio.",
+    "start": 192.48,
+    "duration": 2.544
+  },
+  {
+    "text": "(Laughter)",
+    "start": 195.066,
+    "duration": 1.752
+  },
+  {
+    "text": "But don't worry, no mice were hurt\nduring the imaging.",
+    "start": 196.86,
+    "duration": 2.627
+  },
+  {
+    "text": "(Laughter)",
+    "start": 199.529,
+    "duration": 1.168
+  },
+  {
+    "text": "In this next video,",
+    "start": 202.031,
+    "duration": 1.585
+  },
+  {
+    "text": "we hold the animal, another mouse,\nin position to image its liver.",
+    "start": 203.616,
+    "duration": 3.879
+  },
+  {
+    "text": "The liver has a lot\nof blood vessels inside.",
+    "start": 207.871,
+    "duration": 2.46
+  },
+  {
+    "text": "You can see them as a tree-like network.",
+    "start": 210.373,
+    "duration": 2.336
+  },
+  {
+    "text": "Because our imaging exposure time\nis too short, only 15 microseconds,",
+    "start": 213.71,
+    "duration": 4.588
+  },
+  {
+    "text": "there is no blur at all,",
+    "start": 218.339,
+    "duration": 1.669
+  },
+  {
+    "text": "despite the movement of the animal\nduring the imaging.",
+    "start": 220.049,
+    "duration": 3.003
+  },
+  {
+    "text": "The mouse is breathing normally,",
+    "start": 224.095,
+    "duration": 2.002
+  },
+  {
+    "text": "and every frame in our video is clear.",
+    "start": 226.139,
+    "duration": 2.628
+  },
+  {
+    "text": "With each slice we can clearly see\nthe internal structure",
+    "start": 230.268,
+    "duration": 3.378
+  },
+  {
+    "text": "and the blood vessel network.",
+    "start": 233.646,
+    "duration": 2.211
+  },
+  {
+    "text": "This enables us to differentiate\na tumor from normal tissue.",
+    "start": 235.899,
+    "duration": 4.212
+  },
+  {
+    "text": "The light dose we use\nis well below the safety limit,",
+    "start": 241.07,
+    "duration": 3.421
+  },
+  {
+    "text": "and we don't need to inject\nany contrast agents.",
+    "start": 244.491,
+    "duration": 3.503
+  },
+  {
+    "text": "It is totally non-invasive.",
+    "start": 247.994,
+    "duration": 2.085
+  },
+  {
+    "text": "Now, for an example,\nthat is a little closer to home.",
+    "start": 251.08,
+    "duration": 3.713
+  },
+  {
+    "text": "This is a side by side comparison\nof human brain images.",
+    "start": 255.543,
+    "duration": 3.754
+  },
+  {
+    "text": "On the left, you see an image from an MRI.",
+    "start": 259.923,
+    "duration": 3.295
+  },
+  {
+    "text": "On the right, from photoacoustic imaging.",
+    "start": 263.259,
+    "duration": 2.711
+  },
+  {
+    "text": "Photoacoustic imaging can reveal\ndetailed vasculature,",
+    "start": 267.18,
+    "duration": 3.211
+  },
+  {
+    "text": "but with even faster detection\nof the brain functions",
+    "start": 270.433,
+    "duration": 3.045
+  },
+  {
+    "text": "and without using\nthe costly high-magnetic field.",
+    "start": 273.478,
+    "duration": 3.17
+  },
+  {
+    "text": "What you are seeing here\nis the brain's activity,",
+    "start": 278.191,
+    "duration": 2.919
+  },
+  {
+    "text": "where a patient, now a human this time,",
+    "start": 281.152,
+    "duration": 2.628
+  },
+  {
+    "text": "taps his finger, puckers his lips,",
+    "start": 283.78,
+    "duration": 2.544
+  },
+  {
+    "text": "taps his tongue and is listening\nand thinking of words.",
+    "start": 286.366,
+    "duration": 3.42
+  },
+  {
+    "text": "Although I don't have a visual for it,\nI'd like to share one more example.",
+    "start": 292.288,
+    "duration": 3.796
+  },
+  {
+    "text": "In science fiction,",
+    "start": 297.544,
+    "duration": 1.293
+  },
+  {
+    "text": "micro robots enter our bodies\nto cure diseases",
+    "start": 298.878,
+    "duration": 3.379
+  },
+  {
+    "text": "in hard-to-reach areas.",
+    "start": 302.298,
+    "duration": 1.669
+  },
+  {
+    "text": "However, in reality,",
+    "start": 304.592,
+    "duration": 2.628
+  },
+  {
+    "text": "locating, guiding and controlling them\ninside of the body is a big challenge.",
+    "start": 307.262,
+    "duration": 4.546
+  },
+  {
+    "text": "Just like the satellites in space\nguiding cars to their destinations,",
+    "start": 312.684,
+    "duration": 4.004
+  },
+  {
+    "text": "a photoacoustic imaging system\noutside the body",
+    "start": 316.729,
+    "duration": 2.461
+  },
+  {
+    "text": "can serve similarly as a GPS\nfor the micro robots.",
+    "start": 319.232,
+    "duration": 3.67
+  },
+  {
+    "text": "Biomedical optics has come a long way.",
+    "start": 324.487,
+    "duration": 2.503
+  },
+  {
+    "text": "The microscope used every day\nin modern medical diagnosis",
+    "start": 327.991,
+    "duration": 3.461
+  },
+  {
+    "text": "was invented in the 17th century,",
+    "start": 331.452,
+    "duration": 2.211
+  },
+  {
+    "text": "which revolutionized 19th century medicine\nby letting us see into a cell.",
+    "start": 333.705,
+    "duration": 4.629
+  },
+  {
+    "text": "Then, optical coherence tomography\ndeveloped in 1990s",
+    "start": 340.128,
+    "duration": 5.756
+  },
+  {
+    "text": "increased optical penetration\nto 1 millimeter,",
+    "start": 345.925,
+    "duration": 3.337
+  },
+  {
+    "text": "bringing huge benefits to clinical care\nfor skin and eyes.",
+    "start": 349.304,
+    "duration": 4.754
+  },
+  {
+    "text": "Now, photoacoustic imaging,",
+    "start": 355.476,
+    "duration": 2.962
+  },
+  {
+    "text": "first adopted for medical\nuse in the 2000s,",
+    "start": 358.438,
+    "duration": 2.919
+  },
+  {
+    "text": "allows us to see even more,",
+    "start": 361.399,
+    "duration": 2.252
+  },
+  {
+    "text": "allowing penetration\nby another order of magnitude,",
+    "start": 364.152,
+    "duration": 3.17
+  },
+  {
+    "text": "to several centimeters,",
+    "start": 367.322,
+    "duration": 1.793
+  },
+  {
+    "text": "allowing organ-level in vivo\nhuman imaging.",
+    "start": 369.157,
+    "duration": 3.336
+  },
+  {
+    "text": "Photoacoustic imaging is a highly-active\nand a fast-growing research field.",
+    "start": 373.87,
+    "duration": 3.92
+  },
+  {
+    "text": "Using microwaves instead of light,",
+    "start": 379.584,
+    "duration": 2.502
+  },
+  {
+    "text": "this imaging method holds promises\nfor whole body penetration in humans",
+    "start": 382.128,
+    "duration": 4.922
+  },
+  {
+    "text": "in the future.",
+    "start": 387.091,
+    "duration": 1.168
+  },
+  {
+    "text": "We are hoping that the further\nadvancement of this technology",
+    "start": 389.093,
+    "duration": 3.462
+  },
+  {
+    "text": "will aid early diagnosis of cancer\nand brain diseases,",
+    "start": 392.555,
+    "duration": 3.837
+  },
+  {
+    "text": "ultimately benefiting global health.",
+    "start": 396.434,
+    "duration": 2.878
+  },
+  {
+    "text": "I hope you all can share my excitement\nover this fast-growing field",
+    "start": 400.271,
+    "duration": 4.213
+  },
+  {
+    "text": "and hope you'll join us\nin advancing the technology.",
+    "start": 404.525,
+    "duration": 3.754
+  },
+  {
+    "text": "Thank you.",
+    "start": 408.988,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 410.156,
+    "duration": 3.295
+  }
+]

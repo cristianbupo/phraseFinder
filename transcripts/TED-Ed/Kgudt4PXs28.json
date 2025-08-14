@@ -1,0 +1,342 @@
+[
+  {
+    "text": "You and a fellow castaway\nare stranded on a desert island",
+    "start": 6.412,
+    "duration": 4.146
+  },
+  {
+    "text": "playing dice for the last banana.",
+    "start": 10.558,
+    "duration": 3.052
+  },
+  {
+    "text": "You've agreed on these rules:",
+    "start": 13.61,
+    "duration": 1.994
+  },
+  {
+    "text": "You'll roll two dice,",
+    "start": 15.604,
+    "duration": 1.542
+  },
+  {
+    "text": "and if the biggest number \nis one, two, three or four,",
+    "start": 17.146,
+    "duration": 3.923
+  },
+  {
+    "text": "player one wins.",
+    "start": 21.069,
+    "duration": 2.284
+  },
+  {
+    "text": "If the biggest number is five or six, \nplayer two wins.",
+    "start": 23.353,
+    "duration": 4.973
+  },
+  {
+    "text": "Let's try twice more.",
+    "start": 28.326,
+    "duration": 1.828
+  },
+  {
+    "text": "Here, player one wins,",
+    "start": 30.154,
+    "duration": 3.093
+  },
+  {
+    "text": "and here it's player two.",
+    "start": 33.247,
+    "duration": 2.724
+  },
+  {
+    "text": "So who do you want to be?",
+    "start": 35.971,
+    "duration": 1.77
+  },
+  {
+    "text": "At first glance, it may seem \nlike player one has the advantage",
+    "start": 37.741,
+    "duration": 4.466
+  },
+  {
+    "text": "since she'll win if any one \nof four numbers is the highest,",
+    "start": 42.207,
+    "duration": 4.015
+  },
+  {
+    "text": "but actually,",
+    "start": 46.222,
+    "duration": 1.014
+  },
+  {
+    "text": "player two has an approximately\n56% chance of winning each match.",
+    "start": 47.236,
+    "duration": 6.383
+  },
+  {
+    "text": "One way to see that is to list all\nthe possible combinations you could get",
+    "start": 53.619,
+    "duration": 3.908
+  },
+  {
+    "text": "by rolling two dice,",
+    "start": 57.527,
+    "duration": 2.0
+  },
+  {
+    "text": "and then count up \nthe ones that each player wins.",
+    "start": 59.527,
+    "duration": 3.147
+  },
+  {
+    "text": "These are the possibilities\nfor the yellow die.",
+    "start": 62.674,
+    "duration": 2.634
+  },
+  {
+    "text": "These are the possibilities \nfor the blue die.",
+    "start": 65.308,
+    "duration": 2.476
+  },
+  {
+    "text": "Each cell in the chart shows a possible\ncombination when you roll both dice.",
+    "start": 67.784,
+    "duration": 5.43
+  },
+  {
+    "text": "If you roll a four and then a five,",
+    "start": 73.214,
+    "duration": 2.055
+  },
+  {
+    "text": "we'll mark a player two \nvictory in this cell.",
+    "start": 75.269,
+    "duration": 2.176
+  },
+  {
+    "text": "A three and a one gives \nplayer one a victory here.",
+    "start": 77.445,
+    "duration": 5.051
+  },
+  {
+    "text": "There are 36 possible combinations,",
+    "start": 82.496,
+    "duration": 2.321
+  },
+  {
+    "text": "each with exactly the same \nchance of happening.",
+    "start": 84.817,
+    "duration": 3.274
+  },
+  {
+    "text": "Mathematicians call these\nequiprobable events.",
+    "start": 88.091,
+    "duration": 3.145
+  },
+  {
+    "text": "Now we can see why \nthe first glance was wrong.",
+    "start": 91.236,
+    "duration": 3.565
+  },
+  {
+    "text": "Even though player one \nhas four winning numbers,",
+    "start": 94.801,
+    "duration": 2.665
+  },
+  {
+    "text": "and player two only has two,",
+    "start": 97.466,
+    "duration": 2.094
+  },
+  {
+    "text": "the chance of each number \nbeing the greatest is not the same.",
+    "start": 99.56,
+    "duration": 4.144
+  },
+  {
+    "text": "There is only a one in 36 chance\nthat one will be the highest number.",
+    "start": 103.704,
+    "duration": 4.977
+  },
+  {
+    "text": "But there's an 11 in 36 chance \nthat six will be the highest.",
+    "start": 108.681,
+    "duration": 4.176
+  },
+  {
+    "text": "So if any of these \ncombinations are rolled,",
+    "start": 112.857,
+    "duration": 2.729
+  },
+  {
+    "text": "player one will win.",
+    "start": 115.586,
+    "duration": 1.887
+  },
+  {
+    "text": "And if any of these \ncombinations are rolled,",
+    "start": 117.473,
+    "duration": 2.195
+  },
+  {
+    "text": "player two will win.",
+    "start": 119.668,
+    "duration": 1.729
+  },
+  {
+    "text": "Out of the 36 possible combinations,",
+    "start": 121.397,
+    "duration": 2.322
+  },
+  {
+    "text": "16 give the victory to player one,\nand 20 give player two the win.",
+    "start": 123.719,
+    "duration": 6.1
+  },
+  {
+    "text": "You could think about it this way, too.",
+    "start": 129.819,
+    "duration": 2.344
+  },
+  {
+    "text": "The only way player one can win",
+    "start": 132.163,
+    "duration": 2.196
+  },
+  {
+    "text": "is if both dice show \na one, two, three or four.",
+    "start": 134.359,
+    "duration": 4.28
+  },
+  {
+    "text": "A five or six would mean \na win for player two.",
+    "start": 138.639,
+    "duration": 2.957
+  },
+  {
+    "text": "The chance of one die showing one, two,\nthree or four is four out of six.",
+    "start": 141.596,
+    "duration": 5.109
+  },
+  {
+    "text": "The result of each die roll \nis independent from the other.",
+    "start": 146.705,
+    "duration": 3.851
+  },
+  {
+    "text": "And you can calculate the joint \nprobability of independent events",
+    "start": 150.556,
+    "duration": 3.313
+  },
+  {
+    "text": "by multiplying their probabilities.",
+    "start": 153.869,
+    "duration": 2.517
+  },
+  {
+    "text": "So the chance of getting a one, two, \nthree or four on both dice",
+    "start": 156.386,
+    "duration": 4.436
+  },
+  {
+    "text": "is 4/6 times 4/6, or 16/36.",
+    "start": 160.822,
+    "duration": 5.457
+  },
+  {
+    "text": "Because someone has to win,",
+    "start": 166.279,
+    "duration": 2.188
+  },
+  {
+    "text": "the chance of player two winning\nis 36/36 minus 16/36,",
+    "start": 168.467,
+    "duration": 6.035
+  },
+  {
+    "text": "or 20/36.",
+    "start": 174.502,
+    "duration": 2.801
+  },
+  {
+    "text": "Those are the exact same probabilities\nwe got by making our table.",
+    "start": 177.303,
+    "duration": 4.106
+  },
+  {
+    "text": "But this doesn't mean \nthat player two will win,",
+    "start": 181.409,
+    "duration": 2.636
+  },
+  {
+    "text": "or even that if you played 36 games\nas player two, you'd win 20 of them.",
+    "start": 184.045,
+    "duration": 5.368
+  },
+  {
+    "text": "That's why events like dice rolling \nare called random.",
+    "start": 189.413,
+    "duration": 3.211
+  },
+  {
+    "text": "Even though you can calculate \nthe theoretical probability",
+    "start": 192.624,
+    "duration": 3.279
+  },
+  {
+    "text": "of each outcome,",
+    "start": 195.903,
+    "duration": 1.512
+  },
+  {
+    "text": "you might not get the expected results\nif you examine just a few events.",
+    "start": 197.415,
+    "duration": 4.655
+  },
+  {
+    "text": "But if you repeat those random events\nmany, many, many times,",
+    "start": 202.07,
+    "duration": 4.347
+  },
+  {
+    "text": "the frequency of a specific outcome,\nlike a player two win,",
+    "start": 206.417,
+    "duration": 3.94
+  },
+  {
+    "text": "will approach its theoretical probability,",
+    "start": 210.357,
+    "duration": 3.061
+  },
+  {
+    "text": "that value we got by writing down \nall the possibilities",
+    "start": 213.418,
+    "duration": 2.954
+  },
+  {
+    "text": "and counting up the ones for each outcome.",
+    "start": 216.372,
+    "duration": 2.667
+  },
+  {
+    "text": "So, if you sat on that desert island\nplaying dice forever,",
+    "start": 219.039,
+    "duration": 3.955
+  },
+  {
+    "text": "player two would eventually \nwin 56% of the games,",
+    "start": 222.994,
+    "duration": 3.919
+  },
+  {
+    "text": "and player one would win 44%.",
+    "start": 226.913,
+    "duration": 3.082
+  },
+  {
+    "text": "But by then, of course, the banana\nwould be long gone.",
+    "start": 229.995,
+    "duration": 3.569
+  }
+]

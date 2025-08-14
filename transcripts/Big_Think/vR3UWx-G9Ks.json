@@ -1,0 +1,627 @@
+[
+  {
+    "text": "- When most engineers hear\nabout the theory of evolution",
+    "start": 13.02,
+    "duration": 3.27
+  },
+  {
+    "text": "for the first time, the\nreaction is one of incredulity.",
+    "start": 16.29,
+    "duration": 4.623
+  },
+  {
+    "text": "And that's because anybody\nwho's ever made anything",
+    "start": 22.17,
+    "duration": 3.54
+  },
+  {
+    "text": "from writing a computer program",
+    "start": 25.71,
+    "duration": 1.26
+  },
+  {
+    "text": "to building a complicated device,",
+    "start": 26.97,
+    "duration": 1.68
+  },
+  {
+    "text": "you know that it's entirely likely",
+    "start": 28.65,
+    "duration": 2.01
+  },
+  {
+    "text": "that random changes that\nyou make to that system",
+    "start": 30.66,
+    "duration": 2.73
+  },
+  {
+    "text": "are not gonna make things better,",
+    "start": 33.39,
+    "duration": 1.08
+  },
+  {
+    "text": "they're gonna make it worse.",
+    "start": 34.47,
+    "duration": 1.86
+  },
+  {
+    "text": "And so, the interesting\nthing about evolution is",
+    "start": 36.33,
+    "duration": 2.19
+  },
+  {
+    "text": "trying to understand how life\ngets around that problem.",
+    "start": 38.52,
+    "duration": 5.0
+  },
+  {
+    "text": "It's often thought that\nwhat evolution produces",
+    "start": 43.56,
+    "duration": 2.46
+  },
+  {
+    "text": "are specific solutions to\nspecific environmental challenges.",
+    "start": 46.02,
+    "duration": 3.36
+  },
+  {
+    "text": "What I think is a more\naccurate way of putting",
+    "start": 49.38,
+    "duration": 2.28
+  },
+  {
+    "text": "it is that what evolution\nactually gives us",
+    "start": 51.66,
+    "duration": 2.7
+  },
+  {
+    "text": "are problem solving machines.",
+    "start": 54.36,
+    "duration": 1.893
+  },
+  {
+    "text": "Hierarchical biological\nhardware that is very good",
+    "start": 57.15,
+    "duration": 3.39
+  },
+  {
+    "text": "at solving problems without\nmaking strong assumptions",
+    "start": 60.54,
+    "duration": 3.81
+  },
+  {
+    "text": "about what the environment\nis or how many cells it has",
+    "start": 64.35,
+    "duration": 2.73
+  },
+  {
+    "text": "or how many copies of the genome it has.",
+    "start": 67.08,
+    "duration": 2.34
+  },
+  {
+    "text": "Of course, there are ways\nto mess up that process",
+    "start": 69.42,
+    "duration": 2.61
+  },
+  {
+    "text": "and we scientists have\nmany ways of doing that,",
+    "start": 72.03,
+    "duration": 2.01
+  },
+  {
+    "text": "but the default is\namazingly much more rich",
+    "start": 74.04,
+    "duration": 3.87
+  },
+  {
+    "text": "than you would expect, just\nfrom something that was tailored",
+    "start": 77.91,
+    "duration": 2.01
+  },
+  {
+    "text": "to a specific environment.",
+    "start": 79.92,
+    "duration": 1.3
+  },
+  {
+    "text": "So one set of experiments that\nreally showed the importance",
+    "start": 82.71,
+    "duration": 2.88
+  },
+  {
+    "text": "of not assuming the level\nof competency of a system",
+    "start": 85.59,
+    "duration": 2.91
+  },
+  {
+    "text": "was our work with \"Picasso Tadpoles,\"",
+    "start": 88.5,
+    "duration": 1.89
+  },
+  {
+    "text": "that rearrange their face.",
+    "start": 90.39,
+    "duration": 2.04
+  },
+  {
+    "text": "We have a way of communicating\nto a bunch of cells",
+    "start": 92.43,
+    "duration": 3.24
+  },
+  {
+    "text": "in the frog embryo that\nthey should make an eye,",
+    "start": 95.67,
+    "duration": 3.0
+  },
+  {
+    "text": "and this is done via some\nbioelectrical signaling",
+    "start": 98.67,
+    "duration": 2.34
+  },
+  {
+    "text": "and we give them the signal,",
+    "start": 101.01,
+    "duration": 1.41
+  },
+  {
+    "text": "and they go ahead and they build an eye.",
+    "start": 102.42,
+    "duration": 1.92
+  },
+  {
+    "text": "This does not require us to\nknow how to build an eye.",
+    "start": 104.34,
+    "duration": 2.64
+  },
+  {
+    "text": "We don't specify all of\nthe information needed",
+    "start": 106.98,
+    "duration": 2.19
+  },
+  {
+    "text": "to make an eye.",
+    "start": 109.17,
+    "duration": 0.9
+  },
+  {
+    "text": "All we do is provide\nthat high-level directive",
+    "start": 110.07,
+    "duration": 2.52
+  },
+  {
+    "text": "that resets the set point",
+    "start": 112.59,
+    "duration": 1.62
+  },
+  {
+    "text": "for these cells, and they will go ahead",
+    "start": 114.21,
+    "duration": 1.8
+  },
+  {
+    "text": "and they will build an eye\nwherever we want in the body.",
+    "start": 116.01,
+    "duration": 3.27
+  },
+  {
+    "text": "So this isn't because we\nhave done something new,",
+    "start": 119.28,
+    "duration": 2.43
+  },
+  {
+    "text": "we haven't engineered any\nnew circuits into the embryo;",
+    "start": 121.71,
+    "duration": 2.52
+  },
+  {
+    "text": "this is only because we've taken advantage",
+    "start": 124.23,
+    "duration": 2.16
+  },
+  {
+    "text": "of what the system already does.",
+    "start": 126.39,
+    "duration": 1.59
+  },
+  {
+    "text": "This is how biology works.",
+    "start": 127.98,
+    "duration": 1.17
+  },
+  {
+    "text": "It uses large-scale triggers",
+    "start": 129.15,
+    "duration": 2.73
+  },
+  {
+    "text": "and ways to change the goal-directed\nbehavior of these cells",
+    "start": 131.88,
+    "duration": 4.05
+  },
+  {
+    "text": "and then lets the lower\nlevels handle this.",
+    "start": 135.93,
+    "duration": 2.43
+  },
+  {
+    "text": "And another example is what\nhappens in the frog face.",
+    "start": 138.36,
+    "duration": 2.85
+  },
+  {
+    "text": "If we move the various\norgans of the early embryo,",
+    "start": 141.21,
+    "duration": 3.03
+  },
+  {
+    "text": "you still get largely normal frogs",
+    "start": 144.24,
+    "duration": 1.92
+  },
+  {
+    "text": "because every organ will\nmove around in novel paths",
+    "start": 146.16,
+    "duration": 3.12
+  },
+  {
+    "text": "even despite the fact",
+    "start": 149.28,
+    "duration": 1.32
+  },
+  {
+    "text": "that they start off in\nthe incorrect position.",
+    "start": 150.6,
+    "duration": 3.12
+  },
+  {
+    "text": "And so what you could imagine is",
+    "start": 153.72,
+    "duration": 1.29
+  },
+  {
+    "text": "that evolution is not necessarily\njust searching the space",
+    "start": 155.01,
+    "duration": 3.96
+  },
+  {
+    "text": "of all possible micro states\nof the hardware, right,",
+    "start": 158.97,
+    "duration": 2.82
+  },
+  {
+    "text": "that whole phenotypic space,",
+    "start": 161.79,
+    "duration": 2.04
+  },
+  {
+    "text": "but it might also be\nsearching a much easier base",
+    "start": 163.83,
+    "duration": 2.76
+  },
+  {
+    "text": "of behavior-shaping signals.",
+    "start": 166.59,
+    "duration": 1.743
+  },
+  {
+    "text": "So that means that",
+    "start": 169.53,
+    "duration": 1.35
+  },
+  {
+    "text": "because the individual parts\ncan often get their job done,",
+    "start": 170.88,
+    "duration": 3.24
+  },
+  {
+    "text": "even when things change, that competency-",
+    "start": 174.12,
+    "duration": 2.52
+  },
+  {
+    "text": "the fact that small changes do\nnot wreck the whole business",
+    "start": 176.64,
+    "duration": 3.0
+  },
+  {
+    "text": "because the different\nparts have the ability",
+    "start": 179.64,
+    "duration": 1.65
+  },
+  {
+    "text": "to get their job done even\nif the circumstances change-",
+    "start": 181.29,
+    "duration": 2.94
+  },
+  {
+    "text": "that has huge implications\nfor evolution because it means",
+    "start": 184.23,
+    "duration": 2.97
+  },
+  {
+    "text": "that the material can make\nup for a lot of damage",
+    "start": 187.2,
+    "duration": 2.52
+  },
+  {
+    "text": "and a lot of changes in the hardware.",
+    "start": 189.72,
+    "duration": 2.073
+  },
+  {
+    "text": "So I think what biology does",
+    "start": 193.56,
+    "duration": 1.95
+  },
+  {
+    "text": "and what evolution does is\nit basically finds machines",
+    "start": 195.51,
+    "duration": 2.91
+  },
+  {
+    "text": "that, structurally, it builds\nmachines via the genome",
+    "start": 198.42,
+    "duration": 3.36
+  },
+  {
+    "text": "that optimally take advantage\nof these various free gifts,",
+    "start": 201.78,
+    "duration": 3.69
+  },
+  {
+    "text": "what physicists might call a 'free lunch.'",
+    "start": 205.47,
+    "duration": 2.0
+  },
+  {
+    "text": "For example, if you're evolution",
+    "start": 208.8,
+    "duration": 2.01
+  },
+  {
+    "text": "and you want to evolve a\nparticular kind of triangle,",
+    "start": 210.81,
+    "duration": 2.79
+  },
+  {
+    "text": "you do a lot of work sorting\nthrough the population",
+    "start": 213.6,
+    "duration": 2.07
+  },
+  {
+    "text": "and you get the first angle,\nand then you do a lot more work",
+    "start": 215.67,
+    "duration": 2.1
+  },
+  {
+    "text": "and you get the second angle.",
+    "start": 217.77,
+    "duration": 1.17
+  },
+  {
+    "text": "But now something amazing\nhappens, you don't need to look",
+    "start": 218.94,
+    "duration": 2.13
+  },
+  {
+    "text": "for the third angle\nbecause it's already a fact",
+    "start": 221.07,
+    "duration": 3.18
+  },
+  {
+    "text": "that you know what the\nthird angle has to be",
+    "start": 224.25,
+    "duration": 1.35
+  },
+  {
+    "text": "because it's already a fact",
+    "start": 225.6,
+    "duration": 1.02
+  },
+  {
+    "text": "that the angles have to add up to 180.",
+    "start": 226.62,
+    "duration": 1.9
+  },
+  {
+    "text": "That is nowhere in the\nDNA, that comes to us",
+    "start": 231.51,
+    "duration": 2.61
+  },
+  {
+    "text": "from wherever the laws\nof mathematics come from.",
+    "start": 234.12,
+    "duration": 4.32
+  },
+  {
+    "text": "What I think evolution has done",
+    "start": 238.44,
+    "duration": 1.62
+  },
+  {
+    "text": "is pivoted some of the same tricks.",
+    "start": 240.06,
+    "duration": 2.19
+  },
+  {
+    "text": "And our goal as scientists is to discover",
+    "start": 242.25,
+    "duration": 1.65
+  },
+  {
+    "text": "some of these tricks\nfrom very simple systems",
+    "start": 243.9,
+    "duration": 3.0
+  },
+  {
+    "text": "that only solve metabolic problems",
+    "start": 246.9,
+    "duration": 2.04
+  },
+  {
+    "text": "eventually to physiological",
+    "start": 248.94,
+    "duration": 1.68
+  },
+  {
+    "text": "and then to transcriptional problems.",
+    "start": 250.62,
+    "duration": 2.19
+  },
+  {
+    "text": "And eventually, when\nmulticellularity comes on the scene,",
+    "start": 252.81,
+    "duration": 2.91
+  },
+  {
+    "text": "a large-scale anatomical problem-",
+    "start": 255.72,
+    "duration": 1.68
+  },
+  {
+    "text": "so this idea of starting\nout in a particular shape",
+    "start": 257.4,
+    "duration": 1.95
+  },
+  {
+    "text": "but you need to get to\na very different shape-",
+    "start": 259.35,
+    "duration": 1.98
+  },
+  {
+    "text": "how much do you grow in what direction?",
+    "start": 261.33,
+    "duration": 1.71
+  },
+  {
+    "text": "Which cells go where?",
+    "start": 263.04,
+    "duration": 1.47
+  },
+  {
+    "text": "So making that journey\nand then once neurons",
+    "start": 264.51,
+    "duration": 2.91
+  },
+  {
+    "text": "and muscles came on the scene,",
+    "start": 267.42,
+    "duration": 1.17
+  },
+  {
+    "text": "then those same kind\nof strategies were used",
+    "start": 268.59,
+    "duration": 2.16
+  },
+  {
+    "text": "to navigate three-dimensional space.",
+    "start": 270.75,
+    "duration": 2.64
+  },
+  {
+    "text": "That collective intelligence\ninstead of telling",
+    "start": 273.39,
+    "duration": 1.68
+  },
+  {
+    "text": "all the cells what to do\nto make specific shapes,",
+    "start": 275.07,
+    "duration": 2.88
+  },
+  {
+    "text": "they now tell the muscles\nwhat to do to move you",
+    "start": 277.95,
+    "duration": 2.19
+  },
+  {
+    "text": "and I around in three-dimensional space.",
+    "start": 280.14,
+    "duration": 2.07
+  },
+  {
+    "text": "And after that, who knows, right?",
+    "start": 282.21,
+    "duration": 1.41
+  },
+  {
+    "text": "There are linguistic spaces",
+    "start": 283.62,
+    "duration": 1.2
+  },
+  {
+    "text": "and maybe social spaces",
+    "start": 284.82,
+    "duration": 1.38
+  },
+  {
+    "text": "and who knows what else after that.",
+    "start": 286.2,
+    "duration": 3.27
+  },
+  {
+    "text": "What evolution has given us",
+    "start": 289.47,
+    "duration": 1.92
+  },
+  {
+    "text": "is this remarkable architecture",
+    "start": 291.39,
+    "duration": 1.62
+  },
+  {
+    "text": "where every level shapes\nthe behavioral landscape",
+    "start": 293.01,
+    "duration": 3.84
+  },
+  {
+    "text": "of the levels below,",
+    "start": 296.85,
+    "duration": 1.35
+  },
+  {
+    "text": "and the levels below do clever",
+    "start": 298.2,
+    "duration": 1.71
+  },
+  {
+    "text": "and interesting things\nthat allow the levels above",
+    "start": 299.91,
+    "duration": 2.07
+  },
+  {
+    "text": "not to have to micromanage.",
+    "start": 301.98,
+    "duration": 1.44
+  },
+  {
+    "text": "This ability of each\npart to get its job done,",
+    "start": 303.42,
+    "duration": 2.55
+  },
+  {
+    "text": "despite all kinds of novelty,",
+    "start": 305.97,
+    "duration": 1.47
+  },
+  {
+    "text": "despite changes in its environment,",
+    "start": 307.44,
+    "duration": 1.98
+  },
+  {
+    "text": "changes in where it starts off,",
+    "start": 309.42,
+    "duration": 1.53
+  },
+  {
+    "text": "that is the competency",
+    "start": 310.95,
+    "duration": 1.05
+  },
+  {
+    "text": "that makes biology so incredibly robust.",
+    "start": 312.0,
+    "duration": 3.333
+  }
+]

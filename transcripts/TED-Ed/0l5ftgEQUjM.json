@@ -1,0 +1,372 @@
+[
+  {
+    "text": "Once every century, the world’s greatest\nspiders gather to compete",
+    "start": 7.913,
+    "duration": 4.583
+  },
+  {
+    "text": "in a series of grueling games.",
+    "start": 12.496,
+    "duration": 2.542
+  },
+  {
+    "text": "The winner will become \nthe next arachnomonarch,",
+    "start": 15.163,
+    "duration": 2.875
+  },
+  {
+    "text": "able to command all the world’s spiders\nto their will.",
+    "start": 18.038,
+    "duration": 3.458
+  },
+  {
+    "text": "That day is today, and for the first time,",
+    "start": 21.704,
+    "duration": 3.167
+  },
+  {
+    "text": "you’re casting your name into the ring.",
+    "start": 24.871,
+    "duration": 2.542
+  },
+  {
+    "text": "From Anansi to Arachne to Aragog,",
+    "start": 27.746,
+    "duration": 2.667
+  },
+  {
+    "text": "all of the titans of the\nspider world are here,",
+    "start": 30.413,
+    "duration": 2.916
+  },
+  {
+    "text": "and at first, no one even notices \nitsy-bitsy you.",
+    "start": 33.371,
+    "duration": 3.958
+  },
+  {
+    "text": "But after wowing the crowd \nwith your web design",
+    "start": 37.954,
+    "duration": 2.875
+  },
+  {
+    "text": "and sticking it to the competition \nin the long-distance sling,",
+    "start": 40.829,
+    "duration": 3.583
+  },
+  {
+    "text": "you’ve qualified for the finals.",
+    "start": 44.412,
+    "duration": 2.25
+  },
+  {
+    "text": "Now all that remains is to face off \nagainst the reigning champion,",
+    "start": 46.787,
+    "duration": 4.167
+  },
+  {
+    "text": "Queen Shelob,",
+    "start": 50.954,
+    "duration": 1.5
+  },
+  {
+    "text": "on the Whirled Wide Web,\nand win the title from her.",
+    "start": 52.454,
+    "duration": 3.625
+  },
+  {
+    "text": "The web stretches over a large chasm,",
+    "start": 56.454,
+    "duration": 2.417
+  },
+  {
+    "text": "with intersecting strands coming \nto a single point on the other side.",
+    "start": 58.871,
+    "duration": 4.166
+  },
+  {
+    "text": "Moving across each strand\nrequires a careful dash,",
+    "start": 63.621,
+    "duration": 3.917
+  },
+  {
+    "text": "and you must keep going until\nyou stop at the next hub",
+    "start": 67.704,
+    "duration": 3.209
+  },
+  {
+    "text": "where two strands cross.",
+    "start": 70.913,
+    "duration": 1.75
+  },
+  {
+    "text": "By ancient spider code, only one \ncompetitor may traverse the web at a time.",
+    "start": 73.246,
+    "duration": 5.417
+  },
+  {
+    "text": "You must take turns, moving from one\nintersection to an adjacent one.",
+    "start": 78.871,
+    "duration": 4.208
+  },
+  {
+    "text": "No one may spin new paths \ninto existence or skip turns.",
+    "start": 83.413,
+    "duration": 4.25
+  },
+  {
+    "text": "You begin two spaces from Shelob,\nand to win,",
+    "start": 87.954,
+    "duration": 3.625
+  },
+  {
+    "text": "you must catch her by your tenth move.",
+    "start": 91.579,
+    "duration": 2.709
+  },
+  {
+    "text": "Can you attain the mantle\nof spider supremacy?",
+    "start": 95.288,
+    "duration": 3.375
+  },
+  {
+    "text": "Pause here to figure it out for yourself.\nAnswer in 3",
+    "start": 98.746,
+    "duration": 2.542
+  },
+  {
+    "text": "Answer in 2",
+    "start": 101.288,
+    "duration": 2.5
+  },
+  {
+    "text": "Answer in 1",
+    "start": 103.829,
+    "duration": 2.209
+  },
+  {
+    "text": "It’s tempting to trap Shelob in a corner,\nbut doing so is surprisingly tricky.",
+    "start": 106.371,
+    "duration": 5.042
+  },
+  {
+    "text": "The layout of the web \nis such that every move you make,",
+    "start": 111.746,
+    "duration": 3.375
+  },
+  {
+    "text": "Shelob can get to another intersection\ntwo away from you.",
+    "start": 115.121,
+    "duration": 3.417
+  },
+  {
+    "text": "So even if you were to drive her \ninto a corner, she’d escape it easily.",
+    "start": 118.788,
+    "duration": 4.208
+  },
+  {
+    "text": "There are no dead ends,",
+    "start": 123.329,
+    "duration": 1.25
+  },
+  {
+    "text": "so there’s never a situation where she’d \nbe forced to move to your space.",
+    "start": 124.579,
+    "duration": 4.417
+  },
+  {
+    "text": "However, there is this point up here\nwhere all the strands converge.",
+    "start": 129.621,
+    "duration": 5.333
+  },
+  {
+    "text": "It's easy to see that it's important,",
+    "start": 135.288,
+    "duration": 2.041
+  },
+  {
+    "text": "but the challenge is figuring out\nexactly what to do with it.",
+    "start": 137.329,
+    "duration": 3.667
+  },
+  {
+    "text": "There’s a clever way of re-visualizing\nthe problem:",
+    "start": 142.038,
+    "duration": 3.5
+  },
+  {
+    "text": "try coloring every intersection \none of two colors—",
+    "start": 145.538,
+    "duration": 4.166
+  },
+  {
+    "text": "say red and blue—",
+    "start": 149.704,
+    "duration": 2.0
+  },
+  {
+    "text": "where the same color never borders itself.",
+    "start": 151.704,
+    "duration": 2.875
+  },
+  {
+    "text": "What you get is a checkerboard pattern,",
+    "start": 155.163,
+    "duration": 2.416
+  },
+  {
+    "text": "then one space at the point\nwhich you can’t make either color.",
+    "start": 157.579,
+    "duration": 4.584
+  },
+  {
+    "text": "At the beginning of the game, \nevery time you move to red,",
+    "start": 162.663,
+    "duration": 3.291
+  },
+  {
+    "text": "Shelob will be on blue,",
+    "start": 165.954,
+    "duration": 1.625
+  },
+  {
+    "text": "and every time you move to blue, \nShelob will be on red.",
+    "start": 167.579,
+    "duration": 3.917
+  },
+  {
+    "text": "In other words, unless something changes,",
+    "start": 171.871,
+    "duration": 2.75
+  },
+  {
+    "text": "you can never move onto the same \nintersection as her.",
+    "start": 174.621,
+    "duration": 3.333
+  },
+  {
+    "text": "And that’s where the point comes in.",
+    "start": 178.246,
+    "duration": 2.25
+  },
+  {
+    "text": "As indicated by its unique color, it’s the\none place you can break the pattern",
+    "start": 180.496,
+    "duration": 4.833
+  },
+  {
+    "text": "and change the rhythm of moves.",
+    "start": 185.329,
+    "duration": 2.167
+  },
+  {
+    "text": "So you should waste\nno time in getting up there.",
+    "start": 187.496,
+    "duration": 2.958
+  },
+  {
+    "text": "Shelob could now be in any one \nof these red spaces,",
+    "start": 190.996,
+    "duration": 3.625
+  },
+  {
+    "text": "and you have at most 6 moves\nleft to catch her.",
+    "start": 194.621,
+    "duration": 3.333
+  },
+  {
+    "text": "But thanks to the colors we've added,",
+    "start": 198.204,
+    "duration": 1.959
+  },
+  {
+    "text": "we can now focus on the one thing\nthat matters the most:",
+    "start": 200.163,
+    "duration": 3.25
+  },
+  {
+    "text": "changing the color pattern.",
+    "start": 203.413,
+    "duration": 1.875
+  },
+  {
+    "text": "Shelob is on red, so you should move \nonto red on the second or fourth strand.",
+    "start": 205.704,
+    "duration": 5.25
+  },
+  {
+    "text": "Now, Shelob can never move to any\nof the spots neighboring you,",
+    "start": 211.329,
+    "duration": 3.584
+  },
+  {
+    "text": "giving you a kind of net\nto use to catch her.",
+    "start": 214.913,
+    "duration": 2.791
+  },
+  {
+    "text": "You may have luck choosing your moves\nthrough intuition at this point.",
+    "start": 218.121,
+    "duration": 3.417
+  },
+  {
+    "text": "But if you want to get\nalgorithmic about it,",
+    "start": 221.538,
+    "duration": 2.833
+  },
+  {
+    "text": "you could track how far away she is \nhorizontally and vertically,",
+    "start": 224.371,
+    "duration": 4.542
+  },
+  {
+    "text": "as two numbers.",
+    "start": 228.913,
+    "duration": 1.375
+  },
+  {
+    "text": "On your move, \nshrink the larger of the two,",
+    "start": 230.663,
+    "duration": 2.75
+  },
+  {
+    "text": "and no matter which direction she runs,\nshe’ll have to hit an edge.",
+    "start": 233.413,
+    "duration": 4.208
+  },
+  {
+    "text": "Eventually, you'll have backed her\ninto one of the two corners",
+    "start": 237.913,
+    "duration": 3.666
+  },
+  {
+    "text": "and catch up to her \nat the last possible moment.",
+    "start": 241.579,
+    "duration": 2.834
+  },
+  {
+    "text": "You snatch the ceremonial sash \nfrom your opponent",
+    "start": 245.246,
+    "duration": 3.0
+  },
+  {
+    "text": "and wrap it around yourself.",
+    "start": 248.246,
+    "duration": 1.875
+  },
+  {
+    "text": "You are now the Spider Supreme,",
+    "start": 250.704,
+    "duration": 2.084
+  },
+  {
+    "text": "leader of all the world’s \neight-legged wonders.",
+    "start": 252.788,
+    "duration": 3.041
+  },
+  {
+    "text": "Just remember— with great spider power\ncomes great spider responsibility.",
+    "start": 256.121,
+    "duration": 4.333
+  }
+]

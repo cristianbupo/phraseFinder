@@ -1,0 +1,1332 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.58,
+    "duration": 12.85
+  },
+  {
+    "text": "[Applause]",
+    "start": 12.28,
+    "duration": 3.15
+  },
+  {
+    "text": "So, how many of you have ever gotten",
+    "start": 16.0,
+    "duration": 4.32
+  },
+  {
+    "text": "behind the wheel of a car when you",
+    "start": 17.6,
+    "duration": 5.8
+  },
+  {
+    "text": "really shouldn't have been",
+    "start": 20.32,
+    "duration": 5.199
+  },
+  {
+    "text": "driving? Maybe you're out on the road",
+    "start": 23.4,
+    "duration": 4.039
+  },
+  {
+    "text": "for a long day and you just wanted to",
+    "start": 25.519,
+    "duration": 3.76
+  },
+  {
+    "text": "get home. You were tired, but you felt",
+    "start": 27.439,
+    "duration": 4.0
+  },
+  {
+    "text": "you could drive a few more miles. Maybe",
+    "start": 29.279,
+    "duration": 3.841
+  },
+  {
+    "text": "you thought, \"I've had less to drink",
+    "start": 31.439,
+    "duration": 3.521
+  },
+  {
+    "text": "than everybody else. I should be the one",
+    "start": 33.12,
+    "duration": 4.4
+  },
+  {
+    "text": "to go home.\" Or maybe your mind was just",
+    "start": 34.96,
+    "duration": 4.119
+  },
+  {
+    "text": "entirely",
+    "start": 37.52,
+    "duration": 3.8
+  },
+  {
+    "text": "elsewhere. Does this sound familiar to",
+    "start": 39.079,
+    "duration": 5.0
+  },
+  {
+    "text": "you? Now, in those situations, wouldn't",
+    "start": 41.32,
+    "duration": 4.28
+  },
+  {
+    "text": "it be great if there was a button on",
+    "start": 44.079,
+    "duration": 4.64
+  },
+  {
+    "text": "your dashboard that you could push and",
+    "start": 45.6,
+    "duration": 6.56
+  },
+  {
+    "text": "the car would get you home safely?",
+    "start": 48.719,
+    "duration": 5.121
+  },
+  {
+    "text": "Now, that's been the promise of the",
+    "start": 52.16,
+    "duration": 3.84
+  },
+  {
+    "text": "self-driving car, the autonomous",
+    "start": 53.84,
+    "duration": 3.84
+  },
+  {
+    "text": "vehicle. And it's been a dream since at",
+    "start": 56.0,
+    "duration": 4.719
+  },
+  {
+    "text": "least 1939 when General Motors showcased",
+    "start": 57.68,
+    "duration": 5.6
+  },
+  {
+    "text": "this idea at their Futurama booth at the",
+    "start": 60.719,
+    "duration": 4.72
+  },
+  {
+    "text": "World's Fair. Now, it's been one of",
+    "start": 63.28,
+    "duration": 4.0
+  },
+  {
+    "text": "those dreams that's always seemed about",
+    "start": 65.439,
+    "duration": 4.481
+  },
+  {
+    "text": "20 years in the future.",
+    "start": 67.28,
+    "duration": 4.96
+  },
+  {
+    "text": "Now, two weeks ago, that dream took a",
+    "start": 69.92,
+    "duration": 4.48
+  },
+  {
+    "text": "step forward when the state of Nevada",
+    "start": 72.24,
+    "duration": 4.72
+  },
+  {
+    "text": "granted Google's self-driving car the",
+    "start": 74.4,
+    "duration": 4.96
+  },
+  {
+    "text": "very first license for an autonomous",
+    "start": 76.96,
+    "duration": 4.4
+  },
+  {
+    "text": "vehicle, clearly establishing that it's",
+    "start": 79.36,
+    "duration": 3.68
+  },
+  {
+    "text": "legal for them to test it on the roads",
+    "start": 81.36,
+    "duration": 4.24
+  },
+  {
+    "text": "in Nevada. Now, California is",
+    "start": 83.04,
+    "duration": 5.04
+  },
+  {
+    "text": "considering similar legislation, and",
+    "start": 85.6,
+    "duration": 4.0
+  },
+  {
+    "text": "this would make sure that the autonomous",
+    "start": 88.08,
+    "duration": 3.52
+  },
+  {
+    "text": "car is not one of those things that has",
+    "start": 89.6,
+    "duration": 5.64
+  },
+  {
+    "text": "to stay in Vegas.",
+    "start": 91.6,
+    "duration": 3.64
+  },
+  {
+    "text": "Now, in my lab at Stanford, we've been",
+    "start": 96.56,
+    "duration": 3.599
+  },
+  {
+    "text": "working on autonomous cars, too, but",
+    "start": 98.56,
+    "duration": 4.4
+  },
+  {
+    "text": "with a slightly different spin on",
+    "start": 100.159,
+    "duration": 5.121
+  },
+  {
+    "text": "things. You see, we've been developing",
+    "start": 102.96,
+    "duration": 4.88
+  },
+  {
+    "text": "robotic race cars. Cars that can",
+    "start": 105.28,
+    "duration": 4.96
+  },
+  {
+    "text": "actually push themselves to the very",
+    "start": 107.84,
+    "duration": 6.4
+  },
+  {
+    "text": "limits of physical performance. Now, why",
+    "start": 110.24,
+    "duration": 5.839
+  },
+  {
+    "text": "would we want to do such a thing? Well,",
+    "start": 114.24,
+    "duration": 3.12
+  },
+  {
+    "text": "there's two really good reasons for",
+    "start": 116.079,
+    "duration": 2.441
+  },
+  {
+    "text": "this.",
+    "start": 117.36,
+    "duration": 3.359
+  },
+  {
+    "text": "First, we believe that before people",
+    "start": 118.52,
+    "duration": 4.599
+  },
+  {
+    "text": "turn over control to an autonomous car,",
+    "start": 120.719,
+    "duration": 4.241
+  },
+  {
+    "text": "that autonomous car should be at least",
+    "start": 123.119,
+    "duration": 5.2
+  },
+  {
+    "text": "as good as the very best human drivers.",
+    "start": 124.96,
+    "duration": 5.439
+  },
+  {
+    "text": "Now, if you're like me and the other 70%",
+    "start": 128.319,
+    "duration": 3.681
+  },
+  {
+    "text": "of the population who know that we are",
+    "start": 130.399,
+    "duration": 4.641
+  },
+  {
+    "text": "above average drivers, you understand",
+    "start": 132.0,
+    "duration": 5.92
+  },
+  {
+    "text": "that's a very high bar. There's another",
+    "start": 135.04,
+    "duration": 5.36
+  },
+  {
+    "text": "reason as well. Just like race car",
+    "start": 137.92,
+    "duration": 4.399
+  },
+  {
+    "text": "drivers can use all of the friction",
+    "start": 140.4,
+    "duration": 3.76
+  },
+  {
+    "text": "between the tire and the road, all of",
+    "start": 142.319,
+    "duration": 4.081
+  },
+  {
+    "text": "the car's capabilities to go as fast as",
+    "start": 144.16,
+    "duration": 4.32
+  },
+  {
+    "text": "possible, we want to use all of those",
+    "start": 146.4,
+    "duration": 4.88
+  },
+  {
+    "text": "capabilities to avoid any accident we",
+    "start": 148.48,
+    "duration": 5.039
+  },
+  {
+    "text": "can. Now, you may push the car to the",
+    "start": 151.28,
+    "duration": 3.92
+  },
+  {
+    "text": "limits not because you're driving too",
+    "start": 153.519,
+    "duration": 3.601
+  },
+  {
+    "text": "fast, but because you've hit an icy",
+    "start": 155.2,
+    "duration": 4.88
+  },
+  {
+    "text": "patch of road, conditions have changed.",
+    "start": 157.12,
+    "duration": 6.0
+  },
+  {
+    "text": "In those situations, we want a car that",
+    "start": 160.08,
+    "duration": 6.4
+  },
+  {
+    "text": "is capable enough to avoid any accident",
+    "start": 163.12,
+    "duration": 6.199
+  },
+  {
+    "text": "that can physically be",
+    "start": 166.48,
+    "duration": 4.96
+  },
+  {
+    "text": "avoided. I must confess, there's kind of",
+    "start": 169.319,
+    "duration": 4.681
+  },
+  {
+    "text": "a third motivation as well. You see, I",
+    "start": 171.44,
+    "duration": 5.28
+  },
+  {
+    "text": "have a passion for racing. In the past,",
+    "start": 174.0,
+    "duration": 4.879
+  },
+  {
+    "text": "I've been a race car owner, a crew",
+    "start": 176.72,
+    "duration": 4.799
+  },
+  {
+    "text": "chief, and a driving coach. Although",
+    "start": 178.879,
+    "duration": 4.08
+  },
+  {
+    "text": "maybe not at the level that you're",
+    "start": 181.519,
+    "duration": 3.761
+  },
+  {
+    "text": "currently expecting.",
+    "start": 182.959,
+    "duration": 3.521
+  },
+  {
+    "text": "One of the things that we've developed",
+    "start": 185.28,
+    "duration": 3.08
+  },
+  {
+    "text": "in the lab, we've developed several",
+    "start": 186.48,
+    "duration": 4.0
+  },
+  {
+    "text": "vehicles, is what we believe is the",
+    "start": 188.36,
+    "duration": 5.44
+  },
+  {
+    "text": "world's first autonomously drifting",
+    "start": 190.48,
+    "duration": 5.119
+  },
+  {
+    "text": "car. It's another one of those",
+    "start": 193.8,
+    "duration": 3.4
+  },
+  {
+    "text": "categories where maybe there's not a lot",
+    "start": 195.599,
+    "duration": 3.481
+  },
+  {
+    "text": "of",
+    "start": 197.2,
+    "duration": 4.24
+  },
+  {
+    "text": "competition. But this is P1. It's an",
+    "start": 199.08,
+    "duration": 4.84
+  },
+  {
+    "text": "entirely studentbuilt electric vehicle",
+    "start": 201.44,
+    "duration": 4.24
+  },
+  {
+    "text": "which through using its rear wheel drive",
+    "start": 203.92,
+    "duration": 4.48
+  },
+  {
+    "text": "and frontwheel steer by wire can drift",
+    "start": 205.68,
+    "duration": 4.559
+  },
+  {
+    "text": "around corners. It can get sideways like",
+    "start": 208.4,
+    "duration": 3.919
+  },
+  {
+    "text": "a rally car driver, always able to take",
+    "start": 210.239,
+    "duration": 4.961
+  },
+  {
+    "text": "the tightest curve, even on slippery,",
+    "start": 212.319,
+    "duration": 6.401
+  },
+  {
+    "text": "unchanging surfaces, never spinning out.",
+    "start": 215.2,
+    "duration": 5.92
+  },
+  {
+    "text": "We've also worked with Volkswagen Oracle",
+    "start": 218.72,
+    "duration": 4.799
+  },
+  {
+    "text": "on Shelly, an autonomous race car that",
+    "start": 221.12,
+    "duration": 4.8
+  },
+  {
+    "text": "has raced at 150 m an hour through the",
+    "start": 223.519,
+    "duration": 3.881
+  },
+  {
+    "text": "Bonavville Salt",
+    "start": 225.92,
+    "duration": 4.16
+  },
+  {
+    "text": "Flats, gone around Thunder Hill Raceway",
+    "start": 227.4,
+    "duration": 7.08
+  },
+  {
+    "text": "Park in the sun, the wind, and the rain,",
+    "start": 230.08,
+    "duration": 8.239
+  },
+  {
+    "text": "and navigated the 153 turns and 12.4",
+    "start": 234.48,
+    "duration": 5.759
+  },
+  {
+    "text": "four miles of the Pikes Peak Hill Climb",
+    "start": 238.319,
+    "duration": 7.521
+  },
+  {
+    "text": "Route in Colorado with nobody at the",
+    "start": 240.239,
+    "duration": 5.601
+  },
+  {
+    "text": "[Music]",
+    "start": 247.6,
+    "duration": 5.839
+  },
+  {
+    "text": "wheel. I guess it goes without saying",
+    "start": 251.239,
+    "duration": 4.72
+  },
+  {
+    "text": "that we've had a lot of fun doing",
+    "start": 253.439,
+    "duration": 4.881
+  },
+  {
+    "text": "this. But in fact, there's something",
+    "start": 255.959,
+    "duration": 4.041
+  },
+  {
+    "text": "else that we've developed in the process",
+    "start": 258.32,
+    "duration": 4.96
+  },
+  {
+    "text": "of developing these autonomous cars. We",
+    "start": 260.0,
+    "duration": 6.04
+  },
+  {
+    "text": "have developed a tremendous",
+    "start": 263.28,
+    "duration": 5.44
+  },
+  {
+    "text": "appreciation for the capabilities of",
+    "start": 266.04,
+    "duration": 4.159
+  },
+  {
+    "text": "human race car",
+    "start": 268.72,
+    "duration": 3.68
+  },
+  {
+    "text": "drivers. As we've looked at the question",
+    "start": 270.199,
+    "duration": 5.161
+  },
+  {
+    "text": "of how well do these cars performed, we",
+    "start": 272.4,
+    "duration": 5.079
+  },
+  {
+    "text": "wanted to compare them to our human",
+    "start": 275.36,
+    "duration": 4.88
+  },
+  {
+    "text": "counterparts and we discovered their",
+    "start": 277.479,
+    "duration": 6.561
+  },
+  {
+    "text": "human counterparts are",
+    "start": 280.24,
+    "duration": 6.56
+  },
+  {
+    "text": "amazing. Now we can take a map of a",
+    "start": 284.04,
+    "duration": 4.84
+  },
+  {
+    "text": "racetrack. We can take a mathematical",
+    "start": 286.8,
+    "duration": 4.88
+  },
+  {
+    "text": "model of a car and with some iteration",
+    "start": 288.88,
+    "duration": 4.56
+  },
+  {
+    "text": "we can actually find the fastest way",
+    "start": 291.68,
+    "duration": 4.4
+  },
+  {
+    "text": "around that track. We line that up with",
+    "start": 293.44,
+    "duration": 4.84
+  },
+  {
+    "text": "data that we record from a professional",
+    "start": 296.08,
+    "duration": 5.679
+  },
+  {
+    "text": "driver and the resemblance is absolutely",
+    "start": 298.28,
+    "duration": 5.08
+  },
+  {
+    "text": "remarkable.",
+    "start": 301.759,
+    "duration": 4.321
+  },
+  {
+    "text": "Yes, there are subtle differences here,",
+    "start": 303.36,
+    "duration": 4.96
+  },
+  {
+    "text": "but the human race car driver is able to",
+    "start": 306.08,
+    "duration": 5.28
+  },
+  {
+    "text": "go out and drive an amazingly fast line",
+    "start": 308.32,
+    "duration": 4.879
+  },
+  {
+    "text": "without the benefit of an algorithm that",
+    "start": 311.36,
+    "duration": 3.92
+  },
+  {
+    "text": "compares the trade-off between going as",
+    "start": 313.199,
+    "duration": 3.681
+  },
+  {
+    "text": "fast as possible in this corner and",
+    "start": 315.28,
+    "duration": 3.44
+  },
+  {
+    "text": "shaving a little bit of time off of the",
+    "start": 316.88,
+    "duration": 4.879
+  },
+  {
+    "text": "straight over here. Not only that,",
+    "start": 318.72,
+    "duration": 6.16
+  },
+  {
+    "text": "they're able to do it lap after lap",
+    "start": 321.759,
+    "duration": 5.921
+  },
+  {
+    "text": "after lap. They're able to go out and",
+    "start": 324.88,
+    "duration": 4.96
+  },
+  {
+    "text": "consistently do this, pushing the car to",
+    "start": 327.68,
+    "duration": 6.6
+  },
+  {
+    "text": "the limits every single time. It's",
+    "start": 329.84,
+    "duration": 7.6
+  },
+  {
+    "text": "extraordinary to watch. You put them in",
+    "start": 334.28,
+    "duration": 6.04
+  },
+  {
+    "text": "a new car and after a few laps, they",
+    "start": 337.44,
+    "duration": 5.199
+  },
+  {
+    "text": "found the fastest line in that car and",
+    "start": 340.32,
+    "duration": 4.439
+  },
+  {
+    "text": "they're off to the",
+    "start": 342.639,
+    "duration": 5.521
+  },
+  {
+    "text": "races. It really makes you think. We'd",
+    "start": 344.759,
+    "duration": 4.921
+  },
+  {
+    "text": "love to know what's going on inside",
+    "start": 348.16,
+    "duration": 2.44
+  },
+  {
+    "text": "their",
+    "start": 349.68,
+    "duration": 3.84
+  },
+  {
+    "text": "brain. So, as researchers, that's what",
+    "start": 350.6,
+    "duration": 5.64
+  },
+  {
+    "text": "we decided to find out.",
+    "start": 353.52,
+    "duration": 4.48
+  },
+  {
+    "text": "We decided to instrument not only the",
+    "start": 356.24,
+    "duration": 5.12
+  },
+  {
+    "text": "car but also the race car driver to try",
+    "start": 358.0,
+    "duration": 5.44
+  },
+  {
+    "text": "to get a glimpse into what was going on",
+    "start": 361.36,
+    "duration": 5.04
+  },
+  {
+    "text": "in their head as they were doing this.",
+    "start": 363.44,
+    "duration": 5.599
+  },
+  {
+    "text": "Now this is Dr. Elena Harbett applying",
+    "start": 366.4,
+    "duration": 4.639
+  },
+  {
+    "text": "electrodes to the head of John Morton.",
+    "start": 369.039,
+    "duration": 4.321
+  },
+  {
+    "text": "John Morton is a former Canam and IMSA",
+    "start": 371.039,
+    "duration": 4.081
+  },
+  {
+    "text": "driver who's also a class champion at",
+    "start": 373.36,
+    "duration": 4.48
+  },
+  {
+    "text": "LMAL. Fantastic driver and very willing",
+    "start": 375.12,
+    "duration": 4.72
+  },
+  {
+    "text": "to put up with graduate students and",
+    "start": 377.84,
+    "duration": 4.32
+  },
+  {
+    "text": "this sort of research.",
+    "start": 379.84,
+    "duration": 3.84
+  },
+  {
+    "text": "She's putting electrodes on his head so",
+    "start": 382.16,
+    "duration": 3.039
+  },
+  {
+    "text": "that we can monitor the electrical",
+    "start": 383.68,
+    "duration": 4.079
+  },
+  {
+    "text": "activity in Jon's brain as he races",
+    "start": 385.199,
+    "duration": 4.72
+  },
+  {
+    "text": "around the track. Now, clearly, we're",
+    "start": 387.759,
+    "duration": 3.521
+  },
+  {
+    "text": "not going to put a couple of electrodes",
+    "start": 389.919,
+    "duration": 3.12
+  },
+  {
+    "text": "on his head and understand exactly what",
+    "start": 391.28,
+    "duration": 4.0
+  },
+  {
+    "text": "all of his thoughts are on the track.",
+    "start": 393.039,
+    "duration": 4.641
+  },
+  {
+    "text": "However, neuroscientists have identified",
+    "start": 395.28,
+    "duration": 4.56
+  },
+  {
+    "text": "certain patterns that let us tease out",
+    "start": 397.68,
+    "duration": 5.2
+  },
+  {
+    "text": "some very important aspects of this. For",
+    "start": 399.84,
+    "duration": 4.799
+  },
+  {
+    "text": "instance, the resting brain tends to",
+    "start": 402.88,
+    "duration": 4.599
+  },
+  {
+    "text": "generate a lot of alpha waves. In",
+    "start": 404.639,
+    "duration": 5.28
+  },
+  {
+    "text": "contrast, fatal waves are associated",
+    "start": 407.479,
+    "duration": 4.601
+  },
+  {
+    "text": "with a lot of cognitive activity like",
+    "start": 409.919,
+    "duration": 4.081
+  },
+  {
+    "text": "visual processing, things where the",
+    "start": 412.08,
+    "duration": 4.959
+  },
+  {
+    "text": "driver is is thinking quite a bit. Now,",
+    "start": 414.0,
+    "duration": 4.88
+  },
+  {
+    "text": "we can measure this and we can look at",
+    "start": 417.039,
+    "duration": 4.081
+  },
+  {
+    "text": "the relative power between the theta",
+    "start": 418.88,
+    "duration": 4.08
+  },
+  {
+    "text": "waves and the alpha waves. This gives us",
+    "start": 421.12,
+    "duration": 4.16
+  },
+  {
+    "text": "a measure of mental workload, how much",
+    "start": 422.96,
+    "duration": 4.48
+  },
+  {
+    "text": "the driver is actually challenged",
+    "start": 425.28,
+    "duration": 4.44
+  },
+  {
+    "text": "cognitively at any point along the",
+    "start": 427.44,
+    "duration": 4.4
+  },
+  {
+    "text": "track. Now, we wanted to see if we could",
+    "start": 429.72,
+    "duration": 4.28
+  },
+  {
+    "text": "actually record this on the track. So,",
+    "start": 431.84,
+    "duration": 4.24
+  },
+  {
+    "text": "we headed down south to Laguna Secika.",
+    "start": 434.0,
+    "duration": 4.16
+  },
+  {
+    "text": "Laguna is a legendary raceway about",
+    "start": 436.08,
+    "duration": 4.399
+  },
+  {
+    "text": "halfway between Selenus and Monterey. It",
+    "start": 438.16,
+    "duration": 4.24
+  },
+  {
+    "text": "has a curve there called the Corkcrew.",
+    "start": 440.479,
+    "duration": 3.681
+  },
+  {
+    "text": "Now, the corkcrew is a chicane followed",
+    "start": 442.4,
+    "duration": 4.16
+  },
+  {
+    "text": "by a quick right-handed turn as the road",
+    "start": 444.16,
+    "duration": 5.12
+  },
+  {
+    "text": "drops three stories. Now, the strategy",
+    "start": 446.56,
+    "duration": 4.88
+  },
+  {
+    "text": "for driving this as explained to me was",
+    "start": 449.28,
+    "duration": 4.4
+  },
+  {
+    "text": "you aim for the bush in the distance and",
+    "start": 451.44,
+    "duration": 3.759
+  },
+  {
+    "text": "as the road falls away, you realize it",
+    "start": 453.68,
+    "duration": 3.919
+  },
+  {
+    "text": "was actually the top of a tree. All",
+    "start": 455.199,
+    "duration": 4.321
+  },
+  {
+    "text": "right, so thanks to the Revs program at",
+    "start": 457.599,
+    "duration": 3.281
+  },
+  {
+    "text": "Stanford, we were able to take John",
+    "start": 459.52,
+    "duration": 2.959
+  },
+  {
+    "text": "there and put him behind the wheel of a",
+    "start": 460.88,
+    "duration": 5.039
+  },
+  {
+    "text": "1960 Porsche Abarth Carrera. Life is way",
+    "start": 462.479,
+    "duration": 6.401
+  },
+  {
+    "text": "too short for boring cars. So, here you",
+    "start": 465.919,
+    "duration": 5.041
+  },
+  {
+    "text": "see John on the track. He's going up the",
+    "start": 468.88,
+    "duration": 4.319
+  },
+  {
+    "text": "hill. Oh, somebody like that. Uh, and",
+    "start": 470.96,
+    "duration": 4.48
+  },
+  {
+    "text": "you can see actually his mental workload",
+    "start": 473.199,
+    "duration": 4.161
+  },
+  {
+    "text": "measuring here in the red bar. You can",
+    "start": 475.44,
+    "duration": 4.4
+  },
+  {
+    "text": "see his actions as he approaches. Now,",
+    "start": 477.36,
+    "duration": 5.119
+  },
+  {
+    "text": "watch. He has to downshift and then he",
+    "start": 479.84,
+    "duration": 6.28
+  },
+  {
+    "text": "has to turn left, look for the tree, and",
+    "start": 482.479,
+    "duration": 6.241
+  },
+  {
+    "text": "down. Not surprisingly, you can see this",
+    "start": 486.12,
+    "duration": 4.519
+  },
+  {
+    "text": "is a pretty challenging task. You can",
+    "start": 488.72,
+    "duration": 3.919
+  },
+  {
+    "text": "see his mental workload spike as he goes",
+    "start": 490.639,
+    "duration": 3.761
+  },
+  {
+    "text": "through this, as you would expect with",
+    "start": 492.639,
+    "duration": 4.28
+  },
+  {
+    "text": "something that requires this level of",
+    "start": 494.4,
+    "duration": 4.479
+  },
+  {
+    "text": "complexity. But what's really",
+    "start": 496.919,
+    "duration": 4.28
+  },
+  {
+    "text": "interesting is to look at areas of the",
+    "start": 498.879,
+    "duration": 4.921
+  },
+  {
+    "text": "track where his mental workload doesn't",
+    "start": 501.199,
+    "duration": 4.321
+  },
+  {
+    "text": "increase. We're going to take you around",
+    "start": 503.8,
+    "duration": 3.399
+  },
+  {
+    "text": "now to the other side of the track, turn",
+    "start": 505.52,
+    "duration": 3.519
+  },
+  {
+    "text": "three, and John's going to go into that",
+    "start": 507.199,
+    "duration": 3.361
+  },
+  {
+    "text": "corner and the rear end of the car is",
+    "start": 509.039,
+    "duration": 3.201
+  },
+  {
+    "text": "going to begin to slide out. He's going",
+    "start": 510.56,
+    "duration": 2.88
+  },
+  {
+    "text": "to have to correct for that with",
+    "start": 512.24,
+    "duration": 3.359
+  },
+  {
+    "text": "steering. So, watch as John does this",
+    "start": 513.44,
+    "duration": 4.24
+  },
+  {
+    "text": "here. Watch the metal workload and watch",
+    "start": 515.599,
+    "duration": 4.161
+  },
+  {
+    "text": "the steering. The car begins to slide",
+    "start": 517.68,
+    "duration": 4.56
+  },
+  {
+    "text": "out. Traumatic maneuver to correct it.",
+    "start": 519.76,
+    "duration": 6.199
+  },
+  {
+    "text": "And no change whatsoever in the mental",
+    "start": 522.24,
+    "duration": 6.96
+  },
+  {
+    "text": "workload. Not a challenging task. In",
+    "start": 525.959,
+    "duration": 5.681
+  },
+  {
+    "text": "fact, entirely",
+    "start": 529.2,
+    "duration": 4.88
+  },
+  {
+    "text": "reflexive. Now, our data processing on",
+    "start": 531.64,
+    "duration": 4.44
+  },
+  {
+    "text": "this is still preliminary. But it really",
+    "start": 534.08,
+    "duration": 3.759
+  },
+  {
+    "text": "seems that these phenomenal feats that",
+    "start": 536.08,
+    "duration": 4.68
+  },
+  {
+    "text": "the race car drivers are performing are",
+    "start": 537.839,
+    "duration": 4.961
+  },
+  {
+    "text": "instinctive. They are things that they",
+    "start": 540.76,
+    "duration": 5.079
+  },
+  {
+    "text": "have simply learned to do. It requires",
+    "start": 542.8,
+    "duration": 5.52
+  },
+  {
+    "text": "very little mental workload for them to",
+    "start": 545.839,
+    "duration": 4.961
+  },
+  {
+    "text": "perform these amazing feats and their",
+    "start": 548.32,
+    "duration": 5.84
+  },
+  {
+    "text": "actions are fantastic. This is exactly",
+    "start": 550.8,
+    "duration": 4.64
+  },
+  {
+    "text": "what you want to do on the steering",
+    "start": 554.16,
+    "duration": 4.92
+  },
+  {
+    "text": "wheel to catch the car in this",
+    "start": 555.44,
+    "duration": 6.079
+  },
+  {
+    "text": "situation. Now, this has given us",
+    "start": 559.08,
+    "duration": 4.6
+  },
+  {
+    "text": "tremendous insight and inspiration for",
+    "start": 561.519,
+    "duration": 4.88
+  },
+  {
+    "text": "our own autonomous vehicles. We started",
+    "start": 563.68,
+    "duration": 4.8
+  },
+  {
+    "text": "to ask the question, can we make them a",
+    "start": 566.399,
+    "duration": 4.721
+  },
+  {
+    "text": "little less algorithmic and a little",
+    "start": 568.48,
+    "duration": 4.88
+  },
+  {
+    "text": "more intuitive? Can we take this",
+    "start": 571.12,
+    "duration": 4.159
+  },
+  {
+    "text": "reflexive action that we see from the",
+    "start": 573.36,
+    "duration": 4.159
+  },
+  {
+    "text": "very best race car drivers, introduce it",
+    "start": 575.279,
+    "duration": 4.641
+  },
+  {
+    "text": "to our cars, and maybe even into a",
+    "start": 577.519,
+    "duration": 4.241
+  },
+  {
+    "text": "system that could get on your car in the",
+    "start": 579.92,
+    "duration": 4.24
+  },
+  {
+    "text": "future? That would take us a long step",
+    "start": 581.76,
+    "duration": 4.639
+  },
+  {
+    "text": "along the road to autonomous vehicles",
+    "start": 584.16,
+    "duration": 4.119
+  },
+  {
+    "text": "that drive as well as the best",
+    "start": 586.399,
+    "duration": 4.081
+  },
+  {
+    "text": "humans. But it's made us think a little",
+    "start": 588.279,
+    "duration": 3.761
+  },
+  {
+    "text": "bit more deeply as",
+    "start": 590.48,
+    "duration": 4.08
+  },
+  {
+    "text": "well. Do we want something more from our",
+    "start": 592.04,
+    "duration": 5.72
+  },
+  {
+    "text": "car than to simply be a chauffeur? Do we",
+    "start": 594.56,
+    "duration": 5.92
+  },
+  {
+    "text": "want our car to perhaps be a partner, a",
+    "start": 597.76,
+    "duration": 4.88
+  },
+  {
+    "text": "coach, someone that can use their",
+    "start": 600.48,
+    "duration": 4.32
+  },
+  {
+    "text": "understanding of the situation to help",
+    "start": 602.64,
+    "duration": 6.0
+  },
+  {
+    "text": "us reach our potential? Can in fact the",
+    "start": 604.8,
+    "duration": 6.0
+  },
+  {
+    "text": "technology not simply replace humans,",
+    "start": 608.64,
+    "duration": 4.6
+  },
+  {
+    "text": "but allow us to reach the level of",
+    "start": 610.8,
+    "duration": 5.599
+  },
+  {
+    "text": "reflex and intuition that we're all",
+    "start": 613.24,
+    "duration": 5.96
+  },
+  {
+    "text": "capable of? So, as we move forward into",
+    "start": 616.399,
+    "duration": 4.961
+  },
+  {
+    "text": "this technological future, I want you to",
+    "start": 619.2,
+    "duration": 3.6
+  },
+  {
+    "text": "just pause and think of that for a",
+    "start": 621.36,
+    "duration": 4.32
+  },
+  {
+    "text": "moment. What is the ideal balance of",
+    "start": 622.8,
+    "duration": 5.52
+  },
+  {
+    "text": "human and machine? And as we think about",
+    "start": 625.68,
+    "duration": 5.839
+  },
+  {
+    "text": "that, let's take inspiration from the",
+    "start": 628.32,
+    "duration": 5.92
+  },
+  {
+    "text": "absolutely amazing capabilities of the",
+    "start": 631.519,
+    "duration": 6.0
+  },
+  {
+    "text": "human body and the human mind. Thank",
+    "start": 634.24,
+    "duration": 4.79
+  },
+  {
+    "text": "you.",
+    "start": 637.519,
+    "duration": 7.321
+  },
+  {
+    "text": "[Music]",
+    "start": 639.03,
+    "duration": 5.81
+  }
+]

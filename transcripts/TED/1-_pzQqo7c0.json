@@ -1,0 +1,1517 @@
+[
+  {
+    "text": "Translator: Joseph Geni\nReviewer: Camille Martínez",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Mark Miskin: This is a rotifer.",
+    "start": 13.928,
+    "duration": 1.572
+  },
+  {
+    "text": "It's a microorganism\nabout a hair's width in size.",
+    "start": 15.524,
+    "duration": 3.174
+  },
+  {
+    "text": "They live everywhere on earth --\nsaltwater, freshwater, everywhere --",
+    "start": 18.722,
+    "duration": 3.686
+  },
+  {
+    "text": "and this one is out looking for food.",
+    "start": 22.432,
+    "duration": 2.241
+  },
+  {
+    "text": "I remember the first time\nI saw this thing,",
+    "start": 25.609,
+    "duration": 2.026
+  },
+  {
+    "text": "I was like eight years old\nand it completely blew me away.",
+    "start": 27.659,
+    "duration": 2.73
+  },
+  {
+    "text": "I mean, here is this\nincredible little creature,",
+    "start": 30.413,
+    "duration": 2.263
+  },
+  {
+    "text": "it's hunting, swimming,",
+    "start": 32.7,
+    "duration": 1.6
+  },
+  {
+    "text": "going about its life,",
+    "start": 34.324,
+    "duration": 1.265
+  },
+  {
+    "text": "but its whole universe fits\nwithin a drop of pond water.",
+    "start": 35.613,
+    "duration": 3.45
+  },
+  {
+    "text": "Paul McEuen: So this little rotifer\nshows us something really amazing.",
+    "start": 40.251,
+    "duration": 3.402
+  },
+  {
+    "text": "It says that you can build a machine",
+    "start": 43.677,
+    "duration": 2.048
+  },
+  {
+    "text": "that is functional, complex, smart,",
+    "start": 45.749,
+    "duration": 3.385
+  },
+  {
+    "text": "but all in a tiny little package,",
+    "start": 49.158,
+    "duration": 2.518
+  },
+  {
+    "text": "one so small that\nit's impossible to see it.",
+    "start": 51.7,
+    "duration": 3.085
+  },
+  {
+    "text": "Now, the engineer in me\nis just blown away by this thing,",
+    "start": 56.134,
+    "duration": 3.345
+  },
+  {
+    "text": "that anyone could make such a creature.",
+    "start": 59.503,
+    "duration": 2.137
+  },
+  {
+    "text": "But right behind that wonder,\nI have to admit, is a bit of envy.",
+    "start": 62.309,
+    "duration": 3.939
+  },
+  {
+    "text": "I mean, nature can do it. Why can't we?",
+    "start": 66.578,
+    "duration": 3.114
+  },
+  {
+    "text": "Why can't we build tiny robots?",
+    "start": 70.518,
+    "duration": 1.97
+  },
+  {
+    "text": "Well, I'm not the only one\nto have this idea.",
+    "start": 73.205,
+    "duration": 2.382
+  },
+  {
+    "text": "In fact, in the last, oh, few years,",
+    "start": 75.611,
+    "duration": 2.659
+  },
+  {
+    "text": "researchers around the world\nhave taken up the task",
+    "start": 78.294,
+    "duration": 2.953
+  },
+  {
+    "text": "of trying to build robots",
+    "start": 81.271,
+    "duration": 2.075
+  },
+  {
+    "text": "that are so small that they can't be seen.",
+    "start": 83.37,
+    "duration": 2.83
+  },
+  {
+    "text": "And what we're going\nto tell you about today",
+    "start": 86.79,
+    "duration": 2.088
+  },
+  {
+    "text": "is an effort at Cornell University",
+    "start": 88.902,
+    "duration": 1.848
+  },
+  {
+    "text": "and now at the University of Pennsylvania",
+    "start": 90.774,
+    "duration": 2.308
+  },
+  {
+    "text": "to try to build tiny robots.",
+    "start": 93.106,
+    "duration": 2.355
+  },
+  {
+    "text": "OK, so that's the goal.",
+    "start": 96.064,
+    "duration": 1.832
+  },
+  {
+    "text": "But how do we do it?",
+    "start": 98.523,
+    "duration": 1.352
+  },
+  {
+    "text": "How do we go about building tiny robots?",
+    "start": 100.503,
+    "duration": 2.196
+  },
+  {
+    "text": "Well, Pablo Picasso, of all people,\ngives us our first clue.",
+    "start": 103.348,
+    "duration": 3.767
+  },
+  {
+    "text": "Picasso said --",
+    "start": 107.651,
+    "duration": 1.153
+  },
+  {
+    "text": "[\"Good artists copy,\ngreat artists steal.\"]",
+    "start": 108.828,
+    "duration": 2.02
+  },
+  {
+    "text": "(Laughter)",
+    "start": 110.872,
+    "duration": 0.969
+  },
+  {
+    "text": "\"Good artists copy. Great artists steal.\"",
+    "start": 111.865,
+    "duration": 2.467
+  },
+  {
+    "text": "(Laughter)",
+    "start": 114.356,
+    "duration": 1.408
+  },
+  {
+    "text": "OK. But steal from what?",
+    "start": 115.788,
+    "duration": 2.467
+  },
+  {
+    "text": "Well, believe it or not,",
+    "start": 118.279,
+    "duration": 1.248
+  },
+  {
+    "text": "most of the technology you need\nto build a tiny robot already exists.",
+    "start": 119.551,
+    "duration": 4.075
+  },
+  {
+    "text": "The semiconductor industry\nhas been getting better and better",
+    "start": 124.208,
+    "duration": 2.913
+  },
+  {
+    "text": "at making tinier and tinier devices,",
+    "start": 127.145,
+    "duration": 2.13
+  },
+  {
+    "text": "so at this point they could put\nsomething like a million transistors",
+    "start": 129.299,
+    "duration": 3.877
+  },
+  {
+    "text": "into the size of a package\nthat is occupied by, say,",
+    "start": 133.2,
+    "duration": 2.819
+  },
+  {
+    "text": "a single-celled paramecium.",
+    "start": 136.043,
+    "duration": 2.024
+  },
+  {
+    "text": "And it's not just electronics.",
+    "start": 139.12,
+    "duration": 2.14
+  },
+  {
+    "text": "They can also build little sensors,",
+    "start": 141.284,
+    "duration": 1.824
+  },
+  {
+    "text": "LEDs,",
+    "start": 143.132,
+    "duration": 1.171
+  },
+  {
+    "text": "whole communication packages\nthat are too small to be seen.",
+    "start": 144.327,
+    "duration": 3.731
+  },
+  {
+    "text": "So that's what we're going to do.",
+    "start": 148.961,
+    "duration": 1.59
+  },
+  {
+    "text": "We're going to steal that technology.",
+    "start": 150.575,
+    "duration": 1.845
+  },
+  {
+    "text": "Here's a robot.",
+    "start": 152.762,
+    "duration": 1.175
+  },
+  {
+    "text": "(Laughter)",
+    "start": 153.961,
+    "duration": 1.622
+  },
+  {
+    "text": "Robot's got two parts, as it turns out.",
+    "start": 155.607,
+    "duration": 2.176
+  },
+  {
+    "text": "It's got a head, and it's got legs.",
+    "start": 157.807,
+    "duration": 2.023
+  },
+  {
+    "text": "[Steal these: Brains]",
+    "start": 159.854,
+    "duration": 1.212
+  },
+  {
+    "text": "(Laughter)",
+    "start": 161.09,
+    "duration": 2.463
+  },
+  {
+    "text": "We're going to call this a legless robot,",
+    "start": 164.512,
+    "duration": 2.877
+  },
+  {
+    "text": "which may sound exotic,",
+    "start": 167.413,
+    "duration": 1.632
+  },
+  {
+    "text": "but they're pretty cool all by themselves.",
+    "start": 169.069,
+    "duration": 2.706
+  },
+  {
+    "text": "In fact, most of you have\na legless robot with you right now.",
+    "start": 171.799,
+    "duration": 3.265
+  },
+  {
+    "text": "Your smartphone is the world's\nmost successful legless robot.",
+    "start": 175.571,
+    "duration": 3.962
+  },
+  {
+    "text": "In just 15 years, it has\ntaken over the entire planet.",
+    "start": 180.204,
+    "duration": 3.395
+  },
+  {
+    "text": "And why not?",
+    "start": 184.009,
+    "duration": 1.233
+  },
+  {
+    "text": "It's such a beautiful little machine.",
+    "start": 185.266,
+    "duration": 2.259
+  },
+  {
+    "text": "It's incredibly intelligent,",
+    "start": 187.549,
+    "duration": 1.596
+  },
+  {
+    "text": "it's got great communication skills,",
+    "start": 189.169,
+    "duration": 2.028
+  },
+  {
+    "text": "and it's all in a package\nthat you can hold in your hand.",
+    "start": 191.221,
+    "duration": 2.836
+  },
+  {
+    "text": "So we would like to be able\nto build something like this,",
+    "start": 194.517,
+    "duration": 2.727
+  },
+  {
+    "text": "only down at the cellular scale,",
+    "start": 197.268,
+    "duration": 2.083
+  },
+  {
+    "text": "the size of a paramecium.",
+    "start": 199.375,
+    "duration": 1.448
+  },
+  {
+    "text": "And here it is.",
+    "start": 201.165,
+    "duration": 1.422
+  },
+  {
+    "text": "This is our cell-sized smartphone.",
+    "start": 202.611,
+    "duration": 2.629
+  },
+  {
+    "text": "It even kind of looks like a smartphone,",
+    "start": 205.264,
+    "duration": 2.085
+  },
+  {
+    "text": "only it's about 10,000 times smaller.",
+    "start": 207.373,
+    "duration": 3.064
+  },
+  {
+    "text": "We call it an OWIC.",
+    "start": 210.461,
+    "duration": 1.889
+  },
+  {
+    "text": "[Optical Wireless Integrated Circuits]",
+    "start": 212.374,
+    "duration": 2.909
+  },
+  {
+    "text": "OK, we're not advertisers, all right?",
+    "start": 215.307,
+    "duration": 1.938
+  },
+  {
+    "text": "(Laughter)",
+    "start": 217.269,
+    "duration": 2.412
+  },
+  {
+    "text": "But it's pretty cool all by itself.",
+    "start": 220.31,
+    "duration": 1.912
+  },
+  {
+    "text": "In fact, this OWIC has a number of parts.",
+    "start": 222.246,
+    "duration": 2.226
+  },
+  {
+    "text": "So up near the top,",
+    "start": 224.496,
+    "duration": 1.513
+  },
+  {
+    "text": "there are these cool little solar cells\nthat you shine light on the device",
+    "start": 226.033,
+    "duration": 3.515
+  },
+  {
+    "text": "and it wakes up a little circuit\nthat's there in the middle.",
+    "start": 229.572,
+    "duration": 2.828
+  },
+  {
+    "text": "And that circuit can drive\na little tiny LED",
+    "start": 232.424,
+    "duration": 2.119
+  },
+  {
+    "text": "that can blink at you and allows\nthe OWIC to communicate with you.",
+    "start": 234.567,
+    "duration": 3.471
+  },
+  {
+    "text": "So unlike your cell phone,",
+    "start": 238.062,
+    "duration": 1.392
+  },
+  {
+    "text": "the OWIC communicates with light,",
+    "start": 239.478,
+    "duration": 1.728
+  },
+  {
+    "text": "sort of like a tiny firefly.",
+    "start": 241.23,
+    "duration": 2.545
+  },
+  {
+    "text": "Now, one thing that's pretty cool\nabout these OWICs",
+    "start": 244.342,
+    "duration": 2.437
+  },
+  {
+    "text": "is we don't make them one at a time,",
+    "start": 246.803,
+    "duration": 1.743
+  },
+  {
+    "text": "soldering all the pieces together.",
+    "start": 248.57,
+    "duration": 1.728
+  },
+  {
+    "text": "We make them in massive parallel.",
+    "start": 250.639,
+    "duration": 2.247
+  },
+  {
+    "text": "For example, about a million\nof these OWICs",
+    "start": 252.91,
+    "duration": 2.376
+  },
+  {
+    "text": "can fit on a single four-inch wafer.",
+    "start": 255.31,
+    "duration": 2.956
+  },
+  {
+    "text": "And just like your phone\nhas different apps,",
+    "start": 258.29,
+    "duration": 2.105
+  },
+  {
+    "text": "you can have different kinds of OWICs.",
+    "start": 260.419,
+    "duration": 1.826
+  },
+  {
+    "text": "There can be ones that, say,\nmeasure voltage,",
+    "start": 262.269,
+    "duration": 2.125
+  },
+  {
+    "text": "some that measure temperature,",
+    "start": 264.418,
+    "duration": 1.458
+  },
+  {
+    "text": "or just have a little light that can blink\nat you to tell you that it's there.",
+    "start": 265.9,
+    "duration": 3.721
+  },
+  {
+    "text": "So that's pretty cool,\nthese tiny little devices.",
+    "start": 269.645,
+    "duration": 3.241
+  },
+  {
+    "text": "And I'd like to tell you about them\nin a little more detail.",
+    "start": 273.385,
+    "duration": 3.035
+  },
+  {
+    "text": "But first, I have to tell you\nabout something else.",
+    "start": 276.444,
+    "duration": 2.866
+  },
+  {
+    "text": "I'm going to tell you a few things\nabout pennies that you might not know.",
+    "start": 279.334,
+    "duration": 3.464
+  },
+  {
+    "text": "So this one is a little bit older penny.",
+    "start": 282.822,
+    "duration": 1.967
+  },
+  {
+    "text": "It's got a picture of\nthe Lincoln Memorial on the back.",
+    "start": 284.813,
+    "duration": 2.6
+  },
+  {
+    "text": "But the first thing you might not know,",
+    "start": 287.437,
+    "duration": 1.873
+  },
+  {
+    "text": "that if you zoom in, you'll find\nin the center of this thing",
+    "start": 289.334,
+    "duration": 2.94
+  },
+  {
+    "text": "you can actually see Abraham Lincoln,",
+    "start": 292.298,
+    "duration": 1.856
+  },
+  {
+    "text": "just like in the real Lincoln Memorial\nnot so far from here.",
+    "start": 294.178,
+    "duration": 2.872
+  },
+  {
+    "text": "What I'm sure you don't know,",
+    "start": 297.074,
+    "duration": 1.787
+  },
+  {
+    "text": "that if you zoom in even further --",
+    "start": 298.885,
+    "duration": 2.226
+  },
+  {
+    "text": "(Laughter)",
+    "start": 301.135,
+    "duration": 1.444
+  },
+  {
+    "text": "you'll see that there's actually\nan OWIC on Abe Lincoln's chest.",
+    "start": 302.603,
+    "duration": 4.057
+  },
+  {
+    "text": "(Laughter)",
+    "start": 306.684,
+    "duration": 2.574
+  },
+  {
+    "text": "But the cool thing is,",
+    "start": 309.282,
+    "duration": 1.666
+  },
+  {
+    "text": "you could stare at this all day long\nand you would never see it.",
+    "start": 310.972,
+    "duration": 3.329
+  },
+  {
+    "text": "It's invisible to the naked eye.",
+    "start": 315.377,
+    "duration": 1.831
+  },
+  {
+    "text": "These OWICs are so small,",
+    "start": 317.232,
+    "duration": 1.582
+  },
+  {
+    "text": "and we make them in such parallel fashion,",
+    "start": 318.838,
+    "duration": 2.491
+  },
+  {
+    "text": "that each OWIC costs actually\nless than a penny.",
+    "start": 321.353,
+    "duration": 2.966
+  },
+  {
+    "text": "In fact, the most expensive thing\nin this demo is that little sticker",
+    "start": 325.26,
+    "duration": 3.412
+  },
+  {
+    "text": "that says \"OWIC.\"",
+    "start": 328.696,
+    "duration": 1.317
+  },
+  {
+    "text": "(Laughter)",
+    "start": 330.037,
+    "duration": 2.957
+  },
+  {
+    "text": "That cost about eight cents.",
+    "start": 334.879,
+    "duration": 2.053
+  },
+  {
+    "text": "(Laughter)",
+    "start": 336.956,
+    "duration": 1.64
+  },
+  {
+    "text": "Now, we're very excited about\nthese things for all sorts of reasons.",
+    "start": 340.266,
+    "duration": 3.299
+  },
+  {
+    "text": "For example, we can use them\nas little tiny secure smart tags,",
+    "start": 343.589,
+    "duration": 3.167
+  },
+  {
+    "text": "more identifying than a fingerprint.",
+    "start": 346.78,
+    "duration": 1.952
+  },
+  {
+    "text": "We're actually putting them inside\nof other medical instruments",
+    "start": 348.756,
+    "duration": 2.982
+  },
+  {
+    "text": "to give other information,",
+    "start": 351.762,
+    "duration": 1.246
+  },
+  {
+    "text": "and even starting to think about\nputting them in the brain",
+    "start": 353.032,
+    "duration": 2.766
+  },
+  {
+    "text": "to listen to neurons one at a time.",
+    "start": 355.822,
+    "duration": 1.745
+  },
+  {
+    "text": "In fact, there's only one thing\nwrong with these OWICs:",
+    "start": 357.591,
+    "duration": 2.853
+  },
+  {
+    "text": "it's not a robot.",
+    "start": 361.574,
+    "duration": 1.306
+  },
+  {
+    "text": "It's just a head.",
+    "start": 362.904,
+    "duration": 1.336
+  },
+  {
+    "text": "(Laughter)",
+    "start": 364.264,
+    "duration": 1.119
+  },
+  {
+    "text": "And I think we'll all agree",
+    "start": 365.407,
+    "duration": 1.849
+  },
+  {
+    "text": "that half a robot\nreally isn't a robot at all.",
+    "start": 367.28,
+    "duration": 3.179
+  },
+  {
+    "text": "Without the legs,\nwe've got basically nothing.",
+    "start": 371.553,
+    "duration": 2.761
+  },
+  {
+    "text": "MM: OK, so you need the legs, too,\nif you want to build a robot.",
+    "start": 374.837,
+    "duration": 3.299
+  },
+  {
+    "text": "Now, here it turns out\nyou can't just steal",
+    "start": 378.16,
+    "duration": 2.424
+  },
+  {
+    "text": "some preexisting technology.",
+    "start": 380.608,
+    "duration": 1.92
+  },
+  {
+    "text": "If you want legs for your tiny robot,\nyou need actuators, parts that move.",
+    "start": 382.552,
+    "duration": 4.418
+  },
+  {
+    "text": "They have to satisfy\na lot of different requirements.",
+    "start": 386.994,
+    "duration": 2.478
+  },
+  {
+    "text": "They need to be low voltage.",
+    "start": 389.486,
+    "duration": 1.93
+  },
+  {
+    "text": "They need to be low power, too.",
+    "start": 391.44,
+    "duration": 1.515
+  },
+  {
+    "text": "But most importantly,\nthey have to be small.",
+    "start": 392.979,
+    "duration": 2.061
+  },
+  {
+    "text": "If you want to build a cell-sized robot,\nyou need cell-sized legs.",
+    "start": 395.064,
+    "duration": 3.7
+  },
+  {
+    "text": "Now, nobody knows how to build that.",
+    "start": 398.788,
+    "duration": 1.73
+  },
+  {
+    "text": "There was no preexisting technology\nthat meets all of those demands.",
+    "start": 400.542,
+    "duration": 3.377
+  },
+  {
+    "text": "To make our legs for our tiny robots,",
+    "start": 403.943,
+    "duration": 2.462
+  },
+  {
+    "text": "we had to make something new.",
+    "start": 406.429,
+    "duration": 1.5
+  },
+  {
+    "text": "So here's what we built.",
+    "start": 407.953,
+    "duration": 1.642
+  },
+  {
+    "text": "This is one of our actuators,\nand I'm applying a voltage to it.",
+    "start": 409.619,
+    "duration": 2.957
+  },
+  {
+    "text": "When I do, you can see\nthe actuator respond by curling up.",
+    "start": 412.6,
+    "duration": 2.986
+  },
+  {
+    "text": "Now, this might not look like much,",
+    "start": 415.61,
+    "duration": 1.695
+  },
+  {
+    "text": "but if we were to put a red blood cell\nup on the screen, it'd be about that big,",
+    "start": 417.329,
+    "duration": 3.785
+  },
+  {
+    "text": "so these are unbelievably tiny curls.",
+    "start": 421.138,
+    "duration": 1.973
+  },
+  {
+    "text": "They're unbelievably small,",
+    "start": 423.135,
+    "duration": 1.302
+  },
+  {
+    "text": "and yet this device can just bend\nand unbend, no problem, nothing breaks.",
+    "start": 424.461,
+    "duration": 3.788
+  },
+  {
+    "text": "So how do we do it?",
+    "start": 428.273,
+    "duration": 1.153
+  },
+  {
+    "text": "Well, the actuator is made\nfrom a layer of platinum",
+    "start": 429.45,
+    "duration": 2.397
+  },
+  {
+    "text": "just a dozen atoms or so thick.",
+    "start": 431.871,
+    "duration": 1.491
+  },
+  {
+    "text": "Now it turns out, if you take\nplatinum and put it in water",
+    "start": 433.386,
+    "duration": 2.788
+  },
+  {
+    "text": "and apply a voltage to it,",
+    "start": 436.198,
+    "duration": 1.249
+  },
+  {
+    "text": "atoms from the water\nwill attach or remove themselves",
+    "start": 437.471,
+    "duration": 2.501
+  },
+  {
+    "text": "from the surface of the platinum,",
+    "start": 439.996,
+    "duration": 1.584
+  },
+  {
+    "text": "depending on how much voltage you use.",
+    "start": 441.604,
+    "duration": 1.825
+  },
+  {
+    "text": "This creates a force,",
+    "start": 443.453,
+    "duration": 1.167
+  },
+  {
+    "text": "and you can use that force\nfor voltage-controlled actuation.",
+    "start": 444.644,
+    "duration": 2.88
+  },
+  {
+    "text": "The key here was to make\neverything ultrathin.",
+    "start": 447.548,
+    "duration": 2.887
+  },
+  {
+    "text": "Then your actuator is flexible enough",
+    "start": 450.459,
+    "duration": 1.768
+  },
+  {
+    "text": "to bend to these small\nsizes without breaking,",
+    "start": 452.251,
+    "duration": 2.152
+  },
+  {
+    "text": "and it can use the forces that come about",
+    "start": 454.427,
+    "duration": 1.959
+  },
+  {
+    "text": "from just attaching or removing\na single layer of atoms.",
+    "start": 456.41,
+    "duration": 2.628
+  },
+  {
+    "text": "Now, we don't have to build these\none at a time, either.",
+    "start": 459.062,
+    "duration": 2.637
+  },
+  {
+    "text": "In fact, just like the OWICs,",
+    "start": 461.723,
+    "duration": 1.397
+  },
+  {
+    "text": "we can build them massively\nin parallel as well.",
+    "start": 463.144,
+    "duration": 2.336
+  },
+  {
+    "text": "So here's a couple thousand\nor so actuators,",
+    "start": 465.504,
+    "duration": 2.427
+  },
+  {
+    "text": "and all I'm doing is applying a voltage,",
+    "start": 467.955,
+    "duration": 2.243
+  },
+  {
+    "text": "and they all wave,",
+    "start": 470.222,
+    "duration": 1.64
+  },
+  {
+    "text": "looking like nothing more than the legs\nof a future robot army.",
+    "start": 471.886,
+    "duration": 3.557
+  },
+  {
+    "text": "(Laughter)",
+    "start": 475.467,
+    "duration": 2.084
+  },
+  {
+    "text": "So now we've got the brains\nand we've got the brawn.",
+    "start": 478.17,
+    "duration": 2.743
+  },
+  {
+    "text": "We've got the smarts and the actuators.",
+    "start": 480.937,
+    "duration": 2.439
+  },
+  {
+    "text": "The OWICs are the brains.",
+    "start": 483.4,
+    "duration": 1.333
+  },
+  {
+    "text": "They give us sensors,\nthey give us power supplies,",
+    "start": 484.737,
+    "duration": 2.436
+  },
+  {
+    "text": "and they give us a two-way\ncommunication system via light.",
+    "start": 487.197,
+    "duration": 2.855
+  },
+  {
+    "text": "The platinum layers are the muscle.",
+    "start": 490.076,
+    "duration": 1.69
+  },
+  {
+    "text": "They're what's going\nto move the robot around.",
+    "start": 491.79,
+    "duration": 2.161
+  },
+  {
+    "text": "Now we can take those two pieces,\nput them together",
+    "start": 493.975,
+    "duration": 2.45
+  },
+  {
+    "text": "and start to build our tiny, tiny robots.",
+    "start": 496.449,
+    "duration": 2.083
+  },
+  {
+    "text": "The first thing we wanted to build\nwas something really simple.",
+    "start": 498.556,
+    "duration": 2.977
+  },
+  {
+    "text": "This robot walks around\nunder user control.",
+    "start": 501.557,
+    "duration": 2.003
+  },
+  {
+    "text": "In the middle are some solar cells\nand some wiring attached to it.",
+    "start": 503.584,
+    "duration": 3.102
+  },
+  {
+    "text": "That's the OWIC.",
+    "start": 506.71,
+    "duration": 1.151
+  },
+  {
+    "text": "They're connected to a set of legs\nwhich have a platinum layer",
+    "start": 507.885,
+    "duration": 2.926
+  },
+  {
+    "text": "and these rigid panels that we put on top",
+    "start": 510.835,
+    "duration": 1.966
+  },
+  {
+    "text": "that tell the legs how to fold up,\nwhich shape they should take.",
+    "start": 512.825,
+    "duration": 3.007
+  },
+  {
+    "text": "The idea is that by shooting a laser\nat the different solar cells,",
+    "start": 515.856,
+    "duration": 3.123
+  },
+  {
+    "text": "you can choose which leg you want to move",
+    "start": 519.003,
+    "duration": 1.975
+  },
+  {
+    "text": "and make the robot walk around.",
+    "start": 521.002,
+    "duration": 1.626
+  },
+  {
+    "text": "Now, of course, we don't build those\none at a time, either.",
+    "start": 522.652,
+    "duration": 2.767
+  },
+  {
+    "text": "We build them massively\nin parallel as well.",
+    "start": 525.443,
+    "duration": 2.082
+  },
+  {
+    "text": "We can build something like one million\nrobots on a single four-inch wafer.",
+    "start": 527.549,
+    "duration": 3.565
+  },
+  {
+    "text": "So, for example, this image\non the left, this is a chip,",
+    "start": 531.138,
+    "duration": 2.684
+  },
+  {
+    "text": "and this chip has something like\n10,000 robots on it.",
+    "start": 533.846,
+    "duration": 2.569
+  },
+  {
+    "text": "Now, in our world, the macro world,",
+    "start": 536.439,
+    "duration": 1.681
+  },
+  {
+    "text": "this thing looks like it might be\na new microprocessor or something.",
+    "start": 538.144,
+    "duration": 3.228
+  },
+  {
+    "text": "But if you take that chip\nand you put it under a microscope,",
+    "start": 541.396,
+    "duration": 2.875
+  },
+  {
+    "text": "what you're going to see are\nthousands and thousands of tiny robots.",
+    "start": 544.295,
+    "duration": 3.603
+  },
+  {
+    "text": "Now, these robots are still stuck down.",
+    "start": 548.41,
+    "duration": 1.891
+  },
+  {
+    "text": "They're still attached to the surface\nthat we built them on.",
+    "start": 550.325,
+    "duration": 2.839
+  },
+  {
+    "text": "In order for them to walk around,\nwe have to release them.",
+    "start": 553.188,
+    "duration": 2.737
+  },
+  {
+    "text": "We wanted to show you how we do that live,\nhow we release the robot army,",
+    "start": 555.949,
+    "duration": 3.466
+  },
+  {
+    "text": "but the process involves\nhighly dangerous chemicals,",
+    "start": 559.439,
+    "duration": 2.9
+  },
+  {
+    "text": "like, really nasty stuff,",
+    "start": 562.363,
+    "duration": 2.757
+  },
+  {
+    "text": "and we're like a mile\nfrom the White House right now?",
+    "start": 565.144,
+    "duration": 2.533
+  },
+  {
+    "text": "Yeah. They wouldn't let us do it.",
+    "start": 567.701,
+    "duration": 2.408
+  },
+  {
+    "text": "So --",
+    "start": 570.133,
+    "duration": 1.158
+  },
+  {
+    "text": "(Laughter)",
+    "start": 571.315,
+    "duration": 1.93
+  },
+  {
+    "text": "so we're going to show you\na movie instead. (Laughs)",
+    "start": 573.269,
+    "duration": 3.195
+  },
+  {
+    "text": "What you're looking at here\nare the final stages of robot deployment.",
+    "start": 577.072,
+    "duration": 3.315
+  },
+  {
+    "text": "We're using chemicals",
+    "start": 580.411,
+    "duration": 1.155
+  },
+  {
+    "text": "to etch the substrate\nout from underneath the robots.",
+    "start": 581.59,
+    "duration": 2.524
+  },
+  {
+    "text": "When it dissolves, the robots are free\nto fold up into their final shapes.",
+    "start": 584.138,
+    "duration": 3.527
+  },
+  {
+    "text": "Now, you can see here,\nthe yield's about 90 percent,",
+    "start": 587.689,
+    "duration": 2.463
+  },
+  {
+    "text": "so almost every one of those\n10,000 robots we build,",
+    "start": 590.176,
+    "duration": 2.633
+  },
+  {
+    "text": "that's a robot that we can\ndeploy and control later.",
+    "start": 592.833,
+    "duration": 2.848
+  },
+  {
+    "text": "And we can take those robots\nand we can put them places as well.",
+    "start": 595.705,
+    "duration": 3.019
+  },
+  {
+    "text": "So if you look at the movie on the left,\nthat's some robots in water.",
+    "start": 598.748,
+    "duration": 3.263
+  },
+  {
+    "text": "I'm going to come along with a pipette,",
+    "start": 602.035,
+    "duration": 1.958
+  },
+  {
+    "text": "and I can vacuum them all up.",
+    "start": 604.017,
+    "duration": 1.612
+  },
+  {
+    "text": "Now when you inject the robots\nback out of that pipette,",
+    "start": 606.571,
+    "duration": 2.688
+  },
+  {
+    "text": "they're just fine.",
+    "start": 609.283,
+    "duration": 1.153
+  },
+  {
+    "text": "In fact, these robots are so small,",
+    "start": 610.46,
+    "duration": 1.678
+  },
+  {
+    "text": "they're small enough to pass through\nthe thinnest hypodermic needle",
+    "start": 612.162,
+    "duration": 3.156
+  },
+  {
+    "text": "you can buy.",
+    "start": 615.342,
+    "duration": 1.154
+  },
+  {
+    "text": "Yeah, so if you wanted to,",
+    "start": 616.52,
+    "duration": 1.724
+  },
+  {
+    "text": "you could inject yourself full of robots.",
+    "start": 618.268,
+    "duration": 2.329
+  },
+  {
+    "text": "(Laughter)",
+    "start": 620.621,
+    "duration": 1.666
+  },
+  {
+    "text": "I think they're into it.",
+    "start": 622.733,
+    "duration": 1.655
+  },
+  {
+    "text": "(Laughter)",
+    "start": 624.412,
+    "duration": 1.675
+  },
+  {
+    "text": "On the right is a robot\nthat we put in some pond water.",
+    "start": 627.274,
+    "duration": 2.706
+  },
+  {
+    "text": "I want you to wait for just one second.",
+    "start": 630.004,
+    "duration": 2.281
+  },
+  {
+    "text": "Ooop!",
+    "start": 632.309,
+    "duration": 1.824
+  },
+  {
+    "text": "You see that? That was no shark.\nThat was a paramecium.",
+    "start": 634.157,
+    "duration": 4.228
+  },
+  {
+    "text": "So that's the world\nthat these things live in.",
+    "start": 638.409,
+    "duration": 2.477
+  },
+  {
+    "text": "OK, so this is all well and good,",
+    "start": 640.91,
+    "duration": 1.617
+  },
+  {
+    "text": "but you might be wondering at this point,",
+    "start": 642.551,
+    "duration": 2.019
+  },
+  {
+    "text": "\"Well, do they walk?\"",
+    "start": 644.594,
+    "duration": 1.816
+  },
+  {
+    "text": "Right? That's what they're supposed to do.\nThey better. So let's find out.",
+    "start": 646.434,
+    "duration": 4.292
+  },
+  {
+    "text": "So here's the robot and here\nare its solar cells in the middle.",
+    "start": 650.75,
+    "duration": 2.993
+  },
+  {
+    "text": "Those are those little rectangles.",
+    "start": 653.767,
+    "duration": 1.63
+  },
+  {
+    "text": "I want you to look at the solar cell\nclosest to the top of the slide.",
+    "start": 655.421,
+    "duration": 3.294
+  },
+  {
+    "text": "See that little white dot?\nThat's a laser spot.",
+    "start": 658.739,
+    "duration": 2.214
+  },
+  {
+    "text": "Now watch what happens\nwhen we start switching that laser",
+    "start": 660.977,
+    "duration": 2.715
+  },
+  {
+    "text": "between different\nsolar cells on the robot.",
+    "start": 663.716,
+    "duration": 2.042
+  },
+  {
+    "text": "Off it goes!",
+    "start": 669.567,
+    "duration": 1.433
+  },
+  {
+    "text": "(Applause)",
+    "start": 671.024,
+    "duration": 2.473
+  },
+  {
+    "text": "Yeah!",
+    "start": 673.521,
+    "duration": 1.176
+  },
+  {
+    "text": "(Applause)",
+    "start": 674.721,
+    "duration": 4.035
+  },
+  {
+    "text": "Off goes the robot\nmarching around the microworld.",
+    "start": 680.469,
+    "duration": 2.668
+  },
+  {
+    "text": "Now, one of the things\nthat's cool about this movie is:",
+    "start": 683.613,
+    "duration": 2.659
+  },
+  {
+    "text": "I'm actually piloting\nthe robot in this movie.",
+    "start": 686.296,
+    "duration": 2.475
+  },
+  {
+    "text": "In fact, for six months, my job was\nto shoot lasers at tiny cell-sized robots",
+    "start": 688.795,
+    "duration": 5.204
+  },
+  {
+    "text": "to pilot them around the microworld.",
+    "start": 694.023,
+    "duration": 2.163
+  },
+  {
+    "text": "This was actually my job.",
+    "start": 696.21,
+    "duration": 1.519
+  },
+  {
+    "text": "As far as I could tell, that is\nthe coolest job in the world.",
+    "start": 697.753,
+    "duration": 3.016
+  },
+  {
+    "text": "(Laughter)",
+    "start": 700.793,
+    "duration": 1.275
+  },
+  {
+    "text": "It was just the feeling\nof total excitement,",
+    "start": 702.092,
+    "duration": 2.317
+  },
+  {
+    "text": "like you're doing the impossible.",
+    "start": 704.433,
+    "duration": 1.72
+  },
+  {
+    "text": "It's a feeling of wonder like that first\ntime I looked through a microscope",
+    "start": 706.614,
+    "duration": 3.525
+  },
+  {
+    "text": "as a kid staring at that rotifer.",
+    "start": 710.163,
+    "duration": 2.205
+  },
+  {
+    "text": "Now, I'm a dad, I have a son of my own,\nand he's about three years old.",
+    "start": 712.392,
+    "duration": 3.673
+  },
+  {
+    "text": "But one day, he's going to look\nthrough a microscope like that one.",
+    "start": 716.089,
+    "duration": 3.397
+  },
+  {
+    "text": "And I often wonder:",
+    "start": 719.51,
+    "duration": 1.403
+  },
+  {
+    "text": "What is he going to see?",
+    "start": 721.715,
+    "duration": 1.501
+  },
+  {
+    "text": "Instead of just watching the microworld,",
+    "start": 723.716,
+    "duration": 2.065
+  },
+  {
+    "text": "we as humans can now build\ntechnology to shape it,",
+    "start": 725.805,
+    "duration": 3.186
+  },
+  {
+    "text": "to interact with it, to engineer it.",
+    "start": 729.015,
+    "duration": 2.534
+  },
+  {
+    "text": "In 30 years, when my son is my age,\nwhat will we do with that ability?",
+    "start": 732.169,
+    "duration": 4.062
+  },
+  {
+    "text": "Will microrobots live in our bloodstream,",
+    "start": 737.334,
+    "duration": 3.256
+  },
+  {
+    "text": "as common as bacteria?",
+    "start": 740.614,
+    "duration": 1.582
+  },
+  {
+    "text": "Will they live on our crops\nand get rid of pests?",
+    "start": 742.888,
+    "duration": 2.332
+  },
+  {
+    "text": "Will they tell us when we have infections,\nor will they fight cancer cell by cell?",
+    "start": 745.878,
+    "duration": 4.215
+  },
+  {
+    "text": "PM: And one cool part is,",
+    "start": 751.952,
+    "duration": 1.397
+  },
+  {
+    "text": "you're going to be able to participate\nin this revolution.",
+    "start": 753.373,
+    "duration": 2.76
+  },
+  {
+    "text": "Ten years or so from now,",
+    "start": 756.157,
+    "duration": 1.219
+  },
+  {
+    "text": "when you buy your new iPhone 15x Moto\nor whatever it's called --",
+    "start": 757.4,
+    "duration": 4.301
+  },
+  {
+    "text": "(Laughter)",
+    "start": 761.725,
+    "duration": 1.016
+  },
+  {
+    "text": "it may come with a little jar\nwith a few thousand tiny robots in it",
+    "start": 762.765,
+    "duration": 3.366
+  },
+  {
+    "text": "that you can control\nby an app on your cell phone.",
+    "start": 766.155,
+    "duration": 2.698
+  },
+  {
+    "text": "So if you want to ride\na paramecium, go for it.",
+    "start": 769.424,
+    "duration": 3.196
+  },
+  {
+    "text": "If you want to -- I don't know --\nDJ the world's smallest robot dance party,",
+    "start": 773.2,
+    "duration": 4.28
+  },
+  {
+    "text": "make it happen.",
+    "start": 777.504,
+    "duration": 1.16
+  },
+  {
+    "text": "(Laughter)",
+    "start": 778.688,
+    "duration": 1.025
+  },
+  {
+    "text": "And I, for one, am very excited\nabout that day coming.",
+    "start": 779.737,
+    "duration": 3.854
+  },
+  {
+    "text": "MM: Thank you.",
+    "start": 783.615,
+    "duration": 1.237
+  },
+  {
+    "text": "(Applause)",
+    "start": 784.876,
+    "duration": 4.188
+  }
+]

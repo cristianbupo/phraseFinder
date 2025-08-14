@@ -1,0 +1,1027 @@
+[
+  {
+    "text": "Seven years ago, back in 2015,  ",
+    "start": 0.8,
+    "duration": 2.0
+  },
+  {
+    "text": "one major development in AI research \nwas automated image captioning.",
+    "start": 2.8,
+    "duration": 3.84
+  },
+  {
+    "text": "Machine learning algorithms could \nalready label objects in images,  ",
+    "start": 7.28,
+    "duration": 3.6
+  },
+  {
+    "text": "and now they learned to put those labels \ninto natural language descriptions.",
+    "start": 10.88,
+    "duration": 3.28
+  },
+  {
+    "text": "And it made one group of researchers curious.",
+    "start": 14.72,
+    "duration": 2.32
+  },
+  {
+    "text": "What if you flipped that process around?",
+    "start": 17.04,
+    "duration": 2.08
+  },
+  {
+    "text": "We could do image to text.",
+    "start": 19.92,
+    "duration": 2.48
+  },
+  {
+    "text": "Why not try doing text to \nimages and see how it works?",
+    "start": 22.4,
+    "duration": 3.84
+  },
+  {
+    "text": "It was a more difficult task.They didn’t want  ",
+    "start": 26.24,
+    "duration": 2.0
+  },
+  {
+    "text": "to retrieve existing images \nthe way google search does.",
+    "start": 28.24,
+    "duration": 2.88
+  },
+  {
+    "text": "They wanted to generate entirely novel scenes \nthat didn’t happen in the real world.",
+    "start": 31.12,
+    "duration": 4.328
+  },
+  {
+    "text": "So they asked their computer model for \nsomething it would have never seen before.",
+    "start": 35.448,
+    "duration": 4.232
+  },
+  {
+    "text": "Like all the school buses you've seen are yellow.",
+    "start": 39.68,
+    "duration": 2.16
+  },
+  {
+    "text": "But if you write “the red or green school bus” \nwould it actually try to generate something green?",
+    "start": 42.88,
+    "duration": 4.96
+  },
+  {
+    "text": "And it did that.",
+    "start": 47.84,
+    "duration": 0.64
+  },
+  {
+    "text": "It was a 32 by 32 tiny image.",
+    "start": 51.44,
+    "duration": 2.72
+  },
+  {
+    "text": "And then all you could see is like a \nblob of something on top of something.",
+    "start": 54.16,
+    "duration": 4.16
+  },
+  {
+    "text": "They tried some other prompts like “A herd \nof elephants flying in the blue skies”.",
+    "start": 58.32,
+    "duration": 3.6
+  },
+  {
+    "text": "“A vintage photo of a cat.”",
+    "start": 62.48,
+    "duration": 1.6
+  },
+  {
+    "text": "“A toilet seat sits open in the grass field.”",
+    "start": 64.64,
+    "duration": 2.88
+  },
+  {
+    "text": "And “a bowl of bananas is on the table.”",
+    "start": 67.52,
+    "duration": 2.08
+  },
+  {
+    "text": "Maybe not something to hang on your wall \nbut the 2016 paper from those researchers  ",
+    "start": 71.2,
+    "duration": 4.4
+  },
+  {
+    "text": "showed the potential for what might \nbecome possible in the future.",
+    "start": 75.6,
+    "duration": 2.96
+  },
+  {
+    "text": "And uh... the future has arrived.",
+    "start": 79.76,
+    "duration": 3.44
+  },
+  {
+    "text": "It is almost impossible to overstate how far \nthe technology has come in just one year.",
+    "start": 84.56,
+    "duration": 6.16
+  },
+  {
+    "text": "By leaps and bounds.\nLeaps and bounds.",
+    "start": 90.72,
+    "duration": 0.88
+  },
+  {
+    "text": "Yeah, it's been quite dramatic.",
+    "start": 92.88,
+    "duration": 2.08
+  },
+  {
+    "text": "I don’t know anyone who \nhasn’t immediately been like",
+    "start": 96.0,
+    "duration": 2.64
+  },
+  {
+    "text": "“What is this? What is happening here?”",
+    "start": 99.52,
+    "duration": 3.36
+  },
+  {
+    "text": "Could I say like watching waves crashing?",
+    "start": 106.8,
+    "duration": 3.04
+  },
+  {
+    "text": "Party hat guy.",
+    "start": 111.12,
+    "duration": 1.04
+  },
+  {
+    "text": "Seafoam dreams.",
+    "start": 112.16,
+    "duration": 0.96
+  },
+  {
+    "text": "A coral reef.\nCubism.",
+    "start": 113.12,
+    "duration": 1.44
+  },
+  {
+    "text": "Caterpillar.",
+    "start": 114.56,
+    "duration": 0.64
+  },
+  {
+    "text": "A dancing taco.",
+    "start": 115.2,
+    "duration": 1.04
+  },
+  {
+    "text": "My prompt is Salvador Dali painting \nthe skyline of New York City.",
+    "start": 116.24,
+    "duration": 4.16
+  },
+  {
+    "text": "You may be thinking, wait \nAI-generated images aren’t new.",
+    "start": 122.48,
+    "duration": 3.52
+  },
+  {
+    "text": "You probably heard about this generated portrait \ngoing for over $400,000 at auction back in 2018.",
+    "start": 126.0,
+    "duration": 6.08
+  },
+  {
+    "text": "Or this installation of morphing portraits, \nwhich Sotheby’s sold the following year.",
+    "start": 132.08,
+    "duration": 3.84
+  },
+  {
+    "text": "It was created by Mario Klingemann, who \nexplained to me that that type of AI  ",
+    "start": 137.04,
+    "duration": 4.0
+  },
+  {
+    "text": "art required him to collect a specific dataset of \nimages and train his own model to mimic that data.",
+    "start": 141.04,
+    "duration": 6.0
+  },
+  {
+    "text": "Let's say, Oh, I want to create landscapes, \nso I collect a lot of landscape images.",
+    "start": 147.04,
+    "duration": 4.32
+  },
+  {
+    "text": "I want to create portraits, \nI trained on portraits.",
+    "start": 151.36,
+    "duration": 2.96
+  },
+  {
+    "text": "But then the portrait model would not \nreally be able to create landscapes.",
+    "start": 154.32,
+    "duration": 4.48
+  },
+  {
+    "text": "Same with those hyper realistic \nfake faces that have been plaguing  ",
+    "start": 158.8,
+    "duration": 2.96
+  },
+  {
+    "text": "linkedin and facebook – those come from a \nmodel that only knows how to make faces.",
+    "start": 161.76,
+    "duration": 4.72
+  },
+  {
+    "text": "Generating a scene from any combination of words \nrequires a different, newer, bigger approach.",
+    "start": 166.48,
+    "duration": 5.76
+  },
+  {
+    "text": "Now we kind of have these huge \nmodels, which are so huge that  ",
+    "start": 172.24,
+    "duration": 4.64
+  },
+  {
+    "text": "somebody like me actually cannot train \nthem anymore on their own computer.",
+    "start": 176.88,
+    "duration": 3.76
+  },
+  {
+    "text": "But once they are there, they are \nreally kind of— they contain everything.",
+    "start": 180.64,
+    "duration": 4.72
+  },
+  {
+    "text": "I mean, to a certain extent.",
+    "start": 185.36,
+    "duration": 2.0
+  },
+  {
+    "text": "What this means is that we can now \ncreate images without having to actually  ",
+    "start": 187.36,
+    "duration": 3.36
+  },
+  {
+    "text": "execute them with paint or \ncameras or pen tools or code.",
+    "start": 190.72,
+    "duration": 3.44
+  },
+  {
+    "text": "The input is just a simple line of text.",
+    "start": 194.16,
+    "duration": 3.68
+  },
+  {
+    "text": "I'll get to how this tech works later in the video  ",
+    "start": 198.56,
+    "duration": 2.56
+  },
+  {
+    "text": "but to understand how we got here, \nwe have to rewind to January 2021",
+    "start": 201.12,
+    "duration": 4.16
+  },
+  {
+    "text": "When a major AI company called Open AI announced \nDALL-E – which they named after these guys.",
+    "start": 206.16,
+    "duration": 5.84
+  },
+  {
+    "text": "They said it could create images from text \ncaptions for a wide range of concepts.",
+    "start": 212.0,
+    "duration": 4.56
+  },
+  {
+    "text": "They recently announced DALLE-2, which promises \nmore realistic results and seamless editing.",
+    "start": 216.56,
+    "duration": 5.44
+  },
+  {
+    "text": "But they haven’t released \neither version to the public.",
+    "start": 222.0,
+    "duration": 3.04
+  },
+  {
+    "text": "So over the past year, a community of \nindependent, open-source developers  ",
+    "start": 225.04,
+    "duration": 4.48
+  },
+  {
+    "text": "built text-to-image generators out of other \npre-trained models that they did have access to.",
+    "start": 229.52,
+    "duration": 4.56
+  },
+  {
+    "text": "And you can play with those online for free.",
+    "start": 234.08,
+    "duration": 2.64
+  },
+  {
+    "text": "Some of those developers are now working \nfor a company called Midjourney, ",
+    "start": 236.72,
+    "duration": 2.96
+  },
+  {
+    "text": "which created a Discord community with bots that \nturn your text into images in less than a minute.",
+    "start": 239.68,
+    "duration": 5.12
+  },
+  {
+    "text": "Having basically no barrier to entry to \nthis has made it like a whole new ballgame.",
+    "start": 246.88,
+    "duration": 6.08
+  },
+  {
+    "text": "I've been up until like two \nor three in the morning.",
+    "start": 252.96,
+    "duration": 1.68
+  },
+  {
+    "text": "Just really trying to change things, piece things together.",
+    "start": 254.64,
+    "duration": 3.84
+  },
+  {
+    "text": "I've done about 7,000 images. It’s ridiculous.",
+    "start": 258.48,
+    "duration": 2.56
+  },
+  {
+    "text": "MidJourney currently has a wait-list for \nsubscriptions, but we got a chance to try it out.",
+    "start": 261.68,
+    "duration": 6.16
+  },
+  {
+    "text": "\"Go ahead and take a look.\"",
+    "start": 269.055,
+    "duration": 2.481
+  },
+  {
+    "text": "“Oh wow. That is so cool”",
+    "start": 271.536,
+    "duration": 3.344
+  },
+  {
+    "text": "“It has some work to do. I feel like it can \nbe — it’s not dancing and it could be better.”",
+    "start": 276.72,
+    "duration": 5.6
+  },
+  {
+    "text": "The craft of communicating \nwith these deep learning  ",
+    "start": 284.4,
+    "duration": 2.16
+  },
+  {
+    "text": "models has been dubbed “prompt engineering”.",
+    "start": 286.56,
+    "duration": 2.48
+  },
+  {
+    "text": "What I love about prompting \nfor me, it's kind of really  ",
+    "start": 289.04,
+    "duration": 2.56
+  },
+  {
+    "text": "that has something like magic where you have to \nknow the right words for that, for the spell.",
+    "start": 292.16,
+    "duration": 4.88
+  },
+  {
+    "text": "You realize that you can refine \nthe way you talk to the machine.",
+    "start": 297.04,
+    "duration": 3.84
+  },
+  {
+    "text": "It becomes a kind of a dialog.",
+    "start": 300.88,
+    "duration": 2.16
+  },
+  {
+    "text": "You can say like “octane render blender 3D”.",
+    "start": 303.04,
+    "duration": 3.44
+  },
+  {
+    "text": "Made with Unreal Engine...",
+    "start": 306.48,
+    "duration": 1.36
+  },
+  {
+    "text": "...certain types of film lenses and cameras...",
+    "start": 307.84,
+    "duration": 2.8
+  },
+  {
+    "text": "...1950s, 1960s...",
+    "start": 310.64,
+    "duration": 2.24
+  },
+  {
+    "text": "...dates are really good.",
+    "start": 312.88,
+    "duration": 1.52
+  },
+  {
+    "text": "...lino cut or wood cut...",
+    "start": 314.4,
+    "duration": 1.52
+  },
+  {
+    "text": "Coming up with funny pairings, like a Faberge Egg McMuffin.",
+    "start": 315.92,
+    "duration": 3.6
+  },
+  {
+    "text": "A monochromatic infographic poster about \ntypography depicting Chinese characters.",
+    "start": 319.52,
+    "duration": 5.12
+  },
+  {
+    "text": "Some of the most striking images \ncan come from prompting the model  ",
+    "start": 324.64,
+    "duration": 2.72
+  },
+  {
+    "text": "to synthesize a long list of concepts.",
+    "start": 327.36,
+    "duration": 2.64
+  },
+  {
+    "text": "It's kind of like it's having a very strange \ncollaborator to bounce ideas off of and get  ",
+    "start": 330.72,
+    "duration": 4.96
+  },
+  {
+    "text": "unpredictable ideas back.",
+    "start": 335.68,
+    "duration": 2.16
+  },
+  {
+    "text": "I love that!",
+    "start": 342.177,
+    "duration": 2.006
+  },
+  {
+    "text": "My prompt was \"chasing seafoam dreams,\"",
+    "start": 344.183,
+    "duration": 3.176
+  },
+  {
+    "text": "which is a lyric from the Ted Leo and the Pharmacists' song \"Biomusicology.\"",
+    "start": 347.359,
+    "duration": 4.082
+  },
+  {
+    "text": "Can I use this as the album cover for my first album? \"Absolutely.\"",
+    "start": 351.441,
+    "duration": 4.147
+  },
+  {
+    "text": "Alright.",
+    "start": 355.588,
+    "duration": 1.723
+  },
+  {
+    "text": "For an image generator to be able to \nrespond to so many different prompts, ",
+    "start": 358.576,
+    "duration": 2.864
+  },
+  {
+    "text": "it needs a massive, diverse training dataset.",
+    "start": 361.44,
+    "duration": 2.4
+  },
+  {
+    "text": "Like hundreds of millions of images scraped from \nthe internet, along with their text descriptions.",
+    "start": 363.84,
+    "duration": 4.48
+  },
+  {
+    "text": "Those captions come from things like the alt text \nthat website owners upload with their images,  ",
+    "start": 368.32,
+    "duration": 4.56
+  },
+  {
+    "text": "for accessibility and for search engines.",
+    "start": 372.88,
+    "duration": 2.24
+  },
+  {
+    "text": "So that’s how the engineers \nget these giant datasets.",
+    "start": 375.92,
+    "duration": 2.4
+  },
+  {
+    "text": "But then what do the models actually do with them?",
+    "start": 378.32,
+    "duration": 2.24
+  },
+  {
+    "text": "We might assume that when \nwe give them a text prompt,  ",
+    "start": 381.68,
+    "duration": 2.32
+  },
+  {
+    "text": "like “a banana inside a snow globe from 1960.\"",
+    "start": 384.0,
+    "duration": 3.44
+  },
+  {
+    "text": "They search through the training data \nto find related images and then copy  ",
+    "start": 387.44,
+    "duration": 3.52
+  },
+  {
+    "text": "over some of those pixels. But \nthat’s not what’s happening.",
+    "start": 390.96,
+    "duration": 3.28
+  },
+  {
+    "text": "The new generated image doesn’t \ncome from the training data,  ",
+    "start": 395.12,
+    "duration": 3.12
+  },
+  {
+    "text": "it comes from the “latent space” \nof the deep learning model.",
+    "start": 398.24,
+    "duration": 3.12
+  },
+  {
+    "text": "That’ll make sense in a minute, first \nlet’s look at how the model learns.",
+    "start": 401.92,
+    "duration": 3.2
+  },
+  {
+    "text": "If I gave you these images and told you to match \nthem to these captions, you’d have no problem.",
+    "start": 405.92,
+    "duration": 4.56
+  },
+  {
+    "text": "But what about now, this is \nwhat images look like to a  ",
+    "start": 410.48,
+    "duration": 3.04
+  },
+  {
+    "text": "machine just pixel values for red green and blue.",
+    "start": 413.52,
+    "duration": 2.8
+  },
+  {
+    "text": "You’d just have to make a guess, and \nthat’s what the computer does too at first.",
+    "start": 416.32,
+    "duration": 3.76
+  },
+  {
+    "text": "But then you could go through \nthousands of rounds of this  ",
+    "start": 420.08,
+    "duration": 2.16
+  },
+  {
+    "text": "and never figure out how to get better at it.",
+    "start": 422.24,
+    "duration": 1.92
+  },
+  {
+    "text": "Whereas a computer can eventually figure out a \nmethod that works- that’s what deep learning does.",
+    "start": 424.16,
+    "duration": 5.44
+  },
+  {
+    "text": "In order to understand that this arrangement \nof pixels is a banana, and this arrangement  ",
+    "start": 430.24,
+    "duration": 3.68
+  },
+  {
+    "text": "of pixels is a balloon, it looks for metrics that \nhelp separate these images in mathematical space.",
+    "start": 433.92,
+    "duration": 5.2
+  },
+  {
+    "text": "So how about color? If we measure \nthe amount of yellow in the image,  ",
+    "start": 439.68,
+    "duration": 3.36
+  },
+  {
+    "text": "that would put the banana over here and the \nballoon over here in this one-dimensional space.",
+    "start": 443.04,
+    "duration": 5.2
+  },
+  {
+    "text": "But then what if we run into this:",
+    "start": 448.24,
+    "duration": 1.92
+  },
+  {
+    "text": "Now our yellowness metric isn’t very \ngood at separating bananas from balloons.",
+    "start": 450.16,
+    "duration": 4.4
+  },
+  {
+    "text": "We need a different variable.",
+    "start": 454.56,
+    "duration": 1.6
+  },
+  {
+    "text": "Let’s add an axis for roundness.",
+    "start": 456.16,
+    "duration": 2.24
+  },
+  {
+    "text": "Now we’ve got a two dimensional space with the \nround balloons up here and the banana down here.",
+    "start": 458.4,
+    "duration": 5.76
+  },
+  {
+    "text": "But if we look at more data we may come \nacross a banana that’s pretty round,  ",
+    "start": 464.16,
+    "duration": 3.6
+  },
+  {
+    "text": "and a balloon that isn’t.",
+    "start": 467.76,
+    "duration": 1.52
+  },
+  {
+    "text": "So maybe there’s some way to measure shininess.",
+    "start": 469.84,
+    "duration": 2.4
+  },
+  {
+    "text": "Balloons usually have a shiny spot.",
+    "start": 472.24,
+    "duration": 2.0
+  },
+  {
+    "text": "Now we have a three dimensional space.",
+    "start": 475.04,
+    "duration": 2.4
+  },
+  {
+    "text": "And ideally, when we get a new image we \ncan measure those 3 variables and see  ",
+    "start": 477.44,
+    "duration": 4.0
+  },
+  {
+    "text": "whether it falls in the banana region \nor the balloon region of the space.",
+    "start": 481.44,
+    "duration": 3.28
+  },
+  {
+    "text": "But what if we want our model to recognize,  ",
+    "start": 485.36,
+    "duration": 1.68
+  },
+  {
+    "text": "not just bananas and balloons, \nbut…all these other things.",
+    "start": 487.04,
+    "duration": 3.04
+  },
+  {
+    "text": "Yellowness, roundness, and shininess don’t \ncapture what’s distinct about these objects.",
+    "start": 490.08,
+    "duration": 4.8
+  },
+  {
+    "text": "That’s what deep learning algorithms do \nas they go through all the training data.",
+    "start": 499.04,
+    "duration": 3.52
+  },
+  {
+    "text": "They find variables that help improve their \nperformance on the task and in the process,  ",
+    "start": 502.56,
+    "duration": 4.56
+  },
+  {
+    "text": "they build out a mathematical space \nwith way more than 3 dimensions.",
+    "start": 507.12,
+    "duration": 3.44
+  },
+  {
+    "text": "We are incapable of picturing multidimensional \nspace, but midjourney's model offered this and I like it.",
+    "start": 511.76,
+    "duration": 5.76
+  },
+  {
+    "text": "So we’ll say this represents the latent space of \nthe model. And It has more than 500 dimensions.",
+    "start": 517.52,
+    "duration": 5.6
+  },
+  {
+    "text": "Those 500 axes represent variables that \nhumans wouldn’t even recognize or have  ",
+    "start": 523.92,
+    "duration": 4.16
+  },
+  {
+    "text": "names for but the result is that \nthe space has meaningful clusters:",
+    "start": 528.08,
+    "duration": 3.76
+  },
+  {
+    "text": "A region that captures the essence of banana-ness.",
+    "start": 531.84,
+    "duration": 2.96
+  },
+  {
+    "text": "A region that represents the textures \nand colors of photos from the 1960s.",
+    "start": 534.8,
+    "duration": 4.4
+  },
+  {
+    "text": "An area for snow and an area for globes \nand snowglobes somewhere in between.",
+    "start": 539.2,
+    "duration": 4.48
+  },
+  {
+    "text": "Any point in this space can be thought \nof as the recipe for a possible image.",
+    "start": 545.6,
+    "duration": 4.56
+  },
+  {
+    "text": "The text prompt is what navigates us to that \nlocation. But then there’s one more step.",
+    "start": 550.16,
+    "duration": 6.4
+  },
+  {
+    "text": "Translating a point in that mathematical \nspace into an actual image involves a  ",
+    "start": 556.56,
+    "duration": 5.6
+  },
+  {
+    "text": "generative process called diffusion. \nIt starts with just noise and then,  ",
+    "start": 562.16,
+    "duration": 4.32
+  },
+  {
+    "text": "over a series of iterations, arranges pixels \ninto a composition that makes sense to humans.",
+    "start": 566.48,
+    "duration": 5.04
+  },
+  {
+    "text": "Because of some randomness in the process,  ",
+    "start": 573.28,
+    "duration": 1.6
+  },
+  {
+    "text": "it will never return exactly the \nsame image for the same prompt.",
+    "start": 574.88,
+    "duration": 3.12
+  },
+  {
+    "text": "And if you enter the prompt into a \ndifferent model designed by different  ",
+    "start": 578.72,
+    "duration": 2.8
+  },
+  {
+    "text": "people and trained on different \ndata, you’ll get a different result.",
+    "start": 581.52,
+    "duration": 3.36
+  },
+  {
+    "text": "Because you’re in a different latent space.",
+    "start": 584.88,
+    "duration": 4.96
+  },
+  {
+    "text": "No way. That is so cool. What the heck? The brush \nstrokes, the color palette. That’s fascinating.",
+    "start": 598.24,
+    "duration": 8.64
+  },
+  {
+    "text": "I wish I could like — I mean he’s dead, \nbut go up to him and be like, \"Look what I have!\"",
+    "start": 606.88,
+    "duration": 5.239
+  },
+  {
+    "text": "Oh that’s pretty cool. Probably the \nonly Dali that I could afford anyways.”",
+    "start": 614.48,
+    "duration": 4.64
+  },
+  {
+    "text": "The ability of deep learning to extract \npatterns from data means that you can copy an  ",
+    "start": 621.28,
+    "duration": 4.16
+  },
+  {
+    "text": "artist’s style without copying their images, \njust by putting their name in the prompt.",
+    "start": 625.44,
+    "duration": 6.4
+  },
+  {
+    "text": "James Gurney is an American illustrator who  ",
+    "start": 632.4,
+    "duration": 2.32
+  },
+  {
+    "text": "became a popular reference for \nusers of text to image models.",
+    "start": 634.72,
+    "duration": 3.36
+  },
+  {
+    "text": "I asked him what kind of norms he would like \nto see as prompting becomes widespread.",
+    "start": 638.64,
+    "duration": 4.48
+  },
+  {
+    "text": "I think it's only fair to \npeople looking at this work  ",
+    "start": 643.12,
+    "duration": 2.64
+  },
+  {
+    "text": "that they should know what the prompt \nwas and also what software was used.",
+    "start": 645.76,
+    "duration": 4.24
+  },
+  {
+    "text": "Also I think the artists should be allowed \nto opt in or opt out of having their work  ",
+    "start": 650.0,
+    "duration": 4.32
+  },
+  {
+    "text": "that they worked so hard on by hand be used \nas a dataset for creating this other artwork.",
+    "start": 654.32,
+    "duration": 5.44
+  },
+  {
+    "text": "James Gurney, I think he was a \ngreat example of being someone  ",
+    "start": 659.76,
+    "duration": 3.76
+  },
+  {
+    "text": "who was open to it, started \ntalking with the artists.",
+    "start": 663.52,
+    "duration": 3.68
+  },
+  {
+    "text": "But I also heard of other artists \nwho got actually extremely upset.",
+    "start": 667.2,
+    "duration": 6.08
+  },
+  {
+    "text": "The copyright questions regarding \nthe images that go into training the  ",
+    "start": 673.28,
+    "duration": 3.2
+  },
+  {
+    "text": "models and the images that come out \nof them…are completely unresolved.",
+    "start": 676.48,
+    "duration": 4.32
+  },
+  {
+    "text": "And those aren’t the only questions \nthat this technology will provoke.",
+    "start": 680.8,
+    "duration": 2.56
+  },
+  {
+    "text": "The latent space of these models contains some  ",
+    "start": 684.08,
+    "duration": 2.08
+  },
+  {
+    "text": "dark corners that get scarier as \noutputs become photorealistic.",
+    "start": 686.16,
+    "duration": 4.24
+  },
+  {
+    "text": "It also holds an untold number \nof associations that we wouldn’t  ",
+    "start": 690.4,
+    "duration": 3.36
+  },
+  {
+    "text": "teach our children but that \nit learned from the internet.",
+    "start": 693.76,
+    "duration": 2.88
+  },
+  {
+    "text": "If you ask an image of the CEO, \nit's like an old white guy.",
+    "start": 696.64,
+    "duration": 3.76
+  },
+  {
+    "text": "If you ask for images of \nnurses, they're all like women.",
+    "start": 700.4,
+    "duration": 2.72
+  },
+  {
+    "text": "We don’t know exactly what’s in the \ndatasets used by OpenAI or Midjourney.",
+    "start": 703.76,
+    "duration": 4.0
+  },
+  {
+    "text": "But we know the internet is biased toward \nthe English language and western concepts,  ",
+    "start": 707.76,
+    "duration": 3.36
+  },
+  {
+    "text": "with whole cultures not represented at all.",
+    "start": 711.12,
+    "duration": 2.64
+  },
+  {
+    "text": "In one open-sourced dataset,  ",
+    "start": 713.76,
+    "duration": 1.52
+  },
+  {
+    "text": "the word “asian” is represented first \nand foremost by an avalanche of porn.",
+    "start": 715.28,
+    "duration": 4.48
+  },
+  {
+    "text": "It really is just sort of an infinitely complex \nmirror held up to our society and what we  ",
+    "start": 721.12,
+    "duration": 6.48
+  },
+  {
+    "text": "deemed worthy enough to, you know, put \non the internet in the first place and  ",
+    "start": 728.16,
+    "duration": 3.68
+  },
+  {
+    "text": "how we think about what we do put up.",
+    "start": 732.56,
+    "duration": 1.76
+  },
+  {
+    "text": "But what makes this technology so \nunique is that it enables any of  ",
+    "start": 736.56,
+    "duration": 3.28
+  },
+  {
+    "text": "us to direct the machine to \nimagine what we want it to see.",
+    "start": 739.84,
+    "duration": 3.28
+  },
+  {
+    "text": "Party hat guy, space invader, caterpillar, and a ramen bowl. ",
+    "start": 743.12,
+    "duration": 5.92
+  },
+  {
+    "text": "Prompting removes the obstacles between ideas \nand images, and eventually videos, animations,  ",
+    "start": 749.04,
+    "duration": 6.08
+  },
+  {
+    "text": "and whole virtual worlds.",
+    "start": 755.12,
+    "duration": 1.76
+  },
+  {
+    "text": "We are on a voyage here, that \nis it's a bigger deal than  ",
+    "start": 756.88,
+    "duration": 5.68
+  },
+  {
+    "text": "than just like one decade or the \nimmediate technical consequences.",
+    "start": 762.56,
+    "duration": 3.68
+  },
+  {
+    "text": "It's a change in the way humans imagine, \ncommunicate, work with their own culture  ",
+    "start": 766.24,
+    "duration": 4.72
+  },
+  {
+    "text": "And that will have long range, \ngood and bad consequences that we  ",
+    "start": 770.96,
+    "duration": 5.12
+  },
+  {
+    "text": "we are just by definition, not going to \nbe capable of completely anticipating.",
+    "start": 776.08,
+    "duration": 4.96
+  },
+  {
+    "text": "Over the course of researching this video \nI spoke to a bunch of creative people",
+    "start": 785.997,
+    "duration": 3.752
+  },
+  {
+    "text": "who have played with these tools.",
+    "start": 789.749,
+    "duration": 1.579
+  },
+  {
+    "text": "And I asked them what they think this all means for people who make a living making images.",
+    "start": 791.328,
+    "duration": 5.506
+  },
+  {
+    "text": "The human artists and illustrators and designers and stock photographers out there.",
+    "start": 796.834,
+    "duration": 5.247
+  },
+  {
+    "text": "And they had a lot of interesting things to say. ",
+    "start": 802.081,
+    "duration": 2.694
+  },
+  {
+    "text": "So I've compiled them into a bonus video.",
+    "start": 804.775,
+    "duration": 2.57
+  },
+  {
+    "text": "Please check it out and add your own thoughts in the comments. Thank you for watching.",
+    "start": 807.345,
+    "duration": 4.651
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "text": "Let's play a game.",
+    "start": 12.917,
+    "duration": 1.321
+  },
+  {
+    "text": "Imagine that you are in Las Vegas,",
+    "start": 14.825,
+    "duration": 2.876
+  },
+  {
+    "text": "in a casino,",
+    "start": 17.725,
+    "duration": 1.351
+  },
+  {
+    "text": "and you decide to play a game\non one of the casino's computers,",
+    "start": 19.1,
+    "duration": 4.016
+  },
+  {
+    "text": "just like you might play\nsolitaire or chess.",
+    "start": 23.14,
+    "duration": 2.586
+  },
+  {
+    "text": "The computer can make moves\nin the game, just like a human player.",
+    "start": 26.52,
+    "duration": 3.15
+  },
+  {
+    "text": "This is a coin game.",
+    "start": 30.438,
+    "duration": 1.7
+  },
+  {
+    "text": "It starts with a coin showing heads,",
+    "start": 32.732,
+    "duration": 3.055
+  },
+  {
+    "text": "and the computer will play first.",
+    "start": 35.811,
+    "duration": 1.801
+  },
+  {
+    "text": "It can choose to flip the coin or not,",
+    "start": 37.636,
+    "duration": 2.856
+  },
+  {
+    "text": "but you don't get to see the outcome.",
+    "start": 40.516,
+    "duration": 1.809
+  },
+  {
+    "text": "Next, it's your turn.",
+    "start": 43.144,
+    "duration": 1.181
+  },
+  {
+    "text": "You can also choose\nto flip the coin or not,",
+    "start": 44.862,
+    "duration": 2.842
+  },
+  {
+    "text": "and your move will not be revealed\nto your opponent, the computer.",
+    "start": 47.728,
+    "duration": 3.46
+  },
+  {
+    "text": "Finally, the computer plays again,\nand can flip the coin or not,",
+    "start": 51.737,
+    "duration": 3.999
+  },
+  {
+    "text": "and after these three rounds,",
+    "start": 55.76,
+    "duration": 2.691
+  },
+  {
+    "text": "the coin is revealed,",
+    "start": 58.475,
+    "duration": 1.929
+  },
+  {
+    "text": "and if it is heads, the computer wins,",
+    "start": 60.428,
+    "duration": 2.808
+  },
+  {
+    "text": "if it's tails, you win.",
+    "start": 63.26,
+    "duration": 1.715
+  },
+  {
+    "text": "So it's a pretty simple game,",
+    "start": 66.21,
+    "duration": 1.713
+  },
+  {
+    "text": "and if everybody plays honestly,\nand the coin is fair,",
+    "start": 67.947,
+    "duration": 3.393
+  },
+  {
+    "text": "then you have a 50 percent chance\nof winning this game.",
+    "start": 71.364,
+    "duration": 3.762
+  },
+  {
+    "text": "And to confirm that,",
+    "start": 75.15,
+    "duration": 2.274
+  },
+  {
+    "text": "I asked my students to play\nthis game on our computers,",
+    "start": 77.448,
+    "duration": 3.135
+  },
+  {
+    "text": "and after many, many tries,",
+    "start": 80.607,
+    "duration": 1.984
+  },
+  {
+    "text": "their winning rate ended up\nbeing 50 percent, or close to 50 percent,",
+    "start": 82.615,
+    "duration": 4.04
+  },
+  {
+    "text": "as expected.",
+    "start": 86.679,
+    "duration": 1.651
+  },
+  {
+    "text": "Sounds like a boring game, right?",
+    "start": 88.354,
+    "duration": 2.036
+  },
+  {
+    "text": "But what if you could play this game\non a quantum computer?",
+    "start": 90.414,
+    "duration": 3.217
+  },
+  {
+    "text": "Now, Las Vegas casinos\ndo not have quantum computers,",
+    "start": 94.665,
+    "duration": 3.08
+  },
+  {
+    "text": "as far as I know,",
+    "start": 97.769,
+    "duration": 1.741
+  },
+  {
+    "text": "but IBM has built\na working quantum computer.",
+    "start": 99.534,
+    "duration": 3.436
+  },
+  {
+    "text": "Here it is.",
+    "start": 102.994,
+    "duration": 1.197
+  },
+  {
+    "text": "But what is a quantum computer?",
+    "start": 104.605,
+    "duration": 1.484
+  },
+  {
+    "text": "Well, quantum physics describes",
+    "start": 106.534,
+    "duration": 2.809
+  },
+  {
+    "text": "the behavior of atoms\nand fundamental particles,",
+    "start": 109.367,
+    "duration": 3.77
+  },
+  {
+    "text": "like electrons and photons.",
+    "start": 113.161,
+    "duration": 2.483
+  },
+  {
+    "text": "So a quantum computer operates",
+    "start": 115.668,
+    "duration": 1.724
+  },
+  {
+    "text": "by controlling the behavior\nof these particles,",
+    "start": 117.416,
+    "duration": 2.607
+  },
+  {
+    "text": "but in a way that is completely different\nfrom our regular computers.",
+    "start": 120.047,
+    "duration": 3.666
+  },
+  {
+    "text": "So a quantum computer\nis not just a more powerful version",
+    "start": 124.279,
+    "duration": 3.896
+  },
+  {
+    "text": "of our current computers,",
+    "start": 128.199,
+    "duration": 2.105
+  },
+  {
+    "text": "just like a light bulb\nis not a more powerful candle.",
+    "start": 130.328,
+    "duration": 4.007
+  },
+  {
+    "text": "You cannot build a light bulb\nby building better and better candles.",
+    "start": 134.359,
+    "duration": 4.119
+  },
+  {
+    "text": "A light bulb is a different technology,",
+    "start": 139.048,
+    "duration": 2.215
+  },
+  {
+    "text": "based on deeper scientific understanding.",
+    "start": 141.287,
+    "duration": 2.654
+  },
+  {
+    "text": "Similarly, a quantum computer\nis a new kind of device,",
+    "start": 143.965,
+    "duration": 3.737
+  },
+  {
+    "text": "based on the science of quantum physics,",
+    "start": 147.726,
+    "duration": 2.749
+  },
+  {
+    "text": "and just like a light bulb\ntransformed society,",
+    "start": 150.499,
+    "duration": 3.15
+  },
+  {
+    "text": "quantum computers\nhave the potential to impact",
+    "start": 153.673,
+    "duration": 2.66
+  },
+  {
+    "text": "so many aspects of our lives,",
+    "start": 156.357,
+    "duration": 1.877
+  },
+  {
+    "text": "including our security needs,\nour health care and even the internet.",
+    "start": 158.258,
+    "duration": 3.928
+  },
+  {
+    "text": "So companies all around the world\nare working to build these devices,",
+    "start": 162.837,
+    "duration": 4.301
+  },
+  {
+    "text": "and to see what\nthe excitement is all about,",
+    "start": 167.162,
+    "duration": 2.335
+  },
+  {
+    "text": "let's play our game on a quantum computer.",
+    "start": 169.521,
+    "duration": 2.15
+  },
+  {
+    "text": "So I can log into IBM's\nquantum computer from right here,",
+    "start": 172.862,
+    "duration": 4.773
+  },
+  {
+    "text": "which means I can play the game remotely,",
+    "start": 177.659,
+    "duration": 2.475
+  },
+  {
+    "text": "and so can you.",
+    "start": 180.158,
+    "duration": 1.15
+  },
+  {
+    "text": "To make this happen, you may remember\ngetting an email ahead of time, from TED,",
+    "start": 182.151,
+    "duration": 5.422
+  },
+  {
+    "text": "asking you whether you would choose\nto flip the coin or not,",
+    "start": 187.597,
+    "duration": 3.725
+  },
+  {
+    "text": "if you played the game.",
+    "start": 191.346,
+    "duration": 1.695
+  },
+  {
+    "text": "Well, actually, we asked you to choose\nbetween a circle or a square.",
+    "start": 193.065,
+    "duration": 4.868
+  },
+  {
+    "text": "You didn't know it, but your choice\nof circle meant \"flip the coin,\"",
+    "start": 197.957,
+    "duration": 3.842
+  },
+  {
+    "text": "and your choice of square\nwas \"don't flip.\"",
+    "start": 201.823,
+    "duration": 2.157
+  },
+  {
+    "text": "We received 372 responses.",
+    "start": 204.723,
+    "duration": 2.841
+  },
+  {
+    "text": "Thank you.",
+    "start": 207.588,
+    "duration": 1.19
+  },
+  {
+    "text": "That means we can play 372 games\nagainst the quantum computer",
+    "start": 208.802,
+    "duration": 4.468
+  },
+  {
+    "text": "using your choices.",
+    "start": 213.294,
+    "duration": 1.628
+  },
+  {
+    "text": "And it's a pretty fast game to play,",
+    "start": 214.946,
+    "duration": 2.245
+  },
+  {
+    "text": "so I can show you the results right here.",
+    "start": 217.215,
+    "duration": 2.207
+  },
+  {
+    "text": "Unfortunately, you didn't do very well.",
+    "start": 220.231,
+    "duration": 2.306
+  },
+  {
+    "text": "(Laughter)",
+    "start": 222.561,
+    "duration": 2.073
+  },
+  {
+    "text": "The quantum computer won\nalmost every game.",
+    "start": 224.658,
+    "duration": 3.056
+  },
+  {
+    "text": "It lost a few only because\nof operational errors in the computer.",
+    "start": 228.159,
+    "duration": 3.722
+  },
+  {
+    "text": "(Laughter)",
+    "start": 231.905,
+    "duration": 1.962
+  },
+  {
+    "text": "So how did it achieve\nthis amazing winning streak?",
+    "start": 233.891,
+    "duration": 3.301
+  },
+  {
+    "text": "It seems like magic or cheating,",
+    "start": 238.224,
+    "duration": 2.493
+  },
+  {
+    "text": "but actually, it's just\nquantum physics in action.",
+    "start": 240.741,
+    "duration": 2.378
+  },
+  {
+    "text": "Here's how it works.",
+    "start": 243.78,
+    "duration": 1.576
+  },
+  {
+    "text": "A regular computer simulates\nheads or tails of a coin as a bit,",
+    "start": 245.38,
+    "duration": 5.452
+  },
+  {
+    "text": "a zero or a one,",
+    "start": 250.856,
+    "duration": 1.655
+  },
+  {
+    "text": "or a current flipping on and off\ninside your computer chip.",
+    "start": 252.535,
+    "duration": 3.88
+  },
+  {
+    "text": "A quantum computer\nis completely different.",
+    "start": 256.439,
+    "duration": 2.08
+  },
+  {
+    "text": "A quantum bit has a more fluid,\nnonbinary identity.",
+    "start": 259.25,
+    "duration": 4.513
+  },
+  {
+    "text": "It can exist in a superposition,\nor a combination of zero and one,",
+    "start": 264.511,
+    "duration": 5.842
+  },
+  {
+    "text": "with some probability of being zero\nand some probability of being one.",
+    "start": 270.377,
+    "duration": 4.706
+  },
+  {
+    "text": "In other words,\nits identity is on a spectrum.",
+    "start": 275.545,
+    "duration": 2.531
+  },
+  {
+    "text": "For example, it could have\na 70 percent chance of being zero",
+    "start": 278.79,
+    "duration": 3.803
+  },
+  {
+    "text": "and a 30 percent chance of being one",
+    "start": 282.617,
+    "duration": 2.336
+  },
+  {
+    "text": "or 80-20 or 60-40.",
+    "start": 284.977,
+    "duration": 4.015
+  },
+  {
+    "text": "The possibilities are endless.",
+    "start": 289.016,
+    "duration": 2.613
+  },
+  {
+    "text": "The key idea here",
+    "start": 291.653,
+    "duration": 1.366
+  },
+  {
+    "text": "is that we have to give up\non precise values of zero and one",
+    "start": 293.043,
+    "duration": 4.22
+  },
+  {
+    "text": "and allow for some uncertainty.",
+    "start": 297.287,
+    "duration": 1.841
+  },
+  {
+    "text": "So during the game,",
+    "start": 299.737,
+    "duration": 1.651
+  },
+  {
+    "text": "the quantum computer creates\nthis fluid combination of heads and tails,",
+    "start": 301.412,
+    "duration": 4.747
+  },
+  {
+    "text": "zero and one,",
+    "start": 306.183,
+    "duration": 1.151
+  },
+  {
+    "text": "so that no matter what the player does,",
+    "start": 307.358,
+    "duration": 2.268
+  },
+  {
+    "text": "flip or no flip,",
+    "start": 309.65,
+    "duration": 1.188
+  },
+  {
+    "text": "the superposition remains intact.",
+    "start": 310.862,
+    "duration": 2.376
+  },
+  {
+    "text": "It's kind of like stirring\na mixture of two fluids.",
+    "start": 313.83,
+    "duration": 3.476
+  },
+  {
+    "text": "Whether or not you stir,\nthe fluids remain in a mixture,",
+    "start": 317.714,
+    "duration": 4.385
+  },
+  {
+    "text": "but in its final move,",
+    "start": 322.123,
+    "duration": 2.421
+  },
+  {
+    "text": "the quantum computer\ncan unmix the zero and one,",
+    "start": 324.568,
+    "duration": 3.94
+  },
+  {
+    "text": "perfectly recovering heads\nso that you lose every time.",
+    "start": 328.532,
+    "duration": 3.738
+  },
+  {
+    "text": "(Laughter)",
+    "start": 332.294,
+    "duration": 1.57
+  },
+  {
+    "text": "If you think this is all a bit weird,\nyou are absolutely right.",
+    "start": 334.267,
+    "duration": 3.38
+  },
+  {
+    "text": "Regular coins do not exist\nin combinations of heads and tails.",
+    "start": 338.608,
+    "duration": 4.079
+  },
+  {
+    "text": "We do not experience\nthis fluid quantum reality",
+    "start": 343.056,
+    "duration": 4.204
+  },
+  {
+    "text": "in our everyday lives.",
+    "start": 347.284,
+    "duration": 1.47
+  },
+  {
+    "text": "So if you are confused by quantum,",
+    "start": 349.247,
+    "duration": 2.254
+  },
+  {
+    "text": "don't worry, you're getting it.",
+    "start": 351.525,
+    "duration": 1.906
+  },
+  {
+    "text": "(Laughter)",
+    "start": 353.455,
+    "duration": 3.164
+  },
+  {
+    "text": "But even though we don't experience\nquantum strangeness,",
+    "start": 356.643,
+    "duration": 4.256
+  },
+  {
+    "text": "we can see its very real\neffects in action.",
+    "start": 360.923,
+    "duration": 3.158
+  },
+  {
+    "text": "You've seen the data for yourself.",
+    "start": 364.105,
+    "duration": 1.754
+  },
+  {
+    "text": "The quantum computer won",
+    "start": 366.529,
+    "duration": 1.461
+  },
+  {
+    "text": "because it harnessed\nsuperposition and uncertainty,",
+    "start": 368.014,
+    "duration": 4.788
+  },
+  {
+    "text": "and these quantum properties are powerful,",
+    "start": 372.826,
+    "duration": 2.356
+  },
+  {
+    "text": "not just to win coin games,",
+    "start": 375.206,
+    "duration": 2.278
+  },
+  {
+    "text": "but also to build\nfuture quantum technologies.",
+    "start": 377.508,
+    "duration": 3.618
+  },
+  {
+    "text": "So let me give you three examples\nof potential applications",
+    "start": 381.15,
+    "duration": 3.516
+  },
+  {
+    "text": "that could change our lives.",
+    "start": 384.69,
+    "duration": 1.46
+  },
+  {
+    "text": "First of all, quantum uncertainty\ncould be used to create private keys",
+    "start": 387.147,
+    "duration": 5.301
+  },
+  {
+    "text": "for encrypting messages\nsent from one location to another",
+    "start": 392.472,
+    "duration": 3.79
+  },
+  {
+    "text": "so that hackers could not\nsecretly copy the key perfectly,",
+    "start": 396.286,
+    "duration": 5.129
+  },
+  {
+    "text": "because of quantum uncertainty.",
+    "start": 401.439,
+    "duration": 1.553
+  },
+  {
+    "text": "They would have to break\nthe laws of quantum physics",
+    "start": 403.809,
+    "duration": 3.786
+  },
+  {
+    "text": "to hack the key.",
+    "start": 407.619,
+    "duration": 1.269
+  },
+  {
+    "text": "So this kind of unbreakable encryption\nis already being tested by banks",
+    "start": 409.531,
+    "duration": 4.874
+  },
+  {
+    "text": "and other institutions worldwide.",
+    "start": 414.429,
+    "duration": 1.935
+  },
+  {
+    "text": "Today, we use more than 17 billion\nconnected devices globally.",
+    "start": 417.357,
+    "duration": 5.449
+  },
+  {
+    "text": "Just imagine the impact quantum encryption\ncould have in the future.",
+    "start": 423.619,
+    "duration": 3.5
+  },
+  {
+    "text": "Secondly, quantum technologies could also\ntransform health care and medicine.",
+    "start": 428.171,
+    "duration": 5.73
+  },
+  {
+    "text": "For example, the design and analysis\nof molecules for drug development",
+    "start": 434.427,
+    "duration": 5.301
+  },
+  {
+    "text": "is a challenging problem today,",
+    "start": 439.752,
+    "duration": 2.395
+  },
+  {
+    "text": "and that's because\nexactly describing and calculating",
+    "start": 442.171,
+    "duration": 4.952
+  },
+  {
+    "text": "all of the quantum properties\nof all the atoms in the molecule",
+    "start": 447.147,
+    "duration": 4.102
+  },
+  {
+    "text": "is a computationally difficult task,\neven for our supercomputers.",
+    "start": 451.273,
+    "duration": 3.651
+  },
+  {
+    "text": "But a quantum computer could do better,",
+    "start": 455.48,
+    "duration": 2.206
+  },
+  {
+    "text": "because it operates using\nthe same quantum properties",
+    "start": 457.71,
+    "duration": 3.254
+  },
+  {
+    "text": "as the molecule it's trying to simulate.",
+    "start": 460.988,
+    "duration": 2.552
+  },
+  {
+    "text": "So future large-scale quantum\nsimulations for drug development",
+    "start": 463.564,
+    "duration": 4.777
+  },
+  {
+    "text": "could perhaps lead to treatments\nfor diseases like Alzheimer's,",
+    "start": 468.365,
+    "duration": 3.286
+  },
+  {
+    "text": "which affects thousands of lives.",
+    "start": 471.675,
+    "duration": 2.142
+  },
+  {
+    "text": "And thirdly, my favorite\nquantum application",
+    "start": 474.355,
+    "duration": 3.037
+  },
+  {
+    "text": "is teleportation of information\nfrom one location to another",
+    "start": 477.416,
+    "duration": 4.659
+  },
+  {
+    "text": "without physically transmitting\nthe information.",
+    "start": 482.099,
+    "duration": 3.042
+  },
+  {
+    "text": "Sounds like sci-fi, but it is possible,",
+    "start": 485.847,
+    "duration": 3.429
+  },
+  {
+    "text": "because these fluid identities\nof the quantum particles",
+    "start": 489.3,
+    "duration": 3.719
+  },
+  {
+    "text": "can get entangled across space and time",
+    "start": 493.043,
+    "duration": 3.358
+  },
+  {
+    "text": "in such a way that when you change\nsomething about one particle,",
+    "start": 496.425,
+    "duration": 3.61
+  },
+  {
+    "text": "it can impact the other,",
+    "start": 500.059,
+    "duration": 1.456
+  },
+  {
+    "text": "and that creates\na channel for teleportation.",
+    "start": 501.539,
+    "duration": 2.658
+  },
+  {
+    "text": "It's already been demonstrated\nin research labs",
+    "start": 505.039,
+    "duration": 2.609
+  },
+  {
+    "text": "and could be part\nof a future quantum internet.",
+    "start": 507.672,
+    "duration": 2.921
+  },
+  {
+    "text": "We don't have such a network as yet,",
+    "start": 511.219,
+    "duration": 3.347
+  },
+  {
+    "text": "but my team is working\non these possibilities,",
+    "start": 514.59,
+    "duration": 2.904
+  },
+  {
+    "text": "by simulating a quantum network\non a quantum computer.",
+    "start": 517.518,
+    "duration": 3.849
+  },
+  {
+    "text": "So we have designed and implemented\nsome interesting new protocols",
+    "start": 522.052,
+    "duration": 3.998
+  },
+  {
+    "text": "such as teleportation\namong different users in the network",
+    "start": 526.074,
+    "duration": 5.682
+  },
+  {
+    "text": "and efficient data transmission",
+    "start": 531.78,
+    "duration": 2.222
+  },
+  {
+    "text": "and even secure voting.",
+    "start": 534.026,
+    "duration": 1.603
+  },
+  {
+    "text": "So it's a lot of fun for me,\nbeing a quantum physicist.",
+    "start": 536.502,
+    "duration": 2.879
+  },
+  {
+    "text": "I highly recommend it.",
+    "start": 539.405,
+    "duration": 1.493
+  },
+  {
+    "text": "(Laughter)",
+    "start": 540.922,
+    "duration": 1.958
+  },
+  {
+    "text": "We get to be explorers\nin a quantum wonderland.",
+    "start": 542.904,
+    "duration": 2.881
+  },
+  {
+    "text": "Who knows what applications\nwe will discover next.",
+    "start": 545.809,
+    "duration": 2.884
+  },
+  {
+    "text": "We must tread carefully and responsibly",
+    "start": 549.222,
+    "duration": 2.825
+  },
+  {
+    "text": "as we build our quantum future.",
+    "start": 552.071,
+    "duration": 1.936
+  },
+  {
+    "text": "And for me, personally,",
+    "start": 554.809,
+    "duration": 1.798
+  },
+  {
+    "text": "I don't see quantum physics as a tool\njust to build quantum computers.",
+    "start": 556.631,
+    "duration": 5.469
+  },
+  {
+    "text": "I see quantum computers as a way\nfor us to probe the mysteries of nature",
+    "start": 562.124,
+    "duration": 5.134
+  },
+  {
+    "text": "and reveal more about this hidden world\noutside of our experiences.",
+    "start": 567.282,
+    "duration": 3.912
+  },
+  {
+    "text": "How amazing that we humans,",
+    "start": 571.218,
+    "duration": 2.102
+  },
+  {
+    "text": "with our relatively limited\naccess to the universe,",
+    "start": 573.344,
+    "duration": 2.992
+  },
+  {
+    "text": "can still see far beyond our horizons",
+    "start": 576.36,
+    "duration": 2.634
+  },
+  {
+    "text": "just using our imagination\nand our ingenuity.",
+    "start": 579.018,
+    "duration": 2.58
+  },
+  {
+    "text": "And the universe rewards us",
+    "start": 582.211,
+    "duration": 2.317
+  },
+  {
+    "text": "by showing us how incredibly\ninteresting and surprising it is.",
+    "start": 584.552,
+    "duration": 3.928
+  },
+  {
+    "text": "The future is fundamentally uncertain,",
+    "start": 589.171,
+    "duration": 3.376
+  },
+  {
+    "text": "and to me, that is certainly exciting.",
+    "start": 592.571,
+    "duration": 3.179
+  },
+  {
+    "text": "Thank you.",
+    "start": 596.344,
+    "duration": 1.151
+  },
+  {
+    "text": "(Applause)",
+    "start": 597.519,
+    "duration": 6.107
+  }
+]

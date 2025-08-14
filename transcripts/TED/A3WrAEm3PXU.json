@@ -1,0 +1,632 @@
+[
+  {
+    "text": "Catching cancer at its earliest stages,",
+    "start": 4.292,
+    "duration": 3.337
+  },
+  {
+    "text": "when it's most treatable,\ncan save countless lives.",
+    "start": 7.629,
+    "duration": 2.586
+  },
+  {
+    "text": "But the million-dollar question is:",
+    "start": 11.007,
+    "duration": 1.835
+  },
+  {
+    "text": "in an otherwise healthy body\nmade up of trillions of cells,",
+    "start": 12.884,
+    "duration": 3.837
+  },
+  {
+    "text": "how can we zero in on a small\ngroup of rogue cancer cells?",
+    "start": 16.721,
+    "duration": 3.629
+  },
+  {
+    "text": "The answer, I think,",
+    "start": 20.767,
+    "duration": 1.585
+  },
+  {
+    "text": "may be rooted in something\nthat, thanks to the pandemic,",
+    "start": 22.394,
+    "duration": 2.669
+  },
+  {
+    "text": "we have all come to know\nquite well, and that is RNA.",
+    "start": 25.063,
+    "duration": 3.128
+  },
+  {
+    "text": "I think these days, everyone has a basic\nunderstanding of how RNA works.",
+    "start": 28.775,
+    "duration": 3.712
+  },
+  {
+    "text": "Again, thanks to the COVID vaccines.",
+    "start": 32.529,
+    "duration": 1.793
+  },
+  {
+    "text": "But basically, RNA is transcribed\nfrom DNA in the cell,",
+    "start": 34.864,
+    "duration": 3.671
+  },
+  {
+    "text": "and messenger RNA specifically serves\nas a template for protein synthesis.",
+    "start": 38.535,
+    "duration": 4.796
+  },
+  {
+    "text": "So usually the more mRNA\nyou have in the cell,",
+    "start": 43.331,
+    "duration": 3.671
+  },
+  {
+    "text": "the more protein you get.",
+    "start": 47.002,
+    "duration": 1.668
+  },
+  {
+    "text": "But our discovery\nis a little bit different.",
+    "start": 49.17,
+    "duration": 2.086
+  },
+  {
+    "text": "We have found a new class of RNAs",
+    "start": 52.299,
+    "duration": 2.002
+  },
+  {
+    "text": "that have changed how we think\nabout cancer detection.",
+    "start": 54.342,
+    "duration": 2.878
+  },
+  {
+    "text": "These are relatively small RNAs,",
+    "start": 57.637,
+    "duration": 2.211
+  },
+  {
+    "text": "and they don't actually\ncode for any protein.",
+    "start": 59.848,
+    "duration": 2.544
+  },
+  {
+    "text": "So they're non-coding.",
+    "start": 62.434,
+    "duration": 1.459
+  },
+  {
+    "text": "And since we found them,\nwe got to name them.",
+    "start": 63.935,
+    "duration": 2.586
+  },
+  {
+    "text": "And we have called them\norphan non-coding RNAs",
+    "start": 66.521,
+    "duration": 2.669
+  },
+  {
+    "text": "or oncRNAs for short.",
+    "start": 69.232,
+    "duration": 1.668
+  },
+  {
+    "text": "These oncRNAs have not only changed",
+    "start": 71.86,
+    "duration": 2.335
+  },
+  {
+    "text": "and transformed our approach\nto cancer detection",
+    "start": 74.195,
+    "duration": 3.045
+  },
+  {
+    "text": "from blood non-invasively,",
+    "start": 77.24,
+    "duration": 2.002
+  },
+  {
+    "text": "but they've also helped open a window\ninto the tumor itself for us.",
+    "start": 79.284,
+    "duration": 5.547
+  },
+  {
+    "text": "So leveraging these RNAs,",
+    "start": 84.831,
+    "duration": 2.002
+  },
+  {
+    "text": "we are not only detecting cancer earlier,",
+    "start": 86.833,
+    "duration": 2.753
+  },
+  {
+    "text": "we are actually peering into its biology.",
+    "start": 89.586,
+    "duration": 2.836
+  },
+  {
+    "text": "So with that short introduction,\nlet me break down the science for you.",
+    "start": 92.922,
+    "duration": 4.13
+  },
+  {
+    "text": "As you may know, every cell in our body\nshares the same genetic code",
+    "start": 98.011,
+    "duration": 4.296
+  },
+  {
+    "text": "as every other cell.",
+    "start": 102.349,
+    "duration": 1.584
+  },
+  {
+    "text": "It's as if our cells have access\nto the same pantry,",
+    "start": 103.975,
+    "duration": 3.337
+  },
+  {
+    "text": "but then they use different recipes",
+    "start": 107.354,
+    "duration": 2.627
+  },
+  {
+    "text": "to mix the same ingredients\ninto different dishes.",
+    "start": 109.981,
+    "duration": 2.92
+  },
+  {
+    "text": "It's actually the diversity\nin genomic recipes",
+    "start": 113.61,
+    "duration": 2.919
+  },
+  {
+    "text": "that gives us the more than 200 cell types\nwe have in our bodies,",
+    "start": 116.571,
+    "duration": 3.587
+  },
+  {
+    "text": "each with their own\ndistinct role and function,",
+    "start": 120.2,
+    "duration": 2.252
+  },
+  {
+    "text": "like skin cells, for example, or neurons.",
+    "start": 122.452,
+    "duration": 2.794
+  },
+  {
+    "text": "And as you can imagine,",
+    "start": 125.997,
+    "duration": 1.46
+  },
+  {
+    "text": "there is a complex machinery in place\nin the cell that governs this process",
+    "start": 127.499,
+    "duration": 5.589
+  },
+  {
+    "text": "and tells the cell for each\nof its 20,000 genes",
+    "start": 133.129,
+    "duration": 3.671
+  },
+  {
+    "text": "how much of them it needs to express",
+    "start": 136.841,
+    "duration": 2.127
+  },
+  {
+    "text": "to be a healthy, well-functioning cell.",
+    "start": 138.968,
+    "duration": 2.545
+  },
+  {
+    "text": "Now, cancer cells, being the resourceful\nsurvivalists that they are,",
+    "start": 142.305,
+    "duration": 6.59
+  },
+  {
+    "text": "they actually hijack components\nof this machinery to their advantage.",
+    "start": 148.937,
+    "duration": 4.713
+  },
+  {
+    "text": "And they do this to increase\nthe expression of genes",
+    "start": 154.109,
+    "duration": 3.295
+  },
+  {
+    "text": "that will help the tumor grow\nand spread throughout the body,",
+    "start": 157.445,
+    "duration": 3.796
+  },
+  {
+    "text": "or silence or down-regulate genes\nwhose job is to keep cancer in check.",
+    "start": 161.282,
+    "duration": 5.297
+  },
+  {
+    "text": "Another way of putting this",
+    "start": 167.664,
+    "duration": 1.334
+  },
+  {
+    "text": "is that cancer cells are basically hacking\nthat original genomic recipe",
+    "start": 169.04,
+    "duration": 4.797
+  },
+  {
+    "text": "that I told you about.",
+    "start": 173.878,
+    "duration": 1.585
+  },
+  {
+    "text": "Now a few years ago,\nwe made an interesting discovery",
+    "start": 176.131,
+    "duration": 2.961
+  },
+  {
+    "text": "that is actually a consequence\nof this genomic reprogramming",
+    "start": 179.092,
+    "duration": 4.129
+  },
+  {
+    "text": "that happens in cancer cells,\nis actually a hallmark of cancer.",
+    "start": 183.263,
+    "duration": 4.045
+  },
+  {
+    "text": "Basically, parts of the genome\nthat is normally silent",
+    "start": 187.308,
+    "duration": 5.756
+  },
+  {
+    "text": "and inactive in healthy cells",
+    "start": 193.106,
+    "duration": 2.544
+  },
+  {
+    "text": "becomes activated in cancer.",
+    "start": 195.65,
+    "duration": 1.877
+  },
+  {
+    "text": "And a direct consequence\nof this activation",
+    "start": 198.403,
+    "duration": 2.878
+  },
+  {
+    "text": "is the birth of a new kind of RNA.",
+    "start": 201.281,
+    "duration": 2.419
+  },
+  {
+    "text": "That we only see these RNAs in cancer,",
+    "start": 204.617,
+    "duration": 2.878
+  },
+  {
+    "text": "but not really in healthy cells.",
+    "start": 207.495,
+    "duration": 2.002
+  },
+  {
+    "text": "Now over the past few years,",
+    "start": 210.498,
+    "duration": 1.585
+  },
+  {
+    "text": "we have spent a lot of time basically\nmapping these cancer-emergent RNAs",
+    "start": 212.083,
+    "duration": 6.006
+  },
+  {
+    "text": "across human cancers.",
+    "start": 218.131,
+    "duration": 1.752
+  },
+  {
+    "text": "And as I told you earlier,",
+    "start": 219.924,
+    "duration": 1.46
+  },
+  {
+    "text": "we have come to name them oncRNAs.",
+    "start": 221.426,
+    "duration": 2.377
+  },
+  {
+    "text": "Now, what is even more interesting",
+    "start": 225.43,
+    "duration": 1.793
+  },
+  {
+    "text": "is that which oncRNAs I see\nin a given sample is not random.",
+    "start": 227.265,
+    "duration": 5.547
+  },
+  {
+    "text": "It's actually tied back\nto the type or subtype of cancer",
+    "start": 233.396,
+    "duration": 3.962
+  },
+  {
+    "text": "that I'm looking at.",
+    "start": 237.4,
+    "duration": 1.627
+  },
+  {
+    "text": "So collectively, oncRNAs actually provide\na digital molecular barcode",
+    "start": 239.068,
+    "duration": 5.798
+  },
+  {
+    "text": "that captures cancer cell identity.",
+    "start": 244.866,
+    "duration": 3.045
+  },
+  {
+    "text": "And it's actually unique\nto the type or subtype of cancer.",
+    "start": 247.911,
+    "duration": 3.253
+  },
+  {
+    "text": "But how are these molecular\nbarcodes actually useful?",
+    "start": 252.624,
+    "duration": 3.086
+  },
+  {
+    "text": "So it turns out oncRNAs are not\nactually confined to cancer cells.",
+    "start": 256.711,
+    "duration": 4.838
+  },
+  {
+    "text": "Some of them are nicely packaged\nand released into the blood.",
+    "start": 261.591,
+    "duration": 3.462
+  },
+  {
+    "text": "And this is something that healthy cells\ndo as well with other small RNAs.",
+    "start": 265.553,
+    "duration": 4.672
+  },
+  {
+    "text": "And with all of this introduction,\nI hope you know where I'm going with this.",
+    "start": 270.266,
+    "duration": 3.629
+  },
+  {
+    "text": "Basically, if oncRNAs are only\nexpressed in cancer cells,",
+    "start": 273.895,
+    "duration": 4.004
+  },
+  {
+    "text": "and some of them do in fact find\ntheir way into the bloodstream,",
+    "start": 277.899,
+    "duration": 4.004
+  },
+  {
+    "text": "doesn't it mean that we should\nbe able to detect them",
+    "start": 281.903,
+    "duration": 2.794
+  },
+  {
+    "text": "in blood samples from cancer patients?",
+    "start": 284.697,
+    "duration": 2.795
+  },
+  {
+    "text": "The answer, turns out, is yes,\nbut with an asterisk.",
+    "start": 288.159,
+    "duration": 3.462
+  },
+  {
+    "text": "So the oncRNAs that we detect\nin blood samples from patients",
+    "start": 292.455,
+    "duration": 4.004
+  },
+  {
+    "text": "actually form a partial barcode.",
+    "start": 296.501,
+    "duration": 2.586
+  },
+  {
+    "text": "And it's only a partial barcode",
+    "start": 299.128,
+    "duration": 1.711
+  },
+  {
+    "text": "because only a subset of oncRNAs",
+    "start": 300.88,
+    "duration": 2.628
+  },
+  {
+    "text": "are actually secreted\nfrom cancer cells into the blood.",
+    "start": 303.55,
+    "duration": 3.086
+  },
+  {
+    "text": "And even a smaller subset\ncan be reliably detected",
+    "start": 306.678,
+    "duration": 3.003
+  },
+  {
+    "text": "in a small volume of blood.",
+    "start": 309.681,
+    "duration": 1.793
+  },
+  {
+    "text": "However, thanks to the magic\nof machine learning and AI,",
+    "start": 311.516,
+    "duration": 3.837
+  },
+  {
+    "text": "we can actually use\nthis partial information",
+    "start": 315.395,
+    "duration": 2.794
+  },
+  {
+    "text": "to reconstruct the original barcode\nthat resides in the tumor.",
+    "start": 318.189,
+    "duration": 4.296
+  },
+  {
+    "text": "And we can match that deconstruction",
+    "start": 323.278,
+    "duration": 2.335
+  },
+  {
+    "text": "against our catalog of oncRNA\nbarcodes across cancers",
+    "start": 325.613,
+    "duration": 3.754
+  },
+  {
+    "text": "to not only --",
+    "start": 329.367,
+    "duration": 1.835
+  },
+  {
+    "text": "to not only detect\nthe presence of the disease,",
+    "start": 331.244,
+    "duration": 3.128
+  },
+  {
+    "text": "but also identify its type or subtype.",
+    "start": 334.372,
+    "duration": 2.294
+  },
+  {
+    "text": "And actually, as we grow,",
+    "start": 337.0,
+    "duration": 2.419
+  },
+  {
+    "text": "fundamentally increase the number of these\noncRNA catalogs that we have built,",
+    "start": 339.46,
+    "duration": 5.464
+  },
+  {
+    "text": "we can go deeper and deeper\ninto the biology of the disease as well.",
+    "start": 344.924,
+    "duration": 4.213
+  },
+  {
+    "text": "Now, with help from our clinical\ncollaborators at UCSF,",
+    "start": 350.346,
+    "duration": 3.712
+  },
+  {
+    "text": "we have come a step closer to actually\nbringing this platform to the clinic.",
+    "start": 354.058,
+    "duration": 5.214
+  },
+  {
+    "text": "In a preliminary study across\n200 breast cancer patients,",
+    "start": 359.272,
+    "duration": 4.087
+  },
+  {
+    "text": "we have actually shown\nthat we can use oncRNAs",
+    "start": 363.401,
+    "duration": 2.586
+  },
+  {
+    "text": "to detect residual disease in patients",
+    "start": 366.029,
+    "duration": 3.086
+  },
+  {
+    "text": "after they have received treatment,",
+    "start": 369.157,
+    "duration": 1.793
+  },
+  {
+    "text": "and knowing which patients\nhave remaining disease,",
+    "start": 370.992,
+    "duration": 3.629
+  },
+  {
+    "text": "tells clinicians who needs additional\ntreatment or monitoring",
+    "start": 374.662,
+    "duration": 3.921
+  },
+  {
+    "text": "after the surgery.",
+    "start": 378.625,
+    "duration": 1.501
+  },
+  {
+    "text": "And this way, patients\nreceive more treatment",
+    "start": 380.126,
+    "duration": 3.295
+  },
+  {
+    "text": "only when it's needed.",
+    "start": 383.463,
+    "duration": 1.668
+  },
+  {
+    "text": "I truly believe that the next decade\nis the decade of cancer screening.",
+    "start": 386.716,
+    "duration": 3.754
+  },
+  {
+    "text": "And as you can imagine,\nblood detection of cancers",
+    "start": 390.887,
+    "duration": 3.253
+  },
+  {
+    "text": "is a major frontier in that war.",
+    "start": 394.14,
+    "duration": 2.127
+  },
+  {
+    "text": "And I hope to have convinced you today\nthat leveraging powerful AI",
+    "start": 396.851,
+    "duration": 4.63
+  },
+  {
+    "text": "built on top of molecular\nbarcodes of oncRNAs,",
+    "start": 401.522,
+    "duration": 3.546
+  },
+  {
+    "text": "we can envision a future\nthat’s precise and sensitive,",
+    "start": 405.068,
+    "duration": 3.587
+  },
+  {
+    "text": "but more importantly,",
+    "start": 408.696,
+    "duration": 1.669
+  },
+  {
+    "text": "very accessible.",
+    "start": 410.406,
+    "duration": 1.627
+  },
+  {
+    "text": "Blood detection of cancers\nis not just the hope,",
+    "start": 412.075,
+    "duration": 3.211
+  },
+  {
+    "text": "but it's actually a reality.",
+    "start": 415.328,
+    "duration": 1.627
+  },
+  {
+    "text": "Thank you.",
+    "start": 417.664,
+    "duration": 1.126
+  },
+  {
+    "text": "(Applause)",
+    "start": 418.831,
+    "duration": 3.379
+  }
+]

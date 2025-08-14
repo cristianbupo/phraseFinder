@@ -1,0 +1,4367 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.0,
+    "duration": 1.21
+  },
+  {
+    "text": "BRIAN KENNY: I'll bet there's\nsomething you're wearing",
+    "start": 1.21,
+    "duration": 2.25
+  },
+  {
+    "text": "that's 40,000 years old.",
+    "start": 3.46,
+    "duration": 2.07
+  },
+  {
+    "text": "You heard me right.",
+    "start": 5.53,
+    "duration": 1.29
+  },
+  {
+    "text": "Look at your feet.",
+    "start": 6.82,
+    "duration": 1.32
+  },
+  {
+    "text": "That little wearable\nis thought to have",
+    "start": 8.14,
+    "duration": 1.86
+  },
+  {
+    "text": "originated in the Middle\nPaleolithic period.",
+    "start": 10.0,
+    "duration": 2.67
+  },
+  {
+    "text": "The earliest versions were\nmade from wraparound leather",
+    "start": 12.67,
+    "duration": 2.64
+  },
+  {
+    "text": "like moccasins.",
+    "start": 15.31,
+    "duration": 1.17
+  },
+  {
+    "text": "Within a few years, footwear\nevolved from basic necessity",
+    "start": 16.48,
+    "duration": 4.05
+  },
+  {
+    "text": "to must-have\naccessory that varied",
+    "start": 20.53,
+    "duration": 2.88
+  },
+  {
+    "text": "depending on social class.",
+    "start": 23.41,
+    "duration": 1.56
+  },
+  {
+    "text": "The closer one was to\nnobility, the fancier the shoe,",
+    "start": 24.97,
+    "duration": 3.39
+  },
+  {
+    "text": "no matter the fit.",
+    "start": 28.36,
+    "duration": 1.29
+  },
+  {
+    "text": "Today, footwear is as\nmuch a part of pop culture",
+    "start": 29.65,
+    "duration": 2.609
+  },
+  {
+    "text": "as it ever was, and\nbusiness is booming.",
+    "start": 32.259,
+    "duration": 2.701
+  },
+  {
+    "text": "According to ShopSmart\nmagazine, the average American",
+    "start": 34.96,
+    "duration": 3.0
+  },
+  {
+    "text": "owns 19 pairs of shoes,\nwhich takes a lot of energy",
+    "start": 37.96,
+    "duration": 3.69
+  },
+  {
+    "text": "and raw materials to make.",
+    "start": 41.65,
+    "duration": 1.53
+  },
+  {
+    "text": "And we toss about\n300 million pairs",
+    "start": 43.18,
+    "duration": 2.25
+  },
+  {
+    "text": "into landfills\nevery year, which is",
+    "start": 45.43,
+    "duration": 2.43
+  },
+  {
+    "text": "to say, though, your\ntime with your shoes",
+    "start": 47.86,
+    "duration": 2.4
+  },
+  {
+    "text": "may be relatively short,\nthey and their impact",
+    "start": 50.26,
+    "duration": 2.495
+  },
+  {
+    "text": "on the environment\nwill likely be",
+    "start": 52.755,
+    "duration": 1.375
+  },
+  {
+    "text": "around long after you're gone.",
+    "start": 54.13,
+    "duration": 1.89
+  },
+  {
+    "text": "Today on Cold Call, we've\ninvited Professor Mike Toffel",
+    "start": 56.02,
+    "duration": 3.12
+  },
+  {
+    "text": "and case protagonist\nJoey Zwillinger",
+    "start": 59.14,
+    "duration": 2.59
+  },
+  {
+    "text": "to discuss the case\nentitled Allbirds--",
+    "start": 61.73,
+    "duration": 2.61
+  },
+  {
+    "text": "Decarbonizing Fashion.",
+    "start": 64.34,
+    "duration": 1.68
+  },
+  {
+    "text": "I'm your host Brian\nKenny, and you're",
+    "start": 66.02,
+    "duration": 1.68
+  },
+  {
+    "text": "listening to Cold Call on\nthe HBR Presents Network.",
+    "start": 67.7,
+    "duration": 3.84
+  },
+  {
+    "text": "Mike Toffel is faculty chair\nof the Business and Environment",
+    "start": 71.54,
+    "duration": 2.85
+  },
+  {
+    "text": "Initiative and host of\nClimate Rising podcast--",
+    "start": 74.39,
+    "duration": 3.18
+  },
+  {
+    "text": "he's a fellow podcaster-- which\nhas a new season of episodes",
+    "start": 77.57,
+    "duration": 3.54
+  },
+  {
+    "text": "starting this month.",
+    "start": 81.11,
+    "duration": 1.13
+  },
+  {
+    "text": "You can find those on,\nI'm going to guess,",
+    "start": 82.24,
+    "duration": 1.75
+  },
+  {
+    "text": "Apple and wherever\nyou listen, Mike.",
+    "start": 83.99,
+    "duration": 1.83
+  },
+  {
+    "text": "Is that right?",
+    "start": 85.82,
+    "duration": 0.6
+  },
+  {
+    "text": "MIKE TOFFEL: That's right.",
+    "start": 86.42,
+    "duration": 0.57
+  },
+  {
+    "text": "BRIAN KENNY: And\nthanks for joining us.",
+    "start": 86.99,
+    "duration": 1.02
+  },
+  {
+    "text": "Again, this is your\nsecond spin on Cold Calls,",
+    "start": 88.01,
+    "duration": 2.038
+  },
+  {
+    "text": "so we're glad to have you back.",
+    "start": 90.048,
+    "duration": 1.292
+  },
+  {
+    "text": "Joey Zwillinger is the\nprotagonist in the case.",
+    "start": 91.34,
+    "duration": 2.62
+  },
+  {
+    "text": "He is a biotech\nengineer and renewables",
+    "start": 93.96,
+    "duration": 2.3
+  },
+  {
+    "text": "expert and the co-founder\nand CEO of Allbirds.",
+    "start": 96.26,
+    "duration": 3.54
+  },
+  {
+    "text": "Joey, thanks for\njoining us today.",
+    "start": 99.8,
+    "duration": 1.482
+  },
+  {
+    "text": "JOEY ZWILLINGER:\nThank you so much.",
+    "start": 101.282,
+    "duration": 1.458
+  },
+  {
+    "text": "I don't often get called the\nprotagonist, so this is fun.",
+    "start": 102.74,
+    "duration": 3.685
+  },
+  {
+    "text": "BRIAN KENNY: Well,\nyou're going to have",
+    "start": 106.425,
+    "duration": 1.625
+  },
+  {
+    "text": "to answer for that today.",
+    "start": 108.05,
+    "duration": 0.9
+  },
+  {
+    "text": "We're going to ask\nyou some questions.",
+    "start": 108.95,
+    "duration": 1.39
+  },
+  {
+    "text": "So we're looking forward to\nhearing more about the case.",
+    "start": 110.34,
+    "duration": 2.333
+  },
+  {
+    "text": "And I will admit, I didn't\na lot about Allbirds",
+    "start": 112.673,
+    "duration": 2.147
+  },
+  {
+    "text": "before reading the case.",
+    "start": 114.82,
+    "duration": 1.0
+  },
+  {
+    "text": "But after reading\nabout the story",
+    "start": 115.82,
+    "duration": 1.683
+  },
+  {
+    "text": "and looking at\nsome of the images,",
+    "start": 117.503,
+    "duration": 1.417
+  },
+  {
+    "text": "I'm going to go get\nme a pair of those",
+    "start": 118.92,
+    "duration": 1.76
+  },
+  {
+    "text": "because they are\ngreat looking shoes.",
+    "start": 120.68,
+    "duration": 1.71
+  },
+  {
+    "text": "I think people\nwill enjoy hearing",
+    "start": 122.39,
+    "duration": 1.65
+  },
+  {
+    "text": "about how the company\ncame to be and the very",
+    "start": 124.04,
+    "duration": 2.55
+  },
+  {
+    "text": "distinctive position that\nyou've taken in the market.",
+    "start": 126.59,
+    "duration": 3.22
+  },
+  {
+    "text": "So Mike, let me ask you\nto get us started here",
+    "start": 129.81,
+    "duration": 2.0
+  },
+  {
+    "text": "by talking about the\ncentral issue of the case",
+    "start": 131.81,
+    "duration": 2.7
+  },
+  {
+    "text": "and what your cold\ncall might be.",
+    "start": 134.51,
+    "duration": 1.542
+  },
+  {
+    "text": "I know you haven't\ntaught this yet.",
+    "start": 136.052,
+    "duration": 1.458
+  },
+  {
+    "text": "But you can already\nstart to think",
+    "start": 137.51,
+    "duration": 1.53
+  },
+  {
+    "text": "about what your cold\ncall might be when",
+    "start": 139.04,
+    "duration": 1.83
+  },
+  {
+    "text": "you step into the classroom.",
+    "start": 140.87,
+    "duration": 1.23
+  },
+  {
+    "text": "MIKE TOFFEL: Thanks.",
+    "start": 142.1,
+    "duration": 0.833
+  },
+  {
+    "text": "So there's a lot\ngoing on in this case.",
+    "start": 142.933,
+    "duration": 2.027
+  },
+  {
+    "text": "We wrote the case because we\nwere looking for companies",
+    "start": 144.96,
+    "duration": 3.65
+  },
+  {
+    "text": "to shine a spotlight\non that were",
+    "start": 148.61,
+    "duration": 2.61
+  },
+  {
+    "text": "taking innovative\napproaches to decarbonizing.",
+    "start": 151.22,
+    "duration": 2.61
+  },
+  {
+    "text": "It's an unusual thing\nto have a footwear",
+    "start": 153.83,
+    "duration": 2.07
+  },
+  {
+    "text": "company be in a leading\nposition in that area.",
+    "start": 155.9,
+    "duration": 2.83
+  },
+  {
+    "text": "And when we dug\nin a bit, we found",
+    "start": 158.73,
+    "duration": 2.3
+  },
+  {
+    "text": "that not only were they\ntaking a leadership position",
+    "start": 161.03,
+    "duration": 2.76
+  },
+  {
+    "text": "in a sustainability and\nclimate change perspective,",
+    "start": 163.79,
+    "duration": 2.7
+  },
+  {
+    "text": "but they were also doing\nthings quite differently",
+    "start": 166.49,
+    "duration": 2.13
+  },
+  {
+    "text": "from traditional footwear\ncompanies in terms",
+    "start": 168.62,
+    "duration": 2.67
+  },
+  {
+    "text": "of their product development\napproach, their go-to market",
+    "start": 171.29,
+    "duration": 3.09
+  },
+  {
+    "text": "distribution approach.",
+    "start": 174.38,
+    "duration": 1.42
+  },
+  {
+    "text": "So I would open up\nthis conversation",
+    "start": 175.8,
+    "duration": 2.24
+  },
+  {
+    "text": "by asking students to reflect,\nwhat is Allbirds doing well?",
+    "start": 178.04,
+    "duration": 3.81
+  },
+  {
+    "text": "And what do they\nneed to do better?",
+    "start": 181.85,
+    "duration": 2.003
+  },
+  {
+    "text": "BRIAN KENNY: OK.",
+    "start": 183.853,
+    "duration": 0.667
+  },
+  {
+    "text": "And let me ask you how this\nrelates to the kinds of things",
+    "start": 184.52,
+    "duration": 2.55
+  },
+  {
+    "text": "that you look at as a scholar,\nhow you heard about them,",
+    "start": 187.07,
+    "duration": 2.67
+  },
+  {
+    "text": "and why you decided\nto write the case.",
+    "start": 189.74,
+    "duration": 2.16
+  },
+  {
+    "text": "MIKE TOFFEL: It's a very popular\namong folks like MBA students.",
+    "start": 191.9,
+    "duration": 2.65
+  },
+  {
+    "text": "So we see Allbirds\nin the halls here.",
+    "start": 194.55,
+    "duration": 1.92
+  },
+  {
+    "text": "If you look down and see\nwhat folks are wearing,",
+    "start": 196.47,
+    "duration": 2.09
+  },
+  {
+    "text": "their marketing and\ntheir whole brand value",
+    "start": 198.56,
+    "duration": 3.12
+  },
+  {
+    "text": "is around these three\nconcepts of design, comfort,",
+    "start": 201.68,
+    "duration": 3.21
+  },
+  {
+    "text": "and natural materials.",
+    "start": 204.89,
+    "duration": 1.93
+  },
+  {
+    "text": "So I came into this thinking\nabout the natural materials",
+    "start": 206.82,
+    "duration": 2.42
+  },
+  {
+    "text": "piece.",
+    "start": 209.24,
+    "duration": 0.67
+  },
+  {
+    "text": "But then it's a really\ninteresting question",
+    "start": 209.91,
+    "duration": 1.94
+  },
+  {
+    "text": "to think about, how do\nyou sell a product, one",
+    "start": 211.85,
+    "duration": 2.85
+  },
+  {
+    "text": "of whose main value\ndrivers is comfort,",
+    "start": 214.7,
+    "duration": 2.67
+  },
+  {
+    "text": "and yet, selling it online\nwhere people don't actually",
+    "start": 217.37,
+    "duration": 2.4
+  },
+  {
+    "text": "try it on?",
+    "start": 219.77,
+    "duration": 0.822
+  },
+  {
+    "text": "It's a really\ninteresting question,",
+    "start": 220.592,
+    "duration": 1.458
+  },
+  {
+    "text": "and especially when you\nthink about go-to market",
+    "start": 222.05,
+    "duration": 2.237
+  },
+  {
+    "text": "where they sell, again,\nthrough their own channels",
+    "start": 224.287,
+    "duration": 2.083
+  },
+  {
+    "text": "and not through the foot lockers\nof the world or even on Amazon,",
+    "start": 226.37,
+    "duration": 3.72
+  },
+  {
+    "text": "I believe.",
+    "start": 230.09,
+    "duration": 1.02
+  },
+  {
+    "text": "You have a really\ninteresting company.",
+    "start": 231.11,
+    "duration": 2.14
+  },
+  {
+    "text": "So that's how I\nended up-- it really",
+    "start": 233.25,
+    "duration": 1.91
+  },
+  {
+    "text": "merges my interests in\nclimate and decarbonization",
+    "start": 235.16,
+    "duration": 3.45
+  },
+  {
+    "text": "and operations management\nand innovation, which",
+    "start": 238.61,
+    "duration": 2.46
+  },
+  {
+    "text": "is what I teach here at HBS.",
+    "start": 241.07,
+    "duration": 1.45
+  },
+  {
+    "text": "BRIAN KENNY: Yeah, it raises\nso many interesting questions.",
+    "start": 242.52,
+    "duration": 1.49
+  },
+  {
+    "text": "As a branding\nperson, I was really",
+    "start": 244.01,
+    "duration": 1.26
+  },
+  {
+    "text": "interested in the whole\nbranding piece of it.",
+    "start": 245.27,
+    "duration": 1.57
+  },
+  {
+    "text": "But as you say, it raises\na ton of other questions.",
+    "start": 246.84,
+    "duration": 2.28
+  },
+  {
+    "text": "And what I think I heard you say\nis that if I get some Allbirds,",
+    "start": 249.12,
+    "duration": 2.667
+  },
+  {
+    "text": "I will be cool because I will\nbe dressing in the same fashion",
+    "start": 251.787,
+    "duration": 2.643
+  },
+  {
+    "text": "and style as our MBA students.",
+    "start": 254.43,
+    "duration": 1.441
+  },
+  {
+    "text": "MIKE TOFFEL: It's\nsort of dad cool.",
+    "start": 255.871,
+    "duration": 1.458
+  },
+  {
+    "text": "BRIAN KENNY: It's\nsort of dad cool.",
+    "start": 257.329,
+    "duration": 1.458
+  },
+  {
+    "text": "Great.",
+    "start": 258.787,
+    "duration": 0.503
+  },
+  {
+    "text": "So Mike, tell us--\nbefore I turn to Joey,",
+    "start": 259.29,
+    "duration": 1.708
+  },
+  {
+    "text": "just tell us a little bit\nabout the footwear industry",
+    "start": 260.998,
+    "duration": 2.242
+  },
+  {
+    "text": "and the impact that\nhas on the environment",
+    "start": 263.24,
+    "duration": 2.4
+  },
+  {
+    "text": "because I know it's significant.",
+    "start": 265.64,
+    "duration": 1.59
+  },
+  {
+    "text": "MIKE TOFFEL: Two\nof the main ways",
+    "start": 267.23,
+    "duration": 1.41
+  },
+  {
+    "text": "that footwear has an\nenvironmental impact,",
+    "start": 268.64,
+    "duration": 1.66
+  },
+  {
+    "text": "especially when we're\nthinking about casual shoes,",
+    "start": 270.3,
+    "duration": 2.09
+  },
+  {
+    "text": "is there's often fossil\nfuel derived products.",
+    "start": 272.39,
+    "duration": 3.75
+  },
+  {
+    "text": "So polyester and the soles\nare fossil fuel derived.",
+    "start": 276.14,
+    "duration": 3.09
+  },
+  {
+    "text": "For all of those, you\nhave carbon impact",
+    "start": 279.23,
+    "duration": 2.16
+  },
+  {
+    "text": "to be considering.",
+    "start": 281.39,
+    "duration": 1.21
+  },
+  {
+    "text": "And then an\nalternative, when you",
+    "start": 282.6,
+    "duration": 1.73
+  },
+  {
+    "text": "think about natural\nmaterials for footwear,",
+    "start": 284.33,
+    "duration": 2.16
+  },
+  {
+    "text": "often, you're thinking\nabout leather.",
+    "start": 286.49,
+    "duration": 1.77
+  },
+  {
+    "text": "While it is a natural material,\nthe tanning of leather,",
+    "start": 288.26,
+    "duration": 3.21
+  },
+  {
+    "text": "the dyeing of\nleather, all of that",
+    "start": 291.47,
+    "duration": 1.92
+  },
+  {
+    "text": "involves often toxic materials,\nwhich has water pollution",
+    "start": 293.39,
+    "duration": 3.0
+  },
+  {
+    "text": "concerns.",
+    "start": 296.39,
+    "duration": 0.75
+  },
+  {
+    "text": "And then, of course,\nthere's the shipping.",
+    "start": 297.14,
+    "duration": 1.83
+  },
+  {
+    "text": "Products are shipped\nglobally, so that",
+    "start": 298.97,
+    "duration": 2.52
+  },
+  {
+    "text": "creates a whole\nother fossil fuel",
+    "start": 301.49,
+    "duration": 1.65
+  },
+  {
+    "text": "based environmental impact.",
+    "start": 303.14,
+    "duration": 1.41
+  },
+  {
+    "text": "And it's really on each\nof these dimensions",
+    "start": 304.55,
+    "duration": 2.16
+  },
+  {
+    "text": "that Allbirds is\ntrying to develop",
+    "start": 306.71,
+    "duration": 2.22
+  },
+  {
+    "text": "new uppers, the soft\npart above the sole,",
+    "start": 308.93,
+    "duration": 2.88
+  },
+  {
+    "text": "and even new midsole,\nwhich is the squishy part",
+    "start": 311.81,
+    "duration": 3.09
+  },
+  {
+    "text": "under your foot.",
+    "start": 314.9,
+    "duration": 0.683
+  },
+  {
+    "text": "And they're trying\nto create those",
+    "start": 315.583,
+    "duration": 1.417
+  },
+  {
+    "text": "all out of natural materials.",
+    "start": 317.0,
+    "duration": 1.5
+  },
+  {
+    "text": "And it's really quite a\nrevolutionary approach.",
+    "start": 318.5,
+    "duration": 2.19
+  },
+  {
+    "text": "BRIAN KENNY: The volume, as I\nteased in the intro, is huge.",
+    "start": 320.69,
+    "duration": 3.58
+  },
+  {
+    "text": "I was amazed to\nsee that people--",
+    "start": 324.27,
+    "duration": 1.4
+  },
+  {
+    "text": "I do not own 19 pairs of shoes.",
+    "start": 325.67,
+    "duration": 1.95
+  },
+  {
+    "text": "But apparently, the\naverage person seems to.",
+    "start": 327.62,
+    "duration": 2.31
+  },
+  {
+    "text": "That's just an amazing number.",
+    "start": 329.93,
+    "duration": 1.567
+  },
+  {
+    "text": "JOEY ZWILLINGER:\nYeah, well, the costs",
+    "start": 331.497,
+    "duration": 1.583
+  },
+  {
+    "text": "have come down quite a bit\nsince you started buying shoes,",
+    "start": 333.08,
+    "duration": 2.94
+  },
+  {
+    "text": "so that helps.",
+    "start": 336.02,
+    "duration": 1.05
+  },
+  {
+    "text": "And it's become more of a\nfashion item than fundamentals.",
+    "start": 337.07,
+    "duration": 2.473
+  },
+  {
+    "text": "BRIAN KENNY: Yeah, for sure.",
+    "start": 339.543,
+    "duration": 1.167
+  },
+  {
+    "text": "So Joey, let me turn to you.",
+    "start": 340.71,
+    "duration": 1.222
+  },
+  {
+    "text": "And thank you for joining us\nfrom the Bay Area this morning",
+    "start": 341.932,
+    "duration": 2.458
+  },
+  {
+    "text": "as we're talking.",
+    "start": 344.39,
+    "duration": 0.94
+  },
+  {
+    "text": "So I appreciate you getting an\nearly jump on the day with us.",
+    "start": 345.33,
+    "duration": 2.55
+  },
+  {
+    "text": "Let me just ask you simply how\nyou would describe Allbirds",
+    "start": 347.88,
+    "duration": 3.02
+  },
+  {
+    "text": "and a little bit about what your\ngoal is for the business, you",
+    "start": 350.9,
+    "duration": 3.0
+  },
+  {
+    "text": "and your partner.",
+    "start": 353.9,
+    "duration": 1.26
+  },
+  {
+    "text": "JOEY ZWILLINGER: Tim and\nI co-founded the business",
+    "start": 355.16,
+    "duration": 2.083
+  },
+  {
+    "text": "in 2015.",
+    "start": 357.243,
+    "duration": 0.737
+  },
+  {
+    "text": "And when we did\nthat, we had the view",
+    "start": 357.98,
+    "duration": 2.77
+  },
+  {
+    "text": "that we had a big leadership\nopportunity around doing things",
+    "start": 360.75,
+    "duration": 3.81
+  },
+  {
+    "text": "differently.",
+    "start": 364.56,
+    "duration": 0.57
+  },
+  {
+    "text": "But at our fundamental\ncore, we actually",
+    "start": 365.13,
+    "duration": 2.19
+  },
+  {
+    "text": "think about ourselves as a\nmaterial innovation company.",
+    "start": 367.32,
+    "duration": 2.74
+  },
+  {
+    "text": "And the reason we start\nthere is because we",
+    "start": 370.06,
+    "duration": 2.42
+  },
+  {
+    "text": "know that the vast majority of\nthe impact of carbon pollution",
+    "start": 372.48,
+    "duration": 3.51
+  },
+  {
+    "text": "and the effects of global\nwarming from consumption",
+    "start": 375.99,
+    "duration": 2.76
+  },
+  {
+    "text": "is born on the materials\nthat we sourced to make",
+    "start": 378.75,
+    "duration": 2.37
+  },
+  {
+    "text": "the products that we love.",
+    "start": 381.12,
+    "duration": 1.17
+  },
+  {
+    "text": "We wanted to focus there,\nso we really focused--",
+    "start": 382.29,
+    "duration": 2.52
+  },
+  {
+    "text": "and you called it\nnatural materials, Mike.",
+    "start": 384.81,
+    "duration": 2.04
+  },
+  {
+    "text": "I want to just expand that a\nlittle bit to say naturally",
+    "start": 386.85,
+    "duration": 2.46
+  },
+  {
+    "text": "derived materials\nbecause we're using",
+    "start": 389.31,
+    "duration": 1.74
+  },
+  {
+    "text": "things like biotechnology,\nand green chemistry,",
+    "start": 391.05,
+    "duration": 2.46
+  },
+  {
+    "text": "and a whole bunch of other\nreally unique technologies",
+    "start": 393.51,
+    "duration": 3.33
+  },
+  {
+    "text": "to bring to bear amazing\ncomfort and amazing performance",
+    "start": 396.84,
+    "duration": 3.03
+  },
+  {
+    "text": "to do this.",
+    "start": 399.87,
+    "duration": 0.52
+  },
+  {
+    "text": "But at the core,\nmaterial innovation,",
+    "start": 400.39,
+    "duration": 2.06
+  },
+  {
+    "text": "we happen to be selling\nshoes in apparel.",
+    "start": 402.45,
+    "duration": 2.16
+  },
+  {
+    "text": "And we do this in the effort to\nmake better things in a better",
+    "start": 404.61,
+    "duration": 3.18
+  },
+  {
+    "text": "way.",
+    "start": 407.79,
+    "duration": 0.55
+  },
+  {
+    "text": "That's our mission as a company.",
+    "start": 408.34,
+    "duration": 1.333
+  },
+  {
+    "text": "And let me just unpack\nthat for one minute.",
+    "start": 409.673,
+    "duration": 1.877
+  },
+  {
+    "text": "BRIAN KENNY: Sure.",
+    "start": 411.55,
+    "duration": 0.29
+  },
+  {
+    "text": "JOEY ZWILLINGER:\nBetter things means",
+    "start": 411.84,
+    "duration": 1.2
+  },
+  {
+    "text": "we are making the best\nproducts in the world.",
+    "start": 413.04,
+    "duration": 2.08
+  },
+  {
+    "text": "So when you step into\na pair of Wool Runners,",
+    "start": 415.12,
+    "duration": 2.24
+  },
+  {
+    "text": "into our running shoes, the\nDashers, and the trail shoes,",
+    "start": 417.36,
+    "duration": 2.79
+  },
+  {
+    "text": "you're going to feel\nsomething unlock in your mind.",
+    "start": 420.15,
+    "duration": 2.82
+  },
+  {
+    "text": "You're going to say,\nwow, this is incredible.",
+    "start": 422.97,
+    "duration": 1.875
+  },
+  {
+    "text": "And when you use it for weeks\nand weeks, you're going to say,",
+    "start": 424.845,
+    "duration": 2.542
+  },
+  {
+    "text": "this is delivering\non the promise.",
+    "start": 427.387,
+    "duration": 1.433
+  },
+  {
+    "text": "This is an amazing product.",
+    "start": 428.82,
+    "duration": 1.53
+  },
+  {
+    "text": "And there's nothing\nin what I just",
+    "start": 430.35,
+    "duration": 1.74
+  },
+  {
+    "text": "said about being sustainable.",
+    "start": 432.09,
+    "duration": 1.44
+  },
+  {
+    "text": "The way we unlock that value is\nthrough this naturally derived",
+    "start": 433.53,
+    "duration": 4.08
+  },
+  {
+    "text": "innovation.",
+    "start": 437.61,
+    "duration": 0.85
+  },
+  {
+    "text": "It's through sustainability that\nwe unlock incredible comfort",
+    "start": 438.46,
+    "duration": 3.11
+  },
+  {
+    "text": "and incredible performance.",
+    "start": 441.57,
+    "duration": 1.39
+  },
+  {
+    "text": "And so it's the mechanism\nor the means with how",
+    "start": 442.96,
+    "duration": 2.33
+  },
+  {
+    "text": "we get to make better products.",
+    "start": 445.29,
+    "duration": 1.62
+  },
+  {
+    "text": "We want to play a\nrole in contributing",
+    "start": 446.91,
+    "duration": 1.8
+  },
+  {
+    "text": "to the reversal\nof climate change.",
+    "start": 448.71,
+    "duration": 1.62
+  },
+  {
+    "text": "And our volume of material and\nour impact on carbon pollution",
+    "start": 450.33,
+    "duration": 3.45
+  },
+  {
+    "text": "is going to be small.",
+    "start": 453.78,
+    "duration": 1.11
+  },
+  {
+    "text": "But I think the\nleadership opportunity",
+    "start": 454.89,
+    "duration": 1.74
+  },
+  {
+    "text": "and what that can cascade\ninto consumer products",
+    "start": 456.63,
+    "duration": 2.22
+  },
+  {
+    "text": "inside the footwear\nindustry, outside",
+    "start": 458.85,
+    "duration": 1.86
+  },
+  {
+    "text": "of the footwear\nindustry, rippling",
+    "start": 460.71,
+    "duration": 1.44
+  },
+  {
+    "text": "across lots of\ndifferent industries",
+    "start": 462.15,
+    "duration": 1.53
+  },
+  {
+    "text": "can be seen really broad.",
+    "start": 463.68,
+    "duration": 1.71
+  },
+  {
+    "text": "And I think that's what excites\nme most about the mission",
+    "start": 465.39,
+    "duration": 2.43
+  },
+  {
+    "text": "that we're on.",
+    "start": 467.82,
+    "duration": 0.72
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 468.54,
+    "duration": 0.75
+  },
+  {
+    "text": "And so often on\nthis show, we talk",
+    "start": 469.29,
+    "duration": 1.5
+  },
+  {
+    "text": "about firms that are producing\nproducts or providing",
+    "start": 470.79,
+    "duration": 2.34
+  },
+  {
+    "text": "services that have some\nsustainability benefit to them.",
+    "start": 473.13,
+    "duration": 3.37
+  },
+  {
+    "text": "But that's not why\nthey're doing it.",
+    "start": 476.5,
+    "duration": 1.5
+  },
+  {
+    "text": "They're not doing it for\nthe altruism of doing it.",
+    "start": 478.0,
+    "duration": 2.083
+  },
+  {
+    "text": "They're doing it because\nit's good for their product",
+    "start": 480.083,
+    "duration": 2.167
+  },
+  {
+    "text": "or their business.",
+    "start": 482.25,
+    "duration": 0.94
+  },
+  {
+    "text": "And if it differentiates\nthem in some meaningful way,",
+    "start": 483.19,
+    "duration": 2.48
+  },
+  {
+    "text": "then that's almost\nan added benefit.",
+    "start": 485.67,
+    "duration": 1.56
+  },
+  {
+    "text": "I hear a little bit of\nthat in what you're saying.",
+    "start": 487.23,
+    "duration": 1.68
+  },
+  {
+    "text": "Tell us a little bit about the\norigins of the company and Tim",
+    "start": 488.91,
+    "duration": 2.7
+  },
+  {
+    "text": "Brown and how you guys came\ntogether to start the business.",
+    "start": 491.61,
+    "duration": 2.7
+  },
+  {
+    "text": "JOEY ZWILLINGER: I think part\nof why so far in our first",
+    "start": 494.31,
+    "duration": 2.64
+  },
+  {
+    "text": "five, six years it's\nworked is because Tim",
+    "start": 496.95,
+    "duration": 2.13
+  },
+  {
+    "text": "and I come from quite\ncomplementary backgrounds.",
+    "start": 499.08,
+    "duration": 2.152
+  },
+  {
+    "text": "Tim was a professional\nsoccer player, actually,",
+    "start": 501.232,
+    "duration": 1.958
+  },
+  {
+    "text": "before he started\nAllbirds with me.",
+    "start": 503.19,
+    "duration": 1.83
+  },
+  {
+    "text": "He had a design background\nfrom his undergrad degree",
+    "start": 505.02,
+    "duration": 2.49
+  },
+  {
+    "text": "and had done some hobby\ndesign work on the side",
+    "start": 507.51,
+    "duration": 2.37
+  },
+  {
+    "text": "while he was a\nprofessional athlete,",
+    "start": 509.88,
+    "duration": 1.5
+  },
+  {
+    "text": "did 10 years as a\nprofessional soccer",
+    "start": 511.38,
+    "duration": 1.95
+  },
+  {
+    "text": "player in a couple\nof different places,",
+    "start": 513.33,
+    "duration": 1.8
+  },
+  {
+    "text": "but largely in New Zealand,\nAustralia, in fact,",
+    "start": 515.13,
+    "duration": 2.64
+  },
+  {
+    "text": "was the vice captain of the\nNew Zealand national team",
+    "start": 517.77,
+    "duration": 2.73
+  },
+  {
+    "text": "and went all the way to\nthe World Cup in 2010",
+    "start": 520.5,
+    "duration": 1.875
+  },
+  {
+    "text": "in South Africa, so really rose\nto the pinnacle of his career.",
+    "start": 522.375,
+    "duration": 3.465
+  },
+  {
+    "text": "And he was endorsed by all\nthe big sportswear companies.",
+    "start": 525.84,
+    "duration": 3.12
+  },
+  {
+    "text": "And along the way,\nit became very clear",
+    "start": 528.96,
+    "duration": 2.94
+  },
+  {
+    "text": "that the way that the footwear\nindustry, in particular,",
+    "start": 531.9,
+    "duration": 3.45
+  },
+  {
+    "text": "marketed itself was\naround these peak athletes",
+    "start": 535.35,
+    "duration": 4.2
+  },
+  {
+    "text": "and developing interesting\nproducts for the peak athletes.",
+    "start": 539.55,
+    "duration": 2.94
+  },
+  {
+    "text": "And it was less\nabout the innovation",
+    "start": 542.49,
+    "duration": 2.73
+  },
+  {
+    "text": "for consumers'\ncomfort, performance",
+    "start": 545.22,
+    "duration": 1.89
+  },
+  {
+    "text": "and more about\nutilizing athletes",
+    "start": 547.11,
+    "duration": 1.89
+  },
+  {
+    "text": "to get the brand out there\nand get some good marketing",
+    "start": 549.0,
+    "duration": 2.25
+  },
+  {
+    "text": "awareness.",
+    "start": 551.25,
+    "duration": 0.88
+  },
+  {
+    "text": "His light bulb started to\nclick when he was really",
+    "start": 552.13,
+    "duration": 2.63
+  },
+  {
+    "text": "left wanting for\nsomething more that",
+    "start": 554.76,
+    "duration": 1.98
+  },
+  {
+    "text": "was on trend with the\ncasualization of wardrobe.",
+    "start": 556.74,
+    "duration": 3.63
+  },
+  {
+    "text": "And you've seen it in apparel.",
+    "start": 560.37,
+    "duration": 1.5
+  },
+  {
+    "text": "Athleisure was a word that was\nused maybe five, ten years ago.",
+    "start": 561.87,
+    "duration": 3.48
+  },
+  {
+    "text": "Lululemon is a great example\nof a company that changed",
+    "start": 565.35,
+    "duration": 2.76
+  },
+  {
+    "text": "the way that we dress forever.",
+    "start": 568.11,
+    "duration": 1.44
+  },
+  {
+    "text": "And that had not really\nhappened in footwear.",
+    "start": 569.55,
+    "duration": 3.09
+  },
+  {
+    "text": "And part of it was a relic of\nthis wholesale distribution",
+    "start": 572.64,
+    "duration": 2.667
+  },
+  {
+    "text": "model where companies had to pop\noff the shelf with their logo",
+    "start": 575.307,
+    "duration": 2.583
+  },
+  {
+    "text": "on the side of\nthe shoe to compel",
+    "start": 577.89,
+    "duration": 1.375
+  },
+  {
+    "text": "people to try on the shoes.",
+    "start": 579.265,
+    "duration": 1.295
+  },
+  {
+    "text": "That was the backdrop of\nthe company and backdrop",
+    "start": 580.56,
+    "duration": 2.61
+  },
+  {
+    "text": "for that consumer insight\nthat Tim brought to bear.",
+    "start": 583.17,
+    "duration": 2.31
+  },
+  {
+    "text": "And along the way,\nI was at a company",
+    "start": 585.48,
+    "duration": 1.77
+  },
+  {
+    "text": "called Solazyme, where we\nwere utilizing biotechnology",
+    "start": 587.25,
+    "duration": 3.6
+  },
+  {
+    "text": "to engineer microalgae.",
+    "start": 590.85,
+    "duration": 1.77
+  },
+  {
+    "text": "And we would take\nthat microalgae.",
+    "start": 592.62,
+    "duration": 1.95
+  },
+  {
+    "text": "We would program it to eat\nlow carbon intensity sugars",
+    "start": 594.57,
+    "duration": 4.56
+  },
+  {
+    "text": "and turn those is into high\nperformance products that",
+    "start": 599.13,
+    "duration": 2.48
+  },
+  {
+    "text": "could replace petroleum\nand petroleum derivatives.",
+    "start": 601.61,
+    "duration": 2.53
+  },
+  {
+    "text": "So I ran the chemicals\nbusiness unit.",
+    "start": 604.14,
+    "duration": 1.79
+  },
+  {
+    "text": "And I was going around the\nworld compelling big brands",
+    "start": 605.93,
+    "duration": 3.18
+  },
+  {
+    "text": "and some industrial players\nto take these components",
+    "start": 609.11,
+    "duration": 2.97
+  },
+  {
+    "text": "and replace petroleum\nderived components.",
+    "start": 612.08,
+    "duration": 2.61
+  },
+  {
+    "text": "They were carbon neutral.",
+    "start": 614.69,
+    "duration": 1.44
+  },
+  {
+    "text": "And they were super\nhigh performance.",
+    "start": 616.13,
+    "duration": 1.68
+  },
+  {
+    "text": "And what I found was\nthat these brands,",
+    "start": 617.81,
+    "duration": 1.74
+  },
+  {
+    "text": "they said all the right things.",
+    "start": 619.55,
+    "duration": 1.47
+  },
+  {
+    "text": "They love sustainability.",
+    "start": 621.02,
+    "duration": 1.042
+  },
+  {
+    "text": "They were saying it\nto their consumer.",
+    "start": 622.062,
+    "duration": 1.583
+  },
+  {
+    "text": "And when it came down\nto buying product,",
+    "start": 623.645,
+    "duration": 1.695
+  },
+  {
+    "text": "they didn't actually care.",
+    "start": 625.34,
+    "duration": 1.5
+  },
+  {
+    "text": "And so this Sisyphean\neffort that I",
+    "start": 626.84,
+    "duration": 1.86
+  },
+  {
+    "text": "was undergoing where it felt\nlike I was almost just pushing",
+    "start": 628.7,
+    "duration": 2.79
+  },
+  {
+    "text": "string all the time trying to\nconvince these people to do",
+    "start": 631.49,
+    "duration": 2.623
+  },
+  {
+    "text": "what they actually were saying\nto consumers that they were",
+    "start": 634.113,
+    "duration": 2.417
+  },
+  {
+    "text": "doing felt like there\nwas an opportunity",
+    "start": 636.53,
+    "duration": 2.1
+  },
+  {
+    "text": "to instead of make\nthe component,",
+    "start": 638.63,
+    "duration": 1.77
+  },
+  {
+    "text": "go downstream and\ncurate these components.",
+    "start": 640.4,
+    "duration": 2.37
+  },
+  {
+    "text": "And fortunately, at\nthat moment, Tim's wife",
+    "start": 642.77,
+    "duration": 2.28
+  },
+  {
+    "text": "and my wife, who happened to\nbe best friends from college,",
+    "start": 645.05,
+    "duration": 2.43
+  },
+  {
+    "text": "said, hey, this project that\nTim's working on is going well,",
+    "start": 647.48,
+    "duration": 3.45
+  },
+  {
+    "text": "but he's kind of struggling on\nsome of the business side, some",
+    "start": 650.93,
+    "duration": 2.76
+  },
+  {
+    "text": "of the materials side.",
+    "start": 653.69,
+    "duration": 1.33
+  },
+  {
+    "text": "I was looking for a\nbrand opportunity,",
+    "start": 655.02,
+    "duration": 2.57
+  },
+  {
+    "text": "having not been a sneakerhead\nat all in my life.",
+    "start": 657.59,
+    "duration": 3.0
+  },
+  {
+    "text": "And some of my\nfriends previously",
+    "start": 660.59,
+    "duration": 1.83
+  },
+  {
+    "text": "would laugh at the idea that\nI'm in the fashion industry now.",
+    "start": 662.42,
+    "duration": 2.7
+  },
+  {
+    "text": "But that was the meeting\nof two separate paths that",
+    "start": 665.12,
+    "duration": 2.31
+  },
+  {
+    "text": "came together for material\ninnovation and consumer",
+    "start": 667.43,
+    "duration": 2.4
+  },
+  {
+    "text": "insights and design to bring\nsomething and make something",
+    "start": 669.83,
+    "duration": 2.43
+  },
+  {
+    "text": "special.",
+    "start": 672.26,
+    "duration": 0.54
+  },
+  {
+    "text": "BRIAN KENNY: Yeah, and\nwe often see that happen.",
+    "start": 672.8,
+    "duration": 1.48
+  },
+  {
+    "text": "So things happen at the\njuncture of these things.",
+    "start": 674.28,
+    "duration": 2.16
+  },
+  {
+    "text": "So it's a great example of\njust two seemingly disciplines",
+    "start": 676.44,
+    "duration": 3.462
+  },
+  {
+    "text": "coming together in a way\nthat creates something",
+    "start": 679.902,
+    "duration": 1.958
+  },
+  {
+    "text": "new and some true innovation.",
+    "start": 681.86,
+    "duration": 1.92
+  },
+  {
+    "text": "I'm wondering about\nyour initial pitches.",
+    "start": 683.78,
+    "duration": 2.508
+  },
+  {
+    "text": "When you went out\nto get some support",
+    "start": 686.288,
+    "duration": 1.542
+  },
+  {
+    "text": "for this in the\ninvestment community,",
+    "start": 687.83,
+    "duration": 2.635
+  },
+  {
+    "text": "how did you pitch it?",
+    "start": 690.465,
+    "duration": 0.875
+  },
+  {
+    "text": "And what was the reaction?",
+    "start": 691.34,
+    "duration": 1.26
+  },
+  {
+    "text": "JOEY ZWILLINGER: I would say\nearly on, the idea of unlocking",
+    "start": 692.6,
+    "duration": 2.76
+  },
+  {
+    "text": "naturally derived materials\nto create amazing products,",
+    "start": 695.36,
+    "duration": 3.75
+  },
+  {
+    "text": "that was in there,\nbut we had to also add",
+    "start": 699.11,
+    "duration": 3.06
+  },
+  {
+    "text": "a compelling go-to\nmarket strategy",
+    "start": 702.17,
+    "duration": 1.98
+  },
+  {
+    "text": "and really focus on that.",
+    "start": 704.15,
+    "duration": 1.36
+  },
+  {
+    "text": "And if you think\nback to 2015, there",
+    "start": 705.51,
+    "duration": 2.57
+  },
+  {
+    "text": "was no direct-to-consumer\nor vertical retail business",
+    "start": 708.08,
+    "duration": 3.21
+  },
+  {
+    "text": "in the footwear industry\nat any kind of scale.",
+    "start": 711.29,
+    "duration": 2.17
+  },
+  {
+    "text": "And so focusing on an initial\nproduct concept like the Wool",
+    "start": 713.46,
+    "duration": 3.74
+  },
+  {
+    "text": "Runner and unlocking value\nthrough a go-to market strategy",
+    "start": 717.2,
+    "duration": 3.255
+  },
+  {
+    "text": "was something that was\ncompelling to our seed",
+    "start": 720.455,
+    "duration": 1.875
+  },
+  {
+    "text": "investors.",
+    "start": 722.33,
+    "duration": 0.69
+  },
+  {
+    "text": "There was a handful\nof folks in there,",
+    "start": 723.02,
+    "duration": 1.74
+  },
+  {
+    "text": "our lead investors at the\ntime and a couple of others",
+    "start": 724.76,
+    "duration": 2.34
+  },
+  {
+    "text": "who really saw the very\nlong-term potential of being",
+    "start": 727.1,
+    "duration": 2.88
+  },
+  {
+    "text": "able to say, OK, that might\nbe an interesting $100, $200,",
+    "start": 729.98,
+    "duration": 4.35
+  },
+  {
+    "text": "$300 million business\nover time, but could it",
+    "start": 734.33,
+    "duration": 2.46
+  },
+  {
+    "text": "be something bigger?",
+    "start": 736.79,
+    "duration": 0.99
+  },
+  {
+    "text": "And to be something\nmuch bigger, it",
+    "start": 737.78,
+    "duration": 1.5
+  },
+  {
+    "text": "had to be a platform\nthat could extend well",
+    "start": 739.28,
+    "duration": 2.31
+  },
+  {
+    "text": "beyond a single product or a\nsingle material innovation.",
+    "start": 741.59,
+    "duration": 2.7
+  },
+  {
+    "text": "Some people believed in\nus to be able to do that.",
+    "start": 744.29,
+    "duration": 2.105
+  },
+  {
+    "text": "When we coupled\nthat together, we",
+    "start": 746.395,
+    "duration": 1.375
+  },
+  {
+    "text": "compelled some smart\npeople to get on board.",
+    "start": 747.77,
+    "duration": 2.04
+  },
+  {
+    "text": "And that was a\nvery helpful moment",
+    "start": 749.81,
+    "duration": 1.59
+  },
+  {
+    "text": "to get our first\n$2 million and be",
+    "start": 751.4,
+    "duration": 1.68
+  },
+  {
+    "text": "able to really inject\ninto the business",
+    "start": 753.08,
+    "duration": 2.25
+  },
+  {
+    "text": "and invest into the\nbusiness what we",
+    "start": 755.33,
+    "duration": 1.71
+  },
+  {
+    "text": "needed to to get a great start.",
+    "start": 757.04,
+    "duration": 1.495
+  },
+  {
+    "text": "BRIAN KENNY: Mike,\nlet me ask you this.",
+    "start": 758.535,
+    "duration": 1.625
+  },
+  {
+    "text": "As we think about how Allbirds\nis differentiating themselves",
+    "start": 760.16,
+    "duration": 3.6
+  },
+  {
+    "text": "in the marketplace, we're\nhearing about the innovations",
+    "start": 763.76,
+    "duration": 2.58
+  },
+  {
+    "text": "that they're using in\nterms of materials.",
+    "start": 766.34,
+    "duration": 2.17
+  },
+  {
+    "text": "So this is a brand\nthat's largely",
+    "start": 768.51,
+    "duration": 1.7
+  },
+  {
+    "text": "built around and premised\non sustainability.",
+    "start": 770.21,
+    "duration": 2.73
+  },
+  {
+    "text": "And I'm wondering, as\nyou look at other firms",
+    "start": 772.94,
+    "duration": 2.42
+  },
+  {
+    "text": "and other products and\nservices out there,",
+    "start": 775.36,
+    "duration": 1.75
+  },
+  {
+    "text": "are there other\nexamples that you",
+    "start": 777.11,
+    "duration": 1.375
+  },
+  {
+    "text": "can give that will act\nas a parallel to this?",
+    "start": 778.485,
+    "duration": 1.943
+  },
+  {
+    "text": "MIKE TOFFEL: First of all,\nit's interesting to question",
+    "start": 780.428,
+    "duration": 2.292
+  },
+  {
+    "text": "whether that's right.",
+    "start": 782.72,
+    "duration": 0.875
+  },
+  {
+    "text": "I'm not sure how many\nAllbirds customers actually",
+    "start": 783.595,
+    "duration": 4.165
+  },
+  {
+    "text": "believe that it's premised\non sustainability.",
+    "start": 787.76,
+    "duration": 2.142
+  },
+  {
+    "text": "I think a lot of them believe\nit's premised on design",
+    "start": 789.902,
+    "duration": 2.208
+  },
+  {
+    "text": "and premised on comfort.",
+    "start": 792.11,
+    "duration": 1.26
+  },
+  {
+    "text": "And then sustainability is\nlike, oh, that's really cool.",
+    "start": 793.37,
+    "duration": 3.563
+  },
+  {
+    "text": "I can feel good\nabout this product",
+    "start": 796.933,
+    "duration": 1.417
+  },
+  {
+    "text": "even more than I physically feel\ngood stepping into the shoes.",
+    "start": 798.35,
+    "duration": 2.7
+  },
+  {
+    "text": "I think there's\nanother segment--",
+    "start": 801.05,
+    "duration": 1.2
+  },
+  {
+    "text": "and maybe Joey could\nspeak to this--",
+    "start": 802.25,
+    "duration": 1.5
+  },
+  {
+    "text": "who go there because\nthey happen to know",
+    "start": 803.75,
+    "duration": 2.49
+  },
+  {
+    "text": "about their sustainability play.",
+    "start": 806.24,
+    "duration": 1.53
+  },
+  {
+    "text": "JOEY ZWILLINGER: Yeah.",
+    "start": 807.77,
+    "duration": 0.54
+  },
+  {
+    "text": "I'd say that's a\ngreat summary, Mike.",
+    "start": 808.31,
+    "duration": 1.65
+  },
+  {
+    "text": "I think it's a\ngrowing portion that's",
+    "start": 809.96,
+    "duration": 1.65
+  },
+  {
+    "text": "coming for sustainability,\nbut it's still a minority.",
+    "start": 811.61,
+    "duration": 2.25
+  },
+  {
+    "text": "MIKE TOFFEL: Yeah, it's\nan interesting question",
+    "start": 813.86,
+    "duration": 1.958
+  },
+  {
+    "text": "about how forward they should\nbe on the sustainability",
+    "start": 815.818,
+    "duration": 3.052
+  },
+  {
+    "text": "messaging.",
+    "start": 818.87,
+    "duration": 0.69
+  },
+  {
+    "text": "When you go into\nan Allbirds store--",
+    "start": 819.56,
+    "duration": 1.83
+  },
+  {
+    "text": "we have one here\nin Harvard Square--",
+    "start": 821.39,
+    "duration": 1.5
+  },
+  {
+    "text": "you can tell if you\nknow what to look",
+    "start": 822.89,
+    "duration": 2.25
+  },
+  {
+    "text": "for about the sustainability\naspects of it.",
+    "start": 825.14,
+    "duration": 2.43
+  },
+  {
+    "text": "You can see the\nlabels where they",
+    "start": 827.57,
+    "duration": 2.43
+  },
+  {
+    "text": "are quite innovative\nand coming up",
+    "start": 830.0,
+    "duration": 1.77
+  },
+  {
+    "text": "with carbon footprints\nof each shoe.",
+    "start": 831.77,
+    "duration": 2.49
+  },
+  {
+    "text": "But it's not hitting you\nover the head with come here.",
+    "start": 834.26,
+    "duration": 3.12
+  },
+  {
+    "text": "We're a climate-forward company.",
+    "start": 837.38,
+    "duration": 1.41
+  },
+  {
+    "text": "You have to kind\nof look, and you",
+    "start": 838.79,
+    "duration": 1.375
+  },
+  {
+    "text": "have to ask, oh, what's\nthat number near that shoe?",
+    "start": 840.165,
+    "duration": 2.835
+  },
+  {
+    "text": "And then the sales associates\nwill tell you their story,",
+    "start": 843.0,
+    "duration": 2.555
+  },
+  {
+    "text": "which is super interesting.",
+    "start": 845.555,
+    "duration": 1.125
+  },
+  {
+    "text": "But it's not like\nthey're hanging banners",
+    "start": 846.68,
+    "duration": 1.8
+  },
+  {
+    "text": "out saying, come buy the\nmost decarbonized shoe you",
+    "start": 848.48,
+    "duration": 3.27
+  },
+  {
+    "text": "can buy on the market,\nwhich they could do.",
+    "start": 851.75,
+    "duration": 2.4
+  },
+  {
+    "text": "But so far, they've\nchosen not to.",
+    "start": 854.15,
+    "duration": 1.42
+  },
+  {
+    "text": "And I think that\ngets to your question",
+    "start": 855.57,
+    "duration": 1.583
+  },
+  {
+    "text": "about other examples of brands\npremised on sustainability.",
+    "start": 857.153,
+    "duration": 2.727
+  },
+  {
+    "text": "It's still a bit\nnichey in some ways.",
+    "start": 859.88,
+    "duration": 2.58
+  },
+  {
+    "text": "I think folks think of\nthem as upscale brands,",
+    "start": 862.46,
+    "duration": 2.43
+  },
+  {
+    "text": "like Patagonia, where the\npricing is 3x competitor",
+    "start": 864.89,
+    "duration": 4.32
+  },
+  {
+    "text": "pricing sometimes or folks like\nBen & Jerry's, who've long had",
+    "start": 869.21,
+    "duration": 5.04
+  },
+  {
+    "text": "a sustainability angle to them.",
+    "start": 874.25,
+    "duration": 2.16
+  },
+  {
+    "text": "Of course, there are large\nbrands, like Unilever, and HP,",
+    "start": 876.41,
+    "duration": 4.26
+  },
+  {
+    "text": "and Google, and\nMicrosoft, who are now",
+    "start": 880.67,
+    "duration": 2.31
+  },
+  {
+    "text": "characterizing themselves\nas sustainability",
+    "start": 882.98,
+    "duration": 2.37
+  },
+  {
+    "text": "for a variety of reasons.",
+    "start": 885.35,
+    "duration": 1.098
+  },
+  {
+    "text": "Unilever is reaching\ninto its supply chain,",
+    "start": 886.448,
+    "duration": 1.792
+  },
+  {
+    "text": "trying to figure out how to\nreduce the environmental impact",
+    "start": 888.24,
+    "duration": 2.458
+  },
+  {
+    "text": "of growing a lot of\nthe food-based products",
+    "start": 890.698,
+    "duration": 2.152
+  },
+  {
+    "text": "that they sell.",
+    "start": 892.85,
+    "duration": 0.96
+  },
+  {
+    "text": "Microsoft and Google\nare buying offsets",
+    "start": 893.81,
+    "duration": 2.58
+  },
+  {
+    "text": "and trying to make\nthemselves carbon neutral,",
+    "start": 896.39,
+    "duration": 2.37
+  },
+  {
+    "text": "even back to their reception.",
+    "start": 898.76,
+    "duration": 1.83
+  },
+  {
+    "text": "There's a whole\nvariety of ways now",
+    "start": 900.59,
+    "duration": 2.45
+  },
+  {
+    "text": "that companies are stepping\nup to the climate challenge,",
+    "start": 903.04,
+    "duration": 3.0
+  },
+  {
+    "text": "so it's sort of a mix.",
+    "start": 906.04,
+    "duration": 1.32
+  },
+  {
+    "text": "And I think the history\nof sustainable brands",
+    "start": 907.36,
+    "duration": 3.36
+  },
+  {
+    "text": "is such that there's,\nin some areas,",
+    "start": 910.72,
+    "duration": 2.91
+  },
+  {
+    "text": "a tradeoff between\nsustainability",
+    "start": 913.63,
+    "duration": 2.19
+  },
+  {
+    "text": "and other desirable features.",
+    "start": 915.82,
+    "duration": 2.88
+  },
+  {
+    "text": "I think you and I are\nold enough to remember",
+    "start": 918.7,
+    "duration": 2.19
+  },
+  {
+    "text": "the emergence of recycled\nphotocopy paper, which was more",
+    "start": 920.89,
+    "duration": 3.69
+  },
+  {
+    "text": "likely to jam your photocopier.",
+    "start": 924.58,
+    "duration": 2.01
+  },
+  {
+    "text": "So there really was a\ntradeoff in function",
+    "start": 926.59,
+    "duration": 3.42
+  },
+  {
+    "text": "and in sustainability\nattributes.",
+    "start": 930.01,
+    "duration": 2.32
+  },
+  {
+    "text": "And I think folks haven't lost\nsight of those early missteps.",
+    "start": 932.33,
+    "duration": 3.77
+  },
+  {
+    "text": "My sense-- but we should\nhear it from Joey.",
+    "start": 936.1,
+    "duration": 2.79
+  },
+  {
+    "text": "My sense is that one\nneeds to go cautiously",
+    "start": 938.89,
+    "duration": 2.91
+  },
+  {
+    "text": "because you don't want\nto imply that you're",
+    "start": 941.8,
+    "duration": 2.82
+  },
+  {
+    "text": "going to sacrifice other\nattributes you really value.",
+    "start": 944.62,
+    "duration": 3.198
+  },
+  {
+    "text": "Although, a lot of\npeople say they're",
+    "start": 947.818,
+    "duration": 1.542
+  },
+  {
+    "text": "willing to pay more for\nsustainable products,",
+    "start": 949.36,
+    "duration": 3.41
+  },
+  {
+    "text": "a lot more people are willing\nto say it than actually do it.",
+    "start": 952.77,
+    "duration": 2.5
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 955.27,
+    "duration": 0.42
+  },
+  {
+    "text": "Yeah.",
+    "start": 955.69,
+    "duration": 0.48
+  },
+  {
+    "text": "Well, kind of like\nthose firms you",
+    "start": 956.17,
+    "duration": 1.11
+  },
+  {
+    "text": "were mentioning\nearlier, Joey, where",
+    "start": 957.28,
+    "duration": 1.125
+  },
+  {
+    "text": "you were trying to bring\nyour technology to them.",
+    "start": 958.405,
+    "duration": 1.965
+  },
+  {
+    "text": "And when push came\nto shove, they",
+    "start": 960.37,
+    "duration": 1.375
+  },
+  {
+    "text": "weren't ready to really go down\nthat route and invest in it.",
+    "start": 961.745,
+    "duration": 3.035
+  },
+  {
+    "text": "I mean, what are you\nfinding with consumers?",
+    "start": 964.78,
+    "duration": 2.82
+  },
+  {
+    "text": "Do they feel like the\nsustainability part",
+    "start": 967.6,
+    "duration": 1.92
+  },
+  {
+    "text": "is the most important thing?",
+    "start": 969.52,
+    "duration": 0.78
+  },
+  {
+    "text": "Or do they just want\na really nice shoe",
+    "start": 970.3,
+    "duration": 1.625
+  },
+  {
+    "text": "that they look good in and\nthey can feel good about?",
+    "start": 971.925,
+    "duration": 2.185
+  },
+  {
+    "text": "JOEY ZWILLINGER: I'd say still,\nthe vast majority of people",
+    "start": 974.11,
+    "duration": 2.67
+  },
+  {
+    "text": "are looking for something\nthat makes them feel good,",
+    "start": 976.78,
+    "duration": 2.7
+  },
+  {
+    "text": "makes them perform well,\nand that they love.",
+    "start": 979.48,
+    "duration": 2.04
+  },
+  {
+    "text": "I would point to two\ndifferent groups of companies.",
+    "start": 981.52,
+    "duration": 2.52
+  },
+  {
+    "text": "There's a company like Unilever,\nwhich is doing a fantastic",
+    "start": 984.04,
+    "duration": 3.33
+  },
+  {
+    "text": "job on taking a legacy model and\ntrying to evolve it into a more",
+    "start": 987.37,
+    "duration": 4.38
+  },
+  {
+    "text": "sustainable company.",
+    "start": 991.75,
+    "duration": 1.29
+  },
+  {
+    "text": "Then there's a\npurpose-native company",
+    "start": 993.04,
+    "duration": 2.19
+  },
+  {
+    "text": "that is starting with a blank\ncanvas and starts with the idea",
+    "start": 995.23,
+    "duration": 4.44
+  },
+  {
+    "text": "that sustainability is\ngoing to be the engine that",
+    "start": 999.67,
+    "duration": 2.22
+  },
+  {
+    "text": "fuels their growth and that\nthey constrain their innovation",
+    "start": 1001.89,
+    "duration": 3.24
+  },
+  {
+    "text": "process to looking at making\ngreat products through R&D",
+    "start": 1005.13,
+    "duration": 3.99
+  },
+  {
+    "text": "that happens to be sustainable.",
+    "start": 1009.12,
+    "duration": 1.71
+  },
+  {
+    "text": "And the ripple effect\ncan be much, much broader",
+    "start": 1010.83,
+    "duration": 2.247
+  },
+  {
+    "text": "when you think about that.",
+    "start": 1013.077,
+    "duration": 1.083
+  },
+  {
+    "text": "I point to Tesla\nas a great example.",
+    "start": 1014.16,
+    "duration": 1.77
+  },
+  {
+    "text": "You don't get in a Tesla maybe\nbecause it's sustainable.",
+    "start": 1015.93,
+    "duration": 2.842
+  },
+  {
+    "text": "You get in because\nit looks awesome",
+    "start": 1018.772,
+    "duration": 1.458
+  },
+  {
+    "text": "and it goes really fast.",
+    "start": 1020.23,
+    "duration": 1.16
+  },
+  {
+    "text": "And it performs well.",
+    "start": 1021.39,
+    "duration": 1.08
+  },
+  {
+    "text": "And it happens to be much\nbetter on the environment",
+    "start": 1022.47,
+    "duration": 2.49
+  },
+  {
+    "text": "when you consider that\nthe replacement of,",
+    "start": 1024.96,
+    "duration": 2.369
+  },
+  {
+    "text": "particularly, if you use\ngreen electrons to fuel",
+    "start": 1027.329,
+    "duration": 2.131
+  },
+  {
+    "text": "the car versus petroleum.",
+    "start": 1029.46,
+    "duration": 1.71
+  },
+  {
+    "text": "And I would say the same\nthing applies to the approach",
+    "start": 1031.17,
+    "duration": 2.691
+  },
+  {
+    "text": "that we've taken at Allbirds.",
+    "start": 1033.861,
+    "duration": 1.208
+  },
+  {
+    "text": "And that purpose native means\nthat we're liberated to not",
+    "start": 1035.069,
+    "duration": 3.241
+  },
+  {
+    "text": "have legacy baggage.",
+    "start": 1038.31,
+    "duration": 1.23
+  },
+  {
+    "text": "And we can just unlock great\nperformance for customers",
+    "start": 1039.54,
+    "duration": 2.819
+  },
+  {
+    "text": "without making any tradeoffs.",
+    "start": 1042.359,
+    "duration": 1.411
+  },
+  {
+    "text": "In fact, we make better\nproducts as a result of it.",
+    "start": 1043.77,
+    "duration": 2.272
+  },
+  {
+    "text": "BRIAN KENNY: Does the\npurpose-native philosophy",
+    "start": 1046.042,
+    "duration": 1.958
+  },
+  {
+    "text": "extend up and down the\nsupply chain for you guys?",
+    "start": 1048.0,
+    "duration": 2.22
+  },
+  {
+    "text": "I mean, do you really vet\nyour suppliers in such a way,",
+    "start": 1050.22,
+    "duration": 3.37
+  },
+  {
+    "text": "that you can make that claim?",
+    "start": 1053.59,
+    "duration": 1.503
+  },
+  {
+    "text": "JOEY ZWILLINGER: 100%.",
+    "start": 1055.093,
+    "duration": 0.917
+  },
+  {
+    "text": "Mike alluded to something\nthat's really important in terms",
+    "start": 1056.01,
+    "duration": 3.15
+  },
+  {
+    "text": "of making sure that we're\nheld accountable by everybody,",
+    "start": 1059.16,
+    "duration": 3.19
+  },
+  {
+    "text": "including our consumers.",
+    "start": 1062.35,
+    "duration": 1.178
+  },
+  {
+    "text": "And that's this\ninnovation we've done",
+    "start": 1063.528,
+    "duration": 1.542
+  },
+  {
+    "text": "where we've created a tool that\ncan track down to the gram what",
+    "start": 1065.07,
+    "duration": 3.57
+  },
+  {
+    "text": "is the carbon emission for the\nentire life cycle from farm,",
+    "start": 1068.64,
+    "duration": 3.57
+  },
+  {
+    "text": "to foot, and to end\nof life of that shoe--",
+    "start": 1072.21,
+    "duration": 2.7
+  },
+  {
+    "text": "or any product that we make?",
+    "start": 1074.91,
+    "duration": 1.47
+  },
+  {
+    "text": "And we actually label\nthat carbon footprint",
+    "start": 1076.38,
+    "duration": 2.61
+  },
+  {
+    "text": "on every single\nproduct that we make,",
+    "start": 1078.99,
+    "duration": 2.13
+  },
+  {
+    "text": "either product or packaging.",
+    "start": 1081.12,
+    "duration": 1.26
+  },
+  {
+    "text": "That is inclusive of absolutely\neverything you can think of.",
+    "start": 1082.38,
+    "duration": 3.72
+  },
+  {
+    "text": "We draw the boundary around\nour life cycle of our product",
+    "start": 1086.1,
+    "duration": 2.61
+  },
+  {
+    "text": "very broadly.",
+    "start": 1088.71,
+    "duration": 0.9
+  },
+  {
+    "text": "That is where we're\nheld accountable.",
+    "start": 1089.61,
+    "duration": 1.71
+  },
+  {
+    "text": "And so in order for\nus to drive that",
+    "start": 1091.32,
+    "duration": 1.98
+  },
+  {
+    "text": "down to zero, which\nis our objective here",
+    "start": 1093.3,
+    "duration": 2.05
+  },
+  {
+    "text": "and then beyond that to\nthe extent that we can,",
+    "start": 1095.35,
+    "duration": 2.18
+  },
+  {
+    "text": "we'd like to do that quickly.",
+    "start": 1097.53,
+    "duration": 1.605
+  },
+  {
+    "text": "And we'd like to do that\nwith the partnership",
+    "start": 1099.135,
+    "duration": 1.875
+  },
+  {
+    "text": "with our suppliers, our\nsupply base, and other folks,",
+    "start": 1101.01,
+    "duration": 2.59
+  },
+  {
+    "text": "including governments.",
+    "start": 1103.6,
+    "duration": 1.34
+  },
+  {
+    "text": "MIKE TOFFEL: The\ninteresting thing",
+    "start": 1104.94,
+    "duration": 1.417
+  },
+  {
+    "text": "about this approach of being\nvery expansive in the supply",
+    "start": 1106.357,
+    "duration": 2.513
+  },
+  {
+    "text": "chain, both reverse supply chain\nand forward supply chain, where",
+    "start": 1108.87,
+    "duration": 3.69
+  },
+  {
+    "text": "it will end up in\nultimate disposition",
+    "start": 1112.56,
+    "duration": 2.46
+  },
+  {
+    "text": "once you discard your\nshoe or recycle it,",
+    "start": 1115.02,
+    "duration": 2.16
+  },
+  {
+    "text": "the interesting thing\nthere is it really",
+    "start": 1117.18,
+    "duration": 1.71
+  },
+  {
+    "text": "does get you to focus,\nif you want to minimize",
+    "start": 1118.89,
+    "duration": 2.76
+  },
+  {
+    "text": "that total number, on\nwhere you get the biggest",
+    "start": 1121.65,
+    "duration": 2.52
+  },
+  {
+    "text": "bang for the buck.",
+    "start": 1124.17,
+    "duration": 0.967
+  },
+  {
+    "text": "I think there's been\na lot of critique",
+    "start": 1125.137,
+    "duration": 1.583
+  },
+  {
+    "text": "of other types of\ncompanies whose",
+    "start": 1126.72,
+    "duration": 1.8
+  },
+  {
+    "text": "sustainability efforts are\nhighly visible, but also highly",
+    "start": 1128.52,
+    "duration": 3.51
+  },
+  {
+    "text": "symbolic.",
+    "start": 1132.03,
+    "duration": 1.38
+  },
+  {
+    "text": "You can have a lot of solar\npower at your headquarters.",
+    "start": 1133.41,
+    "duration": 3.36
+  },
+  {
+    "text": "But if your products\nis where the impact is,",
+    "start": 1136.77,
+    "duration": 2.543
+  },
+  {
+    "text": "then that's really\nwhere you ought",
+    "start": 1139.313,
+    "duration": 1.417
+  },
+  {
+    "text": "to be making your investments.",
+    "start": 1140.73,
+    "duration": 1.78
+  },
+  {
+    "text": "That's a real critical piece\nof an authenticity play",
+    "start": 1142.51,
+    "duration": 2.818
+  },
+  {
+    "text": "if you're trying to be\na sustainable brand.",
+    "start": 1145.328,
+    "duration": 1.792
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1147.12,
+    "duration": 0.36
+  },
+  {
+    "text": "Well, let me ask you this, Mike.",
+    "start": 1147.48,
+    "duration": 1.333
+  },
+  {
+    "text": "How sustainable is this\nbusiness model, I guess,",
+    "start": 1148.813,
+    "duration": 2.34
+  },
+  {
+    "text": "would be the question.",
+    "start": 1151.153,
+    "duration": 0.917
+  },
+  {
+    "text": "So sustainability is the\ngreat focus for Allbirds.",
+    "start": 1152.07,
+    "duration": 2.083
+  },
+  {
+    "text": "But is this the\nkind of thing that",
+    "start": 1154.153,
+    "duration": 1.577
+  },
+  {
+    "text": "can be sustained\nindefinitely, given the added",
+    "start": 1155.73,
+    "duration": 3.45
+  },
+  {
+    "text": "investments that you\nprobably have to make in R&D",
+    "start": 1159.18,
+    "duration": 2.28
+  },
+  {
+    "text": "to continue to be\nauthentic in that way?",
+    "start": 1161.46,
+    "duration": 1.743
+  },
+  {
+    "text": "MIKE TOFFEL: I think\nwhat's really interesting",
+    "start": 1163.203,
+    "duration": 1.917
+  },
+  {
+    "text": "here is to look at the\ninnovation processes",
+    "start": 1165.12,
+    "duration": 2.22
+  },
+  {
+    "text": "that Allbirds has engaged in.",
+    "start": 1167.34,
+    "duration": 1.75
+  },
+  {
+    "text": "So some of the innovation\nis with their own employees",
+    "start": 1169.09,
+    "duration": 2.42
+  },
+  {
+    "text": "on design and on\nchoices of material.",
+    "start": 1171.51,
+    "duration": 2.49
+  },
+  {
+    "text": "But they're working hard\nwith existing suppliers who",
+    "start": 1174.0,
+    "duration": 2.79
+  },
+  {
+    "text": "have scale and the\ntechnology to create,",
+    "start": 1176.79,
+    "duration": 2.76
+  },
+  {
+    "text": "for example, what they\ncall SweetFoam, which",
+    "start": 1179.55,
+    "duration": 2.58
+  },
+  {
+    "text": "is the substitute for\na fossil fuel based",
+    "start": 1182.13,
+    "duration": 3.03
+  },
+  {
+    "text": "product that sits between\nyour foot and the outer sole.",
+    "start": 1185.16,
+    "duration": 2.82
+  },
+  {
+    "text": "That's the part that\ngives you cushion.",
+    "start": 1187.98,
+    "duration": 1.68
+  },
+  {
+    "text": "When they did that,\nthey could have",
+    "start": 1189.66,
+    "duration": 1.8
+  },
+  {
+    "text": "tried to create that\nin a proprietary basis.",
+    "start": 1191.46,
+    "duration": 2.32
+  },
+  {
+    "text": "But in fact, they're\nworking with their supplier,",
+    "start": 1193.78,
+    "duration": 2.042
+  },
+  {
+    "text": "trying to get others to adopt\nthat material as well as a way",
+    "start": 1195.822,
+    "duration": 3.018
+  },
+  {
+    "text": "to drive down its cost, to\nincrease economies of scale.",
+    "start": 1198.84,
+    "duration": 3.22
+  },
+  {
+    "text": "There's an interesting play.",
+    "start": 1202.06,
+    "duration": 1.44
+  },
+  {
+    "text": "Should we try and do this\nand keep it proprietary?",
+    "start": 1203.5,
+    "duration": 2.25
+  },
+  {
+    "text": "Or should we try\nand get this to be",
+    "start": 1205.75,
+    "duration": 1.92
+  },
+  {
+    "text": "spread across our own industry\nand across other industries?",
+    "start": 1207.67,
+    "duration": 3.04
+  },
+  {
+    "text": "And so far, in a lot\nof these dimensions,",
+    "start": 1210.71,
+    "duration": 1.88
+  },
+  {
+    "text": "they're trying to create scale.",
+    "start": 1212.59,
+    "duration": 1.89
+  },
+  {
+    "text": "Think about the wool side.",
+    "start": 1214.48,
+    "duration": 1.38
+  },
+  {
+    "text": "They're involved in trying to\ncreate a certified wool to be",
+    "start": 1215.86,
+    "duration": 3.93
+  },
+  {
+    "text": "grown in a sustainable way.",
+    "start": 1219.79,
+    "duration": 1.74
+  },
+  {
+    "text": "Again, could they have created\ntheir own certification",
+    "start": 1221.53,
+    "duration": 2.76
+  },
+  {
+    "text": "scheme or their own standards?",
+    "start": 1224.29,
+    "duration": 1.9
+  },
+  {
+    "text": "Sure.",
+    "start": 1226.19,
+    "duration": 0.71
+  },
+  {
+    "text": "But then they don't\nreally have scale.",
+    "start": 1226.9,
+    "duration": 2.16
+  },
+  {
+    "text": "You want to have a lot of\nchoice on the supply side,",
+    "start": 1229.06,
+    "duration": 2.35
+  },
+  {
+    "text": "so you can drive them\ndown an experience curve,",
+    "start": 1231.41,
+    "duration": 2.33
+  },
+  {
+    "text": "let them realize some\neconomies of scale.",
+    "start": 1233.74,
+    "duration": 1.89
+  },
+  {
+    "text": "And then you can buy it\nalmost as cheaply or sometimes",
+    "start": 1235.63,
+    "duration": 2.91
+  },
+  {
+    "text": "as cheaply as existing\nless sustainable materials.",
+    "start": 1238.54,
+    "duration": 2.33
+  },
+  {
+    "text": "BRIAN KENNY: So Joey, let\nme ask you about that.",
+    "start": 1240.87,
+    "duration": 2.0
+  },
+  {
+    "text": "Does that feel to\nyou like you guys",
+    "start": 1242.87,
+    "duration": 2.09
+  },
+  {
+    "text": "might be giving away some\ncompetitive advantage if you",
+    "start": 1244.96,
+    "duration": 2.67
+  },
+  {
+    "text": "are sharing your platforms and\nyour technologies with others",
+    "start": 1247.63,
+    "duration": 3.388
+  },
+  {
+    "text": "in the field?",
+    "start": 1251.018,
+    "duration": 0.542
+  },
+  {
+    "text": "JOEY ZWILLINGER: I try to\nbe thoughtful about that.",
+    "start": 1251.56,
+    "duration": 1.62
+  },
+  {
+    "text": "And I'll give another example.",
+    "start": 1253.18,
+    "duration": 1.643
+  },
+  {
+    "text": "Mike points to\nwool, which I think",
+    "start": 1254.823,
+    "duration": 1.417
+  },
+  {
+    "text": "is a great one\nwhere we're working",
+    "start": 1256.24,
+    "duration": 1.53
+  },
+  {
+    "text": "literally down to the farm\nlevel in New Zealand working",
+    "start": 1257.77,
+    "duration": 3.22
+  },
+  {
+    "text": "to make regeneratively\nfarmed wool, which gets",
+    "start": 1260.99,
+    "duration": 2.49
+  },
+  {
+    "text": "to carbon negative, actually.",
+    "start": 1263.48,
+    "duration": 1.35
+  },
+  {
+    "text": "And we're doing a great job when\nwe're doing that in partnership",
+    "start": 1264.83,
+    "duration": 2.49
+  },
+  {
+    "text": "with some other brands.",
+    "start": 1267.32,
+    "duration": 0.96
+  },
+  {
+    "text": "That's one good\nexample where we're",
+    "start": 1268.28,
+    "duration": 1.62
+  },
+  {
+    "text": "coming down the cost\ncurve and doing something",
+    "start": 1269.9,
+    "duration": 2.13
+  },
+  {
+    "text": "that's going to benefit others.",
+    "start": 1272.03,
+    "duration": 1.62
+  },
+  {
+    "text": "It's at the fiber level, though.",
+    "start": 1273.65,
+    "duration": 1.86
+  },
+  {
+    "text": "That fiber is\nfairly commoditized.",
+    "start": 1275.51,
+    "duration": 2.43
+  },
+  {
+    "text": "What we do with it\ndownstream of that",
+    "start": 1277.94,
+    "duration": 1.77
+  },
+  {
+    "text": "is something that's\nquite magical and makes",
+    "start": 1279.71,
+    "duration": 1.95
+  },
+  {
+    "text": "it feel comfortable.",
+    "start": 1281.66,
+    "duration": 1.06
+  },
+  {
+    "text": "The other example\nis around what we've",
+    "start": 1282.72,
+    "duration": 1.88
+  },
+  {
+    "text": "done with a product\ncalled SweetFoam.",
+    "start": 1284.6,
+    "duration": 2.07
+  },
+  {
+    "text": "Mike called it the squishy\nstuff underneath your foot",
+    "start": 1286.67,
+    "duration": 2.427
+  },
+  {
+    "text": "in the middle of the shoe.",
+    "start": 1289.097,
+    "duration": 1.083
+  },
+  {
+    "text": "So it's the midsole, we call\nit, in the shoe industry.",
+    "start": 1290.18,
+    "duration": 2.37
+  },
+  {
+    "text": "We knew that the entire\nindustry used naphtha",
+    "start": 1292.55,
+    "duration": 2.91
+  },
+  {
+    "text": "from petroleum or natural gas\nto derive this foam called EVA.",
+    "start": 1295.46,
+    "duration": 4.08
+  },
+  {
+    "text": "And that was what the\nwhole industry did.",
+    "start": 1299.54,
+    "duration": 1.83
+  },
+  {
+    "text": "And there's 20 billion\npairs of shoes sold",
+    "start": 1301.37,
+    "duration": 2.79
+  },
+  {
+    "text": "around the world every year.",
+    "start": 1304.16,
+    "duration": 1.45
+  },
+  {
+    "text": "And so there's a\nhuge impact that EVA",
+    "start": 1305.61,
+    "duration": 2.42
+  },
+  {
+    "text": "is having as a component.",
+    "start": 1308.03,
+    "duration": 1.39
+  },
+  {
+    "text": "It's probably number\none or number two",
+    "start": 1309.42,
+    "duration": 2.03
+  },
+  {
+    "text": "in terms of its ubiquity\nin the footwear industry",
+    "start": 1311.45,
+    "duration": 2.61
+  },
+  {
+    "text": "from a component perspective.",
+    "start": 1314.06,
+    "duration": 1.56
+  },
+  {
+    "text": "We went down to\nBrazil and linked up",
+    "start": 1315.62,
+    "duration": 2.61
+  },
+  {
+    "text": "with a biochemicals company that\ncould produce at scale an EVA",
+    "start": 1318.23,
+    "duration": 5.1
+  },
+  {
+    "text": "equivalent utilizing\nthe waste stream",
+    "start": 1323.33,
+    "duration": 2.19
+  },
+  {
+    "text": "from sugarcane production.",
+    "start": 1325.52,
+    "duration": 1.32
+  },
+  {
+    "text": "And when doing that, it became\na carbon negative material,",
+    "start": 1326.84,
+    "duration": 3.065
+  },
+  {
+    "text": "meaning it actually-- when\nyou think about the life",
+    "start": 1329.905,
+    "duration": 2.125
+  },
+  {
+    "text": "cycle of it and you study it,\nit will suck more carbon out",
+    "start": 1332.03,
+    "duration": 3.0
+  },
+  {
+    "text": "of the atmosphere in the\nmanufacture of this process",
+    "start": 1335.03,
+    "duration": 2.19
+  },
+  {
+    "text": "than it will take to create it.",
+    "start": 1337.22,
+    "duration": 1.34
+  },
+  {
+    "text": "So you keep doing a\nlot of that, and we're",
+    "start": 1338.56,
+    "duration": 1.75
+  },
+  {
+    "text": "starting to reverse\nclimate change, which",
+    "start": 1340.31,
+    "duration": 1.708
+  },
+  {
+    "text": "is our kind of\nsustainability ethos here.",
+    "start": 1342.018,
+    "duration": 1.962
+  },
+  {
+    "text": "But the only way to get a\nbio chemical company, which",
+    "start": 1343.98,
+    "duration": 2.69
+  },
+  {
+    "text": "has invested billions\nof infrastructure",
+    "start": 1346.67,
+    "duration": 2.49
+  },
+  {
+    "text": "in their equipment to work\nwith a company like us is we",
+    "start": 1349.16,
+    "duration": 3.63
+  },
+  {
+    "text": "had to open source that.",
+    "start": 1352.79,
+    "duration": 1.57
+  },
+  {
+    "text": "And so we wanted\nto open source that",
+    "start": 1354.36,
+    "duration": 1.52
+  },
+  {
+    "text": "to get the entire\nindustry involved in this.",
+    "start": 1355.88,
+    "duration": 2.4
+  },
+  {
+    "text": "And because the volume of\nthe industry is so large,",
+    "start": 1358.28,
+    "duration": 2.31
+  },
+  {
+    "text": "we could compel a large\nupstream chemicals company",
+    "start": 1360.59,
+    "duration": 3.48
+  },
+  {
+    "text": "to invest many\nmillions of dollars",
+    "start": 1364.07,
+    "duration": 1.83
+  },
+  {
+    "text": "to create this for\nthe industry broadly.",
+    "start": 1365.9,
+    "duration": 2.13
+  },
+  {
+    "text": "Maybe we have a good business\ndeal with that company,",
+    "start": 1368.03,
+    "duration": 2.68
+  },
+  {
+    "text": "so that we get\nadvantaged treatment.",
+    "start": 1370.71,
+    "duration": 1.58
+  },
+  {
+    "text": "But along the way,\nthe cost comes down.",
+    "start": 1372.29,
+    "duration": 2.52
+  },
+  {
+    "text": "And that example\nthat you described,",
+    "start": 1374.81,
+    "duration": 1.86
+  },
+  {
+    "text": "we're in an environment right\nnow where petroleum costs have",
+    "start": 1376.67,
+    "duration": 2.97
+  },
+  {
+    "text": "been quite significantly up.",
+    "start": 1379.64,
+    "duration": 2.16
+  },
+  {
+    "text": "And so EVA costs have gone\nup from traditional sources,",
+    "start": 1381.8,
+    "duration": 3.793
+  },
+  {
+    "text": "whereas, when you get\nit from sugarcane,",
+    "start": 1385.593,
+    "duration": 1.667
+  },
+  {
+    "text": "we're actually paying less.",
+    "start": 1387.26,
+    "duration": 1.38
+  },
+  {
+    "text": "These kinds of impacts, when you\ndiversify the streams of inputs",
+    "start": 1388.64,
+    "duration": 3.687
+  },
+  {
+    "text": "that you have on your\nproducts, can actually",
+    "start": 1392.327,
+    "duration": 1.833
+  },
+  {
+    "text": "be a benefit over time.",
+    "start": 1394.16,
+    "duration": 1.29
+  },
+  {
+    "text": "And this is now a\nfinancial benefit,",
+    "start": 1395.45,
+    "duration": 1.98
+  },
+  {
+    "text": "it's an environmental benefit,\nand it's a comfort benefit",
+    "start": 1397.43,
+    "duration": 2.46
+  },
+  {
+    "text": "for our customers.",
+    "start": 1399.89,
+    "duration": 0.87
+  },
+  {
+    "text": "That is the win-win\nthat we're trying",
+    "start": 1400.76,
+    "duration": 1.74
+  },
+  {
+    "text": "to get every single time.",
+    "start": 1402.5,
+    "duration": 1.17
+  },
+  {
+    "text": "And it's been a great boon\nfor our partner down in Brazil",
+    "start": 1403.67,
+    "duration": 2.73
+  },
+  {
+    "text": "Braskem, great for our company.",
+    "start": 1406.4,
+    "duration": 1.65
+  },
+  {
+    "text": "And there's dozens\nof brands that",
+    "start": 1408.05,
+    "duration": 1.53
+  },
+  {
+    "text": "have launched this product, big\nbrands and small brands alike,",
+    "start": 1409.58,
+    "duration": 2.61
+  },
+  {
+    "text": "that have launched green EVA\ninside of their products,",
+    "start": 1412.19,
+    "duration": 2.47
+  },
+  {
+    "text": "so big win for the industry.",
+    "start": 1414.66,
+    "duration": 1.167
+  },
+  {
+    "text": "BRIAN KENNY: That's\nan awesome example",
+    "start": 1415.827,
+    "duration": 1.583
+  },
+  {
+    "text": "of the kind of innovation that\nyou guys are making happen.",
+    "start": 1417.41,
+    "duration": 2.88
+  },
+  {
+    "text": "I'm wondering, how\nmuch of your job",
+    "start": 1420.29,
+    "duration": 1.86
+  },
+  {
+    "text": "is about educating\nothers in the industry?",
+    "start": 1422.15,
+    "duration": 3.06
+  },
+  {
+    "text": "It seems like you guys\nare paving new ground.",
+    "start": 1425.21,
+    "duration": 1.95
+  },
+  {
+    "text": "And you've got to find a\nway to bring others along",
+    "start": 1427.16,
+    "duration": 2.328
+  },
+  {
+    "text": "with you to get to the scale\nthat you're talking about.",
+    "start": 1429.488,
+    "duration": 2.292
+  },
+  {
+    "text": "And that's about\nteaching at some level.",
+    "start": 1431.78,
+    "duration": 1.915
+  },
+  {
+    "text": "JOEY ZWILLINGER:\nLet's pull that apart.",
+    "start": 1433.695,
+    "duration": 1.625
+  },
+  {
+    "text": "For customers, there's\nan education aspect.",
+    "start": 1435.32,
+    "duration": 3.15
+  },
+  {
+    "text": "The way we think about\nour customers in terms",
+    "start": 1438.47,
+    "duration": 2.403
+  },
+  {
+    "text": "of the mindshare that\nthey're going to give us",
+    "start": 1440.873,
+    "duration": 1.917
+  },
+  {
+    "text": "is that they're\nvery, very smart.",
+    "start": 1442.79,
+    "duration": 2.07
+  },
+  {
+    "text": "Consumers are so smart,\nbut they're very busy.",
+    "start": 1444.86,
+    "duration": 2.65
+  },
+  {
+    "text": "And they're not going to\ngive you more than half",
+    "start": 1447.51,
+    "duration": 2.0
+  },
+  {
+    "text": "a second to think\nabout because they're",
+    "start": 1449.51,
+    "duration": 1.74
+  },
+  {
+    "text": "busy with their own stuff.",
+    "start": 1451.25,
+    "duration": 1.36
+  },
+  {
+    "text": "And so we have to\nput sustainability",
+    "start": 1452.61,
+    "duration": 2.39
+  },
+  {
+    "text": "into a digestible format that\nthey can pick up in an instant.",
+    "start": 1455.0,
+    "duration": 3.33
+  },
+  {
+    "text": "And that's our effort\nwith this carbon label.",
+    "start": 1458.33,
+    "duration": 2.28
+  },
+  {
+    "text": "When we say, here's\nthe scorecard,",
+    "start": 1460.61,
+    "duration": 1.56
+  },
+  {
+    "text": "it's like calories on the\nback of a label of food.",
+    "start": 1462.17,
+    "duration": 2.173
+  },
+  {
+    "text": "You don't really know\nwhat a calorie is.",
+    "start": 1464.343,
+    "duration": 1.667
+  },
+  {
+    "text": "But if it's higher, you got to\nwork out again to burn it off",
+    "start": 1466.01,
+    "duration": 2.605
+  },
+  {
+    "text": "if you want to burn it off.",
+    "start": 1468.615,
+    "duration": 1.125
+  },
+  {
+    "text": "And if it's lower, you\ndon't have to as much.",
+    "start": 1469.74,
+    "duration": 2.57
+  },
+  {
+    "text": "That's carbon footprint.",
+    "start": 1472.31,
+    "duration": 1.11
+  },
+  {
+    "text": "You get that down to zero\nor negative, you're helping.",
+    "start": 1473.42,
+    "duration": 2.25
+  },
+  {
+    "text": "If you get it higher,\nyou're hurting.",
+    "start": 1475.67,
+    "duration": 1.56
+  },
+  {
+    "text": "So it's that simple.",
+    "start": 1477.23,
+    "duration": 1.42
+  },
+  {
+    "text": "So on that side, we're\ntrying to educate",
+    "start": 1478.65,
+    "duration": 2.24
+  },
+  {
+    "text": "in a really good way-- from\nan industry perspective,",
+    "start": 1480.89,
+    "duration": 2.49
+  },
+  {
+    "text": "I would say that our industry\ncomrades know exactly what they",
+    "start": 1483.38,
+    "duration": 3.57
+  },
+  {
+    "text": "should be doing.",
+    "start": 1486.95,
+    "duration": 0.81
+  },
+  {
+    "text": "It's about the\nwillpower to do it.",
+    "start": 1487.76,
+    "duration": 1.8
+  },
+  {
+    "text": "So how do they\ndisrupt themselves",
+    "start": 1489.56,
+    "duration": 1.8
+  },
+  {
+    "text": "without harming\ntheir core business?",
+    "start": 1491.36,
+    "duration": 1.71
+  },
+  {
+    "text": "That innovator's dilemma\nquestion that they're facing",
+    "start": 1493.07,
+    "duration": 2.49
+  },
+  {
+    "text": "is a real one when it\ncomes to sustainability.",
+    "start": 1495.56,
+    "duration": 1.98
+  },
+  {
+    "text": "And the reckoning is coming.",
+    "start": 1497.54,
+    "duration": 1.35
+  },
+  {
+    "text": "Just this week, I'm\nreading about deforestation",
+    "start": 1498.89,
+    "duration": 2.44
+  },
+  {
+    "text": "in the Amazon because of the\nleather production in Brazil.",
+    "start": 1501.33,
+    "duration": 2.7
+  },
+  {
+    "text": "All the big companies\nin our industry",
+    "start": 1504.03,
+    "duration": 1.74
+  },
+  {
+    "text": "are using this leather.",
+    "start": 1505.77,
+    "duration": 1.56
+  },
+  {
+    "text": "And it's a huge source for\nleather around the world.",
+    "start": 1507.33,
+    "duration": 2.4
+  },
+  {
+    "text": "What we're doing instead of that\nis investing in US innovation",
+    "start": 1509.73,
+    "duration": 3.78
+  },
+  {
+    "text": "to use naturally derived\noils that can replace leather",
+    "start": 1513.51,
+    "duration": 3.39
+  },
+  {
+    "text": "in a plant-based alternative\nthat is 98% reduction in carbon",
+    "start": 1516.9,
+    "duration": 3.6
+  },
+  {
+    "text": "emissions.",
+    "start": 1520.5,
+    "duration": 0.57
+  },
+  {
+    "text": "And then we have leather\nand a leather alternative",
+    "start": 1521.07,
+    "duration": 2.43
+  },
+  {
+    "text": "in a tool kit that we\ncan use for sneakers.",
+    "start": 1523.5,
+    "duration": 2.28
+  },
+  {
+    "text": "That's the way to unlock\nmagic through nature.",
+    "start": 1525.78,
+    "duration": 2.53
+  },
+  {
+    "text": "That's the way to combat this.",
+    "start": 1528.31,
+    "duration": 1.34
+  },
+  {
+    "text": "And so I would say that our\nindustry comrades, they know.",
+    "start": 1529.65,
+    "duration": 3.57
+  },
+  {
+    "text": "They know.",
+    "start": 1533.22,
+    "duration": 0.69
+  },
+  {
+    "text": "But they just need the\nwillpower to disrupt themselves.",
+    "start": 1533.91,
+    "duration": 2.46
+  },
+  {
+    "text": "BRIAN KENNY: We're getting\nclose to the end of our time.",
+    "start": 1536.37,
+    "duration": 1.26
+  },
+  {
+    "text": "But I've got a couple\nmore questions here",
+    "start": 1537.63,
+    "duration": 1.23
+  },
+  {
+    "text": "that I want to make\nsure we get to.",
+    "start": 1538.86,
+    "duration": 1.458
+  },
+  {
+    "text": "And Mike, let me\nturn back to you",
+    "start": 1540.318,
+    "duration": 1.512
+  },
+  {
+    "text": "and ask if you think that\nwhat Allbirds is doing",
+    "start": 1541.83,
+    "duration": 3.51
+  },
+  {
+    "text": "is in some ways creating\na blueprint for others",
+    "start": 1545.34,
+    "duration": 3.12
+  },
+  {
+    "text": "in their industry and maybe\nothers in other industries",
+    "start": 1548.46,
+    "duration": 2.55
+  },
+  {
+    "text": "to follow?",
+    "start": 1551.01,
+    "duration": 0.78
+  },
+  {
+    "text": "MIKE TOFFEL: I think by focusing\nprimarily on the attributes",
+    "start": 1551.79,
+    "duration": 4.29
+  },
+  {
+    "text": "that customers value and\nbeing able to pull that off",
+    "start": 1556.08,
+    "duration": 3.69
+  },
+  {
+    "text": "in a more sustainable\nway without a huge price",
+    "start": 1559.77,
+    "duration": 4.02
+  },
+  {
+    "text": "premium, that's really\na great business model.",
+    "start": 1563.79,
+    "duration": 3.3
+  },
+  {
+    "text": "It's very hard.",
+    "start": 1567.09,
+    "duration": 0.99
+  },
+  {
+    "text": "It's very rare because\nit's very hard.",
+    "start": 1568.08,
+    "duration": 2.573
+  },
+  {
+    "text": "I mean, another\nexample that I can",
+    "start": 1570.653,
+    "duration": 1.417
+  },
+  {
+    "text": "think of offhand might\nbe Impossible Foods.",
+    "start": 1572.07,
+    "duration": 2.85
+  },
+  {
+    "text": "Impossible Foods\nhas really opened up",
+    "start": 1574.92,
+    "duration": 2.55
+  },
+  {
+    "text": "the idea of veggie burgers.",
+    "start": 1577.47,
+    "duration": 1.657
+  },
+  {
+    "text": "People don't even think\nof Impossible Burger",
+    "start": 1579.127,
+    "duration": 1.833
+  },
+  {
+    "text": "as a veggie burger,\nwhich have been around",
+    "start": 1580.96,
+    "duration": 2.03
+  },
+  {
+    "text": "for a long time with\nlots of tiny companies.",
+    "start": 1582.99,
+    "duration": 1.998
+  },
+  {
+    "text": "But all of a sudden, there's\nan awful lot of excitement",
+    "start": 1584.988,
+    "duration": 2.292
+  },
+  {
+    "text": "and a lot of popular culture\naround the Impossible Burger",
+    "start": 1587.28,
+    "duration": 3.63
+  },
+  {
+    "text": "example.",
+    "start": 1590.91,
+    "duration": 0.96
+  },
+  {
+    "text": "And that's because it offers\na familiar experience,",
+    "start": 1591.87,
+    "duration": 3.21
+  },
+  {
+    "text": "in some ways, better, in\nsome people's opinion,",
+    "start": 1595.08,
+    "duration": 2.58
+  },
+  {
+    "text": "or at least, equivalent\nwith some product attributes",
+    "start": 1597.66,
+    "duration": 2.603
+  },
+  {
+    "text": "that are better.",
+    "start": 1600.263,
+    "duration": 0.667
+  },
+  {
+    "text": "In that case, maybe\nit's a health story.",
+    "start": 1600.93,
+    "duration": 1.47
+  },
+  {
+    "text": "Maybe it's an environment story.",
+    "start": 1602.4,
+    "duration": 1.32
+  },
+  {
+    "text": "And it's at a\nsimilar price point.",
+    "start": 1603.72,
+    "duration": 1.417
+  },
+  {
+    "text": "Now, getting there,\ntrying to convert--",
+    "start": 1605.137,
+    "duration": 2.753
+  },
+  {
+    "text": "I think the point\nthat Joey is making--",
+    "start": 1607.89,
+    "duration": 1.95
+  },
+  {
+    "text": "he's using the word,\nnative, which brings to mind",
+    "start": 1609.84,
+    "duration": 3.18
+  },
+  {
+    "text": "the idea of digital native.",
+    "start": 1613.02,
+    "duration": 1.5
+  },
+  {
+    "text": "So you think about Airbnb\nversus Marriott, a case",
+    "start": 1614.52,
+    "duration": 2.537
+  },
+  {
+    "text": "that we teach in our classrooms.",
+    "start": 1617.057,
+    "duration": 1.333
+  },
+  {
+    "text": "And they're going after an\nincreasingly similar user base.",
+    "start": 1618.39,
+    "duration": 3.99
+  },
+  {
+    "text": "And they have very different\ncapabilities and very different",
+    "start": 1622.38,
+    "duration": 2.79
+  },
+  {
+    "text": "ways to manage data.",
+    "start": 1625.17,
+    "duration": 1.74
+  },
+  {
+    "text": "We have to think about the\nAllbirds example holistically.",
+    "start": 1626.91,
+    "duration": 3.12
+  },
+  {
+    "text": "It's not just about design.",
+    "start": 1630.03,
+    "duration": 1.99
+  },
+  {
+    "text": "It's also about\nthe go-to market.",
+    "start": 1632.02,
+    "duration": 3.26
+  },
+  {
+    "text": "So the fact that they control\nthe distribution channel",
+    "start": 1635.28,
+    "duration": 2.7
+  },
+  {
+    "text": "means they're not having to\ngive 50% margins to distributors",
+    "start": 1637.98,
+    "duration": 4.56
+  },
+  {
+    "text": "or to retailers.",
+    "start": 1642.54,
+    "duration": 1.14
+  },
+  {
+    "text": "That's one reason, in\nmy opinion, that they're",
+    "start": 1643.68,
+    "duration": 2.19
+  },
+  {
+    "text": "able to invest more than\ncompetitors in some cases",
+    "start": 1645.87,
+    "duration": 3.51
+  },
+  {
+    "text": "because they can still offer\na comparable price point",
+    "start": 1649.38,
+    "duration": 2.58
+  },
+  {
+    "text": "and still make a reasonable\nmargin because they control",
+    "start": 1651.96,
+    "duration": 2.52
+  },
+  {
+    "text": "the distribution channel.",
+    "start": 1654.48,
+    "duration": 1.08
+  },
+  {
+    "text": "BRIAN KENNY: Yeah.",
+    "start": 1655.56,
+    "duration": 0.75
+  },
+  {
+    "text": "Joey, let me ask you, it's\nbeen publicly announced",
+    "start": 1656.31,
+    "duration": 2.52
+  },
+  {
+    "text": "that you guys are\ngoing for an IPO.",
+    "start": 1658.83,
+    "duration": 1.68
+  },
+  {
+    "text": "Can you talk a little bit about\nwhat that process has been like",
+    "start": 1660.51,
+    "duration": 2.872
+  },
+  {
+    "text": "and where you see it heading?",
+    "start": 1663.382,
+    "duration": 1.208
+  },
+  {
+    "text": "JOEY ZWILLINGER: It's\nbeen a very positive one.",
+    "start": 1664.59,
+    "duration": 1.958
+  },
+  {
+    "text": "So we went public on November\n3, maybe, somewhere around that.",
+    "start": 1666.548,
+    "duration": 3.862
+  },
+  {
+    "text": "And the reaction from\ninvestors was incredible.",
+    "start": 1670.41,
+    "duration": 3.28
+  },
+  {
+    "text": "I think they understood the\nsystems approach that Mike just",
+    "start": 1673.69,
+    "duration": 2.81
+  },
+  {
+    "text": "outlined.",
+    "start": 1676.5,
+    "duration": 0.63
+  },
+  {
+    "text": "We went so far as to create\na sustainability framework",
+    "start": 1677.13,
+    "duration": 4.32
+  },
+  {
+    "text": "that we injected into the IPO.",
+    "start": 1681.45,
+    "duration": 1.68
+  },
+  {
+    "text": "And doing things in a better\nway when we look to the capital",
+    "start": 1683.13,
+    "duration": 2.55
+  },
+  {
+    "text": "markets, we saw a void\nin capital markets",
+    "start": 1685.68,
+    "duration": 2.64
+  },
+  {
+    "text": "for a positive ESG,\nEnvironmental Social",
+    "start": 1688.32,
+    "duration": 2.97
+  },
+  {
+    "text": "Governance, in terms\nof the structure",
+    "start": 1691.29,
+    "duration": 2.013
+  },
+  {
+    "text": "that companies were running.",
+    "start": 1693.303,
+    "duration": 1.167
+  },
+  {
+    "text": "So we wanted to\ninstitutionalize our approach",
+    "start": 1694.47,
+    "duration": 3.3
+  },
+  {
+    "text": "to stakeholder growth.",
+    "start": 1697.77,
+    "duration": 1.53
+  },
+  {
+    "text": "And stakeholder\ngrowth for us was",
+    "start": 1699.3,
+    "duration": 2.13
+  },
+  {
+    "text": "attenuating the needs\nof varying stakeholders,",
+    "start": 1701.43,
+    "duration": 2.32
+  },
+  {
+    "text": "not just shareholders.",
+    "start": 1703.75,
+    "duration": 1.13
+  },
+  {
+    "text": "And the way we're doing this\nis through this SPO framework",
+    "start": 1704.88,
+    "duration": 2.67
+  },
+  {
+    "text": "that we put forward.",
+    "start": 1707.55,
+    "duration": 1.08
+  },
+  {
+    "text": "And it outlined a really\nhigh watermark, such",
+    "start": 1708.63,
+    "duration": 2.46
+  },
+  {
+    "text": "that if other companies\nreplicated what we were doing,",
+    "start": 1711.09,
+    "duration": 2.65
+  },
+  {
+    "text": "we knew that they\nwere authentically",
+    "start": 1713.74,
+    "duration": 1.76
+  },
+  {
+    "text": "sustainable and durable\nfor the long term.",
+    "start": 1715.5,
+    "duration": 2.57
+  },
+  {
+    "text": "When you look at\nthe rating agencies",
+    "start": 1718.07,
+    "duration": 1.66
+  },
+  {
+    "text": "that people rely\non today, there's",
+    "start": 1719.73,
+    "duration": 2.46
+  },
+  {
+    "text": "half of the S&P 500\nreach, a top rating there.",
+    "start": 1722.19,
+    "duration": 2.752
+  },
+  {
+    "text": "So there's clearly\nsomething wrong with the way",
+    "start": 1724.942,
+    "duration": 1.958
+  },
+  {
+    "text": "things are being\ndone today, so we",
+    "start": 1726.9,
+    "duration": 1.59
+  },
+  {
+    "text": "wanted to fix that and\nhelp play a role in that.",
+    "start": 1728.49,
+    "duration": 2.47
+  },
+  {
+    "text": "And the reaction from\ninvestors was incredible.",
+    "start": 1730.96,
+    "duration": 2.12
+  },
+  {
+    "text": "And I think we\nactually got to meet",
+    "start": 1733.08,
+    "duration": 1.53
+  },
+  {
+    "text": "a lot more pockets of capital\nfrom large institutions that",
+    "start": 1734.61,
+    "duration": 3.24
+  },
+  {
+    "text": "historically hadn't\nplayed in the IPO market",
+    "start": 1737.85,
+    "duration": 1.92
+  },
+  {
+    "text": "because they're\ninterested in ESG.",
+    "start": 1739.77,
+    "duration": 1.81
+  },
+  {
+    "text": "So there's this really\ninteresting impact",
+    "start": 1741.58,
+    "duration": 2.06
+  },
+  {
+    "text": "that we're seeing.",
+    "start": 1743.64,
+    "duration": 0.75
+  },
+  {
+    "text": "And I don't know how it\nwill play out over time.",
+    "start": 1744.39,
+    "duration": 2.31
+  },
+  {
+    "text": "But it seems like\nthe growth in capital",
+    "start": 1746.7,
+    "duration": 2.28
+  },
+  {
+    "text": "up to $30 or $40\ntrillion focused on ESG",
+    "start": 1748.98,
+    "duration": 3.18
+  },
+  {
+    "text": "has been a massive rise\nover the past five years.",
+    "start": 1752.16,
+    "duration": 2.52
+  },
+  {
+    "text": "And that's looking\nfor a home that's",
+    "start": 1754.68,
+    "duration": 1.95
+  },
+  {
+    "text": "authentically\nsustainable and durable",
+    "start": 1756.63,
+    "duration": 1.673
+  },
+  {
+    "text": "and has the growth\ncharacteristics",
+    "start": 1758.303,
+    "duration": 1.417
+  },
+  {
+    "text": "that Allbirds has.",
+    "start": 1759.72,
+    "duration": 0.917
+  },
+  {
+    "text": "And now we're off to the\nraces as a public company",
+    "start": 1760.637,
+    "duration": 2.083
+  },
+  {
+    "text": "and hoping to prove\nthat just like our shoes",
+    "start": 1762.72,
+    "duration": 2.52
+  },
+  {
+    "text": "can be better because\nthey're sustainable,",
+    "start": 1765.24,
+    "duration": 2.22
+  },
+  {
+    "text": "a company can also\nperform better and put out",
+    "start": 1767.46,
+    "duration": 2.04
+  },
+  {
+    "text": "better financials because\nit's also sustainable.",
+    "start": 1769.5,
+    "duration": 2.043
+  },
+  {
+    "text": "BRIAN KENNY: That's awesome.",
+    "start": 1771.543,
+    "duration": 1.167
+  },
+  {
+    "text": "Mike, does this signal\na sea change in the way",
+    "start": 1772.71,
+    "duration": 2.22
+  },
+  {
+    "text": "investors are thinking\nabout sustainability and ESG",
+    "start": 1774.93,
+    "duration": 3.21
+  },
+  {
+    "text": "and where they invest?",
+    "start": 1778.14,
+    "duration": 1.14
+  },
+  {
+    "text": "MIKE TOFFEL: There's an awful\nlot of money in ESG right now.",
+    "start": 1779.28,
+    "duration": 3.87
+  },
+  {
+    "text": "And as Joey was\nimplying, there's",
+    "start": 1783.15,
+    "duration": 2.01
+  },
+  {
+    "text": "a lot of rating\nagencies out there",
+    "start": 1785.16,
+    "duration": 1.53
+  },
+  {
+    "text": "trying to figure out, well,\nwho has superior ESG compared",
+    "start": 1786.69,
+    "duration": 3.24
+  },
+  {
+    "text": "to others?",
+    "start": 1789.93,
+    "duration": 0.88
+  },
+  {
+    "text": "Do you pay a penalty\nfor that, or do you",
+    "start": 1790.81,
+    "duration": 1.94
+  },
+  {
+    "text": "actually get a premium if\nyou can figure that out well?",
+    "start": 1792.75,
+    "duration": 2.37
+  },
+  {
+    "text": "It's not nascent.",
+    "start": 1795.12,
+    "duration": 0.99
+  },
+  {
+    "text": "It's been around for a while.",
+    "start": 1796.11,
+    "duration": 1.35
+  },
+  {
+    "text": "But it's still turbulent.",
+    "start": 1797.46,
+    "duration": 1.125
+  },
+  {
+    "text": "But there's lots\nof different ways",
+    "start": 1798.585,
+    "duration": 1.417
+  },
+  {
+    "text": "to think about this, lots\nof different strategies,",
+    "start": 1800.002,
+    "duration": 2.258
+  },
+  {
+    "text": "but an awful lot of\ngrowing sums of money that",
+    "start": 1802.26,
+    "duration": 4.35
+  },
+  {
+    "text": "are seeking ESG investments.",
+    "start": 1806.61,
+    "duration": 2.56
+  },
+  {
+    "text": "And so when you find\ncompanies that actually",
+    "start": 1809.17,
+    "duration": 2.21
+  },
+  {
+    "text": "are trying to hit\nall the numbers here",
+    "start": 1811.38,
+    "duration": 2.88
+  },
+  {
+    "text": "with both a sustainable\nproduct that",
+    "start": 1814.26,
+    "duration": 2.1
+  },
+  {
+    "text": "is very attractive\nto customers and has",
+    "start": 1816.36,
+    "duration": 2.58
+  },
+  {
+    "text": "a potential huge upside, that's,\nI think, a really attractive",
+    "start": 1818.94,
+    "duration": 3.9
+  },
+  {
+    "text": "investment.",
+    "start": 1822.84,
+    "duration": 0.64
+  },
+  {
+    "text": "And I that's where Joey\nwas finding so many pockets",
+    "start": 1823.48,
+    "duration": 2.6
+  },
+  {
+    "text": "of capital, as he described.",
+    "start": 1826.08,
+    "duration": 1.47
+  },
+  {
+    "text": "BRIAN KENNY: Gentlemen, this\nhas been a great conversation.",
+    "start": 1827.55,
+    "duration": 2.01
+  },
+  {
+    "text": "Mike Toffel, thanks\nfor writing the case.",
+    "start": 1829.56,
+    "duration": 1.56
+  },
+  {
+    "text": "Joey Zwillinger,\nthank you for being",
+    "start": 1831.12,
+    "duration": 1.5
+  },
+  {
+    "text": "here to discuss it with us.",
+    "start": 1832.62,
+    "duration": 1.42
+  },
+  {
+    "text": "I am going to head right\nover to Harvard Square",
+    "start": 1834.04,
+    "duration": 2.03
+  },
+  {
+    "text": "and find the Allbirds\nstore and check it out.",
+    "start": 1836.07,
+    "duration": 2.4
+  },
+  {
+    "text": "It's been great\ntalking with you both.",
+    "start": 1838.47,
+    "duration": 1.63
+  },
+  {
+    "text": "MIKE TOFFEL: Thanks so much.",
+    "start": 1840.1,
+    "duration": 0.8
+  },
+  {
+    "text": "JOEY ZWILLINGER: Really\nenjoyed being on the show.",
+    "start": 1840.9,
+    "duration": 2.16
+  },
+  {
+    "text": "BRIAN KENNY: We're\nexcited to be celebrating",
+    "start": 1843.06,
+    "duration": 1.833
+  },
+  {
+    "text": "the 100-year anniversary\nof the case method",
+    "start": 1844.893,
+    "duration": 2.187
+  },
+  {
+    "text": "at Harvard Business School.",
+    "start": 1847.08,
+    "duration": 1.38
+  },
+  {
+    "text": "It's a year-long\ncelebration alongside",
+    "start": 1848.46,
+    "duration": 2.31
+  },
+  {
+    "text": "our new academic year.",
+    "start": 1850.77,
+    "duration": 1.35
+  },
+  {
+    "text": "If you want more on the\nhistory of the case method,",
+    "start": 1852.12,
+    "duration": 2.34
+  },
+  {
+    "text": "visit our website,\nhbs.edu/casemethod100.",
+    "start": 1854.46,
+    "duration": 5.31
+  },
+  {
+    "text": "Cold Call is a great way to\nget a taste of the case method.",
+    "start": 1859.77,
+    "duration": 3.0
+  },
+  {
+    "text": "After all, each episode features\na business case and its faculty",
+    "start": 1862.77,
+    "duration": 3.36
+  },
+  {
+    "text": "author.",
+    "start": 1866.13,
+    "duration": 0.6
+  },
+  {
+    "text": "You might also like\nour other podcasts,",
+    "start": 1866.73,
+    "duration": 2.22
+  },
+  {
+    "text": "After Hours, Climate\nRising, Skydeck,",
+    "start": 1868.95,
+    "duration": 2.82
+  },
+  {
+    "text": "and Managing the Future of Work.",
+    "start": 1871.77,
+    "duration": 1.77
+  },
+  {
+    "text": "Find them on Apple Podcasts\nor wherever you listen.",
+    "start": 1873.54,
+    "duration": 3.0
+  },
+  {
+    "text": "If you enjoy Cold Call or\nif you have any suggestions,",
+    "start": 1876.54,
+    "duration": 2.61
+  },
+  {
+    "text": "we want to hear from you.",
+    "start": 1879.15,
+    "duration": 1.05
+  },
+  {
+    "text": "Write a review on Apple\nPodcasts or wherever you listen.",
+    "start": 1880.2,
+    "duration": 3.03
+  },
+  {
+    "text": "Or email us at coldcall@hbs.edu.",
+    "start": 1883.23,
+    "duration": 4.35
+  },
+  {
+    "text": "Thanks again for joining us.",
+    "start": 1887.58,
+    "duration": 1.71
+  },
+  {
+    "text": "I'm your host, Brian Kenny.",
+    "start": 1889.29,
+    "duration": 1.32
+  },
+  {
+    "text": "And you've been listening to\nCold Call, an official podcast",
+    "start": 1890.61,
+    "duration": 3.27
+  },
+  {
+    "text": "of Harvard Business School\nbrought to you by the HBR",
+    "start": 1893.88,
+    "duration": 2.64
+  },
+  {
+    "text": "Presents Network.",
+    "start": 1896.52,
+    "duration": 0.78
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1897.3,
+    "duration": 3.35
+  }
+]

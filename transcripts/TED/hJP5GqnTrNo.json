@@ -1,0 +1,1722 @@
+[
+  {
+    "text": "So anyone who's been paying attention\nfor the last few months",
+    "start": 4.543,
+    "duration": 3.878
+  },
+  {
+    "text": "has been seeing headlines like this,",
+    "start": 8.463,
+    "duration": 2.086
+  },
+  {
+    "text": "especially in education.",
+    "start": 10.59,
+    "duration": 2.086
+  },
+  {
+    "text": "The thesis has been:",
+    "start": 12.717,
+    "duration": 1.919
+  },
+  {
+    "text": "students are going to be using ChatGPT\nand other forms of AI",
+    "start": 14.678,
+    "duration": 3.795
+  },
+  {
+    "text": "to cheat, do their assignments.",
+    "start": 18.515,
+    "duration": 1.501
+  },
+  {
+    "text": "They’re not going to learn.",
+    "start": 20.016,
+    "duration": 1.335
+  },
+  {
+    "text": "And it’s going to completely undermine\neducation as we know it.",
+    "start": 21.393,
+    "duration": 3.545
+  },
+  {
+    "text": "Now, what I'm going to argue today",
+    "start": 25.438,
+    "duration": 1.627
+  },
+  {
+    "text": "is not only are there ways\nto mitigate all of that,",
+    "start": 27.107,
+    "duration": 2.711
+  },
+  {
+    "text": "if we put the right guardrails,\nwe do the right things,",
+    "start": 29.859,
+    "duration": 2.586
+  },
+  {
+    "text": "we can mitigate it.",
+    "start": 32.487,
+    "duration": 1.126
+  },
+  {
+    "text": "But I think we're at the cusp of using AI",
+    "start": 33.655,
+    "duration": 2.336
+  },
+  {
+    "text": "for probably the biggest\npositive transformation",
+    "start": 35.991,
+    "duration": 4.045
+  },
+  {
+    "text": "that education has ever seen.",
+    "start": 40.036,
+    "duration": 2.461
+  },
+  {
+    "text": "And the way we're going to do that",
+    "start": 42.831,
+    "duration": 1.793
+  },
+  {
+    "text": "is by giving every student on the planet",
+    "start": 44.624,
+    "duration": 2.878
+  },
+  {
+    "text": "an artificially intelligent\nbut amazing personal tutor.",
+    "start": 47.544,
+    "duration": 3.628
+  },
+  {
+    "text": "And we're going to give every teacher\non the planet an amazing,",
+    "start": 51.172,
+    "duration": 3.587
+  },
+  {
+    "text": "artificially intelligent\nteaching assistant.",
+    "start": 54.801,
+    "duration": 2.586
+  },
+  {
+    "text": "And just to appreciate\nhow big of a deal it would be",
+    "start": 57.762,
+    "duration": 3.587
+  },
+  {
+    "text": "to give everyone a personal tutor,",
+    "start": 61.349,
+    "duration": 2.67
+  },
+  {
+    "text": "I show you this clip",
+    "start": 64.06,
+    "duration": 3.003
+  },
+  {
+    "text": "from Benjamin Bloom’s 1984\n2 sigma study,",
+    "start": 67.105,
+    "duration": 3.003
+  },
+  {
+    "text": "or he called it the “2 sigma problem.”",
+    "start": 70.15,
+    "duration": 2.377
+  },
+  {
+    "text": "The 2 sigma comes\nfrom two standard deviation,",
+    "start": 72.569,
+    "duration": 2.21
+  },
+  {
+    "text": "sigma, the symbol for standard deviation.",
+    "start": 74.779,
+    "duration": 2.044
+  },
+  {
+    "text": "And he had good data that showed\nthat look, a normal distribution,",
+    "start": 76.823,
+    "duration": 3.587
+  },
+  {
+    "text": "that's the one that you see\nin the traditional bell curve",
+    "start": 80.452,
+    "duration": 2.711
+  },
+  {
+    "text": "right in the middle, that's how the world\nkind of sorts itself out,",
+    "start": 83.163,
+    "duration": 3.17
+  },
+  {
+    "text": "that if you were to give personal\n1-to-1 to tutoring for students,",
+    "start": 86.333,
+    "duration": 4.713
+  },
+  {
+    "text": "then you could actually get a distribution\nthat looks like that right.",
+    "start": 91.046,
+    "duration": 3.295
+  },
+  {
+    "text": "It says tutorial 1-to-1\nwith the asterisks,",
+    "start": 94.382,
+    "duration": 2.002
+  },
+  {
+    "text": "like, that right distribution,",
+    "start": 96.426,
+    "duration": 1.46
+  },
+  {
+    "text": "a two standard-deviation improvement.",
+    "start": 97.886,
+    "duration": 1.793
+  },
+  {
+    "text": "Just to put that in plain language,",
+    "start": 99.679,
+    "duration": 1.71
+  },
+  {
+    "text": "that could take your average student\nand turn them into an exceptional student.",
+    "start": 101.389,
+    "duration": 3.754
+  },
+  {
+    "text": "It can take your below-average student",
+    "start": 105.185,
+    "duration": 2.335
+  },
+  {
+    "text": "and turn them into\nan above-average student.",
+    "start": 107.52,
+    "duration": 2.795
+  },
+  {
+    "text": "Now the reason why he framed it\nas a problem, was he said,",
+    "start": 110.774,
+    "duration": 3.753
+  },
+  {
+    "text": "well, this is all good,",
+    "start": 114.569,
+    "duration": 1.335
+  },
+  {
+    "text": "but how do you actually scale\ngroup instruction this way?",
+    "start": 115.945,
+    "duration": 2.712
+  },
+  {
+    "text": "How do you actually give it\nto everyone in an economic way?",
+    "start": 118.657,
+    "duration": 3.169
+  },
+  {
+    "text": "What I'm about to show you is I think\nthe first moves towards doing that.",
+    "start": 122.369,
+    "duration": 3.67
+  },
+  {
+    "text": "Obviously, we've been trying\nto approximate it in some way",
+    "start": 126.081,
+    "duration": 2.752
+  },
+  {
+    "text": "at Khan Academy for over a decade now,",
+    "start": 128.833,
+    "duration": 2.044
+  },
+  {
+    "text": "but I think we're at the cusp\nof accelerating it dramatically.",
+    "start": 130.919,
+    "duration": 3.17
+  },
+  {
+    "text": "I'm going to show you\nthe early stages of what our AI,",
+    "start": 134.089,
+    "duration": 3.169
+  },
+  {
+    "text": "which we call Khanmigo,",
+    "start": 137.3,
+    "duration": 2.836
+  },
+  {
+    "text": "what it can now do",
+    "start": 140.178,
+    "duration": 1.835
+  },
+  {
+    "text": "and maybe a little bit\nof where it is actually going.",
+    "start": 142.055,
+    "duration": 2.836
+  },
+  {
+    "text": "So this right over here\nis a traditional exercise",
+    "start": 145.85,
+    "duration": 2.419
+  },
+  {
+    "text": "that you or many of your children\nmight have seen on Khan Academy.",
+    "start": 148.311,
+    "duration": 3.128
+  },
+  {
+    "text": "But what's new is that little\nbot thing at the right.",
+    "start": 151.481,
+    "duration": 4.129
+  },
+  {
+    "text": "And we'll start by seeing one\nof the very important safeguards,",
+    "start": 155.652,
+    "duration": 3.879
+  },
+  {
+    "text": "which is the conversation is recorded\nand viewable by your teacher.",
+    "start": 159.572,
+    "duration": 3.17
+  },
+  {
+    "text": "It’s moderated actually by a second AI.",
+    "start": 162.742,
+    "duration": 2.336
+  },
+  {
+    "text": "And also it does not tell you the answer.",
+    "start": 165.078,
+    "duration": 1.96
+  },
+  {
+    "text": "It is not a cheating tool.",
+    "start": 167.08,
+    "duration": 1.251
+  },
+  {
+    "text": "When the student says,\n\"Tell me the answer,\"",
+    "start": 168.331,
+    "duration": 2.086
+  },
+  {
+    "text": "it says, \"I'm your tutor.",
+    "start": 170.458,
+    "duration": 1.21
+  },
+  {
+    "text": "What do you think is the next step\nfor solving the problem?\"",
+    "start": 171.71,
+    "duration": 2.836
+  },
+  {
+    "text": "Now, if the student makes a mistake,\nand this will surprise people",
+    "start": 174.546,
+    "duration": 3.211
+  },
+  {
+    "text": "who think large language models\nare not good at mathematics,",
+    "start": 177.799,
+    "duration": 2.836
+  },
+  {
+    "text": "notice, not only does it\nnotice the mistake,",
+    "start": 180.677,
+    "duration": 2.085
+  },
+  {
+    "text": "it asks the student to explain\ntheir reasoning,",
+    "start": 182.762,
+    "duration": 2.503
+  },
+  {
+    "text": "but it's actually doing what I would say,",
+    "start": 185.306,
+    "duration": 1.961
+  },
+  {
+    "text": "not just even an average tutor would do,\nbut an excellent tutor would do.",
+    "start": 187.267,
+    "duration": 3.503
+  },
+  {
+    "text": "It’s able to divine what is probably\nthe misconception in that student’s mind,",
+    "start": 190.812,
+    "duration": 5.255
+  },
+  {
+    "text": "that they probably didn’t use\nthe distributive property.",
+    "start": 196.109,
+    "duration": 2.628
+  },
+  {
+    "text": "Remember, we need to distribute\nthe negative two",
+    "start": 198.737,
+    "duration": 2.293
+  },
+  {
+    "text": "to both the nine and the 2m\ninside of the parentheses.",
+    "start": 201.072,
+    "duration": 3.42
+  },
+  {
+    "text": "This to me is a very, very, very big deal.",
+    "start": 204.534,
+    "duration": 2.211
+  },
+  {
+    "text": "And it's not just in math.",
+    "start": 206.786,
+    "duration": 1.71
+  },
+  {
+    "text": "This is a computer programming\nexercise on Khan Academy,",
+    "start": 209.205,
+    "duration": 3.462
+  },
+  {
+    "text": "where the student needs\nto make the clouds part.",
+    "start": 212.667,
+    "duration": 2.836
+  },
+  {
+    "text": "And so we can see the student starts\ndefining a variable, left X minus minus.",
+    "start": 216.045,
+    "duration": 4.797
+  },
+  {
+    "text": "It only made the left cloud part.",
+    "start": 220.884,
+    "duration": 1.585
+  },
+  {
+    "text": "But then they can ask Khanmigo,\nwhat’s going on?",
+    "start": 222.51,
+    "duration": 2.253
+  },
+  {
+    "text": "Why is only the left cloud moving?",
+    "start": 224.763,
+    "duration": 1.96
+  },
+  {
+    "text": "And it understands the code.",
+    "start": 226.765,
+    "duration": 1.543
+  },
+  {
+    "text": "It knows all the context\nof what the student is doing,",
+    "start": 228.349,
+    "duration": 2.837
+  },
+  {
+    "text": "and it understands that those ellipses\nare there to draw clouds,",
+    "start": 231.186,
+    "duration": 3.503
+  },
+  {
+    "text": "which I think is kind of mind-blowing.",
+    "start": 234.689,
+    "duration": 2.336
+  },
+  {
+    "text": "And it says, \"To make the right\ncloud move as well,",
+    "start": 237.025,
+    "duration": 2.419
+  },
+  {
+    "text": "try adding a line of code\ninside the draw function",
+    "start": 239.444,
+    "duration": 2.419
+  },
+  {
+    "text": "that increments the right X variable\nby one pixel in each frame.\"",
+    "start": 241.863,
+    "duration": 3.545
+  },
+  {
+    "text": "Now, this one is maybe even more amazing\nbecause we have a lot of math teachers.",
+    "start": 245.909,
+    "duration": 4.296
+  },
+  {
+    "text": "We've all been trying to teach\nthe world to code,",
+    "start": 250.205,
+    "duration": 2.294
+  },
+  {
+    "text": "but there aren't a lot of computing\nteachers out there.",
+    "start": 252.54,
+    "duration": 2.67
+  },
+  {
+    "text": "And what you just saw,\neven when I'm tutoring my kids,",
+    "start": 255.251,
+    "duration": 2.586
+  },
+  {
+    "text": "when they're learning to code,",
+    "start": 257.837,
+    "duration": 1.46
+  },
+  {
+    "text": "I can't help them this well, this fast,",
+    "start": 259.297,
+    "duration": 2.211
+  },
+  {
+    "text": "this is really going to be a super tutor.",
+    "start": 261.549,
+    "duration": 2.294
+  },
+  {
+    "text": "And it's not just exercises.",
+    "start": 265.22,
+    "duration": 1.543
+  },
+  {
+    "text": "It understands what you're watching.",
+    "start": 266.805,
+    "duration": 1.751
+  },
+  {
+    "text": "It understands the context of your video.",
+    "start": 268.556,
+    "duration": 2.044
+  },
+  {
+    "text": "It can answer the age-old question,\n“Why do I need to learn this?”",
+    "start": 270.6,
+    "duration": 3.128
+  },
+  {
+    "text": "And it asks Socratically,\n\"Well, what do you care about?\"",
+    "start": 273.728,
+    "duration": 2.753
+  },
+  {
+    "text": "And let's say the student says,\n\"I want to be a professional athlete.\"",
+    "start": 276.523,
+    "duration": 4.129
+  },
+  {
+    "text": "And it says, \"Well, learning\nabout the size of cells,",
+    "start": 280.693,
+    "duration": 2.711
+  },
+  {
+    "text": "which is what this video is,",
+    "start": 283.446,
+    "duration": 1.377
+  },
+  {
+    "text": "that could be really useful\nfor understanding nutrition",
+    "start": 284.823,
+    "duration": 2.877
+  },
+  {
+    "text": "and how your body works, etc.\"",
+    "start": 287.742,
+    "duration": 1.752
+  },
+  {
+    "text": "It can answer questions, it can quiz you,",
+    "start": 289.494,
+    "duration": 2.044
+  },
+  {
+    "text": "it can connect it to other ideas,",
+    "start": 291.579,
+    "duration": 1.585
+  },
+  {
+    "text": "you can now ask\nas many questions of a video",
+    "start": 293.164,
+    "duration": 2.378
+  },
+  {
+    "text": "as you could ever dream of.",
+    "start": 295.583,
+    "duration": 1.669
+  },
+  {
+    "text": "(Applause)",
+    "start": 297.252,
+    "duration": 3.92
+  },
+  {
+    "text": "Another big shortage out there,",
+    "start": 301.214,
+    "duration": 1.752
+  },
+  {
+    "text": "I remember the high school I went to,",
+    "start": 303.007,
+    "duration": 1.794
+  },
+  {
+    "text": "the student-to-guidance counselor ratio\nwas about 200 or 300 to one.",
+    "start": 304.801,
+    "duration": 5.172
+  },
+  {
+    "text": "A lot of the country,\nit's worse than that.",
+    "start": 310.014,
+    "duration": 2.336
+  },
+  {
+    "text": "We can use Khanmigo to give\nevery student a guidance counselor,",
+    "start": 312.35,
+    "duration": 3.712
+  },
+  {
+    "text": "academic coach, career coach, life coach,",
+    "start": 316.104,
+    "duration": 3.462
+  },
+  {
+    "text": "which is exactly\nwhat you see right over here.",
+    "start": 319.566,
+    "duration": 2.46
+  },
+  {
+    "text": "And we launched this\nwith the GPT-4 launch.",
+    "start": 322.068,
+    "duration": 3.086
+  },
+  {
+    "text": "We have a few thousand people on this.",
+    "start": 325.196,
+    "duration": 1.835
+  },
+  {
+    "text": "This isn't a fake demo,",
+    "start": 327.031,
+    "duration": 1.168
+  },
+  {
+    "text": "this is really it in action.",
+    "start": 328.241,
+    "duration": 2.919
+  },
+  {
+    "text": "And then there is, you know,",
+    "start": 332.203,
+    "duration": 2.211
+  },
+  {
+    "text": "things that I think it would\nhave been even harder,",
+    "start": 334.455,
+    "duration": 2.42
+  },
+  {
+    "text": "it would have been a little\nscience fiction to do",
+    "start": 336.875,
+    "duration": 2.335
+  },
+  {
+    "text": "with even a traditional tutor.",
+    "start": 339.21,
+    "duration": 1.46
+  },
+  {
+    "text": "We run an online high school\nwith Arizona State University",
+    "start": 340.67,
+    "duration": 2.836
+  },
+  {
+    "text": "called Khan World School,",
+    "start": 343.548,
+    "duration": 1.501
+  },
+  {
+    "text": "and we have a student who attends\nthat online school, based in India.",
+    "start": 345.049,
+    "duration": 3.546
+  },
+  {
+    "text": "Her name's Saanvi.",
+    "start": 348.595,
+    "duration": 1.626
+  },
+  {
+    "text": "And she was doing a report\non \"The Great Gatsby.\"",
+    "start": 350.221,
+    "duration": 3.379
+  },
+  {
+    "text": "And when she was reading\n\"The Great Gatsby,\"",
+    "start": 353.641,
+    "duration": 2.086
+  },
+  {
+    "text": "Jay Gatsby keeps looking\nat the green light off into the distance.",
+    "start": 355.727,
+    "duration": 3.211
+  },
+  {
+    "text": "And she's like, \"Why does he do that?\"",
+    "start": 358.98,
+    "duration": 1.835
+  },
+  {
+    "text": "She did some web searches,\nand people have obviously studied this",
+    "start": 360.815,
+    "duration": 3.087
+  },
+  {
+    "text": "and commented about the symbolism of that,",
+    "start": 363.902,
+    "duration": 2.002
+  },
+  {
+    "text": "but none of it was really\nresonating with her.",
+    "start": 365.904,
+    "duration": 2.168
+  },
+  {
+    "text": "And then she realized\nthat she had Khanmigo",
+    "start": 368.072,
+    "duration": 2.419
+  },
+  {
+    "text": "and that she could talk\nto Jay Gatsby himself.",
+    "start": 370.533,
+    "duration": 3.045
+  },
+  {
+    "text": "And so, \"Ah, splendid choice, old sport.",
+    "start": 373.62,
+    "duration": 2.377
+  },
+  {
+    "text": "I am now Jay Gatsby,\nthe enigmatic millionaire",
+    "start": 375.997,
+    "duration": 2.21
+  },
+  {
+    "text": "from F. Scott Fitzgerald’s classic.”",
+    "start": 378.249,
+    "duration": 2.294
+  },
+  {
+    "text": "And so, \"Why do you keep staring\nat the green light?\"",
+    "start": 380.585,
+    "duration": 2.502
+  },
+  {
+    "text": "\"Ah, the green light, old sport.",
+    "start": 383.087,
+    "duration": 1.836
+  },
+  {
+    "text": "It's a symbol of my dreams\nand desires, you see.",
+    "start": 384.964,
+    "duration": 2.795
+  },
+  {
+    "text": "It's situated at the end\nof Daisy Buchanan's dock",
+    "start": 387.8,
+    "duration": 2.336
+  },
+  {
+    "text": "across the bay from my mansion.",
+    "start": 390.178,
+    "duration": 1.96
+  },
+  {
+    "text": "I gaze at it longingly\nas it represents my yearning for the past",
+    "start": 392.138,
+    "duration": 3.212
+  },
+  {
+    "text": "and my hope to reunite with Daisy,\nthe love of my life.\"",
+    "start": 395.391,
+    "duration": 3.712
+  },
+  {
+    "text": "And what was cool is, Saanvi then said,\n“I had this long conversation,”",
+    "start": 399.604,
+    "duration": 3.545
+  },
+  {
+    "text": "she called him “Mr. Gatsby,”",
+    "start": 403.149,
+    "duration": 2.252
+  },
+  {
+    "text": "and at the end she actually apologized\nfor taking his time,",
+    "start": 405.443,
+    "duration": 3.17
+  },
+  {
+    "text": "which I thought was very polite of her.",
+    "start": 408.613,
+    "duration": 2.586
+  },
+  {
+    "text": "But you can imagine this unlocks\nlearning literature, learning ...",
+    "start": 411.741,
+    "duration": 4.546
+  },
+  {
+    "text": "You could talk to historical figures.",
+    "start": 416.663,
+    "duration": 1.793
+  },
+  {
+    "text": "We're even probably\ngoing to add an activity",
+    "start": 418.456,
+    "duration": 2.085
+  },
+  {
+    "text": "you can talk to like,\nthe Mississippi River.",
+    "start": 420.541,
+    "duration": 2.086
+  },
+  {
+    "text": "It brings things to life in ways\nthat really were science fiction",
+    "start": 422.627,
+    "duration": 3.545
+  },
+  {
+    "text": "even six months or a year ago.",
+    "start": 426.214,
+    "duration": 2.461
+  },
+  {
+    "text": "Students can get into debates with the AI.",
+    "start": 430.134,
+    "duration": 2.336
+  },
+  {
+    "text": "And we’ve got this here\nis the student debating",
+    "start": 432.512,
+    "duration": 2.21
+  },
+  {
+    "text": "whether we should cancel student debt.",
+    "start": 434.722,
+    "duration": 1.835
+  },
+  {
+    "text": "The student is against\ncanceling student debt,",
+    "start": 436.557,
+    "duration": 2.169
+  },
+  {
+    "text": "and we've gotten very clear feedback.",
+    "start": 438.726,
+    "duration": 1.794
+  },
+  {
+    "text": "We started running it at Khan World School\nin our lab school that we have,",
+    "start": 440.52,
+    "duration": 3.503
+  },
+  {
+    "text": "Khan Lab School.",
+    "start": 444.023,
+    "duration": 1.168
+  },
+  {
+    "text": "The students, the high school\nstudents especially,",
+    "start": 445.233,
+    "duration": 2.377
+  },
+  {
+    "text": "they're saying \"This is amazing to be able\nto fine-tune my arguments",
+    "start": 447.652,
+    "duration": 3.211
+  },
+  {
+    "text": "without fearing judgment.",
+    "start": 450.905,
+    "duration": 1.21
+  },
+  {
+    "text": "It makes me that much more confident",
+    "start": 452.156,
+    "duration": 1.752
+  },
+  {
+    "text": "to go into the classroom\nand really participate.\"",
+    "start": 453.908,
+    "duration": 2.377
+  },
+  {
+    "text": "And we all know that Socratic dialogue\ndebate is a great way to learn,",
+    "start": 456.285,
+    "duration": 3.295
+  },
+  {
+    "text": "but frankly, it's not out there\nfor most students.",
+    "start": 459.622,
+    "duration": 2.836
+  },
+  {
+    "text": "But now it can be accessible\nto hopefully everyone.",
+    "start": 462.5,
+    "duration": 3.587
+  },
+  {
+    "text": "A lot of the narrative,\nwe saw that in the headlines, has been,",
+    "start": 468.047,
+    "duration": 3.629
+  },
+  {
+    "text": "\"It's going to do the writing for kids.",
+    "start": 471.718,
+    "duration": 1.876
+  },
+  {
+    "text": "Kids are not going to learn to write.\"",
+    "start": 473.594,
+    "duration": 1.877
+  },
+  {
+    "text": "But we are showing that there's ways\nthat the AI doesn't write for you,",
+    "start": 475.471,
+    "duration": 3.379
+  },
+  {
+    "text": "it writes with you.",
+    "start": 478.85,
+    "duration": 1.168
+  },
+  {
+    "text": "So this is a little thing,",
+    "start": 480.059,
+    "duration": 1.335
+  },
+  {
+    "text": "and my eight year old is addicted to this,",
+    "start": 481.436,
+    "duration": 2.043
+  },
+  {
+    "text": "and he's not a kid\nthat really liked writing before,",
+    "start": 483.521,
+    "duration": 2.461
+  },
+  {
+    "text": "but you can say,",
+    "start": 485.982,
+    "duration": 1.376
+  },
+  {
+    "text": "“I want to write a horror story,”",
+    "start": 487.358,
+    "duration": 1.585
+  },
+  {
+    "text": "and it says, \"Ooh, a horror story,\nhow spine-tingling and thrilling.",
+    "start": 488.943,
+    "duration": 3.837
+  },
+  {
+    "text": "Let's dive into the world of eerie shadows\nand chilling mysteries.\"",
+    "start": 492.78,
+    "duration": 3.212
+  },
+  {
+    "text": "And this is an activity where\nthe student will write two sentences,",
+    "start": 495.992,
+    "duration": 3.336
+  },
+  {
+    "text": "and then the AI will write two sentences.",
+    "start": 499.328,
+    "duration": 2.002
+  },
+  {
+    "text": "And so they collaborate\ntogether on a story.",
+    "start": 501.33,
+    "duration": 2.628
+  },
+  {
+    "text": "The student writes,\n\"Beatrice was a misunderstood ghost.",
+    "start": 504.0,
+    "duration": 2.669
+  },
+  {
+    "text": "She wanted to make friends\nbut kept scaring them by accident.\"",
+    "start": 506.711,
+    "duration": 2.919
+  },
+  {
+    "text": "And the AI says, \"Poor Beatrice, a lonely\nspirit yearning for companionship.",
+    "start": 509.672,
+    "duration": 3.587
+  },
+  {
+    "text": "One day she stumbled\nupon an old abandoned mansion,\" etc.",
+    "start": 513.301,
+    "duration": 3.462
+  },
+  {
+    "text": "I encourage you all\nto hopefully one day try this.",
+    "start": 516.763,
+    "duration": 2.419
+  },
+  {
+    "text": "This is surprisingly fun.",
+    "start": 519.182,
+    "duration": 1.877
+  },
+  {
+    "text": "Now to even more directly\nhit this use case.",
+    "start": 522.935,
+    "duration": 2.878
+  },
+  {
+    "text": "And what I'm about to show you,",
+    "start": 525.855,
+    "duration": 1.543
+  },
+  {
+    "text": "everything I showed you so far",
+    "start": 527.44,
+    "duration": 1.46
+  },
+  {
+    "text": "is actually already part of Khanmigo,\nand what I’m about to show you,",
+    "start": 528.9,
+    "duration": 3.253
+  },
+  {
+    "text": "we haven't shown to anyone yet,\nthis is a prototype.",
+    "start": 532.153,
+    "duration": 2.461
+  },
+  {
+    "text": "We hope to be able to launch it\nin the next few months,",
+    "start": 534.614,
+    "duration": 2.586
+  },
+  {
+    "text": "but this is to directly use AI,\nuse generative AI,",
+    "start": 537.2,
+    "duration": 3.42
+  },
+  {
+    "text": "to not undermine English\nand language arts",
+    "start": 540.661,
+    "duration": 2.128
+  },
+  {
+    "text": "but to actually enhance it in ways",
+    "start": 542.83,
+    "duration": 1.627
+  },
+  {
+    "text": "that we couldn't have even\nconceived of even a year ago.",
+    "start": 544.457,
+    "duration": 3.211
+  },
+  {
+    "text": "This is reading comprehension.",
+    "start": 548.002,
+    "duration": 1.46
+  },
+  {
+    "text": "The students reading Steve Jobs's\nfamous speech at Stanford.",
+    "start": 549.504,
+    "duration": 4.17
+  },
+  {
+    "text": "And then as they get to certain points,",
+    "start": 553.716,
+    "duration": 1.96
+  },
+  {
+    "text": "they can click on that little question.",
+    "start": 555.676,
+    "duration": 2.336
+  },
+  {
+    "text": "And the AI will then Socratically,\nalmost like an oral exam,",
+    "start": 558.012,
+    "duration": 4.922
+  },
+  {
+    "text": "ask the student about things.",
+    "start": 562.934,
+    "duration": 1.459
+  },
+  {
+    "text": "And the AI can highlight\nparts of the passage.",
+    "start": 564.393,
+    "duration": 2.545
+  },
+  {
+    "text": "Why did the author use that word?",
+    "start": 566.938,
+    "duration": 1.918
+  },
+  {
+    "text": "What was their intent?",
+    "start": 568.898,
+    "duration": 1.168
+  },
+  {
+    "text": "Does it back up their argument?",
+    "start": 570.066,
+    "duration": 1.71
+  },
+  {
+    "text": "They can start to do stuff\nthat once again,",
+    "start": 571.818,
+    "duration": 2.002
+  },
+  {
+    "text": "we never had the capability\nto give everyone a tutor,",
+    "start": 573.861,
+    "duration": 2.753
+  },
+  {
+    "text": "everyone a writing coach to actually\ndig in to reading at this level.",
+    "start": 576.656,
+    "duration": 4.171
+  },
+  {
+    "text": "And you could go on the other side of it.",
+    "start": 581.41,
+    "duration": 1.961
+  },
+  {
+    "text": "And we have whole work flows\nthat helps them write,",
+    "start": 583.412,
+    "duration": 2.42
+  },
+  {
+    "text": "helps them be a writing coach,\ndraw an outline.",
+    "start": 585.832,
+    "duration": 2.711
+  },
+  {
+    "text": "But once a student actually\nconstructs a draft,",
+    "start": 588.584,
+    "duration": 3.045
+  },
+  {
+    "text": "and this is where\nthey're constructing a draft,",
+    "start": 591.671,
+    "duration": 2.252
+  },
+  {
+    "text": "they can ask for feedback once again,",
+    "start": 593.965,
+    "duration": 2.002
+  },
+  {
+    "text": "as you would expect\nfrom a good writing coach.",
+    "start": 596.008,
+    "duration": 2.211
+  },
+  {
+    "text": "In this case, the student\nwill say, let's say,",
+    "start": 598.845,
+    "duration": 2.377
+  },
+  {
+    "text": "\"Does my evidence support my claim?\"",
+    "start": 601.222,
+    "duration": 2.044
+  },
+  {
+    "text": "And then the AI, not only\nis able to give feedback,",
+    "start": 603.307,
+    "duration": 2.419
+  },
+  {
+    "text": "but it's able to highlight certain parts\nof the passage and says,",
+    "start": 605.768,
+    "duration": 3.087
+  },
+  {
+    "text": "\"On this passage, this doesn't\nquite support your claim,\"",
+    "start": 608.855,
+    "duration": 2.711
+  },
+  {
+    "text": "but once again, Socratically says,\n\"Can you tell us why?\"",
+    "start": 611.607,
+    "duration": 2.711
+  },
+  {
+    "text": "So it's pulling the student,\nmaking them a better writer,",
+    "start": 614.318,
+    "duration": 2.795
+  },
+  {
+    "text": "giving them far more feedback",
+    "start": 617.113,
+    "duration": 1.418
+  },
+  {
+    "text": "than they've ever been able\nto actually get before.",
+    "start": 618.531,
+    "duration": 2.419
+  },
+  {
+    "text": "And we think this is going to dramatically\naccelerate writing, not hurt it.",
+    "start": 620.95,
+    "duration": 3.545
+  },
+  {
+    "text": "Now, everything I've talked\nabout so far is for the student.",
+    "start": 625.413,
+    "duration": 3.712
+  },
+  {
+    "text": "But we think this could be equally\nas powerful for the teacher",
+    "start": 629.125,
+    "duration": 2.919
+  },
+  {
+    "text": "to drive more personalized\neducation and frankly",
+    "start": 632.044,
+    "duration": 2.336
+  },
+  {
+    "text": "save time and energy for themselves\nand for their students.",
+    "start": 634.38,
+    "duration": 3.253
+  },
+  {
+    "text": "So this is an American history\nexercise on Khan Academy.",
+    "start": 637.675,
+    "duration": 2.794
+  },
+  {
+    "text": "It's a question\nabout the Spanish-American War.",
+    "start": 640.469,
+    "duration": 4.213
+  },
+  {
+    "text": "And at first it's in student mode.",
+    "start": 644.724,
+    "duration": 3.044
+  },
+  {
+    "text": "And if you say, “Tell me the answer,”\nit’s not going to tell the answer.",
+    "start": 647.81,
+    "duration": 3.42
+  },
+  {
+    "text": "It's going to go into tutoring mode.",
+    "start": 651.23,
+    "duration": 1.752
+  },
+  {
+    "text": "But that little toggle\nwhich teachers have access to,",
+    "start": 652.982,
+    "duration": 2.502
+  },
+  {
+    "text": "they can turn student mode off\nand then it goes into teacher mode.",
+    "start": 655.484,
+    "duration": 3.129
+  },
+  {
+    "text": "And what this does is it turns into --",
+    "start": 658.613,
+    "duration": 2.168
+  },
+  {
+    "text": "You could view it\nas a teacher's guide on steroids.",
+    "start": 661.24,
+    "duration": 2.503
+  },
+  {
+    "text": "Not only can it explain the answer,",
+    "start": 663.784,
+    "duration": 2.128
+  },
+  {
+    "text": "it can explain how you might\nwant to teach it.",
+    "start": 665.912,
+    "duration": 2.168
+  },
+  {
+    "text": "It can help prepare\nthe teacher for that material.",
+    "start": 668.08,
+    "duration": 2.837
+  },
+  {
+    "text": "It can help them create lesson plans,\nas you could see doing right there.",
+    "start": 670.917,
+    "duration": 3.503
+  },
+  {
+    "text": "It'll eventually help them\ncreate progress reports",
+    "start": 674.462,
+    "duration": 2.627
+  },
+  {
+    "text": "and help them, eventually, grade.",
+    "start": 677.131,
+    "duration": 1.627
+  },
+  {
+    "text": "So once again, teachers spend\nabout half their time",
+    "start": 678.799,
+    "duration": 2.42
+  },
+  {
+    "text": "with this type of activity,\nlesson planning.",
+    "start": 681.219,
+    "duration": 2.085
+  },
+  {
+    "text": "All of that energy can go back to them",
+    "start": 683.304,
+    "duration": 1.835
+  },
+  {
+    "text": "or go back to human interactions\nwith their actual students.",
+    "start": 685.181,
+    "duration": 2.836
+  },
+  {
+    "text": "(Applause)",
+    "start": 689.268,
+    "duration": 4.838
+  },
+  {
+    "text": "So, you know, one point I want to make.",
+    "start": 694.148,
+    "duration": 3.087
+  },
+  {
+    "text": "These large language models\nare so powerful,",
+    "start": 697.276,
+    "duration": 2.252
+  },
+  {
+    "text": "there's a temptation to say like, well,",
+    "start": 699.57,
+    "duration": 1.877
+  },
+  {
+    "text": "all these people are just going\nto slap them onto their websites,",
+    "start": 701.447,
+    "duration": 3.086
+  },
+  {
+    "text": "and it kind of turns the applications\nthemselves into commodities.",
+    "start": 704.533,
+    "duration": 3.129
+  },
+  {
+    "text": "And what I've got to tell you",
+    "start": 707.703,
+    "duration": 1.418
+  },
+  {
+    "text": "is that’s one of the reasons\nwhy I didn’t sleep for two weeks",
+    "start": 709.121,
+    "duration": 2.878
+  },
+  {
+    "text": "when I first had access\nto GPT-4 back in August.",
+    "start": 711.999,
+    "duration": 2.878
+  },
+  {
+    "text": "But we quickly realized\nthat to actually make it magical,",
+    "start": 715.586,
+    "duration": 2.753
+  },
+  {
+    "text": "I think what you saw\nwith Khanmigo a little bit,",
+    "start": 718.339,
+    "duration": 2.252
+  },
+  {
+    "text": "it didn't interact with you\nthe way that you see ChatGPT interacting.",
+    "start": 720.633,
+    "duration": 3.295
+  },
+  {
+    "text": "It was a little bit more magical,\nit was more Socratic,",
+    "start": 723.928,
+    "duration": 2.586
+  },
+  {
+    "text": "it was clearly much better at math",
+    "start": 726.555,
+    "duration": 1.627
+  },
+  {
+    "text": "than what most people\nare used to thinking.",
+    "start": 728.224,
+    "duration": 2.21
+  },
+  {
+    "text": "And the reason is,",
+    "start": 730.476,
+    "duration": 1.168
+  },
+  {
+    "text": "there was a lot of work\nbehind the scenes to make that happen.",
+    "start": 731.644,
+    "duration": 2.919
+  },
+  {
+    "text": "And I could go through the whole list\nof everything we've been working on,",
+    "start": 734.605,
+    "duration": 3.504
+  },
+  {
+    "text": "many, many people for over six,\nseven months to make it feel magical.",
+    "start": 738.15,
+    "duration": 3.629
+  },
+  {
+    "text": "But perhaps the most\nintellectually interesting one",
+    "start": 741.821,
+    "duration": 2.502
+  },
+  {
+    "text": "is we realized, and this was an idea\nfrom an OpenAI researcher,",
+    "start": 744.323,
+    "duration": 3.337
+  },
+  {
+    "text": "that we could dramatically improve\nits ability in math",
+    "start": 747.66,
+    "duration": 3.128
+  },
+  {
+    "text": "and its ability in tutoring",
+    "start": 750.83,
+    "duration": 1.293
+  },
+  {
+    "text": "if we allow the AI to think\nbefore it speaks.",
+    "start": 752.164,
+    "duration": 3.129
+  },
+  {
+    "text": "So if you're tutoring someone",
+    "start": 755.334,
+    "duration": 1.418
+  },
+  {
+    "text": "and you immediately just start talking\nbefore you assess their math,",
+    "start": 756.752,
+    "duration": 3.212
+  },
+  {
+    "text": "you might not get it right.",
+    "start": 759.964,
+    "duration": 1.293
+  },
+  {
+    "text": "But if you construct\nthoughts for yourself,",
+    "start": 761.299,
+    "duration": 2.002
+  },
+  {
+    "text": "and what you see on the right\nthere is an actual AI thought,",
+    "start": 763.301,
+    "duration": 2.877
+  },
+  {
+    "text": "something that it generates for itself\nbut it does not share with the student.",
+    "start": 766.22,
+    "duration": 3.67
+  },
+  {
+    "text": "then its accuracy went up dramatically,",
+    "start": 769.89,
+    "duration": 1.877
+  },
+  {
+    "text": "and its ability to be a world-class tutor\nwent up dramatically.",
+    "start": 771.767,
+    "duration": 2.962
+  },
+  {
+    "text": "And you can see it's talking\nto itself here.",
+    "start": 774.77,
+    "duration": 2.086
+  },
+  {
+    "text": "It says, \"The student got a different\nanswer than I did,",
+    "start": 776.897,
+    "duration": 2.67
+  },
+  {
+    "text": "but do not tell them they made a mistake.",
+    "start": 779.567,
+    "duration": 2.002
+  },
+  {
+    "text": "Instead, ask them to explain\nhow they got to that step.\"",
+    "start": 781.569,
+    "duration": 3.587
+  },
+  {
+    "text": "So I'll just finish off, hopefully,",
+    "start": 785.698,
+    "duration": 2.294
+  },
+  {
+    "text": "you know, what I’ve just shown you\nis just half of what we are working on,",
+    "start": 788.034,
+    "duration": 3.503
+  },
+  {
+    "text": "and we think this is just\nthe very tip of the iceberg",
+    "start": 791.537,
+    "duration": 3.504
+  },
+  {
+    "text": "of where this can actually go.",
+    "start": 795.041,
+    "duration": 2.419
+  },
+  {
+    "text": "And I'm pretty convinced, which I wouldn't\nhave been even a year ago,",
+    "start": 797.501,
+    "duration": 4.129
+  },
+  {
+    "text": "that we together have a chance\nof addressing the 2 sigma problem",
+    "start": 801.672,
+    "duration": 4.296
+  },
+  {
+    "text": "and turning it into a 2 sigma opportunity,",
+    "start": 805.968,
+    "duration": 2.294
+  },
+  {
+    "text": "dramatically accelerating\neducation as we know it.",
+    "start": 808.304,
+    "duration": 4.796
+  },
+  {
+    "text": "Now, just to take a step back\nat a meta level,",
+    "start": 813.684,
+    "duration": 2.169
+  },
+  {
+    "text": "obviously we heard a lot today,\nthe debates on either side.",
+    "start": 815.853,
+    "duration": 2.794
+  },
+  {
+    "text": "There's folks who take\na more pessimistic view of AI,",
+    "start": 818.689,
+    "duration": 2.878
+  },
+  {
+    "text": "they say this is scary,",
+    "start": 821.609,
+    "duration": 1.168
+  },
+  {
+    "text": "there's all these dystopian scenarios,",
+    "start": 822.818,
+    "duration": 2.461
+  },
+  {
+    "text": "we maybe want to slow down,\nwe want to pause.",
+    "start": 825.321,
+    "duration": 3.253
+  },
+  {
+    "text": "On the other side,\nthere are the more optimistic folks",
+    "start": 828.616,
+    "duration": 3.211
+  },
+  {
+    "text": "that say, well, we've gone\nthrough inflection points before,",
+    "start": 831.827,
+    "duration": 2.836
+  },
+  {
+    "text": "we've gone through\nthe Industrial Revolution.",
+    "start": 834.663,
+    "duration": 2.128
+  },
+  {
+    "text": "It was scary, but it all\nkind of worked out.",
+    "start": 836.832,
+    "duration": 2.336
+  },
+  {
+    "text": "And what I'd argue right now",
+    "start": 839.877,
+    "duration": 2.044
+  },
+  {
+    "text": "is I don't think this is like\na flip of a coin",
+    "start": 841.962,
+    "duration": 2.586
+  },
+  {
+    "text": "or this is something\nwhere we'll just have to,",
+    "start": 844.59,
+    "duration": 2.169
+  },
+  {
+    "text": "like, wait and see which way it turns out.",
+    "start": 846.759,
+    "duration": 2.294
+  },
+  {
+    "text": "I think everyone here and beyond,",
+    "start": 849.428,
+    "duration": 2.211
+  },
+  {
+    "text": "we are active participants\nin this decision.",
+    "start": 851.68,
+    "duration": 2.837
+  },
+  {
+    "text": "I'm pretty convinced\nthat the first line of reasoning",
+    "start": 854.892,
+    "duration": 2.503
+  },
+  {
+    "text": "is actually almost\na self-fulfilling prophecy,",
+    "start": 857.436,
+    "duration": 2.628
+  },
+  {
+    "text": "that if we act with fear and if we say,",
+    "start": 860.106,
+    "duration": 2.711
+  },
+  {
+    "text": "\"Hey, we've just got to stop\ndoing this stuff,\"",
+    "start": 862.817,
+    "duration": 3.086
+  },
+  {
+    "text": "what's really going to happen\nis the rule followers might pause,",
+    "start": 865.903,
+    "duration": 3.045
+  },
+  {
+    "text": "might slow down,",
+    "start": 868.989,
+    "duration": 1.168
+  },
+  {
+    "text": "but the rule breakers,\nas Alexandr [Wang] mentioned,",
+    "start": 870.157,
+    "duration": 2.461
+  },
+  {
+    "text": "the totalitarian governments,\nthe criminal organizations,",
+    "start": 872.618,
+    "duration": 2.711
+  },
+  {
+    "text": "they're only going to accelerate.",
+    "start": 875.329,
+    "duration": 1.585
+  },
+  {
+    "text": "And that leads to what I am pretty\nconvinced is the dystopian state,",
+    "start": 876.914,
+    "duration": 3.837
+  },
+  {
+    "text": "which is the good actors\nhave worse AIs than the bad actors.",
+    "start": 880.751,
+    "duration": 4.672
+  },
+  {
+    "text": "But I'll also, you know,\ntalk to the optimists a little bit.",
+    "start": 885.923,
+    "duration": 3.17
+  },
+  {
+    "text": "I don't think that means that,",
+    "start": 889.093,
+    "duration": 1.46
+  },
+  {
+    "text": "oh, yeah, then we should just relax\nand just hope for the best.",
+    "start": 890.553,
+    "duration": 3.003
+  },
+  {
+    "text": "That might not happen either.",
+    "start": 893.556,
+    "duration": 1.626
+  },
+  {
+    "text": "I think all of us together\nhave to fight like hell",
+    "start": 895.182,
+    "duration": 4.546
+  },
+  {
+    "text": "to make sure that we put the guardrails,",
+    "start": 899.77,
+    "duration": 2.795
+  },
+  {
+    "text": "we put in -- when the problems arise --",
+    "start": 902.606,
+    "duration": 2.837
+  },
+  {
+    "text": "reasonable regulations.",
+    "start": 905.443,
+    "duration": 1.793
+  },
+  {
+    "text": "But we fight like hell\nfor the positive use cases.",
+    "start": 907.278,
+    "duration": 3.128
+  },
+  {
+    "text": "Because very close to my heart,",
+    "start": 910.448,
+    "duration": 1.96
+  },
+  {
+    "text": "and obviously there's many\npotential positive use cases,",
+    "start": 912.408,
+    "duration": 2.627
+  },
+  {
+    "text": "but perhaps the most powerful use case",
+    "start": 915.077,
+    "duration": 2.211
+  },
+  {
+    "text": "and perhaps the most poetic use case\nis if AI, artificial intelligence,",
+    "start": 917.288,
+    "duration": 5.213
+  },
+  {
+    "text": "can be used to enhance HI,\nhuman intelligence,",
+    "start": 922.543,
+    "duration": 3.712
+  },
+  {
+    "text": "human potential and human purpose.",
+    "start": 926.297,
+    "duration": 2.836
+  },
+  {
+    "text": "Thank you.",
+    "start": 929.592,
+    "duration": 1.167
+  },
+  {
+    "text": "(Applause)",
+    "start": 930.801,
+    "duration": 5.714
+  }
+]

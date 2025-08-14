@@ -1,0 +1,6577 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.5,
+    "duration": 4.791
+  },
+  {
+    "text": "ADI IGNATIUS: Hi, everybody.",
+    "start": 11.473,
+    "duration": 1.167
+  },
+  {
+    "text": "And welcome to HBR Now.",
+    "start": 12.64,
+    "duration": 1.77
+  },
+  {
+    "text": "We're back after a\nfew weeks' hiatus.",
+    "start": 14.41,
+    "duration": 3.12
+  },
+  {
+    "text": "I'm Adi Ignatius,\neditor-in-chief",
+    "start": 17.53,
+    "duration": 1.68
+  },
+  {
+    "text": "of Harvard Business Review.",
+    "start": 19.21,
+    "duration": 1.32
+  },
+  {
+    "text": "And I'm joined by my co-host,\nOctavia Goredema, author",
+    "start": 20.53,
+    "duration": 3.45
+  },
+  {
+    "text": "and founder of the\nTwenty Ten Agency.",
+    "start": 23.98,
+    "duration": 2.1
+  },
+  {
+    "text": "And Joshua Macht, who heads\nproduct and innovation",
+    "start": 26.08,
+    "duration": 3.18
+  },
+  {
+    "text": "and sort of everything else\nat Harvard Business Review.",
+    "start": 29.26,
+    "duration": 2.58
+  },
+  {
+    "text": "So hi, guys.",
+    "start": 31.84,
+    "duration": 0.745
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: Hi.",
+    "start": 32.585,
+    "duration": 0.875
+  },
+  {
+    "text": "JOSHUA MACHT: Hey, how are you?",
+    "start": 33.46,
+    "duration": 1.44
+  },
+  {
+    "text": "ADI IGNATIUS: So our guest\ntoday is the amazing Adam Grant,",
+    "start": 34.9,
+    "duration": 2.79
+  },
+  {
+    "text": "who is a really interesting,\noriginal, versatile thinker",
+    "start": 37.69,
+    "duration": 3.57
+  },
+  {
+    "text": "on work and life and\nthe human condition.",
+    "start": 41.26,
+    "duration": 3.0
+  },
+  {
+    "text": "He's an organizational\npsychologist",
+    "start": 44.26,
+    "duration": 1.572
+  },
+  {
+    "text": "and a best-selling\nauthor, so we're",
+    "start": 45.832,
+    "duration": 1.458
+  },
+  {
+    "text": "going to bring him\nin a little bit.",
+    "start": 47.29,
+    "duration": 2.07
+  },
+  {
+    "text": "If you have any questions\nfor Adam Grant, you at home,",
+    "start": 49.36,
+    "duration": 3.3
+  },
+  {
+    "text": "please enter them in\nthe chat box thingy,",
+    "start": 52.66,
+    "duration": 3.66
+  },
+  {
+    "text": "and we'll get to as many\nquestions as we can later.",
+    "start": 56.32,
+    "duration": 2.97
+  },
+  {
+    "text": "But first, let's have a word\nfrom our sponsor, Accenture.",
+    "start": 59.29,
+    "duration": 3.071
+  },
+  {
+    "text": "[VIDEO PLAYBACK]",
+    "start": 62.361,
+    "duration": 0.667
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 63.028,
+    "duration": 2.142
+  },
+  {
+    "text": "- Change is all around\nus, shaped by technology",
+    "start": 65.17,
+    "duration": 4.98
+  },
+  {
+    "text": "and human ingenuity.",
+    "start": 70.15,
+    "duration": 2.31
+  },
+  {
+    "text": "We can make it work for\nyou and your business.",
+    "start": 72.46,
+    "duration": 2.8
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 75.26,
+    "duration": 2.724
+  },
+  {
+    "text": "[END PLAYBACK]",
+    "start": 77.984,
+    "duration": 1.366
+  },
+  {
+    "text": "ADI IGNATIUS: So before\nwe bring Adam in,",
+    "start": 79.35,
+    "duration": 2.21
+  },
+  {
+    "text": "I'd love to talk a little\nbit with Josh and Octavia",
+    "start": 81.56,
+    "duration": 2.85
+  },
+  {
+    "text": "about our hopes\nand fears for 2021",
+    "start": 84.41,
+    "duration": 2.41
+  },
+  {
+    "text": "after, of course, the\ntime-honored, always",
+    "start": 86.82,
+    "duration": 2.6
+  },
+  {
+    "text": "puzzling TikTok segment that\nwill set up the conversation.",
+    "start": 89.42,
+    "duration": 3.39
+  },
+  {
+    "text": "So roll it, engineer Dave.",
+    "start": 92.81,
+    "duration": 1.68
+  },
+  {
+    "text": "[VIDEO PLAYBACK]",
+    "start": 94.49,
+    "duration": 0.974
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 95.464,
+    "duration": 5.357
+  },
+  {
+    "text": "[END PLAYBACK]",
+    "start": 110.074,
+    "duration": 1.461
+  },
+  {
+    "text": "ADI IGNATIUS: [LAUGHS] How\ndid we live without TikTok?",
+    "start": 111.535,
+    "duration": 2.457
+  },
+  {
+    "text": "JOSHUA MACHT: I have no idea.",
+    "start": 113.992,
+    "duration": 1.208
+  },
+  {
+    "text": "ADI IGNATIUS: Can't remember.",
+    "start": 115.2,
+    "duration": 1.82
+  },
+  {
+    "text": "So anyway, so we launched\nthis show back in April",
+    "start": 117.02,
+    "duration": 3.27
+  },
+  {
+    "text": "as we were all\ntrying to figure out",
+    "start": 120.29,
+    "duration": 2.01
+  },
+  {
+    "text": "what work and life would\nlook like during the pandemic",
+    "start": 122.3,
+    "duration": 2.67
+  },
+  {
+    "text": "and after.",
+    "start": 124.97,
+    "duration": 0.84
+  },
+  {
+    "text": "To be honest, we're\nstill wondering.",
+    "start": 125.81,
+    "duration": 1.5
+  },
+  {
+    "text": "This is approximately day\n300 of work from home for us",
+    "start": 127.31,
+    "duration": 4.438
+  },
+  {
+    "text": "and probably many of the\npeople who are watching.",
+    "start": 131.748,
+    "duration": 2.042
+  },
+  {
+    "text": "We're still trying to\nfigure out what exactly we",
+    "start": 133.79,
+    "duration": 2.0
+  },
+  {
+    "text": "have to look forward to.",
+    "start": 135.79,
+    "duration": 1.13
+  },
+  {
+    "text": "We do have this\nhandy delineation.",
+    "start": 136.92,
+    "duration": 1.55
+  },
+  {
+    "text": "January 1 is a new year,\nso it gives us a chance",
+    "start": 138.47,
+    "duration": 3.09
+  },
+  {
+    "text": "to reflect and look forward.",
+    "start": 141.56,
+    "duration": 1.63
+  },
+  {
+    "text": "So Octavia, let me\nkick it over to you.",
+    "start": 143.19,
+    "duration": 1.82
+  },
+  {
+    "text": "I mean, how do you see this\nyear unfurling, this amazing--",
+    "start": 145.01,
+    "duration": 4.32
+  },
+  {
+    "text": "this amazing year?",
+    "start": 149.33,
+    "duration": 2.28
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: You\nknow, I'm thankful that we",
+    "start": 151.61,
+    "duration": 2.7
+  },
+  {
+    "text": "got to the start of this\nyear, but I'm also so sad.",
+    "start": 154.31,
+    "duration": 3.33
+  },
+  {
+    "text": "You know, it feels like a\nyear with so much uncertainty",
+    "start": 157.64,
+    "duration": 4.53
+  },
+  {
+    "text": "and no plans.",
+    "start": 162.17,
+    "duration": 0.81
+  },
+  {
+    "text": "[LAUGHS] I think that's\nthe hardest part.",
+    "start": 162.98,
+    "duration": 3.22
+  },
+  {
+    "text": "Normally when I come\ninto a new year,",
+    "start": 166.2,
+    "duration": 2.21
+  },
+  {
+    "text": "there's some anchor moments\nthat I kind of look forward",
+    "start": 168.41,
+    "duration": 3.68
+  },
+  {
+    "text": "to and build around.",
+    "start": 172.09,
+    "duration": 1.15
+  },
+  {
+    "text": "I think the hardest\nthing was this week",
+    "start": 173.24,
+    "duration": 3.48
+  },
+  {
+    "text": "and my kid's officially\ngoing back to school,",
+    "start": 176.72,
+    "duration": 2.25
+  },
+  {
+    "text": "but just going back on to Zoom.",
+    "start": 178.97,
+    "duration": 2.16
+  },
+  {
+    "text": "[LAUGHS] And yeah,\nbut I'm thankful.",
+    "start": 181.13,
+    "duration": 4.77
+  },
+  {
+    "text": "This time next year I think\nwill be very different.",
+    "start": 185.9,
+    "duration": 2.85
+  },
+  {
+    "text": "JOSHUA MACHT: I feel-- yeah,\nthis prolonged uncertainty.",
+    "start": 188.75,
+    "duration": 4.93
+  },
+  {
+    "text": "Like, just so strange.",
+    "start": 193.68,
+    "duration": 3.35
+  },
+  {
+    "text": "Personally, I bounced around--",
+    "start": 197.03,
+    "duration": 2.31
+  },
+  {
+    "text": "Adi, you know me well,\nthat this is not that odd,",
+    "start": 199.34,
+    "duration": 2.31
+  },
+  {
+    "text": "but that I bounced from\nincredibly hopeful--",
+    "start": 201.65,
+    "duration": 3.18
+  },
+  {
+    "text": "I'm like, oh, yeah, OK.",
+    "start": 204.83,
+    "duration": 1.35
+  },
+  {
+    "text": "You know, we'll--\nyou know, just--",
+    "start": 206.18,
+    "duration": 1.98
+  },
+  {
+    "text": "we're hunkered down and this is\nan incredibly difficult moment,",
+    "start": 208.16,
+    "duration": 3.7
+  },
+  {
+    "text": "but we can get through this to\nletting myself kind of just be",
+    "start": 211.86,
+    "duration": 4.52
+  },
+  {
+    "text": "like, whoa, you know?",
+    "start": 216.38,
+    "duration": 1.65
+  },
+  {
+    "text": "Having it all sink in.",
+    "start": 218.03,
+    "duration": 1.2
+  },
+  {
+    "text": "I try not to have\nthose moments too much.",
+    "start": 219.23,
+    "duration": 2.61
+  },
+  {
+    "text": "There is something\nabout the new year",
+    "start": 221.84,
+    "duration": 1.59
+  },
+  {
+    "text": "that for me always\nfeels like, OK.",
+    "start": 223.43,
+    "duration": 2.31
+  },
+  {
+    "text": "You know-- you know, let's see.",
+    "start": 225.74,
+    "duration": 3.0
+  },
+  {
+    "text": "And I'm probably in that\ncamp too of, you know,",
+    "start": 228.74,
+    "duration": 2.82
+  },
+  {
+    "text": "it's got to start being\nbetter at some point.",
+    "start": 231.56,
+    "duration": 3.6
+  },
+  {
+    "text": "[INAUDIBLE] How are\nyou feeling, Adi?",
+    "start": 235.16,
+    "duration": 2.53
+  },
+  {
+    "text": "ADI IGNATIUS: Well, just to\nsay, Josh is the one extrovert",
+    "start": 237.69,
+    "duration": 2.833
+  },
+  {
+    "text": "at Harvard Business Review,\nso I think this has been",
+    "start": 240.523,
+    "duration": 2.167
+  },
+  {
+    "text": "particularly--\nparticularly tough--",
+    "start": 242.69,
+    "duration": 1.758
+  },
+  {
+    "text": "JOSHUA MACHT: I'm proud--",
+    "start": 244.448,
+    "duration": 1.042
+  },
+  {
+    "text": "I'm proud of the fact that I\nhaven't gone completely insane",
+    "start": 245.49,
+    "duration": 2.63
+  },
+  {
+    "text": "yet.",
+    "start": 248.12,
+    "duration": 0.51
+  },
+  {
+    "text": "ADI IGNATIUS:\n[LAUGHS] I don't know.",
+    "start": 248.63,
+    "duration": 1.687
+  },
+  {
+    "text": "I mean, the one hand, we're\njust living through history.",
+    "start": 250.317,
+    "duration": 2.333
+  },
+  {
+    "text": "It is incredible.",
+    "start": 252.65,
+    "duration": 0.87
+  },
+  {
+    "text": "I mean, a Black\nDemocrat was just",
+    "start": 253.52,
+    "duration": 2.61
+  },
+  {
+    "text": "elected Senator in Georgia.",
+    "start": 256.13,
+    "duration": 2.519
+  },
+  {
+    "text": "We have a sitting president\nwho is refusing to acknowledge",
+    "start": 258.649,
+    "duration": 4.891
+  },
+  {
+    "text": "the election results.",
+    "start": 263.54,
+    "duration": 1.083
+  },
+  {
+    "text": "The pandemic is at its peak.",
+    "start": 264.623,
+    "duration": 1.167
+  },
+  {
+    "text": "I mean, we are\nliving through it.",
+    "start": 265.79,
+    "duration": 0.88
+  },
+  {
+    "text": "It's incredible.",
+    "start": 266.67,
+    "duration": 1.16
+  },
+  {
+    "text": "You know, for me I\nmentioned my father before.",
+    "start": 267.83,
+    "duration": 2.67
+  },
+  {
+    "text": "He's 100 years old.",
+    "start": 270.5,
+    "duration": 2.55
+  },
+  {
+    "text": "You know, I think when he gets\nhis first dose of the vaccine",
+    "start": 273.05,
+    "duration": 4.05
+  },
+  {
+    "text": "will be kind of a tipping\npoint for me that, OK.",
+    "start": 277.1,
+    "duration": 2.28
+  },
+  {
+    "text": "We're moving into something--",
+    "start": 279.38,
+    "duration": 2.01
+  },
+  {
+    "text": "something new, something better,\nthat we're sort of on our way.",
+    "start": 281.39,
+    "duration": 3.24
+  },
+  {
+    "text": "And you know, hopefully\nthat happens--",
+    "start": 284.63,
+    "duration": 1.71
+  },
+  {
+    "text": "that happens this month.",
+    "start": 286.34,
+    "duration": 1.23
+  },
+  {
+    "text": "JOSHUA MACHT: He's\ncoming on the show.",
+    "start": 287.57,
+    "duration": 1.9
+  },
+  {
+    "text": "ADI IGNATIUS: I think we\nshould get him on the show.",
+    "start": 289.47,
+    "duration": 1.52
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: We\ndefinitely should.",
+    "start": 290.99,
+    "duration": 1.06
+  },
+  {
+    "text": "JOSHUA MACHT: And do the--",
+    "start": 292.05,
+    "duration": 1.083
+  },
+  {
+    "text": "and do the vaccination live.",
+    "start": 293.133,
+    "duration": 1.167
+  },
+  {
+    "text": "ADI IGNATIUS: We can\ndo the vacc-- yes.",
+    "start": 294.3,
+    "duration": 1.625
+  },
+  {
+    "text": "That's what the world wants to\nsee, a 100-year-old guy getting",
+    "start": 295.925,
+    "duration": 2.745
+  },
+  {
+    "text": "a vaccine.",
+    "start": 298.67,
+    "duration": 0.51
+  },
+  {
+    "text": "But yeah, maybe.",
+    "start": 299.18,
+    "duration": 0.72
+  },
+  {
+    "text": "JOSHUA MACHT: [INAUDIBLE].",
+    "start": 299.9,
+    "duration": 1.28
+  },
+  {
+    "text": "ADI IGNATIUS: All right.",
+    "start": 301.18,
+    "duration": 1.0
+  },
+  {
+    "text": "Well, we'll think about that.",
+    "start": 302.18,
+    "duration": 1.09
+  },
+  {
+    "text": "All right.",
+    "start": 303.27,
+    "duration": 0.18
+  },
+  {
+    "text": "So anyway, let's move on.",
+    "start": 303.45,
+    "duration": 1.3
+  },
+  {
+    "text": "So I want to formally introduce\nour guest, Adam Grant.",
+    "start": 304.75,
+    "duration": 3.94
+  },
+  {
+    "text": "Adam is a professor of\norganizational psychology",
+    "start": 308.69,
+    "duration": 2.64
+  },
+  {
+    "text": "at Wharton School of Business\nwhere year after year, he",
+    "start": 311.33,
+    "duration": 3.48
+  },
+  {
+    "text": "is ranked the school's\ntop rated professor.",
+    "start": 314.81,
+    "duration": 3.3
+  },
+  {
+    "text": "He's an expert on how\nwe can find motivation",
+    "start": 318.11,
+    "duration": 2.25
+  },
+  {
+    "text": "and meaning in life at work--",
+    "start": 320.36,
+    "duration": 1.83
+  },
+  {
+    "text": "in life and work.",
+    "start": 322.19,
+    "duration": 0.88
+  },
+  {
+    "text": "He's the author of several\nbest-selling books,",
+    "start": 323.07,
+    "duration": 2.27
+  },
+  {
+    "text": "Give and Take, Originals,\nOption B, and Power Moves.",
+    "start": 325.34,
+    "duration": 4.47
+  },
+  {
+    "text": "His newest book\nlaunches next month.",
+    "start": 329.81,
+    "duration": 2.47
+  },
+  {
+    "text": "It's called Think Again:\nThe Power of Knowing",
+    "start": 332.28,
+    "duration": 1.97
+  },
+  {
+    "text": "What You Don't Know.",
+    "start": 334.25,
+    "duration": 1.18
+  },
+  {
+    "text": "And you can preorder\nit now wherever it",
+    "start": 335.43,
+    "duration": 2.45
+  },
+  {
+    "text": "is that you preorder your book.",
+    "start": 337.88,
+    "duration": 1.5
+  },
+  {
+    "text": "So Adam, thank you very\nmuch for being here.",
+    "start": 339.38,
+    "duration": 2.25
+  },
+  {
+    "text": "ADAM GRANT: Thanks, Adi.",
+    "start": 341.63,
+    "duration": 0.57
+  },
+  {
+    "text": "Delighted to be here.",
+    "start": 342.2,
+    "duration": 0.875
+  },
+  {
+    "text": "Happy new year.",
+    "start": 343.075,
+    "duration": 0.805
+  },
+  {
+    "text": "ADI IGNATIUS: Did I\nmention that people",
+    "start": 343.88,
+    "duration": 0.96
+  },
+  {
+    "text": "could preorder your book?",
+    "start": 344.84,
+    "duration": 1.08
+  },
+  {
+    "text": "ADAM GRANT: [LAUGHS]\nI think you did.",
+    "start": 345.92,
+    "duration": 1.29
+  },
+  {
+    "text": "Thank you.",
+    "start": 347.21,
+    "duration": 0.36
+  },
+  {
+    "text": "You might want to re-think that.",
+    "start": 347.57,
+    "duration": 1.333
+  },
+  {
+    "text": "ADI IGNATIUS: [LAUGHS] Oh, nice.",
+    "start": 348.903,
+    "duration": 2.387
+  },
+  {
+    "text": "So I guess in some\nways, all the issues",
+    "start": 351.29,
+    "duration": 3.99
+  },
+  {
+    "text": "that we've been thinking\nabout on this show",
+    "start": 355.28,
+    "duration": 1.92
+  },
+  {
+    "text": "are really right up your alley.",
+    "start": 357.2,
+    "duration": 1.41
+  },
+  {
+    "text": "And the pandemic, as\nawful as it has been,",
+    "start": 358.61,
+    "duration": 4.41
+  },
+  {
+    "text": "could also be a reset moment\nfor organizations for how",
+    "start": 363.02,
+    "duration": 3.9
+  },
+  {
+    "text": "we work and collaborate.",
+    "start": 366.92,
+    "duration": 1.13
+  },
+  {
+    "text": "And so I'd love to ask\nyou, I mean, you've",
+    "start": 368.05,
+    "duration": 1.75
+  },
+  {
+    "text": "talked about in the past--",
+    "start": 369.8,
+    "duration": 1.29
+  },
+  {
+    "text": "I love this phrase--",
+    "start": 371.09,
+    "duration": 1.11
+  },
+  {
+    "text": "how to make work not suck.",
+    "start": 372.2,
+    "duration": 2.16
+  },
+  {
+    "text": "So how do we-- do we take\nadvantage of this moment",
+    "start": 374.36,
+    "duration": 2.79
+  },
+  {
+    "text": "and build better workplaces,\nbetter forms of collaboration",
+    "start": 377.15,
+    "duration": 4.23
+  },
+  {
+    "text": "and everything?",
+    "start": 381.38,
+    "duration": 1.76
+  },
+  {
+    "text": "ADAM GRANT: Oh, I wish I\nhad an easy answer to that.",
+    "start": 383.14,
+    "duration": 2.23
+  },
+  {
+    "text": "I think it's something we're\nall struggling with right now.",
+    "start": 385.37,
+    "duration": 2.19
+  },
+  {
+    "text": "I guess the place I\nwould start is right",
+    "start": 387.56,
+    "duration": 1.8
+  },
+  {
+    "text": "after the pandemic\nbegan in the spring,",
+    "start": 389.36,
+    "duration": 2.28
+  },
+  {
+    "text": "I knew the one person\nI wanted to call",
+    "start": 391.64,
+    "duration": 1.8
+  },
+  {
+    "text": "for advice on how to cope.",
+    "start": 393.44,
+    "duration": 1.575
+  },
+  {
+    "text": "It was Scott Kelly,\nthe astronaut",
+    "start": 395.015,
+    "duration": 1.965
+  },
+  {
+    "text": "who set the American record\nfor spending almost a year",
+    "start": 396.98,
+    "duration": 2.25
+  },
+  {
+    "text": "in space.",
+    "start": 399.23,
+    "duration": 0.6
+  },
+  {
+    "text": "And I thought, look.",
+    "start": 399.83,
+    "duration": 0.96
+  },
+  {
+    "text": "If anybody knows how to deal\nwith the uncertainty of being",
+    "start": 400.79,
+    "duration": 2.76
+  },
+  {
+    "text": "very remote, it's the\nastronaut who literally did it",
+    "start": 403.55,
+    "duration": 3.18
+  },
+  {
+    "text": "for a whole year.",
+    "start": 406.73,
+    "duration": 1.14
+  },
+  {
+    "text": "And I ended up interviewing\nScott for my WorkLife podcast,",
+    "start": 407.87,
+    "duration": 2.883
+  },
+  {
+    "text": "and he said a bunch of\nthings that were interesting.",
+    "start": 410.753,
+    "duration": 2.167
+  },
+  {
+    "text": "The one that really stuck\nwith me was he said, look.",
+    "start": 412.92,
+    "duration": 2.43
+  },
+  {
+    "text": "I'd been to space\nthree times before,",
+    "start": 415.35,
+    "duration": 1.65
+  },
+  {
+    "text": "but I knew the year in space\nI had to prepare differently.",
+    "start": 417.0,
+    "duration": 2.74
+  },
+  {
+    "text": "So instead of just focusing\non the mission from NASA,",
+    "start": 419.74,
+    "duration": 2.48
+  },
+  {
+    "text": "I had a goal for how\nI wanted to feel.",
+    "start": 422.22,
+    "duration": 2.963
+  },
+  {
+    "text": "And I'm like, wait a minute.",
+    "start": 425.183,
+    "duration": 1.167
+  },
+  {
+    "text": "I'm sorry.",
+    "start": 426.35,
+    "duration": 0.67
+  },
+  {
+    "text": "Scott was he-- was a\nnavy pilot. (GRUFF VOICE)",
+    "start": 427.02,
+    "duration": 1.962
+  },
+  {
+    "text": "He was gruff and\ntough and does not",
+    "start": 428.982,
+    "duration": 1.658
+  },
+  {
+    "text": "talk about emotions very often.",
+    "start": 430.64,
+    "duration": 1.69
+  },
+  {
+    "text": "I said, what in the\nworld are you saying?",
+    "start": 432.33,
+    "duration": 1.76
+  },
+  {
+    "text": "And he said, listen.",
+    "start": 434.09,
+    "duration": 0.96
+  },
+  {
+    "text": "I had to set a goal\nfor myself that I",
+    "start": 435.05,
+    "duration": 2.19
+  },
+  {
+    "text": "was going to come back with\nthe same energy and enthusiasm",
+    "start": 437.24,
+    "duration": 2.55
+  },
+  {
+    "text": "that I had when I left.",
+    "start": 439.79,
+    "duration": 2.015
+  },
+  {
+    "text": "And I thought that\nwas brilliant,",
+    "start": 441.805,
+    "duration": 1.375
+  },
+  {
+    "text": "because in psychology,\nwhen we study mental time",
+    "start": 443.18,
+    "duration": 2.31
+  },
+  {
+    "text": "travel, the idea\nof fast forwarding",
+    "start": 445.49,
+    "duration": 2.43
+  },
+  {
+    "text": "or rewinding outside\nof the present,",
+    "start": 447.92,
+    "duration": 2.37
+  },
+  {
+    "text": "we find that it has\na bunch of benefits.",
+    "start": 450.29,
+    "duration": 1.99
+  },
+  {
+    "text": "Number one, it speeds\nup your sense of time.",
+    "start": 452.28,
+    "duration": 2.45
+  },
+  {
+    "text": "Number two, it gives you\nsomething to look forward to",
+    "start": 454.73,
+    "duration": 2.4
+  },
+  {
+    "text": "and reduces the uncertainty.",
+    "start": 457.13,
+    "duration": 1.722
+  },
+  {
+    "text": "And number three, it allows\nyou to then work backward",
+    "start": 458.852,
+    "duration": 2.208
+  },
+  {
+    "text": "and reverse\nengineer, OK, what do",
+    "start": 461.06,
+    "duration": 1.74
+  },
+  {
+    "text": "we need to do day by day\nto maintain that energy",
+    "start": 462.8,
+    "duration": 2.28
+  },
+  {
+    "text": "and enthusiasm?",
+    "start": 465.08,
+    "duration": 1.3
+  },
+  {
+    "text": "So I immediately sat down with\nmy wife and kids and said, OK.",
+    "start": 466.38,
+    "duration": 3.14
+  },
+  {
+    "text": "Let's picture the first\nweek post-pandemic.",
+    "start": 469.52,
+    "duration": 2.1
+  },
+  {
+    "text": "What do we want to do?",
+    "start": 471.62,
+    "duration": 0.94
+  },
+  {
+    "text": "Where do we want to go?",
+    "start": 472.56,
+    "duration": 0.958
+  },
+  {
+    "text": "Who do we want to see?",
+    "start": 473.518,
+    "duration": 1.252
+  },
+  {
+    "text": "And that image has been\npretty motivating for us.",
+    "start": 474.77,
+    "duration": 2.28
+  },
+  {
+    "text": "But I think the\nsame conversation",
+    "start": 477.05,
+    "duration": 1.63
+  },
+  {
+    "text": "should be happening with\nleaders and teams, right?",
+    "start": 478.68,
+    "duration": 2.26
+  },
+  {
+    "text": "To say, OK, how do we want\nto come out of this pandemic?",
+    "start": 480.94,
+    "duration": 2.648
+  },
+  {
+    "text": "How are we going to leave\nit with the same energy",
+    "start": 483.588,
+    "duration": 2.042
+  },
+  {
+    "text": "and enthusiasm we had\nbefore it started?",
+    "start": 485.63,
+    "duration": 2.11
+  },
+  {
+    "text": "And I don't know what comes\nout of that conversation",
+    "start": 487.74,
+    "duration": 2.167
+  },
+  {
+    "text": "necessarily, but it's a dialogue\nwe should all be part of.",
+    "start": 489.907,
+    "duration": 2.543
+  },
+  {
+    "text": "ADI IGNATIUS: So your\ncomments about Scott Kelly",
+    "start": 492.45,
+    "duration": 2.0
+  },
+  {
+    "text": "remind me, when I was the\nWall Street Journal's bureau",
+    "start": 494.45,
+    "duration": 3.21
+  },
+  {
+    "text": "chief in Moscow--",
+    "start": 497.66,
+    "duration": 3.7
+  },
+  {
+    "text": "basically, I was there as the\ntransition from Soviet Russia",
+    "start": 501.36,
+    "duration": 4.19
+  },
+  {
+    "text": "to Russia.",
+    "start": 505.55,
+    "duration": 0.81
+  },
+  {
+    "text": "And I interviewed\nthe psychologists",
+    "start": 506.36,
+    "duration": 3.03
+  },
+  {
+    "text": "who dealt with\nRussian cosmonauts who",
+    "start": 509.39,
+    "duration": 3.06
+  },
+  {
+    "text": "were up in space.",
+    "start": 512.45,
+    "duration": 1.41
+  },
+  {
+    "text": "And they would do these\npsychological evaluations",
+    "start": 513.86,
+    "duration": 2.46
+  },
+  {
+    "text": "to figure out if\nthey were OK, if they",
+    "start": 516.32,
+    "duration": 2.489
+  },
+  {
+    "text": "were ready to do the\nsort of complicated work",
+    "start": 518.809,
+    "duration": 3.24
+  },
+  {
+    "text": "that was required\nof them on that day.",
+    "start": 522.049,
+    "duration": 1.901
+  },
+  {
+    "text": "But when the Soviet\nUnion ended, they",
+    "start": 523.95,
+    "duration": 3.41
+  },
+  {
+    "text": "decided not to tell those guys.",
+    "start": 527.36,
+    "duration": 1.41
+  },
+  {
+    "text": "And it was sort of\ntoo much to handle.",
+    "start": 528.77,
+    "duration": 3.36
+  },
+  {
+    "text": "Wait till they get\nback and realize",
+    "start": 532.13,
+    "duration": 1.57
+  },
+  {
+    "text": "that the entire world that\nthey thought they knew",
+    "start": 533.7,
+    "duration": 2.18
+  },
+  {
+    "text": "had changed back on the ground.",
+    "start": 535.88,
+    "duration": 1.32
+  },
+  {
+    "text": "So anyway, so following up on\nwhat you were talking about,",
+    "start": 537.2,
+    "duration": 5.605
+  },
+  {
+    "text": "I mean, I think there's a lot of\nsense of grief, emotional loss",
+    "start": 542.805,
+    "duration": 6.845
+  },
+  {
+    "text": "that we've all encountered\nin the past whatever it is,",
+    "start": 549.65,
+    "duration": 3.03
+  },
+  {
+    "text": "300 days.",
+    "start": 552.68,
+    "duration": 2.01
+  },
+  {
+    "text": "What's the best way to kind of--",
+    "start": 554.69,
+    "duration": 1.765
+  },
+  {
+    "text": "so what you were talking about\nwas a little bit like, OK.",
+    "start": 556.455,
+    "duration": 2.375
+  },
+  {
+    "text": "Get back into it.",
+    "start": 558.83,
+    "duration": 1.86
+  },
+  {
+    "text": "Be the self you were before.",
+    "start": 560.69,
+    "duration": 1.56
+  },
+  {
+    "text": "Figure out how to\ntouch into that.",
+    "start": 562.25,
+    "duration": 1.54
+  },
+  {
+    "text": "But how do you acknowledge the\ngrief and emotional challenges",
+    "start": 563.79,
+    "duration": 4.01
+  },
+  {
+    "text": "that we've all faced and\nwe need to kind of reckon",
+    "start": 567.8,
+    "duration": 4.23
+  },
+  {
+    "text": "with as we move forward?",
+    "start": 572.03,
+    "duration": 2.207
+  },
+  {
+    "text": "ADAM GRANT: Well, I think\nthe first place to start",
+    "start": 574.237,
+    "duration": 2.083
+  },
+  {
+    "text": "is to know that the harder\nyou work to suppress emotions,",
+    "start": 576.32,
+    "duration": 3.15
+  },
+  {
+    "text": "the more they tend to rebound\nand get the better of you,",
+    "start": 579.47,
+    "duration": 2.48
+  },
+  {
+    "text": "right?",
+    "start": 581.95,
+    "duration": 0.5
+  },
+  {
+    "text": "So in psychology, one of the\nfirst principles of managing",
+    "start": 582.45,
+    "duration": 2.51
+  },
+  {
+    "text": "emotions is actually\nto label them",
+    "start": 584.96,
+    "duration": 1.96
+  },
+  {
+    "text": "so that you can make sense of\nthem, you can analyze them,",
+    "start": 586.92,
+    "duration": 3.165
+  },
+  {
+    "text": "you can give yourself a little\nbit of distance from them.",
+    "start": 590.085,
+    "duration": 2.375
+  },
+  {
+    "text": "And I think that\nDavid Kessler article",
+    "start": 592.46,
+    "duration": 1.77
+  },
+  {
+    "text": "you published last year,\nwhich was massively",
+    "start": 594.23,
+    "duration": 2.49
+  },
+  {
+    "text": "important on how what\nwe're all feeling is grief,",
+    "start": 596.72,
+    "duration": 3.39
+  },
+  {
+    "text": "I think that served that purpose\nfor a lot of people, right?",
+    "start": 600.11,
+    "duration": 2.64
+  },
+  {
+    "text": "I've talked to countless\npeople who read that HBR piece",
+    "start": 602.75,
+    "duration": 2.52
+  },
+  {
+    "text": "and said, oh, that's\nthe emotion I'm feeling.",
+    "start": 605.27,
+    "duration": 3.0
+  },
+  {
+    "text": "And now that I\nunderstand it, right, I",
+    "start": 608.27,
+    "duration": 2.13
+  },
+  {
+    "text": "know this is not the\nsame kind of loss",
+    "start": 610.4,
+    "duration": 1.71
+  },
+  {
+    "text": "that I've dealt\nwith in the past.",
+    "start": 612.11,
+    "duration": 1.47
+  },
+  {
+    "text": "But I have faced loss\nbefore, and there",
+    "start": 613.58,
+    "duration": 2.13
+  },
+  {
+    "text": "are lessons that I can learn\nfrom my own resilience.",
+    "start": 615.71,
+    "duration": 2.64
+  },
+  {
+    "text": "And I think that\ntoo often, we look",
+    "start": 618.35,
+    "duration": 1.71
+  },
+  {
+    "text": "to other people for\nguidance when in fact, we",
+    "start": 620.06,
+    "duration": 2.462
+  },
+  {
+    "text": "can learn a lot of what we need\nto know from just surveying",
+    "start": 622.522,
+    "duration": 2.458
+  },
+  {
+    "text": "our own history, right?",
+    "start": 624.98,
+    "duration": 1.32
+  },
+  {
+    "text": "To say, OK.",
+    "start": 626.3,
+    "duration": 0.72
+  },
+  {
+    "text": "Think about the adversity\nthat you've faced before.",
+    "start": 627.02,
+    "duration": 2.175
+  },
+  {
+    "text": "What are some of the techniques\nthat really got you through it?",
+    "start": 629.195,
+    "duration": 2.625
+  },
+  {
+    "text": "Or what did you wish\nyou'd done differently",
+    "start": 631.82,
+    "duration": 1.98
+  },
+  {
+    "text": "that you didn't think to do\nthat you could apply this time?",
+    "start": 633.8,
+    "duration": 2.95
+  },
+  {
+    "text": "And I think that sometimes our\nown experiences are our best",
+    "start": 636.75,
+    "duration": 2.6
+  },
+  {
+    "text": "teachers, but we\nforget to go back",
+    "start": 639.35,
+    "duration": 2.1
+  },
+  {
+    "text": "and actually reflect on the\nlessons that came out of them.",
+    "start": 641.45,
+    "duration": 3.457
+  },
+  {
+    "text": "ADI IGNATIUS: So if you just\njoined us, this is HBR Now.",
+    "start": 644.907,
+    "duration": 2.333
+  },
+  {
+    "text": "Our special guest is Adam Grant,\norganizational psychologist",
+    "start": 647.24,
+    "duration": 3.66
+  },
+  {
+    "text": "and author.",
+    "start": 650.9,
+    "duration": 1.35
+  },
+  {
+    "text": "If you have questions\nfor Adam, please",
+    "start": 652.25,
+    "duration": 1.95
+  },
+  {
+    "text": "put them into the comments\nbox, and we will get",
+    "start": 654.2,
+    "duration": 3.25
+  },
+  {
+    "text": "to as many questions as we can.",
+    "start": 657.45,
+    "duration": 2.325
+  },
+  {
+    "text": "Adam, I'm going to ask\nyou one more question,",
+    "start": 659.775,
+    "duration": 1.875
+  },
+  {
+    "text": "then bring in my colleagues\nto really grill you.",
+    "start": 661.65,
+    "duration": 2.69
+  },
+  {
+    "text": "But I think we mentioned that\nyou have a forthcoming book,",
+    "start": 664.34,
+    "duration": 4.14
+  },
+  {
+    "text": "Think Again.",
+    "start": 668.48,
+    "duration": 0.867
+  },
+  {
+    "text": "Which, by the way, you\ncan preorder wherever",
+    "start": 669.347,
+    "duration": 1.833
+  },
+  {
+    "text": "you preorder your books.",
+    "start": 671.18,
+    "duration": 1.89
+  },
+  {
+    "text": "But if I understand it--",
+    "start": 673.07,
+    "duration": 2.1
+  },
+  {
+    "text": "I haven't seen it yet, but it's\nabout the art of re-thinking,",
+    "start": 675.17,
+    "duration": 3.36
+  },
+  {
+    "text": "of learning to question your\nown opinions of figuring out how",
+    "start": 678.53,
+    "duration": 3.42
+  },
+  {
+    "text": "to open other people's minds.",
+    "start": 681.95,
+    "duration": 1.387
+  },
+  {
+    "text": "You have an article in the\nMarch, April Harvard Business",
+    "start": 683.337,
+    "duration": 2.333
+  },
+  {
+    "text": "Review about how to\nget seemingly stubborn,",
+    "start": 685.67,
+    "duration": 3.18
+  },
+  {
+    "text": "narcissistic geniuses like Steve\nJobs to change their minds.",
+    "start": 688.85,
+    "duration": 4.59
+  },
+  {
+    "text": "So could you talk a\nlittle bit about that?",
+    "start": 693.44,
+    "duration": 1.84
+  },
+  {
+    "text": "I mean, how do you--",
+    "start": 695.28,
+    "duration": 1.94
+  },
+  {
+    "text": "I think many of us have\nbeen in that situation.",
+    "start": 697.22,
+    "duration": 2.31
+  },
+  {
+    "text": "We're working with a genius\nwho does know more than we do,",
+    "start": 699.53,
+    "duration": 3.66
+  },
+  {
+    "text": "who does have great ideas.",
+    "start": 703.19,
+    "duration": 1.23
+  },
+  {
+    "text": "And sometimes\nthey're wrong and we",
+    "start": 704.42,
+    "duration": 1.807
+  },
+  {
+    "text": "need to try to change their\nminds without getting fired.",
+    "start": 706.227,
+    "duration": 2.333
+  },
+  {
+    "text": "So could you talk a\nlittle bit about how",
+    "start": 708.56,
+    "duration": 2.67
+  },
+  {
+    "text": "to do that or maybe how\npeople at Apple did that?",
+    "start": 711.23,
+    "duration": 2.772
+  },
+  {
+    "text": "ADAM GRANT: Yeah.",
+    "start": 714.002,
+    "duration": 0.708
+  },
+  {
+    "text": "I think-- you know,\nit's interesting to me,",
+    "start": 714.71,
+    "duration": 1.792
+  },
+  {
+    "text": "because I started writing Think\nAgain before the pandemic.",
+    "start": 716.502,
+    "duration": 3.158
+  },
+  {
+    "text": "And I was frustrated just by the\nnumber of leaders and companies",
+    "start": 719.66,
+    "duration": 3.36
+  },
+  {
+    "text": "that I'd worked with\nwhere I would bring",
+    "start": 723.02,
+    "duration": 2.13
+  },
+  {
+    "text": "a new idea or some very\nrigorous evidence to the table,",
+    "start": 725.15,
+    "duration": 3.09
+  },
+  {
+    "text": "and they'd say, well, that's not\nthe way we've always done it.",
+    "start": 728.24,
+    "duration": 3.32
+  },
+  {
+    "text": "And then I want to say, OK.",
+    "start": 731.56,
+    "duration": 1.48
+  },
+  {
+    "text": "Blockbuster, BlackBerry,\nKodak, Sears.",
+    "start": 733.04,
+    "duration": 3.54
+  },
+  {
+    "text": "How's that working out for them?",
+    "start": 736.58,
+    "duration": 1.86
+  },
+  {
+    "text": "And then the pandemic hit\nand we were all forced",
+    "start": 738.44,
+    "duration": 2.85
+  },
+  {
+    "text": "to do a ton of re-thinking.",
+    "start": 741.29,
+    "duration": 1.32
+  },
+  {
+    "text": "And I know many of us had\nwished that we did that more",
+    "start": 742.61,
+    "duration": 2.25
+  },
+  {
+    "text": "proactively as\nopposed to reactively,",
+    "start": 744.86,
+    "duration": 2.07
+  },
+  {
+    "text": "and we'd actually\nthought through, OK.",
+    "start": 746.93,
+    "duration": 1.83
+  },
+  {
+    "text": "If we are ever in a situation\nwhere we have to work remotely",
+    "start": 748.76,
+    "duration": 2.7
+  },
+  {
+    "text": "or we have to be kind of\nphysically and socially",
+    "start": 751.46,
+    "duration": 2.31
+  },
+  {
+    "text": "distanced, how are we\ngoing to deal with that?",
+    "start": 753.77,
+    "duration": 2.38
+  },
+  {
+    "text": "And I really set out\nto try to figure out",
+    "start": 756.15,
+    "duration": 2.12
+  },
+  {
+    "text": "how some of the world's\ngreatest re-thinkers and most",
+    "start": 758.27,
+    "duration": 3.0
+  },
+  {
+    "text": "effective persuaders\nend up bringing this",
+    "start": 761.27,
+    "duration": 2.7
+  },
+  {
+    "text": "into their daily\nlives, into their work.",
+    "start": 763.97,
+    "duration": 1.83
+  },
+  {
+    "text": "And I thought Apple was a\nfascinating place to go,",
+    "start": 765.8,
+    "duration": 2.73
+  },
+  {
+    "text": "because Steve Jobs was such a\ndifficult person to get through",
+    "start": 768.53,
+    "duration": 2.94
+  },
+  {
+    "text": "to.",
+    "start": 771.47,
+    "duration": 0.54
+  },
+  {
+    "text": "And yet, he changed his mind\non a lot of things, right?",
+    "start": 772.01,
+    "duration": 2.52
+  },
+  {
+    "text": "He swore that he would\nnever make a phone.",
+    "start": 774.53,
+    "duration": 1.89
+  },
+  {
+    "text": "Now that's Apple's\nprimary business.",
+    "start": 776.42,
+    "duration": 2.44
+  },
+  {
+    "text": "He resisted for years the\nidea of making a music player.",
+    "start": 778.86,
+    "duration": 2.82
+  },
+  {
+    "text": "Didn't want to go there.",
+    "start": 781.68,
+    "duration": 1.0
+  },
+  {
+    "text": "Hated the idea of\na tablet, right?",
+    "start": 782.68,
+    "duration": 1.72
+  },
+  {
+    "text": "We can see the result of him\nfinally opening his mind.",
+    "start": 784.4,
+    "duration": 3.49
+  },
+  {
+    "text": "So I ended up interviewing\na number of people",
+    "start": 787.89,
+    "duration": 2.038
+  },
+  {
+    "text": "who worked closely with\nSteve Jobs at Apple",
+    "start": 789.928,
+    "duration": 1.792
+  },
+  {
+    "text": "and were responsible\nfor opening his mind",
+    "start": 791.72,
+    "duration": 1.98
+  },
+  {
+    "text": "and getting him to rethink\nsome of those judgments.",
+    "start": 793.7,
+    "duration": 2.13
+  },
+  {
+    "text": "And I think one of the most\neffective things that they",
+    "start": 795.83,
+    "duration": 2.28
+  },
+  {
+    "text": "tended to do consistently\nwas to recognize",
+    "start": 798.11,
+    "duration": 2.4
+  },
+  {
+    "text": "that when somebody really\nvalues control, which",
+    "start": 800.51,
+    "duration": 3.03
+  },
+  {
+    "text": "Steve Jobs clearly did,\nthat making your most",
+    "start": 803.54,
+    "duration": 3.15
+  },
+  {
+    "text": "forceful argument\ntends to backfire,",
+    "start": 806.69,
+    "duration": 2.49
+  },
+  {
+    "text": "because they want to be in\ncharge of their own opinions,",
+    "start": 809.18,
+    "duration": 2.43
+  },
+  {
+    "text": "right?",
+    "start": 811.61,
+    "duration": 0.5
+  },
+  {
+    "text": "So the harder you push,\nthe harder they push back.",
+    "start": 812.11,
+    "duration": 2.68
+  },
+  {
+    "text": "And you get this psychological\nreactance response,",
+    "start": 814.79,
+    "duration": 2.678
+  },
+  {
+    "text": "which a lot of us would\nthink about as kind",
+    "start": 817.468,
+    "duration": 1.792
+  },
+  {
+    "text": "of the opposite of\nreverse psychology.",
+    "start": 819.26,
+    "duration": 2.07
+  },
+  {
+    "text": "So what they would do instead\nis they would plant seeds",
+    "start": 821.33,
+    "duration": 3.06
+  },
+  {
+    "text": "and they'd say, hey.",
+    "start": 824.39,
+    "duration": 1.14
+  },
+  {
+    "text": "You know, Microsoft\nmakes these products",
+    "start": 825.53,
+    "duration": 3.06
+  },
+  {
+    "text": "that are basically for\nthe pocket protector",
+    "start": 828.59,
+    "duration": 3.42
+  },
+  {
+    "text": "crowd like a Palm Pilot.",
+    "start": 832.01,
+    "duration": 2.58
+  },
+  {
+    "text": "What would it look like\nif Apple did one of those?",
+    "start": 834.59,
+    "duration": 3.18
+  },
+  {
+    "text": "And so instead of\nputting Steve Jobs",
+    "start": 837.77,
+    "duration": 2.31
+  },
+  {
+    "text": "into a defensive,\nresistant mode,",
+    "start": 840.08,
+    "duration": 1.95
+  },
+  {
+    "text": "they made him curious, right?",
+    "start": 842.03,
+    "duration": 1.8
+  },
+  {
+    "text": "They appealed to his\nlove of new ideas",
+    "start": 843.83,
+    "duration": 1.95
+  },
+  {
+    "text": "and his appreciation\nof aesthetic beauty.",
+    "start": 845.78,
+    "duration": 2.528
+  },
+  {
+    "text": "And as they planted the\nseeds of those questions,",
+    "start": 848.308,
+    "duration": 2.042
+  },
+  {
+    "text": "he was much more likely then\nto step up and water them.",
+    "start": 850.35,
+    "duration": 2.48
+  },
+  {
+    "text": "And then pretty soon, he would\nbe turning around and saying,",
+    "start": 852.83,
+    "duration": 2.22
+  },
+  {
+    "text": "you know, I have this idea.",
+    "start": 855.05,
+    "duration": 1.15
+  },
+  {
+    "text": "I think we should make a phone.",
+    "start": 856.2,
+    "duration": 2.24
+  },
+  {
+    "text": "And it obviously didn't\nalways go smoothly,",
+    "start": 858.44,
+    "duration": 1.92
+  },
+  {
+    "text": "and there were lots of\nchallenges along the way.",
+    "start": 860.36,
+    "duration": 2.38
+  },
+  {
+    "text": "But I think one of\nthe things we fail",
+    "start": 862.74,
+    "duration": 1.76
+  },
+  {
+    "text": "to realize when we're trying to\ninfluence people who are very",
+    "start": 864.5,
+    "duration": 2.16
+  },
+  {
+    "text": "resistant to\nrethinking their views",
+    "start": 866.66,
+    "duration": 1.53
+  },
+  {
+    "text": "is questions tend to be\nmore powerful than answers.",
+    "start": 868.19,
+    "duration": 2.73
+  },
+  {
+    "text": "And especially the kinds of\nquestions that we want to ask",
+    "start": 870.92,
+    "duration": 3.09
+  },
+  {
+    "text": "are the ones that allow them\nto express their core values.",
+    "start": 874.01,
+    "duration": 2.85
+  },
+  {
+    "text": "And so once you\nunderstood that Jobs",
+    "start": 876.86,
+    "duration": 1.83
+  },
+  {
+    "text": "love the idea of beating\nMicrosoft as his chief rival",
+    "start": 878.69,
+    "duration": 3.45
+  },
+  {
+    "text": "and that he was\nreally passionate",
+    "start": 882.14,
+    "duration": 1.56
+  },
+  {
+    "text": "about aesthetic\nelegance, then you",
+    "start": 883.7,
+    "duration": 1.89
+  },
+  {
+    "text": "could figure out what kinds of\nquestions that he would answer",
+    "start": 885.59,
+    "duration": 2.668
+  },
+  {
+    "text": "to begin moving in the\ndirection that you thought",
+    "start": 888.258,
+    "duration": 2.042
+  },
+  {
+    "text": "was beneficial for Apple.",
+    "start": 890.3,
+    "duration": 1.527
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah, I love that.",
+    "start": 891.827,
+    "duration": 1.333
+  },
+  {
+    "text": "And I think it's--",
+    "start": 893.16,
+    "duration": 1.91
+  },
+  {
+    "text": "I mean, even the subtle\nart of negotiation",
+    "start": 895.07,
+    "duration": 3.52
+  },
+  {
+    "text": "with family members and\nfriends, I mean, you lock horns",
+    "start": 898.59,
+    "duration": 3.68
+  },
+  {
+    "text": "and somebody says no.",
+    "start": 902.27,
+    "duration": 1.08
+  },
+  {
+    "text": "You sort of walk away,\nand something happens.",
+    "start": 903.35,
+    "duration": 2.52
+  },
+  {
+    "text": "These seeds are planted.",
+    "start": 905.87,
+    "duration": 1.11
+  },
+  {
+    "text": "And you know, nobody\nlikes to be confronted.",
+    "start": 906.98,
+    "duration": 2.52
+  },
+  {
+    "text": "And then often,\nyou plant the seed.",
+    "start": 909.5,
+    "duration": 2.82
+  },
+  {
+    "text": "Walk away.",
+    "start": 912.32,
+    "duration": 1.47
+  },
+  {
+    "text": "Don't expect it answered.",
+    "start": 913.79,
+    "duration": 1.48
+  },
+  {
+    "text": "Don't expect somebody\nto come around.",
+    "start": 915.27,
+    "duration": 1.83
+  },
+  {
+    "text": "But there is a\nprocess that happens.",
+    "start": 917.1,
+    "duration": 1.83
+  },
+  {
+    "text": "And with a narcissist,\nit probably",
+    "start": 918.93,
+    "duration": 1.73
+  },
+  {
+    "text": "is, yeah, re-figuring\nit in a way",
+    "start": 920.66,
+    "duration": 1.8
+  },
+  {
+    "text": "that it's quote, unquote,\n\"their idea,\" which is fine.",
+    "start": 922.46,
+    "duration": 2.37
+  },
+  {
+    "text": "All right.",
+    "start": 927.79,
+    "duration": 0.5
+  },
+  {
+    "text": "So let's bring in-- let's\nbring in Octavia and Josh",
+    "start": 928.29,
+    "duration": 2.52
+  },
+  {
+    "text": "and have at it, kids.",
+    "start": 930.81,
+    "duration": 2.76
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: So\nAdam, you recently",
+    "start": 933.57,
+    "duration": 2.04
+  },
+  {
+    "text": "wrote about how job\ninterviews are broken",
+    "start": 935.61,
+    "duration": 2.73
+  },
+  {
+    "text": "and how managers are constantly\nbetting on the wrong people.",
+    "start": 938.34,
+    "duration": 4.17
+  },
+  {
+    "text": "Three interviewing\nmistakes you cited",
+    "start": 942.51,
+    "duration": 1.815
+  },
+  {
+    "text": "are asking the wrong\nquestions and focusing",
+    "start": 944.325,
+    "duration": 2.655
+  },
+  {
+    "text": "on the wrong criteria,\nand perhaps focusing",
+    "start": 946.98,
+    "duration": 2.4
+  },
+  {
+    "text": "on what candidates say\nversus what they do.",
+    "start": 949.38,
+    "duration": 3.69
+  },
+  {
+    "text": "How can companies fix\nthis interview process",
+    "start": 953.07,
+    "duration": 2.97
+  },
+  {
+    "text": "in this new Zoom era we're in?",
+    "start": 956.04,
+    "duration": 2.755
+  },
+  {
+    "text": "ADAM GRANT: Oh, I\nthink it's definitely",
+    "start": 958.795,
+    "duration": 1.625
+  },
+  {
+    "text": "gotten harder for a lot of us.",
+    "start": 960.42,
+    "duration": 1.343
+  },
+  {
+    "text": "But I think many of the\nsame principles still apply.",
+    "start": 961.763,
+    "duration": 2.167
+  },
+  {
+    "text": "We have to be a little bit more\ncreative about how we put them",
+    "start": 963.93,
+    "duration": 2.07
+  },
+  {
+    "text": "into practice.",
+    "start": 966.0,
+    "duration": 0.82
+  },
+  {
+    "text": "So my read of the 100-year\nevidence on job interviews",
+    "start": 966.82,
+    "duration": 5.24
+  },
+  {
+    "text": "is that a lot of\nmanagers are basically",
+    "start": 972.06,
+    "duration": 2.4
+  },
+  {
+    "text": "just taking random walks.",
+    "start": 974.46,
+    "duration": 1.41
+  },
+  {
+    "text": "And they have no clue whether\nthe people they're hiring",
+    "start": 975.87,
+    "duration": 2.31
+  },
+  {
+    "text": "are actually going to\nbe effective at the job",
+    "start": 978.18,
+    "duration": 1.74
+  },
+  {
+    "text": "or are going to align with\nthe values of the team",
+    "start": 979.92,
+    "duration": 2.1
+  },
+  {
+    "text": "or the organization.",
+    "start": 982.02,
+    "duration": 0.877
+  },
+  {
+    "text": "And so if you care\nabout that, I think",
+    "start": 982.897,
+    "duration": 1.583
+  },
+  {
+    "text": "the first step is to be clear\non your criteria, right?",
+    "start": 984.48,
+    "duration": 2.44
+  },
+  {
+    "text": "What do you actually need\nto select on, and then",
+    "start": 986.92,
+    "duration": 2.0
+  },
+  {
+    "text": "what's trainable or teachable?",
+    "start": 988.92,
+    "duration": 1.38
+  },
+  {
+    "text": "Once you've done that, I\nthink we just spend way",
+    "start": 990.3,
+    "duration": 2.19
+  },
+  {
+    "text": "too much time talking, right?",
+    "start": 992.49,
+    "duration": 1.47
+  },
+  {
+    "text": "Lots of candidates are very\ngood at impression management.",
+    "start": 993.96,
+    "duration": 3.33
+  },
+  {
+    "text": "They know how to tell you\nwhat you want to hear.",
+    "start": 997.29,
+    "duration": 2.25
+  },
+  {
+    "text": "They're also-- we run into the\nopposite problem quite a bit,",
+    "start": 999.54,
+    "duration": 2.8
+  },
+  {
+    "text": "which is there are candidates\nwho are really promising.",
+    "start": 1002.34,
+    "duration": 3.14
+  },
+  {
+    "text": "But because of stage\nfright or because they're",
+    "start": 1005.48,
+    "duration": 2.64
+  },
+  {
+    "text": "uncomfortable in the Zoom\ninterview setting especially,",
+    "start": 1008.12,
+    "duration": 2.49
+  },
+  {
+    "text": "they actually end\nup underperforming.",
+    "start": 1010.61,
+    "duration": 1.718
+  },
+  {
+    "text": "And so I want to move\naway from these kinds",
+    "start": 1012.328,
+    "duration": 1.792
+  },
+  {
+    "text": "of stilted conversations\nand actually",
+    "start": 1014.12,
+    "duration": 1.86
+  },
+  {
+    "text": "focus on, what are the\ncritical skills and values that",
+    "start": 1015.98,
+    "duration": 2.25
+  },
+  {
+    "text": "differentiate whether\nsomebody's going to be effective",
+    "start": 1018.23,
+    "duration": 2.25
+  },
+  {
+    "text": "in this job, in this culture?",
+    "start": 1020.48,
+    "duration": 1.5
+  },
+  {
+    "text": "So an example of it that\nI've loved for a long time",
+    "start": 1021.98,
+    "duration": 3.27
+  },
+  {
+    "text": "is years ago, I was\nworking in advertising",
+    "start": 1025.25,
+    "duration": 3.27
+  },
+  {
+    "text": "at Let's Go publications.",
+    "start": 1028.52,
+    "duration": 1.5
+  },
+  {
+    "text": "And I was trying to\nhire salespeople.",
+    "start": 1030.02,
+    "duration": 2.099
+  },
+  {
+    "text": "No clue who was going to\nbe a good salesperson.",
+    "start": 1032.119,
+    "duration": 1.978
+  },
+  {
+    "text": "And I had a colleague,\nBrad Olson, who said,",
+    "start": 1034.097,
+    "duration": 1.833
+  },
+  {
+    "text": "you know what we should do?",
+    "start": 1035.93,
+    "duration": 0.99
+  },
+  {
+    "text": "We should actually ask\nthem to sell us something",
+    "start": 1036.92,
+    "duration": 2.1
+  },
+  {
+    "text": "so that we can see their skills\nand their motivation in action.",
+    "start": 1039.02,
+    "duration": 3.15
+  },
+  {
+    "text": "And Brad's idea was\nto go to the extreme",
+    "start": 1042.17,
+    "duration": 1.721
+  },
+  {
+    "text": "and ask them to\nsell something that",
+    "start": 1043.891,
+    "duration": 1.458
+  },
+  {
+    "text": "was impossible to sell,\nthinking if you could",
+    "start": 1045.349,
+    "duration": 1.921
+  },
+  {
+    "text": "do that, you could probably\nsell a desirable product pretty",
+    "start": 1047.27,
+    "duration": 2.52
+  },
+  {
+    "text": "well.",
+    "start": 1049.79,
+    "duration": 0.5
+  },
+  {
+    "text": "And so we started\nbringing candidates in",
+    "start": 1050.29,
+    "duration": 1.84
+  },
+  {
+    "text": "to sell us a rotten apple.",
+    "start": 1052.13,
+    "duration": 1.8
+  },
+  {
+    "text": "And it was amazing to\nwatch how quickly we",
+    "start": 1053.93,
+    "duration": 2.49
+  },
+  {
+    "text": "could see who had\nthe learning agility,",
+    "start": 1056.42,
+    "duration": 2.04
+  },
+  {
+    "text": "the motivation, the skill set\nto try to make a case for that.",
+    "start": 1058.46,
+    "duration": 3.54
+  },
+  {
+    "text": "I remember one candidate came\nin and he said, you know,",
+    "start": 1062.0,
+    "duration": 2.6
+  },
+  {
+    "text": "I think this may look\nlike a rotten apple,",
+    "start": 1064.6,
+    "duration": 1.9
+  },
+  {
+    "text": "but I'm actually selling\naged antique apples.",
+    "start": 1066.5,
+    "duration": 2.76
+  },
+  {
+    "text": "And one of these a week\nwill keep the doctor away.",
+    "start": 1069.26,
+    "duration": 3.21
+  },
+  {
+    "text": "Also, you can plant the\nseeds in your backyard,",
+    "start": 1072.47,
+    "duration": 2.01
+  },
+  {
+    "text": "and it's actually\ncheaper than if you",
+    "start": 1074.48,
+    "duration": 1.62
+  },
+  {
+    "text": "were to buy them in the\nstore, and then one day,",
+    "start": 1076.1,
+    "duration": 1.26
+  },
+  {
+    "text": "you'll have a\nbeautiful apple tree.",
+    "start": 1077.36,
+    "duration": 1.565
+  },
+  {
+    "text": "I had some integrity\nquestions after that,",
+    "start": 1078.925,
+    "duration": 2.108
+  },
+  {
+    "text": "but I ended up hiring him, and\nhe was the best salesperson",
+    "start": 1081.033,
+    "duration": 2.417
+  },
+  {
+    "text": "that I ever worked with.",
+    "start": 1083.45,
+    "duration": 1.013
+  },
+  {
+    "text": "And there's no\nreason why we can't",
+    "start": 1084.463,
+    "duration": 1.417
+  },
+  {
+    "text": "do that kind of demonstration\nor simulation over Zoom.",
+    "start": 1085.88,
+    "duration": 2.76
+  },
+  {
+    "text": "What we're often\nlooking for is just",
+    "start": 1088.64,
+    "duration": 1.71
+  },
+  {
+    "text": "what's called a work\nsample, which is to say, OK.",
+    "start": 1090.35,
+    "duration": 2.423
+  },
+  {
+    "text": "If you think about the\ncritical tasks or skills that",
+    "start": 1092.773,
+    "duration": 2.167
+  },
+  {
+    "text": "would differentiate somebody\nfrom their peers in this job,",
+    "start": 1094.94,
+    "duration": 2.85
+  },
+  {
+    "text": "how do we recreate\na live approximation",
+    "start": 1097.79,
+    "duration": 2.43
+  },
+  {
+    "text": "of that in real time?",
+    "start": 1100.22,
+    "duration": 1.42
+  },
+  {
+    "text": "And if you get to see people do\nthat, you learn a lot that you",
+    "start": 1101.64,
+    "duration": 2.66
+  },
+  {
+    "text": "wouldn't pick up before.",
+    "start": 1104.3,
+    "duration": 1.172
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: Yeah.",
+    "start": 1105.472,
+    "duration": 0.958
+  },
+  {
+    "text": "I love that story.",
+    "start": 1106.43,
+    "duration": 1.29
+  },
+  {
+    "text": "And you know, this\nmoment we are in",
+    "start": 1107.72,
+    "duration": 2.79
+  },
+  {
+    "text": "has been so challenging\non so many fronts,",
+    "start": 1110.51,
+    "duration": 2.31
+  },
+  {
+    "text": "and leading teams\njust continues to be",
+    "start": 1112.82,
+    "duration": 3.09
+  },
+  {
+    "text": "such a monumental challenge.",
+    "start": 1115.91,
+    "duration": 2.52
+  },
+  {
+    "text": "How can someone\nre-build a team that",
+    "start": 1118.43,
+    "duration": 3.18
+  },
+  {
+    "text": "may be experiencing\nuncertainty and a broken sense",
+    "start": 1121.61,
+    "duration": 3.63
+  },
+  {
+    "text": "of belonging as a result of\njust so much upheaval right now?",
+    "start": 1125.24,
+    "duration": 3.648
+  },
+  {
+    "text": "ADAM GRANT: So Octavia, I\nthink the place I would start",
+    "start": 1128.888,
+    "duration": 2.292
+  },
+  {
+    "text": "is to recognize that when\nwe're building teams,",
+    "start": 1131.18,
+    "duration": 2.76
+  },
+  {
+    "text": "one of the things\nthat we fail to do",
+    "start": 1133.94,
+    "duration": 1.98
+  },
+  {
+    "text": "is actually learn from our own\nmistakes of the recent past.",
+    "start": 1135.92,
+    "duration": 3.85
+  },
+  {
+    "text": "So one way that a\nlot of organizations",
+    "start": 1139.77,
+    "duration": 1.76
+  },
+  {
+    "text": "try to solve that problem\nis they run exit interviews",
+    "start": 1141.53,
+    "duration": 2.76
+  },
+  {
+    "text": "and they say, look.",
+    "start": 1144.29,
+    "duration": 0.85
+  },
+  {
+    "text": "If you've left a team or\nif you've left the company,",
+    "start": 1145.14,
+    "duration": 2.21
+  },
+  {
+    "text": "I want to sit down with\nyou and find out why.",
+    "start": 1147.35,
+    "duration": 2.22
+  },
+  {
+    "text": "And I think that's\na brilliant idea,",
+    "start": 1149.57,
+    "duration": 1.5
+  },
+  {
+    "text": "except for one tiny problem.",
+    "start": 1151.07,
+    "duration": 2.097
+  },
+  {
+    "text": "Why would you wait until\npeople have already",
+    "start": 1153.167,
+    "duration": 1.833
+  },
+  {
+    "text": "agreed to leave the\ncompany in order",
+    "start": 1155.0,
+    "duration": 1.675
+  },
+  {
+    "text": "to find out if only you had\na time machine what you could",
+    "start": 1156.675,
+    "duration": 2.375
+  },
+  {
+    "text": "have done to keep them?",
+    "start": 1159.05,
+    "duration": 1.59
+  },
+  {
+    "text": "I for years have flipped that\nprocess working with companies",
+    "start": 1160.64,
+    "duration": 2.88
+  },
+  {
+    "text": "and said, let's run\nentry interviews where",
+    "start": 1163.52,
+    "duration": 2.49
+  },
+  {
+    "text": "in the first week or the first\nmonth that you get this job,",
+    "start": 1166.01,
+    "duration": 2.72
+  },
+  {
+    "text": "we actually sit down\nand ask you the kinds",
+    "start": 1168.73,
+    "duration": 1.75
+  },
+  {
+    "text": "of questions we would normally\nask during an exit interview.",
+    "start": 1170.48,
+    "duration": 2.85
+  },
+  {
+    "text": "Like, tell me about\nyour favorite project",
+    "start": 1173.33,
+    "duration": 1.77
+  },
+  {
+    "text": "you've ever worked on.",
+    "start": 1175.1,
+    "duration": 1.29
+  },
+  {
+    "text": "Who's the worst boss\nyou've ever had,",
+    "start": 1176.39,
+    "duration": 1.59
+  },
+  {
+    "text": "and how do I avoid\nbeing that person?",
+    "start": 1177.98,
+    "duration": 2.315
+  },
+  {
+    "text": "What are the skills\nand strengths",
+    "start": 1180.295,
+    "duration": 1.375
+  },
+  {
+    "text": "that you want to use or\nmaster in the next three",
+    "start": 1181.67,
+    "duration": 2.0
+  },
+  {
+    "text": "to five years?",
+    "start": 1183.67,
+    "duration": 1.37
+  },
+  {
+    "text": "And I think now, we're\nfacing an opportunity",
+    "start": 1185.04,
+    "duration": 1.865
+  },
+  {
+    "text": "to do something a little\nbit different, which",
+    "start": 1186.905,
+    "duration": 1.875
+  },
+  {
+    "text": "is to run reentry interviews.",
+    "start": 1188.78,
+    "duration": 2.01
+  },
+  {
+    "text": "And we could go back to the\nteams we work with and say, OK.",
+    "start": 1190.79,
+    "duration": 3.7
+  },
+  {
+    "text": "We've all been\nrunning experiments.",
+    "start": 1194.49,
+    "duration": 1.82
+  },
+  {
+    "text": "We've tested out different\nways of collaborating.",
+    "start": 1196.31,
+    "duration": 2.25
+  },
+  {
+    "text": "We've tried out\ndifferent technologies.",
+    "start": 1198.56,
+    "duration": 1.74
+  },
+  {
+    "text": "We've probably adjusted our\nschedules and work routines",
+    "start": 1200.3,
+    "duration": 2.85
+  },
+  {
+    "text": "quite a bit.",
+    "start": 1203.15,
+    "duration": 1.12
+  },
+  {
+    "text": "Let's talk about what's\nworking and what's not,",
+    "start": 1204.27,
+    "duration": 2.0
+  },
+  {
+    "text": "and then we can pool all\nthose ideas in the team",
+    "start": 1206.27,
+    "duration": 2.64
+  },
+  {
+    "text": "and begin to figure out, how\ndo we want to work together",
+    "start": 1208.91,
+    "duration": 2.82
+  },
+  {
+    "text": "differently moving forward?",
+    "start": 1211.73,
+    "duration": 1.87
+  },
+  {
+    "text": "And I think that's a discussion\nthat many teams are having,",
+    "start": 1213.6,
+    "duration": 2.84
+  },
+  {
+    "text": "but we could put a little more\nstructure around it to say,",
+    "start": 1216.44,
+    "duration": 2.74
+  },
+  {
+    "text": "OK, what's the best\nexperiment you've run?",
+    "start": 1219.18,
+    "duration": 2.3
+  },
+  {
+    "text": "What's the most\nsurprising lesson",
+    "start": 1221.48,
+    "duration": 1.51
+  },
+  {
+    "text": "you've learned about how you can\nbe productive working from home",
+    "start": 1222.99,
+    "duration": 3.04
+  },
+  {
+    "text": "or sleeping at work?",
+    "start": 1226.03,
+    "duration": 1.3
+  },
+  {
+    "text": "However you frame it.",
+    "start": 1227.33,
+    "duration": 1.55
+  },
+  {
+    "text": "And what would you like to see\nreinvented in our daily norms",
+    "start": 1228.88,
+    "duration": 3.03
+  },
+  {
+    "text": "and patterns of collaboration?",
+    "start": 1231.91,
+    "duration": 1.79
+  },
+  {
+    "text": "And that for me is a\npretty good starting point.",
+    "start": 1233.7,
+    "duration": 3.14
+  },
+  {
+    "text": "JOSHUA MACHT: So Adam, I\nwant to go back to something",
+    "start": 1236.84,
+    "duration": 2.27
+  },
+  {
+    "text": "you talked earlier\nwith Adi about,",
+    "start": 1239.11,
+    "duration": 1.68
+  },
+  {
+    "text": "kind of thinking about how\nyou want to come out of this--",
+    "start": 1240.79,
+    "duration": 3.87
+  },
+  {
+    "text": "out of this pandemic.",
+    "start": 1244.66,
+    "duration": 1.11
+  },
+  {
+    "text": "And this is sort\nof for folks who",
+    "start": 1245.77,
+    "duration": 2.28
+  },
+  {
+    "text": "are leading organizations,\ncompanies, what have you.",
+    "start": 1248.05,
+    "duration": 4.18
+  },
+  {
+    "text": "I think my question is there's\nsort of a timing thing.",
+    "start": 1252.23,
+    "duration": 3.29
+  },
+  {
+    "text": "I think you can talk\na lot about that,",
+    "start": 1255.52,
+    "duration": 1.59
+  },
+  {
+    "text": "but I wonder if we risk it also\nbecoming a bit demoralizing",
+    "start": 1257.11,
+    "duration": 3.87
+  },
+  {
+    "text": "because we're never--",
+    "start": 1260.98,
+    "duration": 0.95
+  },
+  {
+    "text": "we just-- OK, we're\ntalking about the future,",
+    "start": 1261.93,
+    "duration": 2.0
+  },
+  {
+    "text": "but it's not happening.",
+    "start": 1263.93,
+    "duration": 2.87
+  },
+  {
+    "text": "Is there some-- is there\nsome risk there or some way",
+    "start": 1266.8,
+    "duration": 2.43
+  },
+  {
+    "text": "to mitigate that?",
+    "start": 1269.23,
+    "duration": 1.787
+  },
+  {
+    "text": "ADAM GRANT: Yeah, I think\nthere's some risk there.",
+    "start": 1271.017,
+    "duration": 2.083
+  },
+  {
+    "text": "I think the reality is, though,\nthat people are grappling",
+    "start": 1273.1,
+    "duration": 3.0
+  },
+  {
+    "text": "with that anyway, right?",
+    "start": 1276.1,
+    "duration": 1.087
+  },
+  {
+    "text": "So I don't think\nyou're suddenly going",
+    "start": 1277.187,
+    "duration": 1.583
+  },
+  {
+    "text": "to surface this and\npeople say, whoa,",
+    "start": 1278.77,
+    "duration": 2.743
+  },
+  {
+    "text": "I wasn't worried at\nall about the future",
+    "start": 1281.513,
+    "duration": 1.667
+  },
+  {
+    "text": "and thinking ahead\nat all, right?",
+    "start": 1283.18,
+    "duration": 1.74
+  },
+  {
+    "text": "What you're trying to do is\ngive them a little bit more",
+    "start": 1284.92,
+    "duration": 2.292
+  },
+  {
+    "text": "structure and clarity around\nwhat that future might",
+    "start": 1287.212,
+    "duration": 2.148
+  },
+  {
+    "text": "look like, whenever it comes.",
+    "start": 1289.36,
+    "duration": 1.975
+  },
+  {
+    "text": "But I think part of\nwhat you have to do",
+    "start": 1291.335,
+    "duration": 1.625
+  },
+  {
+    "text": "is actually something\nthat psychologists have",
+    "start": 1292.96,
+    "duration": 1.875
+  },
+  {
+    "text": "taught parents to do for years.",
+    "start": 1294.835,
+    "duration": 2.005
+  },
+  {
+    "text": "Julie Lythcott-Haims,\nI think, has",
+    "start": 1296.84,
+    "duration": 1.512
+  },
+  {
+    "text": "a great way of describing it.",
+    "start": 1298.352,
+    "duration": 1.208
+  },
+  {
+    "text": "She talks about normalizing\nstruggle and saying, look.",
+    "start": 1299.56,
+    "duration": 3.39
+  },
+  {
+    "text": "Part of what you want to do\nwhen people are facing hardship",
+    "start": 1302.95,
+    "duration": 2.7
+  },
+  {
+    "text": "is make that an OK\nthing to experience.",
+    "start": 1305.65,
+    "duration": 3.57
+  },
+  {
+    "text": "Help people reappraise\nit not as a threat,",
+    "start": 1309.22,
+    "duration": 2.98
+  },
+  {
+    "text": "but actually as a\nchallenge to be overcome.",
+    "start": 1312.2,
+    "duration": 2.038
+  },
+  {
+    "text": "And so I think the\nfirst thing that leaders",
+    "start": 1314.238,
+    "duration": 1.792
+  },
+  {
+    "text": "ought to do during this time\nis to say, you know what?",
+    "start": 1316.03,
+    "duration": 2.4
+  },
+  {
+    "text": "Here's what I'm\nstruggling with right now.",
+    "start": 1318.43,
+    "duration": 1.9
+  },
+  {
+    "text": "And it drives me crazy that\nif you rewind back to March,",
+    "start": 1320.33,
+    "duration": 2.637
+  },
+  {
+    "text": "I thought we were\nall going to be back",
+    "start": 1322.967,
+    "duration": 1.583
+  },
+  {
+    "text": "to work by now in a\npretty regular flow,",
+    "start": 1324.55,
+    "duration": 2.19
+  },
+  {
+    "text": "and we are nowhere\nnear there yet.",
+    "start": 1326.74,
+    "duration": 2.82
+  },
+  {
+    "text": "And that makes it a lot\neasier for other people",
+    "start": 1329.56,
+    "duration": 2.295
+  },
+  {
+    "text": "to open up about their\nstruggles and then",
+    "start": 1331.855,
+    "duration": 2.205
+  },
+  {
+    "text": "for us to try to get\non the same page.",
+    "start": 1334.06,
+    "duration": 2.17
+  },
+  {
+    "text": "So I think that kind of open\ndoor-- and Amy Edmondson",
+    "start": 1336.23,
+    "duration": 2.9
+  },
+  {
+    "text": "would talk about it in terms\nof psychological safety.",
+    "start": 1339.13,
+    "duration": 2.67
+  },
+  {
+    "text": "That comfort that you create\nas a leader for people",
+    "start": 1341.8,
+    "duration": 2.13
+  },
+  {
+    "text": "to take risks and be a little\nbit vulnerable, knowing they're",
+    "start": 1343.93,
+    "duration": 2.58
+  },
+  {
+    "text": "not going to be\npenalized or punished",
+    "start": 1346.51,
+    "duration": 1.542
+  },
+  {
+    "text": "for it, that seems to be the\nmost important step you can",
+    "start": 1348.052,
+    "duration": 2.718
+  },
+  {
+    "text": "take for getting people\nto talk about some",
+    "start": 1350.77,
+    "duration": 2.53
+  },
+  {
+    "text": "of those frustrations\nthat are getting surfaced.",
+    "start": 1353.3,
+    "duration": 2.0
+  },
+  {
+    "text": "And then maybe figuring\nout as a group,",
+    "start": 1355.3,
+    "duration": 1.95
+  },
+  {
+    "text": "OK, how much are we\ngoing to look forward",
+    "start": 1357.25,
+    "duration": 1.8
+  },
+  {
+    "text": "to the future versus do we\nwant to stay in the present?",
+    "start": 1359.05,
+    "duration": 2.82
+  },
+  {
+    "text": "And I'll tell you,\nJosh, my preferences--",
+    "start": 1361.87,
+    "duration": 2.25
+  },
+  {
+    "text": "I still would say right\nnow the present is not",
+    "start": 1364.12,
+    "duration": 2.55
+  },
+  {
+    "text": "that exciting for\na lot of people,",
+    "start": 1366.67,
+    "duration": 1.84
+  },
+  {
+    "text": "and so having something\nto look forward to",
+    "start": 1368.51,
+    "duration": 1.76
+  },
+  {
+    "text": "is probably better than not.",
+    "start": 1370.27,
+    "duration": 1.53
+  },
+  {
+    "text": "JOSHUA MACHT: Well, I like\nthat, because you're mixing",
+    "start": 1371.8,
+    "duration": 2.25
+  },
+  {
+    "text": "in the whole notion of empathy.",
+    "start": 1374.05,
+    "duration": 2.37
+  },
+  {
+    "text": "And we talk a lot about\nthe empathetic leader,",
+    "start": 1376.42,
+    "duration": 3.48
+  },
+  {
+    "text": "and that seems to be a very\ncurrent trend right now,",
+    "start": 1379.9,
+    "duration": 3.42
+  },
+  {
+    "text": "is like, you've really got\nto show that I kind of get",
+    "start": 1383.32,
+    "duration": 2.94
+  },
+  {
+    "text": "where you're coming from, and\nit would make a difference",
+    "start": 1386.26,
+    "duration": 2.73
+  },
+  {
+    "text": "in all the things you're\ntalking about, basically.",
+    "start": 1388.99,
+    "duration": 2.16
+  },
+  {
+    "text": "ADAM GRANT: Yeah, there\nwas a [INAUDIBLE] study",
+    "start": 1391.15,
+    "duration": 1.958
+  },
+  {
+    "text": "a few years ago, which I think\nis especially relevant now.",
+    "start": 1393.108,
+    "duration": 2.812
+  },
+  {
+    "text": "The basic question\nwas, what do employees",
+    "start": 1395.92,
+    "duration": 2.873
+  },
+  {
+    "text": "expect of their managers\nfrom an empathy standpoint?",
+    "start": 1398.793,
+    "duration": 2.167
+  },
+  {
+    "text": "And then what are\nmanagers responsible",
+    "start": 1400.96,
+    "duration": 2.07
+  },
+  {
+    "text": "for in their own minds?",
+    "start": 1403.03,
+    "duration": 1.557
+  },
+  {
+    "text": "And if you surveyed\nmanagers, basically what",
+    "start": 1404.587,
+    "duration": 1.833
+  },
+  {
+    "text": "they said was if I care\nabout my employees' lives",
+    "start": 1406.42,
+    "duration": 3.48
+  },
+  {
+    "text": "outside of work and I\nknow what they're feeling",
+    "start": 1409.9,
+    "duration": 2.92
+  },
+  {
+    "text": "and I have a sense of\ntheir well-being and life",
+    "start": 1412.82,
+    "duration": 2.15
+  },
+  {
+    "text": "satisfaction, I am\ngoing above and beyond.",
+    "start": 1414.97,
+    "duration": 3.66
+  },
+  {
+    "text": "When you talk to those\nmanagers' direct reports,",
+    "start": 1418.63,
+    "duration": 2.73
+  },
+  {
+    "text": "they said, mm, no.",
+    "start": 1421.36,
+    "duration": 1.65
+  },
+  {
+    "text": "That's actually part\nof my manager's job.",
+    "start": 1423.01,
+    "duration": 1.83
+  },
+  {
+    "text": "I expect them at bare minimum to\ncare about me as a human being",
+    "start": 1424.84,
+    "duration": 3.24
+  },
+  {
+    "text": "and have a sense\nof how I'm doing.",
+    "start": 1428.08,
+    "duration": 1.99
+  },
+  {
+    "text": "And I think the pandemic\nhas maybe closed",
+    "start": 1430.07,
+    "duration": 2.51
+  },
+  {
+    "text": "that gap a little bit, right?",
+    "start": 1432.58,
+    "duration": 1.95
+  },
+  {
+    "text": "On the one hand, I think\nit's made managers much more",
+    "start": 1434.53,
+    "duration": 2.49
+  },
+  {
+    "text": "aware of the importance\nof mental health,",
+    "start": 1437.02,
+    "duration": 2.16
+  },
+  {
+    "text": "of thinking about employee\nwell-being in life,",
+    "start": 1439.18,
+    "duration": 2.74
+  },
+  {
+    "text": "not just engagement at work.",
+    "start": 1441.92,
+    "duration": 1.88
+  },
+  {
+    "text": "And on the other hand,\nI think it's also",
+    "start": 1443.8,
+    "duration": 1.92
+  },
+  {
+    "text": "made employees a little bit\nmore comfortable saying,",
+    "start": 1445.72,
+    "duration": 2.19
+  },
+  {
+    "text": "you know what?",
+    "start": 1447.91,
+    "duration": 0.583
+  },
+  {
+    "text": "I would really love\nto be at this meeting,",
+    "start": 1448.493,
+    "duration": 1.787
+  },
+  {
+    "text": "but I've got to homeschool my\nthree kids right now on Zoom,",
+    "start": 1450.28,
+    "duration": 2.79
+  },
+  {
+    "text": "and this is not an easy task.",
+    "start": 1453.07,
+    "duration": 1.96
+  },
+  {
+    "text": "And I think my hope is that\none of the silver linings",
+    "start": 1455.03,
+    "duration": 2.54
+  },
+  {
+    "text": "of this pandemic is\nthat managers really",
+    "start": 1457.57,
+    "duration": 1.98
+  },
+  {
+    "text": "start to take it as\ntheir responsibility",
+    "start": 1459.55,
+    "duration": 1.68
+  },
+  {
+    "text": "to care about the\npeople they manage,",
+    "start": 1461.23,
+    "duration": 1.8
+  },
+  {
+    "text": "not just the productivity\nthat they end up yielding.",
+    "start": 1463.03,
+    "duration": 2.878
+  },
+  {
+    "text": "JOSHUA MACHT: That makes sense.",
+    "start": 1465.908,
+    "duration": 1.292
+  },
+  {
+    "text": "Now, let me switch gears for\none second before we go to--",
+    "start": 1467.2,
+    "duration": 3.323
+  },
+  {
+    "text": "because we have a\nlot of questions",
+    "start": 1470.523,
+    "duration": 1.417
+  },
+  {
+    "text": "here from our viewers.",
+    "start": 1471.94,
+    "duration": 3.12
+  },
+  {
+    "text": "But I am super curious.",
+    "start": 1475.06,
+    "duration": 1.59
+  },
+  {
+    "text": "So you're incredibly\nproductive and very prolific.",
+    "start": 1476.65,
+    "duration": 4.48
+  },
+  {
+    "text": "So first off, are you still--",
+    "start": 1481.13,
+    "duration": 1.43
+  },
+  {
+    "text": "have you maintained that?",
+    "start": 1482.56,
+    "duration": 1.18
+  },
+  {
+    "text": "And if so, how?",
+    "start": 1483.74,
+    "duration": 1.56
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 1485.3,
+    "duration": 1.38
+  },
+  {
+    "text": "ADAM GRANT: I never\nfeel productive,",
+    "start": 1487.49,
+    "duration": 1.5
+  },
+  {
+    "text": "so I think that's the\nfirst key to productivity",
+    "start": 1488.99,
+    "duration": 2.3
+  },
+  {
+    "text": "is setting ridiculously\nambitious goals that you never",
+    "start": 1491.29,
+    "duration": 2.68
+  },
+  {
+    "text": "reach.",
+    "start": 1493.97,
+    "duration": 0.5
+  },
+  {
+    "text": "Because if you always\nfeel like you're behind,",
+    "start": 1494.47,
+    "duration": 2.34
+  },
+  {
+    "text": "then you always have something\nto chase or something",
+    "start": 1496.81,
+    "duration": 3.42
+  },
+  {
+    "text": "to work toward.",
+    "start": 1500.23,
+    "duration": 1.95
+  },
+  {
+    "text": "Honestly, I don't\ntrack my productivity",
+    "start": 1502.18,
+    "duration": 1.92
+  },
+  {
+    "text": "in any way, shape or form.",
+    "start": 1504.1,
+    "duration": 1.33
+  },
+  {
+    "text": "And that's in large part\nbecause I don't think",
+    "start": 1505.43,
+    "duration": 2.69
+  },
+  {
+    "text": "productivity is a goal, right?",
+    "start": 1508.12,
+    "duration": 1.68
+  },
+  {
+    "text": "It's a means to a series of\nends that I really care about.",
+    "start": 1509.8,
+    "duration": 3.902
+  },
+  {
+    "text": "So I've never woken up\nin the morning and said,",
+    "start": 1513.702,
+    "duration": 1.958
+  },
+  {
+    "text": "you know what?",
+    "start": 1515.66,
+    "duration": 0.583
+  },
+  {
+    "text": "I'm really energized because I'm\ngoing to get a lot done today.",
+    "start": 1516.243,
+    "duration": 3.027
+  },
+  {
+    "text": "I don't care about the\nquantity I produce.",
+    "start": 1519.27,
+    "duration": 1.75
+  },
+  {
+    "text": "I care about the quality I\nproduce and the impact it has.",
+    "start": 1521.02,
+    "duration": 2.79
+  },
+  {
+    "text": "And so for me, what\nthat's meant is",
+    "start": 1523.81,
+    "duration": 1.8
+  },
+  {
+    "text": "I want to start each\nweek with real clarity",
+    "start": 1525.61,
+    "duration": 2.1
+  },
+  {
+    "text": "about what projects I care\nabout and who I'm trying to help",
+    "start": 1527.71,
+    "duration": 3.6
+  },
+  {
+    "text": "and what problems\nI want to solve.",
+    "start": 1531.31,
+    "duration": 2.65
+  },
+  {
+    "text": "And then I try to think\nabout that much more in terms",
+    "start": 1533.96,
+    "duration": 3.17
+  },
+  {
+    "text": "of attention management\nthan time management.",
+    "start": 1537.13,
+    "duration": 2.1
+  },
+  {
+    "text": "So for years, when people have\ntalked about time management,",
+    "start": 1539.23,
+    "duration": 2.88
+  },
+  {
+    "text": "I've said, well, you\nknow, you can't really",
+    "start": 1542.11,
+    "duration": 2.88
+  },
+  {
+    "text": "add more hours in the day.",
+    "start": 1544.99,
+    "duration": 1.26
+  },
+  {
+    "text": "And the more time\nyou spend trying",
+    "start": 1546.25,
+    "duration": 1.62
+  },
+  {
+    "text": "to optimize your\ncalendar, the more aware",
+    "start": 1547.87,
+    "duration": 2.1
+  },
+  {
+    "text": "you become and\nfrustrated you become",
+    "start": 1549.97,
+    "duration": 1.77
+  },
+  {
+    "text": "about all the hours you waste.",
+    "start": 1551.74,
+    "duration": 1.74
+  },
+  {
+    "text": "For me, attention management\nis a subtle but powerful shift",
+    "start": 1553.48,
+    "duration": 3.163
+  },
+  {
+    "text": "to say, you know what?",
+    "start": 1556.643,
+    "duration": 0.917
+  },
+  {
+    "text": "I'm going to prioritize\nin a very clear way",
+    "start": 1557.56,
+    "duration": 2.7
+  },
+  {
+    "text": "the people and projects\nthat matter to me.",
+    "start": 1560.26,
+    "duration": 1.98
+  },
+  {
+    "text": "And once I've done that, it does\nnot matter how long they take,",
+    "start": 1562.24,
+    "duration": 3.173
+  },
+  {
+    "text": "because those are the things\nthat I care about working on.",
+    "start": 1565.413,
+    "duration": 2.417
+  },
+  {
+    "text": "And so I'm trying then,\nI guess, to be much more",
+    "start": 1567.83,
+    "duration": 2.84
+  },
+  {
+    "text": "clear about what\nI'm after ultimately",
+    "start": 1570.67,
+    "duration": 2.4
+  },
+  {
+    "text": "than how much I'm producing.",
+    "start": 1573.07,
+    "duration": 2.26
+  },
+  {
+    "text": "JOSHUA MACHT:\n[INAUDIBLE] that's great.",
+    "start": 1575.33,
+    "duration": 1.83
+  },
+  {
+    "text": "That's great.",
+    "start": 1577.16,
+    "duration": 1.12
+  },
+  {
+    "text": "OK.",
+    "start": 1578.28,
+    "duration": 0.5
+  },
+  {
+    "text": "So I'm going to go\nto some questions",
+    "start": 1578.78,
+    "duration": 4.458
+  },
+  {
+    "text": "from the folks who are viewing.",
+    "start": 1583.238,
+    "duration": 2.112
+  },
+  {
+    "text": "And one comes from--",
+    "start": 1585.35,
+    "duration": 2.37
+  },
+  {
+    "text": "a really interesting\nquestion here,",
+    "start": 1587.72,
+    "duration": 1.963
+  },
+  {
+    "text": "kind of in line with the work\nyou're doing that you talked",
+    "start": 1589.683,
+    "duration": 2.417
+  },
+  {
+    "text": "about with Steve Jobs\nfrom [INAUDIBLE]----",
+    "start": 1592.1,
+    "duration": 3.72
+  },
+  {
+    "text": "I'm probably not getting\nthat name exactly",
+    "start": 1595.82,
+    "duration": 1.86
+  },
+  {
+    "text": "right-- apologies--\nfrom Nigeria who",
+    "start": 1597.68,
+    "duration": 2.22
+  },
+  {
+    "text": "asks, in some conservative\ncompanies, leadership",
+    "start": 1599.9,
+    "duration": 2.67
+  },
+  {
+    "text": "is still a bit uncomfortable\nhaving their workers adopt work",
+    "start": 1602.57,
+    "duration": 3.51
+  },
+  {
+    "text": "from home.",
+    "start": 1606.08,
+    "duration": 0.81
+  },
+  {
+    "text": "They tend to believe that\npeople are more productive when",
+    "start": 1606.89,
+    "duration": 2.46
+  },
+  {
+    "text": "physically present.",
+    "start": 1609.35,
+    "duration": 1.09
+  },
+  {
+    "text": "I think we've kind\nof all experienced",
+    "start": 1610.44,
+    "duration": 1.685
+  },
+  {
+    "text": "different managers like that.",
+    "start": 1612.125,
+    "duration": 2.425
+  },
+  {
+    "text": "How can we convince them that\nproductivity could actually",
+    "start": 1614.55,
+    "duration": 3.26
+  },
+  {
+    "text": "increase with work from home?",
+    "start": 1617.81,
+    "duration": 1.668
+  },
+  {
+    "text": "ADAM GRANT: Well, I always like\nto start with the data there.",
+    "start": 1619.478,
+    "duration": 2.542
+  },
+  {
+    "text": "So there was a meta analysis\nby Gajendran and Harrison",
+    "start": 1622.02,
+    "duration": 3.14
+  },
+  {
+    "text": "published 2007-- so\nthis is obviously",
+    "start": 1625.16,
+    "duration": 1.99
+  },
+  {
+    "text": "way before the pandemic--\naccumulating every study that",
+    "start": 1627.15,
+    "duration": 3.02
+  },
+  {
+    "text": "had ever looked at the\nrelationship between working",
+    "start": 1630.17,
+    "duration": 3.0
+  },
+  {
+    "text": "from home or telecommuting and a\nwhole host of outcomes at work.",
+    "start": 1633.17,
+    "duration": 3.9
+  },
+  {
+    "text": "And they found that as long\nas you're in the office",
+    "start": 1637.07,
+    "duration": 2.37
+  },
+  {
+    "text": "at least about two and\na half days a week,",
+    "start": 1639.44,
+    "duration": 2.4
+  },
+  {
+    "text": "there's no cost to\nperformance or satisfaction",
+    "start": 1641.84,
+    "duration": 2.64
+  },
+  {
+    "text": "or even to co-worker\ncollaborations",
+    "start": 1644.48,
+    "duration": 1.65
+  },
+  {
+    "text": "and relationships.",
+    "start": 1646.13,
+    "duration": 1.33
+  },
+  {
+    "text": "And then you start\nwondering, but, OK.",
+    "start": 1647.46,
+    "duration": 2.615
+  },
+  {
+    "text": "A lot of us are not in\nthe office at all, right?",
+    "start": 1650.075,
+    "duration": 2.155
+  },
+  {
+    "text": "So we're not hitting that\nsweet spot of being together",
+    "start": 1652.23,
+    "duration": 2.25
+  },
+  {
+    "text": "half the week.",
+    "start": 1654.48,
+    "duration": 0.59
+  },
+  {
+    "text": "Is that bad news?",
+    "start": 1655.07,
+    "duration": 1.38
+  },
+  {
+    "text": "Empirically, I think the\ndata say probably not.",
+    "start": 1656.45,
+    "duration": 3.51
+  },
+  {
+    "text": "There's a great\nexperiment that Nick Bloom",
+    "start": 1659.96,
+    "duration": 1.77
+  },
+  {
+    "text": "did that he led in China at\na call center called Ctrip.",
+    "start": 1661.73,
+    "duration": 3.99
+  },
+  {
+    "text": "And basically, half of\nthe employees in the study",
+    "start": 1665.72,
+    "duration": 2.52
+  },
+  {
+    "text": "were randomly assigned\nto work from home,",
+    "start": 1668.24,
+    "duration": 1.86
+  },
+  {
+    "text": "and they did that\nfor over six months.",
+    "start": 1670.1,
+    "duration": 2.22
+  },
+  {
+    "text": "They were 13.5% more\nproductive on average,",
+    "start": 1672.32,
+    "duration": 3.75
+  },
+  {
+    "text": "in part because they were more\nable to focus on their work,",
+    "start": 1676.07,
+    "duration": 3.39
+  },
+  {
+    "text": "in part because they seemed to\nexperience a sense of loyalty",
+    "start": 1679.46,
+    "duration": 3.93
+  },
+  {
+    "text": "from the flexibility and\nautonomy they were given.",
+    "start": 1683.39,
+    "duration": 2.49
+  },
+  {
+    "text": "And they were also\nhalf as likely to quit",
+    "start": 1685.88,
+    "duration": 2.13
+  },
+  {
+    "text": "over the next nine months.",
+    "start": 1688.01,
+    "duration": 1.755
+  },
+  {
+    "text": "Now, I don't think that\nmeans that working from home",
+    "start": 1689.765,
+    "duration": 2.33
+  },
+  {
+    "text": "is something that\neveryone wants.",
+    "start": 1692.095,
+    "duration": 1.375
+  },
+  {
+    "text": "Interestingly, after\nthe experiment was over,",
+    "start": 1693.47,
+    "duration": 2.46
+  },
+  {
+    "text": "half of those\nemployees decided they",
+    "start": 1695.93,
+    "duration": 2.07
+  },
+  {
+    "text": "wanted to come back to work.",
+    "start": 1698.0,
+    "duration": 1.167
+  },
+  {
+    "text": "They missed the structure.",
+    "start": 1699.167,
+    "duration": 1.083
+  },
+  {
+    "text": "They missed the community.",
+    "start": 1700.25,
+    "duration": 1.09
+  },
+  {
+    "text": "Some of them even said,\nI kind of miss my boss,",
+    "start": 1701.34,
+    "duration": 2.39
+  },
+  {
+    "text": "and I never thought\nI'd say that.",
+    "start": 1703.73,
+    "duration": 1.98
+  },
+  {
+    "text": "And they also faced some\ndisparities around promotions,",
+    "start": 1705.71,
+    "duration": 2.76
+  },
+  {
+    "text": "that despite being\nmore productive,",
+    "start": 1708.47,
+    "duration": 1.5
+  },
+  {
+    "text": "the people who\nworked from home were",
+    "start": 1709.97,
+    "duration": 1.5
+  },
+  {
+    "text": "less likely to get\npromoted because they",
+    "start": 1711.47,
+    "duration": 1.86
+  },
+  {
+    "text": "lacked face time with managers.",
+    "start": 1713.33,
+    "duration": 1.8
+  },
+  {
+    "text": "So there are\nobviously some kinks",
+    "start": 1715.13,
+    "duration": 1.47
+  },
+  {
+    "text": "to work out in that system.",
+    "start": 1716.6,
+    "duration": 1.2
+  },
+  {
+    "text": "But I think that\nevidence shows us--",
+    "start": 1717.8,
+    "duration": 1.592
+  },
+  {
+    "text": "and there are a number\nof experiments now",
+    "start": 1719.392,
+    "duration": 1.708
+  },
+  {
+    "text": "like it that suggest\nthat when people",
+    "start": 1721.1,
+    "duration": 2.22
+  },
+  {
+    "text": "get to choose where they\nwork and when they work,",
+    "start": 1723.32,
+    "duration": 3.06
+  },
+  {
+    "text": "they actually tend to become\na little bit more motivated.",
+    "start": 1726.38,
+    "duration": 2.43
+  },
+  {
+    "text": "And of course, we\nneed to figure out",
+    "start": 1728.81,
+    "duration": 1.5
+  },
+  {
+    "text": "the coordination challenges.",
+    "start": 1730.31,
+    "duration": 1.32
+  },
+  {
+    "text": "But there are actually\nways to do that,",
+    "start": 1731.63,
+    "duration": 1.897
+  },
+  {
+    "text": "which we could talk about.",
+    "start": 1733.527,
+    "duration": 1.083
+  },
+  {
+    "text": "So I would just\nstart and say, look.",
+    "start": 1734.61,
+    "duration": 2.255
+  },
+  {
+    "text": "Let's look at the data from\ncareful, rigorous, controlled",
+    "start": 1736.865,
+    "duration": 2.805
+  },
+  {
+    "text": "experiments.",
+    "start": 1739.67,
+    "duration": 0.96
+  },
+  {
+    "text": "And then if we want to run\nour own internal experiments,",
+    "start": 1740.63,
+    "duration": 2.67
+  },
+  {
+    "text": "let's actually see\nwhat the effect is.",
+    "start": 1743.3,
+    "duration": 1.662
+  },
+  {
+    "text": "And then we can\ngather our own data",
+    "start": 1744.962,
+    "duration": 1.458
+  },
+  {
+    "text": "and prove ourselves\nright or wrong.",
+    "start": 1746.42,
+    "duration": 2.77
+  },
+  {
+    "text": "JOSHUA MACHT: So this--",
+    "start": 1749.19,
+    "duration": 1.158
+  },
+  {
+    "text": "I don't know.",
+    "start": 1750.348,
+    "duration": 0.542
+  },
+  {
+    "text": "This occurs to me\nas you're talking.",
+    "start": 1750.89,
+    "duration": 1.5
+  },
+  {
+    "text": "You know, we've been\ndoing this for so long now",
+    "start": 1752.39,
+    "duration": 2.19
+  },
+  {
+    "text": "that we're starting to\nbring a lot of new people",
+    "start": 1754.58,
+    "duration": 2.0
+  },
+  {
+    "text": "into our companies,\nand the culture",
+    "start": 1756.58,
+    "duration": 1.582
+  },
+  {
+    "text": "that we're bringing\nthem into isn't",
+    "start": 1758.162,
+    "duration": 1.458
+  },
+  {
+    "text": "necessarily representative.",
+    "start": 1759.62,
+    "duration": 2.4
+  },
+  {
+    "text": "So I'm curious-- from your\npoint of view, you know, it's--",
+    "start": 1762.02,
+    "duration": 4.56
+  },
+  {
+    "text": "because culture's\nsomething you experience.",
+    "start": 1766.58,
+    "duration": 1.89
+  },
+  {
+    "text": "But now we're in the-- now we're\nin the business of actually",
+    "start": 1768.47,
+    "duration": 2.61
+  },
+  {
+    "text": "explaining it to people.",
+    "start": 1771.08,
+    "duration": 1.29
+  },
+  {
+    "text": "This is who we are,\nbecause you're not actually",
+    "start": 1772.37,
+    "duration": 2.61
+  },
+  {
+    "text": "coming here.",
+    "start": 1774.98,
+    "duration": 1.322
+  },
+  {
+    "text": "I mean, do you think that there\nare sort of tips and tricks",
+    "start": 1776.302,
+    "duration": 2.458
+  },
+  {
+    "text": "for bringing new people\ninto environments which",
+    "start": 1778.76,
+    "duration": 2.973
+  },
+  {
+    "text": "we're going to be\ndoing more and more",
+    "start": 1781.733,
+    "duration": 1.542
+  },
+  {
+    "text": "of over the next few months?",
+    "start": 1783.275,
+    "duration": 2.025
+  },
+  {
+    "text": "ADAM GRANT: Tricks, I hope not.",
+    "start": 1785.3,
+    "duration": 1.83
+  },
+  {
+    "text": "Tips, definitely.",
+    "start": 1787.13,
+    "duration": 2.04
+  },
+  {
+    "text": "So there's a great experiment\nthat Dan Cable, Brad Staats,",
+    "start": 1789.17,
+    "duration": 3.66
+  },
+  {
+    "text": "and Francesca Gino\ndid where they",
+    "start": 1792.83,
+    "duration": 2.97
+  },
+  {
+    "text": "had people go through\ndifferent kinds of onboarding",
+    "start": 1795.8,
+    "duration": 2.13
+  },
+  {
+    "text": "experiences.",
+    "start": 1797.93,
+    "duration": 1.05
+  },
+  {
+    "text": "So there's a control\ngroup that goes",
+    "start": 1798.98,
+    "duration": 1.5
+  },
+  {
+    "text": "through standard\norganizational onboarding,",
+    "start": 1800.48,
+    "duration": 1.908
+  },
+  {
+    "text": "and then there are two\nexperimental groups,",
+    "start": 1802.388,
+    "duration": 1.792
+  },
+  {
+    "text": "one of which really gets sort\nof socialized into the culture.",
+    "start": 1804.18,
+    "duration": 3.95
+  },
+  {
+    "text": "So you learn what the\norganization is all about.",
+    "start": 1808.13,
+    "duration": 2.14
+  },
+  {
+    "text": "You're told stories.",
+    "start": 1810.27,
+    "duration": 0.92
+  },
+  {
+    "text": "You get to understand\nthe values in depth.",
+    "start": 1811.19,
+    "duration": 2.49
+  },
+  {
+    "text": "And that doesn't seem\nto do a whole lot",
+    "start": 1813.68,
+    "duration": 2.28
+  },
+  {
+    "text": "when it comes to people's\nperformance or their retention.",
+    "start": 1815.96,
+    "duration": 3.06
+  },
+  {
+    "text": "What does work is a\ndifferent approach,",
+    "start": 1819.02,
+    "duration": 1.87
+  },
+  {
+    "text": "which says, you know what?",
+    "start": 1820.89,
+    "duration": 1.083
+  },
+  {
+    "text": "Instead of trying to bring\nthe organization to you,",
+    "start": 1821.973,
+    "duration": 2.757
+  },
+  {
+    "text": "let's bring you to\nthe organization.",
+    "start": 1824.73,
+    "duration": 2.31
+  },
+  {
+    "text": "And so employees\nin that condition",
+    "start": 1827.04,
+    "duration": 1.67
+  },
+  {
+    "text": "are invited to basically share\ntheir personal highlight reel",
+    "start": 1828.71,
+    "duration": 3.12
+  },
+  {
+    "text": "and talk about the times\nwhen they were at their best.",
+    "start": 1831.83,
+    "duration": 2.58
+  },
+  {
+    "text": "And that opportunity\nto express themselves,",
+    "start": 1834.41,
+    "duration": 2.07
+  },
+  {
+    "text": "their strengths, their\nvalues, their passions,",
+    "start": 1836.48,
+    "duration": 2.19
+  },
+  {
+    "text": "is enough to boost both their\nperformance and their retention",
+    "start": 1838.67,
+    "duration": 2.61
+  },
+  {
+    "text": "over the next six months.",
+    "start": 1841.28,
+    "duration": 1.69
+  },
+  {
+    "text": "And I think this is especially\nimportant during this pandemic,",
+    "start": 1842.97,
+    "duration": 2.85
+  },
+  {
+    "text": "right?",
+    "start": 1845.82,
+    "duration": 0.5
+  },
+  {
+    "text": "Because it is-- to your\npoint, it's really hard",
+    "start": 1846.32,
+    "duration": 2.13
+  },
+  {
+    "text": "to taste and touch and\nfeel an organization",
+    "start": 1848.45,
+    "duration": 2.55
+  },
+  {
+    "text": "when you haven't gotten to\nphysically be present there.",
+    "start": 1851.0,
+    "duration": 2.59
+  },
+  {
+    "text": "So one of the best things we\ncan do is we can say, look.",
+    "start": 1853.59,
+    "duration": 2.333
+  },
+  {
+    "text": "People want to express\nthemselves, right?",
+    "start": 1855.923,
+    "duration": 1.737
+  },
+  {
+    "text": "They want to make their\nvalues and their strengths",
+    "start": 1857.66,
+    "duration": 1.59
+  },
+  {
+    "text": "apparent to their\nnew colleagues.",
+    "start": 1859.25,
+    "duration": 1.375
+  },
+  {
+    "text": "And if we give them the\nopportunity to do that,",
+    "start": 1860.625,
+    "duration": 1.965
+  },
+  {
+    "text": "then they're going to\nfeel a sense of connection",
+    "start": 1862.59,
+    "duration": 1.61
+  },
+  {
+    "text": "to the organization.",
+    "start": 1864.2,
+    "duration": 0.985
+  },
+  {
+    "text": "They're also going to then\nhave a say in actually shaping",
+    "start": 1865.185,
+    "duration": 2.375
+  },
+  {
+    "text": "what the culture is.",
+    "start": 1867.56,
+    "duration": 1.41
+  },
+  {
+    "text": "An interesting example\nof how to do that",
+    "start": 1868.97,
+    "duration": 1.83
+  },
+  {
+    "text": "is an IDO where when\nyou join, you're",
+    "start": 1870.8,
+    "duration": 2.55
+  },
+  {
+    "text": "asked to give a talk\nto the organization.",
+    "start": 1873.35,
+    "duration": 2.26
+  },
+  {
+    "text": "It could be about\na passion of yours",
+    "start": 1875.61,
+    "duration": 1.64
+  },
+  {
+    "text": "or it could be a skill that\nyou want to teach to everyone.",
+    "start": 1877.25,
+    "duration": 2.418
+  },
+  {
+    "text": "But that way, all\nyour new colleagues",
+    "start": 1879.668,
+    "duration": 1.542
+  },
+  {
+    "text": "have a sense of who\nyou are and what we do.",
+    "start": 1881.21,
+    "duration": 1.792
+  },
+  {
+    "text": "And interestingly, I've been\ndoing this in my classroom",
+    "start": 1883.002,
+    "duration": 3.031
+  },
+  {
+    "text": "at Wharton for the\npast few years.",
+    "start": 1886.033,
+    "duration": 1.417
+  },
+  {
+    "text": "It was a student-driven idea\nthat students should volunteer",
+    "start": 1887.45,
+    "duration": 3.48
+  },
+  {
+    "text": "to give passion talks\nso that we can all",
+    "start": 1890.93,
+    "duration": 1.77
+  },
+  {
+    "text": "get to know each other outside\nof the content of the class.",
+    "start": 1892.7,
+    "duration": 2.552
+  },
+  {
+    "text": "And the first year we did it,\nwe had about a dozen students",
+    "start": 1895.252,
+    "duration": 2.458
+  },
+  {
+    "text": "sign up, and it was remarkable.",
+    "start": 1897.71,
+    "duration": 2.64
+  },
+  {
+    "text": "They taught us how\nto design buildings",
+    "start": 1900.35,
+    "duration": 2.31
+  },
+  {
+    "text": "that were aligned with a\nnatural environment as opposed",
+    "start": 1902.66,
+    "duration": 4.08
+  },
+  {
+    "text": "to sticking out\nlike a sore thumb.",
+    "start": 1906.74,
+    "duration": 1.68
+  },
+  {
+    "text": "They also-- we\nlearned how to beatbox",
+    "start": 1908.42,
+    "duration": 2.22
+  },
+  {
+    "text": "from one of the students.",
+    "start": 1910.64,
+    "duration": 1.41
+  },
+  {
+    "text": "And it was such a powerful\nexperience to get to know the--",
+    "start": 1912.05,
+    "duration": 3.57
+  },
+  {
+    "text": "I guess every member of\nthe class in a much more",
+    "start": 1915.62,
+    "duration": 2.34
+  },
+  {
+    "text": "personal way who volunteered.",
+    "start": 1917.96,
+    "duration": 1.777
+  },
+  {
+    "text": "And I said, you know what?",
+    "start": 1919.737,
+    "duration": 1.083
+  },
+  {
+    "text": "Moving forward, this is going\nto be a staple of the course,",
+    "start": 1920.82,
+    "duration": 2.22
+  },
+  {
+    "text": "and I'm going to ask every\nstudent to give a passion talk",
+    "start": 1923.04,
+    "duration": 2.375
+  },
+  {
+    "text": "and explain something that\nthey really love to the class.",
+    "start": 1925.415,
+    "duration": 2.745
+  },
+  {
+    "text": "I have never seen people bond\nso quickly or so meaningfully",
+    "start": 1928.16,
+    "duration": 3.6
+  },
+  {
+    "text": "than just watching them\ngive this one-minute talk",
+    "start": 1931.76,
+    "duration": 2.19
+  },
+  {
+    "text": "about something they\ncare deeply about.",
+    "start": 1933.95,
+    "duration": 1.625
+  },
+  {
+    "text": "So I think it's a practice\nthat any organization could try",
+    "start": 1935.575,
+    "duration": 2.785
+  },
+  {
+    "text": "pretty easily in onboarding.",
+    "start": 1938.36,
+    "duration": 1.442
+  },
+  {
+    "text": "JOSHUA MACHT: Mm.",
+    "start": 1939.802,
+    "duration": 0.708
+  },
+  {
+    "text": "That's great.",
+    "start": 1940.51,
+    "duration": 0.33
+  },
+  {
+    "text": "ADI IGNATIUS: Well, I\nwant to jump in and ask",
+    "start": 1940.84,
+    "duration": 1.875
+  },
+  {
+    "text": "one question that's\nvery much topical today,",
+    "start": 1942.715,
+    "duration": 3.835
+  },
+  {
+    "text": "and that's about partisanship.",
+    "start": 1946.55,
+    "duration": 2.367
+  },
+  {
+    "text": "I mean, we've sort of\nidentified that as one",
+    "start": 1948.917,
+    "duration": 1.833
+  },
+  {
+    "text": "of the issues at HBR we'd\nlove to help make progress on.",
+    "start": 1950.75,
+    "duration": 5.08
+  },
+  {
+    "text": "We're not exactly\nsure how, but we're",
+    "start": 1955.83,
+    "duration": 1.71
+  },
+  {
+    "text": "trying to figure that out now.",
+    "start": 1957.54,
+    "duration": 1.25
+  },
+  {
+    "text": "But it just-- it's\nso pernicious,",
+    "start": 1958.79,
+    "duration": 2.04
+  },
+  {
+    "text": "obviously, and stands in\nthe way of making progress",
+    "start": 1960.83,
+    "duration": 3.58
+  },
+  {
+    "text": "in a lot of areas.",
+    "start": 1964.41,
+    "duration": 1.08
+  },
+  {
+    "text": "So I'd love, Adam,\nyour thoughts.",
+    "start": 1965.49,
+    "duration": 1.69
+  },
+  {
+    "text": "What can be done at the\nlevel of the corporation,",
+    "start": 1967.18,
+    "duration": 4.51
+  },
+  {
+    "text": "the organization\nteams or something",
+    "start": 1971.69,
+    "duration": 2.64
+  },
+  {
+    "text": "to address this\nissue at that level",
+    "start": 1974.33,
+    "duration": 3.0
+  },
+  {
+    "text": "and maybe have an effect then\non kind of the national level?",
+    "start": 1977.33,
+    "duration": 3.67
+  },
+  {
+    "text": "ADAM GRANT: Wow.",
+    "start": 1981.0,
+    "duration": 1.25
+  },
+  {
+    "text": "Given that I have\na book coming out",
+    "start": 1982.25,
+    "duration": 1.53
+  },
+  {
+    "text": "next month about the power of\nknowing what you don't know,",
+    "start": 1983.78,
+    "duration": 2.7
+  },
+  {
+    "text": "this is a good moment\nto say, I don't know.",
+    "start": 1986.48,
+    "duration": 2.7
+  },
+  {
+    "text": "Right?",
+    "start": 1989.18,
+    "duration": 0.66
+  },
+  {
+    "text": "I think this is an incredibly\ncomplicated problem.",
+    "start": 1989.84,
+    "duration": 2.67
+  },
+  {
+    "text": "There are lots of brilliant,\nknowledgeable people working",
+    "start": 1992.51,
+    "duration": 2.43
+  },
+  {
+    "text": "on it.",
+    "start": 1994.94,
+    "duration": 0.5
+  },
+  {
+    "text": "I'm not sure that anybody\nhas a silver bullet.",
+    "start": 1995.44,
+    "duration": 2.33
+  },
+  {
+    "text": "I will say of all the\nresearch I've read,",
+    "start": 1997.77,
+    "duration": 2.69
+  },
+  {
+    "text": "there are probably\ntwo things that",
+    "start": 2000.46,
+    "duration": 1.785
+  },
+  {
+    "text": "have piqued my interest the\nmost in the past few months,",
+    "start": 2002.245,
+    "duration": 3.505
+  },
+  {
+    "text": "so I'll throw these out\nthere on the table as things",
+    "start": 2005.75,
+    "duration": 2.75
+  },
+  {
+    "text": "that other people have taught\nme that I've been thinking",
+    "start": 2008.5,
+    "duration": 2.333
+  },
+  {
+    "text": "a lot about, and put the\nideas in your capable hands",
+    "start": 2010.833,
+    "duration": 2.497
+  },
+  {
+    "text": "to figure out if there's\nsomething actionable here.",
+    "start": 2013.33,
+    "duration": 2.29
+  },
+  {
+    "text": "The first one is an idea\nfrom consumer psychology",
+    "start": 2015.62,
+    "duration": 3.02
+  },
+  {
+    "text": "from marketing researchers\ncalled solution aversion.",
+    "start": 2018.64,
+    "duration": 3.06
+  },
+  {
+    "text": "And the basic\npremise is that when",
+    "start": 2021.7,
+    "duration": 3.09
+  },
+  {
+    "text": "we hear a solution\nwe don't like,",
+    "start": 2024.79,
+    "duration": 1.77
+  },
+  {
+    "text": "we often will reject or\ndismiss the problem entirely.",
+    "start": 2026.56,
+    "duration": 3.49
+  },
+  {
+    "text": "So you see this a lot\nin climate change,",
+    "start": 2030.05,
+    "duration": 1.86
+  },
+  {
+    "text": "for example, when if you get\na relatively conservative",
+    "start": 2031.91,
+    "duration": 2.81
+  },
+  {
+    "text": "audience and you tell them they\nneed to cut their emissions",
+    "start": 2034.72,
+    "duration": 2.7
+  },
+  {
+    "text": "and they need to slash into\ntheir profits, a lot of people",
+    "start": 2037.42,
+    "duration": 2.417
+  },
+  {
+    "text": "have a knee-jerk\nreaction against it.",
+    "start": 2039.837,
+    "duration": 1.853
+  },
+  {
+    "text": "And then their response is to\nsay, well, I don't like that,",
+    "start": 2041.69,
+    "duration": 2.7
+  },
+  {
+    "text": "so I don't want to deal\nwith climate change.",
+    "start": 2044.39,
+    "duration": 2.186
+  },
+  {
+    "text": "And the easiest way\nto get around that",
+    "start": 2046.576,
+    "duration": 1.583
+  },
+  {
+    "text": "seems to be to bring\nmultiple possible solutions",
+    "start": 2048.159,
+    "duration": 2.671
+  },
+  {
+    "text": "onto the table so\nthat they can start",
+    "start": 2050.83,
+    "duration": 1.92
+  },
+  {
+    "text": "to see that there might\nbe possibilities that",
+    "start": 2052.75,
+    "duration": 1.994
+  },
+  {
+    "text": "are more palatable to them.",
+    "start": 2054.744,
+    "duration": 1.366
+  },
+  {
+    "text": "And then they're willing to\nengage with the problem as",
+    "start": 2056.11,
+    "duration": 2.25
+  },
+  {
+    "text": "opposed to kind of ignoring it.",
+    "start": 2058.36,
+    "duration": 1.362
+  },
+  {
+    "text": "And then the other thing that\nI think has been interesting",
+    "start": 2059.722,
+    "duration": 2.417
+  },
+  {
+    "text": "is some research by Robb\nWiller and his colleagues,",
+    "start": 2062.139,
+    "duration": 2.731
+  },
+  {
+    "text": "which is about how\noftentimes when",
+    "start": 2064.87,
+    "duration": 1.74
+  },
+  {
+    "text": "we speak across\npolitical boundaries,",
+    "start": 2066.61,
+    "duration": 3.029
+  },
+  {
+    "text": "we tend to speak in terms of\nthe values that motivate us as",
+    "start": 2069.639,
+    "duration": 2.79
+  },
+  {
+    "text": "opposed to the values\nthat motivate people",
+    "start": 2072.429,
+    "duration": 1.801
+  },
+  {
+    "text": "that are different from us.",
+    "start": 2074.23,
+    "duration": 1.125
+  },
+  {
+    "text": "And again, I think to continue\nwith the climate change",
+    "start": 2075.355,
+    "duration": 2.25
+  },
+  {
+    "text": "example, this is really clear.",
+    "start": 2077.605,
+    "duration": 1.335
+  },
+  {
+    "text": "On the liberal side,\nit tends to be mostly",
+    "start": 2078.94,
+    "duration": 2.31
+  },
+  {
+    "text": "about compassion and justice\nand saving the planet.",
+    "start": 2081.25,
+    "duration": 4.0
+  },
+  {
+    "text": "And generally\nspeaking, the evidence",
+    "start": 2085.25,
+    "duration": 1.616
+  },
+  {
+    "text": "suggests that if you\nwere to move more",
+    "start": 2086.866,
+    "duration": 1.583
+  },
+  {
+    "text": "to a conservative perspective,\nthe kinds of values",
+    "start": 2088.449,
+    "duration": 2.401
+  },
+  {
+    "text": "that are more\nlikely to appeal are",
+    "start": 2090.85,
+    "duration": 1.889
+  },
+  {
+    "text": "preserving the purity of nature\nor saying, you know what?",
+    "start": 2092.739,
+    "duration": 3.301
+  },
+  {
+    "text": "We want to maintain our\nlong-standing tradition",
+    "start": 2096.04,
+    "duration": 4.125
+  },
+  {
+    "text": "of keeping people healthy.",
+    "start": 2100.165,
+    "duration": 2.325
+  },
+  {
+    "text": "And I don't think we've done\na very good job translating",
+    "start": 2102.49,
+    "duration": 2.79
+  },
+  {
+    "text": "the ideas that we find\ncompelling into the values",
+    "start": 2105.28,
+    "duration": 2.37
+  },
+  {
+    "text": "that other people\nmight find palatable.",
+    "start": 2107.65,
+    "duration": 1.86
+  },
+  {
+    "text": "And that goes on both sides\nof the spectrum, right?",
+    "start": 2109.51,
+    "duration": 2.5
+  },
+  {
+    "text": "I think we need to talk in the\nlanguage of common values as",
+    "start": 2112.01,
+    "duration": 3.59
+  },
+  {
+    "text": "opposed to divisive values.",
+    "start": 2115.6,
+    "duration": 1.62
+  },
+  {
+    "text": "And to me, when I think\nabout this in America,",
+    "start": 2117.22,
+    "duration": 2.75
+  },
+  {
+    "text": "the crosscutting value that\nevery American cares about",
+    "start": 2119.97,
+    "duration": 2.83
+  },
+  {
+    "text": "is freedom, right?",
+    "start": 2122.8,
+    "duration": 1.365
+  },
+  {
+    "text": "So if we can start to talk about\nsome of these polarized topics",
+    "start": 2124.165,
+    "duration": 2.625
+  },
+  {
+    "text": "through the lens of saying,\nhow do we maintain our freedom",
+    "start": 2126.79,
+    "duration": 2.417
+  },
+  {
+    "text": "as individuals, how do\nwe maintain our freedom",
+    "start": 2129.207,
+    "duration": 2.383
+  },
+  {
+    "text": "as Americans, how do we\nmaintain freedom of people",
+    "start": 2131.59,
+    "duration": 3.09
+  },
+  {
+    "text": "globally, that could be a much\nmore productive conversation",
+    "start": 2134.68,
+    "duration": 3.74
+  },
+  {
+    "text": "than talking about\nsome of the values that",
+    "start": 2138.42,
+    "duration": 1.75
+  },
+  {
+    "text": "tend to drive people apart.",
+    "start": 2140.17,
+    "duration": 2.63
+  },
+  {
+    "text": "OCTAVIA GOREDEMA:\nSo Adam, I'd like",
+    "start": 2142.8,
+    "duration": 1.642
+  },
+  {
+    "text": "to ask you one more\nquestion from our audience,",
+    "start": 2144.442,
+    "duration": 1.958
+  },
+  {
+    "text": "and it comes from\nPankaj who's in Mumbai.",
+    "start": 2146.4,
+    "duration": 2.91
+  },
+  {
+    "text": "He'd love to know,\nhow do you choose",
+    "start": 2149.31,
+    "duration": 1.8
+  },
+  {
+    "text": "the topics for your books?",
+    "start": 2151.11,
+    "duration": 2.58
+  },
+  {
+    "text": "ADAM GRANT: How do I\nchoose book topics?",
+    "start": 2153.69,
+    "duration": 2.49
+  },
+  {
+    "text": "I don't think that I was\nvery deliberate about this",
+    "start": 2156.18,
+    "duration": 3.365
+  },
+  {
+    "text": "when I started.",
+    "start": 2159.545,
+    "duration": 0.625
+  },
+  {
+    "text": "I basically said, I'm\ngoing to write what I know.",
+    "start": 2160.17,
+    "duration": 2.43
+  },
+  {
+    "text": "And then over time as\nI've had more ideas",
+    "start": 2162.6,
+    "duration": 2.37
+  },
+  {
+    "text": "and run into different\nkinds of problems,",
+    "start": 2164.97,
+    "duration": 2.612
+  },
+  {
+    "text": "I've tried to get a little bit\nmore thoughtful about what's",
+    "start": 2167.582,
+    "duration": 2.458
+  },
+  {
+    "text": "worth writing a book on,\nknowing that [LAUGHS] books are",
+    "start": 2170.04,
+    "duration": 3.33
+  },
+  {
+    "text": "a little bit like being in a\nmovie where you get typecast,",
+    "start": 2173.37,
+    "duration": 3.0
+  },
+  {
+    "text": "and then people just want to\nask you about that one role",
+    "start": 2176.37,
+    "duration": 2.97
+  },
+  {
+    "text": "you played 10 years ago.",
+    "start": 2179.34,
+    "duration": 1.185
+  },
+  {
+    "text": "So they never really\nleave you, and if you're",
+    "start": 2180.525,
+    "duration": 1.875
+  },
+  {
+    "text": "going to write a whole\nbook about a topic,",
+    "start": 2182.4,
+    "duration": 1.75
+  },
+  {
+    "text": "you have to love it.",
+    "start": 2184.15,
+    "duration": 1.28
+  },
+  {
+    "text": "So that for me is the\nfirst question is, am I",
+    "start": 2185.43,
+    "duration": 2.73
+  },
+  {
+    "text": "so passionate about this\ntopic and so endlessly riveted",
+    "start": 2188.16,
+    "duration": 2.94
+  },
+  {
+    "text": "by it that I think about it\nwhen I go to bed at night,",
+    "start": 2191.1,
+    "duration": 2.7
+  },
+  {
+    "text": "I will talk to random people\nwho aren't in my field about it,",
+    "start": 2193.8,
+    "duration": 3.33
+  },
+  {
+    "text": "I read about it for fun?",
+    "start": 2197.13,
+    "duration": 1.463
+  },
+  {
+    "text": "And that's kind\nof the first test,",
+    "start": 2198.593,
+    "duration": 1.417
+  },
+  {
+    "text": "because if I can't\ncheck that box,",
+    "start": 2200.01,
+    "duration": 1.86
+  },
+  {
+    "text": "it's really not worth\nspending my energy on.",
+    "start": 2201.87,
+    "duration": 2.435
+  },
+  {
+    "text": "The second question that\nI like to think about then",
+    "start": 2204.305,
+    "duration": 2.125
+  },
+  {
+    "text": "is, how important is this topic?",
+    "start": 2206.43,
+    "duration": 2.17
+  },
+  {
+    "text": "So if everybody was\nable to understand it,",
+    "start": 2208.6,
+    "duration": 2.24
+  },
+  {
+    "text": "would the world\nbe a better place?",
+    "start": 2210.84,
+    "duration": 2.08
+  },
+  {
+    "text": "And I think that that's\none of the reasons why,",
+    "start": 2212.92,
+    "duration": 2.07
+  },
+  {
+    "text": "as an organizational\npsychologist,",
+    "start": 2214.99,
+    "duration": 1.417
+  },
+  {
+    "text": "I've chosen topics that tend\nto really bridge character",
+    "start": 2216.407,
+    "duration": 3.013
+  },
+  {
+    "text": "and success to say, look.",
+    "start": 2219.42,
+    "duration": 1.73
+  },
+  {
+    "text": "There are lots of\nbooks that tell people",
+    "start": 2221.15,
+    "duration": 2.47
+  },
+  {
+    "text": "how to accomplish\nthings, but my hope",
+    "start": 2223.62,
+    "duration": 2.43
+  },
+  {
+    "text": "is that we all become better\nhuman beings in the course",
+    "start": 2226.05,
+    "duration": 3.13
+  },
+  {
+    "text": "of pursuing our goals.",
+    "start": 2229.18,
+    "duration": 1.59
+  },
+  {
+    "text": "And so if I can understand how\nin give and take generosity",
+    "start": 2230.77,
+    "duration": 3.98
+  },
+  {
+    "text": "can go hand in hand\nwith success or how",
+    "start": 2234.75,
+    "duration": 2.43
+  },
+  {
+    "text": "we can be original thinkers\nand nonconformists, that to me",
+    "start": 2237.18,
+    "duration": 3.84
+  },
+  {
+    "text": "is a great way to allow\npeople to express core values,",
+    "start": 2241.02,
+    "duration": 2.64
+  },
+  {
+    "text": "not just achieve conventional\nmeasures of success.",
+    "start": 2243.66,
+    "duration": 3.41
+  },
+  {
+    "text": "So I think the importance\nof the problem is key.",
+    "start": 2247.07,
+    "duration": 2.0
+  },
+  {
+    "text": "And then the third piece of\nthis puzzle for me has become,",
+    "start": 2249.07,
+    "duration": 2.87
+  },
+  {
+    "text": "how much do we\nalready know about it?",
+    "start": 2251.94,
+    "duration": 1.74
+  },
+  {
+    "text": "How well do we\nalready understand it?",
+    "start": 2253.68,
+    "duration": 2.01
+  },
+  {
+    "text": "And do I have something\nunique to say on the topic?",
+    "start": 2255.69,
+    "duration": 2.79
+  },
+  {
+    "text": "I think it's very\neasy to say, look,",
+    "start": 2258.48,
+    "duration": 1.54
+  },
+  {
+    "text": "this is a problem\nthat's interesting to me",
+    "start": 2260.02,
+    "duration": 1.37
+  },
+  {
+    "text": "and I think it's\nimportant for the world,",
+    "start": 2261.39,
+    "duration": 1.782
+  },
+  {
+    "text": "but I don't think we need\nanother book on leadership,",
+    "start": 2263.172,
+    "duration": 2.208
+  },
+  {
+    "text": "right?",
+    "start": 2265.38,
+    "duration": 0.5
+  },
+  {
+    "text": "I think there have been a\nlot of good ones written,",
+    "start": 2265.88,
+    "duration": 2.29
+  },
+  {
+    "text": "so I want to take\non something that's",
+    "start": 2268.17,
+    "duration": 1.86
+  },
+  {
+    "text": "a little bit more novel\nand something where",
+    "start": 2270.03,
+    "duration": 2.07
+  },
+  {
+    "text": "my perspective, usually from\na combination of evidence",
+    "start": 2272.1,
+    "duration": 2.85
+  },
+  {
+    "text": "and experience, is different\nfrom if somebody else were",
+    "start": 2274.95,
+    "duration": 2.7
+  },
+  {
+    "text": "going to write this book.",
+    "start": 2277.65,
+    "duration": 1.41
+  },
+  {
+    "text": "And that's usually where I land.",
+    "start": 2279.06,
+    "duration": 1.59
+  },
+  {
+    "text": "If I can cover those\nthree bases and say,",
+    "start": 2280.65,
+    "duration": 1.95
+  },
+  {
+    "text": "interesting, important, and a\nunique contribution to make,",
+    "start": 2282.6,
+    "duration": 3.39
+  },
+  {
+    "text": "that might be an article.",
+    "start": 2285.99,
+    "duration": 1.05
+  },
+  {
+    "text": "And if I have more to say\nwhen the article's done,",
+    "start": 2287.04,
+    "duration": 2.083
+  },
+  {
+    "text": "then the book thinking begins.",
+    "start": 2289.123,
+    "duration": 1.595
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: Brilliant.",
+    "start": 2290.718,
+    "duration": 1.167
+  },
+  {
+    "text": "JOSHUA MACHT: So\none last thing, one",
+    "start": 2291.885,
+    "duration": 2.595
+  },
+  {
+    "text": "from our viewers-- and\nthere's a few people that",
+    "start": 2294.48,
+    "duration": 2.702
+  },
+  {
+    "text": "sort of reference this.",
+    "start": 2297.182,
+    "duration": 0.958
+  },
+  {
+    "text": "Claire from France,\nMatthew from Chicago.",
+    "start": 2298.14,
+    "duration": 3.0
+  },
+  {
+    "text": "The question is, how do we\nkeep our teams and stakeholders",
+    "start": 2301.14,
+    "duration": 3.3
+  },
+  {
+    "text": "optimistic and focused\non a positive future",
+    "start": 2304.44,
+    "duration": 4.92
+  },
+  {
+    "text": "as essentially we're\ngoing through what",
+    "start": 2309.36,
+    "duration": 1.74
+  },
+  {
+    "text": "is the toughest times here?",
+    "start": 2311.1,
+    "duration": 2.662
+  },
+  {
+    "text": "ADAM GRANT: I don't know\nthat that's always the goal.",
+    "start": 2313.762,
+    "duration": 2.208
+  },
+  {
+    "text": "So I'm a big believer\nin the psychology",
+    "start": 2315.97,
+    "duration": 1.76
+  },
+  {
+    "text": "of what Julie Norem calls\ndefensive pessimism, which",
+    "start": 2317.73,
+    "duration": 2.7
+  },
+  {
+    "text": "is the idea of saying, sometimes\nimagining the worst is actually",
+    "start": 2320.43,
+    "duration": 2.97
+  },
+  {
+    "text": "the best way to get\nto a good result.",
+    "start": 2323.4,
+    "duration": 2.79
+  },
+  {
+    "text": "I think it's entirely\nreasonable right now",
+    "start": 2326.19,
+    "duration": 2.34
+  },
+  {
+    "text": "to imagine all the horrible\nthings that could happen.",
+    "start": 2328.53,
+    "duration": 3.035
+  },
+  {
+    "text": "And then once you\nhave that list,",
+    "start": 2331.565,
+    "duration": 1.375
+  },
+  {
+    "text": "you, one, plan for what you're\ngoing to do to prevent them.",
+    "start": 2332.94,
+    "duration": 3.0
+  },
+  {
+    "text": "And two, you start to\nfeel unexpected gratitude",
+    "start": 2335.94,
+    "duration": 2.31
+  },
+  {
+    "text": "that some of those things\ndon't happen, right?",
+    "start": 2338.25,
+    "duration": 2.34
+  },
+  {
+    "text": "Instead of dealing\nwith the FOMO,",
+    "start": 2340.59,
+    "duration": 1.663
+  },
+  {
+    "text": "the Fear Of Missing\nOut that a lot of us",
+    "start": 2342.253,
+    "duration": 1.667
+  },
+  {
+    "text": "have been grappling with\nover the past almost a year,",
+    "start": 2343.92,
+    "duration": 2.37
+  },
+  {
+    "text": "you actually get to feel\nJOMO, the Joy Of Missing Out.",
+    "start": 2346.29,
+    "duration": 2.68
+  },
+  {
+    "text": "Like, how great is\nit that we actually",
+    "start": 2348.97,
+    "duration": 2.39
+  },
+  {
+    "text": "have vaccines when we\nprepared a contingency",
+    "start": 2351.36,
+    "duration": 2.37
+  },
+  {
+    "text": "plan for the\npossibility that there",
+    "start": 2353.73,
+    "duration": 2.19
+  },
+  {
+    "text": "wouldn't be any ready in 2021?",
+    "start": 2355.92,
+    "duration": 1.902
+  },
+  {
+    "text": "So I don't think there's\nanything wrong with creating",
+    "start": 2357.822,
+    "duration": 2.208
+  },
+  {
+    "text": "the worst case scenario list.",
+    "start": 2360.03,
+    "duration": 1.84
+  },
+  {
+    "text": "And I think the\noptimism then comes",
+    "start": 2361.87,
+    "duration": 1.64
+  },
+  {
+    "text": "from the pleasant surprises and\nalso from then being proactive",
+    "start": 2363.51,
+    "duration": 3.39
+  },
+  {
+    "text": "about saying, look.",
+    "start": 2366.9,
+    "duration": 1.02
+  },
+  {
+    "text": "Some of these events we\ncan actually influence.",
+    "start": 2367.92,
+    "duration": 2.16
+  },
+  {
+    "text": "The ones we can't\ninfluence, at least",
+    "start": 2370.08,
+    "duration": 1.89
+  },
+  {
+    "text": "we can be careful and\nstrategic in our response.",
+    "start": 2371.97,
+    "duration": 2.31
+  },
+  {
+    "text": "And to me, that's the\nconversation to have.",
+    "start": 2374.28,
+    "duration": 3.015
+  },
+  {
+    "text": "JOSHUA MACHT: That's great.",
+    "start": 2377.295,
+    "duration": 1.125
+  },
+  {
+    "text": "ADI IGNATIUS: All right.",
+    "start": 2378.42,
+    "duration": 0.3
+  },
+  {
+    "text": "So we're out of time.",
+    "start": 2378.72,
+    "duration": 0.88
+  },
+  {
+    "text": "I want to come back and\nthank you, Adam Grant,",
+    "start": 2379.6,
+    "duration": 3.5
+  },
+  {
+    "text": "for being our guest today,\nand for just throwing out",
+    "start": 2383.1,
+    "duration": 4.022
+  },
+  {
+    "text": "a lot of interesting ideas\nfor us all to think about.",
+    "start": 2387.122,
+    "duration": 2.208
+  },
+  {
+    "text": "So thanks, Adam.",
+    "start": 2389.33,
+    "duration": 1.42
+  },
+  {
+    "text": "ADAM GRANT: Any time.",
+    "start": 2390.75,
+    "duration": 0.95
+  },
+  {
+    "text": "ADI IGNATIUS: All right.",
+    "start": 2391.7,
+    "duration": 1.0
+  },
+  {
+    "text": "And I want to thank our\nsponsor, Accenture, for being",
+    "start": 2392.7,
+    "duration": 2.79
+  },
+  {
+    "text": "with us on this journey.",
+    "start": 2395.49,
+    "duration": 1.71
+  },
+  {
+    "text": "Our guest next week\nwill be Niren Chaudhary,",
+    "start": 2397.2,
+    "duration": 2.94
+  },
+  {
+    "text": "who's the CEO of\nPanera Bread, who",
+    "start": 2400.14,
+    "duration": 1.8
+  },
+  {
+    "text": "has been a real innovator\nduring the pandemic.",
+    "start": 2401.94,
+    "duration": 3.23
+  },
+  {
+    "text": "So we'll talk to him about\nwhat good leadership looks",
+    "start": 2405.17,
+    "duration": 2.89
+  },
+  {
+    "text": "like in a crisis.",
+    "start": 2408.06,
+    "duration": 1.45
+  },
+  {
+    "text": "So that will be next Tuesday.",
+    "start": 2409.51,
+    "duration": 1.55
+  },
+  {
+    "text": "Until then, from me,\nfrom Octavia, from Josh,",
+    "start": 2411.06,
+    "duration": 3.09
+  },
+  {
+    "text": "thank you for watching.",
+    "start": 2414.15,
+    "duration": 1.243
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 2415.393,
+    "duration": 4.93
+  },
+  {
+    "text": "DAVE: We're back.",
+    "start": 2436.372,
+    "duration": 0.708
+  },
+  {
+    "text": "ADI IGNATIUS: And we're back.",
+    "start": 2437.08,
+    "duration": 1.395
+  },
+  {
+    "text": "JOSHUA MACHT: And we're back.",
+    "start": 2438.475,
+    "duration": 1.32
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: Hi, Adam.",
+    "start": 2439.795,
+    "duration": 1.125
+  },
+  {
+    "text": "ADAM GRANT: Hey, [INAUDIBLE].",
+    "start": 2440.92,
+    "duration": 0.51
+  },
+  {
+    "text": "Long time, no see.",
+    "start": 2441.43,
+    "duration": 0.9
+  },
+  {
+    "text": "[LAUGHS]",
+    "start": 2442.33,
+    "duration": 0.69
+  },
+  {
+    "text": "JOSHUA MACHT: What did you\nguys think, Julie and Dave?",
+    "start": 2443.02,
+    "duration": 2.91
+  },
+  {
+    "text": "DAVE: You know, Adam.",
+    "start": 2445.93,
+    "duration": 0.9
+  },
+  {
+    "text": "I think you're a\nlittle out of focus.",
+    "start": 2446.83,
+    "duration": 1.74
+  },
+  {
+    "text": "Can you just do this\nin front of your face?",
+    "start": 2448.57,
+    "duration": 1.792
+  },
+  {
+    "text": "[LAUGHS]",
+    "start": 2450.362,
+    "duration": 0.608
+  },
+  {
+    "text": "Just--",
+    "start": 2450.97,
+    "duration": 1.38
+  },
+  {
+    "text": "[INTERPOSING VOICES]",
+    "start": 2452.35,
+    "duration": 1.95
+  },
+  {
+    "text": "Just a little bit.",
+    "start": 2454.3,
+    "duration": 0.77
+  },
+  {
+    "text": "Oh, it was fun.",
+    "start": 2455.07,
+    "duration": 0.55
+  },
+  {
+    "text": "It was good.",
+    "start": 2455.62,
+    "duration": 0.5
+  },
+  {
+    "text": "It was very interesting.",
+    "start": 2456.12,
+    "duration": 1.302
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: Yeah.",
+    "start": 2457.422,
+    "duration": 0.958
+  },
+  {
+    "text": "Lots of really great insights\nthat were helpful for me, so",
+    "start": 2458.38,
+    "duration": 4.19
+  },
+  {
+    "text": "thank you, Adam.",
+    "start": 2462.57,
+    "duration": 0.71
+  },
+  {
+    "text": "ADAM GRANT: Well,\nI appreciate that,",
+    "start": 2463.28,
+    "duration": 1.28
+  },
+  {
+    "text": "but that's not\nhelpful for me at all.",
+    "start": 2464.56,
+    "duration": 1.542
+  },
+  {
+    "text": "Tell me one thing\nI can do better.",
+    "start": 2466.102,
+    "duration": 1.965
+  },
+  {
+    "text": "ADI IGNATIUS: Well, focus.",
+    "start": 2468.067,
+    "duration": 1.083
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 2469.15,
+    "duration": 0.84
+  },
+  {
+    "text": "DAVE: Focus was--",
+    "start": 2469.99,
+    "duration": 1.92
+  },
+  {
+    "text": "I couldn't get off the focus\nfor, like, the last 10 minutes.",
+    "start": 2471.91,
+    "duration": 2.55
+  },
+  {
+    "text": "I was like, focus.",
+    "start": 2474.46,
+    "duration": 0.99
+  },
+  {
+    "text": "I wanted to come in and do that,\nbut I didn't want [INAUDIBLE]..",
+    "start": 2475.45,
+    "duration": 3.327
+  },
+  {
+    "text": "JULIE: I was like, oh, no.",
+    "start": 2478.777,
+    "duration": 1.083
+  },
+  {
+    "text": "It's definitely, like, a New\nYear's to do, the eye doctor.",
+    "start": 2479.86,
+    "duration": 2.673
+  },
+  {
+    "text": "And then I was like, oh, no.",
+    "start": 2482.533,
+    "duration": 1.167
+  },
+  {
+    "text": "It's actually-- it's my screen.",
+    "start": 2483.7,
+    "duration": 2.77
+  },
+  {
+    "text": "ADI IGNATIUS: Now, if anybody--\nif viewers are thinking,",
+    "start": 2486.47,
+    "duration": 2.42
+  },
+  {
+    "text": "these silly people\nare still on the air,",
+    "start": 2488.89,
+    "duration": 1.99
+  },
+  {
+    "text": "we know we're still on the air.",
+    "start": 2490.88,
+    "duration": 1.292
+  },
+  {
+    "text": "This is the world's least\nexclusive afterparty,",
+    "start": 2492.172,
+    "duration": 4.698
+  },
+  {
+    "text": "so here we are.",
+    "start": 2496.87,
+    "duration": 1.563
+  },
+  {
+    "text": "JOSHUA MACHT: I\ndon't know, you know?",
+    "start": 2498.433,
+    "duration": 1.542
+  },
+  {
+    "text": "I found it all to\nbe really useful.",
+    "start": 2499.975,
+    "duration": 1.905
+  },
+  {
+    "text": "I'm trying to wrack my brain\nto, like, if I can give you one",
+    "start": 2501.88,
+    "duration": 4.35
+  },
+  {
+    "text": "real piece of feedback, right?",
+    "start": 2506.23,
+    "duration": 4.44
+  },
+  {
+    "text": "That's a tough one, because\nthe ideas are, especially",
+    "start": 2510.67,
+    "duration": 3.66
+  },
+  {
+    "text": "in this context right now, I\nmean, at least for me, it's",
+    "start": 2514.33,
+    "duration": 3.81
+  },
+  {
+    "text": "like you're searching\nfor ideas of,",
+    "start": 2518.14,
+    "duration": 3.09
+  },
+  {
+    "text": "how do we all kind of\nget through this whole?",
+    "start": 2521.23,
+    "duration": 4.23
+  },
+  {
+    "text": "And I really like the thinking\nof kind of casting ahead.",
+    "start": 2525.46,
+    "duration": 4.59
+  },
+  {
+    "text": "And also, I think\nin your pieces,",
+    "start": 2530.05,
+    "duration": 1.44
+  },
+  {
+    "text": "you've talked about looking\nback as well is also equally--",
+    "start": 2531.49,
+    "duration": 3.96
+  },
+  {
+    "text": "which is good, because\nI enjoy doing that too.",
+    "start": 2535.45,
+    "duration": 2.445
+  },
+  {
+    "text": "[LAUGHS]",
+    "start": 2537.895,
+    "duration": 1.325
+  },
+  {
+    "text": "ADI IGNATIUS: I\nhave a question--",
+    "start": 2539.22,
+    "duration": 1.375
+  },
+  {
+    "text": "ADAM GRANT: I often feel\nlike people struggle",
+    "start": 2540.595,
+    "duration": 1.875
+  },
+  {
+    "text": "with the distinction between\nreflection and rumination,",
+    "start": 2542.47,
+    "duration": 2.35
+  },
+  {
+    "text": "not realizing that\nlooking back and having",
+    "start": 2544.82,
+    "duration": 2.0
+  },
+  {
+    "text": "the same thoughts about\nyour past experiences",
+    "start": 2546.82,
+    "duration": 1.92
+  },
+  {
+    "text": "that you had before is not\ngoing to do any good for you.",
+    "start": 2548.74,
+    "duration": 3.0
+  },
+  {
+    "text": "But actually saying OK, wait.",
+    "start": 2551.74,
+    "duration": 1.71
+  },
+  {
+    "text": "Have I gained a\nnew lens on this?",
+    "start": 2553.45,
+    "duration": 1.77
+  },
+  {
+    "text": "Or have I interacted with\nsomebody who maybe will",
+    "start": 2555.22,
+    "duration": 2.4
+  },
+  {
+    "text": "help me reframe what insight--",
+    "start": 2557.62,
+    "duration": 1.748
+  },
+  {
+    "text": "you know, what insight\nshould be taken away",
+    "start": 2559.368,
+    "duration": 1.792
+  },
+  {
+    "text": "from that experience?",
+    "start": 2561.16,
+    "duration": 1.14
+  },
+  {
+    "text": "That's a productive way\nto look back at the past.",
+    "start": 2562.3,
+    "duration": 2.07
+  },
+  {
+    "text": "And I feel like I know a lot\nof ruminators and not nearly",
+    "start": 2564.37,
+    "duration": 3.45
+  },
+  {
+    "text": "as many sort of\nthoughtful reflectors.",
+    "start": 2567.82,
+    "duration": 1.962
+  },
+  {
+    "text": "JOSHUA MACHT: Yeah, that's\na really good point.",
+    "start": 2569.782,
+    "duration": 1.958
+  },
+  {
+    "text": "It's so much easier\nto do the first thing.",
+    "start": 2571.74,
+    "duration": 2.89
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: So I'd\nlike to reflect for a moment.",
+    "start": 2574.63,
+    "duration": 2.25
+  },
+  {
+    "text": "As we look ahead,\nthe Tokyo Olympics",
+    "start": 2576.88,
+    "duration": 2.16
+  },
+  {
+    "text": "are less than 200 days away.",
+    "start": 2579.04,
+    "duration": 2.16
+  },
+  {
+    "text": "I read that you were a junior\nOlympic springboard diver.",
+    "start": 2581.2,
+    "duration": 3.84
+  },
+  {
+    "text": "Can you tell us more about that?",
+    "start": 2585.04,
+    "duration": 2.28
+  },
+  {
+    "text": "[LAUGHS]",
+    "start": 2587.32,
+    "duration": 1.23
+  },
+  {
+    "text": "ADAM GRANT: Well, I'd\nprefer to show you, but very",
+    "start": 2588.55,
+    "duration": 2.248
+  },
+  {
+    "text": "difficult in this context, so--",
+    "start": 2590.798,
+    "duration": 1.292
+  },
+  {
+    "text": "OCTAVIA GOREDEMA:\nI've seen the videos.",
+    "start": 2592.09,
+    "duration": 1.625
+  },
+  {
+    "text": "ADI IGNATIUS: [INAUDIBLE]",
+    "start": 2593.715,
+    "duration": 1.053
+  },
+  {
+    "text": "JOSHUA MACHT: Yeah.",
+    "start": 2594.768,
+    "duration": 0.792
+  },
+  {
+    "text": "ADAM GRANT: Long retired.",
+    "start": 2595.56,
+    "duration": 1.042
+  },
+  {
+    "text": "DAVE: I had those cued up.",
+    "start": 2596.602,
+    "duration": 1.548
+  },
+  {
+    "text": "ADAM GRANT: You know, I think\nthe most interesting thing",
+    "start": 2598.15,
+    "duration": 2.85
+  },
+  {
+    "text": "probably that I've taken with\nme from springboard diving is",
+    "start": 2601.0,
+    "duration": 4.68
+  },
+  {
+    "text": "a little bit about this\nidea of asking questions",
+    "start": 2605.68,
+    "duration": 2.31
+  },
+  {
+    "text": "that we talked about earlier.",
+    "start": 2607.99,
+    "duration": 1.21
+  },
+  {
+    "text": "So I had this incredible\ncoach, Eric [? Best, ?]",
+    "start": 2609.2,
+    "duration": 3.275
+  },
+  {
+    "text": "who had just endless\npatience with me.",
+    "start": 2612.475,
+    "duration": 2.085
+  },
+  {
+    "text": "And when I started diving,\nI was afraid of heights.",
+    "start": 2614.56,
+    "duration": 2.22
+  },
+  {
+    "text": "And you know, I go from\nthis kid who's literally",
+    "start": 2616.78,
+    "duration": 3.33
+  },
+  {
+    "text": "afraid of doing more than\na somersault to now I'm",
+    "start": 2620.11,
+    "duration": 2.953
+  },
+  {
+    "text": "standing up on a\nthree-meter springboard",
+    "start": 2623.063,
+    "duration": 1.667
+  },
+  {
+    "text": "and I'm supposed to do\nthree and a half somersaults",
+    "start": 2624.73,
+    "duration": 2.125
+  },
+  {
+    "text": "and not get dizzy and not crash.",
+    "start": 2626.855,
+    "duration": 3.335
+  },
+  {
+    "text": "And I just stand there\non the board, shaking.",
+    "start": 2630.19,
+    "duration": 2.52
+  },
+  {
+    "text": "And I'm not-- I'm not\nwilling to give it a shot.",
+    "start": 2632.71,
+    "duration": 2.248
+  },
+  {
+    "text": "I'm picturing all the\nthings that could go wrong,",
+    "start": 2634.958,
+    "duration": 2.042
+  },
+  {
+    "text": "and it's just paralyzing.",
+    "start": 2637.0,
+    "duration": 1.77
+  },
+  {
+    "text": "And finally, Eric\nsays to me, so Adam,",
+    "start": 2638.77,
+    "duration": 3.24
+  },
+  {
+    "text": "are you going to try\nthis dive one day or not?",
+    "start": 2642.01,
+    "duration": 2.68
+  },
+  {
+    "text": "[LAUGHS] And I said, yeah, of\ncourse I'm going to try this.",
+    "start": 2644.69,
+    "duration": 2.96
+  },
+  {
+    "text": "And I know it's a big--\nit's a major goal for me.",
+    "start": 2647.65,
+    "duration": 2.773
+  },
+  {
+    "text": "It's part of where I\nneed to-- you know,",
+    "start": 2650.423,
+    "duration": 1.667
+  },
+  {
+    "text": "what I need to master\nin order to get",
+    "start": 2652.09,
+    "duration": 1.2
+  },
+  {
+    "text": "to the next stage of my career.",
+    "start": 2653.29,
+    "duration": 1.145
+  },
+  {
+    "text": "Oh, thank you for that.",
+    "start": 2654.435,
+    "duration": 1.075
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 2655.51,
+    "duration": 1.98
+  },
+  {
+    "text": "And once I realized that I was\nplanning to do it, it sort of--",
+    "start": 2657.49,
+    "duration": 4.08
+  },
+  {
+    "text": "it became clear, why not today?",
+    "start": 2661.57,
+    "duration": 1.8
+  },
+  {
+    "text": "I might as well get\nthis out of the way.",
+    "start": 2663.37,
+    "duration": 2.74
+  },
+  {
+    "text": "And I think years of that kind\nof conversation is the diver",
+    "start": 2666.11,
+    "duration": 4.73
+  },
+  {
+    "text": "and then being in\nthe coaching role",
+    "start": 2670.84,
+    "duration": 1.83
+  },
+  {
+    "text": "and having the same kinds\nof discussions with divers,",
+    "start": 2672.67,
+    "duration": 2.31
+  },
+  {
+    "text": "it just-- it just reinforced\nfor me that so often when",
+    "start": 2674.98,
+    "duration": 2.94
+  },
+  {
+    "text": "we're trying to reason\nwith other people,",
+    "start": 2677.92,
+    "duration": 1.86
+  },
+  {
+    "text": "the best thing we\ncan do is actually",
+    "start": 2679.78,
+    "duration": 1.56
+  },
+  {
+    "text": "let them reason with\nthemselves and ask them",
+    "start": 2681.34,
+    "duration": 2.37
+  },
+  {
+    "text": "questions that elicit\ntheir own ideas",
+    "start": 2683.71,
+    "duration": 2.222
+  },
+  {
+    "text": "and their own motivations as\nopposed to trying to give them",
+    "start": 2685.932,
+    "duration": 2.458
+  },
+  {
+    "text": "the answer, which is something\nI don't do often enough,",
+    "start": 2688.39,
+    "duration": 2.73
+  },
+  {
+    "text": "but I think we should all have\na coach like that in our lives.",
+    "start": 2691.12,
+    "duration": 4.104
+  },
+  {
+    "text": "JULIE: So I have a question.",
+    "start": 2695.224,
+    "duration": 1.476
+  },
+  {
+    "text": "ADI IGNATIUS: I have\na-- oh, go ahead, Julie.",
+    "start": 2696.7,
+    "duration": 1.41
+  },
+  {
+    "text": "JULIE: Oh, I was just curious.",
+    "start": 2698.11,
+    "duration": 1.02
+  },
+  {
+    "text": "Did you know that you\nwere afraid of heights",
+    "start": 2699.13,
+    "duration": 1.97
+  },
+  {
+    "text": "before you signed up to a diver?",
+    "start": 2701.1,
+    "duration": 2.01
+  },
+  {
+    "text": "Or did you get to the top\nof the ladder and go, uh-oh.",
+    "start": 2703.11,
+    "duration": 2.34
+  },
+  {
+    "text": "This is going to be\nan extra wrinkle.",
+    "start": 2705.45,
+    "duration": 1.668
+  },
+  {
+    "text": "ADAM GRANT: Oh, no.",
+    "start": 2707.118,
+    "duration": 0.792
+  },
+  {
+    "text": "I definitely knew.",
+    "start": 2707.91,
+    "duration": 1.05
+  },
+  {
+    "text": "But when I signed up, I was--",
+    "start": 2708.96,
+    "duration": 1.56
+  },
+  {
+    "text": "[INTERPOSING VOICES]",
+    "start": 2710.52,
+    "duration": 1.5
+  },
+  {
+    "text": "JULIE: Yeah.",
+    "start": 2712.02,
+    "duration": 0.55
+  },
+  {
+    "text": "Yeah.",
+    "start": 2712.57,
+    "duration": 0.21
+  },
+  {
+    "text": "ADAM GRANT: It was a\none-meter little board,",
+    "start": 2712.78,
+    "duration": 1.833
+  },
+  {
+    "text": "and I didn't really\nthink through the fact",
+    "start": 2714.613,
+    "duration": 1.935
+  },
+  {
+    "text": "that if I got decent at that,\nI would have to go up higher,",
+    "start": 2716.548,
+    "duration": 2.458
+  },
+  {
+    "text": "so whoops.",
+    "start": 2719.006,
+    "duration": 3.334
+  },
+  {
+    "text": "ADI IGNATIUS: So this is a\nmorning show-type question.",
+    "start": 2722.34,
+    "duration": 2.8
+  },
+  {
+    "text": "So I gleaned from\nyour post that you're",
+    "start": 2725.14,
+    "duration": 2.72
+  },
+  {
+    "text": "sort of a comic book nerd.",
+    "start": 2727.86,
+    "duration": 2.1
+  },
+  {
+    "text": "So the morning show question is,\nAdam, what's your superpower?",
+    "start": 2729.96,
+    "duration": 3.78
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 2733.74,
+    "duration": 2.83
+  },
+  {
+    "text": "ADAM GRANT: Oh, I\nthink my superpower",
+    "start": 2736.57,
+    "duration": 2.36
+  },
+  {
+    "text": "is knowing my kryptonite, and\nthen working to no longer be",
+    "start": 2738.93,
+    "duration": 5.04
+  },
+  {
+    "text": "debilitated by it.",
+    "start": 2743.97,
+    "duration": 2.85
+  },
+  {
+    "text": "So I feel like with the\nfear of heights and diving,",
+    "start": 2746.82,
+    "duration": 2.69
+  },
+  {
+    "text": "then it was fear\nof public speaking",
+    "start": 2749.51,
+    "duration": 1.47
+  },
+  {
+    "text": "when I became a professor.",
+    "start": 2750.98,
+    "duration": 2.203
+  },
+  {
+    "text": "I think probably the\nmost valuable thing",
+    "start": 2753.183,
+    "duration": 1.667
+  },
+  {
+    "text": "I've done in my career is face\nthose fears head on and say,",
+    "start": 2754.85,
+    "duration": 3.042
+  },
+  {
+    "text": "look, I'm not going\nto get anywhere",
+    "start": 2757.892,
+    "duration": 1.458
+  },
+  {
+    "text": "by running away from\nthem or ignoring them.",
+    "start": 2759.35,
+    "duration": 1.86
+  },
+  {
+    "text": "I'm going to make\nprogress by asking myself",
+    "start": 2761.21,
+    "duration": 2.01
+  },
+  {
+    "text": "what I have to do every day\nin order to overcome them.",
+    "start": 2763.22,
+    "duration": 2.85
+  },
+  {
+    "text": "And I'm not going to say that\nevery single talk I give today",
+    "start": 2766.07,
+    "duration": 3.45
+  },
+  {
+    "text": "is exhilarating, but I rarely\nfeel nervous about them.",
+    "start": 2769.52,
+    "duration": 3.34
+  },
+  {
+    "text": "And I mostly enjoy\nthem, and I feel",
+    "start": 2772.86,
+    "duration": 1.7
+  },
+  {
+    "text": "like that's a mark of progress.",
+    "start": 2774.56,
+    "duration": 1.66
+  },
+  {
+    "text": "So I don't know.",
+    "start": 2776.22,
+    "duration": 1.242
+  },
+  {
+    "text": "There's a lot of debate\nabout whether we should",
+    "start": 2777.462,
+    "duration": 1.958
+  },
+  {
+    "text": "work on our strengths\nor we should",
+    "start": 2779.42,
+    "duration": 1.71
+  },
+  {
+    "text": "try to overcome our weaknesses.",
+    "start": 2781.13,
+    "duration": 2.1
+  },
+  {
+    "text": "For me, it's not an\neither/or question.",
+    "start": 2783.23,
+    "duration": 2.13
+  },
+  {
+    "text": "You have to do both.",
+    "start": 2785.36,
+    "duration": 1.04
+  },
+  {
+    "text": "But when I look at\nthe people I really",
+    "start": 2786.4,
+    "duration": 2.26
+  },
+  {
+    "text": "admire, the leaders, the thought\nleaders, the creative people,",
+    "start": 2788.66,
+    "duration": 4.17
+  },
+  {
+    "text": "the inventors, the\nentrepreneurs, the ones",
+    "start": 2792.83,
+    "duration": 2.233
+  },
+  {
+    "text": "who have really made\na mark on the world",
+    "start": 2795.063,
+    "duration": 1.667
+  },
+  {
+    "text": "are the ones who were unwilling\nto let one of their weaknesses",
+    "start": 2796.73,
+    "duration": 2.79
+  },
+  {
+    "text": "hold them back.",
+    "start": 2799.52,
+    "duration": 1.35
+  },
+  {
+    "text": "And I think that sadly,\nmost leaders and most people",
+    "start": 2800.87,
+    "duration": 3.36
+  },
+  {
+    "text": "are very uncomfortable\nfacing those head-on.",
+    "start": 2804.23,
+    "duration": 2.32
+  },
+  {
+    "text": "So I'd nominate that as\na potential superpower,",
+    "start": 2806.55,
+    "duration": 3.08
+  },
+  {
+    "text": "even though it's not really\nthat super most of the time.",
+    "start": 2809.63,
+    "duration": 2.813
+  },
+  {
+    "text": "JOSHUA MACHT: [INAUDIBLE],, what\nare you reading, by the way?",
+    "start": 2812.443,
+    "duration": 2.542
+  },
+  {
+    "text": "What are your favorite comics?",
+    "start": 2814.985,
+    "duration": 3.195
+  },
+  {
+    "text": "ADAM GRANT: Oh.",
+    "start": 2818.18,
+    "duration": 0.96
+  },
+  {
+    "text": "Growing up, I basically read\neverything Marvel and DC.",
+    "start": 2819.14,
+    "duration": 2.85
+  },
+  {
+    "text": "So I was especially\ninto Superman, X-Men.",
+    "start": 2821.99,
+    "duration": 4.81
+  },
+  {
+    "text": "I read a lot of Ghost Rider.",
+    "start": 2826.8,
+    "duration": 1.64
+  },
+  {
+    "text": "Not sure why at this\npoint, but for some reason,",
+    "start": 2828.44,
+    "duration": 2.49
+  },
+  {
+    "text": "it was appealing when I was 10.",
+    "start": 2830.93,
+    "duration": 2.2
+  },
+  {
+    "text": "And now, of course,\nI'm desperately",
+    "start": 2833.13,
+    "duration": 2.24
+  },
+  {
+    "text": "hoping that Disney will revive\nthe Daredevil and Jessica Jones",
+    "start": 2835.37,
+    "duration": 3.78
+  },
+  {
+    "text": "series that I sorely miss.",
+    "start": 2839.15,
+    "duration": 2.19
+  },
+  {
+    "text": "JULIE: Oh.",
+    "start": 2841.34,
+    "duration": 0.78
+  },
+  {
+    "text": "ADI IGNATIUS: I'm\nlooking forward",
+    "start": 2842.12,
+    "duration": 1.375
+  },
+  {
+    "text": "to organizational\npsychologist man.",
+    "start": 2843.495,
+    "duration": 2.255
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 2845.75,
+    "duration": 1.913
+  },
+  {
+    "text": "DAVE: You would.",
+    "start": 2847.663,
+    "duration": 0.667
+  },
+  {
+    "text": "ADI IGNATIUS: He\nknows his kryptonite.",
+    "start": 2848.33,
+    "duration": 1.59
+  },
+  {
+    "text": "JOSHUA MACHT: [INAUDIBLE]",
+    "start": 2849.92,
+    "duration": 1.08
+  },
+  {
+    "text": "ADAM GRANT: It's the guy who\ncomes into your workplace",
+    "start": 2851.0,
+    "duration": 1.77
+  },
+  {
+    "text": "and tells you a bunch of\nstuff you already know.",
+    "start": 2852.77,
+    "duration": 2.0
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 2854.77,
+    "duration": 0.663
+  },
+  {
+    "text": "JOSHUA MACHT: Exactly.",
+    "start": 2855.433,
+    "duration": 0.917
+  },
+  {
+    "text": "That's called--",
+    "start": 2856.35,
+    "duration": 0.625
+  },
+  {
+    "text": "JULIE: The Avengers\nteam dynamic needs",
+    "start": 2856.975,
+    "duration": 1.615
+  },
+  {
+    "text": "an organizational\npsychologist maybe.",
+    "start": 2858.59,
+    "duration": 2.172
+  },
+  {
+    "text": "ADAM GRANT: Yeah.",
+    "start": 2860.762,
+    "duration": 0.708
+  },
+  {
+    "text": "I think we generally prefer\nnot to assemble, though.",
+    "start": 2861.47,
+    "duration": 2.46
+  },
+  {
+    "text": "We like working alone.",
+    "start": 2863.93,
+    "duration": 1.49
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 2865.42,
+    "duration": 0.94
+  },
+  {
+    "text": "JULIE: Batman.",
+    "start": 2866.36,
+    "duration": 0.95
+  },
+  {
+    "text": "ADI IGNATIUS: All right.",
+    "start": 2867.31,
+    "duration": 1.0
+  },
+  {
+    "text": "Engineer Dave, you\nget the last word.",
+    "start": 2868.31,
+    "duration": 3.31
+  },
+  {
+    "text": "DAVE: What is your--",
+    "start": 2871.62,
+    "duration": 1.13
+  },
+  {
+    "text": "what is yours, Adi, as far as--",
+    "start": 2872.75,
+    "duration": 4.05
+  },
+  {
+    "text": "ADI IGNATIUS: What?",
+    "start": 2876.8,
+    "duration": 1.26
+  },
+  {
+    "text": "DAVE: Like-- like your\nsuperhero strength.",
+    "start": 2878.06,
+    "duration": 3.468
+  },
+  {
+    "text": "ADI IGNATIUS: Superpower?",
+    "start": 2881.528,
+    "duration": 1.042
+  },
+  {
+    "text": "DAVE: Yeah, your superpower.",
+    "start": 2882.57,
+    "duration": 1.167
+  },
+  {
+    "text": "[INTERPOSING VOICES]",
+    "start": 2883.737,
+    "duration": 2.678
+  },
+  {
+    "text": "ADI IGNATIUS: I eat really fast.",
+    "start": 2886.415,
+    "duration": 1.465
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 2887.88,
+    "duration": 0.35
+  },
+  {
+    "text": "DAVE: I was going to--",
+    "start": 2888.23,
+    "duration": 0.5
+  },
+  {
+    "text": "that's fine.",
+    "start": 2888.73,
+    "duration": 0.53
+  },
+  {
+    "text": "I eat excessively.",
+    "start": 2889.26,
+    "duration": 1.098
+  },
+  {
+    "text": "ADI IGNATIUS: Yeah.",
+    "start": 2890.358,
+    "duration": 0.792
+  },
+  {
+    "text": "JULIE: Skill.",
+    "start": 2891.15,
+    "duration": 0.9
+  },
+  {
+    "text": "DAVE: And really fast.",
+    "start": 2892.05,
+    "duration": 1.06
+  },
+  {
+    "text": "And Josh?",
+    "start": 2893.11,
+    "duration": 1.64
+  },
+  {
+    "text": "JOSHUA MACHT: Superpower?",
+    "start": 2894.75,
+    "duration": 1.26
+  },
+  {
+    "text": "DAVE: Yeah.",
+    "start": 2896.01,
+    "duration": 1.935
+  },
+  {
+    "text": "JOSHUA MACHT: I don't know\nthat's a great question.",
+    "start": 2897.945,
+    "duration": 2.125
+  },
+  {
+    "text": "I, um--",
+    "start": 2900.07,
+    "duration": 1.265
+  },
+  {
+    "text": "DAVE: All right, forget it.",
+    "start": 2901.335,
+    "duration": 1.125
+  },
+  {
+    "text": "Octavia, what's your superpower?",
+    "start": 2902.46,
+    "duration": 1.24
+  },
+  {
+    "text": "JULIE: Josh is\nvery talented and--",
+    "start": 2903.7,
+    "duration": 1.417
+  },
+  {
+    "text": "OCTAVIA GOREDEMA: I'm a\nreally good multitasker.",
+    "start": 2905.117,
+    "duration": 2.213
+  },
+  {
+    "text": "DAVE: Oh.",
+    "start": 2907.33,
+    "duration": 0.68
+  },
+  {
+    "text": "Let's leave it on that.",
+    "start": 2908.01,
+    "duration": 0.96
+  },
+  {
+    "text": "[LAUGHTER]",
+    "start": 2908.97,
+    "duration": 1.15
+  },
+  {
+    "text": "All right.",
+    "start": 2910.12,
+    "duration": 0.5
+  },
+  {
+    "text": "Did we take up enough\nof Adam's time?",
+    "start": 2910.62,
+    "duration": 1.542
+  },
+  {
+    "text": "Should we let you go?",
+    "start": 2912.162,
+    "duration": 0.968
+  },
+  {
+    "text": "ADI IGNATIUS: [INAUDIBLE]",
+    "start": 2913.13,
+    "duration": 1.293
+  },
+  {
+    "text": "DAVE: All right.",
+    "start": 2914.423,
+    "duration": 0.667
+  },
+  {
+    "text": "Well, thank you all.",
+    "start": 2915.09,
+    "duration": 0.84
+  },
+  {
+    "text": "Happy new year.",
+    "start": 2915.93,
+    "duration": 0.647
+  },
+  {
+    "text": "ADAM GRANT: Good to see you all.",
+    "start": 2916.577,
+    "duration": 1.333
+  },
+  {
+    "text": "JULIE: Happy new year.",
+    "start": 2917.91,
+    "duration": 0.792
+  },
+  {
+    "text": "DAVE: Take care, Adam.",
+    "start": 2918.702,
+    "duration": 0.917
+  },
+  {
+    "text": "Thank you.",
+    "start": 2919.619,
+    "duration": 1.831
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 2921.45,
+    "duration": 4.25
+  }
+]

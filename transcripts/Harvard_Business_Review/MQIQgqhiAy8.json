@@ -1,0 +1,7077 @@
+[
+  {
+    "text": "[Music]",
+    "start": 0.95,
+    "duration": 6.89
+  },
+  {
+    "text": "[Applause]",
+    "start": 7.65,
+    "duration": 3.83
+  },
+  {
+    "text": "[Music]",
+    "start": 7.84,
+    "duration": 3.64
+  },
+  {
+    "text": "hi and welcome",
+    "start": 12.0,
+    "duration": 4.08
+  },
+  {
+    "text": "to hbr now the harvard business review",
+    "start": 12.96,
+    "duration": 4.319
+  },
+  {
+    "text": "show where we talk about current",
+    "start": 16.08,
+    "duration": 2.48
+  },
+  {
+    "text": "developments and how they affect the",
+    "start": 17.279,
+    "duration": 2.561
+  },
+  {
+    "text": "world of business",
+    "start": 18.56,
+    "duration": 3.44
+  },
+  {
+    "text": "i'm adi ignatius editor-in-chief of",
+    "start": 19.84,
+    "duration": 3.84
+  },
+  {
+    "text": "harvard business review and i'm joined",
+    "start": 22.0,
+    "duration": 3.039
+  },
+  {
+    "text": "by my co-host",
+    "start": 23.68,
+    "duration": 3.519
+  },
+  {
+    "text": "octavia gordima who is the career coach",
+    "start": 25.039,
+    "duration": 4.48
+  },
+  {
+    "text": "and founder at 2010 agency",
+    "start": 27.199,
+    "duration": 4.48
+  },
+  {
+    "text": "and josh macht who heads product and",
+    "start": 29.519,
+    "duration": 3.441
+  },
+  {
+    "text": "innovation at",
+    "start": 31.679,
+    "duration": 3.441
+  },
+  {
+    "text": "harvard business review our special",
+    "start": 32.96,
+    "duration": 3.36
+  },
+  {
+    "text": "guest in a moment uh",
+    "start": 35.12,
+    "duration": 2.959
+  },
+  {
+    "text": "we'll bring in is chuck robbins who is",
+    "start": 36.32,
+    "duration": 3.68
+  },
+  {
+    "text": "the ceo and chairman of cisco systems",
+    "start": 38.079,
+    "duration": 3.441
+  },
+  {
+    "text": "the big networking company",
+    "start": 40.0,
+    "duration": 3.2
+  },
+  {
+    "text": "that for the past two years has finished",
+    "start": 41.52,
+    "duration": 4.16
+  },
+  {
+    "text": "number one in fortune's list of the",
+    "start": 43.2,
+    "duration": 4.24
+  },
+  {
+    "text": "world's best workplaces",
+    "start": 45.68,
+    "duration": 3.12
+  },
+  {
+    "text": "we'll be talking about how business can",
+    "start": 47.44,
+    "duration": 3.439
+  },
+  {
+    "text": "get on track amid all the challenges the",
+    "start": 48.8,
+    "duration": 4.079
+  },
+  {
+    "text": "2020 has thrown our way",
+    "start": 50.879,
+    "duration": 3.52
+  },
+  {
+    "text": "we invite you if you're watching to send",
+    "start": 52.879,
+    "duration": 3.2
+  },
+  {
+    "text": "in questions to chuck in the comments",
+    "start": 54.399,
+    "duration": 3.68
+  },
+  {
+    "text": "box we'll try to get to those later",
+    "start": 56.079,
+    "duration": 3.921
+  },
+  {
+    "text": "but first let's hear now from our",
+    "start": 58.079,
+    "duration": 5.681
+  },
+  {
+    "text": "sponsor our friends at accenture",
+    "start": 60.0,
+    "duration": 3.76
+  },
+  {
+    "text": "change is all around us",
+    "start": 64.32,
+    "duration": 7.119
+  },
+  {
+    "text": "shaped by technology and human ingenuity",
+    "start": 67.76,
+    "duration": 6.08
+  },
+  {
+    "text": "we can make it work for you and your",
+    "start": 71.439,
+    "duration": 4.631
+  },
+  {
+    "text": "business",
+    "start": 73.84,
+    "duration": 4.319
+  },
+  {
+    "text": "[Music]",
+    "start": 76.07,
+    "duration": 3.61
+  },
+  {
+    "text": "okay so before we start i want to talk a",
+    "start": 78.159,
+    "duration": 3.681
+  },
+  {
+    "text": "little bit about vaccines we had",
+    "start": 79.68,
+    "duration": 5.2
+  },
+  {
+    "text": "more positive news yesterday uh",
+    "start": 81.84,
+    "duration": 6.959
+  },
+  {
+    "text": "moderna reported a 94.5 percent efficacy",
+    "start": 84.88,
+    "duration": 5.52
+  },
+  {
+    "text": "rate in its test",
+    "start": 88.799,
+    "duration": 3.921
+  },
+  {
+    "text": "that follows pfizer's similarly good",
+    "start": 90.4,
+    "duration": 3.92
+  },
+  {
+    "text": "results last week",
+    "start": 92.72,
+    "duration": 4.079
+  },
+  {
+    "text": "um so real progress is being made um it",
+    "start": 94.32,
+    "duration": 3.839
+  },
+  {
+    "text": "was nice to see that",
+    "start": 96.799,
+    "duration": 3.521
+  },
+  {
+    "text": "the heads of both companies albert",
+    "start": 98.159,
+    "duration": 3.28
+  },
+  {
+    "text": "borland pfizer",
+    "start": 100.32,
+    "duration": 4.0
+  },
+  {
+    "text": "and nubar fan of moderna have been",
+    "start": 101.439,
+    "duration": 3.521
+  },
+  {
+    "text": "guests",
+    "start": 104.32,
+    "duration": 3.52
+  },
+  {
+    "text": "on hbr now so whereas they used to talk",
+    "start": 104.96,
+    "duration": 4.64
+  },
+  {
+    "text": "about the curse of sports illustrated",
+    "start": 107.84,
+    "duration": 3.36
+  },
+  {
+    "text": "that the magazine puts you on the cover",
+    "start": 109.6,
+    "duration": 3.839
+  },
+  {
+    "text": "and your fortunes would suddenly plummet",
+    "start": 111.2,
+    "duration": 3.919
+  },
+  {
+    "text": "maybe possibly we can talk about the",
+    "start": 113.439,
+    "duration": 4.72
+  },
+  {
+    "text": "blessing of appearing on hbr now",
+    "start": 115.119,
+    "duration": 4.241
+  },
+  {
+    "text": "something to think about we also",
+    "start": 118.159,
+    "duration": 3.28
+  },
+  {
+    "text": "interviewed dr anthony fauci who has",
+    "start": 119.36,
+    "duration": 3.68
+  },
+  {
+    "text": "somehow managed to keep his job",
+    "start": 121.439,
+    "duration": 4.401
+  },
+  {
+    "text": "despite repeated threats to fire him but",
+    "start": 123.04,
+    "duration": 4.399
+  },
+  {
+    "text": "anyway on the vaccine despite the good",
+    "start": 125.84,
+    "duration": 3.199
+  },
+  {
+    "text": "news there's a lot of questions and",
+    "start": 127.439,
+    "duration": 4.16
+  },
+  {
+    "text": "challenges still ahead and octavia i'd",
+    "start": 129.039,
+    "duration": 3.601
+  },
+  {
+    "text": "be interested",
+    "start": 131.599,
+    "duration": 3.761
+  },
+  {
+    "text": "in your perspective on where we are yeah",
+    "start": 132.64,
+    "duration": 3.599
+  },
+  {
+    "text": "i think",
+    "start": 135.36,
+    "duration": 3.68
+  },
+  {
+    "text": "these breakthroughs are incredible it's",
+    "start": 136.239,
+    "duration": 3.521
+  },
+  {
+    "text": "just",
+    "start": 139.04,
+    "duration": 2.88
+  },
+  {
+    "text": "such inspiring news to hear especially",
+    "start": 139.76,
+    "duration": 4.24
+  },
+  {
+    "text": "as we head into the holidays and",
+    "start": 141.92,
+    "duration": 3.92
+  },
+  {
+    "text": "especially as we're hitting what's like",
+    "start": 144.0,
+    "duration": 3.2
+  },
+  {
+    "text": "a third surge",
+    "start": 145.84,
+    "duration": 4.24
+  },
+  {
+    "text": "here in the united states but this will",
+    "start": 147.2,
+    "duration": 4.48
+  },
+  {
+    "text": "be the biggest vaccination",
+    "start": 150.08,
+    "duration": 4.239
+  },
+  {
+    "text": "effort in u.s history just the",
+    "start": 151.68,
+    "duration": 4.4
+  },
+  {
+    "text": "administration alone for it",
+    "start": 154.319,
+    "duration": 4.481
+  },
+  {
+    "text": "is monumental so i'm just really hoping",
+    "start": 156.08,
+    "duration": 4.32
+  },
+  {
+    "text": "we can be patient",
+    "start": 158.8,
+    "duration": 3.92
+  },
+  {
+    "text": "with the next steps because you know",
+    "start": 160.4,
+    "duration": 3.52
+  },
+  {
+    "text": "what the scientists are doing",
+    "start": 162.72,
+    "duration": 3.68
+  },
+  {
+    "text": "is incredible but there's a long way",
+    "start": 163.92,
+    "duration": 3.28
+  },
+  {
+    "text": "still to go",
+    "start": 166.4,
+    "duration": 3.119
+  },
+  {
+    "text": "what do you think josh well i mean i'm",
+    "start": 167.2,
+    "duration": 4.16
+  },
+  {
+    "text": "i'm excited about it but aren't you guys",
+    "start": 169.519,
+    "duration": 2.481
+  },
+  {
+    "text": "also",
+    "start": 171.36,
+    "duration": 2.239
+  },
+  {
+    "text": "in i don't know about you guys but for",
+    "start": 172.0,
+    "duration": 3.36
+  },
+  {
+    "text": "me i'm in the throes of trying to figure",
+    "start": 173.599,
+    "duration": 2.961
+  },
+  {
+    "text": "out the holidays",
+    "start": 175.36,
+    "duration": 3.28
+  },
+  {
+    "text": "and there ain't no vaccine in time for",
+    "start": 176.56,
+    "duration": 3.36
+  },
+  {
+    "text": "the holidays",
+    "start": 178.64,
+    "duration": 4.959
+  },
+  {
+    "text": "i mean and navigating family and",
+    "start": 179.92,
+    "duration": 5.92
+  },
+  {
+    "text": "and so many you know it's just i find",
+    "start": 183.599,
+    "duration": 4.241
+  },
+  {
+    "text": "that that's like the latest thing",
+    "start": 185.84,
+    "duration": 4.319
+  },
+  {
+    "text": "is that not stressful for you guys yeah",
+    "start": 187.84,
+    "duration": 3.92
+  },
+  {
+    "text": "i was listening to a woman you know some",
+    "start": 190.159,
+    "duration": 3.281
+  },
+  {
+    "text": "sort of epidemiologist or something on",
+    "start": 191.76,
+    "duration": 3.44
+  },
+  {
+    "text": "the radio yesterday who said look",
+    "start": 193.44,
+    "duration": 3.76
+  },
+  {
+    "text": "you know the what we should tell people",
+    "start": 195.2,
+    "duration": 4.0
+  },
+  {
+    "text": "is just say no don't do it don't see",
+    "start": 197.2,
+    "duration": 2.959
+  },
+  {
+    "text": "your family",
+    "start": 199.2,
+    "duration": 4.24
+  },
+  {
+    "text": "uh for thanksgiving say but",
+    "start": 200.159,
+    "duration": 5.281
+  },
+  {
+    "text": "she conceded that but that doesn't work",
+    "start": 203.44,
+    "duration": 3.439
+  },
+  {
+    "text": "you know we know people are gonna do it",
+    "start": 205.44,
+    "duration": 3.12
+  },
+  {
+    "text": "so we have to talk about how to",
+    "start": 206.879,
+    "duration": 3.36
+  },
+  {
+    "text": "how to mitigate the risk and yeah we're",
+    "start": 208.56,
+    "duration": 3.44
+  },
+  {
+    "text": "dealing with that right now our family i",
+    "start": 210.239,
+    "duration": 2.161
+  },
+  {
+    "text": "mean",
+    "start": 212.0,
+    "duration": 3.44
+  },
+  {
+    "text": "we would love to get together next week",
+    "start": 212.4,
+    "duration": 4.96
+  },
+  {
+    "text": "and if everybody gets tested beforehand",
+    "start": 215.44,
+    "duration": 3.439
+  },
+  {
+    "text": "is that enough i mean",
+    "start": 217.36,
+    "duration": 3.36
+  },
+  {
+    "text": "i don't know nobody has the answer and i",
+    "start": 218.879,
+    "duration": 3.36
+  },
+  {
+    "text": "just think",
+    "start": 220.72,
+    "duration": 3.28
+  },
+  {
+    "text": "we're close in a vaccine we're getting",
+    "start": 222.239,
+    "duration": 3.841
+  },
+  {
+    "text": "there but it's this period where there's",
+    "start": 224.0,
+    "duration": 3.12
+  },
+  {
+    "text": "a lot of risk",
+    "start": 226.08,
+    "duration": 3.439
+  },
+  {
+    "text": "and it just seems like people can't let",
+    "start": 227.12,
+    "duration": 3.28
+  },
+  {
+    "text": "their guards down",
+    "start": 229.519,
+    "duration": 3.681
+  },
+  {
+    "text": "yeah yeah i think you're right it's",
+    "start": 230.4,
+    "duration": 4.0
+  },
+  {
+    "text": "about being patient",
+    "start": 233.2,
+    "duration": 2.72
+  },
+  {
+    "text": "and maybe just being thankful for how",
+    "start": 234.4,
+    "duration": 3.36
+  },
+  {
+    "text": "far we've come and if we're still",
+    "start": 235.92,
+    "duration": 3.679
+  },
+  {
+    "text": "healthy at this moment and maybe",
+    "start": 237.76,
+    "duration": 3.6
+  },
+  {
+    "text": "fingers crossed this time next year will",
+    "start": 239.599,
+    "duration": 3.681
+  },
+  {
+    "text": "be in a different place yeah that's a",
+    "start": 241.36,
+    "duration": 2.56
+  },
+  {
+    "text": "nice message",
+    "start": 243.28,
+    "duration": 3.12
+  },
+  {
+    "text": "i like that all right we'll go with that",
+    "start": 243.92,
+    "duration": 4.0
+  },
+  {
+    "text": "um all right so let me now formally",
+    "start": 246.4,
+    "duration": 3.44
+  },
+  {
+    "text": "introduce our guest as i said it's the",
+    "start": 247.92,
+    "duration": 4.0
+  },
+  {
+    "text": "chairman and ceo of cisco systems chuck",
+    "start": 249.84,
+    "duration": 3.119
+  },
+  {
+    "text": "robbins",
+    "start": 251.92,
+    "duration": 3.2
+  },
+  {
+    "text": "born in georgia the grandson of a rural",
+    "start": 252.959,
+    "duration": 3.761
+  },
+  {
+    "text": "preacher he's been at cisco for more",
+    "start": 255.12,
+    "duration": 2.72
+  },
+  {
+    "text": "than 20 years",
+    "start": 256.72,
+    "duration": 3.6
+  },
+  {
+    "text": "and ceo for the past five he's an",
+    "start": 257.84,
+    "duration": 3.84
+  },
+  {
+    "text": "outspoken proponent",
+    "start": 260.32,
+    "duration": 3.92
+  },
+  {
+    "text": "proponent of stakeholder capitalism and",
+    "start": 261.68,
+    "duration": 4.32
+  },
+  {
+    "text": "has said that executives like this",
+    "start": 264.24,
+    "duration": 4.399
+  },
+  {
+    "text": "like himself can and must contribute to",
+    "start": 266.0,
+    "duration": 4.16
+  },
+  {
+    "text": "their communities for social good so",
+    "start": 268.639,
+    "duration": 2.801
+  },
+  {
+    "text": "chuck welcome",
+    "start": 270.16,
+    "duration": 2.88
+  },
+  {
+    "text": "well it's great to be here adi thanks",
+    "start": 271.44,
+    "duration": 3.52
+  },
+  {
+    "text": "for having me yeah we appreciate you",
+    "start": 273.04,
+    "duration": 2.719
+  },
+  {
+    "text": "making the time",
+    "start": 274.96,
+    "duration": 3.44
+  },
+  {
+    "text": "um so let's jump in at a high level you",
+    "start": 275.759,
+    "duration": 4.16
+  },
+  {
+    "text": "know this year has been a challenge",
+    "start": 278.4,
+    "duration": 4.88
+  },
+  {
+    "text": "covid social unrest the bonkers u.s",
+    "start": 279.919,
+    "duration": 4.481
+  },
+  {
+    "text": "election",
+    "start": 283.28,
+    "duration": 2.639
+  },
+  {
+    "text": "what is it going to take for american",
+    "start": 284.4,
+    "duration": 3.68
+  },
+  {
+    "text": "business to get back on track",
+    "start": 285.919,
+    "duration": 5.041
+  },
+  {
+    "text": "well first i just wanted to say that i'm",
+    "start": 288.08,
+    "duration": 4.88
+  },
+  {
+    "text": "hopeful that much like the",
+    "start": 290.96,
+    "duration": 4.32
+  },
+  {
+    "text": "the vaccine ceos that there's something",
+    "start": 292.96,
+    "duration": 3.679
+  },
+  {
+    "text": "good coming for me after",
+    "start": 295.28,
+    "duration": 3.68
+  },
+  {
+    "text": "participating in your uh podcast today",
+    "start": 296.639,
+    "duration": 4.56
+  },
+  {
+    "text": "so it's almost guaranteed",
+    "start": 298.96,
+    "duration": 4.239
+  },
+  {
+    "text": "uh it feels that way it feels that way i",
+    "start": 301.199,
+    "duration": 4.0
+  },
+  {
+    "text": "really i really hope that's the case",
+    "start": 303.199,
+    "duration": 4.321
+  },
+  {
+    "text": "so look i think that um you guys were",
+    "start": 305.199,
+    "duration": 3.681
+  },
+  {
+    "text": "just talking about it i think the",
+    "start": 307.52,
+    "duration": 2.88
+  },
+  {
+    "text": "vaccines are clearly going to be a big",
+    "start": 308.88,
+    "duration": 3.12
+  },
+  {
+    "text": "part of it but i think testing is",
+    "start": 310.4,
+    "duration": 3.68
+  },
+  {
+    "text": "is also a huge part as well as",
+    "start": 312.0,
+    "duration": 3.6
+  },
+  {
+    "text": "therapeutics and",
+    "start": 314.08,
+    "duration": 5.119
+  },
+  {
+    "text": "you know i could see a a future where",
+    "start": 315.6,
+    "duration": 6.08
+  },
+  {
+    "text": "if you can get the this high efficacy",
+    "start": 319.199,
+    "duration": 4.401
+  },
+  {
+    "text": "15-minute kind of testing you could even",
+    "start": 321.68,
+    "duration": 2.72
+  },
+  {
+    "text": "get back to",
+    "start": 323.6,
+    "duration": 2.48
+  },
+  {
+    "text": "concerts and sporting events and those",
+    "start": 324.4,
+    "duration": 3.12
+  },
+  {
+    "text": "kinds of things and so",
+    "start": 326.08,
+    "duration": 4.08
+  },
+  {
+    "text": "i think that um most companies right now",
+    "start": 327.52,
+    "duration": 3.44
+  },
+  {
+    "text": "believe that the",
+    "start": 330.16,
+    "duration": 2.08
+  },
+  {
+    "text": "the ends in sight they don't know",
+    "start": 330.96,
+    "duration": 3.04
+  },
+  {
+    "text": "exactly when it is and i think that most",
+    "start": 332.24,
+    "duration": 3.12
+  },
+  {
+    "text": "of them have said look",
+    "start": 334.0,
+    "duration": 3.759
+  },
+  {
+    "text": "if we're able to it's not a time where",
+    "start": 335.36,
+    "duration": 4.24
+  },
+  {
+    "text": "we can sit on our hands we have to begin",
+    "start": 337.759,
+    "duration": 3.361
+  },
+  {
+    "text": "to invest and continue to run our",
+    "start": 339.6,
+    "duration": 2.319
+  },
+  {
+    "text": "business and that's",
+    "start": 341.12,
+    "duration": 2.0
+  },
+  {
+    "text": "that's what we're seeing happening right",
+    "start": 341.919,
+    "duration": 3.201
+  },
+  {
+    "text": "now so",
+    "start": 343.12,
+    "duration": 3.6
+  },
+  {
+    "text": "all right so when the dust settles we",
+    "start": 345.12,
+    "duration": 3.84
+  },
+  {
+    "text": "will have a new administration in place",
+    "start": 346.72,
+    "duration": 2.88
+  },
+  {
+    "text": "so",
+    "start": 348.96,
+    "duration": 2.48
+  },
+  {
+    "text": "you know from your perspective what does",
+    "start": 349.6,
+    "duration": 3.52
+  },
+  {
+    "text": "the biden administration need to do to",
+    "start": 351.44,
+    "duration": 3.039
+  },
+  {
+    "text": "shore up business confidence",
+    "start": 353.12,
+    "duration": 2.72
+  },
+  {
+    "text": "you know in a way that's consistent with",
+    "start": 354.479,
+    "duration": 4.481
+  },
+  {
+    "text": "its own mission and ideals",
+    "start": 355.84,
+    "duration": 5.52
+  },
+  {
+    "text": "well i think that uh you know first of",
+    "start": 358.96,
+    "duration": 3.92
+  },
+  {
+    "text": "all i think just having the",
+    "start": 361.36,
+    "duration": 4.32
+  },
+  {
+    "text": "um the election behind us is super",
+    "start": 362.88,
+    "duration": 3.52
+  },
+  {
+    "text": "important",
+    "start": 365.68,
+    "duration": 2.56
+  },
+  {
+    "text": "uh we have you know the markets hate",
+    "start": 366.4,
+    "duration": 3.359
+  },
+  {
+    "text": "uncertainty although this year we've had",
+    "start": 368.24,
+    "duration": 2.72
+  },
+  {
+    "text": "a lot of uncertainty and the markets",
+    "start": 369.759,
+    "duration": 2.88
+  },
+  {
+    "text": "have seemed to be okay",
+    "start": 370.96,
+    "duration": 3.12
+  },
+  {
+    "text": "but i think when you think about the",
+    "start": 372.639,
+    "duration": 2.801
+  },
+  {
+    "text": "biden administration a lot of the things",
+    "start": 374.08,
+    "duration": 2.559
+  },
+  {
+    "text": "i think we're going to need stimulus to",
+    "start": 375.44,
+    "duration": 2.64
+  },
+  {
+    "text": "get to the vaccine i think that's well",
+    "start": 376.639,
+    "duration": 3.12
+  },
+  {
+    "text": "documented everyone talks about it i",
+    "start": 378.08,
+    "duration": 3.679
+  },
+  {
+    "text": "hope that they can get that done",
+    "start": 379.759,
+    "duration": 4.0
+  },
+  {
+    "text": "we clearly need an infrastructure bill",
+    "start": 381.759,
+    "duration": 4.401
+  },
+  {
+    "text": "uh in this country in the country",
+    "start": 383.759,
+    "duration": 4.241
+  },
+  {
+    "text": "and i think in keeping with that we need",
+    "start": 386.16,
+    "duration": 3.36
+  },
+  {
+    "text": "to be thinking about digital",
+    "start": 388.0,
+    "duration": 2.56
+  },
+  {
+    "text": "infrastructure because",
+    "start": 389.52,
+    "duration": 3.28
+  },
+  {
+    "text": "uh much like every country the pandemic",
+    "start": 390.56,
+    "duration": 3.68
+  },
+  {
+    "text": "has taught us that having",
+    "start": 392.8,
+    "duration": 3.2
+  },
+  {
+    "text": "technology in our infrastructure and",
+    "start": 394.24,
+    "duration": 3.12
+  },
+  {
+    "text": "having a robust",
+    "start": 396.0,
+    "duration": 3.84
+  },
+  {
+    "text": "uh intelligent infrastructure is key i",
+    "start": 397.36,
+    "duration": 4.32
+  },
+  {
+    "text": "think that's very important",
+    "start": 399.84,
+    "duration": 4.16
+  },
+  {
+    "text": "uh i think that you know if we do end up",
+    "start": 401.68,
+    "duration": 3.76
+  },
+  {
+    "text": "with a republican senate then we",
+    "start": 404.0,
+    "duration": 3.039
+  },
+  {
+    "text": "probably don't have to worry too much",
+    "start": 405.44,
+    "duration": 2.8
+  },
+  {
+    "text": "about a reversal of the",
+    "start": 407.039,
+    "duration": 2.801
+  },
+  {
+    "text": "of the tax reform which i think will be",
+    "start": 408.24,
+    "duration": 3.28
+  },
+  {
+    "text": "good for business",
+    "start": 409.84,
+    "duration": 4.56
+  },
+  {
+    "text": "and and then you've got broadband that",
+    "start": 411.52,
+    "duration": 5.92
+  },
+  {
+    "text": "is clearly part of the biden",
+    "start": 414.4,
+    "duration": 5.84
+  },
+  {
+    "text": "you know administration's plan not to",
+    "start": 417.44,
+    "duration": 3.68
+  },
+  {
+    "text": "mention",
+    "start": 420.24,
+    "duration": 3.359
+  },
+  {
+    "text": "continued focus on spectrum and 5g build",
+    "start": 421.12,
+    "duration": 4.32
+  },
+  {
+    "text": "out etc so i think all of those things",
+    "start": 423.599,
+    "duration": 2.961
+  },
+  {
+    "text": "are are part of",
+    "start": 425.44,
+    "duration": 2.319
+  },
+  {
+    "text": "how they're thinking about what they",
+    "start": 426.56,
+    "duration": 3.039
+  },
+  {
+    "text": "need to do and",
+    "start": 427.759,
+    "duration": 3.28
+  },
+  {
+    "text": "you know we look forward to working with",
+    "start": 429.599,
+    "duration": 3.04
+  },
+  {
+    "text": "them in whatever way makes sense to try",
+    "start": 431.039,
+    "duration": 1.921
+  },
+  {
+    "text": "to",
+    "start": 432.639,
+    "duration": 1.601
+  },
+  {
+    "text": "help them be successful because the",
+    "start": 432.96,
+    "duration": 3.6
+  },
+  {
+    "text": "country needs it let me let me ask you",
+    "start": 434.24,
+    "duration": 3.12
+  },
+  {
+    "text": "about 5g",
+    "start": 436.56,
+    "duration": 2.88
+  },
+  {
+    "text": "um you know we'll talk later more about",
+    "start": 437.36,
+    "duration": 4.559
+  },
+  {
+    "text": "the workplace of the future but",
+    "start": 439.44,
+    "duration": 5.759
+  },
+  {
+    "text": "you know 5g is key to sort of cisco's",
+    "start": 441.919,
+    "duration": 4.321
+  },
+  {
+    "text": "future plans",
+    "start": 445.199,
+    "duration": 3.681
+  },
+  {
+    "text": "and i guess i'd love to have a sense",
+    "start": 446.24,
+    "duration": 3.12
+  },
+  {
+    "text": "from you",
+    "start": 448.88,
+    "duration": 3.2
+  },
+  {
+    "text": "how will 5g change my life you know how",
+    "start": 449.36,
+    "duration": 4.559
+  },
+  {
+    "text": "will it change our lives as consumers as",
+    "start": 452.08,
+    "duration": 2.559
+  },
+  {
+    "text": "employees",
+    "start": 453.919,
+    "duration": 2.241
+  },
+  {
+    "text": "i mean what's what's the promise in your",
+    "start": 454.639,
+    "duration": 4.4
+  },
+  {
+    "text": "mind well if you just think back uh",
+    "start": 456.16,
+    "duration": 4.8
+  },
+  {
+    "text": "just over a decade ago when when the",
+    "start": 459.039,
+    "duration": 3.521
+  },
+  {
+    "text": "smartphone came out and the iphone came",
+    "start": 460.96,
+    "duration": 3.04
+  },
+  {
+    "text": "out 4g came out we didn't",
+    "start": 462.56,
+    "duration": 2.8
+  },
+  {
+    "text": "know how it was going to change our life",
+    "start": 464.0,
+    "duration": 2.8
+  },
+  {
+    "text": "when it first came out or when the",
+    "start": 465.36,
+    "duration": 3.44
+  },
+  {
+    "text": "technologies were first introduced and i",
+    "start": 466.8,
+    "duration": 2.48
+  },
+  {
+    "text": "think",
+    "start": 468.8,
+    "duration": 3.119
+  },
+  {
+    "text": "to some extent we don't know yet but",
+    "start": 469.28,
+    "duration": 4.0
+  },
+  {
+    "text": "just think about what's happened in the",
+    "start": 471.919,
+    "duration": 2.801
+  },
+  {
+    "text": "last decade",
+    "start": 473.28,
+    "duration": 3.199
+  },
+  {
+    "text": "since the advent of that phone and how",
+    "start": 474.72,
+    "duration": 3.36
+  },
+  {
+    "text": "everything has changed about how we",
+    "start": 476.479,
+    "duration": 2.241
+  },
+  {
+    "text": "communicate",
+    "start": 478.08,
+    "duration": 4.559
+  },
+  {
+    "text": "how we operate and what we do as humans",
+    "start": 478.72,
+    "duration": 6.96
+  },
+  {
+    "text": "some good some bad probably but what 5g",
+    "start": 482.639,
+    "duration": 4.96
+  },
+  {
+    "text": "really is is it's a",
+    "start": 485.68,
+    "duration": 4.56
+  },
+  {
+    "text": "it's an incredibly high performance low",
+    "start": 487.599,
+    "duration": 3.521
+  },
+  {
+    "text": "latency",
+    "start": 490.24,
+    "duration": 3.519
+  },
+  {
+    "text": "and low latency is a really important",
+    "start": 491.12,
+    "duration": 3.28
+  },
+  {
+    "text": "part of this",
+    "start": 493.759,
+    "duration": 2.16
+  },
+  {
+    "text": "which means we could we could run this",
+    "start": 494.4,
+    "duration": 3.28
+  },
+  {
+    "text": "video connection over and",
+    "start": 495.919,
+    "duration": 4.0
+  },
+  {
+    "text": "and the you know the the communication",
+    "start": 497.68,
+    "duration": 3.359
+  },
+  {
+    "text": "back and forth between",
+    "start": 499.919,
+    "duration": 3.361
+  },
+  {
+    "text": "us would be very low latency so that it",
+    "start": 501.039,
+    "duration": 3.84
+  },
+  {
+    "text": "would actually be effective",
+    "start": 503.28,
+    "duration": 3.52
+  },
+  {
+    "text": "in a perfect world we figure out how to",
+    "start": 504.879,
+    "duration": 3.04
+  },
+  {
+    "text": "to to have",
+    "start": 506.8,
+    "duration": 3.6
+  },
+  {
+    "text": "5g deliver high-speed broadband into",
+    "start": 507.919,
+    "duration": 4.401
+  },
+  {
+    "text": "rural areas areas where",
+    "start": 510.4,
+    "duration": 4.48
+  },
+  {
+    "text": "those people don't have access to",
+    "start": 512.32,
+    "duration": 4.24
+  },
+  {
+    "text": "high-speed connectivity because if we",
+    "start": 514.88,
+    "duration": 3.44
+  },
+  {
+    "text": "think about",
+    "start": 516.56,
+    "duration": 3.12
+  },
+  {
+    "text": "one of the fundamental needs in this",
+    "start": 518.32,
+    "duration": 3.519
+  },
+  {
+    "text": "country right now is to really create an",
+    "start": 519.68,
+    "duration": 4.479
+  },
+  {
+    "text": "inclusive future for everybody and i",
+    "start": 521.839,
+    "duration": 3.521
+  },
+  {
+    "text": "think that um",
+    "start": 524.159,
+    "duration": 3.201
+  },
+  {
+    "text": "you know getting connectivity there",
+    "start": 525.36,
+    "duration": 3.919
+  },
+  {
+    "text": "being able to deliver education deliver",
+    "start": 527.36,
+    "duration": 2.88
+  },
+  {
+    "text": "health care deliver",
+    "start": 529.279,
+    "duration": 3.521
+  },
+  {
+    "text": "other services i think is one of the key",
+    "start": 530.24,
+    "duration": 3.92
+  },
+  {
+    "text": "things that we need to enable so that's",
+    "start": 532.8,
+    "duration": 3.68
+  },
+  {
+    "text": "another possible benefit of it",
+    "start": 534.16,
+    "duration": 4.96
+  },
+  {
+    "text": "but it will be revolutionary and i think",
+    "start": 536.48,
+    "duration": 4.0
+  },
+  {
+    "text": "it's going to be great to just watch the",
+    "start": 539.12,
+    "duration": 2.56
+  },
+  {
+    "text": "innovation that occurs",
+    "start": 540.48,
+    "duration": 3.84
+  },
+  {
+    "text": "as we get this built out so if you're",
+    "start": 541.68,
+    "duration": 3.36
+  },
+  {
+    "text": "just trying to",
+    "start": 544.32,
+    "duration": 3.519
+  },
+  {
+    "text": "tune in this is hvr now our guest is",
+    "start": 545.04,
+    "duration": 5.12
+  },
+  {
+    "text": "chuck robbins the ceo of cisco",
+    "start": 547.839,
+    "duration": 4.241
+  },
+  {
+    "text": "if you have a question for him please",
+    "start": 550.16,
+    "duration": 3.119
+  },
+  {
+    "text": "put it in the comments",
+    "start": 552.08,
+    "duration": 4.319
+  },
+  {
+    "text": "box um chuck you know you you're a ceo",
+    "start": 553.279,
+    "duration": 4.24
+  },
+  {
+    "text": "who talks",
+    "start": 556.399,
+    "duration": 2.721
+  },
+  {
+    "text": "a lot about responsibility to",
+    "start": 557.519,
+    "duration": 4.081
+  },
+  {
+    "text": "stakeholders beyond just shareholders",
+    "start": 559.12,
+    "duration": 4.48
+  },
+  {
+    "text": "you talk about long-term thinking but",
+    "start": 561.6,
+    "duration": 3.6
+  },
+  {
+    "text": "you know then there you are a recorder",
+    "start": 563.6,
+    "duration": 3.28
+  },
+  {
+    "text": "giving quarterly guidance and",
+    "start": 565.2,
+    "duration": 3.04
+  },
+  {
+    "text": "you know subject to the whims of an",
+    "start": 566.88,
+    "duration": 3.04
+  },
+  {
+    "text": "investor base that can sometimes have a",
+    "start": 568.24,
+    "duration": 2.56
+  },
+  {
+    "text": "pretty short-term",
+    "start": 569.92,
+    "duration": 3.28
+  },
+  {
+    "text": "perspective how do you balance that and",
+    "start": 570.8,
+    "duration": 4.0
+  },
+  {
+    "text": "and do you wish the system would",
+    "start": 573.2,
+    "duration": 4.639
+  },
+  {
+    "text": "work differently well it is complicated",
+    "start": 574.8,
+    "duration": 4.08
+  },
+  {
+    "text": "that is for sure",
+    "start": 577.839,
+    "duration": 4.881
+  },
+  {
+    "text": "and um but i think that uh look we're",
+    "start": 578.88,
+    "duration": 4.959
+  },
+  {
+    "text": "we're in these jobs and they're",
+    "start": 582.72,
+    "duration": 3.44
+  },
+  {
+    "text": "complicated jobs and uh",
+    "start": 583.839,
+    "duration": 5.12
+  },
+  {
+    "text": "we have to figure that out i do think",
+    "start": 586.16,
+    "duration": 3.44
+  },
+  {
+    "text": "that",
+    "start": 588.959,
+    "duration": 2.801
+  },
+  {
+    "text": "they're not disconnected i think there",
+    "start": 589.6,
+    "duration": 4.4
+  },
+  {
+    "text": "are times when you have to focus on one",
+    "start": 591.76,
+    "duration": 3.84
+  },
+  {
+    "text": "stakeholder perhaps",
+    "start": 594.0,
+    "duration": 3.519
+  },
+  {
+    "text": "more than the others and and it's going",
+    "start": 595.6,
+    "duration": 3.6
+  },
+  {
+    "text": "to wane it's rare that you're you're",
+    "start": 597.519,
+    "duration": 3.201
+  },
+  {
+    "text": "giving equal attention to all at any",
+    "start": 599.2,
+    "duration": 3.12
+  },
+  {
+    "text": "given time if you're",
+    "start": 600.72,
+    "duration": 3.2
+  },
+  {
+    "text": "i've told the people on our side of our",
+    "start": 602.32,
+    "duration": 4.079
+  },
+  {
+    "text": "company we have we have employees who",
+    "start": 603.92,
+    "duration": 4.24
+  },
+  {
+    "text": "have incredible hearts and passion for",
+    "start": 606.399,
+    "duration": 3.601
+  },
+  {
+    "text": "giving back in their communities",
+    "start": 608.16,
+    "duration": 4.16
+  },
+  {
+    "text": "and uh and as do i and as does our",
+    "start": 610.0,
+    "duration": 3.76
+  },
+  {
+    "text": "leadership team and what i've told them",
+    "start": 612.32,
+    "duration": 3.12
+  },
+  {
+    "text": "is in order to do the thing you love",
+    "start": 613.76,
+    "duration": 2.8
+  },
+  {
+    "text": "which is giving back",
+    "start": 615.44,
+    "duration": 2.959
+  },
+  {
+    "text": "and and contributing to society we have",
+    "start": 616.56,
+    "duration": 3.12
+  },
+  {
+    "text": "to run a great business",
+    "start": 618.399,
+    "duration": 2.401
+  },
+  {
+    "text": "because we're not running a great",
+    "start": 619.68,
+    "duration": 2.64
+  },
+  {
+    "text": "business it makes it more difficult to",
+    "start": 620.8,
+    "duration": 3.68
+  },
+  {
+    "text": "do that so i think they're all connected",
+    "start": 622.32,
+    "duration": 4.4
+  },
+  {
+    "text": "and our desire to be active in our",
+    "start": 624.48,
+    "duration": 3.28
+  },
+  {
+    "text": "communities",
+    "start": 626.72,
+    "duration": 2.96
+  },
+  {
+    "text": "is it's more difficult if our business",
+    "start": 627.76,
+    "duration": 3.199
+  },
+  {
+    "text": "is not performing well so i think",
+    "start": 629.68,
+    "duration": 2.64
+  },
+  {
+    "text": "they're all interconnected and you can",
+    "start": 630.959,
+    "duration": 2.56
+  },
+  {
+    "text": "find a way",
+    "start": 632.32,
+    "duration": 5.04
+  },
+  {
+    "text": "to actually to to",
+    "start": 633.519,
+    "duration": 5.521
+  },
+  {
+    "text": "communicate to each of the stakeholders",
+    "start": 637.36,
+    "duration": 3.84
+  },
+  {
+    "text": "why a focus on the other stakeholders is",
+    "start": 639.04,
+    "duration": 2.88
+  },
+  {
+    "text": "good for",
+    "start": 641.2,
+    "duration": 2.4
+  },
+  {
+    "text": "all of them and i think that's pretty",
+    "start": 641.92,
+    "duration": 3.84
+  },
+  {
+    "text": "clear to most people at this point",
+    "start": 643.6,
+    "duration": 4.32
+  },
+  {
+    "text": "and so it's complicated but it's not",
+    "start": 645.76,
+    "duration": 3.12
+  },
+  {
+    "text": "impossible",
+    "start": 647.92,
+    "duration": 3.359
+  },
+  {
+    "text": "yep so not to get hung up on share price",
+    "start": 648.88,
+    "duration": 3.199
+  },
+  {
+    "text": "but your",
+    "start": 651.279,
+    "duration": 2.961
+  },
+  {
+    "text": "share price is solidly up since you",
+    "start": 652.079,
+    "duration": 3.681
+  },
+  {
+    "text": "announced earnings last week",
+    "start": 654.24,
+    "duration": 3.12
+  },
+  {
+    "text": "but i think it's actually down for the",
+    "start": 655.76,
+    "duration": 3.36
+  },
+  {
+    "text": "year even though you know your",
+    "start": 657.36,
+    "duration": 4.0
+  },
+  {
+    "text": "technology webex is helping to drive the",
+    "start": 659.12,
+    "duration": 4.399
+  },
+  {
+    "text": "work from home economy you know zoom has",
+    "start": 661.36,
+    "duration": 3.76
+  },
+  {
+    "text": "taken some of that market share so i",
+    "start": 663.519,
+    "duration": 2.641
+  },
+  {
+    "text": "guess my question is",
+    "start": 665.12,
+    "duration": 2.48
+  },
+  {
+    "text": "would you do anything differently",
+    "start": 666.16,
+    "duration": 3.359
+  },
+  {
+    "text": "competitively if you could reset",
+    "start": 667.6,
+    "duration": 4.239
+  },
+  {
+    "text": "back to let's say march of this year",
+    "start": 669.519,
+    "duration": 3.44
+  },
+  {
+    "text": "well if i had known we were going to",
+    "start": 671.839,
+    "duration": 3.841
+  },
+  {
+    "text": "enter a pandemic",
+    "start": 672.959,
+    "duration": 4.88
+  },
+  {
+    "text": "you know look i think that the the great",
+    "start": 675.68,
+    "duration": 3.92
+  },
+  {
+    "text": "news is the market",
+    "start": 677.839,
+    "duration": 4.56
+  },
+  {
+    "text": "expanded for all of us uh so that is",
+    "start": 679.6,
+    "duration": 3.84
+  },
+  {
+    "text": "that's good news we",
+    "start": 682.399,
+    "duration": 5.281
+  },
+  {
+    "text": "we've learned as a society that we can",
+    "start": 683.44,
+    "duration": 6.0
+  },
+  {
+    "text": "while we may not want to we can actually",
+    "start": 687.68,
+    "duration": 3.44
+  },
+  {
+    "text": "have some level of productivity over",
+    "start": 689.44,
+    "duration": 3.68
+  },
+  {
+    "text": "this technology",
+    "start": 691.12,
+    "duration": 5.44
+  },
+  {
+    "text": "and i think that as i look at what we do",
+    "start": 693.12,
+    "duration": 5.52
+  },
+  {
+    "text": "you know the focus for us is around",
+    "start": 696.56,
+    "duration": 3.279
+  },
+  {
+    "text": "enterprise grade",
+    "start": 698.64,
+    "duration": 4.72
+  },
+  {
+    "text": "security privacy because organizations",
+    "start": 699.839,
+    "duration": 6.24
+  },
+  {
+    "text": "there's one thing to be having a casual",
+    "start": 703.36,
+    "duration": 4.4
+  },
+  {
+    "text": "you know cocktail discussion with family",
+    "start": 706.079,
+    "duration": 3.521
+  },
+  {
+    "text": "members and friends there's another to",
+    "start": 707.76,
+    "duration": 3.6
+  },
+  {
+    "text": "be operating your entire business",
+    "start": 709.6,
+    "duration": 4.72
+  },
+  {
+    "text": "over a platform uh you that where you're",
+    "start": 711.36,
+    "duration": 4.24
+  },
+  {
+    "text": "sharing intellectual property you're",
+    "start": 714.32,
+    "duration": 2.0
+  },
+  {
+    "text": "talking about",
+    "start": 715.6,
+    "duration": 2.56
+  },
+  {
+    "text": "new products new capabilities new",
+    "start": 716.32,
+    "duration": 4.4
+  },
+  {
+    "text": "services competitive differentiation",
+    "start": 718.16,
+    "duration": 5.679
+  },
+  {
+    "text": "and so the need for it to be secure and",
+    "start": 720.72,
+    "duration": 4.32
+  },
+  {
+    "text": "ensure the privacy of those",
+    "start": 723.839,
+    "duration": 2.961
+  },
+  {
+    "text": "conversations is super important and",
+    "start": 725.04,
+    "duration": 3.359
+  },
+  {
+    "text": "that's what we focused on we built it",
+    "start": 726.8,
+    "duration": 3.279
+  },
+  {
+    "text": "that way from the ground up",
+    "start": 728.399,
+    "duration": 3.44
+  },
+  {
+    "text": "and when you look around the world we",
+    "start": 730.079,
+    "duration": 3.2
+  },
+  {
+    "text": "have governments all around the world",
+    "start": 731.839,
+    "duration": 3.44
+  },
+  {
+    "text": "that are actually using webex",
+    "start": 733.279,
+    "duration": 4.641
+  },
+  {
+    "text": "to to legislate right now and we",
+    "start": 735.279,
+    "duration": 4.081
+  },
+  {
+    "text": "actually formalized a product called",
+    "start": 737.92,
+    "duration": 4.56
+  },
+  {
+    "text": "webex legislate so i think that",
+    "start": 739.36,
+    "duration": 4.88
+  },
+  {
+    "text": "look it's it's been this year this has",
+    "start": 742.48,
+    "duration": 3.52
+  },
+  {
+    "text": "been a year where we need everybody's",
+    "start": 744.24,
+    "duration": 3.279
+  },
+  {
+    "text": "platforms to work because the world",
+    "start": 746.0,
+    "duration": 2.72
+  },
+  {
+    "text": "needs them to work",
+    "start": 747.519,
+    "duration": 3.281
+  },
+  {
+    "text": "and i think over the next few years some",
+    "start": 748.72,
+    "duration": 3.76
+  },
+  {
+    "text": "of these uh more important issues will",
+    "start": 750.8,
+    "duration": 2.4
+  },
+  {
+    "text": "become",
+    "start": 752.48,
+    "duration": 3.12
+  },
+  {
+    "text": "more critical to uh to the buyers go",
+    "start": 753.2,
+    "duration": 3.68
+  },
+  {
+    "text": "full the full disclosure harvard",
+    "start": 755.6,
+    "duration": 2.799
+  },
+  {
+    "text": "business review is a we're a webex",
+    "start": 756.88,
+    "duration": 2.48
+  },
+  {
+    "text": "company so",
+    "start": 758.399,
+    "duration": 3.521
+  },
+  {
+    "text": "i didn't know that i'm glad to hear it",
+    "start": 759.36,
+    "duration": 4.24
+  },
+  {
+    "text": "um so let's i want to bring back josh",
+    "start": 761.92,
+    "duration": 3.359
+  },
+  {
+    "text": "and octavia though to uh",
+    "start": 763.6,
+    "duration": 4.72
+  },
+  {
+    "text": "want to ask some questions as well",
+    "start": 765.279,
+    "duration": 5.441
+  },
+  {
+    "text": "so chuck i'm curious with so much",
+    "start": 768.32,
+    "duration": 4.079
+  },
+  {
+    "text": "equipment and",
+    "start": 770.72,
+    "duration": 3.44
+  },
+  {
+    "text": "buildings all over the world commercial",
+    "start": 772.399,
+    "duration": 3.361
+  },
+  {
+    "text": "real estate all over the world what's",
+    "start": 774.16,
+    "duration": 2.479
+  },
+  {
+    "text": "your",
+    "start": 775.76,
+    "duration": 2.56
+  },
+  {
+    "text": "or cisco's take on what's going to",
+    "start": 776.639,
+    "duration": 3.44
+  },
+  {
+    "text": "happen with commercial real estate going",
+    "start": 778.32,
+    "duration": 3.84
+  },
+  {
+    "text": "forward i mean are we",
+    "start": 780.079,
+    "duration": 4.481
+  },
+  {
+    "text": "you know i mean so many companies we now",
+    "start": 782.16,
+    "duration": 3.2
+  },
+  {
+    "text": "are in some",
+    "start": 784.56,
+    "duration": 3.6
+  },
+  {
+    "text": "distributed world so what's the outlook",
+    "start": 785.36,
+    "duration": 3.52
+  },
+  {
+    "text": "it's gonna be",
+    "start": 788.16,
+    "duration": 2.239
+  },
+  {
+    "text": "every building is gonna be empty forever",
+    "start": 788.88,
+    "duration": 4.56
+  },
+  {
+    "text": "josh it feels that way some days",
+    "start": 790.399,
+    "duration": 4.801
+  },
+  {
+    "text": "uh you know it's it's funny we go",
+    "start": 793.44,
+    "duration": 3.36
+  },
+  {
+    "text": "through these waves of",
+    "start": 795.2,
+    "duration": 3.6
+  },
+  {
+    "text": "with any with any issue almost it's like",
+    "start": 796.8,
+    "duration": 3.76
+  },
+  {
+    "text": "we go through these waves of extremities",
+    "start": 798.8,
+    "duration": 3.2
+  },
+  {
+    "text": "and then we come back to sort of the",
+    "start": 800.56,
+    "duration": 1.839
+  },
+  {
+    "text": "middle",
+    "start": 802.0,
+    "duration": 3.04
+  },
+  {
+    "text": "and uh it's um so i think you know if",
+    "start": 802.399,
+    "duration": 3.921
+  },
+  {
+    "text": "you go back six months ago there was a",
+    "start": 805.04,
+    "duration": 2.64
+  },
+  {
+    "text": "lot of discussion around",
+    "start": 806.32,
+    "duration": 2.88
+  },
+  {
+    "text": "whether anybody would go back because",
+    "start": 807.68,
+    "duration": 2.88
+  },
+  {
+    "text": "this is great we're all productive we're",
+    "start": 809.2,
+    "duration": 2.879
+  },
+  {
+    "text": "working from home it's fantastic and",
+    "start": 810.56,
+    "duration": 1.839
+  },
+  {
+    "text": "then",
+    "start": 812.079,
+    "duration": 2.241
+  },
+  {
+    "text": "all of a sudden mental health stress you",
+    "start": 812.399,
+    "duration": 3.041
+  },
+  {
+    "text": "know began to creep in",
+    "start": 814.32,
+    "duration": 2.959
+  },
+  {
+    "text": "and people started getting exhausted",
+    "start": 815.44,
+    "duration": 3.6
+  },
+  {
+    "text": "people were working long hours",
+    "start": 817.279,
+    "duration": 3.12
+  },
+  {
+    "text": "and then you started hearing people talk",
+    "start": 819.04,
+    "duration": 2.56
+  },
+  {
+    "text": "about i can't wait to get back to the",
+    "start": 820.399,
+    "duration": 2.161
+  },
+  {
+    "text": "office",
+    "start": 821.6,
+    "duration": 3.52
+  },
+  {
+    "text": "and so i think the reality is we're",
+    "start": 822.56,
+    "duration": 3.839
+  },
+  {
+    "text": "gonna end up in a hybrid world and i",
+    "start": 825.12,
+    "duration": 3.279
+  },
+  {
+    "text": "mean everybody's sort of landing there",
+    "start": 826.399,
+    "duration": 4.641
+  },
+  {
+    "text": "where many of our employees will work",
+    "start": 828.399,
+    "duration": 4.081
+  },
+  {
+    "text": "from home two or three days a week be in",
+    "start": 831.04,
+    "duration": 2.96
+  },
+  {
+    "text": "the office two or three days a week",
+    "start": 832.48,
+    "duration": 3.84
+  },
+  {
+    "text": "and what we have to figure out is what",
+    "start": 834.0,
+    "duration": 5.12
+  },
+  {
+    "text": "does that office configuration look like",
+    "start": 836.32,
+    "duration": 5.68
+  },
+  {
+    "text": "in the new world do i do i need to over",
+    "start": 839.12,
+    "duration": 4.32
+  },
+  {
+    "text": "the long term",
+    "start": 842.0,
+    "duration": 3.36
+  },
+  {
+    "text": "do i do i need to preserve for social",
+    "start": 843.44,
+    "duration": 3.68
+  },
+  {
+    "text": "distancing are our employees going to be",
+    "start": 845.36,
+    "duration": 3.599
+  },
+  {
+    "text": "open to shared spaces like we had",
+    "start": 847.12,
+    "duration": 4.159
+  },
+  {
+    "text": "moved to over the last you know five to",
+    "start": 848.959,
+    "duration": 3.281
+  },
+  {
+    "text": "ten years",
+    "start": 851.279,
+    "duration": 2.481
+  },
+  {
+    "text": "or are they gonna want their own space",
+    "start": 852.24,
+    "duration": 2.88
+  },
+  {
+    "text": "because they're worried about the next",
+    "start": 853.76,
+    "duration": 3.12
+  },
+  {
+    "text": "pandemic and so i think it's a little",
+    "start": 855.12,
+    "duration": 3.44
+  },
+  {
+    "text": "bit unknown",
+    "start": 856.88,
+    "duration": 4.16
+  },
+  {
+    "text": "but i don't believe that based on the",
+    "start": 858.56,
+    "duration": 4.56
+  },
+  {
+    "text": "discussions i have with my peers",
+    "start": 861.04,
+    "duration": 5.12
+  },
+  {
+    "text": "that that most companies are going to",
+    "start": 863.12,
+    "duration": 5.04
+  },
+  {
+    "text": "move to complete work from home i think",
+    "start": 866.16,
+    "duration": 4.0
+  },
+  {
+    "text": "you're hearing some of that now but",
+    "start": 868.16,
+    "duration": 5.679
+  },
+  {
+    "text": "um what i what i do here",
+    "start": 870.16,
+    "duration": 5.52
+  },
+  {
+    "text": "is that the small offices the small",
+    "start": 873.839,
+    "duration": 3.68
+  },
+  {
+    "text": "branch offices to the extent that you",
+    "start": 875.68,
+    "duration": 3.279
+  },
+  {
+    "text": "can get rid of them",
+    "start": 877.519,
+    "duration": 3.921
+  },
+  {
+    "text": "or move into shared space more cost",
+    "start": 878.959,
+    "duration": 4.081
+  },
+  {
+    "text": "effectively that's something that most",
+    "start": 881.44,
+    "duration": 3.6
+  },
+  {
+    "text": "of our customers are talking about",
+    "start": 883.04,
+    "duration": 3.84
+  },
+  {
+    "text": "but but in general i think we're going",
+    "start": 885.04,
+    "duration": 3.12
+  },
+  {
+    "text": "to go back to the hybrid",
+    "start": 886.88,
+    "duration": 3.44
+  },
+  {
+    "text": "environment and i think commercial real",
+    "start": 888.16,
+    "duration": 4.239
+  },
+  {
+    "text": "estate is going to be just fine",
+    "start": 890.32,
+    "duration": 5.519
+  },
+  {
+    "text": "the um you know you talked about 5g",
+    "start": 892.399,
+    "duration": 6.721
+  },
+  {
+    "text": "earlier with audience i'm curious on the",
+    "start": 895.839,
+    "duration": 5.521
+  },
+  {
+    "text": "social media side which so much of your",
+    "start": 899.12,
+    "duration": 3.839
+  },
+  {
+    "text": "equipment enables",
+    "start": 901.36,
+    "duration": 4.24
+  },
+  {
+    "text": "what's your uh you know how do you look",
+    "start": 902.959,
+    "duration": 4.641
+  },
+  {
+    "text": "at the downsides that we're dealing with",
+    "start": 905.6,
+    "duration": 2.56
+  },
+  {
+    "text": "and",
+    "start": 907.6,
+    "duration": 2.88
+  },
+  {
+    "text": "what remedies either government or",
+    "start": 908.16,
+    "duration": 3.44
+  },
+  {
+    "text": "government and business should be",
+    "start": 910.48,
+    "duration": 1.599
+  },
+  {
+    "text": "bringing",
+    "start": 911.6,
+    "duration": 3.919
+  },
+  {
+    "text": "together for you know to least like",
+    "start": 912.079,
+    "duration": 5.681
+  },
+  {
+    "text": "there's a lot of good too but clearly",
+    "start": 915.519,
+    "duration": 3.68
+  },
+  {
+    "text": "there's a lot of downsides and",
+    "start": 917.76,
+    "duration": 3.84
+  },
+  {
+    "text": "and i'm curious how you think about it",
+    "start": 919.199,
+    "duration": 4.241
+  },
+  {
+    "text": "and cisco's role in all that",
+    "start": 921.6,
+    "duration": 3.76
+  },
+  {
+    "text": "well we don't we don't have a huge role",
+    "start": 923.44,
+    "duration": 3.759
+  },
+  {
+    "text": "in it other than providing underlying",
+    "start": 925.36,
+    "duration": 3.599
+  },
+  {
+    "text": "infrastructure to you know to support it",
+    "start": 927.199,
+    "duration": 3.76
+  },
+  {
+    "text": "but i do think that many of the ceos",
+    "start": 928.959,
+    "duration": 3.68
+  },
+  {
+    "text": "of these companies have stated that they",
+    "start": 930.959,
+    "duration": 3.521
+  },
+  {
+    "text": "do believe that there's regulation",
+    "start": 932.639,
+    "duration": 3.76
+  },
+  {
+    "text": "needed if you if you look at technology",
+    "start": 934.48,
+    "duration": 3.2
+  },
+  {
+    "text": "in general",
+    "start": 936.399,
+    "duration": 3.521
+  },
+  {
+    "text": "i think that what we do and what all of",
+    "start": 937.68,
+    "duration": 3.2
+  },
+  {
+    "text": "these companies do",
+    "start": 939.92,
+    "duration": 3.12
+  },
+  {
+    "text": "all tech companies do is we we have",
+    "start": 940.88,
+    "duration": 4.0
+  },
+  {
+    "text": "created the digital backbone for the",
+    "start": 943.04,
+    "duration": 3.84
+  },
+  {
+    "text": "future and for the economy",
+    "start": 944.88,
+    "duration": 4.48
+  },
+  {
+    "text": "and so much like we regulate energy we",
+    "start": 946.88,
+    "duration": 4.24
+  },
+  {
+    "text": "regulate financial systems i think there",
+    "start": 949.36,
+    "duration": 4.159
+  },
+  {
+    "text": "has to be some level of regulation now",
+    "start": 951.12,
+    "duration": 6.0
+  },
+  {
+    "text": "what i i feel really badly for",
+    "start": 953.519,
+    "duration": 5.68
+  },
+  {
+    "text": "the regulators because technology's",
+    "start": 957.12,
+    "duration": 4.719
+  },
+  {
+    "text": "moving so fast it's so complex it's so",
+    "start": 959.199,
+    "duration": 4.401
+  },
+  {
+    "text": "hard to understand",
+    "start": 961.839,
+    "duration": 4.481
+  },
+  {
+    "text": "the the ability to actually come",
+    "start": 963.6,
+    "duration": 3.359
+  },
+  {
+    "text": "together",
+    "start": 966.32,
+    "duration": 2.4
+  },
+  {
+    "text": "and actually regulate it is very",
+    "start": 966.959,
+    "duration": 3.601
+  },
+  {
+    "text": "difficult and so that's the challenge",
+    "start": 968.72,
+    "duration": 3.039
+  },
+  {
+    "text": "that i think we have to figure out",
+    "start": 970.56,
+    "duration": 1.92
+  },
+  {
+    "text": "together is",
+    "start": 971.759,
+    "duration": 2.64
+  },
+  {
+    "text": "how how could we work together to",
+    "start": 972.48,
+    "duration": 3.599
+  },
+  {
+    "text": "identify the right regulation",
+    "start": 974.399,
+    "duration": 4.321
+  },
+  {
+    "text": "across not only the social platforms but",
+    "start": 976.079,
+    "duration": 3.68
+  },
+  {
+    "text": "data privacy",
+    "start": 978.72,
+    "duration": 4.96
+  },
+  {
+    "text": "i'm hopeful that on a global basis",
+    "start": 979.759,
+    "duration": 5.76
+  },
+  {
+    "text": "that post-election we come together and",
+    "start": 983.68,
+    "duration": 3.519
+  },
+  {
+    "text": "we figure out how can we drive data",
+    "start": 985.519,
+    "duration": 3.601
+  },
+  {
+    "text": "security standards and data privacy",
+    "start": 987.199,
+    "duration": 3.841
+  },
+  {
+    "text": "standards and cross-border data flow",
+    "start": 989.12,
+    "duration": 4.639
+  },
+  {
+    "text": "standards on a global basis so that we",
+    "start": 991.04,
+    "duration": 4.479
+  },
+  {
+    "text": "don't get into this fragmented world",
+    "start": 993.759,
+    "duration": 3.121
+  },
+  {
+    "text": "where i think we lose a lot of the",
+    "start": 995.519,
+    "duration": 3.041
+  },
+  {
+    "text": "benefit of the technology that's been",
+    "start": 996.88,
+    "duration": 3.84
+  },
+  {
+    "text": "built",
+    "start": 998.56,
+    "duration": 4.24
+  },
+  {
+    "text": "and i'd like to pick up on that thread",
+    "start": 1000.72,
+    "duration": 3.039
+  },
+  {
+    "text": "chuck and",
+    "start": 1002.8,
+    "duration": 3.52
+  },
+  {
+    "text": "you referenced cisco's emphasis on",
+    "start": 1003.759,
+    "duration": 3.76
+  },
+  {
+    "text": "security",
+    "start": 1006.32,
+    "duration": 3.519
+  },
+  {
+    "text": "and yesterday twitter announced the hire",
+    "start": 1007.519,
+    "duration": 3.601
+  },
+  {
+    "text": "of a famed hacker",
+    "start": 1009.839,
+    "duration": 4.0
+  },
+  {
+    "text": "as their new head of security and i was",
+    "start": 1011.12,
+    "duration": 3.44
+  },
+  {
+    "text": "curious",
+    "start": 1013.839,
+    "duration": 2.24
+  },
+  {
+    "text": "what are some of the cyber security",
+    "start": 1014.56,
+    "duration": 3.68
+  },
+  {
+    "text": "threats that keep ceos up at night right",
+    "start": 1016.079,
+    "duration": 2.721
+  },
+  {
+    "text": "now",
+    "start": 1018.24,
+    "duration": 2.56
+  },
+  {
+    "text": "and what are some of the approaches that",
+    "start": 1018.8,
+    "duration": 4.8
+  },
+  {
+    "text": "cisco are taking to keep us safe",
+    "start": 1020.8,
+    "duration": 5.039
+  },
+  {
+    "text": "you know i'd say that the good news is",
+    "start": 1023.6,
+    "duration": 4.319
+  },
+  {
+    "text": "if you go back a decade",
+    "start": 1025.839,
+    "duration": 4.801
+  },
+  {
+    "text": "most ceos didn't want to have the cyber",
+    "start": 1027.919,
+    "duration": 4.321
+  },
+  {
+    "text": "security discussion because that",
+    "start": 1030.64,
+    "duration": 2.799
+  },
+  {
+    "text": "actually created",
+    "start": 1032.24,
+    "duration": 4.319
+  },
+  {
+    "text": "a compelled liability on on their part",
+    "start": 1033.439,
+    "duration": 4.961
+  },
+  {
+    "text": "now i think is we've come full circle",
+    "start": 1036.559,
+    "duration": 3.52
+  },
+  {
+    "text": "and it's a boardroom topic every at",
+    "start": 1038.4,
+    "duration": 2.96
+  },
+  {
+    "text": "every board meeting",
+    "start": 1040.079,
+    "duration": 2.96
+  },
+  {
+    "text": "so there are threats everywhere the",
+    "start": 1041.36,
+    "duration": 3.439
+  },
+  {
+    "text": "threat surface is just increasing every",
+    "start": 1043.039,
+    "duration": 2.481
+  },
+  {
+    "text": "day",
+    "start": 1044.799,
+    "duration": 3.601
+  },
+  {
+    "text": "uh it's you know it's getting much more",
+    "start": 1045.52,
+    "duration": 3.92
+  },
+  {
+    "text": "complicated because",
+    "start": 1048.4,
+    "duration": 3.12
+  },
+  {
+    "text": "enterprises used to be sort of fixed",
+    "start": 1049.44,
+    "duration": 4.0
+  },
+  {
+    "text": "physical things and you would protect",
+    "start": 1051.52,
+    "duration": 2.56
+  },
+  {
+    "text": "the",
+    "start": 1053.44,
+    "duration": 2.32
+  },
+  {
+    "text": "the outskirts the perimeter and that",
+    "start": 1054.08,
+    "duration": 3.12
+  },
+  {
+    "text": "isn't the case anymore now we have",
+    "start": 1055.76,
+    "duration": 3.12
+  },
+  {
+    "text": "mobile workers and particularly now we",
+    "start": 1057.2,
+    "duration": 3.04
+  },
+  {
+    "text": "have people working from home working",
+    "start": 1058.88,
+    "duration": 2.48
+  },
+  {
+    "text": "from coffee shops",
+    "start": 1060.24,
+    "duration": 2.64
+  },
+  {
+    "text": "maybe in our coffee shop so much today",
+    "start": 1061.36,
+    "duration": 3.199
+  },
+  {
+    "text": "but they will be",
+    "start": 1062.88,
+    "duration": 4.32
+  },
+  {
+    "text": "working from airports etc and you have",
+    "start": 1064.559,
+    "duration": 4.081
+  },
+  {
+    "text": "uh we're continuing to connect",
+    "start": 1067.2,
+    "duration": 3.12
+  },
+  {
+    "text": "more and more devices and the internet",
+    "start": 1068.64,
+    "duration": 3.6
+  },
+  {
+    "text": "of things and so it's",
+    "start": 1070.32,
+    "duration": 3.599
+  },
+  {
+    "text": "it's actually expanding the threat",
+    "start": 1072.24,
+    "duration": 2.96
+  },
+  {
+    "text": "surface and making it much more",
+    "start": 1073.919,
+    "duration": 2.241
+  },
+  {
+    "text": "difficult for",
+    "start": 1075.2,
+    "duration": 4.16
+  },
+  {
+    "text": "companies to to actually protect so what",
+    "start": 1076.16,
+    "duration": 6.32
+  },
+  {
+    "text": "what companies have come to grip with is",
+    "start": 1079.36,
+    "duration": 3.76
+  },
+  {
+    "text": "that they",
+    "start": 1082.48,
+    "duration": 3.36
+  },
+  {
+    "text": "are going to have infiltration it's",
+    "start": 1083.12,
+    "duration": 3.919
+  },
+  {
+    "text": "going to happen",
+    "start": 1085.84,
+    "duration": 4.0
+  },
+  {
+    "text": "and so the old plan used to be how do i",
+    "start": 1087.039,
+    "duration": 4.481
+  },
+  {
+    "text": "defend myself and build a perimeter",
+    "start": 1089.84,
+    "duration": 3.68
+  },
+  {
+    "text": "the new plan is how do i defend myself",
+    "start": 1091.52,
+    "duration": 3.92
+  },
+  {
+    "text": "but then how do i identify when they get",
+    "start": 1093.52,
+    "duration": 4.24
+  },
+  {
+    "text": "in and how do i remediate quickly",
+    "start": 1095.44,
+    "duration": 4.56
+  },
+  {
+    "text": "and it's it's really refreshing to see",
+    "start": 1097.76,
+    "duration": 3.76
+  },
+  {
+    "text": "because there's a there's a complete",
+    "start": 1100.0,
+    "duration": 3.36
+  },
+  {
+    "text": "comprehensive plan now",
+    "start": 1101.52,
+    "duration": 3.44
+  },
+  {
+    "text": "for how to deal with these threats and",
+    "start": 1103.36,
+    "duration": 3.36
+  },
+  {
+    "text": "how to deal with these attacks",
+    "start": 1104.96,
+    "duration": 3.92
+  },
+  {
+    "text": "that that's more based on reality of",
+    "start": 1106.72,
+    "duration": 3.12
+  },
+  {
+    "text": "what's really going on in the",
+    "start": 1108.88,
+    "duration": 1.84
+  },
+  {
+    "text": "marketplace",
+    "start": 1109.84,
+    "duration": 2.56
+  },
+  {
+    "text": "i would say right now what we see",
+    "start": 1110.72,
+    "duration": 4.16
+  },
+  {
+    "text": "happening ransomware is",
+    "start": 1112.4,
+    "duration": 5.6
+  },
+  {
+    "text": "is just everywhere and uh",
+    "start": 1114.88,
+    "duration": 5.44
+  },
+  {
+    "text": "ironically these hackers have begun to",
+    "start": 1118.0,
+    "duration": 3.039
+  },
+  {
+    "text": "go to like",
+    "start": 1120.32,
+    "duration": 2.88
+  },
+  {
+    "text": "small payments because they know people",
+    "start": 1121.039,
+    "duration": 3.281
+  },
+  {
+    "text": "are more likely to pay",
+    "start": 1123.2,
+    "duration": 4.16
+  },
+  {
+    "text": "it's like if i if i get in and i've got",
+    "start": 1124.32,
+    "duration": 5.44
+  },
+  {
+    "text": "you held hostage and i ask you for five",
+    "start": 1127.36,
+    "duration": 3.679
+  },
+  {
+    "text": "thousand dollars are you gonna",
+    "start": 1129.76,
+    "duration": 2.72
+  },
+  {
+    "text": "take a moral stand are you gonna pay me",
+    "start": 1131.039,
+    "duration": 2.721
+  },
+  {
+    "text": "five grand so you can get your business",
+    "start": 1132.48,
+    "duration": 2.96
+  },
+  {
+    "text": "back up and running and so we see a lot",
+    "start": 1133.76,
+    "duration": 2.96
+  },
+  {
+    "text": "of ransomware right now",
+    "start": 1135.44,
+    "duration": 3.359
+  },
+  {
+    "text": "uh and uh and obviously other threats as",
+    "start": 1136.72,
+    "duration": 3.6
+  },
+  {
+    "text": "well",
+    "start": 1138.799,
+    "duration": 4.081
+  },
+  {
+    "text": "great thank you and i'd love to segue",
+    "start": 1140.32,
+    "duration": 3.28
+  },
+  {
+    "text": "now to",
+    "start": 1142.88,
+    "duration": 2.56
+  },
+  {
+    "text": "some of the questions that we have from",
+    "start": 1143.6,
+    "duration": 3.04
+  },
+  {
+    "text": "our audience",
+    "start": 1145.44,
+    "duration": 4.56
+  },
+  {
+    "text": "so first starting with nancy diaz",
+    "start": 1146.64,
+    "duration": 6.24
+  },
+  {
+    "text": "from los angeles and she's asked what is",
+    "start": 1150.0,
+    "duration": 3.6
+  },
+  {
+    "text": "cisco",
+    "start": 1152.88,
+    "duration": 4.159
+  },
+  {
+    "text": "doing to help address the tech divide",
+    "start": 1153.6,
+    "duration": 6.959
+  },
+  {
+    "text": "yeah it's uh we actually last year",
+    "start": 1157.039,
+    "duration": 6.241
+  },
+  {
+    "text": "my team and i worked on redefining the",
+    "start": 1160.559,
+    "duration": 4.721
+  },
+  {
+    "text": "purpose of our corporation for",
+    "start": 1163.28,
+    "duration": 3.279
+  },
+  {
+    "text": "years and years and years we had a",
+    "start": 1165.28,
+    "duration": 3.36
+  },
+  {
+    "text": "purpose that basically said we want to",
+    "start": 1166.559,
+    "duration": 3.921
+  },
+  {
+    "text": "change the way the world lives works",
+    "start": 1168.64,
+    "duration": 3.2
+  },
+  {
+    "text": "learns and plays and that was",
+    "start": 1170.48,
+    "duration": 3.68
+  },
+  {
+    "text": "that was our purpose for years and we",
+    "start": 1171.84,
+    "duration": 4.16
+  },
+  {
+    "text": "changed it ironically before",
+    "start": 1174.16,
+    "duration": 5.12
+  },
+  {
+    "text": "2020 to powering an inclusive future for",
+    "start": 1176.0,
+    "duration": 4.16
+  },
+  {
+    "text": "all",
+    "start": 1179.28,
+    "duration": 2.639
+  },
+  {
+    "text": "and as we think about what our",
+    "start": 1180.16,
+    "duration": 3.68
+  },
+  {
+    "text": "technology does is it fundamentally",
+    "start": 1181.919,
+    "duration": 2.481
+  },
+  {
+    "text": "connects",
+    "start": 1183.84,
+    "duration": 2.56
+  },
+  {
+    "text": "people and things together and enables",
+    "start": 1184.4,
+    "duration": 3.6
+  },
+  {
+    "text": "communication",
+    "start": 1186.4,
+    "duration": 2.8
+  },
+  {
+    "text": "and we do a lot more than that but",
+    "start": 1188.0,
+    "duration": 3.039
+  },
+  {
+    "text": "that's what the core sort of traditional",
+    "start": 1189.2,
+    "duration": 3.359
+  },
+  {
+    "text": "part of our business",
+    "start": 1191.039,
+    "duration": 4.241
+  },
+  {
+    "text": "and when you when you contemplate",
+    "start": 1192.559,
+    "duration": 4.961
+  },
+  {
+    "text": "connecting people in rural areas or in",
+    "start": 1195.28,
+    "duration": 4.24
+  },
+  {
+    "text": "villages in emerging countries",
+    "start": 1197.52,
+    "duration": 3.68
+  },
+  {
+    "text": "you can then actually give them",
+    "start": 1199.52,
+    "duration": 4.08
+  },
+  {
+    "text": "opportunity that they didn't have before",
+    "start": 1201.2,
+    "duration": 5.2
+  },
+  {
+    "text": "and so the way we think about it we have",
+    "start": 1203.6,
+    "duration": 4.559
+  },
+  {
+    "text": "both the technology that that enables",
+    "start": 1206.4,
+    "duration": 3.2
+  },
+  {
+    "text": "connectivity but we also have a",
+    "start": 1208.159,
+    "duration": 3.52
+  },
+  {
+    "text": "corporate social responsibility strategy",
+    "start": 1209.6,
+    "duration": 3.04
+  },
+  {
+    "text": "that does",
+    "start": 1211.679,
+    "duration": 3.601
+  },
+  {
+    "text": "more beyond that so we have a program",
+    "start": 1212.64,
+    "duration": 3.279
+  },
+  {
+    "text": "called",
+    "start": 1215.28,
+    "duration": 3.04
+  },
+  {
+    "text": "cisco network academies and in the last",
+    "start": 1215.919,
+    "duration": 4.081
+  },
+  {
+    "text": "12 months i think we had three million",
+    "start": 1218.32,
+    "duration": 3.359
+  },
+  {
+    "text": "students on a global basis go through",
+    "start": 1220.0,
+    "duration": 3.039
+  },
+  {
+    "text": "that program",
+    "start": 1221.679,
+    "duration": 5.201
+  },
+  {
+    "text": "so i i think that that combined with",
+    "start": 1223.039,
+    "duration": 5.601
+  },
+  {
+    "text": "helping countries deliver health care",
+    "start": 1226.88,
+    "duration": 4.08
+  },
+  {
+    "text": "and education into rural areas",
+    "start": 1228.64,
+    "duration": 5.919
+  },
+  {
+    "text": "there's stories of uh a woman in a",
+    "start": 1230.96,
+    "duration": 5.36
+  },
+  {
+    "text": "village in india who",
+    "start": 1234.559,
+    "duration": 3.521
+  },
+  {
+    "text": "got broadband access for the first time",
+    "start": 1236.32,
+    "duration": 3.44
+  },
+  {
+    "text": "and she she was you know",
+    "start": 1238.08,
+    "duration": 3.68
+  },
+  {
+    "text": "currently selling goods that she would",
+    "start": 1239.76,
+    "duration": 4.56
+  },
+  {
+    "text": "make to local people and all of a sudden",
+    "start": 1241.76,
+    "duration": 4.159
+  },
+  {
+    "text": "she had this global",
+    "start": 1244.32,
+    "duration": 4.08
+  },
+  {
+    "text": "marketplace that was opened up to her i",
+    "start": 1245.919,
+    "duration": 3.601
+  },
+  {
+    "text": "mean that's the kind of thing that",
+    "start": 1248.4,
+    "duration": 2.96
+  },
+  {
+    "text": "changed people's lives and as i think",
+    "start": 1249.52,
+    "duration": 4.08
+  },
+  {
+    "text": "about what the pandemic has taught us",
+    "start": 1251.36,
+    "duration": 4.559
+  },
+  {
+    "text": "is that you can work from anywhere and",
+    "start": 1253.6,
+    "duration": 3.76
+  },
+  {
+    "text": "more and more companies have come to",
+    "start": 1255.919,
+    "duration": 3.281
+  },
+  {
+    "text": "realize that i can hire people anywhere",
+    "start": 1257.36,
+    "duration": 3.439
+  },
+  {
+    "text": "so now i can hire people i don't have to",
+    "start": 1259.2,
+    "duration": 3.599
+  },
+  {
+    "text": "just say you must be in silicon valley",
+    "start": 1260.799,
+    "duration": 4.561
+  },
+  {
+    "text": "or you must be in raleigh north carolina",
+    "start": 1262.799,
+    "duration": 6.0
+  },
+  {
+    "text": "so i think we should come together and",
+    "start": 1265.36,
+    "duration": 6.24
+  },
+  {
+    "text": "a combination of education through all",
+    "start": 1268.799,
+    "duration": 4.0
+  },
+  {
+    "text": "of these programs we have network",
+    "start": 1271.6,
+    "duration": 2.8
+  },
+  {
+    "text": "academies a lot of the other technology",
+    "start": 1272.799,
+    "duration": 2.401
+  },
+  {
+    "text": "companies have",
+    "start": 1274.4,
+    "duration": 2.72
+  },
+  {
+    "text": "we can take these into these rural areas",
+    "start": 1275.2,
+    "duration": 3.2
+  },
+  {
+    "text": "that feel like they've been left behind",
+    "start": 1277.12,
+    "duration": 2.96
+  },
+  {
+    "text": "because they have been left behind",
+    "start": 1278.4,
+    "duration": 3.44
+  },
+  {
+    "text": "and then we can actually have hiring",
+    "start": 1280.08,
+    "duration": 3.2
+  },
+  {
+    "text": "programs and set up",
+    "start": 1281.84,
+    "duration": 3.6
+  },
+  {
+    "text": "you know operations in some of these",
+    "start": 1283.28,
+    "duration": 3.92
+  },
+  {
+    "text": "areas to give people more of it",
+    "start": 1285.44,
+    "duration": 3.359
+  },
+  {
+    "text": "of an opportunity and i think those are",
+    "start": 1287.2,
+    "duration": 3.2
+  },
+  {
+    "text": "the kinds of things that we",
+    "start": 1288.799,
+    "duration": 2.88
+  },
+  {
+    "text": "are going to take public private",
+    "start": 1290.4,
+    "duration": 3.12
+  },
+  {
+    "text": "partnerships but i i do believe those",
+    "start": 1291.679,
+    "duration": 3.12
+  },
+  {
+    "text": "are the kinds of things that we",
+    "start": 1293.52,
+    "duration": 3.76
+  },
+  {
+    "text": "should do and and i think we can do and",
+    "start": 1294.799,
+    "duration": 3.041
+  },
+  {
+    "text": "it it's",
+    "start": 1297.28,
+    "duration": 1.92
+  },
+  {
+    "text": "a bit of a silver lining from the",
+    "start": 1297.84,
+    "duration": 2.719
+  },
+  {
+    "text": "tragedy that we've had this year is a",
+    "start": 1299.2,
+    "duration": 3.2
+  },
+  {
+    "text": "realization that it will work",
+    "start": 1300.559,
+    "duration": 3.681
+  },
+  {
+    "text": "yeah i want to pick up on that theme of",
+    "start": 1302.4,
+    "duration": 3.2
+  },
+  {
+    "text": "connectivity we have a",
+    "start": 1304.24,
+    "duration": 3.6
+  },
+  {
+    "text": "question here from petra zacharyson in",
+    "start": 1305.6,
+    "duration": 3.04
+  },
+  {
+    "text": "stockholm",
+    "start": 1307.84,
+    "duration": 3.68
+  },
+  {
+    "text": "sweden um the question is connectivity",
+    "start": 1308.64,
+    "duration": 3.919
+  },
+  {
+    "text": "is one thing",
+    "start": 1311.52,
+    "duration": 2.72
+  },
+  {
+    "text": "but how do you create the same",
+    "start": 1312.559,
+    "duration": 3.12
+  },
+  {
+    "text": "engagement as you",
+    "start": 1314.24,
+    "duration": 3.28
+  },
+  {
+    "text": "would do virtually how do you transmit",
+    "start": 1315.679,
+    "duration": 3.761
+  },
+  {
+    "text": "culture and which tools serve this",
+    "start": 1317.52,
+    "duration": 3.6
+  },
+  {
+    "text": "purpose best and maybe chuck you could",
+    "start": 1319.44,
+    "duration": 3.04
+  },
+  {
+    "text": "talk to how you've addressed this at",
+    "start": 1321.12,
+    "duration": 2.08
+  },
+  {
+    "text": "cisco",
+    "start": 1322.48,
+    "duration": 2.24
+  },
+  {
+    "text": "in terms of maintaining connectivity",
+    "start": 1323.2,
+    "duration": 3.52
+  },
+  {
+    "text": "with your team it is it is the best",
+    "start": 1324.72,
+    "duration": 2.48
+  },
+  {
+    "text": "question",
+    "start": 1326.72,
+    "duration": 4.72
+  },
+  {
+    "text": "i i am uh we're working hard right now",
+    "start": 1327.2,
+    "duration": 5.12
+  },
+  {
+    "text": "because we know",
+    "start": 1331.44,
+    "duration": 2.88
+  },
+  {
+    "text": "when our customers come back to the",
+    "start": 1332.32,
+    "duration": 4.0
+  },
+  {
+    "text": "office they are going to put high",
+    "start": 1334.32,
+    "duration": 3.28
+  },
+  {
+    "text": "definition video",
+    "start": 1336.32,
+    "duration": 3.92
+  },
+  {
+    "text": "units in every conference room because",
+    "start": 1337.6,
+    "duration": 5.04
+  },
+  {
+    "text": "every meeting is going to be hybrid",
+    "start": 1340.24,
+    "duration": 4.4
+  },
+  {
+    "text": "and you're going to have remote",
+    "start": 1342.64,
+    "duration": 3.12
+  },
+  {
+    "text": "attendees and you're going to have",
+    "start": 1344.64,
+    "duration": 2.48
+  },
+  {
+    "text": "in-room attendees and so",
+    "start": 1345.76,
+    "duration": 2.96
+  },
+  {
+    "text": "part of our strategy right now and a lot",
+    "start": 1347.12,
+    "duration": 3.679
+  },
+  {
+    "text": "of the hard work the team is doing",
+    "start": 1348.72,
+    "duration": 4.319
+  },
+  {
+    "text": "is how do we evolve and add capabilities",
+    "start": 1350.799,
+    "duration": 3.76
+  },
+  {
+    "text": "to our technology",
+    "start": 1353.039,
+    "duration": 3.52
+  },
+  {
+    "text": "that create the same experience",
+    "start": 1354.559,
+    "duration": 4.48
+  },
+  {
+    "text": "regardless of where you are",
+    "start": 1356.559,
+    "duration": 4.081
+  },
+  {
+    "text": "and so there's a lot of work going into",
+    "start": 1359.039,
+    "duration": 3.681
+  },
+  {
+    "text": "that but i think that uh",
+    "start": 1360.64,
+    "duration": 5.12
+  },
+  {
+    "text": "petra the the thing that is",
+    "start": 1362.72,
+    "duration": 5.839
+  },
+  {
+    "text": "more important than the technology is",
+    "start": 1365.76,
+    "duration": 3.68
+  },
+  {
+    "text": "are the people",
+    "start": 1368.559,
+    "duration": 2.401
+  },
+  {
+    "text": "and i think that the only way this is",
+    "start": 1369.44,
+    "duration": 3.92
+  },
+  {
+    "text": "going to work is if people",
+    "start": 1370.96,
+    "duration": 6.16
+  },
+  {
+    "text": "maintain this recognition that we've had",
+    "start": 1373.36,
+    "duration": 5.76
+  },
+  {
+    "text": "over the last nine months that everyone",
+    "start": 1377.12,
+    "duration": 3.679
+  },
+  {
+    "text": "is remote and we're",
+    "start": 1379.12,
+    "duration": 3.6
+  },
+  {
+    "text": "we're much more informal we're much more",
+    "start": 1380.799,
+    "duration": 4.081
+  },
+  {
+    "text": "empathetic we're much more",
+    "start": 1382.72,
+    "duration": 4.079
+  },
+  {
+    "text": "you know engaging we're tr we're",
+    "start": 1384.88,
+    "duration": 3.679
+  },
+  {
+    "text": "actually going overboard to make sure",
+    "start": 1386.799,
+    "duration": 3.601
+  },
+  {
+    "text": "that we include people in discussions",
+    "start": 1388.559,
+    "duration": 3.36
+  },
+  {
+    "text": "because everyone's virtual so",
+    "start": 1390.4,
+    "duration": 3.04
+  },
+  {
+    "text": "i think those are the things we need to",
+    "start": 1391.919,
+    "duration": 2.961
+  },
+  {
+    "text": "maintain i think it's less of a",
+    "start": 1393.44,
+    "duration": 3.04
+  },
+  {
+    "text": "technology issue even though we'll do",
+    "start": 1394.88,
+    "duration": 3.36
+  },
+  {
+    "text": "the things that we can to help",
+    "start": 1396.48,
+    "duration": 4.4
+  },
+  {
+    "text": "promote it but it really is just making",
+    "start": 1398.24,
+    "duration": 4.08
+  },
+  {
+    "text": "sure that",
+    "start": 1400.88,
+    "duration": 2.96
+  },
+  {
+    "text": "the compassion and the empathy that",
+    "start": 1402.32,
+    "duration": 2.96
+  },
+  {
+    "text": "we're showing for everybody working in",
+    "start": 1403.84,
+    "duration": 2.56
+  },
+  {
+    "text": "their environment and you're pulling",
+    "start": 1405.28,
+    "duration": 2.72
+  },
+  {
+    "text": "people into these discussions",
+    "start": 1406.4,
+    "duration": 3.279
+  },
+  {
+    "text": "and some of that you can actually drive",
+    "start": 1408.0,
+    "duration": 3.039
+  },
+  {
+    "text": "through technology",
+    "start": 1409.679,
+    "duration": 4.401
+  },
+  {
+    "text": "like you can set a feature in",
+    "start": 1411.039,
+    "duration": 4.961
+  },
+  {
+    "text": "in a future meeting where if you have",
+    "start": 1414.08,
+    "duration": 3.12
+  },
+  {
+    "text": "eight people in the meeting",
+    "start": 1416.0,
+    "duration": 3.44
+  },
+  {
+    "text": "you could actually set a feature where",
+    "start": 1417.2,
+    "duration": 4.16
+  },
+  {
+    "text": "no one can speak for a second time until",
+    "start": 1419.44,
+    "duration": 3.359
+  },
+  {
+    "text": "all eight people have spoken for the",
+    "start": 1421.36,
+    "duration": 2.88
+  },
+  {
+    "text": "first time i mean you know those kinds",
+    "start": 1422.799,
+    "duration": 2.0
+  },
+  {
+    "text": "of things but",
+    "start": 1424.24,
+    "duration": 2.72
+  },
+  {
+    "text": "it's a little you know it's probably a",
+    "start": 1424.799,
+    "duration": 3.521
+  },
+  {
+    "text": "little less effective than just",
+    "start": 1426.96,
+    "duration": 5.599
+  },
+  {
+    "text": "actually doing human way yeah",
+    "start": 1428.32,
+    "duration": 5.359
+  },
+  {
+    "text": "seems like they could have probably used",
+    "start": 1432.559,
+    "duration": 2.561
+  },
+  {
+    "text": "something like that at the presidential",
+    "start": 1433.679,
+    "duration": 2.48
+  },
+  {
+    "text": "debates",
+    "start": 1435.12,
+    "duration": 5.039
+  },
+  {
+    "text": "the uh nobody can speak again",
+    "start": 1436.159,
+    "duration": 6.88
+  },
+  {
+    "text": "how about that i'm curious though are",
+    "start": 1440.159,
+    "duration": 3.601
+  },
+  {
+    "text": "you",
+    "start": 1443.039,
+    "duration": 3.281
+  },
+  {
+    "text": "on the diversity inclusion front are you",
+    "start": 1443.76,
+    "duration": 4.0
+  },
+  {
+    "text": "making the strides",
+    "start": 1446.32,
+    "duration": 3.04
+  },
+  {
+    "text": "as quickly as you want to be within",
+    "start": 1447.76,
+    "duration": 4.88
+  },
+  {
+    "text": "cisco well the answer that's no",
+    "start": 1449.36,
+    "duration": 5.36
+  },
+  {
+    "text": "not as fast as we want to be but i will",
+    "start": 1452.64,
+    "duration": 3.519
+  },
+  {
+    "text": "tell you we made a lot of progress on",
+    "start": 1454.72,
+    "duration": 3.839
+  },
+  {
+    "text": "the gender front uh i",
+    "start": 1456.159,
+    "duration": 4.721
+  },
+  {
+    "text": "close close to half my direct reports",
+    "start": 1458.559,
+    "duration": 3.201
+  },
+  {
+    "text": "are female",
+    "start": 1460.88,
+    "duration": 3.039
+  },
+  {
+    "text": "and these are you know these are ladies",
+    "start": 1461.76,
+    "duration": 4.399
+  },
+  {
+    "text": "that run big parts of our business",
+    "start": 1463.919,
+    "duration": 4.321
+  },
+  {
+    "text": "and it took us a long time to actually",
+    "start": 1466.159,
+    "duration": 3.281
+  },
+  {
+    "text": "make that progress",
+    "start": 1468.24,
+    "duration": 5.28
+  },
+  {
+    "text": "and uh and the good news is we had begun",
+    "start": 1469.44,
+    "duration": 7.599
+  },
+  {
+    "text": "the work on ethnicity",
+    "start": 1473.52,
+    "duration": 7.039
+  },
+  {
+    "text": "before 2020. so uh",
+    "start": 1477.039,
+    "duration": 7.52
+  },
+  {
+    "text": "last fall we actually decided that we",
+    "start": 1480.559,
+    "duration": 7.281
+  },
+  {
+    "text": "with the help of our chief uh inclusion",
+    "start": 1484.559,
+    "duration": 4.801
+  },
+  {
+    "text": "and collaboration leader",
+    "start": 1487.84,
+    "duration": 5.199
+  },
+  {
+    "text": "she uh she wanted to talk to us about",
+    "start": 1489.36,
+    "duration": 4.96
+  },
+  {
+    "text": "the the experience of being",
+    "start": 1493.039,
+    "duration": 4.161
+  },
+  {
+    "text": "african-american black inside of cisco",
+    "start": 1494.32,
+    "duration": 5.2
+  },
+  {
+    "text": "and they they do these this thing called",
+    "start": 1497.2,
+    "duration": 4.32
+  },
+  {
+    "text": "a fishbowl exercise and we actually i",
+    "start": 1499.52,
+    "duration": 2.639
+  },
+  {
+    "text": "had",
+    "start": 1501.52,
+    "duration": 2.48
+  },
+  {
+    "text": "18 of our black leaders that were",
+    "start": 1502.159,
+    "duration": 3.441
+  },
+  {
+    "text": "respected in the company",
+    "start": 1504.0,
+    "duration": 4.159
+  },
+  {
+    "text": "that came to my house and my entire",
+    "start": 1505.6,
+    "duration": 4.319
+  },
+  {
+    "text": "leadership team sat around them and they",
+    "start": 1508.159,
+    "duration": 3.281
+  },
+  {
+    "text": "sat in an inner circle and there was a",
+    "start": 1509.919,
+    "duration": 3.441
+  },
+  {
+    "text": "moderated discussion",
+    "start": 1511.44,
+    "duration": 4.479
+  },
+  {
+    "text": "about what it's like to be a black",
+    "start": 1513.36,
+    "duration": 4.319
+  },
+  {
+    "text": "employee at cisco",
+    "start": 1515.919,
+    "duration": 3.441
+  },
+  {
+    "text": "and it was eye-opening and there were a",
+    "start": 1517.679,
+    "duration": 2.961
+  },
+  {
+    "text": "lot of good things but there are a lot",
+    "start": 1519.36,
+    "duration": 2.24
+  },
+  {
+    "text": "of things you just",
+    "start": 1520.64,
+    "duration": 2.399
+  },
+  {
+    "text": "you couldn't under you wouldn't",
+    "start": 1521.6,
+    "duration": 3.36
+  },
+  {
+    "text": "understand if you weren't sitting there",
+    "start": 1523.039,
+    "duration": 3.361
+  },
+  {
+    "text": "hearing it from them and certainly",
+    "start": 1524.96,
+    "duration": 3.28
+  },
+  {
+    "text": "because we didn't experience it",
+    "start": 1526.4,
+    "duration": 5.519
+  },
+  {
+    "text": "and and that set us on a 100-day sprint",
+    "start": 1528.24,
+    "duration": 5.2
+  },
+  {
+    "text": "uh to actually try to resolve some of",
+    "start": 1531.919,
+    "duration": 3.201
+  },
+  {
+    "text": "these issues and frankly amplify some of",
+    "start": 1533.44,
+    "duration": 3.04
+  },
+  {
+    "text": "the things that they thought were",
+    "start": 1535.12,
+    "duration": 3.76
+  },
+  {
+    "text": "were great things about the company and",
+    "start": 1536.48,
+    "duration": 3.28
+  },
+  {
+    "text": "um",
+    "start": 1538.88,
+    "duration": 2.48
+  },
+  {
+    "text": "you know we had been doing pay parity",
+    "start": 1539.76,
+    "duration": 3.44
+  },
+  {
+    "text": "and and one of the things that they",
+    "start": 1541.36,
+    "duration": 3.199
+  },
+  {
+    "text": "that we needed to implement was",
+    "start": 1543.2,
+    "duration": 3.28
+  },
+  {
+    "text": "promotion parity so we've implemented",
+    "start": 1544.559,
+    "duration": 3.441
+  },
+  {
+    "text": "that so we got a little bit of a head",
+    "start": 1546.48,
+    "duration": 3.679
+  },
+  {
+    "text": "start ahead of the social justice",
+    "start": 1548.0,
+    "duration": 5.52
+  },
+  {
+    "text": "uh crisis that we saw this year and um",
+    "start": 1550.159,
+    "duration": 5.12
+  },
+  {
+    "text": "so we're we're making progress but we",
+    "start": 1553.52,
+    "duration": 3.519
+  },
+  {
+    "text": "still have a long way to go but we",
+    "start": 1555.279,
+    "duration": 3.841
+  },
+  {
+    "text": "we're looking at full spectrum diversity",
+    "start": 1557.039,
+    "duration": 3.681
+  },
+  {
+    "text": "and we now have",
+    "start": 1559.12,
+    "duration": 3.439
+  },
+  {
+    "text": "quarterly sessions with my leadership",
+    "start": 1560.72,
+    "duration": 4.319
+  },
+  {
+    "text": "team and the leaders of every one of our",
+    "start": 1562.559,
+    "duration": 3.921
+  },
+  {
+    "text": "employee resource groups",
+    "start": 1565.039,
+    "duration": 3.76
+  },
+  {
+    "text": "and we talk for 90 minutes about what's",
+    "start": 1566.48,
+    "duration": 3.76
+  },
+  {
+    "text": "going well what's not going well what do",
+    "start": 1568.799,
+    "duration": 2.721
+  },
+  {
+    "text": "they need from us",
+    "start": 1570.24,
+    "duration": 3.6
+  },
+  {
+    "text": "and they're very meaningful because they",
+    "start": 1571.52,
+    "duration": 3.12
+  },
+  {
+    "text": "believe that",
+    "start": 1573.84,
+    "duration": 2.16
+  },
+  {
+    "text": "we're going to listen and we're actually",
+    "start": 1574.64,
+    "duration": 2.88
+  },
+  {
+    "text": "going to respond to what they need is",
+    "start": 1576.0,
+    "duration": 1.84
+  },
+  {
+    "text": "and",
+    "start": 1577.52,
+    "duration": 1.84
+  },
+  {
+    "text": "and you know if you if you don't then",
+    "start": 1577.84,
+    "duration": 3.12
+  },
+  {
+    "text": "they're wasting their time and",
+    "start": 1579.36,
+    "duration": 4.0
+  },
+  {
+    "text": "yours as well yeah now that's great to",
+    "start": 1580.96,
+    "duration": 4.24
+  },
+  {
+    "text": "hear and i want to go back to",
+    "start": 1583.36,
+    "duration": 3.52
+  },
+  {
+    "text": "a few more of our audience questions",
+    "start": 1585.2,
+    "duration": 3.68
+  },
+  {
+    "text": "just while we have time we have",
+    "start": 1586.88,
+    "duration": 4.72
+  },
+  {
+    "text": "patrick from toronto who's asking how",
+    "start": 1588.88,
+    "duration": 4.08
+  },
+  {
+    "text": "does leadership style",
+    "start": 1591.6,
+    "duration": 3.52
+  },
+  {
+    "text": "impact employee engagement especially",
+    "start": 1592.96,
+    "duration": 3.44
+  },
+  {
+    "text": "right now oh it's",
+    "start": 1595.12,
+    "duration": 4.799
+  },
+  {
+    "text": "it's huge um i uh",
+    "start": 1596.4,
+    "duration": 6.72
+  },
+  {
+    "text": "look this has proven out that uh people",
+    "start": 1599.919,
+    "duration": 4.24
+  },
+  {
+    "text": "want",
+    "start": 1603.12,
+    "duration": 2.559
+  },
+  {
+    "text": "they want to work for human beings first",
+    "start": 1604.159,
+    "duration": 2.481
+  },
+  {
+    "text": "of all they don't want to work for",
+    "start": 1605.679,
+    "duration": 1.761
+  },
+  {
+    "text": "executives",
+    "start": 1606.64,
+    "duration": 2.639
+  },
+  {
+    "text": "i think that's the big thing and and the",
+    "start": 1607.44,
+    "duration": 3.44
+  },
+  {
+    "text": "pandemic has highlighted that",
+    "start": 1609.279,
+    "duration": 3.841
+  },
+  {
+    "text": "that you know they're they're in our",
+    "start": 1610.88,
+    "duration": 3.039
+  },
+  {
+    "text": "homes",
+    "start": 1613.12,
+    "duration": 2.48
+  },
+  {
+    "text": "employee we're doing employee sessions",
+    "start": 1613.919,
+    "duration": 3.041
+  },
+  {
+    "text": "in our homes so just",
+    "start": 1615.6,
+    "duration": 3.439
+  },
+  {
+    "text": "when this thing started we we began",
+    "start": 1616.96,
+    "duration": 3.76
+  },
+  {
+    "text": "doing what we called a check-in every",
+    "start": 1619.039,
+    "duration": 3.361
+  },
+  {
+    "text": "week with our employees and we brought",
+    "start": 1620.72,
+    "duration": 4.559
+  },
+  {
+    "text": "30 40 000 people together over video",
+    "start": 1622.4,
+    "duration": 4.32
+  },
+  {
+    "text": "every week",
+    "start": 1625.279,
+    "duration": 3.76
+  },
+  {
+    "text": "and um early and we're just being",
+    "start": 1626.72,
+    "duration": 4.319
+  },
+  {
+    "text": "straight we're being we're we're trying",
+    "start": 1629.039,
+    "duration": 3.12
+  },
+  {
+    "text": "to be authentic we're",
+    "start": 1631.039,
+    "duration": 3.52
+  },
+  {
+    "text": "we're communicating frequently we would",
+    "start": 1632.159,
+    "duration": 4.4
+  },
+  {
+    "text": "do like 15 20 minutes 30 minutes of",
+    "start": 1634.559,
+    "duration": 3.84
+  },
+  {
+    "text": "content then we'd have 45 minutes of",
+    "start": 1636.559,
+    "duration": 3.441
+  },
+  {
+    "text": "just open q and a with our employees",
+    "start": 1638.399,
+    "duration": 3.28
+  },
+  {
+    "text": "and early on you can imagine it was all",
+    "start": 1640.0,
+    "duration": 4.0
+  },
+  {
+    "text": "about you know the",
+    "start": 1641.679,
+    "duration": 4.561
+  },
+  {
+    "text": "the emerging pandemic and we had doctors",
+    "start": 1644.0,
+    "duration": 3.84
+  },
+  {
+    "text": "on and they answered questions and then",
+    "start": 1646.24,
+    "duration": 3.439
+  },
+  {
+    "text": "we've gone through phases and certainly",
+    "start": 1647.84,
+    "duration": 2.4
+  },
+  {
+    "text": "we",
+    "start": 1649.679,
+    "duration": 2.401
+  },
+  {
+    "text": "we tackled the social justice issues",
+    "start": 1650.24,
+    "duration": 3.28
+  },
+  {
+    "text": "along the way as well",
+    "start": 1652.08,
+    "duration": 4.56
+  },
+  {
+    "text": "but i i think it's about authenticity",
+    "start": 1653.52,
+    "duration": 5.2
+  },
+  {
+    "text": "is probably the most important thing",
+    "start": 1656.64,
+    "duration": 3.6
+  },
+  {
+    "text": "that people are looking for in their",
+    "start": 1658.72,
+    "duration": 2.64
+  },
+  {
+    "text": "leaders",
+    "start": 1660.24,
+    "duration": 3.919
+  },
+  {
+    "text": "and um you know i i used to jo i joked",
+    "start": 1661.36,
+    "duration": 4.0
+  },
+  {
+    "text": "about my",
+    "start": 1664.159,
+    "duration": 3.921
+  },
+  {
+    "text": "my father who would so to get up and i",
+    "start": 1665.36,
+    "duration": 3.12
+  },
+  {
+    "text": "always",
+    "start": 1668.08,
+    "duration": 2.0
+  },
+  {
+    "text": "i said he would become worked at and",
+    "start": 1668.48,
+    "duration": 2.799
+  },
+  {
+    "text": "then he would come home and he'd become",
+    "start": 1670.08,
+    "duration": 2.64
+  },
+  {
+    "text": "home dad again and that's just",
+    "start": 1671.279,
+    "duration": 2.721
+  },
+  {
+    "text": "that's just not the way it operates",
+    "start": 1672.72,
+    "duration": 3.439
+  },
+  {
+    "text": "anymore we're we're just the same people",
+    "start": 1674.0,
+    "duration": 3.84
+  },
+  {
+    "text": "and people want to work for",
+    "start": 1676.159,
+    "duration": 2.961
+  },
+  {
+    "text": "people they respect and that they",
+    "start": 1677.84,
+    "duration": 3.12
+  },
+  {
+    "text": "understand and that they know",
+    "start": 1679.12,
+    "duration": 4.559
+  },
+  {
+    "text": "and i think that that's again hopefully",
+    "start": 1680.96,
+    "duration": 4.16
+  },
+  {
+    "text": "one of the silver linings that come out",
+    "start": 1683.679,
+    "duration": 2.801
+  },
+  {
+    "text": "of this tragedy is that",
+    "start": 1685.12,
+    "duration": 2.799
+  },
+  {
+    "text": "we won't go back again that we'll",
+    "start": 1686.48,
+    "duration": 3.919
+  },
+  {
+    "text": "maintain that human empathetic approach",
+    "start": 1687.919,
+    "duration": 4.321
+  },
+  {
+    "text": "as leaders",
+    "start": 1690.399,
+    "duration": 5.121
+  },
+  {
+    "text": "let me ask you about china doing",
+    "start": 1692.24,
+    "duration": 4.319
+  },
+  {
+    "text": "business with china",
+    "start": 1695.52,
+    "duration": 2.639
+  },
+  {
+    "text": "of course is a big challenge for u.s",
+    "start": 1696.559,
+    "duration": 3.201
+  },
+  {
+    "text": "companies for political and",
+    "start": 1698.159,
+    "duration": 4.0
+  },
+  {
+    "text": "and commercial reasons i know cisco has",
+    "start": 1699.76,
+    "duration": 4.639
+  },
+  {
+    "text": "been caught up in the trade war itself",
+    "start": 1702.159,
+    "duration": 4.321
+  },
+  {
+    "text": "what is your advice for multinational",
+    "start": 1704.399,
+    "duration": 3.76
+  },
+  {
+    "text": "companies who want to succeed in china",
+    "start": 1706.48,
+    "duration": 3.04
+  },
+  {
+    "text": "what's your advice given the current",
+    "start": 1708.159,
+    "duration": 3.281
+  },
+  {
+    "text": "climate",
+    "start": 1709.52,
+    "duration": 4.08
+  },
+  {
+    "text": "well i think the um first of all for us",
+    "start": 1711.44,
+    "duration": 3.2
+  },
+  {
+    "text": "i think it's uh",
+    "start": 1713.6,
+    "duration": 2.88
+  },
+  {
+    "text": "we've been there for 30 plus years and",
+    "start": 1714.64,
+    "duration": 3.919
+  },
+  {
+    "text": "and and we have things come and go we",
+    "start": 1716.48,
+    "duration": 3.76
+  },
+  {
+    "text": "had the snowden situation that we had to",
+    "start": 1718.559,
+    "duration": 3.281
+  },
+  {
+    "text": "navigate and then we had",
+    "start": 1720.24,
+    "duration": 3.36
+  },
+  {
+    "text": "you know and now we're having this and i",
+    "start": 1721.84,
+    "duration": 3.36
+  },
+  {
+    "text": "firmly believe that we'll get to the",
+    "start": 1723.6,
+    "duration": 2.88
+  },
+  {
+    "text": "other side of it and we'll figure",
+    "start": 1725.2,
+    "duration": 3.52
+  },
+  {
+    "text": "we'll figure out a way for the countries",
+    "start": 1726.48,
+    "duration": 4.0
+  },
+  {
+    "text": "even with the differences for them to",
+    "start": 1728.72,
+    "duration": 4.48
+  },
+  {
+    "text": "for us to move forward somehow uh you",
+    "start": 1730.48,
+    "duration": 3.28
+  },
+  {
+    "text": "know",
+    "start": 1733.2,
+    "duration": 2.959
+  },
+  {
+    "text": "in a constructive way because the global",
+    "start": 1733.76,
+    "duration": 4.56
+  },
+  {
+    "text": "economy needs us to do that",
+    "start": 1736.159,
+    "duration": 4.321
+  },
+  {
+    "text": "but for for us in china i think you know",
+    "start": 1738.32,
+    "duration": 3.44
+  },
+  {
+    "text": "i was actually asked to speak at the",
+    "start": 1740.48,
+    "duration": 3.12
+  },
+  {
+    "text": "china development forum last week which",
+    "start": 1741.76,
+    "duration": 2.159
+  },
+  {
+    "text": "was",
+    "start": 1743.6,
+    "duration": 3.52
+  },
+  {
+    "text": "a great opportunity and what i would say",
+    "start": 1743.919,
+    "duration": 4.64
+  },
+  {
+    "text": "is",
+    "start": 1747.12,
+    "duration": 3.12
+  },
+  {
+    "text": "if you want to do business in china you",
+    "start": 1748.559,
+    "duration": 3.36
+  },
+  {
+    "text": "need to understand what's important in",
+    "start": 1750.24,
+    "duration": 2.72
+  },
+  {
+    "text": "china and you need to",
+    "start": 1751.919,
+    "duration": 3.521
+  },
+  {
+    "text": "and this is true of every country we go",
+    "start": 1752.96,
+    "duration": 3.599
+  },
+  {
+    "text": "in we have a program",
+    "start": 1755.44,
+    "duration": 2.959
+  },
+  {
+    "text": "called country digital acceleration and",
+    "start": 1756.559,
+    "duration": 3.281
+  },
+  {
+    "text": "we go into every country and we meet",
+    "start": 1758.399,
+    "duration": 3.121
+  },
+  {
+    "text": "with a head of state",
+    "start": 1759.84,
+    "duration": 5.68
+  },
+  {
+    "text": "and we we basically align our investment",
+    "start": 1761.52,
+    "duration": 4.48
+  },
+  {
+    "text": "strategy",
+    "start": 1765.52,
+    "duration": 3.039
+  },
+  {
+    "text": "in a country around the priorities of",
+    "start": 1766.0,
+    "duration": 3.84
+  },
+  {
+    "text": "the leader",
+    "start": 1768.559,
+    "duration": 3.12
+  },
+  {
+    "text": "and whether it's healthcare education",
+    "start": 1769.84,
+    "duration": 3.36
+  },
+  {
+    "text": "smart cities",
+    "start": 1771.679,
+    "duration": 3.521
+  },
+  {
+    "text": "whatever those are that's that's how we",
+    "start": 1773.2,
+    "duration": 4.079
+  },
+  {
+    "text": "do it and and you know we we drive our",
+    "start": 1775.2,
+    "duration": 3.92
+  },
+  {
+    "text": "education network academies program",
+    "start": 1777.279,
+    "duration": 3.681
+  },
+  {
+    "text": "around that we've taken it into prisons",
+    "start": 1779.12,
+    "duration": 3.36
+  },
+  {
+    "text": "in certain countries",
+    "start": 1780.96,
+    "duration": 4.4
+  },
+  {
+    "text": "and so i think china is no different you",
+    "start": 1782.48,
+    "duration": 4.4
+  },
+  {
+    "text": "have to understand their culture you",
+    "start": 1785.36,
+    "duration": 2.799
+  },
+  {
+    "text": "have to know what you're willing to do",
+    "start": 1786.88,
+    "duration": 3.36
+  },
+  {
+    "text": "and what you're not willing to do",
+    "start": 1788.159,
+    "duration": 4.561
+  },
+  {
+    "text": "and again that's true of every country",
+    "start": 1790.24,
+    "duration": 3.84
+  },
+  {
+    "text": "and i think just uh",
+    "start": 1792.72,
+    "duration": 3.6
+  },
+  {
+    "text": "just spend time to understand what what",
+    "start": 1794.08,
+    "duration": 4.079
+  },
+  {
+    "text": "they would like to see from you",
+    "start": 1796.32,
+    "duration": 3.599
+  },
+  {
+    "text": "and what you're trying to accomplish and",
+    "start": 1798.159,
+    "duration": 2.961
+  },
+  {
+    "text": "then you know execute at the",
+    "start": 1799.919,
+    "duration": 8.64
+  },
+  {
+    "text": "intersection where it makes sense",
+    "start": 1801.12,
+    "duration": 8.88
+  },
+  {
+    "text": "yeah all right octavia back to you in",
+    "start": 1808.559,
+    "duration": 3.521
+  },
+  {
+    "text": "the audience great so",
+    "start": 1810.0,
+    "duration": 5.52
+  },
+  {
+    "text": "we'll take one more question um",
+    "start": 1812.08,
+    "duration": 6.079
+  },
+  {
+    "text": "ludovic from luxembourg says does cisco",
+    "start": 1815.52,
+    "duration": 4.56
+  },
+  {
+    "text": "see a possibility of leveraging",
+    "start": 1818.159,
+    "duration": 4.321
+  },
+  {
+    "text": "virtual reality in the future of virtual",
+    "start": 1820.08,
+    "duration": 4.479
+  },
+  {
+    "text": "meetings",
+    "start": 1822.48,
+    "duration": 4.72
+  },
+  {
+    "text": "we do yeah there's there's virtual",
+    "start": 1824.559,
+    "duration": 4.48
+  },
+  {
+    "text": "reality there's augmented reality and i",
+    "start": 1827.2,
+    "duration": 2.56
+  },
+  {
+    "text": "think that",
+    "start": 1829.039,
+    "duration": 2.161
+  },
+  {
+    "text": "all of that will be a part of this",
+    "start": 1829.76,
+    "duration": 3.039
+  },
+  {
+    "text": "technology going forward there's a lot",
+    "start": 1831.2,
+    "duration": 3.04
+  },
+  {
+    "text": "of great work already going on we're",
+    "start": 1832.799,
+    "duration": 2.48
+  },
+  {
+    "text": "doing some",
+    "start": 1834.24,
+    "duration": 3.12
+  },
+  {
+    "text": "we have some great stuff in some some of",
+    "start": 1835.279,
+    "duration": 4.241
+  },
+  {
+    "text": "our engineering labs in san jose that",
+    "start": 1837.36,
+    "duration": 3.919
+  },
+  {
+    "text": "i'd be in trouble if i talked about but",
+    "start": 1839.52,
+    "duration": 2.639
+  },
+  {
+    "text": "uh",
+    "start": 1841.279,
+    "duration": 3.041
+  },
+  {
+    "text": "you know you could see augmented reality",
+    "start": 1842.159,
+    "duration": 3.201
+  },
+  {
+    "text": "as an example in",
+    "start": 1844.32,
+    "duration": 3.28
+  },
+  {
+    "text": "in iot applications around and it's one",
+    "start": 1845.36,
+    "duration": 4.64
+  },
+  {
+    "text": "that we've shown a few times around",
+    "start": 1847.6,
+    "duration": 3.92
+  },
+  {
+    "text": "maintenance applications for",
+    "start": 1850.0,
+    "duration": 3.279
+  },
+  {
+    "text": "manufacturing equipment and you're",
+    "start": 1851.52,
+    "duration": 4.24
+  },
+  {
+    "text": "leveraging augmented reality to have",
+    "start": 1853.279,
+    "duration": 5.601
+  },
+  {
+    "text": "a remote expert actually seeing through",
+    "start": 1855.76,
+    "duration": 4.88
+  },
+  {
+    "text": "your eyes and what's going on and then",
+    "start": 1858.88,
+    "duration": 3.679
+  },
+  {
+    "text": "helping you actually manipulate and",
+    "start": 1860.64,
+    "duration": 3.6
+  },
+  {
+    "text": "change the uh",
+    "start": 1862.559,
+    "duration": 4.561
+  },
+  {
+    "text": "or affect the equipment that's having",
+    "start": 1864.24,
+    "duration": 3.919
+  },
+  {
+    "text": "the trouble so",
+    "start": 1867.12,
+    "duration": 2.96
+  },
+  {
+    "text": "we do see a lot of that coming we see",
+    "start": 1868.159,
+    "duration": 3.681
+  },
+  {
+    "text": "three-dimensional coming there's there's",
+    "start": 1870.08,
+    "duration": 3.04
+  },
+  {
+    "text": "a lot of great stuff that's going to be",
+    "start": 1871.84,
+    "duration": 1.6
+  },
+  {
+    "text": "uh",
+    "start": 1873.12,
+    "duration": 3.679
+  },
+  {
+    "text": "part of our future fantastic and we have",
+    "start": 1873.44,
+    "duration": 4.56
+  },
+  {
+    "text": "another question",
+    "start": 1876.799,
+    "duration": 3.6
+  },
+  {
+    "text": "and this one's from daniel bolger he",
+    "start": 1878.0,
+    "duration": 3.039
+  },
+  {
+    "text": "says chuck",
+    "start": 1880.399,
+    "duration": 2.561
+  },
+  {
+    "text": "mentioned the products available for",
+    "start": 1881.039,
+    "duration": 3.921
+  },
+  {
+    "text": "government and legislative support",
+    "start": 1882.96,
+    "duration": 3.839
+  },
+  {
+    "text": "is there anything in the pipeline to",
+    "start": 1884.96,
+    "duration": 3.92
+  },
+  {
+    "text": "help countries or non-profits with",
+    "start": 1886.799,
+    "duration": 3.921
+  },
+  {
+    "text": "humanitarian crises",
+    "start": 1888.88,
+    "duration": 5.679
+  },
+  {
+    "text": "and peaceful conflict resolution",
+    "start": 1890.72,
+    "duration": 6.64
+  },
+  {
+    "text": "well uh what i would say is that we we",
+    "start": 1894.559,
+    "duration": 4.24
+  },
+  {
+    "text": "spend a lot of time",
+    "start": 1897.36,
+    "duration": 4.88
+  },
+  {
+    "text": "uh going into areas of crisis and",
+    "start": 1898.799,
+    "duration": 6.24
+  },
+  {
+    "text": "actually bringing technology to help",
+    "start": 1902.24,
+    "duration": 4.72
+  },
+  {
+    "text": "the those who are responding to the",
+    "start": 1905.039,
+    "duration": 3.76
+  },
+  {
+    "text": "crisis actually execute their mission so",
+    "start": 1906.96,
+    "duration": 3.12
+  },
+  {
+    "text": "as an example",
+    "start": 1908.799,
+    "duration": 4.24
+  },
+  {
+    "text": "we have um we went into the refugee",
+    "start": 1910.08,
+    "duration": 4.8
+  },
+  {
+    "text": "camps in germany and we provided",
+    "start": 1913.039,
+    "duration": 4.721
+  },
+  {
+    "text": "you know wi-fi and video units to to",
+    "start": 1914.88,
+    "duration": 3.919
+  },
+  {
+    "text": "connect",
+    "start": 1917.76,
+    "duration": 4.639
+  },
+  {
+    "text": "those refugees with both translation and",
+    "start": 1918.799,
+    "duration": 5.36
+  },
+  {
+    "text": "language services as well as health care",
+    "start": 1922.399,
+    "duration": 3.201
+  },
+  {
+    "text": "services over video",
+    "start": 1924.159,
+    "duration": 3.921
+  },
+  {
+    "text": "and we connected them with experts we",
+    "start": 1925.6,
+    "duration": 3.679
+  },
+  {
+    "text": "actually took our",
+    "start": 1928.08,
+    "duration": 2.88
+  },
+  {
+    "text": "our network academy program in and we",
+    "start": 1929.279,
+    "duration": 3.76
+  },
+  {
+    "text": "committed to training thousands of those",
+    "start": 1930.96,
+    "duration": 3.04
+  },
+  {
+    "text": "refugees who had",
+    "start": 1933.039,
+    "duration": 3.681
+  },
+  {
+    "text": "the the capabilities to move into",
+    "start": 1934.0,
+    "duration": 4.08
+  },
+  {
+    "text": "technology so",
+    "start": 1936.72,
+    "duration": 3.76
+  },
+  {
+    "text": "we we come in with both our technology",
+    "start": 1938.08,
+    "duration": 3.04
+  },
+  {
+    "text": "and uh",
+    "start": 1940.48,
+    "duration": 2.96
+  },
+  {
+    "text": "and our corporate social responsibility",
+    "start": 1941.12,
+    "duration": 4.0
+  },
+  {
+    "text": "uh and actually try to help in those",
+    "start": 1943.44,
+    "duration": 4.0
+  },
+  {
+    "text": "times of crisis and we also have a group",
+    "start": 1945.12,
+    "duration": 3.2
+  },
+  {
+    "text": "that",
+    "start": 1947.44,
+    "duration": 2.56
+  },
+  {
+    "text": "you know with a hurricane or typhoon or",
+    "start": 1948.32,
+    "duration": 3.76
+  },
+  {
+    "text": "whatever it is typically",
+    "start": 1950.0,
+    "duration": 3.6
+  },
+  {
+    "text": "believe it or not we have teams of",
+    "start": 1952.08,
+    "duration": 3.28
+  },
+  {
+    "text": "people that are usually first on the",
+    "start": 1953.6,
+    "duration": 2.319
+  },
+  {
+    "text": "ground",
+    "start": 1955.36,
+    "duration": 2.4
+  },
+  {
+    "text": "because if you think about the first",
+    "start": 1955.919,
+    "duration": 3.521
+  },
+  {
+    "text": "responders in a in a",
+    "start": 1957.76,
+    "duration": 3.84
+  },
+  {
+    "text": "caribbean island like puerto rico when",
+    "start": 1959.44,
+    "duration": 4.32
+  },
+  {
+    "text": "they had the hurricane",
+    "start": 1961.6,
+    "duration": 3.36
+  },
+  {
+    "text": "the first thing you have to do is",
+    "start": 1963.76,
+    "duration": 2.96
+  },
+  {
+    "text": "re-establish communications or the first",
+    "start": 1964.96,
+    "duration": 3.28
+  },
+  {
+    "text": "responders can't actually",
+    "start": 1966.72,
+    "duration": 4.24
+  },
+  {
+    "text": "operate so we tend to have people on the",
+    "start": 1968.24,
+    "duration": 5.279
+  },
+  {
+    "text": "ground very early in times of crisis",
+    "start": 1970.96,
+    "duration": 4.319
+  },
+  {
+    "text": "and teams of people that are trained to",
+    "start": 1973.519,
+    "duration": 3.121
+  },
+  {
+    "text": "do that so we",
+    "start": 1975.279,
+    "duration": 4.4
+  },
+  {
+    "text": "we try to do our part for sure so chuck",
+    "start": 1976.64,
+    "duration": 3.519
+  },
+  {
+    "text": "i've got",
+    "start": 1979.679,
+    "duration": 2.801
+  },
+  {
+    "text": "one more question which is you know i",
+    "start": 1980.159,
+    "duration": 4.161
+  },
+  {
+    "text": "mean as you talk it's obvious that there",
+    "start": 1982.48,
+    "duration": 2.72
+  },
+  {
+    "text": "are",
+    "start": 1984.32,
+    "duration": 3.76
+  },
+  {
+    "text": "um things that go beyond just running a",
+    "start": 1985.2,
+    "duration": 4.4
+  },
+  {
+    "text": "company that are",
+    "start": 1988.08,
+    "duration": 3.76
+  },
+  {
+    "text": "are among your passions and you know",
+    "start": 1989.6,
+    "duration": 3.76
+  },
+  {
+    "text": "we're asking ceos",
+    "start": 1991.84,
+    "duration": 3.439
+  },
+  {
+    "text": "increasingly to be activists to solve",
+    "start": 1993.36,
+    "duration": 3.199
+  },
+  {
+    "text": "social problems",
+    "start": 1995.279,
+    "duration": 3.841
+  },
+  {
+    "text": "how do you decide what's appropriate for",
+    "start": 1996.559,
+    "duration": 3.681
+  },
+  {
+    "text": "you to jump in on",
+    "start": 1999.12,
+    "duration": 3.039
+  },
+  {
+    "text": "and and what do you stay out of that's a",
+    "start": 2000.24,
+    "duration": 3.2
+  },
+  {
+    "text": "great question",
+    "start": 2002.159,
+    "duration": 2.801
+  },
+  {
+    "text": "um and we we've talked about this with",
+    "start": 2003.44,
+    "duration": 3.52
+  },
+  {
+    "text": "our employees because you know there are",
+    "start": 2004.96,
+    "duration": 3.599
+  },
+  {
+    "text": "issues that are simply",
+    "start": 2006.96,
+    "duration": 5.199
+  },
+  {
+    "text": "bipartisan beliefs and in that case we",
+    "start": 2008.559,
+    "duration": 5.041
+  },
+  {
+    "text": "just tell them we're we're not as a",
+    "start": 2012.159,
+    "duration": 1.921
+  },
+  {
+    "text": "company",
+    "start": 2013.6,
+    "duration": 3.52
+  },
+  {
+    "text": "unless unless there's a an impact on our",
+    "start": 2014.08,
+    "duration": 4.0
+  },
+  {
+    "text": "business",
+    "start": 2017.12,
+    "duration": 2.72
+  },
+  {
+    "text": "we we will not take a position on that",
+    "start": 2018.08,
+    "duration": 3.599
+  },
+  {
+    "text": "that's just stuff that you you all",
+    "start": 2019.84,
+    "duration": 3.36
+  },
+  {
+    "text": "you know you're going to believe certain",
+    "start": 2021.679,
+    "duration": 2.961
+  },
+  {
+    "text": "thing because of your background you're",
+    "start": 2023.2,
+    "duration": 2.719
+  },
+  {
+    "text": "going to believe a certain thing",
+    "start": 2024.64,
+    "duration": 3.279
+  },
+  {
+    "text": "and what we encourage them to do is you",
+    "start": 2025.919,
+    "duration": 3.521
+  },
+  {
+    "text": "know we all speak about the value of",
+    "start": 2027.919,
+    "duration": 2.48
+  },
+  {
+    "text": "diversity",
+    "start": 2029.44,
+    "duration": 2.959
+  },
+  {
+    "text": "until someone completely disagrees with",
+    "start": 2030.399,
+    "duration": 3.921
+  },
+  {
+    "text": "me on some political issue",
+    "start": 2032.399,
+    "duration": 3.601
+  },
+  {
+    "text": "and so we say look find someone who",
+    "start": 2034.32,
+    "duration": 3.04
+  },
+  {
+    "text": "disagrees with you",
+    "start": 2036.0,
+    "duration": 4.0
+  },
+  {
+    "text": "have lunch and understand how they got",
+    "start": 2037.36,
+    "duration": 4.24
+  },
+  {
+    "text": "to their position i guarantee it's all",
+    "start": 2040.0,
+    "duration": 3.6
+  },
+  {
+    "text": "based on all the things that we say we",
+    "start": 2041.6,
+    "duration": 3.52
+  },
+  {
+    "text": "value about diversity it's the",
+    "start": 2043.6,
+    "duration": 3.199
+  },
+  {
+    "text": "experiences it's how they're raised",
+    "start": 2045.12,
+    "duration": 4.32
+  },
+  {
+    "text": "where they were raised and so that's the",
+    "start": 2046.799,
+    "duration": 4.56
+  },
+  {
+    "text": "first piece we try to do",
+    "start": 2049.44,
+    "duration": 4.88
+  },
+  {
+    "text": "the second is if it's a if it's an issue",
+    "start": 2051.359,
+    "duration": 3.361
+  },
+  {
+    "text": "uh",
+    "start": 2054.32,
+    "duration": 2.0
+  },
+  {
+    "text": "legislative issue or whatever it might",
+    "start": 2054.72,
+    "duration": 3.919
+  },
+  {
+    "text": "be that is is impactful to our business",
+    "start": 2056.32,
+    "duration": 4.0
+  },
+  {
+    "text": "then we will typically take a position",
+    "start": 2058.639,
+    "duration": 5.121
+  },
+  {
+    "text": "like uh tax reform is a good example of",
+    "start": 2060.32,
+    "duration": 4.319
+  },
+  {
+    "text": "that one",
+    "start": 2063.76,
+    "duration": 2.48
+  },
+  {
+    "text": "and then there are those issues that we",
+    "start": 2064.639,
+    "duration": 3.121
+  },
+  {
+    "text": "just view as being",
+    "start": 2066.24,
+    "duration": 4.8
+  },
+  {
+    "text": "binary moral issues that we we won't",
+    "start": 2067.76,
+    "duration": 5.68
+  },
+  {
+    "text": "you know we won't walk away from and",
+    "start": 2071.04,
+    "duration": 4.0
+  },
+  {
+    "text": "those are issues of social justice and",
+    "start": 2073.44,
+    "duration": 2.56
+  },
+  {
+    "text": "racism",
+    "start": 2075.04,
+    "duration": 2.319
+  },
+  {
+    "text": "and those are just those are just",
+    "start": 2076.0,
+    "duration": 3.119
+  },
+  {
+    "text": "principles of our company and i tell our",
+    "start": 2077.359,
+    "duration": 3.04
+  },
+  {
+    "text": "employees",
+    "start": 2079.119,
+    "duration": 3.76
+  },
+  {
+    "text": "actually if you disagree with these core",
+    "start": 2080.399,
+    "duration": 4.161
+  },
+  {
+    "text": "beliefs then we're probably not the",
+    "start": 2082.879,
+    "duration": 3.28
+  },
+  {
+    "text": "place for you to work",
+    "start": 2084.56,
+    "duration": 3.519
+  },
+  {
+    "text": "and uh so you know that's sort of the",
+    "start": 2086.159,
+    "duration": 3.2
+  },
+  {
+    "text": "process we go through",
+    "start": 2088.079,
+    "duration": 3.201
+  },
+  {
+    "text": "and uh we we have a framework that we",
+    "start": 2089.359,
+    "duration": 3.361
+  },
+  {
+    "text": "run these issues through but they tend",
+    "start": 2091.28,
+    "duration": 2.0
+  },
+  {
+    "text": "to",
+    "start": 2092.72,
+    "duration": 2.0
+  },
+  {
+    "text": "they tend to identify into one of those",
+    "start": 2093.28,
+    "duration": 3.52
+  },
+  {
+    "text": "categories pretty quickly yeah that's",
+    "start": 2094.72,
+    "duration": 3.6
+  },
+  {
+    "text": "actually that's a really good way to",
+    "start": 2096.8,
+    "duration": 4.08
+  },
+  {
+    "text": "to to put that anyway we are out of time",
+    "start": 2098.32,
+    "duration": 3.759
+  },
+  {
+    "text": "but i want to thank you",
+    "start": 2100.88,
+    "duration": 3.84
+  },
+  {
+    "text": "chuck robbins ceo of cisco for being our",
+    "start": 2102.079,
+    "duration": 3.361
+  },
+  {
+    "text": "guest today",
+    "start": 2104.72,
+    "duration": 3.84
+  },
+  {
+    "text": "uh it was really a great conversation",
+    "start": 2105.44,
+    "duration": 5.2
+  },
+  {
+    "text": "thank you guys good to see you thank you",
+    "start": 2108.56,
+    "duration": 3.279
+  },
+  {
+    "text": "all right and i want to",
+    "start": 2110.64,
+    "duration": 3.199
+  },
+  {
+    "text": "thank our friends at accenture for uh",
+    "start": 2111.839,
+    "duration": 3.52
+  },
+  {
+    "text": "for sponsoring the show",
+    "start": 2113.839,
+    "duration": 3.76
+  },
+  {
+    "text": "there's no show next week as it is",
+    "start": 2115.359,
+    "duration": 4.48
+  },
+  {
+    "text": "thanksgiving week in the u.s but we will",
+    "start": 2117.599,
+    "duration": 4.561
+  },
+  {
+    "text": "be back on tuesday december 1st",
+    "start": 2119.839,
+    "duration": 4.161
+  },
+  {
+    "text": "with our guest dan shulman who is the",
+    "start": 2122.16,
+    "duration": 4.08
+  },
+  {
+    "text": "president and ceo of paypal",
+    "start": 2124.0,
+    "duration": 5.2
+  },
+  {
+    "text": "so that is it from me and from josh and",
+    "start": 2126.24,
+    "duration": 3.839
+  },
+  {
+    "text": "from octavia",
+    "start": 2129.2,
+    "duration": 15.45
+  },
+  {
+    "text": "and that is it this week from hbr now",
+    "start": 2130.079,
+    "duration": 18.171
+  },
+  {
+    "text": "[Music]",
+    "start": 2144.65,
+    "duration": 6.759
+  },
+  {
+    "text": "[Applause]",
+    "start": 2148.25,
+    "duration": 3.159
+  },
+  {
+    "text": "[Music]",
+    "start": 2151.72,
+    "duration": 6.04
+  },
+  {
+    "text": "hey it's the coolest after party in town",
+    "start": 2155.28,
+    "duration": 4.96
+  },
+  {
+    "text": "there you go",
+    "start": 2157.76,
+    "duration": 4.0
+  },
+  {
+    "text": "i'm glad to be invited to the after",
+    "start": 2160.24,
+    "duration": 2.8
+  },
+  {
+    "text": "party i usually don't get invited to",
+    "start": 2161.76,
+    "duration": 1.99
+  },
+  {
+    "text": "after parties",
+    "start": 2163.04,
+    "duration": 3.039
+  },
+  {
+    "text": "[Laughter]",
+    "start": 2163.75,
+    "duration": 3.849
+  },
+  {
+    "text": "my team normally won't let me go to",
+    "start": 2166.079,
+    "duration": 3.201
+  },
+  {
+    "text": "after parties",
+    "start": 2167.599,
+    "duration": 3.361
+  },
+  {
+    "text": "that's probably fine that was great",
+    "start": 2169.28,
+    "duration": 2.88
+  },
+  {
+    "text": "chuck that was that was excellent thank",
+    "start": 2170.96,
+    "duration": 1.52
+  },
+  {
+    "text": "you",
+    "start": 2172.16,
+    "duration": 2.24
+  },
+  {
+    "text": "really good really tough on a lot of",
+    "start": 2172.48,
+    "duration": 3.92
+  },
+  {
+    "text": "these issues it was good we didn't get",
+    "start": 2174.4,
+    "duration": 2.48
+  },
+  {
+    "text": "to the",
+    "start": 2176.4,
+    "duration": 3.52
+  },
+  {
+    "text": "we didn't get we we didn't get to the",
+    "start": 2176.88,
+    "duration": 5.44
+  },
+  {
+    "text": "great tick tock debate i was curious if",
+    "start": 2179.92,
+    "duration": 3.04
+  },
+  {
+    "text": "you uh",
+    "start": 2182.32,
+    "duration": 3.6
+  },
+  {
+    "text": "what you thought of all that you know",
+    "start": 2182.96,
+    "duration": 3.28
+  },
+  {
+    "text": "what",
+    "start": 2185.92,
+    "duration": 3.76
+  },
+  {
+    "text": "i think that that's one that uh",
+    "start": 2186.24,
+    "duration": 5.04
+  },
+  {
+    "text": "i'm hopeful that the people that are",
+    "start": 2189.68,
+    "duration": 3.36
+  },
+  {
+    "text": "making those decisions have some",
+    "start": 2191.28,
+    "duration": 3.04
+  },
+  {
+    "text": "some facts that are leading them to",
+    "start": 2193.04,
+    "duration": 2.96
+  },
+  {
+    "text": "whatever the conclusions they come to i",
+    "start": 2194.32,
+    "duration": 2.799
+  },
+  {
+    "text": "think that's the most important thing",
+    "start": 2196.0,
+    "duration": 2.56
+  },
+  {
+    "text": "but i mean i",
+    "start": 2197.119,
+    "duration": 4.161
+  },
+  {
+    "text": "i think any time there's the fundamental",
+    "start": 2198.56,
+    "duration": 4.16
+  },
+  {
+    "text": "question of whether",
+    "start": 2201.28,
+    "duration": 3.52
+  },
+  {
+    "text": "anybody's technology is being leveraged",
+    "start": 2202.72,
+    "duration": 3.44
+  },
+  {
+    "text": "by their governments whether",
+    "start": 2204.8,
+    "duration": 2.88
+  },
+  {
+    "text": "and i'm not to my child i'm telling any",
+    "start": 2206.16,
+    "duration": 3.04
+  },
+  {
+    "text": "any country we have the same when we go",
+    "start": 2207.68,
+    "duration": 2.64
+  },
+  {
+    "text": "outside the united states we have to",
+    "start": 2209.2,
+    "duration": 2.8
+  },
+  {
+    "text": "convince them that we're not right so i",
+    "start": 2210.32,
+    "duration": 2.799
+  },
+  {
+    "text": "think that's",
+    "start": 2212.0,
+    "duration": 3.119
+  },
+  {
+    "text": "it's the proof that i think we have to",
+    "start": 2213.119,
+    "duration": 4.321
+  },
+  {
+    "text": "uh have to think about",
+    "start": 2215.119,
+    "duration": 5.041
+  },
+  {
+    "text": "yeah so so how did you how did you",
+    "start": 2217.44,
+    "duration": 3.679
+  },
+  {
+    "text": "finish number one",
+    "start": 2220.16,
+    "duration": 3.04
+  },
+  {
+    "text": "two years in a row in fortune's list of",
+    "start": 2221.119,
+    "duration": 3.441
+  },
+  {
+    "text": "the best workplaces",
+    "start": 2223.2,
+    "duration": 4.8
+  },
+  {
+    "text": "i'm a great chief people officer um",
+    "start": 2224.56,
+    "duration": 5.2
+  },
+  {
+    "text": "you know i i honestly think it's a",
+    "start": 2228.0,
+    "duration": 4.64
+  },
+  {
+    "text": "combination of",
+    "start": 2229.76,
+    "duration": 5.44
+  },
+  {
+    "text": "we're just we're having fun as a company",
+    "start": 2232.64,
+    "duration": 4.56
+  },
+  {
+    "text": "and that employees feel connected to us",
+    "start": 2235.2,
+    "duration": 2.8
+  },
+  {
+    "text": "they",
+    "start": 2237.2,
+    "duration": 2.56
+  },
+  {
+    "text": "they've actually said this year that",
+    "start": 2238.0,
+    "duration": 3.04
+  },
+  {
+    "text": "they said",
+    "start": 2239.76,
+    "duration": 2.8
+  },
+  {
+    "text": "we're physically further apart than",
+    "start": 2241.04,
+    "duration": 3.039
+  },
+  {
+    "text": "we've ever been but we feel closer than",
+    "start": 2242.56,
+    "duration": 3.12
+  },
+  {
+    "text": "we ever have been",
+    "start": 2244.079,
+    "duration": 4.0
+  },
+  {
+    "text": "and it's um it's it and it's just a",
+    "start": 2245.68,
+    "duration": 4.159
+  },
+  {
+    "text": "byproduct of just being straight with",
+    "start": 2248.079,
+    "duration": 3.201
+  },
+  {
+    "text": "them being honest",
+    "start": 2249.839,
+    "duration": 4.561
+  },
+  {
+    "text": "being open talk about the issues",
+    "start": 2251.28,
+    "duration": 6.079
+  },
+  {
+    "text": "and you know you just have to be human",
+    "start": 2254.4,
+    "duration": 3.76
+  },
+  {
+    "text": "and",
+    "start": 2257.359,
+    "duration": 4.081
+  },
+  {
+    "text": "and this is um it's uh",
+    "start": 2258.16,
+    "duration": 5.12
+  },
+  {
+    "text": "and i think that's the big thing we we",
+    "start": 2261.44,
+    "duration": 3.44
+  },
+  {
+    "text": "communicate frequently honestly",
+    "start": 2263.28,
+    "duration": 2.96
+  },
+  {
+    "text": "authentically i've told",
+    "start": 2264.88,
+    "duration": 2.64
+  },
+  {
+    "text": "i've told our employees if it doesn't",
+    "start": 2266.24,
+    "duration": 3.2
+  },
+  {
+    "text": "put me in jail or put the company at",
+    "start": 2267.52,
+    "duration": 3.68
+  },
+  {
+    "text": "risk i will answer any questions",
+    "start": 2269.44,
+    "duration": 4.8
+  },
+  {
+    "text": "you ask and i don't know what i do",
+    "start": 2271.2,
+    "duration": 4.639
+  },
+  {
+    "text": "and they keep trying until they send you",
+    "start": 2274.24,
+    "duration": 3.44
+  },
+  {
+    "text": "to jail",
+    "start": 2275.839,
+    "duration": 2.801
+  },
+  {
+    "text": "and then the corporate social",
+    "start": 2277.68,
+    "duration": 2.56
+  },
+  {
+    "text": "responsibility stuff we have really",
+    "start": 2278.64,
+    "duration": 3.84
+  },
+  {
+    "text": "amplified and i think that was uh",
+    "start": 2280.24,
+    "duration": 3.76
+  },
+  {
+    "text": "that's just been that's sort of how i",
+    "start": 2282.48,
+    "duration": 3.119
+  },
+  {
+    "text": "was raised so it's just been a",
+    "start": 2284.0,
+    "duration": 3.2
+  },
+  {
+    "text": "very natural thing for me and it's been",
+    "start": 2285.599,
+    "duration": 3.041
+  },
+  {
+    "text": "an important thing for me and",
+    "start": 2287.2,
+    "duration": 3.68
+  },
+  {
+    "text": "i think every ceo when you grow up in a",
+    "start": 2288.64,
+    "duration": 5.04
+  },
+  {
+    "text": "in a rural area of georgia like i did",
+    "start": 2290.88,
+    "duration": 5.28
+  },
+  {
+    "text": "and you find yourself fortunate enough",
+    "start": 2293.68,
+    "duration": 3.36
+  },
+  {
+    "text": "to be running in",
+    "start": 2296.16,
+    "duration": 2.959
+  },
+  {
+    "text": "silicon valley icon you have a moment",
+    "start": 2297.04,
+    "duration": 4.48
+  },
+  {
+    "text": "where you step back and say why",
+    "start": 2299.119,
+    "duration": 4.96
+  },
+  {
+    "text": "how how did this happen and why and you",
+    "start": 2301.52,
+    "duration": 3.2
+  },
+  {
+    "text": "know for me",
+    "start": 2304.079,
+    "duration": 3.04
+  },
+  {
+    "text": "it just it said look i i i know i have",
+    "start": 2304.72,
+    "duration": 3.84
+  },
+  {
+    "text": "to run the company but there's a bigger",
+    "start": 2307.119,
+    "duration": 2.401
+  },
+  {
+    "text": "reason i got this",
+    "start": 2308.56,
+    "duration": 3.44
+  },
+  {
+    "text": "this job and i think it is to balance",
+    "start": 2309.52,
+    "duration": 4.559
+  },
+  {
+    "text": "the societal impact and and running the",
+    "start": 2312.0,
+    "duration": 3.52
+  },
+  {
+    "text": "company as well and i think that's just",
+    "start": 2314.079,
+    "duration": 2.801
+  },
+  {
+    "text": "that's just how i think about it and i",
+    "start": 2315.52,
+    "duration": 1.839
+  },
+  {
+    "text": "think that's",
+    "start": 2316.88,
+    "duration": 3.44
+  },
+  {
+    "text": "that's my responsibility so chuck i have",
+    "start": 2317.359,
+    "duration": 4.72
+  },
+  {
+    "text": "a question i'm originally from england",
+    "start": 2320.32,
+    "duration": 2.799
+  },
+  {
+    "text": "and i saw that",
+    "start": 2322.079,
+    "duration": 3.921
+  },
+  {
+    "text": "webex helped the queen get online",
+    "start": 2323.119,
+    "duration": 3.921
+  },
+  {
+    "text": "earlier this year we",
+    "start": 2326.0,
+    "duration": 4.64
+  },
+  {
+    "text": "you actually on that not actually on",
+    "start": 2327.04,
+    "duration": 5.36
+  },
+  {
+    "text": "that website so it's not",
+    "start": 2330.64,
+    "duration": 3.92
+  },
+  {
+    "text": "we've done we've had people get married",
+    "start": 2332.4,
+    "duration": 3.12
+  },
+  {
+    "text": "over webex",
+    "start": 2334.56,
+    "duration": 4.72
+  },
+  {
+    "text": "we have had uh a lot of uh",
+    "start": 2335.52,
+    "duration": 5.68
+  },
+  {
+    "text": "you know most of the government secure",
+    "start": 2339.28,
+    "duration": 3.76
+  },
+  {
+    "text": "government communications when they want",
+    "start": 2341.2,
+    "duration": 3.28
+  },
+  {
+    "text": "when they want to communicate they use",
+    "start": 2343.04,
+    "duration": 3.039
+  },
+  {
+    "text": "webex because they trust us",
+    "start": 2344.48,
+    "duration": 5.68
+  },
+  {
+    "text": "um and so you know i think again i think",
+    "start": 2346.079,
+    "duration": 5.841
+  },
+  {
+    "text": "after the pandemic i think some of these",
+    "start": 2350.16,
+    "duration": 2.88
+  },
+  {
+    "text": "issues will probably",
+    "start": 2351.92,
+    "duration": 3.36
+  },
+  {
+    "text": "in the in the moment of just give me",
+    "start": 2353.04,
+    "duration": 3.92
+  },
+  {
+    "text": "something that i can communicate with",
+    "start": 2355.28,
+    "duration": 2.799
+  },
+  {
+    "text": "easily",
+    "start": 2356.96,
+    "duration": 3.28
+  },
+  {
+    "text": "uh you know different decisions get made",
+    "start": 2358.079,
+    "duration": 4.081
+  },
+  {
+    "text": "but i think over time i think you step",
+    "start": 2360.24,
+    "duration": 3.599
+  },
+  {
+    "text": "back and look at the criteria for what",
+    "start": 2362.16,
+    "duration": 3.04
+  },
+  {
+    "text": "you know what the solutions are",
+    "start": 2363.839,
+    "duration": 4.161
+  },
+  {
+    "text": "and uh you know we'll be we'll be good",
+    "start": 2365.2,
+    "duration": 4.639
+  },
+  {
+    "text": "we got a lot planned for this platform",
+    "start": 2368.0,
+    "duration": 3.44
+  },
+  {
+    "text": "the feature velocity right now is pretty",
+    "start": 2369.839,
+    "duration": 3.52
+  },
+  {
+    "text": "impressive we uh",
+    "start": 2371.44,
+    "duration": 4.48
+  },
+  {
+    "text": "we bought a company called uh babel labs",
+    "start": 2373.359,
+    "duration": 4.401
+  },
+  {
+    "text": "and they do noise cancellation",
+    "start": 2375.92,
+    "duration": 2.96
+  },
+  {
+    "text": "and so you know the biggest thing with",
+    "start": 2377.76,
+    "duration": 2.4
+  },
+  {
+    "text": "these platforms that we've all had over",
+    "start": 2378.88,
+    "duration": 2.16
+  },
+  {
+    "text": "the last",
+    "start": 2380.16,
+    "duration": 2.959
+  },
+  {
+    "text": "you know nine months is like could you",
+    "start": 2381.04,
+    "duration": 3.52
+  },
+  {
+    "text": "please go on mute could you go on mute",
+    "start": 2383.119,
+    "duration": 3.281
+  },
+  {
+    "text": "please could you go",
+    "start": 2384.56,
+    "duration": 6.559
+  },
+  {
+    "text": "and use that right now",
+    "start": 2386.4,
+    "duration": 4.719
+  },
+  {
+    "text": "we just we bought this company uh like",
+    "start": 2393.839,
+    "duration": 5.201
+  },
+  {
+    "text": "40 phds built this incredible technology",
+    "start": 2396.32,
+    "duration": 4.56
+  },
+  {
+    "text": "we rolled it out within 30 days of",
+    "start": 2399.04,
+    "duration": 3.52
+  },
+  {
+    "text": "having it we integrated into webex and",
+    "start": 2400.88,
+    "duration": 2.959
+  },
+  {
+    "text": "we rolled it out",
+    "start": 2402.56,
+    "duration": 3.36
+  },
+  {
+    "text": "in the last release and i was literally",
+    "start": 2403.839,
+    "duration": 3.681
+  },
+  {
+    "text": "on a call with my chief people officer",
+    "start": 2405.92,
+    "duration": 2.24
+  },
+  {
+    "text": "this morning",
+    "start": 2407.52,
+    "duration": 2.799
+  },
+  {
+    "text": "and someone was using the central vacuum",
+    "start": 2408.16,
+    "duration": 3.439
+  },
+  {
+    "text": "in our house",
+    "start": 2410.319,
+    "duration": 2.961
+  },
+  {
+    "text": "and it's you can hear it through the",
+    "start": 2411.599,
+    "duration": 4.401
+  },
+  {
+    "text": "walls because it's really loud in fact",
+    "start": 2413.28,
+    "duration": 4.48
+  },
+  {
+    "text": "they have made comments to me before",
+    "start": 2416.0,
+    "duration": 3.44
+  },
+  {
+    "text": "like what's that noise and",
+    "start": 2417.76,
+    "duration": 3.599
+  },
+  {
+    "text": "so this morning i hear this thing and no",
+    "start": 2419.44,
+    "duration": 4.24
+  },
+  {
+    "text": "one is saying anything",
+    "start": 2421.359,
+    "duration": 6.0
+  },
+  {
+    "text": "and i'm like do you not hear this",
+    "start": 2423.68,
+    "duration": 3.679
+  },
+  {
+    "text": "no we don't hear anything so dogs",
+    "start": 2427.68,
+    "duration": 3.76
+  },
+  {
+    "text": "barking vacuuming",
+    "start": 2429.92,
+    "duration": 3.04
+  },
+  {
+    "text": "leaf blowers all that stuff gets",
+    "start": 2431.44,
+    "duration": 2.879
+  },
+  {
+    "text": "filtered out so there's a whole lot of",
+    "start": 2432.96,
+    "duration": 2.8
+  },
+  {
+    "text": "great technology that we're rolling out",
+    "start": 2434.319,
+    "duration": 3.441
+  },
+  {
+    "text": "on the platforms and uh",
+    "start": 2435.76,
+    "duration": 3.52
+  },
+  {
+    "text": "you know we're creating something about",
+    "start": 2437.76,
+    "duration": 3.04
+  },
+  {
+    "text": "the intimacy of these",
+    "start": 2439.28,
+    "duration": 4.0
+  },
+  {
+    "text": "these video platforms i we last week we",
+    "start": 2440.8,
+    "duration": 4.559
+  },
+  {
+    "text": "celebrated my father's 100th",
+    "start": 2443.28,
+    "duration": 3.63
+  },
+  {
+    "text": "birthday",
+    "start": 2445.359,
+    "duration": 3.041
+  },
+  {
+    "text": "[Applause]",
+    "start": 2446.91,
+    "duration": 3.33
+  },
+  {
+    "text": "it was cool we had tons of people online",
+    "start": 2448.4,
+    "duration": 3.679
+  },
+  {
+    "text": "and and you know",
+    "start": 2450.24,
+    "duration": 3.68
+  },
+  {
+    "text": "if we had thought it was sort of",
+    "start": 2452.079,
+    "duration": 3.441
+  },
+  {
+    "text": "heartbreaking not to have everybody",
+    "start": 2453.92,
+    "duration": 3.04
+  },
+  {
+    "text": "physically in a room but",
+    "start": 2455.52,
+    "duration": 2.88
+  },
+  {
+    "text": "you know my brother observed i think",
+    "start": 2456.96,
+    "duration": 3.359
+  },
+  {
+    "text": "he's right that in some ways it was more",
+    "start": 2458.4,
+    "duration": 3.6
+  },
+  {
+    "text": "intimate more personal",
+    "start": 2460.319,
+    "duration": 3.841
+  },
+  {
+    "text": "everybody had their chance to kind of",
+    "start": 2462.0,
+    "duration": 4.4
+  },
+  {
+    "text": "speak and connect and it worked both",
+    "start": 2464.16,
+    "duration": 2.72
+  },
+  {
+    "text": "ways",
+    "start": 2466.4,
+    "duration": 3.84
+  },
+  {
+    "text": "and i i hate to say it was almost better",
+    "start": 2466.88,
+    "duration": 4.88
+  },
+  {
+    "text": "virtually than it would have been",
+    "start": 2470.24,
+    "duration": 4.0
+  },
+  {
+    "text": "live it's a strange world order well i'm",
+    "start": 2471.76,
+    "duration": 3.839
+  },
+  {
+    "text": "curious though",
+    "start": 2474.24,
+    "duration": 3.44
+  },
+  {
+    "text": "like you know we're all focused on",
+    "start": 2475.599,
+    "duration": 4.0
+  },
+  {
+    "text": "different things than we thought we",
+    "start": 2477.68,
+    "duration": 2.399
+  },
+  {
+    "text": "would be",
+    "start": 2479.599,
+    "duration": 3.281
+  },
+  {
+    "text": "well at least i am in 2002 i mean how",
+    "start": 2480.079,
+    "duration": 3.52
+  },
+  {
+    "text": "much",
+    "start": 2482.88,
+    "duration": 2.32
+  },
+  {
+    "text": "because you have a lot of product so how",
+    "start": 2483.599,
+    "duration": 3.52
+  },
+  {
+    "text": "much time were you",
+    "start": 2485.2,
+    "duration": 3.76
+  },
+  {
+    "text": "really thinking about each day webex",
+    "start": 2487.119,
+    "duration": 4.161
+  },
+  {
+    "text": "before the pandemic hit",
+    "start": 2488.96,
+    "duration": 6.159
+  },
+  {
+    "text": "not as much as i am now uh",
+    "start": 2491.28,
+    "duration": 3.839
+  },
+  {
+    "text": "yeah i mean there were there were people",
+    "start": 2495.28,
+    "duration": 3.36
+  },
+  {
+    "text": "you know",
+    "start": 2497.359,
+    "duration": 2.801
+  },
+  {
+    "text": "year year and a half ago people say why",
+    "start": 2498.64,
+    "duration": 2.959
+  },
+  {
+    "text": "are you even in that business what is it",
+    "start": 2500.16,
+    "duration": 2.24
+  },
+  {
+    "text": "i mean",
+    "start": 2501.599,
+    "duration": 4.641
+  },
+  {
+    "text": "you know and uh they're not saying that",
+    "start": 2502.4,
+    "duration": 3.84
+  },
+  {
+    "text": "but it's still a small percentage of our",
+    "start": 2506.319,
+    "duration": 3.121
+  },
+  {
+    "text": "overall business so right",
+    "start": 2507.76,
+    "duration": 3.92
+  },
+  {
+    "text": "right all right hey julie i'm sure",
+    "start": 2509.44,
+    "duration": 4.0
+  },
+  {
+    "text": "you've got a question",
+    "start": 2511.68,
+    "duration": 5.04
+  },
+  {
+    "text": "what do you got um well",
+    "start": 2513.44,
+    "duration": 5.679
+  },
+  {
+    "text": "i guess i was wondering about uh you",
+    "start": 2516.72,
+    "duration": 3.119
+  },
+  {
+    "text": "know",
+    "start": 2519.119,
+    "duration": 3.121
+  },
+  {
+    "text": "sort of anecdotally what has been your",
+    "start": 2519.839,
+    "duration": 4.721
+  },
+  {
+    "text": "best experience on webex this year i",
+    "start": 2522.24,
+    "duration": 2.8
+  },
+  {
+    "text": "know you",
+    "start": 2524.56,
+    "duration": 1.68
+  },
+  {
+    "text": "mentioned you weren't on the call with",
+    "start": 2525.04,
+    "duration": 2.72
+  },
+  {
+    "text": "your majesty mcqueen but if there been",
+    "start": 2526.24,
+    "duration": 2.079
+  },
+  {
+    "text": "any",
+    "start": 2527.76,
+    "duration": 2.72
+  },
+  {
+    "text": "webex video calls that really stood out",
+    "start": 2528.319,
+    "duration": 3.601
+  },
+  {
+    "text": "for you as like the moment that you'll",
+    "start": 2530.48,
+    "duration": 2.72
+  },
+  {
+    "text": "maybe think back and go you know what",
+    "start": 2531.92,
+    "duration": 2.32
+  },
+  {
+    "text": "that was a really great",
+    "start": 2533.2,
+    "duration": 3.28
+  },
+  {
+    "text": "a really fun webex call sort of as audi",
+    "start": 2534.24,
+    "duration": 3.119
+  },
+  {
+    "text": "was saying maybe",
+    "start": 2536.48,
+    "duration": 2.08
+  },
+  {
+    "text": "you got to interact with some people you",
+    "start": 2537.359,
+    "duration": 3.041
+  },
+  {
+    "text": "wouldn't normally get a chance to to",
+    "start": 2538.56,
+    "duration": 3.519
+  },
+  {
+    "text": "communicate with so",
+    "start": 2540.4,
+    "duration": 6.4
+  },
+  {
+    "text": "what would be your top moment well i um",
+    "start": 2542.079,
+    "duration": 7.52
+  },
+  {
+    "text": "i early i'll tell you early in the uh",
+    "start": 2546.8,
+    "duration": 4.48
+  },
+  {
+    "text": "pandemic we were trying to",
+    "start": 2549.599,
+    "duration": 3.76
+  },
+  {
+    "text": "lighten things up and have some fun with",
+    "start": 2551.28,
+    "duration": 4.559
+  },
+  {
+    "text": "our employees and so i sort of",
+    "start": 2553.359,
+    "duration": 4.161
+  },
+  {
+    "text": "i have a network of friends that are in",
+    "start": 2555.839,
+    "duration": 3.121
+  },
+  {
+    "text": "the music industry and",
+    "start": 2557.52,
+    "duration": 4.559
+  },
+  {
+    "text": "or or in sports and so we started",
+    "start": 2558.96,
+    "duration": 3.68
+  },
+  {
+    "text": "bringing",
+    "start": 2562.079,
+    "duration": 2.161
+  },
+  {
+    "text": "i started like bringing on a special",
+    "start": 2562.64,
+    "duration": 3.52
+  },
+  {
+    "text": "guest every week or every other week",
+    "start": 2564.24,
+    "duration": 5.2
+  },
+  {
+    "text": "and uh and so having those guys on i had",
+    "start": 2566.16,
+    "duration": 4.0
+  },
+  {
+    "text": "like uh",
+    "start": 2569.44,
+    "duration": 2.24
+  },
+  {
+    "text": "charles kelly who's the lead male",
+    "start": 2570.16,
+    "duration": 3.199
+  },
+  {
+    "text": "vocalist from lady a",
+    "start": 2571.68,
+    "duration": 3.76
+  },
+  {
+    "text": "uh is a good friend so he came on he",
+    "start": 2573.359,
+    "duration": 3.76
+  },
+  {
+    "text": "actually sang a song",
+    "start": 2575.44,
+    "duration": 3.52
+  },
+  {
+    "text": "chris martin from coldplay is a friend",
+    "start": 2577.119,
+    "duration": 3.2
+  },
+  {
+    "text": "he came on and sang",
+    "start": 2578.96,
+    "duration": 4.879
+  },
+  {
+    "text": "he's saying for my team",
+    "start": 2580.319,
+    "duration": 3.52
+  },
+  {
+    "text": "your meetings like so suck compared to",
+    "start": 2584.56,
+    "duration": 4.799
+  },
+  {
+    "text": "this",
+    "start": 2587.119,
+    "duration": 5.761
+  },
+  {
+    "text": "i'll call the actor on uh",
+    "start": 2589.359,
+    "duration": 5.841
+  },
+  {
+    "text": "he was he was robbing in batman robin",
+    "start": 2592.88,
+    "duration": 4.0
+  },
+  {
+    "text": "chris is a friend",
+    "start": 2595.2,
+    "duration": 3.6
+  },
+  {
+    "text": "and he's on uh what's the show i should",
+    "start": 2596.88,
+    "duration": 3.199
+  },
+  {
+    "text": "know he'll kill me for not knowing the",
+    "start": 2598.8,
+    "duration": 2.88
+  },
+  {
+    "text": "name of it but uh",
+    "start": 2600.079,
+    "duration": 6.801
+  },
+  {
+    "text": "but just um i peyton manning on one week",
+    "start": 2601.68,
+    "duration": 5.2
+  },
+  {
+    "text": "i got a funny story for offline sometime",
+    "start": 2615.04,
+    "duration": 3.76
+  },
+  {
+    "text": "i can tell you about that one but uh",
+    "start": 2616.96,
+    "duration": 4.08
+  },
+  {
+    "text": "chris",
+    "start": 2618.8,
+    "duration": 2.24
+  },
+  {
+    "text": "he's a local boy yeah yeah yeah so we",
+    "start": 2624.88,
+    "duration": 5.52
+  },
+  {
+    "text": "you can just you know spending time with",
+    "start": 2628.319,
+    "duration": 3.601
+  },
+  {
+    "text": "the teams i mean our team's ever it's",
+    "start": 2630.4,
+    "duration": 2.4
+  },
+  {
+    "text": "been really",
+    "start": 2631.92,
+    "duration": 3.36
+  },
+  {
+    "text": "it's been a lot of fun uh i mean it's",
+    "start": 2632.8,
+    "duration": 4.0
+  },
+  {
+    "text": "been stressful but",
+    "start": 2635.28,
+    "duration": 2.88
+  },
+  {
+    "text": "it's one of those things we look forward",
+    "start": 2636.8,
+    "duration": 3.2
+  },
+  {
+    "text": "to when we laugh and uh we have every",
+    "start": 2638.16,
+    "duration": 3.439
+  },
+  {
+    "text": "one of my leaders on these calls and",
+    "start": 2640.0,
+    "duration": 3.44
+  },
+  {
+    "text": "and people are like the chat window much",
+    "start": 2641.599,
+    "duration": 3.361
+  },
+  {
+    "text": "like you had today the chat window was",
+    "start": 2643.44,
+    "duration": 2.96
+  },
+  {
+    "text": "just going and you know everybody's like",
+    "start": 2644.96,
+    "duration": 2.879
+  },
+  {
+    "text": "hey look that's a new background you",
+    "start": 2646.4,
+    "duration": 2.56
+  },
+  {
+    "text": "notice i don't give them anything to",
+    "start": 2647.839,
+    "duration": 3.041
+  },
+  {
+    "text": "talk about but um",
+    "start": 2648.96,
+    "duration": 5.359
+  },
+  {
+    "text": "the uh the the chat windows are",
+    "start": 2650.88,
+    "duration": 4.88
+  },
+  {
+    "text": "incredible it's like hey",
+    "start": 2654.319,
+    "duration": 2.8
+  },
+  {
+    "text": "everybody thinks i've lost weight i'm",
+    "start": 2655.76,
+    "duration": 2.4
+  },
+  {
+    "text": "like well i don't know where they got",
+    "start": 2657.119,
+    "duration": 2.401
+  },
+  {
+    "text": "that from but they're",
+    "start": 2658.16,
+    "duration": 4.72
+  },
+  {
+    "text": "like trucks lost weight you know what um",
+    "start": 2659.52,
+    "duration": 5.599
+  },
+  {
+    "text": "that's what you say to the boss yeah",
+    "start": 2662.88,
+    "duration": 4.32
+  },
+  {
+    "text": "yeah",
+    "start": 2665.119,
+    "duration": 3.361
+  },
+  {
+    "text": "they haven't they wouldn't even think",
+    "start": 2667.2,
+    "duration": 2.96
+  },
+  {
+    "text": "that i'm like monitoring the chat window",
+    "start": 2668.48,
+    "duration": 3.839
+  },
+  {
+    "text": "but i am",
+    "start": 2670.16,
+    "duration": 6.56
+  },
+  {
+    "text": "so you guys like the boss yeah yeah yeah",
+    "start": 2672.319,
+    "duration": 4.401
+  },
+  {
+    "text": "thanks everybody",
+    "start": 2677.68,
+    "duration": 14.159
+  }
+]

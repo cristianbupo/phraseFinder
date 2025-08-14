@@ -1,0 +1,957 @@
+[
+  {
+    "text": "So, artificial intelligence",
+    "start": 1.765,
+    "duration": 3.0
+  },
+  {
+    "text": "is known for disrupting\nall kinds of industries.",
+    "start": 4.789,
+    "duration": 3.529
+  },
+  {
+    "text": "What about ice cream?",
+    "start": 8.961,
+    "duration": 2.043
+  },
+  {
+    "text": "What kind of mind-blowing\nnew flavors could we generate",
+    "start": 11.879,
+    "duration": 3.639
+  },
+  {
+    "text": "with the power of an advanced\nartificial intelligence?",
+    "start": 15.542,
+    "duration": 2.976
+  },
+  {
+    "text": "So I teamed up with a group of coders\nfrom Kealing Middle School",
+    "start": 19.011,
+    "duration": 4.161
+  },
+  {
+    "text": "to find out the answer to this question.",
+    "start": 23.196,
+    "duration": 2.241
+  },
+  {
+    "text": "They collected over 1,600\nexisting ice cream flavors,",
+    "start": 25.461,
+    "duration": 5.081
+  },
+  {
+    "text": "and together, we fed them to an algorithm\nto see what it would generate.",
+    "start": 30.566,
+    "duration": 5.522
+  },
+  {
+    "text": "And here are some of the flavors\nthat the AI came up with.",
+    "start": 36.112,
+    "duration": 3.753
+  },
+  {
+    "text": "[Pumpkin Trash Break]",
+    "start": 40.444,
+    "duration": 1.471
+  },
+  {
+    "text": "(Laughter)",
+    "start": 41.939,
+    "duration": 1.402
+  },
+  {
+    "text": "[Peanut Butter Slime]",
+    "start": 43.365,
+    "duration": 2.469
+  },
+  {
+    "text": "[Strawberry Cream Disease]",
+    "start": 46.822,
+    "duration": 1.343
+  },
+  {
+    "text": "(Laughter)",
+    "start": 48.189,
+    "duration": 2.126
+  },
+  {
+    "text": "These flavors are not delicious,\nas we might have hoped they would be.",
+    "start": 50.339,
+    "duration": 4.597
+  },
+  {
+    "text": "So the question is: What happened?",
+    "start": 54.96,
+    "duration": 1.864
+  },
+  {
+    "text": "What went wrong?",
+    "start": 56.848,
+    "duration": 1.394
+  },
+  {
+    "text": "Is the AI trying to kill us?",
+    "start": 58.266,
+    "duration": 1.959
+  },
+  {
+    "text": "Or is it trying to do what we asked,\nand there was a problem?",
+    "start": 61.027,
+    "duration": 4.31
+  },
+  {
+    "text": "In movies, when something\ngoes wrong with AI,",
+    "start": 66.567,
+    "duration": 2.464
+  },
+  {
+    "text": "it's usually because the AI has decided",
+    "start": 69.055,
+    "duration": 2.712
+  },
+  {
+    "text": "that it doesn't want to obey\nthe humans anymore,",
+    "start": 71.791,
+    "duration": 2.272
+  },
+  {
+    "text": "and it's got its own goals,\nthank you very much.",
+    "start": 74.087,
+    "duration": 2.623
+  },
+  {
+    "text": "In real life, though,\nthe AI that we actually have",
+    "start": 77.266,
+    "duration": 3.216
+  },
+  {
+    "text": "is not nearly smart enough for that.",
+    "start": 80.506,
+    "duration": 1.863
+  },
+  {
+    "text": "It has the approximate computing power",
+    "start": 82.781,
+    "duration": 2.982
+  },
+  {
+    "text": "of an earthworm,",
+    "start": 85.787,
+    "duration": 1.276
+  },
+  {
+    "text": "or maybe at most a single honeybee,",
+    "start": 87.087,
+    "duration": 3.403
+  },
+  {
+    "text": "and actually, probably maybe less.",
+    "start": 90.514,
+    "duration": 2.215
+  },
+  {
+    "text": "Like, we're constantly learning\nnew things about brains",
+    "start": 92.753,
+    "duration": 2.594
+  },
+  {
+    "text": "that make it clear how much our AIs\ndon't measure up to real brains.",
+    "start": 95.371,
+    "duration": 4.36
+  },
+  {
+    "text": "So today's AI can do a task\nlike identify a pedestrian in a picture,",
+    "start": 99.755,
+    "duration": 5.663
+  },
+  {
+    "text": "but it doesn't have a concept\nof what the pedestrian is",
+    "start": 105.442,
+    "duration": 2.983
+  },
+  {
+    "text": "beyond that it's a collection\nof lines and textures and things.",
+    "start": 108.449,
+    "duration": 4.824
+  },
+  {
+    "text": "It doesn't know what a human actually is.",
+    "start": 113.792,
+    "duration": 2.521
+  },
+  {
+    "text": "So will today's AI\ndo what we ask it to do?",
+    "start": 116.822,
+    "duration": 3.282
+  },
+  {
+    "text": "It will if it can,",
+    "start": 120.128,
+    "duration": 1.594
+  },
+  {
+    "text": "but it might not do what we actually want.",
+    "start": 121.746,
+    "duration": 2.726
+  },
+  {
+    "text": "So let's say that you\nwere trying to get an AI",
+    "start": 124.496,
+    "duration": 2.415
+  },
+  {
+    "text": "to take this collection of robot parts",
+    "start": 126.935,
+    "duration": 2.619
+  },
+  {
+    "text": "and assemble them into some kind of robot\nto get from Point A to Point B.",
+    "start": 129.578,
+    "duration": 4.197
+  },
+  {
+    "text": "Now, if you were going to try\nand solve this problem",
+    "start": 133.799,
+    "duration": 2.481
+  },
+  {
+    "text": "by writing a traditional-style\ncomputer program,",
+    "start": 136.304,
+    "duration": 2.351
+  },
+  {
+    "text": "you would give the program\nstep-by-step instructions",
+    "start": 138.679,
+    "duration": 3.417
+  },
+  {
+    "text": "on how to take these parts,",
+    "start": 142.12,
+    "duration": 1.329
+  },
+  {
+    "text": "how to assemble them\ninto a robot with legs",
+    "start": 143.473,
+    "duration": 2.407
+  },
+  {
+    "text": "and then how to use those legs\nto walk to Point B.",
+    "start": 145.904,
+    "duration": 2.942
+  },
+  {
+    "text": "But when you're using AI\nto solve the problem,",
+    "start": 149.441,
+    "duration": 2.34
+  },
+  {
+    "text": "it goes differently.",
+    "start": 151.805,
+    "duration": 1.174
+  },
+  {
+    "text": "You don't tell it\nhow to solve the problem,",
+    "start": 153.003,
+    "duration": 2.382
+  },
+  {
+    "text": "you just give it the goal,",
+    "start": 155.409,
+    "duration": 1.479
+  },
+  {
+    "text": "and it has to figure out for itself\nvia trial and error",
+    "start": 156.912,
+    "duration": 3.262
+  },
+  {
+    "text": "how to reach that goal.",
+    "start": 160.198,
+    "duration": 1.484
+  },
+  {
+    "text": "And it turns out that the way AI tends\nto solve this particular problem",
+    "start": 162.254,
+    "duration": 4.102
+  },
+  {
+    "text": "is by doing this:",
+    "start": 166.38,
+    "duration": 1.484
+  },
+  {
+    "text": "it assembles itself into a tower\nand then falls over",
+    "start": 167.888,
+    "duration": 3.367
+  },
+  {
+    "text": "and lands at Point B.",
+    "start": 171.279,
+    "duration": 1.827
+  },
+  {
+    "text": "And technically, this solves the problem.",
+    "start": 173.13,
+    "duration": 2.829
+  },
+  {
+    "text": "Technically, it got to Point B.",
+    "start": 175.983,
+    "duration": 1.639
+  },
+  {
+    "text": "The danger of AI is not that\nit's going to rebel against us,",
+    "start": 177.646,
+    "duration": 4.265
+  },
+  {
+    "text": "it's that it's going to do\nexactly what we ask it to do.",
+    "start": 181.935,
+    "duration": 4.274
+  },
+  {
+    "text": "So then the trick\nof working with AI becomes:",
+    "start": 186.876,
+    "duration": 2.498
+  },
+  {
+    "text": "How do we set up the problem\nso that it actually does what we want?",
+    "start": 189.398,
+    "duration": 3.828
+  },
+  {
+    "text": "So this little robot here\nis being controlled by an AI.",
+    "start": 194.726,
+    "duration": 3.306
+  },
+  {
+    "text": "The AI came up with a design\nfor the robot legs",
+    "start": 198.056,
+    "duration": 2.814
+  },
+  {
+    "text": "and then figured out how to use them\nto get past all these obstacles.",
+    "start": 200.894,
+    "duration": 4.078
+  },
+  {
+    "text": "But when David Ha set up this experiment,",
+    "start": 204.996,
+    "duration": 2.741
+  },
+  {
+    "text": "he had to set it up\nwith very, very strict limits",
+    "start": 207.761,
+    "duration": 2.856
+  },
+  {
+    "text": "on how big the AI\nwas allowed to make the legs,",
+    "start": 210.641,
+    "duration": 3.292
+  },
+  {
+    "text": "because otherwise ...",
+    "start": 213.957,
+    "duration": 1.55
+  },
+  {
+    "text": "(Laughter)",
+    "start": 223.058,
+    "duration": 3.931
+  },
+  {
+    "text": "And technically, it got\nto the end of that obstacle course.",
+    "start": 228.563,
+    "duration": 3.745
+  },
+  {
+    "text": "So you see how hard it is to get AI\nto do something as simple as just walk.",
+    "start": 232.332,
+    "duration": 4.942
+  },
+  {
+    "text": "So seeing the AI do this,\nyou may say, OK, no fair,",
+    "start": 237.298,
+    "duration": 3.82
+  },
+  {
+    "text": "you can't just be\na tall tower and fall over,",
+    "start": 241.142,
+    "duration": 2.58
+  },
+  {
+    "text": "you have to actually, like,\nuse legs to walk.",
+    "start": 243.746,
+    "duration": 3.435
+  },
+  {
+    "text": "And it turns out,\nthat doesn't always work, either.",
+    "start": 247.205,
+    "duration": 2.759
+  },
+  {
+    "text": "This AI's job was to move fast.",
+    "start": 249.988,
+    "duration": 2.759
+  },
+  {
+    "text": "They didn't tell it that it had\nto run facing forward",
+    "start": 253.115,
+    "duration": 3.593
+  },
+  {
+    "text": "or that it couldn't use its arms.",
+    "start": 256.732,
+    "duration": 2.258
+  },
+  {
+    "text": "So this is what you get\nwhen you train AI to move fast,",
+    "start": 259.487,
+    "duration": 4.618
+  },
+  {
+    "text": "you get things like somersaulting\nand silly walks.",
+    "start": 264.129,
+    "duration": 3.534
+  },
+  {
+    "text": "It's really common.",
+    "start": 267.687,
+    "duration": 1.4
+  },
+  {
+    "text": "So is twitching along the floor in a heap.",
+    "start": 269.667,
+    "duration": 3.179
+  },
+  {
+    "text": "(Laughter)",
+    "start": 272.87,
+    "duration": 1.15
+  },
+  {
+    "text": "So in my opinion, you know what\nshould have been a whole lot weirder",
+    "start": 275.241,
+    "duration": 3.254
+  },
+  {
+    "text": "is the \"Terminator\" robots.",
+    "start": 278.519,
+    "duration": 1.396
+  },
+  {
+    "text": "Hacking \"The Matrix\" is another thing\nthat AI will do if you give it a chance.",
+    "start": 280.256,
+    "duration": 3.755
+  },
+  {
+    "text": "So if you train an AI in a simulation,",
+    "start": 284.035,
+    "duration": 2.517
+  },
+  {
+    "text": "it will learn how to do things like\nhack into the simulation's math errors",
+    "start": 286.576,
+    "duration": 4.113
+  },
+  {
+    "text": "and harvest them for energy.",
+    "start": 290.713,
+    "duration": 2.207
+  },
+  {
+    "text": "Or it will figure out how to move faster\nby glitching repeatedly into the floor.",
+    "start": 292.944,
+    "duration": 5.475
+  },
+  {
+    "text": "When you're working with AI,",
+    "start": 298.443,
+    "duration": 1.585
+  },
+  {
+    "text": "it's less like working with another human",
+    "start": 300.052,
+    "duration": 2.389
+  },
+  {
+    "text": "and a lot more like working\nwith some kind of weird force of nature.",
+    "start": 302.465,
+    "duration": 3.629
+  },
+  {
+    "text": "And it's really easy to accidentally\ngive AI the wrong problem to solve,",
+    "start": 306.562,
+    "duration": 4.623
+  },
+  {
+    "text": "and often we don't realize that\nuntil something has actually gone wrong.",
+    "start": 311.209,
+    "duration": 4.538
+  },
+  {
+    "text": "So here's an experiment I did,",
+    "start": 316.242,
+    "duration": 2.08
+  },
+  {
+    "text": "where I wanted the AI\nto copy paint colors,",
+    "start": 318.346,
+    "duration": 3.182
+  },
+  {
+    "text": "to invent new paint colors,",
+    "start": 321.552,
+    "duration": 1.746
+  },
+  {
+    "text": "given the list like the ones\nhere on the left.",
+    "start": 323.322,
+    "duration": 2.987
+  },
+  {
+    "text": "And here's what the AI\nactually came up with.",
+    "start": 326.798,
+    "duration": 3.004
+  },
+  {
+    "text": "[Sindis Poop, Turdly, Suffer, Gray Pubic]",
+    "start": 329.826,
+    "duration": 3.143
+  },
+  {
+    "text": "(Laughter)",
+    "start": 332.993,
+    "duration": 4.23
+  },
+  {
+    "text": "So technically,",
+    "start": 339.177,
+    "duration": 1.886
+  },
+  {
+    "text": "it did what I asked it to.",
+    "start": 341.087,
+    "duration": 1.864
+  },
+  {
+    "text": "I thought I was asking it for,\nlike, nice paint color names,",
+    "start": 342.975,
+    "duration": 3.308
+  },
+  {
+    "text": "but what I was actually asking it to do",
+    "start": 346.307,
+    "duration": 2.307
+  },
+  {
+    "text": "was just imitate the kinds\nof letter combinations",
+    "start": 348.638,
+    "duration": 3.086
+  },
+  {
+    "text": "that it had seen in the original.",
+    "start": 351.748,
+    "duration": 1.905
+  },
+  {
+    "text": "And I didn't tell it anything\nabout what words mean,",
+    "start": 353.677,
+    "duration": 3.098
+  },
+  {
+    "text": "or that there are maybe some words",
+    "start": 356.799,
+    "duration": 2.56
+  },
+  {
+    "text": "that it should avoid using\nin these paint colors.",
+    "start": 359.383,
+    "duration": 2.889
+  },
+  {
+    "text": "So its entire world\nis the data that I gave it.",
+    "start": 363.141,
+    "duration": 3.494
+  },
+  {
+    "text": "Like with the ice cream flavors,\nit doesn't know about anything else.",
+    "start": 366.659,
+    "duration": 4.028
+  },
+  {
+    "text": "So it is through the data",
+    "start": 372.491,
+    "duration": 1.638
+  },
+  {
+    "text": "that we often accidentally tell AI\nto do the wrong thing.",
+    "start": 374.153,
+    "duration": 4.044
+  },
+  {
+    "text": "This is a fish called a tench.",
+    "start": 378.694,
+    "duration": 3.032
+  },
+  {
+    "text": "And there was a group of researchers",
+    "start": 381.75,
+    "duration": 1.815
+  },
+  {
+    "text": "who trained an AI to identify\nthis tench in pictures.",
+    "start": 383.589,
+    "duration": 3.874
+  },
+  {
+    "text": "But then when they asked it",
+    "start": 387.487,
+    "duration": 1.296
+  },
+  {
+    "text": "what part of the picture it was actually\nusing to identify the fish,",
+    "start": 388.807,
+    "duration": 3.426
+  },
+  {
+    "text": "here's what it highlighted.",
+    "start": 392.257,
+    "duration": 1.358
+  },
+  {
+    "text": "Yes, those are human fingers.",
+    "start": 395.203,
+    "duration": 2.189
+  },
+  {
+    "text": "Why would it be looking for human fingers",
+    "start": 397.416,
+    "duration": 2.059
+  },
+  {
+    "text": "if it's trying to identify a fish?",
+    "start": 399.499,
+    "duration": 1.921
+  },
+  {
+    "text": "Well, it turns out that the tench\nis a trophy fish,",
+    "start": 402.126,
+    "duration": 3.164
+  },
+  {
+    "text": "and so in a lot of pictures\nthat the AI had seen of this fish",
+    "start": 405.314,
+    "duration": 3.811
+  },
+  {
+    "text": "during training,",
+    "start": 409.149,
+    "duration": 1.151
+  },
+  {
+    "text": "the fish looked like this.",
+    "start": 410.324,
+    "duration": 1.49
+  },
+  {
+    "text": "(Laughter)",
+    "start": 411.838,
+    "duration": 1.635
+  },
+  {
+    "text": "And it didn't know that the fingers\naren't part of the fish.",
+    "start": 413.497,
+    "duration": 3.33
+  },
+  {
+    "text": "So you see why it is so hard\nto design an AI",
+    "start": 418.808,
+    "duration": 4.12
+  },
+  {
+    "text": "that actually can understand\nwhat it's looking at.",
+    "start": 422.952,
+    "duration": 3.319
+  },
+  {
+    "text": "And this is why designing\nthe image recognition",
+    "start": 426.295,
+    "duration": 2.862
+  },
+  {
+    "text": "in self-driving cars is so hard,",
+    "start": 429.181,
+    "duration": 2.067
+  },
+  {
+    "text": "and why so many self-driving car failures",
+    "start": 431.272,
+    "duration": 2.205
+  },
+  {
+    "text": "are because the AI got confused.",
+    "start": 433.501,
+    "duration": 2.885
+  },
+  {
+    "text": "I want to talk about an example from 2016.",
+    "start": 436.41,
+    "duration": 4.008
+  },
+  {
+    "text": "There was a fatal accident when somebody\nwas using Tesla's autopilot AI,",
+    "start": 440.442,
+    "duration": 4.455
+  },
+  {
+    "text": "but instead of using it on the highway\nlike it was designed for,",
+    "start": 444.921,
+    "duration": 3.414
+  },
+  {
+    "text": "they used it on city streets.",
+    "start": 448.359,
+    "duration": 2.205
+  },
+  {
+    "text": "And what happened was,",
+    "start": 451.239,
+    "duration": 1.175
+  },
+  {
+    "text": "a truck drove out in front of the car\nand the car failed to brake.",
+    "start": 452.438,
+    "duration": 3.396
+  },
+  {
+    "text": "Now, the AI definitely was trained\nto recognize trucks in pictures.",
+    "start": 456.507,
+    "duration": 4.762
+  },
+  {
+    "text": "But what it looks like happened is",
+    "start": 461.293,
+    "duration": 2.145
+  },
+  {
+    "text": "the AI was trained to recognize\ntrucks on highway driving,",
+    "start": 463.462,
+    "duration": 2.931
+  },
+  {
+    "text": "where you would expect\nto see trucks from behind.",
+    "start": 466.417,
+    "duration": 2.899
+  },
+  {
+    "text": "Trucks on the side is not supposed\nto happen on a highway,",
+    "start": 469.34,
+    "duration": 3.42
+  },
+  {
+    "text": "and so when the AI saw this truck,",
+    "start": 472.784,
+    "duration": 3.455
+  },
+  {
+    "text": "it looks like the AI recognized it\nas most likely to be a road sign",
+    "start": 476.263,
+    "duration": 4.827
+  },
+  {
+    "text": "and therefore, safe to drive underneath.",
+    "start": 481.114,
+    "duration": 2.273
+  },
+  {
+    "text": "Here's an AI misstep\nfrom a different field.",
+    "start": 484.114,
+    "duration": 2.58
+  },
+  {
+    "text": "Amazon recently had to give up\non a résumé-sorting algorithm",
+    "start": 486.718,
+    "duration": 3.46
+  },
+  {
+    "text": "that they were working on",
+    "start": 490.202,
+    "duration": 1.22
+  },
+  {
+    "text": "when they discovered that the algorithm\nhad learned to discriminate against women.",
+    "start": 491.446,
+    "duration": 3.908
+  },
+  {
+    "text": "What happened is they had trained it\non example résumés",
+    "start": 495.378,
+    "duration": 2.716
+  },
+  {
+    "text": "of people who they had hired in the past.",
+    "start": 498.118,
+    "duration": 2.242
+  },
+  {
+    "text": "And from these examples, the AI learned\nto avoid the résumés of people",
+    "start": 500.384,
+    "duration": 4.023
+  },
+  {
+    "text": "who had gone to women's colleges",
+    "start": 504.431,
+    "duration": 2.026
+  },
+  {
+    "text": "or who had the word \"women\"\nsomewhere in their resume,",
+    "start": 506.481,
+    "duration": 2.806
+  },
+  {
+    "text": "as in, \"women's soccer team\"\nor \"Society of Women Engineers.\"",
+    "start": 509.311,
+    "duration": 4.576
+  },
+  {
+    "text": "The AI didn't know that it wasn't supposed\nto copy this particular thing",
+    "start": 513.911,
+    "duration": 3.974
+  },
+  {
+    "text": "that it had seen the humans do.",
+    "start": 517.909,
+    "duration": 1.978
+  },
+  {
+    "text": "And technically, it did\nwhat they asked it to do.",
+    "start": 519.911,
+    "duration": 3.177
+  },
+  {
+    "text": "They just accidentally asked it\nto do the wrong thing.",
+    "start": 523.112,
+    "duration": 2.797
+  },
+  {
+    "text": "And this happens all the time with AI.",
+    "start": 526.653,
+    "duration": 2.895
+  },
+  {
+    "text": "AI can be really destructive\nand not know it.",
+    "start": 530.12,
+    "duration": 3.591
+  },
+  {
+    "text": "So the AIs that recommend\nnew content in Facebook, in YouTube,",
+    "start": 533.735,
+    "duration": 5.078
+  },
+  {
+    "text": "they're optimized to increase\nthe number of clicks and views.",
+    "start": 538.837,
+    "duration": 3.539
+  },
+  {
+    "text": "And unfortunately, one way\nthat they have found of doing this",
+    "start": 542.4,
+    "duration": 3.436
+  },
+  {
+    "text": "is to recommend the content\nof conspiracy theories or bigotry.",
+    "start": 545.86,
+    "duration": 4.503
+  },
+  {
+    "text": "The AIs themselves don't have any concept\nof what this content actually is,",
+    "start": 550.902,
+    "duration": 5.302
+  },
+  {
+    "text": "and they don't have any concept\nof what the consequences might be",
+    "start": 556.228,
+    "duration": 3.395
+  },
+  {
+    "text": "of recommending this content.",
+    "start": 559.647,
+    "duration": 2.109
+  },
+  {
+    "text": "So, when we're working with AI,",
+    "start": 562.296,
+    "duration": 2.011
+  },
+  {
+    "text": "it's up to us to avoid problems.",
+    "start": 564.331,
+    "duration": 4.182
+  },
+  {
+    "text": "And avoiding things going wrong,",
+    "start": 568.537,
+    "duration": 2.323
+  },
+  {
+    "text": "that may come down to\nthe age-old problem of communication,",
+    "start": 570.884,
+    "duration": 4.526
+  },
+  {
+    "text": "where we as humans have to learn\nhow to communicate with AI.",
+    "start": 575.434,
+    "duration": 3.745
+  },
+  {
+    "text": "We have to learn what AI\nis capable of doing and what it's not,",
+    "start": 579.203,
+    "duration": 4.039
+  },
+  {
+    "text": "and to understand that,\nwith its tiny little worm brain,",
+    "start": 583.266,
+    "duration": 3.086
+  },
+  {
+    "text": "AI doesn't really understand\nwhat we're trying to ask it to do.",
+    "start": 586.376,
+    "duration": 4.013
+  },
+  {
+    "text": "So in other words, we have\nto be prepared to work with AI",
+    "start": 591.148,
+    "duration": 3.321
+  },
+  {
+    "text": "that's not the super-competent,\nall-knowing AI of science fiction.",
+    "start": 594.493,
+    "duration": 5.258
+  },
+  {
+    "text": "We have to be prepared to work with an AI",
+    "start": 599.775,
+    "duration": 2.862
+  },
+  {
+    "text": "that's the one that we actually have\nin the present day.",
+    "start": 602.661,
+    "duration": 2.938
+  },
+  {
+    "text": "And present-day AI is plenty weird enough.",
+    "start": 605.623,
+    "duration": 4.205
+  },
+  {
+    "text": "Thank you.",
+    "start": 609.852,
+    "duration": 1.19
+  },
+  {
+    "text": "(Applause)",
+    "start": 611.066,
+    "duration": 5.225
+  }
+]

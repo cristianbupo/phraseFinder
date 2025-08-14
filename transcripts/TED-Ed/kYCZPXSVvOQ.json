@@ -1,0 +1,427 @@
+[
+  {
+    "text": "At roughly 4pm on July 20, 1969,",
+    "start": 6.761,
+    "duration": 4.529
+  },
+  {
+    "text": "mankind was just minutes away \nfrom landing on the surface of the moon.",
+    "start": 11.29,
+    "duration": 4.764
+  },
+  {
+    "text": "But before the astronauts \nbegan their final descent,",
+    "start": 16.054,
+    "duration": 2.68
+  },
+  {
+    "text": "an emergency alarm lit up.",
+    "start": 18.734,
+    "duration": 1.98
+  },
+  {
+    "text": "Something was overloading \nthe computer,",
+    "start": 20.714,
+    "duration": 2.09
+  },
+  {
+    "text": "and threatened to abort the landing.",
+    "start": 22.804,
+    "duration": 2.7
+  },
+  {
+    "text": "Back on Earth, Margaret Hamilton \nheld her breath.",
+    "start": 25.504,
+    "duration": 3.09
+  },
+  {
+    "text": "She'd led the team developing \nthe pioneering in-flight software,",
+    "start": 28.594,
+    "duration": 3.64
+  },
+  {
+    "text": "so she knew this mission \nhad no room for error.",
+    "start": 32.234,
+    "duration": 2.93
+  },
+  {
+    "text": "But the nature \nof this last-second emergency",
+    "start": 35.164,
+    "duration": 2.45
+  },
+  {
+    "text": "would soon prove her software \nwas working exactly as planned.",
+    "start": 37.614,
+    "duration": 4.909
+  },
+  {
+    "text": "Born 33 years earlier in Paoli, Indiana, \nHamilton had always been inquisitive.",
+    "start": 42.523,
+    "duration": 5.915
+  },
+  {
+    "text": "In college, she studied mathematics\nand philosophy,",
+    "start": 48.438,
+    "duration": 2.83
+  },
+  {
+    "text": "before taking a research position at the \nMassachusetts Institute of Technology",
+    "start": 51.268,
+    "duration": 4.33
+  },
+  {
+    "text": "to pay for grad school.",
+    "start": 55.598,
+    "duration": 1.706
+  },
+  {
+    "text": "Here, she encountered her first computer\nwhile developing software",
+    "start": 57.304,
+    "duration": 3.61
+  },
+  {
+    "text": "to support research \ninto the new field of chaos theory.",
+    "start": 60.914,
+    "duration": 3.83
+  },
+  {
+    "text": "Next at MIT's Lincoln Laboratory,",
+    "start": 64.744,
+    "duration": 2.77
+  },
+  {
+    "text": "Hamilton developed software \nfor America’s first air defense system",
+    "start": 67.514,
+    "duration": 3.625
+  },
+  {
+    "text": "to search for enemy aircraft.",
+    "start": 71.139,
+    "duration": 2.05
+  },
+  {
+    "text": "But when she heard \nthat renowned engineer Charles Draper",
+    "start": 73.189,
+    "duration": 3.592
+  },
+  {
+    "text": "was looking for help \nsending mankind to the moon,",
+    "start": 76.781,
+    "duration": 2.57
+  },
+  {
+    "text": "she immediately joined his team.",
+    "start": 79.351,
+    "duration": 2.801
+  },
+  {
+    "text": "NASA looked to Draper and his group \nof over 400 engineers",
+    "start": 82.152,
+    "duration": 3.23
+  },
+  {
+    "text": "to invent the first compact \ndigital flight computer,",
+    "start": 85.382,
+    "duration": 3.44
+  },
+  {
+    "text": "the Apollo Guidance Computer.",
+    "start": 88.822,
+    "duration": 2.29
+  },
+  {
+    "text": "Using input from astronauts,",
+    "start": 91.112,
+    "duration": 1.717
+  },
+  {
+    "text": "this device would be responsible \nfor guiding, navigating",
+    "start": 92.829,
+    "duration": 3.028
+  },
+  {
+    "text": "and controlling the spacecraft.",
+    "start": 95.857,
+    "duration": 2.514
+  },
+  {
+    "text": "At a time when unreliable computers \nfilled entire rooms,",
+    "start": 98.371,
+    "duration": 3.519
+  },
+  {
+    "text": "the AGC needed to operate \nwithout any errors,",
+    "start": 101.89,
+    "duration": 3.562
+  },
+  {
+    "text": "and fit in one cubic foot of space.",
+    "start": 105.452,
+    "duration": 3.53
+  },
+  {
+    "text": "Draper divided the lab into two teams,",
+    "start": 108.982,
+    "duration": 2.63
+  },
+  {
+    "text": "one for designing hardware \nand one for developing software.",
+    "start": 111.612,
+    "duration": 3.793
+  },
+  {
+    "text": "Hamilton led the team that built \nthe on-board flight software",
+    "start": 115.405,
+    "duration": 3.1
+  },
+  {
+    "text": "for both the Command and Lunar Modules.",
+    "start": 118.505,
+    "duration": 2.52
+  },
+  {
+    "text": "This work, for which she coined the term\n“software engineering,\"",
+    "start": 121.025,
+    "duration": 3.61
+  },
+  {
+    "text": "was incredibly high stakes.",
+    "start": 124.635,
+    "duration": 2.57
+  },
+  {
+    "text": "Human lives were on the line, \nso every program had to be perfect.",
+    "start": 127.205,
+    "duration": 4.96
+  },
+  {
+    "text": "Margaret’s software needed to quickly\ndetect unexpected errors",
+    "start": 132.165,
+    "duration": 3.63
+  },
+  {
+    "text": "and recover from them in real time.",
+    "start": 135.795,
+    "duration": 2.6
+  },
+  {
+    "text": "But this kind of adaptable program \nwas difficult to build,",
+    "start": 138.395,
+    "duration": 3.33
+  },
+  {
+    "text": "since early software could only process \njobs in a predetermined order.",
+    "start": 141.725,
+    "duration": 4.218
+  },
+  {
+    "text": "To solve this problem,",
+    "start": 145.943,
+    "duration": 1.427
+  },
+  {
+    "text": "Margaret designed her program \nto be “asynchronous,”",
+    "start": 147.37,
+    "duration": 3.1
+  },
+  {
+    "text": "meaning the software's more important\njobs would interrupt less important ones.",
+    "start": 150.47,
+    "duration": 5.192
+  },
+  {
+    "text": "Her team assigned every task \na unique priority",
+    "start": 155.662,
+    "duration": 3.2
+  },
+  {
+    "text": "to ensure that each job \noccurred in the correct order",
+    "start": 158.862,
+    "duration": 2.769
+  },
+  {
+    "text": "and at the right time—\nregardless of any surprises.",
+    "start": 161.631,
+    "duration": 4.32
+  },
+  {
+    "text": "After this breakthrough,",
+    "start": 165.951,
+    "duration": 1.51
+  },
+  {
+    "text": "Margaret realized her software \ncould help the astronauts work",
+    "start": 167.461,
+    "duration": 3.06
+  },
+  {
+    "text": "in an asynchronous environment as well.",
+    "start": 170.521,
+    "duration": 2.51
+  },
+  {
+    "text": "She designed Priority Displays",
+    "start": 173.031,
+    "duration": 1.528
+  },
+  {
+    "text": "that would interrupt \nastronaut’s regularly scheduled tasks",
+    "start": 174.559,
+    "duration": 2.81
+  },
+  {
+    "text": "to warn them of emergencies.",
+    "start": 177.369,
+    "duration": 2.02
+  },
+  {
+    "text": "The astronaut could then communicate\nwith Mission Control",
+    "start": 179.389,
+    "duration": 2.73
+  },
+  {
+    "text": "to determine the best path forward.",
+    "start": 182.119,
+    "duration": 2.67
+  },
+  {
+    "text": "This marked the first time flight software\ncommunicated directly—",
+    "start": 184.789,
+    "duration": 4.0
+  },
+  {
+    "text": "and asynchronously— \nwith a pilot.",
+    "start": 188.789,
+    "duration": 2.85
+  },
+  {
+    "text": "It was these fail safes that triggered \nthe alarms just before the lunar landing.",
+    "start": 191.639,
+    "duration": 4.835
+  },
+  {
+    "text": "Buzz Aldrin quickly realized his mistake—",
+    "start": 196.474,
+    "duration": 2.75
+  },
+  {
+    "text": "he’d inadvertently flipped \nthe rendezvous radar switch.",
+    "start": 199.224,
+    "duration": 3.64
+  },
+  {
+    "text": "This radar would be essential \non their journey home,",
+    "start": 202.864,
+    "duration": 2.487
+  },
+  {
+    "text": "but here it was using up \nvital computational resources.",
+    "start": 205.351,
+    "duration": 4.0
+  },
+  {
+    "text": "Fortunately, the Apollo Guidance Computer\nwas well equipped to manage this.",
+    "start": 209.351,
+    "duration": 4.889
+  },
+  {
+    "text": "During the overload, \nthe software restart programs",
+    "start": 214.24,
+    "duration": 2.86
+  },
+  {
+    "text": "allowed only the highest priority jobs \nto be processed—",
+    "start": 217.1,
+    "duration": 3.33
+  },
+  {
+    "text": "including the programs \nnecessary for landing.",
+    "start": 220.43,
+    "duration": 2.643
+  },
+  {
+    "text": "The Priority Displays \ngave the astronauts a choice—",
+    "start": 223.073,
+    "duration": 3.319
+  },
+  {
+    "text": "to land or not to land.",
+    "start": 226.392,
+    "duration": 2.55
+  },
+  {
+    "text": "With minutes to spare, \nMission Control gave the order.",
+    "start": 228.942,
+    "duration": 4.23
+  },
+  {
+    "text": "The Apollo 11 landing was about \nthe astronauts, Mission Control,",
+    "start": 233.172,
+    "duration": 3.64
+  },
+  {
+    "text": "software and hardware all working together\nas an integrated system of systems.",
+    "start": 236.812,
+    "duration": 5.509
+  },
+  {
+    "text": "Hamilton’s contributions were essential\nto the work of engineers and scientists",
+    "start": 242.321,
+    "duration": 4.277
+  },
+  {
+    "text": "inspired by President John F. Kennedy’s \ngoal to reach the Moon.",
+    "start": 246.598,
+    "duration": 4.388
+  },
+  {
+    "text": "And her life-saving work \nwent far beyond Apollo 11—",
+    "start": 250.986,
+    "duration": 3.38
+  },
+  {
+    "text": "no bugs were ever found in the in-flight\nsoftware for any crewed Apollo missions.",
+    "start": 254.366,
+    "duration": 5.892
+  },
+  {
+    "text": "After her work on Apollo,",
+    "start": 260.258,
+    "duration": 1.85
+  },
+  {
+    "text": "Hamilton founded a company that uses \nits unique universal systems language",
+    "start": 262.108,
+    "duration": 4.214
+  },
+  {
+    "text": "to create breakthroughs \nfor systems and software.",
+    "start": 266.322,
+    "duration": 3.071
+  },
+  {
+    "text": "In 2003, NASA honored her achievements \nwith the largest financial award",
+    "start": 269.393,
+    "duration": 5.042
+  },
+  {
+    "text": "they’d ever given to an individual.",
+    "start": 274.435,
+    "duration": 2.51
+  },
+  {
+    "text": "And 47 years after her software\nfirst guided astronauts to the moon,",
+    "start": 276.945,
+    "duration": 4.891
+  },
+  {
+    "text": "Hamilton was awarded \nthe Presidential Medal of Freedom",
+    "start": 281.836,
+    "duration": 3.5
+  },
+  {
+    "text": "for changing the way we think \nabout technology.",
+    "start": 285.336,
+    "duration": 3.07
+  }
+]

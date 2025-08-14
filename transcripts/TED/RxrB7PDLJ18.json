@@ -1,0 +1,992 @@
+[
+  {
+    "text": "Energy and data are the major\ncurrencies of our lives today.",
+    "start": 4.042,
+    "duration": 4.338
+  },
+  {
+    "text": "Over the last couple of decades,",
+    "start": 9.798,
+    "duration": 1.626
+  },
+  {
+    "text": "we've seen data going from being\nwired to becoming wireless.",
+    "start": 11.466,
+    "duration": 5.214
+  },
+  {
+    "text": "And this has helped democratize\naccess to information.",
+    "start": 17.597,
+    "duration": 4.254
+  },
+  {
+    "text": "Can we do the same thing with energy?",
+    "start": 23.186,
+    "duration": 2.044
+  },
+  {
+    "text": "Can we send energy when we want,",
+    "start": 26.648,
+    "duration": 2.252
+  },
+  {
+    "text": "where we want and as much as we want",
+    "start": 28.9,
+    "duration": 2.127
+  },
+  {
+    "text": "and in the process,\neliminate the last wire?",
+    "start": 31.027,
+    "duration": 3.212
+  },
+  {
+    "text": "If we could do this,\nthe possibilities would be endless.",
+    "start": 36.283,
+    "duration": 3.003
+  },
+  {
+    "text": "From Earth to space.",
+    "start": 39.828,
+    "duration": 2.169
+  },
+  {
+    "text": "I'd like to tell you about our dream\nof wireless energy transfer today.",
+    "start": 43.039,
+    "duration": 3.879
+  },
+  {
+    "text": "It starts with something\nwe are all familiar with -- waves.",
+    "start": 48.211,
+    "duration": 3.087
+  },
+  {
+    "text": "So waves are very essential to our lives.",
+    "start": 52.674,
+    "duration": 3.128
+  },
+  {
+    "text": "You can hear this talk\nbecause of acoustic waves.",
+    "start": 56.094,
+    "duration": 3.587
+  },
+  {
+    "text": "You can see this talk",
+    "start": 60.098,
+    "duration": 1.418
+  },
+  {
+    "text": "because of a certain kind\nof electromagnetic waves, called light.",
+    "start": 61.516,
+    "duration": 3.921
+  },
+  {
+    "text": "And the odds are, if you're\nwatching it on the internet,",
+    "start": 66.271,
+    "duration": 2.669
+  },
+  {
+    "text": "you're using some sort\nof wireless connectivity",
+    "start": 68.94,
+    "duration": 2.252
+  },
+  {
+    "text": "that relies on wireless and RF waves.",
+    "start": 71.192,
+    "duration": 3.254
+  },
+  {
+    "text": "If you have two waves\nthat have the same frequency",
+    "start": 75.363,
+    "duration": 2.92
+  },
+  {
+    "text": "and are going up and down",
+    "start": 78.325,
+    "duration": 1.543
+  },
+  {
+    "text": "and they come together\nat some point in space,",
+    "start": 79.909,
+    "duration": 3.421
+  },
+  {
+    "text": "they will add and make a wave\nthat's twice the height",
+    "start": 83.371,
+    "duration": 4.129
+  },
+  {
+    "text": "but carries four times the energy.",
+    "start": 87.542,
+    "duration": 1.919
+  },
+  {
+    "text": "Now, if the same two waves come together\nat some other place in space,",
+    "start": 91.338,
+    "duration": 4.045
+  },
+  {
+    "text": "but one is running half a period late,",
+    "start": 95.425,
+    "duration": 3.212
+  },
+  {
+    "text": "they cancel",
+    "start": 98.637,
+    "duration": 1.376
+  },
+  {
+    "text": "and you get very little energy,\npractically no energy.",
+    "start": 100.013,
+    "duration": 3.211
+  },
+  {
+    "text": "This is the basis for a process\nthat has been known for a long time.",
+    "start": 104.309,
+    "duration": 5.005
+  },
+  {
+    "text": "It's called interference.",
+    "start": 109.939,
+    "duration": 1.377
+  },
+  {
+    "text": "The idea here is that if you go\nand sit at the edge of a pond",
+    "start": 111.358,
+    "duration": 2.877
+  },
+  {
+    "text": "and take both hands\nand put them in the water",
+    "start": 114.277,
+    "duration": 2.127
+  },
+  {
+    "text": "and move them up and down,\neach hand makes a wave.",
+    "start": 116.404,
+    "duration": 2.544
+  },
+  {
+    "text": "But because of the interaction\nof these waves,",
+    "start": 120.617,
+    "duration": 2.294
+  },
+  {
+    "text": "there will be some directions\nwhere you get more energy",
+    "start": 122.952,
+    "duration": 2.712
+  },
+  {
+    "text": "and there are some directions\nthat you will get less.",
+    "start": 125.705,
+    "duration": 2.503
+  },
+  {
+    "text": "Can we make it go only in one direction?",
+    "start": 128.208,
+    "duration": 2.252
+  },
+  {
+    "text": "Well, you need more hands.",
+    "start": 131.086,
+    "duration": 1.71
+  },
+  {
+    "text": "And they have to go\nperfectly synchronized.",
+    "start": 133.88,
+    "duration": 2.127
+  },
+  {
+    "text": "But if you do that,",
+    "start": 136.633,
+    "duration": 1.209
+  },
+  {
+    "text": "what happens is that most of your energy\nstarts traveling straight down.",
+    "start": 137.884,
+    "duration": 4.838
+  },
+  {
+    "text": "Now, this is a remarkable thing",
+    "start": 144.14,
+    "duration": 2.169
+  },
+  {
+    "text": "because if you think about each one\nof those little hands,",
+    "start": 146.351,
+    "duration": 2.711
+  },
+  {
+    "text": "each one of those little sources,",
+    "start": 149.062,
+    "duration": 1.585
+  },
+  {
+    "text": "they would send energy all over the place.",
+    "start": 150.689,
+    "duration": 2.252
+  },
+  {
+    "text": "But when they work together,",
+    "start": 152.941,
+    "duration": 3.003
+  },
+  {
+    "text": "the result is that the energy\nis going mostly in one direction.",
+    "start": 155.985,
+    "duration": 3.129
+  },
+  {
+    "text": "Now, if the timing was the reason\nfor this happening,",
+    "start": 160.615,
+    "duration": 4.338
+  },
+  {
+    "text": "maybe we can play with it.",
+    "start": 164.953,
+    "duration": 1.251
+  },
+  {
+    "text": "Maybe we can mess with it\nand see what happens.",
+    "start": 166.246,
+    "duration": 3.044
+  },
+  {
+    "text": "So what if each one of these sources",
+    "start": 169.29,
+    "duration": 1.752
+  },
+  {
+    "text": "goes a little bit after\nthe one next to it?",
+    "start": 171.042,
+    "duration": 3.087
+  },
+  {
+    "text": "So in that case,",
+    "start": 175.213,
+    "duration": 1.168
+  },
+  {
+    "text": "what happens is that these waves\nstart going in different directions,",
+    "start": 176.381,
+    "duration": 3.42
+  },
+  {
+    "text": "and you can change that direction",
+    "start": 179.843,
+    "duration": 2.377
+  },
+  {
+    "text": "purely by controlling timing\nand nothing else.",
+    "start": 182.22,
+    "duration": 4.004
+  },
+  {
+    "text": "Now, this makes it possible\nto change this direction",
+    "start": 188.309,
+    "duration": 2.711
+  },
+  {
+    "text": "without any mechanical movement.",
+    "start": 191.062,
+    "duration": 1.543
+  },
+  {
+    "text": "So it can be almost instantaneous.",
+    "start": 192.605,
+    "duration": 2.044
+  },
+  {
+    "text": "You can go even further.",
+    "start": 195.191,
+    "duration": 1.794
+  },
+  {
+    "text": "You can think about creating\na magnifying glass.",
+    "start": 197.026,
+    "duration": 3.963
+  },
+  {
+    "text": "A focusing system,",
+    "start": 201.99,
+    "duration": 1.585
+  },
+  {
+    "text": "where you can actually send the energy,",
+    "start": 203.616,
+    "duration": 1.961
+  },
+  {
+    "text": "most of it, close to 90 percent of it,\nin one focal point.",
+    "start": 205.618,
+    "duration": 3.587
+  },
+  {
+    "text": "But again, since\nyou're controlling the timing,",
+    "start": 209.873,
+    "duration": 2.878
+  },
+  {
+    "text": "you can create different focal points,\nand you can send it to them.",
+    "start": 212.751,
+    "duration": 3.253
+  },
+  {
+    "text": "And this is the basis\nfor wireless energy transfer.",
+    "start": 216.045,
+    "duration": 3.045
+  },
+  {
+    "text": "It's as if you have an army of ants",
+    "start": 220.55,
+    "duration": 3.503
+  },
+  {
+    "text": "that are working\nin perfect synchronization.",
+    "start": 224.095,
+    "duration": 3.128
+  },
+  {
+    "text": "And each one of them contributes\na little bit of energy.",
+    "start": 228.433,
+    "duration": 2.627
+  },
+  {
+    "text": "But as a whole, they send it\nto the right place.",
+    "start": 232.479,
+    "duration": 2.585
+  },
+  {
+    "text": "Now,",
+    "start": 236.441,
+    "duration": 1.418
+  },
+  {
+    "text": "obviously here, timing is everything,\nlike life and comedy.",
+    "start": 237.901,
+    "duration": 4.921
+  },
+  {
+    "text": "(Laughter)",
+    "start": 243.406,
+    "duration": 1.418
+  },
+  {
+    "text": "So we’ve taken this concept,",
+    "start": 245.617,
+    "duration": 2.252
+  },
+  {
+    "text": "and we've built these electronic chips,\nintegrated circuits,",
+    "start": 247.911,
+    "duration": 5.005
+  },
+  {
+    "text": "that each one of them generates\na little bit of power.",
+    "start": 252.957,
+    "duration": 2.795
+  },
+  {
+    "text": "But again, as a group, they are designed\nto work in perfect synchronization",
+    "start": 255.794,
+    "duration": 4.295
+  },
+  {
+    "text": "and drive these little antennas\nthat transmit the energy.",
+    "start": 260.089,
+    "duration": 3.003
+  },
+  {
+    "text": "Now this army of ants,\nor army of antennas,",
+    "start": 264.26,
+    "duration": 3.837
+  },
+  {
+    "text": "is working together to create\nthose focal points of energy.",
+    "start": 268.097,
+    "duration": 3.212
+  },
+  {
+    "text": "And what I will show you next",
+    "start": 272.018,
+    "duration": 1.418
+  },
+  {
+    "text": "is some examples\nof how that actually operates.",
+    "start": 273.436,
+    "duration": 2.961
+  },
+  {
+    "text": "So what you have here, for example,",
+    "start": 276.815,
+    "duration": 2.085
+  },
+  {
+    "text": "is a generator unit that's sending power\nwirelessly to the two receivers.",
+    "start": 278.9,
+    "duration": 5.881
+  },
+  {
+    "text": "And here the point is to see\nhow well-defined these focal points are.",
+    "start": 284.781,
+    "duration": 4.504
+  },
+  {
+    "text": "That LED panel basically is receiving\nthat power and showing it.",
+    "start": 289.744,
+    "duration": 3.545
+  },
+  {
+    "text": "So you can see energy is going only\nwhere it needs to go and nowhere else.",
+    "start": 293.289,
+    "duration": 3.921
+  },
+  {
+    "text": "You can take this and put\none of these generators",
+    "start": 297.71,
+    "duration": 2.67
+  },
+  {
+    "text": "on the ceiling of your conference room\nor your living room",
+    "start": 300.421,
+    "duration": 2.962
+  },
+  {
+    "text": "and transmit energy\nto various devices that need energy.",
+    "start": 303.383,
+    "duration": 3.086
+  },
+  {
+    "text": "Now this generator on the ceiling\nis going to power a light bulb.",
+    "start": 307.846,
+    "duration": 5.171
+  },
+  {
+    "text": "Now, as we move the light bulb,",
+    "start": 313.768,
+    "duration": 3.003
+  },
+  {
+    "text": "what happens is that you see",
+    "start": 316.813,
+    "duration": 1.668
+  },
+  {
+    "text": "that there's no energy\nin the new location,",
+    "start": 318.523,
+    "duration": 2.002
+  },
+  {
+    "text": "but the system finds it, tracks it",
+    "start": 320.567,
+    "duration": 1.668
+  },
+  {
+    "text": "and sends it to the new location.",
+    "start": 322.277,
+    "duration": 2.168
+  },
+  {
+    "text": "And you can see that it dynamically\ntracks it back and forth.",
+    "start": 325.78,
+    "duration": 3.42
+  },
+  {
+    "text": "You can use this to send energy\nto one light bulb",
+    "start": 330.618,
+    "duration": 4.213
+  },
+  {
+    "text": "or to the next one\nor to both of them at the same time.",
+    "start": 334.873,
+    "duration": 3.336
+  },
+  {
+    "text": "Now you can use something like this,\nfor example, to power a drone.",
+    "start": 340.211,
+    "duration": 4.963
+  },
+  {
+    "text": "This is a battery-less drone",
+    "start": 345.216,
+    "duration": 3.337
+  },
+  {
+    "text": "that's being purely powered\nby that generator",
+    "start": 348.595,
+    "duration": 2.377
+  },
+  {
+    "text": "facing up from the bottom.",
+    "start": 351.014,
+    "duration": 1.501
+  },
+  {
+    "text": "And it can also use the same tracking\napproach to track the drone.",
+    "start": 352.515,
+    "duration": 3.504
+  },
+  {
+    "text": "So now that we know that we can\nsend energy wirelessly,",
+    "start": 357.979,
+    "duration": 4.296
+  },
+  {
+    "text": "the question is, how far can we go?",
+    "start": 362.317,
+    "duration": 2.377
+  },
+  {
+    "text": "Really, how far can we go?",
+    "start": 365.486,
+    "duration": 2.586
+  },
+  {
+    "text": "Could we put photovoltaics in space,",
+    "start": 369.991,
+    "duration": 3.17
+  },
+  {
+    "text": "solar panels in space,",
+    "start": 373.161,
+    "duration": 2.043
+  },
+  {
+    "text": "and collect the energy\nand send that wirelessly to Earth?",
+    "start": 375.204,
+    "duration": 3.796
+  },
+  {
+    "text": "This is not a new idea.",
+    "start": 380.585,
+    "duration": 2.085
+  },
+  {
+    "text": "The first time it was mentioned,",
+    "start": 384.005,
+    "duration": 1.585
+  },
+  {
+    "text": "it was in a short science-fiction story\nby Isaac Asimov from 1941.",
+    "start": 385.632,
+    "duration": 6.256
+  },
+  {
+    "text": "And what I love about this story is that",
+    "start": 393.806,
+    "duration": 3.045
+  },
+  {
+    "text": "it's about a self-conscious robot.",
+    "start": 396.893,
+    "duration": 6.339
+  },
+  {
+    "text": "And the humans describing this idea\nto the self-conscious robot,",
+    "start": 404.275,
+    "duration": 4.171
+  },
+  {
+    "text": "after which the robot says,",
+    "start": 408.446,
+    "duration": 2.794
+  },
+  {
+    "text": "\"Do you expect me to believe\nsuch a far-fetched, crazy notion?",
+    "start": 411.282,
+    "duration": 4.129
+  },
+  {
+    "text": "What do you take me for?\"",
+    "start": 415.411,
+    "duration": 1.794
+  },
+  {
+    "text": "The first question almost\nalways asked is that,",
+    "start": 417.997,
+    "duration": 3.212
+  },
+  {
+    "text": "“Why do you want to put\nyour solar panels in space?",
+    "start": 421.25,
+    "duration": 2.712
+  },
+  {
+    "text": "Why don’t you put them up\nin the desert and be done with it?” Right?",
+    "start": 424.629,
+    "duration": 3.879
+  },
+  {
+    "text": "A few reasons.",
+    "start": 430.468,
+    "duration": 1.335
+  },
+  {
+    "text": "First is that in space you get\nabout eight times more energy",
+    "start": 432.261,
+    "duration": 4.588
+  },
+  {
+    "text": "because you don't have day and night,",
+    "start": 436.849,
+    "duration": 2.253
+  },
+  {
+    "text": "you don't have clouds,\nyou don't have seasons,",
+    "start": 439.102,
+    "duration": 2.961
+  },
+  {
+    "text": "and you don't have\nthe atmospheric absorption.",
+    "start": 442.105,
+    "duration": 2.752
+  },
+  {
+    "text": "Also, now that you have this ability\nto send energy where you want",
+    "start": 446.109,
+    "duration": 4.963
+  },
+  {
+    "text": "and when you want dynamically,",
+    "start": 451.114,
+    "duration": 2.168
+  },
+  {
+    "text": "you can imagine that you have\ndispatchable power.",
+    "start": 453.282,
+    "duration": 3.087
+  },
+  {
+    "text": "On top of that,",
+    "start": 458.121,
+    "duration": 1.167
+  },
+  {
+    "text": "it's an always-available power.",
+    "start": 459.288,
+    "duration": 1.794
+  },
+  {
+    "text": "This can be used for a place, for example,",
+    "start": 461.499,
+    "duration": 2.669
+  },
+  {
+    "text": "let's say an island hit by a hurricane",
+    "start": 464.168,
+    "duration": 3.128
+  },
+  {
+    "text": "where there’s no power.",
+    "start": 467.296,
+    "duration": 2.002
+  },
+  {
+    "text": "Or a city in war zone",
+    "start": 469.34,
+    "duration": 1.752
+  },
+  {
+    "text": "where the power infrastructure\nis being constantly attacked.",
+    "start": 471.092,
+    "duration": 2.878
+  },
+  {
+    "text": "You can think about using\nthis to send power",
+    "start": 475.638,
+    "duration": 2.836
+  },
+  {
+    "text": "to a remote village in sub-Saharan Africa",
+    "start": 478.516,
+    "duration": 1.96
+  },
+  {
+    "text": "where there is no infrastructure\nfor power transmission.",
+    "start": 480.518,
+    "duration": 3.003
+  },
+  {
+    "text": "And that way democratize\nthe access to energy.",
+    "start": 484.272,
+    "duration": 2.794
+  },
+  {
+    "text": "Or send it somewhere\nabove the Arctic circle.",
+    "start": 488.317,
+    "duration": 2.336
+  },
+  {
+    "text": "So all of these things are great.",
+    "start": 491.195,
+    "duration": 2.086
+  },
+  {
+    "text": "But the question is,",
+    "start": 493.322,
+    "duration": 1.168
+  },
+  {
+    "text": "if it has been known for such a long time\nand it's such a great thing,",
+    "start": 494.49,
+    "duration": 3.295
+  },
+  {
+    "text": "why hasn't it been done so far?",
+    "start": 497.827,
+    "duration": 1.793
+  },
+  {
+    "text": "The main reason is that the way\nit has been envisioned before,",
+    "start": 499.662,
+    "duration": 3.337
+  },
+  {
+    "text": "they've been thinking\nabout it as a big elephant.",
+    "start": 502.999,
+    "duration": 2.377
+  },
+  {
+    "text": "If you're thinking about putting\nbig solar panels in space,",
+    "start": 506.044,
+    "duration": 2.961
+  },
+  {
+    "text": "collecting the power,\ngenerating a lot of energy,",
+    "start": 509.005,
+    "duration": 3.253
+  },
+  {
+    "text": "and then putting it into a massive\nparabolic dish antenna",
+    "start": 512.258,
+    "duration": 4.171
+  },
+  {
+    "text": "and sending it to a fixed\nlocation on Earth.",
+    "start": 516.471,
+    "duration": 2.335
+  },
+  {
+    "text": "Sending things to space is expensive.",
+    "start": 519.474,
+    "duration": 1.918
+  },
+  {
+    "text": "You pay dollars --\nand that's plural -- per gram.",
+    "start": 521.434,
+    "duration": 3.879
+  },
+  {
+    "text": "The other problem is that even\nif you could afford it,",
+    "start": 525.354,
+    "duration": 3.295
+  },
+  {
+    "text": "assembly of something like this in space",
+    "start": 528.691,
+    "duration": 2.002
+  },
+  {
+    "text": "is still beyond the capabilities\nthat we have today.",
+    "start": 530.735,
+    "duration": 2.544
+  },
+  {
+    "text": "So we came up with a very\ndifferent approach",
+    "start": 534.238,
+    "duration": 2.086
+  },
+  {
+    "text": "where we took our generators",
+    "start": 536.324,
+    "duration": 3.17
+  },
+  {
+    "text": "and turned them into flexible,\nfabric-like structures.",
+    "start": 539.535,
+    "duration": 3.254
+  },
+  {
+    "text": "We are utilizing the amazing\npower of electronics,",
+    "start": 543.289,
+    "duration": 2.795
+  },
+  {
+    "text": "integrated electronics\nand flexible electronics,",
+    "start": 546.125,
+    "duration": 2.836
+  },
+  {
+    "text": "to make this very lightweight,\nflexible, fabric-like structures",
+    "start": 548.961,
+    "duration": 3.712
+  },
+  {
+    "text": "that you can roll and pack.",
+    "start": 552.715,
+    "duration": 2.419
+  },
+  {
+    "text": "And this allows you to have these\nsatellites packed for launch",
+    "start": 555.176,
+    "duration": 5.589
+  },
+  {
+    "text": "and deployed in space,",
+    "start": 560.807,
+    "duration": 1.793
+  },
+  {
+    "text": "where each one of these units",
+    "start": 562.642,
+    "duration": 1.418
+  },
+  {
+    "text": "would be about several tens\nof meters on the side.",
+    "start": 564.06,
+    "duration": 2.669
+  },
+  {
+    "text": "And then you can pack\na whole bunch of them",
+    "start": 566.771,
+    "duration": 2.461
+  },
+  {
+    "text": "and create a constellation of them",
+    "start": 569.232,
+    "duration": 2.085
+  },
+  {
+    "text": "that flies in space",
+    "start": 571.317,
+    "duration": 1.418
+  },
+  {
+    "text": "and forms your power station\nto send green energy to Earth.",
+    "start": 572.777,
+    "duration": 2.919
+  },
+  {
+    "text": "This will be flying in formation\naround the Earth.",
+    "start": 576.614,
+    "duration": 3.295
+  },
+  {
+    "text": "Obviously, this is not\nthe size of the planet",
+    "start": 579.909,
+    "duration": 2.127
+  },
+  {
+    "text": "because we're talking about a kilometer\nacross for the whole whole constellation",
+    "start": 582.078,
+    "duration": 3.795
+  },
+  {
+    "text": "and the planet is a little bit\nlarger than a kilometer.",
+    "start": 585.873,
+    "duration": 2.753
+  },
+  {
+    "text": "We've been developing,\nas a proof of concept,",
+    "start": 588.626,
+    "duration": 2.669
+  },
+  {
+    "text": "technology demonstrator,",
+    "start": 591.337,
+    "duration": 1.46
+  },
+  {
+    "text": "and this is called Maple,",
+    "start": 592.797,
+    "duration": 1.835
+  },
+  {
+    "text": "which demonstrates the power\nof flexible structures",
+    "start": 594.632,
+    "duration": 3.128
+  },
+  {
+    "text": "and electronic circuitry",
+    "start": 597.802,
+    "duration": 1.752
+  },
+  {
+    "text": "to generate and transmit power in space.",
+    "start": 599.554,
+    "duration": 2.669
+  },
+  {
+    "text": "We integrated that with two other\ntechnology demonstrators",
+    "start": 602.723,
+    "duration": 3.462
+  },
+  {
+    "text": "for deployable structures\nand photovoltaics",
+    "start": 606.227,
+    "duration": 3.545
+  },
+  {
+    "text": "that were developed by three teams,",
+    "start": 609.814,
+    "duration": 1.96
+  },
+  {
+    "text": "led by myself and two of my colleagues.",
+    "start": 611.816,
+    "duration": 2.044
+  },
+  {
+    "text": "And we integrated into a satellite\nthat was launched recently.",
+    "start": 613.901,
+    "duration": 4.713
+  },
+  {
+    "text": "And the purpose of this experiment",
+    "start": 619.49,
+    "duration": 2.169
+  },
+  {
+    "text": "has been to demonstrate\nthe power transfer,",
+    "start": 621.701,
+    "duration": 3.044
+  },
+  {
+    "text": "wireless power transfer in space.",
+    "start": 624.787,
+    "duration": 2.294
+  },
+  {
+    "text": "Now that brings me back\nto the promise of wireless energy transfer",
+    "start": 628.291,
+    "duration": 6.464
+  },
+  {
+    "text": "and what it could mean for us.",
+    "start": 634.755,
+    "duration": 1.669
+  },
+  {
+    "text": "I believe this technology\nis too compelling to go away.",
+    "start": 636.841,
+    "duration": 3.378
+  },
+  {
+    "text": "And I believe it's bound to appear\nin our lives in one form or another.",
+    "start": 641.262,
+    "duration": 4.254
+  },
+  {
+    "text": "And that is something to look forward to.",
+    "start": 645.85,
+    "duration": 2.21
+  },
+  {
+    "text": "Thank you.",
+    "start": 648.477,
+    "duration": 1.21
+  },
+  {
+    "text": "(Applause)",
+    "start": 649.687,
+    "duration": 4.463
+  }
+]

@@ -1,0 +1,1692 @@
+[
+  {
+    "text": "For our entire lives, we’ve been living\nthrough a computing revolution.",
+    "start": 4.035,
+    "duration": 3.77
+  },
+  {
+    "text": "Many of you here in this room\nhave contributed to it,",
+    "start": 8.305,
+    "duration": 3.104
+  },
+  {
+    "text": "with leaps forward in compute,",
+    "start": 11.442,
+    "duration": 2.102
+  },
+  {
+    "text": "connectivity, mobile technologies,",
+    "start": 13.577,
+    "duration": 2.736
+  },
+  {
+    "text": "and now AI.",
+    "start": 16.347,
+    "duration": 1.702
+  },
+  {
+    "text": "For my part, I've dedicated\nmy entire career to augmented reality,",
+    "start": 18.516,
+    "duration": 4.471
+  },
+  {
+    "text": "fusing the real world\nwith computing experiences.",
+    "start": 23.02,
+    "duration": 2.803
+  },
+  {
+    "text": "I started this journey\nabout 25 years ago for my PhD.",
+    "start": 26.624,
+    "duration": 4.304
+  },
+  {
+    "text": "It might sound groundbreaking,\nbut check out these early prototypes.",
+    "start": 31.362,
+    "duration": 3.804
+  },
+  {
+    "text": "The technology was really\nprimitive back then,",
+    "start": 35.633,
+    "duration": 2.702
+  },
+  {
+    "text": "but the potential felt limitless",
+    "start": 38.369,
+    "duration": 1.735
+  },
+  {
+    "text": "when we were experimenting\nin that university lab.",
+    "start": 40.137,
+    "duration": 3.137
+  },
+  {
+    "text": "What I didn't know at that time",
+    "start": 44.141,
+    "duration": 1.769
+  },
+  {
+    "text": "was many of the fundamental\ninnovations for my work",
+    "start": 45.943,
+    "duration": 3.47
+  },
+  {
+    "text": "would come from AI researchers\nin a different lab.",
+    "start": 49.447,
+    "duration": 3.57
+  },
+  {
+    "text": "While I was helping\ncomputers see the world,",
+    "start": 54.051,
+    "duration": 2.87
+  },
+  {
+    "text": "these AI researchers were helping\ncomputers reason about the world.",
+    "start": 56.921,
+    "duration": 3.737
+  },
+  {
+    "text": "Since then, large language models\nand multimodal reasoning",
+    "start": 61.358,
+    "duration": 4.138
+  },
+  {
+    "text": "have enabled richer\nlanguage and image understanding.",
+    "start": 65.529,
+    "duration": 4.772
+  },
+  {
+    "text": "These models are now fast enough\nfor live conversations",
+    "start": 70.801,
+    "duration": 3.437
+  },
+  {
+    "text": "where the AI can act on your behalf",
+    "start": 74.238,
+    "duration": 2.436
+  },
+  {
+    "text": "and, most importantly,\nwith your permission.",
+    "start": 76.707,
+    "duration": 2.803
+  },
+  {
+    "text": "And augmented reality and virtual\nreality has moved computing",
+    "start": 80.544,
+    "duration": 4.505
+  },
+  {
+    "text": "from the rectangular screen\nto the 360 immersive display",
+    "start": 85.049,
+    "duration": 4.337
+  },
+  {
+    "text": "to now even the world itself\nbecoming the display.",
+    "start": 89.42,
+    "duration": 3.17
+  },
+  {
+    "text": "We now refer to this broad collection\nof experiences as extended reality or XR.",
+    "start": 93.224,
+    "duration": 5.772
+  },
+  {
+    "text": "Until now,",
+    "start": 99.997,
+    "duration": 1.568
+  },
+  {
+    "text": "these innovations have occurred\nseparately and in silos.",
+    "start": 101.599,
+    "duration": 4.237
+  },
+  {
+    "text": "Well here comes act two\nof the computing revolution.",
+    "start": 106.27,
+    "duration": 3.704
+  },
+  {
+    "text": "AI and XR are converging,",
+    "start": 110.007,
+    "duration": 2.703
+  },
+  {
+    "text": "unlocking radical new ways\nto interact with technology on your terms.",
+    "start": 112.743,
+    "duration": 4.838
+  },
+  {
+    "text": "Computers will become\nmore lightweight and personal.",
+    "start": 118.249,
+    "duration": 3.436
+  },
+  {
+    "text": "They will share your vantage point,",
+    "start": 122.219,
+    "duration": 2.303
+  },
+  {
+    "text": "understand your real-world context",
+    "start": 124.555,
+    "duration": 2.269
+  },
+  {
+    "text": "and have a natural interface\nthat's both simple and conversational.",
+    "start": 126.857,
+    "duration": 5.039
+  },
+  {
+    "text": "Countless people and companies\nare innovating in this space,",
+    "start": 132.763,
+    "duration": 4.238
+  },
+  {
+    "text": "including many on the TED stage this week.",
+    "start": 137.034,
+    "duration": 2.402
+  },
+  {
+    "text": "We're excited to contribute\nto this momentum with Android XR.",
+    "start": 140.337,
+    "duration": 4.171
+  },
+  {
+    "text": "It's an operating system\nwe're building with Samsung",
+    "start": 145.309,
+    "duration": 3.003
+  },
+  {
+    "text": "that brings XR hardware together\nwith Gemini, our AI assistant,",
+    "start": 148.312,
+    "duration": 5.138
+  },
+  {
+    "text": "to augment human intelligence.",
+    "start": 153.484,
+    "duration": 2.436
+  },
+  {
+    "text": "It can support a broad range of devices,",
+    "start": 156.62,
+    "duration": 2.436
+  },
+  {
+    "text": "from headsets to glasses",
+    "start": 159.089,
+    "duration": 2.336
+  },
+  {
+    "text": "to form factors we haven't\neven dreamed of yet.",
+    "start": 161.458,
+    "duration": 2.67
+  },
+  {
+    "text": "OK, let me show you where we’re heading",
+    "start": 164.528,
+    "duration": 2.803
+  },
+  {
+    "text": "by inviting my colleague\nNishtha to the stage.",
+    "start": 167.331,
+    "duration": 3.403
+  },
+  {
+    "text": "Welcome, Nishtha.",
+    "start": 171.402,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 172.603,
+    "duration": 1.668
+  },
+  {
+    "text": "Nishtha Bhatia: Hi.",
+    "start": 174.305,
+    "duration": 1.401
+  },
+  {
+    "text": "Shahram Izadi: These ordinary-looking\nglasses are packed full of technology.",
+    "start": 176.24,
+    "duration": 3.737
+  },
+  {
+    "text": "A miniaturized camera and microphones",
+    "start": 179.977,
+    "duration": 2.269
+  },
+  {
+    "text": "give the AI the ability\nto see and hear the world.",
+    "start": 182.279,
+    "duration": 3.504
+  },
+  {
+    "text": "Speakers let you listen to the AI\nand play music or even take calls.",
+    "start": 185.783,
+    "duration": 4.538
+  },
+  {
+    "text": "And these glasses also have a tiny,",
+    "start": 190.788,
+    "duration": 2.436
+  },
+  {
+    "text": "high-resolution in-lens display",
+    "start": 193.257,
+    "duration": 2.936
+  },
+  {
+    "text": "that's full color",
+    "start": 196.193,
+    "duration": 1.435
+  },
+  {
+    "text": "that I'm holding in my hand.",
+    "start": 197.661,
+    "duration": 1.869
+  },
+  {
+    "text": "It's very, very small.",
+    "start": 199.53,
+    "duration": 1.435
+  },
+  {
+    "text": "These glasses work with your phone\nstreaming back and forth,",
+    "start": 202.333,
+    "duration": 3.703
+  },
+  {
+    "text": "allowing the glasses\nto be very lightweight",
+    "start": 206.07,
+    "duration": 2.702
+  },
+  {
+    "text": "and access all your phone apps.",
+    "start": 208.806,
+    "duration": 2.002
+  },
+  {
+    "text": "And if you're wondering,\nI'm actually wearing the glasses too.",
+    "start": 210.841,
+    "duration": 2.903
+  },
+  {
+    "text": "They're actually helping me see\nall of you in the audience",
+    "start": 213.777,
+    "duration": 2.736
+  },
+  {
+    "text": "because they have\nprescription lenses inside them.",
+    "start": 216.547,
+    "duration": 2.402
+  },
+  {
+    "text": "But they’re also displaying\nmy speaker notes for me as well.",
+    "start": 218.983,
+    "duration": 2.836
+  },
+  {
+    "text": "(Laughter)",
+    "start": 221.819,
+    "duration": 1.234
+  },
+  {
+    "text": "For this demo,",
+    "start": 223.087,
+    "duration": 1.601
+  },
+  {
+    "text": "you'll see what Nishtha is seeing\non the screen behind her.",
+    "start": 224.688,
+    "duration": 2.937
+  },
+  {
+    "text": "And this is the very first time\nwe're showing these glasses in public.",
+    "start": 227.658,
+    "duration": 3.837
+  },
+  {
+    "text": "So this is going to be a live demo\nof conceptual hardware, early software.",
+    "start": 231.528,
+    "duration": 4.872
+  },
+  {
+    "text": "What could go wrong?",
+    "start": 236.433,
+    "duration": 1.669
+  },
+  {
+    "text": "Nishtha, best of luck.",
+    "start": 238.135,
+    "duration": 1.902
+  },
+  {
+    "text": "No pressure.",
+    "start": 240.07,
+    "duration": 1.168
+  },
+  {
+    "text": "NB: Amazing.",
+    "start": 241.705,
+    "duration": 1.402
+  },
+  {
+    "text": "Alright, let’s just make sure\nthat these glasses are shown",
+    "start": 243.107,
+    "duration": 2.869
+  },
+  {
+    "text": "on the screen behind us.",
+    "start": 246.01,
+    "duration": 1.534
+  },
+  {
+    "text": "OK.",
+    "start": 248.712,
+    "duration": 1.235
+  },
+  {
+    "text": "[Glasses screen off]",
+    "start": 249.98,
+    "duration": 1.602
+  },
+  {
+    "text": "Awesome.",
+    "start": 253.25,
+    "duration": 1.201
+  },
+  {
+    "text": "(Applause)",
+    "start": 254.451,
+    "duration": 2.002
+  },
+  {
+    "text": "Now I'm going to launch Gemini.",
+    "start": 256.487,
+    "duration": 2.068
+  },
+  {
+    "text": "Gemini: Hello there.",
+    "start": 259.657,
+    "duration": 1.368
+  },
+  {
+    "text": "NB: Hi, Gemini.",
+    "start": 261.058,
+    "duration": 1.401
+  },
+  {
+    "text": "Can you start us off\nwith something fun and creative,",
+    "start": 262.493,
+    "duration": 3.203
+  },
+  {
+    "text": "and write a haiku for what\nI'm seeing right now?",
+    "start": 265.729,
+    "duration": 3.17
+  },
+  {
+    "text": "G: Sure.",
+    "start": 270.1,
+    "duration": 1.168
+  },
+  {
+    "text": "Faces all aglow.",
+    "start": 271.268,
+    "duration": 1.168
+  },
+  {
+    "text": "Eager minds await the words.",
+    "start": 272.469,
+    "duration": 1.368
+  },
+  {
+    "text": "Sparks of thought ignite.",
+    "start": 273.871,
+    "duration": 1.768
+  },
+  {
+    "text": "SI: Some anxious\nbut happy faces as well, yeah.",
+    "start": 276.54,
+    "duration": 3.67
+  },
+  {
+    "text": "As you can see, the AI sees\nwhat Nishtha sees,",
+    "start": 280.21,
+    "duration": 2.77
+  },
+  {
+    "text": "hears what she hears",
+    "start": 282.98,
+    "duration": 1.401
+  },
+  {
+    "text": "and is responding in real time.",
+    "start": 284.381,
+    "duration": 1.702
+  },
+  {
+    "text": "But that’s just table stakes. ",
+    "start": 286.417,
+    "duration": 1.434
+  },
+  {
+    "text": "I think everyone in this audience\nhas seen demos like this before.",
+    "start": 287.851,
+    "duration": 3.204
+  },
+  {
+    "text": "Let's actually step it up a notch\nwith something we call Memory.",
+    "start": 291.088,
+    "duration": 3.637
+  },
+  {
+    "text": "For a rolling contextual window,",
+    "start": 294.725,
+    "duration": 2.002
+  },
+  {
+    "text": "the AI remembers what you see",
+    "start": 296.76,
+    "duration": 1.969
+  },
+  {
+    "text": "without having to be told\nwhat to keep track of.",
+    "start": 298.762,
+    "duration": 3.003
+  },
+  {
+    "text": "NB: So you guys may have noticed",
+    "start": 302.199,
+    "duration": 1.802
+  },
+  {
+    "text": "I snuck a peek back\nat the shelf a moment ago.",
+    "start": 304.034,
+    "duration": 3.304
+  },
+  {
+    "text": "I wasn't paying attention,\nbut let's see if Gemini was.",
+    "start": 307.371,
+    "duration": 3.203
+  },
+  {
+    "text": "Hey, did you happen to catch\nthe title of the white book",
+    "start": 312.643,
+    "duration": 4.838
+  },
+  {
+    "text": "that was on the shelf behind me?",
+    "start": 317.514,
+    "duration": 1.769
+  },
+  {
+    "text": "G: The white book\nis “Atomic Habits” by James Clear.",
+    "start": 320.617,
+    "duration": 2.903
+  },
+  {
+    "text": "NB: That is absolutely right.",
+    "start": 324.421,
+    "duration": 2.169
+  },
+  {
+    "text": "So let's try something harder.",
+    "start": 326.623,
+    "duration": 1.936
+  },
+  {
+    "text": "I keep losing my hotel key card.",
+    "start": 328.992,
+    "duration": 2.403
+  },
+  {
+    "text": "Do you know where I last left the card?",
+    "start": 331.428,
+    "duration": 2.303
+  },
+  {
+    "text": "G: The hotel key card\nis to the right of the music record.",
+    "start": 335.265,
+    "duration": 3.204
+  },
+  {
+    "text": "NB: Great.",
+    "start": 339.436,
+    "duration": 1.368
+  },
+  {
+    "text": "SI: For someone as forgetful as me,\nthat's a killer app.",
+    "start": 341.572,
+    "duration": 2.769
+  },
+  {
+    "text": "OK, this AI is inherently multimodal.",
+    "start": 345.075,
+    "duration": 2.97
+  },
+  {
+    "text": "So it's using visual data\nand natural language",
+    "start": 348.078,
+    "duration": 2.703
+  },
+  {
+    "text": "to digest complex queries in real time",
+    "start": 350.814,
+    "duration": 3.07
+  },
+  {
+    "text": "while remembering your past context.",
+    "start": 353.917,
+    "duration": 2.336
+  },
+  {
+    "text": "Nishtha, let's see some more.",
+    "start": 356.286,
+    "duration": 1.535
+  },
+  {
+    "text": "NB: Yeah, let’s bring this book back.",
+    "start": 357.821,
+    "duration": 2.303
+  },
+  {
+    "text": "So I don't really have time\nto read it right now.",
+    "start": 360.157,
+    "duration": 3.136
+  },
+  {
+    "text": "But I wonder if Gemini might be able\nto help me summarize what's going on.",
+    "start": 363.327,
+    "duration": 5.138
+  },
+  {
+    "text": "Like, I don't know.",
+    "start": 368.499,
+    "duration": 2.002
+  },
+  {
+    "text": "What does this diagram mean?",
+    "start": 370.534,
+    "duration": 1.668
+  },
+  {
+    "text": "It looks complex.",
+    "start": 372.236,
+    "duration": 1.368
+  },
+  {
+    "text": "G: This diagram\nis labeled “The Habit Line”",
+    "start": 374.805,
+    "duration": 2.436
+  },
+  {
+    "text": "and illustrates the process\nof habit formation.",
+    "start": 377.241,
+    "duration": 2.802
+  },
+  {
+    "text": "It shows how automaticity\nincreases with repetitions",
+    "start": 380.077,
+    "duration": 3.303
+  },
+  {
+    "text": "until a habit is formed.",
+    "start": 383.38,
+    "duration": 1.869
+  },
+  {
+    "text": "NB: OK.",
+    "start": 385.616,
+    "duration": 1.134
+  },
+  {
+    "text": "SI: Now imagine being able to communicate\nand understand any language.",
+    "start": 386.784,
+    "duration": 4.137
+  },
+  {
+    "text": "The AI can shift its output\nto speak different languages",
+    "start": 390.954,
+    "duration": 3.003
+  },
+  {
+    "text": "with dialects and accents\nthat feel human and natural.",
+    "start": 393.991,
+    "duration": 3.336
+  },
+  {
+    "text": "NB: Yeah, let’s go\nto this sign over here.",
+    "start": 397.961,
+    "duration": 3.237
+  },
+  {
+    "text": "Can you translate this to English for me?",
+    "start": 401.231,
+    "duration": 2.97
+  },
+  {
+    "text": "G: The sign states:\n“Private property, no trespassing.”",
+    "start": 405.569,
+    "duration": 3.737
+  },
+  {
+    "text": "SI: OK, let's prove this is a live demo.",
+    "start": 409.339,
+    "duration": 1.969
+  },
+  {
+    "text": "Does anyone in the audience\nhave a suggestion",
+    "start": 411.308,
+    "duration": 2.102
+  },
+  {
+    "text": "for a different language to translate to?",
+    "start": 413.444,
+    "duration": 1.968
+  },
+  {
+    "text": "Audience: Farsi.",
+    "start": 415.746,
+    "duration": 1.134
+  },
+  {
+    "text": "SI: Farsi.",
+    "start": 416.914,
+    "duration": 1.334
+  },
+  {
+    "text": "We tried Farsi, it failed last time,\nbut let's try it again.",
+    "start": 418.282,
+    "duration": 3.103
+  },
+  {
+    "text": "NB: Do you want to try Farsi?",
+    "start": 421.385,
+    "duration": 1.902
+  },
+  {
+    "text": "SI: Because I do speak Farsi.",
+    "start": 423.287,
+    "duration": 1.401
+  },
+  {
+    "text": "It's my mother tongue, so thank you.",
+    "start": 424.721,
+    "duration": 2.636
+  },
+  {
+    "text": "NB: Gemini,\nlet’s just give this a shot.",
+    "start": 427.357,
+    "duration": 2.169
+  },
+  {
+    "text": "Can you translate this sign\nto Farsi for us?",
+    "start": 429.56,
+    "duration": 3.236
+  },
+  {
+    "text": "G: (Speaking Farsi)",
+    "start": 434.031,
+    "duration": 3.069
+  },
+  {
+    "text": "SI: Great, awesome.",
+    "start": 437.568,
+    "duration": 1.902
+  },
+  {
+    "text": "It speaks Farsi.",
+    "start": 439.503,
+    "duration": 1.468
+  },
+  {
+    "text": "NB: That’s amazing.",
+    "start": 441.004,
+    "duration": 1.268
+  },
+  {
+    "text": "So, as Shahram mentioned,",
+    "start": 442.806,
+    "duration": 1.835
+  },
+  {
+    "text": "you all may have seen\ntranslation demos like this before,",
+    "start": 444.675,
+    "duration": 3.336
+  },
+  {
+    "text": "but what's new now is that in addition\nto just saying things",
+    "start": 448.045,
+    "duration": 4.037
+  },
+  {
+    "text": "in a different language,",
+    "start": 452.115,
+    "duration": 1.202
+  },
+  {
+    "text": "I can also speak to Gemini\nin another language.",
+    "start": 453.317,
+    "duration": 2.969
+  },
+  {
+    "text": "I know Hindi, so let's give this a shot.",
+    "start": 456.62,
+    "duration": 2.302
+  },
+  {
+    "text": "(Speaks Hindi)",
+    "start": 461.525,
+    "duration": 4.604
+  },
+  {
+    "text": "G: (Speaks Hindi)",
+    "start": 469.099,
+    "duration": 2.503
+  },
+  {
+    "text": "NB: So Gemini said\nyou all look focused and excited,",
+    "start": 472.703,
+    "duration": 3.203
+  },
+  {
+    "text": "and it has a better accent than I do.",
+    "start": 475.906,
+    "duration": 1.902
+  },
+  {
+    "text": "(Laughter)",
+    "start": 477.841,
+    "duration": 1.235
+  },
+  {
+    "text": "SI: Alright, now let's see how\nthe AI can connect the physical world",
+    "start": 479.776,
+    "duration": 3.537
+  },
+  {
+    "text": "with your digital content and take action.",
+    "start": 483.313,
+    "duration": 2.77
+  },
+  {
+    "text": "NB: Yeah, let’s get\nsome music going in here.",
+    "start": 486.116,
+    "duration": 3.07
+  },
+  {
+    "text": "OK, Gemini, why don't you\nplay us a track from this record?",
+    "start": 489.92,
+    "duration": 5.339
+  },
+  {
+    "text": "GB: Sure, here’s\n“Bad Dreams” by Teddy Swims.",
+    "start": 496.86,
+    "duration": 3.37
+  },
+  {
+    "text": "(Music)",
+    "start": 500.23,
+    "duration": 3.003
+  },
+  {
+    "text": "SI: Perfect.",
+    "start": 503.267,
+    "duration": 1.167
+  },
+  {
+    "text": "In a few seconds,\nthe AI recognized the album,",
+    "start": 504.468,
+    "duration": 2.569
+  },
+  {
+    "text": "looked up the tracklist",
+    "start": 507.07,
+    "duration": 1.268
+  },
+  {
+    "text": "and took action using the phone apps.",
+    "start": 508.372,
+    "duration": 2.435
+  },
+  {
+    "text": "OK, Nishtha, it does look\nlike the demo gods are with us.",
+    "start": 510.807,
+    "duration": 2.703
+  },
+  {
+    "text": "Maybe with you more than me.",
+    "start": 513.51,
+    "duration": 1.635
+  },
+  {
+    "text": "Let's do one last demo",
+    "start": 515.846,
+    "duration": 1.268
+  },
+  {
+    "text": "I know you're keen to give.",
+    "start": 517.114,
+    "duration": 1.301
+  },
+  {
+    "text": "NB: Yes, this is\nmy first time in Vancouver,",
+    "start": 518.448,
+    "duration": 3.07
+  },
+  {
+    "text": "and I love going on walks.",
+    "start": 521.518,
+    "duration": 1.735
+  },
+  {
+    "text": "So why don't you navigate me\nto a park nearby with views of the ocean?",
+    "start": 523.287,
+    "duration": 6.106
+  },
+  {
+    "text": "G: OK, I am starting\nnavigation to Lighthouse Park,",
+    "start": 531.562,
+    "duration": 3.37
+  },
+  {
+    "text": "which has magnificent views\nof the Pacific Ocean.",
+    "start": 534.932,
+    "duration": 2.736
+  },
+  {
+    "text": "Is there anything else\nI can assist you with?",
+    "start": 538.302,
+    "duration": 2.302
+  },
+  {
+    "text": "NB: Honestly, with these\ndirections and a 3D map,",
+    "start": 540.637,
+    "duration": 3.37
+  },
+  {
+    "text": "I should be all set, and hopefully\nI won’t look like a tourist.",
+    "start": 544.041,
+    "duration": 2.969
+  },
+  {
+    "text": "Thank you all.",
+    "start": 547.01,
+    "duration": 1.335
+  },
+  {
+    "text": "(Applause)",
+    "start": 548.378,
+    "duration": 6.373
+  },
+  {
+    "text": "SI: Thank you, Nishtha, that was awesome.",
+    "start": 555.252,
+    "duration": 2.436
+  },
+  {
+    "text": "OK, we've seen glasses.",
+    "start": 557.721,
+    "duration": 1.635
+  },
+  {
+    "text": "Now let's turn our attention to the other\nside of the spectrum: headsets.",
+    "start": 559.389,
+    "duration": 3.871
+  },
+  {
+    "text": "You've seen these types of devices before,",
+    "start": 563.827,
+    "duration": 2.302
+  },
+  {
+    "text": "but when we first brought AI to a headset,",
+    "start": 566.163,
+    "duration": 2.269
+  },
+  {
+    "text": "it completely caught me by surprise.",
+    "start": 568.465,
+    "duration": 2.236
+  },
+  {
+    "text": "For this demo, we're going to use\nthe Project Moohan headset",
+    "start": 571.101,
+    "duration": 2.836
+  },
+  {
+    "text": "that Samsung is launching later this year.",
+    "start": 573.971,
+    "duration": 2.636
+  },
+  {
+    "text": "Compared to glasses,\nheadsets give you an infinite display",
+    "start": 576.64,
+    "duration": 3.403
+  },
+  {
+    "text": "for getting work done\nor immersing yourself in a movie,",
+    "start": 580.077,
+    "duration": 3.003
+  },
+  {
+    "text": "or maybe a TED Talk at some point.",
+    "start": 583.113,
+    "duration": 1.869
+  },
+  {
+    "text": "Let me bring up my colleague Max\nto show us even more.",
+    "start": 585.549,
+    "duration": 3.003
+  },
+  {
+    "text": "Hey, Max.",
+    "start": 588.585,
+    "duration": 1.168
+  },
+  {
+    "text": "Max Spear: Hello.",
+    "start": 589.786,
+    "duration": 1.135
+  },
+  {
+    "text": "(Applause)",
+    "start": 590.954,
+    "duration": 1.001
+  },
+  {
+    "text": "SI: And the same thing\nis going to go here.",
+    "start": 591.989,
+    "duration": 2.035
+  },
+  {
+    "text": "You'll see exactly what\nMax is seeing behind on the screen.",
+    "start": 594.024,
+    "duration": 3.036
+  },
+  {
+    "text": "Go for it, Max.",
+    "start": 598.128,
+    "duration": 1.168
+  },
+  {
+    "text": "MS: Let’s do it. ",
+    "start": 599.296,
+    "duration": 1.368
+  },
+  {
+    "text": "You'll notice we start\ngrounded in the real world.",
+    "start": 601.231,
+    "duration": 2.369
+  },
+  {
+    "text": "And I'm going to control the entire system\nwith my eyes, hands and voice.",
+    "start": 603.634,
+    "duration": 4.738
+  },
+  {
+    "text": "But where things get really interesting",
+    "start": 608.905,
+    "duration": 1.869
+  },
+  {
+    "text": "is when we invite Gemini in\nas this conversational companion",
+    "start": 610.807,
+    "duration": 3.404
+  },
+  {
+    "text": "that can come with us anywhere.",
+    "start": 614.244,
+    "duration": 1.668
+  },
+  {
+    "text": "G: Hello.",
+    "start": 617.914,
+    "duration": 1.202
+  },
+  {
+    "text": "MS: Hey, Gemini, can you bring up\nmy trip planner for me, please?",
+    "start": 619.149,
+    "duration": 4.104
+  },
+  {
+    "text": "G: Of course.\nOpening up your trip planner.",
+    "start": 623.286,
+    "duration": 2.603
+  },
+  {
+    "text": "MS: Cool, but I left these windows\nreally disorganized.",
+    "start": 625.922,
+    "duration": 2.803
+  },
+  {
+    "text": "Can you help with that?",
+    "start": 628.759,
+    "duration": 1.401
+  },
+  {
+    "text": "G: Of course I can help with that.",
+    "start": 631.695,
+    "duration": 2.102
+  },
+  {
+    "text": "SI: No clicks, no keyboards.",
+    "start": 634.898,
+    "duration": 1.935
+  },
+  {
+    "text": "It's just a conversation.",
+    "start": 636.867,
+    "duration": 1.601
+  },
+  {
+    "text": "And the AI is taking action.",
+    "start": 638.502,
+    "duration": 2.536
+  },
+  {
+    "text": "OK, some more audience participation.",
+    "start": 641.438,
+    "duration": 2.169
+  },
+  {
+    "text": "Someone shout out a name\nof a place you want to visit.",
+    "start": 643.64,
+    "duration": 2.603
+  },
+  {
+    "text": "Audience: Melbourne.",
+    "start": 646.643,
+    "duration": 1.368
+  },
+  {
+    "text": "Audience: Cape Town.",
+    "start": 648.011,
+    "duration": 1.669
+  },
+  {
+    "text": "SI: Let's go to Cape Town.",
+    "start": 649.68,
+    "duration": 1.267
+  },
+  {
+    "text": "Max: OK, sounds fun.",
+    "start": 650.981,
+    "duration": 1.268
+  },
+  {
+    "text": "Can you please take me to Cape Town?",
+    "start": 652.582,
+    "duration": 2.403
+  },
+  {
+    "text": "G: Certainly.",
+    "start": 657.087,
+    "duration": 1.168
+  },
+  {
+    "text": "Let me help with organizing the windows.",
+    "start": 658.288,
+    "duration": 2.202
+  },
+  {
+    "text": "SI (Laughs)",
+    "start": 660.49,
+    "duration": 1.035
+  },
+  {
+    "text": "MS: Awesome.",
+    "start": 661.525,
+    "duration": 1.168
+  },
+  {
+    "text": "And can you also take me to Cape Town?",
+    "start": 662.726,
+    "duration": 1.835
+  },
+  {
+    "text": "(Laughter)",
+    "start": 664.561,
+    "duration": 1.201
+  },
+  {
+    "text": "G: I can certainly do that.",
+    "start": 666.096,
+    "duration": 1.602
+  },
+  {
+    "text": "Let me take you to Cape Town.",
+    "start": 667.698,
+    "duration": 1.401
+  },
+  {
+    "text": "MS: And we’re very organized\nas we go there, perfect.",
+    "start": 669.099,
+    "duration": 2.569
+  },
+  {
+    "text": "SI: As you can see, the AI\nis taking Max's requests,",
+    "start": 672.803,
+    "duration": 2.936
+  },
+  {
+    "text": "figuring out how best to answer it,",
+    "start": 675.772,
+    "duration": 1.936
+  },
+  {
+    "text": "opening up the Maps app.",
+    "start": 677.708,
+    "duration": 1.568
+  },
+  {
+    "text": "And from there, he can actually explore\nanywhere in the world in this 3D view.",
+    "start": 679.309,
+    "duration": 4.438
+  },
+  {
+    "text": "MS: OK, this is pretty incredible.",
+    "start": 684.481,
+    "duration": 1.935
+  },
+  {
+    "text": "Viewing the world from this angle,\nI can even zoom in to city levels.",
+    "start": 686.416,
+    "duration": 3.27
+  },
+  {
+    "text": "But what's really interesting\nis having an AI here",
+    "start": 689.686,
+    "duration": 2.603
+  },
+  {
+    "text": "who can see what I see.",
+    "start": 692.289,
+    "duration": 1.435
+  },
+  {
+    "text": "Can you tell me more about\nthe significance of this place?",
+    "start": 693.724,
+    "duration": 3.47
+  },
+  {
+    "text": "G: I can indeed provide\ninformation about Table Mountain.",
+    "start": 699.329,
+    "duration": 3.303
+  },
+  {
+    "text": "Table Mountain holds\na profound significance,",
+    "start": 703.066,
+    "duration": 2.503
+  },
+  {
+    "text": "deeply rooted in both its natural splendor",
+    "start": 705.602,
+    "duration": 2.102
+  },
+  {
+    "text": "and its rich cultural history.",
+    "start": 707.738,
+    "duration": 1.768
+  },
+  {
+    "text": "It has long been a spiritual\nand cultural symbol",
+    "start": 709.506,
+    "duration": 2.569
+  },
+  {
+    "text": "for the Indigenous\nKhoekhoe and San people.",
+    "start": 712.109,
+    "duration": 2.435
+  },
+  {
+    "text": "MS: OK, very good, Gemini.",
+    "start": 714.578,
+    "duration": 1.434
+  },
+  {
+    "text": "I'll come back to this later.",
+    "start": 716.546,
+    "duration": 1.402
+  },
+  {
+    "text": "It also does look\nlike a table, that's handy.",
+    "start": 717.981,
+    "duration": 2.102
+  },
+  {
+    "text": "SI: OK, Max, let's bring this\ncloser to home.",
+    "start": 720.117,
+    "duration": 3.036
+  },
+  {
+    "text": "How about exploring winter sports,\nseeing that we're in Vancouver.",
+    "start": 723.186,
+    "duration": 3.137
+  },
+  {
+    "text": "MS: OK, let’s get\nsome inspiration for Shahram.",
+    "start": 726.323,
+    "duration": 2.402
+  },
+  {
+    "text": "Can you please show me 360 videos of this?",
+    "start": 728.759,
+    "duration": 3.103
+  },
+  {
+    "text": "[Powder snowboarding]",
+    "start": 731.895,
+    "duration": 1.668
+  },
+  {
+    "text": "G: Sure, here are some 360-degree\npowder snowboarding videos.",
+    "start": 734.297,
+    "duration": 3.938
+  },
+  {
+    "text": "MS: OK, I’m kind of new to snowboarding,",
+    "start": 738.602,
+    "duration": 2.435
+  },
+  {
+    "text": "so hopefully this video\nwill help me learn.",
+    "start": 741.037,
+    "duration": 2.136
+  },
+  {
+    "text": "Although this looks\nalready way more intense",
+    "start": 743.173,
+    "duration": 2.536
+  },
+  {
+    "text": "than I think I'm ready for.",
+    "start": 745.742,
+    "duration": 1.468
+  },
+  {
+    "text": "What was the name of that trick?",
+    "start": 748.111,
+    "duration": 1.802
+  },
+  {
+    "text": "G: That’s a backside 540 with a grab.",
+    "start": 752.449,
+    "duration": 2.436
+  },
+  {
+    "text": "SI: The AI knows\nexactly what Max is looking at,",
+    "start": 756.386,
+    "duration": 2.503
+  },
+  {
+    "text": "even in rich video content,",
+    "start": 758.922,
+    "duration": 1.869
+  },
+  {
+    "text": "and can answer any question in real-time.",
+    "start": 760.824,
+    "duration": 2.402
+  },
+  {
+    "text": "Max, are you sure this is Whistler?",
+    "start": 763.894,
+    "duration": 1.968
+  },
+  {
+    "text": "MS: You know, Shahram,\nI actually have no idea.",
+    "start": 766.429,
+    "duration": 2.269
+  },
+  {
+    "text": "I've never been here before,\nbut let's find out.",
+    "start": 768.732,
+    "duration": 3.537
+  },
+  {
+    "text": "What run do you think this is?",
+    "start": 772.302,
+    "duration": 1.802
+  },
+  {
+    "text": "G: It’s probably one\nof the ungroomed runs in summit bowl",
+    "start": 777.307,
+    "duration": 3.07
+  },
+  {
+    "text": "or the top section of West Ridge\non Mount Bachelor,",
+    "start": 780.41,
+    "duration": 2.403
+  },
+  {
+    "text": "as they are close\nto the summit and face north",
+    "start": 782.813,
+    "duration": 2.168
+  },
+  {
+    "text": "towards Three Sisters and Broken Top,",
+    "start": 785.015,
+    "duration": 1.768
+  },
+  {
+    "text": "the prominent mountains visible\nin the background.",
+    "start": 786.817,
+    "duration": 2.402
+  },
+  {
+    "text": "MS: OK, Mount Bachelor, Oregon, got it.",
+    "start": 789.252,
+    "duration": 2.202
+  },
+  {
+    "text": "SI: OK, let's have\na little bit of fun now.",
+    "start": 791.488,
+    "duration": 2.736
+  },
+  {
+    "text": "Let's have AI narrate this video.",
+    "start": 794.224,
+    "duration": 2.069
+  },
+  {
+    "text": "Somebody in the audience,\nshout out a fun narration style",
+    "start": 796.326,
+    "duration": 3.17
+  },
+  {
+    "text": "like, nature documentary\nor something like that.",
+    "start": 799.529,
+    "duration": 3.07
+  },
+  {
+    "text": "Audience: Morgan Freeman.",
+    "start": 802.632,
+    "duration": 1.235
+  },
+  {
+    "text": "SI: We can't do actors,\nbut we'll get to that at some point.",
+    "start": 804.634,
+    "duration": 3.47
+  },
+  {
+    "text": "Any other suggestions?",
+    "start": 808.839,
+    "duration": 1.401
+  },
+  {
+    "text": "Audience: Movie trailer.",
+    "start": 810.273,
+    "duration": 1.268
+  },
+  {
+    "text": "Audience: Horror movie.",
+    "start": 811.908,
+    "duration": 1.302
+  },
+  {
+    "text": "SI: Horror movie.",
+    "start": 813.243,
+    "duration": 1.301
+  },
+  {
+    "text": "That's going to be -- it might be gory,\nbut let's go for it.",
+    "start": 814.544,
+    "duration": 2.97
+  },
+  {
+    "text": "MS: Slightly dark, but let’s do it.",
+    "start": 817.514,
+    "duration": 2.536
+  },
+  {
+    "text": "Can you please describe what you're seeing",
+    "start": 820.083,
+    "duration": 2.102
+  },
+  {
+    "text": "as if you're an overly enthusiastic\ncharacter in a horror movie?",
+    "start": 822.219,
+    "duration": 4.437
+  },
+  {
+    "text": "G: Oh, darling,\nthis is simply marvelous.",
+    "start": 829.025,
+    "duration": 2.269
+  },
+  {
+    "text": "A desolate mountain scape.",
+    "start": 831.328,
+    "duration": 1.501
+  },
+  {
+    "text": "How delightfully ominous.",
+    "start": 832.863,
+    "duration": 1.634
+  },
+  {
+    "text": "Prepare for a chilling dance\nwith the unknown.",
+    "start": 834.531,
+    "duration": 2.636
+  },
+  {
+    "text": "Where every gust of wind whispers tales\nof icy terror and lurking shadows.",
+    "start": 837.2,
+    "duration": 4.371
+  },
+  {
+    "text": "MS: OK, Gemini, that’s great.",
+    "start": 841.571,
+    "duration": 1.735
+  },
+  {
+    "text": "Return to more positive\nthings another day.",
+    "start": 843.306,
+    "duration": 2.97
+  },
+  {
+    "text": "SI: OK, Max, I know there's one last demo,",
+    "start": 846.309,
+    "duration": 2.57
+  },
+  {
+    "text": "and you've been apparently\npracticing your farming skills?",
+    "start": 848.912,
+    "duration": 3.437
+  },
+  {
+    "text": "MS: Yes, Shahram, I’ve been excited\nto get back to my rural roots",
+    "start": 852.382,
+    "duration": 3.136
+  },
+  {
+    "text": "and also embrace\none of my favorite things,",
+    "start": 855.552,
+    "duration": 2.602
+  },
+  {
+    "text": "which is playing games.",
+    "start": 858.188,
+    "duration": 1.601
+  },
+  {
+    "text": "But it becomes a whole new,\nnext-level experience",
+    "start": 859.789,
+    "duration": 2.303
+  },
+  {
+    "text": "when you have an AI by your side,",
+    "start": 862.125,
+    "duration": 1.702
+  },
+  {
+    "text": "both to help keep you company as you play,",
+    "start": 863.86,
+    "duration": 2.069
+  },
+  {
+    "text": "but also to help you learn how to play\nthese kind of games in the first place.",
+    "start": 865.962,
+    "duration": 3.938
+  },
+  {
+    "text": "So, for example, what do you think\nI should do next here?",
+    "start": 869.933,
+    "duration": 3.47
+  },
+  {
+    "text": "G: It looks like this is early\nin the game in “Stardew Valley.”",
+    "start": 876.673,
+    "duration": 3.337
+  },
+  {
+    "text": "You need to earn money,\nso try planting some seeds.",
+    "start": 880.043,
+    "duration": 2.402
+  },
+  {
+    "text": "First, use your hoe to till the soil,\nand then plant your seeds.",
+    "start": 882.445,
+    "duration": 3.337
+  },
+  {
+    "text": "It looks like you have some parsnips.",
+    "start": 885.815,
+    "duration": 1.802
+  },
+  {
+    "text": "Since it isn't raining,",
+    "start": 887.651,
+    "duration": 1.167
+  },
+  {
+    "text": "you'll also need to water them\nwith your watering can.",
+    "start": 888.852,
+    "duration": 2.702
+  },
+  {
+    "text": "MS: Seems like a lot, and maybe\nrobots will do this for us one day,",
+    "start": 892.055,
+    "duration": 3.17
+  },
+  {
+    "text": "but for now, I'm going to have\nto return back to my farm later.",
+    "start": 895.258,
+    "duration": 2.97
+  },
+  {
+    "text": "For one last thing, can you please\ngive a playful two-sentence summary",
+    "start": 898.261,
+    "duration": 3.704
+  },
+  {
+    "text": "of all the ground we covered today?",
+    "start": 901.965,
+    "duration": 1.802
+  },
+  {
+    "text": "G: We soared from\norganizing a digital realm",
+    "start": 907.203,
+    "duration": 2.47
+  },
+  {
+    "text": "to traversing snowy mountains,",
+    "start": 909.706,
+    "duration": 1.668
+  },
+  {
+    "text": "and even found time to farm\nsome virtual parsnips.",
+    "start": 911.408,
+    "duration": 2.936
+  },
+  {
+    "text": "Quite the adventure today.",
+    "start": 914.377,
+    "duration": 1.702
+  },
+  {
+    "text": "MS: Quite the adventure, indeed.",
+    "start": 916.112,
+    "duration": 1.569
+  },
+  {
+    "text": "Thanks, Gemini.",
+    "start": 917.681,
+    "duration": 1.201
+  },
+  {
+    "text": "(Applause)",
+    "start": 918.915,
+    "duration": 5.372
+  },
+  {
+    "text": "SI: Fantastic, thank you Max.",
+    "start": 924.321,
+    "duration": 1.668
+  },
+  {
+    "text": "We're entering an exciting new phase\nof the computing revolution.",
+    "start": 926.523,
+    "duration": 4.171
+  },
+  {
+    "text": "Headsets and glasses\nare just the beginning.",
+    "start": 930.727,
+    "duration": 2.769
+  },
+  {
+    "text": "All this points to a single\nvision of the future,",
+    "start": 933.53,
+    "duration": 2.803
+  },
+  {
+    "text": "a world where helpful AI\nwill converge with lightweight XR.",
+    "start": 936.366,
+    "duration": 4.705
+  },
+  {
+    "text": "XR devices will become\nincreasingly more wearable,",
+    "start": 941.471,
+    "duration": 3.103
+  },
+  {
+    "text": "giving us instant access to information.",
+    "start": 944.607,
+    "duration": 2.703
+  },
+  {
+    "text": "While AI is going to become more\ncontextually aware, more conversational,",
+    "start": 947.344,
+    "duration": 4.337
+  },
+  {
+    "text": "more personalized,",
+    "start": 951.715,
+    "duration": 1.334
+  },
+  {
+    "text": "working with us on our terms\nand in our language.",
+    "start": 953.083,
+    "duration": 4.004
+  },
+  {
+    "text": "We're no longer augmenting our reality,",
+    "start": 957.12,
+    "duration": 2.469
+  },
+  {
+    "text": "but rather augmenting our intelligence.",
+    "start": 959.622,
+    "duration": 2.703
+  },
+  {
+    "text": "Thank you so much.",
+    "start": 962.726,
+    "duration": 1.434
+  },
+  {
+    "text": "(Applause)",
+    "start": 964.194,
+    "duration": 2.536
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "text": "The Black Death.",
+    "start": 6.919,
+    "duration": 1.21
+  },
+  {
+    "text": "The 1918 Flu Pandemic.",
+    "start": 8.379,
+    "duration": 1.835
+  },
+  {
+    "text": "COVID-19.",
+    "start": 10.339,
+    "duration": 1.168
+  },
+  {
+    "text": "We tend to think of these catastrophic, \nworld-changing pandemics",
+    "start": 11.883,
+    "duration": 3.545
+  },
+  {
+    "text": "as very unlikely events.",
+    "start": 15.428,
+    "duration": 2.294
+  },
+  {
+    "text": "But between 1980 and 2020,",
+    "start": 18.389,
+    "duration": 2.503
+  },
+  {
+    "text": "at least three diseases emerged \nthat caused global pandemics.",
+    "start": 20.892,
+    "duration": 3.837
+  },
+  {
+    "text": "COVID-19, yes, but also \nthe 2009 swine flu and HIV/AIDS.",
+    "start": 24.729,
+    "duration": 4.921
+  },
+  {
+    "text": "Disease outbreaks are surprisingly common.",
+    "start": 29.942,
+    "duration": 2.378
+  },
+  {
+    "text": "Over the past four centuries,",
+    "start": 32.528,
+    "duration": 1.544
+  },
+  {
+    "text": "the longest stretch of time \nwithout a documented outbreak",
+    "start": 34.072,
+    "duration": 3.128
+  },
+  {
+    "text": "that killed at least 10,000 people\nwas just four years.",
+    "start": 37.2,
+    "duration": 4.296
+  },
+  {
+    "text": "As bad as these smaller outbreaks are,",
+    "start": 42.038,
+    "duration": 2.169
+  },
+  {
+    "text": "they’re far less deadly than\na COVID-19-level pandemic.",
+    "start": 44.207,
+    "duration": 3.086
+  },
+  {
+    "text": "In fact, many people born after \nthe 1918 flu lived their entire lives",
+    "start": 47.627,
+    "duration": 4.629
+  },
+  {
+    "text": "without experiencing\na similar world-changing pandemic.",
+    "start": 52.256,
+    "duration": 3.295
+  },
+  {
+    "text": "What’s the probability that you do, too?",
+    "start": 55.843,
+    "duration": 2.253
+  },
+  {
+    "text": "There are several ways \nto answer this question.",
+    "start": 58.387,
+    "duration": 2.253
+  },
+  {
+    "text": "You could look at history.",
+    "start": 60.64,
+    "duration": 1.668
+  },
+  {
+    "text": "A team of scientists and engineers \nwho took this approach",
+    "start": 62.308,
+    "duration": 2.878
+  },
+  {
+    "text": "catalogued all documented epidemics \nand pandemics between 1600 and 1950.",
+    "start": 65.186,
+    "duration": 5.422
+  },
+  {
+    "text": "They used that data to do two things.",
+    "start": 70.817,
+    "duration": 2.085
+  },
+  {
+    "text": "First, to graph the likelihood \nthat an outbreak of any size",
+    "start": 73.152,
+    "duration": 3.587
+  },
+  {
+    "text": "pops up somewhere in the world \nover a set period of time.",
+    "start": 76.739,
+    "duration": 3.128
+  },
+  {
+    "text": "And second, to estimate the likelihood\nthat that outbreak would get large enough",
+    "start": 80.409,
+    "duration": 4.171
+  },
+  {
+    "text": "to kill a certain percentage\nof the world's population.",
+    "start": 84.58,
+    "duration": 2.753
+  },
+  {
+    "text": "This graph shows that while huge\npandemics are unlikely,",
+    "start": 87.708,
+    "duration": 3.629
+  },
+  {
+    "text": "they're not that unlikely.",
+    "start": 91.587,
+    "duration": 1.627
+  },
+  {
+    "text": "The team used these two distributions\nto estimate that the risk",
+    "start": 94.048,
+    "duration": 2.961
+  },
+  {
+    "text": "of a COVID-19-level pandemic \nis about 0.5% per year,",
+    "start": 97.009,
+    "duration": 4.338
+  },
+  {
+    "text": "and could be as high as 1.4%",
+    "start": 101.347,
+    "duration": 2.711
+  },
+  {
+    "text": "if new diseases emerge \nmore frequently in the future.",
+    "start": 104.058,
+    "duration": 3.087
+  },
+  {
+    "text": "And we’ll come back to those numbers,",
+    "start": 108.104,
+    "duration": 1.793
+  },
+  {
+    "text": "but first, let’s look at another way\nto estimate the likelihood",
+    "start": 109.897,
+    "duration": 3.045
+  },
+  {
+    "text": "of a future pandemic:",
+    "start": 112.942,
+    "duration": 1.293
+  },
+  {
+    "text": "modeling one from the ground up.",
+    "start": 114.235,
+    "duration": 1.877
+  },
+  {
+    "text": "For most pandemics to happen, a pathogen,\nwhich is a microbe that can cause disease,",
+    "start": 116.529,
+    "duration": 4.296
+  },
+  {
+    "text": "has to spill over from its normal host by\nmaking contact with and infecting a human.",
+    "start": 120.825,
+    "duration": 5.547
+  },
+  {
+    "text": "Then, the pathogen has to spread widely,",
+    "start": 126.497,
+    "duration": 2.753
+  },
+  {
+    "text": "crossing international boundaries\nand infecting lots of people.",
+    "start": 129.25,
+    "duration": 3.629
+  },
+  {
+    "text": "Many variables determine whether a given\nspillover event becomes a pandemic.",
+    "start": 133.713,
+    "duration": 4.588
+  },
+  {
+    "text": "For example, the type of pathogen, \nhow often humans come into close contact",
+    "start": 138.885,
+    "duration": 4.296
+  },
+  {
+    "text": "with its animal reservoir, \nexisting immunity, and so on.",
+    "start": 143.181,
+    "duration": 3.461
+  },
+  {
+    "text": "Viruses are prime candidates \nto cause the next big pandemic.",
+    "start": 147.602,
+    "duration": 4.087
+  },
+  {
+    "text": "Scientists estimate that there are about\n1.7 million as-yet-undiscovered viruses",
+    "start": 151.856,
+    "duration": 5.756
+  },
+  {
+    "text": "that currently infect mammals and birds,",
+    "start": 157.612,
+    "duration": 2.544
+  },
+  {
+    "text": "and that roughly 40% of these have the\npotential to spill over and infect humans.",
+    "start": 160.156,
+    "duration": 4.921
+  },
+  {
+    "text": "A team of scientists built a model\nusing this information,",
+    "start": 166.162,
+    "duration": 2.878
+  },
+  {
+    "text": "as well as data about the global\npopulation, air travel networks,",
+    "start": 169.04,
+    "duration": 3.461
+  },
+  {
+    "text": "how people move around in communities,\ncountry preparedness levels,",
+    "start": 172.501,
+    "duration": 3.504
+  },
+  {
+    "text": "and how people might respond to pandemics.",
+    "start": 176.005,
+    "duration": 2.419
+  },
+  {
+    "text": "The model generated hundreds of thousands\nof virtual pandemics.",
+    "start": 178.799,
+    "duration": 3.838
+  },
+  {
+    "text": "The scientists then used \nthis catalog to estimate",
+    "start": 182.72,
+    "duration": 2.586
+  },
+  {
+    "text": "that the probability of another \nCOVID-19-level pandemic",
+    "start": 185.306,
+    "duration": 3.17
+  },
+  {
+    "text": "is 2.5 to 3.3% per year.",
+    "start": 188.476,
+    "duration": 3.253
+  },
+  {
+    "text": "To get a sense of how these risks\nplay out over a lifetime,",
+    "start": 192.563,
+    "duration": 3.379
+  },
+  {
+    "text": "let’s pick a value roughly in the middle\nof all these estimates: 2%.",
+    "start": 195.942,
+    "duration": 3.628
+  },
+  {
+    "text": "Now let’s build what’s called \na probability tree diagram",
+    "start": 199.737,
+    "duration": 3.003
+  },
+  {
+    "text": "to model all possible scenarios.",
+    "start": 202.74,
+    "duration": 2.336
+  },
+  {
+    "text": "The first branch of the tree\nrepresents the first year:",
+    "start": 205.243,
+    "duration": 3.128
+  },
+  {
+    "text": "there’s a 2% probability of experiencing\na COVID-19-level pandemic,",
+    "start": 208.371,
+    "duration": 3.92
+  },
+  {
+    "text": "which means there’s a 98% probability \nof not experiencing one.",
+    "start": 212.5,
+    "duration": 3.92
+  },
+  {
+    "text": "Second branch, same thing,",
+    "start": 216.712,
+    "duration": 1.71
+  },
+  {
+    "text": "Third branch, same.",
+    "start": 218.589,
+    "duration": 1.335
+  },
+  {
+    "text": "And so on, 72 more times.",
+    "start": 219.924,
+    "duration": 2.544
+  },
+  {
+    "text": "There is only one path that results\nin a fully pandemic-free lifetime:",
+    "start": 222.718,
+    "duration": 4.922
+  },
+  {
+    "text": "98%, or 0.98,\nmultiplied by itself 75 times,",
+    "start": 227.848,
+    "duration": 4.88
+  },
+  {
+    "text": "which comes out to roughly 22%.",
+    "start": 232.728,
+    "duration": 2.503
+  },
+  {
+    "text": "So the likelihood of living through \nat least one more COVID 19-level-pandemic",
+    "start": 235.856,
+    "duration": 4.088
+  },
+  {
+    "text": "in the next 75 years \nis 100 minus 22%, or 78%.",
+    "start": 239.944,
+    "duration": 5.63
+  },
+  {
+    "text": "78%!",
+    "start": 245.866,
+    "duration": 1.127
+  },
+  {
+    "text": "If we use the most optimistic\nyearly estimate— 0.5%—",
+    "start": 247.451,
+    "duration": 4.171
+  },
+  {
+    "text": "the lifetime probability drops to 31%.",
+    "start": 251.747,
+    "duration": 3.128
+  },
+  {
+    "text": "If we use the most pessimistic one,\nit jumps to 92%.",
+    "start": 255.042,
+    "duration": 4.129
+  },
+  {
+    "text": "Even 31% is too high to ignore;",
+    "start": 259.839,
+    "duration": 2.669
+  },
+  {
+    "text": "even if we get lucky, \nfuture generations might not.",
+    "start": 262.633,
+    "duration": 3.212
+  },
+  {
+    "text": "Also, pandemics are usually\nrandom, independent events:",
+    "start": 266.053,
+    "duration": 3.712
+  },
+  {
+    "text": "so even if the yearly probability \nof a COVID-19-level pandemic is 1%,",
+    "start": 269.765,
+    "duration": 4.797
+  },
+  {
+    "text": "we could absolutely get another\none in ten years.",
+    "start": 274.729,
+    "duration": 2.836
+  },
+  {
+    "text": "The good news is we now have tools \nthat make pandemics less destructive.",
+    "start": 278.607,
+    "duration": 3.963
+  },
+  {
+    "text": "Scientists estimated that early warning\nsystems, contact tracing,",
+    "start": 283.154,
+    "duration": 3.628
+  },
+  {
+    "text": "social distancing, \nand other public health measures",
+    "start": 286.782,
+    "duration": 2.461
+  },
+  {
+    "text": "saved over a million lives \nin just the first six months",
+    "start": 289.243,
+    "duration": 3.253
+  },
+  {
+    "text": "of the COVID-19 pandemic in the US,",
+    "start": 292.496,
+    "duration": 2.419
+  },
+  {
+    "text": "not to mention the millions\nof lives saved by vaccines.",
+    "start": 295.333,
+    "duration": 3.086
+  },
+  {
+    "text": "One day, another pandemic\nwill sweep the globe.",
+    "start": 299.587,
+    "duration": 2.961
+  },
+  {
+    "text": "But we can work to make that day\nless likely to be tomorrow.",
+    "start": 302.84,
+    "duration": 3.462
+  },
+  {
+    "text": "We can reduce the risk\nof spillover events,",
+    "start": 306.552,
+    "duration": 2.252
+  },
+  {
+    "text": "and we can contain spillovers\nthat do happen",
+    "start": 308.804,
+    "duration": 2.461
+  },
+  {
+    "text": "so they don’t become full-blown pandemics.",
+    "start": 311.265,
+    "duration": 2.544
+  },
+  {
+    "text": "Imagine how the future might\nlook if we interacted",
+    "start": 314.81,
+    "duration": 2.461
+  },
+  {
+    "text": "with the animal world more carefully,",
+    "start": 317.271,
+    "duration": 1.919
+  },
+  {
+    "text": "and if we had well-funded, open-access \nglobal disease monitoring programs,",
+    "start": 319.19,
+    "duration": 4.337
+  },
+  {
+    "text": "AI-powered contact tracing\nand isolation measures,",
+    "start": 323.527,
+    "duration": 2.92
+  },
+  {
+    "text": "universal vaccines, \nnext-generation antiviral drugs,",
+    "start": 326.447,
+    "duration": 3.295
+  },
+  {
+    "text": "and other tech we haven't even thought of.",
+    "start": 329.742,
+    "duration": 2.127
+  },
+  {
+    "text": "It’s in our power to change \nthese probabilities.",
+    "start": 332.078,
+    "duration": 3.003
+  },
+  {
+    "text": "So, we have a choice: we could do nothing\nand hope we get lucky.",
+    "start": 335.206,
+    "duration": 3.295
+  },
+  {
+    "text": "Or we could take the threat \nseriously enough",
+    "start": 338.501,
+    "duration": 2.252
+  },
+  {
+    "text": "that it becomes a self-defeating prophecy.",
+    "start": 340.753,
+    "duration": 2.419
+  },
+  {
+    "text": "Which future would you rather live in?",
+    "start": 343.672,
+    "duration": 1.961
+  }
+]

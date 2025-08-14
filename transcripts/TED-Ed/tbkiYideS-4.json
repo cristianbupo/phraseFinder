@@ -1,0 +1,357 @@
+[
+  {
+    "text": "Maybe the fates got clumsy.",
+    "start": 7.751,
+    "duration": 1.74
+  },
+  {
+    "text": "Maybe Poseidon had one of his angry days.",
+    "start": 9.491,
+    "duration": 2.82
+  },
+  {
+    "text": "However it happened, \nthe underworld is overcrowded,",
+    "start": 12.311,
+    "duration": 3.31
+  },
+  {
+    "text": "and Zeus has ordered Hades\nto let some spirits out.",
+    "start": 15.621,
+    "duration": 4.536
+  },
+  {
+    "text": "Hades arranges all the souls\nof the dead in a line before Cerberus.",
+    "start": 20.157,
+    "duration": 4.442
+  },
+  {
+    "text": "When one of his three heads bites \ndown on the soul in front of it,",
+    "start": 24.599,
+    "duration": 3.89
+  },
+  {
+    "text": "they’ll get returned \nto the land of the living.",
+    "start": 28.489,
+    "duration": 2.73
+  },
+  {
+    "text": "Anyone to the left must get out \nof line and stay in Hades forever.",
+    "start": 31.219,
+    "duration": 4.977
+  },
+  {
+    "text": "And everyone else shuffles forward,\nat which point Cerberus will feed again.",
+    "start": 36.196,
+    "duration": 5.502
+  },
+  {
+    "text": "Each of the dog’s heads has an equal\nchance of being the one to bite each time,",
+    "start": 41.698,
+    "duration": 5.582
+  },
+  {
+    "text": "and no two ever bite simultaneously.",
+    "start": 47.28,
+    "duration": 4.0
+  },
+  {
+    "text": "Unfortunately, Hades’ minions forgot\nto tell you what was happening,",
+    "start": 51.28,
+    "duration": 4.118
+  },
+  {
+    "text": "and by the time you show up \nthere are only 99 souls left in line.",
+    "start": 55.398,
+    "duration": 4.743
+  },
+  {
+    "text": "Hades looks furious and drawing attention\nto yourself won’t end well.",
+    "start": 60.141,
+    "duration": 4.616
+  },
+  {
+    "text": "But suddenly, time freezes, \nand Hermes steps out of the shadows.",
+    "start": 64.757,
+    "duration": 4.856
+  },
+  {
+    "text": "He tells you he can instantly put \nyou into the line,",
+    "start": 69.613,
+    "duration": 3.34
+  },
+  {
+    "text": "and no one will realize what happened.",
+    "start": 72.953,
+    "duration": 2.56
+  },
+  {
+    "text": "But he’ll only grant his grace \nto someone clever enough",
+    "start": 75.513,
+    "duration": 4.0
+  },
+  {
+    "text": "to take full advantage of it.",
+    "start": 79.513,
+    "duration": 1.86
+  },
+  {
+    "text": "Choose the best place in line \nand he’ll give you the spot.",
+    "start": 81.373,
+    "duration": 3.11
+  },
+  {
+    "text": "Choose wrong, and he’ll leave you to rot.",
+    "start": 84.483,
+    "duration": 3.51
+  },
+  {
+    "text": "Which spot should you pick?",
+    "start": 87.993,
+    "duration": 1.83
+  },
+  {
+    "text": "Pause the video to figure it out yourself.",
+    "start": 89.823,
+    "duration": 2.01
+  },
+  {
+    "text": "Answer in 3",
+    "start": 91.833,
+    "duration": 0.7
+  },
+  {
+    "text": "Answer in 2",
+    "start": 92.533,
+    "duration": 2.53
+  },
+  {
+    "text": "Answer in 1",
+    "start": 95.063,
+    "duration": 2.61
+  },
+  {
+    "text": "It’s possible to calculate the exact \nprobability of going free",
+    "start": 97.673,
+    "duration": 4.072
+  },
+  {
+    "text": "in all 100 spots.",
+    "start": 101.745,
+    "duration": 2.13
+  },
+  {
+    "text": "But there’s a much simpler path \nto the solution",
+    "start": 103.875,
+    "duration": 2.73
+  },
+  {
+    "text": "that requires surprisingly\nlittle calculation.",
+    "start": 106.605,
+    "duration": 3.16
+  },
+  {
+    "text": "Imagine being anywhere in line.",
+    "start": 109.765,
+    "duration": 2.55
+  },
+  {
+    "text": "Way up at the front, one of the three\nheads will pick someone at random,",
+    "start": 112.315,
+    "duration": 4.091
+  },
+  {
+    "text": "and you’ll move forward 1, 2, or 3 spaces.",
+    "start": 116.406,
+    "duration": 3.49
+  },
+  {
+    "text": "Since each is equally likely,",
+    "start": 119.896,
+    "duration": 2.33
+  },
+  {
+    "text": "your chance of survival \nfrom wherever you started",
+    "start": 122.226,
+    "duration": 3.26
+  },
+  {
+    "text": "is the average of the chances from\neach of the three spaces in front of you.",
+    "start": 125.486,
+    "duration": 5.259
+  },
+  {
+    "text": "And this is where you can\nfind a huge shortcut.",
+    "start": 130.745,
+    "duration": 4.446
+  },
+  {
+    "text": "Averages must be on or between \nthe extremes of what you’re averaging—",
+    "start": 135.191,
+    "duration": 5.613
+  },
+  {
+    "text": "they can never be higher \nthan the highest value",
+    "start": 140.804,
+    "duration": 2.926
+  },
+  {
+    "text": "or lower than the lowest.",
+    "start": 143.73,
+    "duration": 2.05
+  },
+  {
+    "text": "So whatever your chances of survival\nare where you start,",
+    "start": 145.78,
+    "duration": 3.571
+  },
+  {
+    "text": "one of the three places in front \nof you is at least as good,",
+    "start": 149.351,
+    "duration": 4.495
+  },
+  {
+    "text": "and probably better.",
+    "start": 153.846,
+    "duration": 1.38
+  },
+  {
+    "text": "This observation is incredibly powerful.",
+    "start": 155.226,
+    "duration": 3.3
+  },
+  {
+    "text": "It means that wherever you are in line,",
+    "start": 158.526,
+    "duration": 2.48
+  },
+  {
+    "text": "it’d be wise to trade your place for one\nof the three spots in front of you.",
+    "start": 161.006,
+    "duration": 5.227
+  },
+  {
+    "text": "Let’s ignore which for now and think \nof them as a trio—",
+    "start": 166.233,
+    "duration": 3.944
+  },
+  {
+    "text": "this trio’s maximum value \nis better than this trio’s, and so on.",
+    "start": 170.177,
+    "duration": 4.781
+  },
+  {
+    "text": "Keep going and you’ll reach the front...",
+    "start": 174.958,
+    "duration": 2.398
+  },
+  {
+    "text": "These three spots must contain \nthe extreme values—",
+    "start": 177.356,
+    "duration": 4.582
+  },
+  {
+    "text": "the best and worst probabilities—",
+    "start": 181.938,
+    "duration": 2.28
+  },
+  {
+    "text": "for the entire line.",
+    "start": 184.218,
+    "duration": 1.608
+  },
+  {
+    "text": "In other words,\nthey’re all we need to consider.",
+    "start": 185.826,
+    "duration": 4.102
+  },
+  {
+    "text": "Place 1 is bad.",
+    "start": 189.928,
+    "duration": 1.32
+  },
+  {
+    "text": "Head one would save you, and the other\ntwo doom you forever.",
+    "start": 191.248,
+    "duration": 3.47
+  },
+  {
+    "text": "That’s just a 1 in 3 chance to escape.",
+    "start": 194.718,
+    "duration": 2.79
+  },
+  {
+    "text": "Place 2 is better: head two is great,",
+    "start": 197.508,
+    "duration": 3.55
+  },
+  {
+    "text": "head 3 is bad, and head 1 is ok\nin that it gives you another chance.",
+    "start": 201.058,
+    "duration": 5.594
+  },
+  {
+    "text": "But place 3 is best, \nbecause head 3 saves you",
+    "start": 206.652,
+    "duration": 4.672
+  },
+  {
+    "text": "while heads 1 and 2 both\ngive you extra chances.",
+    "start": 211.324,
+    "duration": 4.667
+  },
+  {
+    "text": "If you did want to consider \nthe exact probabilities,",
+    "start": 215.991,
+    "duration": 3.34
+  },
+  {
+    "text": "the odds of surviving in place 3 \nare 16 out of 27, or close to 60%.",
+    "start": 219.331,
+    "duration": 6.617
+  },
+  {
+    "text": "The spots later in line tend to be very \nclose to having a 50% chance of survival.",
+    "start": 225.948,
+    "duration": 5.668
+  },
+  {
+    "text": "Why 50%?",
+    "start": 231.616,
+    "duration": 1.32
+  },
+  {
+    "text": "Because every time Cerberus sends\none soul up to be reborn,",
+    "start": 232.936,
+    "duration": 4.268
+  },
+  {
+    "text": "he leaves 0, 1, or 2 souls\nin the underworld.",
+    "start": 237.204,
+    "duration": 4.367
+  },
+  {
+    "text": "That averages out to one person\nstaying for each one who gets freed.",
+    "start": 241.571,
+    "duration": 5.469
+  },
+  {
+    "text": "But you can beat those odds handily\nwith what you now know.",
+    "start": 247.04,
+    "duration": 4.065
+  },
+  {
+    "text": "Hermes has places to be, and so do you.",
+    "start": 251.105,
+    "duration": 2.95
+  },
+  {
+    "text": "He rewards your insight by sneaking \nyou into the third spot.",
+    "start": 254.055,
+    "duration": 4.0
+  },
+  {
+    "text": "And from there it’ll be just a short wait \nto learn your ultimate fate.",
+    "start": 258.055,
+    "duration": 4.35
+  }
+]

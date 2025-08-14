@@ -1,0 +1,1067 @@
+[
+  {
+    "text": "When I talk to people\nabout artificial intelligence,",
+    "start": 3.583,
+    "duration": 3.963
+  },
+  {
+    "text": "something I hear a lot from non-experts\nis “I don’t understand AI.”",
+    "start": 7.546,
+    "duration": 5.255
+  },
+  {
+    "text": "But when I talk to experts,\na funny thing happens.",
+    "start": 13.26,
+    "duration": 2.794
+  },
+  {
+    "text": "They say, “I don’t understand AI,\nand neither does anyone else.”",
+    "start": 16.096,
+    "duration": 4.546
+  },
+  {
+    "text": "This is a pretty strange state of affairs.",
+    "start": 21.393,
+    "duration": 3.503
+  },
+  {
+    "text": "Normally, the people\nbuilding a new technology",
+    "start": 24.896,
+    "duration": 3.295
+  },
+  {
+    "text": "understand how it works inside and out.",
+    "start": 28.233,
+    "duration": 2.669
+  },
+  {
+    "text": "But for AI, a technology that's radically\nreshaping the world around us,",
+    "start": 31.695,
+    "duration": 4.546
+  },
+  {
+    "text": "that's not so.",
+    "start": 36.283,
+    "duration": 1.167
+  },
+  {
+    "text": "Experts do know plenty about how to build\nand run AI systems, of course.",
+    "start": 37.492,
+    "duration": 4.588
+  },
+  {
+    "text": "But when it comes to how\nthey work on the inside,",
+    "start": 42.455,
+    "duration": 2.503
+  },
+  {
+    "text": "there are serious limits\nto how much we know.",
+    "start": 45.0,
+    "duration": 2.877
+  },
+  {
+    "text": "And this matters because without\ndeeply understanding AI,",
+    "start": 48.42,
+    "duration": 3.879
+  },
+  {
+    "text": "it's really difficult for us to know\nwhat it will be able to do next,",
+    "start": 52.34,
+    "duration": 4.255
+  },
+  {
+    "text": "or even what it can do now.",
+    "start": 56.636,
+    "duration": 2.336
+  },
+  {
+    "text": "And the fact that we have\nsuch a hard time understanding",
+    "start": 59.556,
+    "duration": 3.378
+  },
+  {
+    "text": "what's going on with the technology\nand predicting where it will go next,",
+    "start": 62.976,
+    "duration": 3.837
+  },
+  {
+    "text": "is one of the biggest hurdles we face\nin figuring out how to govern AI.",
+    "start": 66.855,
+    "duration": 4.629
+  },
+  {
+    "text": "But AI is already all around us,",
+    "start": 72.861,
+    "duration": 2.294
+  },
+  {
+    "text": "so we can't just sit around and wait\nfor things to become clearer.",
+    "start": 75.155,
+    "duration": 4.254
+  },
+  {
+    "text": "We have to forge some kind\nof path forward anyway.",
+    "start": 79.826,
+    "duration": 3.17
+  },
+  {
+    "text": "I've been working on these AI\npolicy and governance issues",
+    "start": 84.08,
+    "duration": 3.629
+  },
+  {
+    "text": "for about eight years,",
+    "start": 87.751,
+    "duration": 1.167
+  },
+  {
+    "text": "First in San Francisco,\nnow in Washington, DC.",
+    "start": 88.918,
+    "duration": 3.17
+  },
+  {
+    "text": "Along the way, I've gotten an inside look",
+    "start": 92.922,
+    "duration": 2.753
+  },
+  {
+    "text": "at how governments are working\nto manage this technology.",
+    "start": 95.717,
+    "duration": 3.754
+  },
+  {
+    "text": "And inside the industry,\nI've seen a thing or two as well.",
+    "start": 99.471,
+    "duration": 4.421
+  },
+  {
+    "text": "So I'm going to share a couple of ideas",
+    "start": 105.852,
+    "duration": 3.17
+  },
+  {
+    "text": "for what our path\nto governing AI could look like.",
+    "start": 109.022,
+    "duration": 3.629
+  },
+  {
+    "text": "But first, let's talk about what actually\nmakes AI so hard to understand",
+    "start": 113.026,
+    "duration": 4.421
+  },
+  {
+    "text": "and predict.",
+    "start": 117.489,
+    "duration": 1.251
+  },
+  {
+    "text": "One huge challenge in building\nartificial \"intelligence\"",
+    "start": 119.616,
+    "duration": 3.837
+  },
+  {
+    "text": "is that no one can agree\non what it actually means",
+    "start": 123.495,
+    "duration": 3.086
+  },
+  {
+    "text": "to be intelligent.",
+    "start": 126.623,
+    "duration": 1.752
+  },
+  {
+    "text": "This is a strange place to be in\nwhen building a new tech.",
+    "start": 129.0,
+    "duration": 3.17
+  },
+  {
+    "text": "When the Wright brothers started\nexperimenting with planes,",
+    "start": 132.212,
+    "duration": 3.295
+  },
+  {
+    "text": "they didn't know how to build one,",
+    "start": 135.507,
+    "duration": 1.668
+  },
+  {
+    "text": "but everyone knew what it meant to fly.",
+    "start": 137.175,
+    "duration": 3.128
+  },
+  {
+    "text": "With AI on the other hand,",
+    "start": 141.596,
+    "duration": 1.794
+  },
+  {
+    "text": "different experts have\ncompletely different intuitions",
+    "start": 143.431,
+    "duration": 3.295
+  },
+  {
+    "text": "about what lies\nat the heart of intelligence.",
+    "start": 146.726,
+    "duration": 2.92
+  },
+  {
+    "text": "Is it problem solving?",
+    "start": 149.646,
+    "duration": 2.21
+  },
+  {
+    "text": "Is it learning and adaptation,",
+    "start": 151.898,
+    "duration": 2.711
+  },
+  {
+    "text": "are emotions,",
+    "start": 154.651,
+    "duration": 1.418
+  },
+  {
+    "text": "or having a physical body\nsomehow involved?",
+    "start": 156.111,
+    "duration": 3.128
+  },
+  {
+    "text": "We genuinely don't know.",
+    "start": 159.698,
+    "duration": 1.459
+  },
+  {
+    "text": "But different answers lead\nto radically different expectations",
+    "start": 161.157,
+    "duration": 4.338
+  },
+  {
+    "text": "about where the technology is going\nand how fast it'll get there.",
+    "start": 165.537,
+    "duration": 4.254
+  },
+  {
+    "text": "An example of how we're confused\nis how we used to talk",
+    "start": 170.834,
+    "duration": 2.586
+  },
+  {
+    "text": "about narrow versus general AI.",
+    "start": 173.461,
+    "duration": 2.294
+  },
+  {
+    "text": "For a long time, we talked\nin terms of two buckets.",
+    "start": 175.797,
+    "duration": 3.795
+  },
+  {
+    "text": "A lot of people thought we should\njust be dividing between narrow AI,",
+    "start": 179.634,
+    "duration": 4.129
+  },
+  {
+    "text": "trained for one specific task,",
+    "start": 183.763,
+    "duration": 1.919
+  },
+  {
+    "text": "like recommending the next YouTube video,",
+    "start": 185.724,
+    "duration": 2.669
+  },
+  {
+    "text": "versus artificial general\nintelligence, or AGI,",
+    "start": 188.435,
+    "duration": 3.795
+  },
+  {
+    "text": "that could do everything a human could do.",
+    "start": 192.272,
+    "duration": 2.586
+  },
+  {
+    "text": "We thought of this distinction,\nnarrow versus general,",
+    "start": 195.859,
+    "duration": 2.919
+  },
+  {
+    "text": "as a core divide between\nwhat we could build in practice",
+    "start": 198.778,
+    "duration": 3.963
+  },
+  {
+    "text": "and what would actually be intelligent.",
+    "start": 202.782,
+    "duration": 2.252
+  },
+  {
+    "text": "But then a year or two ago,\nalong came ChatGPT.",
+    "start": 205.952,
+    "duration": 4.963
+  },
+  {
+    "text": "If you think about it,",
+    "start": 211.541,
+    "duration": 1.543
+  },
+  {
+    "text": "you know, is it narrow AI,\ntrained for one specific task?",
+    "start": 213.126,
+    "duration": 3.712
+  },
+  {
+    "text": "Or is it AGI and can do\neverything a human can do?",
+    "start": 216.838,
+    "duration": 3.17
+  },
+  {
+    "text": "Clearly the answer is neither.",
+    "start": 221.092,
+    "duration": 1.502
+  },
+  {
+    "text": "It's certainly general purpose.",
+    "start": 222.635,
+    "duration": 1.919
+  },
+  {
+    "text": "It can code, write poetry,",
+    "start": 224.554,
+    "duration": 2.92
+  },
+  {
+    "text": "analyze business problems,\nhelp you fix your car.",
+    "start": 227.515,
+    "duration": 3.045
+  },
+  {
+    "text": "But it's a far cry\nfrom being able to do everything",
+    "start": 231.352,
+    "duration": 2.795
+  },
+  {
+    "text": "as well as you or I could do it.",
+    "start": 234.189,
+    "duration": 2.419
+  },
+  {
+    "text": "So it turns out this idea of generality",
+    "start": 236.608,
+    "duration": 2.043
+  },
+  {
+    "text": "doesn't actually seem to be\nthe right dividing line",
+    "start": 238.651,
+    "duration": 2.711
+  },
+  {
+    "text": "between intelligent and not.",
+    "start": 241.404,
+    "duration": 2.127
+  },
+  {
+    "text": "And this kind of thing",
+    "start": 244.073,
+    "duration": 1.335
+  },
+  {
+    "text": "is a huge challenge\nfor the whole field of AI right now.",
+    "start": 245.45,
+    "duration": 2.794
+  },
+  {
+    "text": "We don't have any agreement\non what we're trying to build",
+    "start": 248.286,
+    "duration": 2.836
+  },
+  {
+    "text": "or on what the road map\nlooks like from here.",
+    "start": 251.164,
+    "duration": 2.419
+  },
+  {
+    "text": "We don't even clearly understand\nthe AI systems that we have today.",
+    "start": 253.625,
+    "duration": 3.962
+  },
+  {
+    "text": "Why is that?",
+    "start": 258.004,
+    "duration": 1.251
+  },
+  {
+    "text": "Researchers sometimes describe\ndeep neural networks,",
+    "start": 259.297,
+    "duration": 3.003
+  },
+  {
+    "text": "the main kind of AI being built today,",
+    "start": 262.3,
+    "duration": 2.085
+  },
+  {
+    "text": "as a black box.",
+    "start": 264.427,
+    "duration": 1.46
+  },
+  {
+    "text": "But what they mean by that\nis not that it's inherently mysterious",
+    "start": 266.304,
+    "duration": 3.67
+  },
+  {
+    "text": "and we have no way\nof looking inside the box.",
+    "start": 269.974,
+    "duration": 2.711
+  },
+  {
+    "text": "The problem is that when\nwe do look inside,",
+    "start": 273.228,
+    "duration": 2.669
+  },
+  {
+    "text": "what we find are millions,",
+    "start": 275.939,
+    "duration": 2.335
+  },
+  {
+    "text": "billions or even trillions of numbers",
+    "start": 278.316,
+    "duration": 2.878
+  },
+  {
+    "text": "that get added and multiplied together\nin a particular way.",
+    "start": 281.194,
+    "duration": 3.462
+  },
+  {
+    "text": "What makes it hard for experts\nto know what's going on",
+    "start": 285.031,
+    "duration": 2.544
+  },
+  {
+    "text": "is basically just,\nthere are too many numbers,",
+    "start": 287.617,
+    "duration": 3.086
+  },
+  {
+    "text": "and we don't yet have good ways\nof teasing apart what they're all doing.",
+    "start": 290.745,
+    "duration": 3.962
+  },
+  {
+    "text": "There's a little bit more to it\nthan that, but not a lot.",
+    "start": 294.707,
+    "duration": 3.003
+  },
+  {
+    "text": "So how do we govern this technology",
+    "start": 298.545,
+    "duration": 3.003
+  },
+  {
+    "text": "that we struggle\nto understand and predict?",
+    "start": 301.589,
+    "duration": 2.628
+  },
+  {
+    "text": "I'm going to share two ideas.",
+    "start": 304.717,
+    "duration": 1.502
+  },
+  {
+    "text": "One for all of us\nand one for policymakers.",
+    "start": 306.261,
+    "duration": 3.253
+  },
+  {
+    "text": "First, don't be intimidated.",
+    "start": 310.932,
+    "duration": 2.711
+  },
+  {
+    "text": "Either by the technology itself",
+    "start": 314.102,
+    "duration": 2.461
+  },
+  {
+    "text": "or by the people\nand companies building it.",
+    "start": 316.563,
+    "duration": 3.086
+  },
+  {
+    "text": "On the technology,",
+    "start": 320.4,
+    "duration": 1.168
+  },
+  {
+    "text": "AI can be confusing, but it's not magical.",
+    "start": 321.568,
+    "duration": 2.502
+  },
+  {
+    "text": "There are some parts of AI systems\nwe do already understand well,",
+    "start": 324.07,
+    "duration": 3.504
+  },
+  {
+    "text": "and even the parts we don't understand\nwon't be opaque forever.",
+    "start": 327.574,
+    "duration": 4.045
+  },
+  {
+    "text": "An area of research\nknown as “AI interpretability”",
+    "start": 331.619,
+    "duration": 3.295
+  },
+  {
+    "text": "has made quite a lot of progress\nin the last few years",
+    "start": 334.956,
+    "duration": 3.128
+  },
+  {
+    "text": "in making sense of what all those\nbillions of numbers are doing.",
+    "start": 338.084,
+    "duration": 3.504
+  },
+  {
+    "text": "One team of researchers, for example,",
+    "start": 342.463,
+    "duration": 2.169
+  },
+  {
+    "text": "found a way to identify\ndifferent parts of a neural network",
+    "start": 344.674,
+    "duration": 3.42
+  },
+  {
+    "text": "that they could dial up or dial down",
+    "start": 348.136,
+    "duration": 2.335
+  },
+  {
+    "text": "to make the AI's answers\nhappier or angrier,",
+    "start": 350.513,
+    "duration": 3.754
+  },
+  {
+    "text": "more honest,",
+    "start": 354.309,
+    "duration": 1.418
+  },
+  {
+    "text": "more Machiavellian, and so on.",
+    "start": 355.768,
+    "duration": 2.545
+  },
+  {
+    "text": "If we can push forward\nthis kind of research further,",
+    "start": 358.771,
+    "duration": 2.503
+  },
+  {
+    "text": "then five or 10 years from now,",
+    "start": 361.316,
+    "duration": 2.21
+  },
+  {
+    "text": "we might have a much clearer\nunderstanding of what's going on",
+    "start": 363.526,
+    "duration": 3.003
+  },
+  {
+    "text": "inside the so-called black box.",
+    "start": 366.571,
+    "duration": 2.669
+  },
+  {
+    "text": "And when it comes to those\nbuilding the technology,",
+    "start": 370.325,
+    "duration": 2.669
+  },
+  {
+    "text": "technologists sometimes act as though",
+    "start": 373.036,
+    "duration": 1.918
+  },
+  {
+    "text": "if you're not elbows deep\nin the technical details,",
+    "start": 374.996,
+    "duration": 3.42
+  },
+  {
+    "text": "then you're not entitled to an opinion\non what we should do with it.",
+    "start": 378.458,
+    "duration": 3.42
+  },
+  {
+    "text": "Expertise has its place, of course,",
+    "start": 382.337,
+    "duration": 2.294
+  },
+  {
+    "text": "but history shows us how important it is",
+    "start": 384.672,
+    "duration": 2.169
+  },
+  {
+    "text": "that the people affected\nby a new technology",
+    "start": 386.883,
+    "duration": 3.003
+  },
+  {
+    "text": "get to play a role\nin shaping how we use it.",
+    "start": 389.886,
+    "duration": 2.753
+  },
+  {
+    "text": "Like the factory workers in the 20th\ncentury who fought for factory safety,",
+    "start": 392.639,
+    "duration": 4.629
+  },
+  {
+    "text": "or the disability advocates",
+    "start": 397.31,
+    "duration": 2.127
+  },
+  {
+    "text": "who made sure the world\nwide web was accessible.",
+    "start": 399.437,
+    "duration": 3.003
+  },
+  {
+    "text": "You don't have to be a scientist\nor engineer to have a voice.",
+    "start": 402.982,
+    "duration": 3.963
+  },
+  {
+    "text": "(Applause)",
+    "start": 408.821,
+    "duration": 4.547
+  },
+  {
+    "text": "Second, we need to focus\non adaptability, not certainty.",
+    "start": 413.868,
+    "duration": 5.464
+  },
+  {
+    "text": "A lot of conversations\nabout how to make policy for AI",
+    "start": 419.749,
+    "duration": 3.128
+  },
+  {
+    "text": "get bogged down in fights\nbetween, on the one side,",
+    "start": 422.919,
+    "duration": 2.711
+  },
+  {
+    "text": "people saying, \"We have to regulate AI\nreally hard right now",
+    "start": 425.672,
+    "duration": 3.003
+  },
+  {
+    "text": "because it's so risky.\"",
+    "start": 428.716,
+    "duration": 1.585
+  },
+  {
+    "text": "And on the other side, people saying,",
+    "start": 430.301,
+    "duration": 1.794
+  },
+  {
+    "text": "“But regulation will kill innovation,\nand those risks are made up anyway.”",
+    "start": 432.136,
+    "duration": 4.129
+  },
+  {
+    "text": "But the way I see it,",
+    "start": 436.307,
+    "duration": 1.168
+  },
+  {
+    "text": "it’s not just a choice\nbetween slamming on the brakes",
+    "start": 437.475,
+    "duration": 2.961
+  },
+  {
+    "text": "or hitting the gas.",
+    "start": 440.478,
+    "duration": 1.502
+  },
+  {
+    "text": "If you're driving down a road\nwith unexpected twists and turns,",
+    "start": 442.313,
+    "duration": 3.962
+  },
+  {
+    "text": "then two things that will help you a lot",
+    "start": 446.275,
+    "duration": 2.503
+  },
+  {
+    "text": "are having a clear view out the windshield",
+    "start": 448.778,
+    "duration": 2.794
+  },
+  {
+    "text": "and an excellent steering system.",
+    "start": 451.614,
+    "duration": 2.419
+  },
+  {
+    "text": "In AI, this means having a clear picture\nof where the technology is",
+    "start": 454.033,
+    "duration": 5.005
+  },
+  {
+    "text": "and where it's going,",
+    "start": 459.08,
+    "duration": 1.627
+  },
+  {
+    "text": "and having plans in place\nfor what to do in different scenarios.",
+    "start": 460.707,
+    "duration": 3.628
+  },
+  {
+    "text": "Concretely, this means things like\ninvesting in our ability to measure",
+    "start": 464.752,
+    "duration": 4.338
+  },
+  {
+    "text": "what AI systems can do.",
+    "start": 469.132,
+    "duration": 1.877
+  },
+  {
+    "text": "This sounds nerdy, but it really matters.",
+    "start": 471.342,
+    "duration": 3.212
+  },
+  {
+    "text": "Right now, if we want to figure out",
+    "start": 474.595,
+    "duration": 2.044
+  },
+  {
+    "text": "whether an AI can do something concerning,",
+    "start": 476.681,
+    "duration": 2.002
+  },
+  {
+    "text": "like hack critical infrastructure",
+    "start": 478.725,
+    "duration": 2.377
+  },
+  {
+    "text": "or persuade someone to change\ntheir political beliefs,",
+    "start": 481.102,
+    "duration": 4.671
+  },
+  {
+    "text": "our methods of measuring that\nare rudimentary.",
+    "start": 485.773,
+    "duration": 2.544
+  },
+  {
+    "text": "We need better.",
+    "start": 488.317,
+    "duration": 1.21
+  },
+  {
+    "text": "We should also be requiring AI companies,",
+    "start": 490.319,
+    "duration": 2.545
+  },
+  {
+    "text": "especially the companies building\nthe most advanced AI systems,",
+    "start": 492.905,
+    "duration": 3.42
+  },
+  {
+    "text": "to share information\nabout what they're building,",
+    "start": 496.367,
+    "duration": 3.17
+  },
+  {
+    "text": "what their systems can do",
+    "start": 499.537,
+    "duration": 1.71
+  },
+  {
+    "text": "and how they're managing risks.",
+    "start": 501.289,
+    "duration": 2.127
+  },
+  {
+    "text": "And they should have to let in external\nAI auditors to scrutinize their work",
+    "start": 503.458,
+    "duration": 5.589
+  },
+  {
+    "text": "so that the companies aren't just\ngrading their own homework.",
+    "start": 509.088,
+    "duration": 3.128
+  },
+  {
+    "text": "(Applause)",
+    "start": 513.801,
+    "duration": 4.213
+  },
+  {
+    "text": "A final example of what this can look like",
+    "start": 518.014,
+    "duration": 2.461
+  },
+  {
+    "text": "is setting up incident\nreporting mechanisms,",
+    "start": 520.475,
+    "duration": 3.503
+  },
+  {
+    "text": "so that when things do go wrong\nin the real world,",
+    "start": 524.02,
+    "duration": 2.753
+  },
+  {
+    "text": "we have a way to collect data\non what happened",
+    "start": 526.814,
+    "duration": 2.962
+  },
+  {
+    "text": "and how we can fix it next time.",
+    "start": 529.817,
+    "duration": 2.002
+  },
+  {
+    "text": "Just like the data we collect\non plane crashes and cyber attacks.",
+    "start": 531.819,
+    "duration": 4.421
+  },
+  {
+    "text": "None of these ideas are mine,",
+    "start": 537.158,
+    "duration": 1.668
+  },
+  {
+    "text": "and some of them are already starting\nto be implemented in places like Brussels,",
+    "start": 538.868,
+    "duration": 4.504
+  },
+  {
+    "text": "London, even Washington.",
+    "start": 543.372,
+    "duration": 2.128
+  },
+  {
+    "text": "But the reason\nI'm highlighting these ideas,",
+    "start": 546.042,
+    "duration": 2.627
+  },
+  {
+    "text": "measurement, disclosure,\nincident reporting,",
+    "start": 548.669,
+    "duration": 4.046
+  },
+  {
+    "text": "is that they help us\nnavigate progress in AI",
+    "start": 552.757,
+    "duration": 2.794
+  },
+  {
+    "text": "by giving us a clearer view\nout the windshield.",
+    "start": 555.593,
+    "duration": 3.086
+  },
+  {
+    "text": "If AI is progressing\nfast in dangerous directions,",
+    "start": 558.721,
+    "duration": 3.712
+  },
+  {
+    "text": "these policies will help us see that.",
+    "start": 562.475,
+    "duration": 2.377
+  },
+  {
+    "text": "And if everything is going smoothly,\nthey'll show us that too,",
+    "start": 565.436,
+    "duration": 3.545
+  },
+  {
+    "text": "and we can respond accordingly.",
+    "start": 568.981,
+    "duration": 2.211
+  },
+  {
+    "text": "What I want to leave you with",
+    "start": 573.569,
+    "duration": 1.502
+  },
+  {
+    "text": "is that it's both true\nthat there's a ton of uncertainty",
+    "start": 575.071,
+    "duration": 4.629
+  },
+  {
+    "text": "and disagreement in the field of AI.",
+    "start": 579.742,
+    "duration": 2.961
+  },
+  {
+    "text": "And that companies are already\nbuilding and deploying AI",
+    "start": 582.745,
+    "duration": 4.046
+  },
+  {
+    "text": "all over the place anyway\nin ways that affect all of us.",
+    "start": 586.833,
+    "duration": 4.462
+  },
+  {
+    "text": "Left to their own devices,",
+    "start": 592.004,
+    "duration": 1.544
+  },
+  {
+    "text": "it looks like AI companies might go\nin a similar direction",
+    "start": 593.548,
+    "duration": 3.169
+  },
+  {
+    "text": "to social media companies,",
+    "start": 596.717,
+    "duration": 1.961
+  },
+  {
+    "text": "spending most of their resources\non building web apps",
+    "start": 598.678,
+    "duration": 2.627
+  },
+  {
+    "text": "and for users' attention.",
+    "start": 601.305,
+    "duration": 1.836
+  },
+  {
+    "text": "And by default, it looks like the enormous\npower of more advanced AI systems",
+    "start": 604.016,
+    "duration": 4.463
+  },
+  {
+    "text": "might stay concentrated in the hands\nof a small number of companies,",
+    "start": 608.479,
+    "duration": 4.046
+  },
+  {
+    "text": "or even a small number of individuals.",
+    "start": 612.567,
+    "duration": 1.918
+  },
+  {
+    "text": "But AI's potential goes\nso far beyond that.",
+    "start": 615.278,
+    "duration": 3.253
+  },
+  {
+    "text": "AI already lets us leap\nover language barriers",
+    "start": 618.531,
+    "duration": 2.711
+  },
+  {
+    "text": "and predict protein structures.",
+    "start": 621.284,
+    "duration": 2.252
+  },
+  {
+    "text": "More advanced systems could unlock clean,\nlimitless fusion energy",
+    "start": 623.536,
+    "duration": 4.504
+  },
+  {
+    "text": "or revolutionize how we grow food",
+    "start": 628.082,
+    "duration": 2.503
+  },
+  {
+    "text": "or 1,000 other things.",
+    "start": 630.626,
+    "duration": 1.835
+  },
+  {
+    "text": "And we each have a voice in what happens.",
+    "start": 632.962,
+    "duration": 2.586
+  },
+  {
+    "text": "We're not just data sources,",
+    "start": 635.548,
+    "duration": 2.002
+  },
+  {
+    "text": "we are users,",
+    "start": 637.592,
+    "duration": 2.043
+  },
+  {
+    "text": "we're workers,",
+    "start": 639.635,
+    "duration": 1.502
+  },
+  {
+    "text": "we're citizens.",
+    "start": 641.137,
+    "duration": 1.209
+  },
+  {
+    "text": "So as tempting as it might be,",
+    "start": 643.514,
+    "duration": 2.961
+  },
+  {
+    "text": "we can't wait for clarity\nor expert consensus",
+    "start": 646.475,
+    "duration": 4.672
+  },
+  {
+    "text": "to figure out what we want\nto happen with AI.",
+    "start": 651.147,
+    "duration": 3.378
+  },
+  {
+    "text": "AI is already happening to us.",
+    "start": 654.525,
+    "duration": 2.586
+  },
+  {
+    "text": "What we can do is put policies in place",
+    "start": 657.737,
+    "duration": 3.211
+  },
+  {
+    "text": "to give us as clear\na picture as we can get",
+    "start": 660.948,
+    "duration": 2.67
+  },
+  {
+    "text": "of how the technology is changing,",
+    "start": 663.618,
+    "duration": 2.46
+  },
+  {
+    "text": "and then we can get in the arena\nand push for futures we actually want.",
+    "start": 666.078,
+    "duration": 5.089
+  },
+  {
+    "text": "Thank you.",
+    "start": 671.751,
+    "duration": 1.126
+  },
+  {
+    "text": "(Applause)",
+    "start": 672.919,
+    "duration": 3.378
+  }
+]

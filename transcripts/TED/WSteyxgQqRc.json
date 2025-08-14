@@ -1,0 +1,927 @@
+[
+  {
+    "text": "Transcriber: Leslie Gauthier\nReviewer: Joanna Pietrulewicz",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "AI could add 16 trillion dollars\nto the global economy",
+    "start": 13.75,
+    "duration": 4.351
+  },
+  {
+    "text": "in the next 10 years.",
+    "start": 18.125,
+    "duration": 2.268
+  },
+  {
+    "text": "This economy is not going\nto be built by billions of people",
+    "start": 20.417,
+    "duration": 4.642
+  },
+  {
+    "text": "or millions of factories,",
+    "start": 25.083,
+    "duration": 2.143
+  },
+  {
+    "text": "but by computers and algorithms.",
+    "start": 27.25,
+    "duration": 2.643
+  },
+  {
+    "text": "We have already seen\namazing benefits of AI",
+    "start": 29.917,
+    "duration": 4.684
+  },
+  {
+    "text": "in simplifying tasks,",
+    "start": 34.625,
+    "duration": 2.184
+  },
+  {
+    "text": "bringing efficiencies",
+    "start": 36.833,
+    "duration": 1.601
+  },
+  {
+    "text": "and improving our lives.",
+    "start": 38.458,
+    "duration": 2.393
+  },
+  {
+    "text": "However, when it comes to fair\nand equitable policy decision-making,",
+    "start": 40.875,
+    "duration": 5.976
+  },
+  {
+    "text": "AI has not lived up to its promise.",
+    "start": 46.875,
+    "duration": 3.143
+  },
+  {
+    "text": "AI is becoming a gatekeeper\nto the economy,",
+    "start": 50.042,
+    "duration": 2.892
+  },
+  {
+    "text": "deciding who gets a job",
+    "start": 52.958,
+    "duration": 2.185
+  },
+  {
+    "text": "and who gets an access to a loan.",
+    "start": 55.167,
+    "duration": 3.434
+  },
+  {
+    "text": "AI is only reinforcing\nand accelerating our bias",
+    "start": 58.625,
+    "duration": 4.309
+  },
+  {
+    "text": "at speed and scale",
+    "start": 62.958,
+    "duration": 1.851
+  },
+  {
+    "text": "with societal implications.",
+    "start": 64.833,
+    "duration": 2.393
+  },
+  {
+    "text": "So, is AI failing us?",
+    "start": 67.25,
+    "duration": 2.226
+  },
+  {
+    "text": "Are we designing these algorithms\nto deliver biased and wrong decisions?",
+    "start": 69.5,
+    "duration": 5.417
+  },
+  {
+    "text": "As a data scientist, I'm here to tell you,",
+    "start": 76.292,
+    "duration": 2.892
+  },
+  {
+    "text": "it's not the algorithm,",
+    "start": 79.208,
+    "duration": 1.685
+  },
+  {
+    "text": "but the biased data",
+    "start": 80.917,
+    "duration": 1.476
+  },
+  {
+    "text": "that's responsible for these decisions.",
+    "start": 82.417,
+    "duration": 3.059
+  },
+  {
+    "text": "To make AI possible\nfor humanity and society,",
+    "start": 85.5,
+    "duration": 4.434
+  },
+  {
+    "text": "we need an urgent reset.",
+    "start": 89.958,
+    "duration": 2.351
+  },
+  {
+    "text": "Instead of algorithms,",
+    "start": 92.333,
+    "duration": 2.101
+  },
+  {
+    "text": "we need to focus on the data.",
+    "start": 94.458,
+    "duration": 2.31
+  },
+  {
+    "text": "We're spending time and money to scale AI",
+    "start": 96.792,
+    "duration": 2.642
+  },
+  {
+    "text": "at the expense of designing and collecting\nhigh-quality and contextual data.",
+    "start": 99.458,
+    "duration": 6.018
+  },
+  {
+    "text": "We need to stop the data,\nor the biased data that we already have,",
+    "start": 105.5,
+    "duration": 4.268
+  },
+  {
+    "text": "and focus on three things:",
+    "start": 109.792,
+    "duration": 2.392
+  },
+  {
+    "text": "data infrastructure,",
+    "start": 112.208,
+    "duration": 1.601
+  },
+  {
+    "text": "data quality",
+    "start": 113.833,
+    "duration": 1.393
+  },
+  {
+    "text": "and data literacy.",
+    "start": 115.25,
+    "duration": 2.101
+  },
+  {
+    "text": "In June of this year,",
+    "start": 117.375,
+    "duration": 1.309
+  },
+  {
+    "text": "we saw embarrassing bias\nin the Duke University AI model",
+    "start": 118.708,
+    "duration": 4.768
+  },
+  {
+    "text": "called PULSE,",
+    "start": 123.5,
+    "duration": 1.559
+  },
+  {
+    "text": "which enhanced a blurry image",
+    "start": 125.083,
+    "duration": 3.018
+  },
+  {
+    "text": "into a recognizable\nphotograph of a person.",
+    "start": 128.125,
+    "duration": 4.018
+  },
+  {
+    "text": "This algorithm incorrectly enhanced\na nonwhite image into a Caucasian image.",
+    "start": 132.167,
+    "duration": 6.166
+  },
+  {
+    "text": "African-American images\nwere underrepresented in the training set,",
+    "start": 139.042,
+    "duration": 5.017
+  },
+  {
+    "text": "leading to wrong decisions\nand predictions.",
+    "start": 144.083,
+    "duration": 3.417
+  },
+  {
+    "text": "Probably this is not the first time",
+    "start": 148.333,
+    "duration": 2.143
+  },
+  {
+    "text": "you have seen an AI misidentify\na Black person's image.",
+    "start": 150.5,
+    "duration": 4.768
+  },
+  {
+    "text": "Despite an improved AI methodology,",
+    "start": 155.292,
+    "duration": 3.892
+  },
+  {
+    "text": "the underrepresentation\nof racial and ethnic populations",
+    "start": 159.208,
+    "duration": 3.81
+  },
+  {
+    "text": "still left us with biased results.",
+    "start": 163.042,
+    "duration": 2.684
+  },
+  {
+    "text": "This research is academic,",
+    "start": 165.75,
+    "duration": 2.018
+  },
+  {
+    "text": "however, not all data biases are academic.",
+    "start": 167.792,
+    "duration": 3.976
+  },
+  {
+    "text": "Biases have real consequences.",
+    "start": 171.792,
+    "duration": 3.142
+  },
+  {
+    "text": "Take the 2020 US Census.",
+    "start": 174.958,
+    "duration": 2.334
+  },
+  {
+    "text": "The census is the foundation",
+    "start": 178.042,
+    "duration": 1.726
+  },
+  {
+    "text": "for many social\nand economic policy decisions,",
+    "start": 179.792,
+    "duration": 4.392
+  },
+  {
+    "text": "therefore the census is required\nto count 100 percent of the population",
+    "start": 184.208,
+    "duration": 4.518
+  },
+  {
+    "text": "in the United States.",
+    "start": 188.75,
+    "duration": 2.018
+  },
+  {
+    "text": "However, with the pandemic",
+    "start": 190.792,
+    "duration": 2.476
+  },
+  {
+    "text": "and the politics\nof the citizenship question,",
+    "start": 193.292,
+    "duration": 3.267
+  },
+  {
+    "text": "undercounting of minorities\nis a real possibility.",
+    "start": 196.583,
+    "duration": 3.393
+  },
+  {
+    "text": "I expect significant undercounting\nof minority groups",
+    "start": 200.0,
+    "duration": 4.309
+  },
+  {
+    "text": "who are hard to locate, contact, persuade\nand interview for the census.",
+    "start": 204.333,
+    "duration": 5.268
+  },
+  {
+    "text": "Undercounting will introduce bias",
+    "start": 209.625,
+    "duration": 3.393
+  },
+  {
+    "text": "and erode the quality\nof our data infrastructure.",
+    "start": 213.042,
+    "duration": 3.184
+  },
+  {
+    "text": "Let's look at undercounts\nin the 2010 census.",
+    "start": 216.25,
+    "duration": 3.976
+  },
+  {
+    "text": "16 million people were omitted\nin the final counts.",
+    "start": 220.25,
+    "duration": 3.934
+  },
+  {
+    "text": "This is as large as the total population",
+    "start": 224.208,
+    "duration": 3.143
+  },
+  {
+    "text": "of Arizona, Arkansas, Oklahoma\nand Iowa put together for that year.",
+    "start": 227.375,
+    "duration": 5.809
+  },
+  {
+    "text": "We have also seen about a million kids\nunder the age of five undercounted",
+    "start": 233.208,
+    "duration": 4.31
+  },
+  {
+    "text": "in the 2010 Census.",
+    "start": 237.542,
+    "duration": 2.101
+  },
+  {
+    "text": "Now, undercounting of minorities",
+    "start": 239.667,
+    "duration": 2.976
+  },
+  {
+    "text": "is common in other national censuses,",
+    "start": 242.667,
+    "duration": 2.976
+  },
+  {
+    "text": "as minorities can be harder to reach,",
+    "start": 245.667,
+    "duration": 3.184
+  },
+  {
+    "text": "they're mistrustful towards the government",
+    "start": 248.875,
+    "duration": 2.059
+  },
+  {
+    "text": "or they live in an area\nunder political unrest.",
+    "start": 250.958,
+    "duration": 3.476
+  },
+  {
+    "text": "For example,",
+    "start": 254.458,
+    "duration": 1.81
+  },
+  {
+    "text": "the Australian Census in 2016",
+    "start": 256.292,
+    "duration": 2.934
+  },
+  {
+    "text": "undercounted Aboriginals\nand Torres Strait populations",
+    "start": 259.25,
+    "duration": 3.934
+  },
+  {
+    "text": "by about 17.5 percent.",
+    "start": 263.208,
+    "duration": 3.06
+  },
+  {
+    "text": "We estimate undercounting in 2020",
+    "start": 266.292,
+    "duration": 3.142
+  },
+  {
+    "text": "to be much higher than 2010,",
+    "start": 269.458,
+    "duration": 3.018
+  },
+  {
+    "text": "and the implications\nof this bias can be massive.",
+    "start": 272.5,
+    "duration": 2.917
+  },
+  {
+    "text": "Let's look at the implications\nof the census data.",
+    "start": 276.625,
+    "duration": 3.208
+  },
+  {
+    "text": "Census is the most trusted, open\nand publicly available rich data",
+    "start": 280.917,
+    "duration": 5.559
+  },
+  {
+    "text": "on population composition\nand characteristics.",
+    "start": 286.5,
+    "duration": 3.851
+  },
+  {
+    "text": "While businesses\nhave proprietary information",
+    "start": 290.375,
+    "duration": 2.184
+  },
+  {
+    "text": "on consumers,",
+    "start": 292.583,
+    "duration": 1.393
+  },
+  {
+    "text": "the Census Bureau\nreports definitive, public counts",
+    "start": 294.0,
+    "duration": 4.143
+  },
+  {
+    "text": "on age, gender, ethnicity,",
+    "start": 298.167,
+    "duration": 2.434
+  },
+  {
+    "text": "race, employment, family status,",
+    "start": 300.625,
+    "duration": 2.851
+  },
+  {
+    "text": "as well as geographic distribution,",
+    "start": 303.5,
+    "duration": 2.268
+  },
+  {
+    "text": "which are the foundation\nof the population data infrastructure.",
+    "start": 305.792,
+    "duration": 4.184
+  },
+  {
+    "text": "When minorities are undercounted,",
+    "start": 310.0,
+    "duration": 2.393
+  },
+  {
+    "text": "AI models supporting\npublic transportation,",
+    "start": 312.417,
+    "duration": 2.976
+  },
+  {
+    "text": "housing, health care,",
+    "start": 315.417,
+    "duration": 1.434
+  },
+  {
+    "text": "insurance",
+    "start": 316.875,
+    "duration": 1.268
+  },
+  {
+    "text": "are likely to overlook the communities\nthat require these services the most.",
+    "start": 318.167,
+    "duration": 5.392
+  },
+  {
+    "text": "First step to improving results",
+    "start": 323.583,
+    "duration": 2.185
+  },
+  {
+    "text": "is to make that database representative",
+    "start": 325.792,
+    "duration": 2.392
+  },
+  {
+    "text": "of age, gender, ethnicity and race",
+    "start": 328.208,
+    "duration": 3.268
+  },
+  {
+    "text": "per census data.",
+    "start": 331.5,
+    "duration": 1.292
+  },
+  {
+    "text": "Since census is so important,",
+    "start": 333.792,
+    "duration": 1.642
+  },
+  {
+    "text": "we have to make every effort\nto count 100 percent.",
+    "start": 335.458,
+    "duration": 4.101
+  },
+  {
+    "text": "Investing in this data\nquality and accuracy",
+    "start": 339.583,
+    "duration": 4.06
+  },
+  {
+    "text": "is essential to making AI possible,",
+    "start": 343.667,
+    "duration": 3.226
+  },
+  {
+    "text": "not for only few and privileged,",
+    "start": 346.917,
+    "duration": 2.226
+  },
+  {
+    "text": "but for everyone in the society.",
+    "start": 349.167,
+    "duration": 2.517
+  },
+  {
+    "text": "Most AI systems use the data\nthat's already available",
+    "start": 351.708,
+    "duration": 3.56
+  },
+  {
+    "text": "or collected for some other purposes",
+    "start": 355.292,
+    "duration": 2.434
+  },
+  {
+    "text": "because it's convenient and cheap.",
+    "start": 357.75,
+    "duration": 2.268
+  },
+  {
+    "text": "Yet data quality is a discipline\nthat requires commitment --",
+    "start": 360.042,
+    "duration": 4.684
+  },
+  {
+    "text": "real commitment.",
+    "start": 364.75,
+    "duration": 1.768
+  },
+  {
+    "text": "This attention to the definition,",
+    "start": 366.542,
+    "duration": 2.809
+  },
+  {
+    "text": "data collection\nand measurement of the bias,",
+    "start": 369.375,
+    "duration": 2.768
+  },
+  {
+    "text": "is not only underappreciated --",
+    "start": 372.167,
+    "duration": 2.476
+  },
+  {
+    "text": "in the world of speed,\nscale and convenience,",
+    "start": 374.667,
+    "duration": 3.267
+  },
+  {
+    "text": "it's often ignored.",
+    "start": 377.958,
+    "duration": 1.81
+  },
+  {
+    "text": "As part of Nielsen data science team,",
+    "start": 379.792,
+    "duration": 2.809
+  },
+  {
+    "text": "I went to field visits to collect data,",
+    "start": 382.625,
+    "duration": 2.351
+  },
+  {
+    "text": "visiting retail stores\noutside Shanghai and Bangalore.",
+    "start": 385.0,
+    "duration": 3.934
+  },
+  {
+    "text": "The goal of that visit was to measure\nretail sales from those stores.",
+    "start": 388.958,
+    "duration": 5.06
+  },
+  {
+    "text": "We drove miles outside the city,",
+    "start": 394.042,
+    "duration": 2.184
+  },
+  {
+    "text": "found these small stores --",
+    "start": 396.25,
+    "duration": 1.976
+  },
+  {
+    "text": "informal, hard to reach.",
+    "start": 398.25,
+    "duration": 2.059
+  },
+  {
+    "text": "And you may be wondering --",
+    "start": 400.333,
+    "duration": 2.018
+  },
+  {
+    "text": "why are we interested\nin these specific stores?",
+    "start": 402.375,
+    "duration": 3.518
+  },
+  {
+    "text": "We could have selected a store in the city",
+    "start": 405.917,
+    "duration": 2.142
+  },
+  {
+    "text": "where the electronic data could be\neasily integrated into a data pipeline --",
+    "start": 408.083,
+    "duration": 4.101
+  },
+  {
+    "text": "cheap, convenient and easy.",
+    "start": 412.208,
+    "duration": 2.851
+  },
+  {
+    "text": "Why are we so obsessed with the quality",
+    "start": 415.083,
+    "duration": 3.06
+  },
+  {
+    "text": "and accuracy of the data\nfrom these stores?",
+    "start": 418.167,
+    "duration": 2.976
+  },
+  {
+    "text": "The answer is simple:",
+    "start": 421.167,
+    "duration": 1.559
+  },
+  {
+    "text": "because the data\nfrom these rural stores matter.",
+    "start": 422.75,
+    "duration": 3.25
+  },
+  {
+    "text": "According to the International\nLabour Organization,",
+    "start": 427.708,
+    "duration": 3.726
+  },
+  {
+    "text": "40 percent Chinese",
+    "start": 431.458,
+    "duration": 1.768
+  },
+  {
+    "text": "and 65 percent of Indians\nlive in rural areas.",
+    "start": 433.25,
+    "duration": 4.643
+  },
+  {
+    "text": "Imagine the bias in decision",
+    "start": 437.917,
+    "duration": 1.892
+  },
+  {
+    "text": "when 65 percent of consumption\nin India is excluded in models,",
+    "start": 439.833,
+    "duration": 5.226
+  },
+  {
+    "text": "meaning the decision will favor\nthe urban over the rural.",
+    "start": 445.083,
+    "duration": 3.834
+  },
+  {
+    "text": "Without this rural-urban context",
+    "start": 449.583,
+    "duration": 2.268
+  },
+  {
+    "text": "and signals on livelihood,\nlifestyle, economy and values,",
+    "start": 451.875,
+    "duration": 5.226
+  },
+  {
+    "text": "retail brands will make wrong investments\non pricing, advertising and marketing.",
+    "start": 457.125,
+    "duration": 5.792
+  },
+  {
+    "text": "Or the urban bias will lead\nto wrong rural policy decisions",
+    "start": 463.75,
+    "duration": 4.893
+  },
+  {
+    "text": "with regards to health\nand other investments.",
+    "start": 468.667,
+    "duration": 3.517
+  },
+  {
+    "text": "Wrong decisions are not the problem\nwith the AI algorithm.",
+    "start": 472.208,
+    "duration": 3.625
+  },
+  {
+    "text": "It's a problem of the data",
+    "start": 476.792,
+    "duration": 2.142
+  },
+  {
+    "text": "that excludes areas intended\nto be measured in the first place.",
+    "start": 478.958,
+    "duration": 4.792
+  },
+  {
+    "text": "The data in the context is a priority,",
+    "start": 484.917,
+    "duration": 2.392
+  },
+  {
+    "text": "not the algorithms.",
+    "start": 487.333,
+    "duration": 1.935
+  },
+  {
+    "text": "Let's look at another example.",
+    "start": 489.292,
+    "duration": 2.267
+  },
+  {
+    "text": "I visited these remote,\ntrailer park homes in Oregon state",
+    "start": 491.583,
+    "duration": 4.56
+  },
+  {
+    "text": "and New York City apartments",
+    "start": 496.167,
+    "duration": 1.642
+  },
+  {
+    "text": "to invite these homes\nto participate in Nielsen panels.",
+    "start": 497.833,
+    "duration": 3.976
+  },
+  {
+    "text": "Panels are statistically\nrepresentative samples of homes",
+    "start": 501.833,
+    "duration": 3.601
+  },
+  {
+    "text": "that we invite to participate\nin the measurement",
+    "start": 505.458,
+    "duration": 2.601
+  },
+  {
+    "text": "over a period of time.",
+    "start": 508.083,
+    "duration": 2.018
+  },
+  {
+    "text": "Our mission to include everybody\nin the measurement",
+    "start": 510.125,
+    "duration": 3.309
+  },
+  {
+    "text": "led us to collect data\nfrom these Hispanic and African homes",
+    "start": 513.458,
+    "duration": 5.101
+  },
+  {
+    "text": "who use over-the-air\nTV reception to an antenna.",
+    "start": 518.583,
+    "duration": 3.834
+  },
+  {
+    "text": "Per Nielsen data,",
+    "start": 523.292,
+    "duration": 1.601
+  },
+  {
+    "text": "these homes constitute\n15 percent of US households,",
+    "start": 524.917,
+    "duration": 4.851
+  },
+  {
+    "text": "which is about 45 million people.",
+    "start": 529.792,
+    "duration": 2.726
+  },
+  {
+    "text": "Commitment and focus on quality\nmeans we made every effort",
+    "start": 532.542,
+    "duration": 4.684
+  },
+  {
+    "text": "to collect information",
+    "start": 537.25,
+    "duration": 1.559
+  },
+  {
+    "text": "from these 15 percent,\nhard-to-reach groups.",
+    "start": 538.833,
+    "duration": 4.601
+  },
+  {
+    "text": "Why does it matter?",
+    "start": 543.458,
+    "duration": 1.459
+  },
+  {
+    "text": "This is a sizeable group",
+    "start": 545.875,
+    "duration": 1.309
+  },
+  {
+    "text": "that's very, very important\nto the marketers, brands,",
+    "start": 547.208,
+    "duration": 3.31
+  },
+  {
+    "text": "as well as the media companies.",
+    "start": 550.542,
+    "duration": 2.601
+  },
+  {
+    "text": "Without the data,",
+    "start": 553.167,
+    "duration": 1.351
+  },
+  {
+    "text": "the marketers and brands and their models",
+    "start": 554.542,
+    "duration": 2.892
+  },
+  {
+    "text": "would not be able to reach these folks,",
+    "start": 557.458,
+    "duration": 2.393
+  },
+  {
+    "text": "as well as show ads to these\nvery, very important minority populations.",
+    "start": 559.875,
+    "duration": 4.684
+  },
+  {
+    "text": "And without the ad revenue,",
+    "start": 564.583,
+    "duration": 1.976
+  },
+  {
+    "text": "the broadcasters such as\nTelemundo or Univision,",
+    "start": 566.583,
+    "duration": 4.06
+  },
+  {
+    "text": "would not be able to deliver free content,",
+    "start": 570.667,
+    "duration": 3.142
+  },
+  {
+    "text": "including news media,",
+    "start": 573.833,
+    "duration": 2.101
+  },
+  {
+    "text": "which is so foundational to our democracy.",
+    "start": 575.958,
+    "duration": 3.56
+  },
+  {
+    "text": "This data is essential\nfor businesses and society.",
+    "start": 579.542,
+    "duration": 3.541
+  },
+  {
+    "text": "Our once-in-a-lifetime opportunity\nto reduce human bias in AI",
+    "start": 584.0,
+    "duration": 4.601
+  },
+  {
+    "text": "starts with the data.",
+    "start": 588.625,
+    "duration": 2.309
+  },
+  {
+    "text": "Instead of racing to build new algorithms,",
+    "start": 590.958,
+    "duration": 3.476
+  },
+  {
+    "text": "my mission is to build\na better data infrastructure",
+    "start": 594.458,
+    "duration": 3.851
+  },
+  {
+    "text": "that makes ethical AI possible.",
+    "start": 598.333,
+    "duration": 3.06
+  },
+  {
+    "text": "I hope you will join me\nin my mission as well.",
+    "start": 601.417,
+    "duration": 3.559
+  },
+  {
+    "text": "Thank you.",
+    "start": 605.0,
+    "duration": 1.25
+  }
+]

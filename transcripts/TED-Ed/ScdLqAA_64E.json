@@ -1,0 +1,542 @@
+[
+  {
+    "text": "Space: it's where things happen.",
+    "start": 6.539,
+    "duration": 3.419
+  },
+  {
+    "text": "Time: it's when things happen.",
+    "start": 9.958,
+    "duration": 2.617
+  },
+  {
+    "text": "We can measure where things are",
+    "start": 12.575,
+    "duration": 1.749
+  },
+  {
+    "text": "and when things take place,",
+    "start": 14.324,
+    "duration": 1.334
+  },
+  {
+    "text": "but in modern physics,",
+    "start": 15.658,
+    "duration": 1.499
+  },
+  {
+    "text": "we realize when and where",
+    "start": 17.157,
+    "duration": 1.836
+  },
+  {
+    "text": "are actually part of the same question.",
+    "start": 18.993,
+    "duration": 3.474
+  },
+  {
+    "text": "Because when it comes to understanding the universe,",
+    "start": 22.467,
+    "duration": 2.212
+  },
+  {
+    "text": "we need to replace three-dimensional space plus time",
+    "start": 24.679,
+    "duration": 3.376
+  },
+  {
+    "text": "with a single concept:",
+    "start": 28.055,
+    "duration": 1.792
+  },
+  {
+    "text": "four-dimensional space-time.",
+    "start": 29.847,
+    "duration": 3.797
+  },
+  {
+    "text": "We'll explore and explain space-time",
+    "start": 33.644,
+    "duration": 2.129
+  },
+  {
+    "text": "in this series of animations.",
+    "start": 35.773,
+    "duration": 2.5
+  },
+  {
+    "text": "Animations?",
+    "start": 38.273,
+    "duration": 0.961
+  },
+  {
+    "text": "Yeah.",
+    "start": 39.234,
+    "duration": 1.083
+  },
+  {
+    "text": "Well, we're not very animated are we?",
+    "start": 40.317,
+    "duration": 2.206
+  },
+  {
+    "text": "Sure we are! Look, I can go from here to here.",
+    "start": 42.523,
+    "duration": 4.336
+  },
+  {
+    "text": "Whoa! How'd you get from here to there?",
+    "start": 46.859,
+    "duration": 1.8
+  },
+  {
+    "text": "How fast did you go?",
+    "start": 48.659,
+    "duration": 1.365
+  },
+  {
+    "text": "Did you run? Walk?",
+    "start": 50.024,
+    "duration": 1.665
+  },
+  {
+    "text": "Did you even go in a straight line?",
+    "start": 51.689,
+    "duration": 1.668
+  },
+  {
+    "text": "Ah! To answer that, you'll need to make our cartoon physics",
+    "start": 53.357,
+    "duration": 3.751
+  },
+  {
+    "text": "look more like physics physics.",
+    "start": 57.108,
+    "duration": 2.435
+  },
+  {
+    "text": "You'll need more panels.",
+    "start": 59.543,
+    "duration": 2.564
+  },
+  {
+    "text": "More panels, please!",
+    "start": 62.107,
+    "duration": 3.194
+  },
+  {
+    "text": "Okay, in each panel, Andrew's in a slightly different place.",
+    "start": 65.301,
+    "duration": 4.795
+  },
+  {
+    "text": "So I can see each one records",
+    "start": 70.096,
+    "duration": 1.879
+  },
+  {
+    "text": "where Andrew is at a different time.",
+    "start": 71.975,
+    "duration": 2.917
+  },
+  {
+    "text": "That's great. But it would be easier to see",
+    "start": 74.892,
+    "duration": 4.089
+  },
+  {
+    "text": "what's going on if we could cut out",
+    "start": 78.981,
+    "duration": 1.459
+  },
+  {
+    "text": "all the hundreds of panels and stack them up",
+    "start": 80.44,
+    "duration": 2.333
+  },
+  {
+    "text": "like a flip book.",
+    "start": 82.773,
+    "duration": 3.296
+  },
+  {
+    "text": "Right, now let's flip through the book",
+    "start": 86.069,
+    "duration": 2.086
+  },
+  {
+    "text": "so that we can see one panel after another",
+    "start": 88.155,
+    "duration": 2.452
+  },
+  {
+    "text": "getting through 24 in every second.",
+    "start": 90.607,
+    "duration": 3.751
+  },
+  {
+    "text": "See! I told you it was an animation.",
+    "start": 94.358,
+    "duration": 2.081
+  },
+  {
+    "text": "Now you can see me walking along.",
+    "start": 96.439,
+    "duration": 2.937
+  },
+  {
+    "text": "Drawing all those panels and putting them into a flip book",
+    "start": 99.376,
+    "duration": 2.67
+  },
+  {
+    "text": "is just one way of recording the way I'm moving.",
+    "start": 102.046,
+    "duration": 3.711
+  },
+  {
+    "text": "It's how animation, or even movies, work.",
+    "start": 105.757,
+    "duration": 4.016
+  },
+  {
+    "text": "As it turns out, at my walking speed,",
+    "start": 109.773,
+    "duration": 2.573
+  },
+  {
+    "text": "it takes two seconds to get past each fence post,",
+    "start": 112.346,
+    "duration": 3.345
+  },
+  {
+    "text": "and they're spaced four meters apart.",
+    "start": 115.691,
+    "duration": 2.83
+  },
+  {
+    "text": "So we can calculate my velocity --",
+    "start": 118.521,
+    "duration": 1.957
+  },
+  {
+    "text": "how fast I'm moving through space - -",
+    "start": 120.478,
+    "duration": 2.004
+  },
+  {
+    "text": "is two meters per second.",
+    "start": 122.482,
+    "duration": 3.002
+  },
+  {
+    "text": "But I could've worked that out from the panels",
+    "start": 125.484,
+    "duration": 2.754
+  },
+  {
+    "text": "without flipping through them.",
+    "start": 128.238,
+    "duration": 2.918
+  },
+  {
+    "text": "From the edge of the flip book,",
+    "start": 131.156,
+    "duration": 1.337
+  },
+  {
+    "text": "you can see all of the copies of the fence posts",
+    "start": 132.493,
+    "duration": 2.115
+  },
+  {
+    "text": "and all of the copies of Andrew",
+    "start": 134.608,
+    "duration": 1.832
+  },
+  {
+    "text": "and he's in a slightly different place in each one.",
+    "start": 136.44,
+    "duration": 3.684
+  },
+  {
+    "text": "Now we can predict everything that will happen to Andrew",
+    "start": 140.124,
+    "duration": 3.106
+  },
+  {
+    "text": "when we flip through 24 pages every second,",
+    "start": 143.23,
+    "duration": 3.545
+  },
+  {
+    "text": "including his speed of motion,",
+    "start": 146.775,
+    "duration": 1.357
+  },
+  {
+    "text": "just by looking.",
+    "start": 148.132,
+    "duration": 2.211
+  },
+  {
+    "text": "No need to flip through at all.",
+    "start": 150.343,
+    "duration": 3.044
+  },
+  {
+    "text": "The edge of this flip book",
+    "start": 153.387,
+    "duration": 1.251
+  },
+  {
+    "text": "is known as a space-time diagram",
+    "start": 154.638,
+    "duration": 3.063
+  },
+  {
+    "text": "of Andrew's journey through, you guessed it,",
+    "start": 157.701,
+    "duration": 2.365
+  },
+  {
+    "text": "space and time.",
+    "start": 160.066,
+    "duration": 2.001
+  },
+  {
+    "text": "We call the line that represents Andrew's journey",
+    "start": 162.067,
+    "duration": 3.084
+  },
+  {
+    "text": "his world line.",
+    "start": 165.151,
+    "duration": 2.359
+  },
+  {
+    "text": "If i jog instead of walking,",
+    "start": 167.51,
+    "duration": 2.355
+  },
+  {
+    "text": "I might be able to get past a fence post every second.",
+    "start": 169.865,
+    "duration": 4.589
+  },
+  {
+    "text": "He's not very athletic.",
+    "start": 174.454,
+    "duration": 1.583
+  },
+  {
+    "text": "Anyway, when we look at this new flip book from the edge,",
+    "start": 176.037,
+    "duration": 3.17
+  },
+  {
+    "text": "we can do the same analysis as before.",
+    "start": 179.207,
+    "duration": 3.053
+  },
+  {
+    "text": "The world line for Andrew jogging",
+    "start": 182.26,
+    "duration": 1.577
+  },
+  {
+    "text": "is more tilted over",
+    "start": 183.837,
+    "duration": 1.46
+  },
+  {
+    "text": "than the world line for Andrew walking.",
+    "start": 185.297,
+    "duration": 2.462
+  },
+  {
+    "text": "We can tell he's going twice as fast as before",
+    "start": 187.759,
+    "duration": 3.167
+  },
+  {
+    "text": "without flipping the panels.",
+    "start": 190.926,
+    "duration": 3.469
+  },
+  {
+    "text": "But here's the clever bit.",
+    "start": 194.395,
+    "duration": 2.243
+  },
+  {
+    "text": "In physics, it's always good to view things from other perspectives.",
+    "start": 196.638,
+    "duration": 3.723
+  },
+  {
+    "text": "After all, the laws of physics",
+    "start": 200.361,
+    "duration": 1.865
+  },
+  {
+    "text": "should be the same for everyone",
+    "start": 202.226,
+    "duration": 1.635
+  },
+  {
+    "text": "or no one will obey them.",
+    "start": 203.861,
+    "duration": 2.416
+  },
+  {
+    "text": "So let's rethink our cartoon",
+    "start": 206.277,
+    "duration": 2.789
+  },
+  {
+    "text": "and have the camera follow Andrew jogging along",
+    "start": 209.066,
+    "duration": 2.586
+  },
+  {
+    "text": "as the fence posts approach and pass behind him.",
+    "start": 211.652,
+    "duration": 3.585
+  },
+  {
+    "text": "Still viewing it as a flip book of panels,",
+    "start": 215.237,
+    "duration": 2.54
+  },
+  {
+    "text": "we don't need to redraw anything.",
+    "start": 217.777,
+    "duration": 2.0
+  },
+  {
+    "text": "We simply move all of the cutout frames slightly",
+    "start": 219.777,
+    "duration": 3.055
+  },
+  {
+    "text": "until Andrew's tilted world line",
+    "start": 222.832,
+    "duration": 2.278
+  },
+  {
+    "text": "becomes completely vertical.",
+    "start": 225.11,
+    "duration": 2.893
+  },
+  {
+    "text": "To see why, let's flip it.",
+    "start": 228.003,
+    "duration": 2.692
+  },
+  {
+    "text": "Yes, now I'm stationery, just jogging on the spot,",
+    "start": 230.695,
+    "duration": 3.729
+  },
+  {
+    "text": "in the center of the panel.",
+    "start": 234.424,
+    "duration": 1.627
+  },
+  {
+    "text": "On the edge of the flip book,",
+    "start": 236.051,
+    "duration": 1.501
+  },
+  {
+    "text": "my world line was going straight upwards.",
+    "start": 237.552,
+    "duration": 2.809
+  },
+  {
+    "text": "The fence posts are coming past me.",
+    "start": 240.361,
+    "duration": 2.666
+  },
+  {
+    "text": "It's now their world lines that are tilted.",
+    "start": 243.027,
+    "duration": 3.285
+  },
+  {
+    "text": "This rearrangement of the panels is known as a",
+    "start": 246.312,
+    "duration": 3.126
+  },
+  {
+    "text": "Galilean transformation,",
+    "start": 249.438,
+    "duration": 2.211
+  },
+  {
+    "text": "and it lets us analyze physics from someeone else's perspective.",
+    "start": 251.649,
+    "duration": 4.591
+  },
+  {
+    "text": "In this case, mine.",
+    "start": 256.24,
+    "duration": 2.334
+  },
+  {
+    "text": "After all, it's always good to see things from other points of view,",
+    "start": 258.574,
+    "duration": 3.371
+  },
+  {
+    "text": "especially when the viewers are moving",
+    "start": 261.945,
+    "duration": 2.749
+  },
+  {
+    "text": "at different speeds.",
+    "start": 264.694,
+    "duration": 1.999
+  },
+  {
+    "text": "So long as the speeds aren't too high.",
+    "start": 266.693,
+    "duration": 3.836
+  },
+  {
+    "text": "If you're a cosmic ray moving at the speed of light,",
+    "start": 270.529,
+    "duration": 2.749
+  },
+  {
+    "text": "our flip book of your point of view falls apart.",
+    "start": 273.278,
+    "duration": 4.75
+  },
+  {
+    "text": "To stop that from happening,",
+    "start": 278.028,
+    "duration": 1.777
+  },
+  {
+    "text": "we'll have to glue panels together.",
+    "start": 279.805,
+    "duration": 2.335
+  },
+  {
+    "text": "Instead of a stack of separate panels,",
+    "start": 282.14,
+    "duration": 2.472
+  },
+  {
+    "text": "we'll need a solid block of space-time,",
+    "start": 284.612,
+    "duration": 3.365
+  },
+  {
+    "text": "which we'll come to in the next animation.",
+    "start": 287.977,
+    "duration": 2.717
+  }
+]

@@ -1,0 +1,397 @@
+[
+  {
+    "text": "The city has just opened its\none-of-a-kind Fabergé Egg Museum",
+    "start": 8.411,
+    "duration": 4.85
+  },
+  {
+    "text": "with a single egg displayed on each floor\nof a 100-story building.",
+    "start": 13.261,
+    "duration": 5.571
+  },
+  {
+    "text": "And the world's most notorious jewel thief\nalready has her eyes on the prize.",
+    "start": 18.832,
+    "duration": 5.739
+  },
+  {
+    "text": "Because security is tight\nand the eggs are so large,",
+    "start": 24.571,
+    "duration": 3.391
+  },
+  {
+    "text": "she'll only get the chance to steal one",
+    "start": 27.962,
+    "duration": 2.8
+  },
+  {
+    "text": "by dropping it out the window\ninto her waiting truck",
+    "start": 30.762,
+    "duration": 3.05
+  },
+  {
+    "text": "and repelling down \nbefore the police can arrive.",
+    "start": 33.812,
+    "duration": 4.042
+  },
+  {
+    "text": "All eggs are identical in weight\nand construction,",
+    "start": 37.854,
+    "duration": 3.399
+  },
+  {
+    "text": "but each floor's egg is more rare \nand valuable than the one below it.",
+    "start": 41.253,
+    "duration": 5.9
+  },
+  {
+    "text": "While the thief would naturally like\nto take the priceless egg at the top,",
+    "start": 47.153,
+    "duration": 3.778
+  },
+  {
+    "text": "she suspects it won't survive\na 100-story drop.",
+    "start": 50.931,
+    "duration": 4.061
+  },
+  {
+    "text": "Being pragmatic, she decides to settle\nfor the most expensive egg she can get.",
+    "start": 54.992,
+    "duration": 5.48
+  },
+  {
+    "text": "In the museum's gift shop, \nshe finds two souvenir eggs,",
+    "start": 60.472,
+    "duration": 3.922
+  },
+  {
+    "text": "perfect replicas \nthat are perfectly worthless.",
+    "start": 64.394,
+    "duration": 3.579
+  },
+  {
+    "text": "The plan is to test drop them",
+    "start": 67.973,
+    "duration": 2.058
+  },
+  {
+    "text": "to find the highest floor \nat which an egg will survive the fall",
+    "start": 70.031,
+    "duration": 4.535
+  },
+  {
+    "text": "without breaking.",
+    "start": 74.566,
+    "duration": 1.348
+  },
+  {
+    "text": "Of course, the experiment \ncan only be repeated",
+    "start": 75.914,
+    "duration": 2.529
+  },
+  {
+    "text": "until both replica eggs are smashed.",
+    "start": 78.443,
+    "duration": 3.47
+  },
+  {
+    "text": "And throwing souvenirs out the window\ntoo many times",
+    "start": 81.913,
+    "duration": 2.79
+  },
+  {
+    "text": "is probably going to draw \nthe guards' attention.",
+    "start": 84.703,
+    "duration": 3.521
+  },
+  {
+    "text": "What's the least number of tries\nit would take",
+    "start": 88.224,
+    "duration": 2.46
+  },
+  {
+    "text": "to guarantee that \nshe find the right floor?",
+    "start": 90.684,
+    "duration": 3.55
+  },
+  {
+    "text": "Pause here if you want \nto figure it out for yourself!",
+    "start": 94.234,
+    "duration": 3.285
+  },
+  {
+    "text": "Answer in: 3",
+    "start": 97.519,
+    "duration": 1.435
+  },
+  {
+    "text": "Answer in: 2",
+    "start": 98.954,
+    "duration": 1.434
+  },
+  {
+    "text": "Answer in: 1",
+    "start": 100.388,
+    "duration": 1.439
+  },
+  {
+    "text": "If you're having trouble getting started\non the solution,",
+    "start": 101.827,
+    "duration": 2.731
+  },
+  {
+    "text": "it might help to start \nwith a simpler scenario.",
+    "start": 104.558,
+    "duration": 2.836
+  },
+  {
+    "text": "Imagine our thief only \nhad one replica egg.",
+    "start": 107.394,
+    "duration": 3.269
+  },
+  {
+    "text": "She'd have a single option:",
+    "start": 110.663,
+    "duration": 1.996
+  },
+  {
+    "text": "To start by dropping it \nfrom the first floor",
+    "start": 112.659,
+    "duration": 2.516
+  },
+  {
+    "text": "and go up one by one until it breaks.",
+    "start": 115.175,
+    "duration": 3.342
+  },
+  {
+    "text": "Then she'd know that the floor below that",
+    "start": 118.517,
+    "duration": 2.439
+  },
+  {
+    "text": "is the one she needs \nto target for the real heist.",
+    "start": 120.956,
+    "duration": 3.229
+  },
+  {
+    "text": "But this could require \nas many as 100 tries.",
+    "start": 124.185,
+    "duration": 2.981
+  },
+  {
+    "text": "Having an additional replica egg\ngives the thief a better option.",
+    "start": 127.166,
+    "duration": 4.899
+  },
+  {
+    "text": "She can drop the first egg from different\nfloors at larger intervals",
+    "start": 132.065,
+    "duration": 4.152
+  },
+  {
+    "text": "in order to narrow down the range\nwhere the critical floor can be found.",
+    "start": 136.217,
+    "duration": 4.908
+  },
+  {
+    "text": "And once the first breaks,",
+    "start": 141.125,
+    "duration": 1.662
+  },
+  {
+    "text": "she can use the second egg to explore\nthat interval floor by floor.",
+    "start": 142.787,
+    "duration": 5.26
+  },
+  {
+    "text": "Large floor intervals don't work great.",
+    "start": 148.047,
+    "duration": 3.462
+  },
+  {
+    "text": "In the worst case scenario, they require\nmany tests with the second egg.",
+    "start": 151.509,
+    "duration": 4.827
+  },
+  {
+    "text": "Smaller intervals work much better.",
+    "start": 156.336,
+    "duration": 2.741
+  },
+  {
+    "text": "For example, if she starts by dropping\nthe first egg from every 10th floor,",
+    "start": 159.077,
+    "duration": 4.5
+  },
+  {
+    "text": "once it breaks, she'll only have to test\nthe nine floors below.",
+    "start": 163.577,
+    "duration": 4.681
+  },
+  {
+    "text": "That means it'll take at most\n19 tries to find the right floor.",
+    "start": 168.258,
+    "duration": 6.28
+  },
+  {
+    "text": "But can she do even better?",
+    "start": 174.538,
+    "duration": 2.286
+  },
+  {
+    "text": "After all, there's no reason \nevery interval has to be the same size.",
+    "start": 176.824,
+    "duration": 4.767
+  },
+  {
+    "text": "Let's say there were only ten floors.",
+    "start": 181.591,
+    "duration": 2.369
+  },
+  {
+    "text": "The thief could test this whole building\nwith just four total throws",
+    "start": 183.96,
+    "duration": 4.215
+  },
+  {
+    "text": "by dropping the first egg\nat floors four,",
+    "start": 188.175,
+    "duration": 2.495
+  },
+  {
+    "text": "seven,",
+    "start": 190.67,
+    "duration": 1.149
+  },
+  {
+    "text": "and nine.",
+    "start": 191.819,
+    "duration": 1.451
+  },
+  {
+    "text": "If it broke at floor four, it would take\nup to three throws of the second egg",
+    "start": 193.27,
+    "duration": 4.645
+  },
+  {
+    "text": "to find the exact floor.",
+    "start": 197.915,
+    "duration": 1.859
+  },
+  {
+    "text": "If it broke at seven,",
+    "start": 199.774,
+    "duration": 1.236
+  },
+  {
+    "text": "it would take up to two throws\nwith the second egg.",
+    "start": 201.01,
+    "duration": 2.952
+  },
+  {
+    "text": "And if it broke at floor nine,",
+    "start": 203.962,
+    "duration": 2.178
+  },
+  {
+    "text": "it would take just one more\nthrow of the second egg.",
+    "start": 206.14,
+    "duration": 3.84
+  },
+  {
+    "text": "Intuitively, what we're trying to do here\nis divide the building into sections",
+    "start": 209.98,
+    "duration": 4.74
+  },
+  {
+    "text": "where no matter which floor is correct,",
+    "start": 214.72,
+    "duration": 2.452
+  },
+  {
+    "text": "it takes up to the same number\nof throws to find it.",
+    "start": 217.172,
+    "duration": 4.14
+  },
+  {
+    "text": "We want each interval to be one floor\nsmaller than the last.",
+    "start": 221.312,
+    "duration": 5.099
+  },
+  {
+    "text": "This equation can help us solve\nfor the first floor we need to start with",
+    "start": 226.411,
+    "duration": 4.141
+  },
+  {
+    "text": "in the 100 floor building.",
+    "start": 230.552,
+    "duration": 3.055
+  },
+  {
+    "text": "There are several ways \nto solve this equation,",
+    "start": 233.607,
+    "duration": 3.126
+  },
+  {
+    "text": "including trial and error.",
+    "start": 236.733,
+    "duration": 1.693
+  },
+  {
+    "text": "If we plug in two for n,\nthat equation would look like this.",
+    "start": 238.426,
+    "duration": 4.251
+  },
+  {
+    "text": "If we plug in three, we get this.",
+    "start": 242.677,
+    "duration": 2.556
+  },
+  {
+    "text": "So we can find the first n to pass 100",
+    "start": 245.233,
+    "duration": 3.73
+  },
+  {
+    "text": "by adding more terms \nuntil we get to our answer,",
+    "start": 248.963,
+    "duration": 3.499
+  },
+  {
+    "text": "which is 14.",
+    "start": 252.462,
+    "duration": 2.261
+  },
+  {
+    "text": "And so our thief starts on the 14th floor,",
+    "start": 254.723,
+    "duration": 2.971
+  },
+  {
+    "text": "moving up to the 27th,",
+    "start": 257.694,
+    "duration": 1.601
+  },
+  {
+    "text": "the 39th,",
+    "start": 259.295,
+    "duration": 1.129
+  },
+  {
+    "text": "and so on,",
+    "start": 260.424,
+    "duration": 1.109
+  },
+  {
+    "text": "for a maximum of 14 drops.",
+    "start": 261.533,
+    "duration": 3.039
+  },
+  {
+    "text": "Like the old saying goes, you can't \npull a heist without breaking a few eggs.",
+    "start": 264.572,
+    "duration": 4.522
+  }
+]

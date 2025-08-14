@@ -1,0 +1,972 @@
+[
+  {
+    "text": "You know, one of my earliest memories",
+    "start": 4.292,
+    "duration": 3.045
+  },
+  {
+    "text": "as a kid growing up in Jordan",
+    "start": 7.379,
+    "duration": 2.627
+  },
+  {
+    "text": "was watching my father,",
+    "start": 10.048,
+    "duration": 1.835
+  },
+  {
+    "text": "who was a government engineer at the time,",
+    "start": 11.925,
+    "duration": 2.169
+  },
+  {
+    "text": "set up a new computer.",
+    "start": 14.135,
+    "duration": 1.377
+  },
+  {
+    "text": "I was just a kid,\nbut that machine really gripped me.",
+    "start": 16.388,
+    "duration": 4.796
+  },
+  {
+    "text": "It felt like it was magic.",
+    "start": 21.226,
+    "duration": 2.169
+  },
+  {
+    "text": "We couldn't really afford it,\nbut my father had a feeling",
+    "start": 23.395,
+    "duration": 2.711
+  },
+  {
+    "text": "that this thing\nis going to be transformational",
+    "start": 26.106,
+    "duration": 2.752
+  },
+  {
+    "text": "for the world and for our lives.",
+    "start": 28.858,
+    "duration": 2.128
+  },
+  {
+    "text": "At first, like most kids,\nI started playing video games.",
+    "start": 31.653,
+    "duration": 3.587
+  },
+  {
+    "text": "I figured out how to boot up video games\nand play them for hours.",
+    "start": 35.24,
+    "duration": 3.712
+  },
+  {
+    "text": "But then I had a radical thought.",
+    "start": 38.952,
+    "duration": 2.002
+  },
+  {
+    "text": "What if I could make my own video games?",
+    "start": 40.954,
+    "duration": 1.96
+  },
+  {
+    "text": "The very notion that I could\ntake a concept in my head",
+    "start": 44.04,
+    "duration": 4.088
+  },
+  {
+    "text": "and make it a reality\nthat I and other people can explore",
+    "start": 48.169,
+    "duration": 5.256
+  },
+  {
+    "text": "was something that was really gripping.",
+    "start": 53.466,
+    "duration": 2.628
+  },
+  {
+    "text": "Now fast-forward to my teenage years",
+    "start": 56.136,
+    "duration": 2.878
+  },
+  {
+    "text": "and the internet has just arrived.",
+    "start": 59.055,
+    "duration": 2.378
+  },
+  {
+    "text": "And I thought it was going\nto change everything.",
+    "start": 61.474,
+    "duration": 2.711
+  },
+  {
+    "text": "I was bursting with business ideas.",
+    "start": 64.227,
+    "duration": 3.337
+  },
+  {
+    "text": "But there was a problem.",
+    "start": 67.564,
+    "duration": 1.376
+  },
+  {
+    "text": "I didn't know where to start.",
+    "start": 68.94,
+    "duration": 1.46
+  },
+  {
+    "text": "Which language do you use?",
+    "start": 70.4,
+    "duration": 1.835
+  },
+  {
+    "text": "How do you even share\nyour creations with the world?",
+    "start": 72.235,
+    "duration": 3.003
+  },
+  {
+    "text": "And these questions\nsent me down a rabbit hole.",
+    "start": 75.238,
+    "duration": 2.669
+  },
+  {
+    "text": "The first thing I attempted doing\nat solving these problems",
+    "start": 79.409,
+    "duration": 3.629
+  },
+  {
+    "text": "is putting a code editor in the browser.",
+    "start": 83.038,
+    "duration": 3.003
+  },
+  {
+    "text": "Can you make it so that you can\ncode anything really easily",
+    "start": 86.082,
+    "duration": 4.38
+  },
+  {
+    "text": "and share it with the world?",
+    "start": 90.503,
+    "duration": 1.627
+  },
+  {
+    "text": "So eventually I had a breakthrough.",
+    "start": 92.172,
+    "duration": 1.71
+  },
+  {
+    "text": "I built the world's first\nonline programming sandbox",
+    "start": 93.923,
+    "duration": 3.921
+  },
+  {
+    "text": "with a lot of different languages,",
+    "start": 97.886,
+    "duration": 1.668
+  },
+  {
+    "text": "and that went viral.",
+    "start": 99.596,
+    "duration": 1.668
+  },
+  {
+    "text": "A bunch of companies\nin Silicon Valley started using it,",
+    "start": 101.306,
+    "duration": 3.295
+  },
+  {
+    "text": "and they hired me.",
+    "start": 104.643,
+    "duration": 1.251
+  },
+  {
+    "text": "I got a visa to the United States\nand I came to New York.",
+    "start": 106.853,
+    "duration": 3.003
+  },
+  {
+    "text": "A few years later, I set eyes to go west",
+    "start": 111.399,
+    "duration": 3.837
+  },
+  {
+    "text": "and I came to Silicon Valley\nto start a company.",
+    "start": 115.236,
+    "duration": 2.67
+  },
+  {
+    "text": "And that was Replit.",
+    "start": 117.906,
+    "duration": 1.251
+  },
+  {
+    "text": "Our dream is to make it so that anyone\ncan turn an idea into software quickly.",
+    "start": 120.033,
+    "duration": 5.547
+  },
+  {
+    "text": "Our vision is to empower\na billion software creators.",
+    "start": 126.373,
+    "duration": 4.504
+  },
+  {
+    "text": "But giving people an editor\nwas not going to be enough",
+    "start": 132.671,
+    "duration": 3.461
+  },
+  {
+    "text": "to get a billion people coding on it.",
+    "start": 136.174,
+    "duration": 2.669
+  },
+  {
+    "text": "We've signed up millions of people",
+    "start": 138.885,
+    "duration": 1.668
+  },
+  {
+    "text": "and today we have 25 million developers\nregistered on our site.",
+    "start": 140.595,
+    "duration": 3.295
+  },
+  {
+    "text": "But we need an order of magnitude jump.",
+    "start": 144.849,
+    "duration": 2.878
+  },
+  {
+    "text": "And a couple of years ago\nI stumbled on this technology.",
+    "start": 147.769,
+    "duration": 3.587
+  },
+  {
+    "text": "That's the reason we're all here.",
+    "start": 151.356,
+    "duration": 2.085
+  },
+  {
+    "text": "Large language models.",
+    "start": 153.441,
+    "duration": 1.961
+  },
+  {
+    "text": "And I thought this was the unlock",
+    "start": 155.402,
+    "duration": 2.919
+  },
+  {
+    "text": "that's going to make it possible\nfor anyone to become a software creator.",
+    "start": 158.321,
+    "duration": 3.962
+  },
+  {
+    "text": "The interesting thing\nabout large language models",
+    "start": 162.283,
+    "duration": 3.295
+  },
+  {
+    "text": "is that you can transform\nany thought in any language,",
+    "start": 165.578,
+    "duration": 3.295
+  },
+  {
+    "text": "any human language,",
+    "start": 168.915,
+    "duration": 1.96
+  },
+  {
+    "text": "into software.",
+    "start": 170.917,
+    "duration": 1.251
+  },
+  {
+    "text": "And this, I thought, is how we bring\na billion software creators online.",
+    "start": 173.628,
+    "duration": 3.921
+  },
+  {
+    "text": "So right now I want you\nto imagine something.",
+    "start": 178.633,
+    "duration": 2.336
+  },
+  {
+    "text": "Let's say you're traveling in a new city.",
+    "start": 181.01,
+    "duration": 2.211
+  },
+  {
+    "text": "And you're walking around\nand seeing these magnificent landmarks.",
+    "start": 184.431,
+    "duration": 4.504
+  },
+  {
+    "text": "But you're interested in the stories\naround these landmarks.",
+    "start": 190.311,
+    "duration": 3.671
+  },
+  {
+    "text": "Now it kind of takes you out of the moment\nto pull up your phone",
+    "start": 193.982,
+    "duration": 3.086
+  },
+  {
+    "text": "and Google and find a Wikipedia page\nfor that particular landmark.",
+    "start": 197.068,
+    "duration": 4.046
+  },
+  {
+    "text": "Wouldn't it be easier if you had a map",
+    "start": 202.699,
+    "duration": 2.627
+  },
+  {
+    "text": "with the Wikipedia links\nsuperimposed on the map?",
+    "start": 205.326,
+    "duration": 3.295
+  },
+  {
+    "text": "Typically, an app idea like that\nwill be just a fleeting thought,",
+    "start": 208.621,
+    "duration": 4.421
+  },
+  {
+    "text": "and maybe you just forget about it\nand continue with your life.",
+    "start": 213.084,
+    "duration": 3.879
+  },
+  {
+    "text": "Maybe you'll buy a domain.",
+    "start": 217.005,
+    "duration": 1.668
+  },
+  {
+    "text": "And I know I've been guilty\nof buying tons of domains",
+    "start": 219.758,
+    "duration": 2.502
+  },
+  {
+    "text": "that never turn into anything.",
+    "start": 222.302,
+    "duration": 2.21
+  },
+  {
+    "text": "But in the world that I'm envisioning,",
+    "start": 224.554,
+    "duration": 3.212
+  },
+  {
+    "text": "you could actually do something\nabout it in that moment.",
+    "start": 227.807,
+    "duration": 3.128
+  },
+  {
+    "text": "You pull out your phone\nand you talk to your AI assistant.",
+    "start": 230.977,
+    "duration": 3.462
+  },
+  {
+    "text": "And the AI assistant\nis not just a passive listener.",
+    "start": 235.732,
+    "duration": 3.92
+  },
+  {
+    "text": "It's going to start\nbrainstorming with you.",
+    "start": 239.652,
+    "duration": 2.211
+  },
+  {
+    "text": "It's going to make connections.",
+    "start": 241.863,
+    "duration": 1.543
+  },
+  {
+    "text": "It'll find projects\nyou've worked on in the past",
+    "start": 243.406,
+    "duration": 2.836
+  },
+  {
+    "text": "that kind of look like this idea.",
+    "start": 246.242,
+    "duration": 1.961
+  },
+  {
+    "text": "And let's say you want\nto give a clearer picture.",
+    "start": 249.537,
+    "duration": 2.336
+  },
+  {
+    "text": "Well, pull out a napkin. Draw a mark.",
+    "start": 251.915,
+    "duration": 2.669
+  },
+  {
+    "text": "Snap a picture",
+    "start": 254.626,
+    "duration": 1.376
+  },
+  {
+    "text": "and boom, you send it to your agent.",
+    "start": 256.044,
+    "duration": 2.669
+  },
+  {
+    "text": "Let's start strategizing\nand thinking of a road map.",
+    "start": 260.131,
+    "duration": 3.087
+  },
+  {
+    "text": "Now you don't have a lot of time\nto chat with it, you're on the go.",
+    "start": 263.259,
+    "duration": 3.254
+  },
+  {
+    "text": "So you send it a voice note.",
+    "start": 266.554,
+    "duration": 1.71
+  },
+  {
+    "text": "Now you head home.",
+    "start": 270.183,
+    "duration": 1.251
+  },
+  {
+    "text": "And you have a prototype.",
+    "start": 274.187,
+    "duration": 1.376
+  },
+  {
+    "text": "You have a tangible thing\nthat you could actually play with.",
+    "start": 275.563,
+    "duration": 3.087
+  },
+  {
+    "text": "You have a starting point\nto make an application out of.",
+    "start": 278.65,
+    "duration": 3.128
+  },
+  {
+    "text": "But it's not just a prototype.\nYou also have a plan.",
+    "start": 282.904,
+    "duration": 3.837
+  },
+  {
+    "text": "You have a plan of action\nthat could turn this prototype",
+    "start": 286.741,
+    "duration": 3.045
+  },
+  {
+    "text": "into a production app\nthat you can share with the world.",
+    "start": 289.786,
+    "duration": 2.627
+  },
+  {
+    "text": "Now, apps take time and they take money.",
+    "start": 294.249,
+    "duration": 2.961
+  },
+  {
+    "text": "So we're going to set a budget\nof how much money we're going to spend",
+    "start": 297.252,
+    "duration": 3.253
+  },
+  {
+    "text": "and how much time\nwe're going to spend on this app.",
+    "start": 300.547,
+    "duration": 2.419
+  },
+  {
+    "text": "To take a look behind the scenes,",
+    "start": 305.76,
+    "duration": 2.377
+  },
+  {
+    "text": "it's not just magic,\nalthough it'll feel magical.",
+    "start": 308.179,
+    "duration": 3.337
+  },
+  {
+    "text": "The plan editor becomes a plan source.",
+    "start": 311.558,
+    "duration": 3.044
+  },
+  {
+    "text": "It recursively expands\nall the different tasks.",
+    "start": 314.644,
+    "duration": 3.42
+  },
+  {
+    "text": "It goes out and assembles the tools.",
+    "start": 318.064,
+    "duration": 2.044
+  },
+  {
+    "text": "And these are tools that,\nas developers, we use every day.",
+    "start": 320.108,
+    "duration": 3.211
+  },
+  {
+    "text": "There's your code editor,\nyour source control",
+    "start": 323.319,
+    "duration": 2.795
+  },
+  {
+    "text": "and everything that we're used to.",
+    "start": 326.114,
+    "duration": 1.626
+  },
+  {
+    "text": "And you have, of course, the code.",
+    "start": 328.741,
+    "duration": 1.627
+  },
+  {
+    "text": "Now this is not just about coding.",
+    "start": 332.036,
+    "duration": 1.836
+  },
+  {
+    "text": "It's about a new way\nof communicating with technology.",
+    "start": 333.872,
+    "duration": 3.169
+  },
+  {
+    "text": "Being able to talk and draw\nand work with AI",
+    "start": 337.083,
+    "duration": 5.005
+  },
+  {
+    "text": "to make your visions reality.",
+    "start": 342.13,
+    "duration": 2.377
+  },
+  {
+    "text": "Let's go back to our plan.",
+    "start": 345.174,
+    "duration": 2.336
+  },
+  {
+    "text": "We're going to run it.",
+    "start": 347.552,
+    "duration": 1.626
+  },
+  {
+    "text": "It has four feature ideas.",
+    "start": 349.22,
+    "duration": 2.419
+  },
+  {
+    "text": "The first one is user auth.",
+    "start": 351.681,
+    "duration": 3.003
+  },
+  {
+    "text": "Every app needs that.",
+    "start": 354.726,
+    "duration": 1.459
+  },
+  {
+    "text": "The second one is a way\nto collect feedback from users.",
+    "start": 356.936,
+    "duration": 4.797
+  },
+  {
+    "text": "And the third one\nis a way to like places you've been to.",
+    "start": 361.733,
+    "duration": 3.378
+  },
+  {
+    "text": "And the fourth one is a navigation.",
+    "start": 365.111,
+    "duration": 2.044
+  },
+  {
+    "text": "The first branch is kind of easy.",
+    "start": 368.364,
+    "duration": 2.211
+  },
+  {
+    "text": "The AI has seen login pages\na trillion times and knows how to code it.",
+    "start": 370.575,
+    "duration": 4.504
+  },
+  {
+    "text": "We'll take a look at the code.\nWe'll merge it.",
+    "start": 375.079,
+    "duration": 2.67
+  },
+  {
+    "text": "The second one is a little bit hard.\nMaybe it's a novel task.",
+    "start": 377.79,
+    "duration": 3.504
+  },
+  {
+    "text": "But the AI here is prompting us",
+    "start": 381.336,
+    "duration": 2.377
+  },
+  {
+    "text": "to add more compute.",
+    "start": 383.755,
+    "duration": 1.877
+  },
+  {
+    "text": "So the easiest way to solve this problem",
+    "start": 386.424,
+    "duration": 2.503
+  },
+  {
+    "text": "would be to pump in more compute.",
+    "start": 388.968,
+    "duration": 2.044
+  },
+  {
+    "text": "Maybe that means a larger model,",
+    "start": 391.054,
+    "duration": 1.751
+  },
+  {
+    "text": "or additional contacts\nor additional tokens",
+    "start": 392.847,
+    "duration": 2.044
+  },
+  {
+    "text": "in order to solve this problem.",
+    "start": 394.933,
+    "duration": 1.501
+  },
+  {
+    "text": "And the problem is solved.",
+    "start": 397.352,
+    "duration": 1.543
+  },
+  {
+    "text": "The third branch is kind of easy.",
+    "start": 398.937,
+    "duration": 1.584
+  },
+  {
+    "text": "Smooth sailing.",
+    "start": 400.521,
+    "duration": 1.669
+  },
+  {
+    "text": "I look at it, it works, I merge it.",
+    "start": 402.19,
+    "duration": 2.961
+  },
+  {
+    "text": "Now the fourth one is kind of difficult.",
+    "start": 406.444,
+    "duration": 2.503
+  },
+  {
+    "text": "The AI seems confident",
+    "start": 410.073,
+    "duration": 2.21
+  },
+  {
+    "text": "that it's not going to be able\nto solve this problem with more compute.",
+    "start": 412.283,
+    "duration": 3.921
+  },
+  {
+    "text": "So it prompts me with an increased budget.",
+    "start": 416.204,
+    "duration": 2.043
+  },
+  {
+    "text": "Now it's a hefty number,",
+    "start": 418.289,
+    "duration": 1.919
+  },
+  {
+    "text": "and that's because\nit's not just going to recruit AIs.",
+    "start": 420.249,
+    "duration": 3.212
+  },
+  {
+    "text": "It's going to go out and recruit people.\nIt's going to post a bounty.",
+    "start": 423.503,
+    "duration": 3.42
+  },
+  {
+    "text": "So in this case,\nwe need a human in the loop.",
+    "start": 427.548,
+    "duration": 2.378
+  },
+  {
+    "text": "And until we get AGI,",
+    "start": 429.968,
+    "duration": 1.918
+  },
+  {
+    "text": "today, natural intelligence\nis going to be really, really important.",
+    "start": 431.928,
+    "duration": 3.503
+  },
+  {
+    "text": "So we go out, we get a human.",
+    "start": 436.975,
+    "duration": 2.502
+  },
+  {
+    "text": "That quota is going to\nalso be assisted by AI,",
+    "start": 440.311,
+    "duration": 3.212
+  },
+  {
+    "text": "and they're going to help me\nsolve the problem.",
+    "start": 443.523,
+    "duration": 2.836
+  },
+  {
+    "text": "I merge everything together",
+    "start": 446.359,
+    "duration": 1.793
+  },
+  {
+    "text": "and it's just a matter of hours\nand 50-60 dollars or so,",
+    "start": 448.152,
+    "duration": 5.756
+  },
+  {
+    "text": "I have an app I can deploy.",
+    "start": 453.908,
+    "duration": 1.585
+  },
+  {
+    "text": "I deploy it, I share it with the world.",
+    "start": 455.493,
+    "duration": 2.961
+  },
+  {
+    "text": "Now to step back a little bit,",
+    "start": 458.454,
+    "duration": 1.752
+  },
+  {
+    "text": "notice that I didn't write\na single line of code.",
+    "start": 460.248,
+    "duration": 3.336
+  },
+  {
+    "text": "I was basically the creative\nheartbeat of the project.",
+    "start": 463.626,
+    "duration": 3.42
+  },
+  {
+    "text": "I manage the project,",
+    "start": 467.088,
+    "duration": 1.251
+  },
+  {
+    "text": "I manage both AI and people,",
+    "start": 468.381,
+    "duration": 2.127
+  },
+  {
+    "text": "mediated by AI",
+    "start": 470.55,
+    "duration": 2.919
+  },
+  {
+    "text": "in order to build this application.",
+    "start": 473.511,
+    "duration": 2.544
+  },
+  {
+    "text": "And that fleeting thought that you had\nis suddenly an application.",
+    "start": 476.097,
+    "duration": 5.714
+  },
+  {
+    "text": "So, you know, I can almost hear\nsome of you thinking, like,",
+    "start": 482.562,
+    "duration": 4.337
+  },
+  {
+    "text": "\"OK, Amjad, this is this is great and all.",
+    "start": 486.899,
+    "duration": 2.294
+  },
+  {
+    "text": "This is a fascinating vision",
+    "start": 489.193,
+    "duration": 1.961
+  },
+  {
+    "text": "but it kind of looks\ntoo fantastic, two futuristic.\"",
+    "start": 491.154,
+    "duration": 3.628
+  },
+  {
+    "text": "Well, I'm here to tell you\nit's kind of already happening.",
+    "start": 494.782,
+    "duration": 3.379
+  },
+  {
+    "text": "So just a couple of weeks ago,\nan entrepreneur on Replit, Yoeri --",
+    "start": 498.161,
+    "duration": 5.046
+  },
+  {
+    "text": "he's a technical recruiter by training,\nhe's not a software engineer --",
+    "start": 503.249,
+    "duration": 3.337
+  },
+  {
+    "text": "he learned enough code\nto start building his startup.",
+    "start": 506.627,
+    "duration": 2.503
+  },
+  {
+    "text": "And thousands of miles\nacross the world we have Akashdeep.",
+    "start": 509.172,
+    "duration": 3.712
+  },
+  {
+    "text": "Akashdeep, a student in India,\nhe comes from a farming family",
+    "start": 512.925,
+    "duration": 4.004
+  },
+  {
+    "text": "and he can't afford a PC.",
+    "start": 516.971,
+    "duration": 1.418
+  },
+  {
+    "text": "He has never had a PC.\nAll he's had was his Android phone.",
+    "start": 518.431,
+    "duration": 3.378
+  },
+  {
+    "text": "He started learning to code in Replit\njust a few months ago,",
+    "start": 521.851,
+    "duration": 4.296
+  },
+  {
+    "text": "and then decided to go\nand start making money on the platform.",
+    "start": 526.147,
+    "duration": 4.338
+  },
+  {
+    "text": "Now he makes more money\nthan his entire family",
+    "start": 530.485,
+    "duration": 3.795
+  },
+  {
+    "text": "and he can afford a lot\nof different computers, not just one.",
+    "start": 534.28,
+    "duration": 2.878
+  },
+  {
+    "text": "And now he's joined forces\nwith Yoeri to build that startup.",
+    "start": 537.158,
+    "duration": 4.588
+  },
+  {
+    "text": "You know, today we talk\nabout the Fortune 500,",
+    "start": 541.746,
+    "duration": 3.086
+  },
+  {
+    "text": "and it takes a ton of employees\nto build a big company like that.",
+    "start": 544.832,
+    "duration": 3.087
+  },
+  {
+    "text": "But I think in the future,",
+    "start": 548.836,
+    "duration": 2.211
+  },
+  {
+    "text": "when AI is helping everyone\nbuild their dreams,",
+    "start": 551.089,
+    "duration": 4.629
+  },
+  {
+    "text": "we’re going to be talking\nabout the Fortune 5000000.",
+    "start": 555.76,
+    "duration": 2.836
+  },
+  {
+    "text": "And again, this is not just --",
+    "start": 558.638,
+    "duration": 1.877
+  },
+  {
+    "text": "This is not just a fantasy.",
+    "start": 561.849,
+    "duration": 1.961
+  },
+  {
+    "text": "We're already building this.",
+    "start": 563.851,
+    "duration": 1.835
+  },
+  {
+    "text": "Last week we announced\nthat we're open-sourcing our AI models,",
+    "start": 565.728,
+    "duration": 4.922
+  },
+  {
+    "text": "and we're making it free for all our users",
+    "start": 570.65,
+    "duration": 3.378
+  },
+  {
+    "text": "because we think that's a massive step up\nfor all of humanity.",
+    "start": 574.028,
+    "duration": 5.214
+  },
+  {
+    "text": "AI is not just a tool, it's a ladder\nthat equalizes opportunity.",
+    "start": 579.242,
+    "duration": 4.337
+  },
+  {
+    "text": "And that opens up horizons for people\nthat are typically on the sidelines.",
+    "start": 583.579,
+    "duration": 4.838
+  },
+  {
+    "text": "So I'll leave you with this.",
+    "start": 588.459,
+    "duration": 1.96
+  },
+  {
+    "text": "Imagine that",
+    "start": 590.461,
+    "duration": 1.669
+  },
+  {
+    "text": "the American dream,",
+    "start": 592.171,
+    "duration": 2.294
+  },
+  {
+    "text": "not just --",
+    "start": 594.507,
+    "duration": 1.627
+  },
+  {
+    "text": "not just in one place,",
+    "start": 596.175,
+    "duration": 3.42
+  },
+  {
+    "text": "but actually in the cloud.",
+    "start": 599.637,
+    "duration": 1.585
+  },
+  {
+    "text": "Thank you.",
+    "start": 602.682,
+    "duration": 1.251
+  },
+  {
+    "text": "(Applause)",
+    "start": 603.975,
+    "duration": 1.585
+  }
+]

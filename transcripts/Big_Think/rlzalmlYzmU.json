@@ -1,0 +1,257 @@
+[
+  {
+    "text": "If you really want to understand what's on\na written page right now we need a human to",
+    "start": 0.429,
+    "duration": 4.95
+  },
+  {
+    "text": "read it.",
+    "start": 5.379,
+    "duration": 1.31
+  },
+  {
+    "text": "That's very slow.",
+    "start": 6.689,
+    "duration": 2.421
+  },
+  {
+    "text": "We will get, I believe technology very soon\nthat",
+    "start": 9.11,
+    "duration": 2.82
+  },
+  {
+    "text": "can actually do a pretty good job of reading\nnatural language documents.",
+    "start": 11.93,
+    "duration": 4.11
+  },
+  {
+    "text": "Watson shows that that's feasible.",
+    "start": 16.04,
+    "duration": 1.3
+  },
+  {
+    "text": "If you consider Watson was actually able to\nread Wikipedia and understand it well enough",
+    "start": 17.34,
+    "duration": 4.64
+  },
+  {
+    "text": "to play a game of this Jeopardy, which is\na complex, subtle, ambiguous game of language",
+    "start": 21.98,
+    "duration": 8.309
+  },
+  {
+    "text": "and got a higher score than the best human\nplayers put together.",
+    "start": 30.289,
+    "duration": 3.261
+  },
+  {
+    "text": "And its knowledge was not programmed fact\nby fact in Lisp or some computer language.",
+    "start": 33.55,
+    "duration": 5.34
+  },
+  {
+    "text": "It just read Wikipedia and other encyclopedias,\n200 million pages of natural language documents",
+    "start": 38.89,
+    "duration": 6.329
+  },
+  {
+    "text": "and didn't do a perfect job of understanding\nit and didn't do a perfect job of answering",
+    "start": 45.219,
+    "duration": 4.491
+  },
+  {
+    "text": "the questions but was better than the best\nhuman players put together from having read",
+    "start": 49.71,
+    "duration": 6.83
+  },
+  {
+    "text": "natural language documents.",
+    "start": 56.54,
+    "duration": 1.1
+  },
+  {
+    "text": "That's very impressive.",
+    "start": 57.64,
+    "duration": 2.5
+  },
+  {
+    "text": "That's coming to a search engine near you.",
+    "start": 60.14,
+    "duration": 3.72
+  },
+  {
+    "text": "There's major search engines like Google are\nnot just going to be using keywords with synonyms,",
+    "start": 63.86,
+    "duration": 6.74
+  },
+  {
+    "text": "they're going to actually read for understanding\nthe concepts 'cause if you think about searching",
+    "start": 70.6,
+    "duration": 6.71
+  },
+  {
+    "text": "there's a lot of information now that's ignored,\nwhich is the meaning of all these documents",
+    "start": 77.31,
+    "duration": 5.379
+  },
+  {
+    "text": "which is why they were created.",
+    "start": 82.689,
+    "duration": 2.071
+  },
+  {
+    "text": "So if you can have a computer even do a job\nthat's very mediocre compared to human but",
+    "start": 84.76,
+    "duration": 6.26
+  },
+  {
+    "text": "then can apply the scale of computation.",
+    "start": 91.02,
+    "duration": 3.59
+  },
+  {
+    "text": "I mean, Watson -- if it read one page, it's\nnot as good as you are, but it didn't read",
+    "start": 94.61,
+    "duration": 5.759
+  },
+  {
+    "text": "one page -- it read 200 million pages.",
+    "start": 100.369,
+    "duration": 2.311
+  },
+  {
+    "text": "You and I can't begin to do that.",
+    "start": 102.68,
+    "duration": 3.06
+  },
+  {
+    "text": "Watson's out reading all medical literature,\nevery medical journal article, every medical",
+    "start": 105.74,
+    "duration": 4.91
+  },
+  {
+    "text": "book,\nmajor medical blogs and will be an expert",
+    "start": 110.65,
+    "duration": 5.079
+  },
+  {
+    "text": "diagnostician and medical consultant that\nhas read everything.",
+    "start": 115.729,
+    "duration": 3.911
+  },
+  {
+    "text": "No human can do that.",
+    "start": 119.64,
+    "duration": 2.68
+  },
+  {
+    "text": "So that's where we're headed.",
+    "start": 122.32,
+    "duration": 1.47
+  },
+  {
+    "text": "Our search engines will actually also know\nus very well.",
+    "start": 123.79,
+    "duration": 4.339
+  },
+  {
+    "text": "We will let them listen in on conversations;\nverbal, written.",
+    "start": 128.129,
+    "duration": 4.211
+  },
+  {
+    "text": "They'll watch everything we're reading and\nwriting and saying and hearing, and then they'll",
+    "start": 132.34,
+    "duration": 4.619
+  },
+  {
+    "text": "be like an assistant.",
+    "start": 136.959,
+    "duration": 1.31
+  },
+  {
+    "text": "It'll say, \"Oh, you know, you were talking\nabout how you can get the supplement phosphatidylcholine",
+    "start": 138.269,
+    "duration": 6.14
+  },
+  {
+    "text": "into the cells yesterday in that conversation\nwith Joe.",
+    "start": 144.409,
+    "duration": 4.461
+  },
+  {
+    "text": "You know, there's research that came out 13\nminutes ago that speaks to that.\"",
+    "start": 148.87,
+    "duration": 4.31
+  },
+  {
+    "text": "It'll be an assistant that helps you through\nthe day, will answer your questions before",
+    "start": 153.18,
+    "duration": 4.44
+  },
+  {
+    "text": "you ask them or even before you realize you\nhave a question, and you'll just get used",
+    "start": 157.62,
+    "duration": 5.31
+  },
+  {
+    "text": "to this information popping up that you wanted\nand you'll be frustrated if you're thinking",
+    "start": 162.93,
+    "duration": 5.75
+  },
+  {
+    "text": "about something and it doesn't immediately\npop up without you even having to ask for",
+    "start": 168.68,
+    "duration": 3.44
+  },
+  {
+    "text": "it.",
+    "start": 172.12,
+    "duration": 1.0
+  },
+  {
+    "text": "I'm not actually predicting that until 2029\nthat we will match human intelligence, but",
+    "start": 173.12,
+    "duration": 6.019
+  },
+  {
+    "text": "we can nonetheless do things that humans can't\ndo.",
+    "start": 179.139,
+    "duration": 2.67
+  },
+  {
+    "text": "I mean, Watson, if it read one page, as I\nsaid, wouldn't be as strong as you or I, but",
+    "start": 181.809,
+    "duration": 7.461
+  },
+  {
+    "text": "it was able to read hundreds of millions of\npages and it's ability to read each page is",
+    "start": 189.27,
+    "duration": 5.259
+  },
+  {
+    "text": "going to increase.",
+    "start": 194.529,
+    "duration": 2.41
+  },
+  {
+    "text": "So that's where we're headed.",
+    "start": 196.939,
+    "duration": 2.8
+  },
+  {
+    "text": "But then a comment on that is it's not an\nalien invasion of these intelligent machines",
+    "start": 199.739,
+    "duration": 4.61
+  },
+  {
+    "text": "to displace us.",
+    "start": 204.349,
+    "duration": 1.13
+  },
+  {
+    "text": "We will use them to make ourselves smarter,\nwhich is what we do today.",
+    "start": 205.479,
+    "duration": 3.04
+  }
+]

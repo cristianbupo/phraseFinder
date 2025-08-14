@@ -1,0 +1,1482 @@
+[
+  {
+    "text": "[Music]",
+    "start": 2.58,
+    "duration": 3.16
+  },
+  {
+    "text": "[Music]",
+    "start": 10.12,
+    "duration": 5.31
+  },
+  {
+    "text": "[Applause]",
+    "start": 12.28,
+    "duration": 3.15
+  },
+  {
+    "text": "ladies and gentlemen I present to you",
+    "start": 16.359,
+    "duration": 4.521
+  },
+  {
+    "text": "the human",
+    "start": 18.32,
+    "duration": 2.56
+  },
+  {
+    "text": "genome chromosome one top left bottom",
+    "start": 22.56,
+    "duration": 5.6
+  },
+  {
+    "text": "right are the sex chromosomes women have",
+    "start": 25.599,
+    "duration": 5.041
+  },
+  {
+    "text": "two copies of that big X chromos men",
+    "start": 28.16,
+    "duration": 4.72
+  },
+  {
+    "text": "have the X and of course that small copy",
+    "start": 30.64,
+    "duration": 4.439
+  },
+  {
+    "text": "of the Y sorry boys but it's just a tiny",
+    "start": 32.88,
+    "duration": 4.999
+  },
+  {
+    "text": "little thing that makes you different so",
+    "start": 35.079,
+    "duration": 6.201
+  },
+  {
+    "text": "if you zoom in on this genome um then",
+    "start": 37.879,
+    "duration": 4.921
+  },
+  {
+    "text": "what you see of course is this double",
+    "start": 41.28,
+    "duration": 3.36
+  },
+  {
+    "text": "helix structure the code of Life spelled",
+    "start": 42.8,
+    "duration": 3.68
+  },
+  {
+    "text": "out with these four biochemical letters",
+    "start": 44.64,
+    "duration": 4.599
+  },
+  {
+    "text": "or we call them bases right ACG and T",
+    "start": 46.48,
+    "duration": 4.2
+  },
+  {
+    "text": "how many are there in the human genome",
+    "start": 49.239,
+    "duration": 4.601
+  },
+  {
+    "text": "three billion is that a big number well",
+    "start": 50.68,
+    "duration": 4.679
+  },
+  {
+    "text": "everybody can throw around big numbers",
+    "start": 53.84,
+    "duration": 3.64
+  },
+  {
+    "text": "but in fact if I were to place one base",
+    "start": 55.359,
+    "duration": 4.601
+  },
+  {
+    "text": "on each pixel of this 1280 by 800 res",
+    "start": 57.48,
+    "duration": 5.719
+  },
+  {
+    "text": "ution screen we would need 3,000 screens",
+    "start": 59.96,
+    "duration": 5.0
+  },
+  {
+    "text": "to take a look at the genome so it's",
+    "start": 63.199,
+    "duration": 3.321
+  },
+  {
+    "text": "really quite big and perhaps because of",
+    "start": 64.96,
+    "duration": 4.36
+  },
+  {
+    "text": "its size a group of people all by the",
+    "start": 66.52,
+    "duration": 4.599
+  },
+  {
+    "text": "way with Y chromosomes decided that they",
+    "start": 69.32,
+    "duration": 4.4
+  },
+  {
+    "text": "would want to sequence",
+    "start": 71.119,
+    "duration": 5.721
+  },
+  {
+    "text": "it and so 15 years actually and about4",
+    "start": 73.72,
+    "duration": 4.64
+  },
+  {
+    "text": "billion dollars later the genome was",
+    "start": 76.84,
+    "duration": 3.68
+  },
+  {
+    "text": "sequenced and published in 2003 the",
+    "start": 78.36,
+    "duration": 3.719
+  },
+  {
+    "text": "final version was published and they",
+    "start": 80.52,
+    "duration": 3.36
+  },
+  {
+    "text": "keep working on it that was all done on",
+    "start": 82.079,
+    "duration": 3.321
+  },
+  {
+    "text": "a machine that looks like this costs",
+    "start": 83.88,
+    "duration": 3.68
+  },
+  {
+    "text": "about a dollar for each base very slow",
+    "start": 85.4,
+    "duration": 3.719
+  },
+  {
+    "text": "way of doing it well folks I'm here to",
+    "start": 87.56,
+    "duration": 4.08
+  },
+  {
+    "text": "tell you that the world has completely",
+    "start": 89.119,
+    "duration": 6.04
+  },
+  {
+    "text": "changed and none of you know about it so",
+    "start": 91.64,
+    "duration": 5.4
+  },
+  {
+    "text": "now what we do is we take a genome we",
+    "start": 95.159,
+    "duration": 4.041
+  },
+  {
+    "text": "make maybe 50 copies of it we cut all",
+    "start": 97.04,
+    "duration": 4.079
+  },
+  {
+    "text": "those copies up into little 50 base",
+    "start": 99.2,
+    "duration": 3.44
+  },
+  {
+    "text": "reads and then we sequence them",
+    "start": 101.119,
+    "duration": 3.161
+  },
+  {
+    "text": "massively parallel and then we bring",
+    "start": 102.64,
+    "duration": 4.24
+  },
+  {
+    "text": "that into software and we reassemble it",
+    "start": 104.28,
+    "duration": 4.28
+  },
+  {
+    "text": "and we tell you what the story is and so",
+    "start": 106.88,
+    "duration": 3.199
+  },
+  {
+    "text": "just to give you a picture of what this",
+    "start": 108.56,
+    "duration": 3.12
+  },
+  {
+    "text": "looks like the Human Genome Project",
+    "start": 110.079,
+    "duration": 4.201
+  },
+  {
+    "text": "three gigabases right one run on one of",
+    "start": 111.68,
+    "duration": 5.719
+  },
+  {
+    "text": "these modern machines 200 gigabases in a",
+    "start": 114.28,
+    "duration": 5.08
+  },
+  {
+    "text": "week and that 200 is going to change to",
+    "start": 117.399,
+    "duration": 4.32
+  },
+  {
+    "text": "600 this summer and there's no sign of",
+    "start": 119.36,
+    "duration": 6.28
+  },
+  {
+    "text": "this pace slowing so the price of a base",
+    "start": 121.719,
+    "duration": 6.561
+  },
+  {
+    "text": "to sequence a base has fallen 100",
+    "start": 125.64,
+    "duration": 5.28
+  },
+  {
+    "text": "million times that's the equivalent of",
+    "start": 128.28,
+    "duration": 5.039
+  },
+  {
+    "text": "you filling up your car with gas in 1998",
+    "start": 130.92,
+    "duration": 4.399
+  },
+  {
+    "text": "waiting until 2011 and now you can drive",
+    "start": 133.319,
+    "duration": 4.961
+  },
+  {
+    "text": "to Jupiter and back",
+    "start": 135.319,
+    "duration": 2.961
+  },
+  {
+    "text": "twice world",
+    "start": 140.72,
+    "duration": 6.0
+  },
+  {
+    "text": "population PC placements the archive of",
+    "start": 143.2,
+    "duration": 7.36
+  },
+  {
+    "text": "all the medical literature Mo's law",
+    "start": 146.72,
+    "duration": 6.44
+  },
+  {
+    "text": "the old way of sequencing and here's all",
+    "start": 150.56,
+    "duration": 5.0
+  },
+  {
+    "text": "the new stuff guys this is a log scale",
+    "start": 153.16,
+    "duration": 4.2
+  },
+  {
+    "text": "you don't typically see lines that go up",
+    "start": 155.56,
+    "duration": 4.84
+  },
+  {
+    "text": "like that right so the worldwide",
+    "start": 157.36,
+    "duration": 4.92
+  },
+  {
+    "text": "capacity to sequence human genomes is",
+    "start": 160.4,
+    "duration": 3.839
+  },
+  {
+    "text": "something like 50 to 100,000 human",
+    "start": 162.28,
+    "duration": 3.92
+  },
+  {
+    "text": "genomes this year and we know this based",
+    "start": 164.239,
+    "duration": 3.801
+  },
+  {
+    "text": "on the machines that are being placed",
+    "start": 166.2,
+    "duration": 3.52
+  },
+  {
+    "text": "this is expected to double triple or",
+    "start": 168.04,
+    "duration": 3.44
+  },
+  {
+    "text": "maybe quadruple year-over-year for the",
+    "start": 169.72,
+    "duration": 4.2
+  },
+  {
+    "text": "foreseeable future in fact there's one",
+    "start": 171.48,
+    "duration": 5.24
+  },
+  {
+    "text": "lab in particular that represents 20% of",
+    "start": 173.92,
+    "duration": 4.56
+  },
+  {
+    "text": "all that capacity it's called The",
+    "start": 176.72,
+    "duration": 3.96
+  },
+  {
+    "text": "Beijing genomics Institute",
+    "start": 178.48,
+    "duration": 4.0
+  },
+  {
+    "text": "the Chinese are absolutely winning this",
+    "start": 180.68,
+    "duration": 3.68
+  },
+  {
+    "text": "race to the new Moon by the way what",
+    "start": 182.48,
+    "duration": 3.319
+  },
+  {
+    "text": "does this mean for",
+    "start": 184.36,
+    "duration": 5.519
+  },
+  {
+    "text": "medicine so woman age 37 she uh presents",
+    "start": 185.799,
+    "duration": 5.761
+  },
+  {
+    "text": "with stage two estrogen receptor",
+    "start": 189.879,
+    "duration": 3.761
+  },
+  {
+    "text": "positive breast cancer she is treated",
+    "start": 191.56,
+    "duration": 4.36
+  },
+  {
+    "text": "with surgery chemotherapy and radiation",
+    "start": 193.64,
+    "duration": 4.48
+  },
+  {
+    "text": "she goes home two years later she comes",
+    "start": 195.92,
+    "duration": 4.8
+  },
+  {
+    "text": "back with Stage 3C ovarian cancer",
+    "start": 198.12,
+    "duration": 4.44
+  },
+  {
+    "text": "unfortunately treated again with surgery",
+    "start": 200.72,
+    "duration": 4.04
+  },
+  {
+    "text": "and chemotherapy comes back three years",
+    "start": 202.56,
+    "duration": 5.039
+  },
+  {
+    "text": "later at age 42 with more ovarian cancer",
+    "start": 204.76,
+    "duration": 6.16
+  },
+  {
+    "text": "more chemotherapy six months later she",
+    "start": 207.599,
+    "duration": 6.28
+  },
+  {
+    "text": "comes back with acute myoid",
+    "start": 210.92,
+    "duration": 5.28
+  },
+  {
+    "text": "leukemia she goes into respiratory",
+    "start": 213.879,
+    "duration": 4.761
+  },
+  {
+    "text": "failure and dies 8 days later so first",
+    "start": 216.2,
+    "duration": 3.88
+  },
+  {
+    "text": "the way in which this woman was treated",
+    "start": 218.64,
+    "duration": 4.12
+  },
+  {
+    "text": "in as little as 10 years will look like",
+    "start": 220.08,
+    "duration": 4.96
+  },
+  {
+    "text": "bloodletting and it's because of people",
+    "start": 222.76,
+    "duration": 3.839
+  },
+  {
+    "text": "like my colleague gck Wilson at the",
+    "start": 225.04,
+    "duration": 3.199
+  },
+  {
+    "text": "genome Institute at Washington",
+    "start": 226.599,
+    "duration": 3.441
+  },
+  {
+    "text": "University who decided to take a look at",
+    "start": 228.239,
+    "duration": 3.441
+  },
+  {
+    "text": "this woman postmortem and he sequenced",
+    "start": 230.04,
+    "duration": 4.16
+  },
+  {
+    "text": "he took skin cells healthy skin and",
+    "start": 231.68,
+    "duration": 4.68
+  },
+  {
+    "text": "cancerous bone marrow and he sequenced",
+    "start": 234.2,
+    "duration": 4.16
+  },
+  {
+    "text": "the whole genomes of both of them right",
+    "start": 236.36,
+    "duration": 4.079
+  },
+  {
+    "text": "in a couple weeks no big deal right and",
+    "start": 238.36,
+    "duration": 3.599
+  },
+  {
+    "text": "then he compared those two genomes in",
+    "start": 240.439,
+    "duration": 3.44
+  },
+  {
+    "text": "software and what he found among other",
+    "start": 241.959,
+    "duration": 4.0
+  },
+  {
+    "text": "things was a deletion a 2,000 Bas",
+    "start": 243.879,
+    "duration": 4.241
+  },
+  {
+    "text": "deletion across three billion bases",
+    "start": 245.959,
+    "duration": 5.28
+  },
+  {
+    "text": "right in a particular Gene called tp53",
+    "start": 248.12,
+    "duration": 4.92
+  },
+  {
+    "text": "if you have this delerious mutation in",
+    "start": 251.239,
+    "duration": 3.601
+  },
+  {
+    "text": "this Gene you're 90% likely to get",
+    "start": 253.04,
+    "duration": 4.28
+  },
+  {
+    "text": "cancer in your life so unfortunately",
+    "start": 254.84,
+    "duration": 4.28
+  },
+  {
+    "text": "this doesn't help this woman but it does",
+    "start": 257.32,
+    "duration": 4.159
+  },
+  {
+    "text": "have severe profound if you will uh",
+    "start": 259.12,
+    "duration": 5.28
+  },
+  {
+    "text": "implications to her family right I mean",
+    "start": 261.479,
+    "duration": 4.601
+  },
+  {
+    "text": "if they have the same mutation and they",
+    "start": 264.4,
+    "duration": 3.2
+  },
+  {
+    "text": "get this genetic test and they",
+    "start": 266.08,
+    "duration": 2.959
+  },
+  {
+    "text": "understand it then they can go and get",
+    "start": 267.6,
+    "duration": 3.48
+  },
+  {
+    "text": "regular screen and they can catch cancer",
+    "start": 269.039,
+    "duration": 3.121
+  },
+  {
+    "text": "early and potentially live a",
+    "start": 271.08,
+    "duration": 2.839
+  },
+  {
+    "text": "significantly longer life let me",
+    "start": 272.16,
+    "duration": 3.4
+  },
+  {
+    "text": "introduce you now to the Beer twins",
+    "start": 273.919,
+    "duration": 3.241
+  },
+  {
+    "text": "diagnosed with cerebral paly at the age",
+    "start": 275.56,
+    "duration": 3.76
+  },
+  {
+    "text": "of two their mom is a very brave woman",
+    "start": 277.16,
+    "duration": 3.36
+  },
+  {
+    "text": "who didn't believe it the symptoms",
+    "start": 279.32,
+    "duration": 2.76
+  },
+  {
+    "text": "weren't matching up and through some",
+    "start": 280.52,
+    "duration": 2.959
+  },
+  {
+    "text": "heroic efforts and a lot of Internet",
+    "start": 282.08,
+    "duration": 3.839
+  },
+  {
+    "text": "searching she was able to convince the",
+    "start": 283.479,
+    "duration": 3.841
+  },
+  {
+    "text": "medical community that in fact they had",
+    "start": 285.919,
+    "duration": 4.56
+  },
+  {
+    "text": "something else what they had was uh dopa",
+    "start": 287.32,
+    "duration": 4.92
+  },
+  {
+    "text": "responsive dystonia and so they were",
+    "start": 290.479,
+    "duration": 5.081
+  },
+  {
+    "text": "given L Doopa um and their symptoms did",
+    "start": 292.24,
+    "duration": 4.679
+  },
+  {
+    "text": "improve but they weren't totally",
+    "start": 295.56,
+    "duration": 3.16
+  },
+  {
+    "text": "asymptomatic significant problems",
+    "start": 296.919,
+    "duration": 3.56
+  },
+  {
+    "text": "remained turns out the gentleman in this",
+    "start": 298.72,
+    "duration": 3.44
+  },
+  {
+    "text": "picture is a guy named Joe beer who was",
+    "start": 300.479,
+    "duration": 3.801
+  },
+  {
+    "text": "lucky enough to be the CIO of a company",
+    "start": 302.16,
+    "duration": 4.64
+  },
+  {
+    "text": "called Life Technologies they're one of",
+    "start": 304.28,
+    "duration": 4.16
+  },
+  {
+    "text": "the two companies that makes these",
+    "start": 306.8,
+    "duration": 4.16
+  },
+  {
+    "text": "massive whole genome sequencing uh tools",
+    "start": 308.44,
+    "duration": 4.92
+  },
+  {
+    "text": "and so what he did was he got his kids",
+    "start": 310.96,
+    "duration": 3.84
+  },
+  {
+    "text": "sequenced and what they found was a",
+    "start": 313.36,
+    "duration": 3.6
+  },
+  {
+    "text": "series of mutations in a gene called spr",
+    "start": 314.8,
+    "duration": 3.6
+  },
+  {
+    "text": "which is responsible for producing",
+    "start": 316.96,
+    "duration": 4.16
+  },
+  {
+    "text": "serotonin among other things so on top",
+    "start": 318.4,
+    "duration": 4.32
+  },
+  {
+    "text": "of elopa they gave these kids a",
+    "start": 321.12,
+    "duration": 3.24
+  },
+  {
+    "text": "serotonin precursor drug and they're",
+    "start": 322.72,
+    "duration": 3.599
+  },
+  {
+    "text": "effectively normal now guys this would",
+    "start": 324.36,
+    "duration": 3.48
+  },
+  {
+    "text": "never have happened without whole genome",
+    "start": 326.319,
+    "duration": 3.041
+  },
+  {
+    "text": "sequencing and at the time this was a",
+    "start": 327.84,
+    "duration": 3.4
+  },
+  {
+    "text": "few years years ago it cost 100,000",
+    "start": 329.36,
+    "duration": 3.88
+  },
+  {
+    "text": "today it's 10,000 next year it's a th000",
+    "start": 331.24,
+    "duration": 3.84
+  },
+  {
+    "text": "the year after it's 100 give or take a",
+    "start": 333.24,
+    "duration": 4.2
+  },
+  {
+    "text": "year that's how fast this is moving so",
+    "start": 335.08,
+    "duration": 4.959
+  },
+  {
+    "text": "here's Little Nick likes Batman and",
+    "start": 337.44,
+    "duration": 6.16
+  },
+  {
+    "text": "squirt guns and um turns out Nick shows",
+    "start": 340.039,
+    "duration": 5.041
+  },
+  {
+    "text": "up at the Children's hospital with his",
+    "start": 343.6,
+    "duration": 3.24
+  },
+  {
+    "text": "distended belly like a famine victim and",
+    "start": 345.08,
+    "duration": 3.679
+  },
+  {
+    "text": "it's not that he's not eating it's that",
+    "start": 346.84,
+    "duration": 3.56
+  },
+  {
+    "text": "when he eats his intestine basically",
+    "start": 348.759,
+    "duration": 3.681
+  },
+  {
+    "text": "opens up and feces spill out into his",
+    "start": 350.4,
+    "duration": 4.88
+  },
+  {
+    "text": "gut so 100 surgeries later right he",
+    "start": 352.44,
+    "duration": 5.56
+  },
+  {
+    "text": "looks at his mom and says mom please",
+    "start": 355.28,
+    "duration": 5.16
+  },
+  {
+    "text": "pray for me I'm in so much pain",
+    "start": 358.0,
+    "duration": 4.36
+  },
+  {
+    "text": "his pediatrician happens to have a",
+    "start": 360.44,
+    "duration": 3.319
+  },
+  {
+    "text": "background in clinical genetics and he",
+    "start": 362.36,
+    "duration": 3.279
+  },
+  {
+    "text": "has no idea what's going on but he says",
+    "start": 363.759,
+    "duration": 3.401
+  },
+  {
+    "text": "let's get this kid's genome sequence and",
+    "start": 365.639,
+    "duration": 3.28
+  },
+  {
+    "text": "what they find is a single point",
+    "start": 367.16,
+    "duration": 3.52
+  },
+  {
+    "text": "mutation in a gene responsible for",
+    "start": 368.919,
+    "duration": 4.081
+  },
+  {
+    "text": "controlling programmed cell death so the",
+    "start": 370.68,
+    "duration": 3.72
+  },
+  {
+    "text": "theory is that he's having some",
+    "start": 373.0,
+    "duration": 3.56
+  },
+  {
+    "text": "immunological reaction to what's going",
+    "start": 374.4,
+    "duration": 4.199
+  },
+  {
+    "text": "on to the food essentially right and",
+    "start": 376.56,
+    "duration": 3.84
+  },
+  {
+    "text": "that's a natural reaction which causes",
+    "start": 378.599,
+    "duration": 3.281
+  },
+  {
+    "text": "some programmed cell death but the gene",
+    "start": 380.4,
+    "duration": 3.76
+  },
+  {
+    "text": "that regulates that down is broken and",
+    "start": 381.88,
+    "duration": 3.759
+  },
+  {
+    "text": "so this informs among other things of",
+    "start": 384.16,
+    "duration": 3.0
+  },
+  {
+    "text": "course a treatment for bone marrow",
+    "start": 385.639,
+    "duration": 4.081
+  },
+  {
+    "text": "transplant which he undertakes and after",
+    "start": 387.16,
+    "duration": 4.4
+  },
+  {
+    "text": "months of grueling recovery he's now",
+    "start": 389.72,
+    "duration": 4.0
+  },
+  {
+    "text": "eating steak with a one",
+    "start": 391.56,
+    "duration": 5.72
+  },
+  {
+    "text": "sauce the prospect of using the genome",
+    "start": 393.72,
+    "duration": 6.759
+  },
+  {
+    "text": "as a universal diagnostic is upon us",
+    "start": 397.28,
+    "duration": 6.319
+  },
+  {
+    "text": "today today it's here and what it means",
+    "start": 400.479,
+    "duration": 5.081
+  },
+  {
+    "text": "for all of us is that everybody in this",
+    "start": 403.599,
+    "duration": 4.281
+  },
+  {
+    "text": "room could live an extra 5 10 20 years",
+    "start": 405.56,
+    "duration": 4.24
+  },
+  {
+    "text": "just because of this one thing which is",
+    "start": 407.88,
+    "duration": 5.159
+  },
+  {
+    "text": "a fantastic story unless you think about",
+    "start": 409.8,
+    "duration": 4.88
+  },
+  {
+    "text": "Humanity's footprint on the planet and",
+    "start": 413.039,
+    "duration": 4.121
+  },
+  {
+    "text": "our ability to keep up food production",
+    "start": 414.68,
+    "duration": 4.88
+  },
+  {
+    "text": "so it turns out at the very same Tech",
+    "start": 417.16,
+    "duration": 4.879
+  },
+  {
+    "text": "technology is also being used to grow",
+    "start": 419.56,
+    "duration": 5.0
+  },
+  {
+    "text": "new lines of corn wheat soybean and",
+    "start": 422.039,
+    "duration": 4.801
+  },
+  {
+    "text": "other crops that are highly tolerant of",
+    "start": 424.56,
+    "duration": 5.0
+  },
+  {
+    "text": "drought of flood of pests and pesticides",
+    "start": 426.84,
+    "duration": 5.4
+  },
+  {
+    "text": "now look as long as we continue to",
+    "start": 429.56,
+    "duration": 3.919
+  },
+  {
+    "text": "increase the population we're going to",
+    "start": 432.24,
+    "duration": 2.44
+  },
+  {
+    "text": "have to continue to grow and eat",
+    "start": 433.479,
+    "duration": 2.881
+  },
+  {
+    "text": "genetically modified foods and that's",
+    "start": 434.68,
+    "duration": 3.84
+  },
+  {
+    "text": "the only position that I'll take today",
+    "start": 436.36,
+    "duration": 3.559
+  },
+  {
+    "text": "unless there's anybody in the audience",
+    "start": 438.52,
+    "duration": 3.64
+  },
+  {
+    "text": "that would like to volunteer to stop",
+    "start": 439.919,
+    "duration": 6.801
+  },
+  {
+    "text": "eating none not one this is a typewriter",
+    "start": 442.16,
+    "duration": 6.92
+  },
+  {
+    "text": "a staple of every desktop for decades",
+    "start": 446.72,
+    "duration": 4.24
+  },
+  {
+    "text": "right and and in fact the typewriter was",
+    "start": 449.08,
+    "duration": 4.6
+  },
+  {
+    "text": "essentially deleted by this thing and",
+    "start": 450.96,
+    "duration": 4.2
+  },
+  {
+    "text": "then more General versions of word",
+    "start": 453.68,
+    "duration": 3.919
+  },
+  {
+    "text": "processors came about but ultimately it",
+    "start": 455.16,
+    "duration": 4.36
+  },
+  {
+    "text": "was a disruption on top of a disruption",
+    "start": 457.599,
+    "duration": 3.801
+  },
+  {
+    "text": "it was Bob meaf inventing the ethernet",
+    "start": 459.52,
+    "duration": 3.04
+  },
+  {
+    "text": "and the connection of all these",
+    "start": 461.4,
+    "duration": 3.479
+  },
+  {
+    "text": "computers that fundamentally changed",
+    "start": 462.56,
+    "duration": 3.8
+  },
+  {
+    "text": "everything right and suddenly we had",
+    "start": 464.879,
+    "duration": 4.6
+  },
+  {
+    "text": "Netscape and we had Yahoo and we had",
+    "start": 466.36,
+    "duration": 6.519
+  },
+  {
+    "text": "indeed the entire dotom",
+    "start": 469.479,
+    "duration": 3.4
+  },
+  {
+    "text": "bubble not to worry though that was",
+    "start": 473.919,
+    "duration": 4.96
+  },
+  {
+    "text": "quickly rescued by the iPod Facebook and",
+    "start": 476.28,
+    "duration": 5.84
+  },
+  {
+    "text": "indeed Angry",
+    "start": 478.879,
+    "duration": 3.241
+  },
+  {
+    "text": "Birds look this is where we are today",
+    "start": 482.319,
+    "duration": 5.16
+  },
+  {
+    "text": "this is the genomic Revolution today",
+    "start": 485.759,
+    "duration": 3.56
+  },
+  {
+    "text": "this is where we are okay so what I'd",
+    "start": 487.479,
+    "duration": 3.16
+  },
+  {
+    "text": "like for you to consider is what does it",
+    "start": 489.319,
+    "duration": 4.041
+  },
+  {
+    "text": "mean when these dots don't represent the",
+    "start": 490.639,
+    "duration": 4.441
+  },
+  {
+    "text": "individual bases of your genome but the",
+    "start": 493.36,
+    "duration": 4.399
+  },
+  {
+    "text": "connected genomes all across the planet",
+    "start": 495.08,
+    "duration": 4.16
+  },
+  {
+    "text": "so I just recently had to buy life",
+    "start": 497.759,
+    "duration": 4.241
+  },
+  {
+    "text": "insurance and I was required to answer a",
+    "start": 499.24,
+    "duration": 4.919
+  },
+  {
+    "text": "I have never had a genetic test B I've",
+    "start": 502.0,
+    "duration": 3.879
+  },
+  {
+    "text": "had one here you go and C I've had one",
+    "start": 504.159,
+    "duration": 3.32
+  },
+  {
+    "text": "and I'm not telling thankfully I was",
+    "start": 505.879,
+    "duration": 3.361
+  },
+  {
+    "text": "able to answer a and I say that honestly",
+    "start": 507.479,
+    "duration": 4.04
+  },
+  {
+    "text": "in in case my life insurance agent is",
+    "start": 509.24,
+    "duration": 3.919
+  },
+  {
+    "text": "listening uh but what would have",
+    "start": 511.519,
+    "duration": 3.88
+  },
+  {
+    "text": "happened if I had said c consumer",
+    "start": 513.159,
+    "duration": 3.601
+  },
+  {
+    "text": "applications for genomics they will",
+    "start": 515.399,
+    "duration": 2.44
+  },
+  {
+    "text": "flourish you want to see whether you're",
+    "start": 516.76,
+    "duration": 2.8
+  },
+  {
+    "text": "genetically compatible with your",
+    "start": 517.839,
+    "duration": 4.241
+  },
+  {
+    "text": "girlfriend sure DNA sequencing on your",
+    "start": 519.56,
+    "duration": 5.24
+  },
+  {
+    "text": "iPhone there's an app for",
+    "start": 522.08,
+    "duration": 6.04
+  },
+  {
+    "text": "that personalized genomic massage",
+    "start": 524.8,
+    "duration": 5.52
+  },
+  {
+    "text": "anyone there's already a lab today that",
+    "start": 528.12,
+    "duration": 5.64
+  },
+  {
+    "text": "tests for Al 334 of the avpr 1 Gene the",
+    "start": 530.32,
+    "duration": 5.88
+  },
+  {
+    "text": "so-called cheating Jean so anybody",
+    "start": 533.76,
+    "duration": 4.72
+  },
+  {
+    "text": "who's who's here today with your",
+    "start": 536.2,
+    "duration": 4.199
+  },
+  {
+    "text": "significant other just turn over to them",
+    "start": 538.48,
+    "duration": 3.56
+  },
+  {
+    "text": "and swab their mouth send it to the lab",
+    "start": 540.399,
+    "duration": 3.721
+  },
+  {
+    "text": "and you'll know for",
+    "start": 542.04,
+    "duration": 4.64
+  },
+  {
+    "text": "sure do you really want to elect a",
+    "start": 544.12,
+    "duration": 4.24
+  },
+  {
+    "text": "president whose genome suggests",
+    "start": 546.68,
+    "duration": 4.52
+  },
+  {
+    "text": "cardiomyopathy now think of it it's 2016",
+    "start": 548.36,
+    "duration": 4.36
+  },
+  {
+    "text": "and the leading candidate releases not",
+    "start": 551.2,
+    "duration": 3.199
+  },
+  {
+    "text": "only her four years of back tax returns",
+    "start": 552.72,
+    "duration": 3.679
+  },
+  {
+    "text": "but also her personal genome and it",
+    "start": 554.399,
+    "duration": 3.081
+  },
+  {
+    "text": "looks really good and then she",
+    "start": 556.399,
+    "duration": 2.921
+  },
+  {
+    "text": "challenges all of her competitors to do",
+    "start": 557.48,
+    "duration": 3.32
+  },
+  {
+    "text": "the same do you think that's not going",
+    "start": 559.32,
+    "duration": 3.32
+  },
+  {
+    "text": "to happen you think it would have helped",
+    "start": 560.8,
+    "duration": 4.039
+  },
+  {
+    "text": "John",
+    "start": 562.64,
+    "duration": 2.199
+  },
+  {
+    "text": "McCain how many people in the audience",
+    "start": 565.519,
+    "duration": 4.161
+  },
+  {
+    "text": "have the last name Resnik like me raise",
+    "start": 567.8,
+    "duration": 3.68
+  },
+  {
+    "text": "your hand anybody",
+    "start": 569.68,
+    "duration": 4.36
+  },
+  {
+    "text": "nobody typically there's one or two so",
+    "start": 571.48,
+    "duration": 4.24
+  },
+  {
+    "text": "my father's father is one of 10 resnic",
+    "start": 574.04,
+    "duration": 3.08
+  },
+  {
+    "text": "Brothers they all hated each other right",
+    "start": 575.72,
+    "duration": 2.72
+  },
+  {
+    "text": "and they all move to different parts of",
+    "start": 577.12,
+    "duration": 4.32
+  },
+  {
+    "text": "the planet and uh so it's likely that",
+    "start": 578.44,
+    "duration": 4.44
+  },
+  {
+    "text": "I'm related to every resnic that I ever",
+    "start": 581.44,
+    "duration": 3.04
+  },
+  {
+    "text": "meet but I don't know so imagine if my",
+    "start": 582.88,
+    "duration": 3.24
+  },
+  {
+    "text": "genome were deidentified sitting in",
+    "start": 584.48,
+    "duration": 4.32
+  },
+  {
+    "text": "software right and a third cousin's",
+    "start": 586.12,
+    "duration": 4.0
+  },
+  {
+    "text": "genome was also sitting there and there",
+    "start": 588.8,
+    "duration": 2.92
+  },
+  {
+    "text": "was software that could compare these",
+    "start": 590.12,
+    "duration": 3.92
+  },
+  {
+    "text": "two and make these associations not hard",
+    "start": 591.72,
+    "duration": 3.88
+  },
+  {
+    "text": "to imagine my company on software that",
+    "start": 594.04,
+    "duration": 3.64
+  },
+  {
+    "text": "does this right now and so imagine one",
+    "start": 595.6,
+    "duration": 3.84
+  },
+  {
+    "text": "more thing that that software is able to",
+    "start": 597.68,
+    "duration": 4.04
+  },
+  {
+    "text": "ask both parties for Mutual consents",
+    "start": 599.44,
+    "duration": 3.76
+  },
+  {
+    "text": "would you be willing to meet your third",
+    "start": 601.72,
+    "duration": 3.559
+  },
+  {
+    "text": "cousin and if we both say yes voila",
+    "start": 603.2,
+    "duration": 5.8
+  },
+  {
+    "text": "welcome to chromosomally LinkedIn",
+    "start": 605.279,
+    "duration": 3.721
+  },
+  {
+    "text": "right now this is probably a good thing",
+    "start": 610.839,
+    "duration": 4.201
+  },
+  {
+    "text": "right bigger Clan Gatherings and so on",
+    "start": 613.2,
+    "duration": 3.639
+  },
+  {
+    "text": "but maybe it's a bad thing as well how",
+    "start": 615.04,
+    "duration": 3.68
+  },
+  {
+    "text": "many fathers in the room raise your",
+    "start": 616.839,
+    "duration": 4.361
+  },
+  {
+    "text": "hands okay so it just turns experts",
+    "start": 618.72,
+    "duration": 4.52
+  },
+  {
+    "text": "think that 1 to 3% of you are not",
+    "start": 621.2,
+    "duration": 4.72
+  },
+  {
+    "text": "actually the father of your",
+    "start": 623.24,
+    "duration": 6.68
+  },
+  {
+    "text": "child look",
+    "start": 625.92,
+    "duration": 4.0
+  },
+  {
+    "text": "these genomes these 23 chromosomes they",
+    "start": 632.959,
+    "duration": 4.761
+  },
+  {
+    "text": "don't in any way represent the quality",
+    "start": 635.76,
+    "duration": 3.519
+  },
+  {
+    "text": "of our relationships or the nature of",
+    "start": 637.72,
+    "duration": 4.119
+  },
+  {
+    "text": "our society at least not yet and like",
+    "start": 639.279,
+    "duration": 4.921
+  },
+  {
+    "text": "any new technology it it's really in",
+    "start": 641.839,
+    "duration": 3.841
+  },
+  {
+    "text": "Humanity's hands to wield it for the",
+    "start": 644.2,
+    "duration": 4.0
+  },
+  {
+    "text": "betterment of mankind or not and so I",
+    "start": 645.68,
+    "duration": 5.0
+  },
+  {
+    "text": "urge you all to wake up and to tune in",
+    "start": 648.2,
+    "duration": 4.16
+  },
+  {
+    "text": "and to influence the genomic Revolution",
+    "start": 650.68,
+    "duration": 3.399
+  },
+  {
+    "text": "that's happening all around you thank",
+    "start": 652.36,
+    "duration": 4.719
+  },
+  {
+    "text": "you",
+    "start": 654.079,
+    "duration": 3.0
+  }
+]

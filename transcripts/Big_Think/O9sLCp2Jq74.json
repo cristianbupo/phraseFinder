@@ -1,0 +1,6357 @@
+[
+  {
+    "text": "- I remember early in\nthe days of OpenAI,",
+    "start": 0.315,
+    "duration": 1.6
+  },
+  {
+    "text": "when I was covering it,\nI mean people would joke,",
+    "start": 1.915,
+    "duration": 2.23
+  },
+  {
+    "text": "like if you ask any employee\nwhat we're actually trying",
+    "start": 4.145,
+    "duration": 3.17
+  },
+  {
+    "text": "to do here and what AGI is,",
+    "start": 7.315,
+    "duration": 2.0
+  },
+  {
+    "text": "you're gonna get a different answer.",
+    "start": 9.315,
+    "duration": 1.27
+  },
+  {
+    "text": "Yeah, artificial general\nintelligence, AGI,",
+    "start": 10.585,
+    "duration": 2.96
+  },
+  {
+    "text": "this term is not actually defined.",
+    "start": 13.545,
+    "duration": 1.97
+  },
+  {
+    "text": "There's no shared consensus\naround what AGI is-",
+    "start": 15.515,
+    "duration": 3.42
+  },
+  {
+    "text": "and of course there's no consensus around",
+    "start": 18.935,
+    "duration": 2.25
+  },
+  {
+    "text": "what is good for humanity.",
+    "start": 21.185,
+    "duration": 1.83
+  },
+  {
+    "text": "So if you're going to peg\nyour mission to like really,",
+    "start": 23.015,
+    "duration": 2.7
+  },
+  {
+    "text": "really vague terminology\nthat doesn't really have much",
+    "start": 25.715,
+    "duration": 3.2
+  },
+  {
+    "text": "of a definition, what it\nactually means is it's really",
+    "start": 28.915,
+    "duration": 3.12
+  },
+  {
+    "text": "vulnerable to ideological interpretation.",
+    "start": 32.035,
+    "duration": 1.8
+  },
+  {
+    "text": "- Today on Big Think,\nwe're gonna be talking",
+    "start": 39.625,
+    "duration": 1.63
+  },
+  {
+    "text": "with Karen Hao, a contributing\nwriter for The Atlantic",
+    "start": 41.255,
+    "duration": 3.06
+  },
+  {
+    "text": "who focuses on technology\nand its impacts on society.",
+    "start": 44.315,
+    "duration": 3.44
+  },
+  {
+    "text": "In this interview, we're gonna\nbe talking about artificial",
+    "start": 47.755,
+    "duration": 2.22
+  },
+  {
+    "text": "intelligence and specifically OpenAI",
+    "start": 49.975,
+    "duration": 2.5
+  },
+  {
+    "text": "and the events that led to the ouster",
+    "start": 52.475,
+    "duration": 1.64
+  },
+  {
+    "text": "and reinstatement of Sam Altman as CEO.",
+    "start": 54.115,
+    "duration": 2.83
+  },
+  {
+    "text": "Karen, thank you for joining\nus on Big Think today.",
+    "start": 56.945,
+    "duration": 2.68
+  },
+  {
+    "text": "- Thank you so much for having me.",
+    "start": 59.625,
+    "duration": 1.93
+  },
+  {
+    "text": "- So Karen, I'm curious what\nhappened at OpenAI recently?",
+    "start": 61.555,
+    "duration": 4.62
+  },
+  {
+    "text": "- That's a great question.",
+    "start": 68.275,
+    "duration": 1.1
+  },
+  {
+    "text": "So in the last week we\nsort of saw a very dramatic",
+    "start": 71.275,
+    "duration": 4.1
+  },
+  {
+    "text": "ousting of the CEO by the\nboard of the company, the",
+    "start": 76.495,
+    "duration": 5.0
+  },
+  {
+    "text": "revolt of hundreds of\nemployees after this happened,",
+    "start": 82.055,
+    "duration": 2.78
+  },
+  {
+    "text": "and then the reinstatement of the CEO.",
+    "start": 84.835,
+    "duration": 2.56
+  },
+  {
+    "text": "And to sort of understand",
+    "start": 87.395,
+    "duration": 2.25
+  },
+  {
+    "text": "what actually happened in this\nvery chaotic moment, we kind",
+    "start": 89.645,
+    "duration": 4.49
+  },
+  {
+    "text": "of have to first look at the way",
+    "start": 94.135,
+    "duration": 2.2
+  },
+  {
+    "text": "that the company was founded.",
+    "start": 96.335,
+    "duration": 2.18
+  },
+  {
+    "text": "OpenAI is very different from\na traditional tech company in",
+    "start": 98.515,
+    "duration": 3.46
+  },
+  {
+    "text": "that it was actually founded\nas a nonprofit specifically",
+    "start": 101.975,
+    "duration": 3.4
+  },
+  {
+    "text": "to resist the tech industry.",
+    "start": 105.375,
+    "duration": 2.55
+  },
+  {
+    "text": "Elon Musk and Sam Altman\nco-founded the company on the basis",
+    "start": 107.925,
+    "duration": 3.68
+  },
+  {
+    "text": "that artificial intelligence\nis a very important technology",
+    "start": 111.605,
+    "duration": 2.91
+  },
+  {
+    "text": "for our our time, our era,\nand it needs to be shepherded;",
+    "start": 114.515,
+    "duration": 3.82
+  },
+  {
+    "text": "the development of it needs to\nbe shepherded very carefully,",
+    "start": 118.335,
+    "duration": 2.82
+  },
+  {
+    "text": "and therefore it should\nnot actually be attached",
+    "start": 121.155,
+    "duration": 3.2
+  },
+  {
+    "text": "to for-profit motivated companies.",
+    "start": 124.355,
+    "duration": 4.32
+  },
+  {
+    "text": "And so they founded it\nas a nonprofit in 2015,",
+    "start": 128.675,
+    "duration": 2.62
+  },
+  {
+    "text": "a few years down the line\nin 2019, they realized",
+    "start": 131.295,
+    "duration": 3.32
+  },
+  {
+    "text": "that this nonprofit structure\nwas not actually a way,",
+    "start": 134.615,
+    "duration": 3.86
+  },
+  {
+    "text": "it wasn't actually gonna\nhelp them raise enough money",
+    "start": 138.475,
+    "duration": 2.16
+  },
+  {
+    "text": "to perform the specific type\nof AI research that they wanted",
+    "start": 140.635,
+    "duration": 4.14
+  },
+  {
+    "text": "to do, which was going to be\nvery, very capital intensive.",
+    "start": 144.775,
+    "duration": 3.1
+  },
+  {
+    "text": "And so in 2019 they did\nthis really weird thing",
+    "start": 147.875,
+    "duration": 2.82
+  },
+  {
+    "text": "where they nested a for-profit entity",
+    "start": 150.695,
+    "duration": 3.7
+  },
+  {
+    "text": "or what they call a \"capped-profit\" entity",
+    "start": 154.395,
+    "duration": 2.67
+  },
+  {
+    "text": "under the nonprofit.",
+    "start": 157.065,
+    "duration": 1.57
+  },
+  {
+    "text": "And so what we saw with the\nboard's actions firing the CEO,",
+    "start": 158.635,
+    "duration": 4.68
+  },
+  {
+    "text": "Sam Altman, is the nonprofit\nhas a board of directors",
+    "start": 163.315,
+    "duration": 4.3
+  },
+  {
+    "text": "that are beholden not to shareholders,",
+    "start": 167.615,
+    "duration": 2.16
+  },
+  {
+    "text": "but to a original, the original\nmission of OpenAI, which is",
+    "start": 170.675,
+    "duration": 4.68
+  },
+  {
+    "text": "to try to create artificial\ngeneral intelligence",
+    "start": 175.355,
+    "duration": 3.91
+  },
+  {
+    "text": "for the benefit of humanity.",
+    "start": 179.265,
+    "duration": 2.32
+  },
+  {
+    "text": "And so the board, they\nhaven't actually specified",
+    "start": 181.585,
+    "duration": 4.28
+  },
+  {
+    "text": "why they fired the CEO,",
+    "start": 185.865,
+    "duration": 1.36
+  },
+  {
+    "text": "but they said that they acted\nwith the mission in mind.",
+    "start": 187.225,
+    "duration": 4.0
+  },
+  {
+    "text": "So absolutely nothing related to, for sort",
+    "start": 191.225,
+    "duration": 2.98
+  },
+  {
+    "text": "of fiduciary responsibility,\nnothing related",
+    "start": 194.205,
+    "duration": 2.22
+  },
+  {
+    "text": "to the customers that OpenAI has,",
+    "start": 196.425,
+    "duration": 2.48
+  },
+  {
+    "text": "but specifically they felt",
+    "start": 198.905,
+    "duration": 1.54
+  },
+  {
+    "text": "that the company was no\nlonger headed in the direction",
+    "start": 200.445,
+    "duration": 3.04
+  },
+  {
+    "text": "that they thought was\naligned with the mission and",
+    "start": 203.485,
+    "duration": 2.48
+  },
+  {
+    "text": "therefore they ousted the CEO.",
+    "start": 205.965,
+    "duration": 2.87
+  },
+  {
+    "text": "- There's so much that even just goes into",
+    "start": 208.835,
+    "duration": 2.25
+  },
+  {
+    "text": "what you were just talking about.",
+    "start": 211.085,
+    "duration": 1.18
+  },
+  {
+    "text": "I'm curious to, to go back to\ntalking about this nonprofit",
+    "start": 212.265,
+    "duration": 4.01
+  },
+  {
+    "text": "genesis of OpenAI and sort\nof how that came to be.",
+    "start": 216.275,
+    "duration": 4.43
+  },
+  {
+    "text": "Oh, you, you mentioned sort\nof it was built around trying",
+    "start": 220.705,
+    "duration": 3.84
+  },
+  {
+    "text": "to not have profit motives necessarily,",
+    "start": 224.545,
+    "duration": 2.32
+  },
+  {
+    "text": "but sort of just figure out a safe way",
+    "start": 226.865,
+    "duration": 2.02
+  },
+  {
+    "text": "to shepherd the creation\nof artificial intelligence",
+    "start": 228.885,
+    "duration": 2.56
+  },
+  {
+    "text": "as tools for humanity.",
+    "start": 231.445,
+    "duration": 1.52
+  },
+  {
+    "text": "I would love it if you could\nwalk me through the origins",
+    "start": 232.965,
+    "duration": 2.34
+  },
+  {
+    "text": "of OpenAI as an organization.",
+    "start": 235.305,
+    "duration": 2.7
+  },
+  {
+    "text": "- Absolutely. So one of the things to sort",
+    "start": 238.005,
+    "duration": 1.76
+  },
+  {
+    "text": "of understand about AI\nresearch in general is",
+    "start": 239.765,
+    "duration": 3.34
+  },
+  {
+    "text": "AI is not actually new.",
+    "start": 243.105,
+    "duration": 1.65
+  },
+  {
+    "text": "It's been around since the '50s,",
+    "start": 244.755,
+    "duration": 2.19
+  },
+  {
+    "text": "and it was originally an\nacademic field that then",
+    "start": 246.945,
+    "duration": 3.17
+  },
+  {
+    "text": "tech giants in Silicon\nValley started seeing massive",
+    "start": 250.115,
+    "duration": 2.85
+  },
+  {
+    "text": "commercial potential for,",
+    "start": 252.965,
+    "duration": 2.34
+  },
+  {
+    "text": "and so they kind of\nplucked this technology out",
+    "start": 255.305,
+    "duration": 2.42
+  },
+  {
+    "text": "of the scientific academic realm",
+    "start": 257.725,
+    "duration": 2.34
+  },
+  {
+    "text": "and then tried to start\ndeploying it into products.",
+    "start": 260.065,
+    "duration": 3.04
+  },
+  {
+    "text": "And the thing that's happened\nin the last decade in",
+    "start": 263.105,
+    "duration": 2.62
+  },
+  {
+    "text": "particular is that there's\nbeen an enormous shift in the",
+    "start": 265.725,
+    "duration": 2.8
+  },
+  {
+    "text": "field where because tech\ngiants have realized",
+    "start": 268.525,
+    "duration": 3.32
+  },
+  {
+    "text": "that this technology can be\nvery, very lucrative, Google",
+    "start": 271.845,
+    "duration": 3.74
+  },
+  {
+    "text": "and Facebook, they use it\nfor things like ad targeting.",
+    "start": 275.585,
+    "duration": 3.33
+  },
+  {
+    "text": "They have increasingly pulled more",
+    "start": 278.915,
+    "duration": 2.13
+  },
+  {
+    "text": "and more researchers\nfrom the academic field,",
+    "start": 281.045,
+    "duration": 3.07
+  },
+  {
+    "text": "from universities into their corporations",
+    "start": 284.115,
+    "duration": 2.71
+  },
+  {
+    "text": "to develop this technology,\nnot for scientific discovery,",
+    "start": 286.825,
+    "duration": 4.36
+  },
+  {
+    "text": "not for any goal other than specifically",
+    "start": 291.185,
+    "duration": 2.58
+  },
+  {
+    "text": "that they would like to commercialize",
+    "start": 293.765,
+    "duration": 1.66
+  },
+  {
+    "text": "and continue to make more money.",
+    "start": 295.425,
+    "duration": 1.68
+  },
+  {
+    "text": "So the reason why OpenAI was\nfounded as a nonprofit, I-",
+    "start": 297.105,
+    "duration": 3.44
+  },
+  {
+    "text": "the story goes that Elon Musk\nin particular was very worried",
+    "start": 300.545,
+    "duration": 3.66
+  },
+  {
+    "text": "about Google because\nGoogle had been early,",
+    "start": 304.205,
+    "duration": 4.42
+  },
+  {
+    "text": "an early mover in recognizing\nthe commercial potential",
+    "start": 308.625,
+    "duration": 2.94
+  },
+  {
+    "text": "of AI, started building\nthis really big lab",
+    "start": 311.565,
+    "duration": 4.02
+  },
+  {
+    "text": "and kind of poaching all\nof the top talent from all",
+    "start": 315.585,
+    "duration": 3.38
+  },
+  {
+    "text": "around the world and trying",
+    "start": 318.965,
+    "duration": 2.36
+  },
+  {
+    "text": "to basically establish a\nstronghold in AI leadership.",
+    "start": 321.325,
+    "duration": 3.98
+  },
+  {
+    "text": "And Elon Musk felt that this\nwas not the appropriate way",
+    "start": 325.305,
+    "duration": 5.0
+  },
+  {
+    "text": "to develop AI",
+    "start": 330.385,
+    "duration": 1.38
+  },
+  {
+    "text": "because AI could be very beneficial for",
+    "start": 331.765,
+    "duration": 4.47
+  },
+  {
+    "text": "many different things, not\njust for commercial products.",
+    "start": 336.235,
+    "duration": 4.19
+  },
+  {
+    "text": "And that actually, if the\ndevelopment of AI were attached",
+    "start": 340.425,
+    "duration": 2.94
+  },
+  {
+    "text": "to commercialization, it\ncould in fact also be harmful",
+    "start": 343.365,
+    "duration": 3.07
+  },
+  {
+    "text": "because of things that we\nwere already sort of starting",
+    "start": 346.435,
+    "duration": 3.97
+  },
+  {
+    "text": "to see at the time around social media",
+    "start": 350.405,
+    "duration": 2.46
+  },
+  {
+    "text": "and sort of for-profit\nincentives corrupting the use",
+    "start": 352.865,
+    "duration": 3.46
+  },
+  {
+    "text": "of a powerful technology.",
+    "start": 356.325,
+    "duration": 1.24
+  },
+  {
+    "text": "And so that was ultimately\nthe vision this,",
+    "start": 358.785,
+    "duration": 2.61
+  },
+  {
+    "text": "this nonprofit vision.",
+    "start": 361.395,
+    "duration": 1.75
+  },
+  {
+    "text": "But the thing that sort of\nthwarted, I guess this vision",
+    "start": 363.145,
+    "duration": 4.76
+  },
+  {
+    "text": "is the fact that when OpenAI went",
+    "start": 367.905,
+    "duration": 3.24
+  },
+  {
+    "text": "to hire its first founding team-",
+    "start": 371.145,
+    "duration": 2.88
+  },
+  {
+    "text": "its founding team had 10 members-",
+    "start": 374.025,
+    "duration": 2.13
+  },
+  {
+    "text": "they specifically brought on this",
+    "start": 376.155,
+    "duration": 2.97
+  },
+  {
+    "text": "researcher called Ilya Sutskever,",
+    "start": 380.485,
+    "duration": 2.06
+  },
+  {
+    "text": "who is now OpenAI's chief\nscientist. At the time, he was",
+    "start": 382.545,
+    "duration": 3.86
+  },
+  {
+    "text": "at Google and he already had\na very prestigious reputation.",
+    "start": 386.405,
+    "duration": 4.3
+  },
+  {
+    "text": "He was the co-author of a\ngroundbreaking AI research paper",
+    "start": 390.705,
+    "duration": 3.94
+  },
+  {
+    "text": "that had actually sparked a lot",
+    "start": 394.645,
+    "duration": 1.36
+  },
+  {
+    "text": "of the commercialization\nefforts around this technology.",
+    "start": 396.005,
+    "duration": 2.36
+  },
+  {
+    "text": "And when they brought him on",
+    "start": 399.625,
+    "duration": 2.21
+  },
+  {
+    "text": "Ilya Sutskever had a very\nparticular philosophy",
+    "start": 401.835,
+    "duration": 3.79
+  },
+  {
+    "text": "around AI research,\nwhich was that in order",
+    "start": 405.625,
+    "duration": 2.7
+  },
+  {
+    "text": "to see the full potential\nof this technology, we need",
+    "start": 408.325,
+    "duration": 3.36
+  },
+  {
+    "text": "to scale it dramatically.",
+    "start": 411.685,
+    "duration": 2.34
+  },
+  {
+    "text": "So there were sort",
+    "start": 414.025,
+    "duration": 1.34
+  },
+  {
+    "text": "of different competing\nphilosophies at the time.",
+    "start": 415.365,
+    "duration": 2.06
+  },
+  {
+    "text": "Do we actually have the\ntechniques for AI, advanced AI",
+    "start": 417.425,
+    "duration": 4.4
+  },
+  {
+    "text": "or do we actually need to\ncreate more techniques?",
+    "start": 421.825,
+    "duration": 3.8
+  },
+  {
+    "text": "And he thought we have\nit, we just have to sort",
+    "start": 425.625,
+    "duration": 3.26
+  },
+  {
+    "text": "of explode the scale, feed\nevermore data, evermore",
+    "start": 428.885,
+    "duration": 5.0
+  },
+  {
+    "text": "computer chips into these AI models",
+    "start": 434.085,
+    "duration": 2.58
+  },
+  {
+    "text": "and that's when we'll start\nseeing real emergent intelligent",
+    "start": 436.665,
+    "duration": 4.3
+  },
+  {
+    "text": "behaviors in these digital technologies.",
+    "start": 440.965,
+    "duration": 2.34
+  },
+  {
+    "text": "So when he made that decision",
+    "start": 443.305,
+    "duration": 1.8
+  },
+  {
+    "text": "and when OpenAI set on that path,",
+    "start": 445.105,
+    "duration": 2.72
+  },
+  {
+    "text": "that's when they started\nrunning into financial issues",
+    "start": 447.825,
+    "duration": 3.0
+  },
+  {
+    "text": "and realized the nonprofit\nwas no longer viable.",
+    "start": 450.825,
+    "duration": 2.02
+  },
+  {
+    "text": "- I think it's interesting\nthat that was sort",
+    "start": 453.895,
+    "duration": 2.8
+  },
+  {
+    "text": "of a a tension point.",
+    "start": 456.695,
+    "duration": 1.04
+  },
+  {
+    "text": "They had this nonprofit mention to sort",
+    "start": 457.735,
+    "duration": 2.68
+  },
+  {
+    "text": "of make this technology and,",
+    "start": 460.415,
+    "duration": 2.58
+  },
+  {
+    "text": "and really the 'open' in their\nname sort of goes back to a lot",
+    "start": 462.995,
+    "duration": 2.74
+  },
+  {
+    "text": "of things like open source\nI imagine as as part",
+    "start": 465.735,
+    "duration": 3.32
+  },
+  {
+    "text": "of the initial founding,",
+    "start": 469.055,
+    "duration": 1.48
+  },
+  {
+    "text": "but then they realized that\nthey had to have some sort",
+    "start": 470.535,
+    "duration": 2.26
+  },
+  {
+    "text": "of commercial arm for the technology.",
+    "start": 472.795,
+    "duration": 2.34
+  },
+  {
+    "text": "I'm curious when that\ndecision was made, how many",
+    "start": 476.355,
+    "duration": 3.62
+  },
+  {
+    "text": "of the players that were involved in",
+    "start": 479.975,
+    "duration": 1.68
+  },
+  {
+    "text": "what happened just recently\nwere also at OpenAI at the time",
+    "start": 481.655,
+    "duration": 3.36
+  },
+  {
+    "text": "when they made that decision",
+    "start": 485.015,
+    "duration": 1.22
+  },
+  {
+    "text": "to create the commercial\nentity, the for-profit en entity",
+    "start": 486.235,
+    "duration": 3.3
+  },
+  {
+    "text": "underneath the nonprofit.",
+    "start": 489.535,
+    "duration": 1.04
+  },
+  {
+    "text": "- There were sort of three\nmain characters at OpenAI",
+    "start": 491.845,
+    "duration": 3.01
+  },
+  {
+    "text": "for this week of events:",
+    "start": 494.855,
+    "duration": 2.49
+  },
+  {
+    "text": "There's the CEO Sam Altman,",
+    "start": 497.345,
+    "duration": 2.24
+  },
+  {
+    "text": "there's the chief\nscientist Ilya Sutskever,",
+    "start": 499.585,
+    "duration": 1.95
+  },
+  {
+    "text": "and then there's the\npresident Greg Brockman.",
+    "start": 501.535,
+    "duration": 2.24
+  },
+  {
+    "text": "All three of them were the ones\nthat created this nonprofit,",
+    "start": 503.775,
+    "duration": 4.06
+  },
+  {
+    "text": "capped-profit model.",
+    "start": 508.895,
+    "duration": 1.76
+  },
+  {
+    "text": "So they were the architects of it.",
+    "start": 510.655,
+    "duration": 1.88
+  },
+  {
+    "text": "And at the time I had actually\ninterviewed Greg Brockman",
+    "start": 512.535,
+    "duration": 4.66
+  },
+  {
+    "text": "and Ilya Sutskever about a few months",
+    "start": 517.195,
+    "duration": 2.52
+  },
+  {
+    "text": "after they had created that model.",
+    "start": 519.715,
+    "duration": 1.66
+  },
+  {
+    "text": "And they were very sincere\nabout this idea that",
+    "start": 521.375,
+    "duration": 5.0
+  },
+  {
+    "text": "even though they needed",
+    "start": 526.545,
+    "duration": 1.49
+  },
+  {
+    "text": "to change the nonprofit\nstructure a little bit in order",
+    "start": 528.035,
+    "duration": 3.4
+  },
+  {
+    "text": "to raise enough capital for\nthe things that they wanted",
+    "start": 531.435,
+    "duration": 1.84
+  },
+  {
+    "text": "to do, that this was somehow\nsort of the perfect solve.",
+    "start": 533.275,
+    "duration": 3.88
+  },
+  {
+    "text": "Like that they were creating\nthis clever solution",
+    "start": 537.155,
+    "duration": 3.35
+  },
+  {
+    "text": "to the central problem\nof wanting to raise money",
+    "start": 540.505,
+    "duration": 2.36
+  },
+  {
+    "text": "but also be beholden to the mission.",
+    "start": 542.865,
+    "duration": 2.4
+  },
+  {
+    "text": "And what's interesting is,",
+    "start": 545.265,
+    "duration": 1.42
+  },
+  {
+    "text": "I mean now in hindsight we can say",
+    "start": 546.685,
+    "duration": 2.44
+  },
+  {
+    "text": "that it was this very structure that kind",
+    "start": 549.125,
+    "duration": 2.08
+  },
+  {
+    "text": "of created a very dramatic\nousting of the CEO",
+    "start": 551.205,
+    "duration": 3.78
+  },
+  {
+    "text": "and then the reinstatement of him",
+    "start": 554.985,
+    "duration": 1.64
+  },
+  {
+    "text": "and now a, a lot of\nuncertainty in the air about",
+    "start": 556.625,
+    "duration": 2.62
+  },
+  {
+    "text": "what the future of the\ncompany will continue to be.",
+    "start": 559.245,
+    "duration": 2.82
+  },
+  {
+    "text": "But that was the original\nintention was they felt",
+    "start": 562.065,
+    "duration": 3.45
+  },
+  {
+    "text": "that they needed to change\nthe structure in order",
+    "start": 565.515,
+    "duration": 2.45
+  },
+  {
+    "text": "to get the money, but\nthat they didn't want",
+    "start": 567.965,
+    "duration": 1.96
+  },
+  {
+    "text": "to actually change the mission.",
+    "start": 569.925,
+    "duration": 2.32
+  },
+  {
+    "text": "- So were there any consequences\nwhen OpenAI switched from",
+    "start": 573.105,
+    "duration": 2.7
+  },
+  {
+    "text": "being a nonprofit to having\nthe capped-profit entity",
+    "start": 575.805,
+    "duration": 3.21
+  },
+  {
+    "text": "underneath the nonprofit?",
+    "start": 579.015,
+    "duration": 1.39
+  },
+  {
+    "text": "- I think the main consequence\nwas actually just that",
+    "start": 581.545,
+    "duration": 4.4
+  },
+  {
+    "text": "employees suddenly were\ngetting higher compensation.",
+    "start": 585.945,
+    "duration": 2.8
+  },
+  {
+    "text": "So, so there was, you know,\nthere was a little bit",
+    "start": 590.605,
+    "duration": 2.74
+  },
+  {
+    "text": "of controversy within the company.",
+    "start": 593.345,
+    "duration": 1.2
+  },
+  {
+    "text": "There were people that were,",
+    "start": 594.545,
+    "duration": 1.15
+  },
+  {
+    "text": "that had joined OpenAI on the premise",
+    "start": 595.695,
+    "duration": 2.29
+  },
+  {
+    "text": "that I would be a nonprofit.",
+    "start": 597.985,
+    "duration": 1.26
+  },
+  {
+    "text": "So they were worried about",
+    "start": 599.245,
+    "duration": 1.97
+  },
+  {
+    "text": "what is this legal structure\nthat is suddenly emerging?",
+    "start": 601.215,
+    "duration": 1.97
+  },
+  {
+    "text": "What do you mean that we're\nturning into a for-profit,",
+    "start": 603.185,
+    "duration": 2.8
+  },
+  {
+    "text": "capped-profit kind of hybrid.",
+    "start": 605.985,
+    "duration": 1.28
+  },
+  {
+    "text": "But one of the things that\nthis kind of model enabled",
+    "start": 608.645,
+    "duration": 3.94
+  },
+  {
+    "text": "was that OpenAI started paying\nemployees more. Within the",
+    "start": 613.925,
+    "duration": 4.1
+  },
+  {
+    "text": "world of AI research,",
+    "start": 618.025,
+    "duration": 1.73
+  },
+  {
+    "text": "there really actually aren't\nthat many senior researchers",
+    "start": 619.755,
+    "duration": 3.19
+  },
+  {
+    "text": "because this field, even\nthough it's been around",
+    "start": 622.945,
+    "duration": 1.86
+  },
+  {
+    "text": "for decades, there aren't\nthat many people in the world",
+    "start": 624.805,
+    "duration": 4.05
+  },
+  {
+    "text": "that have the kind of\nskills that they need",
+    "start": 628.855,
+    "duration": 1.93
+  },
+  {
+    "text": "to develop this kind of technology",
+    "start": 630.785,
+    "duration": 1.66
+  },
+  {
+    "text": "and that have also\nspecifically worked in kind",
+    "start": 632.445,
+    "duration": 2.54
+  },
+  {
+    "text": "of environments where they\nknow how to commercialize",
+    "start": 634.985,
+    "duration": 2.24
+  },
+  {
+    "text": "and productize it as well.",
+    "start": 637.225,
+    "duration": 1.98
+  },
+  {
+    "text": "And so OpenAI was actually\nlosing a lot of its talent,",
+    "start": 639.205,
+    "duration": 4.05
+  },
+  {
+    "text": "like it would hire talent,\ntry to retain them,",
+    "start": 643.255,
+    "duration": 2.37
+  },
+  {
+    "text": "but then lose the talent because Google",
+    "start": 645.625,
+    "duration": 2.78
+  },
+  {
+    "text": "or DeepMind, which were two\ndifferent entities at the time,",
+    "start": 648.405,
+    "duration": 2.7
+  },
+  {
+    "text": "were just paying more.",
+    "start": 652.375,
+    "duration": 2.47
+  },
+  {
+    "text": "And by changing into this\nweird hybrid structure",
+    "start": 654.845,
+    "duration": 4.56
+  },
+  {
+    "text": "and raising venture funding,\nthey were able to issue stocks",
+    "start": 659.405,
+    "duration": 4.6
+  },
+  {
+    "text": "and start giving much higher\ncompensation packages based",
+    "start": 664.005,
+    "duration": 3.96
+  },
+  {
+    "text": "not just in cash but also in stocks",
+    "start": 667.965,
+    "duration": 2.44
+  },
+  {
+    "text": "to this capped-profit arm.",
+    "start": 670.405,
+    "duration": 2.0
+  },
+  {
+    "text": "So that was honestly\nthe main consequence in",
+    "start": 672.405,
+    "duration": 3.69
+  },
+  {
+    "text": "that moment in time was\nthey finally were able",
+    "start": 676.095,
+    "duration": 2.89
+  },
+  {
+    "text": "to compete on talent.",
+    "start": 678.985,
+    "duration": 1.92
+  },
+  {
+    "text": "But then of course with\nkind of this model,",
+    "start": 682.325,
+    "duration": 4.82
+  },
+  {
+    "text": "the reason why they set it up was so",
+    "start": 688.085,
+    "duration": 1.7
+  },
+  {
+    "text": "that they could get the investment in.",
+    "start": 689.785,
+    "duration": 1.46
+  },
+  {
+    "text": "And once you start getting\ninvestment in the biggest",
+    "start": 691.245,
+    "duration": 3.06
+  },
+  {
+    "text": "investor of which was Microsoft,",
+    "start": 694.305,
+    "duration": 1.46
+  },
+  {
+    "text": "that's when you start also having",
+    "start": 695.765,
+    "duration": 1.53
+  },
+  {
+    "text": "strings attached to the money.",
+    "start": 697.295,
+    "duration": 1.35
+  },
+  {
+    "text": "And that's when the kind\nof move towards more",
+    "start": 698.645,
+    "duration": 4.06
+  },
+  {
+    "text": "and more commercialization and less",
+    "start": 702.705,
+    "duration": 1.68
+  },
+  {
+    "text": "and less research\nstarted happening.",
+    "start": 704.385,
+    "duration": 2.72
+  },
+  {
+    "text": "- So who is Sam Altman",
+    "start": 707.965,
+    "duration": 1.48
+  },
+  {
+    "text": "and how does his role as CEO sort",
+    "start": 709.445,
+    "duration": 2.86
+  },
+  {
+    "text": "of just play into this picture and the,",
+    "start": 712.305,
+    "duration": 1.92
+  },
+  {
+    "text": "and potentially to the\nboard's decision to let him go",
+    "start": 714.225,
+    "duration": 2.88
+  },
+  {
+    "text": "and then eventually rehire him?",
+    "start": 717.105,
+    "duration": 1.84
+  },
+  {
+    "text": "- Before Altman was CEO of\nOpenAI, he was president",
+    "start": 718.945,
+    "duration": 4.46
+  },
+  {
+    "text": "of Y Combinator, which is\narguably the most famous",
+    "start": 723.405,
+    "duration": 2.96
+  },
+  {
+    "text": "Silicon Valley startup incubator.",
+    "start": 727.835,
+    "duration": 2.37
+  },
+  {
+    "text": "And basically as the head\nhe became the president.",
+    "start": 731.105,
+    "duration": 3.58
+  },
+  {
+    "text": "I mean- he inherited\nit from Paul Graham",
+    "start": 735.605,
+    "duration": 2.46
+  },
+  {
+    "text": "who was the original\nfounder of Y Combinator.",
+    "start": 738.065,
+    "duration": 1.96
+  },
+  {
+    "text": "And at the time when he\nwas hired as the president,",
+    "start": 740.025,
+    "duration": 2.44
+  },
+  {
+    "text": "he was really young, I\ncan't remember exactly,",
+    "start": 742.465,
+    "duration": 2.32
+  },
+  {
+    "text": "but he was early thirties I believe.",
+    "start": 744.785,
+    "duration": 2.78
+  },
+  {
+    "text": "And people were really surprised.",
+    "start": 747.565,
+    "duration": 1.04
+  },
+  {
+    "text": "They were like, \"Who is this guy?\"",
+    "start": 748.605,
+    "duration": 1.2
+  },
+  {
+    "text": "And then he rapidly made\na name for himself as one",
+    "start": 750.665,
+    "duration": 3.22
+  },
+  {
+    "text": "of the most kind of legendary investors",
+    "start": 753.885,
+    "duration": 2.79
+  },
+  {
+    "text": "that was really good\nat taking startup ideas",
+    "start": 756.675,
+    "duration": 2.75
+  },
+  {
+    "text": "and then scaling them\nmassively into successful",
+    "start": 759.425,
+    "duration": 4.3
+  },
+  {
+    "text": "aggressive tech behemoths.",
+    "start": 764.615,
+    "duration": 3.11
+  },
+  {
+    "text": "And so you can kind of see",
+    "start": 768.785,
+    "duration": 2.85
+  },
+  {
+    "text": "with this particular\ncareer path how his imprint",
+    "start": 771.635,
+    "duration": 4.93
+  },
+  {
+    "text": "has been left on OpenAI because OpenAI",
+    "start": 777.745,
+    "duration": 2.72
+  },
+  {
+    "text": "before he became officially the CEO,",
+    "start": 780.465,
+    "duration": 2.06
+  },
+  {
+    "text": "even though he co-founded it,\nhe wasn't taking very active",
+    "start": 782.525,
+    "duration": 3.72
+  },
+  {
+    "text": "of a role until 2019 when he officially",
+    "start": 786.245,
+    "duration": 3.24
+  },
+  {
+    "text": "stepped into the CEO role.",
+    "start": 789.485,
+    "duration": 2.14
+  },
+  {
+    "text": "And before 2019 OpenAI was, it was,",
+    "start": 791.625,
+    "duration": 3.1
+  },
+  {
+    "text": "I mean it was a nonprofit,\nit was basically kind",
+    "start": 794.725,
+    "duration": 2.2
+  },
+  {
+    "text": "of just academic, like it kind",
+    "start": 796.925,
+    "duration": 2.28
+  },
+  {
+    "text": "of just operated like a university lab.",
+    "start": 799.205,
+    "duration": 2.38
+  },
+  {
+    "text": "People saw it as an alternative\nto being a professor",
+    "start": 801.585,
+    "duration": 3.71
+  },
+  {
+    "text": "where you get to do this like fun research",
+    "start": 805.295,
+    "duration": 3.49
+  },
+  {
+    "text": "and there's not really\nany strings attached-",
+    "start": 808.785,
+    "duration": 2.04
+  },
+  {
+    "text": "and you also get paid a lot more.",
+    "start": 810.825,
+    "duration": 1.76
+  },
+  {
+    "text": "And the moment that Sam\njoins the company in 2019,",
+    "start": 812.585,
+    "duration": 3.8
+  },
+  {
+    "text": "or the nonprofit at the time in 2019,",
+    "start": 816.385,
+    "duration": 2.56
+  },
+  {
+    "text": "that's when you start seeing the push",
+    "start": 818.945,
+    "duration": 2.92
+  },
+  {
+    "text": "to commercialize the push to scale.",
+    "start": 821.865,
+    "duration": 1.94
+  },
+  {
+    "text": "You know, like after ChatGPT,",
+    "start": 824.765,
+    "duration": 2.5
+  },
+  {
+    "text": "OpenAI now has a growth\nteam that's dedicated",
+    "start": 827.265,
+    "duration": 3.4
+  },
+  {
+    "text": "to growing its user base.",
+    "start": 830.665,
+    "duration": 2.1
+  },
+  {
+    "text": "I mean this is, you would never see that",
+    "start": 832.765,
+    "duration": 1.72
+  },
+  {
+    "text": "with a academically focused\nor research focused lab,",
+    "start": 834.485,
+    "duration": 2.54
+  },
+  {
+    "text": "but it's certainly kind of like an iconic",
+    "start": 837.025,
+    "duration": 3.62
+  },
+  {
+    "text": "feature of kind of the\ntypes of startups that",
+    "start": 842.835,
+    "duration": 4.37
+  },
+  {
+    "text": "Altman was shepherding\ninto the world as president",
+    "start": 847.205,
+    "duration": 4.0
+  },
+  {
+    "text": "of of YC.",
+    "start": 851.205,
+    "duration": 1.78
+  },
+  {
+    "text": "So I think he is a bit\nof a polarizing figure.",
+    "start": 852.985,
+    "duration": 4.1
+  },
+  {
+    "text": "When I've been interviewing\nemployees, current",
+    "start": 857.085,
+    "duration": 3.64
+  },
+  {
+    "text": "and former employees,\nthis has sort of come up",
+    "start": 860.725,
+    "duration": 2.32
+  },
+  {
+    "text": "as some people see him as you know, one",
+    "start": 863.045,
+    "duration": 2.9
+  },
+  {
+    "text": "of the most legendary\npeople within the valley",
+    "start": 865.945,
+    "duration": 4.1
+  },
+  {
+    "text": "and just love and follow his leadership.",
+    "start": 870.045,
+    "duration": 4.39
+  },
+  {
+    "text": "Other people find him\nvery difficult to read",
+    "start": 874.435,
+    "duration": 4.69
+  },
+  {
+    "text": "and very difficult to pin down in terms of",
+    "start": 879.125,
+    "duration": 2.06
+  },
+  {
+    "text": "what he actually believes as a person,",
+    "start": 881.185,
+    "duration": 1.65
+  },
+  {
+    "text": "which makes them very nervous.",
+    "start": 882.835,
+    "duration": 1.45
+  },
+  {
+    "text": "And some people would go as far as to say",
+    "start": 884.285,
+    "duration": 2.02
+  },
+  {
+    "text": "that he's a little bit\nduplicitous in this regard.",
+    "start": 886.305,
+    "duration": 2.36
+  },
+  {
+    "text": "And it is even for me, like\nI find it very difficult",
+    "start": 889.885,
+    "duration": 3.72
+  },
+  {
+    "text": "to pin him down and, and what\ndoes he ultimately believe",
+    "start": 893.605,
+    "duration": 2.64
+  },
+  {
+    "text": "and so did he rapidly, you know,",
+    "start": 897.105,
+    "duration": 3.59
+  },
+  {
+    "text": "start commercializing OpenAI",
+    "start": 900.695,
+    "duration": 1.67
+  },
+  {
+    "text": "because he believes truly in\nthe techno-optimist narrative",
+    "start": 902.365,
+    "duration": 4.34
+  },
+  {
+    "text": "of reaching this, this is\nhow you reach beneficial AGI",
+    "start": 906.705,
+    "duration": 3.76
+  },
+  {
+    "text": "or is it actually a bit of a habit?",
+    "start": 910.465,
+    "duration": 2.68
+  },
+  {
+    "text": "You know, he's been doing\nthis for so long that",
+    "start": 913.145,
+    "duration": 2.76
+  },
+  {
+    "text": "by default he just gravitates towards",
+    "start": 915.905,
+    "duration": 2.26
+  },
+  {
+    "text": "what he knows what he's good at.",
+    "start": 918.165,
+    "duration": 1.52
+  },
+  {
+    "text": "Another kind of example of\nthis is when he joined OpenAI,",
+    "start": 920.955,
+    "duration": 2.81
+  },
+  {
+    "text": "he started a fund for OpenAI\nto invest in other startups.",
+    "start": 923.765,
+    "duration": 4.64
+  },
+  {
+    "text": "And at the time people were like,",
+    "start": 928.405,
+    "duration": 1.34
+  },
+  {
+    "text": "\"Why is OpenAI investing in\nother startups when they",
+    "start": 929.745,
+    "duration": 2.26
+  },
+  {
+    "text": "themselves are not profitable?\"",
+    "start": 932.005,
+    "duration": 1.08
+  },
+  {
+    "text": "And it's, \"Well Sam Altman's an investor!\"",
+    "start": 933.085,
+    "duration": 2.66
+  },
+  {
+    "text": "So like, it's just sort\nof habitual for him.",
+    "start": 935.745,
+    "duration": 2.02
+  },
+  {
+    "text": "I can't personally say\nlike what he truly believes",
+    "start": 938.685,
+    "duration": 2.48
+  },
+  {
+    "text": "as a person or what his\nvalues are as a person,",
+    "start": 941.165,
+    "duration": 1.54
+  },
+  {
+    "text": "but certainly from his career you can see",
+    "start": 942.705,
+    "duration": 1.93
+  },
+  {
+    "text": "that it makes a lot of\nsense why OpenAI has headed",
+    "start": 944.635,
+    "duration": 2.73
+  },
+  {
+    "text": "in the way that it has.",
+    "start": 947.365,
+    "duration": 1.08
+  },
+  {
+    "text": "- And I'm curious to talk\nabout Greg Brockman a bit.",
+    "start": 949.415,
+    "duration": 2.56
+  },
+  {
+    "text": "You know, he's a, he's been around",
+    "start": 951.975,
+    "duration": 2.66
+  },
+  {
+    "text": "technology in Silicon Valley for a while.",
+    "start": 955.885,
+    "duration": 1.83
+  },
+  {
+    "text": "He was part of an, one of the\noriginal members of Stripe,",
+    "start": 957.715,
+    "duration": 3.56
+  },
+  {
+    "text": "I believe he helped ship some",
+    "start": 961.275,
+    "duration": 1.16
+  },
+  {
+    "text": "of the early versions of that product.",
+    "start": 962.435,
+    "duration": 1.66
+  },
+  {
+    "text": "And you know, one of the pieces\nof commentary that I saw was",
+    "start": 964.095,
+    "duration": 2.62
+  },
+  {
+    "text": "that if you're building a ChatGPT wrapper",
+    "start": 966.715,
+    "duration": 2.48
+  },
+  {
+    "text": "and you're using Stripe\nfor your payment system,",
+    "start": 969.195,
+    "duration": 1.95
+  },
+  {
+    "text": "it's very likely",
+    "start": 971.145,
+    "duration": 1.13
+  },
+  {
+    "text": "that Greg Brockman built\nlike 50% of your application.",
+    "start": 972.275,
+    "duration": 3.54
+  },
+  {
+    "text": "So I'm curious to know\nmore about him and his role",
+    "start": 975.815,
+    "duration": 2.88
+  },
+  {
+    "text": "in what happened,",
+    "start": 978.695,
+    "duration": 1.48
+  },
+  {
+    "text": "and just how people conceive\nof him as a technologist,",
+    "start": 980.175,
+    "duration": 4.52
+  },
+  {
+    "text": "but also in his role in OpenAI.",
+    "start": 984.695,
+    "duration": 1.78
+  },
+  {
+    "text": "- Greg Bachman is very\nsimilar to Sam in that",
+    "start": 987.585,
+    "duration": 5.0
+  },
+  {
+    "text": "he also has had his\nfull career in startups.",
+    "start": 992.815,
+    "duration": 3.82
+  },
+  {
+    "text": "He went originally went to\nHarvard, dropped out, then went",
+    "start": 997.735,
+    "duration": 4.06
+  },
+  {
+    "text": "to MIT, dropped out,",
+    "start": 1001.795,
+    "duration": 1.9
+  },
+  {
+    "text": "and went straight to the\nvalley, joined Stripe,",
+    "start": 1003.695,
+    "duration": 3.78
+  },
+  {
+    "text": "became the chief technology officer.",
+    "start": 1007.475,
+    "duration": 2.18
+  },
+  {
+    "text": "His adrenaline rush comes from building",
+    "start": 1009.655,
+    "duration": 2.4
+  },
+  {
+    "text": "and shipping products",
+    "start": 1012.055,
+    "duration": 1.68
+  },
+  {
+    "text": "and seeing people use the things",
+    "start": 1013.735,
+    "duration": 2.02
+  },
+  {
+    "text": "that he's made with his own two hands.",
+    "start": 1015.755,
+    "duration": 2.15
+  },
+  {
+    "text": "Like he talked about that a\nlot when I interviewed him,",
+    "start": 1017.905,
+    "duration": 3.65
+  },
+  {
+    "text": "right when Microsoft invested,",
+    "start": 1022.845,
+    "duration": 1.85
+  },
+  {
+    "text": "it made its first investment in OpenAI.",
+    "start": 1024.695,
+    "duration": 2.06
+  },
+  {
+    "text": "So that is also his instinct.",
+    "start": 1027.615,
+    "duration": 2.32
+  },
+  {
+    "text": "And what's interesting to\ntake a step back from OpenAI",
+    "start": 1029.935,
+    "duration": 3.9
+  },
+  {
+    "text": "within kind of the landscape\nof different AI firms,",
+    "start": 1035.335,
+    "duration": 2.58
+  },
+  {
+    "text": "OpenAI is seen by others\nas the most Silicon Valley",
+    "start": 1040.015,
+    "duration": 4.56
+  },
+  {
+    "text": "of them all because you could,",
+    "start": 1044.575,
+    "duration": 3.01
+  },
+  {
+    "text": "like at the time when it was founded,",
+    "start": 1047.585,
+    "duration": 2.25
+  },
+  {
+    "text": "DeepMind was the other kind of major model",
+    "start": 1049.835,
+    "duration": 3.42
+  },
+  {
+    "text": "for this kind of research.",
+    "start": 1053.255,
+    "duration": 1.48
+  },
+  {
+    "text": "And it was seen as this is\nlike a very academic endeavor.",
+    "start": 1054.735,
+    "duration": 4.14
+  },
+  {
+    "text": "We, yes, we've been acquired by Google",
+    "start": 1059.775,
+    "duration": 1.68
+  },
+  {
+    "text": "and we're gonna help Google\ncommercialize some things,",
+    "start": 1061.455,
+    "duration": 1.96
+  },
+  {
+    "text": "but like it is still going",
+    "start": 1063.415,
+    "duration": 1.46
+  },
+  {
+    "text": "to retain this very\nacademic environment and",
+    "start": 1064.875,
+    "duration": 2.36
+  },
+  {
+    "text": "and be kind of away from the\nSilicon Valley scene of build,",
+    "start": 1068.735,
+    "duration": 3.99
+  },
+  {
+    "text": "build, build and move\nfast and all of that.",
+    "start": 1072.725,
+    "duration": 2.92
+  },
+  {
+    "text": "So the fact that Sam Altman",
+    "start": 1076.665,
+    "duration": 2.34
+  },
+  {
+    "text": "and Greg Brockman both\ncome from this we're seen",
+    "start": 1079.005,
+    "duration": 2.9
+  },
+  {
+    "text": "by the broader AI\ncommunity as, okay, this is",
+    "start": 1081.905,
+    "duration": 2.14
+  },
+  {
+    "text": "what OpenAI is about now\nwhen when Sam Altman joined",
+    "start": 1084.045,
+    "duration": 3.8
+  },
+  {
+    "text": "and then Greg was already\nthere, they like joined forces.",
+    "start": 1087.845,
+    "duration": 2.48
+  },
+  {
+    "text": "It's seen as neither of\nthem are AI researchers,",
+    "start": 1091.595,
+    "duration": 2.77
+  },
+  {
+    "text": "they don't come from\nan academic background,",
+    "start": 1094.365,
+    "duration": 1.87
+  },
+  {
+    "text": "they come from this\ncommercialization background.",
+    "start": 1096.235,
+    "duration": 2.4
+  },
+  {
+    "text": "Greg was the first employee\nof OpenAI in that when",
+    "start": 1098.635,
+    "duration": 4.85
+  },
+  {
+    "text": "Sam Altman",
+    "start": 1105.025,
+    "duration": 1.26
+  },
+  {
+    "text": "and Elon Musk decided, \"Hey,\nwe should put down money",
+    "start": 1106.285,
+    "duration": 4.26
+  },
+  {
+    "text": "to fund this thing,\"\nBrockman was the first one",
+    "start": 1110.545,
+    "duration": 3.3
+  },
+  {
+    "text": "to raise his hand to say,\n\"I will make it happen.\"",
+    "start": 1113.845,
+    "duration": 2.92
+  },
+  {
+    "text": "And he was the one that\nrecruited the first original team",
+    "start": 1117.705,
+    "duration": 2.18
+  },
+  {
+    "text": "of 10 and then he led the company",
+    "start": 1119.885,
+    "duration": 3.0
+  },
+  {
+    "text": "before Altman stepped in as CEO",
+    "start": 1122.885,
+    "duration": 2.24
+  },
+  {
+    "text": "and he's very much a Sam ally.",
+    "start": 1126.225,
+    "duration": 3.08
+  },
+  {
+    "text": "So part of the reason why",
+    "start": 1129.305,
+    "duration": 3.36
+  },
+  {
+    "text": "in the events when Sam got\nfired, Greg immediately announced",
+    "start": 1132.665,
+    "duration": 4.54
+  },
+  {
+    "text": "that he was leaving as well is",
+    "start": 1137.205,
+    "duration": 1.72
+  },
+  {
+    "text": "because these two have a very\nclose relationship",
+    "start": 1138.925,
+    "duration": 2.54
+  },
+  {
+    "text": "and they share kind of\ncore ideologies around",
+    "start": 1141.465,
+    "duration": 3.38
+  },
+  {
+    "text": "what's good for the world.",
+    "start": 1145.945,
+    "duration": 1.22
+  },
+  {
+    "text": "And so Greg, when he left,",
+    "start": 1148.505,
+    "duration": 4.55
+  },
+  {
+    "text": "I think that was a moment for\nemployees that was very scary",
+    "start": 1154.015,
+    "duration": 4.84
+  },
+  {
+    "text": "because when the board says to you",
+    "start": 1158.855,
+    "duration": 3.19
+  },
+  {
+    "text": "that your CEO has been\nfired, the first instinct is,",
+    "start": 1162.045,
+    "duration": 5.0
+  },
+  {
+    "text": "\"Oh well what did he do?\"",
+    "start": 1167.675,
+    "duration": 1.76
+  },
+  {
+    "text": "But when the first employee and co-founder",
+    "start": 1169.435,
+    "duration": 4.52
+  },
+  {
+    "text": "and huge ally of the CEO",
+    "start": 1173.955,
+    "duration": 2.52
+  },
+  {
+    "text": "and one of the most,\nyou know, senior people",
+    "start": 1176.475,
+    "duration": 4.69
+  },
+  {
+    "text": "also announces that he's leaving,",
+    "start": 1181.165,
+    "duration": 1.84
+  },
+  {
+    "text": "that was when the employees\nwent, \"Oh crap, like",
+    "start": 1183.005,
+    "duration": 3.01
+  },
+  {
+    "text": "what does this actually mean",
+    "start": 1186.015,
+    "duration": 1.08
+  },
+  {
+    "text": "for the functioning of this organization?",
+    "start": 1187.095,
+    "duration": 1.9
+  },
+  {
+    "text": "And is this actually\nsomehow nothing to do with",
+    "start": 1188.995,
+    "duration": 3.62
+  },
+  {
+    "text": "what Sam did, but somehow a power grab.\"",
+    "start": 1192.615,
+    "duration": 2.04
+  },
+  {
+    "text": "So I think he is sort\nof like very respected",
+    "start": 1196.075,
+    "duration": 3.61
+  },
+  {
+    "text": "and like an early employee that did build,",
+    "start": 1199.685,
+    "duration": 3.02
+  },
+  {
+    "text": "he did engineer a lot of the\nthings early in the company,",
+    "start": 1202.705,
+    "duration": 3.8
+  },
+  {
+    "text": "and he does have a lot of sway",
+    "start": 1206.505,
+    "duration": 2.16
+  },
+  {
+    "text": "as well within the organization.",
+    "start": 1208.665,
+    "duration": 1.36
+  },
+  {
+    "text": "And he was kind of the canary\nin the coal mine I guess you",
+    "start": 1210.025,
+    "duration": 4.58
+  },
+  {
+    "text": "could say for employees,",
+    "start": 1214.605,
+    "duration": 1.18
+  },
+  {
+    "text": "that something bad was happening.",
+    "start": 1215.785,
+    "duration": 3.54
+  },
+  {
+    "text": "- I'm curious to\ntalk about the employees",
+    "start": 1220.185,
+    "duration": 2.54
+  },
+  {
+    "text": "because it it, I mean you sort",
+    "start": 1222.725,
+    "duration": 2.8
+  },
+  {
+    "text": "of just mentioned it right there",
+    "start": 1225.525,
+    "duration": 1.39
+  },
+  {
+    "text": "that it it must've been a\nwhirlwind experience for them",
+    "start": 1226.915,
+    "duration": 3.11
+  },
+  {
+    "text": "and you know, nobody had advanced notice",
+    "start": 1230.025,
+    "duration": 2.58
+  },
+  {
+    "text": "that the board was doing, not\neven the investors of OpenAI",
+    "start": 1232.605,
+    "duration": 3.7
+  },
+  {
+    "text": "of the, of the capped-profit\nentity had advanced knowledge-",
+    "start": 1236.305,
+    "duration": 3.6
+  },
+  {
+    "text": "and the employees learned\nbasically when everybody else was",
+    "start": 1239.905,
+    "duration": 3.5
+  },
+  {
+    "text": "learning or or shortly before\nabout what was happening.",
+    "start": 1243.405,
+    "duration": 3.39
+  },
+  {
+    "text": "What have you heard about what\nit was like for the employees",
+    "start": 1246.795,
+    "duration": 3.43
+  },
+  {
+    "text": "to experience this",
+    "start": 1250.225,
+    "duration": 1.44
+  },
+  {
+    "text": "and they, we sort of saw\nthis rallying cry around the,",
+    "start": 1251.665,
+    "duration": 5.0
+  },
+  {
+    "text": "the leadership team that\nwas exiled from the company.",
+    "start": 1256.845,
+    "duration": 2.91
+  },
+  {
+    "text": "Just talk to me about just what happened",
+    "start": 1259.755,
+    "duration": 1.69
+  },
+  {
+    "text": "after the news broke and\nhow employees were feeling",
+    "start": 1261.445,
+    "duration": 2.62
+  },
+  {
+    "text": "and just the events that\noccurred afterwards.",
+    "start": 1264.065,
+    "duration": 3.06
+  },
+  {
+    "text": "- I think it was a very\ntumultuous and very emotional",
+    "start": 1269.505,
+    "duration": 3.9
+  },
+  {
+    "text": "and very sleep deprived period of days",
+    "start": 1273.405,
+    "duration": 4.78
+  },
+  {
+    "text": "after Altman was fired and\nreinstated for the employees.",
+    "start": 1278.185,
+    "duration": 3.59
+  },
+  {
+    "text": "Of course, like you\nsaid, none of them knew",
+    "start": 1283.765,
+    "duration": 2.42
+  },
+  {
+    "text": "that this was happening, they\nhad no idea what was going on",
+    "start": 1286.185,
+    "duration": 2.86
+  },
+  {
+    "text": "and the board never explained really",
+    "start": 1289.045,
+    "duration": 3.6
+  },
+  {
+    "text": "why they had ultimately fired Altman.",
+    "start": 1292.645,
+    "duration": 2.84
+  },
+  {
+    "text": "And so it kind of, the, the progression",
+    "start": 1295.485,
+    "duration": 2.22
+  },
+  {
+    "text": "of like their emotions went\nfrom like confusion to fear",
+    "start": 1297.705,
+    "duration": 4.87
+  },
+  {
+    "text": "when Brockman leaves",
+    "start": 1302.575,
+    "duration": 1.63
+  },
+  {
+    "text": "and then three senior\nresearch scientists also leave",
+    "start": 1304.205,
+    "duration": 2.62
+  },
+  {
+    "text": "two anger at the board, like\nreally, really deep anger",
+    "start": 1307.685,
+    "duration": 4.25
+  },
+  {
+    "text": "because they were like, \"If you're going",
+    "start": 1311.935,
+    "duration": 2.17
+  },
+  {
+    "text": "to do something dramatic, we\ndeserve answers as employees.\"",
+    "start": 1314.105,
+    "duration": 4.52
+  },
+  {
+    "text": "And when they didn't, the,",
+    "start": 1318.625,
+    "duration": 1.02
+  },
+  {
+    "text": "the longer they didn't\nget answers, the more",
+    "start": 1319.645,
+    "duration": 2.18
+  },
+  {
+    "text": "and more worked up it became.",
+    "start": 1321.825,
+    "duration": 1.72
+  },
+  {
+    "text": "And part of this is, I mean many",
+    "start": 1325.005,
+    "duration": 3.62
+  },
+  {
+    "text": "companies within Silicon Valley have this-",
+    "start": 1330.585,
+    "duration": 2.72
+  },
+  {
+    "text": "they really emphasize that\ncompanies are families",
+    "start": 1334.735,
+    "duration": 2.71
+  },
+  {
+    "text": "and you as an employee are not just",
+    "start": 1337.445,
+    "duration": 2.64
+  },
+  {
+    "text": "an employee of any company,\nyou, it is your identity",
+    "start": 1340.085,
+    "duration": 3.746
+  },
+  {
+    "text": "OpenAI takes this to the max,\nlike the fact that they say",
+    "start": 1343.831,
+    "duration": 3.25
+  },
+  {
+    "text": "that their mission is for\nthe benefit of humanity.",
+    "start": 1347.081,
+    "duration": 3.104
+  },
+  {
+    "text": "Like people genuinely believe this",
+    "start": 1350.185,
+    "duration": 2.54
+  },
+  {
+    "text": "and they think that this is like they're",
+    "start": 1352.725,
+    "duration": 2.26
+  },
+  {
+    "text": "dedicating their life to this.",
+    "start": 1354.985,
+    "duration": 1.2
+  },
+  {
+    "text": "It's not just like, \"This is\nmy job and then I go home.\"",
+    "start": 1356.185,
+    "duration": 2.99
+  },
+  {
+    "text": "This is like all, all they\nthink about sometimes.",
+    "start": 1359.175,
+    "duration": 3.53
+  },
+  {
+    "text": "And so it's like that\nlevel of anger of like,",
+    "start": 1363.565,
+    "duration": 2.78
+  },
+  {
+    "text": "if you are going to do something",
+    "start": 1366.345,
+    "duration": 1.08
+  },
+  {
+    "text": "that could ruin this company\nthat we genuinely believe is",
+    "start": 1367.425,
+    "duration": 4.21
+  },
+  {
+    "text": "doing good for the world, like\nhow dare you not tell us why",
+    "start": 1371.635,
+    "duration": 5.0
+  },
+  {
+    "text": "and how dare you continue to kind",
+    "start": 1376.765,
+    "duration": 4.7
+  },
+  {
+    "text": "of leave us in the dark and and",
+    "start": 1381.465,
+    "duration": 2.1
+  },
+  {
+    "text": "and not treat us as like\ncritical stakeholders in this,",
+    "start": 1383.565,
+    "duration": 2.7
+  },
+  {
+    "text": "in this whole fiasco.",
+    "start": 1386.265,
+    "duration": 2.02
+  },
+  {
+    "text": "And so what happened was kind",
+    "start": 1388.285,
+    "duration": 2.54
+  },
+  {
+    "text": "of organically the employees started",
+    "start": 1390.825,
+    "duration": 2.67
+  },
+  {
+    "text": "rapidly organizing on Twitter.",
+    "start": 1393.495,
+    "duration": 2.47
+  },
+  {
+    "text": "So they, they started like\nposting very similar messages",
+    "start": 1395.965,
+    "duration": 5.0
+  },
+  {
+    "text": "by the hundreds kind of on\nTwitter of like every time",
+    "start": 1401.445,
+    "duration": 3.3
+  },
+  {
+    "text": "Sam Altman said, \"I love\nOpenAI so much, I miss it.\"",
+    "start": 1406.005,
+    "duration": 3.6
+  },
+  {
+    "text": "You know, you would see\nlike employees retweeting it",
+    "start": 1409.605,
+    "duration": 2.3
+  },
+  {
+    "text": "with a heart emoji and just it would,",
+    "start": 1411.905,
+    "duration": 1.67
+  },
+  {
+    "text": "like when I opened my Twitter\nfeed, it was just like dozens",
+    "start": 1413.575,
+    "duration": 4.45
+  },
+  {
+    "text": "and dozens and dozens of heart emojis.",
+    "start": 1418.025,
+    "duration": 2.26
+  },
+  {
+    "text": "Not because I was looking at\nany like OpenAI specific",
+    "start": 1420.285,
+    "duration": 2.73
+  },
+  {
+    "text": "feed that was just what was\nshowing up on my regular feed.",
+    "start": 1423.015,
+    "duration": 3.21
+  },
+  {
+    "text": "And then there were the the like",
+    "start": 1426.225,
+    "duration": 2.41
+  },
+  {
+    "text": "OpenAI is nothing without its people",
+    "start": 1428.635,
+    "duration": 2.2
+  },
+  {
+    "text": "that everyone started tweeting as well.",
+    "start": 1430.835,
+    "duration": 2.67
+  },
+  {
+    "text": "And that was sort of a way to try",
+    "start": 1433.505,
+    "duration": 2.06
+  },
+  {
+    "text": "and pressure the board to give answers.",
+    "start": 1435.565,
+    "duration": 3.36
+  },
+  {
+    "text": "And then of course that\nultimately escalated to",
+    "start": 1439.785,
+    "duration": 1.9
+  },
+  {
+    "text": "over 700 employees outta\n770 signing a letter",
+    "start": 1442.765,
+    "duration": 4.58
+  },
+  {
+    "text": "saying that like, if Sam is not",
+    "start": 1447.345,
+    "duration": 2.42
+  },
+  {
+    "text": "reinstated, they're all gonna quit.",
+    "start": 1449.765,
+    "duration": 1.84
+  },
+  {
+    "text": "And so I think another dimension\nthat's sort of important",
+    "start": 1453.765,
+    "duration": 4.24
+  },
+  {
+    "text": "to add to this is",
+    "start": 1458.005,
+    "duration": 2.3
+  },
+  {
+    "text": "most if not all of the OpenAI employees,",
+    "start": 1463.385,
+    "duration": 3.61
+  },
+  {
+    "text": "their compensation\npackages are majority stock",
+    "start": 1466.995,
+    "duration": 4.76
+  },
+  {
+    "text": "and Bloomberg has a good\narticle on this, you know like",
+    "start": 1471.755,
+    "duration": 3.58
+  },
+  {
+    "text": "the average compensation is\naround like 800,000 to a million",
+    "start": 1475.335,
+    "duration": 2.74
+  },
+  {
+    "text": "dollars and maybe 60%",
+    "start": 1479.305,
+    "duration": 3.15
+  },
+  {
+    "text": "or something of that like\nthat is actually stock.",
+    "start": 1482.455,
+    "duration": 3.8
+  },
+  {
+    "text": "So if a company, if the company\ndoes not exist anymore, all",
+    "start": 1486.255,
+    "duration": 2.98
+  },
+  {
+    "text": "of a sudden your stock goes to zero.",
+    "start": 1489.235,
+    "duration": 2.76
+  },
+  {
+    "text": "And that was also extremely\nstressful for people",
+    "start": 1493.015,
+    "duration": 3.26
+  },
+  {
+    "text": "because people were\nbanking on, you know, some,",
+    "start": 1496.275,
+    "duration": 3.24
+  },
+  {
+    "text": "some people were, had already\nbought houses based on",
+    "start": 1499.515,
+    "duration": 3.08
+  },
+  {
+    "text": "projected income or were\nlooking to buy houses based on",
+    "start": 1502.595,
+    "duration": 3.66
+  },
+  {
+    "text": "the projected income that\nwere suddenly worried",
+    "start": 1506.255,
+    "duration": 2.5
+  },
+  {
+    "text": "about paying their mortgage.",
+    "start": 1508.755,
+    "duration": 2.41
+  },
+  {
+    "text": "There were people that were on visas",
+    "start": 1511.165,
+    "duration": 1.66
+  },
+  {
+    "text": "that if the company doesn't exist anymore",
+    "start": 1512.825,
+    "duration": 2.31
+  },
+  {
+    "text": "and they don't get hired\nfast, then their ability",
+    "start": 1515.135,
+    "duration": 4.26
+  },
+  {
+    "text": "to stay in the country is jeopardized",
+    "start": 1519.395,
+    "duration": 1.66
+  },
+  {
+    "text": "and maybe they already have family",
+    "start": 1521.055,
+    "duration": 1.26
+  },
+  {
+    "text": "and then like, you know,\nthat's gonna throw their entire",
+    "start": 1523.295,
+    "duration": 2.22
+  },
+  {
+    "text": "family into disarray as well.",
+    "start": 1525.515,
+    "duration": 1.46
+  },
+  {
+    "text": "So there were a lot of\nother aspects of it,",
+    "start": 1526.975,
+    "duration": 2.32
+  },
+  {
+    "text": "not just the identity\nor the ideology piece",
+    "start": 1529.295,
+    "duration": 2.81
+  },
+  {
+    "text": "that led employees to kind\nof have this very emotional",
+    "start": 1532.105,
+    "duration": 2.73
+  },
+  {
+    "text": "and tumultuous time.",
+    "start": 1534.835,
+    "duration": 1.08
+  },
+  {
+    "text": "And when Altman was reinstated\nthere were some great details",
+    "start": 1537.215,
+    "duration": 4.82
+  },
+  {
+    "text": "that were reported in\nthe information about how",
+    "start": 1542.035,
+    "duration": 3.96
+  },
+  {
+    "text": "employees like gathered at the\noffice and they were crying",
+    "start": 1545.995,
+    "duration": 2.54
+  },
+  {
+    "text": "and cheering and just, it\nwas like a huge massive sigh",
+    "start": 1548.535,
+    "duration": 2.42
+  },
+  {
+    "text": "of relief honestly, that\nthey have their jobs still",
+    "start": 1550.955,
+    "duration": 4.68
+  },
+  {
+    "text": "and that this company still exists",
+    "start": 1556.935,
+    "duration": 1.9
+  },
+  {
+    "text": "and all the things that they've\nbeen working towards are",
+    "start": 1558.835,
+    "duration": 2.0
+  },
+  {
+    "text": "going to continue to exist\nin some form or other",
+    "start": 1560.835,
+    "duration": 3.36
+  },
+  {
+    "text": "and that they can move on\nwith their lives, basically.",
+    "start": 1565.495,
+    "duration": 3.61
+  },
+  {
+    "text": "- This recent situation",
+    "start": 1569.105,
+    "duration": 1.05
+  },
+  {
+    "text": "with OpenAI is not the first\ntime this company has gone",
+    "start": 1570.155,
+    "duration": 3.28
+  },
+  {
+    "text": "through something like this.",
+    "start": 1573.435,
+    "duration": 1.68
+  },
+  {
+    "text": "I would love for you to walk\nme through some of the history",
+    "start": 1575.115,
+    "duration": 1.8
+  },
+  {
+    "text": "of the disruptions that have\nhappened inside this company",
+    "start": 1576.915,
+    "duration": 2.5
+  },
+  {
+    "text": "and some of the consequences\nthat those events have meant",
+    "start": 1579.415,
+    "duration": 2.44
+  },
+  {
+    "text": "for OpenAI and the\nrest of the AI industry.",
+    "start": 1581.855,
+    "duration": 4.0
+  },
+  {
+    "text": "- One of the things,\njust to take a step back",
+    "start": 1585.855,
+    "duration": 2.06
+  },
+  {
+    "text": "before we kind of go through the,",
+    "start": 1587.915,
+    "duration": 1.3
+  },
+  {
+    "text": "the tumultuous history\nleading up to this point, one",
+    "start": 1589.215,
+    "duration": 3.94
+  },
+  {
+    "text": "of the things that's kind\nof unique about OpenAI,",
+    "start": 1593.155,
+    "duration": 4.12
+  },
+  {
+    "text": "I mean you see this in a lot\nof Silicon Valley companies,",
+    "start": 1597.275,
+    "duration": 3.26
+  },
+  {
+    "text": "but OpenAI does this more\nthan anyone else I would say,",
+    "start": 1600.535,
+    "duration": 4.0
+  },
+  {
+    "text": "which is they use incredibly vague terms",
+    "start": 1604.535,
+    "duration": 3.29
+  },
+  {
+    "text": "to define what they're doing.",
+    "start": 1607.825,
+    "duration": 1.22
+  },
+  {
+    "text": "Artificial general intelligence,",
+    "start": 1609.965,
+    "duration": 1.28
+  },
+  {
+    "text": "AGI, this term is not actually defined.",
+    "start": 1611.245,
+    "duration": 2.95
+  },
+  {
+    "text": "There's no shared consensus\naround what AGI is",
+    "start": 1614.195,
+    "duration": 3.15
+  },
+  {
+    "text": "and of course there's no consensus around",
+    "start": 1617.345,
+    "duration": 1.93
+  },
+  {
+    "text": "what is good for humanity.",
+    "start": 1619.275,
+    "duration": 2.11
+  },
+  {
+    "text": "So if you're going to peg\nyour mission to like really,",
+    "start": 1621.385,
+    "duration": 2.78
+  },
+  {
+    "text": "really vague terminology\nthat doesn't really have much",
+    "start": 1624.165,
+    "duration": 3.2
+  },
+  {
+    "text": "of a definition, what it\nactually means is it's really",
+    "start": 1627.365,
+    "duration": 3.12
+  },
+  {
+    "text": "vulnerable to ideological interpretation.",
+    "start": 1630.485,
+    "duration": 2.5
+  },
+  {
+    "text": "So I remember early in the days",
+    "start": 1632.985,
+    "duration": 1.86
+  },
+  {
+    "text": "of OpenAI when I was covering it,",
+    "start": 1634.845,
+    "duration": 1.28
+  },
+  {
+    "text": "I mean people would joke\nlike if you ask any employee",
+    "start": 1636.125,
+    "duration": 3.67
+  },
+  {
+    "text": "what we're actually trying to do here",
+    "start": 1639.795,
+    "duration": 1.51
+  },
+  {
+    "text": "and what AGI is, you're\ngonna get a different answer.",
+    "start": 1641.305,
+    "duration": 3.24
+  },
+  {
+    "text": "And that was, that was sort of almost",
+    "start": 1644.545,
+    "duration": 2.14
+  },
+  {
+    "text": "a feature rather than a bug\nat the time in that they said,",
+    "start": 1647.605,
+    "duration": 3.94
+  },
+  {
+    "text": "\"You know, we're on a scientific\njourney, we're trying",
+    "start": 1651.545,
+    "duration": 1.94
+  },
+  {
+    "text": "to discover what AGI is.\"",
+    "start": 1653.485,
+    "duration": 2.58
+  },
+  {
+    "text": "But the issue is that",
+    "start": 1656.065,
+    "duration": 2.56
+  },
+  {
+    "text": "you actually just end up in a situation",
+    "start": 1658.625,
+    "duration": 2.26
+  },
+  {
+    "text": "where when you are working\non a technology that is",
+    "start": 1660.885,
+    "duration": 2.84
+  },
+  {
+    "text": "so powerful and so\nconsequential, you are going",
+    "start": 1663.725,
+    "duration": 3.22
+  },
+  {
+    "text": "to have battles over the\ncontrol of the technology.",
+    "start": 1666.945,
+    "duration": 3.2
+  },
+  {
+    "text": "And when it's so ill-defined\nwhat it actually is,",
+    "start": 1670.145,
+    "duration": 2.22
+  },
+  {
+    "text": "those battles become ideological.",
+    "start": 1672.365,
+    "duration": 2.38
+  },
+  {
+    "text": "And so through the history\nof the company, we've seen",
+    "start": 1674.745,
+    "duration": 4.14
+  },
+  {
+    "text": "multiple instances when there\nhave been ideological clashes",
+    "start": 1678.885,
+    "duration": 3.16
+  },
+  {
+    "text": "that have led to friction and fissures.",
+    "start": 1682.045,
+    "duration": 3.74
+  },
+  {
+    "text": "The reason why most people\nhaven't heard of these other",
+    "start": 1685.785,
+    "duration": 3.61
+  },
+  {
+    "text": "battles is because OpenAI\nwasn't really in the public eye",
+    "start": 1689.395,
+    "duration": 3.33
+  },
+  {
+    "text": "before, but the very first\nbattle that happened was",
+    "start": 1692.725,
+    "duration": 3.88
+  },
+  {
+    "text": "between the two co-founders,\nElon Musk and Sam Altman.",
+    "start": 1696.605,
+    "duration": 3.15
+  },
+  {
+    "text": "Elon Musk was disagreeing\nwith the company direction,",
+    "start": 1699.755,
+    "duration": 3.63
+  },
+  {
+    "text": "was very, very frustrated,\ntried to take the company over,",
+    "start": 1703.385,
+    "duration": 2.58
+  },
+  {
+    "text": "Sam Altman refused.",
+    "start": 1707.225,
+    "duration": 2.22
+  },
+  {
+    "text": "And so at the time Elon Musk\nexited, this was in early 2018",
+    "start": 1709.445,
+    "duration": 3.8
+  },
+  {
+    "text": "and actually took all of the\nmoney that he had promised",
+    "start": 1714.185,
+    "duration": 2.8
+  },
+  {
+    "text": "to give OpenAI with him.",
+    "start": 1716.985,
+    "duration": 2.0
+  },
+  {
+    "text": "And that's actually part of the reason why",
+    "start": 1718.985,
+    "duration": 2.85
+  },
+  {
+    "text": "this for-profit entity\nends up getting constructed",
+    "start": 1721.835,
+    "duration": 3.01
+  },
+  {
+    "text": "because in the moment that OpenAI realizes",
+    "start": 1724.845,
+    "duration": 2.4
+  },
+  {
+    "text": "that they need exorbitant amounts of money",
+    "start": 1727.245,
+    "duration": 1.78
+  },
+  {
+    "text": "to pursue the type of AI research",
+    "start": 1729.025,
+    "duration": 1.54
+  },
+  {
+    "text": "that they wanna do is also\nthe moment when suddenly one",
+    "start": 1730.565,
+    "duration": 3.84
+  },
+  {
+    "text": "of their biggest backers\njust takes the money.",
+    "start": 1734.405,
+    "duration": 2.2
+  },
+  {
+    "text": "The second like major kind\nof fissure that happened",
+    "start": 1737.785,
+    "duration": 3.44
+  },
+  {
+    "text": "was in 2020, and this was",
+    "start": 1741.225,
+    "duration": 2.67
+  },
+  {
+    "text": "after OpenAI had developed GPT-3,",
+    "start": 1743.895,
+    "duration": 3.08
+  },
+  {
+    "text": "which was a predecessor to ChatGPT.",
+    "start": 1746.975,
+    "duration": 2.61
+  },
+  {
+    "text": "And this was when they\nfirst started thinking about",
+    "start": 1749.585,
+    "duration": 3.24
+  },
+  {
+    "text": "how do we commercialize,\nhow do we make money?",
+    "start": 1752.825,
+    "duration": 2.12
+  },
+  {
+    "text": "And at the time they weren't",
+    "start": 1754.945,
+    "duration": 0.833
+  },
+  {
+    "text": "thinking about a consumer-facing product,",
+    "start": 1755.778,
+    "duration": 1.667
+  },
+  {
+    "text": "they were thinking about\na business product.",
+    "start": 1757.445,
+    "duration": 3.66
+  },
+  {
+    "text": "So they developed the model for delivering",
+    "start": 1761.105,
+    "duration": 3.62
+  },
+  {
+    "text": "through what's called an\napplication programming interface.",
+    "start": 1764.725,
+    "duration": 3.02
+  },
+  {
+    "text": "So other companies could like\nrapidly build apps on GPT-3.",
+    "start": 1767.745,
+    "duration": 5.0
+  },
+  {
+    "text": "There were heavy disagreements over how",
+    "start": 1773.255,
+    "duration": 2.99
+  },
+  {
+    "text": "to commercialize this model, when",
+    "start": 1776.245,
+    "duration": 1.72
+  },
+  {
+    "text": "to commercialize the model,\nwhether there should be",
+    "start": 1777.965,
+    "duration": 2.56
+  },
+  {
+    "text": "more waiting, more safety\nresearch done on this.",
+    "start": 1781.715,
+    "duration": 3.61
+  },
+  {
+    "text": "And that ultimately led\nto the falling out of one",
+    "start": 1786.345,
+    "duration": 4.38
+  },
+  {
+    "text": "of the very senior scientists\nat the company, Dario Amodei,",
+    "start": 1790.725,
+    "duration": 4.43
+  },
+  {
+    "text": "with Sam Altman,\nGreg Brockman, and Ilya Sutskever.",
+    "start": 1795.155,
+    "duration": 3.99
+  },
+  {
+    "text": "So he ended up leaving",
+    "start": 1799.145,
+    "duration": 1.52
+  },
+  {
+    "text": "and taking a large chunk of\nthe team with him to found",
+    "start": 1800.665,
+    "duration": 3.53
+  },
+  {
+    "text": "what is now- one",
+    "start": 1804.195,
+    "duration": 2.49
+  },
+  {
+    "text": "of open AI's biggest\ncompetitors, Anthropic.",
+    "start": 1806.685,
+    "duration": 3.18
+  },
+  {
+    "text": "- AI has been a technology\nthat's had a lot of hype cycles",
+    "start": 1809.865,
+    "duration": 3.12
+  },
+  {
+    "text": "and a lot of sort of failed\ndelivery on those hype cycles.",
+    "start": 1812.985,
+    "duration": 3.9
+  },
+  {
+    "text": "I think a lot of folks\nremember Watson from IBM",
+    "start": 1816.885,
+    "duration": 2.9
+  },
+  {
+    "text": "and all the hype that surrounded that",
+    "start": 1819.785,
+    "duration": 1.62
+  },
+  {
+    "text": "and was gonna revolutionize healthcare",
+    "start": 1821.405,
+    "duration": 1.46
+  },
+  {
+    "text": "and a lot of those things\nthat didn't come to bear",
+    "start": 1822.865,
+    "duration": 2.16
+  },
+  {
+    "text": "or even just the, the small\nlittle colloquial examples",
+    "start": 1825.025,
+    "duration": 4.66
+  },
+  {
+    "text": "of it playing Jeopardy or\nsome of the, the AI models",
+    "start": 1829.685,
+    "duration": 2.48
+  },
+  {
+    "text": "that were playing AlphaGo\nor chess and things like that.",
+    "start": 1832.165,
+    "duration": 3.08
+  },
+  {
+    "text": "But one of the things I find\nparticularly interesting is",
+    "start": 1836.465,
+    "duration": 2.86
+  },
+  {
+    "text": "that the, the fear\naround these technologies",
+    "start": 1839.325,
+    "duration": 3.2
+  },
+  {
+    "text": "and whether they're safe or\nnot actually cause some folks",
+    "start": 1842.525,
+    "duration": 3.66
+  },
+  {
+    "text": "to not release these models\npublicly, the the transformer,",
+    "start": 1846.185,
+    "duration": 3.58
+  },
+  {
+    "text": "the general pre-trained\ntransformer that is the basis",
+    "start": 1849.765,
+    "duration": 2.94
+  },
+  {
+    "text": "of this GPT technology\nthat OpenAI is using",
+    "start": 1852.705,
+    "duration": 2.46
+  },
+  {
+    "text": "for these large language\nmodels was actually developed",
+    "start": 1855.165,
+    "duration": 2.28
+  },
+  {
+    "text": "inside of Google before it\nbecame, you know, widely released",
+    "start": 1857.445,
+    "duration": 3.56
+  },
+  {
+    "text": "to the public and utilized.",
+    "start": 1861.005,
+    "duration": 1.34
+  },
+  {
+    "text": "I'm curious when those debates\nwere happening with the split",
+    "start": 1862.345,
+    "duration": 3.66
+  },
+  {
+    "text": "with Anthropic and OpenAI, how was",
+    "start": 1866.005,
+    "duration": 4.16
+  },
+  {
+    "text": "a similar sort of tension",
+    "start": 1871.045,
+    "duration": 1.36
+  },
+  {
+    "text": "between we shouldn't be\nreleasing these models without",
+    "start": 1872.405,
+    "duration": 3.48
+  },
+  {
+    "text": "thoroughly testing it, it's not\nready for public consumption",
+    "start": 1875.885,
+    "duration": 2.5
+  },
+  {
+    "text": "and like what were the\ncontours of that conversation",
+    "start": 1878.385,
+    "duration": 2.94
+  },
+  {
+    "text": "between the different\nschools of thought on AI?",
+    "start": 1881.325,
+    "duration": 3.08
+  },
+  {
+    "text": "- In general, including\nthe OpenAI-Anthropic split",
+    "start": 1885.265,
+    "duration": 4.07
+  },
+  {
+    "text": "there have emerged kind of",
+    "start": 1889.335,
+    "duration": 2.83
+  },
+  {
+    "text": "two major camps but also some sub-camps:",
+    "start": 1893.495,
+    "duration": 3.36
+  },
+  {
+    "text": "So we'll review all of them, but the,",
+    "start": 1896.855,
+    "duration": 2.24
+  },
+  {
+    "text": "but there's kind of two philosophies",
+    "start": 1899.095,
+    "duration": 2.17
+  },
+  {
+    "text": "that exist within OpenAI",
+    "start": 1901.265,
+    "duration": 1.57
+  },
+  {
+    "text": "and also the general AI community around",
+    "start": 1902.835,
+    "duration": 3.02
+  },
+  {
+    "text": "how do you actually build beneficial AGI,",
+    "start": 1905.855,
+    "duration": 2.66
+  },
+  {
+    "text": "and one of those camps is sort",
+    "start": 1909.575,
+    "duration": 2.18
+  },
+  {
+    "text": "of in the most extreme version\nis the techno-optimist camp",
+    "start": 1911.755,
+    "duration": 3.06
+  },
+  {
+    "text": "of we get to beneficial AGI\nby releasing things quickly,",
+    "start": 1914.815,
+    "duration": 4.76
+  },
+  {
+    "text": "by releasing them iteratively\nso people become more familiar",
+    "start": 1919.575,
+    "duration": 3.38
+  },
+  {
+    "text": "with the technology so\ninstitutions can evolve",
+    "start": 1922.955,
+    "duration": 2.6
+  },
+  {
+    "text": "and adapt instead of,\nyou know, withholding it",
+    "start": 1925.555,
+    "duration": 2.81
+  },
+  {
+    "text": "until suddenly capabilities\nbecome extremely dramatic",
+    "start": 1928.365,
+    "duration": 3.51
+  },
+  {
+    "text": "and then releasing it onto the world.",
+    "start": 1931.875,
+    "duration": 2.18
+  },
+  {
+    "text": "And also that we build\nit more beneficially",
+    "start": 1934.055,
+    "duration": 3.26
+  },
+  {
+    "text": "by commercializing it so\nthat we have the money",
+    "start": 1937.315,
+    "duration": 1.94
+  },
+  {
+    "text": "to continue doing safety research,",
+    "start": 1939.255,
+    "duration": 2.8
+  },
+  {
+    "text": "what's called safety research.",
+    "start": 1942.055,
+    "duration": 2.16
+  },
+  {
+    "text": "The other major camp is\nbasically sort of like the,",
+    "start": 1944.215,
+    "duration": 4.24
+  },
+  {
+    "text": "the existential-risk camp again,\nkind of the extreme version",
+    "start": 1948.455,
+    "duration": 4.02
+  },
+  {
+    "text": "of this camp, which basically\nsays we, in order to get",
+    "start": 1952.475,
+    "duration": 4.84
+  },
+  {
+    "text": "to beneficial AGI, we\ndon't want to release it",
+    "start": 1957.315,
+    "duration": 4.02
+  },
+  {
+    "text": "until we know for sure",
+    "start": 1961.335,
+    "duration": 2.18
+  },
+  {
+    "text": "that we've like done all\nof the possible testing.",
+    "start": 1963.515,
+    "duration": 3.18
+  },
+  {
+    "text": "We've like tweaked it and tuned it",
+    "start": 1966.695,
+    "duration": 2.05
+  },
+  {
+    "text": "and tried to foresee as much as possible",
+    "start": 1968.745,
+    "duration": 3.4
+  },
+  {
+    "text": "how this model is going\nto affect the world.",
+    "start": 1972.145,
+    "duration": 2.34
+  },
+  {
+    "text": "And only then do we\nmaybe start releasing it",
+    "start": 1975.465,
+    "duration": 4.2
+  },
+  {
+    "text": "and making sure that it it it only",
+    "start": 1979.665,
+    "duration": 3.22
+  },
+  {
+    "text": "produces positive outcomes.",
+    "start": 1982.885,
+    "duration": 1.64
+  },
+  {
+    "text": "I think both of these, these\nare both very, very extreme",
+    "start": 1985.845,
+    "duration": 3.62
+  },
+  {
+    "text": "in the sense that they've almost become",
+    "start": 1989.465,
+    "duration": 3.58
+  },
+  {
+    "text": "quasi-religious ideologies\naround the development of",
+    "start": 1994.165,
+    "duration": 4.96
+  },
+  {
+    "text": "AGI and like how to actually approach it.",
+    "start": 1999.125,
+    "duration": 2.64
+  },
+  {
+    "text": "And there's sort of\nmany, you, you could say",
+    "start": 2002.665,
+    "duration": 4.22
+  },
+  {
+    "text": "that each camp over the years has sort",
+    "start": 2006.885,
+    "duration": 2.2
+  },
+  {
+    "text": "of cherry-picked examples",
+    "start": 2009.085,
+    "duration": 1.26
+  },
+  {
+    "text": "to support why they are\ncorrect in their argument.",
+    "start": 2010.345,
+    "duration": 3.1
+  },
+  {
+    "text": "But when the OpenAI-Anthropic\nsplit happened,",
+    "start": 2014.345,
+    "duration": 2.62
+  },
+  {
+    "text": "it was exactly this disagreement.",
+    "start": 2016.965,
+    "duration": 1.62
+  },
+  {
+    "text": "So Sam Altman",
+    "start": 2018.585,
+    "duration": 1.18
+  },
+  {
+    "text": "and Greg Brockman, they\nwere very much, we need",
+    "start": 2019.765,
+    "duration": 2.12
+  },
+  {
+    "text": "to continue releasing and\nget people used to it,",
+    "start": 2021.885,
+    "duration": 2.82
+  },
+  {
+    "text": "get more money in so",
+    "start": 2024.705,
+    "duration": 1.1
+  },
+  {
+    "text": "that we can continue doing this research.",
+    "start": 2025.805,
+    "duration": 1.7
+  },
+  {
+    "text": "And Dario Amodei",
+    "start": 2027.505,
+    "duration": 1.18
+  },
+  {
+    "text": "and his sister Daniela Amodei\nwho was also at OpenAI,",
+    "start": 2028.685,
+    "duration": 2.64
+  },
+  {
+    "text": "they were very much at\nthe camp of no we should,",
+    "start": 2032.325,
+    "duration": 3.22
+  },
+  {
+    "text": "we should be doing as much\nas possible to try and tweak",
+    "start": 2035.545,
+    "duration": 4.36
+  },
+  {
+    "text": "and tune this model before\nit goes out into the world.",
+    "start": 2039.905,
+    "duration": 3.5
+  },
+  {
+    "text": "And that that was ultimately\nsort of the clash that",
+    "start": 2044.425,
+    "duration": 3.98
+  },
+  {
+    "text": "happened then and has\ncontinued to happen ever since.",
+    "start": 2048.405,
+    "duration": 2.24
+  },
+  {
+    "text": "- It's clear now that\nOpenAI is shipping a lot of",
+    "start": 2051.555,
+    "duration": 3.63
+  },
+  {
+    "text": "AI models available for consumers.",
+    "start": 2055.185,
+    "duration": 2.4
+  },
+  {
+    "text": "It was, I think it's something\naround like a hundred million",
+    "start": 2057.585,
+    "duration": 2.06
+  },
+  {
+    "text": "users are on ChatGPT:",
+    "start": 2060.575,
+    "duration": 2.46
+  },
+  {
+    "text": "What has changed in\nterms of the perception",
+    "start": 2063.035,
+    "duration": 2.77
+  },
+  {
+    "text": "of shipping these AI models to the public",
+    "start": 2065.805,
+    "duration": 3.38
+  },
+  {
+    "text": "and how did that potentially\nlay the groundwork",
+    "start": 2069.185,
+    "duration": 2.12
+  },
+  {
+    "text": "for the firing of Sam Altman that we,",
+    "start": 2071.305,
+    "duration": 3.12
+  },
+  {
+    "text": "we experienced last week?",
+    "start": 2074.425,
+    "duration": 2.0
+  },
+  {
+    "text": "- So these camps existed in the company",
+    "start": 2076.425,
+    "duration": 2.28
+  },
+  {
+    "text": "and have existed in the\ncompany since the founding,",
+    "start": 2078.705,
+    "duration": 2.88
+  },
+  {
+    "text": "but what happened in the\nlast year was the release",
+    "start": 2081.585,
+    "duration": 2.38
+  },
+  {
+    "text": "of ChatGPT and just as\nit was very shocking",
+    "start": 2083.965,
+    "duration": 3.38
+  },
+  {
+    "text": "for everyone in the public",
+    "start": 2087.345,
+    "duration": 1.6
+  },
+  {
+    "text": "and kind of a step-change\nin people's understanding",
+    "start": 2088.945,
+    "duration": 3.44
+  },
+  {
+    "text": "of the capabilities, it was also kind",
+    "start": 2092.385,
+    "duration": 1.94
+  },
+  {
+    "text": "of a dramatic transition\npoint for the company itself.",
+    "start": 2094.325,
+    "duration": 3.34
+  },
+  {
+    "text": "And part of the reason is when\nyou suddenly put a technology",
+    "start": 2097.665,
+    "duration": 4.46
+  },
+  {
+    "text": "that you've been developing\nin the company in the hands",
+    "start": 2102.125,
+    "duration": 1.92
+  },
+  {
+    "text": "of a hundred million users,\nyou start to get kind of",
+    "start": 2104.045,
+    "duration": 5.0
+  },
+  {
+    "text": "crazy strain on the company infrastructure",
+    "start": 2109.055,
+    "duration": 3.81
+  },
+  {
+    "text": "and kind of test cases on the ideologies",
+    "start": 2112.865,
+    "duration": 2.98
+  },
+  {
+    "text": "that had already been operating in the",
+    "start": 2115.845,
+    "duration": 2.0
+  },
+  {
+    "text": "theoretical realm within this company.",
+    "start": 2117.845,
+    "duration": 1.94
+  },
+  {
+    "text": "So for the techno-optimist\ncamp within OpenAI,",
+    "start": 2119.785,
+    "duration": 3.01
+  },
+  {
+    "text": "they saw the success of ChatGPT",
+    "start": 2122.795,
+    "duration": 2.25
+  },
+  {
+    "text": "and were seeing, you know,\nall of these use cases",
+    "start": 2125.045,
+    "duration": 3.26
+  },
+  {
+    "text": "of people using it in\nwild and imaginative ways",
+    "start": 2128.305,
+    "duration": 4.12
+  },
+  {
+    "text": "and they thought this is\nthe perfect demonstration of",
+    "start": 2132.425,
+    "duration": 2.58
+  },
+  {
+    "text": "what we've been talking about all along;",
+    "start": 2135.005,
+    "duration": 1.28
+  },
+  {
+    "text": "like we should be releasing\nthese technologies iteratively,",
+    "start": 2136.285,
+    "duration": 3.48
+  },
+  {
+    "text": "watching people adapt to them",
+    "start": 2139.765,
+    "duration": 1.3
+  },
+  {
+    "text": "and then look at all of the\namazing things that they do.",
+    "start": 2141.065,
+    "duration": 2.22
+  },
+  {
+    "text": "Once that happens,",
+    "start": 2143.285,
+    "duration": 1.54
+  },
+  {
+    "text": "we should continue\nbuilding on this momentum",
+    "start": 2144.825,
+    "duration": 2.2
+  },
+  {
+    "text": "and continue advancing\nthe, the productization",
+    "start": 2147.025,
+    "duration": 3.96
+  },
+  {
+    "text": "of our technology. For\nthe existential-risk camp",
+    "start": 2150.985,
+    "duration": 3.22
+  },
+  {
+    "text": "ChatGPT was also the\nperfect demonstration of all",
+    "start": 2154.205,
+    "duration": 4.44
+  },
+  {
+    "text": "of the, the fears that they\nhad around harms of the tech,",
+    "start": 2158.645,
+    "duration": 4.66
+  },
+  {
+    "text": "the technology, again,",
+    "start": 2163.305,
+    "duration": 1.26
+  },
+  {
+    "text": "when you put the the technology in hands",
+    "start": 2164.565,
+    "duration": 2.0
+  },
+  {
+    "text": "of a hundred million people, you're going",
+    "start": 2166.565,
+    "duration": 1.6
+  },
+  {
+    "text": "to see some people using\nit in really horrible ways,",
+    "start": 2168.165,
+    "duration": 2.5
+  },
+  {
+    "text": "in really abusive ways.",
+    "start": 2170.665,
+    "duration": 1.1
+  },
+  {
+    "text": "And the company was not prepared\nfor many of these in part",
+    "start": 2172.665,
+    "duration": 4.46
+  },
+  {
+    "text": "because they didn't actually think",
+    "start": 2177.125,
+    "duration": 2.16
+  },
+  {
+    "text": "that ChatGPT would be a big deal.",
+    "start": 2179.285,
+    "duration": 1.74
+  },
+  {
+    "text": "So they did not in any\nway prepare for supporting",
+    "start": 2181.025,
+    "duration": 3.94
+  },
+  {
+    "text": "the a technology that's used\nby a hundred million people.",
+    "start": 2185.845,
+    "duration": 2.66
+  },
+  {
+    "text": "And so one of the things that",
+    "start": 2189.345,
+    "duration": 1.98
+  },
+  {
+    "text": "the existential-risk camp\ngot very, very scared",
+    "start": 2191.325,
+    "duration": 2.34
+  },
+  {
+    "text": "of was if we couldn't predict even",
+    "start": 2193.665,
+    "duration": 4.04
+  },
+  {
+    "text": "how this technology would be popular,",
+    "start": 2197.705,
+    "duration": 2.98
+  },
+  {
+    "text": "how could we predict",
+    "start": 2201.705,
+    "duration": 1.72
+  },
+  {
+    "text": "how this technology could be devastating?",
+    "start": 2203.425,
+    "duration": 2.6
+  },
+  {
+    "text": "ChatGPT was sort of an accelerator",
+    "start": 2206.025,
+    "duration": 3.02
+  },
+  {
+    "text": "for both camps in their ideology towards",
+    "start": 2209.045,
+    "duration": 4.09
+  },
+  {
+    "text": "polar opposite extremes.",
+    "start": 2213.135,
+    "duration": 1.55
+  },
+  {
+    "text": "And the reason why,",
+    "start": 2215.545,
+    "duration": 2.2
+  },
+  {
+    "text": "or we don't, again,",
+    "start": 2217.745,
+    "duration": 1.54
+  },
+  {
+    "text": "we don't know the actual\nreason why the board ended up",
+    "start": 2219.285,
+    "duration": 3.2
+  },
+  {
+    "text": "trying to fire Sam Altman,",
+    "start": 2222.485,
+    "duration": 2.3
+  },
+  {
+    "text": "but I think this is sort of,\nthis context is very telling",
+    "start": 2224.785,
+    "duration": 3.42
+  },
+  {
+    "text": "because ultimately what we saw",
+    "start": 2228.205,
+    "duration": 4.47
+  },
+  {
+    "text": "with the board ousting Altman\nis this kind of struggle",
+    "start": 2232.675,
+    "duration": 3.89
+  },
+  {
+    "text": "between the nonprofit",
+    "start": 2236.565,
+    "duration": 1.38
+  },
+  {
+    "text": "and for-profit kind of arms of the company",
+    "start": 2237.945,
+    "duration": 3.43
+  },
+  {
+    "text": "where the board says the nonprofit\nis still the, the mission",
+    "start": 2241.375,
+    "duration": 4.13
+  },
+  {
+    "text": "and the fact that we're not\nactually doing this for money",
+    "start": 2245.505,
+    "duration": 2.63
+  },
+  {
+    "text": "still should be the the\ncentral path forward.",
+    "start": 2248.135,
+    "duration": 4.46
+  },
+  {
+    "text": "Whereas all of these people\nwithin the for-profit arm",
+    "start": 2252.595,
+    "duration": 3.05
+  },
+  {
+    "text": "and Sam Altman himselfm were\nthinking, \"No, we need to, we need",
+    "start": 2255.645,
+    "duration": 3.0
+  },
+  {
+    "text": "to continue pushing ahead with this,",
+    "start": 2258.645,
+    "duration": 2.35
+  },
+  {
+    "text": "this commercialization effort.\"",
+    "start": 2260.995,
+    "duration": 2.11
+  },
+  {
+    "text": "So that kind of collision\nI think very likely,",
+    "start": 2263.105,
+    "duration": 4.21
+  },
+  {
+    "text": "very strongly played into\nthe board's decisions.",
+    "start": 2267.315,
+    "duration": 4.19
+  },
+  {
+    "text": "- And what do we actually know\nabout the board's decision",
+    "start": 2271.505,
+    "duration": 3.64
+  },
+  {
+    "text": "to fire Sam Altman?",
+    "start": 2275.145,
+    "duration": 1.68
+  },
+  {
+    "text": "Has there been any new\ninformation that has come in",
+    "start": 2276.825,
+    "duration": 2.3
+  },
+  {
+    "text": "that has sort of clarified\nwhy the board has made its",
+    "start": 2279.125,
+    "duration": 3.28
+  },
+  {
+    "text": "decision or are we still\nsort of in the dark about",
+    "start": 2282.405,
+    "duration": 2.91
+  },
+  {
+    "text": "what was happening, what\ninputs led to that moment?",
+    "start": 2285.315,
+    "duration": 3.31
+  },
+  {
+    "text": "- We are still completely in the dark.",
+    "start": 2288.625,
+    "duration": 1.32
+  },
+  {
+    "text": "The board has issued\nvery, very few statements,",
+    "start": 2289.945,
+    "duration": 3.86
+  },
+  {
+    "text": "I believe actually even just one statement",
+    "start": 2293.805,
+    "duration": 2.06
+  },
+  {
+    "text": "and it was just the one that\nthey issued when they fired",
+    "start": 2295.865,
+    "duration": 3.26
+  },
+  {
+    "text": "Altman and it, it just said",
+    "start": 2300.115,
+    "duration": 1.63
+  },
+  {
+    "text": "that they had lost trust\nin Altman as a leader.",
+    "start": 2301.745,
+    "duration": 2.92
+  },
+  {
+    "text": "They had lost trust in",
+    "start": 2304.665,
+    "duration": 1.53
+  },
+  {
+    "text": "him being consistently\ncandid in his communications",
+    "start": 2307.735,
+    "duration": 3.34
+  },
+  {
+    "text": "and that was, they\nhaven't really updated it.",
+    "start": 2312.455,
+    "duration": 2.36
+  },
+  {
+    "text": "And I have sort of been\ntalking with a lot of sources",
+    "start": 2314.815,
+    "duration": 4.45
+  },
+  {
+    "text": "within the company",
+    "start": 2319.265,
+    "duration": 1.12
+  },
+  {
+    "text": "or former employees as well\nsince the events have happened",
+    "start": 2320.385,
+    "duration": 3.72
+  },
+  {
+    "text": "and none of the employees\nknow either this,",
+    "start": 2324.105,
+    "duration": 4.31
+  },
+  {
+    "text": "there has been no communication\nfrom the board internally.",
+    "start": 2328.415,
+    "duration": 2.8
+  },
+  {
+    "text": "There has been of course\nmassive amounts of speculation.",
+    "start": 2331.215,
+    "duration": 4.29
+  },
+  {
+    "text": "One of the things that came out",
+    "start": 2335.505,
+    "duration": 1.15
+  },
+  {
+    "text": "after Altman was reinstated\nwas reports from Reuters",
+    "start": 2336.655,
+    "duration": 4.11
+  },
+  {
+    "text": "and The Information about",
+    "start": 2340.765,
+    "duration": 1.42
+  },
+  {
+    "text": "how there had been staff\nresearchers that had sent a letter",
+    "start": 2342.185,
+    "duration": 3.66
+  },
+  {
+    "text": "to the board warning about",
+    "start": 2345.845,
+    "duration": 2.08
+  },
+  {
+    "text": "a so-called breakthrough\nwithin the company;",
+    "start": 2347.925,
+    "duration": 3.0
+  },
+  {
+    "text": "OpenAI confirmed to me that\nthis was not actually related",
+    "start": 2350.925,
+    "duration": 3.64
+  },
+  {
+    "text": "to the board's actions.",
+    "start": 2354.565,
+    "duration": 1.58
+  },
+  {
+    "text": "And one of the things to sort",
+    "start": 2356.145,
+    "duration": 1.18
+  },
+  {
+    "text": "of note in this particular instance is",
+    "start": 2357.325,
+    "duration": 2.32
+  },
+  {
+    "text": "\"breakthrough\" is a very subjective term,",
+    "start": 2361.595,
+    "duration": 4.08
+  },
+  {
+    "text": "and so it's in science\nusually breakthrough-",
+    "start": 2367.095,
+    "duration": 4.24
+  },
+  {
+    "text": "something becomes a\nbreakthrough when there has been",
+    "start": 2371.335,
+    "duration": 3.29
+  },
+  {
+    "text": "significant testing validation,",
+    "start": 2374.625,
+    "duration": 2.92
+  },
+  {
+    "text": "continued experimentation on an idea",
+    "start": 2377.545,
+    "duration": 2.71
+  },
+  {
+    "text": "and a consensus forms around whether",
+    "start": 2380.255,
+    "duration": 2.82
+  },
+  {
+    "text": "or not something actually\nwas a breakthrough",
+    "start": 2383.075,
+    "duration": 1.56
+  },
+  {
+    "text": "because it withstood the test of time.",
+    "start": 2384.635,
+    "duration": 1.88
+  },
+  {
+    "text": "In this instance there's no,\nthere's no kind of contestation",
+    "start": 2387.455,
+    "duration": 3.66
+  },
+  {
+    "text": "and validation that's happening",
+    "start": 2391.115,
+    "duration": 1.0
+  },
+  {
+    "text": "because all of this is within\nOpenAI's closed doors.",
+    "start": 2392.115,
+    "duration": 2.68
+  },
+  {
+    "text": "And so breakthrough in this\ninstance was sort of a term",
+    "start": 2395.855,
+    "duration": 3.73
+  },
+  {
+    "text": "that was assigned to it-\nit was like sort",
+    "start": 2399.585,
+    "duration": 3.93
+  },
+  {
+    "text": "of a subjective interpretation",
+    "start": 2403.515,
+    "duration": 2.2
+  },
+  {
+    "text": "that several employees assigned to",
+    "start": 2405.715,
+    "duration": 2.56
+  },
+  {
+    "text": "what they were seeing within the company,",
+    "start": 2408.275,
+    "duration": 1.86
+  },
+  {
+    "text": "and not everyone within\nthe company even agrees",
+    "start": 2410.135,
+    "duration": 2.73
+  },
+  {
+    "text": "with this small contingent",
+    "start": 2412.865,
+    "duration": 1.77
+  },
+  {
+    "text": "that supposedly sent\nthe letter to the board.",
+    "start": 2414.635,
+    "duration": 2.66
+  },
+  {
+    "text": "- It seems like there's\na lot of like in the eye",
+    "start": 2417.295,
+    "duration": 3.06
+  },
+  {
+    "text": "of the beholder in the AI industry",
+    "start": 2420.355,
+    "duration": 2.36
+  },
+  {
+    "text": "where folks aren't necessarily sure,",
+    "start": 2422.715,
+    "duration": 2.31
+  },
+  {
+    "text": "they're not necessarily\nsure what they've built,",
+    "start": 2425.025,
+    "duration": 2.24
+  },
+  {
+    "text": "they're not fully aware\nof all the capabilities",
+    "start": 2427.265,
+    "duration": 2.79
+  },
+  {
+    "text": "of these tools because\nit's, it's almost impossible",
+    "start": 2430.055,
+    "duration": 3.38
+  },
+  {
+    "text": "to test something like a large\nlanguage model completely in",
+    "start": 2433.435,
+    "duration": 3.04
+  },
+  {
+    "text": "terms of all the things\nthat it's capable of doing.",
+    "start": 2436.475,
+    "duration": 2.43
+  },
+  {
+    "text": "From your conversations with people,",
+    "start": 2438.905,
+    "duration": 2.11
+  },
+  {
+    "text": "how can you even just\nlike tell that something",
+    "start": 2441.015,
+    "duration": 2.98
+  },
+  {
+    "text": "is worthwhile to consider\nto be dangerous or not?",
+    "start": 2445.605,
+    "duration": 2.66
+  },
+  {
+    "text": "Like what sort of steps do they go",
+    "start": 2448.265,
+    "duration": 1.52
+  },
+  {
+    "text": "through if they're really\nconcerned with safety inside",
+    "start": 2449.785,
+    "duration": 2.88
+  },
+  {
+    "text": "of these organizations;\nhow do they deal with",
+    "start": 2452.665,
+    "duration": 2.12
+  },
+  {
+    "text": "that concern in an actionable way?",
+    "start": 2454.785,
+    "duration": 2.64
+  },
+  {
+    "text": "- One of the things that OpenAI\nhas started, has developed",
+    "start": 2458.755,
+    "duration": 3.32
+  },
+  {
+    "text": "and Anthropic",
+    "start": 2462.075,
+    "duration": 1.56
+  },
+  {
+    "text": "and Google also do this now too,",
+    "start": 2463.635,
+    "duration": 2.76
+  },
+  {
+    "text": "is this process called\n'red teaming' where they try",
+    "start": 2466.395,
+    "duration": 2.8
+  },
+  {
+    "text": "to bring along a wide array",
+    "start": 2469.195,
+    "duration": 3.14
+  },
+  {
+    "text": "of experts from cybersecurity backgrounds",
+    "start": 2472.335,
+    "duration": 2.7
+  },
+  {
+    "text": "or national security backgrounds",
+    "start": 2475.035,
+    "duration": 2.16
+  },
+  {
+    "text": "or biology backgrounds to try",
+    "start": 2477.195,
+    "duration": 2.66
+  },
+  {
+    "text": "to make the model do bad\nthings before they release it.",
+    "start": 2479.855,
+    "duration": 3.3
+  },
+  {
+    "text": "So they did this process with GPT-4",
+    "start": 2483.155,
+    "duration": 2.3
+  },
+  {
+    "text": "and then typically the way",
+    "start": 2486.395,
+    "duration": 1.46
+  },
+  {
+    "text": "that it goes is when the\nexpert figures out, \"Oh I can do",
+    "start": 2487.855,
+    "duration": 4.04
+  },
+  {
+    "text": "X-thing with the model,\nlike I can create malware",
+    "start": 2491.895,
+    "duration": 3.55
+  },
+  {
+    "text": "very easily with this model,\"",
+    "start": 2495.445,
+    "duration": 1.12
+  },
+  {
+    "text": "then the researchers within\nthe company take that feedback",
+    "start": 2497.475,
+    "duration": 2.87
+  },
+  {
+    "text": "and try to iteratively refine the model",
+    "start": 2500.345,
+    "duration": 3.11
+  },
+  {
+    "text": "until it stops doing that.",
+    "start": 2503.455,
+    "duration": 1.47
+  },
+  {
+    "text": "Like it'll, it'll refuse\nthe request if someone says,",
+    "start": 2504.925,
+    "duration": 2.5
+  },
+  {
+    "text": "\"Please code me up a malware.\"",
+    "start": 2507.425,
+    "duration": 1.34
+  },
+  {
+    "text": "This process has also been\nvery heavily criticized",
+    "start": 2511.035,
+    "duration": 4.72
+  },
+  {
+    "text": "because OpenAI sort",
+    "start": 2515.755,
+    "duration": 2.41
+  },
+  {
+    "text": "of has from the very beginning\nhad a particular bent around",
+    "start": 2518.165,
+    "duration": 5.0
+  },
+  {
+    "text": "how they perceive risks, which\nis more focused on extreme",
+    "start": 2523.265,
+    "duration": 5.0
+  },
+  {
+    "text": "risks like such as these,",
+    "start": 2528.655,
+    "duration": 2.11
+  },
+  {
+    "text": "these existential risks, more\nfocused on national security",
+    "start": 2530.765,
+    "duration": 2.6
+  },
+  {
+    "text": "risks, and they sort",
+    "start": 2533.365,
+    "duration": 2.6
+  },
+  {
+    "text": "of have often ignored other types of harms",
+    "start": 2535.965,
+    "duration": 4.99
+  },
+  {
+    "text": "that are very present",
+    "start": 2540.955,
+    "duration": 2.27
+  },
+  {
+    "text": "and impactful to many people here",
+    "start": 2543.225,
+    "duration": 2.74
+  },
+  {
+    "text": "and now. One of the\nexamples is discrimination:",
+    "start": 2545.965,
+    "duration": 3.44
+  },
+  {
+    "text": "AI models have a lot of\ndiscrimination baked in",
+    "start": 2550.505,
+    "duration": 3.91
+  },
+  {
+    "text": "because they are reflective of the data",
+    "start": 2554.415,
+    "duration": 1.88
+  },
+  {
+    "text": "that they're trained\non and it is very hard,",
+    "start": 2556.295,
+    "duration": 4.44
+  },
+  {
+    "text": "basically impossible, to\nget a data sample",
+    "start": 2560.735,
+    "duration": 3.92
+  },
+  {
+    "text": "that is perfectly, you know,",
+    "start": 2564.655,
+    "duration": 2.84
+  },
+  {
+    "text": "aligned in every different dimension of",
+    "start": 2567.495,
+    "duration": 2.6
+  },
+  {
+    "text": "what we wanna capture about our world.",
+    "start": 2570.095,
+    "duration": 1.73
+  },
+  {
+    "text": "So one of the classic examples of this is",
+    "start": 2572.765,
+    "duration": 3.1
+  },
+  {
+    "text": "facial recognition does not work",
+    "start": 2575.865,
+    "duration": 2.14
+  },
+  {
+    "text": "as well on dark-skinned individuals",
+    "start": 2578.005,
+    "duration": 1.64
+  },
+  {
+    "text": "and doesn't work as well on women",
+    "start": 2579.645,
+    "duration": 2.41
+  },
+  {
+    "text": "than light-skinned individuals and men.",
+    "start": 2582.055,
+    "duration": 1.99
+  },
+  {
+    "text": "And part of the reason was\nwhen the technology was first",
+    "start": 2584.045,
+    "duration": 2.3
+  },
+  {
+    "text": "developed, the photos that were gathered",
+    "start": 2586.345,
+    "duration": 1.98
+  },
+  {
+    "text": "for training this technology\nwere predominantly",
+    "start": 2588.325,
+    "duration": 2.13
+  },
+  {
+    "text": "light-skinned male individuals.",
+    "start": 2590.455,
+    "duration": 3.35
+  },
+  {
+    "text": "And this is true of every AI model",
+    "start": 2593.805,
+    "duration": 3.3
+  },
+  {
+    "text": "that has ever been developed\nwith large language models.",
+    "start": 2597.105,
+    "duration": 2.05
+  },
+  {
+    "text": "We've also seen, you know, GPT-4",
+    "start": 2599.155,
+    "duration": 3.37
+  },
+  {
+    "text": "or we've seen with large\nlanguage models in general that",
+    "start": 2602.525,
+    "duration": 3.8
+  },
+  {
+    "text": "if you kind of prompt it to talk about",
+    "start": 2606.325,
+    "duration": 3.7
+  },
+  {
+    "text": "engineers it will often\nuse the pronouns he/him",
+    "start": 2611.505,
+    "duration": 4.55
+  },
+  {
+    "text": "instead of she/her or they/them.",
+    "start": 2616.055,
+    "duration": 2.29
+  },
+  {
+    "text": "And those are all like, they're kind",
+    "start": 2619.445,
+    "duration": 2.58
+  },
+  {
+    "text": "of codified into the model",
+    "start": 2622.025,
+    "duration": 1.26
+  },
+  {
+    "text": "and OpenAI has done research\non this more recently,",
+    "start": 2623.285,
+    "duration": 2.96
+  },
+  {
+    "text": "but historically this is one\nthing that they've set kind",
+    "start": 2626.245,
+    "duration": 2.54
+  },
+  {
+    "text": "of like de-emphasized within the company",
+    "start": 2628.785,
+    "duration": 2.82
+  },
+  {
+    "text": "and they focused more on\nthese kind of extreme risks,",
+    "start": 2631.605,
+    "duration": 3.12
+  },
+  {
+    "text": "and OpenAI has continued to",
+    "start": 2634.725,
+    "duration": 2.18
+  },
+  {
+    "text": "also very heavily rely on sort of experts",
+    "start": 2637.975,
+    "duration": 3.17
+  },
+  {
+    "text": "that they curate themselves.",
+    "start": 2641.145,
+    "duration": 1.62
+  },
+  {
+    "text": "And again, this is all, this\nall goes back to sort of like",
+    "start": 2642.765,
+    "duration": 2.22
+  },
+  {
+    "text": "who has the power in this situation",
+    "start": 2644.985,
+    "duration": 1.32
+  },
+  {
+    "text": "and how do we define\nwhat this technology is,",
+    "start": 2646.305,
+    "duration": 2.12
+  },
+  {
+    "text": "whether it works, who it works for.",
+    "start": 2648.425,
+    "duration": 2.2
+  },
+  {
+    "text": "And so much of the way that\nOpenAI operates is kind of",
+    "start": 2652.005,
+    "duration": 3.58
+  },
+  {
+    "text": "through their lens with their\nchoices, their determinations,",
+    "start": 2655.585,
+    "duration": 4.58
+  },
+  {
+    "text": "and with very, very little\nfeedback from, you know, the",
+    "start": 2660.165,
+    "duration": 3.65
+  },
+  {
+    "text": "vast broader population in the world.",
+    "start": 2663.815,
+    "duration": 2.25
+  },
+  {
+    "text": "- I'm curious to put the, the conversation",
+    "start": 2666.925,
+    "duration": 1.98
+  },
+  {
+    "text": "around safety in the way that, you know,",
+    "start": 2668.905,
+    "duration": 1.82
+  },
+  {
+    "text": "people are defining whether a\nmodel is safe in the context",
+    "start": 2670.725,
+    "duration": 2.86
+  },
+  {
+    "text": "of the recent recent upheaval.",
+    "start": 2673.585,
+    "duration": 2.32
+  },
+  {
+    "text": "If part",
+    "start": 2675.905,
+    "duration": 2.54
+  },
+  {
+    "text": "of this philosophical\ndifferences was the baseline,",
+    "start": 2678.445,
+    "duration": 4.18
+  },
+  {
+    "text": "or at least perhaps of for some",
+    "start": 2682.625,
+    "duration": 2.42
+  },
+  {
+    "text": "of the reasons why the board\nwere, were to fire Sam Altman,",
+    "start": 2685.045,
+    "duration": 3.22
+  },
+  {
+    "text": "how can they actually change\nthe way in which they operate",
+    "start": 2688.265,
+    "duration": 4.14
+  },
+  {
+    "text": "to where that's no longer sort\nof this debate internally in",
+    "start": 2692.405,
+    "duration": 3.18
+  },
+  {
+    "text": "inside of them and they can\nmove forward with a, an approach",
+    "start": 2695.585,
+    "duration": 3.2
+  },
+  {
+    "text": "to releasing these models\nthat is- helps with some",
+    "start": 2698.785,
+    "duration": 3.94
+  },
+  {
+    "text": "of the commercialization aspect",
+    "start": 2702.725,
+    "duration": 1.0
+  },
+  {
+    "text": "where they need the capital in order to",
+    "start": 2703.725,
+    "duration": 2.1
+  },
+  {
+    "text": "get more researchers in\nand build these models",
+    "start": 2705.825,
+    "duration": 2.48
+  },
+  {
+    "text": "and complete what they say\nis their mission of building",
+    "start": 2708.305,
+    "duration": 2.18
+  },
+  {
+    "text": "artificial general intelligence,",
+    "start": 2711.485,
+    "duration": 1.08
+  },
+  {
+    "text": "but also help with their mission",
+    "start": 2712.565,
+    "duration": 1.44
+  },
+  {
+    "text": "of doing this in a safe way.",
+    "start": 2714.005,
+    "duration": 2.36
+  },
+  {
+    "text": "- I wanna start by unpacking\nthe word \"safety\" first.",
+    "start": 2716.365,
+    "duration": 2.38
+  },
+  {
+    "text": "And I know we've sort of\nbeen talking about a lot",
+    "start": 2718.745,
+    "duration": 1.78
+  },
+  {
+    "text": "of different words with\nsquishy definitions,",
+    "start": 2720.525,
+    "duration": 1.52
+  },
+  {
+    "text": "but safety is another one\nof those where AI safety",
+    "start": 2722.045,
+    "duration": 4.54
+  },
+  {
+    "text": "as OpenAI defines it,\nis kind of different from",
+    "start": 2726.585,
+    "duration": 2.49
+  },
+  {
+    "text": "what we would typically think",
+    "start": 2729.075,
+    "duration": 1.55
+  },
+  {
+    "text": "around like engineering safety.",
+    "start": 2730.625,
+    "duration": 1.96
+  },
+  {
+    "text": "You know, there, there have\nbeen other disciplines,",
+    "start": 2732.585,
+    "duration": 2.16
+  },
+  {
+    "text": "you know, like when we talk\nabout a bridge being safe,",
+    "start": 2734.745,
+    "duration": 2.36
+  },
+  {
+    "text": "it means that it holds up and it works",
+    "start": 2737.105,
+    "duration": 3.16
+  },
+  {
+    "text": "and it resists kind of\ncollapsing under the weight of",
+    "start": 2740.265,
+    "duration": 3.46
+  },
+  {
+    "text": "a normal volume of traffic",
+    "start": 2743.725,
+    "duration": 1.22
+  },
+  {
+    "text": "or even like a massive volume of traffic.",
+    "start": 2744.945,
+    "duration": 2.42
+  },
+  {
+    "text": "With AI safety, the brand\nof OpenAI's AI safety,",
+    "start": 2748.835,
+    "duration": 4.88
+  },
+  {
+    "text": "they- it is more\nrelated to this, this kind",
+    "start": 2753.715,
+    "duration": 3.17
+  },
+  {
+    "text": "of extreme risk they have.",
+    "start": 2756.885,
+    "duration": 1.61
+  },
+  {
+    "text": "Again, they have started adopting more",
+    "start": 2758.495,
+    "duration": 1.47
+  },
+  {
+    "text": "of this like also focusing on",
+    "start": 2759.965,
+    "duration": 1.75
+  },
+  {
+    "text": "current harms like discrimination,",
+    "start": 2761.715,
+    "duration": 2.19
+  },
+  {
+    "text": "but it is primarily focused\non these extreme risks.",
+    "start": 2763.905,
+    "duration": 3.04
+  },
+  {
+    "text": "So the question I guess to\nto kind of reiterate is sort",
+    "start": 2766.945,
+    "duration": 4.3
+  },
+  {
+    "text": "of like will OpenAI\ncontinue to focus on research",
+    "start": 2771.245,
+    "duration": 3.71
+  },
+  {
+    "text": "that is very heavily\nindexed on extreme risks?",
+    "start": 2774.955,
+    "duration": 3.89
+  },
+  {
+    "text": "I think so, but how are they\ngoing to change the structure",
+    "start": 2778.845,
+    "duration": 3.46
+  },
+  {
+    "text": "to make sure that these ideological",
+    "start": 2782.305,
+    "duration": 1.45
+  },
+  {
+    "text": "clashes don't happen again?",
+    "start": 2783.755,
+    "duration": 1.61
+  },
+  {
+    "text": "I don't actually think that's possible,",
+    "start": 2785.365,
+    "duration": 2.02
+  },
+  {
+    "text": "and I also think that part of what",
+    "start": 2787.385,
+    "duration": 3.8
+  },
+  {
+    "text": "we learned from this weekend is",
+    "start": 2791.185,
+    "duration": 3.26
+  },
+  {
+    "text": "that we shouldn't actually\nbe waiting for OpenAI",
+    "start": 2794.445,
+    "duration": 2.06
+  },
+  {
+    "text": "to do something about this.",
+    "start": 2796.505,
+    "duration": 1.79
+  },
+  {
+    "text": "There will always be\nideological struggles again",
+    "start": 2798.295,
+    "duration": 3.11
+  },
+  {
+    "text": "because of this fundamental\nproblem that we have, which is",
+    "start": 2801.405,
+    "duration": 2.64
+  },
+  {
+    "text": "that no one knows what AGI is,",
+    "start": 2804.045,
+    "duration": 2.1
+  },
+  {
+    "text": "no one agrees with what it is.",
+    "start": 2806.145,
+    "duration": 1.33
+  },
+  {
+    "text": "It's all a projection of your\nown ideology, your own beliefs",
+    "start": 2807.475,
+    "duration": 2.85
+  },
+  {
+    "text": "and the AI research talent pool",
+    "start": 2811.345,
+    "duration": 2.36
+  },
+  {
+    "text": "and the broader Silicon Valley\ntalent pool of engineers,",
+    "start": 2813.705,
+    "duration": 2.58
+  },
+  {
+    "text": "product managers, all\nof those people are also",
+    "start": 2816.285,
+    "duration": 3.08
+  },
+  {
+    "text": "ideologically split on these kind",
+    "start": 2819.365,
+    "duration": 1.52
+  },
+  {
+    "text": "of techno-optimist versus\nexistential-risk divides.",
+    "start": 2820.885,
+    "duration": 2.98
+  },
+  {
+    "text": "So the, even if you try\nto restructure or rehire",
+    "start": 2823.865,
+    "duration": 4.6
+  },
+  {
+    "text": "or shuffle things around, you're\nalways going to kind of get",
+    "start": 2828.465,
+    "duration": 2.98
+  },
+  {
+    "text": "an encapsulation of this full range",
+    "start": 2832.345,
+    "duration": 1.98
+  },
+  {
+    "text": "of ideological beliefs within the company,",
+    "start": 2834.325,
+    "duration": 2.14
+  },
+  {
+    "text": "and you're going to end\nup with these battles",
+    "start": 2836.465,
+    "duration": 2.22
+  },
+  {
+    "text": "because of disagreements\naround what is actually-",
+    "start": 2838.685,
+    "duration": 4.47
+  },
+  {
+    "text": "what are we actually working on",
+    "start": 2843.155,
+    "duration": 1.33
+  },
+  {
+    "text": "and how do we actually get there.",
+    "start": 2844.485,
+    "duration": 1.82
+  },
+  {
+    "text": "So I personally think that\none of the biggest lessons",
+    "start": 2846.305,
+    "duration": 3.48
+  },
+  {
+    "text": "to take away is for policymakers",
+    "start": 2849.785,
+    "duration": 2.14
+  },
+  {
+    "text": "and for other members\nof the general public",
+    "start": 2851.925,
+    "duration": 1.78
+  },
+  {
+    "text": "and consumers to recognize\nthat this company",
+    "start": 2853.705,
+    "duration": 2.88
+  },
+  {
+    "text": "and this technology is\nvery much made by people.",
+    "start": 2856.585,
+    "duration": 3.97
+  },
+  {
+    "text": "It's very much the product\nof conscious decisions and,",
+    "start": 2860.555,
+    "duration": 5.0
+  },
+  {
+    "text": "and an imprint of very\nspecific ideologies.",
+    "start": 2865.865,
+    "duration": 3.68
+  },
+  {
+    "text": "And if we actually want to\nfacilitate a better future",
+    "start": 2869.545,
+    "duration": 3.46
+  },
+  {
+    "text": "with better AI technologies",
+    "start": 2874.635,
+    "duration": 2.75
+  },
+  {
+    "text": "and AI technologies that are\nalso applied in better ways,",
+    "start": 2877.385,
+    "duration": 2.82
+  },
+  {
+    "text": "and it's actually up to much\nmore than OpenAI it's up",
+    "start": 2881.045,
+    "duration": 3.5
+  },
+  {
+    "text": "to policymakers to regulate\nthe company, it's up",
+    "start": 2884.545,
+    "duration": 3.12
+  },
+  {
+    "text": "to consumers to make decisions that kind",
+    "start": 2887.665,
+    "duration": 2.52
+  },
+  {
+    "text": "of financially pressure\nthe company to continue",
+    "start": 2890.185,
+    "duration": 3.2
+  },
+  {
+    "text": "moving towards directions\nthat we collectively",
+    "start": 2894.565,
+    "duration": 3.58
+  },
+  {
+    "text": "as a society believe are more appropriate.",
+    "start": 2898.145,
+    "duration": 3.46
+  },
+  {
+    "text": "And ultimately what this boils down",
+    "start": 2901.605,
+    "duration": 1.74
+  },
+  {
+    "text": "to is I think like AI is\nsuch an important technology",
+    "start": 2903.345,
+    "duration": 2.86
+  },
+  {
+    "text": "and so consequential for\neveryone that it needs",
+    "start": 2906.205,
+    "duration": 2.56
+  },
+  {
+    "text": "to have more democratic processes",
+    "start": 2908.765,
+    "duration": 2.34
+  },
+  {
+    "text": "around its development and its governance.",
+    "start": 2911.105,
+    "duration": 2.46
+  },
+  {
+    "text": "We can't really rely on a company",
+    "start": 2913.565,
+    "duration": 3.36
+  },
+  {
+    "text": "or a board that is, you know, tiny",
+    "start": 2916.925,
+    "duration": 2.88
+  },
+  {
+    "text": "to represent the interests\nof all of humanity.",
+    "start": 2919.805,
+    "duration": 2.82
+  },
+  {
+    "text": "- Yeah. In some ways the, the\nmission of OpenAI for sort",
+    "start": 2923.555,
+    "duration": 3.65
+  },
+  {
+    "text": "of doing it for the benefit\nof all humanity is, is kind",
+    "start": 2927.205,
+    "duration": 2.64
+  },
+  {
+    "text": "of interesting to have\nin a technology space-",
+    "start": 2929.845,
+    "duration": 3.88
+  },
+  {
+    "text": "computers broadly-where like\nopen source protocols",
+    "start": 2933.725,
+    "duration": 4.38
+  },
+  {
+    "text": "and ways of working\nhas been such the norm.",
+    "start": 2938.105,
+    "duration": 3.56
+  },
+  {
+    "text": "The board firing Sam Altman",
+    "start": 2941.665,
+    "duration": 1.58
+  },
+  {
+    "text": "and ultimately rehiring\nhim, it sort of kicked off",
+    "start": 2943.245,
+    "duration": 3.76
+  },
+  {
+    "text": "seemingly an awareness of the\nimportance, for some people,",
+    "start": 2948.045,
+    "duration": 3.54
+  },
+  {
+    "text": "of open source AI development",
+    "start": 2951.585,
+    "duration": 2.32
+  },
+  {
+    "text": "and particularly models in\nthat arena, which is, you know,",
+    "start": 2953.905,
+    "duration": 3.06
+  },
+  {
+    "text": "you're, you're mentioning the\ndemocratization of AI tools",
+    "start": 2956.965,
+    "duration": 3.94
+  },
+  {
+    "text": "and some, for some folks that is the",
+    "start": 2960.905,
+    "duration": 1.78
+  },
+  {
+    "text": "democratization of these tools.",
+    "start": 2962.685,
+    "duration": 1.86
+  },
+  {
+    "text": "The fact that you can release\nthese models on GitHub",
+    "start": 2964.545,
+    "duration": 2.4
+  },
+  {
+    "text": "or use them on Hugging Face",
+    "start": 2966.945,
+    "duration": 1.975
+  },
+  {
+    "text": "and everybody has access to them.",
+    "start": 2968.92,
+    "duration": 2.385
+  },
+  {
+    "text": "I'm, I'm curious the\nacceleration of that space tied",
+    "start": 2971.305,
+    "duration": 4.1
+  },
+  {
+    "text": "with the fact that there's\ngonna be many more",
+    "start": 2975.405,
+    "duration": 2.19
+  },
+  {
+    "text": "competitors that are looking\nto capture customers off",
+    "start": 2977.595,
+    "duration": 4.45
+  },
+  {
+    "text": "of the turmoil that existed within OpenAI;",
+    "start": 2982.045,
+    "duration": 3.38
+  },
+  {
+    "text": "in some ways it feels like the race for",
+    "start": 2985.425,
+    "duration": 3.47
+  },
+  {
+    "text": "being dominant players in this space",
+    "start": 2988.895,
+    "duration": 1.79
+  },
+  {
+    "text": "might move much more quickly than it was",
+    "start": 2991.615,
+    "duration": 1.99
+  },
+  {
+    "text": "before when it seemed like a\nOpenAI was just the dominant",
+    "start": 2993.605,
+    "duration": 3.28
+  },
+  {
+    "text": "player and nobody was going\nto take away the customer base",
+    "start": 2996.885,
+    "duration": 3.91
+  },
+  {
+    "text": "that they had been in the lead",
+    "start": 3000.795,
+    "duration": 2.49
+  },
+  {
+    "text": "that they had had in the\nmodels that they had created.",
+    "start": 3003.285,
+    "duration": 1.94
+  },
+  {
+    "text": "I'm curious about your thoughts there.",
+    "start": 3005.225,
+    "duration": 1.46
+  },
+  {
+    "text": "- I think what we've seen is not with,",
+    "start": 3007.825,
+    "duration": 1.96
+  },
+  {
+    "text": "with open source models,\nI would not describe that",
+    "start": 3009.785,
+    "duration": 4.46
+  },
+  {
+    "text": "as democratizing AI development\nin the way that I was sort",
+    "start": 3014.245,
+    "duration": 3.62
+  },
+  {
+    "text": "of trying to evoke earlier.",
+    "start": 3017.865,
+    "duration": 2.0
+  },
+  {
+    "text": "The thing about\ndemocratizing AI development",
+    "start": 3020.965,
+    "duration": 2.64
+  },
+  {
+    "text": "and governance is that\npeople should be also able",
+    "start": 3023.605,
+    "duration": 4.34
+  },
+  {
+    "text": "to say that they don't\nwant things to be released.",
+    "start": 3027.945,
+    "duration": 3.62
+  },
+  {
+    "text": "So, you know, Meta has taken,\nthey're sort of seen",
+    "start": 3033.025,
+    "duration": 3.26
+  },
+  {
+    "text": "as a, as a bit of a champion",
+    "start": 3036.285,
+    "duration": 1.28
+  },
+  {
+    "text": "around open source AI development.",
+    "start": 3037.565,
+    "duration": 1.87
+  },
+  {
+    "text": "They've taken a stance of we're going",
+    "start": 3039.435,
+    "duration": 1.49
+  },
+  {
+    "text": "to release these models and allow anyone",
+    "start": 3040.925,
+    "duration": 2.6
+  },
+  {
+    "text": "to commercialize off of these models.",
+    "start": 3043.525,
+    "duration": 2.42
+  },
+  {
+    "text": "But no one actually has a say\nother than Meta about whether",
+    "start": 3045.945,
+    "duration": 3.18
+  },
+  {
+    "text": "they released those models,\nyou know, so that in",
+    "start": 3049.125,
+    "duration": 2.0
+  },
+  {
+    "text": "and of itself I think is undemocratic.",
+    "start": 3051.125,
+    "duration": 1.84
+  },
+  {
+    "text": "And part of the, part of the\nissue as well with the way",
+    "start": 3053.825,
+    "duration": 3.02
+  },
+  {
+    "text": "that Meta so-called \"open\nsources\" its AI models is they",
+    "start": 3056.845,
+    "duration": 5.0
+  },
+  {
+    "text": "allow anyone to take it,\ndownload it, and manipulate it,",
+    "start": 3062.255,
+    "duration": 3.57
+  },
+  {
+    "text": "but they don't actually tell anyone",
+    "start": 3065.825,
+    "duration": 2.56
+  },
+  {
+    "text": "how this technology was developed.",
+    "start": 3068.385,
+    "duration": 2.52
+  },
+  {
+    "text": "So one of the things that\npeople have really pushed",
+    "start": 3070.905,
+    "duration": 4.0
+  },
+  {
+    "text": "for heavily-researchers,\ncertain researchers have pushed",
+    "start": 3074.905,
+    "duration": 3.54
+  },
+  {
+    "text": "for heavily-is the fact that Meta",
+    "start": 3078.445,
+    "duration": 3.14
+  },
+  {
+    "text": "or any company could\nactually open source the data",
+    "start": 3081.585,
+    "duration": 3.61
+  },
+  {
+    "text": "that they use to train these models.",
+    "start": 3085.195,
+    "duration": 2.23
+  },
+  {
+    "text": "You know, you could open source the data,",
+    "start": 3087.425,
+    "duration": 1.67
+  },
+  {
+    "text": "understand far more about what's\nactually being poured into",
+    "start": 3089.095,
+    "duration": 3.24
+  },
+  {
+    "text": "these technologies and\nyou wouldn't actually",
+    "start": 3092.335,
+    "duration": 3.44
+  },
+  {
+    "text": "accelerate necessarily-",
+    "start": 3095.775,
+    "duration": 1.97
+  },
+  {
+    "text": "it's sudden proliferation everywhere.",
+    "start": 3097.745,
+    "duration": 2.44
+  },
+  {
+    "text": "So one, one of the concerns\nwith the way that Meta behaves",
+    "start": 3100.185,
+    "duration": 3.22
+  },
+  {
+    "text": "that, you know, an OpenAI",
+    "start": 3104.315,
+    "duration": 2.07
+  },
+  {
+    "text": "or other type of company",
+    "start": 3106.385,
+    "duration": 1.29
+  },
+  {
+    "text": "that has a more closed\nmodel approach argues is,",
+    "start": 3107.675,
+    "duration": 3.39
+  },
+  {
+    "text": "\"Oh look Meta is just\naccelerating this race,",
+    "start": 3111.065,
+    "duration": 3.58
+  },
+  {
+    "text": "this competitive race and\nactually creating more dangerous",
+    "start": 3114.645,
+    "duration": 2.52
+  },
+  {
+    "text": "dynamics,\" sort of to\nyour question of like,",
+    "start": 3117.165,
+    "duration": 1.92
+  },
+  {
+    "text": "does that actually make things worse?",
+    "start": 3120.075,
+    "duration": 1.51
+  },
+  {
+    "text": "And, and I would say like\nthere are actually many ways to",
+    "start": 3121.585,
+    "duration": 5.0
+  },
+  {
+    "text": "increase the democratic\ngovernance of these,",
+    "start": 3126.845,
+    "duration": 3.93
+  },
+  {
+    "text": "these technologies and kind\nof the scientific examination",
+    "start": 3130.775,
+    "duration": 3.07
+  },
+  {
+    "text": "of these technologies without\nactually accelerating this",
+    "start": 3133.845,
+    "duration": 3.16
+  },
+  {
+    "text": "race such as the data open sourcing.",
+    "start": 3137.005,
+    "duration": 3.06
+  },
+  {
+    "text": "And by doing that you then\nenable many more scientists",
+    "start": 3140.065,
+    "duration": 3.14
+  },
+  {
+    "text": "to kind of study what actually we're-",
+    "start": 3143.205,
+    "duration": 3.07
+  },
+  {
+    "text": "what are we even feeding these\nmodels to then also study how",
+    "start": 3146.275,
+    "duration": 4.16
+  },
+  {
+    "text": "what we feed in relates to what comes out.",
+    "start": 3150.435,
+    "duration": 3.19
+  },
+  {
+    "text": "And then you end up hopefully\nin a situation through a lot",
+    "start": 3153.625,
+    "duration": 3.94
+  },
+  {
+    "text": "of more scientific research and debate",
+    "start": 3157.565,
+    "duration": 1.98
+  },
+  {
+    "text": "and contestation just better models",
+    "start": 3159.545,
+    "duration": 4.13
+  },
+  {
+    "text": "that don't break that work for more people",
+    "start": 3163.675,
+    "duration": 3.32
+  },
+  {
+    "text": "that are hopefully less\ncomputationally intensive",
+    "start": 3166.995,
+    "duration": 2.43
+  },
+  {
+    "text": "and less data intensive so they're not",
+    "start": 3169.425,
+    "duration": 1.62
+  },
+  {
+    "text": "as costly to the environment.",
+    "start": 3171.045,
+    "duration": 1.4
+  },
+  {
+    "text": "And you would end up with-",
+    "start": 3173.985,
+    "duration": 1.22
+  },
+  {
+    "text": "what I think would be more\nbeneficial AI development.",
+    "start": 3176.155,
+    "duration": 3.79
+  },
+  {
+    "text": "- The dust hasn't completely settled yet",
+    "start": 3179.945,
+    "duration": 1.82
+  },
+  {
+    "text": "where there it seems like\nthere's gonna be an investigation",
+    "start": 3181.765,
+    "duration": 2.87
+  },
+  {
+    "text": "into the board's decision.",
+    "start": 3184.635,
+    "duration": 1.91
+  },
+  {
+    "text": "Sam is no longer on the board,",
+    "start": 3186.545,
+    "duration": 2.12
+  },
+  {
+    "text": "he was previously on the board,",
+    "start": 3188.665,
+    "duration": 1.2
+  },
+  {
+    "text": "but part of the deal that\nwas made is that he is",
+    "start": 3189.865,
+    "duration": 4.86
+  },
+  {
+    "text": "no longer on the board and\nneither is Greg Brockman.",
+    "start": 3196.025,
+    "duration": 3.1
+  },
+  {
+    "text": "There's going, there's a\ntemporary interim board",
+    "start": 3199.125,
+    "duration": 2.2
+  },
+  {
+    "text": "that's going to be in a\nhopefully apoint a larger board",
+    "start": 3201.325,
+    "duration": 3.53
+  },
+  {
+    "text": "you know, given where\nwe are now, what to think",
+    "start": 3204.855,
+    "duration": 4.07
+  },
+  {
+    "text": "of the, the big lessons going forward",
+    "start": 3208.925,
+    "duration": 2.18
+  },
+  {
+    "text": "and potentially where this space is likely",
+    "start": 3211.105,
+    "duration": 3.8
+  },
+  {
+    "text": "to move in 2024 just given\nthis upheaval at the end",
+    "start": 3214.905,
+    "duration": 3.62
+  },
+  {
+    "text": "of the year that nobody was expecting?",
+    "start": 3218.525,
+    "duration": 1.72
+  },
+  {
+    "text": "- I think the biggest lesson is",
+    "start": 3221.365,
+    "duration": 1.2
+  },
+  {
+    "text": "that self-regulation just doesn't work.",
+    "start": 3222.565,
+    "duration": 1.84
+  },
+  {
+    "text": "I mean this was the most creative",
+    "start": 3224.405,
+    "duration": 2.42
+  },
+  {
+    "text": "and unique solution for self-regulation",
+    "start": 3226.825,
+    "duration": 3.69
+  },
+  {
+    "text": "that has ever been seen potentially",
+    "start": 3230.515,
+    "duration": 1.99
+  },
+  {
+    "text": "in Silicon Valley history.",
+    "start": 3232.505,
+    "duration": 1.88
+  },
+  {
+    "text": "The idea of having a nonprofit\nstructure that is beholden to",
+    "start": 3234.385,
+    "duration": 5.0
+  },
+  {
+    "text": "no financial anything-",
+    "start": 3239.825,
+    "duration": 1.5
+  },
+  {
+    "text": "and clearly it spectacularly failed.",
+    "start": 3243.345,
+    "duration": 3.08
+  },
+  {
+    "text": "And, and one of the things that I've sort",
+    "start": 3246.425,
+    "duration": 1.94
+  },
+  {
+    "text": "of been thinking a lot about\nthroughout this whole sequence",
+    "start": 3248.365,
+    "duration": 3.44
+  },
+  {
+    "text": "of events is could it have\nactually actually happened any",
+    "start": 3251.805,
+    "duration": 3.28
+  },
+  {
+    "text": "other way if you set up\nthe structure that way you,",
+    "start": 3255.085,
+    "duration": 2.76
+  },
+  {
+    "text": "you know, like a lot of people\nwere criticizing the board,",
+    "start": 3257.845,
+    "duration": 2.5
+  },
+  {
+    "text": "you know, they, they did not",
+    "start": 3260.345,
+    "duration": 1.82
+  },
+  {
+    "text": "communicate things in the right way.",
+    "start": 3262.165,
+    "duration": 1.31
+  },
+  {
+    "text": "They still have not actually\ngiven full transparency about",
+    "start": 3263.475,
+    "duration": 2.49
+  },
+  {
+    "text": "their decision, but arguably\nthey actually did their job.",
+    "start": 3265.965,
+    "duration": 4.3
+  },
+  {
+    "text": "The job description that was\nwritten by Altman, by Brockman,",
+    "start": 3270.265,
+    "duration": 3.48
+  },
+  {
+    "text": "by Sutskever was that if they believed",
+    "start": 3273.745,
+    "duration": 2.66
+  },
+  {
+    "text": "that the CEO was no longer",
+    "start": 3276.405,
+    "duration": 2.75
+  },
+  {
+    "text": "upholding the mission, that they fire him.",
+    "start": 3279.155,
+    "duration": 2.23
+  },
+  {
+    "text": "So at some point, it\nprobably was going to happen",
+    "start": 3281.385,
+    "duration": 3.44
+  },
+  {
+    "text": "and the fallout would've been dramatic.",
+    "start": 3284.825,
+    "duration": 2.4
+  },
+  {
+    "text": "And so the fact",
+    "start": 3287.225,
+    "duration": 1.62
+  },
+  {
+    "text": "that it couldn't have happened\nany other way suggests",
+    "start": 3288.845,
+    "duration": 2.12
+  },
+  {
+    "text": "that in general,",
+    "start": 3290.965,
+    "duration": 1.51
+  },
+  {
+    "text": "even this like super\ncreative over-engineered way",
+    "start": 3292.475,
+    "duration": 3.69
+  },
+  {
+    "text": "of self-regulation is kind of a sham.",
+    "start": 3296.165,
+    "duration": 3.48
+  },
+  {
+    "text": "And the only way to kind of get around",
+    "start": 3301.185,
+    "duration": 2.98
+  },
+  {
+    "text": "regulating the development of\nthese technologies is to have",
+    "start": 3305.215,
+    "duration": 3.68
+  },
+  {
+    "text": "governance by people who govern\nby people that we've elected",
+    "start": 3308.895,
+    "duration": 3.86
+  },
+  {
+    "text": "that already like the institutions\nthat we've already set up",
+    "start": 3312.755,
+    "duration": 3.49
+  },
+  {
+    "text": "to do these kinds of things.",
+    "start": 3316.245,
+    "duration": 1.28
+  },
+  {
+    "text": "And I think that is, that is\nlike the most important lesson",
+    "start": 3318.865,
+    "duration": 3.4
+  },
+  {
+    "text": "and until we have, you\nknow, I mean I know a lot",
+    "start": 3322.265,
+    "duration": 2.82
+  },
+  {
+    "text": "of policymakers are already\nmoving very aggressively on",
+    "start": 3325.085,
+    "duration": 2.8
+  },
+  {
+    "text": "trying to figure out a way\nto regulate these companies",
+    "start": 3327.885,
+    "duration": 2.2
+  },
+  {
+    "text": "and regulate this technology,\nbut until we get to",
+    "start": 3330.085,
+    "duration": 2.76
+  },
+  {
+    "text": "that point, and I also think\nthat just anyone in the world",
+    "start": 3332.845,
+    "duration": 3.68
+  },
+  {
+    "text": "who is going to have AI\nimpacting them,",
+    "start": 3338.425,
+    "duration": 4.47
+  },
+  {
+    "text": "their education, their work,\ntheir life should recognize",
+    "start": 3342.895,
+    "duration": 4.42
+  },
+  {
+    "text": "that they also have a voice in this.",
+    "start": 3347.315,
+    "duration": 1.8
+  },
+  {
+    "text": "Like we collectively kind\nof watch these events",
+    "start": 3349.115,
+    "duration": 5.0
+  },
+  {
+    "text": "happening at OpenAI almost",
+    "start": 3354.275,
+    "duration": 1.81
+  },
+  {
+    "text": "completely on the sidelines, right?",
+    "start": 3357.135,
+    "duration": 1.67
+  },
+  {
+    "text": "Like none of us were able\nto participate in this.",
+    "start": 3358.805,
+    "duration": 1.96
+  },
+  {
+    "text": "None of us were able to kind of vocalize.",
+    "start": 3360.765,
+    "duration": 2.9
+  },
+  {
+    "text": "But policymakers are working\non regulations right now.",
+    "start": 3363.665,
+    "duration": 4.41
+  },
+  {
+    "text": "Like there are many Congress people",
+    "start": 3368.075,
+    "duration": 1.64
+  },
+  {
+    "text": "that are working on\nregulations, there are many",
+    "start": 3369.715,
+    "duration": 2.69
+  },
+  {
+    "text": "agencies in the U.S. or\nin Europe or in China",
+    "start": 3372.405,
+    "duration": 3.78
+  },
+  {
+    "text": "or anywhere, everyone is sort",
+    "start": 3376.185,
+    "duration": 2.62
+  },
+  {
+    "text": "of advancing on these regulations",
+    "start": 3378.805,
+    "duration": 2.66
+  },
+  {
+    "text": "and in the U.S. we have a unique ability",
+    "start": 3381.465,
+    "duration": 4.16
+  },
+  {
+    "text": "to actually tell the people\nwho represent us what we want",
+    "start": 3385.625,
+    "duration": 3.18
+  },
+  {
+    "text": "to see in those regulations.",
+    "start": 3388.805,
+    "duration": 2.26
+  },
+  {
+    "text": "And I think this was\nsort of a wake-up call",
+    "start": 3391.065,
+    "duration": 3.0
+  },
+  {
+    "text": "and a rallying moment for all\nof us to realize that this is",
+    "start": 3394.065,
+    "duration": 4.94
+  },
+  {
+    "text": "what happens when you take a step back",
+    "start": 3399.005,
+    "duration": 2.62
+  },
+  {
+    "text": "and don't participate in\nvoicing your concerns around one",
+    "start": 3401.625,
+    "duration": 4.3
+  },
+  {
+    "text": "of the most consequential technologies.",
+    "start": 3405.925,
+    "duration": 1.56
+  },
+  {
+    "text": "- In the lead up to, you\nknow, the release of some",
+    "start": 3408.525,
+    "duration": 3.7
+  },
+  {
+    "text": "of OpenAI's models,",
+    "start": 3412.225,
+    "duration": 2.53
+  },
+  {
+    "text": "there, there's been\nsort of like a speaking tour",
+    "start": 3414.755,
+    "duration": 2.73
+  },
+  {
+    "text": "of folks in going to Washington\ntalking to legislators",
+    "start": 3417.485,
+    "duration": 5.0
+  },
+  {
+    "text": "about AI",
+    "start": 3422.595,
+    "duration": 1.65
+  },
+  {
+    "text": "and there was a, the worry at",
+    "start": 3424.245,
+    "duration": 2.3
+  },
+  {
+    "text": "that time was about regulatory capture.",
+    "start": 3426.545,
+    "duration": 2.19
+  },
+  {
+    "text": "Like are they, are folks\ngoing to essentially gate",
+    "start": 3428.735,
+    "duration": 4.43
+  },
+  {
+    "text": "the technology in such a way",
+    "start": 3433.165,
+    "duration": 1.62
+  },
+  {
+    "text": "that smaller players are not\ngonna be able to play ball?",
+    "start": 3434.785,
+    "duration": 3.06
+  },
+  {
+    "text": "And we've seen regulatory\ncapture happen a lot within",
+    "start": 3437.845,
+    "duration": 4.48
+  },
+  {
+    "text": "the political realm within Washington.",
+    "start": 3442.325,
+    "duration": 1.58
+  },
+  {
+    "text": "But there's also this question",
+    "start": 3444.805,
+    "duration": 1.1
+  },
+  {
+    "text": "of like effectiveness\nin terms of regulation.",
+    "start": 3445.905,
+    "duration": 2.67
+  },
+  {
+    "text": "Like just because the regulation\nhas passed doesn't mean",
+    "start": 3448.575,
+    "duration": 2.21
+  },
+  {
+    "text": "it's actually a good regulation",
+    "start": 3450.785,
+    "duration": 1.9
+  },
+  {
+    "text": "or if this body of\nCongress is actually able",
+    "start": 3452.685,
+    "duration": 3.1
+  },
+  {
+    "text": "to regulate this fast-moving technology",
+    "start": 3455.785,
+    "duration": 2.32
+  },
+  {
+    "text": "well, like they can't even pass a budget,",
+    "start": 3458.105,
+    "duration": 1.71
+  },
+  {
+    "text": "like how are they gonna keep\nup with the pace of AI change?",
+    "start": 3459.815,
+    "duration": 2.67
+  },
+  {
+    "text": "So I'm curious about that\nas a tool for dealing with",
+    "start": 3462.485,
+    "duration": 3.9
+  },
+  {
+    "text": "AI safety because it in some\nsense it feels like one the the",
+    "start": 3467.325,
+    "duration": 4.69
+  },
+  {
+    "text": "legislative body or processes",
+    "start": 3472.015,
+    "duration": 2.27
+  },
+  {
+    "text": "or capable to be captured\nby interested parties",
+    "start": 3474.285,
+    "duration": 3.04
+  },
+  {
+    "text": "and two, even when they do\nregulate sometimes they just do a",
+    "start": 3477.325,
+    "duration": 3.42
+  },
+  {
+    "text": "poor job, they just miss the thing",
+    "start": 3480.745,
+    "duration": 1.56
+  },
+  {
+    "text": "that is the key regulatory factor.",
+    "start": 3482.305,
+    "duration": 2.02
+  },
+  {
+    "text": "So I'm curious about\nyour conception there,",
+    "start": 3484.325,
+    "duration": 2.28
+  },
+  {
+    "text": "and how to deal with some\nof the messiness that comes",
+    "start": 3486.605,
+    "duration": 2.3
+  },
+  {
+    "text": "with those types of approaches to dealing",
+    "start": 3488.905,
+    "duration": 2.2
+  },
+  {
+    "text": "with technological safety.",
+    "start": 3491.105,
+    "duration": 1.59
+  },
+  {
+    "text": "- Regulatory capture is a huge issue",
+    "start": 3492.695,
+    "duration": 1.77
+  },
+  {
+    "text": "and it is definitely a big\nconcern of mine in that and",
+    "start": 3494.465,
+    "duration": 3.82
+  },
+  {
+    "text": "and one of, one of the reasons why",
+    "start": 3498.285,
+    "duration": 1.62
+  },
+  {
+    "text": "we would naturally see regulatory\ncapture in this moment,",
+    "start": 3501.195,
+    "duration": 3.42
+  },
+  {
+    "text": "regardless of whether it's\nOpenAI at the helm, is that",
+    "start": 3504.615,
+    "duration": 3.258
+  },
+  {
+    "text": "there is a particular\nnarrative that in order to",
+    "start": 3507.873,
+    "duration": 3.302
+  },
+  {
+    "text": "understand and shepherd\nAI development, you have",
+    "start": 3512.505,
+    "duration": 3.03
+  },
+  {
+    "text": "to be an AI expert.",
+    "start": 3515.535,
+    "duration": 1.78
+  },
+  {
+    "text": "And I think that that\nnarrative is completely wrong",
+    "start": 3517.315,
+    "duration": 3.46
+  },
+  {
+    "text": "because if AI affects you, you have a say,",
+    "start": 3520.775,
+    "duration": 4.38
+  },
+  {
+    "text": "and actually stories about people",
+    "start": 3525.155,
+    "duration": 2.26
+  },
+  {
+    "text": "who are impacted in unexpected\nways by these technologies is,",
+    "start": 3527.415,
+    "duration": 3.94
+  },
+  {
+    "text": "as a reporter, that is one of\nthe most enlightening types",
+    "start": 3531.355,
+    "duration": 2.54
+  },
+  {
+    "text": "of stories for me in understanding",
+    "start": 3533.895,
+    "duration": 2.42
+  },
+  {
+    "text": "how a technology should\nbe developed, is seeing",
+    "start": 3536.315,
+    "duration": 2.12
+  },
+  {
+    "text": "how it falls apart and",
+    "start": 3538.435,
+    "duration": 2.28
+  },
+  {
+    "text": "and seeing when sort of- things",
+    "start": 3540.715,
+    "duration": 4.37
+  },
+  {
+    "text": "that were unanticipated end up\nhappening in the real world.",
+    "start": 3545.085,
+    "duration": 2.4
+  },
+  {
+    "text": "And in OpenAI's case in\nparticular, they have also kind",
+    "start": 3549.105,
+    "duration": 3.74
+  },
+  {
+    "text": "of tried to solidify this\nnarrative of expertise",
+    "start": 3552.845,
+    "duration": 3.34
+  },
+  {
+    "text": "by also saying, \"Well we're the only ones",
+    "start": 3556.185,
+    "duration": 3.18
+  },
+  {
+    "text": "that see our models,\" without\nnecessarily acknowledging",
+    "start": 3559.365,
+    "duration": 3.52
+  },
+  {
+    "text": "that it's in part because they",
+    "start": 3562.885,
+    "duration": 1.32
+  },
+  {
+    "text": "won't let anyone else see them.",
+    "start": 3564.205,
+    "duration": 1.2
+  },
+  {
+    "text": "And because regulators,",
+    "start": 3566.825,
+    "duration": 2.26
+  },
+  {
+    "text": "because it is important\nfor regulators to engage",
+    "start": 3570.475,
+    "duration": 2.97
+  },
+  {
+    "text": "with the developers of\nthese technologies, sort of",
+    "start": 3573.445,
+    "duration": 2.88
+  },
+  {
+    "text": "by default, they just seek\nout OpenAI's opinions on",
+    "start": 3576.325,
+    "duration": 4.48
+  },
+  {
+    "text": "what they should do or Google's",
+    "start": 3580.805,
+    "duration": 1.48
+  },
+  {
+    "text": "opinions on what they should do;",
+    "start": 3582.285,
+    "duration": 1.08
+  },
+  {
+    "text": "Meta's opinions on what they should do.",
+    "start": 3583.365,
+    "duration": 1.54
+  },
+  {
+    "text": "And that's when regulatory\ncapture happens is there's",
+    "start": 3584.905,
+    "duration": 2.5
+  },
+  {
+    "text": "already a baseline belief that only people",
+    "start": 3587.405,
+    "duration": 3.2
+  },
+  {
+    "text": "with expertise should participate.",
+    "start": 3590.605,
+    "duration": 1.62
+  },
+  {
+    "text": "And then on top of that,\ncompanies are like trying",
+    "start": 3592.225,
+    "duration": 2.74
+  },
+  {
+    "text": "to entrench this and fuel this narrative",
+    "start": 3594.965,
+    "duration": 1.78
+  },
+  {
+    "text": "and then policymakers\nbuy into the narrative.",
+    "start": 3596.745,
+    "duration": 2.96
+  },
+  {
+    "text": "And that's how you end up\nwith like Sam Altman on this",
+    "start": 3599.705,
+    "duration": 1.94
+  },
+  {
+    "text": "global tour seeing all the\nheads of state",
+    "start": 3601.645,
+    "duration": 2.9
+  },
+  {
+    "text": "and the heads of state not necessarily",
+    "start": 3604.545,
+    "duration": 1.38
+  },
+  {
+    "text": "creating the same kind of grand welcome",
+    "start": 3608.005,
+    "duration": 2.98
+  },
+  {
+    "text": "for other stakeholders within\nthis AI debate.",
+    "start": 3610.985,
+    "duration": 3.3
+  },
+  {
+    "text": "You're right also that\nthere are concerns around",
+    "start": 3616.845,
+    "duration": 4.48
+  },
+  {
+    "text": "how effective that regulation can be.",
+    "start": 3621.325,
+    "duration": 2.1
+  },
+  {
+    "text": "I do think what I'm talking about",
+    "start": 3624.465,
+    "duration": 2.58
+  },
+  {
+    "text": "with like having more\npeople speak up about",
+    "start": 3627.045,
+    "duration": 2.32
+  },
+  {
+    "text": "how AI affects them",
+    "start": 3629.365,
+    "duration": 1.5
+  },
+  {
+    "text": "and their concerns about the\ntechnology is one antidote to",
+    "start": 3630.865,
+    "duration": 3.02
+  },
+  {
+    "text": "ineffective regulation",
+    "start": 3634.925,
+    "duration": 1.04
+  },
+  {
+    "text": "because the more that\npolicymakers can understand the",
+    "start": 3635.965,
+    "duration": 3.16
+  },
+  {
+    "text": "literal real-world examples\nof the technology interfacing",
+    "start": 3639.125,
+    "duration": 3.04
+  },
+  {
+    "text": "with people, the more",
+    "start": 3642.165,
+    "duration": 1.2
+  },
+  {
+    "text": "that they can design\nregulation that is effective.",
+    "start": 3643.365,
+    "duration": 3.02
+  },
+  {
+    "text": "But the other thing is I\nthink we focus a lot on kind",
+    "start": 3646.385,
+    "duration": 3.42
+  },
+  {
+    "text": "of federal-level regulation",
+    "start": 3649.805,
+    "duration": 1.28
+  },
+  {
+    "text": "and we focus a lot on\nin our government,",
+    "start": 3651.085,
+    "duration": 3.61
+  },
+  {
+    "text": "international regulation,",
+    "start": 3655.695,
+    "duration": 1.92
+  },
+  {
+    "text": "but there's a lot that happens\nat the local level as well,",
+    "start": 3657.615,
+    "duration": 3.47
+  },
+  {
+    "text": "like school boards.",
+    "start": 3661.085,
+    "duration": 1.52
+  },
+  {
+    "text": "Schools are thinking about how",
+    "start": 3662.605,
+    "duration": 1.33
+  },
+  {
+    "text": "to incorporate AI in into\nthe classroom right now.",
+    "start": 3663.935,
+    "duration": 3.22
+  },
+  {
+    "text": "And as a parent, as a teacher,\nlike you should have a say in",
+    "start": 3667.155,
+    "duration": 4.18
+  },
+  {
+    "text": "that you are the one, if you're\na teacher, you're the one",
+    "start": 3671.335,
+    "duration": 3.2
+  },
+  {
+    "text": "that's using this technology",
+    "start": 3674.535,
+    "duration": 1.42
+  },
+  {
+    "text": "and you're the one that\nknows your students.",
+    "start": 3675.955,
+    "duration": 1.92
+  },
+  {
+    "text": "So you will be the most informed\nin that kind of environment",
+    "start": 3677.875,
+    "duration": 4.12
+  },
+  {
+    "text": "to say whether or not you think\nthis technology is going to",
+    "start": 3681.995,
+    "duration": 2.86
+  },
+  {
+    "text": "help in kind of the general\nmission to educate your kids.",
+    "start": 3685.895,
+    "duration": 3.53
+  },
+  {
+    "text": "It's also like police\ndepartments are acquiring",
+    "start": 3691.095,
+    "duration": 4.71
+  },
+  {
+    "text": "AI technologies and people within cities",
+    "start": 3695.805,
+    "duration": 5.0
+  },
+  {
+    "text": "should have a say as to\nhaving more transparency",
+    "start": 3700.845,
+    "duration": 3.36
+  },
+  {
+    "text": "around the acquisition of\nthese, these technologies",
+    "start": 3704.205,
+    "duration": 2.08
+  },
+  {
+    "text": "and whether or not that\nshould be acquired at all.",
+    "start": 3706.285,
+    "duration": 1.62
+  },
+  {
+    "text": "And I think in these\nlocal contexts, sometimes",
+    "start": 3708.965,
+    "duration": 2.82
+  },
+  {
+    "text": "these contexts, actually\nregulation is more effective",
+    "start": 3713.675,
+    "duration": 3.23
+  },
+  {
+    "text": "because it is more localized,\nit is more bespoke to",
+    "start": 3716.905,
+    "duration": 4.23
+  },
+  {
+    "text": "that context, and it also moves faster.",
+    "start": 3721.135,
+    "duration": 2.73
+  },
+  {
+    "text": "So I think that is sort\nof an important dimension",
+    "start": 3724.965,
+    "duration": 3.1
+  },
+  {
+    "text": "to add is when I say \"Speak up",
+    "start": 3728.065,
+    "duration": 1.76
+  },
+  {
+    "text": "and voice your opinions,\" it's not just",
+    "start": 3729.825,
+    "duration": 1.36
+  },
+  {
+    "text": "to the federal agencies, it's not just",
+    "start": 3731.185,
+    "duration": 1.52
+  },
+  {
+    "text": "to the Congress people actually,\njust like within your city,",
+    "start": 3732.705,
+    "duration": 3.64
+  },
+  {
+    "text": "within your town, within your\nschool, within your workplace,",
+    "start": 3736.345,
+    "duration": 2.75
+  },
+  {
+    "text": "these are all avenues in\nwhich you can kind of speak up",
+    "start": 3739.095,
+    "duration": 3.35
+  },
+  {
+    "text": "and help shepherd the\ndevelopment, adoption",
+    "start": 3742.445,
+    "duration": 3.4
+  },
+  {
+    "text": "and application of the technology.",
+    "start": 3745.845,
+    "duration": 1.8
+  },
+  {
+    "text": "- Karen, thank you so much\nfor joining us on Big Think",
+    "start": 3748.555,
+    "duration": 2.41
+  },
+  {
+    "text": "and sharing your expertise\nwith our audience about OpenAI",
+    "start": 3750.965,
+    "duration": 2.66
+  },
+  {
+    "text": "and all the things that are\nhappening in the world of AI.",
+    "start": 3753.625,
+    "duration": 3.41
+  },
+  {
+    "text": "- Thank you so much, Robert.",
+    "start": 3757.035,
+    "duration": 1.11
+  }
+]

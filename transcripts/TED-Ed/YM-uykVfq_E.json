@@ -1,0 +1,407 @@
+[
+  {
+    "text": "There's a concept that's crucial\nto chemistry and physics.",
+    "start": 6.875,
+    "duration": 3.578
+  },
+  {
+    "text": "It helps explain why physical processes\ngo one way and not the other:",
+    "start": 10.453,
+    "duration": 4.84
+  },
+  {
+    "text": "why ice melts,",
+    "start": 15.293,
+    "duration": 1.556
+  },
+  {
+    "text": "why cream spreads in coffee,",
+    "start": 16.849,
+    "duration": 2.43
+  },
+  {
+    "text": "why air leaks out of a punctured tire.",
+    "start": 19.279,
+    "duration": 3.25
+  },
+  {
+    "text": "It's entropy, and it's notoriously\ndifficult to wrap our heads around.",
+    "start": 22.529,
+    "duration": 4.51
+  },
+  {
+    "text": "Entropy is often described as\na measurement of disorder.",
+    "start": 27.039,
+    "duration": 4.84
+  },
+  {
+    "text": "That's a convenient image,\nbut it's unfortunately misleading.",
+    "start": 31.879,
+    "duration": 3.86
+  },
+  {
+    "text": "For example, which is more disordered -",
+    "start": 35.739,
+    "duration": 2.772
+  },
+  {
+    "text": "a cup of crushed ice or a glass\nof room temperature water?",
+    "start": 38.511,
+    "duration": 4.958
+  },
+  {
+    "text": "Most people would say the ice,",
+    "start": 43.469,
+    "duration": 1.904
+  },
+  {
+    "text": "but that actually has lower entropy.",
+    "start": 45.373,
+    "duration": 3.696
+  },
+  {
+    "text": "So here's another way of thinking\nabout it through probability.",
+    "start": 49.069,
+    "duration": 3.829
+  },
+  {
+    "text": "This may be trickier to understand,\nbut take the time to internalize it",
+    "start": 52.898,
+    "duration": 4.392
+  },
+  {
+    "text": "and you'll have a much better \nunderstanding of entropy.",
+    "start": 57.29,
+    "duration": 3.97
+  },
+  {
+    "text": "Consider two small solids",
+    "start": 61.26,
+    "duration": 2.401
+  },
+  {
+    "text": "which are comprised \nof six atomic bonds each.",
+    "start": 63.661,
+    "duration": 3.88
+  },
+  {
+    "text": "In this model, the energy in each solid\nis stored in the bonds.",
+    "start": 67.541,
+    "duration": 5.24
+  },
+  {
+    "text": "Those can be thought of \nas simple containers,",
+    "start": 72.781,
+    "duration": 2.511
+  },
+  {
+    "text": "which can hold indivisible units of energy\nknown as quanta.",
+    "start": 75.292,
+    "duration": 4.778
+  },
+  {
+    "text": "The more energy a solid has,\nthe hotter it is.",
+    "start": 80.07,
+    "duration": 4.531
+  },
+  {
+    "text": "It turns out that there are numerous\nways that the energy can be distributed",
+    "start": 84.601,
+    "duration": 4.441
+  },
+  {
+    "text": "in the two solids",
+    "start": 89.042,
+    "duration": 1.51
+  },
+  {
+    "text": "and still have the same \ntotal energy in each.",
+    "start": 90.552,
+    "duration": 4.04
+  },
+  {
+    "text": "Each of these options \nis called a microstate.",
+    "start": 94.592,
+    "duration": 3.91
+  },
+  {
+    "text": "For six quanta of energy in Solid A\nand two in Solid B,",
+    "start": 98.502,
+    "duration": 4.839
+  },
+  {
+    "text": "there are 9,702 microstates.",
+    "start": 103.341,
+    "duration": 4.491
+  },
+  {
+    "text": "Of course, there are other ways our eight\nquanta of energy can be arranged.",
+    "start": 107.832,
+    "duration": 5.029
+  },
+  {
+    "text": "For example, all of the energy\ncould be in Solid A and none in B,",
+    "start": 112.861,
+    "duration": 4.972
+  },
+  {
+    "text": "or half in A and half in B.",
+    "start": 117.833,
+    "duration": 3.039
+  },
+  {
+    "text": "If we assume that each microstate\nis equally likely,",
+    "start": 120.872,
+    "duration": 3.282
+  },
+  {
+    "text": "we can see that some of the energy\nconfigurations",
+    "start": 124.154,
+    "duration": 2.64
+  },
+  {
+    "text": "have a higher probability of occurring\nthan others.",
+    "start": 126.794,
+    "duration": 3.749
+  },
+  {
+    "text": "That's due to their greater number\nof microstates.",
+    "start": 130.543,
+    "duration": 3.641
+  },
+  {
+    "text": "Entropy is a direct measure of each\nenergy configuration's probability.",
+    "start": 134.184,
+    "duration": 5.959
+  },
+  {
+    "text": "What we see is that the energy\nconfiguration",
+    "start": 140.143,
+    "duration": 3.05
+  },
+  {
+    "text": "in which the energy\nis most spread out between the solids",
+    "start": 143.193,
+    "duration": 3.65
+  },
+  {
+    "text": "has the highest entropy.",
+    "start": 146.843,
+    "duration": 2.081
+  },
+  {
+    "text": "So in a general sense,",
+    "start": 148.924,
+    "duration": 1.55
+  },
+  {
+    "text": "entropy can be thought of as a measurement\nof this energy spread.",
+    "start": 150.474,
+    "duration": 4.379
+  },
+  {
+    "text": "Low entropy means \nthe energy is concentrated.",
+    "start": 154.853,
+    "duration": 3.04
+  },
+  {
+    "text": "High entropy means it's spread out.",
+    "start": 157.893,
+    "duration": 3.73
+  },
+  {
+    "text": "To see why entropy is useful for\nexplaining spontaneous processes,",
+    "start": 161.623,
+    "duration": 4.142
+  },
+  {
+    "text": "like hot objects cooling down,",
+    "start": 165.765,
+    "duration": 2.31
+  },
+  {
+    "text": "we need to look at a dynamic system\nwhere the energy moves.",
+    "start": 168.075,
+    "duration": 4.359
+  },
+  {
+    "text": "In reality, energy doesn't stay put.",
+    "start": 172.434,
+    "duration": 2.501
+  },
+  {
+    "text": "It continuously moves between \nneighboring bonds.",
+    "start": 174.935,
+    "duration": 3.13
+  },
+  {
+    "text": "As the energy moves,",
+    "start": 178.065,
+    "duration": 2.141
+  },
+  {
+    "text": "the energy configuration can change.",
+    "start": 180.206,
+    "duration": 2.749
+  },
+  {
+    "text": "Because of the distribution \nof microstates,",
+    "start": 182.955,
+    "duration": 2.13
+  },
+  {
+    "text": "there's a 21% chance that the system\nwill later be in the configuration",
+    "start": 185.085,
+    "duration": 4.751
+  },
+  {
+    "text": "in which the energy is maximally \nspread out,",
+    "start": 189.836,
+    "duration": 3.759
+  },
+  {
+    "text": "there's a 13% chance that it will\nreturn to its starting point,",
+    "start": 193.595,
+    "duration": 3.762
+  },
+  {
+    "text": "and an 8% chance that A will actually\ngain energy.",
+    "start": 197.357,
+    "duration": 5.5
+  },
+  {
+    "text": "Again, we see that because there are\nmore ways to have dispersed energy",
+    "start": 202.857,
+    "duration": 4.078
+  },
+  {
+    "text": "and high entropy than concentrated energy,",
+    "start": 206.935,
+    "duration": 3.091
+  },
+  {
+    "text": "the energy tends to spread out.",
+    "start": 210.026,
+    "duration": 2.532
+  },
+  {
+    "text": "That's why if you put a hot object\nnext to a cold one,",
+    "start": 212.558,
+    "duration": 2.951
+  },
+  {
+    "text": "the cold one will warm up\nand the hot one will cool down.",
+    "start": 215.509,
+    "duration": 4.911
+  },
+  {
+    "text": "But even in that example,",
+    "start": 220.42,
+    "duration": 1.447
+  },
+  {
+    "text": "there is an 8% chance that the hot object\nwould get hotter.",
+    "start": 221.867,
+    "duration": 5.249
+  },
+  {
+    "text": "Why doesn't this ever happen\nin real life?",
+    "start": 227.116,
+    "duration": 4.311
+  },
+  {
+    "text": "It's all about the size of the system.",
+    "start": 231.427,
+    "duration": 2.75
+  },
+  {
+    "text": "Our hypothetical solids only had\nsix bonds each.",
+    "start": 234.177,
+    "duration": 3.88
+  },
+  {
+    "text": "Let's scale the solids up to 6,000 bonds\nand 8,000 units of energy,",
+    "start": 238.057,
+    "duration": 5.881
+  },
+  {
+    "text": "and again start the system with\nthree-quarters of the energy in A",
+    "start": 243.938,
+    "duration": 3.589
+  },
+  {
+    "text": "and one-quarter in B.",
+    "start": 247.527,
+    "duration": 2.6
+  },
+  {
+    "text": "Now we find that chance of A\nspontaneously acquiring more energy",
+    "start": 250.127,
+    "duration": 4.21
+  },
+  {
+    "text": "is this tiny number.",
+    "start": 254.337,
+    "duration": 2.91
+  },
+  {
+    "text": "Familiar, everyday objects have many, many\ntimes more particles than this.",
+    "start": 257.247,
+    "duration": 5.061
+  },
+  {
+    "text": "The chance of a hot object \nin the real world getting hotter",
+    "start": 262.308,
+    "duration": 3.612
+  },
+  {
+    "text": "is so absurdly small,",
+    "start": 265.92,
+    "duration": 2.091
+  },
+  {
+    "text": "it just never happens.",
+    "start": 268.011,
+    "duration": 2.398
+  },
+  {
+    "text": "Ice melts,",
+    "start": 270.409,
+    "duration": 1.119
+  },
+  {
+    "text": "cream mixes in,",
+    "start": 271.528,
+    "duration": 1.39
+  },
+  {
+    "text": "and tires deflate",
+    "start": 272.918,
+    "duration": 1.758
+  },
+  {
+    "text": "because these states have more\ndispersed energy than the originals.",
+    "start": 274.676,
+    "duration": 5.266
+  },
+  {
+    "text": "There's no mysterious force\nnudging the system towards higher entropy.",
+    "start": 279.942,
+    "duration": 3.688
+  },
+  {
+    "text": "It's just that higher entropy is always\nstatistically more likely.",
+    "start": 283.63,
+    "duration": 5.298
+  },
+  {
+    "text": "That's why entropy has been called\ntime's arrow.",
+    "start": 288.928,
+    "duration": 3.552
+  },
+  {
+    "text": "If energy has the opportunity\nto spread out, it will.",
+    "start": 292.48,
+    "duration": 4.259
+  }
+]

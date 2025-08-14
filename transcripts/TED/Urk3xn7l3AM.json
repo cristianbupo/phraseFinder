@@ -1,0 +1,1297 @@
+[
+  {
+    "text": "Someday, we may have robots\nas smart as people,",
+    "start": 13.341,
+    "duration": 4.444
+  },
+  {
+    "text": "artificial intelligence, AI.",
+    "start": 17.809,
+    "duration": 2.474
+  },
+  {
+    "text": "How could that happen?",
+    "start": 20.307,
+    "duration": 1.476
+  },
+  {
+    "text": "One route is that we'll just keep\naccumulating better software,",
+    "start": 22.632,
+    "duration": 3.184
+  },
+  {
+    "text": "like we've been doing for 70 years.",
+    "start": 25.84,
+    "duration": 1.992
+  },
+  {
+    "text": "At past rates of progress,\nthat may take centuries.",
+    "start": 28.363,
+    "duration": 2.936
+  },
+  {
+    "text": "Some say it'll happen a lot faster",
+    "start": 31.958,
+    "duration": 2.35
+  },
+  {
+    "text": "as we discover grand new\npowerful theories of intelligence.",
+    "start": 34.332,
+    "duration": 3.491
+  },
+  {
+    "text": "I'm skeptical.",
+    "start": 38.227,
+    "duration": 1.199
+  },
+  {
+    "text": "But a third scenario",
+    "start": 40.428,
+    "duration": 3.061
+  },
+  {
+    "text": "is what I'm going to talk about today.",
+    "start": 43.513,
+    "duration": 1.827
+  },
+  {
+    "text": "The idea is to port the software\nfrom the human brain.",
+    "start": 45.364,
+    "duration": 2.738
+  },
+  {
+    "text": "To do this, we're going to need\nthree technologies to be good enough,",
+    "start": 48.792,
+    "duration": 3.301
+  },
+  {
+    "text": "and none of them are there yet.",
+    "start": 52.117,
+    "duration": 1.555
+  },
+  {
+    "text": "First, we're going to need\nlots of cheap, fast, parallel computers.",
+    "start": 54.237,
+    "duration": 4.714
+  },
+  {
+    "text": "Second, we're going to need\nto scan individual human brains",
+    "start": 60.675,
+    "duration": 4.207
+  },
+  {
+    "text": "in fine spatial and chemical detail,",
+    "start": 64.906,
+    "duration": 2.238
+  },
+  {
+    "text": "to see exactly what cells are where,\nconnected to what, of what type.",
+    "start": 67.168,
+    "duration": 4.028
+  },
+  {
+    "text": "And third, we're going to need\ncomputer models",
+    "start": 71.22,
+    "duration": 4.356
+  },
+  {
+    "text": "of how each kind of brain cell works --",
+    "start": 75.6,
+    "duration": 2.222
+  },
+  {
+    "text": "taking input signals,\nchanging interval state",
+    "start": 78.822,
+    "duration": 2.58
+  },
+  {
+    "text": "and sending output signals.",
+    "start": 81.426,
+    "duration": 1.294
+  },
+  {
+    "text": "If we have good enough models\nof all the kinds of brain cells",
+    "start": 82.744,
+    "duration": 3.818
+  },
+  {
+    "text": "and a good enough model of the brain,",
+    "start": 86.586,
+    "duration": 1.763
+  },
+  {
+    "text": "we can put it together to make\na good enough model of an entire brain,",
+    "start": 88.373,
+    "duration": 3.434
+  },
+  {
+    "text": "and that model would have the same\ninput-output behavior as the original.",
+    "start": 91.831,
+    "duration": 4.003
+  },
+  {
+    "text": "So if you talk to it, it might talk back.",
+    "start": 95.858,
+    "duration": 2.485
+  },
+  {
+    "text": "If you ask it to do things,\nit might do them.",
+    "start": 98.367,
+    "duration": 2.097
+  },
+  {
+    "text": "And if we could do that,\neverything would change.",
+    "start": 100.488,
+    "duration": 2.822
+  },
+  {
+    "text": "People have been talking\nabout this idea for decades,",
+    "start": 103.334,
+    "duration": 2.568
+  },
+  {
+    "text": "under the name of \"uploads.\"",
+    "start": 105.926,
+    "duration": 1.789
+  },
+  {
+    "text": "I'm going to call them \"ems.\"",
+    "start": 107.739,
+    "duration": 1.484
+  },
+  {
+    "text": "When they talk about it, they say,",
+    "start": 110.175,
+    "duration": 2.604
+  },
+  {
+    "text": "\"Is this even possible?",
+    "start": 112.803,
+    "duration": 1.544
+  },
+  {
+    "text": "If you made one, would it be conscious?\nOr is it just an empty machine?",
+    "start": 114.658,
+    "duration": 3.351
+  },
+  {
+    "text": "If you made one of me,\nis that me or someone else?\"",
+    "start": 118.033,
+    "duration": 2.452
+  },
+  {
+    "text": "These are all fascinating questions\nthat I'm going to ignore ...",
+    "start": 120.856,
+    "duration": 3.102
+  },
+  {
+    "text": "(Laughter)",
+    "start": 123.982,
+    "duration": 2.365
+  },
+  {
+    "text": "because I see a neglected question:",
+    "start": 126.861,
+    "duration": 2.089
+  },
+  {
+    "text": "What would actually happen?",
+    "start": 128.974,
+    "duration": 1.61
+  },
+  {
+    "text": "I became obsessed with this question.",
+    "start": 132.26,
+    "duration": 1.904
+  },
+  {
+    "text": "I spent four years trying to analyze it,",
+    "start": 135.813,
+    "duration": 2.953
+  },
+  {
+    "text": "using standard academic tools,\nto guess what would happen,",
+    "start": 138.79,
+    "duration": 3.547
+  },
+  {
+    "text": "and I'm here to tell you what I found.",
+    "start": 142.361,
+    "duration": 1.849
+  },
+  {
+    "text": "But be warned --",
+    "start": 144.748,
+    "duration": 1.382
+  },
+  {
+    "text": "I'm not offering inspiration,\nI'm offering analysis.",
+    "start": 146.542,
+    "duration": 3.407
+  },
+  {
+    "text": "I see my job as telling you\nwhat's most likely to happen",
+    "start": 149.973,
+    "duration": 2.794
+  },
+  {
+    "text": "if we did the least to avoid it.",
+    "start": 152.791,
+    "duration": 1.777
+  },
+  {
+    "text": "If you aren't at least a bit disturbed\nby something I tell you here,",
+    "start": 155.952,
+    "duration": 3.302
+  },
+  {
+    "text": "you're just not paying attention.",
+    "start": 159.278,
+    "duration": 1.594
+  },
+  {
+    "text": "(Laughter)",
+    "start": 160.896,
+    "duration": 1.351
+  },
+  {
+    "text": "OK, the first thing I can tell you",
+    "start": 162.271,
+    "duration": 2.596
+  },
+  {
+    "text": "is that ems spend most\nof their life in virtual reality.",
+    "start": 164.891,
+    "duration": 3.133
+  },
+  {
+    "text": "This is what you might look like\nif you were using virtual reality.",
+    "start": 168.639,
+    "duration": 4.484
+  },
+  {
+    "text": "And this is what you might see:",
+    "start": 173.894,
+    "duration": 2.15
+  },
+  {
+    "text": "sunlight glinting off of water,\nyou might hear gulls flying above,",
+    "start": 177.064,
+    "duration": 3.596
+  },
+  {
+    "text": "you might even feel the wind\non your cheeks or smell seawater,",
+    "start": 180.684,
+    "duration": 3.031
+  },
+  {
+    "text": "with advanced hardware.",
+    "start": 183.739,
+    "duration": 1.325
+  },
+  {
+    "text": "Now, if you were to spend\na lot of time here,",
+    "start": 185.902,
+    "duration": 2.097
+  },
+  {
+    "text": "you might want a dashboard",
+    "start": 188.023,
+    "duration": 1.266
+  },
+  {
+    "text": "where you could do things like\nmake a phone call,",
+    "start": 189.313,
+    "duration": 2.494
+  },
+  {
+    "text": "move to a new virtual world,",
+    "start": 191.831,
+    "duration": 1.55
+  },
+  {
+    "text": "check your bank account.",
+    "start": 193.405,
+    "duration": 1.3
+  },
+  {
+    "text": "Now, while this is what\nyou would look like in virtual reality,",
+    "start": 195.78,
+    "duration": 3.657
+  },
+  {
+    "text": "this is what an em\nwould look like in virtual reality.",
+    "start": 199.461,
+    "duration": 3.128
+  },
+  {
+    "text": "It's computer hardware\nsitting in a server rack somewhere.",
+    "start": 202.613,
+    "duration": 2.756
+  },
+  {
+    "text": "But still, it could see\nand experience the same thing.",
+    "start": 205.393,
+    "duration": 3.158
+  },
+  {
+    "text": "But some things are different for ems.",
+    "start": 209.102,
+    "duration": 1.83
+  },
+  {
+    "text": "First, while you'll probably always notice\nthat virtual reality isn't entirely real,",
+    "start": 211.51,
+    "duration": 4.786
+  },
+  {
+    "text": "to an em, it can feel as real to them\nas this room feels to you now",
+    "start": 216.32,
+    "duration": 3.254
+  },
+  {
+    "text": "or as anything ever feels.",
+    "start": 219.598,
+    "duration": 1.638
+  },
+  {
+    "text": "And ems also have\nsome more action possibilities.",
+    "start": 221.26,
+    "duration": 2.412
+  },
+  {
+    "text": "For example, your mind just always\nruns at the same speed,",
+    "start": 224.209,
+    "duration": 2.716
+  },
+  {
+    "text": "but an em can add more or less\ncomputer hardware to run faster or slower,",
+    "start": 226.949,
+    "duration": 3.841
+  },
+  {
+    "text": "and therefore, if the world around them\nseems to be going too fast,",
+    "start": 230.814,
+    "duration": 3.688
+  },
+  {
+    "text": "they can just speed up their mind,",
+    "start": 234.526,
+    "duration": 1.619
+  },
+  {
+    "text": "and the world around them\nwould seem to slow down.",
+    "start": 236.169,
+    "duration": 2.35
+  },
+  {
+    "text": "In addition, an em can make\na copy of itself at that moment.",
+    "start": 238.543,
+    "duration": 4.841
+  },
+  {
+    "text": "This copy would remember\neverything the same,",
+    "start": 243.94,
+    "duration": 2.097
+  },
+  {
+    "text": "and if it starts out with the same speed,\nlooking at the same speed,",
+    "start": 246.061,
+    "duration": 3.316
+  },
+  {
+    "text": "it might even need to be told,\n\"You are the copy.\"",
+    "start": 249.401,
+    "duration": 2.651
+  },
+  {
+    "text": "And em could make archive copies,",
+    "start": 252.599,
+    "duration": 1.573
+  },
+  {
+    "text": "and with enough archives,",
+    "start": 254.196,
+    "duration": 1.824
+  },
+  {
+    "text": "an em can be immortal --",
+    "start": 256.044,
+    "duration": 2.072
+  },
+  {
+    "text": "in principle, though not\nusually in practice.",
+    "start": 258.14,
+    "duration": 2.19
+  },
+  {
+    "text": "And an em can move its brain,\nthe computer that represents its brain,",
+    "start": 261.231,
+    "duration": 3.532
+  },
+  {
+    "text": "from one physical location to another.",
+    "start": 264.787,
+    "duration": 2.087
+  },
+  {
+    "text": "Ems can actually move around the world\nat the speed of light,",
+    "start": 267.857,
+    "duration": 3.318
+  },
+  {
+    "text": "and by moving to a new location,",
+    "start": 271.199,
+    "duration": 1.532
+  },
+  {
+    "text": "they can interact more quickly\nwith ems near that new location.",
+    "start": 272.755,
+    "duration": 3.264
+  },
+  {
+    "text": "So far, I've been talking about\nwhat ems can do.",
+    "start": 276.043,
+    "duration": 4.277
+  },
+  {
+    "text": "What do ems choose to do?",
+    "start": 281.047,
+    "duration": 1.9
+  },
+  {
+    "text": "To understand that, we'll need\nto understand three key facts.",
+    "start": 284.225,
+    "duration": 2.977
+  },
+  {
+    "text": "First, ems by definition do what\nthe human they emulate would do",
+    "start": 287.916,
+    "duration": 6.151
+  },
+  {
+    "text": "in the same situation.",
+    "start": 294.091,
+    "duration": 1.301
+  },
+  {
+    "text": "So their lives and behavior\nare very human.",
+    "start": 296.125,
+    "duration": 2.643
+  },
+  {
+    "text": "They're mainly different because\nthey're living in a different world.",
+    "start": 298.792,
+    "duration": 3.297
+  },
+  {
+    "text": "Second, ems need\nreal resources to survive.",
+    "start": 302.113,
+    "duration": 3.298
+  },
+  {
+    "text": "You need food and shelter or you'll die.",
+    "start": 305.435,
+    "duration": 3.663
+  },
+  {
+    "text": "Also, ems need computer hardware,\nenergy, cooling, or they can't exist.",
+    "start": 309.122,
+    "duration": 4.31
+  },
+  {
+    "text": "For every subjective minute\nthat an em experiences,",
+    "start": 313.456,
+    "duration": 2.575
+  },
+  {
+    "text": "someone, usually that em,\nhad to work to pay for it.",
+    "start": 316.055,
+    "duration": 3.274
+  },
+  {
+    "text": "Third, ems are poor.",
+    "start": 319.956,
+    "duration": 1.69
+  },
+  {
+    "text": "(Laughter)",
+    "start": 321.67,
+    "duration": 1.15
+  },
+  {
+    "text": "The em population can grow\nquicker than the em economy,",
+    "start": 323.535,
+    "duration": 2.635
+  },
+  {
+    "text": "so that means wages fall down\nto em subsistence levels.",
+    "start": 326.194,
+    "duration": 3.335
+  },
+  {
+    "text": "That means ems have to be working\nmost of the time.",
+    "start": 329.553,
+    "duration": 2.604
+  },
+  {
+    "text": "So that means\nthis is what ems usually see:",
+    "start": 332.181,
+    "duration": 2.928
+  },
+  {
+    "text": "beautiful and luxurious, but desks --",
+    "start": 335.504,
+    "duration": 2.548
+  },
+  {
+    "text": "they're working most of the time.",
+    "start": 338.076,
+    "duration": 1.724
+  },
+  {
+    "text": "Now, a subsistence wage scenario,\nyou might think, is exotic and strange,",
+    "start": 340.103,
+    "duration": 3.969
+  },
+  {
+    "text": "but it's actually the usual case\nin human history,",
+    "start": 344.096,
+    "duration": 2.341
+  },
+  {
+    "text": "and it's how pretty much\nall wild animals have ever lived,",
+    "start": 346.461,
+    "duration": 2.714
+  },
+  {
+    "text": "so we know what humans do\nin this situation.",
+    "start": 349.199,
+    "duration": 2.276
+  },
+  {
+    "text": "Humans basically do\nwhat it takes to survive,",
+    "start": 351.499,
+    "duration": 2.93
+  },
+  {
+    "text": "and this is what lets me say\nso much about the em world.",
+    "start": 354.453,
+    "duration": 3.309
+  },
+  {
+    "text": "When creatures are rich, like you,",
+    "start": 358.572,
+    "duration": 2.389
+  },
+  {
+    "text": "you have to know a lot\nabout what they want",
+    "start": 360.985,
+    "duration": 2.023
+  },
+  {
+    "text": "to figure out what they do.",
+    "start": 363.032,
+    "duration": 1.341
+  },
+  {
+    "text": "When creatures are poor,",
+    "start": 364.397,
+    "duration": 1.17
+  },
+  {
+    "text": "you know that they mostly do\nwhat it takes to survive.",
+    "start": 365.591,
+    "duration": 2.657
+  },
+  {
+    "text": "So we've been talking about the em world\nfrom the point of view of the ems --",
+    "start": 368.596,
+    "duration": 3.624
+  },
+  {
+    "text": "now, let's step back\nand look at their whole world.",
+    "start": 372.244,
+    "duration": 2.515
+  },
+  {
+    "text": "First, the em world grows\nmuch faster than ours,",
+    "start": 374.783,
+    "duration": 3.08
+  },
+  {
+    "text": "roughly a hundred times faster.",
+    "start": 377.887,
+    "duration": 2.464
+  },
+  {
+    "text": "So the amount of change\nwe would experience in a century or two,",
+    "start": 380.375,
+    "duration": 3.163
+  },
+  {
+    "text": "they would experience in a year or two.",
+    "start": 383.562,
+    "duration": 1.858
+  },
+  {
+    "text": "And I'm not really willing to project\nthis age much beyond that,",
+    "start": 385.444,
+    "duration": 3.038
+  },
+  {
+    "text": "because plausibly by then something else\nwill happen, I don't know what.",
+    "start": 388.506,
+    "duration": 3.437
+  },
+  {
+    "text": "Second, the typical emulation\nruns even faster,",
+    "start": 391.967,
+    "duration": 2.358
+  },
+  {
+    "text": "roughly a thousand times human speed.",
+    "start": 394.349,
+    "duration": 2.189
+  },
+  {
+    "text": "So for them, they experience\nthousands of years in this year or two,",
+    "start": 397.136,
+    "duration": 5.34
+  },
+  {
+    "text": "and for them, the world around them\nis actually changing more slowly",
+    "start": 402.5,
+    "duration": 3.192
+  },
+  {
+    "text": "than your world seems to change for you.",
+    "start": 405.716,
+    "duration": 1.942
+  },
+  {
+    "text": "Third, ems are crammed together\nin a small number of very dense cities.",
+    "start": 408.097,
+    "duration": 4.484
+  },
+  {
+    "text": "This is not only how they see\nthemselves in virtual reality,",
+    "start": 412.605,
+    "duration": 3.466
+  },
+  {
+    "text": "it's also how they actually are\nphysically crammed together.",
+    "start": 416.095,
+    "duration": 2.896
+  },
+  {
+    "text": "So at em speeds, physical travel\nfeels really painfully slow,",
+    "start": 419.294,
+    "duration": 3.886
+  },
+  {
+    "text": "so most em cities are self-sufficient,",
+    "start": 423.204,
+    "duration": 2.322
+  },
+  {
+    "text": "most war is cyber war,",
+    "start": 425.55,
+    "duration": 1.75
+  },
+  {
+    "text": "and most of the rest of the earth\naway from the em cities",
+    "start": 427.324,
+    "duration": 2.691
+  },
+  {
+    "text": "is left to the humans, because the ems\nreally aren't that interested in it.",
+    "start": 430.039,
+    "duration": 3.674
+  },
+  {
+    "text": "Speaking of humans,",
+    "start": 434.072,
+    "duration": 1.508
+  },
+  {
+    "text": "you were wanting to hear about that.",
+    "start": 435.604,
+    "duration": 1.784
+  },
+  {
+    "text": "Humans must retire, at once, for good.",
+    "start": 437.412,
+    "duration": 4.466
+  },
+  {
+    "text": "They just can't compete.",
+    "start": 442.707,
+    "duration": 1.523
+  },
+  {
+    "text": "Now, humans start out owning\nall of the capital in this world.",
+    "start": 444.738,
+    "duration": 3.072
+  },
+  {
+    "text": "The economy grows very fast,\ntheir wealth grows very fast.",
+    "start": 447.834,
+    "duration": 2.869
+  },
+  {
+    "text": "Humans get rich, collectively.",
+    "start": 450.727,
+    "duration": 2.384
+  },
+  {
+    "text": "As you may know, most humans today\ndon't actually own that much",
+    "start": 454.048,
+    "duration": 3.239
+  },
+  {
+    "text": "besides their ability to work,",
+    "start": 457.311,
+    "duration": 1.841
+  },
+  {
+    "text": "so between now and then,\nthey need to acquire sufficient assets,",
+    "start": 459.176,
+    "duration": 3.548
+  },
+  {
+    "text": "insurance or sharing arrangements,",
+    "start": 462.748,
+    "duration": 1.833
+  },
+  {
+    "text": "or they may starve.",
+    "start": 464.605,
+    "duration": 1.461
+  },
+  {
+    "text": "I highly recommend avoiding this outcome.",
+    "start": 466.09,
+    "duration": 2.015
+  },
+  {
+    "text": "(Laughter)",
+    "start": 468.129,
+    "duration": 1.285
+  },
+  {
+    "text": "Now, you might wonder,",
+    "start": 470.285,
+    "duration": 1.223
+  },
+  {
+    "text": "why would ems let humans exist?",
+    "start": 471.532,
+    "duration": 1.478
+  },
+  {
+    "text": "Why not kill them, take their stuff?",
+    "start": 473.034,
+    "duration": 1.715
+  },
+  {
+    "text": "But notice we have many\nunproductive retirees around us today,",
+    "start": 475.521,
+    "duration": 3.077
+  },
+  {
+    "text": "and we don't kill them\nand take their stuff.",
+    "start": 478.622,
+    "duration": 2.105
+  },
+  {
+    "text": "(Laughter)",
+    "start": 480.751,
+    "duration": 1.634
+  },
+  {
+    "text": "In part, that's because it would disrupt\nthe institutions we share with them.",
+    "start": 482.409,
+    "duration": 4.42
+  },
+  {
+    "text": "Other groups would wonder who's next,",
+    "start": 487.344,
+    "duration": 2.116
+  },
+  {
+    "text": "so plausibly, ems may well let humans\nretire in peace during the age of em.",
+    "start": 489.484,
+    "duration": 4.726
+  },
+  {
+    "text": "You should worry more that\nthe age of em only lasts a year or two",
+    "start": 494.234,
+    "duration": 3.049
+  },
+  {
+    "text": "and you don't know what happens next.",
+    "start": 497.307,
+    "duration": 1.828
+  },
+  {
+    "text": "Ems are very much like humans,",
+    "start": 501.027,
+    "duration": 2.366
+  },
+  {
+    "text": "but they are not like the typical human.",
+    "start": 503.417,
+    "duration": 2.309
+  },
+  {
+    "text": "The typical em is a copy\nof the few hundred most productive humans.",
+    "start": 506.258,
+    "duration": 5.983
+  },
+  {
+    "text": "So in fact, they are as elite,\ncompared to the typical human,",
+    "start": 513.149,
+    "duration": 3.58
+  },
+  {
+    "text": "as the typical billionaire,\nNobel Prize winner,",
+    "start": 516.753,
+    "duration": 2.262
+  },
+  {
+    "text": "Olympic gold medalist, head of state.",
+    "start": 519.039,
+    "duration": 2.349
+  },
+  {
+    "text": "Ems look on humans\nperhaps with nostalgia and gratitude,",
+    "start": 522.347,
+    "duration": 4.302
+  },
+  {
+    "text": "but not so much respect,",
+    "start": 526.673,
+    "duration": 1.508
+  },
+  {
+    "text": "which is, if you think about it,\nhow you think about your ancestors.",
+    "start": 528.205,
+    "duration": 3.195
+  },
+  {
+    "text": "We know many things about how humans\ndiffer in terms of productivity.",
+    "start": 531.424,
+    "duration": 3.267
+  },
+  {
+    "text": "We can just use those\nto predict features of ems --",
+    "start": 534.715,
+    "duration": 2.419
+  },
+  {
+    "text": "for example, they tend to be smart,\nconscientious, hard-working,",
+    "start": 537.158,
+    "duration": 3.096
+  },
+  {
+    "text": "married, religious, middle-aged.",
+    "start": 540.278,
+    "duration": 1.685
+  },
+  {
+    "text": "These are features of ems.",
+    "start": 542.281,
+    "duration": 1.612
+  },
+  {
+    "text": "Em world also contains enormous variety.",
+    "start": 543.917,
+    "duration": 2.228
+  },
+  {
+    "text": "Not only does it continue on with most\nof the kinds of variety that humans do,",
+    "start": 546.53,
+    "duration": 3.668
+  },
+  {
+    "text": "including variety of industry\nand profession,",
+    "start": 550.222,
+    "duration": 2.395
+  },
+  {
+    "text": "they also have many new kinds of variety,",
+    "start": 552.641,
+    "duration": 2.162
+  },
+  {
+    "text": "and one of the most important\nis mind speed.",
+    "start": 554.827,
+    "duration": 2.345
+  },
+  {
+    "text": "Ems can plausibly go from human speed",
+    "start": 557.532,
+    "duration": 3.834
+  },
+  {
+    "text": "up to a million times\nfaster than human speed,",
+    "start": 561.39,
+    "duration": 2.88
+  },
+  {
+    "text": "and down to a billion times\nslower than human speed.",
+    "start": 564.294,
+    "duration": 2.777
+  },
+  {
+    "text": "Faster ems tend to have\nmarkers of high status.",
+    "start": 568.046,
+    "duration": 2.766
+  },
+  {
+    "text": "They embody more wealth.\nThey win arguments.",
+    "start": 570.836,
+    "duration": 2.16
+  },
+  {
+    "text": "They sit at premium locations.",
+    "start": 573.02,
+    "duration": 1.663
+  },
+  {
+    "text": "Slower ems are mostly retirees,",
+    "start": 574.707,
+    "duration": 1.82
+  },
+  {
+    "text": "and they are like the ghosts\nof our literature.",
+    "start": 576.551,
+    "duration": 2.25
+  },
+  {
+    "text": "If you recall, ghosts are all around us --",
+    "start": 578.825,
+    "duration": 2.041
+  },
+  {
+    "text": "you can interact with them\nif you pay the price.",
+    "start": 580.89,
+    "duration": 2.27
+  },
+  {
+    "text": "But they don't know much,\nthey can't influence much,",
+    "start": 583.184,
+    "duration": 2.429
+  },
+  {
+    "text": "and they're obsessed with the past,\nso what's the point?",
+    "start": 585.637,
+    "duration": 2.698
+  },
+  {
+    "text": "(Laughter)",
+    "start": 588.359,
+    "duration": 1.151
+  },
+  {
+    "text": "Ems also have more variety\nin the structure of their lives.",
+    "start": 589.534,
+    "duration": 2.957
+  },
+  {
+    "text": "This is your life: you start\nand you end, really simple.",
+    "start": 592.515,
+    "duration": 2.682
+  },
+  {
+    "text": "This is the life of an em,",
+    "start": 595.221,
+    "duration": 1.613
+  },
+  {
+    "text": "who every day splits off\nsome short-term copies",
+    "start": 596.858,
+    "duration": 2.293
+  },
+  {
+    "text": "to do short-term tasks and then end.",
+    "start": 599.175,
+    "duration": 1.958
+  },
+  {
+    "text": "We'll talk more about\nthose short term versions in a moment,",
+    "start": 601.157,
+    "duration": 4.127
+  },
+  {
+    "text": "but they are much more efficient",
+    "start": 605.308,
+    "duration": 1.61
+  },
+  {
+    "text": "because they don't have to rest\nfor the next day.",
+    "start": 606.942,
+    "duration": 2.365
+  },
+  {
+    "text": "This em is more opportunistic.",
+    "start": 609.331,
+    "duration": 1.508
+  },
+  {
+    "text": "They make more copies of themselves\nwhen there's more demand for that.",
+    "start": 610.863,
+    "duration": 3.287
+  },
+  {
+    "text": "They don't know which way\nthe future's going.",
+    "start": 614.174,
+    "duration": 2.097
+  },
+  {
+    "text": "This is an em designer,",
+    "start": 616.295,
+    "duration": 1.299
+  },
+  {
+    "text": "who conceives of a large system",
+    "start": 617.618,
+    "duration": 1.602
+  },
+  {
+    "text": "and then breaks recursively into copies\nwho elaborate that,",
+    "start": 619.244,
+    "duration": 3.485
+  },
+  {
+    "text": "so ems can implement\nlarger, more coherent designs.",
+    "start": 622.753,
+    "duration": 3.412
+  },
+  {
+    "text": "This an emulation plumber",
+    "start": 626.189,
+    "duration": 1.358
+  },
+  {
+    "text": "who remembers that every day,\nfor the last 20 years,",
+    "start": 627.571,
+    "duration": 2.445
+  },
+  {
+    "text": "they only ever worked\ntwo hours a day, a life of leisure.",
+    "start": 630.04,
+    "duration": 2.781
+  },
+  {
+    "text": "But what really happened is,\nevery day they had a thousand copies,",
+    "start": 632.845,
+    "duration": 3.097
+  },
+  {
+    "text": "each of whom did a two-hour plumbing job,",
+    "start": 635.966,
+    "duration": 1.953
+  },
+  {
+    "text": "and only one of them\nwent on to the next day.",
+    "start": 637.943,
+    "duration": 2.165
+  },
+  {
+    "text": "Objectively, they're working\nwell over 99 percent of the time.",
+    "start": 640.132,
+    "duration": 2.999
+  },
+  {
+    "text": "Subjectively, they remember\na life of leisure.",
+    "start": 643.155,
+    "duration": 2.19
+  },
+  {
+    "text": "(Laughter)",
+    "start": 645.369,
+    "duration": 1.008
+  },
+  {
+    "text": "This, again, is you.\nYou start and you end.",
+    "start": 646.401,
+    "duration": 2.088
+  },
+  {
+    "text": "This could be you\nif at the start of party,",
+    "start": 648.513,
+    "duration": 2.112
+  },
+  {
+    "text": "you took a drug that meant\nyou would not remember that party",
+    "start": 650.649,
+    "duration": 2.811
+  },
+  {
+    "text": "ever after that day.",
+    "start": 653.484,
+    "duration": 1.618
+  },
+  {
+    "text": "Some people do this, I'm told.",
+    "start": 655.126,
+    "duration": 1.929
+  },
+  {
+    "text": "Toward the end of the party,",
+    "start": 657.49,
+    "duration": 1.635
+  },
+  {
+    "text": "will you say to yourself,\n\"I'm about to die, this is terrible.",
+    "start": 659.149,
+    "duration": 2.926
+  },
+  {
+    "text": "That person tomorrow isn't me,\nbecause they won't remember what I do.\"",
+    "start": 662.099,
+    "duration": 3.303
+  },
+  {
+    "text": "Or you could say, \"I will go on tomorrow.\nI just won't remember what I did.\"",
+    "start": 665.426,
+    "duration": 3.961
+  },
+  {
+    "text": "This is an em who splits off\na short-term copy",
+    "start": 669.411,
+    "duration": 2.429
+  },
+  {
+    "text": "to do a short-term task and then end.",
+    "start": 671.864,
+    "duration": 1.864
+  },
+  {
+    "text": "They have the same two\nattitude possibilities.",
+    "start": 673.752,
+    "duration": 2.206
+  },
+  {
+    "text": "They can say, \"I'm a new short-term\ncreature with a short life. I hate this.\"",
+    "start": 675.982,
+    "duration": 3.679
+  },
+  {
+    "text": "Or \"I'm a part of a larger creature\nwho won't remember this part.\"",
+    "start": 679.685,
+    "duration": 3.134
+  },
+  {
+    "text": "I predict they'll have\nthat second attitude,",
+    "start": 682.843,
+    "duration": 2.118
+  },
+  {
+    "text": "not because it's philosophically correct,\nbut because it helps them get along.",
+    "start": 684.985,
+    "duration": 3.676
+  },
+  {
+    "text": "Today, if the president says\nwe must invade Iraq,",
+    "start": 688.685,
+    "duration": 2.328
+  },
+  {
+    "text": "and you say, \"Why?\"",
+    "start": 691.037,
+    "duration": 1.151
+  },
+  {
+    "text": "and they say, \"State secret,\"",
+    "start": 692.212,
+    "duration": 1.382
+  },
+  {
+    "text": "you're not sure if you can trust them,",
+    "start": 693.618,
+    "duration": 1.85
+  },
+  {
+    "text": "but for ems, a copy of the president\nand a copy of you can go inside a safe,",
+    "start": 695.492,
+    "duration": 3.616
+  },
+  {
+    "text": "explain all their secret reasons,",
+    "start": 699.132,
+    "duration": 1.654
+  },
+  {
+    "text": "and then one bit comes out\nfrom your copy to yourself,",
+    "start": 700.81,
+    "duration": 2.531
+  },
+  {
+    "text": "telling you if you were convinced.",
+    "start": 703.365,
+    "duration": 1.856
+  },
+  {
+    "text": "So now you can know\nthere is a good reason.",
+    "start": 705.245,
+    "duration": 2.223
+  },
+  {
+    "text": "I know you guys are all eager\nto evaluate this world.",
+    "start": 707.796,
+    "duration": 2.545
+  },
+  {
+    "text": "You're eager to decide\nif you love it or hate it.",
+    "start": 710.365,
+    "duration": 2.334
+  },
+  {
+    "text": "But think: your ancestors\nfrom thousands of years ago",
+    "start": 712.723,
+    "duration": 2.543
+  },
+  {
+    "text": "would have loved or hated your world",
+    "start": 715.29,
+    "duration": 1.753
+  },
+  {
+    "text": "based on the first few things\nthey heard about it,",
+    "start": 717.067,
+    "duration": 2.421
+  },
+  {
+    "text": "because your world\nis really just weird.",
+    "start": 719.512,
+    "duration": 1.853
+  },
+  {
+    "text": "So before judging a strange future world,\nyou should really learn a lot about it,",
+    "start": 721.399,
+    "duration": 3.818
+  },
+  {
+    "text": "maybe read a whole book about it,",
+    "start": 725.237,
+    "duration": 1.57
+  },
+  {
+    "text": "and then, if you don't like it,\nwork to change it.",
+    "start": 726.851,
+    "duration": 2.344
+  },
+  {
+    "text": "Thank you.",
+    "start": 729.229,
+    "duration": 1.019
+  },
+  {
+    "text": "(Applause)",
+    "start": 730.272,
+    "duration": 4.833
+  }
+]

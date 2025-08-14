@@ -1,0 +1,842 @@
+[
+  {
+    "text": "They're everywhere.",
+    "start": 0.16,
+    "duration": 1.36
+  },
+  {
+    "text": "Apparently algorithms are in the\nsocial media apps we use every day,",
+    "start": 2.16,
+    "duration": 3.92
+  },
+  {
+    "text": "in search engines,\neven in dating apps.",
+    "start": 6.16,
+    "duration": 2.12
+  },
+  {
+    "text": "But I'll be honest -",
+    "start": 8.56,
+    "duration": 1.32
+  },
+  {
+    "text": "I've got absolutely no idea\nwhat they actually are",
+    "start": 9.96,
+    "duration": 2.76
+  },
+  {
+    "text": "or how they work or who makes them.",
+    "start": 12.8,
+    "duration": 2.48
+  },
+  {
+    "text": "Should we be worried about them?",
+    "start": 15.48,
+    "duration": 1.48
+  },
+  {
+    "text": "Can they think for themselves?",
+    "start": 17.16,
+    "duration": 1.52
+  },
+  {
+    "text": "Rather than be baffled by science,\nI'm going to go find out.",
+    "start": 18.88,
+    "duration": 2.84
+  },
+  {
+    "text": "Where does every good piece of\nresearch start? A search engine.",
+    "start": 30.56,
+    "duration": 2.96
+  },
+  {
+    "text": "So what is an algorithm?",
+    "start": 33.6,
+    "duration": 5.44
+  },
+  {
+    "text": "Can I even spell it?",
+    "start": 39.12,
+    "duration": 1.28
+  },
+  {
+    "text": "Oh, I think so. OK.",
+    "start": 40.48,
+    "duration": 2.52
+  },
+  {
+    "text": "A process or set of rules\nto be followed in calculations",
+    "start": 43.4,
+    "duration": 4.08
+  },
+  {
+    "text": "or other problem solving operations,\nespecially by a computer.",
+    "start": 47.56,
+    "duration": 4.84
+  },
+  {
+    "text": "Sounds like a riddle.",
+    "start": 53.48,
+    "duration": 1.2
+  },
+  {
+    "text": "After an hour of searching\nabout the internet",
+    "start": 55.48,
+    "duration": 2.36
+  },
+  {
+    "text": "it all felt a little overwhelming.",
+    "start": 57.92,
+    "duration": 1.92
+  },
+  {
+    "text": "So many different definitions without\nany clarity in what they actually do.",
+    "start": 60.16,
+    "duration": 4.56
+  },
+  {
+    "text": "During my search I came across\nprofessor Victoria Nash",
+    "start": 65.08,
+    "duration": 3.24
+  },
+  {
+    "text": "from the Oxford Internet Institute.",
+    "start": 68.4,
+    "duration": 2.0
+  },
+  {
+    "text": "I called to pick her brains.",
+    "start": 70.64,
+    "duration": 1.8
+  },
+  {
+    "text": "Speaking to Victoria has helped me\nunderstand what algorithms are",
+    "start": 100.8,
+    "duration": 3.92
+  },
+  {
+    "text": "but how can the same thing\nthat helps me bake a cake,",
+    "start": 104.96,
+    "duration": 2.72
+  },
+  {
+    "text": "also give me the best results\nfrom a search engine?",
+    "start": 107.76,
+    "duration": 2.72
+  },
+  {
+    "text": "No idea.",
+    "start": 111.76,
+    "duration": 1.04
+  },
+  {
+    "text": "I'm taking a trip to Oxford",
+    "start": 113.84,
+    "duration": 1.68
+  },
+  {
+    "text": "to visit one of Victoria's\ncolleagues, Dr Bernie Hogan.",
+    "start": 115.6,
+    "duration": 3.36
+  },
+  {
+    "text": "Bernie, great to see you.",
+    "start": 119.48,
+    "duration": 1.16
+  },
+  {
+    "text": "Jon, nice to see you.",
+    "start": 120.72,
+    "duration": 1.2
+  },
+  {
+    "text": "Where on earth are we?",
+    "start": 122.0,
+    "duration": 1.68
+  },
+  {
+    "text": "So this is our\nuniversity's data centre.",
+    "start": 123.88,
+    "duration": 2.2
+  },
+  {
+    "text": "You know, it's pretty big.\nIt's really noisy.",
+    "start": 126.84,
+    "duration": 2.36
+  },
+  {
+    "text": "Really noisy.",
+    "start": 129.28,
+    "duration": 1.28
+  },
+  {
+    "text": "There's a lot of computation\nhappening here.",
+    "start": 130.64,
+    "duration": 2.12
+  },
+  {
+    "text": "Each one of these belong\nto different departments.",
+    "start": 132.84,
+    "duration": 1.8
+  },
+  {
+    "text": "They're doing different\nkinds of calculations.",
+    "start": 134.72,
+    "duration": 2.52
+  },
+  {
+    "text": "So there's thousands of algorithms",
+    "start": 137.52,
+    "duration": 1.8
+  },
+  {
+    "text": "going on in all these\nmassive boxes like now?",
+    "start": 139.4,
+    "duration": 3.08
+  },
+  {
+    "text": "Thousands? Try billions.",
+    "start": 142.56,
+    "duration": 1.88
+  },
+  {
+    "text": "Billions?",
+    "start": 144.72,
+    "duration": 0.8
+  },
+  {
+    "text": "Billions of algorithms.",
+    "start": 145.6,
+    "duration": 1.16
+  },
+  {
+    "text": "Shall we go somewhere\na little bit quieter",
+    "start": 147.12,
+    "duration": 1.84
+  },
+  {
+    "text": "and talk in a little bit more detail",
+    "start": 149.04,
+    "duration": 1.56
+  },
+  {
+    "text": "and try and get\na better understanding",
+    "start": 150.68,
+    "duration": 1.52
+  },
+  {
+    "text": "of how all of this works?",
+    "start": 152.28,
+    "duration": 1.28
+  },
+  {
+    "text": "Sure. Let's do it.",
+    "start": 153.64,
+    "duration": 1.6
+  },
+  {
+    "text": "It's weird to think\nhow much of our lives",
+    "start": 155.84,
+    "duration": 2.16
+  },
+  {
+    "text": "go on in nondescript server\nrooms all over the world.",
+    "start": 158.08,
+    "duration": 3.2
+  },
+  {
+    "text": "But what exactly are these\nbillions of algorithms doing?",
+    "start": 161.76,
+    "duration": 3.24
+  },
+  {
+    "text": "So the reason that we use\na list of instructions",
+    "start": 165.08,
+    "duration": 1.88
+  },
+  {
+    "text": "is because we have a lot of data\nand we have to deal with that data.",
+    "start": 167.04,
+    "duration": 3.16
+  },
+  {
+    "text": "Now data could be anything.",
+    "start": 170.28,
+    "duration": 1.24
+  },
+  {
+    "text": "Data could be a list\nof towns in the UK",
+    "start": 171.6,
+    "duration": 2.52
+  },
+  {
+    "text": "and how I get\nfrom one town to another,",
+    "start": 174.2,
+    "duration": 2.0
+  },
+  {
+    "text": "or it could be a number of tweets.",
+    "start": 176.28,
+    "duration": 1.28
+  },
+  {
+    "text": "Which tweet is going to show\nup at the top of the list?",
+    "start": 177.88,
+    "duration": 2.36
+  },
+  {
+    "text": "Right.",
+    "start": 180.32,
+    "duration": 0.8
+  },
+  {
+    "text": "Algorithms calculate\nbased on a bunch of features,",
+    "start": 181.2,
+    "duration": 3.24
+  },
+  {
+    "text": "the sort of things that will put\nsomething at the top of the list",
+    "start": 184.52,
+    "duration": 2.6
+  },
+  {
+    "text": "and then something\nat the bottom of the list.",
+    "start": 187.2,
+    "duration": 1.44
+  },
+  {
+    "text": "So if it's that simple, should\nwe be scared of algorithms?",
+    "start": 188.96,
+    "duration": 3.0
+  },
+  {
+    "text": "Well the trick with algorithms",
+    "start": 192.56,
+    "duration": 1.76
+  },
+  {
+    "text": "that we perhaps should\nbe a bit concerned about",
+    "start": 194.4,
+    "duration": 2.36
+  },
+  {
+    "text": "is what happens in the black box.",
+    "start": 196.84,
+    "duration": 1.8
+  },
+  {
+    "text": "So is that like,\nwhen you search for something",
+    "start": 198.72,
+    "duration": 1.96
+  },
+  {
+    "text": "you don't know what their algorithm\nis doing because we can't see it.",
+    "start": 200.76,
+    "duration": 2.92
+  },
+  {
+    "text": "Well a classic case of this",
+    "start": 203.76,
+    "duration": 0.96
+  },
+  {
+    "text": "is people talk about\nsearching for prices for flights,",
+    "start": 204.8,
+    "duration": 2.88
+  },
+  {
+    "text": "and depending on which day you search\non you might get a different flight,",
+    "start": 207.96,
+    "duration": 3.16
+  },
+  {
+    "text": "where you search from.",
+    "start": 211.2,
+    "duration": 1.28
+  },
+  {
+    "text": "And so this can mean\ndifference of hundreds of pounds.",
+    "start": 212.56,
+    "duration": 2.12
+  },
+  {
+    "text": "That's an example where\nan algorithm is not transparent",
+    "start": 214.88,
+    "duration": 2.32
+  },
+  {
+    "text": "and perhaps should be.",
+    "start": 217.28,
+    "duration": 1.32
+  },
+  {
+    "text": "Can algorithms think for themselves?",
+    "start": 218.68,
+    "duration": 2.28
+  },
+  {
+    "text": "Well we wouldn't necessarily\nthink of a computer as thinking,",
+    "start": 221.52,
+    "duration": 4.52
+  },
+  {
+    "text": "but we know that\nalgorithms can learn.",
+    "start": 226.12,
+    "duration": 1.96
+  },
+  {
+    "text": "They can learn\nfrom other algorithms",
+    "start": 228.16,
+    "duration": 2.32
+  },
+  {
+    "text": "and algorithms can create\ntheir own instructions now.",
+    "start": 230.56,
+    "duration": 2.52
+  },
+  {
+    "text": "But the basis of it\nis still the same.",
+    "start": 233.36,
+    "duration": 2.52
+  },
+  {
+    "text": "Data goes in, goes through\ninstructions, result comes out.",
+    "start": 236.6,
+    "duration": 4.0
+  },
+  {
+    "text": "I'm beginning to get it,",
+    "start": 241.4,
+    "duration": 1.68
+  },
+  {
+    "text": "but I've still never actually\nseen an algorithm.",
+    "start": 243.16,
+    "duration": 2.68
+  },
+  {
+    "text": "I don't even know\nwhat they look like.",
+    "start": 245.92,
+    "duration": 1.72
+  },
+  {
+    "text": "So I'm heading to one of the UK's\nleading coding schools",
+    "start": 248.16,
+    "duration": 3.04
+  },
+  {
+    "text": "to see for myself\nwhat goes into making one.",
+    "start": 251.28,
+    "duration": 2.88
+  },
+  {
+    "text": "{\\an2}- So this is code, right?\n- Yeah.",
+    "start": 254.92,
+    "duration": 1.96
+  },
+  {
+    "text": "So what's the difference\nbetween an algorithm and code?",
+    "start": 256.96,
+    "duration": 3.64
+  },
+  {
+    "text": "Coding is algorithms that a computer\ncan run the instructions for you.",
+    "start": 260.84,
+    "duration": 5.04
+  },
+  {
+    "text": "So we have to do it in a language",
+    "start": 265.96,
+    "duration": 2.84
+  },
+  {
+    "text": "which the computer\ncan actually understand.",
+    "start": 268.88,
+    "duration": 1.68
+  },
+  {
+    "text": "So we've written this in Scratch",
+    "start": 270.8,
+    "duration": 1.76
+  },
+  {
+    "text": "and it's really nice to use,\nreally intuitive,",
+    "start": 272.64,
+    "duration": 2.8
+  },
+  {
+    "text": "and you can just\ndrag and drop these blocks",
+    "start": 275.72,
+    "duration": 2.0
+  },
+  {
+    "text": "and we've got these instructions\nfor the drone to follow.",
+    "start": 277.8,
+    "duration": 2.92
+  },
+  {
+    "text": "It's going to do a flip?",
+    "start": 280.8,
+    "duration": 0.96
+  },
+  {
+    "text": "It's going to do a flip.\nI hope it's going to do a flip.",
+    "start": 281.84,
+    "duration": 2.16
+  },
+  {
+    "text": "It's time for a challenge\n- a drone race.",
+    "start": 284.24,
+    "duration": 2.8
+  },
+  {
+    "text": "Izzy's algorithm versus me.",
+    "start": 287.36,
+    "duration": 2.36
+  },
+  {
+    "text": "So the course is\nthrough the hoop, do a flip,",
+    "start": 289.8,
+    "duration": 3.72
+  },
+  {
+    "text": "come back round,\nland and again.",
+    "start": 293.6,
+    "duration": 2.64
+  },
+  {
+    "text": "So technically, because yours is\nprogrammed by an algorithm,",
+    "start": 296.64,
+    "duration": 2.92
+  },
+  {
+    "text": "you should be able to do\nexactly the same thing",
+    "start": 299.64,
+    "duration": 2.04
+  },
+  {
+    "text": "three times without a problem.",
+    "start": 301.76,
+    "duration": 1.12
+  },
+  {
+    "text": "That's the plan. You ready?\nChallenge accepted.",
+    "start": 302.96,
+    "duration": 2.68
+  },
+  {
+    "text": "{\\an2}- Three, two, one.\n- I don't know what I'm doing.",
+    "start": 305.72,
+    "duration": 2.52
+  },
+  {
+    "text": "{\\an2}- Take off. Yes.\n- Okay.",
+    "start": 310.44,
+    "duration": 2.36
+  },
+  {
+    "text": "Right.",
+    "start": 313.12,
+    "duration": 0.8
+  },
+  {
+    "text": "So we're going set the speed.",
+    "start": 314.0,
+    "duration": 1.04
+  },
+  {
+    "text": "Fly up. And then it's going fly left.",
+    "start": 315.36,
+    "duration": 3.04
+  },
+  {
+    "text": "You're already ahead\nbut I think mine's more reliable.",
+    "start": 318.48,
+    "duration": 2.2
+  },
+  {
+    "text": "Hopefully it's going go forwards.",
+    "start": 322.44,
+    "duration": 1.88
+  },
+  {
+    "text": "Go forwards, there we go.",
+    "start": 324.88,
+    "duration": 1.84
+  },
+  {
+    "text": "{\\an2}- Nice.\n- No, how did it do that?",
+    "start": 327.96,
+    "duration": 2.04
+  },
+  {
+    "text": "{\\an2}- Yes.\n- Full turn.",
+    "start": 330.32,
+    "duration": 1.12
+  },
+  {
+    "text": "I'm going to make the\ntime back in speed.",
+    "start": 331.52,
+    "duration": 2.84
+  },
+  {
+    "text": "Speed.",
+    "start": 334.72,
+    "duration": 2.32
+  },
+  {
+    "text": "{\\an2}- And then forwards.\n- No!",
+    "start": 337.12,
+    "duration": 1.64
+  },
+  {
+    "text": "Go, go, go, go, go, go, go, go, go.",
+    "start": 338.84,
+    "duration": 1.92
+  },
+  {
+    "text": "{\\an2}- Yes, oh, oh, oh!\n- Oh. Woah, woah.",
+    "start": 341.04,
+    "duration": 1.96
+  },
+  {
+    "text": "Sorry cameraman!",
+    "start": 343.2,
+    "duration": 1.08
+  },
+  {
+    "text": "I can just go and make a cup\nof tea. I'm just going to leave it.",
+    "start": 344.76,
+    "duration": 2.4
+  },
+  {
+    "text": "No! [LAUGHS]",
+    "start": 347.4,
+    "duration": 2.84
+  },
+  {
+    "text": "And down. Oh look how calm.",
+    "start": 350.44,
+    "duration": 2.12
+  },
+  {
+    "text": "Have you done your three laps?\nI did do the three laps, yeah.",
+    "start": 353.2,
+    "duration": 3.04
+  },
+  {
+    "text": "{\\an2}- So you've won?\n- Yes.",
+    "start": 356.44,
+    "duration": 1.4
+  },
+  {
+    "text": "So I think some of the big benefits\nof having algorithms versus humans",
+    "start": 358.04,
+    "duration": 4.88
+  },
+  {
+    "text": "is that you don't have\nthe human error",
+    "start": 363.36,
+    "duration": 2.4
+  },
+  {
+    "text": "that, no offence, I think you had.",
+    "start": 366.0,
+    "duration": 2.08
+  },
+  {
+    "text": "You don't have the human\nerror in the same way.",
+    "start": 369.52,
+    "duration": 1.8
+  },
+  {
+    "text": "The computer goes\nthrough the instructions",
+    "start": 371.4,
+    "duration": 1.44
+  },
+  {
+    "text": "and that's all they know\nhow to do.",
+    "start": 372.92,
+    "duration": 1.48
+  },
+  {
+    "text": "The person writing the code\ncould have written an error",
+    "start": 374.72,
+    "duration": 2.56
+  },
+  {
+    "text": "and that's where problems can arise",
+    "start": 377.68,
+    "duration": 2.6
+  },
+  {
+    "text": "but the computer\ndoesn't make mistakes",
+    "start": 380.36,
+    "duration": 2.96
+  },
+  {
+    "text": "it just does what\nit's supposed to do.",
+    "start": 383.4,
+    "duration": 1.32
+  },
+  {
+    "text": "A computer might only do\nwhat it's supposed to do,",
+    "start": 385.2,
+    "duration": 3.16
+  },
+  {
+    "text": "but what are the ethical\nconsiderations around algorithms",
+    "start": 388.72,
+    "duration": 3.36
+  },
+  {
+    "text": "making so many decisions for us?",
+    "start": 392.16,
+    "duration": 2.72
+  },
+  {
+    "text": "One of the public concerns is that\ncomputers are taking over the world,",
+    "start": 395.64,
+    "duration": 2.96
+  },
+  {
+    "text": "robots are going\nto take over the world,",
+    "start": 398.68,
+    "duration": 1.24
+  },
+  {
+    "text": "algorithms are going\nto take all of our jobs.",
+    "start": 400.0,
+    "duration": 2.0
+  },
+  {
+    "text": "Is that going to be the case?",
+    "start": 402.08,
+    "duration": 1.12
+  },
+  {
+    "text": "Taking our jobs, it's possible.",
+    "start": 403.28,
+    "duration": 1.96
+  },
+  {
+    "text": "But also deskilling humans",
+    "start": 405.92,
+    "duration": 1.6
+  },
+  {
+    "text": "if we become too dependent upon\nthem and too trusting of them,",
+    "start": 407.6,
+    "duration": 2.96
+  },
+  {
+    "text": "it can deskill us as well.",
+    "start": 410.64,
+    "duration": 1.28
+  },
+  {
+    "text": "But on the flip side of it, they can\nbe hugely beneficial and useful -",
+    "start": 412.0,
+    "duration": 4.2
+  },
+  {
+    "text": "speeding up decision-making,\nmaking whole processes efficient,",
+    "start": 416.28,
+    "duration": 3.64
+  },
+  {
+    "text": "maybe spotting things that we might\nnot have spotted ourselves.",
+    "start": 420.12,
+    "duration": 2.88
+  },
+  {
+    "text": "So we mustn't be frightened of them,",
+    "start": 423.2,
+    "duration": 2.08
+  },
+  {
+    "text": "we just must use them\nin the correct manner.",
+    "start": 425.6,
+    "duration": 2.12
+  },
+  {
+    "text": "What have we learnt then?",
+    "start": 428.52,
+    "duration": 1.08
+  },
+  {
+    "text": "Algorithms are actually\nremarkably simple.",
+    "start": 429.68,
+    "duration": 2.28
+  },
+  {
+    "text": "Just like Bernie said - data goes in,",
+    "start": 432.32,
+    "duration": 2.24
+  },
+  {
+    "text": "follows a list of instructions\nand a result comes out.",
+    "start": 434.64,
+    "duration": 3.12
+  },
+  {
+    "text": "In some parts of the world,",
+    "start": 438.04,
+    "duration": 1.12
+  },
+  {
+    "text": "algorithms are now used\nin the criminal justice system,",
+    "start": 439.24,
+    "duration": 2.92
+  },
+  {
+    "text": "in social care, in credit checks -\nthey're prolific -",
+    "start": 442.24,
+    "duration": 2.52
+  },
+  {
+    "text": "machines making decisions that\ndirectly affect our human lives,",
+    "start": 445.04,
+    "duration": 4.08
+  },
+  {
+    "text": "not just the adverts\nthat you see on the internet",
+    "start": 449.36,
+    "duration": 2.72
+  },
+  {
+    "text": "or the people you match\non dating apps.",
+    "start": 452.16,
+    "duration": 2.04
+  },
+  {
+    "text": "The question for society\nisn't the algorithm,",
+    "start": 454.4,
+    "duration": 2.56
+  },
+  {
+    "text": "it's who controls the algorithm",
+    "start": 457.16,
+    "duration": 1.84
+  },
+  {
+    "text": "and where the data comes from\nthat goes into them.",
+    "start": 459.08,
+    "duration": 2.68
+  },
+  {
+    "text": "Thanks for watching. Don't forget to subscribe",
+    "start": 465.14,
+    "duration": 2.2
+  },
+  {
+    "text": "and click the bell to receive notifications for new videos.",
+    "start": 467.44,
+    "duration": 2.62
+  },
+  {
+    "text": "See you again soon.",
+    "start": 470.52,
+    "duration": 1.36
+  }
+]

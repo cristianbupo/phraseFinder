@@ -1,0 +1,367 @@
+[
+  {
+    "text": "How is it that a breathalyzer can measure \nthe alcohol content in someone’s blood,",
+    "start": 6.792,
+    "duration": 4.933
+  },
+  {
+    "text": "hours after they had their last drink, \nbased on their breath alone?",
+    "start": 11.725,
+    "duration": 4.616
+  },
+  {
+    "text": "Exhaled breath contains trace amounts \nof hundreds, even thousands,",
+    "start": 16.341,
+    "duration": 4.55
+  },
+  {
+    "text": "of volatile organic compounds:",
+    "start": 20.891,
+    "duration": 2.46
+  },
+  {
+    "text": "small molecules lightweight enough \nto travel easily as gases.",
+    "start": 23.351,
+    "duration": 4.484
+  },
+  {
+    "text": "One of these is ethanol, \nwhich we consume in alcoholic drinks.",
+    "start": 27.835,
+    "duration": 4.599
+  },
+  {
+    "text": "It travels through the bloodstream \nto tiny air sacs in the lungs,",
+    "start": 32.434,
+    "duration": 3.975
+  },
+  {
+    "text": "passing into exhaled air \nat a concentration 2,000 times lower,",
+    "start": 36.409,
+    "duration": 4.739
+  },
+  {
+    "text": "on average, than in the blood.",
+    "start": 41.148,
+    "duration": 2.265
+  },
+  {
+    "text": "When someone breathes \ninto a breathalyzer,",
+    "start": 43.413,
+    "duration": 2.402
+  },
+  {
+    "text": "the ethanol in their breath \npasses into a reaction chamber.",
+    "start": 45.815,
+    "duration": 4.05
+  },
+  {
+    "text": "There, it’s converted to another molecule,\ncalled acetic acid,",
+    "start": 49.865,
+    "duration": 4.028
+  },
+  {
+    "text": "in a special type of reactor that produces\nan electric current during the reaction.",
+    "start": 53.893,
+    "duration": 5.014
+  },
+  {
+    "text": "The strength of the current \nindicates the amount of ethanol",
+    "start": 58.907,
+    "duration": 3.118
+  },
+  {
+    "text": "in the sample of air, \nand by extension in the blood.",
+    "start": 62.025,
+    "duration": 3.729
+  },
+  {
+    "text": "In addition to the volatile \norganic compounds like ethanol",
+    "start": 65.754,
+    "duration": 3.18
+  },
+  {
+    "text": "we consume in food and drink,",
+    "start": 68.934,
+    "duration": 2.106
+  },
+  {
+    "text": "the biochemical processes of our cells \nproduce many others.",
+    "start": 71.04,
+    "duration": 3.844
+  },
+  {
+    "text": "And when something disrupts \nthose processes, like a disease,",
+    "start": 74.884,
+    "duration": 3.59
+  },
+  {
+    "text": "the collection of volatile \norganic compounds in the breath",
+    "start": 78.474,
+    "duration": 3.29
+  },
+  {
+    "text": "may change, too.",
+    "start": 81.764,
+    "duration": 1.86
+  },
+  {
+    "text": "So could we detect disease \nby analyzing a person’s breath,",
+    "start": 83.624,
+    "duration": 3.98
+  },
+  {
+    "text": "without using more invasive \ndiagnostic tools",
+    "start": 87.604,
+    "duration": 2.797
+  },
+  {
+    "text": "like biopsies, blood draws, and radiation?",
+    "start": 90.401,
+    "duration": 3.653
+  },
+  {
+    "text": "In theory, yes,",
+    "start": 94.054,
+    "duration": 1.773
+  },
+  {
+    "text": "but testing for disease is a lot more \ncomplicated than testing for alcohol.",
+    "start": 95.827,
+    "duration": 4.89
+  },
+  {
+    "text": "To identify diseases,",
+    "start": 100.717,
+    "duration": 1.62
+  },
+  {
+    "text": "researchers need to look at a set \nof tens of compounds in the breath.",
+    "start": 102.337,
+    "duration": 4.466
+  },
+  {
+    "text": "A given disease may cause \nsome of these compounds",
+    "start": 106.803,
+    "duration": 2.83
+  },
+  {
+    "text": "to increase or decrease in concentration, \nwhile others may not change—",
+    "start": 109.633,
+    "duration": 4.7
+  },
+  {
+    "text": "the profile is likely to be different \nfor every disease,",
+    "start": 114.333,
+    "duration": 3.283
+  },
+  {
+    "text": "and could even vary for different stages \nof the same disease.",
+    "start": 117.616,
+    "duration": 3.877
+  },
+  {
+    "text": "For example, cancers are among \nthe most researched candidates",
+    "start": 121.493,
+    "duration": 3.79
+  },
+  {
+    "text": "for diagnosis through breath analysis.",
+    "start": 125.283,
+    "duration": 2.65
+  },
+  {
+    "text": "One of the biochemical changes \nmany tumors cause",
+    "start": 127.933,
+    "duration": 3.0
+  },
+  {
+    "text": "is a large increase \nin an energy-generating process",
+    "start": 130.933,
+    "duration": 3.472
+  },
+  {
+    "text": "called glycolysis.",
+    "start": 134.405,
+    "duration": 2.1
+  },
+  {
+    "text": "Known as the Warburg Effect,",
+    "start": 136.505,
+    "duration": 1.91
+  },
+  {
+    "text": "this increase in glycolysis results \nin an increase of metabolites like lactate",
+    "start": 138.415,
+    "duration": 5.754
+  },
+  {
+    "text": "which in turn can affect a whole cascade \nof metabolic processes",
+    "start": 144.169,
+    "duration": 4.17
+  },
+  {
+    "text": "and ultimately result \nin altered breath composition,",
+    "start": 148.339,
+    "duration": 3.451
+  },
+  {
+    "text": "possibly including an increased \nconcentration of volatile compounds",
+    "start": 151.79,
+    "duration": 4.535
+  },
+  {
+    "text": "such as dimethyl sulfide.",
+    "start": 156.325,
+    "duration": 2.423
+  },
+  {
+    "text": "But the Warburg Effect is just one \npotential indicator of cancerous activity,",
+    "start": 158.748,
+    "duration": 4.537
+  },
+  {
+    "text": "and doesn’t reveal anything \nabout the particular type of cancer.",
+    "start": 163.285,
+    "duration": 4.018
+  },
+  {
+    "text": "Many more indicators are needed \nto make a diagnosis.",
+    "start": 167.303,
+    "duration": 3.862
+  },
+  {
+    "text": "To find these subtle differences,",
+    "start": 171.165,
+    "duration": 1.806
+  },
+  {
+    "text": "researchers compare the breath \nof healthy people",
+    "start": 172.971,
+    "duration": 2.87
+  },
+  {
+    "text": "with the breath of people \nwho suffer from a particular disease",
+    "start": 175.841,
+    "duration": 3.17
+  },
+  {
+    "text": "using profiles based on hundreds \nof breath samples.",
+    "start": 179.011,
+    "duration": 3.35
+  },
+  {
+    "text": "This complex analysis \nrequires a fundamentally different,",
+    "start": 182.361,
+    "duration": 3.73
+  },
+  {
+    "text": "more versatile type of sensor \nfrom the alcohol breathalyzer.",
+    "start": 186.091,
+    "duration": 4.06
+  },
+  {
+    "text": "There are a few being developed.",
+    "start": 190.151,
+    "duration": 2.053
+  },
+  {
+    "text": "Some discriminate \nbetween individual compounds",
+    "start": 192.204,
+    "duration": 2.867
+  },
+  {
+    "text": "by observing how the compounds move \nthrough a set of electric fields.",
+    "start": 195.071,
+    "duration": 4.23
+  },
+  {
+    "text": "Others use an array of resistors \nmade of different materials",
+    "start": 199.301,
+    "duration": 3.36
+  },
+  {
+    "text": "that each change their resistance \nwhen exposed to a certain mix",
+    "start": 202.661,
+    "duration": 3.96
+  },
+  {
+    "text": "of volatile organic compounds.",
+    "start": 206.621,
+    "duration": 2.54
+  },
+  {
+    "text": "There are other challenges too.",
+    "start": 209.161,
+    "duration": 1.776
+  },
+  {
+    "text": "These substances are present \nat incredibly low concentrations—",
+    "start": 210.937,
+    "duration": 3.93
+  },
+  {
+    "text": "typically just parts per billion,",
+    "start": 214.867,
+    "duration": 2.34
+  },
+  {
+    "text": "much lower than ethanol concentrations \nin the breath.",
+    "start": 217.207,
+    "duration": 3.19
+  },
+  {
+    "text": "Compounds’ levels may be affected \nby factors other than disease,",
+    "start": 220.397,
+    "duration": 3.89
+  },
+  {
+    "text": "including age, gender, nutrition, \nand lifestyle.",
+    "start": 224.287,
+    "duration": 4.45
+  },
+  {
+    "text": "Finally, there’s the issue",
+    "start": 228.737,
+    "duration": 1.319
+  },
+  {
+    "text": "of distinguishing which compounds \nin the sample",
+    "start": 230.056,
+    "duration": 2.611
+  },
+  {
+    "text": "were produced in the patient’s body",
+    "start": 232.667,
+    "duration": 1.99
+  },
+  {
+    "text": "and which were inhaled \nfrom the environment",
+    "start": 234.657,
+    "duration": 2.39
+  },
+  {
+    "text": "shortly before the test.",
+    "start": 237.047,
+    "duration": 2.24
+  },
+  {
+    "text": "Because of these challenges, \nbreath analysis isn’t quite ready yet.",
+    "start": 239.287,
+    "duration": 4.37
+  },
+  {
+    "text": "But preliminary clinical trials \non lung, colon,",
+    "start": 243.657,
+    "duration": 3.101
+  },
+  {
+    "text": "and other cancers \nhave had encouraging results.",
+    "start": 246.758,
+    "duration": 3.831
+  },
+  {
+    "text": "One day, catching cancer early \nmight be as easy as breathing in and out.",
+    "start": 250.589,
+    "duration": 6.04
+  }
+]

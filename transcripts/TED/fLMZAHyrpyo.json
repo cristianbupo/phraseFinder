@@ -1,0 +1,1852 @@
+[
+  {
+    "text": "Human language, mathematics, logic.",
+    "start": 4.209,
+    "duration": 3.503
+  },
+  {
+    "text": "These are all ways to formalize the world.",
+    "start": 8.171,
+    "duration": 2.252
+  },
+  {
+    "text": "And in our century,",
+    "start": 10.465,
+    "duration": 1.71
+  },
+  {
+    "text": "there's a new and yet\nmore powerful one: computation.",
+    "start": 12.217,
+    "duration": 3.337
+  },
+  {
+    "text": "For nearly 50 years,",
+    "start": 16.263,
+    "duration": 1.167
+  },
+  {
+    "text": "I've had the great privilege",
+    "start": 17.472,
+    "duration": 1.668
+  },
+  {
+    "text": "of building up an ever-taller tower\nof science and technology",
+    "start": 19.182,
+    "duration": 3.545
+  },
+  {
+    "text": "that's based on that idea of computation.",
+    "start": 22.769,
+    "duration": 2.169
+  },
+  {
+    "text": "And so today, I want to tell you\na little bit about what that's led to.",
+    "start": 25.48,
+    "duration": 3.921
+  },
+  {
+    "text": "There's a lot to talk about,\nso I'm going to go quickly.",
+    "start": 29.859,
+    "duration": 2.67
+  },
+  {
+    "text": "And sometimes I'm going\nto summarize in a sentence",
+    "start": 32.529,
+    "duration": 2.419
+  },
+  {
+    "text": "what I've written a whole book about.",
+    "start": 34.948,
+    "duration": 1.793
+  },
+  {
+    "text": "But you know,",
+    "start": 37.158,
+    "duration": 1.71
+  },
+  {
+    "text": "I last gave a TED talk 13 years ago,",
+    "start": 38.91,
+    "duration": 2.795
+  },
+  {
+    "text": "in February 2010,",
+    "start": 41.705,
+    "duration": 1.501
+  },
+  {
+    "text": "soon after WolframAlpha launched,",
+    "start": 43.248,
+    "duration": 2.085
+  },
+  {
+    "text": "and I ended that talk with a question.",
+    "start": 45.375,
+    "duration": 2.461
+  },
+  {
+    "text": "Question was,",
+    "start": 47.877,
+    "duration": 1.168
+  },
+  {
+    "text": "is computation ultimately\nwhat's underneath everything",
+    "start": 49.045,
+    "duration": 3.17
+  },
+  {
+    "text": "in our universe?",
+    "start": 52.215,
+    "duration": 1.585
+  },
+  {
+    "text": "I gave myself a decade to find out.",
+    "start": 53.842,
+    "duration": 2.586
+  },
+  {
+    "text": "And actually, it could\nhave needed a century.",
+    "start": 56.428,
+    "duration": 2.502
+  },
+  {
+    "text": "But in April 2020,\njust after the decade mark,",
+    "start": 58.972,
+    "duration": 3.754
+  },
+  {
+    "text": "we were thrilled to be able to announce",
+    "start": 62.726,
+    "duration": 1.877
+  },
+  {
+    "text": "what seems to be the ultimate\nmachine code of the universe.",
+    "start": 64.644,
+    "duration": 3.796
+  },
+  {
+    "text": "And yes, it's computational.",
+    "start": 68.481,
+    "duration": 2.378
+  },
+  {
+    "text": "So computation isn't just\na possible formalization,",
+    "start": 71.276,
+    "duration": 3.253
+  },
+  {
+    "text": "it's the ultimate one for our universe.",
+    "start": 74.529,
+    "duration": 2.711
+  },
+  {
+    "text": "It all starts from the idea that space,\nlike matter, is made of discrete elements,",
+    "start": 78.074,
+    "duration": 6.006
+  },
+  {
+    "text": "and from that structure of space\nand everything in it,",
+    "start": 84.08,
+    "duration": 4.713
+  },
+  {
+    "text": "it's defined just\nby a network of relations",
+    "start": 88.793,
+    "duration": 3.128
+  },
+  {
+    "text": "between these elements\nthat we might call atoms of space.",
+    "start": 91.963,
+    "duration": 3.337
+  },
+  {
+    "text": "So it's all very elegant,\nbut deeply abstract.",
+    "start": 95.717,
+    "duration": 3.295
+  },
+  {
+    "text": "But here's kind of\na humanized representation,",
+    "start": 99.721,
+    "duration": 2.628
+  },
+  {
+    "text": "a version of the very beginning\nof the universe.",
+    "start": 102.39,
+    "duration": 2.544
+  },
+  {
+    "text": "And what we're seeing here\nis the emergence of space",
+    "start": 104.934,
+    "duration": 2.753
+  },
+  {
+    "text": "and everything in it",
+    "start": 107.729,
+    "duration": 1.293
+  },
+  {
+    "text": "by the successive application\nof very simple computational rules.",
+    "start": 109.022,
+    "duration": 3.086
+  },
+  {
+    "text": "And remember, these dots\nare not atoms in any existing space.",
+    "start": 112.15,
+    "duration": 4.004
+  },
+  {
+    "text": "They're atoms of space\nthat get put together to make space.",
+    "start": 116.196,
+    "duration": 4.504
+  },
+  {
+    "text": "And yes, if we kept going long enough,",
+    "start": 121.326,
+    "duration": 2.002
+  },
+  {
+    "text": "we could build\nour whole universe this way.",
+    "start": 123.37,
+    "duration": 2.252
+  },
+  {
+    "text": "So eons later,",
+    "start": 126.122,
+    "duration": 2.211
+  },
+  {
+    "text": "here's a chunk of space\nwith two little black holes",
+    "start": 128.333,
+    "duration": 3.42
+  },
+  {
+    "text": "that, if we wait a little while,\nwill eventually merge,",
+    "start": 131.753,
+    "duration": 4.963
+  },
+  {
+    "text": "generating little ripples\nof gravitational radiation.",
+    "start": 136.758,
+    "duration": 3.086
+  },
+  {
+    "text": "And remember, all of this is built\nfrom pure computation.",
+    "start": 140.512,
+    "duration": 3.587
+  },
+  {
+    "text": "But like fluid mechanics\nemerging from molecules,",
+    "start": 144.432,
+    "duration": 3.17
+  },
+  {
+    "text": "what emerges here is space-time\nand Einstein's equations for gravity,",
+    "start": 147.644,
+    "duration": 4.463
+  },
+  {
+    "text": "though there are deviations\nthat we just might be able to detect,",
+    "start": 152.148,
+    "duration": 3.337
+  },
+  {
+    "text": "like that the dimensionality of space\nwon't always be precisely three.",
+    "start": 155.527,
+    "duration": 4.254
+  },
+  {
+    "text": "And there's something else.",
+    "start": 160.573,
+    "duration": 1.46
+  },
+  {
+    "text": "Our computational rules can inevitably\nbe applied in many ways,",
+    "start": 162.075,
+    "duration": 4.588
+  },
+  {
+    "text": "each defining a different\nkind of thread of time,",
+    "start": 166.705,
+    "duration": 2.502
+  },
+  {
+    "text": "a different path of history\nthat can branch and merge.",
+    "start": 169.207,
+    "duration": 3.545
+  },
+  {
+    "text": "But as observers\nembedded in this universe,",
+    "start": 173.128,
+    "duration": 2.877
+  },
+  {
+    "text": "we're branching and merging, too.",
+    "start": 176.005,
+    "duration": 1.919
+  },
+  {
+    "text": "And it turns out that quantum mechanics\nemerges as the story",
+    "start": 177.966,
+    "duration": 3.503
+  },
+  {
+    "text": "of how branching minds\nperceive a branching universe.",
+    "start": 181.469,
+    "duration": 3.879
+  },
+  {
+    "text": "So the little pink lines\nyou might be able to see here",
+    "start": 185.39,
+    "duration": 2.544
+  },
+  {
+    "text": "show the structure\nof what we call branchial space,",
+    "start": 187.976,
+    "duration": 2.586
+  },
+  {
+    "text": "the space of quantum branches.",
+    "start": 190.562,
+    "duration": 1.96
+  },
+  {
+    "text": "And one of the stunningly\nbeautiful things,",
+    "start": 192.564,
+    "duration": 2.085
+  },
+  {
+    "text": "at least for physicists like me,",
+    "start": 194.691,
+    "duration": 1.668
+  },
+  {
+    "text": "is that the same phenomenon\nthat in physical space gives us gravity,",
+    "start": 196.359,
+    "duration": 4.63
+  },
+  {
+    "text": "in branchial space gives us\nquantum mechanics.",
+    "start": 200.989,
+    "duration": 2.669
+  },
+  {
+    "text": "So in the history of science so far,",
+    "start": 204.701,
+    "duration": 2.252
+  },
+  {
+    "text": "I think we can identify\nsort of four broad paradigms",
+    "start": 206.953,
+    "duration": 3.629
+  },
+  {
+    "text": "for making models of the world\nthat can be distinguished",
+    "start": 210.582,
+    "duration": 2.627
+  },
+  {
+    "text": "kind of by how they deal with time.",
+    "start": 213.251,
+    "duration": 2.336
+  },
+  {
+    "text": "So in antiquity and in plenty\nof areas of science, even today,",
+    "start": 215.587,
+    "duration": 3.879
+  },
+  {
+    "text": "it's all about kind of,\nwhat are things made of.",
+    "start": 219.507,
+    "duration": 2.419
+  },
+  {
+    "text": "And time doesn't really enter.",
+    "start": 221.926,
+    "duration": 1.627
+  },
+  {
+    "text": "But in the 1600s came the idea\nof modeling things",
+    "start": 223.887,
+    "duration": 3.128
+  },
+  {
+    "text": "with mathematical formulas\nin which time enters,",
+    "start": 227.015,
+    "duration": 3.17
+  },
+  {
+    "text": "but basically just as a coordinate value.",
+    "start": 230.226,
+    "duration": 2.253
+  },
+  {
+    "text": "Then in the 1980s, and this is something\nin which I was deeply involved,",
+    "start": 233.062,
+    "duration": 4.004
+  },
+  {
+    "text": "came the idea of making models",
+    "start": 237.108,
+    "duration": 2.252
+  },
+  {
+    "text": "by starting with simple\ncomputational rules",
+    "start": 239.402,
+    "duration": 2.461
+  },
+  {
+    "text": "and just letting them run.",
+    "start": 241.863,
+    "duration": 1.835
+  },
+  {
+    "text": "So can one predict what will happen?",
+    "start": 243.698,
+    "duration": 2.419
+  },
+  {
+    "text": "No.",
+    "start": 246.659,
+    "duration": 1.21
+  },
+  {
+    "text": "There's what I call\ncomputational irreducibility,",
+    "start": 247.911,
+    "duration": 2.294
+  },
+  {
+    "text": "in which, in effect, the passage of time\ncorresponds to an irreducible computation",
+    "start": 250.246,
+    "duration": 4.88
+  },
+  {
+    "text": "that we have to run in order to work out\nhow it will turn out.",
+    "start": 255.126,
+    "duration": 3.462
+  },
+  {
+    "text": "But now there's kind of something,",
+    "start": 258.588,
+    "duration": 1.835
+  },
+  {
+    "text": "something even more --\nin our physics project,",
+    "start": 260.423,
+    "duration": 3.17
+  },
+  {
+    "text": "there’s things that have become\nmulti-computational,",
+    "start": 263.593,
+    "duration": 2.461
+  },
+  {
+    "text": "with many threads of time",
+    "start": 266.054,
+    "duration": 1.71
+  },
+  {
+    "text": "that can only be knitted\ntogether by an observer.",
+    "start": 267.764,
+    "duration": 3.503
+  },
+  {
+    "text": "So it's kind of a new paradigm\nthat actually seems to unlock things",
+    "start": 271.309,
+    "duration": 3.545
+  },
+  {
+    "text": "not only in fundamental physics,",
+    "start": 274.854,
+    "duration": 1.835
+  },
+  {
+    "text": "but also in the foundations of mathematics\nand computer science,",
+    "start": 276.731,
+    "duration": 3.17
+  },
+  {
+    "text": "and possibly in areas like biology\nand economics as well.",
+    "start": 279.901,
+    "duration": 3.295
+  },
+  {
+    "text": "So I talked about building up the universe",
+    "start": 284.364,
+    "duration": 2.169
+  },
+  {
+    "text": "by repeatedly applying\na computational rule.",
+    "start": 286.574,
+    "duration": 2.586
+  },
+  {
+    "text": "But how is that rule picked?",
+    "start": 289.202,
+    "duration": 2.252
+  },
+  {
+    "text": "Well, actually it isn't,",
+    "start": 291.496,
+    "duration": 1.793
+  },
+  {
+    "text": "because all possible rules are used,",
+    "start": 293.289,
+    "duration": 2.461
+  },
+  {
+    "text": "and we're building up\nwhat I call the ruliad,",
+    "start": 295.792,
+    "duration": 2.21
+  },
+  {
+    "text": "the kind of deeply abstract\nbut unique object",
+    "start": 298.002,
+    "duration": 2.92
+  },
+  {
+    "text": "that is the entangled limit\nof all possible computational processes.",
+    "start": 300.964,
+    "duration": 4.045
+  },
+  {
+    "text": "Here's a tiny fragment of it\nshown in terms of Turing machines.",
+    "start": 305.635,
+    "duration": 4.087
+  },
+  {
+    "text": "So this ruliad is everything.",
+    "start": 309.764,
+    "duration": 3.545
+  },
+  {
+    "text": "And we as observers\nare necessarily part of it.",
+    "start": 313.309,
+    "duration": 3.42
+  },
+  {
+    "text": "In the ruliad as a whole,",
+    "start": 317.063,
+    "duration": 1.585
+  },
+  {
+    "text": "in a sense, everything\ncomputationally possible can happen.",
+    "start": 318.69,
+    "duration": 3.503
+  },
+  {
+    "text": "But observers like us just sample\nspecific slices of the ruliad.",
+    "start": 322.235,
+    "duration": 4.671
+  },
+  {
+    "text": "And there are two crucial facts about us.",
+    "start": 326.906,
+    "duration": 2.836
+  },
+  {
+    "text": "First, we're computationally bounded,\nour minds are limited,",
+    "start": 329.784,
+    "duration": 3.879
+  },
+  {
+    "text": "and second, we believe\nwe're persistent in time,",
+    "start": 333.663,
+    "duration": 2.753
+  },
+  {
+    "text": "even though we're made of different\natoms of space at every moment.",
+    "start": 336.457,
+    "duration": 3.337
+  },
+  {
+    "text": "So then, here's the big result.",
+    "start": 339.836,
+    "duration": 2.044
+  },
+  {
+    "text": "What observers with those characteristics\nperceive in the ruliad",
+    "start": 341.88,
+    "duration": 3.753
+  },
+  {
+    "text": "necessarily follows certain laws.",
+    "start": 345.675,
+    "duration": 2.377
+  },
+  {
+    "text": "And those laws turn out to be precisely",
+    "start": 348.052,
+    "duration": 2.419
+  },
+  {
+    "text": "the three key theories\nof 20th century physics:",
+    "start": 350.513,
+    "duration": 2.795
+  },
+  {
+    "text": "general relativity, quantum mechanics,",
+    "start": 353.308,
+    "duration": 2.335
+  },
+  {
+    "text": "and statistical mechanics\nin the second law.",
+    "start": 355.685,
+    "duration": 2.586
+  },
+  {
+    "text": "So it's because we're observers like us",
+    "start": 358.313,
+    "duration": 3.169
+  },
+  {
+    "text": "that we perceive\nthe laws of physics we do.",
+    "start": 361.524,
+    "duration": 2.836
+  },
+  {
+    "text": "We can think of sort of different minds",
+    "start": 364.36,
+    "duration": 2.336
+  },
+  {
+    "text": "as being at different places\nin rulial space.",
+    "start": 366.738,
+    "duration": 2.794
+  },
+  {
+    "text": "Human minds who think alike are nearby,",
+    "start": 369.574,
+    "duration": 2.252
+  },
+  {
+    "text": "animals further away,",
+    "start": 371.868,
+    "duration": 1.46
+  },
+  {
+    "text": "and further out, we get\nto kind of alien minds",
+    "start": 373.369,
+    "duration": 2.253
+  },
+  {
+    "text": "where it's hard to make a translation.",
+    "start": 375.663,
+    "duration": 1.961
+  },
+  {
+    "text": "So how can we get intuition\nfor all of this?",
+    "start": 378.041,
+    "duration": 2.794
+  },
+  {
+    "text": "Well, one thing we can do\nis use generative AI",
+    "start": 380.835,
+    "duration": 2.544
+  },
+  {
+    "text": "to take what amounts to an incredibly\ntiny slice of the ruliad",
+    "start": 383.379,
+    "duration": 3.254
+  },
+  {
+    "text": "aligned with images\nwe humans have produced.",
+    "start": 386.674,
+    "duration": 3.337
+  },
+  {
+    "text": "We can think of this\nas sort of a place in the ruliad",
+    "start": 390.011,
+    "duration": 2.794
+  },
+  {
+    "text": "described by using the concept\nof a cat in a party hat.",
+    "start": 392.847,
+    "duration": 4.004
+  },
+  {
+    "text": "So zooming out,\nwe saw there",
+    "start": 397.435,
+    "duration": 3.086
+  },
+  {
+    "text": "what we might call Cat Island.",
+    "start": 400.521,
+    "duration": 2.002
+  },
+  {
+    "text": "Pretty soon we’re in a kind of\nan inter-concept space.",
+    "start": 402.523,
+    "duration": 3.045
+  },
+  {
+    "text": "Occasionally things will look familiar,",
+    "start": 405.568,
+    "duration": 1.877
+  },
+  {
+    "text": "but mostly, what we'll see is things\nwe humans don't have words for.",
+    "start": 407.487,
+    "duration": 4.421
+  },
+  {
+    "text": "In physical space, we explore the universe",
+    "start": 412.283,
+    "duration": 2.461
+  },
+  {
+    "text": "by sending out spacecraft.",
+    "start": 414.744,
+    "duration": 1.96
+  },
+  {
+    "text": "In rulial space, we explore more",
+    "start": 416.704,
+    "duration": 2.336
+  },
+  {
+    "text": "by expanding our concepts\nand our paradigms.",
+    "start": 419.082,
+    "duration": 2.836
+  },
+  {
+    "text": "We can kind of get a sense\nof what's out there",
+    "start": 422.335,
+    "duration": 2.169
+  },
+  {
+    "text": "by sampling possible rules,",
+    "start": 424.504,
+    "duration": 1.751
+  },
+  {
+    "text": "doing what I call ruliology.",
+    "start": 426.255,
+    "duration": 2.128
+  },
+  {
+    "text": "So even with incredibly simple rules,",
+    "start": 428.424,
+    "duration": 2.211
+  },
+  {
+    "text": "there's incredible richness.",
+    "start": 430.677,
+    "duration": 1.793
+  },
+  {
+    "text": "But the issue is that most of it\ndoesn't yet connect",
+    "start": 432.47,
+    "duration": 2.794
+  },
+  {
+    "text": "with things we humans\nunderstand or care about.",
+    "start": 435.306,
+    "duration": 3.17
+  },
+  {
+    "text": "It's like when we look\nat the natural world",
+    "start": 438.476,
+    "duration": 2.085
+  },
+  {
+    "text": "and only gradually realize that we can\nuse features of it for technology.",
+    "start": 440.561,
+    "duration": 3.712
+  },
+  {
+    "text": "So even after everything\nour civilization has achieved,",
+    "start": 444.649,
+    "duration": 3.003
+  },
+  {
+    "text": "we're just at the very, very beginning\nof exploring rulial space.",
+    "start": 447.694,
+    "duration": 3.878
+  },
+  {
+    "text": "What about AIs?",
+    "start": 451.614,
+    "duration": 1.502
+  },
+  {
+    "text": "Well, just like we can do ruliology,",
+    "start": 453.157,
+    "duration": 2.211
+  },
+  {
+    "text": "AIs can in principle go out\nand explore rulial space.",
+    "start": 455.41,
+    "duration": 3.42
+  },
+  {
+    "text": "Left to their own devices, though,",
+    "start": 458.871,
+    "duration": 1.836
+  },
+  {
+    "text": "they'll mostly just be doing things",
+    "start": 460.707,
+    "duration": 1.71
+  },
+  {
+    "text": "we humans don't connect with\nor care about.",
+    "start": 462.417,
+    "duration": 2.794
+  },
+  {
+    "text": "So the big achievements\nof AI in recent times",
+    "start": 465.545,
+    "duration": 2.377
+  },
+  {
+    "text": "have been about making systems\nthat are closely aligned with us humans.",
+    "start": 467.964,
+    "duration": 3.42
+  },
+  {
+    "text": "We train LLMs on billions of web pages\nso they can produce texts",
+    "start": 471.426,
+    "duration": 3.42
+  },
+  {
+    "text": "that's typical of what we humans write.",
+    "start": 474.887,
+    "duration": 2.211
+  },
+  {
+    "text": "And yes, the fact that this works",
+    "start": 477.14,
+    "duration": 1.835
+  },
+  {
+    "text": "is undoubtedly telling us\nsome deep scientific things",
+    "start": 479.017,
+    "duration": 2.919
+  },
+  {
+    "text": "about the semantic grammar of language",
+    "start": 481.978,
+    "duration": 2.252
+  },
+  {
+    "text": "and generalizations of things like logic",
+    "start": 484.23,
+    "duration": 2.127
+  },
+  {
+    "text": "that perhaps we should\nhave known centuries ago.",
+    "start": 486.357,
+    "duration": 2.294
+  },
+  {
+    "text": "You know, for much of human history,",
+    "start": 488.693,
+    "duration": 1.877
+  },
+  {
+    "text": "we were kind of like the LLMs,",
+    "start": 490.611,
+    "duration": 2.211
+  },
+  {
+    "text": "figuring things out by kind of matching\npatterns in our minds.",
+    "start": 492.822,
+    "duration": 3.587
+  },
+  {
+    "text": "But then came more systematic\nformalization and eventually computation.",
+    "start": 496.409,
+    "duration": 4.129
+  },
+  {
+    "text": "And with that, we got a whole other level\nof power to truly create new things",
+    "start": 500.58,
+    "duration": 4.296
+  },
+  {
+    "text": "and to, in effect, go wherever\nwe want in the ruliad.",
+    "start": 504.917,
+    "duration": 3.379
+  },
+  {
+    "text": "But the challenge is to do that in a way\nthat connects with what we humans,",
+    "start": 508.337,
+    "duration": 3.838
+  },
+  {
+    "text": "and our AIs, understand.",
+    "start": 512.216,
+    "duration": 2.711
+  },
+  {
+    "text": "In fact, I've devoted\na large part of my life",
+    "start": 514.969,
+    "duration": 2.211
+  },
+  {
+    "text": "to kind of trying to build that bridge.",
+    "start": 517.221,
+    "duration": 2.294
+  },
+  {
+    "text": "It's all been about creating a language\nfor expressing ourselves computationally,",
+    "start": 519.515,
+    "duration": 4.213
+  },
+  {
+    "text": "a language for computational thinking.",
+    "start": 523.77,
+    "duration": 2.002
+  },
+  {
+    "text": "The goal is to formalize what we know\nabout the world in computational terms,",
+    "start": 526.355,
+    "duration": 4.755
+  },
+  {
+    "text": "to have computational ways to represent\ncities and chemicals and movies",
+    "start": 531.11,
+    "duration": 3.629
+  },
+  {
+    "text": "and humor and formulas\nand our knowledge about them.",
+    "start": 534.739,
+    "duration": 3.253
+  },
+  {
+    "text": "It’s been a vast undertaking that spanned\nmore than four decades of my life,",
+    "start": 538.951,
+    "duration": 4.255
+  },
+  {
+    "text": "but it's something\nvery unique and different.",
+    "start": 543.206,
+    "duration": 2.502
+  },
+  {
+    "text": "But I'm happy to report\nthat in what has been Mathematica",
+    "start": 545.708,
+    "duration": 3.17
+  },
+  {
+    "text": "and is now the Wolfram Language,",
+    "start": 548.878,
+    "duration": 1.585
+  },
+  {
+    "text": "I think we firmly succeeded in creating",
+    "start": 550.463,
+    "duration": 3.003
+  },
+  {
+    "text": "a truly full-scale computational language.",
+    "start": 553.466,
+    "duration": 2.753
+  },
+  {
+    "text": "In effect,",
+    "start": 556.677,
+    "duration": 1.168
+  },
+  {
+    "text": "every one of these functions here\ncan be thought of as formalizing",
+    "start": 557.845,
+    "duration": 3.295
+  },
+  {
+    "text": "and encapsulating, in computational terms,",
+    "start": 561.182,
+    "duration": 2.586
+  },
+  {
+    "text": "some facet of the intellectual\nachievements of our civilization.",
+    "start": 563.768,
+    "duration": 3.378
+  },
+  {
+    "text": "It's sort of the most concentrated form\nof intellectual expression that I know,",
+    "start": 567.48,
+    "duration": 3.754
+  },
+  {
+    "text": "sort of finding the essence of everything\nand coherently expressing it",
+    "start": 571.275,
+    "duration": 3.587
+  },
+  {
+    "text": "in the design of our\ncomputational language.",
+    "start": 574.904,
+    "duration": 2.127
+  },
+  {
+    "text": "For me personally,",
+    "start": 577.365,
+    "duration": 1.168
+  },
+  {
+    "text": "it's been an amazing journey,\nkind of, year after year,",
+    "start": 578.533,
+    "duration": 2.586
+  },
+  {
+    "text": "building the sort of tower of ideas\nand technology that's needed.",
+    "start": 581.16,
+    "duration": 3.087
+  },
+  {
+    "text": "And nowadays sharing\nthat process with the world",
+    "start": 584.247,
+    "duration": 2.419
+  },
+  {
+    "text": "in things like open\nlive streams and so on.",
+    "start": 586.707,
+    "duration": 2.211
+  },
+  {
+    "text": "A few centuries ago,",
+    "start": 589.46,
+    "duration": 1.46
+  },
+  {
+    "text": "the development of mathematical notation,",
+    "start": 590.962,
+    "duration": 2.21
+  },
+  {
+    "text": "and what amounts\nto the language of mathematics,",
+    "start": 593.214,
+    "duration": 2.669
+  },
+  {
+    "text": "gave a systematic way to express math\nand made possible algebra and calculus,",
+    "start": 595.925,
+    "duration": 5.214
+  },
+  {
+    "text": "and eventually all of modern\nmathematical science.",
+    "start": 601.18,
+    "duration": 3.504
+  },
+  {
+    "text": "And computational language now\nprovides a similar path,",
+    "start": 604.684,
+    "duration": 3.253
+  },
+  {
+    "text": "letting us ultimately create\na computational X",
+    "start": 607.979,
+    "duration": 3.17
+  },
+  {
+    "text": "for all imaginable fields X.",
+    "start": 611.149,
+    "duration": 2.502
+  },
+  {
+    "text": "I mean, we've seen the growth\nof computer science, CS,",
+    "start": 614.026,
+    "duration": 3.337
+  },
+  {
+    "text": "but computational language opens up\nsomething ultimately much bigger",
+    "start": 617.405,
+    "duration": 3.378
+  },
+  {
+    "text": "and broader, CX.",
+    "start": 620.825,
+    "duration": 2.419
+  },
+  {
+    "text": "I mean, for 70 years\nwe've had programming languages",
+    "start": 623.244,
+    "duration": 2.461
+  },
+  {
+    "text": "which are about telling computers\nin their terms what to do.",
+    "start": 625.746,
+    "duration": 3.796
+  },
+  {
+    "text": "But computational language",
+    "start": 629.584,
+    "duration": 1.251
+  },
+  {
+    "text": "is about something\nintellectually much bigger.",
+    "start": 630.877,
+    "duration": 2.168
+  },
+  {
+    "text": "It's about taking everything\nwe can think about",
+    "start": 633.045,
+    "duration": 2.419
+  },
+  {
+    "text": "and operationalizing it\nin computational terms.",
+    "start": 635.506,
+    "duration": 3.087
+  },
+  {
+    "text": "You know, I built the Wolfram Language",
+    "start": 638.968,
+    "duration": 1.877
+  },
+  {
+    "text": "first and foremost\nbecause I wanted to use it myself.",
+    "start": 640.887,
+    "duration": 2.502
+  },
+  {
+    "text": "And now when I use it,",
+    "start": 643.431,
+    "duration": 1.334
+  },
+  {
+    "text": "I feel like it's kind of giving me\nsome kind of superpower.",
+    "start": 644.807,
+    "duration": 2.795
+  },
+  {
+    "text": "I just have to imagine something\nin computational terms.",
+    "start": 647.602,
+    "duration": 3.587
+  },
+  {
+    "text": "And then the language sort of almost\nmagically lets me bring it into reality,",
+    "start": 651.189,
+    "duration": 3.795
+  },
+  {
+    "text": "see its consequences, and build on them.",
+    "start": 655.026,
+    "duration": 2.294
+  },
+  {
+    "text": "And yes, that's the sort of superpower",
+    "start": 657.361,
+    "duration": 1.836
+  },
+  {
+    "text": "that's let me do things\nlike our physics project.",
+    "start": 659.197,
+    "duration": 2.335
+  },
+  {
+    "text": "And over the past 35 years,",
+    "start": 661.532,
+    "duration": 1.669
+  },
+  {
+    "text": "it's been my great privilege to share\nthis superpower with many other people,",
+    "start": 663.242,
+    "duration": 4.38
+  },
+  {
+    "text": "and by doing so,",
+    "start": 667.622,
+    "duration": 1.209
+  },
+  {
+    "text": "to have enabled an incredible number\nof advances across many fields.",
+    "start": 668.831,
+    "duration": 4.004
+  },
+  {
+    "text": "It's sort of a wonderful thing to see\npeople, researchers, CEOs, kids,",
+    "start": 673.252,
+    "duration": 4.213
+  },
+  {
+    "text": "using our language to fluently\nthink in computational terms,",
+    "start": 677.465,
+    "duration": 3.462
+  },
+  {
+    "text": "kind of crispening up their own thinking,",
+    "start": 680.968,
+    "duration": 2.419
+  },
+  {
+    "text": "and then in effect, automatically\ncalling in computational superpowers.",
+    "start": 683.387,
+    "duration": 3.712
+  },
+  {
+    "text": "And now it's not just people\nwho can do that.",
+    "start": 687.6,
+    "duration": 2.294
+  },
+  {
+    "text": "AIs can use our computational\nlanguage as a tool, too.",
+    "start": 689.936,
+    "duration": 3.336
+  },
+  {
+    "text": "Yes, to get their facts straight,",
+    "start": 693.272,
+    "duration": 2.252
+  },
+  {
+    "text": "but even more importantly,\nto compute new facts.",
+    "start": 695.566,
+    "duration": 3.003
+  },
+  {
+    "text": "There are already some integrations\nof our technology into LLMs.",
+    "start": 698.861,
+    "duration": 3.17
+  },
+  {
+    "text": "There's a lot more you'll be seeing soon.",
+    "start": 702.073,
+    "duration": 2.043
+  },
+  {
+    "text": "And, you know, when it comes\nto building new things",
+    "start": 704.116,
+    "duration": 2.419
+  },
+  {
+    "text": "in a very powerful emerging workflow,",
+    "start": 706.577,
+    "duration": 2.127
+  },
+  {
+    "text": "it's basically to start by telling\nthe LLM roughly what you want,",
+    "start": 708.704,
+    "duration": 4.38
+  },
+  {
+    "text": "then to have it try to express that\nin precise Wolfram Language,",
+    "start": 713.084,
+    "duration": 3.336
+  },
+  {
+    "text": "then, and this is a critical feature\nof our computational language,",
+    "start": 716.42,
+    "duration": 3.17
+  },
+  {
+    "text": "compared to, for example,\nprogramming language,",
+    "start": 719.59,
+    "duration": 2.211
+  },
+  {
+    "text": "you as a human can read the code,",
+    "start": 721.842,
+    "duration": 2.169
+  },
+  {
+    "text": "and if it does what you want,",
+    "start": 724.011,
+    "duration": 1.418
+  },
+  {
+    "text": "you can use it as kind of\na dependable component to build on.",
+    "start": 725.471,
+    "duration": 3.045
+  },
+  {
+    "text": "OK, but let's say we use more and more AI,",
+    "start": 728.891,
+    "duration": 2.419
+  },
+  {
+    "text": "more and more computation.",
+    "start": 731.352,
+    "duration": 1.668
+  },
+  {
+    "text": "What's the world going to be like?",
+    "start": 733.02,
+    "duration": 1.794
+  },
+  {
+    "text": "From the industrial revolution on,",
+    "start": 734.814,
+    "duration": 2.085
+  },
+  {
+    "text": "we’ve been used to doing engineering\nwhere we can in effect,",
+    "start": 736.899,
+    "duration": 2.878
+  },
+  {
+    "text": "see how the gears mesh\nto understand how things work.",
+    "start": 739.777,
+    "duration": 3.754
+  },
+  {
+    "text": "But computational irreducibility",
+    "start": 743.572,
+    "duration": 1.836
+  },
+  {
+    "text": "now shows us that that won't\nalways be possible.",
+    "start": 745.449,
+    "duration": 2.628
+  },
+  {
+    "text": "We won't always be able to make\na kind of simple human or, say,",
+    "start": 748.119,
+    "duration": 3.211
+  },
+  {
+    "text": "mathematical narrative",
+    "start": 751.372,
+    "duration": 1.668
+  },
+  {
+    "text": "to explain or predict\nwhat a system will do.",
+    "start": 753.082,
+    "duration": 2.502
+  },
+  {
+    "text": "And yes, this is science, in effect,\neating itself from the inside.",
+    "start": 755.96,
+    "duration": 4.129
+  },
+  {
+    "text": "From all the successes\nof mathematical science,",
+    "start": 760.548,
+    "duration": 2.294
+  },
+  {
+    "text": "we've come to believe that somehow,\nif we only could find them,",
+    "start": 762.883,
+    "duration": 3.671
+  },
+  {
+    "text": "there'd be formulas\nto kind of predict everything.",
+    "start": 766.595,
+    "duration": 3.17
+  },
+  {
+    "text": "But now computational irreducibility\nshows us that that isn't true.",
+    "start": 770.141,
+    "duration": 3.795
+  },
+  {
+    "text": "And that in effect, to find out\nwhat a system will do,",
+    "start": 774.312,
+    "duration": 2.669
+  },
+  {
+    "text": "we have to go through the same\nirreducible computational steps",
+    "start": 776.981,
+    "duration": 3.628
+  },
+  {
+    "text": "as the system itself.",
+    "start": 780.651,
+    "duration": 1.585
+  },
+  {
+    "text": "Yes, it's a weakness of science,",
+    "start": 782.82,
+    "duration": 1.627
+  },
+  {
+    "text": "but it's also why the passage of time\nis significant and meaningful",
+    "start": 784.447,
+    "duration": 4.004
+  },
+  {
+    "text": "and why we can't just sort of\njump ahead to get the answer.",
+    "start": 788.492,
+    "duration": 3.838
+  },
+  {
+    "text": "We have to live the steps.",
+    "start": 792.33,
+    "duration": 1.876
+  },
+  {
+    "text": "It's actually going to be, I think,\na great societal dilemma of the future.",
+    "start": 794.749,
+    "duration": 3.878
+  },
+  {
+    "text": "If we let our AIs achieve their\nkind of full computational potential,",
+    "start": 798.627,
+    "duration": 3.838
+  },
+  {
+    "text": "they'll have lots\nof computational irreducibility",
+    "start": 802.465,
+    "duration": 2.335
+  },
+  {
+    "text": "and we won't be able\nto predict what they'll do.",
+    "start": 804.8,
+    "duration": 2.294
+  },
+  {
+    "text": "But if we put constraints on them\nto make them more predictable,",
+    "start": 807.136,
+    "duration": 3.295
+  },
+  {
+    "text": "we'll limit what they can do for us.",
+    "start": 810.473,
+    "duration": 2.002
+  },
+  {
+    "text": "So what will it feel like if our world\nis full of computational irreducibility?",
+    "start": 812.808,
+    "duration": 5.005
+  },
+  {
+    "text": "Well, it's really nothing new",
+    "start": 818.189,
+    "duration": 2.169
+  },
+  {
+    "text": "because that's the story\nwith much of nature.",
+    "start": 820.399,
+    "duration": 2.419
+  },
+  {
+    "text": "And what's happened there",
+    "start": 822.818,
+    "duration": 1.21
+  },
+  {
+    "text": "is that we've found ways\nto operate within nature,",
+    "start": 824.07,
+    "duration": 2.585
+  },
+  {
+    "text": "even though nature\ncan sometimes still surprise us.",
+    "start": 826.697,
+    "duration": 2.753
+  },
+  {
+    "text": "And so it will be with the AIs.",
+    "start": 829.784,
+    "duration": 2.002
+  },
+  {
+    "text": "We might give them a constitution,\nbut there will always be consequences",
+    "start": 831.827,
+    "duration": 3.462
+  },
+  {
+    "text": "we can't predict.",
+    "start": 835.331,
+    "duration": 1.209
+  },
+  {
+    "text": "Of course, even figuring out societally\nwhat we want from the AIs is hard.",
+    "start": 836.54,
+    "duration": 4.839
+  },
+  {
+    "text": "Maybe we need you know, a promptocracy",
+    "start": 841.379,
+    "duration": 2.043
+  },
+  {
+    "text": "where people write prompts\ninstead of just voting.",
+    "start": 843.422,
+    "duration": 2.795
+  },
+  {
+    "text": "But basically, every control\nthe outcome scheme",
+    "start": 846.801,
+    "duration": 3.336
+  },
+  {
+    "text": "seems full of both political philosophy",
+    "start": 850.179,
+    "duration": 2.127
+  },
+  {
+    "text": "and computational irreducibility gotchas.",
+    "start": 852.348,
+    "duration": 2.669
+  },
+  {
+    "text": "You know, if we look\nat the whole arc of human history,",
+    "start": 855.559,
+    "duration": 2.92
+  },
+  {
+    "text": "the one thing that's\nsystematically changed",
+    "start": 858.479,
+    "duration": 2.21
+  },
+  {
+    "text": "is that more and more gets automated.",
+    "start": 860.689,
+    "duration": 2.086
+  },
+  {
+    "text": "And LLMs just gave us a dramatic\nand unexpected example of that.",
+    "start": 862.775,
+    "duration": 3.503
+  },
+  {
+    "text": "So what does that mean?",
+    "start": 866.821,
+    "duration": 1.167
+  },
+  {
+    "text": "Does that mean that in the end,\nus humans will have nothing to do?",
+    "start": 867.988,
+    "duration": 3.17
+  },
+  {
+    "text": "Well, if we look at history,",
+    "start": 871.7,
+    "duration": 1.752
+  },
+  {
+    "text": "what seems to happen is that when\none thing gets automated away,",
+    "start": 873.494,
+    "duration": 3.337
+  },
+  {
+    "text": "it opens up lots of new things to do.",
+    "start": 876.872,
+    "duration": 2.503
+  },
+  {
+    "text": "And as economies develop,",
+    "start": 879.417,
+    "duration": 1.626
+  },
+  {
+    "text": "the pie chart of occupations\nseems to get more and more fragmented.",
+    "start": 881.085,
+    "duration": 4.379
+  },
+  {
+    "text": "And now we're back to the ruliad.",
+    "start": 885.881,
+    "duration": 1.71
+  },
+  {
+    "text": "Because at a foundational level,",
+    "start": 887.591,
+    "duration": 1.544
+  },
+  {
+    "text": "what's happening is that automation\nis opening up more directions",
+    "start": 889.176,
+    "duration": 3.17
+  },
+  {
+    "text": "to go in the ruliad.",
+    "start": 892.388,
+    "duration": 1.46
+  },
+  {
+    "text": "But there's no abstract way\nto choose between these.",
+    "start": 893.848,
+    "duration": 3.003
+  },
+  {
+    "text": "It's a question of what we humans want,",
+    "start": 896.892,
+    "duration": 2.127
+  },
+  {
+    "text": "and it requires kind of humans\ndoing work to define that.",
+    "start": 899.061,
+    "duration": 3.754
+  },
+  {
+    "text": "So a society of AI as sort of\nuntethered by human input,",
+    "start": 902.815,
+    "duration": 4.796
+  },
+  {
+    "text": "would effectively go off\nand explore the whole ruliad.",
+    "start": 907.653,
+    "duration": 2.753
+  },
+  {
+    "text": "But most of what they do would seem\nto us random and pointless,",
+    "start": 910.406,
+    "duration": 4.129
+  },
+  {
+    "text": "much like most of nature\ndoesn't seem to us right now,",
+    "start": 914.577,
+    "duration": 3.712
+  },
+  {
+    "text": "like it's achieving a purpose.",
+    "start": 918.289,
+    "duration": 1.751
+  },
+  {
+    "text": "I mean, one used to imagine that to build\nthings that are useful to us,",
+    "start": 920.541,
+    "duration": 4.421
+  },
+  {
+    "text": "we'd have to do it kind of step by step.",
+    "start": 925.004,
+    "duration": 2.294
+  },
+  {
+    "text": "But AI and the whole\nphenomenon of computation",
+    "start": 927.673,
+    "duration": 2.711
+  },
+  {
+    "text": "tell us that really what we need",
+    "start": 930.426,
+    "duration": 1.96
+  },
+  {
+    "text": "is more just to define what we want.",
+    "start": 932.428,
+    "duration": 2.377
+  },
+  {
+    "text": "Then computation, AI,\nautomation can make it happen.",
+    "start": 935.306,
+    "duration": 4.421
+  },
+  {
+    "text": "And yes, I think the key to defining\nin a clear way what we want",
+    "start": 939.768,
+    "duration": 3.754
+  },
+  {
+    "text": "is computational language.",
+    "start": 943.564,
+    "duration": 1.793
+  },
+  {
+    "text": "And, you know, even after 35 years,",
+    "start": 945.357,
+    "duration": 2.169
+  },
+  {
+    "text": "for many people,",
+    "start": 947.526,
+    "duration": 1.21
+  },
+  {
+    "text": "Wolfram Language is still sort of\nan artifact from the future.",
+    "start": 948.736,
+    "duration": 2.961
+  },
+  {
+    "text": "If your job is to program,\nit seems like a cheat.",
+    "start": 951.697,
+    "duration": 2.836
+  },
+  {
+    "text": "How come you can do in an hour\nwhat would usually take you a week?",
+    "start": 954.575,
+    "duration": 3.545
+  },
+  {
+    "text": "But it can also be kind of daunting\nbecause having dashed off that one thing,",
+    "start": 958.12,
+    "duration": 4.129
+  },
+  {
+    "text": "you now have to conceptualize\nthe next thing.",
+    "start": 962.249,
+    "duration": 2.544
+  },
+  {
+    "text": "Of course, it's great for CEOs and CTOs",
+    "start": 964.835,
+    "duration": 2.461
+  },
+  {
+    "text": "and intellectual leaders who are ready\nto race on to the next thing.",
+    "start": 967.338,
+    "duration": 3.795
+  },
+  {
+    "text": "And indeed, it's an impressively\npopular thing in that set.",
+    "start": 971.175,
+    "duration": 4.629
+  },
+  {
+    "text": "In a sense, what's happening\nis that Wolfram Language shifts",
+    "start": 976.096,
+    "duration": 2.837
+  },
+  {
+    "text": "from concentrating on mechanics\nto concentrating on conceptualization,",
+    "start": 978.974,
+    "duration": 3.796
+  },
+  {
+    "text": "and the key to that conceptualization\nis broad computational thinking.",
+    "start": 982.77,
+    "duration": 4.463
+  },
+  {
+    "text": "So how can one learn to do that?",
+    "start": 987.233,
+    "duration": 1.918
+  },
+  {
+    "text": "It's not really a story of CS,",
+    "start": 989.193,
+    "duration": 1.96
+  },
+  {
+    "text": "it's really a story of CX.",
+    "start": 991.195,
+    "duration": 2.21
+  },
+  {
+    "text": "And as a kind of education,",
+    "start": 993.405,
+    "duration": 1.752
+  },
+  {
+    "text": "it's more like liberal arts than STEM.",
+    "start": 995.199,
+    "duration": 2.586
+  },
+  {
+    "text": "It's part of a trend that when\nyou automate technical execution,",
+    "start": 997.826,
+    "duration": 3.587
+  },
+  {
+    "text": "what becomes important\nis not figuring out how to do things,",
+    "start": 1001.413,
+    "duration": 4.255
+  },
+  {
+    "text": "but what to do.",
+    "start": 1005.668,
+    "duration": 1.418
+  },
+  {
+    "text": "And that's more a story\nof broad knowledge and general thinking",
+    "start": 1007.127,
+    "duration": 3.045
+  },
+  {
+    "text": "than any kind of narrow specialization.",
+    "start": 1010.172,
+    "duration": 2.503
+  },
+  {
+    "text": "You know, there's sort of an unexpected\nhuman centeredness to all of this.",
+    "start": 1013.509,
+    "duration": 3.503
+  },
+  {
+    "text": "We might have thought that with\nthe advance of science and technology,",
+    "start": 1017.054,
+    "duration": 3.378
+  },
+  {
+    "text": "the particulars of us humans\nwould become ever less relevant.",
+    "start": 1020.432,
+    "duration": 3.712
+  },
+  {
+    "text": "But we've discovered that that's not true,\nand that, in fact, everything,",
+    "start": 1024.144,
+    "duration": 3.462
+  },
+  {
+    "text": "even our physics,",
+    "start": 1027.648,
+    "duration": 1.209
+  },
+  {
+    "text": "depends on how we humans\nhappen to have sampled the ruliad.",
+    "start": 1028.899,
+    "duration": 3.837
+  },
+  {
+    "text": "Before our physics project,",
+    "start": 1033.696,
+    "duration": 2.043
+  },
+  {
+    "text": "we didn't know if our universe\nreally was computational,",
+    "start": 1035.781,
+    "duration": 3.378
+  },
+  {
+    "text": "but now it's pretty clear that it is.",
+    "start": 1039.201,
+    "duration": 2.002
+  },
+  {
+    "text": "And from that, we're sort of\ninexorably led to the ruliad,",
+    "start": 1041.245,
+    "duration": 2.753
+  },
+  {
+    "text": "with all its kind of vastness",
+    "start": 1043.998,
+    "duration": 1.96
+  },
+  {
+    "text": "so hugely greater than the physical\nspace in our universe.",
+    "start": 1046.0,
+    "duration": 3.378
+  },
+  {
+    "text": "So where will we go in the ruliad?",
+    "start": 1049.962,
+    "duration": 2.336
+  },
+  {
+    "text": "Computational language\nis what lets us chart our path.",
+    "start": 1052.339,
+    "duration": 3.212
+  },
+  {
+    "text": "It lets us humans define\nour goals and our journeys.",
+    "start": 1055.551,
+    "duration": 3.336
+  },
+  {
+    "text": "And what's amazing\nis that all the power and depth",
+    "start": 1058.887,
+    "duration": 2.628
+  },
+  {
+    "text": "of what's out there in the ruliad\nis accessible to everyone.",
+    "start": 1061.557,
+    "duration": 3.086
+  },
+  {
+    "text": "One just has to learn to harness\nthose computational superpowers,",
+    "start": 1065.019,
+    "duration": 4.129
+  },
+  {
+    "text": "which kind of starts here,",
+    "start": 1069.189,
+    "duration": 1.544
+  },
+  {
+    "text": "you know, our portal to the ruliad.",
+    "start": 1070.774,
+    "duration": 3.254
+  },
+  {
+    "text": "Thank you.",
+    "start": 1074.528,
+    "duration": 1.335
+  },
+  {
+    "text": "(Applause)",
+    "start": 1075.904,
+    "duration": 3.587
+  }
+]

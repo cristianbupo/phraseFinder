@@ -1,0 +1,537 @@
+[
+  {
+    "text": "- The late great astronomer\nand science popularizer,",
+    "start": 1.17,
+    "duration": 3.93
+  },
+  {
+    "text": "Carl Sagan, had a famous saying:",
+    "start": 5.1,
+    "duration": 2.647
+  },
+  {
+    "text": "\"Extraordinary claims require\nextraordinary evidence.\"",
+    "start": 7.747,
+    "duration": 4.103
+  },
+  {
+    "text": "In this, he was echoing\na argument by David Hume.",
+    "start": 11.85,
+    "duration": 3.72
+  },
+  {
+    "text": "Hume said, \"Well, what's\nmore likely, that the laws",
+    "start": 15.57,
+    "duration": 3.037
+  },
+  {
+    "text": "of the Universe as we've always\nexperienced them are wrong,",
+    "start": 18.607,
+    "duration": 2.73
+  },
+  {
+    "text": "or that some guy misremembered something?\"",
+    "start": 21.337,
+    "duration": 2.603
+  },
+  {
+    "text": "And these are all versions\nof a kind of reasoning",
+    "start": 23.94,
+    "duration": 3.51
+  },
+  {
+    "text": "that is called 'Bayesian,'\nafter the Reverend Thomas Bayes.",
+    "start": 27.45,
+    "duration": 4.8
+  },
+  {
+    "text": "It just means after you've\nseen all of the evidence,",
+    "start": 32.25,
+    "duration": 3.63
+  },
+  {
+    "text": "how much should you believe something?",
+    "start": 35.88,
+    "duration": 2.04
+  },
+  {
+    "text": "And it assumes that you\ndon't just believe something",
+    "start": 37.92,
+    "duration": 1.83
+  },
+  {
+    "text": "or disbelieve it, you\nassign a degree of belief.",
+    "start": 39.75,
+    "duration": 3.24
+  },
+  {
+    "text": "We all want that, we don't\nwanna be black and white,",
+    "start": 42.99,
+    "duration": 2.73
+  },
+  {
+    "text": "dichotomous absolutists.",
+    "start": 45.72,
+    "duration": 1.53
+  },
+  {
+    "text": "We wanna calibrate our degree of belief",
+    "start": 47.25,
+    "duration": 2.52
+  },
+  {
+    "text": "to the strength of the evidence.",
+    "start": 49.77,
+    "duration": 2.37
+  },
+  {
+    "text": "Bayes' theorem is how\nyou ought to do that.",
+    "start": 52.14,
+    "duration": 3.583
+  },
+  {
+    "text": "Bayes' theorem, at first\nglance, looks kinda scary",
+    "start": 63.0,
+    "duration": 2.31
+  },
+  {
+    "text": "'cause it's got all of\nthese letters and symbols,",
+    "start": 65.31,
+    "duration": 2.85
+  },
+  {
+    "text": "but more important,\nconceptually, it's simple-",
+    "start": 68.16,
+    "duration": 2.82
+  },
+  {
+    "text": "and at some level, I think we all know it.",
+    "start": 70.98,
+    "duration": 2.67
+  },
+  {
+    "text": "Posterior probability,\nthat is credence in an idea",
+    "start": 73.65,
+    "duration": 3.51
+  },
+  {
+    "text": "after looking at the evidence\ncan be estimated by the prior:",
+    "start": 77.16,
+    "duration": 4.86
+  },
+  {
+    "text": "that is, how much credence\ndid the idea have even",
+    "start": 82.02,
+    "duration": 3.84
+  },
+  {
+    "text": "before you looked at that evidence?",
+    "start": 85.86,
+    "duration": 2.49
+  },
+  {
+    "text": "The prior should be based on\neverything that we know so far,",
+    "start": 88.35,
+    "duration": 3.6
+  },
+  {
+    "text": "on data gathered in the past,\nour best-established theories,",
+    "start": 91.95,
+    "duration": 4.44
+  },
+  {
+    "text": "anything that's relevant",
+    "start": 96.39,
+    "duration": 1.11
+  },
+  {
+    "text": "to how much you should believe something",
+    "start": 97.5,
+    "duration": 2.43
+  },
+  {
+    "text": "before you look at the new evidence.",
+    "start": 99.93,
+    "duration": 2.88
+  },
+  {
+    "text": "Second term is sometimes\ncalled the likelihood,",
+    "start": 102.81,
+    "duration": 2.7
+  },
+  {
+    "text": "and that refers to if\nthe hypothesis is true,",
+    "start": 105.51,
+    "duration": 3.78
+  },
+  {
+    "text": "how likely is it that\nyou will see the evidence",
+    "start": 109.29,
+    "duration": 3.21
+  },
+  {
+    "text": "that you are now seeing?",
+    "start": 112.5,
+    "duration": 1.86
+  },
+  {
+    "text": "You just divide that product-\nthe prior, the likelihood-",
+    "start": 114.36,
+    "duration": 3.75
+  },
+  {
+    "text": "by the commonness of the\ndata, probability of the data,",
+    "start": 118.11,
+    "duration": 3.48
+  },
+  {
+    "text": "which is, how often do you expect",
+    "start": 121.59,
+    "duration": 2.07
+  },
+  {
+    "text": "to see that evidence across the board,",
+    "start": 123.66,
+    "duration": 2.46
+  },
+  {
+    "text": "whether the idea you're\ntesting is true or false?",
+    "start": 126.12,
+    "duration": 3.84
+  },
+  {
+    "text": "If something is very\ncommon, so for example,",
+    "start": 129.96,
+    "duration": 2.76
+  },
+  {
+    "text": "lots of things that give\npeople headaches and back pain,",
+    "start": 132.72,
+    "duration": 3.36
+  },
+  {
+    "text": "you don't diagnose some exotic disease",
+    "start": 136.08,
+    "duration": 2.85
+  },
+  {
+    "text": "whose symptoms happen to\nbe back pain and headaches",
+    "start": 138.93,
+    "duration": 2.31
+  },
+  {
+    "text": "just because so many different things",
+    "start": 141.24,
+    "duration": 1.62
+  },
+  {
+    "text": "can give you headaches and back pain.",
+    "start": 142.86,
+    "duration": 2.28
+  },
+  {
+    "text": "There's a cliche in medical education:",
+    "start": 145.14,
+    "duration": 2.46
+  },
+  {
+    "text": "If you hear hoof beats outside the window,",
+    "start": 147.6,
+    "duration": 3.18
+  },
+  {
+    "text": "don't conclude that it's a zebra,",
+    "start": 150.78,
+    "duration": 1.47
+  },
+  {
+    "text": "it's much more likely to be a horse.",
+    "start": 152.25,
+    "duration": 1.8
+  },
+  {
+    "text": "And that's another way of getting people",
+    "start": 154.05,
+    "duration": 1.47
+  },
+  {
+    "text": "to take into account Bayesian priors.",
+    "start": 155.52,
+    "duration": 3.123
+  },
+  {
+    "text": "There are many realms in life",
+    "start": 161.07,
+    "duration": 1.41
+  },
+  {
+    "text": "in which if all we cared about was",
+    "start": 162.48,
+    "duration": 2.01
+  },
+  {
+    "text": "to be optimal statisticians,\nwe should apply Bayes' theorem-",
+    "start": 164.49,
+    "duration": 3.81
+  },
+  {
+    "text": "just plug the numbers in.",
+    "start": 168.3,
+    "duration": 1.35
+  },
+  {
+    "text": "But there are things in life",
+    "start": 169.65,
+    "duration": 1.26
+  },
+  {
+    "text": "other than making the best\npossible statistical prediction.",
+    "start": 170.91,
+    "duration": 4.05
+  },
+  {
+    "text": "And sometimes we legitimately\nsay, \"Sorry, you can't look",
+    "start": 174.96,
+    "duration": 3.42
+  },
+  {
+    "text": "at the Bayes rate:",
+    "start": 178.38,
+    "duration": 1.575
+  },
+  {
+    "text": "rates of criminal violence",
+    "start": 179.955,
+    "duration": 1.665
+  },
+  {
+    "text": "or rates of success in school.\"",
+    "start": 181.62,
+    "duration": 2.16
+  },
+  {
+    "text": "It's true you may not have",
+    "start": 183.78,
+    "duration": 1.8
+  },
+  {
+    "text": "the same statistical predictive power,",
+    "start": 185.58,
+    "duration": 2.64
+  },
+  {
+    "text": "but predictive power isn't\nthe only thing in life.",
+    "start": 188.22,
+    "duration": 2.19
+  },
+  {
+    "text": "You may also want fairness.",
+    "start": 190.41,
+    "duration": 1.56
+  },
+  {
+    "text": "You may want to not\nperpetuate a vicious circle",
+    "start": 191.97,
+    "duration": 3.03
+  },
+  {
+    "text": "where some kinds of people,",
+    "start": 195.0,
+    "duration": 2.22
+  },
+  {
+    "text": "through disadvantage,\nmight succeed less often,",
+    "start": 197.22,
+    "duration": 2.85
+  },
+  {
+    "text": "but then if everyone assumes\nthey'll succeed less often,",
+    "start": 200.07,
+    "duration": 1.98
+  },
+  {
+    "text": "they'll succeed even less often.",
+    "start": 202.05,
+    "duration": 2.16
+  },
+  {
+    "text": "It could also go too far just\nby saying, \"Well, only 10%",
+    "start": 204.21,
+    "duration": 3.81
+  },
+  {
+    "text": "of mechanical engineers are\nwomen, so there must be a lot",
+    "start": 208.02,
+    "duration": 3.0
+  },
+  {
+    "text": "of sexism in mechanical\nengineering programs",
+    "start": 211.02,
+    "duration": 2.31
+  },
+  {
+    "text": "that cause women to fail.\"",
+    "start": 213.33,
+    "duration": 1.02
+  },
+  {
+    "text": "And you might say, \"Well, wait a second,",
+    "start": 214.35,
+    "duration": 1.23
+  },
+  {
+    "text": "what is the Bayes rate of women",
+    "start": 215.58,
+    "duration": 1.77
+  },
+  {
+    "text": "who wanna be mechanical\nengineers in the first place?\"",
+    "start": 217.35,
+    "duration": 3.3
+  },
+  {
+    "text": "There, if you're accusing\nlots of people of sexism",
+    "start": 220.65,
+    "duration": 3.24
+  },
+  {
+    "text": "without looking at the Bayes rate,",
+    "start": 223.89,
+    "duration": 1.23
+  },
+  {
+    "text": "you might be making a\nlot of false accusations.",
+    "start": 225.12,
+    "duration": 2.35
+  },
+  {
+    "text": "I think we've got to think\nvery carefully about the realms",
+    "start": 228.39,
+    "duration": 2.79
+  },
+  {
+    "text": "in which, morally, we\nwant not to be Bayesians",
+    "start": 231.18,
+    "duration": 4.091
+  },
+  {
+    "text": "and the realms in which\nwe do wanna be Bayesian,",
+    "start": 235.271,
+    "duration": 2.716
+  },
+  {
+    "text": "such as journalism and social science",
+    "start": 237.987,
+    "duration": 3.153
+  },
+  {
+    "text": "where we just wanna understand the world.",
+    "start": 241.14,
+    "duration": 2.73
+  },
+  {
+    "text": "It's one of the most touchy and difficult",
+    "start": 243.87,
+    "duration": 3.48
+  },
+  {
+    "text": "and politically sensitive hot\nbuttons that are out there.",
+    "start": 247.35,
+    "duration": 3.78
+  },
+  {
+    "text": "And that's a dilemma that\nfaces us with all taboos,",
+    "start": 251.13,
+    "duration": 4.08
+  },
+  {
+    "text": "including forbidden Bayes rates.",
+    "start": 255.21,
+    "duration": 1.8
+  },
+  {
+    "text": "Still, we can't evade the responsibility",
+    "start": 257.01,
+    "duration": 2.97
+  },
+  {
+    "text": "of deciding when are\nBayes rates permissible,",
+    "start": 259.98,
+    "duration": 3.18
+  },
+  {
+    "text": "when are they forbidden?",
+    "start": 263.16,
+    "duration": 1.323
+  },
+  {
+    "text": "What Bayes' theorem just says\nis that your degree of belief",
+    "start": 265.41,
+    "duration": 3.42
+  },
+  {
+    "text": "in a hypothesis should be determined",
+    "start": 268.83,
+    "duration": 3.03
+  },
+  {
+    "text": "by how likely the\nhypothesis is beforehand,",
+    "start": 271.86,
+    "duration": 4.02
+  },
+  {
+    "text": "before you even look at the evidence.",
+    "start": 275.88,
+    "duration": 2.07
+  },
+  {
+    "text": "If the hypothesis is\ntrue, what are the odds",
+    "start": 277.95,
+    "duration": 2.91
+  },
+  {
+    "text": "that you would see the\nevidence that you are seeing,",
+    "start": 280.86,
+    "duration": 2.4
+  },
+  {
+    "text": "scaled by how common is that\nevidence across the board",
+    "start": 283.26,
+    "duration": 2.94
+  },
+  {
+    "text": "whether the hypothesis is true or false?",
+    "start": 286.2,
+    "duration": 2.61
+  },
+  {
+    "text": "If you could follow what I just said,",
+    "start": 288.81,
+    "duration": 2.4
+  },
+  {
+    "text": "you understand Bayes' theorem.",
+    "start": 291.21,
+    "duration": 2.01
+  },
+  {
+    "text": "- Get smarter, faster",
+    "start": 293.22,
+    "duration": 1.29
+  },
+  {
+    "text": "with videos from the\nworld's biggest thinkers.",
+    "start": 294.51,
+    "duration": 2.313
+  },
+  {
+    "text": "To learn even more from the\nworld's biggest thinkers,",
+    "start": 299.25,
+    "duration": 2.97
+  },
+  {
+    "text": "get Big Think+ for your business.",
+    "start": 302.22,
+    "duration": 2.133
+  }
+]

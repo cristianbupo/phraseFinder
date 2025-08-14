@@ -1,0 +1,3047 @@
+[
+  {
+    "text": "my name is Nicholas Negron and I'm a",
+    "start": 6.64,
+    "duration": 6.999
+  },
+  {
+    "text": "professor uh at MIT in Cambridge",
+    "start": 9.32,
+    "duration": 4.319
+  },
+  {
+    "text": "Massachusetts well one laptop per child",
+    "start": 16.16,
+    "duration": 5.92
+  },
+  {
+    "text": "is is is based on the theories of",
+    "start": 18.88,
+    "duration": 6.44
+  },
+  {
+    "text": "constructionism and those were founded",
+    "start": 22.08,
+    "duration": 8.119
+  },
+  {
+    "text": "originally by Jean p in Geneva and more",
+    "start": 25.32,
+    "duration": 7.56
+  },
+  {
+    "text": "contemporaneously with us at least uh by",
+    "start": 30.199,
+    "duration": 5.481
+  },
+  {
+    "text": "a man named Seymour papert who was also",
+    "start": 32.88,
+    "duration": 6.08
+  },
+  {
+    "text": "at MIT and Seymour made an observation",
+    "start": 35.68,
+    "duration": 4.24
+  },
+  {
+    "text": "in",
+    "start": 38.96,
+    "duration": 4.439
+  },
+  {
+    "text": "1968 that was very simple but very",
+    "start": 39.92,
+    "duration": 5.799
+  },
+  {
+    "text": "profound and that is that if a child",
+    "start": 43.399,
+    "duration": 5.921
+  },
+  {
+    "text": "writes a computer program that child is",
+    "start": 45.719,
+    "duration": 6.64
+  },
+  {
+    "text": "engaged in the closest approximation we",
+    "start": 49.32,
+    "duration": 6.96
+  },
+  {
+    "text": "can come to thinking about thinking and",
+    "start": 52.359,
+    "duration": 7.68
+  },
+  {
+    "text": "what is sort of even more important is",
+    "start": 56.28,
+    "duration": 5.48
+  },
+  {
+    "text": "is that when you write a computer",
+    "start": 60.039,
+    "duration": 4.12
+  },
+  {
+    "text": "program it never works the first time so",
+    "start": 61.76,
+    "duration": 4.28
+  },
+  {
+    "text": "you have to go through a stage called",
+    "start": 64.159,
+    "duration": 4.441
+  },
+  {
+    "text": "debugging and the process of debugging",
+    "start": 66.04,
+    "duration": 4.28
+  },
+  {
+    "text": "going and correcting the program and",
+    "start": 68.6,
+    "duration": 3.28
+  },
+  {
+    "text": "then looking at the behavior and then",
+    "start": 70.32,
+    "duration": 3.839
+  },
+  {
+    "text": "correcting it again and finally",
+    "start": 71.88,
+    "duration": 5.36
+  },
+  {
+    "text": "iteratively getting to a working program",
+    "start": 74.159,
+    "duration": 6.521
+  },
+  {
+    "text": "is in fact very close to learning about",
+    "start": 77.24,
+    "duration": 6.72
+  },
+  {
+    "text": "learning and what Seymour observed back",
+    "start": 80.68,
+    "duration": 6.72
+  },
+  {
+    "text": "in the late 60s and early 70s was that",
+    "start": 83.96,
+    "duration": 6.799
+  },
+  {
+    "text": "we didn't really teach think thinking we",
+    "start": 87.4,
+    "duration": 6.399
+  },
+  {
+    "text": "taught subjects and that we went through",
+    "start": 90.759,
+    "duration": 5.561
+  },
+  {
+    "text": "school learning particular bodies of",
+    "start": 93.799,
+    "duration": 5.121
+  },
+  {
+    "text": "knowledge but we never learned learning",
+    "start": 96.32,
+    "duration": 5.759
+  },
+  {
+    "text": "itself and that was the the real",
+    "start": 98.92,
+    "duration": 5.72
+  },
+  {
+    "text": "influence for one laptop per child",
+    "start": 102.079,
+    "duration": 5.521
+  },
+  {
+    "text": "because in the 70s we started to work",
+    "start": 104.64,
+    "duration": 4.96
+  },
+  {
+    "text": "with computers and children in New York",
+    "start": 107.6,
+    "duration": 5.44
+  },
+  {
+    "text": "and other places and very sort of poor",
+    "start": 109.6,
+    "duration": 5.44
+  },
+  {
+    "text": "districts this wasn't just in fancy",
+    "start": 113.04,
+    "duration": 4.64
+  },
+  {
+    "text": "private schools and then in the early",
+    "start": 115.04,
+    "duration": 5.439
+  },
+  {
+    "text": "80s we doing this in afca Africa and",
+    "start": 117.68,
+    "duration": 6.119
+  },
+  {
+    "text": "Asia and and South America in very",
+    "start": 120.479,
+    "duration": 6.721
+  },
+  {
+    "text": "remote rural parts of the world that was",
+    "start": 123.799,
+    "duration": 6.16
+  },
+  {
+    "text": "the beginning and it all started with",
+    "start": 127.2,
+    "duration": 5.679
+  },
+  {
+    "text": "constructionism it started with learning",
+    "start": 129.959,
+    "duration": 4.92
+  },
+  {
+    "text": "learning and children being active",
+    "start": 132.879,
+    "duration": 5.64
+  },
+  {
+    "text": "agents uh in their own",
+    "start": 134.879,
+    "duration": 3.64
+  },
+  {
+    "text": "education well the laptop is designed to",
+    "start": 139.879,
+    "duration": 6.881
+  },
+  {
+    "text": "be child Centric in in in a number of",
+    "start": 143.599,
+    "duration": 5.92
+  },
+  {
+    "text": "very important ways um first of all",
+    "start": 146.76,
+    "duration": 4.559
+  },
+  {
+    "text": "there simple properties because when we",
+    "start": 149.519,
+    "duration": 4.281
+  },
+  {
+    "text": "say child we mean six to 12 years old we",
+    "start": 151.319,
+    "duration": 6.2
+  },
+  {
+    "text": "really mean primary education um and as",
+    "start": 153.8,
+    "duration": 7.64
+  },
+  {
+    "text": "soon as you have that you know age group",
+    "start": 157.519,
+    "duration": 5.0
+  },
+  {
+    "text": "you have to make it pretty",
+    "start": 161.44,
+    "duration": 2.719
+  },
+  {
+    "text": "indestructible it's you've got to be",
+    "start": 162.519,
+    "duration": 4.36
+  },
+  {
+    "text": "able to drop it from six or seven feet",
+    "start": 164.159,
+    "duration": 4.16
+  },
+  {
+    "text": "it's going to be stepped on it's going",
+    "start": 166.879,
+    "duration": 3.401
+  },
+  {
+    "text": "to be carried in the rain and and so",
+    "start": 168.319,
+    "duration": 4.601
+  },
+  {
+    "text": "it's gets subjective to treatment that",
+    "start": 170.28,
+    "duration": 5.599
+  },
+  {
+    "text": "is more like military equipment than it",
+    "start": 172.92,
+    "duration": 5.56
+  },
+  {
+    "text": "is office equipment so that's one aspect",
+    "start": 175.879,
+    "duration": 4.761
+  },
+  {
+    "text": "of it which is a bit bit mundane but",
+    "start": 178.48,
+    "duration": 5.44
+  },
+  {
+    "text": "it's certainly true another aspect is",
+    "start": 180.64,
+    "duration": 6.48
+  },
+  {
+    "text": "you want it to work in the sunlight when",
+    "start": 183.92,
+    "duration": 4.84
+  },
+  {
+    "text": "kids are Outdoors you want them to be",
+    "start": 187.12,
+    "duration": 4.08
+  },
+  {
+    "text": "able to read books on it you want them",
+    "start": 188.76,
+    "duration": 3.72
+  },
+  {
+    "text": "doesn't mean that they have to be in the",
+    "start": 191.2,
+    "duration": 4.36
+  },
+  {
+    "text": "baking sun but your laptop and my laptop",
+    "start": 192.48,
+    "duration": 5.88
+  },
+  {
+    "text": "really don't work Outdoors because the",
+    "start": 195.56,
+    "duration": 7.08
+  },
+  {
+    "text": "screen technology just is not reflective",
+    "start": 198.36,
+    "duration": 6.68
+  },
+  {
+    "text": "screen it's transmitted and and it gets",
+    "start": 202.64,
+    "duration": 4.72
+  },
+  {
+    "text": "washed out very easily so we had to do",
+    "start": 205.04,
+    "duration": 4.96
+  },
+  {
+    "text": "some again very pragmatic things make",
+    "start": 207.36,
+    "duration": 5.36
+  },
+  {
+    "text": "the display what we call a dual mode",
+    "start": 210.0,
+    "duration": 5.319
+  },
+  {
+    "text": "that it works both reflective and",
+    "start": 212.72,
+    "duration": 4.48
+  },
+  {
+    "text": "transmissive and then there are other",
+    "start": 215.319,
+    "duration": 4.041
+  },
+  {
+    "text": "aspects of it that have more to do with",
+    "start": 217.2,
+    "duration": 5.119
+  },
+  {
+    "text": "the emphasis on collaboration so these",
+    "start": 219.36,
+    "duration": 6.439
+  },
+  {
+    "text": "laptops talk to the neighboring laptops",
+    "start": 222.319,
+    "duration": 5.801
+  },
+  {
+    "text": "and so there are these cute little ears",
+    "start": 225.799,
+    "duration": 4.761
+  },
+  {
+    "text": "on them that are the antennas for Wi-Fi",
+    "start": 228.12,
+    "duration": 4.759
+  },
+  {
+    "text": "but they're also antennas so that if you",
+    "start": 230.56,
+    "duration": 5.36
+  },
+  {
+    "text": "had a room full or a neighborhood full",
+    "start": 232.879,
+    "duration": 6.0
+  },
+  {
+    "text": "of let's say 50 laptops each one can",
+    "start": 235.92,
+    "duration": 4.72
+  },
+  {
+    "text": "talk to the other and they can actually",
+    "start": 238.879,
+    "duration": 4.321
+  },
+  {
+    "text": "relay messages so you can sort of daisy",
+    "start": 240.64,
+    "duration": 5.04
+  },
+  {
+    "text": "chain to connect all of these laptops",
+    "start": 243.2,
+    "duration": 5.36
+  },
+  {
+    "text": "together and the interface shows what",
+    "start": 245.68,
+    "duration": 4.72
+  },
+  {
+    "text": "other kids are using it a little bit",
+    "start": 248.56,
+    "duration": 5.239
+  },
+  {
+    "text": "like a cell phone or or some of the",
+    "start": 250.4,
+    "duration": 6.799
+  },
+  {
+    "text": "so-called uh you know social media that",
+    "start": 253.799,
+    "duration": 6.241
+  },
+  {
+    "text": "we have today where your buddy lists and",
+    "start": 257.199,
+    "duration": 5.361
+  },
+  {
+    "text": "things like that are are embedded in our",
+    "start": 260.04,
+    "duration": 5.4
+  },
+  {
+    "text": "laptop so it it's not a diminutive",
+    "start": 262.56,
+    "duration": 5.6
+  },
+  {
+    "text": "office machine it is really a children's",
+    "start": 265.44,
+    "duration": 4.8
+  },
+  {
+    "text": "machine and was designed",
+    "start": 268.16,
+    "duration": 5.16
+  },
+  {
+    "text": "has one from the very",
+    "start": 270.24,
+    "duration": 3.08
+  },
+  {
+    "text": "beginning in in the world of computers",
+    "start": 275.24,
+    "duration": 6.84
+  },
+  {
+    "text": "and and just devices in general the the",
+    "start": 278.0,
+    "duration": 6.479
+  },
+  {
+    "text": "lifespan or the shelf life is is",
+    "start": 282.08,
+    "duration": 5.399
+  },
+  {
+    "text": "relatively short uh just because",
+    "start": 284.479,
+    "duration": 5.761
+  },
+  {
+    "text": "technology moves so fast and the costs",
+    "start": 287.479,
+    "duration": 5.241
+  },
+  {
+    "text": "drop so quickly and the the power",
+    "start": 290.24,
+    "duration": 5.399
+  },
+  {
+    "text": "whether it's computing power or memory",
+    "start": 292.72,
+    "duration": 6.0
+  },
+  {
+    "text": "you know Rises uh very very quickly on",
+    "start": 295.639,
+    "duration": 5.0
+  },
+  {
+    "text": "the other hand they self life isn't",
+    "start": 298.72,
+    "duration": 5.8
+  },
+  {
+    "text": "quite as short as you know advertisers",
+    "start": 300.639,
+    "duration": 5.801
+  },
+  {
+    "text": "and companies would want you to believe",
+    "start": 304.52,
+    "duration": 4.84
+  },
+  {
+    "text": "there's there's a lot of uh life in",
+    "start": 306.44,
+    "duration": 5.479
+  },
+  {
+    "text": "these machines that is beyond what's",
+    "start": 309.36,
+    "duration": 4.48
+  },
+  {
+    "text": "advertised so we design them for a",
+    "start": 311.919,
+    "duration": 5.161
+  },
+  {
+    "text": "five-year lifespan and that five years",
+    "start": 313.84,
+    "duration": 5.079
+  },
+  {
+    "text": "drives us to do things which again",
+    "start": 317.08,
+    "duration": 4.88
+  },
+  {
+    "text": "normal manufacturers don't do namely you",
+    "start": 318.919,
+    "duration": 5.4
+  },
+  {
+    "text": "can charge and discharge our battery",
+    "start": 321.96,
+    "duration": 4.76
+  },
+  {
+    "text": "about five to 10 times more often than",
+    "start": 324.319,
+    "duration": 4.561
+  },
+  {
+    "text": "you can a normal battery because we",
+    "start": 326.72,
+    "duration": 6.199
+  },
+  {
+    "text": "expect them to to be used a lot longer",
+    "start": 328.88,
+    "duration": 6.439
+  },
+  {
+    "text": "and the evidence that this could be true",
+    "start": 332.919,
+    "duration": 4.84
+  },
+  {
+    "text": "can be seen in automobiles you go to",
+    "start": 335.319,
+    "duration": 4.16
+  },
+  {
+    "text": "developing countries today and you'll",
+    "start": 337.759,
+    "duration": 3.521
+  },
+  {
+    "text": "find automobiles that you haven't seen",
+    "start": 339.479,
+    "duration": 3.921
+  },
+  {
+    "text": "since your childhood and that's because",
+    "start": 341.28,
+    "duration": 3.8
+  },
+  {
+    "text": "they really are valuable they're taken",
+    "start": 343.4,
+    "duration": 3.12
+  },
+  {
+    "text": "care of they're repaired and when",
+    "start": 345.08,
+    "duration": 2.839
+  },
+  {
+    "text": "something breaks they don't just buy a",
+    "start": 346.52,
+    "duration": 3.799
+  },
+  {
+    "text": "new one they actually fix it and if the",
+    "start": 347.919,
+    "duration": 3.921
+  },
+  {
+    "text": "if the product is no longer on the",
+    "start": 350.319,
+    "duration": 4.281
+  },
+  {
+    "text": "market they make it and uh we think",
+    "start": 351.84,
+    "duration": 5.52
+  },
+  {
+    "text": "these laptops would be treated uh that",
+    "start": 354.6,
+    "duration": 4.8
+  },
+  {
+    "text": "way as well because the ones that we",
+    "start": 357.36,
+    "duration": 5.08
+  },
+  {
+    "text": "have out at the moment the kids really",
+    "start": 359.4,
+    "duration": 5.12
+  },
+  {
+    "text": "take care of them they love them dearly",
+    "start": 362.44,
+    "duration": 3.72
+  },
+  {
+    "text": "they they sleep with them in almost",
+    "start": 364.52,
+    "duration": 3.48
+  },
+  {
+    "text": "every case we have about",
+    "start": 366.16,
+    "duration": 4.8
+  },
+  {
+    "text": "1.5 million of them in the field today",
+    "start": 368.0,
+    "duration": 5.28
+  },
+  {
+    "text": "in 31 countries and I would guess that",
+    "start": 370.96,
+    "duration": 4.76
+  },
+  {
+    "text": "50% of the kids that have them sleep",
+    "start": 373.28,
+    "duration": 4.16
+  },
+  {
+    "text": "with their laptops and the little boys",
+    "start": 375.72,
+    "duration": 3.879
+  },
+  {
+    "text": "get their sisters to make bags and",
+    "start": 377.44,
+    "duration": 5.039
+  },
+  {
+    "text": "there's a whole ownership and and and",
+    "start": 379.599,
+    "duration": 5.521
+  },
+  {
+    "text": "sort of a feeling towards these machines",
+    "start": 382.479,
+    "duration": 4.44
+  },
+  {
+    "text": "which yes in five years they should get",
+    "start": 385.12,
+    "duration": 5.32
+  },
+  {
+    "text": "another one but uh and and it'll be more",
+    "start": 386.919,
+    "duration": 7.481
+  },
+  {
+    "text": "advanced then but one doesn't",
+    "start": 390.44,
+    "duration": 3.96
+  },
+  {
+    "text": "wait well perhaps the",
+    "start": 397.039,
+    "duration": 6.0
+  },
+  {
+    "text": "the the most compelling piece of",
+    "start": 399.88,
+    "duration": 6.12
+  },
+  {
+    "text": "evidence that I have found that this",
+    "start": 403.039,
+    "duration": 6.28
+  },
+  {
+    "text": "program is working is that everywhere we",
+    "start": 406.0,
+    "duration": 6.84
+  },
+  {
+    "text": "go truancy drops to zero and we go into",
+    "start": 409.319,
+    "duration": 5.961
+  },
+  {
+    "text": "some places where it's as high as 30% of",
+    "start": 412.84,
+    "duration": 5.199
+  },
+  {
+    "text": "the kids and suddenly it's zero and we",
+    "start": 415.28,
+    "duration": 5.12
+  },
+  {
+    "text": "have been doing experiments",
+    "start": 418.039,
+    "duration": 5.201
+  },
+  {
+    "text": "uh for you know before the actual laptop",
+    "start": 420.4,
+    "duration": 6.84
+  },
+  {
+    "text": "existed for eight or nine years and by",
+    "start": 423.24,
+    "duration": 7.639
+  },
+  {
+    "text": "that I mean kids with laptops in remote",
+    "start": 427.24,
+    "duration": 6.6
+  },
+  {
+    "text": "parts of the world",
+    "start": 430.879,
+    "duration": 6.76
+  },
+  {
+    "text": "uh best we can tell all of those kids",
+    "start": 433.84,
+    "duration": 6.799
+  },
+  {
+    "text": "are in school today still today eight",
+    "start": 437.639,
+    "duration": 5.56
+  },
+  {
+    "text": "years nine years later and that's",
+    "start": 440.639,
+    "duration": 6.161
+  },
+  {
+    "text": "important because there is a belief that",
+    "start": 443.199,
+    "duration": 4.921
+  },
+  {
+    "text": "children drop out of school because",
+    "start": 446.8,
+    "duration": 3.239
+  },
+  {
+    "text": "they're needed by their their families",
+    "start": 448.12,
+    "duration": 3.88
+  },
+  {
+    "text": "to work or the little girls are needed",
+    "start": 450.039,
+    "duration": 4.321
+  },
+  {
+    "text": "to take care of younger siblings turns",
+    "start": 452.0,
+    "duration": 4.84
+  },
+  {
+    "text": "out that's not really true kids drop out",
+    "start": 454.36,
+    "duration": 4.16
+  },
+  {
+    "text": "of school mostly because school is",
+    "start": 456.84,
+    "duration": 5.16
+  },
+  {
+    "text": "boring um and not particularly relevant",
+    "start": 458.52,
+    "duration": 7.44
+  },
+  {
+    "text": "so just statistics on treny and how long",
+    "start": 462.0,
+    "duration": 6.039
+  },
+  {
+    "text": "kids stay in school to me is very very",
+    "start": 465.96,
+    "duration": 4.639
+  },
+  {
+    "text": "good evidence then we have other things",
+    "start": 468.039,
+    "duration": 4.921
+  },
+  {
+    "text": "happening that are",
+    "start": 470.599,
+    "duration": 6.88
+  },
+  {
+    "text": "again somewhat surprising for example in",
+    "start": 472.96,
+    "duration": 7.48
+  },
+  {
+    "text": "Peru as many as 50% % of the kids",
+    "start": 477.479,
+    "duration": 5.12
+  },
+  {
+    "text": "because they're in remote rural villages",
+    "start": 480.44,
+    "duration": 4.199
+  },
+  {
+    "text": "in the case of Peru are teaching their",
+    "start": 482.599,
+    "duration": 5.361
+  },
+  {
+    "text": "parents how to read and write and that",
+    "start": 484.639,
+    "duration": 7.641
+  },
+  {
+    "text": "is such a game Cher in the sense role of",
+    "start": 487.96,
+    "duration": 6.639
+  },
+  {
+    "text": "the child is very different it's not",
+    "start": 492.28,
+    "duration": 4.039
+  },
+  {
+    "text": "it's not looking at the child as a",
+    "start": 494.599,
+    "duration": 4.0
+  },
+  {
+    "text": "recipient for whom you have some",
+    "start": 496.319,
+    "duration": 4.0
+  },
+  {
+    "text": "curriculum that you figured out what",
+    "start": 498.599,
+    "duration": 4.241
+  },
+  {
+    "text": "they should learn and and they digest it",
+    "start": 500.319,
+    "duration": 4.361
+  },
+  {
+    "text": "and then you test them to see if they've",
+    "start": 502.84,
+    "duration": 5.6
+  },
+  {
+    "text": "digested it this is really",
+    "start": 504.68,
+    "duration": 6.479
+  },
+  {
+    "text": "actually children being the Agents of",
+    "start": 508.44,
+    "duration": 6.0
+  },
+  {
+    "text": "change and the self-esteem that children",
+    "start": 511.159,
+    "duration": 5.721
+  },
+  {
+    "text": "get from this the joy that the parents",
+    "start": 514.44,
+    "duration": 5.479
+  },
+  {
+    "text": "get from it the whole sort of Village",
+    "start": 516.88,
+    "duration": 5.36
+  },
+  {
+    "text": "changes Life Changes uh in a very",
+    "start": 519.919,
+    "duration": 4.441
+  },
+  {
+    "text": "fundamental way and so we see that kind",
+    "start": 522.24,
+    "duration": 5.52
+  },
+  {
+    "text": "of thing happening time and time again",
+    "start": 524.36,
+    "duration": 5.599
+  },
+  {
+    "text": "uh and there are now so many machines",
+    "start": 527.76,
+    "duration": 4.24
+  },
+  {
+    "text": "out there in so many different places",
+    "start": 529.959,
+    "duration": 5.32
+  },
+  {
+    "text": "there you know 30 anecdotes a day but",
+    "start": 532.0,
+    "duration": 7.44
+  },
+  {
+    "text": "they they all come back to basic",
+    "start": 535.279,
+    "duration": 6.281
+  },
+  {
+    "text": "basically showing one thing and that is",
+    "start": 539.44,
+    "duration": 4.48
+  },
+  {
+    "text": "the passion that children have for",
+    "start": 541.56,
+    "duration": 4.88
+  },
+  {
+    "text": "Learning and when we go to school very",
+    "start": 543.92,
+    "duration": 5.56
+  },
+  {
+    "text": "often we don't see that passion because",
+    "start": 546.44,
+    "duration": 5.959
+  },
+  {
+    "text": "the way school is run and the",
+    "start": 549.48,
+    "duration": 5.799
+  },
+  {
+    "text": "disciplinary nature of it and the rote",
+    "start": 552.399,
+    "duration": 6.801
+  },
+  {
+    "text": "learning are so sort of offensive",
+    "start": 555.279,
+    "duration": 6.641
+  },
+  {
+    "text": "actually that children sort of lose that",
+    "start": 559.2,
+    "duration": 5.28
+  },
+  {
+    "text": "passion more often than not and so one",
+    "start": 561.92,
+    "duration": 4.359
+  },
+  {
+    "text": "of the things that I think this laptop",
+    "start": 564.48,
+    "duration": 4.96
+  },
+  {
+    "text": "will do is be the death of rote learning",
+    "start": 566.279,
+    "duration": 5.041
+  },
+  {
+    "text": "because root learning is a killer for",
+    "start": 569.44,
+    "duration": 4.88
+  },
+  {
+    "text": "most of us and for some people it really",
+    "start": 571.32,
+    "duration": 5.56
+  },
+  {
+    "text": "excludes",
+    "start": 574.32,
+    "duration": 2.56
+  },
+  {
+    "text": "them well let me do it from both both",
+    "start": 579.079,
+    "duration": 6.641
+  },
+  {
+    "text": "perspectives um in the case of a teacher",
+    "start": 582.16,
+    "duration": 6.28
+  },
+  {
+    "text": "what we have to do and we whether it's",
+    "start": 585.72,
+    "duration": 5.119
+  },
+  {
+    "text": "one laptop per child as an organization",
+    "start": 588.44,
+    "duration": 6.6
+  },
+  {
+    "text": "or the in-country parent of the project",
+    "start": 590.839,
+    "duration": 7.801
+  },
+  {
+    "text": "is give the teacher enough preparation",
+    "start": 595.04,
+    "duration": 6.4
+  },
+  {
+    "text": "to have self-confidence enough to let",
+    "start": 598.64,
+    "duration": 4.96
+  },
+  {
+    "text": "the child show them how to use",
+    "start": 601.44,
+    "duration": 5.6
+  },
+  {
+    "text": "it uh in the case of the child you don't",
+    "start": 603.6,
+    "duration": 5.76
+  },
+  {
+    "text": "have to do very much for a child to get",
+    "start": 607.04,
+    "duration": 4.6
+  },
+  {
+    "text": "started a lot of people told me at the",
+    "start": 609.36,
+    "duration": 4.64
+  },
+  {
+    "text": "beginning of this project that you know",
+    "start": 611.64,
+    "duration": 4.84
+  },
+  {
+    "text": "you can't just give a kid a laptop and",
+    "start": 614.0,
+    "duration": 3.56
+  },
+  {
+    "text": "walk",
+    "start": 616.48,
+    "duration": 3.72
+  },
+  {
+    "text": "away well you know you sort of can",
+    "start": 617.56,
+    "duration": 4.56
+  },
+  {
+    "text": "actually you really can it's quite",
+    "start": 620.2,
+    "duration": 4.48
+  },
+  {
+    "text": "amazing you can you can hand a closed",
+    "start": 622.12,
+    "duration": 4.399
+  },
+  {
+    "text": "box to a child that's never seen a",
+    "start": 624.68,
+    "duration": 3.96
+  },
+  {
+    "text": "computer doesn't use an automobile and",
+    "start": 626.519,
+    "duration": 3.281
+  },
+  {
+    "text": "doesn't have electric electricity at",
+    "start": 628.64,
+    "duration": 3.4
+  },
+  {
+    "text": "home or at school and they'll open that",
+    "start": 629.8,
+    "duration": 4.0
+  },
+  {
+    "text": "box and they'll have that laptop working",
+    "start": 632.04,
+    "duration": 3.32
+  },
+  {
+    "text": "pretty quickly",
+    "start": 633.8,
+    "duration": 4.68
+  },
+  {
+    "text": "now obviously some guided experience is",
+    "start": 635.36,
+    "duration": 5.96
+  },
+  {
+    "text": "going to you know benefit everybody and",
+    "start": 638.48,
+    "duration": 6.44
+  },
+  {
+    "text": "you prefer that and what we see is the",
+    "start": 641.32,
+    "duration": 6.0
+  },
+  {
+    "text": "teachers are very often",
+    "start": 644.92,
+    "duration": 4.52
+  },
+  {
+    "text": "apprehensive and then very quickly",
+    "start": 647.32,
+    "duration": 4.28
+  },
+  {
+    "text": "realize that this is the best teaching",
+    "start": 649.44,
+    "duration": 5.48
+  },
+  {
+    "text": "they've ever done in their life and so I",
+    "start": 651.6,
+    "duration": 4.6
+  },
+  {
+    "text": "can give you let me give you one",
+    "start": 654.92,
+    "duration": 3.32
+  },
+  {
+    "text": "anecdote uh in in",
+    "start": 656.2,
+    "duration": 4.84
+  },
+  {
+    "text": "Uruguay the president of the country",
+    "start": 658.24,
+    "duration": 4.76
+  },
+  {
+    "text": "announced that this would be his legacy",
+    "start": 661.04,
+    "duration": 4.44
+  },
+  {
+    "text": "one laptop per child that he would do",
+    "start": 663.0,
+    "duration": 5.839
+  },
+  {
+    "text": "every single child within two years and",
+    "start": 665.48,
+    "duration": 6.08
+  },
+  {
+    "text": "as an aside they completed that uh a",
+    "start": 668.839,
+    "duration": 4.44
+  },
+  {
+    "text": "couple of months ago so every child in",
+    "start": 671.56,
+    "duration": 4.24
+  },
+  {
+    "text": "uguay has a little green",
+    "start": 673.279,
+    "duration": 5.0
+  },
+  {
+    "text": "laptop when he made that announcement a",
+    "start": 675.8,
+    "duration": 4.96
+  },
+  {
+    "text": "teacher who had been teaching for 30",
+    "start": 678.279,
+    "duration": 5.041
+  },
+  {
+    "text": "years went to the Social Security office",
+    "start": 680.76,
+    "duration": 5.84
+  },
+  {
+    "text": "and asked for early retirement said I",
+    "start": 683.32,
+    "duration": 4.199
+  },
+  {
+    "text": "you know I'm not going to be able to",
+    "start": 686.6,
+    "duration": 2.4
+  },
+  {
+    "text": "teach in this new environment so I'd",
+    "start": 687.519,
+    "duration": 4.161
+  },
+  {
+    "text": "like early retirement they told her to",
+    "start": 689.0,
+    "duration": 5.68
+  },
+  {
+    "text": "come back in 6 weeks and during the",
+    "start": 691.68,
+    "duration": 5.32
+  },
+  {
+    "text": "intervening period the laptops arrived",
+    "start": 694.68,
+    "duration": 3.839
+  },
+  {
+    "text": "and her classroom so everybody's",
+    "start": 697.0,
+    "duration": 3.88
+  },
+  {
+    "text": "unpacking them the kids are using within",
+    "start": 698.519,
+    "duration": 5.32
+  },
+  {
+    "text": "two days she went back to the Social",
+    "start": 700.88,
+    "duration": 5.24
+  },
+  {
+    "text": "Security office and asked for late",
+    "start": 703.839,
+    "duration": 6.601
+  },
+  {
+    "text": "retirement just took her two days and we",
+    "start": 706.12,
+    "duration": 5.56
+  },
+  {
+    "text": "we get sort",
+    "start": 710.44,
+    "duration": 4.32
+  },
+  {
+    "text": "of five comments that we get from almost",
+    "start": 711.68,
+    "duration": 5.32
+  },
+  {
+    "text": "every teacher that's involved the first",
+    "start": 714.76,
+    "duration": 4.48
+  },
+  {
+    "text": "comment is that discipline problem",
+    "start": 717.0,
+    "duration": 4.56
+  },
+  {
+    "text": "problems go down in the classroom the",
+    "start": 719.24,
+    "duration": 4.32
+  },
+  {
+    "text": "second comment is they've never loved",
+    "start": 721.56,
+    "duration": 5.48
+  },
+  {
+    "text": "teaching so much the third comment is",
+    "start": 723.56,
+    "duration": 5.519
+  },
+  {
+    "text": "that they've never had",
+    "start": 727.04,
+    "duration": 5.919
+  },
+  {
+    "text": "parents so deeply involved with",
+    "start": 729.079,
+    "duration": 7.641
+  },
+  {
+    "text": "school which is really you know very",
+    "start": 732.959,
+    "duration": 7.281
+  },
+  {
+    "text": "very interesting um the next comment is",
+    "start": 736.72,
+    "duration": 7.4
+  },
+  {
+    "text": "is that that is almost Universal is is",
+    "start": 740.24,
+    "duration": 6.599
+  },
+  {
+    "text": "not just the treny drops to zero but",
+    "start": 744.12,
+    "duration": 4.88
+  },
+  {
+    "text": "that the energy level in the classroom",
+    "start": 746.839,
+    "duration": 5.321
+  },
+  {
+    "text": "is is just you know undeniably different",
+    "start": 749.0,
+    "duration": 5.56
+  },
+  {
+    "text": "and the last comment which is perhaps",
+    "start": 752.16,
+    "duration": 4.239
+  },
+  {
+    "text": "the only negative one from their point",
+    "start": 754.56,
+    "duration": 3.88
+  },
+  {
+    "text": "of view is that they just get swamped by",
+    "start": 756.399,
+    "duration": 4.641
+  },
+  {
+    "text": "email from the kids and since these",
+    "start": 758.44,
+    "duration": 4.88
+  },
+  {
+    "text": "laptops can exchange information whether",
+    "start": 761.04,
+    "duration": 4.799
+  },
+  {
+    "text": "or not there's a you know a cell phone",
+    "start": 763.32,
+    "duration": 5.36
+  },
+  {
+    "text": "Grid or or some other telecommunications",
+    "start": 765.839,
+    "duration": 4.921
+  },
+  {
+    "text": "the the teachers suddenly get lots of",
+    "start": 768.68,
+    "duration": 4.76
+  },
+  {
+    "text": "questions very often kids don't ask",
+    "start": 770.76,
+    "duration": 4.079
+  },
+  {
+    "text": "questions in class because they don't",
+    "start": 773.44,
+    "duration": 3.759
+  },
+  {
+    "text": "want to be seen asking a question in",
+    "start": 774.839,
+    "duration": 3.961
+  },
+  {
+    "text": "either sense either they're embarrassed",
+    "start": 777.199,
+    "duration": 3.721
+  },
+  {
+    "text": "to ask or they don't want their",
+    "start": 778.8,
+    "duration": 4.839
+  },
+  {
+    "text": "colleagues to think that they're sort of",
+    "start": 780.92,
+    "duration": 5.599
+  },
+  {
+    "text": "you know goody goodies and but the",
+    "start": 783.639,
+    "duration": 4.801
+  },
+  {
+    "text": "privacy of your keyboard you can ask a",
+    "start": 786.519,
+    "duration": 5.44
+  },
+  {
+    "text": "question and uh suddenly the the the the",
+    "start": 788.44,
+    "duration": 6.199
+  },
+  {
+    "text": "role of the teacher changes and becomes",
+    "start": 791.959,
+    "duration": 5.921
+  },
+  {
+    "text": "much more active on an individual basis",
+    "start": 794.639,
+    "duration": 6.241
+  },
+  {
+    "text": "than it had been",
+    "start": 797.88,
+    "duration": 3.0
+  },
+  {
+    "text": "before",
+    "start": 804.199,
+    "duration": 5.32
+  },
+  {
+    "text": "well that's a silly remark because you",
+    "start": 805.88,
+    "duration": 5.84
+  },
+  {
+    "text": "know the the difference between a book",
+    "start": 809.519,
+    "duration": 5.601
+  },
+  {
+    "text": "and a computer is is is basically zero",
+    "start": 811.72,
+    "duration": 6.239
+  },
+  {
+    "text": "um in the sense that uh physical books",
+    "start": 815.12,
+    "duration": 4.279
+  },
+  {
+    "text": "are going to disappear they're going to",
+    "start": 817.959,
+    "duration": 3.521
+  },
+  {
+    "text": "become screens within a very short",
+    "start": 819.399,
+    "duration": 4.161
+  },
+  {
+    "text": "period of time be because of all sorts",
+    "start": 821.48,
+    "duration": 5.2
+  },
+  {
+    "text": "of reasons the economics of it the",
+    "start": 823.56,
+    "duration": 5.959
+  },
+  {
+    "text": "environmental impact of it and just the",
+    "start": 826.68,
+    "duration": 5.839
+  },
+  {
+    "text": "the sheer access uh when we ship our",
+    "start": 829.519,
+    "duration": 6.88
+  },
+  {
+    "text": "laptop uh we ship 1.6 million books with",
+    "start": 832.519,
+    "duration": 7.521
+  },
+  {
+    "text": "it you could access free one .6 million",
+    "start": 836.399,
+    "duration": 7.481
+  },
+  {
+    "text": "books and embedded in the laptop are 100",
+    "start": 840.04,
+    "duration": 6.76
+  },
+  {
+    "text": "books per laptop of the choosing of the",
+    "start": 843.88,
+    "duration": 5.079
+  },
+  {
+    "text": "country but what's important about that",
+    "start": 846.8,
+    "duration": 4.479
+  },
+  {
+    "text": "is when you ship a 100 laptops into a",
+    "start": 848.959,
+    "duration": 5.481
+  },
+  {
+    "text": "village there are 100 different books on",
+    "start": 851.279,
+    "duration": 5.041
+  },
+  {
+    "text": "each of the laptop so the village now",
+    "start": 854.44,
+    "duration": 6.16
+  },
+  {
+    "text": "has 10,000 books in the village and 1.6",
+    "start": 856.32,
+    "duration": 8.92
+  },
+  {
+    "text": "million accessible that's that is really",
+    "start": 860.6,
+    "duration": 7.479
+  },
+  {
+    "text": "really different so to compare books to",
+    "start": 865.24,
+    "duration": 5.24
+  },
+  {
+    "text": "computers I mean computers are the way",
+    "start": 868.079,
+    "duration": 5.88
+  },
+  {
+    "text": "to get books um that is the the the",
+    "start": 870.48,
+    "duration": 6.68
+  },
+  {
+    "text": "medium for Distributing text because it",
+    "start": 873.959,
+    "duration": 6.0
+  },
+  {
+    "text": "doesn't require paper it doesn't you",
+    "start": 877.16,
+    "duration": 5.52
+  },
+  {
+    "text": "know it's it's editable nothing goes out",
+    "start": 879.959,
+    "duration": 5.44
+  },
+  {
+    "text": "of date nothing goes out of print it's",
+    "start": 882.68,
+    "duration": 5.399
+  },
+  {
+    "text": "it can be refreshed and and",
+    "start": 885.399,
+    "duration": 5.161
+  },
+  {
+    "text": "updated usually when somebody makes a",
+    "start": 888.079,
+    "duration": 5.721
+  },
+  {
+    "text": "remark like that what they're doing is",
+    "start": 890.56,
+    "duration": 6.48
+  },
+  {
+    "text": "they are observing that kids in a",
+    "start": 893.8,
+    "duration": 7.92
+  },
+  {
+    "text": "classroom are playing with their laptops",
+    "start": 897.04,
+    "duration": 6.599
+  },
+  {
+    "text": "because what is actually going on is",
+    "start": 901.72,
+    "duration": 5.64
+  },
+  {
+    "text": "pretty boring and if you have uh an",
+    "start": 903.639,
+    "duration": 6.0
+  },
+  {
+    "text": "environment where somebody is not",
+    "start": 907.36,
+    "duration": 5.08
+  },
+  {
+    "text": "engaging the kids not using the laptops",
+    "start": 909.639,
+    "duration": 6.76
+  },
+  {
+    "text": "uh uh as part of the the the ethos if",
+    "start": 912.44,
+    "duration": 7.6
+  },
+  {
+    "text": "you will of the particular lessons and",
+    "start": 916.399,
+    "duration": 5.321
+  },
+  {
+    "text": "material going on this is certainly",
+    "start": 920.04,
+    "duration": 3.64
+  },
+  {
+    "text": "going to happen it's a little bit like",
+    "start": 921.72,
+    "duration": 3.72
+  },
+  {
+    "text": "people using cell phones in the middle",
+    "start": 923.68,
+    "duration": 3.24
+  },
+  {
+    "text": "of class because they're bored and",
+    "start": 925.44,
+    "duration": 3.639
+  },
+  {
+    "text": "they're sending messages to each other",
+    "start": 926.92,
+    "duration": 5.24
+  },
+  {
+    "text": "that's that's not because the cell phone",
+    "start": 929.079,
+    "duration": 5.2
+  },
+  {
+    "text": "is innately bad it's because the class",
+    "start": 932.16,
+    "duration": 5.0
+  },
+  {
+    "text": "is boring and we don't",
+    "start": 934.279,
+    "duration": 6.601
+  },
+  {
+    "text": "find this situation when we go out into",
+    "start": 937.16,
+    "duration": 6.679
+  },
+  {
+    "text": "Villages um but what we will find is",
+    "start": 940.88,
+    "duration": 5.0
+  },
+  {
+    "text": "because the kids take the laptops home",
+    "start": 943.839,
+    "duration": 3.401
+  },
+  {
+    "text": "is of course they're going to use them",
+    "start": 945.88,
+    "duration": 3.84
+  },
+  {
+    "text": "for games and for music and for movies",
+    "start": 947.24,
+    "duration": 4.64
+  },
+  {
+    "text": "and they should and that's very",
+    "start": 949.72,
+    "duration": 6.479
+  },
+  {
+    "text": "important in fact we require the country",
+    "start": 951.88,
+    "duration": 6.639
+  },
+  {
+    "text": "to allow the kids to take it home",
+    "start": 956.199,
+    "duration": 4.681
+  },
+  {
+    "text": "because otherwise it's not a seamless",
+    "start": 958.519,
+    "duration": 6.201
+  },
+  {
+    "text": "part of their life it's part of just",
+    "start": 960.88,
+    "duration": 6.72
+  },
+  {
+    "text": "this thing called school and and",
+    "start": 964.72,
+    "duration": 5.96
+  },
+  {
+    "text": "something that is is is just not part of",
+    "start": 967.6,
+    "duration": 6.08
+  },
+  {
+    "text": "their normal life and you have to also",
+    "start": 970.68,
+    "duration": 5.48
+  },
+  {
+    "text": "keep in mind that most children in the",
+    "start": 973.68,
+    "duration": 5.2
+  },
+  {
+    "text": "world go to schools that are two shifts",
+    "start": 976.16,
+    "duration": 4.359
+  },
+  {
+    "text": "there's a morning shift and an afternoon",
+    "start": 978.88,
+    "duration": 4.6
+  },
+  {
+    "text": "shift you look if you look at two shift",
+    "start": 980.519,
+    "duration": 5.44
+  },
+  {
+    "text": "schools and you count the number of",
+    "start": 983.48,
+    "duration": 5.479
+  },
+  {
+    "text": "hours that a child spends in class it's",
+    "start": 985.959,
+    "duration": 7.601
+  },
+  {
+    "text": "a number like 12 to 14 per week now if",
+    "start": 988.959,
+    "duration": 7.0
+  },
+  {
+    "text": "you make the classroom",
+    "start": 993.56,
+    "duration": 5.88
+  },
+  {
+    "text": "experience you know absolutely perfect",
+    "start": 995.959,
+    "duration": 6.12
+  },
+  {
+    "text": "it's still only 14 hours a week there",
+    "start": 999.44,
+    "duration": 5.16
+  },
+  {
+    "text": "are a lot of other hours so we really",
+    "start": 1002.079,
+    "duration": 6.161
+  },
+  {
+    "text": "look at the whole day of the child and",
+    "start": 1004.6,
+    "duration": 5.32
+  },
+  {
+    "text": "want to",
+    "start": 1008.24,
+    "duration": 4.44
+  },
+  {
+    "text": "influence that whole period and so",
+    "start": 1009.92,
+    "duration": 6.32
+  },
+  {
+    "text": "that's a very very big difference",
+    "start": 1012.68,
+    "duration": 3.56
+  },
+  {
+    "text": "again well what you're referring to is",
+    "start": 1017.839,
+    "duration": 8.24
+  },
+  {
+    "text": "is is a phenomenon that 20 years ago uh",
+    "start": 1021.16,
+    "duration": 9.08
+  },
+  {
+    "text": "was evident but not quite as obvious is",
+    "start": 1026.079,
+    "duration": 7.12
+  },
+  {
+    "text": "as it is today and that is that that",
+    "start": 1030.24,
+    "duration": 5.16
+  },
+  {
+    "text": "most of the information that you got",
+    "start": 1033.199,
+    "duration": 4.36
+  },
+  {
+    "text": "through the ground through wires and",
+    "start": 1035.4,
+    "duration": 4.679
+  },
+  {
+    "text": "physically would would in fact come",
+    "start": 1037.559,
+    "duration": 4.24
+  },
+  {
+    "text": "through the air and most of the things",
+    "start": 1040.079,
+    "duration": 4.201
+  },
+  {
+    "text": "we got through the air like television",
+    "start": 1041.799,
+    "duration": 3.961
+  },
+  {
+    "text": "would come through the ground that there",
+    "start": 1044.28,
+    "duration": 4.279
+  },
+  {
+    "text": "would be this switch between sort of The",
+    "start": 1045.76,
+    "duration": 5.12
+  },
+  {
+    "text": "Wire in Wireless worlds in terms of",
+    "start": 1048.559,
+    "duration": 4.961
+  },
+  {
+    "text": "where what was traveling where um it's",
+    "start": 1050.88,
+    "duration": 4.76
+  },
+  {
+    "text": "even hard for people to imagine today",
+    "start": 1053.52,
+    "duration": 4.32
+  },
+  {
+    "text": "that telephones were wired and they",
+    "start": 1055.64,
+    "duration": 4.48
+  },
+  {
+    "text": "certainly were and you went to the end",
+    "start": 1057.84,
+    "duration": 5.68
+  },
+  {
+    "text": "of a wire to make a phone call",
+    "start": 1060.12,
+    "duration": 7.12
+  },
+  {
+    "text": "um that switch was was very fundamental",
+    "start": 1063.52,
+    "duration": 6.96
+  },
+  {
+    "text": "as was the sort of natural convergence",
+    "start": 1067.24,
+    "duration": 5.64
+  },
+  {
+    "text": "that happens when things are digital",
+    "start": 1070.48,
+    "duration": 4.96
+  },
+  {
+    "text": "when things are digital they're all ones",
+    "start": 1072.88,
+    "duration": 5.039
+  },
+  {
+    "text": "and zeros so they co-mingle in ways that",
+    "start": 1075.44,
+    "duration": 5.84
+  },
+  {
+    "text": "we didn't anticipate and you could do",
+    "start": 1077.919,
+    "duration": 6.24
+  },
+  {
+    "text": "things that were you know not like",
+    "start": 1081.28,
+    "duration": 5.6
+  },
+  {
+    "text": "publishing or television or computers",
+    "start": 1084.159,
+    "duration": 5.52
+  },
+  {
+    "text": "but were sort of some intersection of",
+    "start": 1086.88,
+    "duration": 5.32
+  },
+  {
+    "text": "those and that got known to be",
+    "start": 1089.679,
+    "duration": 5.281
+  },
+  {
+    "text": "convergence so between the switching or",
+    "start": 1092.2,
+    "duration": 5.479
+  },
+  {
+    "text": "trading of places and the convergence",
+    "start": 1094.96,
+    "duration": 6.16
+  },
+  {
+    "text": "you have today's you know media now what",
+    "start": 1097.679,
+    "duration": 7.24
+  },
+  {
+    "text": "is the analog today that 20 years from",
+    "start": 1101.12,
+    "duration": 5.679
+  },
+  {
+    "text": "now we're going to look back and say",
+    "start": 1104.919,
+    "duration": 4.88
+  },
+  {
+    "text": "well yes that was evident today and is a",
+    "start": 1106.799,
+    "duration": 6.961
+  },
+  {
+    "text": "very profound change and while I can't",
+    "start": 1109.799,
+    "duration": 6.681
+  },
+  {
+    "text": "say it in 10 words or less what I can",
+    "start": 1113.76,
+    "duration": 5.76
+  },
+  {
+    "text": "assure you is that it's has to do with",
+    "start": 1116.48,
+    "duration": 6.04
+  },
+  {
+    "text": "the space between biology and silicon",
+    "start": 1119.52,
+    "duration": 5.96
+  },
+  {
+    "text": "the things that are uh part of the",
+    "start": 1122.52,
+    "duration": 5.399
+  },
+  {
+    "text": "Natural Sciences and and the physical",
+    "start": 1125.48,
+    "duration": 5.6
+  },
+  {
+    "text": "sciences where the two the two meet and",
+    "start": 1127.919,
+    "duration": 5.961
+  },
+  {
+    "text": "whether that's manifest in embedded",
+    "start": 1131.08,
+    "duration": 4.92
+  },
+  {
+    "text": "computers that are embedded in us as",
+    "start": 1133.88,
+    "duration": 5.679
+  },
+  {
+    "text": "human beings whether it's using biology",
+    "start": 1136.0,
+    "duration": 6.48
+  },
+  {
+    "text": "to to create energy that is attached to",
+    "start": 1139.559,
+    "duration": 5.36
+  },
+  {
+    "text": "a chip that does things but it's it's",
+    "start": 1142.48,
+    "duration": 5.96
+  },
+  {
+    "text": "it's that intersection of the sort of",
+    "start": 1144.919,
+    "duration": 6.801
+  },
+  {
+    "text": "natural and synthetic worlds that will",
+    "start": 1148.44,
+    "duration": 5.52
+  },
+  {
+    "text": "certainly be the major change going",
+    "start": 1151.72,
+    "duration": 6.16
+  },
+  {
+    "text": "forward and we will be doing things and",
+    "start": 1153.96,
+    "duration": 8.04
+  },
+  {
+    "text": "wearing things and eating things and you",
+    "start": 1157.88,
+    "duration": 7.24
+  },
+  {
+    "text": "know synthetic beef will be part of it",
+    "start": 1162.0,
+    "duration": 6.28
+  },
+  {
+    "text": "and in it will be you know some of the",
+    "start": 1165.12,
+    "duration": 5.88
+  },
+  {
+    "text": "the the Computing devices that when",
+    "start": 1168.28,
+    "duration": 4.6
+  },
+  {
+    "text": "they're in your stomach make sure that",
+    "start": 1171.0,
+    "duration": 3.6
+  },
+  {
+    "text": "everything's okay in your stomach and",
+    "start": 1172.88,
+    "duration": 5.279
+  },
+  {
+    "text": "report back when they're out of your",
+    "start": 1174.6,
+    "duration": 3.559
+  },
+  {
+    "text": "stomach well probably the most",
+    "start": 1180.32,
+    "duration": 7.32
+  },
+  {
+    "text": "radical work uh done that still has not",
+    "start": 1183.4,
+    "duration": 8.36
+  },
+  {
+    "text": "seen the light of day uh is the work of",
+    "start": 1187.64,
+    "duration": 7.6
+  },
+  {
+    "text": "a man named Joe jobson where he was",
+    "start": 1191.76,
+    "duration": 6.32
+  },
+  {
+    "text": "communicating wirelessly directly with",
+    "start": 1195.24,
+    "duration": 6.799
+  },
+  {
+    "text": "cells in the human body and that's",
+    "start": 1198.08,
+    "duration": 6.64
+  },
+  {
+    "text": "pretty interesting if you can sort of",
+    "start": 1202.039,
+    "duration": 5.12
+  },
+  {
+    "text": "communicate directly with cells in the",
+    "start": 1204.72,
+    "duration": 5.76
+  },
+  {
+    "text": "body uh and and that probably will have",
+    "start": 1207.159,
+    "duration": 8.201
+  },
+  {
+    "text": "some pretty big uh effects 10 15 years",
+    "start": 1210.48,
+    "duration": 9.64
+  },
+  {
+    "text": "from now uh by Chance the same person 15",
+    "start": 1215.36,
+    "duration": 7.319
+  },
+  {
+    "text": "almost 20 years ago uh invented",
+    "start": 1220.12,
+    "duration": 4.96
+  },
+  {
+    "text": "electronic ink which is the display",
+    "start": 1222.679,
+    "duration": 4.161
+  },
+  {
+    "text": "medium used for every",
+    "start": 1225.08,
+    "duration": 6.56
+  },
+  {
+    "text": "ebook distributed so far so it's and",
+    "start": 1226.84,
+    "duration": 6.76
+  },
+  {
+    "text": "that had a pretty profound effect that",
+    "start": 1231.64,
+    "duration": 4.519
+  },
+  {
+    "text": "you could make a display medium that",
+    "start": 1233.6,
+    "duration": 5.68
+  },
+  {
+    "text": "used no power once the image was on it",
+    "start": 1236.159,
+    "duration": 5.801
+  },
+  {
+    "text": "and reflected and is more paper like",
+    "start": 1239.28,
+    "duration": 5.84
+  },
+  {
+    "text": "than your",
+    "start": 1241.96,
+    "duration": 3.16
+  },
+  {
+    "text": "laptop well it's it's interesting",
+    "start": 1249.6,
+    "duration": 2.8
+  },
+  {
+    "text": "because",
+    "start": 1251.6,
+    "duration": 4.24
+  },
+  {
+    "text": "unplugging uh is is is an expression we",
+    "start": 1252.4,
+    "duration": 7.56
+  },
+  {
+    "text": "use and in fact I find that that uh",
+    "start": 1255.84,
+    "duration": 6.56
+  },
+  {
+    "text": "unplugging is in fact for many people",
+    "start": 1259.96,
+    "duration": 5.92
+  },
+  {
+    "text": "including me uh an uncomfortable State",
+    "start": 1262.4,
+    "duration": 7.519
+  },
+  {
+    "text": "and that what you do is you get to spend",
+    "start": 1265.88,
+    "duration": 8.159
+  },
+  {
+    "text": "more time doing the things you love",
+    "start": 1269.919,
+    "duration": 6.721
+  },
+  {
+    "text": "because you've used the interstices of",
+    "start": 1274.039,
+    "duration": 6.561
+  },
+  {
+    "text": "time I remember when I would come back",
+    "start": 1276.64,
+    "duration": 7.32
+  },
+  {
+    "text": "from a trip and have to sort of log in",
+    "start": 1280.6,
+    "duration": 6.84
+  },
+  {
+    "text": "and do all my email and and you know you",
+    "start": 1283.96,
+    "duration": 6.12
+  },
+  {
+    "text": "know download and upload and so on and",
+    "start": 1287.44,
+    "duration": 5.599
+  },
+  {
+    "text": "so forth now it's all done not only on",
+    "start": 1290.08,
+    "duration": 5.44
+  },
+  {
+    "text": "the airplane but in the car back you",
+    "start": 1293.039,
+    "duration": 5.281
+  },
+  {
+    "text": "know home or to the airport and and",
+    "start": 1295.52,
+    "duration": 5.84
+  },
+  {
+    "text": "suddenly you've used that otherwise",
+    "start": 1298.32,
+    "duration": 7.719
+  },
+  {
+    "text": "wasted time and you can really use prime",
+    "start": 1301.36,
+    "duration": 8.08
+  },
+  {
+    "text": "time for prime time we are not quite as",
+    "start": 1306.039,
+    "duration": 7.721
+  },
+  {
+    "text": "forced as we were before uh to it the",
+    "start": 1309.44,
+    "duration": 7.2
+  },
+  {
+    "text": "case of overload to just cram everything",
+    "start": 1313.76,
+    "duration": 6.32
+  },
+  {
+    "text": "out of one's life and I think that we're",
+    "start": 1316.64,
+    "duration": 8.08
+  },
+  {
+    "text": "seeing in young people a much more mixed",
+    "start": 1320.08,
+    "duration": 7.12
+  },
+  {
+    "text": "existence where I'd like to describe",
+    "start": 1324.72,
+    "duration": 6.559
+  },
+  {
+    "text": "sort of Life 20 years ago as being a",
+    "start": 1327.2,
+    "duration": 6.479
+  },
+  {
+    "text": "fried egg there was a Yol and a white",
+    "start": 1331.279,
+    "duration": 5.441
+  },
+  {
+    "text": "and the you know the white was maybe",
+    "start": 1333.679,
+    "duration": 6.12
+  },
+  {
+    "text": "work and the yolk was life and it was",
+    "start": 1336.72,
+    "duration": 5.4
+  },
+  {
+    "text": "today it's more of an omelet it's more",
+    "start": 1339.799,
+    "duration": 5.801
+  },
+  {
+    "text": "mixed and they it's more interspersed",
+    "start": 1342.12,
+    "duration": 6.439
+  },
+  {
+    "text": "and I think that that's a a more",
+    "start": 1345.6,
+    "duration": 6.4
+  },
+  {
+    "text": "interesting state of being and for some",
+    "start": 1348.559,
+    "duration": 5.801
+  },
+  {
+    "text": "people they'll say well no I want the",
+    "start": 1352.0,
+    "duration": 5.64
+  },
+  {
+    "text": "crisp you know fried egg approach to",
+    "start": 1354.36,
+    "duration": 5.64
+  },
+  {
+    "text": "life well I think life's turning into an",
+    "start": 1357.64,
+    "duration": 6.0
+  },
+  {
+    "text": "omelet and uh you know people will just",
+    "start": 1360.0,
+    "duration": 6.84
+  },
+  {
+    "text": "have to live with",
+    "start": 1363.64,
+    "duration": 3.2
+  },
+  {
+    "text": "that we're in a period of of transition",
+    "start": 1370.2,
+    "duration": 6.88
+  },
+  {
+    "text": "and transition's always hard um and",
+    "start": 1374.08,
+    "duration": 7.199
+  },
+  {
+    "text": "there is this dilemma between sort of",
+    "start": 1377.08,
+    "duration": 7.32
+  },
+  {
+    "text": "paid directly versus",
+    "start": 1381.279,
+    "duration": 5.921
+  },
+  {
+    "text": "indirectly um I grew up with free",
+    "start": 1384.4,
+    "duration": 5.12
+  },
+  {
+    "text": "television now it wasn't free there were",
+    "start": 1387.2,
+    "duration": 4.24
+  },
+  {
+    "text": "these commercials and so the economic",
+    "start": 1389.52,
+    "duration": 5.159
+  },
+  {
+    "text": "model was driven through commercials and",
+    "start": 1391.44,
+    "duration": 4.92
+  },
+  {
+    "text": "through",
+    "start": 1394.679,
+    "duration": 4.641
+  },
+  {
+    "text": "advertising that same model in fact is",
+    "start": 1396.36,
+    "duration": 4.199
+  },
+  {
+    "text": "what drives",
+    "start": 1399.32,
+    "duration": 5.719
+  },
+  {
+    "text": "Google and Google has a very powerful",
+    "start": 1400.559,
+    "duration": 8.12
+  },
+  {
+    "text": "and new advertising model that that for",
+    "start": 1405.039,
+    "duration": 5.161
+  },
+  {
+    "text": "them prints",
+    "start": 1408.679,
+    "duration": 5.281
+  },
+  {
+    "text": "money some of the other media companies",
+    "start": 1410.2,
+    "duration": 6.479
+  },
+  {
+    "text": "and I call Google the media company",
+    "start": 1413.96,
+    "duration": 4.28
+  },
+  {
+    "text": "because they really are",
+    "start": 1416.679,
+    "duration": 4.081
+  },
+  {
+    "text": "one charge more directly now whether",
+    "start": 1418.24,
+    "duration": 3.919
+  },
+  {
+    "text": "it's through a combination of",
+    "start": 1420.76,
+    "duration": 3.519
+  },
+  {
+    "text": "advertising and subscription they",
+    "start": 1422.159,
+    "duration": 5.161
+  },
+  {
+    "text": "there's a a much more direct in the",
+    "start": 1424.279,
+    "duration": 4.961
+  },
+  {
+    "text": "sense that there's a subscription piece",
+    "start": 1427.32,
+    "duration": 5.56
+  },
+  {
+    "text": "and people would like their customers to",
+    "start": 1429.24,
+    "duration": 6.559
+  },
+  {
+    "text": "pay I'm not against paying at all what",
+    "start": 1432.88,
+    "duration": 7.039
+  },
+  {
+    "text": "I'm against is the complexity of paying",
+    "start": 1435.799,
+    "duration": 8.321
+  },
+  {
+    "text": "and you very often go to a website or",
+    "start": 1439.919,
+    "duration": 6.281
+  },
+  {
+    "text": "you try to click on something and",
+    "start": 1444.12,
+    "duration": 4.64
+  },
+  {
+    "text": "sometimes they'll even say it's free but",
+    "start": 1446.2,
+    "duration": 5.68
+  },
+  {
+    "text": "they have to fill out this form I I'd",
+    "start": 1448.76,
+    "duration": 6.0
+  },
+  {
+    "text": "much prefer to pay and not fill out the",
+    "start": 1451.88,
+    "duration": 6.96
+  },
+  {
+    "text": "form I mean the time is is to me far",
+    "start": 1454.76,
+    "duration": 6.68
+  },
+  {
+    "text": "more inconvenient than than paying for",
+    "start": 1458.84,
+    "duration": 6.16
+  },
+  {
+    "text": "it and I think that we'll see a world",
+    "start": 1461.44,
+    "duration": 6.4
+  },
+  {
+    "text": "that'll get easier to use and a lot more",
+    "start": 1465.0,
+    "duration": 6.039
+  },
+  {
+    "text": "information will be free a lot of people",
+    "start": 1467.84,
+    "duration": 6.92
+  },
+  {
+    "text": "will contribute the notion of collective",
+    "start": 1471.039,
+    "duration": 6.321
+  },
+  {
+    "text": "contribution like the w wikipedia is a",
+    "start": 1474.76,
+    "duration": 4.72
+  },
+  {
+    "text": "very powerful one it's not the only one",
+    "start": 1477.36,
+    "duration": 4.6
+  },
+  {
+    "text": "but it's a powerful one and so we'll see",
+    "start": 1479.48,
+    "duration": 4.679
+  },
+  {
+    "text": "that",
+    "start": 1481.96,
+    "duration": 2.199
+  },
+  {
+    "text": "grow it's it's it's hard to compare them",
+    "start": 1488.399,
+    "duration": 8.921
+  },
+  {
+    "text": "uh one laptop per child had the",
+    "start": 1493.08,
+    "duration": 7.199
+  },
+  {
+    "text": "most difficulty and frustration in the",
+    "start": 1497.32,
+    "duration": 4.359
+  },
+  {
+    "text": "sense that it",
+    "start": 1500.279,
+    "duration": 5.0
+  },
+  {
+    "text": "included aspects that I was no good at",
+    "start": 1501.679,
+    "duration": 6.801
+  },
+  {
+    "text": "doing that had to be done but more",
+    "start": 1505.279,
+    "duration": 5.201
+  },
+  {
+    "text": "important than that it",
+    "start": 1508.48,
+    "duration": 4.52
+  },
+  {
+    "text": "included uh things that I didn't",
+    "start": 1510.48,
+    "duration": 5.24
+  },
+  {
+    "text": "anticipate like you know the commercial",
+    "start": 1513.0,
+    "duration": 5.48
+  },
+  {
+    "text": "interests fighting against us I entered",
+    "start": 1515.72,
+    "duration": 4.959
+  },
+  {
+    "text": "the project thinking we had this Mother",
+    "start": 1518.48,
+    "duration": 5.12
+  },
+  {
+    "text": "Teresa shield around us cuz we're a",
+    "start": 1520.679,
+    "duration": 5.441
+  },
+  {
+    "text": "humanitarian project we're a nonprofit I",
+    "start": 1523.6,
+    "duration": 4.76
+  },
+  {
+    "text": "don't draw a salary I mean I thought",
+    "start": 1526.12,
+    "duration": 4.799
+  },
+  {
+    "text": "thought that that that would isolate us",
+    "start": 1528.36,
+    "duration": 5.52
+  },
+  {
+    "text": "from the normal Battlefield of the",
+    "start": 1530.919,
+    "duration": 5.721
+  },
+  {
+    "text": "commercial world and we found that",
+    "start": 1533.88,
+    "duration": 5.44
+  },
+  {
+    "text": "wasn't the case I mean people might wear",
+    "start": 1536.64,
+    "duration": 4.68
+  },
+  {
+    "text": "gloves in public but they certainly took",
+    "start": 1539.32,
+    "duration": 4.28
+  },
+  {
+    "text": "them off in private and did things",
+    "start": 1541.32,
+    "duration": 4.44
+  },
+  {
+    "text": "behind our backs that were were quite",
+    "start": 1543.6,
+    "duration": 5.84
+  },
+  {
+    "text": "frustrating and I found that difficult",
+    "start": 1545.76,
+    "duration": 6.08
+  },
+  {
+    "text": "media lab was different the media",
+    "start": 1549.44,
+    "duration": 5.68
+  },
+  {
+    "text": "lab was really amplifying the work of",
+    "start": 1551.84,
+    "duration": 7.6
+  },
+  {
+    "text": "other people and sort of my job was to",
+    "start": 1555.12,
+    "duration": 6.96
+  },
+  {
+    "text": "make it possible for them to do their",
+    "start": 1559.44,
+    "duration": 4.8
+  },
+  {
+    "text": "research it was not a management issue I",
+    "start": 1562.08,
+    "duration": 4.64
+  },
+  {
+    "text": "wasn't running their research I wasn't",
+    "start": 1564.24,
+    "duration": 5.24
+  },
+  {
+    "text": "even trying to determine but determine",
+    "start": 1566.72,
+    "duration": 4.8
+  },
+  {
+    "text": "it what I was doing was trying to enable",
+    "start": 1569.48,
+    "duration": 5.079
+  },
+  {
+    "text": "it and that could be making the",
+    "start": 1571.52,
+    "duration": 4.639
+  },
+  {
+    "text": "environment whether it's a physical",
+    "start": 1574.559,
+    "duration": 3.521
+  },
+  {
+    "text": "environment an economic environment a",
+    "start": 1576.159,
+    "duration": 4.24
+  },
+  {
+    "text": "social environment for those things to",
+    "start": 1578.08,
+    "duration": 4.199
+  },
+  {
+    "text": "happen so there were very different",
+    "start": 1580.399,
+    "duration": 4.28
+  },
+  {
+    "text": "challenges and very different periods in",
+    "start": 1582.279,
+    "duration": 6.081
+  },
+  {
+    "text": "one's life uh in the case of the laptop",
+    "start": 1584.679,
+    "duration": 6.041
+  },
+  {
+    "text": "I had come to a stage in life where you",
+    "start": 1588.36,
+    "duration": 4.799
+  },
+  {
+    "text": "I didn't need to earn an income I didn't",
+    "start": 1590.72,
+    "duration": 5.079
+  },
+  {
+    "text": "need to earn a reputation I didn't need",
+    "start": 1593.159,
+    "duration": 5.52
+  },
+  {
+    "text": "Fame I didn't need any of the things you",
+    "start": 1595.799,
+    "duration": 5.961
+  },
+  {
+    "text": "might want in your early career and I",
+    "start": 1598.679,
+    "duration": 6.321
+  },
+  {
+    "text": "knew a lot of people and and had certain",
+    "start": 1601.76,
+    "duration": 5.519
+  },
+  {
+    "text": "credibility because of MIT in the media",
+    "start": 1605.0,
+    "duration": 5.399
+  },
+  {
+    "text": "lab so it seemed like we were the right",
+    "start": 1607.279,
+    "duration": 5.481
+  },
+  {
+    "text": "people to do something like one laptop",
+    "start": 1610.399,
+    "duration": 4.841
+  },
+  {
+    "text": "per child and and sort of break the",
+    "start": 1612.76,
+    "duration": 6.12
+  },
+  {
+    "text": "spell that had been you know created by",
+    "start": 1615.24,
+    "duration": 6.679
+  },
+  {
+    "text": "companies sort of adding more Hardware",
+    "start": 1618.88,
+    "duration": 5.24
+  },
+  {
+    "text": "features that then have more software",
+    "start": 1621.919,
+    "duration": 3.88
+  },
+  {
+    "text": "that then has more Hardware that then",
+    "start": 1624.12,
+    "duration": 3.799
+  },
+  {
+    "text": "has more software and the thing sort of",
+    "start": 1625.799,
+    "duration": 5.681
+  },
+  {
+    "text": "gets to this obese state where I'm going",
+    "start": 1627.919,
+    "duration": 6.281
+  },
+  {
+    "text": "to use laptops in this case were all",
+    "start": 1631.48,
+    "duration": 5.919
+  },
+  {
+    "text": "like SUVs they required more fuel to",
+    "start": 1634.2,
+    "duration": 6.839
+  },
+  {
+    "text": "move the vehicle than the passenger and",
+    "start": 1637.399,
+    "duration": 5.52
+  },
+  {
+    "text": "how could you break that spell how could",
+    "start": 1641.039,
+    "duration": 4.281
+  },
+  {
+    "text": "you make something child Centric well",
+    "start": 1642.919,
+    "duration": 4.161
+  },
+  {
+    "text": "one of the ways you could do that is if",
+    "start": 1645.32,
+    "duration": 3.959
+  },
+  {
+    "text": "you had nothing to lose",
+    "start": 1647.08,
+    "duration": 4.599
+  },
+  {
+    "text": "if you had no other interests and and",
+    "start": 1649.279,
+    "duration": 4.681
+  },
+  {
+    "text": "that was our case and it it allowed us",
+    "start": 1651.679,
+    "duration": 7.0
+  },
+  {
+    "text": "to do what then led to uh the so-called",
+    "start": 1653.96,
+    "duration": 8.719
+  },
+  {
+    "text": "netbook and netbooks today represent 30%",
+    "start": 1658.679,
+    "duration": 6.521
+  },
+  {
+    "text": "of the World Market of laptops and",
+    "start": 1662.679,
+    "duration": 4.84
+  },
+  {
+    "text": "that's rather interesting change because",
+    "start": 1665.2,
+    "duration": 5.199
+  },
+  {
+    "text": "it's as if I had come to you five years",
+    "start": 1667.519,
+    "duration": 4.921
+  },
+  {
+    "text": "ago and said you know I think we should",
+    "start": 1670.399,
+    "duration": 4.721
+  },
+  {
+    "text": "build an electric car and I build an",
+    "start": 1672.44,
+    "duration": 6.52
+  },
+  {
+    "text": "electric car and then today onethird of",
+    "start": 1675.12,
+    "duration": 5.799
+  },
+  {
+    "text": "all cars are electric I feel pretty good",
+    "start": 1678.96,
+    "duration": 3.36
+  },
+  {
+    "text": "about that now they don't happen to be",
+    "start": 1680.919,
+    "duration": 3.521
+  },
+  {
+    "text": "my electric cars in most cases but",
+    "start": 1682.32,
+    "duration": 4.719
+  },
+  {
+    "text": "they're still nonetheless Electric in",
+    "start": 1684.44,
+    "duration": 4.68
+  },
+  {
+    "text": "that example and the same thing has",
+    "start": 1687.039,
+    "duration": 4.64
+  },
+  {
+    "text": "happened with one laptop per child it it",
+    "start": 1689.12,
+    "duration": 4.64
+  },
+  {
+    "text": "gave birth to something that then had",
+    "start": 1691.679,
+    "duration": 5.12
+  },
+  {
+    "text": "these other effects that now people can",
+    "start": 1693.76,
+    "duration": 6.08
+  },
+  {
+    "text": "enjoy pretty good computing power",
+    "start": 1696.799,
+    "duration": 5.801
+  },
+  {
+    "text": "smaller machines lighter machines you",
+    "start": 1699.84,
+    "duration": 5.439
+  },
+  {
+    "text": "know very inexpensive machines and some",
+    "start": 1702.6,
+    "duration": 5.199
+  },
+  {
+    "text": "of those will migrate to kids in Africa",
+    "start": 1705.279,
+    "duration": 6.441
+  },
+  {
+    "text": "and and it's not just",
+    "start": 1707.799,
+    "duration": 3.921
+  },
+  {
+    "text": "ours",
+    "start": 1718.919,
+    "duration": 3.0
+  }
+]

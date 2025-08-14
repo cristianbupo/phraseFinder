@@ -1,0 +1,387 @@
+[
+  {
+    "text": "There are currently hundreds of thousands \nof people on transplant lists,",
+    "start": 6.742,
+    "duration": 5.31
+  },
+  {
+    "text": "waiting for critical organs like kidneys, \nhearts, and livers",
+    "start": 12.052,
+    "duration": 4.347
+  },
+  {
+    "text": "that could save their lives.",
+    "start": 16.399,
+    "duration": 2.05
+  },
+  {
+    "text": "Unfortunately,",
+    "start": 18.449,
+    "duration": 1.16
+  },
+  {
+    "text": "there aren’t nearly enough donor organs \navailable to fill that demand.",
+    "start": 19.609,
+    "duration": 5.01
+  },
+  {
+    "text": "What if instead of waiting,",
+    "start": 24.619,
+    "duration": 1.964
+  },
+  {
+    "text": "we could create brand-new, customized \norgans from scratch?",
+    "start": 26.583,
+    "duration": 4.54
+  },
+  {
+    "text": "That’s the idea behind bioprinting,",
+    "start": 31.123,
+    "duration": 2.66
+  },
+  {
+    "text": "a branch of regenerative medicine \ncurrently under development.",
+    "start": 33.783,
+    "duration": 4.28
+  },
+  {
+    "text": "We’re not able to print complex \norgans just yet,",
+    "start": 38.063,
+    "duration": 3.21
+  },
+  {
+    "text": "but simpler tissues including blood\nvessels and tubes",
+    "start": 41.273,
+    "duration": 3.29
+  },
+  {
+    "text": "responsible for nutrient \nand waste exchange",
+    "start": 44.563,
+    "duration": 2.94
+  },
+  {
+    "text": "are already in our grasp.",
+    "start": 47.503,
+    "duration": 2.18
+  },
+  {
+    "text": "Bioprinting is a biological \ncousin of 3-D printing,",
+    "start": 49.683,
+    "duration": 4.06
+  },
+  {
+    "text": "a technique that deposits layers of \nmaterial on top of each other",
+    "start": 53.743,
+    "duration": 3.736
+  },
+  {
+    "text": "to construct a three-dimensional object \none slice at a time.",
+    "start": 57.479,
+    "duration": 4.51
+  },
+  {
+    "text": "Instead of starting with metal, plastic, \nor ceramic,",
+    "start": 61.991,
+    "duration": 3.2
+  },
+  {
+    "text": "a 3-D printer for organs and \ntissues uses bioink:",
+    "start": 65.191,
+    "duration": 4.56
+  },
+  {
+    "text": "a printable material that \ncontains living cells.",
+    "start": 69.751,
+    "duration": 3.871
+  },
+  {
+    "text": "The bulk of many bioinks are water-rich \nmolecules called hydrogels.",
+    "start": 73.622,
+    "duration": 5.27
+  },
+  {
+    "text": "Mixed into those are \nmillions of living cells",
+    "start": 78.892,
+    "duration": 2.947
+  },
+  {
+    "text": "as well as various chemicals that \nencourage cells to communicate and grow.",
+    "start": 81.839,
+    "duration": 4.84
+  },
+  {
+    "text": "Some bioinks include a \nsingle type of cell,",
+    "start": 86.679,
+    "duration": 3.167
+  },
+  {
+    "text": "while others combine several different \nkinds to produce more complex structures.",
+    "start": 89.846,
+    "duration": 5.52
+  },
+  {
+    "text": "Let’s say you want to print a meniscus,",
+    "start": 95.366,
+    "duration": 2.374
+  },
+  {
+    "text": "which is a piece of cartilage in the knee",
+    "start": 97.74,
+    "duration": 2.17
+  },
+  {
+    "text": "that keeps the shinbone and thighbone \nfrom grinding against each other.",
+    "start": 99.91,
+    "duration": 4.13
+  },
+  {
+    "text": "It’s made up of cells called chondrocytes,",
+    "start": 104.04,
+    "duration": 2.78
+  },
+  {
+    "text": "and you’ll need a healthy supply of \nthem for your bioink.",
+    "start": 106.82,
+    "duration": 3.7
+  },
+  {
+    "text": "These cells can come from donors whose\ncell lines are replicated in a lab.",
+    "start": 110.52,
+    "duration": 4.8
+  },
+  {
+    "text": "Or they might originate from a \npatient’s own tissue",
+    "start": 115.32,
+    "duration": 3.019
+  },
+  {
+    "text": "to create a personalized meniscus less\nlikely to be rejected by their body.",
+    "start": 118.339,
+    "duration": 5.15
+  },
+  {
+    "text": "There are several printing techniques,",
+    "start": 123.489,
+    "duration": 1.927
+  },
+  {
+    "text": "and the most popular is extrusion-based \nbioprinting.",
+    "start": 125.416,
+    "duration": 4.06
+  },
+  {
+    "text": "In this, bioink gets loaded into a \nprinting chamber",
+    "start": 129.476,
+    "duration": 3.62
+  },
+  {
+    "text": "and pushed through a round nozzle \nattached to a printhead.",
+    "start": 133.096,
+    "duration": 4.33
+  },
+  {
+    "text": "It emerges from a nozzle that’s rarely \nwider than 400 microns in diameter,",
+    "start": 137.426,
+    "duration": 6.1
+  },
+  {
+    "text": "and can produce a continuous filament",
+    "start": 143.526,
+    "duration": 2.597
+  },
+  {
+    "text": "roughly the thickness \nof a human fingernail.",
+    "start": 146.123,
+    "duration": 3.05
+  },
+  {
+    "text": "A computerized image or file guides the \nplacement of the strands,",
+    "start": 149.173,
+    "duration": 4.26
+  },
+  {
+    "text": "either onto a flat surface or into a \nliquid bath",
+    "start": 153.433,
+    "duration": 3.42
+  },
+  {
+    "text": "that’ll help hold the structure in place \nuntil it stabilizes.",
+    "start": 156.853,
+    "duration": 3.89
+  },
+  {
+    "text": "These printers are fast, producing the \nmeniscus in about half an hour,",
+    "start": 160.743,
+    "duration": 4.39
+  },
+  {
+    "text": "one thin strand at a time.",
+    "start": 165.133,
+    "duration": 2.71
+  },
+  {
+    "text": "After printing, some bioinks \nwill stiffen immediately;",
+    "start": 167.843,
+    "duration": 3.69
+  },
+  {
+    "text": "others need UV light or an additional \nchemical or physical process",
+    "start": 171.533,
+    "duration": 4.19
+  },
+  {
+    "text": "to stabilize the structure.",
+    "start": 175.723,
+    "duration": 1.869
+  },
+  {
+    "text": "If the printing process is successful,",
+    "start": 177.592,
+    "duration": 2.38
+  },
+  {
+    "text": "the cells in the synthetic tissue",
+    "start": 179.972,
+    "duration": 1.79
+  },
+  {
+    "text": "will begin to behave the same way\ncells do in real tissue:",
+    "start": 181.762,
+    "duration": 3.74
+  },
+  {
+    "text": "signaling to each other, exchanging \nnutrients, and multiplying.",
+    "start": 185.502,
+    "duration": 4.2
+  },
+  {
+    "text": "We can already print relatively simple \nstructures like this meniscus.",
+    "start": 189.702,
+    "duration": 4.21
+  },
+  {
+    "text": "Bioprinted bladders have also been \nsuccessfully implanted,",
+    "start": 193.912,
+    "duration": 3.649
+  },
+  {
+    "text": "and printed tissue has promoted facial \nnerve regeneration in rats.",
+    "start": 197.561,
+    "duration": 5.53
+  },
+  {
+    "text": "Researchers have created lung tissue,\nskin, and cartilage,",
+    "start": 203.091,
+    "duration": 3.851
+  },
+  {
+    "text": "as well as miniature, semi-functional \nversions of kidneys, livers, and hearts.",
+    "start": 206.942,
+    "duration": 6.73
+  },
+  {
+    "text": "However, replicating the complex \nbiochemical environment",
+    "start": 213.672,
+    "duration": 3.352
+  },
+  {
+    "text": "of a major organ \nis a steep challenge.",
+    "start": 217.024,
+    "duration": 2.93
+  },
+  {
+    "text": "Extrusion-based bioprinting may destroy",
+    "start": 219.954,
+    "duration": 3.03
+  },
+  {
+    "text": "a significant percentage of cells in the \nink if the nozzle is too small,",
+    "start": 222.984,
+    "duration": 4.77
+  },
+  {
+    "text": "or if the printing pressure is too high.",
+    "start": 227.754,
+    "duration": 3.139
+  },
+  {
+    "text": "One of the most formidable challenges",
+    "start": 230.893,
+    "duration": 1.97
+  },
+  {
+    "text": "is how to supply oxygen and nutrients \nto all the cells in a full-size organ.",
+    "start": 232.863,
+    "duration": 5.84
+  },
+  {
+    "text": "That’s why the greatest successes so far",
+    "start": 238.703,
+    "duration": 2.687
+  },
+  {
+    "text": "have been with structures \nthat are flat or hollow—",
+    "start": 241.39,
+    "duration": 3.03
+  },
+  {
+    "text": "and why researchers are busy \ndeveloping ways",
+    "start": 244.42,
+    "duration": 2.5
+  },
+  {
+    "text": "to incorporate blood vessels \ninto bioprinted tissue.",
+    "start": 246.92,
+    "duration": 4.4
+  },
+  {
+    "text": "There’s tremendous potential to use \nbioprinting",
+    "start": 251.32,
+    "duration": 2.458
+  },
+  {
+    "text": "to save lives and advance our \nunderstanding",
+    "start": 253.778,
+    "duration": 2.4
+  },
+  {
+    "text": "of how our organs function \nin the first place.",
+    "start": 256.178,
+    "duration": 3.03
+  },
+  {
+    "text": "And the technology opens up a dizzying \narray of possibilities,",
+    "start": 259.208,
+    "duration": 4.15
+  },
+  {
+    "text": "such as printing tissues with \nembedded electronics.",
+    "start": 263.358,
+    "duration": 3.9
+  },
+  {
+    "text": "Could we one day engineer organs that \nexceed current human capability,",
+    "start": 267.258,
+    "duration": 4.3
+  },
+  {
+    "text": "or give ourselves features like \nunburnable skin?",
+    "start": 271.558,
+    "duration": 4.367
+  },
+  {
+    "text": "How long might we extend human life \nby printing and replacing our organs?",
+    "start": 275.925,
+    "duration": 6.317
+  },
+  {
+    "text": "And exactly who—and what—",
+    "start": 282.242,
+    "duration": 2.512
+  },
+  {
+    "text": "will have access to this technology \nand its incredible output?",
+    "start": 284.754,
+    "duration": 4.3
+  }
+]

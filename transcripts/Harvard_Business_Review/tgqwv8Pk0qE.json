@@ -1,0 +1,2152 @@
+[
+  {
+    "text": "ALISON BEARD: Welcome\nto the HBR IdeaCast",
+    "start": 10.442,
+    "duration": 1.708
+  },
+  {
+    "text": "from Harvard Business Review.",
+    "start": 12.15,
+    "duration": 1.26
+  },
+  {
+    "text": "I'm Alison Beard.",
+    "start": 13.41,
+    "duration": 0.96
+  },
+  {
+    "text": "If you've had trouble\nbuying toilet paper",
+    "start": 21.93,
+    "duration": 1.98
+  },
+  {
+    "text": "or cleaning supplies,\nor even car and computer",
+    "start": 23.91,
+    "duration": 2.52
+  },
+  {
+    "text": "parts over the past\nfew months, you've",
+    "start": 26.43,
+    "duration": 2.1
+  },
+  {
+    "text": "been keenly aware of something\nthat consumers rarely think",
+    "start": 28.53,
+    "duration": 2.64
+  },
+  {
+    "text": "about, corporate supply chains.",
+    "start": 31.17,
+    "duration": 2.52
+  },
+  {
+    "text": "The COVID-19 pandemic, with its\nborder and business closures,",
+    "start": 33.69,
+    "duration": 3.33
+  },
+  {
+    "text": "have showed us\njust how hard it is",
+    "start": 37.02,
+    "duration": 1.77
+  },
+  {
+    "text": "to keep making things\nand getting them",
+    "start": 38.79,
+    "duration": 2.1
+  },
+  {
+    "text": "into the hands of end\nusers in a timely fashion.",
+    "start": 40.89,
+    "duration": 3.15
+  },
+  {
+    "text": "Most production is global\nand increasingly complex,",
+    "start": 44.04,
+    "duration": 3.12
+  },
+  {
+    "text": "and one kink in the\nsystem, never mind",
+    "start": 47.16,
+    "duration": 2.46
+  },
+  {
+    "text": "the worst health and\neconomic crisis in a century,",
+    "start": 49.62,
+    "duration": 2.58
+  },
+  {
+    "text": "can wreak havoc.",
+    "start": 52.2,
+    "duration": 1.71
+  },
+  {
+    "text": "Companies simply\ncan't meet demand.",
+    "start": 53.91,
+    "duration": 1.98
+  },
+  {
+    "text": "We go without goods,\nfrom nice to haves",
+    "start": 55.89,
+    "duration": 2.55
+  },
+  {
+    "text": "like frozen strawberries to\nnecessities like medicine.",
+    "start": 58.44,
+    "duration": 3.57
+  },
+  {
+    "text": "And the organizations\nlose revenue,",
+    "start": 62.01,
+    "duration": 2.22
+  },
+  {
+    "text": "sometimes so much that it's\ndifficult to stay in business.",
+    "start": 64.23,
+    "duration": 3.87
+  },
+  {
+    "text": "Our guest today\nstudies supply chains",
+    "start": 68.1,
+    "duration": 1.86
+  },
+  {
+    "text": "and has ideas for how they\ncan be improved and made more",
+    "start": 69.96,
+    "duration": 2.94
+  },
+  {
+    "text": "resilient for future crises.",
+    "start": 72.9,
+    "duration": 2.16
+  },
+  {
+    "text": "Willy Shih is a professor\nat Harvard Business School,",
+    "start": 75.06,
+    "duration": 2.55
+  },
+  {
+    "text": "and he wrote the HBR\narticle, Global Supply Chains",
+    "start": 77.61,
+    "duration": 2.97
+  },
+  {
+    "text": "in a Post-Pandemic World.",
+    "start": 80.58,
+    "duration": 1.56
+  },
+  {
+    "text": "Willie, thanks so much\nfor being on the show.",
+    "start": 82.14,
+    "duration": 2.35
+  },
+  {
+    "text": "WILLY SHIH: Thank\nyou for inviting me.",
+    "start": 84.49,
+    "duration": 1.64
+  },
+  {
+    "text": "ALISON BEARD: So for those of\nus who didn't study operations",
+    "start": 94.72,
+    "duration": 2.75
+  },
+  {
+    "text": "at business school and don't\nthink about these issues",
+    "start": 97.47,
+    "duration": 3.27
+  },
+  {
+    "text": "that often, could you give\nus just a quick explanation",
+    "start": 100.74,
+    "duration": 3.33
+  },
+  {
+    "text": "of how global supply\nchains work nowadays?",
+    "start": 104.07,
+    "duration": 3.69
+  },
+  {
+    "text": "WILLY SHIH: Well,\nAlison, these days,",
+    "start": 107.76,
+    "duration": 2.31
+  },
+  {
+    "text": "global supply chains, as you\nmentioned, are very complex.",
+    "start": 110.07,
+    "duration": 3.09
+  },
+  {
+    "text": "And that's because\nfirms tend to rely",
+    "start": 113.16,
+    "duration": 3.81
+  },
+  {
+    "text": "on a network of suppliers for\ncomponents or subassemblies",
+    "start": 116.97,
+    "duration": 4.53
+  },
+  {
+    "text": "or raw materials.",
+    "start": 121.5,
+    "duration": 1.71
+  },
+  {
+    "text": "And because we have experienced\nan era of rapid globalization,",
+    "start": 123.21,
+    "duration": 6.37
+  },
+  {
+    "text": "which has really been marked\nby really low cost and very",
+    "start": 129.58,
+    "duration": 3.89
+  },
+  {
+    "text": "convenient communications\nand shipping,",
+    "start": 133.47,
+    "duration": 2.76
+  },
+  {
+    "text": "firms have tended to cast a\nwide net geographically when",
+    "start": 136.23,
+    "duration": 5.82
+  },
+  {
+    "text": "looking for sources of supply.",
+    "start": 142.05,
+    "duration": 3.09
+  },
+  {
+    "text": "And these have been\ndriven by cost.",
+    "start": 145.14,
+    "duration": 2.07
+  },
+  {
+    "text": "They've also been driven\nby specialization.",
+    "start": 147.21,
+    "duration": 4.2
+  },
+  {
+    "text": "So for example, when you\nhave very complex products",
+    "start": 151.41,
+    "duration": 3.12
+  },
+  {
+    "text": "like a phone or a\nlaptop computer,",
+    "start": 154.53,
+    "duration": 3.33
+  },
+  {
+    "text": "manufacturers will\nrely on specialists",
+    "start": 157.86,
+    "duration": 2.61
+  },
+  {
+    "text": "who might be in a very\ndistant part of the world.",
+    "start": 160.47,
+    "duration": 3.01
+  },
+  {
+    "text": "And until this\npandemic, that was fine,",
+    "start": 163.48,
+    "duration": 3.83
+  },
+  {
+    "text": "because we had very\nreliable and very efficient,",
+    "start": 167.31,
+    "duration": 2.64
+  },
+  {
+    "text": "and more importantly\nvery predictable",
+    "start": 169.95,
+    "duration": 2.49
+  },
+  {
+    "text": "transportation links.",
+    "start": 172.44,
+    "duration": 2.04
+  },
+  {
+    "text": "What happened when\nthe pandemic hit,",
+    "start": 174.48,
+    "duration": 2.77
+  },
+  {
+    "text": "it suddenly exposed the\ncomplex network of suppliers",
+    "start": 177.25,
+    "duration": 4.97
+  },
+  {
+    "text": "that many firms use.",
+    "start": 182.22,
+    "duration": 2.4
+  },
+  {
+    "text": "And if you're\nassembling something",
+    "start": 184.62,
+    "duration": 2.22
+  },
+  {
+    "text": "like an automobile or\na notebook computer",
+    "start": 186.84,
+    "duration": 3.48
+  },
+  {
+    "text": "or a washing machine\nor a freezer,",
+    "start": 190.32,
+    "duration": 4.32
+  },
+  {
+    "text": "you only need to\nbe short one part",
+    "start": 194.64,
+    "duration": 2.25
+  },
+  {
+    "text": "to not be able to\nassemble your product.",
+    "start": 196.89,
+    "duration": 2.28
+  },
+  {
+    "text": "ALISON BEARD: And did we see\nany hints of this problem",
+    "start": 199.17,
+    "duration": 2.82
+  },
+  {
+    "text": "before the pandemic--\nfor example,",
+    "start": 201.99,
+    "duration": 1.56
+  },
+  {
+    "text": "when natural disasters would\nhit certain parts of the world?",
+    "start": 203.55,
+    "duration": 3.087
+  },
+  {
+    "text": "WILLY SHIH: Oh, certainly.",
+    "start": 206.637,
+    "duration": 1.083
+  },
+  {
+    "text": "We've seen a number\nof examples of these",
+    "start": 207.72,
+    "duration": 3.36
+  },
+  {
+    "text": "which have served as a warning.",
+    "start": 211.08,
+    "duration": 1.92
+  },
+  {
+    "text": "So for example, back in 2011,\nthe East Japan earthquake",
+    "start": 213.0,
+    "duration": 5.97
+  },
+  {
+    "text": "and tsunami took a\nnumber of suppliers",
+    "start": 218.97,
+    "duration": 3.48
+  },
+  {
+    "text": "in Japan, around\nNaka, Japan offline.",
+    "start": 222.45,
+    "duration": 4.86
+  },
+  {
+    "text": "And some of those suppliers\nwere critical for these supply",
+    "start": 227.31,
+    "duration": 4.61
+  },
+  {
+    "text": "chains.",
+    "start": 231.92,
+    "duration": 0.5
+  },
+  {
+    "text": "For example, there\nwas one company there",
+    "start": 232.42,
+    "duration": 2.84
+  },
+  {
+    "text": "who made the material that made\nautomotive black paint sparkle.",
+    "start": 235.26,
+    "duration": 5.19
+  },
+  {
+    "text": "And it turns out,\nevery automaker",
+    "start": 240.45,
+    "duration": 3.03
+  },
+  {
+    "text": "relied on this one company,\nwho may have been several tiers",
+    "start": 243.48,
+    "duration": 4.5
+  },
+  {
+    "text": "down in the supply network.",
+    "start": 247.98,
+    "duration": 1.83
+  },
+  {
+    "text": "So they didn't realize they\nwere all reliant on this one",
+    "start": 249.81,
+    "duration": 2.91
+  },
+  {
+    "text": "company.",
+    "start": 252.72,
+    "duration": 0.52
+  },
+  {
+    "text": "So when that company went\ndown, all of a sudden, nobody",
+    "start": 253.24,
+    "duration": 3.02
+  },
+  {
+    "text": "could paint cars black anymore.",
+    "start": 256.26,
+    "duration": 2.65
+  },
+  {
+    "text": "There were also floods in\nThailand later that year,",
+    "start": 258.91,
+    "duration": 4.62
+  },
+  {
+    "text": "which caused a massive\ndisruption to the disk drive",
+    "start": 263.53,
+    "duration": 5.3
+  },
+  {
+    "text": "supply chain for\nthe whole world.",
+    "start": 268.83,
+    "duration": 2.04
+  },
+  {
+    "text": "Because Thailand\nmanufactured about half",
+    "start": 270.87,
+    "duration": 2.1
+  },
+  {
+    "text": "the world's disk\ndrives at that time.",
+    "start": 272.97,
+    "duration": 1.98
+  },
+  {
+    "text": "That should have been a\nsignal to people that--",
+    "start": 274.95,
+    "duration": 2.82
+  },
+  {
+    "text": "wait a minute.",
+    "start": 277.77,
+    "duration": 0.66
+  },
+  {
+    "text": "We have these really\nconcentrated dependencies",
+    "start": 278.43,
+    "duration": 4.56
+  },
+  {
+    "text": "in parts of the\nworld that we take",
+    "start": 282.99,
+    "duration": 2.7
+  },
+  {
+    "text": "for granted that they can\ndeliver to us on time, in full.",
+    "start": 285.69,
+    "duration": 5.4
+  },
+  {
+    "text": "And suddenly, one day comes\nalong that they can't.",
+    "start": 291.09,
+    "duration": 3.558
+  },
+  {
+    "text": "ALISON BEARD: Yeah.",
+    "start": 294.648,
+    "duration": 0.792
+  },
+  {
+    "text": "But as you mentioned,\nglobal corporations,",
+    "start": 295.44,
+    "duration": 3.72
+  },
+  {
+    "text": "they chose this for a reason, to\nreduce costs, increase profits,",
+    "start": 299.16,
+    "duration": 6.81
+  },
+  {
+    "text": "allow for just in time\nmanufacturing, in some cases.",
+    "start": 305.97,
+    "duration": 2.92
+  },
+  {
+    "text": "So is any of that\ngoing to change?",
+    "start": 308.89,
+    "duration": 4.54
+  },
+  {
+    "text": "WILLY SHIH: Well, we\nhave a lot of talk",
+    "start": 313.43,
+    "duration": 2.54
+  },
+  {
+    "text": "about how people need to build\nmore resilient supply chains.",
+    "start": 315.97,
+    "duration": 4.74
+  },
+  {
+    "text": "And I think this is a good\nopportunity for people",
+    "start": 320.71,
+    "duration": 4.02
+  },
+  {
+    "text": "to go back and examine\ntheir supply chains",
+    "start": 324.73,
+    "duration": 2.64
+  },
+  {
+    "text": "and understand where\nthe vulnerabilities are.",
+    "start": 327.37,
+    "duration": 3.06
+  },
+  {
+    "text": "But I think\nconsumers, especially",
+    "start": 330.43,
+    "duration": 2.82
+  },
+  {
+    "text": "in this post-pandemic\nrecession, aren't",
+    "start": 333.25,
+    "duration": 3.78
+  },
+  {
+    "text": "going to want to\nnecessarily pay more.",
+    "start": 337.03,
+    "duration": 2.35
+  },
+  {
+    "text": "So I think that poses a\ndilemma for a lot of companies.",
+    "start": 339.38,
+    "duration": 3.56
+  },
+  {
+    "text": "What has happened is, people\nbuilt these globalized supply",
+    "start": 342.94,
+    "duration": 3.93
+  },
+  {
+    "text": "chains.",
+    "start": 346.87,
+    "duration": 0.87
+  },
+  {
+    "text": "And the risk of disruption\nhas been very hard to price.",
+    "start": 347.74,
+    "duration": 5.28
+  },
+  {
+    "text": "So people have ignored it.",
+    "start": 353.02,
+    "duration": 2.47
+  },
+  {
+    "text": "But the tough question will\nbe, will consumers pay more",
+    "start": 355.49,
+    "duration": 6.23
+  },
+  {
+    "text": "for that risk mitigation?",
+    "start": 361.72,
+    "duration": 1.74
+  },
+  {
+    "text": "Because if a manufacturer\nwants to put capacity",
+    "start": 363.46,
+    "duration": 4.14
+  },
+  {
+    "text": "in a higher cost country\nthat is closer to the market",
+    "start": 367.6,
+    "duration": 3.27
+  },
+  {
+    "text": "where the products\nwill be sold, somebody",
+    "start": 370.87,
+    "duration": 2.82
+  },
+  {
+    "text": "has to pay that additional cost.",
+    "start": 373.69,
+    "duration": 1.83
+  },
+  {
+    "text": "So you may have more\nsupply security.",
+    "start": 375.52,
+    "duration": 3.12
+  },
+  {
+    "text": "But will consumers pay more?",
+    "start": 378.64,
+    "duration": 2.13
+  },
+  {
+    "text": "Now, firms can also\nmitigate some of that risk",
+    "start": 380.77,
+    "duration": 4.77
+  },
+  {
+    "text": "by holding more inventory.",
+    "start": 385.54,
+    "duration": 2.8
+  },
+  {
+    "text": "One of the assumptions\nthat I think",
+    "start": 388.34,
+    "duration": 3.26
+  },
+  {
+    "text": "people have made in their\nsupply chains has been,",
+    "start": 391.6,
+    "duration": 3.55
+  },
+  {
+    "text": "we want to have a\nlean supply chain.",
+    "start": 395.15,
+    "duration": 2.09
+  },
+  {
+    "text": "We don't want to have a\nlot of inventory in it.",
+    "start": 397.24,
+    "duration": 2.85
+  },
+  {
+    "text": "Because inventory first\ncosts me money to carry.",
+    "start": 400.09,
+    "duration": 4.56
+  },
+  {
+    "text": "And second, there's risk\nof obsolescence or loss.",
+    "start": 404.65,
+    "duration": 5.74
+  },
+  {
+    "text": "So it's one of these\ntough trade-offs,",
+    "start": 410.39,
+    "duration": 2.36
+  },
+  {
+    "text": "which is, can I carry\nmore inventory, which",
+    "start": 412.75,
+    "duration": 2.79
+  },
+  {
+    "text": "will cost me more?",
+    "start": 415.54,
+    "duration": 2.67
+  },
+  {
+    "text": "Or do I pay more for\nlocal sources of supply",
+    "start": 418.21,
+    "duration": 3.72
+  },
+  {
+    "text": "in an environment where\nI don't think consumers",
+    "start": 421.93,
+    "duration": 3.3
+  },
+  {
+    "text": "want to pay a higher price?",
+    "start": 425.23,
+    "duration": 3.13
+  },
+  {
+    "text": "So that either\nmeans lower profits,",
+    "start": 428.36,
+    "duration": 1.79
+  },
+  {
+    "text": "or, what I think\nfirms need to do",
+    "start": 430.15,
+    "duration": 2.55
+  },
+  {
+    "text": "is rethink a lot of their\nmanufacturing and processes",
+    "start": 432.7,
+    "duration": 6.15
+  },
+  {
+    "text": "and try to focus on\nprocess innovations that",
+    "start": 438.85,
+    "duration": 3.9
+  },
+  {
+    "text": "will allow them to produce at\nlower costs, maybe locally.",
+    "start": 442.75,
+    "duration": 5.922
+  },
+  {
+    "text": "ALISON BEARD: OK.",
+    "start": 448.672,
+    "duration": 0.708
+  },
+  {
+    "text": "So let's look\nforward to solutions.",
+    "start": 449.38,
+    "duration": 2.94
+  },
+  {
+    "text": "All the downsides\nthat you've outlined",
+    "start": 452.32,
+    "duration": 2.82
+  },
+  {
+    "text": "are the reasons that\ncompanies probably",
+    "start": 455.14,
+    "duration": 2.34
+  },
+  {
+    "text": "didn't act to the\nother warning signs",
+    "start": 457.48,
+    "duration": 2.76
+  },
+  {
+    "text": "that we saw even decades ago.",
+    "start": 460.24,
+    "duration": 3.72
+  },
+  {
+    "text": "But the pandemic does seem\nto have changed attitudes.",
+    "start": 463.96,
+    "duration": 4.77
+  },
+  {
+    "text": "So what's the first step\nthat you would recommend",
+    "start": 468.73,
+    "duration": 3.81
+  },
+  {
+    "text": "for an organization who wants\nto assess their supply chain,",
+    "start": 472.54,
+    "duration": 4.71
+  },
+  {
+    "text": "identify their vulnerabilities,\nand begin to fix them?",
+    "start": 477.25,
+    "duration": 3.58
+  },
+  {
+    "text": "WILLY SHIH: Well, I think\nthe first step, obviously,",
+    "start": 480.83,
+    "duration": 2.39
+  },
+  {
+    "text": "is mapping your supply chain.",
+    "start": 483.22,
+    "duration": 1.89
+  },
+  {
+    "text": "And while that\nsounds obvious, it's",
+    "start": 485.11,
+    "duration": 3.27
+  },
+  {
+    "text": "actually a much harder task\nthan most people appreciate.",
+    "start": 488.38,
+    "duration": 4.5
+  },
+  {
+    "text": "And the reason is\nbecause these days,",
+    "start": 492.88,
+    "duration": 3.57
+  },
+  {
+    "text": "with the division of\nlabor and specialization",
+    "start": 496.45,
+    "duration": 3.99
+  },
+  {
+    "text": "of many firms inside a supply\nchain, we have many tiers.",
+    "start": 500.44,
+    "duration": 5.7
+  },
+  {
+    "text": "So for example, I\nmight be a manufacturer",
+    "start": 506.14,
+    "duration": 3.42
+  },
+  {
+    "text": "who will rely on 50\nor 100 suppliers.",
+    "start": 509.56,
+    "duration": 4.859
+  },
+  {
+    "text": "And those immediate\nsuppliers are",
+    "start": 514.419,
+    "duration": 2.671
+  },
+  {
+    "text": "what I think of as my\nfirst tier suppliers.",
+    "start": 517.09,
+    "duration": 4.48
+  },
+  {
+    "text": "Those first tier\nsuppliers will, in turn,",
+    "start": 521.57,
+    "duration": 2.78
+  },
+  {
+    "text": "rely on others, and so on.",
+    "start": 524.35,
+    "duration": 3.55
+  },
+  {
+    "text": "So you'll have this\nlayer cake of suppliers.",
+    "start": 527.9,
+    "duration": 5.22
+  },
+  {
+    "text": "The numbers get very large very\nquickly for complex products.",
+    "start": 533.12,
+    "duration": 6.08
+  },
+  {
+    "text": "Oftentimes, when you go\nto your suppliers and say,",
+    "start": 539.2,
+    "duration": 3.36
+  },
+  {
+    "text": "I want to know who my tier\ntwo is, who is supplying you,",
+    "start": 542.56,
+    "duration": 5.19
+  },
+  {
+    "text": "they don't necessarily\nwant to share that.",
+    "start": 547.75,
+    "duration": 2.64
+  },
+  {
+    "text": "Because they're worried that\nyou might find out their cost",
+    "start": 550.39,
+    "duration": 4.68
+  },
+  {
+    "text": "data, or you might find out\nsome competitive information.",
+    "start": 555.07,
+    "duration": 4.26
+  },
+  {
+    "text": "So understanding\nthose vulnerabilities,",
+    "start": 559.33,
+    "duration": 3.45
+  },
+  {
+    "text": "which is really\nthe key to starting",
+    "start": 562.78,
+    "duration": 4.11
+  },
+  {
+    "text": "to address those risks, is\na much more difficult task.",
+    "start": 566.89,
+    "duration": 4.53
+  },
+  {
+    "text": "I would suggest to you\nthat most companies",
+    "start": 571.42,
+    "duration": 3.66
+  },
+  {
+    "text": "don't know who their suppliers\nare beyond the second tier.",
+    "start": 575.08,
+    "duration": 4.38
+  },
+  {
+    "text": "I'm doing a study\nright now, looking",
+    "start": 579.46,
+    "duration": 2.49
+  },
+  {
+    "text": "at pharmaceuticals and active\npharmaceutical ingredients.",
+    "start": 581.95,
+    "duration": 3.72
+  },
+  {
+    "text": "That was something that the\npandemic really exposed.",
+    "start": 585.67,
+    "duration": 7.59
+  },
+  {
+    "text": "People didn't really understand,\nwe might import, for example,",
+    "start": 593.26,
+    "duration": 4.77
+  },
+  {
+    "text": "generic pharmaceuticals\nfrom Indian companies, who",
+    "start": 598.03,
+    "duration": 4.35
+  },
+  {
+    "text": "in turn relied on\nChinese manufacturers",
+    "start": 602.38,
+    "duration": 3.12
+  },
+  {
+    "text": "for active pharmaceutical\ningredients.",
+    "start": 605.5,
+    "duration": 2.13
+  },
+  {
+    "text": "And as you follow the\nsupply chain down,",
+    "start": 607.63,
+    "duration": 3.81
+  },
+  {
+    "text": "it's not really clear how\nmany of the people who",
+    "start": 611.44,
+    "duration": 5.23
+  },
+  {
+    "text": "your supplier may be buying\nfrom is, in fact, a manufacturer",
+    "start": 616.67,
+    "duration": 4.68
+  },
+  {
+    "text": "or just a reseller.",
+    "start": 621.35,
+    "duration": 2.07
+  },
+  {
+    "text": "So then the material may pass\nthrough many different hands,",
+    "start": 623.42,
+    "duration": 5.37
+  },
+  {
+    "text": "and it's hard to get\nto the root of who",
+    "start": 628.79,
+    "duration": 3.18
+  },
+  {
+    "text": "actually made the material.",
+    "start": 631.97,
+    "duration": 1.567
+  },
+  {
+    "text": "ALISON BEARD: Right.",
+    "start": 633.537,
+    "duration": 0.833
+  },
+  {
+    "text": "And even once you've identified\nall those tiers, which as you",
+    "start": 634.37,
+    "duration": 3.54
+  },
+  {
+    "text": "said, is an arduous process,\nhow do you then evaluate where",
+    "start": 637.91,
+    "duration": 6.96
+  },
+  {
+    "text": "your highest risk spots are?",
+    "start": 644.87,
+    "duration": 3.48
+  },
+  {
+    "text": "WILLY SHIH: Risk\nassessment is really key.",
+    "start": 648.35,
+    "duration": 2.94
+  },
+  {
+    "text": "Because as you look\nthrough those tiers,",
+    "start": 651.29,
+    "duration": 3.81
+  },
+  {
+    "text": "then you can say,\nwell, how easy is it",
+    "start": 655.1,
+    "duration": 3.15
+  },
+  {
+    "text": "for me to substitute\nsomebody else?",
+    "start": 658.25,
+    "duration": 1.98
+  },
+  {
+    "text": "Are there alternative\nsources of supply?",
+    "start": 660.23,
+    "duration": 2.58
+  },
+  {
+    "text": "Find those ones where they have\na high revenue impact to me",
+    "start": 662.81,
+    "duration": 5.97
+  },
+  {
+    "text": "if one or more of those\nsuppliers is unable to deliver,",
+    "start": 668.78,
+    "duration": 6.36
+  },
+  {
+    "text": "for whatever reason.",
+    "start": 675.14,
+    "duration": 1.69
+  },
+  {
+    "text": "A lot of other ones, you can\nmitigate some of these risks",
+    "start": 676.83,
+    "duration": 3.56
+  },
+  {
+    "text": "by saying, well, maybe I'll\ncarry more of a stockpile.",
+    "start": 680.39,
+    "duration": 4.77
+  },
+  {
+    "text": "Because that will give me\ntime to find an alternative.",
+    "start": 685.16,
+    "duration": 4.17
+  },
+  {
+    "text": "But what you want\nto really do is",
+    "start": 689.33,
+    "duration": 1.41
+  },
+  {
+    "text": "find the ones that cause you\nthe most potential heartburn.",
+    "start": 690.74,
+    "duration": 5.028
+  },
+  {
+    "text": "ALISON BEARD: Yeah.",
+    "start": 695.768,
+    "duration": 0.792
+  },
+  {
+    "text": "So the solutions that\nyou've mentioned so far,",
+    "start": 696.56,
+    "duration": 2.53
+  },
+  {
+    "text": "one is stockpiling.",
+    "start": 699.09,
+    "duration": 1.46
+  },
+  {
+    "text": "Another is bringing\nsourcing closer to home.",
+    "start": 700.55,
+    "duration": 3.87
+  },
+  {
+    "text": "And then process\nimprovement, that seems",
+    "start": 704.42,
+    "duration": 1.95
+  },
+  {
+    "text": "to be your favorite solution.",
+    "start": 706.37,
+    "duration": 2.1
+  },
+  {
+    "text": "WILLY SHIH: Process\nimprovement is my favorite one,",
+    "start": 708.47,
+    "duration": 2.61
+  },
+  {
+    "text": "especially for companies like\nin high cost regions like the US",
+    "start": 711.08,
+    "duration": 5.22
+  },
+  {
+    "text": "or Europe.",
+    "start": 716.3,
+    "duration": 0.96
+  },
+  {
+    "text": "If you think about why\nmanufacturers outsource",
+    "start": 717.26,
+    "duration": 3.81
+  },
+  {
+    "text": "their supply to Asia\nor East Asia or South",
+    "start": 721.07,
+    "duration": 3.78
+  },
+  {
+    "text": "Asia in the first place,\nit was to save costs.",
+    "start": 724.85,
+    "duration": 3.39
+  },
+  {
+    "text": "Process technologies\nare constantly",
+    "start": 728.24,
+    "duration": 3.48
+  },
+  {
+    "text": "moving forward as well,\ndepending on the field.",
+    "start": 731.72,
+    "duration": 3.78
+  },
+  {
+    "text": "If you can use newer\nprocess technologies that",
+    "start": 735.5,
+    "duration": 3.36
+  },
+  {
+    "text": "may be lower cost,\nthen you can offset",
+    "start": 738.86,
+    "duration": 3.81
+  },
+  {
+    "text": "some of that cost differential\nof going into higher cost",
+    "start": 742.67,
+    "duration": 3.48
+  },
+  {
+    "text": "country.",
+    "start": 746.15,
+    "duration": 0.72
+  },
+  {
+    "text": "Let me give you an example.",
+    "start": 746.87,
+    "duration": 2.04
+  },
+  {
+    "text": "After World War II, the\nAmerican steel industry was on--",
+    "start": 748.91,
+    "duration": 4.98
+  },
+  {
+    "text": "was the king of the hill.",
+    "start": 753.89,
+    "duration": 2.34
+  },
+  {
+    "text": "We were the largest\nsteel producer.",
+    "start": 756.23,
+    "duration": 2.88
+  },
+  {
+    "text": "In fact, American\nindustry won the war.",
+    "start": 759.11,
+    "duration": 2.97
+  },
+  {
+    "text": "And the American steel\nindustry did very well",
+    "start": 762.08,
+    "duration": 3.54
+  },
+  {
+    "text": "in the late '40s and '50s,\nand even into the early '60s.",
+    "start": 765.62,
+    "duration": 5.82
+  },
+  {
+    "text": "But then they started\nfacing competition.",
+    "start": 771.44,
+    "duration": 2.85
+  },
+  {
+    "text": "After World War II, for\nexample, Germany and Japan,",
+    "start": 774.29,
+    "duration": 3.9
+  },
+  {
+    "text": "their steel industry\nwas in ruins.",
+    "start": 778.19,
+    "duration": 3.1
+  },
+  {
+    "text": "But as they rebuilt, they\nused newer technology",
+    "start": 781.29,
+    "duration": 4.13
+  },
+  {
+    "text": "that were more efficient,\nproduced better quality",
+    "start": 785.42,
+    "duration": 3.24
+  },
+  {
+    "text": "at lower cost.",
+    "start": 788.66,
+    "duration": 1.65
+  },
+  {
+    "text": "But incumbent manufacturers\nwho had their existing process",
+    "start": 790.31,
+    "duration": 3.99
+  },
+  {
+    "text": "technology that was\nfully depreciated",
+    "start": 794.3,
+    "duration": 3.69
+  },
+  {
+    "text": "were slow to adopt\nthe newer technology.",
+    "start": 797.99,
+    "duration": 3.33
+  },
+  {
+    "text": "Now, we've seen that pattern\nin many other industries.",
+    "start": 801.32,
+    "duration": 5.34
+  },
+  {
+    "text": "Where I think this is\nparticularly relevant",
+    "start": 806.66,
+    "duration": 2.91
+  },
+  {
+    "text": "is when you look at chemical\nmanufacturing-- for example,",
+    "start": 809.57,
+    "duration": 4.71
+  },
+  {
+    "text": "active pharmaceutical\ningredient manufacturing.",
+    "start": 814.28,
+    "duration": 3.15
+  },
+  {
+    "text": "The new technology that\nI think would afford",
+    "start": 817.43,
+    "duration": 3.69
+  },
+  {
+    "text": "a lot of opportunity to\nWestern manufacturers",
+    "start": 821.12,
+    "duration": 2.91
+  },
+  {
+    "text": "is continuous flow\nmanufacturing.",
+    "start": 824.03,
+    "duration": 1.83
+  },
+  {
+    "text": "Now this is still a\nnascent technology.",
+    "start": 825.86,
+    "duration": 3.72
+  },
+  {
+    "text": "But there are firms\nthat are working on it",
+    "start": 829.58,
+    "duration": 2.76
+  },
+  {
+    "text": "in the US and other places.",
+    "start": 832.34,
+    "duration": 2.58
+  },
+  {
+    "text": "And what it does is, it allows\nyou to use much lower capital",
+    "start": 834.92,
+    "duration": 4.29
+  },
+  {
+    "text": "intensity, smaller reactors,\nhigher temperatures",
+    "start": 839.21,
+    "duration": 3.27
+  },
+  {
+    "text": "and pressures.",
+    "start": 842.48,
+    "duration": 0.87
+  },
+  {
+    "text": "And it should produce\nless waste products.",
+    "start": 843.35,
+    "duration": 3.33
+  },
+  {
+    "text": "It should be more efficient.",
+    "start": 846.68,
+    "duration": 2.79
+  },
+  {
+    "text": "And it would be an opportunity\nto obsolete the install base",
+    "start": 849.47,
+    "duration": 5.43
+  },
+  {
+    "text": "of the incumbents.",
+    "start": 854.9,
+    "duration": 1.6
+  },
+  {
+    "text": "So it's those types of\nthings that I think about.",
+    "start": 856.5,
+    "duration": 2.9
+  },
+  {
+    "text": "And obviously, there are\nother newer technologies,",
+    "start": 859.4,
+    "duration": 3.09
+  },
+  {
+    "text": "like 3D printing which,\nespecially when applied",
+    "start": 862.49,
+    "duration": 3.18
+  },
+  {
+    "text": "to metals, I'm a\nbig fan of that,",
+    "start": 865.67,
+    "duration": 2.91
+  },
+  {
+    "text": "in terms of low cost\nmanufacturing of tooling,",
+    "start": 868.58,
+    "duration": 3.27
+  },
+  {
+    "text": "for example, or things\nthat really change",
+    "start": 871.85,
+    "duration": 5.55
+  },
+  {
+    "text": "the equation on labor\nintensity and could give",
+    "start": 877.4,
+    "duration": 5.14
+  },
+  {
+    "text": "a manufacturer, an advantage if\nyou wanted to step up and use",
+    "start": 882.54,
+    "duration": 6.14
+  },
+  {
+    "text": "that newer technology and\nproduce things at lower cost.",
+    "start": 888.68,
+    "duration": 5.0
+  },
+  {
+    "text": "ALISON BEARD: So how do\nwe incentivize companies",
+    "start": 893.68,
+    "duration": 3.35
+  },
+  {
+    "text": "and their leaders to\nfocus on and invest",
+    "start": 897.03,
+    "duration": 3.6
+  },
+  {
+    "text": "in these things in a period\nof recession, reduced consumer",
+    "start": 900.63,
+    "duration": 5.22
+  },
+  {
+    "text": "demand, hence lower\nsales, and then also",
+    "start": 905.85,
+    "duration": 4.08
+  },
+  {
+    "text": "in an era when there's pressure\nto keep people in jobs?",
+    "start": 909.93,
+    "duration": 4.88
+  },
+  {
+    "text": "WILLY SHIH: Well,\none of the things",
+    "start": 914.81,
+    "duration": 1.89
+  },
+  {
+    "text": "that I've observed in this\npandemic and the recession that",
+    "start": 916.7,
+    "duration": 4.23
+  },
+  {
+    "text": "is going with it is\nthat companies who",
+    "start": 920.93,
+    "duration": 4.47
+  },
+  {
+    "text": "use the crisis as\na way of unfreezing",
+    "start": 925.4,
+    "duration": 4.8
+  },
+  {
+    "text": "their ways of\nworking, unfreezing",
+    "start": 930.2,
+    "duration": 2.16
+  },
+  {
+    "text": "their organizational processes,\nadopting new ways of doing",
+    "start": 932.36,
+    "duration": 3.93
+  },
+  {
+    "text": "things, those are\nthe ones, I think,",
+    "start": 936.29,
+    "duration": 2.19
+  },
+  {
+    "text": "who can survive and thrive.",
+    "start": 938.48,
+    "duration": 3.42
+  },
+  {
+    "text": "The ones who hope that things\nwill go back to the way",
+    "start": 941.9,
+    "duration": 4.32
+  },
+  {
+    "text": "they were, we're already\nseeing a lot of problems there.",
+    "start": 946.22,
+    "duration": 3.94
+  },
+  {
+    "text": "So I think what managers\nneed to understand",
+    "start": 950.16,
+    "duration": 4.88
+  },
+  {
+    "text": "is, I'll have new challenges.",
+    "start": 955.04,
+    "duration": 2.59
+  },
+  {
+    "text": "There will be pressures to\nregionalize manufacturing.",
+    "start": 957.63,
+    "duration": 4.91
+  },
+  {
+    "text": "At the same time, I'm not going\nto have leverage to increase",
+    "start": 962.54,
+    "duration": 4.41
+  },
+  {
+    "text": "prices as much as I'd like.",
+    "start": 966.95,
+    "duration": 3.15
+  },
+  {
+    "text": "What am I going\nto do differently?",
+    "start": 970.1,
+    "duration": 1.92
+  },
+  {
+    "text": "How am I going to think\nabout my processes, how",
+    "start": 972.02,
+    "duration": 3.42
+  },
+  {
+    "text": "I'm going to organize\nmy supply chains,",
+    "start": 975.44,
+    "duration": 2.82
+  },
+  {
+    "text": "to give me that more resiliency?",
+    "start": 978.26,
+    "duration": 3.24
+  },
+  {
+    "text": "What should I move?",
+    "start": 981.5,
+    "duration": 2.04
+  },
+  {
+    "text": "What can I rely on\ndistant sources for?",
+    "start": 983.54,
+    "duration": 3.24
+  },
+  {
+    "text": "We see a lot of discussion about\ncutting dependence on China.",
+    "start": 986.78,
+    "duration": 5.19
+  },
+  {
+    "text": "I don't think that's necessarily\nan answer in all industries.",
+    "start": 991.97,
+    "duration": 6.75
+  },
+  {
+    "text": "Maybe I want to\ndiversify my sources.",
+    "start": 998.72,
+    "duration": 3.93
+  },
+  {
+    "text": "We already see many firms\ndiversifying to a China plus 1",
+    "start": 1002.65,
+    "duration": 5.46
+  },
+  {
+    "text": "or China plus 2 strategy,\nmoving into Southeast Asia,",
+    "start": 1008.11,
+    "duration": 4.38
+  },
+  {
+    "text": "moving to South Asia.",
+    "start": 1012.49,
+    "duration": 2.05
+  },
+  {
+    "text": "So that means I will find\nother low cost sources.",
+    "start": 1014.54,
+    "duration": 4.56
+  },
+  {
+    "text": "I will take some time\nto invest in developing",
+    "start": 1019.1,
+    "duration": 4.31
+  },
+  {
+    "text": "alternative sources.",
+    "start": 1023.41,
+    "duration": 1.86
+  },
+  {
+    "text": "And then just having kind of a\nmore robust mix of my sourcing",
+    "start": 1025.27,
+    "duration": 6.089
+  },
+  {
+    "text": "strategy and my logistics\nstrategy moving forward.",
+    "start": 1031.359,
+    "duration": 3.421
+  },
+  {
+    "text": "ALISON BEARD: In a way, it\nseems like companies should",
+    "start": 1034.78,
+    "duration": 2.25
+  },
+  {
+    "text": "be trying to employ all\nthe strategies that we've",
+    "start": 1037.03,
+    "duration": 3.96
+  },
+  {
+    "text": "talked about--",
+    "start": 1040.99,
+    "duration": 0.96
+  },
+  {
+    "text": "a little bit of stockpiling,\nsome diversification, and then",
+    "start": 1041.95,
+    "duration": 2.97
+  },
+  {
+    "text": "also, process improvement.",
+    "start": 1044.92,
+    "duration": 2.34
+  },
+  {
+    "text": "WILLY SHIH: It's going to take\nusing all of these things.",
+    "start": 1047.26,
+    "duration": 2.76
+  },
+  {
+    "text": "I don't think there's any\none solution that everybody",
+    "start": 1050.02,
+    "duration": 3.78
+  },
+  {
+    "text": "will be able to apply.",
+    "start": 1053.8,
+    "duration": 1.65
+  },
+  {
+    "text": "It's going to depend\non your sector and what",
+    "start": 1055.45,
+    "duration": 4.77
+  },
+  {
+    "text": "kind of alternatives you\nmight be able to develop,",
+    "start": 1060.22,
+    "duration": 3.03
+  },
+  {
+    "text": "and how long will\nthat take to develop.",
+    "start": 1063.25,
+    "duration": 2.56
+  },
+  {
+    "text": "There's a lot of impatience\nabout this supply chain",
+    "start": 1065.81,
+    "duration": 5.63
+  },
+  {
+    "text": "resilience and reshoring.",
+    "start": 1071.44,
+    "duration": 2.16
+  },
+  {
+    "text": "I like to remind people that it\ntook 20 to 25 years for China",
+    "start": 1073.6,
+    "duration": 6.09
+  },
+  {
+    "text": "to capture the supply\nchain in many products.",
+    "start": 1079.69,
+    "duration": 4.42
+  },
+  {
+    "text": "And if you want to\nmove the supply chain,",
+    "start": 1084.11,
+    "duration": 2.67
+  },
+  {
+    "text": "we're not talking\nabout something",
+    "start": 1086.78,
+    "duration": 1.61
+  },
+  {
+    "text": "that will happen in a year.",
+    "start": 1088.39,
+    "duration": 3.55
+  },
+  {
+    "text": "ALISON BEARD: We also have\napproached this issue very much",
+    "start": 1091.94,
+    "duration": 2.81
+  },
+  {
+    "text": "from the point of view of\nthe big car manufacturer,",
+    "start": 1094.75,
+    "duration": 3.33
+  },
+  {
+    "text": "the refrigerator manufacturer.",
+    "start": 1098.08,
+    "duration": 1.77
+  },
+  {
+    "text": "What about if you're on\nthe flip side of this?",
+    "start": 1099.85,
+    "duration": 2.19
+  },
+  {
+    "text": "You run the small business\nthat makes the best widget,",
+    "start": 1102.04,
+    "duration": 4.35
+  },
+  {
+    "text": "and you've been supplying\nall these large companies.",
+    "start": 1106.39,
+    "duration": 2.49
+  },
+  {
+    "text": "And now, you're\nfacing the prospect",
+    "start": 1108.88,
+    "duration": 2.07
+  },
+  {
+    "text": "that they actually don't want\nto only rely on you anymore.",
+    "start": 1110.95,
+    "duration": 3.45
+  },
+  {
+    "text": "What can those small businesses\nand the suppliers be doing?",
+    "start": 1114.4,
+    "duration": 3.45
+  },
+  {
+    "text": "WILLY SHIH: It's kind\nof a two way street.",
+    "start": 1117.85,
+    "duration": 2.37
+  },
+  {
+    "text": "People are finding they\nwere far too overdependent",
+    "start": 1120.22,
+    "duration": 4.86
+  },
+  {
+    "text": "on a particular sector or\nparticular manufacturer.",
+    "start": 1125.08,
+    "duration": 3.9
+  },
+  {
+    "text": "That says diversification\nis one route you can take,",
+    "start": 1128.98,
+    "duration": 5.73
+  },
+  {
+    "text": "in terms of I want to\ndiversify my customers.",
+    "start": 1134.71,
+    "duration": 2.53
+  },
+  {
+    "text": "I want to diversify the\nsectors that I serve.",
+    "start": 1137.24,
+    "duration": 4.91
+  },
+  {
+    "text": "We've seen a lot of pivots,\nwhere firms have really",
+    "start": 1142.15,
+    "duration": 4.77
+  },
+  {
+    "text": "moved into new areas, moved into\nnew ways of serving customers",
+    "start": 1146.92,
+    "duration": 5.07
+  },
+  {
+    "text": "as well.",
+    "start": 1151.99,
+    "duration": 0.58
+  },
+  {
+    "text": "So it goes back to, I have to\nunfreeze my organizational ways",
+    "start": 1152.57,
+    "duration": 6.17
+  },
+  {
+    "text": "of working and think\nabout new things",
+    "start": 1158.74,
+    "duration": 3.09
+  },
+  {
+    "text": "that I can do with\nthose capabilities,",
+    "start": 1161.83,
+    "duration": 2.29
+  },
+  {
+    "text": "new opportunities I can address.",
+    "start": 1164.12,
+    "duration": 2.515
+  },
+  {
+    "text": "ALISON BEARD: This\nobviously is a topic",
+    "start": 1166.635,
+    "duration": 1.625
+  },
+  {
+    "text": "that's highly relevant for\npeople in manufacturing,",
+    "start": 1168.26,
+    "duration": 2.91
+  },
+  {
+    "text": "consumer goods.",
+    "start": 1171.17,
+    "duration": 1.36
+  },
+  {
+    "text": "But what if I'm a leader of a\nsoftware or services company?",
+    "start": 1172.53,
+    "duration": 3.86
+  },
+  {
+    "text": "Should I care about all of this?",
+    "start": 1176.39,
+    "duration": 2.11
+  },
+  {
+    "text": "And if so, what should I be\ndoing to improve the situation?",
+    "start": 1178.5,
+    "duration": 4.44
+  },
+  {
+    "text": "WILLY SHIH: Even software\nand services businesses",
+    "start": 1182.94,
+    "duration": 3.06
+  },
+  {
+    "text": "have adopted global\nfootprints as well.",
+    "start": 1186.0,
+    "duration": 2.53
+  },
+  {
+    "text": "And we're not just talking\nabout Asia or South Asia.",
+    "start": 1188.53,
+    "duration": 4.28
+  },
+  {
+    "text": "But we're seeing\nsoftware companies",
+    "start": 1192.81,
+    "duration": 2.4
+  },
+  {
+    "text": "having part of their footprint\nin Eastern Europe, for example,",
+    "start": 1195.21,
+    "duration": 4.26
+  },
+  {
+    "text": "or Ireland, or lots\nof different places.",
+    "start": 1199.47,
+    "duration": 3.36
+  },
+  {
+    "text": "I think the key steps are\nreally first, understand,",
+    "start": 1202.83,
+    "duration": 5.64
+  },
+  {
+    "text": "what are your risks?",
+    "start": 1208.47,
+    "duration": 2.82
+  },
+  {
+    "text": "Just as is the case\nwith the manufacturing",
+    "start": 1211.29,
+    "duration": 3.51
+  },
+  {
+    "text": "network, understanding, what\nare the risks to my people,",
+    "start": 1214.8,
+    "duration": 7.0
+  },
+  {
+    "text": "especially in services\nbusinesses and mobility",
+    "start": 1221.8,
+    "duration": 4.25
+  },
+  {
+    "text": "or access?",
+    "start": 1226.05,
+    "duration": 2.07
+  },
+  {
+    "text": "We have seen that,\nfor example, big time",
+    "start": 1228.12,
+    "duration": 3.03
+  },
+  {
+    "text": "in all these visa restrictions\nthat have suddenly",
+    "start": 1231.15,
+    "duration": 3.39
+  },
+  {
+    "text": "been imposed on many foreign\nnationals, not just in the US,",
+    "start": 1234.54,
+    "duration": 5.43
+  },
+  {
+    "text": "but in a lot of other areas.",
+    "start": 1239.97,
+    "duration": 2.68
+  },
+  {
+    "text": "And so for companies that relied\non the movement of people,",
+    "start": 1242.65,
+    "duration": 4.1
+  },
+  {
+    "text": "this has been an impact as well.",
+    "start": 1246.75,
+    "duration": 1.72
+  },
+  {
+    "text": "So I think the same\ntype of risk assessment",
+    "start": 1248.47,
+    "duration": 3.5
+  },
+  {
+    "text": "and casting a wider net, in\nterms of what kinds of things",
+    "start": 1251.97,
+    "duration": 5.07
+  },
+  {
+    "text": "can happen--",
+    "start": 1257.04,
+    "duration": 0.79
+  },
+  {
+    "text": "I think the scale of\nthe disruption we've",
+    "start": 1257.83,
+    "duration": 3.32
+  },
+  {
+    "text": "seen with this pandemic has\nbeen unimaginable to people,",
+    "start": 1261.15,
+    "duration": 4.23
+  },
+  {
+    "text": "while I think after\nthis, the whole scenario",
+    "start": 1265.38,
+    "duration": 4.83
+  },
+  {
+    "text": "planning and risk\nassessment will",
+    "start": 1270.21,
+    "duration": 2.19
+  },
+  {
+    "text": "take on a whole new meaning.",
+    "start": 1272.4,
+    "duration": 2.3
+  },
+  {
+    "text": "ALISON BEARD: You mentioned\nhow long many of these",
+    "start": 1274.7,
+    "duration": 2.82
+  },
+  {
+    "text": "changes will take to implement.",
+    "start": 1277.52,
+    "duration": 1.47
+  },
+  {
+    "text": "But what about\nthe things that we",
+    "start": 1278.99,
+    "duration": 1.59
+  },
+  {
+    "text": "need to overcome this pandemic?",
+    "start": 1280.58,
+    "duration": 3.09
+  },
+  {
+    "text": "Medicine, tests, vaccines--\ncan the companies",
+    "start": 1283.67,
+    "duration": 5.85
+  },
+  {
+    "text": "producing those things\nmove more quickly",
+    "start": 1289.52,
+    "duration": 2.91
+  },
+  {
+    "text": "to make sure they\ngo into production,",
+    "start": 1292.43,
+    "duration": 4.5
+  },
+  {
+    "text": "and then get into the hands\nof consumers more quickly?",
+    "start": 1296.93,
+    "duration": 4.5
+  },
+  {
+    "text": "WILLY SHIH: One of\nthe things that I",
+    "start": 1301.43,
+    "duration": 1.5
+  },
+  {
+    "text": "think has been very\ngratifying that I have seen",
+    "start": 1302.93,
+    "duration": 2.79
+  },
+  {
+    "text": "in the pandemic is how\nthe crisis has unfrozen",
+    "start": 1305.72,
+    "duration": 5.1
+  },
+  {
+    "text": "how a lot of companies act.",
+    "start": 1310.82,
+    "duration": 2.01
+  },
+  {
+    "text": "So a great example has been\nin medical ventilators.",
+    "start": 1312.83,
+    "duration": 5.49
+  },
+  {
+    "text": "I'm on a board of a\ncompany that manufactures",
+    "start": 1318.32,
+    "duration": 3.06
+  },
+  {
+    "text": "a lot of medical equipment\nfor other companies.",
+    "start": 1321.38,
+    "duration": 4.5
+  },
+  {
+    "text": "And they came to us.",
+    "start": 1325.88,
+    "duration": 1.2
+  },
+  {
+    "text": "And many companies came to\nthem saying, how fast can",
+    "start": 1329.81,
+    "duration": 5.55
+  },
+  {
+    "text": "you put ventilators\ninto production for us?",
+    "start": 1335.36,
+    "duration": 3.06
+  },
+  {
+    "text": "And normally, for a new\nFDA licensed device,",
+    "start": 1338.42,
+    "duration": 4.65
+  },
+  {
+    "text": "that was a two year\nmanufacturing process.",
+    "start": 1343.07,
+    "duration": 2.64
+  },
+  {
+    "text": "And they shortened\nthat to maybe 12 weeks.",
+    "start": 1345.71,
+    "duration": 3.9
+  },
+  {
+    "text": "Now, I suggested to the team,\ntwo years down to 12 weeks--",
+    "start": 1349.61,
+    "duration": 9.33
+  },
+  {
+    "text": "what does that say you could\nhave done had the crisis not",
+    "start": 1358.94,
+    "duration": 6.39
+  },
+  {
+    "text": "stimulated that?",
+    "start": 1365.33,
+    "duration": 1.42
+  },
+  {
+    "text": "So we've actually\nseen a lot of pivoting",
+    "start": 1366.75,
+    "duration": 4.04
+  },
+  {
+    "text": "and a lot of this unfreezing\nof organizational routines.",
+    "start": 1370.79,
+    "duration": 6.97
+  },
+  {
+    "text": "And I think companies need to\nthink about, look at what we",
+    "start": 1377.76,
+    "duration": 4.49
+  },
+  {
+    "text": "did in the face of this crisis.",
+    "start": 1382.25,
+    "duration": 3.82
+  },
+  {
+    "text": "What does that say about\nwhat we potentially could",
+    "start": 1386.07,
+    "duration": 3.2
+  },
+  {
+    "text": "do during more normal times?",
+    "start": 1389.27,
+    "duration": 2.16
+  },
+  {
+    "text": "I was interviewing\na number of people",
+    "start": 1391.43,
+    "duration": 3.66
+  },
+  {
+    "text": "at a big financial services firm\nthat moved thousands of people",
+    "start": 1395.09,
+    "duration": 6.12
+  },
+  {
+    "text": "to work from home in about\na five day period, which",
+    "start": 1401.21,
+    "duration": 4.74
+  },
+  {
+    "text": "was really remarkable.",
+    "start": 1405.95,
+    "duration": 1.71
+  },
+  {
+    "text": "And they had actually set up\nan assembly line for employees",
+    "start": 1407.66,
+    "duration": 4.26
+  },
+  {
+    "text": "as they came through the\nlobby of the building,",
+    "start": 1411.92,
+    "duration": 2.94
+  },
+  {
+    "text": "so that they could equip\nthem with everything",
+    "start": 1414.86,
+    "duration": 2.22
+  },
+  {
+    "text": "they needed to do.",
+    "start": 1417.08,
+    "duration": 1.66
+  },
+  {
+    "text": "And then one of the\nthings they found,",
+    "start": 1418.74,
+    "duration": 2.21
+  },
+  {
+    "text": "that people's productivity\nactually went up",
+    "start": 1420.95,
+    "duration": 2.13
+  },
+  {
+    "text": "as a consequence of this.",
+    "start": 1423.08,
+    "duration": 1.27
+  },
+  {
+    "text": "So I think this crisis\nhas really unearthed",
+    "start": 1424.35,
+    "duration": 4.88
+  },
+  {
+    "text": "a lot of possibilities.",
+    "start": 1429.23,
+    "duration": 1.26
+  },
+  {
+    "text": "And that actually gives\nme a lot of optimism.",
+    "start": 1430.49,
+    "duration": 2.94
+  },
+  {
+    "text": "ALISON BEARD: Well hopefully,\norganizations and consumers",
+    "start": 1433.43,
+    "duration": 3.09
+  },
+  {
+    "text": "will be able to figure this out.",
+    "start": 1436.52,
+    "duration": 1.45
+  },
+  {
+    "text": "Thanks so much for joining me.",
+    "start": 1437.97,
+    "duration": 1.443
+  },
+  {
+    "text": "WILLY SHIH: Thank you.",
+    "start": 1439.413,
+    "duration": 0.917
+  },
+  {
+    "text": "ALISON BEARD: That's\nWillie Shih, professor",
+    "start": 1443.158,
+    "duration": 1.792
+  },
+  {
+    "text": "at Harvard Business School and\nauthor of the article Global",
+    "start": 1444.95,
+    "duration": 2.52
+  },
+  {
+    "text": "Supply Chains in a\nPost-Pandemic World.",
+    "start": 1447.47,
+    "duration": 2.31
+  },
+  {
+    "text": "You can find it in the\nSeptember-October 2020",
+    "start": 1449.78,
+    "duration": 2.55
+  },
+  {
+    "text": "issue of Harvard Business\nReview or at hbr.org.",
+    "start": 1452.33,
+    "duration": 2.37
+  },
+  {
+    "text": "This episode was produced\nby Mary [INAUDIBLE]..",
+    "start": 1462.04,
+    "duration": 2.07
+  },
+  {
+    "text": "We get technical help\nfrom Rob Eckhart.",
+    "start": 1464.11,
+    "duration": 2.01
+  },
+  {
+    "text": "Adam Buckholtz is our\naudio product manager.",
+    "start": 1466.12,
+    "duration": 2.085
+  },
+  {
+    "text": "Thanks for listening\nto HBR IdeaCast.",
+    "start": 1473.39,
+    "duration": 2.56
+  },
+  {
+    "text": "I'm Alison Beard.",
+    "start": 1475.95,
+    "duration": 2.26
+  }
+]

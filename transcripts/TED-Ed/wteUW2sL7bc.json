@@ -1,0 +1,402 @@
+[
+  {
+    "text": "Imagine an airplane flying\none millimeter above the ground",
+    "start": 7.246,
+    "duration": 3.583
+  },
+  {
+    "text": "and circling the Earth\nonce every 25 seconds",
+    "start": 10.829,
+    "duration": 3.209
+  },
+  {
+    "text": "while counting every blade of grass.",
+    "start": 14.038,
+    "duration": 3.291
+  },
+  {
+    "text": "Shrink all that down so that it fits\nin the palm of your hand,",
+    "start": 17.329,
+    "duration": 3.209
+  },
+  {
+    "text": "and you'd have something equivalent\nto a modern hard drive,",
+    "start": 20.538,
+    "duration": 3.75
+  },
+  {
+    "text": "an object that can likely hold\nmore information than your local library.",
+    "start": 24.288,
+    "duration": 4.166
+  },
+  {
+    "text": "So how does it store so much information\nin such a small space?",
+    "start": 28.454,
+    "duration": 4.458
+  },
+  {
+    "text": "At the heart of every hard drive\nis a stack of high-speed spinning discs",
+    "start": 32.912,
+    "duration": 4.209
+  },
+  {
+    "text": "with a recording head \nflying over each surface.",
+    "start": 37.121,
+    "duration": 3.416
+  },
+  {
+    "text": "Each disc is coated with a film\nof microscopic magnetised metal grains,",
+    "start": 40.537,
+    "duration": 5.75
+  },
+  {
+    "text": "and your data doesn't live there\nin a form you can recognize.",
+    "start": 46.287,
+    "duration": 3.292
+  },
+  {
+    "text": "Instead, it is recorded \nas a magnetic pattern",
+    "start": 49.579,
+    "duration": 3.167
+  },
+  {
+    "text": "formed by groups of those tiny grains.",
+    "start": 52.746,
+    "duration": 3.083
+  },
+  {
+    "text": "In each group, also known as a bit,",
+    "start": 55.829,
+    "duration": 2.333
+  },
+  {
+    "text": "all of the grains have \ntheir magnetization's aligned",
+    "start": 58.162,
+    "duration": 2.959
+  },
+  {
+    "text": "in one of two possible states,",
+    "start": 61.121,
+    "duration": 2.458
+  },
+  {
+    "text": "which correspond to zeroes and ones.",
+    "start": 63.579,
+    "duration": 3.209
+  },
+  {
+    "text": "Data is written onto the disc",
+    "start": 66.788,
+    "duration": 1.875
+  },
+  {
+    "text": "by converting strings of bits \ninto electrical current",
+    "start": 68.663,
+    "duration": 3.916
+  },
+  {
+    "text": "fed through an electromagnet.",
+    "start": 72.579,
+    "duration": 2.417
+  },
+  {
+    "text": "This magnet generates a field\nstrong enough to change the direction",
+    "start": 74.996,
+    "duration": 3.625
+  },
+  {
+    "text": "of the metal grain's magnetization.",
+    "start": 78.621,
+    "duration": 2.5
+  },
+  {
+    "text": "Once this information is written \nonto the disc,",
+    "start": 81.121,
+    "duration": 2.958
+  },
+  {
+    "text": "the drive uses a magnetic reader\nto turn it back into a useful form,",
+    "start": 84.079,
+    "duration": 4.75
+  },
+  {
+    "text": "much like a phonograph needle\ntranslates a record's grooves into music.",
+    "start": 88.829,
+    "duration": 4.625
+  },
+  {
+    "text": "But how can you get so much information\nout of just zeroes and ones?",
+    "start": 93.454,
+    "duration": 4.167
+  },
+  {
+    "text": "Well, by putting lots of them together.",
+    "start": 97.621,
+    "duration": 2.667
+  },
+  {
+    "text": "For example, a letter is represented\nin one byte, or eight bits,",
+    "start": 100.288,
+    "duration": 4.958
+  },
+  {
+    "text": "and your average photo \ntakes up several megabytes,",
+    "start": 105.246,
+    "duration": 2.625
+  },
+  {
+    "text": "each of which is 8 million bits.",
+    "start": 107.871,
+    "duration": 3.0
+  },
+  {
+    "text": "Because each bit must be written onto\na physical area of the disc,",
+    "start": 110.871,
+    "duration": 3.917
+  },
+  {
+    "text": "we're always seeking to increase\nthe disc's areal density,",
+    "start": 114.788,
+    "duration": 4.041
+  },
+  {
+    "text": "or how many bits can be squeezed\ninto one square inch.",
+    "start": 118.829,
+    "duration": 4.75
+  },
+  {
+    "text": "The areal density of a modern hard drive\nis about 600 gigabits per square inch,",
+    "start": 123.579,
+    "duration": 5.334
+  },
+  {
+    "text": "300 million times greater than that\nof IBM's first hard drive from 1957.",
+    "start": 128.913,
+    "duration": 6.625
+  },
+  {
+    "text": "This amazing advance in storage capacity",
+    "start": 135.538,
+    "duration": 2.375
+  },
+  {
+    "text": "wasn't just a matter \nof making everything smaller,",
+    "start": 137.913,
+    "duration": 2.833
+  },
+  {
+    "text": "but involved multiple innovations.",
+    "start": 140.746,
+    "duration": 2.167
+  },
+  {
+    "text": "A technique called the thin film\nlithography process",
+    "start": 142.913,
+    "duration": 3.25
+  },
+  {
+    "text": "allowed engineers \nto shrink the reader and writer.",
+    "start": 146.163,
+    "duration": 3.666
+  },
+  {
+    "text": "And despite its size, \nthe reader became more sensitive",
+    "start": 149.829,
+    "duration": 2.917
+  },
+  {
+    "text": "by taking advantage of new discoveries in\nmagnetic and quantum properties of matter.",
+    "start": 152.746,
+    "duration": 6.333
+  },
+  {
+    "text": "Bits could also be packed closer together\nthanks to mathematical algorithms",
+    "start": 159.079,
+    "duration": 4.292
+  },
+  {
+    "text": "that filter out noise\nfrom magnetic interference,",
+    "start": 163.371,
+    "duration": 3.208
+  },
+  {
+    "text": "and find the most likely bit sequences\nfrom each chunk of read-back signal.",
+    "start": 166.579,
+    "duration": 4.875
+  },
+  {
+    "text": "And thermal expansion control of the head,",
+    "start": 171.454,
+    "duration": 3.0
+  },
+  {
+    "text": "enabled by placing a heater \nunder the magnetic writer,",
+    "start": 174.454,
+    "duration": 3.084
+  },
+  {
+    "text": "allowed it to fly less than\nfive nanometers above the disc's surface,",
+    "start": 177.538,
+    "duration": 5.125
+  },
+  {
+    "text": "about the width of two strands of DNA.",
+    "start": 182.663,
+    "duration": 4.0
+  },
+  {
+    "text": "For the past several decades,",
+    "start": 186.663,
+    "duration": 1.75
+  },
+  {
+    "text": "the exponential growth in computer\nstorage capacity and processing power",
+    "start": 188.413,
+    "duration": 4.166
+  },
+  {
+    "text": "has followed a pattern \nknown as Moore's Law,",
+    "start": 192.579,
+    "duration": 3.25
+  },
+  {
+    "text": "which, in 1975, predicted that information\ndensity would double every two years.",
+    "start": 195.829,
+    "duration": 7.25
+  },
+  {
+    "text": "But at around 100 gigabits \nper square inch,",
+    "start": 203.079,
+    "duration": 2.917
+  },
+  {
+    "text": "shrinking the magnetic grains further\nor cramming them closer together",
+    "start": 205.996,
+    "duration": 4.167
+  },
+  {
+    "text": "posed a new risk\ncalled the superparamagnetic effect.",
+    "start": 210.163,
+    "duration": 4.208
+  },
+  {
+    "text": "When a magnetic grain volume is too small,",
+    "start": 214.371,
+    "duration": 3.167
+  },
+  {
+    "text": "its magnetization is easily disturbed\nby heat energy",
+    "start": 217.538,
+    "duration": 3.916
+  },
+  {
+    "text": "and can cause bits \nto switch unintentionally,",
+    "start": 221.454,
+    "duration": 2.959
+  },
+  {
+    "text": "leading to data loss.",
+    "start": 224.413,
+    "duration": 2.291
+  },
+  {
+    "text": "Scientists resolved this limitation\nin a remarkably simple way:",
+    "start": 226.704,
+    "duration": 4.125
+  },
+  {
+    "text": "by changing the direction of recording\nfrom longitudinal to perpendicular,",
+    "start": 230.829,
+    "duration": 5.084
+  },
+  {
+    "text": "allowing areal density to approach\none terabit per square inch.",
+    "start": 235.913,
+    "duration": 5.291
+  },
+  {
+    "text": "Recently, the potential limit has been\nincreased yet again",
+    "start": 241.204,
+    "duration": 3.667
+  },
+  {
+    "text": "through heat assisted magnetic recording.",
+    "start": 244.871,
+    "duration": 2.792
+  },
+  {
+    "text": "This uses an even more thermally\nstable recording medium,",
+    "start": 247.663,
+    "duration": 3.791
+  },
+  {
+    "text": "whose magnetic resistance \nis momentarily reduced",
+    "start": 251.454,
+    "duration": 3.417
+  },
+  {
+    "text": "by heating up a particular spot \nwith a laser",
+    "start": 254.871,
+    "duration": 3.625
+  },
+  {
+    "text": "and allowing data to be written.",
+    "start": 258.496,
+    "duration": 2.042
+  },
+  {
+    "text": "And while those drives are currently\nin the prototype stage,",
+    "start": 260.538,
+    "duration": 3.0
+  },
+  {
+    "text": "scientists already have the next potential\ntrick up their sleeves:",
+    "start": 263.538,
+    "duration": 4.75
+  },
+  {
+    "text": "bit-patterned media,",
+    "start": 268.288,
+    "duration": 2.0
+  },
+  {
+    "text": "where bit locations are arranged \nin separate, nano-sized structures,",
+    "start": 270.288,
+    "duration": 4.958
+  },
+  {
+    "text": "potentially allowing for areal densities\nof twenty terabits per square inch",
+    "start": 275.246,
+    "duration": 5.042
+  },
+  {
+    "text": "or more.",
+    "start": 280.288,
+    "duration": 1.5
+  },
+  {
+    "text": "So it's thanks to the combined efforts\nof generations of engineers,",
+    "start": 281.788,
+    "duration": 4.458
+  },
+  {
+    "text": "material scientists,",
+    "start": 286.246,
+    "duration": 1.75
+  },
+  {
+    "text": "and quantum physicists",
+    "start": 287.996,
+    "duration": 1.958
+  },
+  {
+    "text": "that this tool of incredible power\nand precision",
+    "start": 289.954,
+    "duration": 3.042
+  },
+  {
+    "text": "can spin in the palm of your hand.",
+    "start": 292.996,
+    "duration": 2.833
+  }
+]

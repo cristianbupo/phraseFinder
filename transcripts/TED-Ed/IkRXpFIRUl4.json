@@ -1,0 +1,442 @@
+[
+  {
+    "text": "This is a computer chip,\nmagnified 500 times.",
+    "start": 7.045,
+    "duration": 3.837
+  },
+  {
+    "text": "What you’re looking at is the top\nof a computing city,",
+    "start": 11.09,
+    "duration": 2.92
+  },
+  {
+    "text": "with distinct neighborhoods\nfor different functions.",
+    "start": 14.01,
+    "duration": 2.502
+  },
+  {
+    "text": "They’re linked by up to 100 kilometers\nof ultra-thin copper lines,",
+    "start": 16.637,
+    "duration": 4.004
+  },
+  {
+    "text": "running across 10 or more stacked levels.",
+    "start": 20.641,
+    "duration": 2.837
+  },
+  {
+    "text": "At the very bottom,\nbillions of electronic devices",
+    "start": 23.728,
+    "duration": 2.753
+  },
+  {
+    "text": "generate the digital traffic\nthat pulses across the chip.",
+    "start": 26.481,
+    "duration": 3.587
+  },
+  {
+    "text": "The most common of these devices\nis called a transistor;",
+    "start": 30.276,
+    "duration": 3.253
+  },
+  {
+    "text": "it’s a switch that allows current to flow\nif it receives a voltage.",
+    "start": 33.529,
+    "duration": 3.837
+  },
+  {
+    "text": "Transistors can be as small\nas 20 nanometers,",
+    "start": 37.533,
+    "duration": 3.212
+  },
+  {
+    "text": "and more than 50 billion of them\ncan fit on a single chip.",
+    "start": 40.745,
+    "duration": 3.42
+  },
+  {
+    "text": "Globally, we produce more than a trillion\ncomputer chips every year.",
+    "start": 44.54,
+    "duration": 4.088
+  },
+  {
+    "text": "That’s about 20 trillion transistors\nbuilt every second,",
+    "start": 48.795,
+    "duration": 4.045
+  },
+  {
+    "text": "and it’s done in fewer than 500\nfabrication plants, known as fabs.",
+    "start": 52.924,
+    "duration": 4.337
+  },
+  {
+    "text": "How do we build so many tiny,\nintricately-connected devices,",
+    "start": 57.428,
+    "duration": 4.338
+  },
+  {
+    "text": "so incredibly fast?",
+    "start": 61.766,
+    "duration": 1.752
+  },
+  {
+    "text": "The answer involves a technology\ncalled photolithography,",
+    "start": 64.018,
+    "duration": 3.212
+  },
+  {
+    "text": "which helps us build all the devices\non a chip simultaneously.",
+    "start": 67.23,
+    "duration": 3.753
+  },
+  {
+    "text": "It’s like constructing all the buildings\nin a city at the same time.",
+    "start": 71.484,
+    "duration": 4.254
+  },
+  {
+    "text": "And with no tiny construction crews\nto help,",
+    "start": 75.822,
+    "duration": 2.294
+  },
+  {
+    "text": "we build using light\nas a measuring and sculpting tool.",
+    "start": 78.199,
+    "duration": 3.837
+  },
+  {
+    "text": "The process starts\nwith a wafer of silicon,",
+    "start": 82.37,
+    "duration": 2.252
+  },
+  {
+    "text": "which is doused in solvents and acids to\nstrip it clean before entering a furnace.",
+    "start": 84.622,
+    "duration": 5.005
+  },
+  {
+    "text": "Here, oxygen gas reacts with the wafer\nto form a layer of silicon dioxide.",
+    "start": 89.877,
+    "duration": 4.672
+  },
+  {
+    "text": "Then, a liquid called “photoresist”\nis spun on and baked to harden.",
+    "start": 94.715,
+    "duration": 4.38
+  },
+  {
+    "text": "Next, ultraviolet light selectively\nilluminates the wafer,",
+    "start": 99.428,
+    "duration": 3.379
+  },
+  {
+    "text": "by passing through or reflecting\noff a specialized mask.",
+    "start": 102.807,
+    "duration": 3.337
+  },
+  {
+    "text": "In the lit areas, a reaction weakens\nthe photoresist’s chemical bonds.",
+    "start": 106.269,
+    "duration": 4.504
+  },
+  {
+    "text": "The wafer is doused in another chemical\nto wash away that weakened photoresist,",
+    "start": 111.232,
+    "duration": 4.087
+  },
+  {
+    "text": "leaving an image of the mask.",
+    "start": 115.444,
+    "duration": 1.877
+  },
+  {
+    "text": "And an etching machine’s reactive gases\nremove the exposed oxide,",
+    "start": 117.864,
+    "duration": 4.212
+  },
+  {
+    "text": "creating windows that drill the mask’s\npattern down to the wafer surface.",
+    "start": 122.076,
+    "duration": 4.797
+  },
+  {
+    "text": "An implanter then accelerates\nboron or phosphorus ions",
+    "start": 127.54,
+    "duration": 3.712
+  },
+  {
+    "text": "and slams them\ninto the patterned openings.",
+    "start": 131.252,
+    "duration": 2.502
+  },
+  {
+    "text": "These atoms form electropositive\nor electronegative regions",
+    "start": 134.297,
+    "duration": 3.837
+  },
+  {
+    "text": "that change silicon’s conductivity,",
+    "start": 138.134,
+    "duration": 2.377
+  },
+  {
+    "text": "creating the foundation\nof the transistor switch.",
+    "start": 140.595,
+    "duration": 2.586
+  },
+  {
+    "text": "The etched oxide windows, however,\ncreate hill-and-valley features.",
+    "start": 143.723,
+    "duration": 3.962
+  },
+  {
+    "text": "Before the next level\nof copper lines are added,",
+    "start": 147.81,
+    "duration": 2.544
+  },
+  {
+    "text": "this one’s uneven lines\nmust be polished flat,",
+    "start": 150.354,
+    "duration": 2.878
+  },
+  {
+    "text": "to near-atomic precision,\nusing a sophisticated grinding process",
+    "start": 153.232,
+    "duration": 4.046
+  },
+  {
+    "text": "called chemical mechanical polishing,\nor CMP.",
+    "start": 157.278,
+    "duration": 3.462
+  },
+  {
+    "text": "CMP uses a controlled slurry\nof sub-micron ceramic particles",
+    "start": 160.907,
+    "duration": 4.337
+  },
+  {
+    "text": "to gently scrape and flatten\nthe bumpy features.",
+    "start": 165.244,
+    "duration": 3.295
+  },
+  {
+    "text": "These fab tools, and many others,\nare used hundreds of times on a wafer,",
+    "start": 171.167,
+    "duration": 3.962
+  },
+  {
+    "text": "to create and link transistors\ninto computing logic gates,",
+    "start": 175.129,
+    "duration": 3.462
+  },
+  {
+    "text": "and to make connected neighborhoods\nfor memory storage and computation.",
+    "start": 178.758,
+    "duration": 3.837
+  },
+  {
+    "text": "Fabs run around the clock,",
+    "start": 183.471,
+    "duration": 1.626
+  },
+  {
+    "text": "and it takes about three months to\ntransform a single wafer from pure silicon",
+    "start": 185.097,
+    "duration": 4.255
+  },
+  {
+    "text": "into hundreds of chips.",
+    "start": 189.352,
+    "duration": 1.459
+  },
+  {
+    "text": "With this continuous operation,",
+    "start": 191.062,
+    "duration": 1.501
+  },
+  {
+    "text": "fabs consume huge amounts of electricity,\nwater, solvents, acids, bases,",
+    "start": 192.563,
+    "duration": 5.631
+  },
+  {
+    "text": "process gases, and precious metals.",
+    "start": 198.194,
+    "duration": 2.627
+  },
+  {
+    "text": "Wafers are processed in ultra-high\npurity tool chambers,",
+    "start": 201.697,
+    "duration": 3.587
+  },
+  {
+    "text": "maintained by pumps running constantly,",
+    "start": 205.368,
+    "duration": 2.544
+  },
+  {
+    "text": "to sustain a vacuum\nthat resembles deep space.",
+    "start": 207.912,
+    "duration": 2.753
+  },
+  {
+    "text": "High-temperature furnaces never turn off.",
+    "start": 210.79,
+    "duration": 2.586
+  },
+  {
+    "text": "Fab air handlers constantly\nexpel filtered air",
+    "start": 213.542,
+    "duration": 3.087
+  },
+  {
+    "text": "to corral dust and tiny particles\naway from wafers.",
+    "start": 216.629,
+    "duration": 3.128
+  },
+  {
+    "text": "This takes a lot of electricity.",
+    "start": 219.84,
+    "duration": 2.169
+  },
+  {
+    "text": "The chemicals and purified water used\nin cleaning ",
+    "start": 222.426,
+    "duration": 2.711
+  },
+  {
+    "text": "create nearly five gallons of waste\nper wafer run—",
+    "start": 225.137,
+    "duration": 3.629
+  },
+  {
+    "text": "which needs to be filtered and pH treated.",
+    "start": 228.891,
+    "duration": 2.628
+  },
+  {
+    "text": "Meanwhile, CMP slurries are continually\nflushed with water",
+    "start": 231.686,
+    "duration": 3.42
+  },
+  {
+    "text": "to keep their fine particles from\nforming chunks",
+    "start": 235.106,
+    "duration": 2.252
+  },
+  {
+    "text": "that would tear apart\nthe fragile copper lines.",
+    "start": 237.358,
+    "duration": 2.461
+  },
+  {
+    "text": "This adds five times more liquid waste.",
+    "start": 239.86,
+    "duration": 2.545
+  },
+  {
+    "text": "Fabs plow through vast amounts of nitrogen\nand helium gas to run their tools.",
+    "start": 242.78,
+    "duration": 4.588
+  },
+  {
+    "text": "And other gases used and generated in\nthese tools are greenhouse contributors.",
+    "start": 247.535,
+    "duration": 4.755
+  },
+  {
+    "text": "To minimize their emission,",
+    "start": 252.456,
+    "duration": 1.293
+  },
+  {
+    "text": "machines called scrubbers decompose\nand dissolve some gaseous byproducts",
+    "start": 253.749,
+    "duration": 4.672
+  },
+  {
+    "text": "into treatable wastewater.",
+    "start": 258.504,
+    "duration": 1.668
+  },
+  {
+    "text": "That uses more electricity,\nand more water.",
+    "start": 260.298,
+    "duration": 2.585
+  },
+  {
+    "text": "As computing complexity grows,",
+    "start": 263.426,
+    "duration": 1.585
+  },
+  {
+    "text": "more copper and precious metals\nare needed to link up chips.",
+    "start": 265.011,
+    "duration": 3.545
+  },
+  {
+    "text": "And new problems arise:",
+    "start": 268.681,
+    "duration": 1.793
+  },
+  {
+    "text": "today, PFAS-based photoresists are\nessential to make ever-smaller features.",
+    "start": 270.641,
+    "duration": 4.129
+  },
+  {
+    "text": "But PFAS waste in the environment\nis ending up in our bodies,",
+    "start": 274.895,
+    "duration": 3.546
+  },
+  {
+    "text": "and it may be harmful.",
+    "start": 278.441,
+    "duration": 1.251
+  },
+  {
+    "text": "Computer chips are modern marvels\nthat have transformed our world—",
+    "start": 280.443,
+    "duration": 3.295
+  },
+  {
+    "text": "and the factories that build them\nare themselves engineering wonders.",
+    "start": 283.738,
+    "duration": 3.336
+  },
+  {
+    "text": "But as our demand for chips accelerates,",
+    "start": 287.616,
+    "duration": 2.253
+  },
+  {
+    "text": "their fabrication is hitting\nhard sustainability limits.",
+    "start": 289.869,
+    "duration": 3.128
+  },
+  {
+    "text": "Already, some places are beginning\nto ration water to farmers,",
+    "start": 293.08,
+    "duration": 3.629
+  },
+  {
+    "text": "in favor of running fabs.",
+    "start": 296.709,
+    "duration": 1.835
+  },
+  {
+    "text": "For the sake of the future\nof computing and our environment,",
+    "start": 298.753,
+    "duration": 3.128
+  },
+  {
+    "text": "tomorrow’s leaner, cleaner,\nand greener fabs",
+    "start": 301.964,
+    "duration": 2.92
+  },
+  {
+    "text": "will need to run even smarter\nthan the very chips they build.",
+    "start": 304.884,
+    "duration": 3.545
+  }
+]

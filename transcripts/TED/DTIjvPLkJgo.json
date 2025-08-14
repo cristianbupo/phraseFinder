@@ -1,0 +1,1032 @@
+[
+  {
+    "text": "As a roboticist,\nI get asked a lot of questions.",
+    "start": 13.944,
+    "duration": 3.721
+  },
+  {
+    "text": "\"When we will they start\nserving me breakfast?\"",
+    "start": 17.689,
+    "duration": 2.304
+  },
+  {
+    "text": "So I thought the future of robotics\nwould be looking more like us.",
+    "start": 21.049,
+    "duration": 4.676
+  },
+  {
+    "text": "I thought they would look like me,",
+    "start": 28.114,
+    "duration": 1.674
+  },
+  {
+    "text": "so I built eyes\nthat would simulate my eyes.",
+    "start": 29.812,
+    "duration": 3.747
+  },
+  {
+    "text": "I built fingers that are dextrous\nenough to serve me ...",
+    "start": 34.813,
+    "duration": 5.056
+  },
+  {
+    "text": "baseballs.",
+    "start": 39.893,
+    "duration": 1.19
+  },
+  {
+    "text": "Classical robots like this",
+    "start": 43.837,
+    "duration": 2.017
+  },
+  {
+    "text": "are built and become functional",
+    "start": 45.878,
+    "duration": 3.176
+  },
+  {
+    "text": "based on the fixed number\nof joints and actuators.",
+    "start": 49.078,
+    "duration": 3.198
+  },
+  {
+    "text": "And this means their functionality\nand shape are already fixed",
+    "start": 52.78,
+    "duration": 4.335
+  },
+  {
+    "text": "at the moment of their conception.",
+    "start": 57.139,
+    "duration": 1.831
+  },
+  {
+    "text": "So even though this arm\nhas a really nice throw --",
+    "start": 59.49,
+    "duration": 2.867
+  },
+  {
+    "text": "it even hit the tripod at the end--",
+    "start": 62.381,
+    "duration": 2.431
+  },
+  {
+    "text": "it's not meant for cooking you\nbreakfast per se.",
+    "start": 66.015,
+    "duration": 3.163
+  },
+  {
+    "text": "It's not really suited for scrambled eggs.",
+    "start": 69.202,
+    "duration": 3.637
+  },
+  {
+    "text": "So this was when I was hit\nby a new vision of future robotics:",
+    "start": 72.863,
+    "duration": 4.325
+  },
+  {
+    "text": "the transformers.",
+    "start": 78.101,
+    "duration": 1.76
+  },
+  {
+    "text": "They drive, they run, they fly,",
+    "start": 80.989,
+    "duration": 2.547
+  },
+  {
+    "text": "all depending on the ever-changing,\nnew environment and task at hand.",
+    "start": 83.56,
+    "duration": 4.869
+  },
+  {
+    "text": "To make this a reality,",
+    "start": 89.267,
+    "duration": 1.781
+  },
+  {
+    "text": "you really have to rethink\nhow robots are designed.",
+    "start": 91.072,
+    "duration": 3.291
+  },
+  {
+    "text": "So, imagine a robotic module\nin a polygon shape",
+    "start": 95.448,
+    "duration": 4.014
+  },
+  {
+    "text": "and using that simple polygon shape",
+    "start": 99.486,
+    "duration": 2.079
+  },
+  {
+    "text": "to reconstruct multiple different forms",
+    "start": 101.589,
+    "duration": 3.038
+  },
+  {
+    "text": "to create a new form of robot\nfor different tasks.",
+    "start": 104.651,
+    "duration": 4.29
+  },
+  {
+    "text": "In CG, computer graphics,\nit's not any news --",
+    "start": 109.528,
+    "duration": 3.703
+  },
+  {
+    "text": "it's been done for a while, and that's how\nmost of the movies are made.",
+    "start": 113.255,
+    "duration": 3.431
+  },
+  {
+    "text": "But if you're trying to make a robot\nthat's physically moving,",
+    "start": 116.71,
+    "duration": 3.87
+  },
+  {
+    "text": "it's a completely new story.",
+    "start": 120.604,
+    "duration": 1.576
+  },
+  {
+    "text": "It's a completely new paradigm.",
+    "start": 122.691,
+    "duration": 2.029
+  },
+  {
+    "text": "But you've all done this.",
+    "start": 126.307,
+    "duration": 1.793
+  },
+  {
+    "text": "Who hasn't made a paper airplane,\npaper boat, paper crane?",
+    "start": 129.434,
+    "duration": 5.308
+  },
+  {
+    "text": "Origami is a versatile\nplatform for designers.",
+    "start": 135.893,
+    "duration": 3.844
+  },
+  {
+    "text": "From a single sheet of paper,\nyou can make multiple shapes,",
+    "start": 139.761,
+    "duration": 4.076
+  },
+  {
+    "text": "and if you don't like it,\nyou unfold and fold back again.",
+    "start": 143.861,
+    "duration": 3.394
+  },
+  {
+    "text": "Any 3D form can be made\nfrom 2D surfaces by folding,",
+    "start": 147.947,
+    "duration": 6.016
+  },
+  {
+    "text": "and this is proven mathematically.",
+    "start": 153.987,
+    "duration": 2.529
+  },
+  {
+    "text": "And imagine if you were to have\nan intelligent sheet",
+    "start": 158.555,
+    "duration": 4.408
+  },
+  {
+    "text": "that can self-fold into any form it wants,",
+    "start": 162.987,
+    "duration": 3.559
+  },
+  {
+    "text": "anytime.",
+    "start": 166.57,
+    "duration": 1.223
+  },
+  {
+    "text": "And that's what I've been working on.",
+    "start": 168.322,
+    "duration": 2.254
+  },
+  {
+    "text": "I call this robotic origami,",
+    "start": 170.6,
+    "duration": 3.182
+  },
+  {
+    "text": "\"robogami.\"",
+    "start": 173.806,
+    "duration": 1.498
+  },
+  {
+    "text": "This is our first robogami transformation",
+    "start": 177.387,
+    "duration": 3.52
+  },
+  {
+    "text": "that was made by me about 10 years ago.",
+    "start": 180.931,
+    "duration": 3.309
+  },
+  {
+    "text": "From a flat-sheeted robot,",
+    "start": 184.264,
+    "duration": 1.767
+  },
+  {
+    "text": "it turns into a pyramid\nand back into a flat sheet",
+    "start": 186.055,
+    "duration": 2.947
+  },
+  {
+    "text": "and into a space shuttle.",
+    "start": 189.026,
+    "duration": 2.773
+  },
+  {
+    "text": "Quite cute.",
+    "start": 192.822,
+    "duration": 1.241
+  },
+  {
+    "text": "Ten years later, with my group\nof ninja origami robotic researchers --",
+    "start": 194.789,
+    "duration": 6.87
+  },
+  {
+    "text": "about 22 of them right now --",
+    "start": 201.683,
+    "duration": 1.898
+  },
+  {
+    "text": "we have a new generation of robogamis,",
+    "start": 204.332,
+    "duration": 3.408
+  },
+  {
+    "text": "and they're a little more effective\nand they do more than that.",
+    "start": 207.764,
+    "duration": 3.311
+  },
+  {
+    "text": "So the new generation of robogamis\nactually serve a purpose.",
+    "start": 212.105,
+    "duration": 3.283
+  },
+  {
+    "text": "For example, this one actually navigates\nthrough different terrains autonomously.",
+    "start": 215.412,
+    "duration": 5.199
+  },
+  {
+    "text": "So when it's a dry\nand flat land, it crawls.",
+    "start": 220.635,
+    "duration": 3.335
+  },
+  {
+    "text": "And if it meets sudden rough terrain,",
+    "start": 226.256,
+    "duration": 2.479
+  },
+  {
+    "text": "it starts rolling.",
+    "start": 228.759,
+    "duration": 1.237
+  },
+  {
+    "text": "It does this -- it's the same robot --",
+    "start": 230.02,
+    "duration": 2.452
+  },
+  {
+    "text": "but depending on which terrain it meets,",
+    "start": 232.496,
+    "duration": 3.023
+  },
+  {
+    "text": "it activates a different sequence\nof actuators that's on board.",
+    "start": 235.543,
+    "duration": 4.765
+  },
+  {
+    "text": "And once it meets an obstacle,\nit jumps over it.",
+    "start": 242.459,
+    "duration": 3.28
+  },
+  {
+    "text": "It does this by storing energy\nin each of its legs",
+    "start": 247.485,
+    "duration": 3.376
+  },
+  {
+    "text": "and releasing it and catapulting\nlike a slingshot.",
+    "start": 250.885,
+    "duration": 3.876
+  },
+  {
+    "text": "And it even does gymnastics.",
+    "start": 254.785,
+    "duration": 1.887
+  },
+  {
+    "text": "Yay.",
+    "start": 257.688,
+    "duration": 1.171
+  },
+  {
+    "text": "(Laughter)",
+    "start": 258.883,
+    "duration": 1.437
+  },
+  {
+    "text": "So I just showed you\nwhat a single robogami can do.",
+    "start": 260.828,
+    "duration": 4.177
+  },
+  {
+    "text": "Imagine what they can do as a group.",
+    "start": 265.029,
+    "duration": 2.785
+  },
+  {
+    "text": "They can join forces to tackle\nmore complex tasks.",
+    "start": 267.838,
+    "duration": 4.022
+  },
+  {
+    "text": "Each module, either active or passive,",
+    "start": 271.884,
+    "duration": 3.162
+  },
+  {
+    "text": "we can assemble them\nto create different shapes.",
+    "start": 275.07,
+    "duration": 3.567
+  },
+  {
+    "text": "Not only that, by controlling\nthe folding joints,",
+    "start": 278.661,
+    "duration": 2.749
+  },
+  {
+    "text": "we're able to create and attack\ndifferent tasks.",
+    "start": 281.434,
+    "duration": 4.548
+  },
+  {
+    "text": "The form is making new task space.",
+    "start": 286.006,
+    "duration": 3.175
+  },
+  {
+    "text": "And this time, what's most\nimportant is the assembly.",
+    "start": 289.736,
+    "duration": 3.839
+  },
+  {
+    "text": "They need to autonomously\nfind each other in a different space,",
+    "start": 294.192,
+    "duration": 4.184
+  },
+  {
+    "text": "attach and detach, depending on\nthe environment and task.",
+    "start": 298.4,
+    "duration": 4.29
+  },
+  {
+    "text": "And we can do this now.",
+    "start": 303.616,
+    "duration": 2.059
+  },
+  {
+    "text": "So what's next?",
+    "start": 306.412,
+    "duration": 1.427
+  },
+  {
+    "text": "Our imagination.",
+    "start": 307.863,
+    "duration": 1.31
+  },
+  {
+    "text": "This is a simulation\nof what you can achieve",
+    "start": 309.704,
+    "duration": 2.401
+  },
+  {
+    "text": "with this type of module.",
+    "start": 312.129,
+    "duration": 1.657
+  },
+  {
+    "text": "We decided that we were going\nto have a four-legged crawler",
+    "start": 313.81,
+    "duration": 3.172
+  },
+  {
+    "text": "turn into a little dog\nand make small gaits.",
+    "start": 318.87,
+    "duration": 3.179
+  },
+  {
+    "text": "With the same module, we can actually\nmake it do something else:",
+    "start": 322.073,
+    "duration": 3.834
+  },
+  {
+    "text": "a manipulator, a typical,\nclassical robotic task.",
+    "start": 325.931,
+    "duration": 3.418
+  },
+  {
+    "text": "So with a manipulator,\nit can pick up an object.",
+    "start": 329.373,
+    "duration": 2.699
+  },
+  {
+    "text": "Of course, you can add more modules\nto make the manipulator legs longer",
+    "start": 332.096,
+    "duration": 4.044
+  },
+  {
+    "text": "to attack or pick up objects\nthat are bigger or smaller,",
+    "start": 336.164,
+    "duration": 3.723
+  },
+  {
+    "text": "or even have a third arm.",
+    "start": 339.911,
+    "duration": 1.766
+  },
+  {
+    "text": "For robogamis, there's no\none fixed shape nor task.",
+    "start": 343.545,
+    "duration": 4.361
+  },
+  {
+    "text": "They can transform into anything,\nanywhere, anytime.",
+    "start": 348.628,
+    "duration": 4.3
+  },
+  {
+    "text": "So how do you make them?",
+    "start": 354.408,
+    "duration": 2.676
+  },
+  {
+    "text": "The biggest technical challenge\nof robogami is keeping them super thin,",
+    "start": 357.108,
+    "duration": 5.317
+  },
+  {
+    "text": "flexible,",
+    "start": 362.449,
+    "duration": 1.151
+  },
+  {
+    "text": "but still remaining functional.",
+    "start": 363.624,
+    "duration": 2.214
+  },
+  {
+    "text": "They're composed of multiple layers\nof circuits, motors,",
+    "start": 366.562,
+    "duration": 3.812
+  },
+  {
+    "text": "microcontrollers and sensors,",
+    "start": 370.398,
+    "duration": 2.418
+  },
+  {
+    "text": "all in the single body,",
+    "start": 372.84,
+    "duration": 1.854
+  },
+  {
+    "text": "and when you control\nindividual folding joints,",
+    "start": 374.718,
+    "duration": 3.321
+  },
+  {
+    "text": "you'll be able to achieve\nsoft motions like that",
+    "start": 378.063,
+    "duration": 3.526
+  },
+  {
+    "text": "upon your command.",
+    "start": 381.613,
+    "duration": 1.48
+  },
+  {
+    "text": "Instead of being a single robot that is\nspecifically made for a single task,",
+    "start": 386.013,
+    "duration": 4.859
+  },
+  {
+    "text": "robogamis are optimized to do multi-tasks.",
+    "start": 390.896,
+    "duration": 3.895
+  },
+  {
+    "text": "And this is quite important",
+    "start": 395.366,
+    "duration": 1.757
+  },
+  {
+    "text": "for the difficult and unique\nenvironments on the Earth",
+    "start": 397.147,
+    "duration": 3.831
+  },
+  {
+    "text": "as well as in space.",
+    "start": 401.002,
+    "duration": 2.965
+  },
+  {
+    "text": "Space is a perfect\nenvironment for robogamis.",
+    "start": 405.782,
+    "duration": 3.174
+  },
+  {
+    "text": "You cannot afford to have\none robot for one task.",
+    "start": 409.673,
+    "duration": 4.133
+  },
+  {
+    "text": "Who knows how many tasks\nyou will encounter in space?",
+    "start": 414.966,
+    "duration": 3.336
+  },
+  {
+    "text": "What you want is a single robotic platform\nthat can transform to do multi-tasks.",
+    "start": 418.846,
+    "duration": 6.959
+  },
+  {
+    "text": "What we want is a deck\nof thin robogami modules",
+    "start": 427.188,
+    "duration": 5.112
+  },
+  {
+    "text": "that can transform to do multiples\nof performing tasks.",
+    "start": 432.324,
+    "duration": 4.371
+  },
+  {
+    "text": "And don't take my word for it,",
+    "start": 438.322,
+    "duration": 3.21
+  },
+  {
+    "text": "because the European Space Agency\nand Swiss Space Center",
+    "start": 441.556,
+    "duration": 3.036
+  },
+  {
+    "text": "are sponsoring this exact concept.",
+    "start": 444.616,
+    "duration": 2.26
+  },
+  {
+    "text": "So here you see a couple of images\nof reconfiguration of robogamis,",
+    "start": 447.562,
+    "duration": 5.045
+  },
+  {
+    "text": "exploring the foreign land\naboveground, on the surface,",
+    "start": 452.631,
+    "duration": 3.778
+  },
+  {
+    "text": "as well as digging into the surface.",
+    "start": 456.433,
+    "duration": 1.922
+  },
+  {
+    "text": "It's not just exploration.",
+    "start": 459.117,
+    "duration": 2.079
+  },
+  {
+    "text": "For astronauts, they need additional help,",
+    "start": 461.22,
+    "duration": 2.588
+  },
+  {
+    "text": "because you cannot afford\nto bring interns up there, either.",
+    "start": 463.832,
+    "duration": 2.834
+  },
+  {
+    "text": "(Laughter)",
+    "start": 466.69,
+    "duration": 1.182
+  },
+  {
+    "text": "They have to do every tedious task.",
+    "start": 468.357,
+    "duration": 2.881
+  },
+  {
+    "text": "They may be simple,",
+    "start": 471.262,
+    "duration": 1.218
+  },
+  {
+    "text": "but super interactive.",
+    "start": 472.504,
+    "duration": 1.611
+  },
+  {
+    "text": "So you need robots\nto facilitate their experiments,",
+    "start": 474.762,
+    "duration": 3.412
+  },
+  {
+    "text": "assisting them with the communications",
+    "start": 478.198,
+    "duration": 2.311
+  },
+  {
+    "text": "and just docking onto surfaces to be\ntheir third arm holding different tools.",
+    "start": 480.533,
+    "duration": 5.252
+  },
+  {
+    "text": "But how will they be able\nto control robogamis, for example,",
+    "start": 487.245,
+    "duration": 3.133
+  },
+  {
+    "text": "outside the space station?",
+    "start": 490.402,
+    "duration": 1.553
+  },
+  {
+    "text": "In this case, I show a robogami\nthat is holding space debris.",
+    "start": 491.979,
+    "duration": 4.037
+  },
+  {
+    "text": "You can work with your vision\nso that you can control them,",
+    "start": 496.04,
+    "duration": 3.604
+  },
+  {
+    "text": "but what would be better\nis having the sensation of touch",
+    "start": 499.668,
+    "duration": 4.462
+  },
+  {
+    "text": "directly transported onto\nthe hands of the astronauts.",
+    "start": 504.154,
+    "duration": 3.603
+  },
+  {
+    "text": "And what you need is a haptic device,",
+    "start": 508.248,
+    "duration": 2.423
+  },
+  {
+    "text": "a haptic interface that recreates\nthe sensation of touch.",
+    "start": 510.695,
+    "duration": 3.708
+  },
+  {
+    "text": "And using robogamis, we can do this.",
+    "start": 515.051,
+    "duration": 2.524
+  },
+  {
+    "text": "This is the world's\nsmallest haptic interface",
+    "start": 519.276,
+    "duration": 4.148
+  },
+  {
+    "text": "that can recreate a sensation of touch\njust underneath your fingertip.",
+    "start": 524.316,
+    "duration": 5.189
+  },
+  {
+    "text": "We do this by moving the robogami",
+    "start": 530.104,
+    "duration": 2.577
+  },
+  {
+    "text": "by microscopic and macroscopic\nmovements at the stage.",
+    "start": 532.705,
+    "duration": 4.511
+  },
+  {
+    "text": "And by having this, not only\nwill you be able to feel",
+    "start": 537.812,
+    "duration": 3.63
+  },
+  {
+    "text": "how big the object is,",
+    "start": 541.466,
+    "duration": 1.739
+  },
+  {
+    "text": "the roundness and the lines,",
+    "start": 543.229,
+    "duration": 2.886
+  },
+  {
+    "text": "but also the stiffness and the texture.",
+    "start": 546.139,
+    "duration": 3.563
+  },
+  {
+    "text": "Alex has this interface\njust underneath his thumb,",
+    "start": 551.019,
+    "duration": 3.989
+  },
+  {
+    "text": "and if he were to use this\nwith VR goggles and hand controllers,",
+    "start": 555.032,
+    "duration": 4.812
+  },
+  {
+    "text": "now the virtual reality\nis no longer virtual.",
+    "start": 559.868,
+    "duration": 3.629
+  },
+  {
+    "text": "It becomes a tangible reality.",
+    "start": 563.521,
+    "duration": 2.268
+  },
+  {
+    "text": "The blue ball, red ball\nand black ball that he's looking at",
+    "start": 568.529,
+    "duration": 3.687
+  },
+  {
+    "text": "is no longer differentiated by colors.",
+    "start": 572.24,
+    "duration": 2.466
+  },
+  {
+    "text": "Now it is a rubber blue ball,\nsponge red ball and billiard black ball.",
+    "start": 574.73,
+    "duration": 5.311
+  },
+  {
+    "text": "This is now possible.",
+    "start": 580.642,
+    "duration": 1.71
+  },
+  {
+    "text": "Let me show you.",
+    "start": 583.263,
+    "duration": 1.202
+  },
+  {
+    "text": "This is really the first time\nthis is shown live",
+    "start": 586.15,
+    "duration": 4.169
+  },
+  {
+    "text": "in front of a public grand audience,",
+    "start": 590.343,
+    "duration": 2.846
+  },
+  {
+    "text": "so hopefully this works.",
+    "start": 593.213,
+    "duration": 1.828
+  },
+  {
+    "text": "So what you see here\nis an atlas of anatomy",
+    "start": 595.668,
+    "duration": 4.301
+  },
+  {
+    "text": "and the robogami haptic interface.",
+    "start": 599.993,
+    "duration": 2.793
+  },
+  {
+    "text": "So, like all the other\nreconfigurable robots,",
+    "start": 602.81,
+    "duration": 2.545
+  },
+  {
+    "text": "it multitasks.",
+    "start": 605.379,
+    "duration": 1.175
+  },
+  {
+    "text": "Not only is it going to serve as a mouse,",
+    "start": 606.578,
+    "duration": 2.023
+  },
+  {
+    "text": "but also a haptic interface.",
+    "start": 608.625,
+    "duration": 2.365
+  },
+  {
+    "text": "So for example, we have a white background\nwhere there is no object.",
+    "start": 611.381,
+    "duration": 3.774
+  },
+  {
+    "text": "That means there is nothing to feel,",
+    "start": 615.179,
+    "duration": 2.052
+  },
+  {
+    "text": "so we can have a very,\nvery flexible interface.",
+    "start": 617.255,
+    "duration": 3.712
+  },
+  {
+    "text": "Now, I use this as a mouse\nto approach skin,",
+    "start": 621.352,
+    "duration": 3.152
+  },
+  {
+    "text": "a muscular arm,",
+    "start": 624.528,
+    "duration": 1.263
+  },
+  {
+    "text": "so now let's feel his biceps,",
+    "start": 625.815,
+    "duration": 2.016
+  },
+  {
+    "text": "or shoulders.",
+    "start": 627.855,
+    "duration": 1.488
+  },
+  {
+    "text": "So now you see\nhow much stiffer it becomes.",
+    "start": 629.367,
+    "duration": 3.01
+  },
+  {
+    "text": "Let's explore even more.",
+    "start": 632.401,
+    "duration": 1.371
+  },
+  {
+    "text": "Let's approach the ribcage.",
+    "start": 633.796,
+    "duration": 2.91
+  },
+  {
+    "text": "And as soon as I move\non top of the ribcage",
+    "start": 636.73,
+    "duration": 2.562
+  },
+  {
+    "text": "and between the intercostal muscles,",
+    "start": 639.316,
+    "duration": 2.285
+  },
+  {
+    "text": "which is softer and harder,",
+    "start": 641.625,
+    "duration": 1.549
+  },
+  {
+    "text": "I can feel the difference\nof the stiffness.",
+    "start": 643.198,
+    "duration": 2.236
+  },
+  {
+    "text": "Take my word for it.",
+    "start": 645.458,
+    "duration": 1.326
+  },
+  {
+    "text": "So now you see, it's much stiffer\nin terms of the force",
+    "start": 646.808,
+    "duration": 4.203
+  },
+  {
+    "text": "it's giving back to my fingertip.",
+    "start": 651.035,
+    "duration": 1.845
+  },
+  {
+    "text": "So I showed you the surfaces\nthat aren't moving.",
+    "start": 653.822,
+    "duration": 3.978
+  },
+  {
+    "text": "How about if I were to approach\nsomething that moves,",
+    "start": 657.824,
+    "duration": 3.553
+  },
+  {
+    "text": "for example, like a beating heart?",
+    "start": 661.401,
+    "duration": 2.067
+  },
+  {
+    "text": "What would I feel?",
+    "start": 663.492,
+    "duration": 1.395
+  },
+  {
+    "text": "(Applause)",
+    "start": 671.573,
+    "duration": 6.146
+  },
+  {
+    "text": "This can be your beating heart.",
+    "start": 679.158,
+    "duration": 2.293
+  },
+  {
+    "text": "This can actually be inside your pocket",
+    "start": 682.01,
+    "duration": 3.61
+  },
+  {
+    "text": "while you're shopping online.",
+    "start": 685.644,
+    "duration": 1.765
+  },
+  {
+    "text": "Now you'll be able to feel the difference\nof the sweater that you're buying,",
+    "start": 688.361,
+    "duration": 3.789
+  },
+  {
+    "text": "how soft it is,",
+    "start": 692.174,
+    "duration": 1.222
+  },
+  {
+    "text": "if it's actually cashmere or not,",
+    "start": 693.42,
+    "duration": 2.836
+  },
+  {
+    "text": "or the bagel that you're trying to buy,",
+    "start": 696.28,
+    "duration": 2.056
+  },
+  {
+    "text": "how hard it is or how crispy it is.",
+    "start": 698.36,
+    "duration": 3.068
+  },
+  {
+    "text": "This is now possible.",
+    "start": 702.229,
+    "duration": 1.736
+  },
+  {
+    "text": "The robotics technology is advancing\nto be more personalized and adaptive,",
+    "start": 706.774,
+    "duration": 5.812
+  },
+  {
+    "text": "to adapt to our everyday needs.",
+    "start": 712.61,
+    "duration": 3.104
+  },
+  {
+    "text": "This unique specie\nof reconfigurable robotics",
+    "start": 716.457,
+    "duration": 3.625
+  },
+  {
+    "text": "is actually the platform to provide\nthis invisible, intuitive interface",
+    "start": 720.106,
+    "duration": 5.978
+  },
+  {
+    "text": "to meet our exact needs.",
+    "start": 726.108,
+    "duration": 2.492
+  },
+  {
+    "text": "These robots will no longer look like\nthe characters from the movies.",
+    "start": 730.169,
+    "duration": 4.006
+  },
+  {
+    "text": "Instead, they will be whatever\nyou want them to be.",
+    "start": 734.843,
+    "duration": 3.848
+  },
+  {
+    "text": "Thank you.",
+    "start": 739.223,
+    "duration": 1.206
+  },
+  {
+    "text": "(Applause)",
+    "start": 740.453,
+    "duration": 3.598
+  }
+]

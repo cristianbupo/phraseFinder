@@ -1,0 +1,3517 @@
+[
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 0.0,
+    "duration": 2.88
+  },
+  {
+    "text": "ALISON BEARD: Welcome\nto the HBR IdeaCast",
+    "start": 10.532,
+    "duration": 1.708
+  },
+  {
+    "text": "from Harvard Business Review.",
+    "start": 12.24,
+    "duration": 1.26
+  },
+  {
+    "text": "I'm Alison Beard.",
+    "start": 13.5,
+    "duration": 1.29
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 14.79,
+    "duration": 2.808
+  },
+  {
+    "text": "When you come to work\neach day, it's usually",
+    "start": 21.81,
+    "duration": 1.86
+  },
+  {
+    "text": "with the best of intentions.",
+    "start": 23.67,
+    "duration": 1.5
+  },
+  {
+    "text": "You're going to fix that code,\nwrite that client proposal,",
+    "start": 25.17,
+    "duration": 2.67
+  },
+  {
+    "text": "finish those\nperformance reviews,",
+    "start": 27.84,
+    "duration": 1.77
+  },
+  {
+    "text": "flesh out those strategy goals.",
+    "start": 29.61,
+    "duration": 2.04
+  },
+  {
+    "text": "But then you get an email\nnotification, or a Slack",
+    "start": 31.65,
+    "duration": 2.97
+  },
+  {
+    "text": "message, or a call\nfrom a colleague.",
+    "start": 34.62,
+    "duration": 2.4
+  },
+  {
+    "text": "And suddenly, you've lost 30\nminutes or an hour dealing",
+    "start": 37.02,
+    "duration": 2.935
+  },
+  {
+    "text": "with something that was much\nless important than the work",
+    "start": 39.955,
+    "duration": 2.375
+  },
+  {
+    "text": "you planned to do.",
+    "start": 42.33,
+    "duration": 1.47
+  },
+  {
+    "text": "You've been distracted.",
+    "start": 43.8,
+    "duration": 1.56
+  },
+  {
+    "text": "This happens to so many\nof us so many times a day.",
+    "start": 45.36,
+    "duration": 3.72
+  },
+  {
+    "text": "And our guest is an\nexpert on this problem.",
+    "start": 49.08,
+    "duration": 2.88
+  },
+  {
+    "text": "Five years ago, he wrote\na book telling companies",
+    "start": 51.96,
+    "duration": 2.76
+  },
+  {
+    "text": "how to build habit-forming\nproducts, that is",
+    "start": 54.72,
+    "duration": 2.73
+  },
+  {
+    "text": "how to addict and distract us.",
+    "start": 57.45,
+    "duration": 2.64
+  },
+  {
+    "text": "In the years since,\nhe's been studying",
+    "start": 60.09,
+    "duration": 1.89
+  },
+  {
+    "text": "how people can break\nthose bad habits, not just",
+    "start": 61.98,
+    "duration": 3.0
+  },
+  {
+    "text": "with the devices we use,\nbut also in our own minds.",
+    "start": 64.98,
+    "duration": 3.12
+  },
+  {
+    "text": "He's here today to offer\nadvice for both individuals who",
+    "start": 68.1,
+    "duration": 2.97
+  },
+  {
+    "text": "want to be more\nfocused and managers",
+    "start": 71.07,
+    "duration": 2.25
+  },
+  {
+    "text": "who want to create less\ndistracted workplaces.",
+    "start": 73.32,
+    "duration": 3.09
+  },
+  {
+    "text": "Nir Eyal is the author of\nthe book Indestractable,",
+    "start": 76.41,
+    "duration": 2.94
+  },
+  {
+    "text": "How to Control Your Attention\nand Choose Your Life.",
+    "start": 79.35,
+    "duration": 2.58
+  },
+  {
+    "text": "Nir, welcome to the show.",
+    "start": 81.93,
+    "duration": 1.295
+  },
+  {
+    "text": "NIR EYAL: Thanks\nso much, Alison.",
+    "start": 83.225,
+    "duration": 1.375
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 84.6,
+    "duration": 2.898
+  },
+  {
+    "text": "ALISON BEARD: So you\nliterally did write the book",
+    "start": 93.79,
+    "duration": 2.6
+  },
+  {
+    "text": "on how companies\ncan develop phones,",
+    "start": 96.39,
+    "duration": 2.13
+  },
+  {
+    "text": "and apps, and websites\nthat capture our attention,",
+    "start": 98.52,
+    "duration": 2.97
+  },
+  {
+    "text": "sometimes in unproductive ways.",
+    "start": 101.49,
+    "duration": 3.15
+  },
+  {
+    "text": "Now you're telling\nus how to avoid",
+    "start": 104.64,
+    "duration": 1.65
+  },
+  {
+    "text": "getting distracted by them.",
+    "start": 106.29,
+    "duration": 1.47
+  },
+  {
+    "text": "Why the about face?",
+    "start": 107.76,
+    "duration": 1.872
+  },
+  {
+    "text": "NIR EYAL: Well, it's not\nreally an about face as much",
+    "start": 109.632,
+    "duration": 2.208
+  },
+  {
+    "text": "as it is an insight that I\nhave into both questions.",
+    "start": 111.84,
+    "duration": 5.1
+  },
+  {
+    "text": "Addiction is a very\ndifferent thing from a habit",
+    "start": 116.94,
+    "duration": 2.82
+  },
+  {
+    "text": "because whereas\naddictions are always bad,",
+    "start": 119.76,
+    "duration": 2.19
+  },
+  {
+    "text": "habits can be very good.",
+    "start": 121.95,
+    "duration": 2.08
+  },
+  {
+    "text": "And so what we want to do is\nto get the best of both worlds.",
+    "start": 124.03,
+    "duration": 2.58
+  },
+  {
+    "text": "We want to learn how to use\nhabit-forming technology",
+    "start": 126.61,
+    "duration": 2.27
+  },
+  {
+    "text": "to make our lives\nbetter, and we also",
+    "start": 128.88,
+    "duration": 2.49
+  },
+  {
+    "text": "want to be aware of how these\ntools are built to make sure",
+    "start": 131.37,
+    "duration": 2.73
+  },
+  {
+    "text": "that we don't go overboard.",
+    "start": 134.1,
+    "duration": 1.77
+  },
+  {
+    "text": "ALISON BEARD: So\ngetting distracted",
+    "start": 135.87,
+    "duration": 1.83
+  },
+  {
+    "text": "by those products that are\ndesigned to take us away",
+    "start": 137.7,
+    "duration": 4.65
+  },
+  {
+    "text": "from the most important\ntasks of the day",
+    "start": 142.35,
+    "duration": 3.48
+  },
+  {
+    "text": "and to something that's\nmore like entertainment",
+    "start": 145.83,
+    "duration": 2.13
+  },
+  {
+    "text": "or pleasure--",
+    "start": 147.96,
+    "duration": 2.16
+  },
+  {
+    "text": "that's a habit we can break?",
+    "start": 150.12,
+    "duration": 1.775
+  },
+  {
+    "text": "NIR EYAL: Yeah.",
+    "start": 151.895,
+    "duration": 0.625
+  },
+  {
+    "text": "And I would actually say\nthat those are the easy ones",
+    "start": 152.52,
+    "duration": 2.208
+  },
+  {
+    "text": "to break.",
+    "start": 154.728,
+    "duration": 0.912
+  },
+  {
+    "text": "It's pretty obvious if you're\nputzing around on YouTube",
+    "start": 155.64,
+    "duration": 2.907
+  },
+  {
+    "text": "or checking social media in the\nmiddle of your workday, that's",
+    "start": 158.547,
+    "duration": 2.583
+  },
+  {
+    "text": "probably not what most\nknowledge workers should",
+    "start": 161.13,
+    "duration": 1.71
+  },
+  {
+    "text": "be doing with their time.",
+    "start": 162.84,
+    "duration": 1.26
+  },
+  {
+    "text": "I think the much more\npernicious distractions",
+    "start": 164.1,
+    "duration": 2.07
+  },
+  {
+    "text": "are the ones that we don't even\nrealize we are falling prey to.",
+    "start": 166.17,
+    "duration": 3.42
+  },
+  {
+    "text": "For example, this would\nhappen to me all the time.",
+    "start": 169.59,
+    "duration": 2.1
+  },
+  {
+    "text": "I'd sit down at my\ndesk, and I'd say, OK,",
+    "start": 171.69,
+    "duration": 1.41
+  },
+  {
+    "text": "now I'm going to do that\nbig project, that thing I've",
+    "start": 173.1,
+    "duration": 1.89
+  },
+  {
+    "text": "been procrastinating, the thing\nthat I have been putting off",
+    "start": 174.99,
+    "duration": 2.37
+  },
+  {
+    "text": "day after day I'm finally\ngoing to sit down and do",
+    "start": 177.36,
+    "duration": 2.19
+  },
+  {
+    "text": "that project--",
+    "start": 179.55,
+    "duration": 2.13
+  },
+  {
+    "text": "right after I check email.",
+    "start": 181.68,
+    "duration": 1.68
+  },
+  {
+    "text": "And email feels worky.",
+    "start": 183.36,
+    "duration": 2.55
+  },
+  {
+    "text": "Isn't email productive?",
+    "start": 185.91,
+    "duration": 1.15
+  },
+  {
+    "text": "That's a work-type\nthing to do that you've",
+    "start": 187.06,
+    "duration": 2.0
+  },
+  {
+    "text": "got to get done anyway, right?",
+    "start": 189.06,
+    "duration": 1.36
+  },
+  {
+    "text": "Well, not really\nbecause if we only",
+    "start": 190.42,
+    "duration": 2.02
+  },
+  {
+    "text": "do the things that are urgent\nand we don't get to the things",
+    "start": 192.44,
+    "duration": 2.5
+  },
+  {
+    "text": "that are just as\nimportant but may require",
+    "start": 194.94,
+    "duration": 1.917
+  },
+  {
+    "text": "some longer-term planning, the\nthings that we keep putting off",
+    "start": 196.857,
+    "duration": 2.583
+  },
+  {
+    "text": "day after day, we don't get\nthe most important tasks done.",
+    "start": 199.44,
+    "duration": 3.1
+  },
+  {
+    "text": "And so my goal with\nwriting Indestractable",
+    "start": 202.54,
+    "duration": 2.09
+  },
+  {
+    "text": "was to help people turn\ntheir values into time.",
+    "start": 204.63,
+    "duration": 3.582
+  },
+  {
+    "text": "Most people will tell you\nthe opposite of distraction",
+    "start": 208.212,
+    "duration": 2.208
+  },
+  {
+    "text": "is focus.",
+    "start": 210.42,
+    "duration": 0.9
+  },
+  {
+    "text": "It is not focus.",
+    "start": 211.32,
+    "duration": 1.65
+  },
+  {
+    "text": "The opposite of\ndistraction is traction.",
+    "start": 212.97,
+    "duration": 3.6
+  },
+  {
+    "text": "So both words come from the\nsame Latin root, trahere,",
+    "start": 216.57,
+    "duration": 3.42
+  },
+  {
+    "text": "which means to pull.",
+    "start": 219.99,
+    "duration": 1.17
+  },
+  {
+    "text": "And both end in the\nsame six-letter word--",
+    "start": 221.16,
+    "duration": 2.37
+  },
+  {
+    "text": "A-C-T-I-O-N. That spells action.",
+    "start": 223.53,
+    "duration": 2.07
+  },
+  {
+    "text": "So traction is any\naction that pulls you",
+    "start": 225.6,
+    "duration": 3.51
+  },
+  {
+    "text": "towards what you want to\ndo with your time, things",
+    "start": 229.11,
+    "duration": 2.1
+  },
+  {
+    "text": "that you are doing with intent.",
+    "start": 231.21,
+    "duration": 1.56
+  },
+  {
+    "text": "So distraction is tricky, right?",
+    "start": 232.77,
+    "duration": 1.71
+  },
+  {
+    "text": "Distraction in the moment\nfeels like something we",
+    "start": 234.48,
+    "duration": 3.12
+  },
+  {
+    "text": "should be doing, even\nif it is not something",
+    "start": 237.6,
+    "duration": 1.903
+  },
+  {
+    "text": "we planned to do in advance.",
+    "start": 239.503,
+    "duration": 1.167
+  },
+  {
+    "text": "And so that's what I\nwant to help people do.",
+    "start": 240.67,
+    "duration": 1.13
+  },
+  {
+    "text": "Whatever it is you\nsay you want to do,",
+    "start": 241.8,
+    "duration": 1.8
+  },
+  {
+    "text": "whatever it is that's\nconsistent with your values,",
+    "start": 243.6,
+    "duration": 2.183
+  },
+  {
+    "text": "that's what I want\nto help you get done.",
+    "start": 245.783,
+    "duration": 1.667
+  },
+  {
+    "text": "ALISON BEARD: So it really\nall starts with planning.",
+    "start": 247.45,
+    "duration": 2.54
+  },
+  {
+    "text": "NIR EYAL: Well, that's\na big part of it.",
+    "start": 249.99,
+    "duration": 1.667
+  },
+  {
+    "text": "I actually would\ngo a step further.",
+    "start": 251.657,
+    "duration": 1.873
+  },
+  {
+    "text": "This question, by\nthe way, of why do we",
+    "start": 253.53,
+    "duration": 2.147
+  },
+  {
+    "text": "do things against\nour better interest,",
+    "start": 255.677,
+    "duration": 1.583
+  },
+  {
+    "text": "why do we get distracted?",
+    "start": 257.26,
+    "duration": 1.22
+  },
+  {
+    "text": "This is an age-old question.",
+    "start": 258.48,
+    "duration": 2.25
+  },
+  {
+    "text": "Socrates and Aristotle\ncalled it akrasia,",
+    "start": 260.73,
+    "duration": 2.335
+  },
+  {
+    "text": "this tendency that\nwe have to do things",
+    "start": 263.065,
+    "duration": 1.625
+  },
+  {
+    "text": "against our better interest.",
+    "start": 264.69,
+    "duration": 1.167
+  },
+  {
+    "text": "So literally, 2,500 years\nago, people were saying,",
+    "start": 265.857,
+    "duration": 2.443
+  },
+  {
+    "text": "gosh, isn't the world such a\ndistracting place these days?",
+    "start": 268.3,
+    "duration": 2.87
+  },
+  {
+    "text": "And the seat of\nhuman motivation--",
+    "start": 271.17,
+    "duration": 2.28
+  },
+  {
+    "text": "if you ask most people,\nwhy do we do what we do?",
+    "start": 273.45,
+    "duration": 2.43
+  },
+  {
+    "text": "What defines human motivation?",
+    "start": 275.88,
+    "duration": 2.32
+  },
+  {
+    "text": "You'll usually get some\nversion of carrots and sticks.",
+    "start": 278.2,
+    "duration": 3.19
+  },
+  {
+    "text": "This is called Freud's\nPleasure Principle,",
+    "start": 281.39,
+    "duration": 1.75
+  },
+  {
+    "text": "that everything we do is\nabout the pursuit of pleasure",
+    "start": 283.14,
+    "duration": 2.49
+  },
+  {
+    "text": "and the avoidance of pain.",
+    "start": 285.63,
+    "duration": 1.96
+  },
+  {
+    "text": "It turns out, neurologically\nspeaking, that's not true.",
+    "start": 287.59,
+    "duration": 3.59
+  },
+  {
+    "text": "That, in fact, everything we do\nis not motivated by the desire",
+    "start": 291.18,
+    "duration": 2.835
+  },
+  {
+    "text": "to pursue pleasure and\nthe avoidance of pain.",
+    "start": 294.015,
+    "duration": 1.875
+  },
+  {
+    "text": "But in fact, it's\npain all the way down.",
+    "start": 295.89,
+    "duration": 3.16
+  },
+  {
+    "text": "This is called the\nhomeostatic response,",
+    "start": 299.05,
+    "duration": 1.82
+  },
+  {
+    "text": "that any time that we feel\nsome kind of discomfort, that's",
+    "start": 300.87,
+    "duration": 5.22
+  },
+  {
+    "text": "how the brain prompts us\nto act to do something",
+    "start": 306.09,
+    "duration": 2.94
+  },
+  {
+    "text": "to fix that\nuncomfortable sensation.",
+    "start": 309.03,
+    "duration": 1.5
+  },
+  {
+    "text": "So physiologically,\nwe know this is true.",
+    "start": 310.53,
+    "duration": 2.55
+  },
+  {
+    "text": "So if you go outside and it's\ncold, you put on a jacket.",
+    "start": 313.08,
+    "duration": 3.63
+  },
+  {
+    "text": "If you go back inside and now\nit's too hot, you take it off.",
+    "start": 316.71,
+    "duration": 2.82
+  },
+  {
+    "text": "And psychologically, that's also\ntrue, that when we're lonely,",
+    "start": 319.53,
+    "duration": 4.71
+  },
+  {
+    "text": "we check Facebook.",
+    "start": 324.24,
+    "duration": 0.93
+  },
+  {
+    "text": "When we're uncertain, we Google.",
+    "start": 325.17,
+    "duration": 1.41
+  },
+  {
+    "text": "When we're bored, we check\nthe news, stock prices,",
+    "start": 326.58,
+    "duration": 2.56
+  },
+  {
+    "text": "sports scores, you name it.",
+    "start": 329.14,
+    "duration": 1.43
+  },
+  {
+    "text": "All of these tools\nfundamentally cater",
+    "start": 330.57,
+    "duration": 3.36
+  },
+  {
+    "text": "to an uncomfortable sensation.",
+    "start": 333.93,
+    "duration": 1.77
+  },
+  {
+    "text": "It's called an internal trigger.",
+    "start": 335.7,
+    "duration": 1.47
+  },
+  {
+    "text": "So that, actually, is\nthe very first step",
+    "start": 337.17,
+    "duration": 2.52
+  },
+  {
+    "text": "because if we acknowledge that\nall human behavior is driven",
+    "start": 339.69,
+    "duration": 4.47
+  },
+  {
+    "text": "by a desire to\nescape discomfort,",
+    "start": 344.16,
+    "duration": 2.25
+  },
+  {
+    "text": "what that means is that time\nmanagement is pain management.",
+    "start": 346.41,
+    "duration": 5.52
+  },
+  {
+    "text": "What's changed, what's different\nin the past several decades",
+    "start": 351.93,
+    "duration": 3.9
+  },
+  {
+    "text": "is that if it is\ndistraction that you seek,",
+    "start": 355.83,
+    "duration": 2.76
+  },
+  {
+    "text": "distraction you will find.",
+    "start": 358.59,
+    "duration": 1.41
+  },
+  {
+    "text": "It has become easier than\never to satisfy, to pacify",
+    "start": 360.0,
+    "duration": 3.81
+  },
+  {
+    "text": "those uncomfortable\nsensations because",
+    "start": 363.81,
+    "duration": 2.04
+  },
+  {
+    "text": "of the persuasive and\npervasive nature of technology.",
+    "start": 365.85,
+    "duration": 3.21
+  },
+  {
+    "text": "ALISON BEARD: You\ntalked about the idea",
+    "start": 369.06,
+    "duration": 2.94
+  },
+  {
+    "text": "of really understanding\nwhat you want to do",
+    "start": 372.0,
+    "duration": 2.85
+  },
+  {
+    "text": "and what you want\nto get accomplished.",
+    "start": 374.85,
+    "duration": 1.65
+  },
+  {
+    "text": "But I can know that the\nmost important thing for me",
+    "start": 376.5,
+    "duration": 3.72
+  },
+  {
+    "text": "to do today is edit\nan article but also,",
+    "start": 380.22,
+    "duration": 4.14
+  },
+  {
+    "text": "really not be able to\nhandle that boredom",
+    "start": 384.36,
+    "duration": 2.07
+  },
+  {
+    "text": "and also have five\nemails to respond to,",
+    "start": 386.43,
+    "duration": 2.67
+  },
+  {
+    "text": "and that's a way of ticking\nfive things off my checklist.",
+    "start": 389.1,
+    "duration": 3.64
+  },
+  {
+    "text": "How do I manage all\nof those struggles?",
+    "start": 392.74,
+    "duration": 1.68
+  },
+  {
+    "text": "How do I force myself\nto do the right thing?",
+    "start": 394.42,
+    "duration": 2.62
+  },
+  {
+    "text": "NIR EYAL: There are\nfour big pillars,",
+    "start": 397.04,
+    "duration": 1.55
+  },
+  {
+    "text": "four things that we can do\nto become indestractable.",
+    "start": 398.59,
+    "duration": 3.42
+  },
+  {
+    "text": "The first step has\nto be mastering",
+    "start": 402.01,
+    "duration": 2.22
+  },
+  {
+    "text": "those internal triggers, and\nwe can talk about how do we",
+    "start": 404.23,
+    "duration": 2.34
+  },
+  {
+    "text": "master those internal triggers.",
+    "start": 406.57,
+    "duration": 1.32
+  },
+  {
+    "text": "The second step is to\nmake time for traction.",
+    "start": 407.89,
+    "duration": 3.45
+  },
+  {
+    "text": "The third step is to hack\nback the external triggers.",
+    "start": 411.34,
+    "duration": 3.15
+  },
+  {
+    "text": "And finally, the fourth step\nis to prevent distraction",
+    "start": 414.49,
+    "duration": 2.67
+  },
+  {
+    "text": "with pacts.",
+    "start": 417.16,
+    "duration": 1.02
+  },
+  {
+    "text": "Most people fall\ninto these two camps.",
+    "start": 418.18,
+    "duration": 1.92
+  },
+  {
+    "text": "I call them blamers and shamers.",
+    "start": 420.1,
+    "duration": 1.98
+  },
+  {
+    "text": "The shamers tend\nto say, oh, it's",
+    "start": 422.08,
+    "duration": 2.4
+  },
+  {
+    "text": "the technology doing it to me.",
+    "start": 424.48,
+    "duration": 1.59
+  },
+  {
+    "text": "I'm being manipulated.",
+    "start": 426.07,
+    "duration": 1.56
+  },
+  {
+    "text": "My brain is being hijacked,\nand they blame the companies.",
+    "start": 427.63,
+    "duration": 3.03
+  },
+  {
+    "text": "The shamers think it's them.",
+    "start": 430.66,
+    "duration": 2.01
+  },
+  {
+    "text": "They say, oh, you see, I'm lazy.",
+    "start": 432.67,
+    "duration": 2.027
+  },
+  {
+    "text": "I have an addictive personality.",
+    "start": 434.697,
+    "duration": 1.333
+  },
+  {
+    "text": "I have a short attention span.",
+    "start": 436.03,
+    "duration": 1.18
+  },
+  {
+    "text": "And they shame themselves,\ntelling themselves there's",
+    "start": 437.21,
+    "duration": 1.97
+  },
+  {
+    "text": "something wrong with them.",
+    "start": 439.18,
+    "duration": 0.9
+  },
+  {
+    "text": "And it turns out,\nneither of those",
+    "start": 440.08,
+    "duration": 1.417
+  },
+  {
+    "text": "are correct, that these\nare simply behaviors,",
+    "start": 441.497,
+    "duration": 2.513
+  },
+  {
+    "text": "and behaviors can change if we\nimplement these four tactics.",
+    "start": 444.01,
+    "duration": 3.6
+  },
+  {
+    "text": "ALISON BEARD: How do we start\nto control those triggers?",
+    "start": 447.61,
+    "duration": 5.7
+  },
+  {
+    "text": "NIR EYAL: Yeah, yeah.",
+    "start": 453.31,
+    "duration": 1.08
+  },
+  {
+    "text": "So we start by recognizing that\nthese sensations are completely",
+    "start": 454.39,
+    "duration": 3.48
+  },
+  {
+    "text": "normal.",
+    "start": 457.87,
+    "duration": 1.08
+  },
+  {
+    "text": "In a workplace\nsetting, half the book",
+    "start": 458.95,
+    "duration": 2.79
+  },
+  {
+    "text": "is about things that you\nas an individual can do.",
+    "start": 461.74,
+    "duration": 3.24
+  },
+  {
+    "text": "But if you work\nin an environment",
+    "start": 464.98,
+    "duration": 1.83
+  },
+  {
+    "text": "where your boss demands that\nyou respond to every beck",
+    "start": 466.81,
+    "duration": 3.51
+  },
+  {
+    "text": "and call, nights and weekends,\nwell, you have to do that,",
+    "start": 470.32,
+    "duration": 3.66
+  },
+  {
+    "text": "or you lose your livelihood.",
+    "start": 473.98,
+    "duration": 1.638
+  },
+  {
+    "text": "And so what we want\nto do is to learn",
+    "start": 475.618,
+    "duration": 1.542
+  },
+  {
+    "text": "how to cope with those\nuncomfortable sensations",
+    "start": 477.16,
+    "duration": 2.25
+  },
+  {
+    "text": "in a way that leads us\ntowards traction as opposed",
+    "start": 479.41,
+    "duration": 2.85
+  },
+  {
+    "text": "to distraction.",
+    "start": 482.26,
+    "duration": 1.56
+  },
+  {
+    "text": "So there are three big tactics--",
+    "start": 483.82,
+    "duration": 2.49
+  },
+  {
+    "text": "reimagining the trigger,\nreimagining the task,",
+    "start": 486.31,
+    "duration": 3.48
+  },
+  {
+    "text": "and reimagining our temperament.",
+    "start": 489.79,
+    "duration": 2.13
+  },
+  {
+    "text": "And so one technique that\nI learned from acceptance",
+    "start": 491.92,
+    "duration": 2.34
+  },
+  {
+    "text": "and commitment therapy\nstarts by simply",
+    "start": 494.26,
+    "duration": 2.4
+  },
+  {
+    "text": "acknowledging the sensation.",
+    "start": 496.66,
+    "duration": 2.07
+  },
+  {
+    "text": "If you can capture the preceding\nemotion before the distraction,",
+    "start": 498.73,
+    "duration": 5.4
+  },
+  {
+    "text": "did you check your\nphone because you're",
+    "start": 504.13,
+    "duration": 2.04
+  },
+  {
+    "text": "feeling anxious, fearful,\nuncertain, fatigued, lonely?",
+    "start": 506.17,
+    "duration": 3.33
+  },
+  {
+    "text": "What was that\nunderlying sensation",
+    "start": 509.5,
+    "duration": 1.83
+  },
+  {
+    "text": "that you were turning\nto your device",
+    "start": 511.33,
+    "duration": 1.89
+  },
+  {
+    "text": "or some kind of distraction\nfor emotional pacification?",
+    "start": 513.22,
+    "duration": 3.06
+  },
+  {
+    "text": "And what I want you to do\nis to just write it down.",
+    "start": 516.28,
+    "duration": 2.16
+  },
+  {
+    "text": "Without judgment, just\nacknowledge that sensation.",
+    "start": 518.44,
+    "duration": 3.989
+  },
+  {
+    "text": "Then the next step is to feel\nthat sensation with curiosity",
+    "start": 522.429,
+    "duration": 4.051
+  },
+  {
+    "text": "instead of contempt.",
+    "start": 526.48,
+    "duration": 1.47
+  },
+  {
+    "text": "If you're anything like I\nwas, I would beat myself up",
+    "start": 527.95,
+    "duration": 2.79
+  },
+  {
+    "text": "whenever I got distracted.",
+    "start": 530.74,
+    "duration": 1.59
+  },
+  {
+    "text": "And many of us do this.",
+    "start": 532.33,
+    "duration": 0.99
+  },
+  {
+    "text": "We beat ourselves up.",
+    "start": 533.32,
+    "duration": 1.23
+  },
+  {
+    "text": "And that is not helpful.",
+    "start": 534.55,
+    "duration": 1.27
+  },
+  {
+    "text": "In fact, studies have shown\nthat this actually perpetuates",
+    "start": 535.82,
+    "duration": 2.48
+  },
+  {
+    "text": "the problem through rumination.",
+    "start": 538.3,
+    "duration": 1.56
+  },
+  {
+    "text": "What we want to do\ninstead is to get",
+    "start": 539.86,
+    "duration": 1.5
+  },
+  {
+    "text": "curious instead of\ncontemptuous with that feeling.",
+    "start": 541.36,
+    "duration": 2.79
+  },
+  {
+    "text": "ALISON BEARD: But playing this\nout in a workplace context,",
+    "start": 544.15,
+    "duration": 3.69
+  },
+  {
+    "text": "I'm not focusing on the most\nimportant thing I need to do.",
+    "start": 547.84,
+    "duration": 2.91
+  },
+  {
+    "text": "And I think to myself,\nwhy am I doing that?",
+    "start": 550.75,
+    "duration": 3.31
+  },
+  {
+    "text": "And if the answer is, I'm not\nreally interested in the work,",
+    "start": 554.06,
+    "duration": 4.1
+  },
+  {
+    "text": "or I don't feel up for\nthe work, how does that",
+    "start": 558.16,
+    "duration": 3.75
+  },
+  {
+    "text": "help you improve the situation?",
+    "start": 561.91,
+    "duration": 1.717
+  },
+  {
+    "text": "NIR EYAL: So that\nmight be a situation",
+    "start": 563.627,
+    "duration": 1.583
+  },
+  {
+    "text": "where you may have\nto ask yourself,",
+    "start": 565.21,
+    "duration": 1.26
+  },
+  {
+    "text": "if you look at yourself in the\nmirror enough times per day",
+    "start": 566.47,
+    "duration": 1.68
+  },
+  {
+    "text": "and say, I hate\nthis job, that might",
+    "start": 568.15,
+    "duration": 2.122
+  },
+  {
+    "text": "be something you want to fix.",
+    "start": 570.272,
+    "duration": 1.208
+  },
+  {
+    "text": "The first category-- fix\nthe source of the problem",
+    "start": 571.48,
+    "duration": 2.52
+  },
+  {
+    "text": "because these tactics\nare only so good.",
+    "start": 574.0,
+    "duration": 2.31
+  },
+  {
+    "text": "If fundamentally, you are\nmiserable in your job,",
+    "start": 576.31,
+    "duration": 2.4
+  },
+  {
+    "text": "in your relationship,\nin your home life,",
+    "start": 578.71,
+    "duration": 2.25
+  },
+  {
+    "text": "the problem isn't the phone.",
+    "start": 580.96,
+    "duration": 1.54
+  },
+  {
+    "text": "The problem isn't email.",
+    "start": 582.5,
+    "duration": 1.25
+  },
+  {
+    "text": "The problem is what's\ngoing on in your life.",
+    "start": 583.75,
+    "duration": 2.01
+  },
+  {
+    "text": "And so that might be\nsomewhere that you",
+    "start": 585.76,
+    "duration": 1.29
+  },
+  {
+    "text": "need a bit of\nintrospection to see, hey,",
+    "start": 587.05,
+    "duration": 1.75
+  },
+  {
+    "text": "is this job right for you?",
+    "start": 588.8,
+    "duration": 1.1
+  },
+  {
+    "text": "ALISON BEARD: To be clear, I\nwas speaking hypothetically,",
+    "start": 589.9,
+    "duration": 1.53
+  },
+  {
+    "text": "and I do really like my\njob and enjoy my work.",
+    "start": 591.43,
+    "duration": 1.02
+  },
+  {
+    "text": "NIR EYAL: Of course,\nof course, we all are.",
+    "start": 592.45,
+    "duration": 1.77
+  },
+  {
+    "text": "I don't want to get a\ncall from your boss.",
+    "start": 594.22,
+    "duration": 1.75
+  },
+  {
+    "text": "Yes, of course.",
+    "start": 595.97,
+    "duration": 0.92
+  },
+  {
+    "text": "But absolutely.",
+    "start": 596.89,
+    "duration": 1.14
+  },
+  {
+    "text": "So if, however, for most folks,\nwe say, yeah, my job is fine.",
+    "start": 598.03,
+    "duration": 3.01
+  },
+  {
+    "text": "I'm good.",
+    "start": 601.04,
+    "duration": 0.5
+  },
+  {
+    "text": "Home life is fine.",
+    "start": 601.54,
+    "duration": 1.02
+  },
+  {
+    "text": "But this one particular\nthing I have to do today",
+    "start": 602.56,
+    "duration": 2.61
+  },
+  {
+    "text": "is driving me up the wall.",
+    "start": 605.17,
+    "duration": 1.17
+  },
+  {
+    "text": "I don't really want to do it.",
+    "start": 606.34,
+    "duration": 1.51
+  },
+  {
+    "text": "And so this is where\nyou might implement",
+    "start": 607.85,
+    "duration": 1.34
+  },
+  {
+    "text": "one of these tactics\nof saying, wait.",
+    "start": 609.19,
+    "duration": 1.17
+  },
+  {
+    "text": "Why don't I want to do this?",
+    "start": 610.36,
+    "duration": 0.87
+  },
+  {
+    "text": "What is difficult about this?",
+    "start": 611.23,
+    "duration": 0.96
+  },
+  {
+    "text": "Is it boredom?",
+    "start": 612.19,
+    "duration": 0.69
+  },
+  {
+    "text": "Is it that it's fatiguing me?",
+    "start": 612.88,
+    "duration": 1.29
+  },
+  {
+    "text": "Is it that I'm not certain\nthat this is worth doing?",
+    "start": 614.17,
+    "duration": 3.12
+  },
+  {
+    "text": "And just writing\ndown that sensation,",
+    "start": 617.29,
+    "duration": 2.73
+  },
+  {
+    "text": "exploring that sensation\nwith curiosity,",
+    "start": 620.02,
+    "duration": 1.83
+  },
+  {
+    "text": "and then using this\nlast thing we want to do",
+    "start": 621.85,
+    "duration": 2.22
+  },
+  {
+    "text": "is call the 10-minute rule,\nwhere, literally, I will pick",
+    "start": 624.07,
+    "duration": 3.24
+  },
+  {
+    "text": "up my phone, and I\nwill say to my phone,",
+    "start": 627.31,
+    "duration": 1.667
+  },
+  {
+    "text": "set a timer for 10 minutes.",
+    "start": 628.977,
+    "duration": 1.125
+  },
+  {
+    "text": "I'll put the phone back down.",
+    "start": 630.102,
+    "duration": 1.228
+  },
+  {
+    "text": "And my job is to just\nsit with that sensation",
+    "start": 631.33,
+    "duration": 3.87
+  },
+  {
+    "text": "for a few minutes\nwith curiosity.",
+    "start": 635.2,
+    "duration": 1.86
+  },
+  {
+    "text": "And this is called surfing\nthe urge because what",
+    "start": 637.06,
+    "duration": 2.403
+  },
+  {
+    "text": "we know from acceptance\nand commitment therapy",
+    "start": 639.463,
+    "duration": 1.917
+  },
+  {
+    "text": "is that these sensations, these\nuncomfortable emotional states,",
+    "start": 641.38,
+    "duration": 2.82
+  },
+  {
+    "text": "they crest, and\nthen they subside",
+    "start": 644.2,
+    "duration": 2.04
+  },
+  {
+    "text": "much quicker than you think.",
+    "start": 646.24,
+    "duration": 1.66
+  },
+  {
+    "text": "And so in those 10 minutes,\nyou have two choices.",
+    "start": 647.9,
+    "duration": 2.07
+  },
+  {
+    "text": "You can either get back\nto the task at hand",
+    "start": 649.97,
+    "duration": 1.85
+  },
+  {
+    "text": "or sit with that sensation.",
+    "start": 651.82,
+    "duration": 2.07
+  },
+  {
+    "text": "At the end of those\n10 minutes, you",
+    "start": 653.89,
+    "duration": 1.74
+  },
+  {
+    "text": "can give in to whatever\nit is you want.",
+    "start": 655.63,
+    "duration": 2.34
+  },
+  {
+    "text": "This is not about abstinence.",
+    "start": 657.97,
+    "duration": 1.44
+  },
+  {
+    "text": "This is about acknowledging you\ncan do that thing that you want",
+    "start": 659.41,
+    "duration": 2.693
+  },
+  {
+    "text": "to do, whether it's eat the\npiece of chocolate cake,",
+    "start": 662.103,
+    "duration": 2.167
+  },
+  {
+    "text": "or check a Slack channel, or\ncheck email, or YouTube video.",
+    "start": 664.27,
+    "duration": 3.25
+  },
+  {
+    "text": "Whatever it is that\ntakes you off track,",
+    "start": 667.52,
+    "duration": 1.73
+  },
+  {
+    "text": "you can do it in 10 minutes.",
+    "start": 669.25,
+    "duration": 3.93
+  },
+  {
+    "text": "And you would be amazed\nhow just becoming",
+    "start": 673.18,
+    "duration": 1.92
+  },
+  {
+    "text": "conscious of those sensations\nfor just 10 minutes",
+    "start": 675.1,
+    "duration": 2.55
+  },
+  {
+    "text": "and surfing the urge,\nnine times out of 10,",
+    "start": 677.65,
+    "duration": 2.37
+  },
+  {
+    "text": "it will crest and subside.",
+    "start": 680.02,
+    "duration": 1.4
+  },
+  {
+    "text": "So that's one of the\nthree big techniques,",
+    "start": 681.42,
+    "duration": 1.75
+  },
+  {
+    "text": "reimagining the\ninternal trigger.",
+    "start": 683.17,
+    "duration": 1.23
+  },
+  {
+    "text": "We can also reimagine\nthe task, and we can also",
+    "start": 684.4,
+    "duration": 2.04
+  },
+  {
+    "text": "reimagine our temperament.",
+    "start": 686.44,
+    "duration": 3.15
+  },
+  {
+    "text": "ALISON BEARD: So now let's\ntalk about external triggers--",
+    "start": 689.59,
+    "duration": 3.15
+  },
+  {
+    "text": "the chatter in an open office,\na client calling unexpectedly,",
+    "start": 692.74,
+    "duration": 4.89
+  },
+  {
+    "text": "your boss emails you.",
+    "start": 697.63,
+    "duration": 2.16
+  },
+  {
+    "text": "How do you deal with that,\nespecially when some of them",
+    "start": 699.79,
+    "duration": 2.43
+  },
+  {
+    "text": "actually are urgent?",
+    "start": 702.22,
+    "duration": 1.26
+  },
+  {
+    "text": "They need to be\nanswered right away.",
+    "start": 703.48,
+    "duration": 1.5
+  },
+  {
+    "text": "NIR EYAL: Absolutely.",
+    "start": 704.98,
+    "duration": 0.875
+  },
+  {
+    "text": "Yeah, yeah, so the first\nstep is about mastering",
+    "start": 705.855,
+    "duration": 2.095
+  },
+  {
+    "text": "the internal triggers.",
+    "start": 707.95,
+    "duration": 1.06
+  },
+  {
+    "text": "There's one step\nwe skipped, which",
+    "start": 709.01,
+    "duration": 1.417
+  },
+  {
+    "text": "is about making\ntime for traction,",
+    "start": 710.427,
+    "duration": 1.463
+  },
+  {
+    "text": "which is about making what's\ncalled a time-boxed calendar.",
+    "start": 711.89,
+    "duration": 2.81
+  },
+  {
+    "text": "So assuming you have made\nthat time-box calendar--",
+    "start": 714.7,
+    "duration": 2.468
+  },
+  {
+    "text": "and we can walk into\nexactly how to do that",
+    "start": 717.168,
+    "duration": 1.792
+  },
+  {
+    "text": "and what we have to do\nto keep that useful, such",
+    "start": 718.96,
+    "duration": 2.462
+  },
+  {
+    "text": "as there's this\ntechnique called schedule",
+    "start": 721.422,
+    "duration": 1.708
+  },
+  {
+    "text": "syncing that we can\ndiscuss as well.",
+    "start": 723.13,
+    "duration": 1.568
+  },
+  {
+    "text": "Now what you're going\nto do is to make sure",
+    "start": 724.698,
+    "duration": 1.792
+  },
+  {
+    "text": "that you turn off the external\ntriggers that don't serve you.",
+    "start": 726.49,
+    "duration": 3.96
+  },
+  {
+    "text": "Remember, if an external\ntrigger prompts you to do",
+    "start": 730.45,
+    "duration": 2.52
+  },
+  {
+    "text": "something you wanted to do--",
+    "start": 732.97,
+    "duration": 2.1
+  },
+  {
+    "text": "let's say it's your\nalarm clock saying, OK,",
+    "start": 735.07,
+    "duration": 1.86
+  },
+  {
+    "text": "now it's time to get\nup and go to the gym,",
+    "start": 736.93,
+    "duration": 1.75
+  },
+  {
+    "text": "or a notification\nsaying, OK, it's",
+    "start": 738.68,
+    "duration": 2.06
+  },
+  {
+    "text": "time for that call\nor that meeting",
+    "start": 740.74,
+    "duration": 1.44
+  },
+  {
+    "text": "you had, well, these are very\nhelpful external triggers.",
+    "start": 742.18,
+    "duration": 2.58
+  },
+  {
+    "text": "The technologies are\nwonderful in that respect.",
+    "start": 744.76,
+    "duration": 2.1
+  },
+  {
+    "text": "They help us remember to do\nthe things we wanted to do.",
+    "start": 746.86,
+    "duration": 3.25
+  },
+  {
+    "text": "But if the external\ntrigger prompts",
+    "start": 750.11,
+    "duration": 2.09
+  },
+  {
+    "text": "you to do something\nyou didn't want to do,",
+    "start": 752.2,
+    "duration": 2.01
+  },
+  {
+    "text": "well, now it's a distraction.",
+    "start": 754.21,
+    "duration": 1.89
+  },
+  {
+    "text": "So the first step is to define,\nwhat is traction for you,",
+    "start": 756.1,
+    "duration": 3.12
+  },
+  {
+    "text": "and what is distraction for you?",
+    "start": 759.22,
+    "duration": 1.59
+  },
+  {
+    "text": "And it's about carving\nout that time in your day",
+    "start": 760.81,
+    "duration": 3.06
+  },
+  {
+    "text": "to make sure that you do\nthe things that you really",
+    "start": 763.87,
+    "duration": 2.73
+  },
+  {
+    "text": "want to do on your\nschedule as opposed",
+    "start": 766.6,
+    "duration": 2.82
+  },
+  {
+    "text": "to your boss's schedule, your\nkids' schedule, your spouse's",
+    "start": 769.42,
+    "duration": 2.97
+  },
+  {
+    "text": "schedule.",
+    "start": 772.39,
+    "duration": 0.66
+  },
+  {
+    "text": "So to do that, we have to hack\nback these external triggers.",
+    "start": 773.05,
+    "duration": 3.27
+  },
+  {
+    "text": "And I use the term hack back\nbecause in my first book,",
+    "start": 776.32,
+    "duration": 3.518
+  },
+  {
+    "text": "it was about how to build\nhabit-forming products.",
+    "start": 779.838,
+    "duration": 2.042
+  },
+  {
+    "text": "And there is no doubt\nthat these companies",
+    "start": 781.88,
+    "duration": 2.87
+  },
+  {
+    "text": "are using your psychology\nto hack your attention.",
+    "start": 784.75,
+    "duration": 4.23
+  },
+  {
+    "text": "However, that doesn't\nmean we can't hack back.",
+    "start": 788.98,
+    "duration": 2.19
+  },
+  {
+    "text": "And so I talk about,\nin my book, these eight",
+    "start": 791.17,
+    "duration": 2.25
+  },
+  {
+    "text": "different environments where we\nmight experience these pings,",
+    "start": 793.42,
+    "duration": 2.64
+  },
+  {
+    "text": "dings, and rings that\ntake us off track.",
+    "start": 796.06,
+    "duration": 1.86
+  },
+  {
+    "text": "And the obvious ones are\nour phones, our computers.",
+    "start": 797.92,
+    "duration": 3.45
+  },
+  {
+    "text": "But that's kindergarten stuff.",
+    "start": 801.37,
+    "duration": 1.38
+  },
+  {
+    "text": "That's actually very easy, even\nthough two thirds of Americans",
+    "start": 802.75,
+    "duration": 3.45
+  },
+  {
+    "text": "never changed their notification\nsettings on their smartphone.",
+    "start": 806.2,
+    "duration": 3.81
+  },
+  {
+    "text": "Two thirds of people never\nchange the notification.",
+    "start": 810.01,
+    "duration": 3.03
+  },
+  {
+    "text": "It drives me crazy.",
+    "start": 813.04,
+    "duration": 0.87
+  },
+  {
+    "text": "Take the 10 minutes,\nfor gods sakes,",
+    "start": 813.91,
+    "duration": 1.89
+  },
+  {
+    "text": "to change the notification\nsettings so that people can't",
+    "start": 815.8,
+    "duration": 3.328
+  },
+  {
+    "text": "just reach you\nwhenever they want to,",
+    "start": 819.128,
+    "duration": 1.542
+  },
+  {
+    "text": "so that you use these\nproducts on your schedule",
+    "start": 820.67,
+    "duration": 1.958
+  },
+  {
+    "text": "as opposed to the\napp maker's schedule.",
+    "start": 822.628,
+    "duration": 1.974
+  },
+  {
+    "text": "ALISON BEARD: I will tell\nyou that I tried to, today,",
+    "start": 824.602,
+    "duration": 2.208
+  },
+  {
+    "text": "set up an out-of-office\nreply on my email",
+    "start": 826.81,
+    "duration": 3.21
+  },
+  {
+    "text": "to say that I can't\nrespond to every pitch",
+    "start": 830.02,
+    "duration": 2.07
+  },
+  {
+    "text": "for an article or an idea.",
+    "start": 832.09,
+    "duration": 1.913
+  },
+  {
+    "text": "But then I felt\nit was going to be",
+    "start": 834.003,
+    "duration": 1.417
+  },
+  {
+    "text": "rude for the people who I was\nactually wanting to email with.",
+    "start": 835.42,
+    "duration": 2.95
+  },
+  {
+    "text": "And so I abandoned the pursuit.",
+    "start": 838.37,
+    "duration": 2.66
+  },
+  {
+    "text": "NIR EYAL: OK.",
+    "start": 841.03,
+    "duration": 0.812
+  },
+  {
+    "text": "So there's a few--\nlet's dive into email.",
+    "start": 841.842,
+    "duration": 1.708
+  },
+  {
+    "text": "So it's interesting\nthat you mentioned",
+    "start": 843.55,
+    "duration": 1.583
+  },
+  {
+    "text": "as soon as you said you\nimplemented this technique,",
+    "start": 845.133,
+    "duration": 3.157
+  },
+  {
+    "text": "you immediately followed\nup with a feeling.",
+    "start": 848.29,
+    "duration": 2.22
+  },
+  {
+    "text": "So email is the mother of\nhabit-forming technology",
+    "start": 850.51,
+    "duration": 2.34
+  },
+  {
+    "text": "because it uses all of these\nquirky psychological biases",
+    "start": 852.85,
+    "duration": 4.86
+  },
+  {
+    "text": "that we have, like this idea\nthat we want to reciprocate.",
+    "start": 857.71,
+    "duration": 3.45
+  },
+  {
+    "text": "If someone puts out their\nhand to shake your hand,",
+    "start": 861.16,
+    "duration": 2.083
+  },
+  {
+    "text": "you feel compelled to shake\nit without even thinking,",
+    "start": 863.243,
+    "duration": 2.209
+  },
+  {
+    "text": "just out of habit.",
+    "start": 865.452,
+    "duration": 0.848
+  },
+  {
+    "text": "And so we have\nthat same sensation",
+    "start": 866.3,
+    "duration": 2.3
+  },
+  {
+    "text": "when it comes to email with\nthis asynchronous communication",
+    "start": 868.6,
+    "duration": 2.46
+  },
+  {
+    "text": "channel.",
+    "start": 871.06,
+    "duration": 0.39
+  },
+  {
+    "text": "When someone sends\nyou an email, you",
+    "start": 871.45,
+    "duration": 1.5
+  },
+  {
+    "text": "feel like you need\nto reply to it.",
+    "start": 872.95,
+    "duration": 1.75
+  },
+  {
+    "text": "But do you?",
+    "start": 874.7,
+    "duration": 1.07
+  },
+  {
+    "text": "The fact is, someone\nas busy as you",
+    "start": 875.77,
+    "duration": 1.71
+  },
+  {
+    "text": "doesn't need to reply\nto every single person.",
+    "start": 877.48,
+    "duration": 2.01
+  },
+  {
+    "text": "The person who\ndoesn't get the reply",
+    "start": 879.49,
+    "duration": 1.5
+  },
+  {
+    "text": "will be perfectly all right.",
+    "start": 880.99,
+    "duration": 2.16
+  },
+  {
+    "text": "ALISON BEARD: So you've\nreferenced time boxing a lot.",
+    "start": 883.15,
+    "duration": 2.52
+  },
+  {
+    "text": "And that is something that I've\nheard before from other people",
+    "start": 885.67,
+    "duration": 3.81
+  },
+  {
+    "text": "advising on time management.",
+    "start": 889.48,
+    "duration": 1.68
+  },
+  {
+    "text": "Schedule syncing was\na new idea to me.",
+    "start": 891.16,
+    "duration": 3.49
+  },
+  {
+    "text": "So explain that\nfor our listeners",
+    "start": 894.65,
+    "duration": 2.09
+  },
+  {
+    "text": "and how one might do it,\nboth at work and at home.",
+    "start": 896.74,
+    "duration": 3.9
+  },
+  {
+    "text": "NIR EYAL: The process starts\nby realizing that to do lists",
+    "start": 900.64,
+    "duration": 2.79
+  },
+  {
+    "text": "are not good enough, that we've\nheard that to be productive,",
+    "start": 903.43,
+    "duration": 3.838
+  },
+  {
+    "text": "you have to write a to do list.",
+    "start": 907.268,
+    "duration": 1.292
+  },
+  {
+    "text": "Write everything\ndown, and somehow",
+    "start": 908.56,
+    "duration": 2.04
+  },
+  {
+    "text": "they magically get done.",
+    "start": 910.6,
+    "duration": 1.77
+  },
+  {
+    "text": "When?",
+    "start": 912.37,
+    "duration": 1.2
+  },
+  {
+    "text": "I don't know.",
+    "start": 913.57,
+    "duration": 2.315
+  },
+  {
+    "text": "What I used to do\nday, after day,",
+    "start": 915.885,
+    "duration": 1.375
+  },
+  {
+    "text": "after day was half my to\ndo list would not get done.",
+    "start": 917.26,
+    "duration": 2.43
+  },
+  {
+    "text": "It would get moved\nover and recycled",
+    "start": 919.69,
+    "duration": 1.5
+  },
+  {
+    "text": "to the next day, and the\nnext day, and the next day.",
+    "start": 921.19,
+    "duration": 1.86
+  },
+  {
+    "text": "And you've heard that\nquote that insanity",
+    "start": 923.05,
+    "duration": 1.98
+  },
+  {
+    "text": "is defined as doing the\nsame thing day after day",
+    "start": 925.03,
+    "duration": 1.71
+  },
+  {
+    "text": "and expecting different results.",
+    "start": 926.74,
+    "duration": 1.333
+  },
+  {
+    "text": "This was insane.",
+    "start": 928.073,
+    "duration": 1.487
+  },
+  {
+    "text": "I mean, I did this for years.",
+    "start": 929.56,
+    "duration": 1.8
+  },
+  {
+    "text": "And what I didn't\nrealize is that your",
+    "start": 931.36,
+    "duration": 1.74
+  },
+  {
+    "text": "to do list is the output.",
+    "start": 933.1,
+    "duration": 2.94
+  },
+  {
+    "text": "That's what you want to do.",
+    "start": 936.04,
+    "duration": 1.53
+  },
+  {
+    "text": "But having output without\ninput makes no sense.",
+    "start": 937.57,
+    "duration": 2.85
+  },
+  {
+    "text": "What is the input?",
+    "start": 940.42,
+    "duration": 0.87
+  },
+  {
+    "text": "For a knowledge worker,\nour input is time.",
+    "start": 941.29,
+    "duration": 3.25
+  },
+  {
+    "text": "So that means that\nwe need to budget",
+    "start": 944.54,
+    "duration": 2.15
+  },
+  {
+    "text": "for when we want to do\neverything on our to do list,",
+    "start": 946.69,
+    "duration": 3.27
+  },
+  {
+    "text": "that putting it on our to\ndo list is just step 1.",
+    "start": 949.96,
+    "duration": 2.35
+  },
+  {
+    "text": "The next step has to be, when\nare you going to do that task?",
+    "start": 952.31,
+    "duration": 2.82
+  },
+  {
+    "text": "Now, once you've done that, this\nbecomes a very, very powerful",
+    "start": 955.13,
+    "duration": 4.13
+  },
+  {
+    "text": "tool because then we can do\nwhat's called schedule syncing.",
+    "start": 959.26,
+    "duration": 2.85
+  },
+  {
+    "text": "Once you have a\ntime box calendar,",
+    "start": 962.11,
+    "duration": 1.93
+  },
+  {
+    "text": "they can take that calendar to\ntheir boss and say, hey, look.",
+    "start": 964.04,
+    "duration": 4.07
+  },
+  {
+    "text": "Here's what I have.",
+    "start": 968.11,
+    "duration": 1.272
+  },
+  {
+    "text": "Here's what I'm\ndoing with my week.",
+    "start": 969.382,
+    "duration": 1.458
+  },
+  {
+    "text": "How does this look?",
+    "start": 970.84,
+    "duration": 1.363
+  },
+  {
+    "text": "So it looks all right.",
+    "start": 972.203,
+    "duration": 0.917
+  },
+  {
+    "text": "My priorities are correct.",
+    "start": 973.12,
+    "duration": 1.083
+  },
+  {
+    "text": "By the way, you also asked me\nto do these six other things.",
+    "start": 974.203,
+    "duration": 2.727
+  },
+  {
+    "text": "Now, my schedule's full.",
+    "start": 976.93,
+    "duration": 1.62
+  },
+  {
+    "text": "Which one should I swap out?",
+    "start": 978.55,
+    "duration": 1.83
+  },
+  {
+    "text": "What is more of a priority?",
+    "start": 980.38,
+    "duration": 1.69
+  },
+  {
+    "text": "This is a life-changing\npractice because most managers",
+    "start": 982.07,
+    "duration": 3.32
+  },
+  {
+    "text": "and employees have accepted this\ncrazy relationship that we have",
+    "start": 985.39,
+    "duration": 3.51
+  },
+  {
+    "text": "where we just lob work\nover to each other and say,",
+    "start": 988.9,
+    "duration": 2.69
+  },
+  {
+    "text": "do this, do this, to this\nwith no appreciation for,",
+    "start": 991.59,
+    "duration": 2.57
+  },
+  {
+    "text": "is there time to\ndo these things?",
+    "start": 994.16,
+    "duration": 2.14
+  },
+  {
+    "text": "And it frees up your time for\nthe other areas of your life.",
+    "start": 996.3,
+    "duration": 4.31
+  },
+  {
+    "text": "It's not fair that if\nwe don't finish work",
+    "start": 1000.61,
+    "duration": 2.28
+  },
+  {
+    "text": "at work that the\ndefault is, well,",
+    "start": 1002.89,
+    "duration": 1.793
+  },
+  {
+    "text": "it has to come home with\nus for nights and weekends.",
+    "start": 1004.683,
+    "duration": 2.167
+  },
+  {
+    "text": "That's not fair.",
+    "start": 1006.85,
+    "duration": 0.78
+  },
+  {
+    "text": "We enter into a trust pact\nwith our employer that we say,",
+    "start": 1007.63,
+    "duration": 3.3
+  },
+  {
+    "text": "we will give you\nx amount of hours,",
+    "start": 1010.93,
+    "duration": 1.5
+  },
+  {
+    "text": "and the employee expects\nx amount of hours",
+    "start": 1012.43,
+    "duration": 2.88
+  },
+  {
+    "text": "for a certain amount of pay.",
+    "start": 1015.31,
+    "duration": 2.83
+  },
+  {
+    "text": "But if our work keeps\nexpanding outside of work,",
+    "start": 1018.14,
+    "duration": 3.98
+  },
+  {
+    "text": "and we're not getting\ncompensated for that.",
+    "start": 1022.12,
+    "duration": 1.84
+  },
+  {
+    "text": "And so, of course, there are\nsome professions where you just",
+    "start": 1023.96,
+    "duration": 1.85
+  },
+  {
+    "text": "have to expect that.",
+    "start": 1025.81,
+    "duration": 1.2
+  },
+  {
+    "text": "If you're going to\nwork at a startup,",
+    "start": 1027.01,
+    "duration": 1.079
+  },
+  {
+    "text": "if you're going to\nwork on Wall Street,",
+    "start": 1028.089,
+    "duration": 1.171
+  },
+  {
+    "text": "you know what you're\nsigning up for.",
+    "start": 1029.26,
+    "duration": 1.74
+  },
+  {
+    "text": "You're signing up for\n60, 80-hour weeks.",
+    "start": 1031.0,
+    "duration": 2.16
+  },
+  {
+    "text": "That's totally fine.",
+    "start": 1033.16,
+    "duration": 1.11
+  },
+  {
+    "text": "If that's part of your\nvalue system, go for it.",
+    "start": 1034.27,
+    "duration": 2.4
+  },
+  {
+    "text": "It's these other jobs\nwhere people say, yeah,",
+    "start": 1036.67,
+    "duration": 1.89
+  },
+  {
+    "text": "this is a 40-hour a\nweek workplace when",
+    "start": 1038.56,
+    "duration": 2.61
+  },
+  {
+    "text": "it's not because so much work\nis happening outside of work.",
+    "start": 1041.17,
+    "duration": 3.54
+  },
+  {
+    "text": "That is a lie.",
+    "start": 1044.71,
+    "duration": 1.109
+  },
+  {
+    "text": "And that, we can end.",
+    "start": 1045.819,
+    "duration": 1.29
+  },
+  {
+    "text": "We can clarify by having\nthis schedule syncing",
+    "start": 1047.109,
+    "duration": 2.851
+  },
+  {
+    "text": "on a weekly basis.",
+    "start": 1049.96,
+    "duration": 1.317
+  },
+  {
+    "text": "ALISON BEARD: Well, one\nthing that struck me",
+    "start": 1051.277,
+    "duration": 1.833
+  },
+  {
+    "text": "as I was reading the\nbook and starting",
+    "start": 1053.11,
+    "duration": 2.43
+  },
+  {
+    "text": "to think about this topic\nis that we struggle so much",
+    "start": 1055.54,
+    "duration": 2.43
+  },
+  {
+    "text": "with being distracted at work.",
+    "start": 1057.97,
+    "duration": 1.9
+  },
+  {
+    "text": "But then when we\nleave the office,",
+    "start": 1059.87,
+    "duration": 1.53
+  },
+  {
+    "text": "we're also distracted by work.",
+    "start": 1061.4,
+    "duration": 1.85
+  },
+  {
+    "text": "So it's almost like we're just\nnot doing the right things",
+    "start": 1063.25,
+    "duration": 2.61
+  },
+  {
+    "text": "at the right time.",
+    "start": 1065.86,
+    "duration": 1.14
+  },
+  {
+    "text": "When you have all of those\ncompeting demands, probably",
+    "start": 1067.0,
+    "duration": 3.54
+  },
+  {
+    "text": "which add up to more\nthan 24 hours a day,",
+    "start": 1070.54,
+    "duration": 2.08
+  },
+  {
+    "text": "how do you prioritize?",
+    "start": 1072.62,
+    "duration": 1.92
+  },
+  {
+    "text": "NIR EYAL: So it starts\nwith our values.",
+    "start": 1074.54,
+    "duration": 1.91
+  },
+  {
+    "text": "Values are the attributes of\nthe person we want to become.",
+    "start": 1076.45,
+    "duration": 3.707
+  },
+  {
+    "text": "I'm patient zero, by the\nway, with all this stuff.",
+    "start": 1080.157,
+    "duration": 2.083
+  },
+  {
+    "text": "I didn't write this book because\nI have good self-control.",
+    "start": 1082.24,
+    "duration": 2.04
+  },
+  {
+    "text": "Quite the opposite.",
+    "start": 1084.28,
+    "duration": 0.54
+  },
+  {
+    "text": "I wrote this book because I\nneed to have good self-control,",
+    "start": 1084.82,
+    "duration": 2.31
+  },
+  {
+    "text": "and I've always struggled\nwith distraction",
+    "start": 1087.13,
+    "duration": 1.75
+  },
+  {
+    "text": "until I did this research\nover the past five years.",
+    "start": 1088.88,
+    "duration": 2.88
+  },
+  {
+    "text": "So if you asked folks, myself\nincluded, what do you value?",
+    "start": 1091.76,
+    "duration": 3.378
+  },
+  {
+    "text": "What's important to\nyou in your life?",
+    "start": 1095.138,
+    "duration": 1.542
+  },
+  {
+    "text": "Well, I would tell you, my\nfamily, my friends, my health.",
+    "start": 1096.68,
+    "duration": 4.91
+  },
+  {
+    "text": "Those things are\nimportant to me.",
+    "start": 1101.59,
+    "duration": 1.655
+  },
+  {
+    "text": "But if you looked\nat my calendar,",
+    "start": 1103.245,
+    "duration": 1.375
+  },
+  {
+    "text": "you would say, well, where\nis the time for that?",
+    "start": 1104.62,
+    "duration": 2.44
+  },
+  {
+    "text": "And so that's why this process\nmust start with our values",
+    "start": 1107.06,
+    "duration": 2.81
+  },
+  {
+    "text": "starting from us.",
+    "start": 1109.87,
+    "duration": 1.162
+  },
+  {
+    "text": "If we don't take\ncare of ourselves,",
+    "start": 1111.032,
+    "duration": 1.458
+  },
+  {
+    "text": "we can't take care of others.",
+    "start": 1112.49,
+    "duration": 1.208
+  },
+  {
+    "text": "We can't do our best work.",
+    "start": 1113.698,
+    "duration": 1.083
+  },
+  {
+    "text": "The first step is to\nlook at your calendar,",
+    "start": 1114.781,
+    "duration": 1.792
+  },
+  {
+    "text": "look at that blank slate,\nand to ask yourself,",
+    "start": 1116.573,
+    "duration": 1.967
+  },
+  {
+    "text": "how much time do I need\nto take care of myself,",
+    "start": 1118.54,
+    "duration": 2.73
+  },
+  {
+    "text": "to have sufficient sleep, to\ncook healthy meals if that's",
+    "start": 1121.27,
+    "duration": 4.08
+  },
+  {
+    "text": "important to you?",
+    "start": 1125.35,
+    "duration": 0.913
+  },
+  {
+    "text": "We also want to make time for\nthe practicalities of life--",
+    "start": 1126.263,
+    "duration": 2.417
+  },
+  {
+    "text": "commuting and all the\nthings that take up our day.",
+    "start": 1128.68,
+    "duration": 2.49
+  },
+  {
+    "text": "Then, we want to layer in\nthe time for relationships.",
+    "start": 1131.17,
+    "duration": 2.49
+  },
+  {
+    "text": "We all say that relationships\nwith friends and family",
+    "start": 1133.66,
+    "duration": 2.46
+  },
+  {
+    "text": "is important, but where is\nthat time on our calendar?",
+    "start": 1136.12,
+    "duration": 2.82
+  },
+  {
+    "text": "Then finally, we want to\ndo the work domain, where",
+    "start": 1138.94,
+    "duration": 2.532
+  },
+  {
+    "text": "not only do we want\nto make sure we",
+    "start": 1141.472,
+    "duration": 1.458
+  },
+  {
+    "text": "have time for the reactive\ntasks, like messages and emails",
+    "start": 1142.93,
+    "duration": 4.025
+  },
+  {
+    "text": "and things like that.",
+    "start": 1146.955,
+    "duration": 0.875
+  },
+  {
+    "text": "We also have to make time\nfor the reflective work",
+    "start": 1147.83,
+    "duration": 2.15
+  },
+  {
+    "text": "that we know that it's very\ndifficult for our knowledge",
+    "start": 1149.98,
+    "duration": 2.46
+  },
+  {
+    "text": "worker to progress their career\nunless they have time to think.",
+    "start": 1152.44,
+    "duration": 4.38
+  },
+  {
+    "text": "If our output as\nknowledge workers",
+    "start": 1156.82,
+    "duration": 2.31
+  },
+  {
+    "text": "is coming up with creative\nsolutions to hard problems,",
+    "start": 1159.13,
+    "duration": 2.88
+  },
+  {
+    "text": "you can't do that fluttering\nbetween emails and meetings",
+    "start": 1162.01,
+    "duration": 3.3
+  },
+  {
+    "text": "all day.",
+    "start": 1165.31,
+    "duration": 0.6
+  },
+  {
+    "text": "We all only have\n24 hours per day.",
+    "start": 1165.91,
+    "duration": 2.4
+  },
+  {
+    "text": "But what this forces us\nto do is to figure out",
+    "start": 1168.31,
+    "duration": 3.03
+  },
+  {
+    "text": "which of our values\ncompete with each other.",
+    "start": 1171.34,
+    "duration": 2.04
+  },
+  {
+    "text": "Just to be clear,\nyou can schedule",
+    "start": 1173.38,
+    "duration": 1.86
+  },
+  {
+    "text": "time for whatever you want.",
+    "start": 1175.24,
+    "duration": 1.95
+  },
+  {
+    "text": "ALISON BEARD: For bigger-picture\ngoals, a larger, more holistic",
+    "start": 1177.19,
+    "duration": 4.56
+  },
+  {
+    "text": "time management, you talk about\nmaking pacts with yourself",
+    "start": 1181.75,
+    "duration": 4.23
+  },
+  {
+    "text": "and with others, in fact.",
+    "start": 1185.98,
+    "duration": 1.66
+  },
+  {
+    "text": "What are those kinds of pacts",
+    "start": 1187.64,
+    "duration": 2.215
+  },
+  {
+    "text": "NIR EYAL: Sure.",
+    "start": 1189.855,
+    "duration": 0.625
+  },
+  {
+    "text": "So this is the last\ntechnique out of the four.",
+    "start": 1190.48,
+    "duration": 2.3
+  },
+  {
+    "text": "So after we've mastered\ninternal triggers,",
+    "start": 1192.78,
+    "duration": 1.75
+  },
+  {
+    "text": "after we've made\ntime for traction,",
+    "start": 1194.53,
+    "duration": 1.68
+  },
+  {
+    "text": "after we've hacked back\nthe external triggers--",
+    "start": 1196.21,
+    "duration": 1.997
+  },
+  {
+    "text": "and by the way, I'm giving\nyou the 30,000-foot overview.",
+    "start": 1198.207,
+    "duration": 2.333
+  },
+  {
+    "text": "There's a lot more\nlittle tactics",
+    "start": 1200.54,
+    "duration": 1.16
+  },
+  {
+    "text": "here that we didn't\nget time for.",
+    "start": 1201.7,
+    "duration": 1.375
+  },
+  {
+    "text": "But the last of the\nfour big strategies",
+    "start": 1203.075,
+    "duration": 2.825
+  },
+  {
+    "text": "here is to prevent\ndistraction with pacts.",
+    "start": 1205.9,
+    "duration": 3.99
+  },
+  {
+    "text": "And pacts are a at least\n2,500-year-old technique.",
+    "start": 1209.89,
+    "duration": 4.39
+  },
+  {
+    "text": "The first recorded use of a\npre-commitment, of a pact,",
+    "start": 1214.28,
+    "duration": 4.34
+  },
+  {
+    "text": "comes to us from the story of\nUlysses, the story by Homer",
+    "start": 1218.62,
+    "duration": 5.07
+  },
+  {
+    "text": "over 2,500 years ago.",
+    "start": 1223.69,
+    "duration": 1.44
+  },
+  {
+    "text": "And the idea is basically\nthat you pre-commit",
+    "start": 1225.13,
+    "duration": 2.94
+  },
+  {
+    "text": "to do something now\nso that you don't",
+    "start": 1228.07,
+    "duration": 3.09
+  },
+  {
+    "text": "get distracted in the future.",
+    "start": 1231.16,
+    "duration": 2.05
+  },
+  {
+    "text": "So if you think about how\nwe set up 401(k) account,",
+    "start": 1233.21,
+    "duration": 2.96
+  },
+  {
+    "text": "a retirement account\nwith stiff penalties",
+    "start": 1236.17,
+    "duration": 2.13
+  },
+  {
+    "text": "if you withdraw\nyour money early.",
+    "start": 1238.3,
+    "duration": 1.95
+  },
+  {
+    "text": "That's a form of\na pre-commitment.",
+    "start": 1240.25,
+    "duration": 2.19
+  },
+  {
+    "text": "If you think about\nan effort pact,",
+    "start": 1242.44,
+    "duration": 1.505
+  },
+  {
+    "text": "an effort pact\nmight be something",
+    "start": 1243.945,
+    "duration": 1.375
+  },
+  {
+    "text": "that puts a bit of\nfriction between you",
+    "start": 1245.32,
+    "duration": 2.272
+  },
+  {
+    "text": "and the thing you\ndon't want to do.",
+    "start": 1247.592,
+    "duration": 1.458
+  },
+  {
+    "text": "So in my household, we found\nthat my wife and I were not",
+    "start": 1249.05,
+    "duration": 3.35
+  },
+  {
+    "text": "going to bed on time.",
+    "start": 1252.4,
+    "duration": 1.17
+  },
+  {
+    "text": "Night after night, we would\nnot get to bed on time",
+    "start": 1253.57,
+    "duration": 2.46
+  },
+  {
+    "text": "because we'd still be checking\nemail, or social media,",
+    "start": 1256.03,
+    "duration": 2.25
+  },
+  {
+    "text": "l whatever.",
+    "start": 1258.28,
+    "duration": 1.57
+  },
+  {
+    "text": "And so we entered\ninto this effort pact",
+    "start": 1259.85,
+    "duration": 2.27
+  },
+  {
+    "text": "by going to the hardware\nstore and buying ourselves",
+    "start": 1262.12,
+    "duration": 2.94
+  },
+  {
+    "text": "a $5 outlet timer.",
+    "start": 1265.06,
+    "duration": 2.37
+  },
+  {
+    "text": "Whatever you plug\ninto this outlet timer",
+    "start": 1267.43,
+    "duration": 2.04
+  },
+  {
+    "text": "will turn off at a certain\ntime of day or night.",
+    "start": 1269.47,
+    "duration": 2.73
+  },
+  {
+    "text": "So every night in our\nhousehold at 10:00 PM,",
+    "start": 1272.2,
+    "duration": 4.02
+  },
+  {
+    "text": "the internet shuts off.",
+    "start": 1276.22,
+    "duration": 2.94
+  },
+  {
+    "text": "Now, I could go in there\nand turn it back on.",
+    "start": 1279.16,
+    "duration": 3.04
+  },
+  {
+    "text": "But I've put a little effort\nin between me and something",
+    "start": 1282.2,
+    "duration": 3.02
+  },
+  {
+    "text": "I don't want to do.",
+    "start": 1285.22,
+    "duration": 1.42
+  },
+  {
+    "text": "I don't want to get\ndistracted by keeping",
+    "start": 1286.64,
+    "duration": 1.82
+  },
+  {
+    "text": "checking email all night.",
+    "start": 1288.46,
+    "duration": 1.11
+  },
+  {
+    "text": "I want to go to bed\nbecause getting proper rest",
+    "start": 1289.57,
+    "duration": 2.55
+  },
+  {
+    "text": "and taking care of my\nbody is one of my values.",
+    "start": 1292.12,
+    "duration": 2.663
+  },
+  {
+    "text": "Now, you can also\ndo a price pact.",
+    "start": 1294.783,
+    "duration": 1.417
+  },
+  {
+    "text": "You can put some kind of\ncost to not doing the thing",
+    "start": 1296.2,
+    "duration": 3.3
+  },
+  {
+    "text": "you want to do.",
+    "start": 1299.5,
+    "duration": 0.69
+  },
+  {
+    "text": "And then the final type of pact\nis called an identity pact.",
+    "start": 1300.19,
+    "duration": 2.52
+  },
+  {
+    "text": "And this is probably the\nmost powerful of the three.",
+    "start": 1302.71,
+    "duration": 2.167
+  },
+  {
+    "text": "This comes out of the\nresearch around the psychology",
+    "start": 1304.877,
+    "duration": 2.573
+  },
+  {
+    "text": "of religion.",
+    "start": 1307.45,
+    "duration": 0.9
+  },
+  {
+    "text": "And how we know when people\nform a particular identity",
+    "start": 1308.35,
+    "duration": 3.87
+  },
+  {
+    "text": "around a certain behavior\nset, that behavior",
+    "start": 1312.22,
+    "duration": 3.69
+  },
+  {
+    "text": "becomes much easier to do.",
+    "start": 1315.91,
+    "duration": 2.01
+  },
+  {
+    "text": "A devout Muslim doesn't\nsay to themselves, hmm,",
+    "start": 1317.92,
+    "duration": 2.25
+  },
+  {
+    "text": "I wonder if I should\nhave that beer today.",
+    "start": 1320.17,
+    "duration": 1.8
+  },
+  {
+    "text": "No.",
+    "start": 1321.97,
+    "duration": 0.5
+  },
+  {
+    "text": "Devout Muslims\ndon't drink alcohol.",
+    "start": 1322.47,
+    "duration": 1.54
+  },
+  {
+    "text": "It's no longer an issue.",
+    "start": 1324.01,
+    "duration": 1.08
+  },
+  {
+    "text": "It doesn't require any\ncontemplation or self-control.",
+    "start": 1325.09,
+    "duration": 2.34
+  },
+  {
+    "text": "It's just something\nthey don't do.",
+    "start": 1327.43,
+    "duration": 1.96
+  },
+  {
+    "text": "And so that's why it's\nso important to come up",
+    "start": 1329.39,
+    "duration": 2.51
+  },
+  {
+    "text": "with this new\nmoniker for ourselves",
+    "start": 1331.9,
+    "duration": 1.68
+  },
+  {
+    "text": "so that when we do these\nslightly strange behaviors,",
+    "start": 1333.58,
+    "duration": 2.34
+  },
+  {
+    "text": "like not respond to every\nemail we receive, Alison,",
+    "start": 1335.92,
+    "duration": 3.393
+  },
+  {
+    "text": "we can say to folks, you\nknow what, I'm sorry.",
+    "start": 1339.313,
+    "duration": 1.917
+  },
+  {
+    "text": "I'm indestractable.",
+    "start": 1341.23,
+    "duration": 0.837
+  },
+  {
+    "text": "So you can even put\nthat in your auto reply.",
+    "start": 1342.067,
+    "duration": 1.833
+  },
+  {
+    "text": "ALISON BEARD: Right.",
+    "start": 1343.9,
+    "duration": 0.48
+  },
+  {
+    "text": "Well, that brings us\nback to the workplace,",
+    "start": 1344.38,
+    "duration": 1.92
+  },
+  {
+    "text": "though, because company\nculture sometimes",
+    "start": 1346.3,
+    "duration": 2.88
+  },
+  {
+    "text": "doesn't allow for\nthat kind of behavior.",
+    "start": 1349.18,
+    "duration": 2.61
+  },
+  {
+    "text": "I know some workplaces where\nit would seem very rude not",
+    "start": 1351.79,
+    "duration": 3.42
+  },
+  {
+    "text": "to answer an email or a direct\nmessage on something like Slack",
+    "start": 1355.21,
+    "duration": 4.14
+  },
+  {
+    "text": "or to not be available to\nyour bosses and clients",
+    "start": 1359.35,
+    "duration": 2.55
+  },
+  {
+    "text": "just at a moment's notice.",
+    "start": 1361.9,
+    "duration": 1.75
+  },
+  {
+    "text": "So what can you do if your\nmanager or your organization",
+    "start": 1363.65,
+    "duration": 5.42
+  },
+  {
+    "text": "doesn't buy into this?",
+    "start": 1369.07,
+    "duration": 1.78
+  },
+  {
+    "text": "NIR EYAL: I'm so glad you\nbrought this up because I'm",
+    "start": 1370.85,
+    "duration": 1.31
+  },
+  {
+    "text": "thinking a lot of people, as\nthey were listening to this,",
+    "start": 1372.16,
+    "duration": 1.74
+  },
+  {
+    "text": "were saying, OK, that's\neasy for you to do,",
+    "start": 1373.9,
+    "duration": 1.92
+  },
+  {
+    "text": "but you haven't come\nto my place of work.",
+    "start": 1375.82,
+    "duration": 2.77
+  },
+  {
+    "text": "Exactly.",
+    "start": 1378.59,
+    "duration": 0.95
+  },
+  {
+    "text": "This is a revelation because--",
+    "start": 1379.54,
+    "duration": 2.4
+  },
+  {
+    "text": "think about what\nwe're saying here.",
+    "start": 1381.94,
+    "duration": 1.71
+  },
+  {
+    "text": "Is it the technology?",
+    "start": 1383.65,
+    "duration": 1.59
+  },
+  {
+    "text": "Or is it the workplace\nculture that's doing it to us?",
+    "start": 1385.24,
+    "duration": 3.24
+  },
+  {
+    "text": "Distraction at work is a\nsymptom of cultural dysfunction.",
+    "start": 1388.48,
+    "duration": 5.205
+  },
+  {
+    "text": "And it's funny that you\nshould mention Slack.",
+    "start": 1393.685,
+    "duration": 1.875
+  },
+  {
+    "text": "So Slack was this company--",
+    "start": 1395.56,
+    "duration": 1.583
+  },
+  {
+    "text": "for those of you\nwho don't use it,",
+    "start": 1397.143,
+    "duration": 1.417
+  },
+  {
+    "text": "it's the world's\nlargest group chat app.",
+    "start": 1398.56,
+    "duration": 3.63
+  },
+  {
+    "text": "And this product kept coming\nup when people complained",
+    "start": 1402.19,
+    "duration": 3.06
+  },
+  {
+    "text": "to me about distraction.",
+    "start": 1405.25,
+    "duration": 1.2
+  },
+  {
+    "text": "They would say, I'm\nconstantly tethered to Slack.",
+    "start": 1406.45,
+    "duration": 2.183
+  },
+  {
+    "text": "And if it's not\nSlack, it's email.",
+    "start": 1408.633,
+    "duration": 1.417
+  },
+  {
+    "text": "It's something else.",
+    "start": 1410.05,
+    "duration": 0.36
+  },
+  {
+    "text": "But Slack was one\nof these things",
+    "start": 1410.41,
+    "duration": 1.375
+  },
+  {
+    "text": "that people kept mentioning.",
+    "start": 1411.785,
+    "duration": 1.365
+  },
+  {
+    "text": "So I went and paid\nSlack a visit,",
+    "start": 1413.15,
+    "duration": 2.33
+  },
+  {
+    "text": "and I learned something amazing.",
+    "start": 1415.48,
+    "duration": 2.43
+  },
+  {
+    "text": "You would think\nthat if technology",
+    "start": 1417.91,
+    "duration": 2.4
+  },
+  {
+    "text": "was the source of\nthe problem, if Slack",
+    "start": 1420.31,
+    "duration": 2.31
+  },
+  {
+    "text": "is what made people distracted\nall day long, people at Slack",
+    "start": 1422.62,
+    "duration": 4.17
+  },
+  {
+    "text": "should be the most distracted\npeople on Earth, right?",
+    "start": 1426.79,
+    "duration": 2.97
+  },
+  {
+    "text": "They use Slack\nmore than everyone.",
+    "start": 1429.76,
+    "duration": 1.68
+  },
+  {
+    "text": "And yet, that wasn't the case.",
+    "start": 1431.44,
+    "duration": 1.62
+  },
+  {
+    "text": "If you go to Slack headquarters\nat 6:00 PM, it's empty.",
+    "start": 1433.06,
+    "duration": 4.56
+  },
+  {
+    "text": "Nights and weekends,\nnobody uses Slack.",
+    "start": 1437.62,
+    "duration": 2.7
+  },
+  {
+    "text": "And what I discovered\nwas is that this problem",
+    "start": 1440.32,
+    "duration": 3.18
+  },
+  {
+    "text": "of distraction doesn't\noccur in companies",
+    "start": 1443.5,
+    "duration": 3.083
+  },
+  {
+    "text": "that have a healthy workplace\nculture because here's",
+    "start": 1446.583,
+    "duration": 2.167
+  },
+  {
+    "text": "the thing.",
+    "start": 1448.75,
+    "duration": 0.9
+  },
+  {
+    "text": "Distraction is a problem.",
+    "start": 1449.65,
+    "duration": 1.53
+  },
+  {
+    "text": "Nobody likes it.",
+    "start": 1451.18,
+    "duration": 1.38
+  },
+  {
+    "text": "And yet, if we can't\ntalk about the problem,",
+    "start": 1452.56,
+    "duration": 3.07
+  },
+  {
+    "text": "there's something going on in\nthat workplace environment that",
+    "start": 1455.63,
+    "duration": 3.5
+  },
+  {
+    "text": "makes people not want to\ntalk about their problems.",
+    "start": 1459.13,
+    "duration": 2.49
+  },
+  {
+    "text": "What we find is that these\ncompanies that don't struggle",
+    "start": 1461.62,
+    "duration": 3.21
+  },
+  {
+    "text": "with distraction where\nemployees are happy with how",
+    "start": 1464.83,
+    "duration": 3.193
+  },
+  {
+    "text": "connected they are\nto their technologies",
+    "start": 1468.023,
+    "duration": 1.667
+  },
+  {
+    "text": "and don't feel like\nthey're constantly",
+    "start": 1469.69,
+    "duration": 1.89
+  },
+  {
+    "text": "pressured into this horrible\ncycle of responsiveness,",
+    "start": 1471.58,
+    "duration": 3.15
+  },
+  {
+    "text": "these companies\nexhibit three traits.",
+    "start": 1474.73,
+    "duration": 2.46
+  },
+  {
+    "text": "The company gives employees a\nsense of psychological safety.",
+    "start": 1477.19,
+    "duration": 4.45
+  },
+  {
+    "text": "Psychological safety\nmeans you can air concerns",
+    "start": 1481.64,
+    "duration": 3.47
+  },
+  {
+    "text": "without fear of retribution.",
+    "start": 1485.11,
+    "duration": 1.788
+  },
+  {
+    "text": "You're not going to get fired\nif you raise your hand and say,",
+    "start": 1486.898,
+    "duration": 2.542
+  },
+  {
+    "text": "hey, do we like constantly being\ntethered to our devices at 7:00",
+    "start": 1489.44,
+    "duration": 3.83
+  },
+  {
+    "text": "PM, 8:00 PM at night?",
+    "start": 1493.27,
+    "duration": 0.96
+  },
+  {
+    "text": "Is this working for folks?",
+    "start": 1494.23,
+    "duration": 1.352
+  },
+  {
+    "text": "If you can do that at a company,\nif you can raise your hand",
+    "start": 1495.582,
+    "duration": 2.458
+  },
+  {
+    "text": "and voice a concern, that's part\nof what psychological safety is",
+    "start": 1498.04,
+    "duration": 3.39
+  },
+  {
+    "text": "all about.",
+    "start": 1501.43,
+    "duration": 0.91
+  },
+  {
+    "text": "The second trait is that\nthey not only give employees",
+    "start": 1502.34,
+    "duration": 2.93
+  },
+  {
+    "text": "psychological safety,\nthey also make",
+    "start": 1505.27,
+    "duration": 2.01
+  },
+  {
+    "text": "sure that they have a forum\nto discuss their issues,",
+    "start": 1507.28,
+    "duration": 3.51
+  },
+  {
+    "text": "and questions, and concerns.",
+    "start": 1510.79,
+    "duration": 1.6
+  },
+  {
+    "text": "So at Slack, it's fascinating.",
+    "start": 1512.39,
+    "duration": 1.37
+  },
+  {
+    "text": "They actually use Slack\nin a very interesting way.",
+    "start": 1513.76,
+    "duration": 2.46
+  },
+  {
+    "text": "They have these channels.",
+    "start": 1516.22,
+    "duration": 2.182
+  },
+  {
+    "text": "One of them is called\nBeef Tweets, where people",
+    "start": 1518.402,
+    "duration": 1.958
+  },
+  {
+    "text": "can air beef with the company.",
+    "start": 1520.36,
+    "duration": 1.89
+  },
+  {
+    "text": "And employees will\ngo to this forum.",
+    "start": 1522.25,
+    "duration": 2.28
+  },
+  {
+    "text": "They'll say\nsomething they're not",
+    "start": 1524.53,
+    "duration": 1.56
+  },
+  {
+    "text": "happy with about the\ncompany, or the product,",
+    "start": 1526.09,
+    "duration": 2.13
+  },
+  {
+    "text": "or whatever they\nhave a concern about.",
+    "start": 1528.22,
+    "duration": 1.59
+  },
+  {
+    "text": "And employee management\nwill use-- get this-- emoji",
+    "start": 1529.81,
+    "duration": 3.6
+  },
+  {
+    "text": "to acknowledge that those\nresponses have been viewed.",
+    "start": 1533.41,
+    "duration": 4.05
+  },
+  {
+    "text": "So they'll leave an eye emoji.",
+    "start": 1537.46,
+    "duration": 1.8
+  },
+  {
+    "text": "That means that we've seen that.",
+    "start": 1539.26,
+    "duration": 1.89
+  },
+  {
+    "text": "We acknowledge\nit-- or a checkmark",
+    "start": 1541.15,
+    "duration": 1.56
+  },
+  {
+    "text": "to show folks that something\nis being done about the problem",
+    "start": 1542.71,
+    "duration": 3.78
+  },
+  {
+    "text": "because giving employees a\nsense of agency and control",
+    "start": 1546.49,
+    "duration": 3.36
+  },
+  {
+    "text": "is incredibly important.",
+    "start": 1549.85,
+    "duration": 1.26
+  },
+  {
+    "text": "And number 3, and\nmost importantly,",
+    "start": 1551.11,
+    "duration": 2.71
+  },
+  {
+    "text": "it's the companies where\nmanagement exemplifies",
+    "start": 1553.82,
+    "duration": 3.53
+  },
+  {
+    "text": "what it means to be\nindestractable that",
+    "start": 1557.35,
+    "duration": 2.85
+  },
+  {
+    "text": "don't have this problem.",
+    "start": 1560.2,
+    "duration": 1.36
+  },
+  {
+    "text": "So it's one thing if\nyou talk the talk.",
+    "start": 1561.56,
+    "duration": 2.96
+  },
+  {
+    "text": "But unless you, as a manager\nwalk the walk as well and say,",
+    "start": 1564.52,
+    "duration": 2.76
+  },
+  {
+    "text": "no, no, no, I want you to\nshut off because I shut off.",
+    "start": 1567.28,
+    "duration": 2.83
+  },
+  {
+    "text": "I need time for\nreflection as well.",
+    "start": 1570.11,
+    "duration": 1.89
+  },
+  {
+    "text": "That is the kind of\ncompany that exemplifies",
+    "start": 1572.0,
+    "duration": 2.18
+  },
+  {
+    "text": "this kind of culture where\npeople don't continually",
+    "start": 1574.18,
+    "duration": 2.58
+  },
+  {
+    "text": "get distracted.",
+    "start": 1576.76,
+    "duration": 1.06
+  },
+  {
+    "text": "So the big takeaway\nhere is that distraction",
+    "start": 1577.82,
+    "duration": 1.94
+  },
+  {
+    "text": "is a symptom of\ncultural dysfunction,",
+    "start": 1579.76,
+    "duration": 1.98
+  },
+  {
+    "text": "but culture can change.",
+    "start": 1581.74,
+    "duration": 2.522
+  },
+  {
+    "text": "ALISON BEARD: Terrific.",
+    "start": 1584.262,
+    "duration": 0.958
+  },
+  {
+    "text": "Nir, thanks so much\nfor joining us today.",
+    "start": 1585.22,
+    "duration": 1.9
+  },
+  {
+    "text": "NIR EYAL: My pleasure.",
+    "start": 1587.12,
+    "duration": 0.44
+  },
+  {
+    "text": "This was great, Alison.",
+    "start": 1587.56,
+    "duration": 0.958
+  },
+  {
+    "text": "Thank you.",
+    "start": 1588.518,
+    "duration": 0.812
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1589.33,
+    "duration": 2.25
+  },
+  {
+    "text": "ALISON BEARD: That's Nir Eyal.",
+    "start": 1591.58,
+    "duration": 1.32
+  },
+  {
+    "text": "He's the author of the\nbook Indestractable,",
+    "start": 1592.9,
+    "duration": 2.1
+  },
+  {
+    "text": "How to Control Your Attention\nand Choose Your Life.",
+    "start": 1595.0,
+    "duration": 2.37
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1597.37,
+    "duration": 2.97
+  },
+  {
+    "text": "This episode was\nproduced by Mary Dooe.",
+    "start": 1610.25,
+    "duration": 2.13
+  },
+  {
+    "text": "We get technical help\nfrom Rob Eckhart.",
+    "start": 1612.38,
+    "duration": 1.89
+  },
+  {
+    "text": "Adam Buchholz is our\naudio product manager.",
+    "start": 1614.27,
+    "duration": 2.829
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1617.099,
+    "duration": 2.445
+  },
+  {
+    "text": "Thanks for listening\nto the HBR IdeaCast.",
+    "start": 1621.65,
+    "duration": 2.32
+  },
+  {
+    "text": "I'm Alison Beard.",
+    "start": 1623.97,
+    "duration": 2.15
+  },
+  {
+    "text": "[MUSIC PLAYING]",
+    "start": 1626.12,
+    "duration": 3.05
+  }
+]

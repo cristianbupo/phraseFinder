@@ -1,0 +1,982 @@
+[
+  {
+    "text": "I'm Hartmut, I lead Google Quantum AI.",
+    "start": 4.459,
+    "duration": 3.462
+  },
+  {
+    "text": "I have been working\non quantum computing since 2012.",
+    "start": 8.338,
+    "duration": 4.421
+  },
+  {
+    "text": "And let me tell you\nwhy this is so intriguing.",
+    "start": 12.759,
+    "duration": 2.878
+  },
+  {
+    "text": "Today's computers, like your laptop\nor a server at a Google data center,",
+    "start": 16.221,
+    "duration": 5.255
+  },
+  {
+    "text": "operate on the binary logic\nof zeros and ones.",
+    "start": 21.518,
+    "duration": 3.128
+  },
+  {
+    "text": "A quantum computer like this one\nreplaces the binary logic",
+    "start": 25.23,
+    "duration": 4.921
+  },
+  {
+    "text": "with the laws of quantum physics\nthat gives it more powerful operations,",
+    "start": 30.193,
+    "duration": 4.588
+  },
+  {
+    "text": "allowing it to perform certain\ncomputations with way fewer steps.",
+    "start": 34.823,
+    "duration": 5.297
+  },
+  {
+    "text": "So where does this superpower come from?",
+    "start": 40.12,
+    "duration": 3.128
+  },
+  {
+    "text": "Quantum computing is the first technology",
+    "start": 43.29,
+    "duration": 3.378
+  },
+  {
+    "text": "that takes the idea serious\nthat we live in a multiverse.",
+    "start": 46.71,
+    "duration": 3.879
+  },
+  {
+    "text": "It can be seen as farming out\ncomputations to parallel universes.",
+    "start": 50.922,
+    "duration": 5.381
+  },
+  {
+    "text": "Let me explain.",
+    "start": 56.303,
+    "duration": 1.459
+  },
+  {
+    "text": "In quantum physics,",
+    "start": 57.804,
+    "duration": 1.794
+  },
+  {
+    "text": "the key mathematical object",
+    "start": 59.639,
+    "duration": 2.127
+  },
+  {
+    "text": "to describe many worlds\nis called superposition.",
+    "start": 61.766,
+    "duration": 3.003
+  },
+  {
+    "text": "To understand what it is,\nlet's look at this simple system.",
+    "start": 65.312,
+    "duration": 3.795
+  },
+  {
+    "text": "You just need three bits to describe it.",
+    "start": 69.149,
+    "duration": 2.669
+  },
+  {
+    "text": "Each coin is a two-state system.",
+    "start": 72.152,
+    "duration": 3.086
+  },
+  {
+    "text": "Heads or tails,",
+    "start": 75.28,
+    "duration": 1.251
+  },
+  {
+    "text": "zero or one.",
+    "start": 76.531,
+    "duration": 1.668
+  },
+  {
+    "text": "We look at a start state.",
+    "start": 78.742,
+    "duration": 1.877
+  },
+  {
+    "text": "If I were to know which forces\nact on the system,",
+    "start": 80.619,
+    "duration": 5.005
+  },
+  {
+    "text": "then I can predict its trajectory\nand future states.",
+    "start": 85.624,
+    "duration": 5.213
+  },
+  {
+    "text": "This is how we reason in classical physics\nand also in everyday life.",
+    "start": 90.879,
+    "duration": 5.297
+  },
+  {
+    "text": "But if you were to treat\nthis as a quantum system,",
+    "start": 96.217,
+    "duration": 3.17
+  },
+  {
+    "text": "then it can branch into many\nconfigurations simultaneously.",
+    "start": 99.387,
+    "duration": 4.922
+  },
+  {
+    "text": "And we have to keep track\nof all those trajectories,",
+    "start": 104.851,
+    "duration": 3.045
+  },
+  {
+    "text": "interfere them to make\nan accurate prediction",
+    "start": 107.937,
+    "duration": 3.087
+  },
+  {
+    "text": "of what states we are going\nto see in the future.",
+    "start": 111.066,
+    "duration": 3.086
+  },
+  {
+    "text": "So the equations of quantum mechanics",
+    "start": 115.07,
+    "duration": 3.169
+  },
+  {
+    "text": "tell us that at any time, any object,",
+    "start": 118.239,
+    "duration": 4.255
+  },
+  {
+    "text": "myself or the world at large,",
+    "start": 122.535,
+    "duration": 1.877
+  },
+  {
+    "text": "exists in a superposition\nof many configurations.",
+    "start": 124.454,
+    "duration": 3.462
+  },
+  {
+    "text": "Intriguingly, look around in this room.",
+    "start": 128.583,
+    "duration": 3.045
+  },
+  {
+    "text": "We are forming a configuration too.",
+    "start": 132.045,
+    "duration": 3.503
+  },
+  {
+    "text": "And the equations of quantum\nphysics would suggest",
+    "start": 136.966,
+    "duration": 4.046
+  },
+  {
+    "text": "that we sit in different\narrangements in different worlds.",
+    "start": 141.012,
+    "duration": 3.879
+  },
+  {
+    "text": "This superpower\ncan be applied to computation.",
+    "start": 145.433,
+    "duration": 3.42
+  },
+  {
+    "text": "Picture a search task.",
+    "start": 148.895,
+    "duration": 1.627
+  },
+  {
+    "text": "By envisioning a very tall closet\nwith a million drawers,",
+    "start": 150.563,
+    "duration": 4.63
+  },
+  {
+    "text": "I place an item in one of the drawers.",
+    "start": 155.193,
+    "duration": 3.17
+  },
+  {
+    "text": "How many drawers do you have\nto open to find the item?",
+    "start": 158.405,
+    "duration": 3.878
+  },
+  {
+    "text": "In average it will be half a million,",
+    "start": 162.325,
+    "duration": 3.545
+  },
+  {
+    "text": "but if you had access\nto a quantum algorithm,",
+    "start": 165.912,
+    "duration": 3.128
+  },
+  {
+    "text": "it would only be 1,000 steps\nto find the item.",
+    "start": 169.04,
+    "duration": 5.005
+  },
+  {
+    "text": "How in the world can this be?",
+    "start": 174.629,
+    "duration": 1.919
+  },
+  {
+    "text": "Indeed, it cannot be in a single world.",
+    "start": 176.923,
+    "duration": 2.544
+  },
+  {
+    "text": "So here you see a good example",
+    "start": 179.509,
+    "duration": 2.252
+  },
+  {
+    "text": "of how quantum computing\ncan attain an advantage",
+    "start": 181.803,
+    "duration": 3.337
+  },
+  {
+    "text": "by performing computations\nin parallel worlds.",
+    "start": 185.181,
+    "duration": 3.796
+  },
+  {
+    "text": "Let me show you how to use\na quantum computer in practice.",
+    "start": 188.977,
+    "duration": 4.588
+  },
+  {
+    "text": "So here you see a program in Cirq,",
+    "start": 194.149,
+    "duration": 3.92
+  },
+  {
+    "text": "or Python-based programming language\nto express quantum algorithms.",
+    "start": 198.111,
+    "duration": 4.296
+  },
+  {
+    "text": "It looks like sheet music.",
+    "start": 202.449,
+    "duration": 1.501
+  },
+  {
+    "text": "Each line represents a qubit,",
+    "start": 203.95,
+    "duration": 2.961
+  },
+  {
+    "text": "and each box represents an operation.",
+    "start": 206.953,
+    "duration": 3.337
+  },
+  {
+    "text": "When I hit return,",
+    "start": 210.29,
+    "duration": 1.668
+  },
+  {
+    "text": "then it gets transmitted\nto our data center",
+    "start": 212.0,
+    "duration": 2.252
+  },
+  {
+    "text": "in Santa Barbara.",
+    "start": 214.252,
+    "duration": 1.335
+  },
+  {
+    "text": "Here you actually see\na live feed of one of our machines.",
+    "start": 215.628,
+    "duration": 3.921
+  },
+  {
+    "text": "Actually, our most powerful quantum\ncomputers now have over 100 qubits.",
+    "start": 219.591,
+    "duration": 4.629
+  },
+  {
+    "text": "There, the operations\nget translated into waveforms,",
+    "start": 224.262,
+    "duration": 5.631
+  },
+  {
+    "text": "electrical pulses that control the qubits.",
+    "start": 229.934,
+    "duration": 3.879
+  },
+  {
+    "text": "You see how the waveforms change\nas I change the circuit.",
+    "start": 234.272,
+    "duration": 3.962
+  },
+  {
+    "text": "So this is a simple two-qubit circuit\nperforming quantum search.",
+    "start": 238.568,
+    "duration": 6.006
+  },
+  {
+    "text": "For the programmers among you,",
+    "start": 244.574,
+    "duration": 2.127
+  },
+  {
+    "text": "please note how I find one item\nin a database of four",
+    "start": 246.743,
+    "duration": 4.838
+  },
+  {
+    "text": "by only doing a single call\nto the database.",
+    "start": 251.623,
+    "duration": 4.379
+  },
+  {
+    "text": "This is something you could not do\non an ordinary computer.",
+    "start": 256.002,
+    "duration": 4.338
+  },
+  {
+    "text": "So what can you do\nwith quantum computers today?",
+    "start": 261.132,
+    "duration": 4.088
+  },
+  {
+    "text": "We have prepared\ninteresting quantum states",
+    "start": 265.261,
+    "duration": 2.836
+  },
+  {
+    "text": "and studied their properties.",
+    "start": 268.139,
+    "duration": 2.002
+  },
+  {
+    "text": "This has led to dozens of publications",
+    "start": 270.141,
+    "duration": 2.67
+  },
+  {
+    "text": "in high-impact journals\nlike Nature or Science.",
+    "start": 272.852,
+    "duration": 3.253
+  },
+  {
+    "text": "Actually, I like to think of it\nas creating little pieces of magic.",
+    "start": 276.105,
+    "duration": 4.797
+  },
+  {
+    "text": "For example, one state we prepared",
+    "start": 281.778,
+    "duration": 2.711
+  },
+  {
+    "text": "can be thought of as spawning\na tiny traversable wormhole.",
+    "start": 284.531,
+    "duration": 4.546
+  },
+  {
+    "text": "We can use it to learn\nabout the physics of wormholes.",
+    "start": 289.118,
+    "duration": 2.837
+  },
+  {
+    "text": "We can throw a qubit in",
+    "start": 291.955,
+    "duration": 1.71
+  },
+  {
+    "text": "and see how it reappears\non the other side.",
+    "start": 293.665,
+    "duration": 2.794
+  },
+  {
+    "text": "We made time crystals.",
+    "start": 296.918,
+    "duration": 1.71
+  },
+  {
+    "text": "That's a cool word, isn't it?",
+    "start": 298.67,
+    "duration": 1.418
+  },
+  {
+    "text": "Like, who doesn't want to have\na time crystal as an earring?",
+    "start": 300.088,
+    "duration": 3.92
+  },
+  {
+    "text": "Time crystals have amazing\nphysical properties.",
+    "start": 304.843,
+    "duration": 3.92
+  },
+  {
+    "text": "They change periodically in time\nwithout ever exchanging energy",
+    "start": 308.763,
+    "duration": 5.172
+  },
+  {
+    "text": "with the environment.",
+    "start": 313.935,
+    "duration": 1.209
+  },
+  {
+    "text": "That's the closest to a perpetual mobile",
+    "start": 315.144,
+    "duration": 3.295
+  },
+  {
+    "text": "that the laws of physics allow you to get.",
+    "start": 318.481,
+    "duration": 2.836
+  },
+  {
+    "text": "Or a final example, non-abelian anyons.",
+    "start": 321.359,
+    "duration": 3.67
+  },
+  {
+    "text": "This is a mouthful,",
+    "start": 325.071,
+    "duration": 1.585
+  },
+  {
+    "text": "but these are systems\nthat change the overall properties",
+    "start": 326.656,
+    "duration": 4.838
+  },
+  {
+    "text": "when exchanging two identical parts,",
+    "start": 331.536,
+    "duration": 2.336
+  },
+  {
+    "text": "something humans have never seen before.",
+    "start": 333.913,
+    "duration": 2.962
+  },
+  {
+    "text": "Because envision a little house\nmade of Lego bricks",
+    "start": 336.916,
+    "duration": 3.712
+  },
+  {
+    "text": "and envision swapping\ntwo bricks that look identical.",
+    "start": 340.67,
+    "duration": 4.171
+  },
+  {
+    "text": "In everyday life,\nyou would not notice a difference,",
+    "start": 344.841,
+    "duration": 3.295
+  },
+  {
+    "text": "but quantum physicists had predicted\nthat systems can exist,",
+    "start": 348.136,
+    "duration": 5.63
+  },
+  {
+    "text": "that exchange or change their properties",
+    "start": 353.808,
+    "duration": 3.462
+  },
+  {
+    "text": "when you exchange two identical parts.",
+    "start": 357.27,
+    "duration": 3.211
+  },
+  {
+    "text": "To date, nobody has performed",
+    "start": 361.107,
+    "duration": 2.961
+  },
+  {
+    "text": "a practical application that can only\nbe done on a quantum computer.",
+    "start": 364.11,
+    "duration": 4.463
+  },
+  {
+    "text": "Despite what you may\nhave read in the press.",
+    "start": 368.948,
+    "duration": 2.878
+  },
+  {
+    "text": "But today, I'm excited to tell you\nthat we are completing the design",
+    "start": 371.868,
+    "duration": 4.546
+  },
+  {
+    "text": "of an algorithm that may lead\nto first commercial applications.",
+    "start": 376.414,
+    "duration": 4.796
+  },
+  {
+    "text": "This quantum algorithm\nperforms signal processing",
+    "start": 381.669,
+    "duration": 3.587
+  },
+  {
+    "text": "to enable new ways to detect\nand analyze molecules",
+    "start": 385.256,
+    "duration": 4.588
+  },
+  {
+    "text": "using nuclear electronic\nspin spectroscopy.",
+    "start": 389.886,
+    "duration": 2.961
+  },
+  {
+    "text": "In time, this may lead to exciting\nconsumer applications.",
+    "start": 393.431,
+    "duration": 3.754
+  },
+  {
+    "text": "Envision a device akin\nto an electronic nose",
+    "start": 397.226,
+    "duration": 4.088
+  },
+  {
+    "text": "in your phone or smart watch.",
+    "start": 401.314,
+    "duration": 2.919
+  },
+  {
+    "text": "Wouldn't it be awesome\nif your phone could warn you",
+    "start": 404.233,
+    "duration": 3.629
+  },
+  {
+    "text": "that you step into a room\nwith dangerous viruses?",
+    "start": 407.862,
+    "duration": 3.504
+  },
+  {
+    "text": "Or if your smart watch could detect\nfree radicals in your bloodstream",
+    "start": 411.366,
+    "duration": 4.713
+  },
+  {
+    "text": "and tell you it's time\nto drink your acai juice,",
+    "start": 416.12,
+    "duration": 3.546
+  },
+  {
+    "text": "or warn you of allergens in food",
+    "start": 419.707,
+    "duration": 2.795
+  },
+  {
+    "text": "or many other truly helpful use cases.",
+    "start": 422.543,
+    "duration": 3.504
+  },
+  {
+    "text": "To unlock more applications,",
+    "start": 426.089,
+    "duration": 2.544
+  },
+  {
+    "text": "you will need to build a large\nerror-corrected quantum computer.",
+    "start": 428.633,
+    "duration": 4.463
+  },
+  {
+    "text": "Here you see our road map.",
+    "start": 433.137,
+    "duration": 2.044
+  },
+  {
+    "text": "How to build a computer\nwith a million physical qubits.",
+    "start": 435.181,
+    "duration": 4.296
+  },
+  {
+    "text": "It consists of six milestones.",
+    "start": 439.519,
+    "duration": 2.419
+  },
+  {
+    "text": "and we achieved already the first two.",
+    "start": 441.938,
+    "duration": 2.461
+  },
+  {
+    "text": "Prior to 2019,",
+    "start": 444.983,
+    "duration": 2.585
+  },
+  {
+    "text": "nobody had shown a beyond classical\ncomputation on a quantum computer.",
+    "start": 447.568,
+    "duration": 5.089
+  },
+  {
+    "text": "We were the first to demonstrate it.",
+    "start": 452.699,
+    "duration": 2.711
+  },
+  {
+    "text": "Our chip could perform a computation",
+    "start": 455.41,
+    "duration": 2.669
+  },
+  {
+    "text": "that the then-fastest supercomputer\nwould have needed 10,000 years to do.",
+    "start": 458.079,
+    "duration": 4.63
+  },
+  {
+    "text": "But recently, we repeated this experiment.",
+    "start": 463.084,
+    "duration": 4.296
+  },
+  {
+    "text": "And now, Frontier,\ntoday's top supercomputer,",
+    "start": 467.755,
+    "duration": 3.879
+  },
+  {
+    "text": "would need one billion years\nto perform this computation.",
+    "start": 471.676,
+    "duration": 4.254
+  },
+  {
+    "text": "This dramatic growth in compute power\ncorroborates Neven's Law,",
+    "start": 476.264,
+    "duration": 4.713
+  },
+  {
+    "text": "which says that the power\nof quantum computers will grow",
+    "start": 481.019,
+    "duration": 3.628
+  },
+  {
+    "text": "at a double exponential rate.",
+    "start": 484.689,
+    "duration": 2.544
+  },
+  {
+    "text": "In 2023, we achieved the second milestone.",
+    "start": 487.65,
+    "duration": 3.504
+  },
+  {
+    "text": "We demonstrated again for the first time",
+    "start": 491.195,
+    "duration": 2.545
+  },
+  {
+    "text": "that quantum error correction\nis a scalable technology.",
+    "start": 493.781,
+    "duration": 3.921
+  },
+  {
+    "text": "Error correction sounds boring,\nbut it's crucial.",
+    "start": 497.744,
+    "duration": 3.42
+  },
+  {
+    "text": "Today, our two-qubit operations\nhave an error rate of 1 in 1,000.",
+    "start": 501.539,
+    "duration": 4.963
+  },
+  {
+    "text": "That means that in every\n1,000 steps or so,",
+    "start": 506.836,
+    "duration": 3.879
+  },
+  {
+    "text": "the quantum computer will crash.",
+    "start": 510.715,
+    "duration": 2.461
+  },
+  {
+    "text": "To improve this,",
+    "start": 513.176,
+    "duration": 1.334
+  },
+  {
+    "text": "we combine many physical qubits\nto a logical qubit",
+    "start": 514.552,
+    "duration": 3.587
+  },
+  {
+    "text": "to reduce the error rate\nto 1 in a billion or even less.",
+    "start": 518.181,
+    "duration": 4.671
+  },
+  {
+    "text": "We are about halfway through our road map,",
+    "start": 523.394,
+    "duration": 2.753
+  },
+  {
+    "text": "and we are optimistic\nthat we will complete it",
+    "start": 526.147,
+    "duration": 2.336
+  },
+  {
+    "text": "before the end of this decade.",
+    "start": 528.524,
+    "duration": 2.503
+  },
+  {
+    "text": "We have done analytical\nand numerical studies",
+    "start": 531.069,
+    "duration": 3.962
+  },
+  {
+    "text": "to predict which algorithms\nwill be impactful",
+    "start": 535.073,
+    "duration": 3.503
+  },
+  {
+    "text": "on such a large quantum computer.",
+    "start": 538.618,
+    "duration": 2.127
+  },
+  {
+    "text": "A class of applications we like\nand we call Feynman's killer app,",
+    "start": 541.37,
+    "duration": 4.046
+  },
+  {
+    "text": "is the simulation of systems\nwhere quantum effects are important.",
+    "start": 545.458,
+    "duration": 6.006
+  },
+  {
+    "text": "This is relevant for designing\nmore effective,",
+    "start": 551.506,
+    "duration": 3.044
+  },
+  {
+    "text": "more targeted medicines.",
+    "start": 554.592,
+    "duration": 1.96
+  },
+  {
+    "text": "Specifically, we have worked\nwith a pharmaceutical company",
+    "start": 556.594,
+    "duration": 3.67
+  },
+  {
+    "text": "on algorithms to describe cytochrome P450.",
+    "start": 560.306,
+    "duration": 3.962
+  },
+  {
+    "text": "This group of enzymes metabolizes\nabout 75 percent of the drugs we take.",
+    "start": 564.268,
+    "duration": 5.172
+  },
+  {
+    "text": "Or the design of lighter,\nfaster-charging batteries",
+    "start": 569.44,
+    "duration": 4.38
+  },
+  {
+    "text": "that can hold a larger charge\nfor electric cars",
+    "start": 573.82,
+    "duration": 3.42
+  },
+  {
+    "text": "or even electric airplanes.",
+    "start": 577.281,
+    "duration": 2.294
+  },
+  {
+    "text": "Or to hasten the design of fusion reactors\nto help with climate change,",
+    "start": 579.617,
+    "duration": 6.507
+  },
+  {
+    "text": "arguably humanity's most urgent challenge.",
+    "start": 586.165,
+    "duration": 4.046
+  },
+  {
+    "text": "A recent result is a novel algorithm",
+    "start": 591.254,
+    "duration": 3.837
+  },
+  {
+    "text": "that delivers significant speed up\nfor optimization.",
+    "start": 595.133,
+    "duration": 3.545
+  },
+  {
+    "text": "This is a big deal",
+    "start": 599.387,
+    "duration": 1.251
+  },
+  {
+    "text": "because optimization\nproblems are ubiquitous",
+    "start": 600.638,
+    "duration": 4.505
+  },
+  {
+    "text": "in engineering, finance\nor machine learning.",
+    "start": 605.143,
+    "duration": 3.753
+  },
+  {
+    "text": "A way to think about this\nresult is in the future,",
+    "start": 608.938,
+    "duration": 3.17
+  },
+  {
+    "text": "when an AI will play chess\nor Go against the quantum AI,",
+    "start": 612.108,
+    "duration": 4.296
+  },
+  {
+    "text": "the quantum AI will win.",
+    "start": 616.404,
+    "duration": 2.085
+  },
+  {
+    "text": "This result shows that quantum computers",
+    "start": 618.948,
+    "duration": 2.628
+  },
+  {
+    "text": "will become a must-have capability",
+    "start": 621.576,
+    "duration": 3.336
+  },
+  {
+    "text": "to serve foundational computational tasks.",
+    "start": 624.912,
+    "duration": 3.045
+  },
+  {
+    "text": "I'm also very interested\nin the intersection of physics",
+    "start": 628.332,
+    "duration": 4.046
+  },
+  {
+    "text": "and neurobiology.",
+    "start": 632.42,
+    "duration": 1.376
+  },
+  {
+    "text": "Quantum information science",
+    "start": 634.172,
+    "duration": 1.918
+  },
+  {
+    "text": "may enable us to answer\none of humanity's deepest questions:",
+    "start": 636.132,
+    "duration": 4.629
+  },
+  {
+    "text": "What creates conscious experience?",
+    "start": 640.761,
+    "duration": 2.628
+  },
+  {
+    "text": "An attractive conjecture\nis that consciousness",
+    "start": 644.223,
+    "duration": 3.253
+  },
+  {
+    "text": "is how we experience the emergence",
+    "start": 647.518,
+    "duration": 2.628
+  },
+  {
+    "text": "of a single classical world",
+    "start": 650.188,
+    "duration": 2.168
+  },
+  {
+    "text": "out of the many\nthe multiverse is composed of.",
+    "start": 652.398,
+    "duration": 3.212
+  },
+  {
+    "text": "With academic collaborators,",
+    "start": 656.319,
+    "duration": 2.294
+  },
+  {
+    "text": "I have started a program\nto experimentally test this conjecture",
+    "start": 658.654,
+    "duration": 3.837
+  },
+  {
+    "text": "using methods of quantum neurobiology.",
+    "start": 662.491,
+    "duration": 3.838
+  },
+  {
+    "text": "If our conjecture is correct,",
+    "start": 666.37,
+    "duration": 1.877
+  },
+  {
+    "text": "this would allow us to expand\nhuman consciousness in space,",
+    "start": 668.289,
+    "duration": 3.629
+  },
+  {
+    "text": "time and complexity.",
+    "start": 671.959,
+    "duration": 1.627
+  },
+  {
+    "text": "In conclusion,",
+    "start": 674.795,
+    "duration": 1.21
+  },
+  {
+    "text": "we are making steady progress",
+    "start": 676.005,
+    "duration": 1.877
+  },
+  {
+    "text": "towards building the world's first\nuseful quantum computer",
+    "start": 677.882,
+    "duration": 3.67
+  },
+  {
+    "text": "and applying its enormous power\nto important challenges.",
+    "start": 681.552,
+    "duration": 4.213
+  },
+  {
+    "text": "A quantum computer will be\na gift to future generations,",
+    "start": 686.14,
+    "duration": 3.796
+  },
+  {
+    "text": "giving them a new tool to solve problems\nthat today are unsolvable.",
+    "start": 689.936,
+    "duration": 5.171
+  },
+  {
+    "text": "Thank you.",
+    "start": 695.775,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 696.943,
+    "duration": 2.085
+  }
+]

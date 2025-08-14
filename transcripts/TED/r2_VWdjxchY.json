@@ -1,0 +1,1552 @@
+[
+  {
+    "text": "Alright, well, let's start\nwith an easy question.",
+    "start": 4.235,
+    "duration": 2.369
+  },
+  {
+    "text": "How many of you are wearing\na Fitbit or an Apple Watch",
+    "start": 6.604,
+    "duration": 2.536
+  },
+  {
+    "text": "or some other kind\nof health tracking device?",
+    "start": 9.173,
+    "duration": 2.502
+  },
+  {
+    "text": "And how many of you have got\na smartphone with you here today?",
+    "start": 11.675,
+    "duration": 3.07
+  },
+  {
+    "text": "Maybe I should say\nhow many of you have not?",
+    "start": 14.745,
+    "duration": 2.069
+  },
+  {
+    "text": "The fact that so many of us have\nthese technological marvels in our pockets",
+    "start": 16.847,
+    "duration": 4.338
+  },
+  {
+    "text": "or on our body",
+    "start": 21.218,
+    "duration": 1.735
+  },
+  {
+    "text": "is a sure sign of the revolution\nthat's taking place in computing",
+    "start": 22.953,
+    "duration": 4.205
+  },
+  {
+    "text": "over the last decade.",
+    "start": 27.158,
+    "duration": 1.534
+  },
+  {
+    "text": "And I want you to think\nwith me for a second",
+    "start": 28.692,
+    "duration": 2.069
+  },
+  {
+    "text": "about the elements of that revolution.",
+    "start": 30.795,
+    "duration": 2.369
+  },
+  {
+    "text": "So first off, are the data.",
+    "start": 33.164,
+    "duration": 1.968
+  },
+  {
+    "text": "These devices are collecting data\nabout our health, our movements,",
+    "start": 35.166,
+    "duration": 3.97
+  },
+  {
+    "text": "our habits and more.",
+    "start": 39.17,
+    "duration": 1.868
+  },
+  {
+    "text": "And what's really important",
+    "start": 41.072,
+    "duration": 1.301
+  },
+  {
+    "text": "is that those data\nare not generic population data,",
+    "start": 42.406,
+    "duration": 3.337
+  },
+  {
+    "text": "but they're data\nthat are personalized to us,",
+    "start": 45.776,
+    "duration": 2.469
+  },
+  {
+    "text": "each as an individual.",
+    "start": 48.279,
+    "duration": 1.768
+  },
+  {
+    "text": "Second, and just as important,\nare the models.",
+    "start": 50.047,
+    "duration": 3.237
+  },
+  {
+    "text": "Inside these devices are very powerful",
+    "start": 53.317,
+    "duration": 2.703
+  },
+  {
+    "text": "mathematical and statistical models.",
+    "start": 56.053,
+    "duration": 2.636
+  },
+  {
+    "text": "Some of these models\nare learned entirely from data,",
+    "start": 58.989,
+    "duration": 3.07
+  },
+  {
+    "text": "perhaps a machine-learning model\nthat has learned to classify",
+    "start": 62.093,
+    "duration": 3.203
+  },
+  {
+    "text": "whether I'm running\nor walking or biking or sleeping.",
+    "start": 65.329,
+    "duration": 3.604
+  },
+  {
+    "text": "Some of these models are based in physics,",
+    "start": 68.933,
+    "duration": 2.669
+  },
+  {
+    "text": "such as a physiological model\nthat describes the equations",
+    "start": 71.635,
+    "duration": 4.271
+  },
+  {
+    "text": "that represent cardiac function\nor circadian rhythm.",
+    "start": 75.906,
+    "duration": 4.071
+  },
+  {
+    "text": "And now where things\nget really interesting",
+    "start": 80.444,
+    "duration": 2.703
+  },
+  {
+    "text": "is when we start to put\nthe data and the models together.",
+    "start": 83.147,
+    "duration": 3.603
+  },
+  {
+    "text": "Mathematically, this is known\nas data assimilation.",
+    "start": 86.784,
+    "duration": 3.437
+  },
+  {
+    "text": "So we have data and we have models.",
+    "start": 90.221,
+    "duration": 2.836
+  },
+  {
+    "text": "With data assimilation,\nwe start updating the models",
+    "start": 93.09,
+    "duration": 3.604
+  },
+  {
+    "text": "as new data are collected from the system.",
+    "start": 96.694,
+    "duration": 2.702
+  },
+  {
+    "text": "And we don't do this update just once,\nbut we do it continually.",
+    "start": 99.396,
+    "duration": 4.438
+  },
+  {
+    "text": "So as the system changes,",
+    "start": 103.868,
+    "duration": 2.002
+  },
+  {
+    "text": "as I get older and my circadian rhythm",
+    "start": 105.903,
+    "duration": 2.669
+  },
+  {
+    "text": "or as my cardiac function\nis not what it once was,",
+    "start": 108.606,
+    "duration": 3.136
+  },
+  {
+    "text": "the new data is collected\nand the models are evolving",
+    "start": 111.742,
+    "duration": 2.836
+  },
+  {
+    "text": "and following along with me.",
+    "start": 114.578,
+    "duration": 1.969
+  },
+  {
+    "text": "Now that data assimilation\nis really important",
+    "start": 116.547,
+    "duration": 2.803
+  },
+  {
+    "text": "because it's what personalizes\nthe models to me",
+    "start": 119.383,
+    "duration": 4.037
+  },
+  {
+    "text": "and that then gets us\nto the fourth element,",
+    "start": 123.454,
+    "duration": 2.703
+  },
+  {
+    "text": "which is the element of prediction.",
+    "start": 126.157,
+    "duration": 2.135
+  },
+  {
+    "text": "Now that I have these personalized models,",
+    "start": 128.325,
+    "duration": 2.57
+  },
+  {
+    "text": "it's so powerful",
+    "start": 130.928,
+    "duration": 1.668
+  },
+  {
+    "text": "because I can now get predictions\nor recommendations",
+    "start": 132.63,
+    "duration": 4.004
+  },
+  {
+    "text": "that are tailored to me as an individual",
+    "start": 136.667,
+    "duration": 2.603
+  },
+  {
+    "text": "and that are tailored to my dynamically\nevolving state over my life.",
+    "start": 139.303,
+    "duration": 4.304
+  },
+  {
+    "text": "So ... what I’m describing,",
+    "start": 144.008,
+    "duration": 2.135
+  },
+  {
+    "text": "this working together of data and models,",
+    "start": 146.143,
+    "duration": 3.003
+  },
+  {
+    "text": "is likely very familiar to all of you",
+    "start": 149.146,
+    "duration": 2.669
+  },
+  {
+    "text": "because it's been driving your personal\nchoices in retail and entertainment",
+    "start": 151.815,
+    "duration": 4.171
+  },
+  {
+    "text": "and wellness for many years.",
+    "start": 155.986,
+    "duration": 2.136
+  },
+  {
+    "text": "But what you might not know",
+    "start": 158.122,
+    "duration": 1.334
+  },
+  {
+    "text": "is that a similar revolution\nhas been taking place",
+    "start": 159.456,
+    "duration": 2.903
+  },
+  {
+    "text": "in engineering systems.",
+    "start": 162.393,
+    "duration": 2.135
+  },
+  {
+    "text": "And in engineering systems,\nthe story is much the same.",
+    "start": 164.562,
+    "duration": 3.336
+  },
+  {
+    "text": "We have data and we have\nincreasing amounts of data",
+    "start": 167.898,
+    "duration": 3.904
+  },
+  {
+    "text": "as sensors have become smaller, lighter,\ncheaper and more powerful.",
+    "start": 171.802,
+    "duration": 5.339
+  },
+  {
+    "text": "In engineering, we also have models.",
+    "start": 177.741,
+    "duration": 2.303
+  },
+  {
+    "text": "Our models are usually\ngrounded in physics.",
+    "start": 180.077,
+    "duration": 2.669
+  },
+  {
+    "text": "These models represent\nthe governing laws of nature.",
+    "start": 182.746,
+    "duration": 3.904
+  },
+  {
+    "text": "They're powerful models\nthat let us predict",
+    "start": 186.684,
+    "duration": 2.269
+  },
+  {
+    "text": "how an engineering system will respond.",
+    "start": 188.986,
+    "duration": 2.97
+  },
+  {
+    "text": "What you see up here on the slide\nis a picture of the unmanned aircraft",
+    "start": 192.423,
+    "duration": 4.237
+  },
+  {
+    "text": "that I have in my research group",
+    "start": 196.66,
+    "duration": 1.569
+  },
+  {
+    "text": "that we use for a great deal\nof our research.",
+    "start": 198.229,
+    "duration": 3.169
+  },
+  {
+    "text": "And for this aircraft,",
+    "start": 201.398,
+    "duration": 1.569
+  },
+  {
+    "text": "we have powerful finite element models",
+    "start": 202.967,
+    "duration": 3.203
+  },
+  {
+    "text": "that let us predict\nhow the aircraft structure will respond",
+    "start": 206.203,
+    "duration": 3.771
+  },
+  {
+    "text": "under different conditions.",
+    "start": 210.007,
+    "duration": 1.501
+  },
+  {
+    "text": "So these models let us answer questions",
+    "start": 211.542,
+    "duration": 2.736
+  },
+  {
+    "text": "like, will the structure of the aircraft\nhold together on takeoff",
+    "start": 214.278,
+    "duration": 5.038
+  },
+  {
+    "text": "if I design it in this way?",
+    "start": 219.35,
+    "duration": 1.935
+  },
+  {
+    "text": "Or, what happens if the aircraft\nwing gets damaged",
+    "start": 221.318,
+    "duration": 2.77
+  },
+  {
+    "text": "and I continue to fly it aggressively?",
+    "start": 224.121,
+    "duration": 1.935
+  },
+  {
+    "text": "Will the aircraft hold together?",
+    "start": 226.056,
+    "duration": 2.503
+  },
+  {
+    "text": "And again, just like the Fitbit\nand the smartphone example,",
+    "start": 228.959,
+    "duration": 4.004
+  },
+  {
+    "text": "we can put the data\nand the models together",
+    "start": 232.963,
+    "duration": 3.237
+  },
+  {
+    "text": "to build a personalized model\nof the engineering system,",
+    "start": 236.2,
+    "duration": 3.236
+  },
+  {
+    "text": "a personalized model of the aircraft.",
+    "start": 239.47,
+    "duration": 2.502
+  },
+  {
+    "text": "And we call this personalized\nmodel a digital twin.",
+    "start": 242.006,
+    "duration": 3.336
+  },
+  {
+    "text": "So what is a digital twin?",
+    "start": 245.776,
+    "duration": 1.802
+  },
+  {
+    "text": "It is a personalized,",
+    "start": 247.578,
+    "duration": 1.935
+  },
+  {
+    "text": "dynamically evolving model\nof a physical system.",
+    "start": 249.546,
+    "duration": 4.739
+  },
+  {
+    "text": "And I want you to think\nabout the digital twin of my aircraft.",
+    "start": 254.318,
+    "duration": 5.105
+  },
+  {
+    "text": "So as I create that digital twin,",
+    "start": 259.423,
+    "duration": 2.135
+  },
+  {
+    "text": "I'm going to be collecting data\nfrom the sensors on board the aircraft.",
+    "start": 261.592,
+    "duration": 5.005
+  },
+  {
+    "text": "I'm going to be collecting\ndata from inspections",
+    "start": 266.63,
+    "duration": 2.569
+  },
+  {
+    "text": "I might make of the aircraft,",
+    "start": 269.233,
+    "duration": 2.035
+  },
+  {
+    "text": "and I'm going to be assimilating\nthat data into the models.",
+    "start": 271.302,
+    "duration": 3.403
+  },
+  {
+    "text": "And what's really important",
+    "start": 274.738,
+    "duration": 1.302
+  },
+  {
+    "text": "is that I’m not building a generic model\nof just any old Telemaster aircraft.",
+    "start": 276.073,
+    "duration": 5.672
+  },
+  {
+    "text": "I am building a personalized model",
+    "start": 281.779,
+    "duration": 1.968
+  },
+  {
+    "text": "of the very aircraft that is right now\nsitting in my garage",
+    "start": 283.781,
+    "duration": 3.403
+  },
+  {
+    "text": "down the road in South Austin.",
+    "start": 287.217,
+    "duration": 2.036
+  },
+  {
+    "text": "And so that digital twin\nwill capture the differences,",
+    "start": 289.253,
+    "duration": 3.07
+  },
+  {
+    "text": "the variability from my aircraft\nto say, my neighbor's aircraft.",
+    "start": 292.356,
+    "duration": 4.905
+  },
+  {
+    "text": "And what's more, that digital\ntwin will not be static.",
+    "start": 297.294,
+    "duration": 2.97
+  },
+  {
+    "text": "It's going to change\nas my aircraft ages and degrades",
+    "start": 300.297,
+    "duration": 5.205
+  },
+  {
+    "text": "and gets damaged and gets repaired.",
+    "start": 305.502,
+    "duration": 2.303
+  },
+  {
+    "text": "We will be assimilating data all the time",
+    "start": 307.838,
+    "duration": 2.569
+  },
+  {
+    "text": "and the digital twin will follow\nthe aircraft through its life.",
+    "start": 310.441,
+    "duration": 3.536
+  },
+  {
+    "text": "So this is incredibly powerful.",
+    "start": 313.977,
+    "duration": 1.502
+  },
+  {
+    "text": "I want you to imagine now\nthat you're an airline",
+    "start": 315.479,
+    "duration": 2.269
+  },
+  {
+    "text": "or maybe in a few years’ time,\nyou’re an operator",
+    "start": 317.781,
+    "duration": 2.937
+  },
+  {
+    "text": "of a fleet of unmanned\ncargo delivery drones,",
+    "start": 320.751,
+    "duration": 3.57
+  },
+  {
+    "text": "and imagine that you would have\na digital twin like this",
+    "start": 324.321,
+    "duration": 2.836
+  },
+  {
+    "text": "for every vehicle in your fleet.",
+    "start": 327.191,
+    "duration": 2.469
+  },
+  {
+    "text": "And think about what that would mean\nfor your decision making.",
+    "start": 329.693,
+    "duration": 3.003
+  },
+  {
+    "text": "You could make decisions\nabout when to maintain any one aircraft,",
+    "start": 332.696,
+    "duration": 5.072
+  },
+  {
+    "text": "depending on the particular\nevolving state of that aircraft.",
+    "start": 337.801,
+    "duration": 3.804
+  },
+  {
+    "text": "You could make decisions\nabout how to optimally fly an aircraft",
+    "start": 341.605,
+    "duration": 4.171
+  },
+  {
+    "text": "on any given day,",
+    "start": 345.809,
+    "duration": 1.635
+  },
+  {
+    "text": "given the health of the aircraft,\ngiven the mission needs,",
+    "start": 347.478,
+    "duration": 3.169
+  },
+  {
+    "text": "given the environmental conditions.",
+    "start": 350.647,
+    "duration": 1.702
+  },
+  {
+    "text": "It would really let you optimally\nmanage that fleet of aircraft.",
+    "start": 352.349,
+    "duration": 3.37
+  },
+  {
+    "text": "So this idea of a digital twin\nis pretty neat.",
+    "start": 356.92,
+    "duration": 3.671
+  },
+  {
+    "text": "The term “digital twin” was coined\nin 2010 in a NASA report.",
+    "start": 360.624,
+    "duration": 5.506
+  },
+  {
+    "text": "But the idea, this idea\nof a personalized model",
+    "start": 366.163,
+    "duration": 2.669
+  },
+  {
+    "text": "combining models and data, is much older.",
+    "start": 368.832,
+    "duration": 3.47
+  },
+  {
+    "text": "And many people\npoint to the Apollo program",
+    "start": 372.636,
+    "duration": 3.137
+  },
+  {
+    "text": "as being one of the places",
+    "start": 375.773,
+    "duration": 2.202
+  },
+  {
+    "text": "where digital twins\nwere first put into practice.",
+    "start": 378.008,
+    "duration": 3.771
+  },
+  {
+    "text": "So in the Apollo program,\nback in the '60s and the '70s,",
+    "start": 381.779,
+    "duration": 3.503
+  },
+  {
+    "text": "NASA would launch Apollo\nspacecraft up into space,",
+    "start": 385.282,
+    "duration": 3.67
+  },
+  {
+    "text": "and they would also deploy a simulator,",
+    "start": 388.986,
+    "duration": 2.102
+  },
+  {
+    "text": "a virtual model on the ground in Houston,",
+    "start": 391.121,
+    "duration": 3.103
+  },
+  {
+    "text": "to follow along on the mission.",
+    "start": 394.258,
+    "duration": 1.935
+  },
+  {
+    "text": "And now this became very important",
+    "start": 396.226,
+    "duration": 2.102
+  },
+  {
+    "text": "and it became very useful\nin the Apollo 13 mission.",
+    "start": 398.328,
+    "duration": 3.07
+  },
+  {
+    "text": "And again, perhaps you all know the story\nbecause we've seen the movie.",
+    "start": 401.398,
+    "duration": 3.604
+  },
+  {
+    "text": "In the Apollo 13 mission,\nthe spacecraft suffered a malfunction.",
+    "start": 405.002,
+    "duration": 4.538
+  },
+  {
+    "text": "It was very badly damaged.",
+    "start": 409.54,
+    "duration": 1.935
+  },
+  {
+    "text": "It became stranded up in space.",
+    "start": 411.508,
+    "duration": 2.202
+  },
+  {
+    "text": "And so the story goes that NASA were able\nto take the data from the real aircraft,",
+    "start": 413.71,
+    "duration": 5.072
+  },
+  {
+    "text": "the physical twin stuck up in space,",
+    "start": 418.816,
+    "duration": 2.502
+  },
+  {
+    "text": "feed it into the simulator\nand to the virtual models",
+    "start": 421.351,
+    "duration": 3.704
+  },
+  {
+    "text": "on the ground in Houston,",
+    "start": 425.055,
+    "duration": 1.435
+  },
+  {
+    "text": "do the data assimilation,",
+    "start": 426.49,
+    "duration": 1.635
+  },
+  {
+    "text": "dynamically evolve the simulator",
+    "start": 428.158,
+    "duration": 2.002
+  },
+  {
+    "text": "so now that it represented\nthe conditions of the damaged spacecraft",
+    "start": 430.194,
+    "duration": 4.037
+  },
+  {
+    "text": "and then use that simulator\nto run predictions",
+    "start": 434.231,
+    "duration": 3.87
+  },
+  {
+    "text": "and ultimately guide the decisions",
+    "start": 438.135,
+    "duration": 1.802
+  },
+  {
+    "text": "that brought the astronauts\nback home safely.",
+    "start": 439.937,
+    "duration": 2.702
+  },
+  {
+    "text": "So more than 50 years later,",
+    "start": 443.273,
+    "duration": 2.303
+  },
+  {
+    "text": "this idea now has a really great name,",
+    "start": 445.609,
+    "duration": 2.369
+  },
+  {
+    "text": "the name of digital twins.",
+    "start": 447.978,
+    "duration": 1.869
+  },
+  {
+    "text": "And what's really exciting",
+    "start": 449.847,
+    "duration": 1.968
+  },
+  {
+    "text": "is that it's moving well beyond\njust aerospace engineering.",
+    "start": 451.815,
+    "duration": 4.672
+  },
+  {
+    "text": "So in our engineered world,",
+    "start": 456.52,
+    "duration": 1.702
+  },
+  {
+    "text": "we're starting to see digital twins\nof bridges and other civil infrastructure",
+    "start": 458.255,
+    "duration": 4.404
+  },
+  {
+    "text": "for structural health monitoring\nand predictive maintenance.",
+    "start": 462.693,
+    "duration": 2.869
+  },
+  {
+    "text": "We're starting to see digital twins\nof buildings for energy efficiency,",
+    "start": 465.963,
+    "duration": 3.803
+  },
+  {
+    "text": "digital twins of wind farms",
+    "start": 469.8,
+    "duration": 2.002
+  },
+  {
+    "text": "to increase efficiency\nand to reduce downtime.",
+    "start": 471.802,
+    "duration": 2.736
+  },
+  {
+    "text": "In the natural world,",
+    "start": 475.038,
+    "duration": 1.335
+  },
+  {
+    "text": "there's a lot of interest\nin creating digital twins of forests,",
+    "start": 476.373,
+    "duration": 4.438
+  },
+  {
+    "text": "farms, ice sheets,\ncoastal regions, oil reservoirs",
+    "start": 480.844,
+    "duration": 4.571
+  },
+  {
+    "text": "and even talk of trying to create\na digital twin of planet Earth.",
+    "start": 485.449,
+    "duration": 3.637
+  },
+  {
+    "text": "And in the medical world,",
+    "start": 489.52,
+    "duration": 1.501
+  },
+  {
+    "text": "there's a great deal of interest\nin creating digital twins",
+    "start": 491.054,
+    "duration": 3.938
+  },
+  {
+    "text": "to help guide medical assessment,",
+    "start": 495.025,
+    "duration": 2.035
+  },
+  {
+    "text": "diagnosis, personalized treatment\nand in silico drug testing.",
+    "start": 497.094,
+    "duration": 4.671
+  },
+  {
+    "text": "So, many, many exciting\npotential applications of digital twins.",
+    "start": 502.399,
+    "duration": 5.906
+  },
+  {
+    "text": "But now, I would not like you\nto leave my talk today",
+    "start": 508.338,
+    "duration": 2.503
+  },
+  {
+    "text": "thinking that all of this is a reality,",
+    "start": 510.841,
+    "duration": 1.968
+  },
+  {
+    "text": "that we can create digital twins today\nof all those complex systems.",
+    "start": 512.843,
+    "duration": 3.837
+  },
+  {
+    "text": "It's still beyond reach to create\na digital twin of an entire aircraft.",
+    "start": 517.014,
+    "duration": 5.639
+  },
+  {
+    "text": "It's still beyond reach to create\na digital twin of a cancer patient",
+    "start": 522.686,
+    "duration": 3.971
+  },
+  {
+    "text": "or of planet Earth.",
+    "start": 526.657,
+    "duration": 1.968
+  },
+  {
+    "text": "Creating digital twins of these very,\nvery complex systems",
+    "start": 529.226,
+    "duration": 3.67
+  },
+  {
+    "text": "is very, very challenging.",
+    "start": 532.896,
+    "duration": 2.302
+  },
+  {
+    "text": "And let's think for a minute\nwhy it's so challenging.",
+    "start": 535.232,
+    "duration": 3.203
+  },
+  {
+    "text": "So one reason it's very difficult\nis because of the scales",
+    "start": 538.468,
+    "duration": 3.304
+  },
+  {
+    "text": "that these systems cross.",
+    "start": 541.805,
+    "duration": 1.869
+  },
+  {
+    "text": "If you think about my aircraft,",
+    "start": 543.707,
+    "duration": 2.402
+  },
+  {
+    "text": "damage at the microscopic level",
+    "start": 546.109,
+    "duration": 2.436
+  },
+  {
+    "text": "on the material on the wing\nof the aircraft",
+    "start": 548.579,
+    "duration": 2.635
+  },
+  {
+    "text": "translates across scale",
+    "start": 551.214,
+    "duration": 1.902
+  },
+  {
+    "text": "to impact the way the vehicle flies\nat the vehicle level.",
+    "start": 553.15,
+    "duration": 3.437
+  },
+  {
+    "text": "In medicine, we all know that, again,",
+    "start": 556.62,
+    "duration": 3.837
+  },
+  {
+    "text": "changes at the very fine level,",
+    "start": 560.49,
+    "duration": 1.936
+  },
+  {
+    "text": "at the molecular or the cellular\nlevel in our bodies",
+    "start": 562.459,
+    "duration": 3.337
+  },
+  {
+    "text": "translate across scales to have impacts\non us at the system level,",
+    "start": 565.796,
+    "duration": 3.77
+  },
+  {
+    "text": "at the human level.",
+    "start": 569.566,
+    "duration": 1.735
+  },
+  {
+    "text": "And computational models\nthat resolve all of these scales,",
+    "start": 571.335,
+    "duration": 3.603
+  },
+  {
+    "text": "from the microscale all the way up\nto the system level,",
+    "start": 574.972,
+    "duration": 3.436
+  },
+  {
+    "text": "are computationally intractable.",
+    "start": 578.442,
+    "duration": 1.535
+  },
+  {
+    "text": "We can't solve them even with today's\nsupercomputing power.",
+    "start": 579.977,
+    "duration": 3.169
+  },
+  {
+    "text": "But then you might say,\n\"OK, well what about the data?",
+    "start": 583.88,
+    "duration": 2.57
+  },
+  {
+    "text": "You said we had a lot of data.",
+    "start": 586.483,
+    "duration": 1.435
+  },
+  {
+    "text": "Can we not just learn\ndigital twins from data?\"",
+    "start": 587.951,
+    "duration": 2.936
+  },
+  {
+    "text": "So yes, we live in an era of big data",
+    "start": 591.321,
+    "duration": 2.77
+  },
+  {
+    "text": "and we have a lot of data\noften for our systems.",
+    "start": 594.091,
+    "duration": 2.736
+  },
+  {
+    "text": "But when it comes\nto these very challenging,",
+    "start": 596.86,
+    "duration": 2.803
+  },
+  {
+    "text": "complex systems in engineering,\nin science and in medicine,",
+    "start": 599.663,
+    "duration": 4.204
+  },
+  {
+    "text": "the data by themselves\nare almost never enough.",
+    "start": 603.9,
+    "duration": 3.838
+  },
+  {
+    "text": "The data are almost always very sparse\nin both space and in time.",
+    "start": 607.738,
+    "duration": 5.438
+  },
+  {
+    "text": "The data are almost always noisy\nand they're indirect.",
+    "start": 613.176,
+    "duration": 3.938
+  },
+  {
+    "text": "As an engineer,",
+    "start": 617.147,
+    "duration": 1.134
+  },
+  {
+    "text": "I can almost never measure\nwhat it is I want to know.",
+    "start": 618.315,
+    "duration": 2.803
+  },
+  {
+    "text": "If I want to know about the health\non the structure inside my aircraft wing,",
+    "start": 621.151,
+    "duration": 3.704
+  },
+  {
+    "text": "I can't just break it open\nand take a look.",
+    "start": 624.888,
+    "duration": 2.436
+  },
+  {
+    "text": "I am limited to those few sensors\nthat are on the surface of the wing,",
+    "start": 627.357,
+    "duration": 4.238
+  },
+  {
+    "text": "taking those measurements\nand then trying to guess.",
+    "start": 631.628,
+    "duration": 2.903
+  },
+  {
+    "text": "More than guess, trying to infer\nwhat's happening inside the wing.",
+    "start": 634.564,
+    "duration": 4.105
+  },
+  {
+    "text": "The same is true in medicine.",
+    "start": 638.702,
+    "duration": 1.868
+  },
+  {
+    "text": "A medical practitioner can't open\nsomebody up to take a look at an organ.",
+    "start": 640.604,
+    "duration": 4.204
+  },
+  {
+    "text": "Again, we are limited to sparse,",
+    "start": 644.841,
+    "duration": 2.236
+  },
+  {
+    "text": "noisy and indirect observations\ntaken from the outside",
+    "start": 647.11,
+    "duration": 4.138
+  },
+  {
+    "text": "to try to infer what's going on.",
+    "start": 651.248,
+    "duration": 2.302
+  },
+  {
+    "text": "So then you might say,",
+    "start": 654.151,
+    "duration": 1.167
+  },
+  {
+    "text": "\"Well, we just have to wait a few years",
+    "start": 655.352,
+    "duration": 1.868
+  },
+  {
+    "text": "because sensing technology will get\nbetter and better and better.\"",
+    "start": 657.22,
+    "duration": 3.137
+  },
+  {
+    "text": "And that's true.",
+    "start": 660.39,
+    "duration": 1.368
+  },
+  {
+    "text": "Maybe, maybe then we'll have enough data",
+    "start": 661.792,
+    "duration": 2.903
+  },
+  {
+    "text": "to really be able to characterize",
+    "start": 664.728,
+    "duration": 1.835
+  },
+  {
+    "text": "what is going on inside\nthese very complex systems.",
+    "start": 666.563,
+    "duration": 3.103
+  },
+  {
+    "text": "But even that's not enough,",
+    "start": 669.7,
+    "duration": 1.568
+  },
+  {
+    "text": "because all that would tell us\nis what's happening now.",
+    "start": 671.268,
+    "duration": 3.804
+  },
+  {
+    "text": "And remember, we have\nto do more than that.",
+    "start": 675.105,
+    "duration": 2.002
+  },
+  {
+    "text": "We have to be able to predict\nwhat might happen in the future",
+    "start": 677.14,
+    "duration": 3.37
+  },
+  {
+    "text": "if we take different actions.",
+    "start": 680.544,
+    "duration": 2.235
+  },
+  {
+    "text": "So we're always going to need the models.",
+    "start": 682.779,
+    "duration": 2.469
+  },
+  {
+    "text": "So this sounds like a huge\nchallenge, and indeed it is.",
+    "start": 685.615,
+    "duration": 3.804
+  },
+  {
+    "text": "But the good news is that we have a lot\nof hope for addressing this challenge.",
+    "start": 689.419,
+    "duration": 4.838
+  },
+  {
+    "text": "And a big part of this hope",
+    "start": 694.291,
+    "duration": 1.568
+  },
+  {
+    "text": "rests on this notion of predictive\nphysics-based models.",
+    "start": 695.859,
+    "duration": 3.904
+  },
+  {
+    "text": "These are the models that encode\nthe governing laws of nature",
+    "start": 699.796,
+    "duration": 3.27
+  },
+  {
+    "text": "that let us make predictions --",
+    "start": 703.1,
+    "duration": 2.202
+  },
+  {
+    "text": "predict how a cancer tumor might grow",
+    "start": 705.335,
+    "duration": 3.003
+  },
+  {
+    "text": "or how a cancer tumor might respond\nto radiotherapy treatment,",
+    "start": 708.371,
+    "duration": 3.604
+  },
+  {
+    "text": "or predict how an Antarctic\nice sheet might flow",
+    "start": 712.008,
+    "duration": 3.537
+  },
+  {
+    "text": "under different future\ntemperature scenarios.",
+    "start": 715.545,
+    "duration": 3.337
+  },
+  {
+    "text": "And bringing these predictive\nphysics-based models together",
+    "start": 718.915,
+    "duration": 3.337
+  },
+  {
+    "text": "with powerful machine learning,",
+    "start": 722.252,
+    "duration": 2.236
+  },
+  {
+    "text": "with scalable methods and data simulation",
+    "start": 724.488,
+    "duration": 2.602
+  },
+  {
+    "text": "and optimization and decision making,",
+    "start": 727.124,
+    "duration": 2.268
+  },
+  {
+    "text": "and with high performance computing,",
+    "start": 729.426,
+    "duration": 2.102
+  },
+  {
+    "text": "that's the realm of the interdisciplinary\nfield of computational science,",
+    "start": 731.561,
+    "duration": 3.604
+  },
+  {
+    "text": "and that's the focus of the Oden Institute",
+    "start": 735.198,
+    "duration": 2.269
+  },
+  {
+    "text": "here at UT Austin,",
+    "start": 737.501,
+    "duration": 1.568
+  },
+  {
+    "text": "where we bring together faculty",
+    "start": 739.102,
+    "duration": 1.502
+  },
+  {
+    "text": "from 24 different\ndepartments across campus",
+    "start": 740.604,
+    "duration": 2.569
+  },
+  {
+    "text": "to tackle these kinds\nof challenging problems.",
+    "start": 743.206,
+    "duration": 2.937
+  },
+  {
+    "text": "So I’m going to close\nby provoking your imagination",
+    "start": 746.91,
+    "duration": 3.37
+  },
+  {
+    "text": "and I hope you’re excited, like I am,\nabout the idea of a digital twin.",
+    "start": 750.28,
+    "duration": 3.67
+  },
+  {
+    "text": "And maybe as you go home,\nyou can look around and think,",
+    "start": 753.984,
+    "duration": 2.636
+  },
+  {
+    "text": "\"Oh, what if we had\na digital twin of that?\"",
+    "start": 756.653,
+    "duration": 2.069
+  },
+  {
+    "text": "But let's look at some examples\nof some of the really exciting areas",
+    "start": 758.722,
+    "duration": 4.271
+  },
+  {
+    "text": "where digital twins\ncould make a difference",
+    "start": 763.026,
+    "duration": 2.569
+  },
+  {
+    "text": "in tackling some of the biggest\nproblems facing society.",
+    "start": 765.595,
+    "duration": 2.636
+  },
+  {
+    "text": "And as I go through this,",
+    "start": 768.265,
+    "duration": 1.201
+  },
+  {
+    "text": "you'll also see some\nof the really exciting research",
+    "start": 769.499,
+    "duration": 2.436
+  },
+  {
+    "text": "that we have going on here at UT Austin.",
+    "start": 771.968,
+    "duration": 2.269
+  },
+  {
+    "text": "So the first area is space systems.",
+    "start": 774.271,
+    "duration": 2.702
+  },
+  {
+    "text": "You probably all know,\nwe are at the dawn of a new space era.",
+    "start": 777.007,
+    "duration": 3.436
+  },
+  {
+    "text": "It is so exciting and it's\nso exciting for our students.",
+    "start": 780.477,
+    "duration": 2.869
+  },
+  {
+    "text": "And what's even more exciting\nis that central Texas",
+    "start": 783.38,
+    "duration": 2.736
+  },
+  {
+    "text": "is right in the midst of that new era.",
+    "start": 786.116,
+    "duration": 3.003
+  },
+  {
+    "text": "So digital twins clearly have a role\nto play in managing the health",
+    "start": 789.152,
+    "duration": 5.339
+  },
+  {
+    "text": "and the operations of space systems,\nof launch vehicles, of satellites.",
+    "start": 794.524,
+    "duration": 4.872
+  },
+  {
+    "text": "You can see here,\nthis is some of the work",
+    "start": 799.429,
+    "duration": 1.969
+  },
+  {
+    "text": "that I'm doing together with my\ncolleagues from the Cockrell School,",
+    "start": 801.398,
+    "duration": 3.203
+  },
+  {
+    "text": "Renato Zanetti and Srinivas Bettadpur.",
+    "start": 804.601,
+    "duration": 2.402
+  },
+  {
+    "text": "Digital twins also have\na big role to play in tracking",
+    "start": 807.07,
+    "duration": 3.904
+  },
+  {
+    "text": "and managing space objects\nand space debris.",
+    "start": 810.974,
+    "duration": 3.036
+  },
+  {
+    "text": "And here at UT Austin,",
+    "start": 814.044,
+    "duration": 1.168
+  },
+  {
+    "text": "we have one of the world's\nleading experts in this area,",
+    "start": 815.245,
+    "duration": 2.636
+  },
+  {
+    "text": "that's Moriba Jah.",
+    "start": 817.914,
+    "duration": 1.435
+  },
+  {
+    "text": "Moriba is building digital twins\nfor space domain awareness.",
+    "start": 819.382,
+    "duration": 4.605
+  },
+  {
+    "text": "If we think about the environment\nand geosciences, again,",
+    "start": 824.554,
+    "duration": 3.337
+  },
+  {
+    "text": "digital twins could play such a role here.",
+    "start": 827.924,
+    "duration": 2.703
+  },
+  {
+    "text": "This picture you see,\nOmar Ghattas's, high-resolution,",
+    "start": 830.66,
+    "duration": 4.071
+  },
+  {
+    "text": "physics-based model\nof the Antarctic ice sheet,",
+    "start": 834.764,
+    "duration": 2.87
+  },
+  {
+    "text": "which is put together with observational\ndata of all different kinds",
+    "start": 837.667,
+    "duration": 4.371
+  },
+  {
+    "text": "to understand what might be going on,",
+    "start": 842.038,
+    "duration": 1.802
+  },
+  {
+    "text": "to help guide decisions\nabout where to drill ice cores,",
+    "start": 843.874,
+    "duration": 3.803
+  },
+  {
+    "text": "where to take observations,",
+    "start": 847.711,
+    "duration": 1.601
+  },
+  {
+    "text": "and ultimately to inform the \ndecision-making around our future climate.",
+    "start": 849.346,
+    "duration": 3.97
+  },
+  {
+    "text": "We see also here the work of Clint Dawson",
+    "start": 854.251,
+    "duration": 2.369
+  },
+  {
+    "text": "in building a digital twin\nof a coastal area,",
+    "start": 856.62,
+    "duration": 2.636
+  },
+  {
+    "text": "here, the Gulf Coast,",
+    "start": 859.256,
+    "duration": 3.536
+  },
+  {
+    "text": "again combining powerful physics models\nwith all the different kinds of data",
+    "start": 862.826,
+    "duration": 4.738
+  },
+  {
+    "text": "and here, focused on making\nstorm surge modeling",
+    "start": 867.564,
+    "duration": 2.936
+  },
+  {
+    "text": "for hurricanes even more accurate,",
+    "start": 870.533,
+    "duration": 2.269
+  },
+  {
+    "text": "again, in support\nof critical decision-making.",
+    "start": 872.802,
+    "duration": 2.903
+  },
+  {
+    "text": "And then in medicine,",
+    "start": 876.506,
+    "duration": 1.335
+  },
+  {
+    "text": "I think it's pretty clear\nthat digital twins",
+    "start": 877.841,
+    "duration": 2.069
+  },
+  {
+    "text": "have such a role to play",
+    "start": 879.943,
+    "duration": 1.401
+  },
+  {
+    "text": "in realizing the promise\nof personalized medicine.",
+    "start": 881.378,
+    "duration": 2.936
+  },
+  {
+    "text": "Here we see some of the work\nof Michael Sacks",
+    "start": 884.948,
+    "duration": 2.169
+  },
+  {
+    "text": "from our Oden Institute Willerson Center,",
+    "start": 887.15,
+    "duration": 2.503
+  },
+  {
+    "text": "in moving towards patient-specific,",
+    "start": 889.653,
+    "duration": 2.535
+  },
+  {
+    "text": "personalized heart care,",
+    "start": 892.222,
+    "duration": 2.069
+  },
+  {
+    "text": "and the work of Tom Yankeelov\nand David Hellmuth,",
+    "start": 894.291,
+    "duration": 2.636
+  },
+  {
+    "text": "also in the Oden Institute,",
+    "start": 896.96,
+    "duration": 2.369
+  },
+  {
+    "text": "also working with Dell Medical School\nand part of biomedical engineering,",
+    "start": 899.329,
+    "duration": 4.538
+  },
+  {
+    "text": "in building digital twins\nfor cancer patients.",
+    "start": 903.9,
+    "duration": 3.037
+  },
+  {
+    "text": "So I hope that helps to, as I said,",
+    "start": 907.537,
+    "duration": 2.936
+  },
+  {
+    "text": "provoke your imaginations to think\nabout what might be possible.",
+    "start": 910.507,
+    "duration": 3.069
+  },
+  {
+    "text": "I personally could not be more excited",
+    "start": 913.61,
+    "duration": 3.603
+  },
+  {
+    "text": "about a future world where digital\ntwins are enabling safer,",
+    "start": 917.247,
+    "duration": 4.304
+  },
+  {
+    "text": "more efficient engineering systems.",
+    "start": 921.584,
+    "duration": 2.436
+  },
+  {
+    "text": "They're enabling a better understanding\nof the natural world around us",
+    "start": 924.054,
+    "duration": 3.503
+  },
+  {
+    "text": "and they're enabling\nbetter medical outcomes",
+    "start": 927.59,
+    "duration": 2.57
+  },
+  {
+    "text": "for all of us as an individual.",
+    "start": 930.16,
+    "duration": 1.802
+  },
+  {
+    "text": "Thank you.",
+    "start": 931.962,
+    "duration": 1.201
+  },
+  {
+    "text": "(Applause)",
+    "start": 933.196,
+    "duration": 2.77
+  }
+]

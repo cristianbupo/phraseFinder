@@ -1,0 +1,1287 @@
+[
+  {
+    "text": "I became obsessed with the relationship\nbetween the brain and the mind",
+    "start": 4.251,
+    "duration": 3.753
+  },
+  {
+    "text": "after suffering a series of concussions",
+    "start": 8.004,
+    "duration": 2.294
+  },
+  {
+    "text": "playing football and rugby in college.",
+    "start": 10.34,
+    "duration": 2.377
+  },
+  {
+    "text": "I felt my mind change for years after.",
+    "start": 13.468,
+    "duration": 2.92
+  },
+  {
+    "text": "I was studying computers at the time,",
+    "start": 17.597,
+    "duration": 2.127
+  },
+  {
+    "text": "and it felt as though\nI had damaged my hardware",
+    "start": 19.766,
+    "duration": 2.753
+  },
+  {
+    "text": "and that my software\nwas running differently.",
+    "start": 22.561,
+    "duration": 2.252
+  },
+  {
+    "text": "Over the following years,",
+    "start": 25.355,
+    "duration": 2.002
+  },
+  {
+    "text": "a close friend suffered\na serious neck injury",
+    "start": 27.357,
+    "duration": 2.336
+  },
+  {
+    "text": "and multiple friends\nand family members were struggling",
+    "start": 29.734,
+    "duration": 2.586
+  },
+  {
+    "text": "with crippling mental health issues.",
+    "start": 32.362,
+    "duration": 1.793
+  },
+  {
+    "text": "All around me, people that I loved dearly\nwere being afflicted by ailments",
+    "start": 34.447,
+    "duration": 4.046
+  },
+  {
+    "text": "of the nervous system or the mind.",
+    "start": 38.535,
+    "duration": 2.044
+  },
+  {
+    "text": "I was grappling with all of this",
+    "start": 41.246,
+    "duration": 1.543
+  },
+  {
+    "text": "while pursuing an MFA in Design\nand Technology at Parsons",
+    "start": 42.789,
+    "duration": 3.545
+  },
+  {
+    "text": "when a friend and fellow student showed me\nan open-source tutorial",
+    "start": 46.334,
+    "duration": 3.629
+  },
+  {
+    "text": "on how to build a low-cost\nsingle-channel EEG system",
+    "start": 49.963,
+    "duration": 3.295
+  },
+  {
+    "text": "to detect brain activity.",
+    "start": 53.3,
+    "duration": 1.71
+  },
+  {
+    "text": "After a couple long nights\nof hacking and tinkering,",
+    "start": 55.594,
+    "duration": 3.461
+  },
+  {
+    "text": "I saw my brainwaves dancing\nacross the screen for the very first time.",
+    "start": 59.097,
+    "duration": 4.421
+  },
+  {
+    "text": "And that moment changed my life.",
+    "start": 63.56,
+    "duration": 2.335
+  },
+  {
+    "text": "In that moment,",
+    "start": 66.73,
+    "duration": 1.126
+  },
+  {
+    "text": "I felt as though I had the possibility\nto help myself and the people I loved.",
+    "start": 67.897,
+    "duration": 4.922
+  },
+  {
+    "text": "And I also realized\nthat I couldn't do it alone.",
+    "start": 72.819,
+    "duration": 2.544
+  },
+  {
+    "text": "I needed help.",
+    "start": 75.405,
+    "duration": 1.293
+  },
+  {
+    "text": "So in 2013, in Brooklyn,\nwith some like-minded friends,",
+    "start": 77.115,
+    "duration": 3.795
+  },
+  {
+    "text": "I started OpenBCI, an open-source\nneurotechnology company.",
+    "start": 80.952,
+    "duration": 3.712
+  },
+  {
+    "text": "In the beginning,",
+    "start": 84.956,
+    "duration": 1.168
+  },
+  {
+    "text": "our goal was to build\nan inward-pointing telescope",
+    "start": 86.124,
+    "duration": 3.17
+  },
+  {
+    "text": "and to share the blueprints with the world",
+    "start": 89.294,
+    "duration": 2.377
+  },
+  {
+    "text": "so that anybody with a computer\ncould begin peering into their own brain.",
+    "start": 91.671,
+    "duration": 3.504
+  },
+  {
+    "text": "At first, we were an EEG-only company.",
+    "start": 95.508,
+    "duration": 3.587
+  },
+  {
+    "text": "We sold brain sensors\nto measure brain activity.",
+    "start": 99.137,
+    "duration": 2.461
+  },
+  {
+    "text": "I thought that's what people wanted.",
+    "start": 101.64,
+    "duration": 1.918
+  },
+  {
+    "text": "But over time, we discovered people doing\nvery strange things with our technology.",
+    "start": 103.6,
+    "duration": 5.005
+  },
+  {
+    "text": "Some people were connecting\nthe equipment to the stomach",
+    "start": 109.105,
+    "duration": 2.67
+  },
+  {
+    "text": "to measure the neurons in the gut",
+    "start": 111.775,
+    "duration": 1.71
+  },
+  {
+    "text": "and study gut-brain connection\nand the microbiome.",
+    "start": 113.526,
+    "duration": 2.795
+  },
+  {
+    "text": "Others were using the tools to build\nnew muscle sensors and controllers",
+    "start": 116.363,
+    "duration": 3.962
+  },
+  {
+    "text": "for prosthetics and robotics.",
+    "start": 120.367,
+    "duration": 1.626
+  },
+  {
+    "text": "And some were designing new devices",
+    "start": 122.827,
+    "duration": 2.503
+  },
+  {
+    "text": "and peripheral add-ons\nthat could be connected to the platform",
+    "start": 125.372,
+    "duration": 2.919
+  },
+  {
+    "text": "to measure new types of data\nthat I had never heard of before.",
+    "start": 128.291,
+    "duration": 2.92
+  },
+  {
+    "text": "What we learned from all of this",
+    "start": 131.252,
+    "duration": 1.752
+  },
+  {
+    "text": "is that the brain by itself\nis actually quite boring.",
+    "start": 133.004,
+    "duration": 4.296
+  },
+  {
+    "text": "Turns out brain data alone lacks context.",
+    "start": 139.26,
+    "duration": 3.003
+  },
+  {
+    "text": "And what we ultimately\ncare about is not the brain,",
+    "start": 142.806,
+    "duration": 3.003
+  },
+  {
+    "text": "but the mind, consciousness,\nhuman cognition.",
+    "start": 145.809,
+    "duration": 3.295
+  },
+  {
+    "text": "When we have things like\nEMG sensors to measure muscle activity",
+    "start": 149.104,
+    "duration": 3.336
+  },
+  {
+    "text": "or ECG sensors to measure heart activity,",
+    "start": 152.44,
+    "duration": 2.419
+  },
+  {
+    "text": "eye trackers",
+    "start": 154.901,
+    "duration": 1.168
+  },
+  {
+    "text": "and even environmental sensors\nto measure the world around us,",
+    "start": 156.111,
+    "duration": 2.919
+  },
+  {
+    "text": "all of this makes the brain data\nmuch more useful.",
+    "start": 159.03,
+    "duration": 3.212
+  },
+  {
+    "text": "But the organs around our body,\nour sensory receptors,",
+    "start": 162.242,
+    "duration": 3.044
+  },
+  {
+    "text": "are actually much easier to collect\ndata from than the brain,",
+    "start": 165.286,
+    "duration": 3.754
+  },
+  {
+    "text": "and also arguably much more important\nfor determining the things",
+    "start": 169.082,
+    "duration": 3.045
+  },
+  {
+    "text": "that we actually care about:\nemotions, intentions and the mind overall.",
+    "start": 172.127,
+    "duration": 4.254
+  },
+  {
+    "text": "Additionally,",
+    "start": 176.715,
+    "duration": 1.167
+  },
+  {
+    "text": "we realized that people\nweren't just interested",
+    "start": 177.924,
+    "duration": 2.92
+  },
+  {
+    "text": "in reading from the brain and the body.",
+    "start": 180.844,
+    "duration": 1.918
+  },
+  {
+    "text": "They were also interested\nin modulating the mind",
+    "start": 182.762,
+    "duration": 2.67
+  },
+  {
+    "text": "through various types\nof sensory stimulation.",
+    "start": 185.432,
+    "duration": 2.836
+  },
+  {
+    "text": "Things like light, sound,",
+    "start": 188.268,
+    "duration": 2.169
+  },
+  {
+    "text": "haptics and electricity.",
+    "start": 190.478,
+    "duration": 1.961
+  },
+  {
+    "text": "It's one thing to record the mind,",
+    "start": 192.772,
+    "duration": 2.336
+  },
+  {
+    "text": "it's another to modulate it.",
+    "start": 195.15,
+    "duration": 1.918
+  },
+  {
+    "text": "The idea of a combined system",
+    "start": 197.402,
+    "duration": 1.877
+  },
+  {
+    "text": "that can both read from\nand write to the brain or body",
+    "start": 199.279,
+    "duration": 3.628
+  },
+  {
+    "text": "is referred to as a closed-loop system\nor bidirectional human interface.",
+    "start": 202.949,
+    "duration": 3.921
+  },
+  {
+    "text": "This concept is truly profound,",
+    "start": 207.245,
+    "duration": 2.753
+  },
+  {
+    "text": "and it will define the next major\nrevolution in computing technology.",
+    "start": 209.998,
+    "duration": 4.087
+  },
+  {
+    "text": "When you have products that not just\nare designed for the average user",
+    "start": 214.919,
+    "duration": 4.922
+  },
+  {
+    "text": "but are designed to actually\nadapt to their user,",
+    "start": 219.883,
+    "duration": 3.003
+  },
+  {
+    "text": "that's something truly special.",
+    "start": 222.886,
+    "duration": 1.793
+  },
+  {
+    "text": "When we know what the data\nof an emotion or a feeling looks like",
+    "start": 224.721,
+    "duration": 3.128
+  },
+  {
+    "text": "and we know how to make\nthat data go up or down,",
+    "start": 227.891,
+    "duration": 2.586
+  },
+  {
+    "text": "then using AI,",
+    "start": 230.477,
+    "duration": 1.376
+  },
+  {
+    "text": "we can build constructive\nor destructive interference patterns",
+    "start": 231.895,
+    "duration": 3.545
+  },
+  {
+    "text": "to either amplify or suppress\nthose emotions or feelings.",
+    "start": 235.44,
+    "duration": 3.67
+  },
+  {
+    "text": "In the very near future,",
+    "start": 239.402,
+    "duration": 1.168
+  },
+  {
+    "text": "we will have computers\nthat we are resonantly",
+    "start": 240.612,
+    "duration": 3.003
+  },
+  {
+    "text": "and subconsciously connected to,",
+    "start": 243.656,
+    "duration": 2.336
+  },
+  {
+    "text": "enabling empathetic computing\nfor the very first time.",
+    "start": 246.034,
+    "duration": 2.794
+  },
+  {
+    "text": "In 2018,",
+    "start": 249.996,
+    "duration": 1.71
+  },
+  {
+    "text": "we put these learnings to work",
+    "start": 251.748,
+    "duration": 1.46
+  },
+  {
+    "text": "and began development\nof a new tool for cognitive exploration.",
+    "start": 253.208,
+    "duration": 3.42
+  },
+  {
+    "text": "Named after my friend Gael,\nwho passed from ALS in 2016,",
+    "start": 256.961,
+    "duration": 4.129
+  },
+  {
+    "text": "we call it Galea.",
+    "start": 261.132,
+    "duration": 1.46
+  },
+  {
+    "text": "It’s a multimodal bio-sensing headset,",
+    "start": 262.592,
+    "duration": 2.294
+  },
+  {
+    "text": "and it is absolutely packed with sensors.",
+    "start": 264.928,
+    "duration": 3.378
+  },
+  {
+    "text": "It can measure the user’s heart,\nskin, muscles, eyes and brain,",
+    "start": 268.348,
+    "duration": 6.047
+  },
+  {
+    "text": "and it combines that capability\nwith head-mounted displays",
+    "start": 274.437,
+    "duration": 2.878
+  },
+  {
+    "text": "or augmented and virtual reality headsets.",
+    "start": 277.357,
+    "duration": 2.294
+  },
+  {
+    "text": "Additionally, we're exploring\nthe integration",
+    "start": 280.235,
+    "duration": 2.127
+  },
+  {
+    "text": "of non-invasive electrical\nneural stimulation as a feature.",
+    "start": 282.362,
+    "duration": 2.836
+  },
+  {
+    "text": "The Galea software suite",
+    "start": 285.74,
+    "duration": 1.919
+  },
+  {
+    "text": "can turn the raw sensor data\ninto meaningful metrics.",
+    "start": 287.659,
+    "duration": 3.128
+  },
+  {
+    "text": "With some of the sensors,",
+    "start": 291.204,
+    "duration": 1.209
+  },
+  {
+    "text": "we're able to provide new forms\nof real-time interactivity and control.",
+    "start": 292.413,
+    "duration": 3.921
+  },
+  {
+    "text": "And with all of the sensors,",
+    "start": 296.334,
+    "duration": 1.46
+  },
+  {
+    "text": "we're able to make quantifiable inferences\nabout high-level states of mind,",
+    "start": 297.836,
+    "duration": 4.087
+  },
+  {
+    "text": "things like stress, fatigue,\ncognitive workload and focus.",
+    "start": 301.965,
+    "duration": 3.962
+  },
+  {
+    "text": "In 2019,",
+    "start": 306.386,
+    "duration": 1.668
+  },
+  {
+    "text": "a legendary neurohacker\nby the name of Christian Bayerlein",
+    "start": 308.096,
+    "duration": 3.044
+  },
+  {
+    "text": "reached out to me.",
+    "start": 311.14,
+    "duration": 1.627
+  },
+  {
+    "text": "He was actually one of our very first\nKickstarter backers",
+    "start": 312.809,
+    "duration": 2.711
+  },
+  {
+    "text": "when we got started, early on.",
+    "start": 315.52,
+    "duration": 1.46
+  },
+  {
+    "text": "Christian was a very smart,\nintelligent, happy-go-lucky",
+    "start": 317.021,
+    "duration": 3.17
+  },
+  {
+    "text": "and easygoing guy.",
+    "start": 320.233,
+    "duration": 1.543
+  },
+  {
+    "text": "And so I worked up the courage\nto ask him, \"Hey, Christian,",
+    "start": 321.818,
+    "duration": 2.794
+  },
+  {
+    "text": "can we connect you to our sensors?\"",
+    "start": 324.612,
+    "duration": 1.877
+  },
+  {
+    "text": "At which point he said,",
+    "start": 327.115,
+    "duration": 2.002
+  },
+  {
+    "text": "\"I thought you would never ask.\"",
+    "start": 329.158,
+    "duration": 1.585
+  },
+  {
+    "text": "(Laughter)",
+    "start": 330.785,
+    "duration": 1.126
+  },
+  {
+    "text": "So after 20 minutes,",
+    "start": 331.911,
+    "duration": 1.377
+  },
+  {
+    "text": "we had him rigged up\nto a bunch of electrodes,",
+    "start": 333.288,
+    "duration": 3.086
+  },
+  {
+    "text": "and we provided him\nwith four new inputs to a computer.",
+    "start": 336.416,
+    "duration": 3.753
+  },
+  {
+    "text": "Little digital buttons,\nthat he could control voluntarily.",
+    "start": 340.211,
+    "duration": 3.253
+  },
+  {
+    "text": "This essentially doubled his number\nof inputs to a computer.",
+    "start": 343.882,
+    "duration": 3.628
+  },
+  {
+    "text": "Years later, after many\nsetbacks due to COVID,",
+    "start": 347.552,
+    "duration": 3.17
+  },
+  {
+    "text": "we flew to Germany\nto work with Christian in person",
+    "start": 350.722,
+    "duration": 3.17
+  },
+  {
+    "text": "to implement the first prototype",
+    "start": 353.933,
+    "duration": 1.543
+  },
+  {
+    "text": "of what we're going to be\ndemoing here today.",
+    "start": 355.476,
+    "duration": 2.128
+  },
+  {
+    "text": "Christian then spent months training\nwith that prototype",
+    "start": 357.645,
+    "duration": 2.628
+  },
+  {
+    "text": "and sending his data across the Atlantic\nto us in Brooklyn from Germany",
+    "start": 360.315,
+    "duration": 3.587
+  },
+  {
+    "text": "and flying a virtual drone in our offices.",
+    "start": 363.902,
+    "duration": 3.169
+  },
+  {
+    "text": "The first thing that we did\nwas scour Christian's body",
+    "start": 367.113,
+    "duration": 3.504
+  },
+  {
+    "text": "for residual motor function.",
+    "start": 370.617,
+    "duration": 1.501
+  },
+  {
+    "text": "We then connected electrodes\nto the four muscles",
+    "start": 372.702,
+    "duration": 3.128
+  },
+  {
+    "text": "that he had the most\nvoluntary control over,",
+    "start": 375.872,
+    "duration": 2.085
+  },
+  {
+    "text": "and then we turned those muscles\ninto digital buttons.",
+    "start": 377.957,
+    "duration": 2.92
+  },
+  {
+    "text": "We then applied some smart filtering\nand signal processing",
+    "start": 381.21,
+    "duration": 2.92
+  },
+  {
+    "text": "to adapt those buttons\ninto something more like a slider",
+    "start": 384.13,
+    "duration": 2.669
+  },
+  {
+    "text": "or a digital potentiometer.",
+    "start": 386.799,
+    "duration": 1.836
+  },
+  {
+    "text": "After that,",
+    "start": 389.135,
+    "duration": 1.21
+  },
+  {
+    "text": "we turned those four sliders",
+    "start": 390.345,
+    "duration": 1.376
+  },
+  {
+    "text": "and mapped them to a new virtual joystick.",
+    "start": 391.721,
+    "duration": 2.461
+  },
+  {
+    "text": "Christian then combined that new joystick",
+    "start": 394.641,
+    "duration": 1.96
+  },
+  {
+    "text": "with the joystick that he uses\nwith his lip to control his wheelchair,",
+    "start": 396.643,
+    "duration": 3.295
+  },
+  {
+    "text": "and with the two joysticks combined,",
+    "start": 399.979,
+    "duration": 2.086
+  },
+  {
+    "text": "Christian finally had control over all\nthe manual controls of a drone.",
+    "start": 402.106,
+    "duration": 3.921
+  },
+  {
+    "text": "I’m going to stop talking about it,\nand we’re going to show you.",
+    "start": 406.653,
+    "duration": 3.086
+  },
+  {
+    "text": "Christian,",
+    "start": 410.365,
+    "duration": 1.543
+  },
+  {
+    "text": "welcome.",
+    "start": 411.908,
+    "duration": 1.418
+  },
+  {
+    "text": "(Applause)",
+    "start": 413.326,
+    "duration": 5.756
+  },
+  {
+    "text": "At this point,",
+    "start": 419.082,
+    "duration": 1.167
+  },
+  {
+    "text": "I'm going to ask everybody\nto turn off your Bluetooth",
+    "start": 420.291,
+    "duration": 3.253
+  },
+  {
+    "text": "and put your phones in airplane mode",
+    "start": 423.544,
+    "duration": 2.461
+  },
+  {
+    "text": "so that you don't get\nhit in the face with a drone.",
+    "start": 426.047,
+    "duration": 2.419
+  },
+  {
+    "text": "(Laughter)",
+    "start": 428.466,
+    "duration": 2.044
+  },
+  {
+    "text": "How are you feeling, Christian?",
+    "start": 430.51,
+    "duration": 1.501
+  },
+  {
+    "text": "Christian Bayerlein: Yeah, let's do it.",
+    "start": 432.053,
+    "duration": 1.877
+  },
+  {
+    "text": "Conor Russomanno: Awesome.",
+    "start": 433.93,
+    "duration": 1.251
+  },
+  {
+    "text": "This is a heads-up display that's showing\nall of Christian's biometric data,",
+    "start": 435.181,
+    "duration": 4.254
+  },
+  {
+    "text": "as well as some information\nabout the drone.",
+    "start": 439.477,
+    "duration": 2.377
+  },
+  {
+    "text": "On the left here, we can see\nChristian's muscle data.",
+    "start": 441.854,
+    "duration": 3.462
+  },
+  {
+    "text": "Christian is now going to attempt\nto fly the drone.",
+    "start": 446.15,
+    "duration": 2.962
+  },
+  {
+    "text": "How are you feeling,\nChristian, feeling good?",
+    "start": 449.737,
+    "duration": 2.127
+  },
+  {
+    "text": "CB: Yes.",
+    "start": 451.864,
+    "duration": 1.168
+  },
+  {
+    "text": "CR: All right. Rock and roll.",
+    "start": 453.032,
+    "duration": 1.418
+  },
+  {
+    "text": "Let's take this up for a joyride.",
+    "start": 454.45,
+    "duration": 1.627
+  },
+  {
+    "text": "Whenever you're ready.",
+    "start": 456.119,
+    "duration": 1.167
+  },
+  {
+    "text": "CB: I'm ready.",
+    "start": 457.286,
+    "duration": 1.335
+  },
+  {
+    "text": "(Applause and cheers)",
+    "start": 463.626,
+    "duration": 5.547
+  },
+  {
+    "text": "CR: All right, take her up.",
+    "start": 469.215,
+    "duration": 1.877
+  },
+  {
+    "text": "And now let's do something\nwe probably shouldn't do",
+    "start": 474.012,
+    "duration": 2.836
+  },
+  {
+    "text": "and fly it over the audience.",
+    "start": 476.848,
+    "duration": 1.418
+  },
+  {
+    "text": "(Laughter)",
+    "start": 478.266,
+    "duration": 1.543
+  },
+  {
+    "text": "(Cheers and applause)",
+    "start": 492.613,
+    "duration": 6.966
+  },
+  {
+    "text": "Alright, actually, let’s do this.",
+    "start": 502.999,
+    "duration": 1.71
+  },
+  {
+    "text": "I'm going to ask for people to call out\nsome commands in the audience.",
+    "start": 504.709,
+    "duration": 3.295
+  },
+  {
+    "text": "So how about you?",
+    "start": 508.046,
+    "duration": 1.459
+  },
+  {
+    "text": "Straight forward.",
+    "start": 510.048,
+    "duration": 1.376
+  },
+  {
+    "text": "Straight forward.",
+    "start": 512.133,
+    "duration": 1.376
+  },
+  {
+    "text": "(Laughter)",
+    "start": 514.093,
+    "duration": 3.128
+  },
+  {
+    "text": "Alright. How about you?",
+    "start": 517.221,
+    "duration": 1.168
+  },
+  {
+    "text": "Man: Up!",
+    "start": 518.431,
+    "duration": 1.126
+  },
+  {
+    "text": "(Laughter)",
+    "start": 519.599,
+    "duration": 1.877
+  },
+  {
+    "text": "CR: Not down.",
+    "start": 521.517,
+    "duration": 1.168
+  },
+  {
+    "text": "Oh, he's doing what he wants right now.",
+    "start": 523.853,
+    "duration": 1.877
+  },
+  {
+    "text": "Amazing.",
+    "start": 527.774,
+    "duration": 1.167
+  },
+  {
+    "text": "(Cheers and applause)",
+    "start": 528.941,
+    "duration": 3.712
+  },
+  {
+    "text": "Alright, let’s bring it back.",
+    "start": 532.653,
+    "duration": 1.502
+  },
+  {
+    "text": "And what I'm going to do right now\nis take control of the controller",
+    "start": 534.155,
+    "duration": 3.378
+  },
+  {
+    "text": "so that you guys know",
+    "start": 537.575,
+    "duration": 1.919
+  },
+  {
+    "text": "that there isn't someone backstage\nflying this drone.",
+    "start": 539.535,
+    "duration": 3.087
+  },
+  {
+    "text": "All right, Christian,\nyou're alright with that?",
+    "start": 543.164,
+    "duration": 2.21
+  },
+  {
+    "text": "CB: Yeah.",
+    "start": 545.374,
+    "duration": 1.168
+  },
+  {
+    "text": "CR: Unplug.",
+    "start": 547.919,
+    "duration": 1.376
+  },
+  {
+    "text": "Forward.",
+    "start": 550.421,
+    "duration": 1.335
+  },
+  {
+    "text": "And we're going to land this guy now.",
+    "start": 556.886,
+    "duration": 1.919
+  },
+  {
+    "text": "CB: I think I was better than you.",
+    "start": 562.225,
+    "duration": 1.877
+  },
+  {
+    "text": "(Laughter)",
+    "start": 564.477,
+    "duration": 1.877
+  },
+  {
+    "text": "(Applause)",
+    "start": 566.395,
+    "duration": 2.545
+  },
+  {
+    "text": "CR: Amazing.",
+    "start": 568.981,
+    "duration": 1.168
+  },
+  {
+    "text": "(Applause)",
+    "start": 570.191,
+    "duration": 4.63
+  },
+  {
+    "text": "Now I'm going to unplug it\nso it doesn't turn on on its own.",
+    "start": 574.862,
+    "duration": 4.255
+  },
+  {
+    "text": "Perfect.",
+    "start": 580.701,
+    "duration": 1.252
+  },
+  {
+    "text": "Christian has repurposed dormant muscles\nfrom around his body",
+    "start": 583.454,
+    "duration": 3.879
+  },
+  {
+    "text": "for extended and augmented interactivity.",
+    "start": 587.375,
+    "duration": 3.253
+  },
+  {
+    "text": "We have turned those muscles\ninto a generic controller",
+    "start": 590.628,
+    "duration": 2.711
+  },
+  {
+    "text": "that in this case\nwe've mapped into a drone,",
+    "start": 593.381,
+    "duration": 2.085
+  },
+  {
+    "text": "but what's really cool is that joystick\ncan be applied to anything.",
+    "start": 595.466,
+    "duration": 3.42
+  },
+  {
+    "text": "Another thing that's really cool",
+    "start": 598.886,
+    "duration": 1.543
+  },
+  {
+    "text": "is that even in individuals who are not\nliving with motor disabilities,",
+    "start": 600.471,
+    "duration": 3.545
+  },
+  {
+    "text": "there exist dozens of dormant\nmuscles around the body",
+    "start": 604.016,
+    "duration": 3.587
+  },
+  {
+    "text": "that we can tap into for augmented\nand expanded control interactivity.",
+    "start": 607.645,
+    "duration": 4.338
+  },
+  {
+    "text": "And lastly,",
+    "start": 613.234,
+    "duration": 1.209
+  },
+  {
+    "text": "all the code related\nto that virtual joystick,",
+    "start": 614.485,
+    "duration": 2.336
+  },
+  {
+    "text": "we're going to open source",
+    "start": 616.863,
+    "duration": 1.251
+  },
+  {
+    "text": "so that you can implement it\nand improve upon it.",
+    "start": 618.156,
+    "duration": 4.129
+  },
+  {
+    "text": "There's three things\nthat have stood out to me",
+    "start": 623.369,
+    "duration": 2.169
+  },
+  {
+    "text": "from working on this project\nand many others over the years.",
+    "start": 625.538,
+    "duration": 2.919
+  },
+  {
+    "text": "One,",
+    "start": 628.791,
+    "duration": 1.418
+  },
+  {
+    "text": "we cannot conflate\nthe brain with the mind.",
+    "start": 630.209,
+    "duration": 3.003
+  },
+  {
+    "text": "In order to understand emotions",
+    "start": 633.212,
+    "duration": 2.586
+  },
+  {
+    "text": "and tensions and the mind overall,",
+    "start": 635.84,
+    "duration": 2.044
+  },
+  {
+    "text": "we have to measure data\nfrom all over the body,",
+    "start": 637.884,
+    "duration": 2.377
+  },
+  {
+    "text": "not just the brain.",
+    "start": 640.261,
+    "duration": 1.543
+  },
+  {
+    "text": "Two,",
+    "start": 642.221,
+    "duration": 1.168
+  },
+  {
+    "text": "open-source technology access and literacy",
+    "start": 643.431,
+    "duration": 3.295
+  },
+  {
+    "text": "is one way that we can combat\nthe potential ethical challenges we face",
+    "start": 646.767,
+    "duration": 3.754
+  },
+  {
+    "text": "in introducing neural\ntechnology to society.",
+    "start": 650.521,
+    "duration": 2.753
+  },
+  {
+    "text": "But that's not enough.",
+    "start": 653.649,
+    "duration": 1.293
+  },
+  {
+    "text": "We have to do much, much more than that.",
+    "start": 654.942,
+    "duration": 2.711
+  },
+  {
+    "text": "It's very important, imperative,\nthat we set up guardrails",
+    "start": 657.653,
+    "duration": 4.046
+  },
+  {
+    "text": "and design the future\nthat we want to live in.",
+    "start": 661.741,
+    "duration": 2.544
+  },
+  {
+    "text": "Three.",
+    "start": 665.494,
+    "duration": 1.21
+  },
+  {
+    "text": "It's the courage and resilience\nof trailblazers like Christian",
+    "start": 667.914,
+    "duration": 4.087
+  },
+  {
+    "text": "who don't get bogged down\nby what they can't do,",
+    "start": 672.001,
+    "duration": 2.419
+  },
+  {
+    "text": "but instead strive to prove\nthat the impossible is in fact possible.",
+    "start": 674.42,
+    "duration": 4.421
+  },
+  {
+    "text": "(Applause)",
+    "start": 679.258,
+    "duration": 6.966
+  },
+  {
+    "text": "And since none of this would have been\npossible without you, Christian,",
+    "start": 687.433,
+    "duration": 3.337
+  },
+  {
+    "text": "the stage is yours.",
+    "start": 690.811,
+    "duration": 1.585
+  },
+  {
+    "text": "CB: Yeah, hi, everybody.",
+    "start": 692.438,
+    "duration": 1.794
+  },
+  {
+    "text": "Audience: Hi.",
+    "start": 694.69,
+    "duration": 1.126
+  },
+  {
+    "text": "CB: I'm excited to be here today.",
+    "start": 696.734,
+    "duration": 1.752
+  },
+  {
+    "text": "I was born with a genetic condition\nthat affects my mobility",
+    "start": 699.237,
+    "duration": 4.713
+  },
+  {
+    "text": "and requires me to have assistance.",
+    "start": 703.991,
+    "duration": 2.92
+  },
+  {
+    "text": "Despite my disability,",
+    "start": 707.495,
+    "duration": 2.127
+  },
+  {
+    "text": "I'm a very happy and fulfilled person.",
+    "start": 709.622,
+    "duration": 2.669
+  },
+  {
+    "text": "What truly holds me back\nare not my physical limitations.",
+    "start": 713.376,
+    "duration": 4.254
+  },
+  {
+    "text": "It's rather the barriers\nin the environment.",
+    "start": 718.256,
+    "duration": 3.044
+  },
+  {
+    "text": "I'm a tech nerd and political activist.",
+    "start": 721.342,
+    "duration": 3.045
+  },
+  {
+    "text": "I believe that technology\ncan empower disabled people.",
+    "start": 724.72,
+    "duration": 3.837
+  },
+  {
+    "text": "It can help create a better,",
+    "start": 728.891,
+    "duration": 3.128
+  },
+  {
+    "text": "more inclusive and accessible world",
+    "start": 732.019,
+    "duration": 3.212
+  },
+  {
+    "text": "for everyone.",
+    "start": 735.273,
+    "duration": 1.126
+  },
+  {
+    "text": "This demonstration is a perfect example.",
+    "start": 736.983,
+    "duration": 3.128
+  },
+  {
+    "text": "We saw what's possible\nwhen cutting edge technology",
+    "start": 740.486,
+    "duration": 4.213
+  },
+  {
+    "text": "is combined with human\ncuriosity and creativity.",
+    "start": 744.699,
+    "duration": 4.629
+  },
+  {
+    "text": "So let's build tools that empower people,",
+    "start": 749.662,
+    "duration": 3.17
+  },
+  {
+    "text": "applications that break down barriers",
+    "start": 752.873,
+    "duration": 3.295
+  },
+  {
+    "text": "and systems that unlock\na world of possibilities.",
+    "start": 756.21,
+    "duration": 4.296
+  },
+  {
+    "text": "I think that's an idea worth spreading.",
+    "start": 760.923,
+    "duration": 3.504
+  },
+  {
+    "text": "Thank you.",
+    "start": 764.468,
+    "duration": 1.293
+  },
+  {
+    "text": "(Cheers and applause)",
+    "start": 765.803,
+    "duration": 6.965
+  }
+]

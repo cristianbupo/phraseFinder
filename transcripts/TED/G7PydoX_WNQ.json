@@ -1,0 +1,532 @@
+[
+  {
+    "text": "Transcriber: Joseph Geni\nReviewer: Krystian Aparta",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "Greg Gage: It's an age-old\npursuit of all parents,",
+    "start": 12.355,
+    "duration": 2.427
+  },
+  {
+    "text": "getting their kids\nto eat their vegetables.",
+    "start": 14.806,
+    "duration": 2.002
+  },
+  {
+    "text": "But getting them to eat\ncookies or ice cream",
+    "start": 16.832,
+    "duration": 2.049
+  },
+  {
+    "text": "is relatively easy,",
+    "start": 18.905,
+    "duration": 1.151
+  },
+  {
+    "text": "and that's because our brains\nprefer sweetness.",
+    "start": 20.08,
+    "duration": 2.241
+  },
+  {
+    "text": "Now, there's a new technology\ncalled optogenetics",
+    "start": 22.345,
+    "duration": 2.415
+  },
+  {
+    "text": "which may be able to trick our taste buds,",
+    "start": 24.784,
+    "duration": 2.022
+  },
+  {
+    "text": "for instance preferring\nvegetables over sweets.",
+    "start": 26.83,
+    "duration": 2.613
+  },
+  {
+    "text": "We're going to try this today\nusing fruit flies.",
+    "start": 29.467,
+    "duration": 2.617
+  },
+  {
+    "text": "[DIY Neuroscience]",
+    "start": 32.108,
+    "duration": 2.644
+  },
+  {
+    "text": "The reason why we experiment\nwith fruit flies",
+    "start": 35.086,
+    "duration": 2.11
+  },
+  {
+    "text": "is they have a small enough nervous system",
+    "start": 37.22,
+    "duration": 2.011
+  },
+  {
+    "text": "that gives us a fighting chance\nto really understand what's going on.",
+    "start": 39.255,
+    "duration": 3.242
+  },
+  {
+    "text": "And believe it or not, their taste buds\nare very similar to ours.",
+    "start": 42.521,
+    "duration": 3.079
+  },
+  {
+    "text": "But before we try to manipulate\ntheir taste preferences,",
+    "start": 45.624,
+    "duration": 2.659
+  },
+  {
+    "text": "we need to establish:\nWhat is the baseline of the fruit fly?",
+    "start": 48.307,
+    "duration": 2.854
+  },
+  {
+    "text": "What does it prefer?",
+    "start": 51.185,
+    "duration": 1.151
+  },
+  {
+    "text": "We call this a control experiment.",
+    "start": 52.36,
+    "duration": 1.888
+  },
+  {
+    "text": "Spencer's been hard at work doing this.",
+    "start": 54.272,
+    "duration": 2.203
+  },
+  {
+    "text": "OK, Spencer, let's do\nour first experiment.",
+    "start": 56.499,
+    "duration": 2.064
+  },
+  {
+    "text": "We want to test to see if fruit flies\nprefer bananas or broccoli.",
+    "start": 58.587,
+    "duration": 3.294
+  },
+  {
+    "text": "So what do we need?",
+    "start": 61.905,
+    "duration": 1.547
+  },
+  {
+    "text": "Spencer Brown: So we need the fly pad,\nwhich is basically an iPad for flies.",
+    "start": 63.476,
+    "duration": 3.597
+  },
+  {
+    "text": "It measures the touch.",
+    "start": 67.097,
+    "duration": 1.183
+  },
+  {
+    "text": "GG: You put a fly in each chamber?",
+    "start": 68.304,
+    "duration": 1.636
+  },
+  {
+    "text": "SB: Yeah. Inside, we'll offer them\nbanana and broccoli",
+    "start": 70.288,
+    "duration": 2.899
+  },
+  {
+    "text": "to see which one they prefer.",
+    "start": 73.211,
+    "duration": 1.386
+  },
+  {
+    "text": "GG: In order to count how many times",
+    "start": 74.621,
+    "duration": 1.779
+  },
+  {
+    "text": "the fruit fly eats a banana\nversus the broccoli,",
+    "start": 76.424,
+    "duration": 2.478
+  },
+  {
+    "text": "these chambers have been outfitted\nwith a small electrode",
+    "start": 78.926,
+    "duration": 2.712
+  },
+  {
+    "text": "that sends data to a computer.",
+    "start": 81.662,
+    "duration": 1.59
+  },
+  {
+    "text": "And so what were your findings\non banana versus broccoli?",
+    "start": 83.276,
+    "duration": 3.142
+  },
+  {
+    "text": "SB: I found that the flies\nvisited banana the most.",
+    "start": 86.442,
+    "duration": 2.537
+  },
+  {
+    "text": "GG: Both were there, but like most kids,",
+    "start": 89.003,
+    "duration": 1.924
+  },
+  {
+    "text": "they choose not to eat the broccoli,\nand they go switch to something sweeter.",
+    "start": 90.951,
+    "duration": 4.283
+  },
+  {
+    "text": "GG: Now a quick background\non how taste works.",
+    "start": 95.258,
+    "duration": 2.182
+  },
+  {
+    "text": "Taste buds are made up\nof specialized neurons",
+    "start": 97.464,
+    "duration": 2.181
+  },
+  {
+    "text": "called taste receptors.",
+    "start": 99.669,
+    "duration": 1.168
+  },
+  {
+    "text": "When we eat something\nthat triggers a particular taste,",
+    "start": 100.861,
+    "duration": 2.65
+  },
+  {
+    "text": "those taste neurons will fire\na signal to the brain.",
+    "start": 103.535,
+    "duration": 2.499
+  },
+  {
+    "text": "This allows our brain to know\nwhat's sweet and what's bitter.",
+    "start": 106.058,
+    "duration": 2.92
+  },
+  {
+    "text": "So when a fruit fly eats a banana,\nits sweet taste neurons will fire.",
+    "start": 109.002,
+    "duration": 3.336
+  },
+  {
+    "text": "But when it eats broccoli,\nthose same neurons stay pretty quiet.",
+    "start": 112.362,
+    "duration": 3.481
+  },
+  {
+    "text": "But what if we could force\nthose sweet-tasting neurons to fire",
+    "start": 115.867,
+    "duration": 2.974
+  },
+  {
+    "text": "every time the fruit fly eats broccoli?",
+    "start": 118.865,
+    "duration": 1.866
+  },
+  {
+    "text": "We may be able to get the fruit fly",
+    "start": 120.755,
+    "duration": 1.718
+  },
+  {
+    "text": "to like broccoli as much as banana.",
+    "start": 122.497,
+    "duration": 1.747
+  },
+  {
+    "text": "Enter optogenetics.",
+    "start": 124.268,
+    "duration": 1.237
+  },
+  {
+    "text": "This is the revolutionary new tool\nthat's taking neuroscience by storm,",
+    "start": 125.529,
+    "duration": 3.372
+  },
+  {
+    "text": "and in this case, \"opto\" means light",
+    "start": 128.925,
+    "duration": 2.318
+  },
+  {
+    "text": "and \"genetic\" refers to the fact\nthat these fruit flies have been modified",
+    "start": 131.267,
+    "duration": 3.531
+  },
+  {
+    "text": "to contain a special gene that makes\nonly certain neurons respond to light.",
+    "start": 134.822,
+    "duration": 3.825
+  },
+  {
+    "text": "In our case, we've added the special gene\nto the sweet taste receptors.",
+    "start": 138.671,
+    "duration": 3.694
+  },
+  {
+    "text": "Now here's the fun part.",
+    "start": 142.734,
+    "duration": 1.182
+  },
+  {
+    "text": "Optogenetics means that we\ncan control these special neurons",
+    "start": 143.94,
+    "duration": 3.054
+  },
+  {
+    "text": "whenever they're exposed\nto a bright-colored light,",
+    "start": 147.018,
+    "duration": 2.609
+  },
+  {
+    "text": "causing them to send\nmessages to the brain.",
+    "start": 149.651,
+    "duration": 2.189
+  },
+  {
+    "text": "In this experiment, we're going to have\nthese modified fruit flies",
+    "start": 151.864,
+    "duration": 3.139
+  },
+  {
+    "text": "choose between banana and broccoli again,",
+    "start": 155.027,
+    "duration": 2.015
+  },
+  {
+    "text": "only this time, every time\nthe fruit fly eats the broccoli,",
+    "start": 157.066,
+    "duration": 2.841
+  },
+  {
+    "text": "we're going to trigger\na big bright red light.",
+    "start": 159.931,
+    "duration": 2.191
+  },
+  {
+    "text": "And when the channels see that red light,\nthey're going to open up,",
+    "start": 162.146,
+    "duration": 3.15
+  },
+  {
+    "text": "and they're going to cause\nthat neuron to fire,",
+    "start": 165.32,
+    "duration": 2.14
+  },
+  {
+    "text": "and the sweet taste message\nwill be sent to the brain.",
+    "start": 167.484,
+    "duration": 2.524
+  },
+  {
+    "text": "How do you get them out?",
+    "start": 170.032,
+    "duration": 1.244
+  },
+  {
+    "text": "SB: So we're going to be using\na mouth aspirator,",
+    "start": 171.3,
+    "duration": 2.374
+  },
+  {
+    "text": "so it's just two straws put together.",
+    "start": 173.698,
+    "duration": 1.841
+  },
+  {
+    "text": "GG: So it's a fancy name for a straw.",
+    "start": 175.563,
+    "duration": 1.809
+  },
+  {
+    "text": "SB: Basically.",
+    "start": 177.396,
+    "duration": 1.151
+  },
+  {
+    "text": "GG: So you're going to suck those out.",
+    "start": 178.571,
+    "duration": 1.828
+  },
+  {
+    "text": "Have you ever sucked up a fly before?",
+    "start": 181.822,
+    "duration": 1.832
+  },
+  {
+    "text": "SB: Once or twice.",
+    "start": 183.678,
+    "duration": 1.919
+  },
+  {
+    "text": "GG: There we go. You got all four.",
+    "start": 190.432,
+    "duration": 1.65
+  },
+  {
+    "text": "OK, perfect.",
+    "start": 192.106,
+    "duration": 1.151
+  },
+  {
+    "text": "So you're going to turn on\nyour OptoStimmers here.",
+    "start": 193.281,
+    "duration": 2.42
+  },
+  {
+    "text": "You're going to park the light\nright on top of the chambers.",
+    "start": 195.725,
+    "duration": 3.134
+  },
+  {
+    "text": "So now we sit here and we wait\nfor them to eat broccoli,",
+    "start": 198.883,
+    "duration": 2.825
+  },
+  {
+    "text": "and then when the light fires,",
+    "start": 201.732,
+    "duration": 1.96
+  },
+  {
+    "text": "they're going to think\nit's tasting something sweet.",
+    "start": 203.716,
+    "duration": 2.515
+  },
+  {
+    "text": "Come on. Oh, he's getting closer.",
+    "start": 206.255,
+    "duration": 1.962
+  },
+  {
+    "text": "Come on. It tastes good now.",
+    "start": 208.241,
+    "duration": 1.928
+  },
+  {
+    "text": "SB: It's about to.",
+    "start": 210.193,
+    "duration": 1.15
+  },
+  {
+    "text": "GG: Oh, he's back. All right!",
+    "start": 211.736,
+    "duration": 1.508
+  },
+  {
+    "text": "All right, so now we see\nthat some of these flies",
+    "start": 213.268,
+    "duration": 3.294
+  },
+  {
+    "text": "are switching over from\nthe banana to the broccoli.",
+    "start": 216.586,
+    "duration": 2.825
+  },
+  {
+    "text": "SB: Exactly, yeah.",
+    "start": 219.435,
+    "duration": 1.166
+  },
+  {
+    "text": "GG: Every time this light goes off,",
+    "start": 220.625,
+    "duration": 1.683
+  },
+  {
+    "text": "that means that they think\nthey're tasting something sweet.",
+    "start": 222.332,
+    "duration": 2.787
+  },
+  {
+    "text": "SB: Yeah. So this guy's\nreally going after it.",
+    "start": 225.143,
+    "duration": 2.171
+  },
+  {
+    "text": "GG: So we saw that we were able\nto rescue broccoli",
+    "start": 227.338,
+    "duration": 2.174
+  },
+  {
+    "text": "and make it just as appealing\nas banana to our fruit flies.",
+    "start": 229.536,
+    "duration": 2.873
+  },
+  {
+    "text": "And we're able to replicate\nthese same results",
+    "start": 232.433,
+    "duration": 2.254
+  },
+  {
+    "text": "in all of our experiments.",
+    "start": 234.711,
+    "duration": 1.333
+  },
+  {
+    "text": "So the question is: Can we\ndo the same thing in humans?",
+    "start": 236.068,
+    "duration": 2.6
+  },
+  {
+    "text": "Well, that depends on a number of items.",
+    "start": 238.692,
+    "duration": 1.905
+  },
+  {
+    "text": "First, do optogenetic tools\neven work in humans?",
+    "start": 240.621,
+    "duration": 3.462
+  },
+  {
+    "text": "And that looks like the answer is yes,",
+    "start": 244.107,
+    "duration": 2.003
+  },
+  {
+    "text": "and in fact, clinical trials\nare already being planned",
+    "start": 246.134,
+    "duration": 2.582
+  },
+  {
+    "text": "that will treat chronic pain\nand blindness using optogenetics.",
+    "start": 248.74,
+    "duration": 3.53
+  },
+  {
+    "text": "And the next question is,\ncan we easily trigger a light source",
+    "start": 252.294,
+    "duration": 2.991
+  },
+  {
+    "text": "so that every time we eat\nvegetables, it will go off?",
+    "start": 255.309,
+    "duration": 2.524
+  },
+  {
+    "text": "For that, I'm afraid at least\nat this time, the answer is still no.",
+    "start": 257.857,
+    "duration": 3.438
+  },
+  {
+    "text": "But today, we got to witness\njust a taste of optogenetics",
+    "start": 261.319,
+    "duration": 3.329
+  },
+  {
+    "text": "and its amazing potential.",
+    "start": 264.672,
+    "duration": 1.414
+  },
+  {
+    "text": "(Music)",
+    "start": 266.11,
+    "duration": 6.413
+  }
+]

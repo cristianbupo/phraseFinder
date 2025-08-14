@@ -1,0 +1,1427 @@
+[
+  {
+    "text": "Transcriber: ",
+    "start": 0.0,
+    "duration": 7.0
+  },
+  {
+    "text": "I'm Kalika Bali,\nI'm a linguist by training",
+    "start": 12.43,
+    "duration": 2.8
+  },
+  {
+    "text": "and a technologist by profession,",
+    "start": 15.263,
+    "duration": 2.334
+  },
+  {
+    "text": "I have worked in academia,",
+    "start": 17.63,
+    "duration": 1.667
+  },
+  {
+    "text": "in startups, in small companies\nand multinationals for over two decades,",
+    "start": 19.33,
+    "duration": 5.267
+  },
+  {
+    "text": "doing research in and building\nlanguage technology systems.",
+    "start": 24.63,
+    "duration": 3.733
+  },
+  {
+    "text": "My dream is to see technology work\nacross the language barrier.",
+    "start": 28.363,
+    "duration": 4.667
+  },
+  {
+    "text": "As a researcher\nat Microsoft Research Labs India",
+    "start": 33.03,
+    "duration": 3.1
+  },
+  {
+    "text": "I work in the field of language technology\nand speech technology.",
+    "start": 36.163,
+    "duration": 5.534
+  },
+  {
+    "text": "And I worry about how\ncan we make technology accessible",
+    "start": 41.697,
+    "duration": 3.6
+  },
+  {
+    "text": "to people across the board,",
+    "start": 45.33,
+    "duration": 2.2
+  },
+  {
+    "text": "you know, irrespective\nof the language that they speak.",
+    "start": 47.53,
+    "duration": 2.967
+  },
+  {
+    "text": "So natural language processing,",
+    "start": 51.663,
+    "duration": 1.6
+  },
+  {
+    "text": "artificial intelligence,\nspeech technology,",
+    "start": 53.297,
+    "duration": 2.066
+  },
+  {
+    "text": "these are very big words,\nthey are buzzwords right now.",
+    "start": 55.363,
+    "duration": 2.6
+  },
+  {
+    "text": "Everybody is talking about what exactly\nis NLP or natural language processing.",
+    "start": 57.997,
+    "duration": 5.533
+  },
+  {
+    "text": "So in very simple terms,",
+    "start": 63.53,
+    "duration": 1.533
+  },
+  {
+    "text": "this is the part\nof computer science engineering",
+    "start": 65.063,
+    "duration": 3.367
+  },
+  {
+    "text": "that makes machines process,",
+    "start": 68.463,
+    "duration": 2.834
+  },
+  {
+    "text": "understand and generate natural language,",
+    "start": 71.33,
+    "duration": 2.967
+  },
+  {
+    "text": "which is the language that humans speak.",
+    "start": 74.33,
+    "duration": 2.233
+  },
+  {
+    "text": "When you are interacting with a bot\ntrying to book your train tickets",
+    "start": 77.697,
+    "duration": 4.7
+  },
+  {
+    "text": "or flight tickets,",
+    "start": 82.43,
+    "duration": 1.267
+  },
+  {
+    "text": "when you are speaking to a voice-based\ndigital assistant in your phone,",
+    "start": 83.697,
+    "duration": 4.833
+  },
+  {
+    "text": "it's natural language processing",
+    "start": 88.53,
+    "duration": 1.6
+  },
+  {
+    "text": "that underpins the entire technology\nthat makes that work.",
+    "start": 90.163,
+    "duration": 3.534
+  },
+  {
+    "text": "But how does this work?",
+    "start": 94.797,
+    "duration": 1.266
+  },
+  {
+    "text": "How does NLP work?",
+    "start": 96.063,
+    "duration": 1.567
+  },
+  {
+    "text": "In a very, very basic way,",
+    "start": 97.663,
+    "duration": 3.9
+  },
+  {
+    "text": "it's about data.",
+    "start": 101.563,
+    "duration": 1.8
+  },
+  {
+    "text": "So a huge amount of data\nof how actually humans use language",
+    "start": 103.363,
+    "duration": 6.334
+  },
+  {
+    "text": "is then processed\nby certain algorithms and techniques",
+    "start": 109.697,
+    "duration": 5.166
+  },
+  {
+    "text": "that make the machines learn the patterns",
+    "start": 114.863,
+    "duration": 2.767
+  },
+  {
+    "text": "of natural language of humans, right?",
+    "start": 117.663,
+    "duration": 3.7
+  },
+  {
+    "text": "These days, another buzzword that you\nhear a lot about is deep neural networks.",
+    "start": 121.363,
+    "duration": 5.367
+  },
+  {
+    "text": "And these are the advanced techniques",
+    "start": 126.763,
+    "duration": 2.467
+  },
+  {
+    "text": "that underpin a lot of the NLP stuff\nthat happens right now.",
+    "start": 129.263,
+    "duration": 4.134
+  },
+  {
+    "text": "And I will not go into the details\nof how that works,",
+    "start": 133.43,
+    "duration": 3.333
+  },
+  {
+    "text": "but the thing that you really\nhave to understand and keep in mind",
+    "start": 136.797,
+    "duration": 3.4
+  },
+  {
+    "text": "is that all of this requires\na humungous amount of data,",
+    "start": 140.197,
+    "duration": 5.0
+  },
+  {
+    "text": "natural language data.",
+    "start": 145.197,
+    "duration": 1.666
+  },
+  {
+    "text": "If you want a speech system\nto converse with you in Gujarati,",
+    "start": 146.863,
+    "duration": 5.267
+  },
+  {
+    "text": "the first thing you require",
+    "start": 152.163,
+    "duration": 1.367
+  },
+  {
+    "text": "is a lot of data of Gujarati people\nspeaking to each other",
+    "start": 153.53,
+    "duration": 4.533
+  },
+  {
+    "text": "in their own language.",
+    "start": 158.063,
+    "duration": 1.867
+  },
+  {
+    "text": "So 2017, Microsoft came up\nwith a speech recognition system",
+    "start": 161.663,
+    "duration": 4.734
+  },
+  {
+    "text": "which was able\nto transcribe speech into text",
+    "start": 166.43,
+    "duration": 3.6
+  },
+  {
+    "text": "better than a human did.",
+    "start": 170.03,
+    "duration": 1.733
+  },
+  {
+    "text": "And this system was trained",
+    "start": 172.563,
+    "duration": 3.167
+  },
+  {
+    "text": "on 200 million transcribed words.",
+    "start": 175.763,
+    "duration": 2.667
+  },
+  {
+    "text": "In 2018, an English-Chinese\nmachine translation system",
+    "start": 178.463,
+    "duration": 3.967
+  },
+  {
+    "text": "was able to translate\nfrom English to Chinese",
+    "start": 182.463,
+    "duration": 2.8
+  },
+  {
+    "text": "as well as any human bilingual could.",
+    "start": 185.297,
+    "duration": 2.766
+  },
+  {
+    "text": "And this was trained\non 18 million bilingual sentence pairs.",
+    "start": 188.063,
+    "duration": 4.934
+  },
+  {
+    "text": "This is a very, very exciting time\nin natural language processing",
+    "start": 194.33,
+    "duration": 4.433
+  },
+  {
+    "text": "and in technology as such.",
+    "start": 198.797,
+    "duration": 1.466
+  },
+  {
+    "text": "You know, we are seeing science fiction,\nwhich we had read about and watched,",
+    "start": 200.297,
+    "duration": 4.466
+  },
+  {
+    "text": "kind of come true\nin front of our own eyes.",
+    "start": 204.797,
+    "duration": 2.833
+  },
+  {
+    "text": "We are making giant leaps\nin technical advancement.",
+    "start": 207.663,
+    "duration": 4.467
+  },
+  {
+    "text": "But these giant leaps\nare limited to very few languages.",
+    "start": 212.163,
+    "duration": 6.234
+  },
+  {
+    "text": "So Monojit Choudhury,",
+    "start": 218.43,
+    "duration": 1.3
+  },
+  {
+    "text": "who's like a very good friend of mine",
+    "start": 219.763,
+    "duration": 1.867
+  },
+  {
+    "text": "and a colleague,",
+    "start": 221.663,
+    "duration": 2.134
+  },
+  {
+    "text": "he has studied this in some detail",
+    "start": 223.83,
+    "duration": 1.733
+  },
+  {
+    "text": "and he has looked at resource distribution\nacross languages in the world.",
+    "start": 225.563,
+    "duration": 4.067
+  },
+  {
+    "text": "And he says that these follow\nwhat is called a power-law distribution,",
+    "start": 229.663,
+    "duration": 4.1
+  },
+  {
+    "text": "which essentially means\nthat there are four languages,",
+    "start": 233.797,
+    "duration": 2.766
+  },
+  {
+    "text": "Arabic, Chinese, English and Spanish,",
+    "start": 236.563,
+    "duration": 2.7
+  },
+  {
+    "text": "which have the maximum amount\nof resources available.",
+    "start": 239.297,
+    "duration": 3.766
+  },
+  {
+    "text": "There are another handful of languages\nwhich can also benefit from, you know,",
+    "start": 243.063,
+    "duration": 5.167
+  },
+  {
+    "text": "the resources and the technology\nthat's available right now.",
+    "start": 248.263,
+    "duration": 3.834
+  },
+  {
+    "text": "But there are 90 percent\nof the world's languages",
+    "start": 252.13,
+    "duration": 4.833
+  },
+  {
+    "text": "which have no resources",
+    "start": 256.997,
+    "duration": 1.8
+  },
+  {
+    "text": "or very little resources available.",
+    "start": 258.83,
+    "duration": 2.067
+  },
+  {
+    "text": "This revolution that we are talking about",
+    "start": 260.93,
+    "duration": 2.667
+  },
+  {
+    "text": "has essentially bypassed\n5,000 languages of the world.",
+    "start": 263.63,
+    "duration": 4.1
+  },
+  {
+    "text": "Now, what this means is\nthat resource-rich languages",
+    "start": 267.763,
+    "duration": 2.534
+  },
+  {
+    "text": "have technologies built for them,",
+    "start": 270.33,
+    "duration": 1.8
+  },
+  {
+    "text": "so researchers and technologists\nget attracted towards them.",
+    "start": 272.163,
+    "duration": 3.267
+  },
+  {
+    "text": "They build more technologies for them.\nThey create more resources.",
+    "start": 275.463,
+    "duration": 3.5
+  },
+  {
+    "text": "So it's like a rich getting richer\nkind of a cycle.",
+    "start": 278.997,
+    "duration": 2.8
+  },
+  {
+    "text": "And the resource-poor languages stay poor,",
+    "start": 281.83,
+    "duration": 2.4
+  },
+  {
+    "text": "there's no technology for them,\nnobody works for them.",
+    "start": 284.263,
+    "duration": 2.6
+  },
+  {
+    "text": "And this divide,\ndigital divide between languages",
+    "start": 286.863,
+    "duration": 3.4
+  },
+  {
+    "text": "is ever-expanding",
+    "start": 290.297,
+    "duration": 1.5
+  },
+  {
+    "text": "and by implication also the divide\nbetween the communities",
+    "start": 291.83,
+    "duration": 4.633
+  },
+  {
+    "text": "that speak these languages is expanding.",
+    "start": 296.497,
+    "duration": 2.5
+  },
+  {
+    "text": "So in Microsoft, in Project Ellora,\nwe aim to bridge this gap.",
+    "start": 300.763,
+    "duration": 4.767
+  },
+  {
+    "text": "We are trying to see how can we create\nmore data by innovative methods,",
+    "start": 306.663,
+    "duration": 5.567
+  },
+  {
+    "text": "have more techniques to build technology\nwithout having a lot of resources,",
+    "start": 312.263,
+    "duration": 5.8
+  },
+  {
+    "text": "and what are the applications\nthat can truly benefit these communities.",
+    "start": 318.063,
+    "duration": 4.2
+  },
+  {
+    "text": "So at the moment,\nthis might seem very theoretical,",
+    "start": 323.463,
+    "duration": 3.334
+  },
+  {
+    "text": "like what is he talking about,\ndata and techniques and technology.",
+    "start": 326.83,
+    "duration": 3.133
+  },
+  {
+    "text": "So let me give you\na very concrete example here.",
+    "start": 329.997,
+    "duration": 3.066
+  },
+  {
+    "text": "I'm a linguist at heart, I love languages,\nand that's what I love talking about.",
+    "start": 333.063,
+    "duration": 5.3
+  },
+  {
+    "text": "So let me tell you about a language\nthat many of you might not know about.",
+    "start": 338.363,
+    "duration": 4.367
+  },
+  {
+    "text": "Gondi.",
+    "start": 342.763,
+    "duration": 1.267
+  },
+  {
+    "text": "Gondi is a South-Central\nDravidian language.",
+    "start": 344.03,
+    "duration": 2.7
+  },
+  {
+    "text": "It is spoken by three million people\nin five states of India.",
+    "start": 346.763,
+    "duration": 4.434
+  },
+  {
+    "text": "And to put this\nin some kind of perspective,",
+    "start": 351.197,
+    "duration": 3.0
+  },
+  {
+    "text": "Norwegian is spoken by five million people",
+    "start": 354.197,
+    "duration": 2.833
+  },
+  {
+    "text": "and Welsh by a little under a million.",
+    "start": 357.03,
+    "duration": 2.933
+  },
+  {
+    "text": "So Gondi is actually a pretty robust\nand pretty large community",
+    "start": 359.997,
+    "duration": 6.2
+  },
+  {
+    "text": "of the Gond tribals in India.",
+    "start": 366.197,
+    "duration": 2.9
+  },
+  {
+    "text": "But by UNESCO's\nAtlas of Languages in Danger,",
+    "start": 369.13,
+    "duration": 5.067
+  },
+  {
+    "text": "Gondi is designated vulnerable status.",
+    "start": 374.197,
+    "duration": 4.366
+  },
+  {
+    "text": "CGNet Swara is an NGO\nthat provides a citizen journalism portal",
+    "start": 379.03,
+    "duration": 4.533
+  },
+  {
+    "text": "for the Gond community",
+    "start": 383.563,
+    "duration": 1.867
+  },
+  {
+    "text": "by making local stories\naccessible through mobile phones.",
+    "start": 385.463,
+    "duration": 4.234
+  },
+  {
+    "text": "There's absolutely\nno tech support for Gondi.",
+    "start": 389.697,
+    "duration": 2.933
+  },
+  {
+    "text": "There is no data available for Gondi,\nno resources available for Gondi.",
+    "start": 392.663,
+    "duration": 4.8
+  },
+  {
+    "text": "So all content that is created,\nmoderated and edited is done manually.",
+    "start": 397.497,
+    "duration": 5.066
+  },
+  {
+    "text": "Now, under Project Ellora,",
+    "start": 402.563,
+    "duration": 2.067
+  },
+  {
+    "text": "what we did was that we\nbrought together all the stakeholders,",
+    "start": 404.663,
+    "duration": 2.967
+  },
+  {
+    "text": "an NGOs like CGNet Swara,",
+    "start": 407.663,
+    "duration": 1.8
+  },
+  {
+    "text": "and academic institutions,\nlike IIIT Naya Raipur,",
+    "start": 409.497,
+    "duration": 3.366
+  },
+  {
+    "text": "a not-for-profit\nchildren's book publisher,",
+    "start": 412.863,
+    "duration": 2.2
+  },
+  {
+    "text": "like Pratham Books,",
+    "start": 415.063,
+    "duration": 1.3
+  },
+  {
+    "text": "and most importantly,\nthe speakers of the community.",
+    "start": 416.363,
+    "duration": 2.434
+  },
+  {
+    "text": "The Gond tribals themselves\nparticipated in this activity",
+    "start": 418.83,
+    "duration": 4.933
+  },
+  {
+    "text": "and for the first time edited\nand translated children’s books in Gondi.",
+    "start": 423.797,
+    "duration": 5.633
+  },
+  {
+    "text": "We were able to put out 200 books\nfor the very first time in Gondi,",
+    "start": 429.463,
+    "duration": 5.334
+  },
+  {
+    "text": "so that the children had access to stories\nand books in their own language.",
+    "start": 434.83,
+    "duration": 4.7
+  },
+  {
+    "text": "Another extension of this\nwas Adivasi Radio,",
+    "start": 439.53,
+    "duration": 2.267
+  },
+  {
+    "text": "which was like an app that we built\nand developed in Microsoft Research,",
+    "start": 441.83,
+    "duration": 4.033
+  },
+  {
+    "text": "and then put out there,\nalong with our stakeholders,",
+    "start": 445.863,
+    "duration": 4.567
+  },
+  {
+    "text": "which takes a Hindi text-to-speech system",
+    "start": 450.463,
+    "duration": 3.067
+  },
+  {
+    "text": "and allows it to read out news\nand articles provided by CGNet Swara",
+    "start": 453.53,
+    "duration": 6.4
+  },
+  {
+    "text": "in Gondi language.",
+    "start": 459.963,
+    "duration": 2.434
+  },
+  {
+    "text": "Users can now use this app to read,",
+    "start": 462.43,
+    "duration": 2.767
+  },
+  {
+    "text": "watch news and access any information",
+    "start": 465.197,
+    "duration": 3.433
+  },
+  {
+    "text": "through text and voice\nin their own language.",
+    "start": 468.663,
+    "duration": 3.9
+  },
+  {
+    "text": "A very interesting thing is that this app\nis now being used to translate --",
+    "start": 472.563,
+    "duration": 3.634
+  },
+  {
+    "text": "by the community to translate text\nfrom Hindi to Gondi.",
+    "start": 476.197,
+    "duration": 4.833
+  },
+  {
+    "text": "Now, what that will result in\nis a lot of parallel data,",
+    "start": 481.03,
+    "duration": 3.333
+  },
+  {
+    "text": "that we call parallel data,",
+    "start": 484.363,
+    "duration": 1.534
+  },
+  {
+    "text": "that will allow us to build\nmachine translation systems for Gondi,",
+    "start": 485.93,
+    "duration": 3.5
+  },
+  {
+    "text": "which will truly open up a window\nfor the Gond community to the world.",
+    "start": 489.463,
+    "duration": 5.9
+  },
+  {
+    "text": "And what is even more important\nis now we know how to do this.",
+    "start": 495.363,
+    "duration": 3.567
+  },
+  {
+    "text": "We have the entire pipeline\nand we can replicate this for any language",
+    "start": 498.963,
+    "duration": 4.6
+  },
+  {
+    "text": "and any language community",
+    "start": 503.563,
+    "duration": 1.9
+  },
+  {
+    "text": "which is in a similar situation\nas the Gond tribals.",
+    "start": 505.497,
+    "duration": 3.033
+  },
+  {
+    "text": "Also education -- yes, you know,\ninformation access -- yes,",
+    "start": 509.63,
+    "duration": 4.833
+  },
+  {
+    "text": "but what about earning a living?",
+    "start": 514.497,
+    "duration": 2.7
+  },
+  {
+    "text": "Right? What about -- how can we make\nthese people earn a living",
+    "start": 517.83,
+    "duration": 4.2
+  },
+  {
+    "text": "through the digital tools that all of us\njust take for granted these days?",
+    "start": 522.03,
+    "duration": 3.867
+  },
+  {
+    "text": "Vivek Seshadri,\nwho's another researcher at MSR,",
+    "start": 525.93,
+    "duration": 2.533
+  },
+  {
+    "text": "and his collaborator, Manu Chopra,",
+    "start": 528.497,
+    "duration": 2.1
+  },
+  {
+    "text": "they've designed a platform called Karya",
+    "start": 530.63,
+    "duration": 2.5
+  },
+  {
+    "text": "for providing digital microtasks\nto the underserved communities.",
+    "start": 533.163,
+    "duration": 4.6
+  },
+  {
+    "text": "His aim was basically to find a way\nto provide a means of dignified labor",
+    "start": 537.797,
+    "duration": 5.433
+  },
+  {
+    "text": "to the populations, the rural populations",
+    "start": 543.263,
+    "duration": 2.034
+  },
+  {
+    "text": "and the urban poor populations\nof this country.",
+    "start": 545.33,
+    "duration": 2.3
+  },
+  {
+    "text": "They don't have access\nto all the knowledge",
+    "start": 548.53,
+    "duration": 3.0
+  },
+  {
+    "text": "to use the digital platforms",
+    "start": 551.53,
+    "duration": 2.567
+  },
+  {
+    "text": "that all of us use every day\nwithout even thinking, right?",
+    "start": 554.13,
+    "duration": 4.2
+  },
+  {
+    "text": "But ...",
+    "start": 558.93,
+    "duration": 1.233
+  },
+  {
+    "text": "Here is a large",
+    "start": 560.863,
+    "duration": 2.434
+  },
+  {
+    "text": "literate population\nthat wants to work, right,",
+    "start": 563.33,
+    "duration": 4.133
+  },
+  {
+    "text": "and how can we make this\npossible for them?",
+    "start": 567.497,
+    "duration": 2.766
+  },
+  {
+    "text": "So Karya is one such way",
+    "start": 570.297,
+    "duration": 3.5
+  },
+  {
+    "text": "through which this population\ncan get on to the digital world",
+    "start": 573.83,
+    "duration": 4.033
+  },
+  {
+    "text": "and, you know,",
+    "start": 577.863,
+    "duration": 1.434
+  },
+  {
+    "text": "through that find work and do tasks\nthat can then earn them money.",
+    "start": 579.33,
+    "duration": 4.433
+  },
+  {
+    "text": "So we saw this and we thought,\noh, this is wonderful.",
+    "start": 583.797,
+    "duration": 2.5
+  },
+  {
+    "text": "We could probably use this\nfor data collection as well.",
+    "start": 586.33,
+    "duration": 2.6
+  },
+  {
+    "text": "So we went to Amale,",
+    "start": 588.963,
+    "duration": 2.0
+  },
+  {
+    "text": "which is a small village of 200 people",
+    "start": 590.997,
+    "duration": 3.266
+  },
+  {
+    "text": "in the Wada district of Maharashtra",
+    "start": 594.297,
+    "duration": 1.933
+  },
+  {
+    "text": "and decided to use Karya\nto collect Marathi data.",
+    "start": 596.263,
+    "duration": 2.667
+  },
+  {
+    "text": "Now, I know what you are thinking --",
+    "start": 598.963,
+    "duration": 1.9
+  },
+  {
+    "text": "I'm sure a lot of Marathi speakers\nalso in the audience --",
+    "start": 600.93,
+    "duration": 2.767
+  },
+  {
+    "text": "that Marathi is not\na low-resource language.",
+    "start": 603.697,
+    "duration": 2.4
+  },
+  {
+    "text": "Marathi is definitely\na mainstream language of the country.",
+    "start": 606.13,
+    "duration": 3.6
+  },
+  {
+    "text": "But as far as language\ntechnology is concerned,",
+    "start": 609.763,
+    "duration": 2.5
+  },
+  {
+    "text": "Marathi is a low-resource language.",
+    "start": 612.297,
+    "duration": 2.333
+  },
+  {
+    "text": "So we went to this village",
+    "start": 614.663,
+    "duration": 1.6
+  },
+  {
+    "text": "and we had a very successful\ndata-collection trip.",
+    "start": 616.297,
+    "duration": 3.8
+  },
+  {
+    "text": "And, you know,\nthis village is very remote.",
+    "start": 620.13,
+    "duration": 3.567
+  },
+  {
+    "text": "They have no TV, they have no electricity,",
+    "start": 623.697,
+    "duration": 2.7
+  },
+  {
+    "text": "they have no mobile signal.",
+    "start": 626.43,
+    "duration": 3.833
+  },
+  {
+    "text": "You have to climb a hill\nand wave your phone around",
+    "start": 630.297,
+    "duration": 2.633
+  },
+  {
+    "text": "if you want to, you know,\nuse your mobile to call anyone.",
+    "start": 632.963,
+    "duration": 3.2
+  },
+  {
+    "text": "So they gave us all this data.",
+    "start": 637.197,
+    "duration": 1.766
+  },
+  {
+    "text": "But more than that, they gave us\nvery valuable lessons in life.",
+    "start": 638.997,
+    "duration": 3.266
+  },
+  {
+    "text": "One is this pride in one's own language.",
+    "start": 643.063,
+    "duration": 3.0
+  },
+  {
+    "text": "The people of Amale\nwere thrilled to be doing this",
+    "start": 646.063,
+    "duration": 2.667
+  },
+  {
+    "text": "because they were advancing\ntheir own language by doing this.",
+    "start": 648.763,
+    "duration": 5.834
+  },
+  {
+    "text": "The second was the value of community.",
+    "start": 654.63,
+    "duration": 1.833
+  },
+  {
+    "text": "Very quickly, this became\na village community effort.",
+    "start": 656.497,
+    "duration": 3.9
+  },
+  {
+    "text": "People would gather together in tasks\nand do this together as a group.",
+    "start": 660.43,
+    "duration": 4.867
+  },
+  {
+    "text": "And the third is\nthe importance of storytelling.",
+    "start": 665.33,
+    "duration": 3.767
+  },
+  {
+    "text": "People of Amale were so starved of content\nthat in the morning, during the daytime,",
+    "start": 669.13,
+    "duration": 6.067
+  },
+  {
+    "text": "they would do recordings\nof stories in Karya",
+    "start": 675.197,
+    "duration": 4.066
+  },
+  {
+    "text": "and then in the evening\nthey would gather the entire village",
+    "start": 679.297,
+    "duration": 2.833
+  },
+  {
+    "text": "and retell and recount\nthese stories to the village.",
+    "start": 682.163,
+    "duration": 3.834
+  },
+  {
+    "text": "So as scientists, we get so caught up",
+    "start": 687.563,
+    "duration": 2.167
+  },
+  {
+    "text": "in the science and technology\npart of what we are doing, you know --",
+    "start": 689.763,
+    "duration": 3.7
+  },
+  {
+    "text": "which is the next best model to have,",
+    "start": 693.497,
+    "duration": 1.966
+  },
+  {
+    "text": "how can we increase\nthe accuracy of my system,",
+    "start": 695.497,
+    "duration": 2.933
+  },
+  {
+    "text": "how can I build\nthe next best system there is --",
+    "start": 698.463,
+    "duration": 4.6
+  },
+  {
+    "text": "that we forget the reason\nwhy we are doing this: the people.",
+    "start": 703.063,
+    "duration": 3.7
+  },
+  {
+    "text": "And any successful technology is the one\nthat keeps the people and the users",
+    "start": 706.797,
+    "duration": 5.466
+  },
+  {
+    "text": "up front and center.",
+    "start": 712.297,
+    "duration": 1.566
+  },
+  {
+    "text": "And when they start doing that,",
+    "start": 714.83,
+    "duration": 1.533
+  },
+  {
+    "text": "we also realize that technology\nis probably a very small part of this",
+    "start": 716.363,
+    "duration": 3.667
+  },
+  {
+    "text": "and there are other things in the story.",
+    "start": 720.03,
+    "duration": 2.367
+  },
+  {
+    "text": "Maybe there are social, cultural\nand policy interventions",
+    "start": 722.43,
+    "duration": 3.333
+  },
+  {
+    "text": "that are required, as much as technology.",
+    "start": 725.797,
+    "duration": 2.2
+  },
+  {
+    "text": "So some time back,\nI worked on a project called VideoKheti",
+    "start": 729.03,
+    "duration": 3.267
+  },
+  {
+    "text": "that allowed Hindi-speaking\nfarmers in Central India",
+    "start": 732.33,
+    "duration": 3.6
+  },
+  {
+    "text": "to search for agricultural videos\nby speaking into a phone-based app.",
+    "start": 735.963,
+    "duration": 6.667
+  },
+  {
+    "text": "So we went to Madhya Pradesh\nto collect data for this,",
+    "start": 743.363,
+    "duration": 3.434
+  },
+  {
+    "text": "and we came back\nand we were training our models",
+    "start": 746.83,
+    "duration": 2.3
+  },
+  {
+    "text": "and we discovered\nwe're getting very bad results.",
+    "start": 749.163,
+    "duration": 2.367
+  },
+  {
+    "text": "This is not working.",
+    "start": 751.53,
+    "duration": 1.267
+  },
+  {
+    "text": "So we were very confused.\nWhy is this happening?",
+    "start": 752.83,
+    "duration": 2.267
+  },
+  {
+    "text": "So we looked deeper\nand deeper into the data",
+    "start": 755.13,
+    "duration": 2.267
+  },
+  {
+    "text": "and discovered that, yes,\nwe had collected data",
+    "start": 757.43,
+    "duration": 2.233
+  },
+  {
+    "text": "from what we thought was a very silent,\nquiet village in the evening.",
+    "start": 759.697,
+    "duration": 4.666
+  },
+  {
+    "text": "But what we hadn't heard\nwhile we were doing this",
+    "start": 764.363,
+    "duration": 3.4
+  },
+  {
+    "text": "was that there was this\nconstant buzz of night insects, you know?",
+    "start": 767.797,
+    "duration": 4.1
+  },
+  {
+    "text": "So throughout the recordings,\nwe had this \"bzz\" of the insects,",
+    "start": 771.93,
+    "duration": 3.467
+  },
+  {
+    "text": "which was actually distorting our speech.",
+    "start": 775.43,
+    "duration": 2.533
+  },
+  {
+    "text": "The second thing was\nthat when we went there",
+    "start": 778.797,
+    "duration": 2.233
+  },
+  {
+    "text": "to kind of test our app in the village,",
+    "start": 781.03,
+    "duration": 3.867
+  },
+  {
+    "text": "I and my colleague Indrani Medhi,",
+    "start": 784.93,
+    "duration": 2.533
+  },
+  {
+    "text": "who is a very well-regarded\ndesign researcher,",
+    "start": 787.497,
+    "duration": 3.6
+  },
+  {
+    "text": "we found that the women\ncouldn't pronounce the sanskritized words",
+    "start": 791.13,
+    "duration": 4.4
+  },
+  {
+    "text": "that we had for some of the search terms.",
+    "start": 795.53,
+    "duration": 2.767
+  },
+  {
+    "text": "So, like ...",
+    "start": 798.33,
+    "duration": 1.5
+  },
+  {
+    "text": "(speaks Hindi)",
+    "start": 801.663,
+    "duration": 2.8
+  },
+  {
+    "text": "Which is like the term\nfor chemical pesticides, right?",
+    "start": 804.497,
+    "duration": 3.866
+  },
+  {
+    "text": "Because we got these terms\nfrom the agricultural extension center",
+    "start": 808.363,
+    "duration": 5.534
+  },
+  {
+    "text": "and the women,\neven though they are farming,",
+    "start": 813.93,
+    "duration": 2.1
+  },
+  {
+    "text": "do not interact with that center at all.",
+    "start": 816.03,
+    "duration": 2.867
+  },
+  {
+    "text": "The men do, the women probably\nuse something much simpler, like ...",
+    "start": 818.93,
+    "duration": 3.967
+  },
+  {
+    "text": "(speaks Hindi)",
+    "start": 822.93,
+    "duration": 1.3
+  },
+  {
+    "text": "Which basically means\nkilling pests with medicine.",
+    "start": 824.263,
+    "duration": 3.534
+  },
+  {
+    "text": "So what I have learned through my journey",
+    "start": 828.43,
+    "duration": 3.867
+  },
+  {
+    "text": "and what I would like\nto put across to you --",
+    "start": 832.33,
+    "duration": 2.9
+  },
+  {
+    "text": "by now, I hope you've understood me,",
+    "start": 835.263,
+    "duration": 2.0
+  },
+  {
+    "text": "is that there is the majority\nof the world's languages",
+    "start": 837.297,
+    "duration": 3.433
+  },
+  {
+    "text": "that require intensive investment\nfor resource creation",
+    "start": 840.763,
+    "duration": 4.267
+  },
+  {
+    "text": "if they are to benefit\nfrom language technology.",
+    "start": 845.03,
+    "duration": 2.567
+  },
+  {
+    "text": "And this is unlikely to happen\nin a very fast and efficient manner.",
+    "start": 847.63,
+    "duration": 5.367
+  },
+  {
+    "text": "So it is extremely important\nfor us to ensure",
+    "start": 853.963,
+    "duration": 2.934
+  },
+  {
+    "text": "that the community derives maximum benefit",
+    "start": 856.93,
+    "duration": 3.533
+  },
+  {
+    "text": "from whatever that we are doing\nin the language tech area.",
+    "start": 860.497,
+    "duration": 3.966
+  },
+  {
+    "text": "And to do this and deliver\na positive social impact",
+    "start": 864.497,
+    "duration": 3.466
+  },
+  {
+    "text": "on these communities,",
+    "start": 867.997,
+    "duration": 1.466
+  },
+  {
+    "text": "we follow what we call the modified\n4-D design thinking methodology.",
+    "start": 869.497,
+    "duration": 4.733
+  },
+  {
+    "text": "So the 4-D means:\ndiscover, design, develop and deploy.",
+    "start": 874.263,
+    "duration": 5.2
+  },
+  {
+    "text": "So discover the problem\nthat language technology can solve",
+    "start": 879.497,
+    "duration": 3.066
+  },
+  {
+    "text": "for a particular language community.",
+    "start": 882.563,
+    "duration": 2.2
+  },
+  {
+    "text": "This observation-led approach\ncan help allocate resources",
+    "start": 884.797,
+    "duration": 3.233
+  },
+  {
+    "text": "where they are most needed,",
+    "start": 888.03,
+    "duration": 1.7
+  },
+  {
+    "text": "designed for the users and their language,",
+    "start": 889.763,
+    "duration": 2.767
+  },
+  {
+    "text": "understand the diversity\nin the linguistic properties",
+    "start": 892.53,
+    "duration": 3.367
+  },
+  {
+    "text": "and the languages of the world.",
+    "start": 895.93,
+    "duration": 2.1
+  },
+  {
+    "text": "And don't think,\noh, this is made for English.",
+    "start": 898.03,
+    "duration": 2.4
+  },
+  {
+    "text": "Now, how can we just adapt it\nfor Marathi or for Gondi, right?",
+    "start": 900.463,
+    "duration": 4.334
+  },
+  {
+    "text": "Develop rapidly and deploy frequently.",
+    "start": 904.83,
+    "duration": 2.6
+  },
+  {
+    "text": "It's an iterative process\nthat will help you fail fast",
+    "start": 907.463,
+    "duration": 3.5
+  },
+  {
+    "text": "and early failures\nwill eventually lead to success.",
+    "start": 910.997,
+    "duration": 3.366
+  },
+  {
+    "text": "The important thing is to persevere.",
+    "start": 915.497,
+    "duration": 1.966
+  },
+  {
+    "text": "Do not give up.",
+    "start": 917.497,
+    "duration": 1.366
+  },
+  {
+    "text": "And I remember the story\nof these two Aborigine Australian women,",
+    "start": 918.863,
+    "duration": 5.734
+  },
+  {
+    "text": "Patricia O'Connor and Ysola Best.",
+    "start": 924.63,
+    "duration": 3.8
+  },
+  {
+    "text": "In the mid-90s, they went\nto the University of Queensland",
+    "start": 929.763,
+    "duration": 3.134
+  },
+  {
+    "text": "and they wanted to learn\ntheir own language, called Yugambeh,",
+    "start": 932.93,
+    "duration": 3.333
+  },
+  {
+    "text": "and they were told very bluntly,\n\"Your language is dead.",
+    "start": 936.297,
+    "duration": 2.633
+  },
+  {
+    "text": "It's been dead for three decades.",
+    "start": 938.963,
+    "duration": 1.6
+  },
+  {
+    "text": "You cannot work on this.\nFind something else to work on.\"",
+    "start": 940.563,
+    "duration": 3.867
+  },
+  {
+    "text": "They did not give up.",
+    "start": 944.463,
+    "duration": 1.267
+  },
+  {
+    "text": "They went to the community,",
+    "start": 945.763,
+    "duration": 1.6
+  },
+  {
+    "text": "they dug up oral memories,\noral traditions, oral literature,",
+    "start": 947.363,
+    "duration": 4.867
+  },
+  {
+    "text": "and founded the Yugambeh Museum,",
+    "start": 952.263,
+    "duration": 3.367
+  },
+  {
+    "text": "which became the most important cultural\nand linguistic center for the language",
+    "start": 955.663,
+    "duration": 5.434
+  },
+  {
+    "text": "and its community.",
+    "start": 961.13,
+    "duration": 1.767
+  },
+  {
+    "text": "They did not have technology.\nThey only had their willpower.",
+    "start": 962.93,
+    "duration": 4.033
+  },
+  {
+    "text": "Now, with the power of technology,",
+    "start": 966.997,
+    "duration": 2.233
+  },
+  {
+    "text": "we can ensure that the next page\nis written in Salmi from Finland,",
+    "start": 969.263,
+    "duration": 5.767
+  },
+  {
+    "text": "Lillooet from Canada\nor Mundari from India.",
+    "start": 975.03,
+    "duration": 3.467
+  },
+  {
+    "text": "Thank you.",
+    "start": 979.163,
+    "duration": 1.0
+  }
+]

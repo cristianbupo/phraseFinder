@@ -1,0 +1,637 @@
+[
+  {
+    "text": "it seems to me that there are two kinds",
+    "start": 3.84,
+    "duration": 3.32
+  },
+  {
+    "text": "of problems that uh comprehensive",
+    "start": 5.279,
+    "duration": 5.681
+  },
+  {
+    "text": "digital memory uh poses to us uh the the",
+    "start": 7.16,
+    "duration": 6.479
+  },
+  {
+    "text": "first one I'd like to label power",
+    "start": 10.96,
+    "duration": 4.839
+  },
+  {
+    "text": "problems or power challenges uh it",
+    "start": 13.639,
+    "duration": 3.361
+  },
+  {
+    "text": "usually has to do with the fact that",
+    "start": 15.799,
+    "duration": 2.64
+  },
+  {
+    "text": "when we share information with somebody",
+    "start": 17.0,
+    "duration": 4.039
+  },
+  {
+    "text": "else that person has some informational",
+    "start": 18.439,
+    "duration": 5.401
+  },
+  {
+    "text": "power over us uh that that person can",
+    "start": 21.039,
+    "duration": 7.08
+  },
+  {
+    "text": "use in order to um sell us some stuff uh",
+    "start": 23.84,
+    "duration": 7.64
+  },
+  {
+    "text": "to Market us some stuff um and that",
+    "start": 28.119,
+    "duration": 5.041
+  },
+  {
+    "text": "information can be aggregated can be",
+    "start": 31.48,
+    "duration": 4.2
+  },
+  {
+    "text": "shared with others so that a certain um",
+    "start": 33.16,
+    "duration": 5.64
+  },
+  {
+    "text": "information profile uh can arise about",
+    "start": 35.68,
+    "duration": 6.719
+  },
+  {
+    "text": "us um this is what has been the focal",
+    "start": 38.8,
+    "duration": 5.68
+  },
+  {
+    "text": "point of information privacy research",
+    "start": 42.399,
+    "duration": 4.401
+  },
+  {
+    "text": "for a very long period of time but I",
+    "start": 44.48,
+    "duration": 4.96
+  },
+  {
+    "text": "believe this kind of dietic relationship",
+    "start": 46.8,
+    "duration": 5.759
+  },
+  {
+    "text": "if you want between a person that a data",
+    "start": 49.44,
+    "duration": 4.919
+  },
+  {
+    "text": "subject that gives information and a",
+    "start": 52.559,
+    "duration": 4.16
+  },
+  {
+    "text": "processor that receives information is",
+    "start": 54.359,
+    "duration": 4.68
+  },
+  {
+    "text": "only part of the picture we need to go",
+    "start": 56.719,
+    "duration": 7.641
+  },
+  {
+    "text": "beyond this relatively small scale view",
+    "start": 59.039,
+    "duration": 7.001
+  },
+  {
+    "text": "particularly when we look at the",
+    "start": 64.36,
+    "duration": 4.96
+  },
+  {
+    "text": "importance of memory um let me give you",
+    "start": 66.04,
+    "duration": 4.119
+  },
+  {
+    "text": "an",
+    "start": 69.32,
+    "duration": 3.4
+  },
+  {
+    "text": "example uh for a very long period of",
+    "start": 70.159,
+    "duration": 6.521
+  },
+  {
+    "text": "time we thought that um sharing stuff on",
+    "start": 72.72,
+    "duration": 6.32
+  },
+  {
+    "text": "the internet is somewhat dangerous",
+    "start": 76.68,
+    "duration": 4.759
+  },
+  {
+    "text": "because it's not just our friends that",
+    "start": 79.04,
+    "duration": 4.28
+  },
+  {
+    "text": "have access to it but it's everybody",
+    "start": 81.439,
+    "duration": 3.64
+  },
+  {
+    "text": "around the world that has access to it",
+    "start": 83.32,
+    "duration": 3.159
+  },
+  {
+    "text": "hundreds of millions of people and",
+    "start": 85.079,
+    "duration": 3.4
+  },
+  {
+    "text": "thousands of jurisdictions and somebody",
+    "start": 86.479,
+    "duration": 3.68
+  },
+  {
+    "text": "somewhere might actually be offended by",
+    "start": 88.479,
+    "duration": 5.441
+  },
+  {
+    "text": "what we had to say and might uh get a",
+    "start": 90.159,
+    "duration": 6.561
+  },
+  {
+    "text": "court to agree and then uh we find",
+    "start": 93.92,
+    "duration": 5.08
+  },
+  {
+    "text": "ourselves having to defend our actions",
+    "start": 96.72,
+    "duration": 4.84
+  },
+  {
+    "text": "much like the Google uh managers had to",
+    "start": 99.0,
+    "duration": 4.799
+  },
+  {
+    "text": "do a few weeks back when they were",
+    "start": 101.56,
+    "duration": 4.239
+  },
+  {
+    "text": "successfully sued and convicted in a",
+    "start": 103.799,
+    "duration": 4.161
+  },
+  {
+    "text": "Italian court for what they did or",
+    "start": 105.799,
+    "duration": 6.481
+  },
+  {
+    "text": "didn't do on YouTube um and and so",
+    "start": 107.96,
+    "duration": 6.36
+  },
+  {
+    "text": "that's been around that view has been",
+    "start": 112.28,
+    "duration": 4.159
+  },
+  {
+    "text": "around for a couple of years uh it's",
+    "start": 114.32,
+    "duration": 6.24
+  },
+  {
+    "text": "called uh the panopticum um the opticum",
+    "start": 116.439,
+    "duration": 7.121
+  },
+  {
+    "text": "basically is an idea that has been with",
+    "start": 120.56,
+    "duration": 6.559
+  },
+  {
+    "text": "us for 10 and some years invented by",
+    "start": 123.56,
+    "duration": 7.039
+  },
+  {
+    "text": "Jeremy benam and Britain the idea is uh",
+    "start": 127.119,
+    "duration": 5.76
+  },
+  {
+    "text": "it would be great to create a prison in",
+    "start": 130.599,
+    "duration": 5.041
+  },
+  {
+    "text": "which the prisoners don't know when the",
+    "start": 132.879,
+    "duration": 5.121
+  },
+  {
+    "text": "prison guards watch them they have to",
+    "start": 135.64,
+    "duration": 3.879
+  },
+  {
+    "text": "assume that they're always watched and",
+    "start": 138.0,
+    "duration": 3.2
+  },
+  {
+    "text": "therefore they have to behave all the",
+    "start": 139.519,
+    "duration": 5.0
+  },
+  {
+    "text": "time similarly because we don't know who",
+    "start": 141.2,
+    "duration": 6.0
+  },
+  {
+    "text": "is watching us online we have to behave",
+    "start": 144.519,
+    "duration": 4.761
+  },
+  {
+    "text": "all the time to the lowest common",
+    "start": 147.2,
+    "duration": 3.44
+  },
+  {
+    "text": "denominator",
+    "start": 149.28,
+    "duration": 4.959
+  },
+  {
+    "text": "uh and therefore our behavior is skewed",
+    "start": 150.64,
+    "duration": 6.4
+  },
+  {
+    "text": "as constrained uh and many people have",
+    "start": 154.239,
+    "duration": 5.441
+  },
+  {
+    "text": "been writing about that but I believe",
+    "start": 157.04,
+    "duration": 4.96
+  },
+  {
+    "text": "there is with digital memory something",
+    "start": 159.68,
+    "duration": 5.32
+  },
+  {
+    "text": "much more problematic coming up and that",
+    "start": 162.0,
+    "duration": 5.72
+  },
+  {
+    "text": "has to do with the longevity of digital",
+    "start": 165.0,
+    "duration": 6.4
+  },
+  {
+    "text": "memory so we have to face the fact that",
+    "start": 167.72,
+    "duration": 6.4
+  },
+  {
+    "text": "what we say and do online today will not",
+    "start": 171.4,
+    "duration": 4.24
+  },
+  {
+    "text": "only be viewed by the hundreds of",
+    "start": 174.12,
+    "duration": 3.72
+  },
+  {
+    "text": "millions of people that are online today",
+    "start": 175.64,
+    "duration": 3.959
+  },
+  {
+    "text": "but might be viewed and interpreted",
+    "start": 177.84,
+    "duration": 4.479
+  },
+  {
+    "text": "different differently by people and",
+    "start": 179.599,
+    "duration": 5.161
+  },
+  {
+    "text": "institutions 10 years 20 years 30 years",
+    "start": 182.319,
+    "duration": 5.161
+  },
+  {
+    "text": "down the road when we're no longer young",
+    "start": 184.76,
+    "duration": 6.68
+  },
+  {
+    "text": "uh and we might not be um as engaged in",
+    "start": 187.48,
+    "duration": 6.44
+  },
+  {
+    "text": "public discourse and protest anymore uh",
+    "start": 191.44,
+    "duration": 4.68
+  },
+  {
+    "text": "but we might uh want to reply for a",
+    "start": 193.92,
+    "duration": 5.08
+  },
+  {
+    "text": "well-paid investment banker job and then",
+    "start": 196.12,
+    "duration": 4.64
+  },
+  {
+    "text": "they might just Google us and find out",
+    "start": 199.0,
+    "duration": 5.44
+  },
+  {
+    "text": "at uh 15 years earlier we said something",
+    "start": 200.76,
+    "duration": 8.28
+  },
+  {
+    "text": "uh that wasn't so um complimentary to uh",
+    "start": 204.44,
+    "duration": 8.84
+  },
+  {
+    "text": "the banks uh or so so therefore uh the",
+    "start": 209.04,
+    "duration": 6.119
+  },
+  {
+    "text": "comprehensive digital memory creates",
+    "start": 213.28,
+    "duration": 4.159
+  },
+  {
+    "text": "what I call a temporal panopticum it",
+    "start": 215.159,
+    "duration": 4.961
+  },
+  {
+    "text": "creates uh a situation in which we have",
+    "start": 217.439,
+    "duration": 5.281
+  },
+  {
+    "text": "to fear that we are not only watched",
+    "start": 220.12,
+    "duration": 4.8
+  },
+  {
+    "text": "today but we are watched by Future",
+    "start": 222.72,
+    "duration": 5.04
+  },
+  {
+    "text": "Generations uh by our future and that",
+    "start": 224.92,
+    "duration": 5.8
+  },
+  {
+    "text": "really dramatically constrains what we",
+    "start": 227.76,
+    "duration": 6.0
+  },
+  {
+    "text": "ought to do online and pushes us toward",
+    "start": 230.72,
+    "duration": 4.76
+  },
+  {
+    "text": "its self-censorship exactly when we",
+    "start": 233.76,
+    "duration": 3.72
+  },
+  {
+    "text": "don't need self-censorship because we",
+    "start": 235.48,
+    "duration": 4.56
+  },
+  {
+    "text": "need robust public debate online that's",
+    "start": 237.48,
+    "duration": 5.92
+  },
+  {
+    "text": "what the online discourse is all",
+    "start": 240.04,
+    "duration": 3.36
+  },
+  {
+    "text": "about well let me give you an example of",
+    "start": 244.2,
+    "duration": 4.52
+  },
+  {
+    "text": "what happens already today so there's",
+    "start": 247.0,
+    "duration": 4.879
+  },
+  {
+    "text": "people who lose their jobs uh who",
+    "start": 248.72,
+    "duration": 5.96
+  },
+  {
+    "text": "relationships blow up basically uh",
+    "start": 251.879,
+    "duration": 5.32
+  },
+  {
+    "text": "because of what they said online earlier",
+    "start": 254.68,
+    "duration": 5.399
+  },
+  {
+    "text": "on uh but there are also cases that are",
+    "start": 257.199,
+    "duration": 5.481
+  },
+  {
+    "text": "quite shocking in a way I had a a woman",
+    "start": 260.079,
+    "duration": 4.721
+  },
+  {
+    "text": "call in at one of the radio shows that I",
+    "start": 262.68,
+    "duration": 5.6
+  },
+  {
+    "text": "did uh and she told me about her case",
+    "start": 264.8,
+    "duration": 5.88
+  },
+  {
+    "text": "she had been uh convicted of a crime in",
+    "start": 268.28,
+    "duration": 5.56
+  },
+  {
+    "text": "the state of California um many years",
+    "start": 270.68,
+    "duration": 6.84
+  },
+  {
+    "text": "ago when she was uh 17 years served in",
+    "start": 273.84,
+    "duration": 6.24
+  },
+  {
+    "text": "prison then was released uh started a",
+    "start": 277.52,
+    "duration": 5.119
+  },
+  {
+    "text": "new life went to a new place uh found a",
+    "start": 280.08,
+    "duration": 5.32
+  },
+  {
+    "text": "husband had kids started a family",
+    "start": 282.639,
+    "duration": 4.801
+  },
+  {
+    "text": "basically everything was was in order",
+    "start": 285.4,
+    "duration": 5.12
+  },
+  {
+    "text": "she even found God so hey this uh sounds",
+    "start": 287.44,
+    "duration": 7.12
+  },
+  {
+    "text": "like a happy end story except uh one day",
+    "start": 290.52,
+    "duration": 7.0
+  },
+  {
+    "text": "uh a colleague of her son in school",
+    "start": 294.56,
+    "duration": 7.04
+  },
+  {
+    "text": "Googled her and found the website of",
+    "start": 297.52,
+    "duration": 8.08
+  },
+  {
+    "text": "mugshots of all um prison inmates in",
+    "start": 301.6,
+    "duration": 7.56
+  },
+  {
+    "text": "California over the last 20 or 25 years",
+    "start": 305.6,
+    "duration": 5.48
+  },
+  {
+    "text": "and she was right in there and suddenly",
+    "start": 309.16,
+    "duration": 3.879
+  },
+  {
+    "text": "the community her small community that",
+    "start": 311.08,
+    "duration": 4.2
+  },
+  {
+    "text": "she lived in knew that she actually was",
+    "start": 313.039,
+    "duration": 4.481
+  },
+  {
+    "text": "an ex-convict uh and immediately",
+    "start": 315.28,
+    "duration": 6.68
+  },
+  {
+    "text": "ostracized her uh and her new life uh",
+    "start": 317.52,
+    "duration": 6.679
+  },
+  {
+    "text": "unraveled and she called in said what",
+    "start": 321.96,
+    "duration": 5.56
+  },
+  {
+    "text": "can I do and I said nothing uh this is",
+    "start": 324.199,
+    "duration": 6.201
+  },
+  {
+    "text": "UN this is the unfortunate side effect",
+    "start": 327.52,
+    "duration": 5.6
+  },
+  {
+    "text": "of a digital memory that doesn't forget",
+    "start": 330.4,
+    "duration": 5.32
+  },
+  {
+    "text": "while our society forgets we forgive",
+    "start": 333.12,
+    "duration": 6.28
+  },
+  {
+    "text": "even ex-convicts uh but the digital",
+    "start": 335.72,
+    "duration": 6.599
+  },
+  {
+    "text": "memory doesn't do that",
+    "start": 339.4,
+    "duration": 5.919
+  },
+  {
+    "text": "anymore",
+    "start": 342.319,
+    "duration": 3.0
+  }
+]

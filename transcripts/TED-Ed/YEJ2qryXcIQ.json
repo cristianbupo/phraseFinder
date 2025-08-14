@@ -1,0 +1,472 @@
+[
+  {
+    "text": "This is a crystal of sugar.",
+    "start": 8.046,
+    "duration": 2.65
+  },
+  {
+    "text": "If you press on it, it will actually\ngenerate its own electricity.",
+    "start": 10.696,
+    "duration": 3.79
+  },
+  {
+    "text": "How can this simple crystal \nact like a tiny power source?",
+    "start": 14.486,
+    "duration": 3.31
+  },
+  {
+    "text": "Because sugar is piezoelectric.",
+    "start": 17.796,
+    "duration": 2.59
+  },
+  {
+    "text": "Piezoelectric materials \nturn mechanical stress,",
+    "start": 20.386,
+    "duration": 2.761
+  },
+  {
+    "text": "like pressure,",
+    "start": 23.147,
+    "duration": 1.18
+  },
+  {
+    "text": "sound waves,",
+    "start": 24.327,
+    "duration": 0.863
+  },
+  {
+    "text": "and other vibrations",
+    "start": 25.19,
+    "duration": 1.057
+  },
+  {
+    "text": "into electricity and vice versa.",
+    "start": 26.247,
+    "duration": 2.499
+  },
+  {
+    "text": "This odd phenomenon was first\ndiscovered",
+    "start": 28.746,
+    "duration": 1.901
+  },
+  {
+    "text": "by the physicist Pierre Curie \nand his brother Jacques in 1880.",
+    "start": 30.647,
+    "duration": 4.319
+  },
+  {
+    "text": "They discovered that if they compressed\nthin slices of certain crystals,",
+    "start": 34.966,
+    "duration": 3.451
+  },
+  {
+    "text": "positive and negative charges would appear\non opposite faces.",
+    "start": 38.417,
+    "duration": 4.601
+  },
+  {
+    "text": "This difference in charge, or voltage,",
+    "start": 43.018,
+    "duration": 2.138
+  },
+  {
+    "text": "meant that the compressed crystal\ncould drive current through a circuit,",
+    "start": 45.156,
+    "duration": 3.771
+  },
+  {
+    "text": "like a battery.",
+    "start": 48.927,
+    "duration": 1.56
+  },
+  {
+    "text": "And it worked the other way around, too.",
+    "start": 50.487,
+    "duration": 2.231
+  },
+  {
+    "text": "Running electricity through these crystals\nmade them change shape.",
+    "start": 52.718,
+    "duration": 4.159
+  },
+  {
+    "text": "Both of these results,",
+    "start": 56.877,
+    "duration": 1.101
+  },
+  {
+    "text": "turning mechanical energy into electrical,",
+    "start": 57.978,
+    "duration": 2.791
+  },
+  {
+    "text": "and electrical energy into mechanical,",
+    "start": 60.769,
+    "duration": 2.388
+  },
+  {
+    "text": "were remarkable.",
+    "start": 63.157,
+    "duration": 1.542
+  },
+  {
+    "text": "But the discovery went uncelebrated\nfor several decades.",
+    "start": 64.699,
+    "duration": 3.447
+  },
+  {
+    "text": "The first practical application\nwas in sonar instruments",
+    "start": 68.146,
+    "duration": 3.002
+  },
+  {
+    "text": "used to detect German submarines\nduring World War I.",
+    "start": 71.148,
+    "duration": 3.5
+  },
+  {
+    "text": "Piezoelectric quartz crystals \nin the sonar's transmitter",
+    "start": 74.648,
+    "duration": 2.812
+  },
+  {
+    "text": "vibrated when they were subjected\nto alternating voltage.",
+    "start": 77.46,
+    "duration": 3.999
+  },
+  {
+    "text": "That sent ultrasound waves\nthrough the water.",
+    "start": 81.459,
+    "duration": 2.49
+  },
+  {
+    "text": "Measuring how long it took these waves\nto bounce back from an object",
+    "start": 83.949,
+    "duration": 3.23
+  },
+  {
+    "text": "revealed how far away it was.",
+    "start": 87.179,
+    "duration": 2.671
+  },
+  {
+    "text": "For the opposite transformation,",
+    "start": 89.85,
+    "duration": 1.678
+  },
+  {
+    "text": "converting mechanical energy \nto electrical,",
+    "start": 91.528,
+    "duration": 2.481
+  },
+  {
+    "text": "consider the lights that turn on\nwhen you clap.",
+    "start": 94.009,
+    "duration": 2.82
+  },
+  {
+    "text": "Clapping your hands send sound vibrations\nthrough the air",
+    "start": 96.829,
+    "duration": 2.71
+  },
+  {
+    "text": "and causes the piezo element to bend\nback and forth.",
+    "start": 99.539,
+    "duration": 3.649
+  },
+  {
+    "text": "This creates a voltage that can drive\nenough current to light up the LEDs,",
+    "start": 103.188,
+    "duration": 3.692
+  },
+  {
+    "text": "though it's conventional sources \nof electricity that keep them on.",
+    "start": 106.88,
+    "duration": 3.54
+  },
+  {
+    "text": "So what makes a material piezoelectric?",
+    "start": 110.42,
+    "duration": 3.209
+  },
+  {
+    "text": "The answer depends on two factors:",
+    "start": 113.629,
+    "duration": 2.121
+  },
+  {
+    "text": "the materials atomic structure,",
+    "start": 115.75,
+    "duration": 1.84
+  },
+  {
+    "text": "and how electric charge\nis distributed within it.",
+    "start": 117.59,
+    "duration": 3.38
+  },
+  {
+    "text": "Many materials are crystalline,",
+    "start": 120.97,
+    "duration": 1.72
+  },
+  {
+    "text": "meaning they're made of atoms or ions",
+    "start": 122.69,
+    "duration": 1.809
+  },
+  {
+    "text": "arranged in an orderly \nthree-dimensional pattern.",
+    "start": 124.499,
+    "duration": 3.131
+  },
+  {
+    "text": "That pattern has a building block\ncalled a unit cell",
+    "start": 127.63,
+    "duration": 2.64
+  },
+  {
+    "text": "that repeats over and over.",
+    "start": 130.27,
+    "duration": 2.46
+  },
+  {
+    "text": "In most non-piezoelectric \ncrystalline materials,",
+    "start": 132.73,
+    "duration": 2.831
+  },
+  {
+    "text": "the atoms in their unit cells\nare distributed symmetrically",
+    "start": 135.561,
+    "duration": 3.05
+  },
+  {
+    "text": "around a central point.",
+    "start": 138.611,
+    "duration": 1.863
+  },
+  {
+    "text": "But some crystalline materials\ndon't possess a center of symmetry",
+    "start": 140.474,
+    "duration": 3.479
+  },
+  {
+    "text": "making them candidates \nfor piezoelectricity.",
+    "start": 143.953,
+    "duration": 3.149
+  },
+  {
+    "text": "Let's look at quartz,",
+    "start": 147.102,
+    "duration": 1.413
+  },
+  {
+    "text": "a piezoelectric material \nmade of silicon and oxygen.",
+    "start": 148.515,
+    "duration": 3.467
+  },
+  {
+    "text": "The oxygens have a slight negative charge\nand silicons have a slight positive,",
+    "start": 151.982,
+    "duration": 4.739
+  },
+  {
+    "text": "creating a separation of charge,",
+    "start": 156.721,
+    "duration": 1.531
+  },
+  {
+    "text": "or a dipole along each bond.",
+    "start": 158.252,
+    "duration": 2.89
+  },
+  {
+    "text": "Normally, these dipoles \ncancel each other out,",
+    "start": 161.142,
+    "duration": 2.43
+  },
+  {
+    "text": "so there's no net separation of charge\nin the unit cell.",
+    "start": 163.572,
+    "duration": 3.021
+  },
+  {
+    "text": "But if a quartz crystal is squeezed\nalong a certain direction,",
+    "start": 166.593,
+    "duration": 2.981
+  },
+  {
+    "text": "the atoms shift.",
+    "start": 169.574,
+    "duration": 1.809
+  },
+  {
+    "text": "Because of the resulting asymmetry\nin charge distribution,",
+    "start": 171.383,
+    "duration": 2.751
+  },
+  {
+    "text": "the dipoles no longer cancel\neach other out.",
+    "start": 174.134,
+    "duration": 2.492
+  },
+  {
+    "text": "The stretched cell ends up\nwith a net negative charge on one side",
+    "start": 176.626,
+    "duration": 3.831
+  },
+  {
+    "text": "and a net positive on the other.",
+    "start": 180.457,
+    "duration": 2.676
+  },
+  {
+    "text": "This charge imbalance is repeated\nall the way through the material,",
+    "start": 183.133,
+    "duration": 3.15
+  },
+  {
+    "text": "and opposite charges collect\non opposite faces of the crystal.",
+    "start": 186.283,
+    "duration": 3.654
+  },
+  {
+    "text": "This results in a voltage that can\ndrive electricity through a circuit.",
+    "start": 189.937,
+    "duration": 3.937
+  },
+  {
+    "text": "Piezoelectric materials can \nhave different structures.",
+    "start": 193.874,
+    "duration": 3.04
+  },
+  {
+    "text": "But what they all have in common is unit\ncells which lack a center of symmetry.",
+    "start": 196.914,
+    "duration": 4.603
+  },
+  {
+    "text": "And the stronger the compression\non piezoelectric materials,",
+    "start": 201.517,
+    "duration": 2.837
+  },
+  {
+    "text": "the larger the voltage generated.",
+    "start": 204.354,
+    "duration": 2.39
+  },
+  {
+    "text": "Stretch the crystal, instead,\nand the voltage will switch,",
+    "start": 206.744,
+    "duration": 3.22
+  },
+  {
+    "text": "making current flow the other way.",
+    "start": 209.964,
+    "duration": 2.28
+  },
+  {
+    "text": "More materials are piezoelectric\nthan you might think.",
+    "start": 212.244,
+    "duration": 3.481
+  },
+  {
+    "text": "DNA,",
+    "start": 215.725,
+    "duration": 0.939
+  },
+  {
+    "text": "bone,",
+    "start": 216.664,
+    "duration": 0.731
+  },
+  {
+    "text": "and silk",
+    "start": 217.395,
+    "duration": 0.879
+  },
+  {
+    "text": "all have this ability to turn\nmechanical energy into electrical.",
+    "start": 218.274,
+    "duration": 4.152
+  },
+  {
+    "text": "Scientists have created a variety\nof synthetic piezoelectric materials",
+    "start": 222.426,
+    "duration": 3.47
+  },
+  {
+    "text": "and found applications for them\nin everything from medical imaging",
+    "start": 225.896,
+    "duration": 3.438
+  },
+  {
+    "text": "to ink jet printers.",
+    "start": 229.334,
+    "duration": 2.202
+  },
+  {
+    "text": "Piezoelectricity is responsible for \nthe rhythmic oscillations",
+    "start": 231.536,
+    "duration": 3.309
+  },
+  {
+    "text": "of the quartz crystals\nthat keep watches running on time,",
+    "start": 234.845,
+    "duration": 3.14
+  },
+  {
+    "text": "the speakers of musical birthday cards,",
+    "start": 237.985,
+    "duration": 1.861
+  },
+  {
+    "text": "and the spark that ignites the gas \nin some barbecue grill lighters",
+    "start": 239.846,
+    "duration": 3.159
+  },
+  {
+    "text": "when you flick the switch.",
+    "start": 243.005,
+    "duration": 2.111
+  },
+  {
+    "text": "And piezoelectric devices may become\neven more common",
+    "start": 245.116,
+    "duration": 3.231
+  },
+  {
+    "text": "since electricity is in high demand\nand mechanical energy is abundant.",
+    "start": 248.347,
+    "duration": 4.64
+  },
+  {
+    "text": "There are already train stations\nthat use passengers' footsteps",
+    "start": 252.987,
+    "duration": 2.949
+  },
+  {
+    "text": "to power the ticket gates and displays",
+    "start": 255.936,
+    "duration": 2.542
+  },
+  {
+    "text": "and a dance club where piezoelectricity\nhelps power the lights.",
+    "start": 258.478,
+    "duration": 3.619
+  },
+  {
+    "text": "Could basketball players running back\nand forth power the scoreboard?",
+    "start": 262.097,
+    "duration": 3.251
+  },
+  {
+    "text": "Or might walking down the street\ncharge your electronic devices?",
+    "start": 265.348,
+    "duration": 3.32
+  },
+  {
+    "text": "What's next for piezoelectricity?",
+    "start": 268.668,
+    "duration": 2.568
+  }
+]

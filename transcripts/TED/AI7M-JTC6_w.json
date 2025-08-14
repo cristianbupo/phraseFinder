@@ -1,0 +1,972 @@
+[
+  {
+    "text": "So, robots.",
+    "start": 13.531,
+    "duration": 1.837
+  },
+  {
+    "text": "Robots can be programmed",
+    "start": 15.392,
+    "duration": 1.414
+  },
+  {
+    "text": "to do the same task millions of times\nwith minimal error,",
+    "start": 16.83,
+    "duration": 3.691
+  },
+  {
+    "text": "something very difficult for us, right?",
+    "start": 20.545,
+    "duration": 2.514
+  },
+  {
+    "text": "And it can be very impressive\nto watch them at work.",
+    "start": 23.083,
+    "duration": 3.161
+  },
+  {
+    "text": "Look at them.",
+    "start": 26.268,
+    "duration": 1.256
+  },
+  {
+    "text": "I could watch them for hours.",
+    "start": 27.548,
+    "duration": 1.908
+  },
+  {
+    "text": "No?",
+    "start": 30.108,
+    "duration": 1.299
+  },
+  {
+    "text": "What is less impressive",
+    "start": 31.431,
+    "duration": 2.207
+  },
+  {
+    "text": "is that if you take these robots\nout of the factories,",
+    "start": 33.662,
+    "duration": 2.933
+  },
+  {
+    "text": "where the environments are not\nperfectly known and measured like here,",
+    "start": 36.619,
+    "duration": 4.38
+  },
+  {
+    "text": "to do even a simple task\nwhich doesn't require much precision,",
+    "start": 41.023,
+    "duration": 4.278
+  },
+  {
+    "text": "this is what can happen.",
+    "start": 45.325,
+    "duration": 1.611
+  },
+  {
+    "text": "I mean, opening a door,\nyou don't require much precision.",
+    "start": 46.96,
+    "duration": 2.729
+  },
+  {
+    "text": "(Laughter)",
+    "start": 49.713,
+    "duration": 1.03
+  },
+  {
+    "text": "Or a small error in the measurements,",
+    "start": 50.767,
+    "duration": 2.454
+  },
+  {
+    "text": "he misses the valve, and that's it --",
+    "start": 53.245,
+    "duration": 1.826
+  },
+  {
+    "text": "(Laughter)",
+    "start": 55.095,
+    "duration": 1.27
+  },
+  {
+    "text": "with no way of recovering,\nmost of the time.",
+    "start": 56.389,
+    "duration": 2.444
+  },
+  {
+    "text": "So why is that?",
+    "start": 59.561,
+    "duration": 1.675
+  },
+  {
+    "text": "Well, for many years,",
+    "start": 61.26,
+    "duration": 1.874
+  },
+  {
+    "text": "robots have been designed\nto emphasize speed and precision,",
+    "start": 63.158,
+    "duration": 3.3
+  },
+  {
+    "text": "and this translates\ninto a very specific architecture.",
+    "start": 66.482,
+    "duration": 2.962
+  },
+  {
+    "text": "If you take a robot arm,",
+    "start": 69.468,
+    "duration": 1.151
+  },
+  {
+    "text": "it's a very well-defined\nset of rigid links",
+    "start": 70.643,
+    "duration": 2.759
+  },
+  {
+    "text": "and motors, what we call actuators,",
+    "start": 73.426,
+    "duration": 2.059
+  },
+  {
+    "text": "they move the links about the joints.",
+    "start": 75.509,
+    "duration": 1.77
+  },
+  {
+    "text": "In this robotic structure,",
+    "start": 77.303,
+    "duration": 1.307
+  },
+  {
+    "text": "you have to perfectly\nmeasure your environment,",
+    "start": 78.624,
+    "duration": 2.227
+  },
+  {
+    "text": "so what is around,",
+    "start": 80.865,
+    "duration": 1.897
+  },
+  {
+    "text": "and you have to perfectly\nprogram every movement",
+    "start": 82.786,
+    "duration": 2.639
+  },
+  {
+    "text": "of the robot joints,",
+    "start": 85.449,
+    "duration": 2.135
+  },
+  {
+    "text": "because a small error\ncan generate a very large fault,",
+    "start": 87.608,
+    "duration": 3.262
+  },
+  {
+    "text": "so you can damage something\nor you can get your robot damaged",
+    "start": 90.894,
+    "duration": 3.013
+  },
+  {
+    "text": "if something is harder.",
+    "start": 93.931,
+    "duration": 1.531
+  },
+  {
+    "text": "So let's talk about them a moment.",
+    "start": 96.107,
+    "duration": 2.205
+  },
+  {
+    "text": "And don't think\nabout the brains of these robots",
+    "start": 98.336,
+    "duration": 3.223
+  },
+  {
+    "text": "or how carefully we program them,",
+    "start": 101.583,
+    "duration": 2.745
+  },
+  {
+    "text": "but rather look at their bodies.",
+    "start": 104.352,
+    "duration": 1.818
+  },
+  {
+    "text": "There is obviously\nsomething wrong with it,",
+    "start": 106.606,
+    "duration": 2.879
+  },
+  {
+    "text": "because what makes a robot\nprecise and strong",
+    "start": 109.509,
+    "duration": 3.127
+  },
+  {
+    "text": "also makes them ridiculously dangerous\nand ineffective in the real world,",
+    "start": 112.66,
+    "duration": 4.389
+  },
+  {
+    "text": "because their body cannot deform",
+    "start": 117.073,
+    "duration": 1.985
+  },
+  {
+    "text": "or better adjust to the interaction\nwith the real world.",
+    "start": 119.082,
+    "duration": 3.229
+  },
+  {
+    "text": "So think about the opposite approach,",
+    "start": 123.226,
+    "duration": 3.118
+  },
+  {
+    "text": "being softer than\nanything else around you.",
+    "start": 126.368,
+    "duration": 2.818
+  },
+  {
+    "text": "Well, maybe you think that you're not\nreally able to do anything if you're soft,",
+    "start": 129.827,
+    "duration": 5.085
+  },
+  {
+    "text": "probably.",
+    "start": 134.936,
+    "duration": 1.167
+  },
+  {
+    "text": "Well, nature teaches us the opposite.",
+    "start": 136.127,
+    "duration": 2.85
+  },
+  {
+    "text": "For example, at the bottom of the ocean,",
+    "start": 139.001,
+    "duration": 2.031
+  },
+  {
+    "text": "under thousands of pounds\nof hydrostatic pressure,",
+    "start": 141.056,
+    "duration": 2.436
+  },
+  {
+    "text": "a completely soft animal",
+    "start": 143.516,
+    "duration": 2.428
+  },
+  {
+    "text": "can move and interact\nwith a much stiffer object than him.",
+    "start": 145.968,
+    "duration": 3.277
+  },
+  {
+    "text": "He walks by carrying around\nthis coconut shell",
+    "start": 149.878,
+    "duration": 2.847
+  },
+  {
+    "text": "thanks to the flexibility\nof his tentacles,",
+    "start": 152.749,
+    "duration": 2.384
+  },
+  {
+    "text": "which serve as both his feet and hands.",
+    "start": 155.157,
+    "duration": 2.504
+  },
+  {
+    "text": "And apparently,\nan octopus can also open a jar.",
+    "start": 158.241,
+    "duration": 3.825
+  },
+  {
+    "text": "It's pretty impressive, right?",
+    "start": 163.883,
+    "duration": 1.754
+  },
+  {
+    "text": "But clearly, this is not enabled\njust by the brain of this animal,",
+    "start": 167.918,
+    "duration": 4.5
+  },
+  {
+    "text": "but also by his body,",
+    "start": 172.442,
+    "duration": 2.014
+  },
+  {
+    "text": "and it's a clear example,\nmaybe the clearest example,",
+    "start": 174.48,
+    "duration": 4.032
+  },
+  {
+    "text": "of embodied intelligence,",
+    "start": 178.536,
+    "duration": 1.8
+  },
+  {
+    "text": "which is a kind of intelligence\nthat all living organisms have.",
+    "start": 180.36,
+    "duration": 3.286
+  },
+  {
+    "text": "We all have that.",
+    "start": 183.67,
+    "duration": 1.566
+  },
+  {
+    "text": "Our body, its shape,\nmaterial and structure,",
+    "start": 185.26,
+    "duration": 3.842
+  },
+  {
+    "text": "plays a fundamental role\nduring a physical task,",
+    "start": 189.126,
+    "duration": 3.182
+  },
+  {
+    "text": "because we can conform to our environment",
+    "start": 192.332,
+    "duration": 5.613
+  },
+  {
+    "text": "so we can succeed in a large\nvariety of situations",
+    "start": 197.969,
+    "duration": 2.404
+  },
+  {
+    "text": "without much planning\nor calculations ahead.",
+    "start": 200.397,
+    "duration": 2.993
+  },
+  {
+    "text": "So why don't we put\nsome of this embodied intelligence",
+    "start": 203.414,
+    "duration": 2.715
+  },
+  {
+    "text": "into our robotic machines,",
+    "start": 206.153,
+    "duration": 1.555
+  },
+  {
+    "text": "to release them from relying\non excessive work",
+    "start": 207.732,
+    "duration": 2.349
+  },
+  {
+    "text": "on computation and sensing?",
+    "start": 210.105,
+    "duration": 2.017
+  },
+  {
+    "text": "Well, to do that, we can follow\nthe strategy of nature,",
+    "start": 213.097,
+    "duration": 2.65
+  },
+  {
+    "text": "because with evolution,\nshe's done a pretty good job",
+    "start": 215.771,
+    "duration": 2.612
+  },
+  {
+    "text": "in designing machines\nfor environment interaction.",
+    "start": 218.407,
+    "duration": 4.496
+  },
+  {
+    "text": "And it's easy to notice that nature\nuses soft material frequently",
+    "start": 222.927,
+    "duration": 4.494
+  },
+  {
+    "text": "and stiff material sparingly.",
+    "start": 227.445,
+    "duration": 2.295
+  },
+  {
+    "text": "And this is what is done\nin this new field of robotics,",
+    "start": 229.764,
+    "duration": 3.792
+  },
+  {
+    "text": "which is called \"soft robotics,\"",
+    "start": 233.58,
+    "duration": 2.3
+  },
+  {
+    "text": "in which the main objective\nis not to make super-precise machines,",
+    "start": 235.904,
+    "duration": 3.736
+  },
+  {
+    "text": "because we've already got them,",
+    "start": 239.664,
+    "duration": 1.937
+  },
+  {
+    "text": "but to make robots able to face\nunexpected situations in the real world,",
+    "start": 241.625,
+    "duration": 4.92
+  },
+  {
+    "text": "so able to go out there.",
+    "start": 246.569,
+    "duration": 1.557
+  },
+  {
+    "text": "And what makes a robot soft\nis first of all its compliant body,",
+    "start": 248.15,
+    "duration": 3.524
+  },
+  {
+    "text": "which is made of materials or structures\nthat can undergo very large deformations,",
+    "start": 251.698,
+    "duration": 5.531
+  },
+  {
+    "text": "so no more rigid links,",
+    "start": 257.253,
+    "duration": 1.831
+  },
+  {
+    "text": "and secondly, to move them,\nwe use what we call distributed actuation,",
+    "start": 259.108,
+    "duration": 3.548
+  },
+  {
+    "text": "so we have to control continuously\nthe shape of this very deformable body,",
+    "start": 262.68,
+    "duration": 5.032
+  },
+  {
+    "text": "which has the effect\nof having a lot of links and joints,",
+    "start": 267.736,
+    "duration": 3.298
+  },
+  {
+    "text": "but we don't have\nany stiff structure at all.",
+    "start": 271.058,
+    "duration": 2.623
+  },
+  {
+    "text": "So you can imagine that building\na soft robot is a very different process",
+    "start": 273.705,
+    "duration": 3.43
+  },
+  {
+    "text": "than stiff robotics,\nwhere you have links, gears, screws",
+    "start": 277.159,
+    "duration": 2.88
+  },
+  {
+    "text": "that you must combine\nin a very defined way.",
+    "start": 280.063,
+    "duration": 2.231
+  },
+  {
+    "text": "In soft robots, you just build\nyour actuator from scratch",
+    "start": 282.948,
+    "duration": 3.525
+  },
+  {
+    "text": "most of the time,",
+    "start": 286.497,
+    "duration": 1.151
+  },
+  {
+    "text": "but you shape your flexible material",
+    "start": 287.672,
+    "duration": 2.382
+  },
+  {
+    "text": "to the form that responds\nto a certain input.",
+    "start": 290.078,
+    "duration": 2.403
+  },
+  {
+    "text": "For example, here,\nyou can just deform a structure",
+    "start": 293.054,
+    "duration": 2.458
+  },
+  {
+    "text": "doing a fairly complex shape",
+    "start": 295.536,
+    "duration": 2.471
+  },
+  {
+    "text": "if you think about doing the same\nwith rigid links and joints,",
+    "start": 298.031,
+    "duration": 3.278
+  },
+  {
+    "text": "and here, what you use is just one input,",
+    "start": 301.333,
+    "duration": 2.333
+  },
+  {
+    "text": "such as air pressure.",
+    "start": 303.69,
+    "duration": 1.364
+  },
+  {
+    "text": "OK, but let's see\nsome cool examples of soft robots.",
+    "start": 305.869,
+    "duration": 3.489
+  },
+  {
+    "text": "Here is a little cute guy\ndeveloped at Harvard University,",
+    "start": 309.765,
+    "duration": 4.547
+  },
+  {
+    "text": "and he walks thanks to waves\nof pressure applied along its body,",
+    "start": 314.336,
+    "duration": 4.493
+  },
+  {
+    "text": "and thanks to the flexibility,\nhe can also sneak under a low bridge,",
+    "start": 318.853,
+    "duration": 3.286
+  },
+  {
+    "text": "keep walking,",
+    "start": 322.163,
+    "duration": 1.151
+  },
+  {
+    "text": "and then keep walking\na little bit different afterwards.",
+    "start": 323.338,
+    "duration": 3.197
+  },
+  {
+    "text": "And it's a very preliminary prototype,",
+    "start": 327.345,
+    "duration": 2.231
+  },
+  {
+    "text": "but they also built a more robust version\nwith power on board",
+    "start": 329.6,
+    "duration": 3.676
+  },
+  {
+    "text": "that can actually be sent out in the world\nand face real-world interactions",
+    "start": 333.3,
+    "duration": 5.447
+  },
+  {
+    "text": "like a car passing it over it ...",
+    "start": 338.771,
+    "duration": 1.706
+  },
+  {
+    "text": "and keep working.",
+    "start": 342.09,
+    "duration": 1.15
+  },
+  {
+    "text": "It's cute.",
+    "start": 344.056,
+    "duration": 1.151
+  },
+  {
+    "text": "(Laughter)",
+    "start": 345.231,
+    "duration": 1.421
+  },
+  {
+    "text": "Or a robotic fish, which swims\nlike a real fish does in water",
+    "start": 346.676,
+    "duration": 3.864
+  },
+  {
+    "text": "simply because it has a soft tail\nwith distributed actuation",
+    "start": 350.564,
+    "duration": 3.184
+  },
+  {
+    "text": "using still air pressure.",
+    "start": 353.772,
+    "duration": 1.644
+  },
+  {
+    "text": "That was from MIT,",
+    "start": 355.954,
+    "duration": 1.358
+  },
+  {
+    "text": "and of course, we have a robotic octopus.",
+    "start": 357.336,
+    "duration": 2.805
+  },
+  {
+    "text": "This was actually one\nof the first projects",
+    "start": 360.165,
+    "duration": 2.079
+  },
+  {
+    "text": "developed in this new field\nof soft robots.",
+    "start": 362.268,
+    "duration": 2.126
+  },
+  {
+    "text": "Here, you see the artificial tentacle,",
+    "start": 364.418,
+    "duration": 1.886
+  },
+  {
+    "text": "but they actually built an entire machine\nwith several tentacles",
+    "start": 366.328,
+    "duration": 4.679
+  },
+  {
+    "text": "they could just throw in the water,",
+    "start": 371.031,
+    "duration": 2.611
+  },
+  {
+    "text": "and you see that it can kind of go around\nand do submarine exploration",
+    "start": 373.666,
+    "duration": 4.293
+  },
+  {
+    "text": "in a different way\nthan rigid robots would do.",
+    "start": 377.983,
+    "duration": 3.303
+  },
+  {
+    "text": "But this is very important for delicate\nenvironments, such as coral reefs.",
+    "start": 381.31,
+    "duration": 3.66
+  },
+  {
+    "text": "Let's go back to the ground.",
+    "start": 384.994,
+    "duration": 1.396
+  },
+  {
+    "text": "Here, you see the view",
+    "start": 386.414,
+    "duration": 1.19
+  },
+  {
+    "text": "from a growing robot developed\nby my colleagues in Stanford.",
+    "start": 387.628,
+    "duration": 4.148
+  },
+  {
+    "text": "You see the camera fixed on top.",
+    "start": 391.8,
+    "duration": 1.85
+  },
+  {
+    "text": "And this robot is particular,",
+    "start": 393.674,
+    "duration": 1.438
+  },
+  {
+    "text": "because using air pressure,\nit grows from the tip,",
+    "start": 395.136,
+    "duration": 2.416
+  },
+  {
+    "text": "while the rest of the body stays\nin firm contact with the environment.",
+    "start": 397.576,
+    "duration": 3.346
+  },
+  {
+    "text": "And this is inspired\nby plants, not animals,",
+    "start": 401.316,
+    "duration": 2.718
+  },
+  {
+    "text": "which grows via the material\nin a similar manner",
+    "start": 404.058,
+    "duration": 3.315
+  },
+  {
+    "text": "so it can face a pretty large\nvariety of situations.",
+    "start": 407.397,
+    "duration": 2.96
+  },
+  {
+    "text": "But I'm a biomedical engineer,",
+    "start": 411.043,
+    "duration": 1.668
+  },
+  {
+    "text": "and perhaps the application\nI like the most",
+    "start": 412.735,
+    "duration": 2.269
+  },
+  {
+    "text": "is in the medical field,",
+    "start": 415.028,
+    "duration": 1.453
+  },
+  {
+    "text": "and it's very difficult to imagine\na closer interaction with the human body",
+    "start": 416.505,
+    "duration": 4.841
+  },
+  {
+    "text": "than actually going inside the body,",
+    "start": 421.37,
+    "duration": 1.919
+  },
+  {
+    "text": "for example, to perform\na minimally invasive procedure.",
+    "start": 423.313,
+    "duration": 2.771
+  },
+  {
+    "text": "And here, robots can be\nvery helpful with the surgeon,",
+    "start": 426.958,
+    "duration": 3.402
+  },
+  {
+    "text": "because they must enter the body",
+    "start": 430.384,
+    "duration": 1.749
+  },
+  {
+    "text": "using small holes\nand straight instruments,",
+    "start": 432.157,
+    "duration": 2.627
+  },
+  {
+    "text": "and these instruments must interact\nwith very delicate structures",
+    "start": 434.808,
+    "duration": 3.51
+  },
+  {
+    "text": "in a very uncertain environment,",
+    "start": 438.342,
+    "duration": 2.048
+  },
+  {
+    "text": "and this must be done safely.",
+    "start": 440.414,
+    "duration": 1.675
+  },
+  {
+    "text": "Also bringing the camera inside the body,",
+    "start": 442.113,
+    "duration": 2.112
+  },
+  {
+    "text": "so bringing the eyes of the surgeon\ninside the surgical field",
+    "start": 444.249,
+    "duration": 3.618
+  },
+  {
+    "text": "can be very challenging\nif you use a rigid stick,",
+    "start": 447.891,
+    "duration": 2.351
+  },
+  {
+    "text": "like a classic endoscope.",
+    "start": 450.266,
+    "duration": 1.607
+  },
+  {
+    "text": "With my previous research group in Europe,",
+    "start": 452.517,
+    "duration": 2.589
+  },
+  {
+    "text": "we developed this\nsoft camera robot for surgery,",
+    "start": 455.13,
+    "duration": 2.596
+  },
+  {
+    "text": "which is very different\nfrom a classic endoscope,",
+    "start": 457.75,
+    "duration": 3.768
+  },
+  {
+    "text": "which can move thanks\nto the flexibility of the module",
+    "start": 461.542,
+    "duration": 3.104
+  },
+  {
+    "text": "that can bend in every direction\nand also elongate.",
+    "start": 464.67,
+    "duration": 4.888
+  },
+  {
+    "text": "And this was actually used by surgeons\nto see what they were doing",
+    "start": 469.582,
+    "duration": 3.11
+  },
+  {
+    "text": "with other instruments\nfrom different points of view,",
+    "start": 472.716,
+    "duration": 2.738
+  },
+  {
+    "text": "without caring that much\nabout what was touched around.",
+    "start": 475.478,
+    "duration": 3.206
+  },
+  {
+    "text": "And here you see the soft robot in action,",
+    "start": 479.247,
+    "duration": 3.743
+  },
+  {
+    "text": "and it just goes inside.",
+    "start": 483.014,
+    "duration": 2.818
+  },
+  {
+    "text": "This is a body simulator,\nnot a real human body.",
+    "start": 485.856,
+    "duration": 3.269
+  },
+  {
+    "text": "It goes around.",
+    "start": 489.149,
+    "duration": 1.151
+  },
+  {
+    "text": "You have a light, because usually,",
+    "start": 490.324,
+    "duration": 1.674
+  },
+  {
+    "text": "you don't have too many lights\ninside your body.",
+    "start": 492.022,
+    "duration": 3.121
+  },
+  {
+    "text": "We hope.",
+    "start": 495.167,
+    "duration": 1.173
+  },
+  {
+    "text": "(Laughter)",
+    "start": 496.364,
+    "duration": 3.002
+  },
+  {
+    "text": "But sometimes, a surgical procedure\ncan even be done using a single needle,",
+    "start": 499.39,
+    "duration": 4.698
+  },
+  {
+    "text": "and in Stanford now, we are working\non a very flexible needle,",
+    "start": 504.112,
+    "duration": 4.047
+  },
+  {
+    "text": "kind of a very tiny soft robot",
+    "start": 508.183,
+    "duration": 2.652
+  },
+  {
+    "text": "which is mechanically designed\nto use the interaction with the tissues",
+    "start": 510.859,
+    "duration": 3.294
+  },
+  {
+    "text": "and steer around inside a solid organ.",
+    "start": 514.177,
+    "duration": 2.23
+  },
+  {
+    "text": "This makes it possible to reach\nmany different targets, such as tumors,",
+    "start": 516.431,
+    "duration": 4.08
+  },
+  {
+    "text": "deep inside a solid organ",
+    "start": 520.535,
+    "duration": 1.698
+  },
+  {
+    "text": "by using one single insertion point.",
+    "start": 522.257,
+    "duration": 2.325
+  },
+  {
+    "text": "And you can even steer around\nthe structure that you want to avoid",
+    "start": 524.606,
+    "duration": 4.039
+  },
+  {
+    "text": "on the way to the target.",
+    "start": 528.669,
+    "duration": 1.364
+  },
+  {
+    "text": "So clearly, this is a pretty\nexciting time for robotics.",
+    "start": 531.377,
+    "duration": 3.305
+  },
+  {
+    "text": "We have robots that have to deal\nwith soft structures,",
+    "start": 534.706,
+    "duration": 3.153
+  },
+  {
+    "text": "so this poses new\nand very challenging questions",
+    "start": 537.883,
+    "duration": 2.585
+  },
+  {
+    "text": "for the robotics community,",
+    "start": 540.492,
+    "duration": 1.357
+  },
+  {
+    "text": "and indeed, we are just starting\nto learn how to control,",
+    "start": 541.873,
+    "duration": 2.675
+  },
+  {
+    "text": "how to put sensors\non these very flexible structures.",
+    "start": 544.572,
+    "duration": 3.004
+  },
+  {
+    "text": "But of course, we are not even close\nto what nature figured out",
+    "start": 547.6,
+    "duration": 2.96
+  },
+  {
+    "text": "in millions of years of evolution.",
+    "start": 550.584,
+    "duration": 2.194
+  },
+  {
+    "text": "But one thing I know for sure:",
+    "start": 552.802,
+    "duration": 2.104
+  },
+  {
+    "text": "robots will be softer and safer,",
+    "start": 554.93,
+    "duration": 2.516
+  },
+  {
+    "text": "and they will be out there helping people.",
+    "start": 557.47,
+    "duration": 2.982
+  },
+  {
+    "text": "Thank you.",
+    "start": 560.809,
+    "duration": 1.151
+  },
+  {
+    "text": "(Applause)",
+    "start": 561.984,
+    "duration": 4.412
+  }
+]

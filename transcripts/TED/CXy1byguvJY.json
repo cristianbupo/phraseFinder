@@ -1,0 +1,1297 @@
+[
+  {
+    "text": "When I was a kid,",
+    "start": 13.15,
+    "duration": 1.175
+  },
+  {
+    "text": "I was, like many of you in this room,\nvery much fascinated by Star Wars,",
+    "start": 14.349,
+    "duration": 4.9
+  },
+  {
+    "text": "and what fascinated me the most\nis this notion of the Force,",
+    "start": 19.273,
+    "duration": 4.476
+  },
+  {
+    "text": "this energy that connects\nall people and all objects",
+    "start": 23.773,
+    "duration": 3.11
+  },
+  {
+    "text": "and allows you to feel people\nthat you can't even see.",
+    "start": 26.907,
+    "duration": 3.418
+  },
+  {
+    "text": "And I remember many nights,\nI would be sitting at home,",
+    "start": 30.753,
+    "duration": 3.088
+  },
+  {
+    "text": "just, like, concentrating and focusing,\ntrying to feel the Force,",
+    "start": 33.865,
+    "duration": 3.97
+  },
+  {
+    "text": "and I didn't feel anything, don't worry.",
+    "start": 38.624,
+    "duration": 2.563
+  },
+  {
+    "text": "(Laughter)",
+    "start": 41.211,
+    "duration": 1.857
+  },
+  {
+    "text": "And later in life, I became a scientist.",
+    "start": 43.092,
+    "duration": 2.85
+  },
+  {
+    "text": "I joined the MIT faculty\nand started working on wireless signals.",
+    "start": 45.966,
+    "duration": 4.713
+  },
+  {
+    "text": "These are things like Wi-Fi\nor cellular systems,",
+    "start": 51.184,
+    "duration": 3.143
+  },
+  {
+    "text": "and I did a lot of work in that domain.",
+    "start": 54.351,
+    "duration": 2.352
+  },
+  {
+    "text": "But then, again, this Force thing\nkept nagging me,",
+    "start": 57.489,
+    "duration": 4.589
+  },
+  {
+    "text": "and at some point, I was just like,",
+    "start": 62.102,
+    "duration": 1.925
+  },
+  {
+    "text": "\"Wait a minute, these wireless signals --\nthey are like the Force.\"",
+    "start": 64.051,
+    "duration": 4.652
+  },
+  {
+    "text": "So if you think about it,",
+    "start": 68.727,
+    "duration": 1.194
+  },
+  {
+    "text": "wireless signals,\nthey travel through space,",
+    "start": 69.945,
+    "duration": 2.631
+  },
+  {
+    "text": "they go through obstacles\nand walls and occlusions,",
+    "start": 72.6,
+    "duration": 3.48
+  },
+  {
+    "text": "and some of them,",
+    "start": 76.104,
+    "duration": 1.241
+  },
+  {
+    "text": "they reflect off our bodies,\nbecause our bodies are full of water,",
+    "start": 77.369,
+    "duration": 4.15
+  },
+  {
+    "text": "and some of these minute reflections,",
+    "start": 81.543,
+    "duration": 2.206
+  },
+  {
+    "text": "they come back.",
+    "start": 83.773,
+    "duration": 1.258
+  },
+  {
+    "text": "And if, just if, I had a device that can\njust sense these minute reflections,",
+    "start": 85.055,
+    "duration": 6.971
+  },
+  {
+    "text": "then I would be able to feel people\nthat I cannot see.",
+    "start": 92.05,
+    "duration": 2.984
+  },
+  {
+    "text": "So I started working with my students\non building such a device,",
+    "start": 96.444,
+    "duration": 3.753
+  },
+  {
+    "text": "and I want to show you\nsome of our early results.",
+    "start": 100.221,
+    "duration": 3.31
+  },
+  {
+    "text": "So here, you see my student standing,",
+    "start": 104.584,
+    "duration": 2.283
+  },
+  {
+    "text": "and here is our device.",
+    "start": 106.891,
+    "duration": 1.977
+  },
+  {
+    "text": "And we are going to put the device\nin the other office, behind the wall,",
+    "start": 108.892,
+    "duration": 5.61
+  },
+  {
+    "text": "and we are going\nto monitor him as he moves.",
+    "start": 114.526,
+    "duration": 2.817
+  },
+  {
+    "text": "This red dot is tracking him\nusing wireless signals.",
+    "start": 117.367,
+    "duration": 4.079
+  },
+  {
+    "text": "And as you can see, the red dot\nis tracking his movements very accurately,",
+    "start": 122.76,
+    "duration": 4.784
+  },
+  {
+    "text": "purely based on how his body interacts\nwith the surrounding wireless signals.",
+    "start": 127.568,
+    "duration": 4.754
+  },
+  {
+    "text": "Pretty accurate, isn't it?",
+    "start": 133.631,
+    "duration": 1.704
+  },
+  {
+    "text": "He has no wearables, nothing.",
+    "start": 136.702,
+    "duration": 1.873
+  },
+  {
+    "text": "(Applause)",
+    "start": 138.599,
+    "duration": 2.814
+  },
+  {
+    "text": "Now you might be wondering,",
+    "start": 141.437,
+    "duration": 1.745
+  },
+  {
+    "text": "how is it possible\nthat we can sense people",
+    "start": 143.206,
+    "duration": 3.182
+  },
+  {
+    "text": "and track them, without\nany wearables, through walls,",
+    "start": 146.412,
+    "duration": 3.846
+  },
+  {
+    "text": "and the easiest analogy\nto think about is radar.",
+    "start": 150.282,
+    "duration": 3.366
+  },
+  {
+    "text": "I'm sure many of you\nhave seen this picture.",
+    "start": 153.672,
+    "duration": 2.093
+  },
+  {
+    "text": "You transmit a wireless signal to the sky,",
+    "start": 155.789,
+    "duration": 2.158
+  },
+  {
+    "text": "it reflects off some airplane,\ncomes back to you,",
+    "start": 157.971,
+    "duration": 2.968
+  },
+  {
+    "text": "and you start detecting these airplanes.",
+    "start": 160.963,
+    "duration": 2.341
+  },
+  {
+    "text": "But if it were just radar,",
+    "start": 164.328,
+    "duration": 1.944
+  },
+  {
+    "text": "then we would have this 50 years ago.",
+    "start": 166.296,
+    "duration": 2.253
+  },
+  {
+    "text": "So it's not just radar.",
+    "start": 169.272,
+    "duration": 1.706
+  },
+  {
+    "text": "There are two key differences.",
+    "start": 171.285,
+    "duration": 2.19
+  },
+  {
+    "text": "So the first difference, of course --",
+    "start": 174.229,
+    "duration": 1.763
+  },
+  {
+    "text": "you can't, like radar, just blast\nwireless power at somebody.",
+    "start": 176.016,
+    "duration": 3.519
+  },
+  {
+    "text": "You're going to fry them\nlike if they were in a microwave.",
+    "start": 179.559,
+    "duration": 2.727
+  },
+  {
+    "text": "Don't do that.",
+    "start": 182.31,
+    "duration": 1.15
+  },
+  {
+    "text": "So it means that you have to be able\nto deal with very weak signals,",
+    "start": 184.595,
+    "duration": 5.065
+  },
+  {
+    "text": "and that means that your device\nhas to be very sensitive.",
+    "start": 189.684,
+    "duration": 3.126
+  },
+  {
+    "text": "The second difference is that,\nunlike the sky, where it's empty --",
+    "start": 194.144,
+    "duration": 4.131
+  },
+  {
+    "text": "if you are lucky, there is one airplane\nthat you can catch there.",
+    "start": 198.299,
+    "duration": 3.144
+  },
+  {
+    "text": "Like, look at the room",
+    "start": 201.467,
+    "duration": 1.342
+  },
+  {
+    "text": "and look how many objects\nand people there are.",
+    "start": 202.833,
+    "duration": 2.888
+  },
+  {
+    "text": "So in indoor environments, the signal\nnot only reflects off the person,",
+    "start": 205.745,
+    "duration": 3.937
+  },
+  {
+    "text": "if reflects off the person,\noff the floor, the ceiling,",
+    "start": 209.706,
+    "duration": 3.793
+  },
+  {
+    "text": "off other people around,",
+    "start": 213.523,
+    "duration": 2.222
+  },
+  {
+    "text": "and you get very complex reflections",
+    "start": 215.769,
+    "duration": 1.983
+  },
+  {
+    "text": "where the same signal reflects\noff me and then off you,",
+    "start": 217.776,
+    "duration": 2.731
+  },
+  {
+    "text": "and then off the ceiling,\nthen off the floor.",
+    "start": 220.531,
+    "duration": 2.238
+  },
+  {
+    "text": "And you have to make sense of that mess.",
+    "start": 222.793,
+    "duration": 3.169
+  },
+  {
+    "text": "But we were lucky.",
+    "start": 227.993,
+    "duration": 1.849
+  },
+  {
+    "text": "We were coming at the right time.",
+    "start": 229.866,
+    "duration": 2.492
+  },
+  {
+    "text": "So two things helped us.",
+    "start": 233.252,
+    "duration": 1.872
+  },
+  {
+    "text": "The first thing is radiotechnologies\nhave evolved a lot,",
+    "start": 235.148,
+    "duration": 4.056
+  },
+  {
+    "text": "and over the last decade,",
+    "start": 239.228,
+    "duration": 1.775
+  },
+  {
+    "text": "radio technology\nbecame much more powerful,",
+    "start": 241.027,
+    "duration": 2.31
+  },
+  {
+    "text": "so we were able to build\nvery sensitive radios",
+    "start": 243.361,
+    "duration": 3.737
+  },
+  {
+    "text": "that can sense weak and minute RF signals.",
+    "start": 247.122,
+    "duration": 3.357
+  },
+  {
+    "text": "The second thing: machine learning.",
+    "start": 251.725,
+    "duration": 3.039
+  },
+  {
+    "text": "So you keep hearing about machine learning",
+    "start": 254.788,
+    "duration": 2.0
+  },
+  {
+    "text": "and there was a revolution\nof machine learning recently,",
+    "start": 256.812,
+    "duration": 2.961
+  },
+  {
+    "text": "in deep learning,",
+    "start": 259.797,
+    "duration": 1.151
+  },
+  {
+    "text": "and that allowed us to build\nmachine-learning models",
+    "start": 260.972,
+    "duration": 3.769
+  },
+  {
+    "text": "that can understand wireless signals\nand interpret them",
+    "start": 264.765,
+    "duration": 3.547
+  },
+  {
+    "text": "so they would know what happened\nin the environment.",
+    "start": 268.336,
+    "duration": 3.505
+  },
+  {
+    "text": "So if you think of it,\nthe radio is like the ear of our device",
+    "start": 271.865,
+    "duration": 3.81
+  },
+  {
+    "text": "and the machine learning\nis like the brain,",
+    "start": 275.699,
+    "duration": 2.579
+  },
+  {
+    "text": "and together, they have\na very powerful device.",
+    "start": 278.302,
+    "duration": 3.823
+  },
+  {
+    "text": "So what else can we sense about people\nusing wireless signals?",
+    "start": 284.108,
+    "duration": 5.023
+  },
+  {
+    "text": "Sleep.",
+    "start": 290.458,
+    "duration": 1.151
+  },
+  {
+    "text": "Sleep, actually, is something\nvery dear to my heart,",
+    "start": 291.633,
+    "duration": 2.429
+  },
+  {
+    "text": "because my sleep is a disaster.",
+    "start": 294.086,
+    "duration": 1.927
+  },
+  {
+    "text": "(Laughter)",
+    "start": 296.037,
+    "duration": 1.348
+  },
+  {
+    "text": "So one thing is when you start working\non some physiological signal",
+    "start": 297.409,
+    "duration": 3.229
+  },
+  {
+    "text": "and you discover that yours sucks.",
+    "start": 300.662,
+    "duration": 2.659
+  },
+  {
+    "text": "(Laughter)",
+    "start": 303.908,
+    "duration": 3.095
+  },
+  {
+    "text": "So you can see why we can capture sleep,",
+    "start": 307.344,
+    "duration": 2.126
+  },
+  {
+    "text": "because the person walks and the device\nsees him as he walks to bed,",
+    "start": 309.494,
+    "duration": 3.266
+  },
+  {
+    "text": "when he stops tossing around in bed,",
+    "start": 312.784,
+    "duration": 2.275
+  },
+  {
+    "text": "when he steps out of bed,",
+    "start": 315.083,
+    "duration": 1.841
+  },
+  {
+    "text": "and that measure of sleep\nis what people call actigraphy.",
+    "start": 316.948,
+    "duration": 3.698
+  },
+  {
+    "text": "It's based on motion.",
+    "start": 320.67,
+    "duration": 1.254
+  },
+  {
+    "text": "But it turned out\nthat we can actually get sleep",
+    "start": 323.087,
+    "duration": 3.294
+  },
+  {
+    "text": "at a much more important level.",
+    "start": 326.405,
+    "duration": 2.387
+  },
+  {
+    "text": "We can understand\nthe change in the brain waves",
+    "start": 328.816,
+    "duration": 3.564
+  },
+  {
+    "text": "that occur during sleep.",
+    "start": 332.404,
+    "duration": 1.548
+  },
+  {
+    "text": "So, many of you probably know\nthat as we go to sleep,",
+    "start": 335.403,
+    "duration": 2.953
+  },
+  {
+    "text": "our brainwaves change\nand we enter different stages:",
+    "start": 338.38,
+    "duration": 3.373
+  },
+  {
+    "text": "awake, light sleep, deep sleep\nand REM, or rapid eye movement.",
+    "start": 341.777,
+    "duration": 4.069
+  },
+  {
+    "text": "These stages are of course\nrelated to sleep disorders,",
+    "start": 346.267,
+    "duration": 4.334
+  },
+  {
+    "text": "but they are also related\nto various diseases.",
+    "start": 350.625,
+    "duration": 3.11
+  },
+  {
+    "text": "So for example, disturbances in REM\nare associated with depression.",
+    "start": 353.759,
+    "duration": 5.461
+  },
+  {
+    "text": "Disturbances in deep sleep\nare associated with Alzheimer's.",
+    "start": 359.718,
+    "duration": 3.928
+  },
+  {
+    "text": "So if you want to get sleep staging,",
+    "start": 364.614,
+    "duration": 2.539
+  },
+  {
+    "text": "today, you will send the person\nto the hospital,",
+    "start": 367.177,
+    "duration": 2.31
+  },
+  {
+    "text": "they put all of these\nelectrodes on their head,",
+    "start": 369.511,
+    "duration": 2.554
+  },
+  {
+    "text": "and they ask them to sleep like that.",
+    "start": 372.089,
+    "duration": 1.83
+  },
+  {
+    "text": "(Laughter)",
+    "start": 373.943,
+    "duration": 2.06
+  },
+  {
+    "text": "It's not really a happy experience.",
+    "start": 376.027,
+    "duration": 2.935
+  },
+  {
+    "text": "So what if I tell you\nthat I can do the same thing",
+    "start": 380.155,
+    "duration": 2.936
+  },
+  {
+    "text": "but without any of these electrodes\non the person's body?",
+    "start": 383.115,
+    "duration": 3.167
+  },
+  {
+    "text": "So here is our device,",
+    "start": 387.596,
+    "duration": 1.872
+  },
+  {
+    "text": "transmitting very low power\nwireless signal,",
+    "start": 389.492,
+    "duration": 2.762
+  },
+  {
+    "text": "analyzes the reflections using AI",
+    "start": 392.278,
+    "duration": 2.112
+  },
+  {
+    "text": "and spits out the sleep stages\nthroughout the night.",
+    "start": 394.414,
+    "duration": 3.166
+  },
+  {
+    "text": "So we know, for example,\nwhen this person is dreaming.",
+    "start": 398.647,
+    "duration": 3.582
+  },
+  {
+    "text": "Not just that ...",
+    "start": 404.333,
+    "duration": 1.15
+  },
+  {
+    "text": "we can even get your breathing\nwhile you are sitting like that,",
+    "start": 406.691,
+    "duration": 3.087
+  },
+  {
+    "text": "and without touching you.",
+    "start": 409.802,
+    "duration": 1.573
+  },
+  {
+    "text": "So he is sitting and reading",
+    "start": 411.399,
+    "duration": 1.602
+  },
+  {
+    "text": "and this is his inhales, exhales.",
+    "start": 413.025,
+    "duration": 2.945
+  },
+  {
+    "text": "We asked him to hold his breath,",
+    "start": 415.994,
+    "duration": 1.991
+  },
+  {
+    "text": "and you see the signal\nstaying at a steady level",
+    "start": 418.009,
+    "duration": 2.866
+  },
+  {
+    "text": "because he exhaled.",
+    "start": 420.899,
+    "duration": 1.151
+  },
+  {
+    "text": "He did not inhale.",
+    "start": 422.074,
+    "duration": 1.15
+  },
+  {
+    "text": "And I want to zoom in on the signal.",
+    "start": 425.279,
+    "duration": 2.484
+  },
+  {
+    "text": "And this is the same signal as before.",
+    "start": 427.787,
+    "duration": 2.063
+  },
+  {
+    "text": "These are the inhales,",
+    "start": 429.874,
+    "duration": 1.681
+  },
+  {
+    "text": "these are the exhales.",
+    "start": 431.579,
+    "duration": 1.644
+  },
+  {
+    "text": "And you see these blips on the signal?",
+    "start": 433.247,
+    "duration": 2.087
+  },
+  {
+    "text": "These are not noise.",
+    "start": 435.358,
+    "duration": 1.311
+  },
+  {
+    "text": "They are his heartbeats.",
+    "start": 437.159,
+    "duration": 1.779
+  },
+  {
+    "text": "And you can see them beat by beat.",
+    "start": 439.971,
+    "duration": 1.801
+  },
+  {
+    "text": "So I want to stop here for a moment\nand show you a live demo.",
+    "start": 443.439,
+    "duration": 4.221
+  },
+  {
+    "text": "Zach is going to help me with the demo,",
+    "start": 447.684,
+    "duration": 2.071
+  },
+  {
+    "text": "and we're going to use the device\nto monitor Zach's breathing.",
+    "start": 449.779,
+    "duration": 4.755
+  },
+  {
+    "text": "So this white box\nthat you see here is the device,",
+    "start": 455.272,
+    "duration": 3.768
+  },
+  {
+    "text": "and Zach is turning it on ...",
+    "start": 459.064,
+    "duration": 2.341
+  },
+  {
+    "text": "and let's see whether he breathes well.",
+    "start": 463.581,
+    "duration": 2.541
+  },
+  {
+    "text": "So we're going to do exactly what we did\nin the video with the other guy,",
+    "start": 466.146,
+    "duration": 4.602
+  },
+  {
+    "text": "so the wireless signal is going through,",
+    "start": 470.772,
+    "duration": 2.691
+  },
+  {
+    "text": "it's touching Zach's body,",
+    "start": 473.487,
+    "duration": 1.65
+  },
+  {
+    "text": "and it's reflecting back to the device,",
+    "start": 475.161,
+    "duration": 2.223
+  },
+  {
+    "text": "and we want to monitor his breathing,\nhis inhale-exhale motion.",
+    "start": 477.408,
+    "duration": 3.371
+  },
+  {
+    "text": "So we see the inhales, exhales --",
+    "start": 480.803,
+    "duration": 2.523
+  },
+  {
+    "text": "so see, these ups and downs\nare Zach breathing.",
+    "start": 483.35,
+    "duration": 4.373
+  },
+  {
+    "text": "Inhaling, exhaling.",
+    "start": 490.191,
+    "duration": 2.151
+  },
+  {
+    "text": "(Applause)",
+    "start": 492.366,
+    "duration": 5.602
+  },
+  {
+    "text": "So, he can breathe.",
+    "start": 497.992,
+    "duration": 2.152
+  },
+  {
+    "text": "(Laughter)",
+    "start": 500.168,
+    "duration": 1.421
+  },
+  {
+    "text": "Zach, can you hold your breath, please?",
+    "start": 501.613,
+    "duration": 2.198
+  },
+  {
+    "text": "OK, so now he's holding his breath,",
+    "start": 505.216,
+    "duration": 3.063
+  },
+  {
+    "text": "so you see the signal stays\nat a steady level,",
+    "start": 508.303,
+    "duration": 2.254
+  },
+  {
+    "text": "and these are his heartbeats.",
+    "start": 510.581,
+    "duration": 1.626
+  },
+  {
+    "text": "Beat, beat, beat, beat, beat.",
+    "start": 512.231,
+    "duration": 3.476
+  },
+  {
+    "text": "(Applause)",
+    "start": 515.731,
+    "duration": 1.001
+  },
+  {
+    "text": "OK, Zach, you can breathe again.",
+    "start": 516.756,
+    "duration": 2.167
+  },
+  {
+    "text": "(Laughter)",
+    "start": 518.947,
+    "duration": 1.889
+  },
+  {
+    "text": "We don't want accidents here.",
+    "start": 520.86,
+    "duration": 1.42
+  },
+  {
+    "text": "(Laughter)",
+    "start": 522.304,
+    "duration": 1.001
+  },
+  {
+    "text": "OK, thank you.",
+    "start": 523.329,
+    "duration": 1.15
+  },
+  {
+    "text": "(Applause)",
+    "start": 525.756,
+    "duration": 5.936
+  },
+  {
+    "text": "So as you can see, we have this device",
+    "start": 531.716,
+    "duration": 2.761
+  },
+  {
+    "text": "that can monitor so many\nphysiological signals for you,",
+    "start": 534.501,
+    "duration": 3.54
+  },
+  {
+    "text": "and what is really interesting\nabout this device",
+    "start": 538.065,
+    "duration": 2.96
+  },
+  {
+    "text": "is that it does all this\nwithout any wearables,",
+    "start": 541.049,
+    "duration": 2.563
+  },
+  {
+    "text": "without asking the person\nto change his behavior",
+    "start": 543.636,
+    "duration": 2.698
+  },
+  {
+    "text": "or to wear anything\nor charge anything special.",
+    "start": 546.358,
+    "duration": 2.492
+  },
+  {
+    "text": "And that got doctors very excited,",
+    "start": 549.739,
+    "duration": 2.968
+  },
+  {
+    "text": "because doctors,",
+    "start": 552.731,
+    "duration": 1.151
+  },
+  {
+    "text": "they always want to know\nmore information about their patients,",
+    "start": 553.906,
+    "duration": 2.957
+  },
+  {
+    "text": "particularly at home,",
+    "start": 556.887,
+    "duration": 1.17
+  },
+  {
+    "text": "and this is particularly true\nin chronic diseases,",
+    "start": 558.081,
+    "duration": 2.634
+  },
+  {
+    "text": "like pulmonary diseases, like COPD,",
+    "start": 560.739,
+    "duration": 4.155
+  },
+  {
+    "text": "or heart failure or Alzheimer's\nand even depression.",
+    "start": 564.918,
+    "duration": 4.524
+  },
+  {
+    "text": "All of these chronic diseases\nare very important.",
+    "start": 569.466,
+    "duration": 2.317
+  },
+  {
+    "text": "In fact -- perhaps you know --",
+    "start": 571.807,
+    "duration": 2.468
+  },
+  {
+    "text": "two-thirds of the cost\nof health care in the US",
+    "start": 574.299,
+    "duration": 2.88
+  },
+  {
+    "text": "is due to chronic diseases.",
+    "start": 577.203,
+    "duration": 1.984
+  },
+  {
+    "text": "But what is really interesting\nabout chronic diseases",
+    "start": 579.545,
+    "duration": 2.531
+  },
+  {
+    "text": "is that when the person, for example,",
+    "start": 582.1,
+    "duration": 1.82
+  },
+  {
+    "text": "has a problem that leads\nto the hospital and the emergency room,",
+    "start": 583.944,
+    "duration": 4.737
+  },
+  {
+    "text": "this problem doesn't happen overnight.",
+    "start": 588.705,
+    "duration": 2.315
+  },
+  {
+    "text": "Actually, things happen gradually.",
+    "start": 591.044,
+    "duration": 2.079
+  },
+  {
+    "text": "So if we can monitor\nchronic disease patients in their home,",
+    "start": 593.147,
+    "duration": 3.722
+  },
+  {
+    "text": "we can detect changes in their breathing,\nheartbeat, mobility, sleep --",
+    "start": 596.893,
+    "duration": 4.261
+  },
+  {
+    "text": "and we can detect emergencies\nbefore they occur",
+    "start": 601.178,
+    "duration": 4.182
+  },
+  {
+    "text": "and have the doctor intervene earlier",
+    "start": 605.384,
+    "duration": 2.317
+  },
+  {
+    "text": "so that we can avoid hospitalization.",
+    "start": 607.725,
+    "duration": 2.063
+  },
+  {
+    "text": "And indeed, today we are working\nwith multiple doctors",
+    "start": 610.645,
+    "duration": 4.102
+  },
+  {
+    "text": "in different disease categories.",
+    "start": 614.771,
+    "duration": 1.959
+  },
+  {
+    "text": "So I'm really excited",
+    "start": 616.754,
+    "duration": 1.183
+  },
+  {
+    "text": "because we have deployed the device\nwith many patients.",
+    "start": 617.961,
+    "duration": 2.684
+  },
+  {
+    "text": "We have deployed the device\nwith patients that have COPD,",
+    "start": 620.669,
+    "duration": 3.332
+  },
+  {
+    "text": "which is a pulmonary disease,",
+    "start": 624.025,
+    "duration": 1.507
+  },
+  {
+    "text": "patients that have Alzheimer's,",
+    "start": 625.556,
+    "duration": 2.055
+  },
+  {
+    "text": "patients that have depression and anxiety",
+    "start": 627.635,
+    "duration": 2.293
+  },
+  {
+    "text": "and people that have Parkinson's.",
+    "start": 629.952,
+    "duration": 1.715
+  },
+  {
+    "text": "And we are working with the doctors\non improving their life,",
+    "start": 632.798,
+    "duration": 2.883
+  },
+  {
+    "text": "understanding the disease better.",
+    "start": 635.705,
+    "duration": 1.841
+  },
+  {
+    "text": "So when I started, I told you",
+    "start": 638.718,
+    "duration": 2.571
+  },
+  {
+    "text": "that I'm really fascinated with Star Wars\nand the Force in Star Wars,",
+    "start": 641.313,
+    "duration": 5.42
+  },
+  {
+    "text": "and indeed, I'm still\nvery much fascinated,",
+    "start": 646.757,
+    "duration": 3.326
+  },
+  {
+    "text": "even now, as a grown-up, with Star Wars,",
+    "start": 650.107,
+    "duration": 2.006
+  },
+  {
+    "text": "waiting for the next movie.",
+    "start": 652.137,
+    "duration": 2.295
+  },
+  {
+    "text": "But I'm very fascinated now and excited",
+    "start": 654.456,
+    "duration": 5.269
+  },
+  {
+    "text": "about this new Force of wireless signals,",
+    "start": 659.749,
+    "duration": 3.798
+  },
+  {
+    "text": "and the potential of changing\nhealth care with this new force.",
+    "start": 663.571,
+    "duration": 4.006
+  },
+  {
+    "text": "One of the patients with whom\nwe deployed is actually my aunt.",
+    "start": 667.601,
+    "duration": 2.944
+  },
+  {
+    "text": "She has heart failure,",
+    "start": 670.569,
+    "duration": 2.151
+  },
+  {
+    "text": "and I'm sure many of you guys\nin the audience",
+    "start": 672.744,
+    "duration": 3.708
+  },
+  {
+    "text": "have parents, grandparents,\nloved ones who have chronic diseases.",
+    "start": 676.476,
+    "duration": 4.688
+  },
+  {
+    "text": "So I want you to imagine with me a future",
+    "start": 681.188,
+    "duration": 2.858
+  },
+  {
+    "text": "where in every home\nthat has a chronic disease patient,",
+    "start": 684.07,
+    "duration": 2.882
+  },
+  {
+    "text": "there is a device like this device\nsitting in the background",
+    "start": 686.976,
+    "duration": 3.125
+  },
+  {
+    "text": "and just monitoring passively",
+    "start": 690.125,
+    "duration": 2.365
+  },
+  {
+    "text": "sleep, breathing, the health\nof this chronic disease patient,",
+    "start": 692.514,
+    "duration": 4.666
+  },
+  {
+    "text": "and before an emergency occurs,",
+    "start": 697.204,
+    "duration": 2.124
+  },
+  {
+    "text": "it would detect the degradation\nin the physiological signal",
+    "start": 699.352,
+    "duration": 3.023
+  },
+  {
+    "text": "and alert the doctor",
+    "start": 702.399,
+    "duration": 1.5
+  },
+  {
+    "text": "so that we can avoid hospitalization.",
+    "start": 703.923,
+    "duration": 2.063
+  },
+  {
+    "text": "This can change health care\nas we know it today,",
+    "start": 706.652,
+    "duration": 3.127
+  },
+  {
+    "text": "improve how we understand\nchronic diseases",
+    "start": 709.803,
+    "duration": 3.0
+  },
+  {
+    "text": "and also save many lives.",
+    "start": 712.827,
+    "duration": 1.769
+  },
+  {
+    "text": "Thank you.",
+    "start": 714.898,
+    "duration": 1.151
+  },
+  {
+    "text": "(Applause)",
+    "start": 716.073,
+    "duration": 5.134
+  },
+  {
+    "text": "Helen Walters: Dina, thank you so much.",
+    "start": 721.231,
+    "duration": 1.887
+  },
+  {
+    "text": "Thank you too, Zach.",
+    "start": 723.142,
+    "duration": 1.151
+  },
+  {
+    "text": "So glad you're breathing.",
+    "start": 724.317,
+    "duration": 1.311
+  },
+  {
+    "text": "So Dina, this is amazing.",
+    "start": 725.652,
+    "duration": 2.697
+  },
+  {
+    "text": "The positive applications are incredible.",
+    "start": 728.373,
+    "duration": 3.028
+  },
+  {
+    "text": "What is the framework, though,\nlike the ethical framework around this?",
+    "start": 731.425,
+    "duration": 3.995
+  },
+  {
+    "text": "What are you doing to prevent\nthis technology from being used",
+    "start": 735.444,
+    "duration": 2.88
+  },
+  {
+    "text": "for other, perhaps less positive\ntypes of applications?",
+    "start": 738.348,
+    "duration": 3.769
+  },
+  {
+    "text": "Dina Katabi: Yeah, this is\na very important question, of course,",
+    "start": 742.141,
+    "duration": 3.055
+  },
+  {
+    "text": "like, what about misuse,",
+    "start": 745.22,
+    "duration": 1.169
+  },
+  {
+    "text": "or what about, I guess you could say,\nabout the Dark Side of the Force?",
+    "start": 746.413,
+    "duration": 3.622
+  },
+  {
+    "text": "HW: Right, right.",
+    "start": 750.059,
+    "duration": 1.174
+  },
+  {
+    "text": "(Laughter)",
+    "start": 751.257,
+    "duration": 2.087
+  },
+  {
+    "text": "DK: So we actually have technologies",
+    "start": 753.368,
+    "duration": 3.499
+  },
+  {
+    "text": "that prevent people\nfrom trying to use this device",
+    "start": 756.891,
+    "duration": 4.277
+  },
+  {
+    "text": "to monitor somebody without their consent.",
+    "start": 761.192,
+    "duration": 2.354
+  },
+  {
+    "text": "Because the device understands space,",
+    "start": 763.57,
+    "duration": 2.253
+  },
+  {
+    "text": "it will ask you to prove,\nby doing certain movements,",
+    "start": 765.847,
+    "duration": 3.421
+  },
+  {
+    "text": "that you have access to the space",
+    "start": 769.292,
+    "duration": 1.755
+  },
+  {
+    "text": "and you are the person\nwho you are asking the device to monitor.",
+    "start": 771.071,
+    "duration": 3.3
+  },
+  {
+    "text": "So technology-wise,",
+    "start": 774.395,
+    "duration": 2.19
+  },
+  {
+    "text": "we have technology\nthat we integrate to prevent misuse,",
+    "start": 776.609,
+    "duration": 3.388
+  },
+  {
+    "text": "but also, I think there is a role\nfor policy, like everything else,",
+    "start": 780.021,
+    "duration": 3.89
+  },
+  {
+    "text": "and hopefully, with the two of them,\nwe can control any misuse.",
+    "start": 783.935,
+    "duration": 5.436
+  },
+  {
+    "text": "HW: Amazing. Thank you so much.",
+    "start": 789.395,
+    "duration": 1.557
+  },
+  {
+    "text": "DK: Thank you.",
+    "start": 790.976,
+    "duration": 1.151
+  },
+  {
+    "text": "(Applause)",
+    "start": 792.151,
+    "duration": 3.769
+  }
+]
