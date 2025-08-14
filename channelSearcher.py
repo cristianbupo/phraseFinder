@@ -3,7 +3,6 @@ import scrapetube
 import requests
 from bs4 import BeautifulSoup
 from youtube_transcript_api import YouTubeTranscriptApi
-import itertools
 
 def get_channel_id_from_url(url):
     if "/channel/" in url:
@@ -44,16 +43,11 @@ def fetch_and_save_transcripts(channel_url):
 
     print("⏳ Fetching videos...")
     try:
-        print("here0")
         videos = scrapetube.get_channel(channel_id)
-        print("here1")
-        video_ids = video_ids = [video["videoId"] for video in itertools.islice(videos, 50)]  # Only first 50 videos
-        print("here2")
+        video_ids = video_ids = [video["videoId"] for video in videos]
     except Exception as e:
         print(f"❌ Failed to fetch videos: {e}")
         return
-    
-    print("here3")
 
     if not video_ids:
         print("⚠️ No videos found.")
@@ -76,7 +70,7 @@ def fetch_and_save_transcripts(channel_url):
 
         try:
             # print(f"\n📥 Downloading transcript for: {video_id}")
-            transcript = YouTubeTranscriptApi.get_transcript(video_id)
+            transcript = YouTubeTranscriptApi().fetch(video_id=video_id)
             with open(file_path, "w", encoding="utf-8") as f:
                 import json
                 json.dump(transcript, f, ensure_ascii=False, indent=2)
@@ -84,7 +78,7 @@ def fetch_and_save_transcripts(channel_url):
             transcript_files.append(file_path)
         except Exception as e:
             failed += 1
-            # print(f"⚠️ Failed to fetch transcript for {video_id}: {e}")
+            print(f"⚠️ Failed to fetch transcript for {video_id}: {e}")
 
         print(f"\r📊 Progress: {idx}/{len(video_ids)} | 💾 Saved: {saved} | ⏭️ Skipped: {skipped} | ❌ Failed: {failed}", end='')
 
