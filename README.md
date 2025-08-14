@@ -1,4 +1,4 @@
-# wordSearcher
+# phraseFinder
 
 
 ## Installation
