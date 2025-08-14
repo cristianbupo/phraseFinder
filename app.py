@@ -2,6 +2,58 @@ import os, re, json
 import pandas as pd
 import streamlit as st
 
+# Custom CSS for design
+st.markdown("""
+    <style>
+        /* Font */
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+        html, body, [class*="css"] {
+            font-family: 'Poppins', sans-serif;
+        }
+
+        /* Search bar styling */
+        input[type="text"] {
+            border-radius: 8px;
+            padding: 8px 12px;
+            border: 1px solid #ccc;
+        }
+
+        /* Primary button */
+        .stButton>button {
+            background-color: #5C7FA3;
+            color: white;
+            border-radius: 8px;
+            padding: 8px 16px;
+            border: none;
+            font-weight: 600;
+        }
+        .stButton>button:hover {
+            background-color: #4e6d8c;
+        }
+
+        /* Secondary button */
+        .secondary-button {
+            background-color: transparent;
+            color: #5C7FA3;
+            border: 2px solid #5C7FA3;
+            border-radius: 8px;
+            padding: 8px 16px;
+            font-weight: 600;
+        }
+
+        /* Tag style */
+        .tag {
+            background-color: #FFEBB2;
+            color: #3A3A3A;
+            padding: 4px 10px;
+            border-radius: 16px;
+            display: inline-block;
+            margin: 4px;
+            font-size: 14px;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
 # ---------------------------
 # Config
 # ---------------------------
