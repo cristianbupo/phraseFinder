@@ -84,14 +84,6 @@ button.k-btn-secondary:hover{ background:rgba(146,183,165,.12); }
 </style>
 """, unsafe_allow_html=True)
 
-# Optional: tidy header layout
-st.markdown('<div class="k-hero"><h1>Phrase Finder 🔍</h1><p>Find words and phrases in real video subtitles. Click the link to jump right to them.</p></div>', unsafe_allow_html=True)
-st.markdown('<div class="k-section-title">Choose transcript folders</div>', unsafe_allow_html=True)
-# your multiselect follows here
-
-st.markdown('<div class="k-section-title">Search a word or phrase</div>', unsafe_allow_html=True)
-# your text_input follows here
-
 # ---------------------------
 # Config
 # ---------------------------
@@ -205,11 +197,20 @@ if st.button("Search"):
         st.info(f"No matches for '{query}'. Try a different word.")
     else:
         st.success(f"Found {len(df)} matches.")
-        # Show table with clickable links
+
+        # Show table with video title and clickable link
+        from pytube import YouTube
+        def get_video_title(url):
+            try:
+                yt = YouTube(url)
+                return yt.title
+            except:
+                return "Unknown Title"
+
         showDf = df.copy()
-        showDf["Video"] = showDf["Video"].apply(lambda u: f"[Video]({u})" if u else "")
+        showDf["Video"] = showDf["Video"].apply(lambda url: f"[{get_video_title(url)}]({url})" if url else "")
         showDf["Link"] = showDf["Link"].apply(lambda u: f"[Go to time]({u})" if u else "")
-        st.dataframe(showDf, use_container_width=True)
+        st.write(showDf.to_markdown(index=False), unsafe_allow_html=True)
 
         # Provide an Excel download
         from io import BytesIO
