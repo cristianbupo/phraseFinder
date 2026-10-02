@@ -32,7 +32,7 @@ except ImportError:
 REQUEST_COOKIES = {"SOCS": "CAI"}
 REQUEST_TIMEOUT = 20
 # Wait between downloads, so YouTube is less likely to block us
-PAUSE_SECONDS = (1, 3)
+PAUSE_SECONDS = (0.3, 1.0)
 # Stop after this many "you are blocked" answers in a row
 BLOCKED_LIMIT = 3
 # This many failures in a row means YouTube stopped answering, not that the videos lack subtitles
