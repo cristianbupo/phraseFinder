@@ -35,6 +35,8 @@ REQUEST_TIMEOUT = 20
 PAUSE_SECONDS = (1, 3)
 # Stop after this many "you are blocked" answers in a row
 BLOCKED_LIMIT = 3
+# This many failures in a row means YouTube stopped answering, not that the videos lack subtitles
+FAILED_STREAK_LIMIT = 8
 # How long the saved list of a channel's videos is reused before listing the channel again
 VIDEO_LIST_MAX_AGE_DAYS = 7
 
@@ -205,7 +207,7 @@ def failure_reason(error):
         return "no transcript"
     if isinstance(error, VideoUnavailable):
         return "video unavailable"
-    return type(error).__name__
+    return f"{type(error).__name__}: {str(error)[:60]}".rstrip(": ")
 
 
 def write_links_csv(folder_path):
@@ -260,6 +262,7 @@ def fetch_and_save_transcripts(channel_url, language="en", max_new=None):
     # Videos found to have no subtitles, so later runs don't ask YouTube about them again
     no_subtitles_path = os.path.join(folder_path, "no_subtitles.txt")
     no_subtitles = set()
+    failed_in_a_row = []
     if os.path.exists(no_subtitles_path):
         with open(no_subtitles_path, encoding="utf-8") as f:
             no_subtitles = set(f.read().split())
@@ -281,6 +284,11 @@ def fetch_and_save_transcripts(channel_url, language="en", max_new=None):
             os.replace(temp_path, file_path)
             saved += 1
             blocked_in_a_row = 0
+            # A success after a few failures means those really had no subtitles: remember them
+            if len(failed_in_a_row) < FAILED_STREAK_LIMIT and any(failed_in_a_row):
+                with open(no_subtitles_path, "a", encoding="utf-8") as f:
+                    f.write("\n".join(v for v in failed_in_a_row if v) + "\n")
+            failed_in_a_row = []
             show_progress(idx)
             if max_new and saved >= max_new:
                 break
@@ -303,9 +311,16 @@ def fetch_and_save_transcripts(channel_url, language="en", max_new=None):
         except Exception as e:
             failed[failure_reason(e)] += 1
             blocked_in_a_row = 0
-            if isinstance(e, (NoSubtitles, NoTranscriptFound, TranscriptsDisabled)):
-                with open(no_subtitles_path, "a", encoding="utf-8") as f:
-                    f.write(video_id + "\n")
+            failed_in_a_row.append(video_id if isinstance(e, (NoSubtitles, NoTranscriptFound, TranscriptsDisabled)) else None)
+            # Many failures in a row is not "no subtitles": YouTube has quietly stopped
+            # answering this session. Start a fresh one; if that doesn't help, stop.
+            if len(failed_in_a_row) % FAILED_STREAK_LIMIT == 0:
+                if len(failed_in_a_row) >= 3 * FAILED_STREAK_LIMIT:
+                    blocked = True
+                    print(f"\n\n🛑 {len(failed_in_a_row)} videos in a row failed. YouTube has stopped answering. Stopping here.")
+                    break
+                ydl = make_ytdlp()
+                time.sleep(60)
             time.sleep(1)
 
         show_progress(idx)
