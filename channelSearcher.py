@@ -222,7 +222,8 @@ def write_links_csv(folder_path):
     return csv_path
 
 
-def fetch_and_save_transcripts(channel_url, language="en"):
+def fetch_and_save_transcripts(channel_url, language="en", max_new=None):
+    """Returns True when YouTube blocked the run. max_new stops it after that many new transcripts."""
     channel_id = get_channel_id_from_url(channel_url)
     if not channel_id:
         print("❌ Could not extract Channel ID.")
@@ -274,6 +275,8 @@ def fetch_and_save_transcripts(channel_url, language="en"):
             saved += 1
             blocked_in_a_row = 0
             show_progress(idx)
+            if max_new and saved >= max_new:
+                break
             time.sleep(random.uniform(*PAUSE_SECONDS))
         except (IpBlocked, RequestBlocked, YouTubeBlocked):
             blocked_in_a_row += 1
@@ -306,6 +309,7 @@ def fetch_and_save_transcripts(channel_url, language="en"):
     for reason, count in failed.most_common():
         print(f"   - {reason}: {count}")
     print(f"📄 CSV with file links: {csv_path}")
+    return blocked
 
 
 def main():
@@ -319,9 +323,16 @@ def main():
         position = args.index("--lang")
         language = args[position + 1]
         del args[position:position + 2]
+    # --max 500 stops after 500 new transcripts per channel
+    max_new = None
+    if "--max" in args:
+        position = args.index("--max")
+        max_new = int(args[position + 1])
+        del args[position:position + 2]
     if args:
         for channel_url in args:
-            fetch_and_save_transcripts(channel_url, language)
+            if fetch_and_save_transcripts(channel_url, language, max_new):
+                sys.exit(2)
         return
     while True:
         user_input = input("Paste a YouTube channel URL (or 'exit' to quit): ").strip()
