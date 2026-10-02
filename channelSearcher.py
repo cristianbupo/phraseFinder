@@ -229,7 +229,7 @@ def write_links_csv(folder_path):
     return csv_path
 
 
-def fetch_and_save_transcripts(channel_url, language="en", max_new=None):
+def fetch_and_save_transcripts(channel_url, language="en", max_new=None, part=None):
     """Returns True when YouTube blocked the run. max_new stops it after that many new transcripts."""
     channel_id = get_channel_id_from_url(channel_url)
     if not channel_id:
@@ -273,6 +273,9 @@ def fetch_and_save_transcripts(channel_url, language="en", max_new=None):
             no_subtitles = set(f.read().split())
 
     for idx, video_id in enumerate(video_ids, start=1):
+        # --part 2/4: this run only takes every 4th video, so 4 runs can share one channel
+        if part and (idx - 1) % part[1] != part[0] - 1:
+            continue
         file_path = os.path.join(folder_path, f"{video_id}.json")
         # An empty file is a failed download from an earlier run, so try it again
         if video_id in no_subtitles or (os.path.exists(file_path) and os.path.getsize(file_path) > 0):
@@ -359,9 +362,15 @@ def main():
         position = args.index("--max")
         max_new = int(args[position + 1])
         del args[position:position + 2]
+    # --part 2/4 takes every 4th video, starting from the 2nd (to run one channel in parallel)
+    part = None
+    if "--part" in args:
+        position = args.index("--part")
+        part = tuple(int(x) for x in args[position + 1].split("/"))
+        del args[position:position + 2]
     if args:
         for channel_url in args:
-            if fetch_and_save_transcripts(channel_url, language, max_new):
+            if fetch_and_save_transcripts(channel_url, language, max_new, part):
                 sys.exit(2)
         return
     while True:
