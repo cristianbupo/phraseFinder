@@ -1,10 +1,12 @@
 import csv
+import html
 import json
 import os
 import random
 import re
 import sys
 import time
+import xml.etree.ElementTree as ET
 from collections import Counter
 
 import requests
@@ -20,11 +22,19 @@ from youtube_transcript_api._errors import (
     VideoUnavailable,
 )
 
+# yt-dlp gets blocked far less than youtube_transcript_api; without it the old way is used
+try:
+    import yt_dlp
+except ImportError:
+    yt_dlp = None
+
 # Skips the cookie consent page YouTube shows in Europe
 REQUEST_COOKIES = {"SOCS": "CAI"}
 REQUEST_TIMEOUT = 20
 # Wait between downloads, so YouTube is less likely to block us
-PAUSE_SECONDS = (2, 5)
+PAUSE_SECONDS = (1, 3)
+# Stop after this many "you are blocked" answers in a row
+BLOCKED_LIMIT = 3
 # How long the saved list of a channel's videos is reused before listing the channel again
 VIDEO_LIST_MAX_AGE_DAYS = 7
 
@@ -104,8 +114,81 @@ def progress_bar(done, total, width=30):
     return f"[{'█' * filled}{'░' * (width - filled)}] {done}/{total} ({100 * done // total}%)"
 
 
-def fetch_transcript(api, video_id, language="en"):
+class NoSubtitles(Exception):
+    pass
+
+
+class YouTubeBlocked(Exception):
+    pass
+
+
+def make_ytdlp():
+    if yt_dlp is None:
+        return None
+    return yt_dlp.YoutubeDL({
+        "skip_download": True,
+        "ignore_no_formats_error": True,
+        "quiet": True,
+        "no_warnings": True,
+        # YouTube blocks its phone app far less than a browser
+        "extractor_args": {"youtube": {"player_client": ["android"]}},
+    })
+
+
+def pick_subtitle_track(info, language):
+    """Preferred language first (written subtitles, then automatic ones);
+    if the video does not have it, take the language the video is spoken in.
+    Automatic translations are never used."""
+    manual = {k: v for k, v in (info.get("subtitles") or {}).items() if k != "live_chat"}
+    auto = info.get("automatic_captions") or {}
+    original = [k for k in auto if k.endswith("-orig")] or [k for k in auto if k == info.get("language")]
+
+    def matches(code):
+        return code == language or code.startswith(language + "-")
+
+    candidates = (
+        [manual[k] for k in manual if matches(k)]
+        + [auto[k] for k in original if matches(k)]
+        + [auto[k] for k in original]
+        + list(manual.values())
+    )
+    for formats in candidates:
+        for track in formats:
+            if track.get("ext") == "srv1":
+                return track
+    raise NoSubtitles()
+
+
+def fetch_transcript_ytdlp(ydl, video_id, language):
+    try:
+        info = ydl.extract_info(f"https://www.youtube.com/watch?v={video_id}", download=False)
+        track = pick_subtitle_track(info, language)
+        raw = ydl.urlopen(track["url"]).read().decode("utf-8")
+    except NoSubtitles:
+        raise
+    except Exception as e:
+        if "not a bot" in str(e) or "429" in str(e):
+            raise YouTubeBlocked() from e
+        raise
+    # Same shape as youtube_transcript_api: one entry per subtitle line
+    transcript = [
+        {
+            "text": html.unescape(line.text or ""),
+            "start": float(line.attrib["start"]),
+            "duration": float(line.attrib.get("dur", 0)),
+        }
+        for line in ET.fromstring(raw).iter("text")
+        if (line.text or "").strip()
+    ]
+    if not transcript:
+        raise NoSubtitles()
+    return transcript
+
+
+def fetch_transcript(api, video_id, language="en", ydl=None):
     """Preferred language first; if the video does not have it, take the language it does have."""
+    if ydl is not None:
+        return fetch_transcript_ytdlp(ydl, video_id, language)
     try:
         return api.fetch(video_id=video_id, languages=[language]).to_raw_data()
     except NoTranscriptFound:
@@ -118,7 +201,7 @@ def fetch_transcript(api, video_id, language="en"):
 def failure_reason(error):
     if isinstance(error, TranscriptsDisabled):
         return "subtitles are turned off"
-    if isinstance(error, NoTranscriptFound):
+    if isinstance(error, (NoTranscriptFound, NoSubtitles)):
         return "no transcript"
     if isinstance(error, VideoUnavailable):
         return "video unavailable"
@@ -166,7 +249,9 @@ def fetch_and_save_transcripts(channel_url, language="en"):
     skipped = 0
     failed = Counter()
     blocked = False
+    blocked_in_a_row = 0
     api = YouTubeTranscriptApi()
+    ydl = make_ytdlp()
 
     def show_progress(checked):
         print(f"\r{progress_bar(checked, len(video_ids))} | 💾 Saved: {saved} | ⏭️ Skipped: {skipped} | ❌ Failed: {sum(failed.values())}  ", end='')
@@ -180,16 +265,24 @@ def fetch_and_save_transcripts(channel_url, language="en"):
             continue
 
         try:
-            transcript = fetch_transcript(api, video_id, language)
+            transcript = fetch_transcript(api, video_id, language, ydl)
             # Save under a temporary name first, so a crash never leaves a half-written file
             temp_path = file_path + ".tmp"
             with open(temp_path, "w", encoding="utf-8") as f:
                 json.dump(transcript, f, ensure_ascii=False, indent=2)
             os.replace(temp_path, file_path)
             saved += 1
+            blocked_in_a_row = 0
             show_progress(idx)
             time.sleep(random.uniform(*PAUSE_SECONDS))
-        except (IpBlocked, RequestBlocked):
+        except (IpBlocked, RequestBlocked, YouTubeBlocked):
+            blocked_in_a_row += 1
+            # yt-dlp can get one refusal and then work again, so only stop when it keeps happening
+            if ydl is not None and blocked_in_a_row < BLOCKED_LIMIT:
+                failed["refused by YouTube (will retry next run)"] += 1
+                time.sleep(10)
+                show_progress(idx)
+                continue
             blocked = True
             print("\n\n🛑 YouTube is blocking this computer for now. Stopping here.")
             print("   Run it again later: it will carry on from where it stopped.")
@@ -199,6 +292,7 @@ def fetch_and_save_transcripts(channel_url, language="en"):
             break
         except Exception as e:
             failed[failure_reason(e)] += 1
+            blocked_in_a_row = 0
             time.sleep(1)
 
         show_progress(idx)
