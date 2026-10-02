@@ -33,6 +33,9 @@ REQUEST_COOKIES = {"SOCS": "CAI"}
 REQUEST_TIMEOUT = 20
 # Wait between downloads, so YouTube is less likely to block us
 PAUSE_SECONDS = (0.3, 1.0)
+# CS_PAUSE="0,0.5" overrides it, to try other speeds without editing this file
+if os.environ.get("CS_PAUSE"):
+    PAUSE_SECONDS = tuple(float(x) for x in os.environ["CS_PAUSE"].split(","))
 # Stop after this many "you are blocked" answers in a row
 BLOCKED_LIMIT = 3
 # This many failures in a row means YouTube stopped answering, not that the videos lack subtitles
