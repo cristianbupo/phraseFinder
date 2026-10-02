@@ -257,10 +257,17 @@ def fetch_and_save_transcripts(channel_url, language="en", max_new=None):
     def show_progress(checked):
         print(f"\r{progress_bar(checked, len(video_ids))} | 💾 Saved: {saved} | ⏭️ Skipped: {skipped} | ❌ Failed: {sum(failed.values())}  ", end='')
 
+    # Videos found to have no subtitles, so later runs don't ask YouTube about them again
+    no_subtitles_path = os.path.join(folder_path, "no_subtitles.txt")
+    no_subtitles = set()
+    if os.path.exists(no_subtitles_path):
+        with open(no_subtitles_path, encoding="utf-8") as f:
+            no_subtitles = set(f.read().split())
+
     for idx, video_id in enumerate(video_ids, start=1):
         file_path = os.path.join(folder_path, f"{video_id}.json")
         # An empty file is a failed download from an earlier run, so try it again
-        if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
+        if video_id in no_subtitles or (os.path.exists(file_path) and os.path.getsize(file_path) > 0):
             skipped += 1
             show_progress(idx)
             continue
@@ -296,6 +303,9 @@ def fetch_and_save_transcripts(channel_url, language="en", max_new=None):
         except Exception as e:
             failed[failure_reason(e)] += 1
             blocked_in_a_row = 0
+            if isinstance(e, (NoSubtitles, NoTranscriptFound, TranscriptsDisabled)):
+                with open(no_subtitles_path, "a", encoding="utf-8") as f:
+                    f.write(video_id + "\n")
             time.sleep(1)
 
         show_progress(idx)
