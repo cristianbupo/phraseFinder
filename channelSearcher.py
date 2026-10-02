@@ -39,6 +39,8 @@ BLOCKED_LIMIT = 3
 FAILED_STREAK_LIMIT = 8
 # How long the saved list of a channel's videos is reused before listing the channel again
 VIDEO_LIST_MAX_AGE_DAYS = 7
+# Only list a channel's newest videos: listing 30,000 takes 15 minutes before anything is saved
+VIDEO_LIST_LIMIT = 2000
 
 
 def get_channel_id_from_url(url):
@@ -82,7 +84,7 @@ def get_channel_video_ids(channel_id):
             formats["videos"] = video_format
         video_ids = []
         seen = set()
-        for video in scrapetube.get_channel(channel_id):
+        for video in scrapetube.get_channel(channel_id, limit=VIDEO_LIST_LIMIT, sleep=0.5):
             video_id = video.get(id_key)
             if video_id and video_id not in seen:
                 seen.add(video_id)
