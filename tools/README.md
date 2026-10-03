@@ -10,5 +10,6 @@ Run from Git Bash in the phraseFinder folder, with the `.venv` that has yt-dlp.
 | `push_to_app.sh` | Copies new transcripts into the clean clone `phrase-finder-app-push` and pushes; skips ids in `transcripts/es/removed.tsv` |
 | `analyse_transcripts.py out.json` | Per channel: size, video length, noise and repeated lines (run inside the app clone) |
 | `find_useless.py out.json delete.json` | Marks repeats, empty, music-only and non-Spanish transcripts |
+| `trim_transcripts.py [--apply]` | Cuts long Spanish videos to their best 10 minutes (30 in a small channel) and lists them in `transcripts/es/trimmed.tsv`; without `--apply` it only reports (run inside the app clone after `build_index.py`, `PYTHONPATH` set to it) |
 | `pack_coverage.py out.json` | Clips per topic-pack phrase, after `build_index.py` (run inside the app clone, `PYTHONPATH` set to it) |
 | `pack_coverage_colombia.py` | The same, counting Colombian channels only |
