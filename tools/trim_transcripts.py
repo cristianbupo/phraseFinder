@@ -1,21 +1,23 @@
-"""Cuts each long Spanish transcript down to its best minutes, so the library stays small and
-no channel crowds out the others. Run inside an app clone (it reads and rewrites transcripts/es
-there), with PYTHONPATH set to a clone that has a built phrases.db. Without --apply it only reports.
+"""Cuts each long transcript down to its best minutes, so the library stays small and no
+channel crowds out the others. Run inside an app clone (it reads and rewrites transcripts/es
+there, or the folder of the language named), with PYTHONPATH set to a clone that has a built
+phrases.db. Without --apply it only reports.
 
-    python trim_transcripts.py [--apply]
+    python trim_transcripts.py [--lang fr] [--apply]
 
 From a big channel 10 minutes of a video are kept, from a small one (under 100,000 lines, where
 the variety is and little is saved) 30 minutes. A video up to two minutes longer than that is
 kept whole. From a longer one a single stretch is kept: the one with the most spoken lines that
 other videos of the channel do not also say (theme songs, recaps, adverts). A stretch that holds
 a topic-pack phrase with few clips always wins, and a video that says a phrase with very few
-clips is not cut at all. What was cut is listed in transcripts/es/trimmed.tsv. A cut file is
+clips is not cut at all. What was cut is listed in trimmed.tsv in the language's folder. A cut file is
 short, so a second run leaves it alone.
 """
 import collections, glob, json, os, re, sys
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 import server
-ROOT = "transcripts/es"
+LANG = sys.argv[sys.argv.index("--lang") + 1] if "--lang" in sys.argv else "es"
+ROOT = "transcripts/" + LANG
 APPLY = "--apply" in sys.argv
 KEEP, KEEP_SMALL, SMALL = 600, 1800, 100_000   # seconds kept per video; a small channel, in lines
 SLACK = 120                  # a video this much longer than what is kept is not worth cutting
@@ -26,11 +28,11 @@ CO = ("Caracol", "CanalRCN", "Canal RCN", "ColombianSpanish", "DianaUribe", "LaP
 
 # where each topic-pack phrase is said: video -> second -> points for keeping that line
 con = server.db()
-chans = dict(con.execute("SELECT id, name FROM channels WHERE lang='es'"))
+chans = dict(con.execute("SELECT id, name FROM channels WHERE lang = ?", (LANG,)))
 co = {i for i, n in chans.items() if n.startswith(CO) or n.replace(" ", "").startswith(CO)}
 ids = server.id_list(list(chans))
 phrases = []; bonus = collections.defaultdict(dict); whole = set()
-for pack in json.loads(server.PACKS.read_text(encoding="utf-8"))["es"]:
+for pack in json.loads(server.PACKS.read_text(encoding="utf-8")).get(LANG, []):
     for ph in pack["phrases"]:
         where, params = server.match_sql(server.tokens_of(ph["p"]), "phrase")
         hits = con.execute(f"SELECT v.yt, l.start, v.channel FROM fts JOIN lines l ON l.id = fts.rowid JOIN videos v ON v.id = l.video WHERE {where} AND v.channel IN ({ids})", params).fetchall()
