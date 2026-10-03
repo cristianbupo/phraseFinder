@@ -7,6 +7,8 @@ APP=$HOME/Documents/GitHub/phrase-finder-app-push
 declare -A NAME=( ["Comedy_Central_Latinoamérica"]=ComedyCentralLA ["Caracol_Televisión"]=CaracolTV ["Telemundo_Series"]=TelemundoSeries ["Canal_RCN"]=CanalRCN ["El_Señor_De_Los_Cielos"]=El_Señor_de_los_Cielos )
 NAME+=( ["Golden_Moustache_(M6)"]=Golden_Moustache ["HugoDécrypte_-_Grands_formats"]=HugoDécrypte ["Le_Dessous_des_Cartes_-_ARTE"]=Le_Dessous_des_Cartes ["Restons_Curieux_—_TED-Ed"]=Restons_Curieux_TED-Ed ["Tout_Simplement_–_Kurzgesagt"]=Tout_Simplement_Kurzgesagt ["Un_gars_une_fille__Officiel"]=Un_gars_une_fille ["Un_si_grand_soleil_-_France_Télévisions"]=Un_si_grand_soleil )
 NAME+=( ["Bluey_-_Türkçe_Resmi_Kanal"]=Bluey ["Caillou_Türkçe_-_WildBrain"]=Caillou ["MinikaÇOCUK"]=Minika_Çocuk ["Peppa_Pig_Türkçe"]=Peppa_Pig ["Maşa_İle_Koca_Ayı"]=Maşa_ile_Koca_Ayı )
+NAME+=( ["Disney+_Latinoamérica"]=Disney_Plus_Latinoamérica ["En_Pocas_Palabras_–_Kurzgesagt"]=En_Pocas_Palabras_Kurzgesagt ["Sé_Curioso_—_TED-Ed"]=Sé_Curioso_TED-Ed ["Hablando_en_Rata_Podcast"]=Hablando_en_Rata )
+NAME+=( ["Les_Cahiers_d'Esther_-_CANAL+"]="Les_Cahiers_d'Esther" ["lei_van"]=Lei_Van ["Bebefinn_français_-_Chansons_pour_Enfants"]=Bebefinn )
 declare -A LANGUAGE=( [es]=Spanish [fr]=French [tr]=Turkish )
 cd "$APP" || exit 1
 total=0
@@ -18,6 +20,8 @@ for src in "$PF"/*/; do
 	mkdir -p "transcripts/$lang/$dst"; cp -u "$src"/*.json "transcripts/$lang/$dst/" 2>/dev/null
 	# never bring back transcripts that were removed on purpose
 	awk -F"	" -v c="$dst" '$2==c {print $1}' "transcripts/$lang/removed.tsv" 2>/dev/null | while read -r id; do rm -f "transcripts/$lang/$dst/$id.json"; done
+	# COPY_ONLY=1 stops here: the files are in the clone to be cleaned and cut before they are committed
+	[ -n "$COPY_ONLY" ] && continue
 	git add "transcripts/$lang/$dst"
 	n=$(git diff --cached --name-only -- "transcripts/$lang/$dst" | wc -l)
 	[ "$n" -eq 0 ] && continue
