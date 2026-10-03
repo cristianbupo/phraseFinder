@@ -1,6 +1,7 @@
 #!/bin/bash
 # Copies every downloaded Spanish or French channel into the clean app clone and pushes.
 # A channel's language is in its lang.txt (written by channelSearcher.py); without one it is Spanish.
+# A lang.txt that says anything else ("skip") keeps a downloaded channel out of the app.
 PF=$HOME/Documents/GitHub/phraseFinder/transcripts
 APP=$HOME/Documents/GitHub/phrase-finder-app-push
 declare -A NAME=( ["Comedy_Central_Latinoamérica"]=ComedyCentralLA ["Caracol_Televisión"]=CaracolTV ["Telemundo_Series"]=TelemundoSeries ["Canal_RCN"]=CanalRCN ["El_Señor_De_Los_Cielos"]=El_Señor_de_los_Cielos )
