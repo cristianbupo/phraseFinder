@@ -241,6 +241,10 @@ def fetch_and_save_transcripts(channel_url, language="en", max_new=None, part=No
     print(f"🔖 Channel Title: {channel_title}")
     folder_path = os.path.join("transcripts", channel_title)
     os.makedirs(folder_path, exist_ok=True)
+    # Which language this folder was downloaded for: tools/push_to_app.sh files it by that
+    if language != "en":
+        with open(os.path.join(folder_path, "lang.txt"), "w", encoding="utf-8") as f:
+            f.write(language)
 
     try:
         video_ids = load_or_fetch_video_ids(channel_id, folder_path)

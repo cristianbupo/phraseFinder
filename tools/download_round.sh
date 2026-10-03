@@ -1,5 +1,6 @@
 #!/bin/bash
 # Round of parallel downloads. usage: download_round.sh <pause "a,b"> <max per lane> <handle or handle=i/n> ...
+# Spanish unless CS_LANG says otherwise: CS_LANG=fr download_round.sh ...
 # Speed test stage: runs several channels at the same time and reports the pace.
 # usage: stage.sh <pause "a,b"> <max per lane> <handle> [handle...]
 PF=$HOME/Documents/GitHub/phraseFinder
@@ -11,7 +12,7 @@ touch "$TEMP/stage_start"; t0=$(date +%s)
 echo "[$(date +%H:%M:%S)] stage: $# lanes, pause $CS_PAUSE, up to $max each: $*"
 pids=()
 for h in "$@"; do
-	hh=${h%%=*}; pp=""; [ "$h" != "$hh" ] && pp="--part ${h##*=}"; .venv/Scripts/python channelSearcher.py --lang es --max "$max" $pp "https://www.youtube.com/@$hh" > "$TEMP/cs_${h////-}.log" 2>&1 &
+	hh=${h%%=*}; pp=""; [ "$h" != "$hh" ] && pp="--part ${h##*=}"; .venv/Scripts/python channelSearcher.py --lang "${CS_LANG:-es}" --max "$max" $pp "https://www.youtube.com/@$hh" > "$TEMP/cs_${h////-}.log" 2>&1 &
 	pids+=($!)
 done
 # a line every minute, so the pace is visible while it runs
