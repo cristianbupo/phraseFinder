@@ -6,6 +6,7 @@ PF=$HOME/Documents/GitHub/phraseFinder/transcripts
 APP=$HOME/Documents/GitHub/phrase-finder-app-push
 declare -A NAME=( ["Comedy_Central_Latinoamérica"]=ComedyCentralLA ["Caracol_Televisión"]=CaracolTV ["Telemundo_Series"]=TelemundoSeries ["Canal_RCN"]=CanalRCN ["El_Señor_De_Los_Cielos"]=El_Señor_de_los_Cielos )
 NAME+=( ["Golden_Moustache_(M6)"]=Golden_Moustache ["HugoDécrypte_-_Grands_formats"]=HugoDécrypte ["Le_Dessous_des_Cartes_-_ARTE"]=Le_Dessous_des_Cartes ["Restons_Curieux_—_TED-Ed"]=Restons_Curieux_TED-Ed ["Tout_Simplement_–_Kurzgesagt"]=Tout_Simplement_Kurzgesagt ["Un_gars_une_fille__Officiel"]=Un_gars_une_fille ["Un_si_grand_soleil_-_France_Télévisions"]=Un_si_grand_soleil )
+NAME+=( ["Bluey_-_Türkçe_Resmi_Kanal"]=Bluey ["Caillou_Türkçe_-_WildBrain"]=Caillou ["MinikaÇOCUK"]=Minika_Çocuk ["Peppa_Pig_Türkçe"]=Peppa_Pig ["Maşa_İle_Koca_Ayı"]=Maşa_ile_Koca_Ayı )
 declare -A LANGUAGE=( [es]=Spanish [fr]=French )
 cd "$APP" || exit 1
 total=0
